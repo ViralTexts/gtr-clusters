@@ -6,8 +6,9 @@
 <table style="width: 100%;"><tr><td style="width: 50%">SEVENTY THOUSAND letters, filling one hundred and fifty sacks, and weighing nearly eleven hundred pounds, were recently mailed from the city of New York to various foreign lands within the space of two days. This statement will give some idea of the immensity of the postal business in that city. It is also estimated that between one hundred and twenty and one hundred and fifty tones of mail matter are, on the average, handled every day by the eight hundred post-office employees; and that not less than 300,000 letters, and often a much larger number of newspapers, are sorted out by them during twenty-four hours. From two to five hundred unstamped, misdirected, unaddressed or unsealed letters and packages daily accumulate in the New York Post Office.  
 </td></tr></table>
 <hr />
+
 ## [From _Harper's Bazaar (1867-1912)_](https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3?page=6)
-#### <datetime>1871-01-21</datetime> &middot; New York
+#### 1871-01-21 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">ickens the circulation a draught of  
 air upon the person is almost sure to cause a  
 chill and produce a cold. Outside garments  
