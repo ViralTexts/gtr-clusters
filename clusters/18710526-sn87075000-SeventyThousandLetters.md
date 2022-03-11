@@ -10,6 +10,7 @@
 ## [From _Harper's Bazaar (1867-1912)_](https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3?page=6)
 #### 1871-01-21 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
+
 ickens the circulation a draught of  
 air upon the person is almost sure to cause a  
 chill and produce a cold. Outside garments  
@@ -38,7 +39,9 @@ ed, or unsealed letters and packages daily accu-
 <hr />
 ## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5?page=2)
 #### <datetime>1871-02-04</datetime>
-<table style="width: 100%;"><tr><td style="width: 50%">lions of dollars.  
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+lions of dollars.  
   
 Governor Hayes, of Ohio, is entitled to the  
 medal for the shortest message, which is a  
@@ -53,7 +56,9 @@ New York city to various foreign lands within
 the space of two days.  
   
 A Paris correspondent writes: “All the ani</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;"><img src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5$2/pct:59.654472,44.530303,15.853659,7.606061/600,/0/default.jpg" /></td></tr></table></div><hr />
-<div n="3"><h2><a href="https://chroniclingamerica.loc.gov/lccn/sn87075000/1871-05-26/ed-1/seq-1">From <cite>South-eastern Independent.</cite></a></h2><h4><datetime>1871-05-26</datetime> &middot; McConnelsville, Ohio</h4><table style="width: 100%;"><tr><td style="width: 50%">fl, one can form some idea of the enorm­  
+<div n="3"><h2><a href="https://chroniclingamerica.loc.gov/lccn/sn87075000/1871-05-26/ed-1/seq-1">From <cite>South-eastern Independent.</cite></a></h2><h4><datetime>1871-05-26</datetime> &middot; McConnelsville, Ohio</h4><table style="width: 100%;"><tr><td style="width: 50%">
+
+fl, one can form some idea of the enorm­  
 ous quantity of material consumed. Orders  
 for all base-ball implements are just now  
 at their night and the supply is barely up  
@@ -78,7 +83,9 @@ hundred unstamped, misdirected, unad­
 dressed or unsealed letters and packages  
 daily accumulate in the New York Post  
 .Office. . </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;"><img src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075000%2F00237286923%2F1871052601%2F0153.jp2/pct:5.964912,74.659435,10.960735,10.544904/!600,600/0/default.jpg" /></td></tr></table></div><hr />
-<div n="4"><h2><a href="https://chroniclingamerica.loc.gov/lccn/sn84027183/1871-06-01/ed-1/seq-6">From <cite>Iowa voter.</cite></a></h2><h4><datetime>1871-06-01</datetime> &middot; Knoxville, Iowa</h4><table style="width: 100%;"><tr><td style="width: 50%">find another, and on the very day of  
+<div n="4"><h2><a href="https://chroniclingamerica.loc.gov/lccn/sn84027183/1871-06-01/ed-1/seq-6">From <cite>Iowa voter.</cite></a></h2><h4><datetime>1871-06-01</datetime> &middot; Knoxville, Iowa</h4><table style="width: 100%;"><tr><td style="width: 50%">
+
+find another, and on the very day of  
 their arrival, they had stolen that of Mrs.  
 Avery.  
   
@@ -107,6 +114,7 @@ dressed or unsealed letters and packages
 daily accumulate in the New York Post  
 Office.</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;"><img src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1871060101%2F0773.jp2/pct:51.471758,78.394492,14.427776,13.708747/!600,600/0/default.jpg" /></td></tr></table></div><hr />
 <div n="5"><h2><a href="https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1">From <cite>New national era.</cite></a></h2><h4><datetime>1871-06-29</datetime> &middot; Washington, D.C.</h4><table style="width: 100%;"><tr><td style="width: 50%">  
+
 ?feeventy thousand letters, tilling one hundred  
 and fifty sack9, and weighing nearly  
 eleven hundred pounds, were recently mailed  
