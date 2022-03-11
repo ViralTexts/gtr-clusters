@@ -1,7 +1,12 @@
+
 # How to Treat Insect Stings
+
 ### 66 reprints from 1877-02-12 to 1898-04-23 [cl49]
+
 ## [How to Treat Insect Stings](https://chroniclingamerica.loc.gov/lccn/sn82014805/1877-02-12/ed-1/seq-4/)
+
 #### From _The Daily Gazette_
+
 #### 1877-02-12
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -14,7 +19,9 @@ If the sting be severe, rest the coolness (sic) should be added to the other rem
 </td></tr></table>
 
 <hr />
+
 ## [From _The herald and mail._](https://chroniclingamerica.loc.gov/lccn/sn86053406/1874-10-09/ed-1/seq-4)
+
 #### 1874-10-09 &middot; Columbia, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -34,7 +41,9 @@ aweuing
 </tr></table>
 
 <hr />
+
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1877-01-06/ed-1/seq-11)
+
 #### 1877-01-06 &middot; Chicago, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -80,12 +89,17 @@ ble.”
 </tr></table>
 
 <hr />
+
 ## How to Treat Insect-Stings
+
 #### From _Daily evening bulletin._
+
 #### 1877-01-20 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Puget Sound weekly Argus._](https://chroniclingamerica.loc.gov/lccn/sn84022761/1877-02-02/ed-1/seq-3)
+
 #### 1877-02-02 &middot; Port Townsend, W.T. [Wash.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -115,7 +129,9 @@ as soon as possible.
 </tr></table>
 
 <hr />
+
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1877-02-02/ed-1/seq-7)
+
 #### 1877-02-02 &middot; Vancouver, W.T. [Wash.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -177,7 +193,9 @@ as soon as possible.
 </tr></table>
 
 <hr />
+
 ## [From _The daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014805/1877-02-12/ed-1/seq-4)
+
 #### 1877-02-12 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -227,7 +245,9 @@ den
 </tr></table>
 
 <hr />
+
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1877-02-22/ed-1/seq-4)
+
 #### 1877-02-22 &middot; Ellsworth, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -256,7 +276,9 @@ Ismilon (Jarilrn
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1877-03-22/ed-1/seq-4)
+
 #### 1877-03-22 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -290,12 +312,17 @@ of soda
 </tr></table>
 
 <hr />
+
 ## A Chapter on Stings
+
 #### From _Christian Advocate (1866-1905)_
+
 #### 1877-03-29 &middot; Chicago
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1877-04-13/ed-1/seq-3)
+
 #### 1877-04-13 &middot; Jasper, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -330,12 +357,17 @@ Baklna Meats. Baking is a mor
 </tr></table>
 
 <hr />
+
 ## HOW TO TREAT INSECT STINGS.
+
 #### From _Shaker (1876-1877)_
+
 #### 1877-05-01 &middot; Shakers
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5?page=6)
+
 #### 1877-05-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -400,7 +432,9 @@ London Garden.
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1877-06-05/ed-1/seq-4)
+
 #### 1877-06-05 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -455,7 +489,9 @@ as soon as possiblo.?London Garden
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1877-06-21/ed-1/seq-1)
+
 #### 1877-06-21 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -511,7 +547,9 @@ ways be sought as soon as possible
 </tr></table>
 
 <hr />
+
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1877-06-29/ed-1/seq-4)
+
 #### 1877-06-29 &middot; Portland, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -559,7 +597,9 @@ as soon as possible
 </tr></table>
 
 <hr />
+
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1877-06-29/ed-1/seq-4)
+
 #### 1877-06-29 &middot; Brattleboro, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -609,7 +649,9 @@ soon as possible. London Qardcn
 </tr></table>
 
 <hr />
+
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1877-08-11/ed-1/seq-1)
+
 #### 1877-08-11 &middot; Charlestown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -656,7 +698,9 @@ is sooo as possible
 </tr></table>
 
 <hr />
+
 ## [From _Puget Sound weekly Argus._](https://chroniclingamerica.loc.gov/lccn/sn84022761/1878-05-17/ed-1/seq-6)
+
 #### 1878-05-17 &middot; Port Townsend, W.T. [Wash.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -708,7 +752,9 @@ soon as possible.- -—Gorrlen
 </tr></table>
 
 <hr />
+
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1878-06-06/ed-1/seq-6)
+
 #### 1878-06-06 &middot; Vancouver, W.T. [Wash.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -759,7 +805,9 @@ soon as possible. Uanlen
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
+
 #### 1878-06-20 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -783,7 +831,9 @@ The poison of stings being acid, common-sense
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
+
 #### 1878-06-20 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -796,7 +846,9 @@ may be mentioned soft soap, liquor of ammonia
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
+
 #### 1878-06-20 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -832,27 +884,41 @@ as soon as possible.
 </tr></table>
 
 <hr />
+
 ## A Chapter on Stings
+
 #### From _Boston daily advertiser._
+
 #### 1878-11-05 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## A Chapter on Stings
+
 #### From _Daily evening bulletin._
+
 #### 1878-11-09 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## A Chapter on Stings
+
 #### From _The Galveston daily news._
+
 #### 1878-11-15 &middot; Houston [Tex.]
 [This text is not available under an open license.]
 <hr />
+
 ## A Chapter on Stings
+
 #### From _Lowell daily citizen._
+
 #### 1878-11-19 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1878-11-21/ed-1/seq-4)
+
 #### 1878-11-21 &middot; Ridgway, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -903,7 +969,9 @@ always be sought as soon as possible
 </tr></table>
 
 <hr />
+
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1878-12-05/ed-1/seq-1)
+
 #### 1878-12-05 &middot; Centre Hall, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -953,7 +1021,9 @@ always be sought as soon as possible
 </tr></table>
 
 <hr />
+
 ## [From _San Marcos free press._](https://chroniclingamerica.loc.gov/lccn/sn86088181/1878-12-14/ed-1/seq-7)
+
 #### 1878-12-14 &middot; San Marcos, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1005,7 +1075,9 @@ for as soon as poasible. Grophu&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1878-12-26/ed-1/seq-6)
+
 #### 1878-12-26 &middot; Vancouver, W.T. [Wash.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1056,7 +1128,9 @@ soon as possible. Partis*.
 </tr></table>
 
 <hr />
+
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1879-01-02/ed-1/seq-6)
+
 #### 1879-01-02 &middot; Vancouver, W.T. [Wash.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1107,7 +1181,9 @@ j soon as possible. Garden.
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
+
 #### 1879-01-16 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1120,7 +1196,9 @@ mon sharks.- Prairie Farmer. press the tube of a small key firmly on
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
+
 #### 1879-01-16 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1154,7 +1232,9 @@ scalding. The of stagnant slops, nothing favors its activity iess than coid
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
+
 #### 1879-01-16 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1174,7 +1254,9 @@ crude carbolic acid. Mix this into the I K^tly. increase the local irritation.
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
+
 #### 1879-01-16 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1197,7 +1279,9 @@ washing soda, quick-lime made into a
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
+
 #### 1879-01-16 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1232,7 +1316,9 @@ ONE of our readers sends us the fol- exertion whereby the circulation i
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
+
 #### 1879-01-16 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1252,7 +1338,9 @@ sought for as soon as possible.—New,ten
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
+
 #### 1879-01-16 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1278,7 +1366,9 @@ that high and low grades of sugar be ad- *ou^try houses- (spirits of hartshorn),
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
+
 #### 1879-01-16 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1313,7 +1403,9 @@ lowing, clipped from a local paper, and quickened will increase both pain and ch
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
+
 #### 1879-01-16 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1326,7 +1418,9 @@ proper means of cure. Among the most of his feet lately, and as he held them t
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
+
 #### 1879-01-16 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1366,7 +1460,9 @@ whereby the circulation i-
 </tr></table>
 
 <hr />
+
 ## [From _The Red Cloud chief._](https://chroniclingamerica.loc.gov/lccn/sn84022835/1879-01-23/ed-1/seq-2)
+
 #### 1879-01-23 &middot; Red Cloud, Webster Co., Neb.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1418,8 +1514,11 @@ for as soon as possible
 </tr></table>
 
 <hr />
+
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/128497978)
+
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
+
 #### 1879-02-28 &middot; Clare, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1467,8 +1566,11 @@ for as soon as possible. Melbourn
 </td></tr></table>
 
 <hr />
+
 ## [No title](http://trove.nla.gov.au/ndp/del/article/143908330)
+
 #### From _Cootamundra Herald (NSW : 1877 - 1954)_
+
 #### 1879-03-15 &middot; Cootamundra, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1521,8 +1623,11 @@ sought for as soon as possible.  Robber
 </td></tr></table>
 
 <hr />
+
 ## [CLIPPINGS.](http://trove.nla.gov.au/ndp/del/article/78697177)
+
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
+
 #### 1879-03-15 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1572,8 +1677,11 @@ for as&#x27; soon as possible. THE Londo
 </td></tr></table>
 
 <hr />
+
 ## [THE ROCK FLAT MYSTERY.](http://trove.nla.gov.au/ndp/del/article/100878307)
+
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
+
 #### 1879-03-29 &middot; Goulburn, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1619,7 +1727,9 @@ eb rlcubbed withl l s\eet oic, or ctel
 </td></tr></table>
 
 <hr />
+
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1879-05-30/ed-1/seq-1)
+
 #### 1879-05-30 &middot; Oregon, Missouri.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1670,7 +1780,9 @@ ways bo sought for as soon us fJotwible
 </tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1879-10-09/ed-1/seq-4)
+
 #### 1879-10-09 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1721,7 +1833,9 @@ ways be sought for as soon as possible,
 </tr></table>
 
 <hr />
+
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1879-10-17/ed-1/seq-1)
+
 #### 1879-10-17 &middot; Ashtabula, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1774,17 +1888,25 @@ ways be sought for as soon as possible.
 </tr></table>
 
 <hr />
+
 ## Sparks of Science
+
 #### From _St. Louis globe-Democrat._
+
 #### 1880-02-03 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
 <hr />
+
 ## Sparks of Science
+
 #### From _St. Louis globe-Democrat._
+
 #### 1880-02-08 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1880-02-13/ed-1/seq-2)
+
 #### 1880-02-13 &middot; Little Falls, Morrison County, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1837,7 +1959,9 @@ sought as soon as possible.
 </tr></table>
 
 <hr />
+
 ## [From _The Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn00065151/1880-02-14/ed-1/seq-1)
+
 #### 1880-02-14 &middot; Big Stone City, Grant County, Dakota [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1856,7 +1980,9 @@ the activity of the poison will be re
 </tr></table>
 
 <hr />
+
 ## [From _The Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn00065151/1880-02-14/ed-1/seq-1)
+
 #### 1880-02-14 &middot; Big Stone City, Grant County, Dakota [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1917,7 +2043,9 @@ sought as soon as possible.
 </tr></table>
 
 <hr />
+
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1880-02-19/ed-1/seq-3)
+
 #### 1880-02-19 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1940,7 +2068,9 @@ dock leaves and carbon of soda
 </tr></table>
 
 <hr />
+
 ## [From _The Milan exchange._](https://chroniclingamerica.loc.gov/lccn/sn86053488/1880-02-19/ed-1/seq-2)
+
 #### 1880-02-19 &middot; Milan, Gibson County, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1962,7 +2092,9 @@ co juice, bruised dock leaves and carbo
 </tr></table>
 
 <hr />
+
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1880-02-20/ed-1/seq-2)
+
 #### 1880-02-20 &middot; Deer Lodge, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1976,7 +2108,9 @@ of acid poison injected into the system
 </tr></table>
 
 <hr />
+
 ## [From _The Florida agriculturist._](https://chroniclingamerica.loc.gov/lccn/sn96027724/1880-02-25/ed-1/seq-2)
+
 #### 1880-02-25 &middot; DeLand, Fla.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2002,7 +2136,9 @@ dark and gloomy out of doors,” sai
 </tr></table>
 
 <hr />
+
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1880-02-26/ed-1/seq-4)
+
 #### 1880-02-26 &middot; Brownville, Nemaha County, N.T. [Neb.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2027,7 +2163,9 @@ leaves and carbon of soda
 </tr></table>
 
 <hr />
+
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1880-02-28/ed-1/seq-3)
+
 #### 1880-02-28 &middot; Oakland, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2050,7 +2188,9 @@ dock leaves and carbon of soda
 </tr></table>
 
 <hr />
+
 ## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1880-03-30/ed-1/seq-4)
+
 #### 1880-03-30 &middot; Rock Island, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2064,7 +2204,9 @@ acid poison injected into the blood,&quot; says
 </tr></table>
 
 <hr />
+
 ## [From _The Red Cloud chief._](https://chroniclingamerica.loc.gov/lccn/sn84022835/1880-04-01/ed-1/seq-2)
+
 #### 1880-04-01 &middot; Red Cloud, Webster Co., Neb.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2086,7 +2228,9 @@ co juke, bruised dock leaves aad carbo
 </tr></table>
 
 <hr />
+
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1880-07-09/ed-1/seq-4)
+
 #### 1880-07-09 &middot; Perrysburg, Wood Co., O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2109,7 +2253,9 @@ bruised dock leaves and carbon o
 </tr></table>
 
 <hr />
+
 ## [From _Arthur's Home Magazine (1880-1897)_](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1881-09_49_9?page=21)
+
 #### 1881-09-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2169,8 +2315,11 @@ sible.
 </tr></table>
 
 <hr />
+
 ## [THE BEEHIVE. STING REMEDIES.](http://trove.nla.gov.au/ndp/del/article/162321169)
+
 #### From _Adelaide Observer (SA : 1843 - 1904)_
+
 #### 1898-04-23 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 

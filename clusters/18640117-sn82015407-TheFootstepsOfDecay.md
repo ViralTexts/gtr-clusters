@@ -1,7 +1,12 @@
+
 # The Footsteps of Decay
+
 ### 256 reprints from 1864-01-17 to 1899-07-13 [cl18]
+
 ## [The Footsteps of Decay](http://chroniclingamerica.loc.gov/lccn/sn82015407/1864-12-17/ed-1/seq-1/)
+
 #### From _The Idaho World_
+
 #### 1864-01-17
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -73,7 +78,9 @@ When age comes on!
 </td></tr></table>
 
 <hr />
+
 ## [From _Edinburgh Review: Critical Journal 1802-1910_](https://iiif.archivelab.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78?page=151)
+
 #### 1824-01-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -123,7 +130,9 @@ Where are
 </tr></table>
 
 <hr />
+
 ## [From _The Museum of Foreign Literature, Science, and Art (1822-1842)_](https://iiif.archivelab.org/iiif/sim_museum-of-foreign-literature-science-and-art_1824_4_23?page=16)
+
 #### 1824-01-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -197,7 +206,9 @@ Where ar
 </tr></table>
 
 <hr />
+
 ## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
+
 #### 1824-01-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -211,7 +222,9 @@ odes of Luis de Leon. The flow of the verse, and the fine an
 </tr></table>
 
 <hr />
+
 ## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
+
 #### 1824-01-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -306,12 +319,17 @@ And where are they?
 </tr></table>
 
 <hr />
+
 ## Poem 1 -- No Title
+
 #### From _The Museum of Foreign Literature, Science, and Art (1822-1842)_
+
 #### 1824-05-01 &middot; Philadelphia
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41?page=3)
+
 #### 1824-05-21 &middot; Boston [Mass.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -399,7 +417,9 @@ Youth smiled,
 </tr></table>
 
 <hr />
+
 ## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347?page=3)
+
 #### 1824-06-04 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -426,7 +446,9 @@ Comet stealing
 </tr></table>
 
 <hr />
+
 ## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347?page=3)
+
 #### 1824-06-04 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -465,7 +487,9 @@ Death levels
 </tr></table>
 
 <hr />
+
 ## [From _The ladies' garland._](https://iiif.archivelab.org/iiif/sim_ladies-garland_1824-06-12_1_18?page=3)
+
 #### 1824-06-12 &middot; Harpers-Ferry, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -565,12 +589,17 @@ Where are th
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _Bangor register._
+
 #### 1824-06-17 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Constitutional Whig._](https://chroniclingamerica.loc.gov/lccn/sn83045110/1825-01-14/ed-1/seq-4)
+
 #### 1825-01-14 &middot; Richmond, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -593,7 +622,9 @@ Mow ple
 </tr></table>
 
 <hr />
+
 ## [From _Constitutional Whig._](https://chroniclingamerica.loc.gov/lccn/sn83045110/1825-01-14/ed-1/seq-4)
+
 #### 1825-01-14 &middot; Richmond, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -632,7 +663,9 @@ Youthsinil ti and a
 </tr></table>
 
 <hr />
+
 ## [From _Phenix gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025006/1825-02-05/ed-1/seq-4)
+
 #### 1825-02-05 &middot; Alexandria [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -709,7 +742,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _Martinsburgh gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038455/1825-02-24/ed-1/seq-4)
+
 #### 1825-02-24 &middot; Martinsburgh, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -731,7 +766,9 @@ Conies stealing on
 </tr></table>
 
 <hr />
+
 ## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1?page=38)
+
 #### 1825-03-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -753,7 +790,9 @@ Comes stealing on :
 </tr></table>
 
 <hr />
+
 ## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1?page=39)
+
 #### 1825-03-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -814,7 +853,9 @@ And where
 </tr></table>
 
 <hr />
+
 ## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1825-03-26_1_43?page=3)
+
 #### 1825-03-26 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -884,7 +925,9 @@ Youth smiled, and all was
 </tr></table>
 
 <hr />
+
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
+
 #### 1825-04-26 &middot; Utica, N.Y.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -901,7 +944,9 @@ cept the ode of Luis de Lean. 1
 </tr></table>
 
 <hr />
+
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
+
 #### 1825-04-26 &middot; Utica, N.Y.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -933,7 +978,9 @@ Alike the humble riv’lets glide
 </tr></table>
 
 <hr />
+
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
+
 #### 1825-04-26 &middot; Utica, N.Y.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -978,17 +1025,25 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## LITERARY RECREATIONS
+
 #### From _Mutual Rights and Methodist Protestant (1824-1825)_
+
 #### 1825-05-01 &middot; Baltimore
 [This text is not available under an open license.]
 <hr />
+
 ## LITERARY RECREATIONS
+
 #### From _Mutual Rights and Methodist Protestant (1824-1825)_
+
 #### 1825-05-01 &middot; Baltimore
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19?page=0)
+
 #### 1825-05-14 &middot; Boston [Mass.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1076,12 +1131,17 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _New-Hampshire statesman._
+
 #### 1825-05-30 &middot; Concord, N.H.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Cincinnati Literary Gazette (1824-1825)_](https://iiif.archivelab.org/iiif/sim_cincinnati-literary-gazette_1825-06-18_3_25?page=7)
+
 #### 1825-06-18 &middot; Cincinnati
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1184,7 +1244,9 @@ Where ar
 </tr></table>
 
 <hr />
+
 ## [From _The American Athenaeum:  A Repository of Belles Lettres, Science, and the Arts (1825-1825)_](https://iiif.archivelab.org/iiif/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11?page=1)
+
 #### 1825-07-07 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1271,12 +1333,17 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## Poetical
+
 #### From _Missouri republican._
+
 #### 1825-10-31 &middot; St. Louis, Mo.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35?page=3)
+
 #### 1825-11-26 &middot; Philadelphia, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1301,7 +1368,9 @@ Come stealing on:
 </tr></table>
 
 <hr />
+
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35?page=3)
+
 #### 1825-11-26 &middot; Philadelphia, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1370,7 +1439,9 @@ And w here arc they
 </tr></table>
 
 <hr />
+
 ## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199?page=3)
+
 #### 1825-11-29 &middot; Pittsburgh
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1384,7 +1455,9 @@ fs surpassed by nothing which we are acquainted
 </tr></table>
 
 <hr />
+
 ## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199?page=3)
+
 #### 1825-11-29 &middot; Pittsburgh
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1485,7 +1558,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The Columbian star._](https://iiif.archivelab.org/iiif/sim_columbian-star_1825-12-10_4_50?page=3)
+
 #### 1825-12-10 &middot; Washington City
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1580,7 +1655,9 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4?page=3)
+
 #### 1825-12-30 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1623,7 +1700,9 @@ ims of yore were bright
 </tr></table>
 
 <hr />
+
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4?page=3)
+
 #### 1825-12-30 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1657,8 +1736,11 @@ When age comes o
 </tr></table>
 
 <hr />
+
 ## [Select Poetry. TRANSLATED FROM THE SPANISH OF JORGE MANRIQUE.](http://trove.nla.gov.au/ndp/del/article/31757487)
+
 #### From _The Monitor (Sydney, NSW : 1826 - 1828)_
+
 #### 1826-05-26 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1695,7 +1777,9 @@ death must break, &amp;nbsp; &amp;nbsp; &amp;nbsp
 </td></tr></table>
 
 <hr />
+
 ## [From _Washington Theological Repertory (1819-1828)_](https://iiif.archivelab.org/iiif/sim_theological-repertory-and-churchmans-guide_1826-09_8_2?page=17)
+
 #### 1826-09-01 &middot; Washington
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1777,7 +1861,9 @@ Where are
 </tr></table>
 
 <hr />
+
 ## [From _Christian telescope and Universalist miscellany._](https://iiif.archivelab.org/iiif/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9?page=6)
+
 #### 1826-10-07 &middot; Providence, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1881,22 +1967,33 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## The following is a translation from an ancient Spanish Poem which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish Language, except the Odes of Lewis de Leon
+
 #### From _Daily national intelligencer._
+
 #### 1826-11-01 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## The following is a translation from an ancient Spanish Poem which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish Language, except the Odes of Lewis de Leon
+
 #### From _Daily national intelligencer._
+
 #### 1826-11-01 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## Poetry
+
 #### From _Vermont chronicle._
+
 #### 1826-11-03 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Wilmingtonian, and Delaware advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85042523/1826-11-09/ed-1/seq-1)
+
 #### 1826-11-09 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1935,7 +2032,9 @@ m
 </tr></table>
 
 <hr />
+
 ## [From _The Wilmingtonian, and Delaware advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85042523/1826-11-09/ed-1/seq-1)
+
 #### 1826-11-09 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1963,7 +2062,9 @@ When age cornea on
 </tr></table>
 
 <hr />
+
 ## [From _The Litchfield County post._](https://chroniclingamerica.loc.gov/lccn/sn82014309/1826-11-14/ed-1/seq-1)
+
 #### 1826-11-14 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2033,7 +2134,9 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _Casket (1826-1830)_](https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12?page=30)
+
 #### 1826-12-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2116,7 +2219,9 @@ Death
 </tr></table>
 
 <hr />
+
 ## [From _Casket (1826-1830)_](https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12?page=31)
+
 #### 1826-12-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2149,7 +2254,9 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _Phenix gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025006/1826-12-12/ed-1/seq-2)
+
 #### 1826-12-12 &middot; Alexandria [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2222,22 +2329,33 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## The following is a translation from an ancient Spanish Poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish Language, except the Odes of Lew's de Leon
+
 #### From _Natchez gazette._
+
 #### 1827-01-20 &middot; Natchez, Miss.
 [This text is not available under an open license.]
 <hr />
+
 ## Composed by Brother John H. Sheppard, Master of Lincoln Lodge
+
 #### From _Natchez gazette._
+
 #### 1827-02-10 &middot; Natchez, Miss.
 [This text is not available under an open license.]
 <hr />
+
 ## POETRY.
+
 #### From _United States Catholic Miscellany (1822-1835)_
+
 #### 1827-03-10 &middot; Charleston
 [This text is not available under an open license.]
 <hr />
+
 ## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1827-06-16_4_3?page=2)
+
 #### 1827-06-16 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2333,7 +2451,9 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _Gospel Advocate and Impartial Investigator (1823-1829)_](https://iiif.archivelab.org/iiif/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30?page=7)
+
 #### 1827-07-28 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2416,7 +2536,9 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _North American. Or, Weekly Journal of Politics, Science and Literature (1827-1827)_](https://iiif.archivelab.org/iiif/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11?page=4)
+
 #### 1827-07-28 &middot; Baltimore
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2512,7 +2634,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37?page=7)
+
 #### 1828-03-22 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2580,17 +2704,25 @@ When age comes on. Flowarp.
 </tr></table>
 
 <hr />
+
 ## Selected
+
 #### From _Louisville public advertiser._
+
 #### 1830-03-17 &middot; Louisville, Ky.
 [This text is not available under an open license.]
 <hr />
+
 ## The following is a translation from an ancient Spanish Poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish language, except the Odes of Lewis de Leon
+
 #### From _Daily national intelligencer._
+
 #### 1830-10-13 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1830-10-19/ed-1/seq-4)
+
 #### 1830-10-19 &middot; Richmond, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2623,7 +2755,9 @@ Our live* li
 </tr></table>
 
 <hr />
+
 ## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1830-10-19/ed-1/seq-4)
+
 #### 1830-10-19 &middot; Richmond, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2661,7 +2795,9 @@ Whsu ago cornea on.
 </tr></table>
 
 <hr />
+
 ## [From _Martinsburg gazette and public advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85059526/1830-10-21/ed-1/seq-1)
+
 #### 1830-10-21 &middot; Martinsburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2722,7 +2858,9 @@ And
 </tr></table>
 
 <hr />
+
 ## [From _The Philadelphia Album and Ladies' Literary Portfolio (1830-1834)_](https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1830-10-23_4_43?page=0)
+
 #### 1830-10-23 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2809,22 +2947,33 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## The following is a translation from an ancient Spanish Poem which, says the Edinburgh Review, is surpossed by nothing with which we are acquainted in the Spanish language, except the Odes of Lewis de Loon
+
 #### From _Providence patriot, Columbian phenix._
+
 #### 1830-11-10 &middot; Providence, R.I.
 [This text is not available under an open license.]
 <hr />
+
 ## From the Spanish
+
 #### From _Daily Louisville public advertiser._
+
 #### 1830-11-19 &middot; Louisville, Ky.
 [This text is not available under an open license.]
 <hr />
+
 ## Poem 1 -- No Title
+
 #### From _Christian Advocate and Journal and Zion's Herald (1828-1833)_
+
 #### 1830-12-03 &middot; Chicago
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1830-12-04_15_27?page=15)
+
 #### 1830-12-04 &middot; New Haven
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2912,22 +3061,33 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## The following is a Translation from an ancient Spanish Poem
+
 #### From _Southern times & state gazette._
+
 #### 1830-12-11 &middot; Columbia, S.C.
 [This text is not available under an open license.]
 <hr />
+
 ## POETRY.
+
 #### From _Trumpet and Universalist Magazine (1828-1851)_
+
 #### 1830-12-18 &middot; Boston
 [This text is not available under an open license.]
 <hr />
+
 ## POETRY.
+
 #### From _Trumpet and Universalist Magazine (1828-1851)_
+
 #### 1830-12-18 &middot; Boston
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38?page=3)
+
 #### 1830-12-18 &middot; Philadelphia, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3038,7 +3198,9 @@ Wlien age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _The western luminary._](https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26?page=3)
+
 #### 1830-12-29 &middot; Lexington, Ky.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3120,12 +3282,17 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _Observer and telegraph._
+
 #### 1830-12-30 &middot; Hudson, Portage County, Ohio
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Episcopal watchman._](https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34?page=2)
+
 #### 1831-01-01 &middot; Hartford
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3165,7 +3332,9 @@ Oiir lives like hasting streams must be
 </tr></table>
 
 <hr />
+
 ## [From _Episcopal watchman._](https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34?page=2)
+
 #### 1831-01-01 &middot; Hartford
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3226,7 +3395,9 @@ I When age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51?page=3)
+
 #### 1831-01-08 &middot; Hartford [Conn.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3239,7 +3410,9 @@ which, says the Euinburgh Review, is surpassed by nothing | talent to be able cl
 </tr></table>
 
 <hr />
+
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51?page=3)
+
 #### 1831-01-08 &middot; Hartford [Conn.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3315,22 +3488,33 @@ And joy grows wearisome and wo
 </tr></table>
 
 <hr />
+
 ## The Olio
+
 #### From _The Arkansas gazette._
+
 #### 1831-06-01 &middot; Arkansas Post, Ark. Ter.
 [This text is not available under an open license.]
 <hr />
+
 ## The following is a translation from an ancient Spanish poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquanited in the Spanish language, excent the odes of Louis de Leon
+
 #### From _United States' telegraph._
+
 #### 1831-06-28 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## The following is a translation from an ancient Spanish poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish language, except the Odes, of Louis de Leon
+
 #### From _The globe._
+
 #### 1831-07-27 &middot; City of Washington [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1831-08-04/ed-1/seq-4)
+
 #### 1831-08-04 &middot; Newport, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3417,7 +3601,9 @@ When age come on.
 </tr></table>
 
 <hr />
+
 ## [From _Christian Intelligencer 1821-1836_](https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36?page=3)
+
 #### 1831-09-09
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3474,17 +3660,25 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## TRANSLATION FROM THE SPANISH.
+
 #### From _The Catholic Telegraph (1831-1846)_
+
 #### 1832-03-24 &middot; Cincinnati
 [This text is not available under an open license.]
 <hr />
+
 ## TRANSLATION FROM THE SPANISH.
+
 #### From _The Catholic Telegraph (1831-1846)_
+
 #### 1832-03-24 &middot; Cincinnati
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14?page=3)
+
 #### 1832-04-07 &middot; Boston [Mass.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3552,7 +3746,9 @@ Long ere the lamp of death can blight,
 </tr></table>
 
 <hr />
+
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14?page=3)
+
 #### 1832-04-07 &middot; Boston [Mass.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3578,27 +3774,41 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## Poem 1 -- No Title
+
 #### From _United States Catholic Miscellany (1822-1835)_
+
 #### 1832-06-09 &middot; Charleston
 [This text is not available under an open license.]
 <hr />
+
 ## POETRY.
+
 #### From _Trumpet and Universalist Magazine (1828-1851)_
+
 #### 1833-06-01 &middot; Boston
 [This text is not available under an open license.]
 <hr />
+
 ## POETRY.
+
 #### From _Trumpet and Universalist Magazine (1828-1851)_
+
 #### 1833-06-01 &middot; Boston
 [This text is not available under an open license.]
 <hr />
+
 ## POETRY.
+
 #### From _Trumpet and Universalist Magazine (1828-1851)_
+
 #### 1833-06-01 &middot; Boston
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19?page=7)
+
 #### 1835-11-18 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3681,7 +3891,9 @@ When age comes on,
 </tr></table>
 
 <hr />
+
 ## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1836-02-06_5_210?page=7)
+
 #### 1836-02-06
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3723,12 +3935,17 @@ Death level
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _New-Hampshire statesman and state journal._
+
 #### 1836-02-13 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42?page=7)
+
 #### 1837-07-22 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3802,7 +4019,9 @@ Wher
 </tr></table>
 
 <hr />
+
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42?page=7)
+
 #### 1837-07-22 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3822,12 +4041,17 @@ ness and dignity, and the conclusions arrived
 </tr></table>
 
 <hr />
+
 ## LIFE.
+
 #### From _Southern Rose (1835-1839)_
+
 #### 1839-02-16 &middot; Charleston
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34?page=3)
+
 #### 1839-08-24 &middot; Boston [Mass.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3913,7 +4137,9 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _American Masonic Register and Literary Companion (1839-1847)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47?page=7)
+
 #### 1840-07-25 &middot; Albany
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3999,13 +4225,19 @@ hen age comes on.
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _Boston investigator._
+
 #### 1840-10-28 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [Select Poetry](http://trove.nla.gov.au/ndp/del/article/31729713)
+
 #### From _Australasian Chronicle (Sydney, NSW : 1839 - 1843)_
+
 #### 1840-11-03 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4033,8 +4265,11 @@ pres.ent shall delightLike them decay.
 </td></tr></table>
 
 <hr />
+
 ## [Select Poetry](http://trove.nla.gov.au/ndp/del/article/31729713)
+
 #### From _Australasian Chronicle (Sydney, NSW : 1839 - 1843)_
+
 #### 1840-11-03 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4064,42 +4299,65 @@ joy grows wearisome and wo When ag
 </td></tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _Raleigh register, and North-Carolina gazette._
+
 #### 1841-04-09 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## Poetry
+
 #### From _Ohio observer._
+
 #### 1841-04-15 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## The Course of Time
+
 #### From _The weekly herald._
+
 #### 1842-01-01 &middot; New York [N.Y.]
 [This text is not available under an open license.]
 <hr />
+
 ## The Course of Time
+
 #### From _The weekly herald._
+
 #### 1842-03-05 &middot; New York [N.Y.]
 [This text is not available under an open license.]
 <hr />
+
 ## Poetry
+
 #### From _The Ohio observer._
+
 #### 1842-06-02 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## Poetry
+
 #### From _New-Hampshire statesman and state journal._
+
 #### 1842-08-12 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## Moral Stanzas
+
 #### From _The North American and daily advertiser._
+
 #### 1843-06-09 &middot; Philadelphia [Pa.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Cincinnati weekly herald and philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39?page=1)
+
 #### 1844-06-12 &middot; Cincinnati [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4164,7 +4422,9 @@ We disappear.
 </tr></table>
 
 <hr />
+
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1844-08-15/ed-1/seq-4)
+
 #### 1844-08-15 &middot; Newport, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4196,7 +4456,9 @@ Let no vain hope deceive the mind-
 </tr></table>
 
 <hr />
+
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1844-08-15/ed-1/seq-4)
+
 #### 1844-08-15 &middot; Newport, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4226,7 +4488,9 @@ Wihen age chines on,
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1847-08-18/ed-1/seq-1)
+
 #### 1847-08-18 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4265,12 +4529,17 @@ There all
 </tr></table>
 
 <hr />
+
 ## The Course of Time
+
 #### From _Pensacola gazette._
+
 #### 1847-08-21 &middot; [Pensacola, Fla.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _School Friend and Ohio School Journal 1846-1851_](https://iiif.archivelab.org/iiif/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1?page=11)
+
 #### 1847-10-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4361,7 +4630,9 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _The American Quarterly Register and Magazine (1848-1849)_](https://iiif.archivelab.org/iiif/sim_strykers-american-register-and-magazine_1849-06_2_2?page=173)
+
 #### 1849-06-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4388,7 +4659,9 @@ Teath levels
 </tr></table>
 
 <hr />
+
 ## [From _Lower Sandusky freeman._](https://chroniclingamerica.loc.gov/lccn/sn90068957/1849-09-01/ed-1/seq-1)
+
 #### 1849-09-01 &middot; Lower Sandusky [i.e. Fremont, Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4443,12 +4716,17 @@ When age comes ou
 </tr></table>
 
 <hr />
+
 ## Poetry.
+
 #### From _German reformed messenger._
+
 #### 1852-11-03 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1856-06-04/ed-1/seq-1)
+
 #### 1856-06-04 &middot; Smyrna, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4489,7 +4767,9 @@ grave
 </tr></table>
 
 <hr />
+
 ## [From _The Winchester weekly appeal._](https://chroniclingamerica.loc.gov/lccn/sn97065090/1856-07-05/ed-1/seq-1)
+
 #### 1856-07-05 &middot; Winchester, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4541,7 +4821,9 @@ That path alone
 </tr></table>
 
 <hr />
+
 ## [From _The Winchester weekly appeal._](https://chroniclingamerica.loc.gov/lccn/sn97065090/1856-07-26/ed-1/seq-4)
+
 #### 1856-07-26 &middot; Winchester, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4586,8 +4868,11 @@ Thero all o
 </tr></table>
 
 <hr />
+
 ## [SELECT POETRY. REVERIES AND OUTPOURINGS.](http://trove.nla.gov.au/ndp/del/article/78850782)
+
 #### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
+
 #### 1857-01-13 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4606,8 +4891,11 @@ must bo. That into one engulphiug se
 </td></tr></table>
 
 <hr />
+
 ## [SELECT POETRY. REVERIES AND OUTPOURINGS.](http://trove.nla.gov.au/ndp/del/article/78850782)
+
 #### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
+
 #### 1857-01-13 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4636,7 +4924,9 @@ And joy
 </td></tr></table>
 
 <hr />
+
 ## [From _Leisure Hour, an Illustrated Magazine for Home Reading 1852-1905_](https://iiif.archivelab.org/iiif/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1857-12-10_6_311?page=14)
+
 #### 1857-12-10
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4654,7 +4944,9 @@ And swallow all.
 </tr></table>
 
 <hr />
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1860-03-31/ed-1/seq-1)
+
 #### 1860-03-31 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4710,12 +5002,17 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## The Courts and Gen. E. D. Baker
+
 #### From _Daily evening bulletin._
+
 #### 1861-10-26 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1863-10-21/ed-1/seq-2)
+
 #### 1863-10-21 &middot; Urbana, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4738,7 +5035,9 @@ And swallow all. &#x27; :
 </tr></table>
 
 <hr />
+
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1863-10-21/ed-1/seq-2)
+
 #### 1863-10-21 &middot; Urbana, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4765,7 +5064,9 @@ Wher
 </tr></table>
 
 <hr />
+
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16?page=3)
+
 #### 1863-12-19 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4856,17 +5157,25 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## The Poet's Corner
+
 #### From _New Hampshire statesman._
+
 #### 1864-01-15 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Daily evening bulletin._
+
 #### 1864-05-12 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1864-05-13/ed-1/seq-1)
+
 #### 1864-05-13 &middot; St. Albans, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4917,7 +5226,9 @@ DrcaniB of a sleep that death must b
 </tr></table>
 
 <hr />
+
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1864-11-14/ed-1/seq-1)
+
 #### 1864-11-14 &middot; Gold Hill, N.T. [Nev.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4987,7 +5298,9 @@ When nge comes on t
 </tr></table>
 
 <hr />
+
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1864-11-30/ed-1/seq-1)
+
 #### 1864-11-30 &middot; Lewistown, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5057,7 +5370,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1864-12-01/ed-1/seq-1)
+
 #### 1864-12-01 &middot; Cumberland, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5119,7 +5434,9 @@ lsc
 </tr></table>
 
 <hr />
+
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1864-12-03/ed-1/seq-1)
+
 #### 1864-12-03 &middot; Sioux City, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5165,7 +5482,9 @@ a
 </tr></table>
 
 <hr />
+
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1864-12-10/ed-1/seq-4)
+
 #### 1864-12-10 &middot; Ashtabula, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5236,7 +5555,9 @@ VV&#x27; hen age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1864-12-15/ed-1/seq-1)
+
 #### 1864-12-15 &middot; Towanda, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5306,7 +5627,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1864-12-17/ed-1/seq-1)
+
 #### 1864-12-17 &middot; Auburn, Placer County, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5376,7 +5699,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1864-12-17/ed-1/seq-1)
+
 #### 1864-12-17 &middot; Idaho City, Idaho Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5445,7 +5770,9 @@ When age comes on !
 </tr></table>
 
 <hr />
+
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1865-01-07/ed-1/seq-1)
+
 #### 1865-01-07 &middot; Sunbury, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5512,12 +5839,17 @@ The heart
 </tr></table>
 
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Milwaukee daily sentinel._
+
 #### 1865-01-31 &middot; [Milwaukee, Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014487/1865-02-04/ed-1/seq-4)
+
 #### 1865-02-04 &middot; Placerville, El Dorado County, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5578,7 +5910,9 @@ When age comes on !
 </tr></table>
 
 <hr />
+
 ## [From _The Potter journal._](https://chroniclingamerica.loc.gov/lccn/sn86081096/1865-02-22/ed-1/seq-1)
+
 #### 1865-02-22 &middot; Coudersport, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5643,7 +5977,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1865-03-08/ed-1/seq-1)
+
 #### 1865-03-08 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5714,7 +6050,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1865-04-04/ed-1/seq-1)
+
 #### 1865-04-04 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5751,7 +6089,9 @@ Ou
 </tr></table>
 
 <hr />
+
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1865-07-29/ed-1/seq-1)
+
 #### 1865-07-29 &middot; Jasper, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5820,7 +6160,9 @@ Where
 </tr></table>
 
 <hr />
+
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-09-30/ed-1/seq-4)
+
 #### 1865-09-30 &middot; Portland, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5862,7 +6204,9 @@ Alike tho ham ole ri
 </tr></table>
 
 <hr />
+
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-09-30/ed-1/seq-4)
+
 #### 1865-09-30 &middot; Portland, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5882,12 +6226,17 @@ The cheek’s pure glow of rod and wnit
 </tr></table>
 
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Bangor daily Whig & courier._
+
 #### 1865-10-12 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1866-01-26/ed-1/seq-1)
+
 #### 1866-01-26 &middot; Bel Air, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5957,17 +6306,25 @@ And joy grows wearisome and wo !
 </tr></table>
 
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Daily national intelligencer._
+
 #### 1866-04-14 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Daily national intelligencer._
+
 #### 1866-04-14 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1866-04-18/ed-1/seq-1)
+
 #### 1866-04-18 &middot; East Saginaw, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6002,7 +6359,9 @@ Our Uvea like
 </tr></table>
 
 <hr />
+
 ## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1866-04-18/ed-1/seq-1)
+
 #### 1866-04-18 &middot; East Saginaw, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6040,7 +6399,9 @@ When age oouiaa a
 </tr></table>
 
 <hr />
+
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-05-01_18_9?page=10)
+
 #### 1866-05-01 &middot; St. Louis, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6125,7 +6486,9 @@ When age comes on!
 </tr></table>
 
 <hr />
+
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1866-05-19/ed-1/seq-4)
+
 #### 1866-05-19 &middot; Sioux City, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6229,12 +6592,17 @@ When age comes on 1
 </tr></table>
 
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _The daily miners' register._
+
 #### 1866-06-13 &middot; Central City, Colo.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Delaware gazette._](https://chroniclingamerica.loc.gov/lccn/sn83035595/1866-06-15/ed-1/seq-1)
+
 #### 1866-06-15 &middot; Delaware, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6301,12 +6669,17 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _The Congregationalist._
+
 #### 1866-06-22 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Weekly Calaveras chronicle._](https://chroniclingamerica.loc.gov/lccn/sn93052977/1866-06-23/ed-1/seq-4)
+
 #### 1866-06-23 &middot; Mokelumne Hill, Calaveras County, Cal.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6374,7 +6747,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1866-07-29/ed-1/seq-4)
+
 #### 1866-07-29 &middot; Columbia, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6445,7 +6820,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1866-09-18/ed-1/seq-1)
+
 #### 1866-09-18 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6515,7 +6892,9 @@ When age comes 011
 </tr></table>
 
 <hr />
+
 ## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1866-12-26_37_52?page=3)
+
 #### 1866-12-26 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6598,12 +6977,17 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Bangor daily Whig & courier._
+
 #### 1866-12-29 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1867-01-24/ed-1/seq-1)
+
 #### 1867-01-24 &middot; M'arthur, Vinton County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6651,22 +7035,33 @@ r ; &#x27; is found of all. , . . .....
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _The Hawaiian gazette._
+
 #### 1867-03-20 &middot; Honolulu [Oahu, Hawaii]
 [This text is not available under an open license.]
 <hr />
+
 ## THE FOOTSTEPS OF DECAY
+
 #### From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_
+
 #### 1867-05-01 &middot; Cincinnati
 [This text is not available under an open license.]
 <hr />
+
 ## THE FOOTSTEPS OF DECAY
+
 #### From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_
+
 #### 1867-05-01 &middot; Cincinnati
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Union and journal._](https://chroniclingamerica.loc.gov/lccn/sn83009571/1867-09-20/ed-1/seq-1)
+
 #### 1867-09-20 &middot; Biddeford, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6705,7 +7100,9 @@ When age comes on !
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1867-09-25/ed-1/seq-1)
+
 #### 1867-09-25 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6785,7 +7182,9 @@ And joys grow wearisome aad wool
 </tr></table>
 
 <hr />
+
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1867-10-05/ed-1/seq-1)
+
 #### 1867-10-05 &middot; Ashtabula, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6861,7 +7260,9 @@ When age comes on. . .
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1868-11-03/ed-1/seq-1)
+
 #### 1868-11-03 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6931,7 +7332,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1868-11-05/ed-1/seq-1)
+
 #### 1868-11-05 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7004,7 +7407,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1868-11-08/ed-1/seq-3)
+
 #### 1868-11-08 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7069,17 +7474,25 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Daily national intelligencer._
+
 #### 1868-11-10 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _The Charleston courier, tri-weekly._
+
 #### 1868-11-12 &middot; Charleston, S.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-11-21/ed-1/seq-1)
+
 #### 1868-11-21 &middot; Shepherdstown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7150,7 +7563,9 @@ W hi n age comes on !
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1868-11-25/ed-1/seq-1)
+
 #### 1868-11-25 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7220,12 +7635,17 @@ When age comes on !
 </tr></table>
 
 <hr />
+
 ## LITERATURE.
+
 #### From _Prairie Farmer (1843-1877)_
+
 #### 1868-11-28 &middot; Chicago
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042148/1868-12-02/ed-1/seq-2)
+
 #### 1868-12-02 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7250,7 +7670,9 @@ M .Our golJen dreams ol yore were bright,
 </tr></table>
 
 <hr />
+
 ## [From _The weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042148/1868-12-02/ed-1/seq-2)
+
 #### 1868-12-02 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7283,7 +7705,9 @@ grows wearisome, and woe! &#x27;&quot;&#x27;.
 </tr></table>
 
 <hr />
+
 ## [From _The Sweetwater forerunner._](https://chroniclingamerica.loc.gov/lccn/sn97065409/1868-12-17/ed-1/seq-4)
+
 #### 1868-12-17 &middot; Sweetwater, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7313,7 +7737,9 @@ No
 </tr></table>
 
 <hr />
+
 ## [From _The Sweetwater forerunner._](https://chroniclingamerica.loc.gov/lccn/sn97065409/1868-12-17/ed-1/seq-4)
+
 #### 1868-12-17 &middot; Sweetwater, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7349,7 +7775,9 @@ Whea age conies on
 </tr></table>
 
 <hr />
+
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1868-12-26/ed-1/seq-4)
+
 #### 1868-12-26 &middot; Middletown, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7422,7 +7850,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1869-01-28/ed-1/seq-1)
+
 #### 1869-01-28 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7452,7 +7882,9 @@ Oar
 </tr></table>
 
 <hr />
+
 ## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1869-02-05/ed-1/seq-1)
+
 #### 1869-02-05 &middot; Walla Walla, Wash. Terr.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7510,12 +7942,17 @@ Long&#x27;ere the dump of denth con bli
 </tr></table>
 
 <hr />
+
 ## The Fottsteps of Decay
+
 #### From _Daily evening bulletin._
+
 #### 1869-02-20 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1869-02-27/ed-1/seq-1)
+
 #### 1869-02-27 &middot; Bellevue, Bossier Parish, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7581,7 +8018,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-04-03_22_14?page=9)
+
 #### 1869-04-03 &middot; St. Louis, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7662,7 +8101,9 @@ When age comes on !
 </tr></table>
 
 <hr />
+
 ## [From _Proof Sheet 1867-1880_](https://iiif.archivelab.org/iiif/sim_proof-sheet_1869-09_3_14?page=4)
+
 #### 1869-09-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7743,7 +8184,9 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1869-10-15/ed-1/seq-1)
+
 #### 1869-10-15 &middot; Abbeville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7770,7 +8213,9 @@ To morrow than t?? day.
 </tr></table>
 
 <hr />
+
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1869-10-30/ed-1/seq-1)
+
 #### 1869-10-30 &middot; Ridgway, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7838,7 +8283,9 @@ When age come on
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1869-11-24/ed-1/seq-1)
+
 #### 1869-11-24 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7909,7 +8356,9 @@ Vi hen age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1869-12-09/ed-1/seq-1)
+
 #### 1869-12-09 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7938,7 +8387,9 @@ Like them decay.
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1869-12-09/ed-1/seq-1)
+
 #### 1869-12-09 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7966,7 +8417,9 @@ I The strength is gone, the step is slow
 </tr></table>
 
 <hr />
+
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1870-01-28/ed-1/seq-1)
+
 #### 1870-01-28 &middot; Deer Lodge, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8033,7 +8486,9 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-02-05/ed-1/seq-1)
+
 #### 1870-02-05 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8092,7 +8547,9 @@ Our l
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-02-05/ed-1/seq-1)
+
 #### 1870-02-05 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8131,7 +8588,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1870-06-05/ed-1/seq-4)
+
 #### 1870-06-05 &middot; Columbia, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8163,7 +8622,9 @@ Our lives liko
 </tr></table>
 
 <hr />
+
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1870-06-05/ed-1/seq-4)
+
 #### 1870-06-05 &middot; Columbia, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8202,7 +8663,9 @@ When ago comes on
 </tr></table>
 
 <hr />
+
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1870-06-15/ed-1/seq-1)
+
 #### 1870-06-15 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8241,7 +8704,9 @@ Yt lien age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The Greenville enterprise._](https://chroniclingamerica.loc.gov/lccn/sn83025799/1870-09-21/ed-1/seq-1)
+
 #### 1870-09-21 &middot; Greenville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8310,7 +8775,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1870-11-24/ed-1/seq-1)
+
 #### 1870-11-24 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8340,7 +8807,9 @@ No happier li t u hope
 </tr></table>
 
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1870-11-24/ed-1/seq-1)
+
 #### 1870-11-24 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8368,7 +8837,9 @@ Ixnig ere the (lumps of dentil can bl
 </tr></table>
 
 <hr />
+
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1870-12-31/ed-1/seq-1)
+
 #### 1870-12-31 &middot; Charlestown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8439,7 +8910,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-01-07/ed-1/seq-1)
+
 #### 1871-01-07 &middot; Charlestown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8509,7 +8982,9 @@ When ace comas on !
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-01-31/ed-1/seq-1)
+
 #### 1871-01-31 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8544,7 +9019,9 @@ Our livee like
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-01-31/ed-1/seq-1)
+
 #### 1871-01-31 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8583,7 +9060,9 @@ When age routes on
 </tr></table>
 
 <hr />
+
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1871-11-04/ed-1/seq-2)
+
 #### 1871-11-04 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8628,8 +9107,11 @@ When age routes on
 </tr></table>
 
 <hr />
+
 ## [THE COURSE OF LIFE.](http://trove.nla.gov.au/ndp/del/article/89700870)
+
 #### From _The Bacchus Marsh Express (Vic. : 1866 - 1918)_
+
 #### 1871-11-11 &middot; Bacchus Marsh, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8655,7 +9137,9 @@ that sad wave ; Death levels pove
 </td></tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-11-21/ed-1/seq-1)
+
 #### 1871-11-21 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8722,7 +9206,9 @@ When?lyiu ?&quot;&quot;.roes on
 </tr></table>
 
 <hr />
+
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1871-11-30/ed-1/seq-1)
+
 #### 1871-11-30 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8788,7 +9274,9 @@ When age comes on!
 </tr></table>
 
 <hr />
+
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-12-09/ed-1/seq-1)
+
 #### 1871-12-09 &middot; Charlestown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8856,7 +9344,9 @@ When age comes on 1
 </tr></table>
 
 <hr />
+
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1872-03-14/ed-1/seq-1)
+
 #### 1872-03-14 &middot; White Cloud, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8925,7 +9415,9 @@ And jor grows wearisome and wo,
 </tr></table>
 
 <hr />
+
 ## [From _Delaware Republican._](https://chroniclingamerica.loc.gov/lccn/sn87062253/1873-02-24/ed-1/seq-1)
+
 #### 1873-02-24 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8970,7 +9462,9 @@ glitt
 </tr></table>
 
 <hr />
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1874-02-10/ed-1/seq-1)
+
 #### 1874-02-10 &middot; Woodsfield, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8988,7 +9482,9 @@ Come stealing on.
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1874-08-27/ed-1/seq-4)
+
 #### 1874-08-27 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9063,12 +9559,17 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## LITERARY MISCELLANEA.
+
 #### From _Reynolds's  Newspaper_
+
 #### 1874-11-08 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1874-11-12/ed-1/seq-2)
+
 #### 1874-11-12 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9139,7 +9640,9 @@ When age comes on I
 </tr></table>
 
 <hr />
+
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1874-11-13/ed-1/seq-6)
+
 #### 1874-11-13 &middot; Paw Paw, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9191,7 +9694,9 @@ Oreaiua of a sleep that death niu
 </tr></table>
 
 <hr />
+
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1874-11-19/ed-1/seq-2)
+
 #### 1874-11-19 &middot; Plymouth, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9261,7 +9766,9 @@ When age comes on !
 </tr></table>
 
 <hr />
+
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1874-12-04/ed-1/seq-6)
+
 #### 1874-12-04 &middot; Albany, Or.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9331,12 +9838,17 @@ When age somes on I
 </tr></table>
 
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Inter ocean._
+
 #### 1874-12-20 &middot; Chicago, Ill.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1875-01-30/ed-1/seq-4)
+
 #### 1875-01-30 &middot; Clarksville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9407,7 +9919,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1875-02-10/ed-1/seq-1)
+
 #### 1875-02-10 &middot; Somerset, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9464,7 +9978,9 @@ Youth smiled a
 </tr></table>
 
 <hr />
+
 ## [From _Martinsburg weekly independent._](https://chroniclingamerica.loc.gov/lccn/sn84026810/1875-03-13/ed-1/seq-1)
+
 #### 1875-03-13 &middot; Martinsburg, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9541,7 +10057,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-05-05/ed-1/seq-1)
+
 #### 1875-05-05 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9611,7 +10129,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1875-05-06/ed-1/seq-4)
+
 #### 1875-05-06 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9648,7 +10168,9 @@ And joy grows wearisome and woe,
 </tr></table>
 
 <hr />
+
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1875-05-13/ed-1/seq-6)
+
 #### 1875-05-13 &middot; Indianapolis
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9716,7 +10238,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1875-05-23/ed-1/seq-3)
+
 #### 1875-05-23 &middot; New Orleans [La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9782,7 +10306,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1875-08-27/ed-1/seq-1)
+
 #### 1875-08-27 &middot; Savannah, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9833,7 +10359,9 @@ Where is the strength that spumed decay
 </tr></table>
 
 <hr />
+
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1875-09-23/ed-1/seq-1)
+
 #### 1875-09-23 &middot; Helena, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9904,7 +10432,9 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1876-03-23/ed-1/seq-4)
+
 #### 1876-03-23 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9964,22 +10494,33 @@ We disappear
 </tr></table>
 
 <hr />
+
 ## A Psalm of Life
+
 #### From _Christian secretary._
+
 #### 1876-04-27 &middot; Hartford [Conn.]
 [This text is not available under an open license.]
 <hr />
+
 ## A Spanish Poem
+
 #### From _St. Louis globe-Democrat._
+
 #### 1876-06-25 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
 <hr />
+
 ## A SPANISH POEM.
+
 #### From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_
+
 #### 1876-06-29 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1876-07-21/ed-1/seq-1)
+
 #### 1876-07-21 &middot; Brattleboro, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10020,12 +10561,17 @@ Ye disappear
 </tr></table>
 
 <hr />
+
 ## A SPANISH POEM
+
 #### From _Prairie Farmer (1843-1877)_
+
 #### 1876-07-22 &middot; Chicago
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-08-03/ed-1/seq-1)
+
 #### 1876-08-03 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10078,7 +10624,9 @@ Ye disappear !
 </tr></table>
 
 <hr />
+
 ## [From _The tribune._](https://chroniclingamerica.loc.gov/lccn/sn85042623/1876-08-16/ed-1/seq-1)
+
 #### 1876-08-16 &middot; Beaufort, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10131,13 +10679,19 @@ Dreams of a bleep that death
 </tr></table>
 
 <hr />
+
 ## A Spanish Poem
+
 #### From _Southwestern advocate._
+
 #### 1876-08-17 &middot; New Orleans, La.
 [This text is not available under an open license.]
 <hr />
+
 ## [POETRY. A SPANISH POEM.](http://trove.nla.gov.au/ndp/del/article/162678362)
+
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
+
 #### 1876-09-02 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10166,7 +10720,9 @@ humble riv&#x27;let&#x27;e glide, To that sad wave
 </td></tr></table>
 
 <hr />
+
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1876-09-15/ed-1/seq-1)
+
 #### 1876-09-15 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10227,7 +10783,9 @@ of the old Stedhurst farmhouse looke
 </tr></table>
 
 <hr />
+
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1876-09-28/ed-1/seq-2)
+
 #### 1876-09-28 &middot; Lake Charles, Parish of Calcasieu, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10279,7 +10837,9 @@ Alas !
 </tr></table>
 
 <hr />
+
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1876-11-18/ed-1/seq-1)
+
 #### 1876-11-18 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10333,7 +10893,9 @@ Ye disappear
 </tr></table>
 
 <hr />
+
 ## [From _National Repository, Devoted to General and Religious Literature, Criticism, and Art (1877-1880)_](https://iiif.archivelab.org/iiif/sim_national-repository_1880-04_7?page=67)
+
 #### 1880-04-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10386,17 +10948,25 @@ Death levels poverty and pride,
 </tr></table>
 
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Southwestern Christian advocate._
+
 #### 1880-07-01 &middot; New Orleans, La.
 [This text is not available under an open license.]
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Southwestern Christian advocate._
+
 #### 1880-07-01 &middot; New Orleans, La.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The post._](https://chroniclingamerica.loc.gov/lccn/sn84026106/1882-06-22/ed-1/seq-1)
+
 #### 1882-06-22 &middot; Middleburg, Snyder County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10464,7 +11034,9 @@ When ago comes ou
 </tr></table>
 
 <hr />
+
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1882-09-28/ed-1/seq-1)
+
 #### 1882-09-28 &middot; Ridgway, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10534,7 +11106,9 @@ When age comes on.
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1882-10-12/ed-1/seq-6)
+
 #### 1882-10-12 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10604,7 +11178,9 @@ When age comeson.
 </tr></table>
 
 <hr />
+
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1882-10-27/ed-1/seq-2)
+
 #### 1882-10-27 &middot; Paw Paw, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10638,7 +11214,9 @@ The heart&#x27;s blithe tone
 </tr></table>
 
 <hr />
+
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1883-03-24/ed-1/seq-1)
+
 #### 1883-03-24 &middot; Donaldsonville, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10710,17 +11288,25 @@ When age comes on
 </tr></table>
 
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Fayetteville observer._
+
 #### 1885-05-07 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## The Footsteps of Decay
+
 #### From _Fayetteville observer._
+
 #### 1885-05-07 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1885-11_20_5?page=46)
+
 #### 1885-11-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10807,7 +11393,9 @@ When age comes on!
 </tr></table>
 
 <hr />
+
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1887-08-12/ed-1/seq-1)
+
 #### 1887-08-12 &middot; Bel Air, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10860,7 +11448,9 @@ Vo disappear
 </tr></table>
 
 <hr />
+
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1893-06-15_61_32?page=1)
+
 #### 1893-06-15 &middot; Augusta
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10888,7 +11478,9 @@ And swallow all.”
 </tr></table>
 
 <hr />
+
 ## [From _Reedy's Mirror 1899-1920_](https://iiif.archivelab.org/iiif/sim_reedys-mirror_1899-07-13_9_22?page=8)
+
 #### 1899-07-13
 <table style="width: 100%;"><tr><td style="width: 50%">
 

@@ -1,8 +1,14 @@
+
 # A Parody Parodied
+
 ### 20 reprints from 1857-06-23 to 1890-12-20 [cl42949673006]
+
 ## [A Parody Parodied](https://chroniclingamerica.loc.gov/lccn/sn83045462/1857-06-23/ed-1/seq-4/)
+
 #### by Some fair writer
+
 #### From _The Evening Star_
+
 #### 1857-06-23
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -55,7 +61,9 @@ Waved their bright wings and answered &quot;Yes, in Heaven.&quot;
 </td></tr></table>
 
 <hr />
+
 ## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1857-04-24/ed-1/seq-4)
+
 #### 1857-04-24 &middot; Richmond, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -113,7 +121,9 @@ Heaven.
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1857-05-12/ed-1/seq-1)
+
 #### 1857-05-12 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -156,7 +166,9 @@ Heaven/’
 </tr></table>
 
 <hr />
+
 ## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1857-05-15/ed-1/seq-1)
+
 #### 1857-05-15 &middot; Lewisburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -205,7 +217,9 @@ Waved their bright wingsand whimpered, &quot;Unly Heaven:
 </tr></table>
 
 <hr />
+
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1857-05-19/ed-1/seq-1)
+
 #### 1857-05-19 &middot; Hillsdale, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -235,7 +249,9 @@ ears a.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _The people's journal._](https://chroniclingamerica.loc.gov/lccn/sn83032194/1857-05-21/ed-1/seq-3)
+
 #### 1857-05-21 &middot; Coudersport, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -262,7 +278,9 @@ given—
 </tr></table>
 
 <hr />
+
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1857-06-06/ed-1/seq-1)
+
 #### 1857-06-06 &middot; Council Bluffs [Iowa]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -301,7 +319,9 @@ murmuring, &quot;not while brandy
 </tr></table>
 
 <hr />
+
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1857-06-06/ed-1/seq-6)
+
 #### 1857-06-06 &middot; Pickens Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -359,7 +379,9 @@ heaven.&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1857-06-11/ed-1/seq-4)
+
 #### 1857-06-11 &middot; Greenville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -419,7 +441,9 @@ m Waved their bright wings and answered
 </tr></table>
 
 <hr />
+
 ## [From _Bedford inquirer and chronicle._](https://chroniclingamerica.loc.gov/lccn/sn86083444/1857-06-12/ed-1/seq-1)
+
 #### 1857-06-12 &middot; Bedford, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -473,7 +497,9 @@ iu litavc
 </tr></table>
 
 <hr />
+
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1857-06-23/ed-1/seq-4)
+
 #### 1857-06-23 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -530,7 +556,9 @@ Heaven.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028820/1857-07-02/ed-1/seq-1)
+
 #### 1857-07-02 &middot; Millersburg, Holmes County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -582,7 +610,9 @@ ffemat
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1857-07-02/ed-1/seq-4)
+
 #### 1857-07-02 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -627,7 +657,9 @@ Heaven!&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1857-07-09/ed-1/seq-1)
+
 #### 1857-07-09 &middot; Lewistown, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -682,7 +714,9 @@ in Haven!
 </tr></table>
 
 <hr />
+
 ## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1857-08-12/ed-1/seq-5)
+
 #### 1857-08-12 &middot; Nevada, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -737,7 +771,9 @@ Waved their, bright wlugs and answered &quot;Yes, in
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035102/1857-08-13/ed-1/seq-1)
+
 #### 1857-08-13 &middot; Ravenna, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -788,7 +824,9 @@ Waved their wing und answered, &#x27; Ves, in Iteuocn!&#x27;&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1858-03-03/ed-1/seq-4)
+
 #### 1858-03-03 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -841,7 +879,9 @@ in Heaven 1”
 </tr></table>
 
 <hr />
+
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1867-04-18/ed-1/seq-1)
+
 #### 1867-04-18 &middot; M'arthur, Vinton County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -899,7 +939,9 @@ navti tneir ongm wings ana answerem
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1867-12-24/ed-1/seq-4)
+
 #### 1867-12-24 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -952,7 +994,9 @@ in heaven.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1890-12-20/ed-1/seq-2)
+
 #### 1890-12-20 &middot; Martinsburg, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

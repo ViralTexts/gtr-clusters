@@ -1,7 +1,12 @@
+
 # Seventy Thousand Letters
+
 ### 6 reprints from 1871-05-26 to 1871-06-29 [cl8589934654]
+
 ## [Seventy Thousand Letters](https://chroniclingamerica.loc.gov/lccn/sn87075000/1871-05-26/ed-1/seq-1/)
+
 #### From _South-Eastern Independent_
+
 #### 1871-05-26
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10,7 +15,9 @@ SEVENTY THOUSAND letters, filling one hundred and fifty sacks, and weighing near
 </td></tr></table>
 
 <hr />
+
 ## [From _Harper's Bazaar (1867-1912)_](https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3?page=6)
+
 #### 1871-01-21 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -45,7 +52,9 @@ mulate in the New York Post-oflice.
 </tr></table>
 
 <hr />
+
 ## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5?page=2)
+
 #### 1871-02-04
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -70,7 +79,9 @@ A Paris correspondent writes: “All the ani
 </tr></table>
 
 <hr />
+
 ## [From _South-eastern Independent._](https://chroniclingamerica.loc.gov/lccn/sn87075000/1871-05-26/ed-1/seq-1)
+
 #### 1871-05-26 &middot; McConnelsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -105,7 +116,9 @@ daily accumulate in the New York Post
 </tr></table>
 
 <hr />
+
 ## [From _Iowa voter._](https://chroniclingamerica.loc.gov/lccn/sn84027183/1871-06-01/ed-1/seq-6)
+
 #### 1871-06-01 &middot; Knoxville, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -143,7 +156,9 @@ Office.
 </tr></table>
 
 <hr />
+
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
+
 #### 1871-06-29 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

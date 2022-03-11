@@ -1,7 +1,12 @@
+
 # Women's Veneration
+
 ### 31 reprints from 1868-03-28 to 1893-08-18 [cl94489280548]
+
 ## [Women's Veneration](https://chroniclingamerica.loc.gov/lccn/sn83035216/1868-03-28/ed-1/seq-1/)
+
 #### From _The Press and Tribune_
+
 #### 1868-03-28
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13,7 +18,9 @@ If women have one weakness more marked than another, it is towards veneration. T
 </td></tr></table>
 
 <hr />
+
 ## [From _Atlantic Monthly_](https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19?page=92)
+
 #### 1859-05-01 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -91,7 +98,9 @@ faithful Paula, with her beautiful
 </tr></table>
 
 <hr />
+
 ## [From _Atlantic Monthly_](https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19?page=92)
+
 #### 1859-05-01 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -142,7 +151,9 @@ t hnd evi ! n l
 </tr></table>
 
 <hr />
+
 ## [From _New-York daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn83030213/1859-10-15/ed-1/seq-5)
+
 #### 1859-10-15 &middot; New-York [N.Y.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -163,7 +174,9 @@ by heroic deeds and the rhetoric ot a noble lue
 </tr></table>
 
 <hr />
+
 ## [From _The Portage County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83035045/1859-10-26/ed-1/seq-1)
+
 #### 1859-10-26 &middot; Ravenna, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -192,7 +205,9 @@ life.
 </tr></table>
 
 <hr />
+
 ## [From _Illustrated London News 1842-2003_](https://iiif.archivelab.org/iiif/sim_illustrated-london-news_1859-11-05_35_1001?page=2)
+
 #### 1859-11-05
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -242,7 +257,9 @@ heroic deeds and the
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1859-11-24/ed-1/seq-1)
+
 #### 1859-11-24 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -267,7 +284,9 @@ icof a noble life- Mrs. il- B. Stowe.
 </tr></table>
 
 <hr />
+
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1860-01-14/ed-1/seq-1)
+
 #### 1860-01-14 &middot; Council Bluffs [Iowa]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -342,7 +361,9 @@ woman&#x27;^eternsl powar af
 </tr></table>
 
 <hr />
+
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1860-01-14/ed-1/seq-1)
+
 #### 1860-01-14 &middot; Council Bluffs [Iowa]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -363,7 +384,9 @@ ina hero whe never wooed Ihein aieept b
 </tr></table>
 
 <hr />
+
 ## [From _The weekly north Iowa times._](https://chroniclingamerica.loc.gov/lccn/sn84027238/1860-01-18/ed-1/seq-4)
+
 #### 1860-01-18 &middot; McGregor, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -433,7 +456,9 @@ iieroic deeds and tho rhetoric of a noble
 </tr></table>
 
 <hr />
+
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1860-01-26/ed-1/seq-1)
+
 #### 1860-01-26 &middot; Lancaster, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -458,8 +483,11 @@ life.&quot; . . i ,
 </tr></table>
 
 <hr />
+
 ## [REVIEW. MRS. STOWE'S NEW NOVEL. [Abridged from the New York Tribune.]](http://trove.nla.gov.au/ndp/del/article/49895189)
+
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
+
 #### 1860-01-27 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -482,7 +510,9 @@ deeds and the rhetoric of a noble life
 </td></tr></table>
 
 <hr />
+
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1860-02-04/ed-1/seq-3)
+
 #### 1860-02-04 &middot; Weaverville, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -514,7 +544,9 @@ lierrrio deeds and the rhetoric of a noble life*. -7Vi
 </tr></table>
 
 <hr />
+
 ## [From _The Abbeville banner._](https://chroniclingamerica.loc.gov/lccn/sn85026945/1860-02-16/ed-1/seq-1)
+
 #### 1860-02-16 &middot; Abbeville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -569,7 +601,9 @@ and the rhetoric ef a*noble life
 </tr></table>
 
 <hr />
+
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1860-03-22/ed-1/seq-1)
+
 #### 1860-03-22 &middot; Greenville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -617,7 +651,9 @@ heroic deeds and the rhetoric of a noble life.
 </tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1860-05-17/ed-1/seq-1)
+
 #### 1860-05-17 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -643,7 +679,9 @@ of a noblo lif&#x27;o. f J.I. B. Stowo
 </tr></table>
 
 <hr />
+
 ## [From _The Camden weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027851/1860-05-22/ed-1/seq-1)
+
 #### 1860-05-22 &middot; Camden, South-Carolina
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -706,7 +744,9 @@ a genuine hero who never woo tbetn except hy
 </tr></table>
 
 <hr />
+
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1860-08-02/ed-1/seq-1)
+
 #### 1860-08-02 &middot; Greenville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -775,7 +815,9 @@ ept by heroic deeds and the rhetoric o
 </tr></table>
 
 <hr />
+
 ## [From _Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014140/1861-11-28/ed-1/seq-1)
+
 #### 1861-11-28 &middot; Charles City, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -861,12 +903,17 @@ roic deeds and the rhetoric Aobl
 </tr></table>
 
 <hr />
+
 ## Woman's Veneration
+
 #### From _Boston investigator._
+
 #### 1861-12-04 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Plymouth weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056248/1861-12-26/ed-1/seq-1)
+
 #### 1861-12-26 &middot; Plymouth, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -938,12 +985,17 @@ oiic of noble life
 </tr></table>
 
 <hr />
+
 ## Family Reading.
+
 #### From _Ohio Farmer (1856-1906)_
+
 #### 1867-01-26 &middot; Cleveland
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
+
 #### 1867-05-16 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -959,7 +1011,9 @@ think fell straight down from heaven.
 </tr></table>
 
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
+
 #### 1867-05-16 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -977,7 +1031,9 @@ harp, sackbut, and so forth,&quot; where th
 </tr></table>
 
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
+
 #### 1867-05-16 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -994,7 +1050,9 @@ the rhetoric of a noble life&quot; a mos
 </tr></table>
 
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
+
 #### 1867-05-16 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1013,7 +1071,9 @@ climh by.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1868-01-26/ed-1/seq-1)
+
 #### 1868-01-26 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1082,7 +1142,9 @@ rhetoric ot noble lire. 2U Jfcafir
 </tr></table>
 
 <hr />
+
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1868-03-28/ed-1/seq-1)
+
 #### 1868-03-28 &middot; Ashtabula, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1152,7 +1214,9 @@ the rhetoric ot noble lite.
 </tr></table>
 
 <hr />
+
 ## [From _The Hancock Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85042591/1868-04-24/ed-1/seq-4)
+
 #### 1868-04-24 &middot; Findlay, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1224,7 +1288,9 @@ rhetoric of noble life.
 </tr></table>
 
 <hr />
+
 ## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1868-07-17/ed-1/seq-1)
+
 #### 1868-07-17 &middot; Walla Walla, Wash. Terr.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1267,8 +1333,11 @@ hlest in nun! Does not old Rio
 </tr></table>
 
 <hr />
+
 ## [THE BANK SUSPENSIONS.](http://trove.nla.gov.au/ndp/del/article/60306088)
+
 #### From _Traralgon Record (Traralgon, Vic. : 1886 - 1932)  _
+
 #### 1893-08-18 &middot; Traralgon, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 

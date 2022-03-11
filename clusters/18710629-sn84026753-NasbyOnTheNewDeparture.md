@@ -1,8 +1,14 @@
+
 # Nasby on the New Departure
+
 ### 27 reprints from 1871-06-29 to 1884-08-02 [cl42949673035]
+
 ## [Nasby on the New Departure](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
+
 #### by Petroleum V. Nasby
+
 #### From _New National Era_
+
 #### 1871-06-29
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -64,7 +70,9 @@ Petroleum V. Nasby, (wich wuz Postmaster.)
 </td></tr></table>
 
 <hr />
+
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-06/ed-1/seq-3)
+
 #### 1871-06-06 &middot; Chicago, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -97,7 +105,9 @@ who Lev bin lacg
 </tr></table>
 
 <hr />
+
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-06/ed-1/seq-3)
+
 #### 1871-06-06 &middot; Chicago, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -291,7 +301,9 @@ Prreoi.Em V.Nxssr.
 </tr></table>
 
 <hr />
+
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-06-08/ed-1/seq-4)
+
 #### 1871-06-08 &middot; Tiffin, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -559,7 +571,9 @@ PETROLEUM V. NASBY,
 </tr></table>
 
 <hr />
+
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-06-11/ed-1/seq-6)
+
 #### 1871-06-11 &middot; New Orleans, La
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -740,7 +754,9 @@ witli difficulty that Pollock and Buffer r
 </tr></table>
 
 <hr />
+
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-06-11/ed-1/seq-6)
+
 #### 1871-06-11 &middot; New Orleans, La
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -786,7 +802,9 @@ PETROLEUM Y. NASBT.
 </tr></table>
 
 <hr />
+
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1871-06-14/ed-1/seq-1)
+
 #### 1871-06-14 &middot; Augusta, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1028,7 +1046,9 @@ Ff.trolefm V. Nasbt,
 </tr></table>
 
 <hr />
+
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1871-06-15/ed-1/seq-1)
+
 #### 1871-06-15 &middot; White Cloud, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1266,7 +1286,9 @@ Petrolic V. Nasbt,
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1871-06-22/ed-1/seq-2)
+
 #### 1871-06-22 &middot; Ottumwa, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1402,7 +1424,9 @@ laff.
 </tr></table>
 
 <hr />
+
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-1)
+
 #### 1871-06-24 &middot; Sunbury, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1486,7 +1510,9 @@ tz the
 </tr></table>
 
 <hr />
+
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-4)
+
 #### 1871-06-24 &middot; Sunbury, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1631,17 +1657,25 @@ laudyguni&#x27;s
 </tr></table>
 
 <hr />
+
 ## Hasby "Departs"
+
 #### From _Bangor daily Whig & courier._
+
 #### 1871-06-27 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## Hasby "Departs"
+
 #### From _Bangor daily Whig & courier._
+
 #### 1871-06-27 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1871-06-28/ed-1/seq-1)
+
 #### 1871-06-28 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1693,7 +1727,9 @@ said Dcekin Pugra
 </tr></table>
 
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1871-06-28/ed-1/seq-1)
+
 #### 1871-06-28 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1714,7 +1750,9 @@ rained em 1 1 urn takin DV em out and u
 </tr></table>
 
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1871-06-28/ed-1/seq-1)
+
 #### 1871-06-28 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1736,7 +1774,9 @@ ut abjoorin evrytbing that is Dimo
 </tr></table>
 
 <hr />
+
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1871-06-28/ed-1/seq-3)
+
 #### 1871-06-28 &middot; Wheeling, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1979,7 +2019,9 @@ is my evil genius. 1
 </tr></table>
 
 <hr />
+
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
+
 #### 1871-06-29 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2210,7 +2252,9 @@ lives. Prtbolkim V. N a?by, ! i
 </tr></table>
 
 <hr />
+
 ## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1871-06-30/ed-1/seq-4)
+
 #### 1871-06-30 &middot; Burlington, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2415,7 +2459,9 @@ Peteolecm V. Napbt.
 </tr></table>
 
 <hr />
+
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1871-07-01/ed-1/seq-1)
+
 #### 1871-07-01 &middot; Ashtabula, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2488,7 +2534,9 @@ rhv
 </tr></table>
 
 <hr />
+
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1871-07-01/ed-1/seq-2)
+
 #### 1871-07-01 &middot; Ashtabula, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2582,7 +2630,9 @@ n, auu WUZ a cxccuuil wui uiiueen uv
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1871-07-07/ed-1/seq-1)
+
 #### 1871-07-07 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2641,7 +2691,9 @@ jickshuns on the part uv a few to wa
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1871-07-07/ed-1/seq-1)
+
 #### 1871-07-07 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2835,7 +2887,9 @@ able two run
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1871-07-19/ed-1/seq-1)
+
 #### 1871-07-19 &middot; Mifflintown, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3074,7 +3128,9 @@ ji&quot;t how preeaWe yood be to 3e higg
 </tr></table>
 
 <hr />
+
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1871-08-05/ed-1/seq-1)
+
 #### 1871-08-05 &middot; Elkton, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3201,7 +3257,9 @@ twenty-two uv our fellow-citizens of Afri
 </tr></table>
 
 <hr />
+
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1871-08-05/ed-1/seq-1)
+
 #### 1871-08-05 &middot; Elkton, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3320,7 +3378,9 @@ Petroleum V. Nasby,
 </tr></table>
 
 <hr />
+
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1884-08-02/ed-1/seq-4)
+
 #### 1884-08-02 &middot; Oakland, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

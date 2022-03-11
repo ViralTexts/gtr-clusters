@@ -1,7 +1,12 @@
+
 # Keeping One's Eyes Open
+
 ### 293 reprints from 1869-07-15 to 1896-06-18 [cl47]
+
 ## [Keeping One's Eyes Open](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
+
 #### From _Lincoln County Herald_
+
 #### 1869-07-15
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -18,7 +23,9 @@ You&#x27;ll have peace to your end,
 </td></tr></table>
 
 <hr />
+
 ## [From _Saturday Review 1973-1986_](https://iiif.archivelab.org/iiif/sim_saturday-review_1869-06-12_27_711?page=14)
+
 #### 1869-06-12
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -36,12 +43,17 @@ within us.” In a word, asin all these bundles of conceits, th
 </tr></table>
 
 <hr />
+
 ## KEEPING ONE'S EYES OPEN.
+
 #### From _New York Observer and Chronicle (1833-1912)_
+
 #### 1869-06-24 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
+
 #### 1869-07-15 &middot; Troy, Lincoln County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -108,7 +120,9 @@ hearer,
 </tr></table>
 
 <hr />
+
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1869-08-03/ed-1/seq-4)
+
 #### 1869-08-03 &middot; Manchester, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -141,7 +155,9 @@ l
 </tr></table>
 
 <hr />
+
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1869-08-03/ed-1/seq-4)
+
 #### 1869-08-03 &middot; Manchester, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -171,7 +187,9 @@ tfl)pVu)ftftiei.t. Alwayagiveup the road
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1869-08-21/ed-1/seq-1)
+
 #### 1869-08-21 &middot; Prescott, Ariz.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -204,7 +222,9 @@ label of a bsg. and cout m
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1869-08-21/ed-1/seq-1)
+
 #### 1869-08-21 &middot; Prescott, Ariz.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -233,7 +253,9 @@ Yeull have peae t ysaieaJ
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1869-08-27/ed-1/seq-4)
+
 #### 1869-08-27 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -280,7 +302,9 @@ never fight with a coal-heaver, or contend wit
 </tr></table>
 
 <hr />
+
 ## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022168/1869-08-28/ed-1/seq-4)
+
 #### 1869-08-28 &middot; Santa Fe, N.M.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -311,7 +335,9 @@ means no more than it says. Don&#x27;t tj&quot; to duciu to be,t muiued in tint 
 </tr></table>
 
 <hr />
+
 ## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022168/1869-08-28/ed-1/seq-4)
+
 #### 1869-08-28 &middot; Santa Fe, N.M.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -331,7 +357,9 @@ with a ba character, for they will bo sure , the brain. The ido 1 ni-.li.- to Ho
 </tr></table>
 
 <hr />
+
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1869-09-02/ed-1/seq-1)
+
 #### 1869-09-02 &middot; Tarboro', N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -406,7 +434,9 @@ wiil be sure to blacken von. Her. C
 </tr></table>
 
 <hr />
+
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1869-09-05/ed-1/seq-8)
+
 #### 1869-09-05 &middot; New Orleans [La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -468,7 +498,9 @@ will be sure to blacken you.- -
 </tr></table>
 
 <hr />
+
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1869-09-08/ed-1/seq-2)
+
 #### 1869-09-08 &middot; M'arthur, Vinton County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -530,7 +562,9 @@ for they will be sure to blacken yon, Ikv
 </tr></table>
 
 <hr />
+
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1869-09-08/ed-1/seq-1)
+
 #### 1869-09-08 &middot; Watertown, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -597,12 +631,17 @@ for they will be sure to blacken you.—Rev
 </tr></table>
 
 <hr />
+
 ## Spurgeon's Advice Gratis
+
 #### From _Daily evening bulletin._
+
 #### 1869-09-08 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1869-09-09/ed-1/seq-1)
+
 #### 1869-09-09 &middot; Plymouth, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -666,7 +705,9 @@ for they w ill be sure to blacken you.
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1869-09-09/ed-1/seq-2)
+
 #### 1869-09-09 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -729,7 +770,9 @@ for they will be sure to blacken you.—Rev
 </tr></table>
 
 <hr />
+
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1869-09-09/ed-1/seq-1)
+
 #### 1869-09-09 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -780,7 +823,9 @@ en you
 </tr></table>
 
 <hr />
+
 ## [From _The Conservative._](https://chroniclingamerica.loc.gov/lccn/sn87075001/1869-09-10/ed-1/seq-2)
+
 #### 1869-09-10 &middot; M'connelsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -842,7 +887,9 @@ Tor I hey will be sure to blacken you.-- Ur
 </tr></table>
 
 <hr />
+
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1869-09-10/ed-1/seq-1)
+
 #### 1869-09-10 &middot; Athens, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -879,7 +926,9 @@ Corn
 </tr></table>
 
 <hr />
+
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1869-09-17/ed-1/seq-4)
+
 #### 1869-09-17 &middot; Tiffin, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -960,7 +1009,9 @@ to blacken vou.
 </tr></table>
 
 <hr />
+
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1869-09-18/ed-1/seq-1)
+
 #### 1869-09-18 &middot; Bellevue, Bossier Parish, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1044,7 +1095,9 @@ blackeu you.— [C. H. Spurgeon
 </tr></table>
 
 <hr />
+
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1869-09-21/ed-1/seq-1)
+
 #### 1869-09-21 &middot; Hyde Park, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1068,7 +1121,9 @@ self ; we cai ry our worst enemies with us
 </tr></table>
 
 <hr />
+
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1869-09-21/ed-1/seq-1)
+
 #### 1869-09-21 &middot; Hyde Park, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1087,7 +1142,9 @@ or they will be sure to blacken you.
 </tr></table>
 
 <hr />
+
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1869-09-24/ed-1/seq-1)
+
 #### 1869-09-24 &middot; Deer Lodge, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1129,7 +1186,9 @@ be cheated.
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1869-09-24/ed-1/seq-1)
+
 #### 1869-09-24 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1206,7 +1265,9 @@ ter, for they will be sure to blacken you
 </tr></table>
 
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-2)
+
 #### 1869-09-30 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1224,7 +1285,9 @@ Do not choose your friends by thei
 </tr></table>
 
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-6)
+
 #### 1869-09-30 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1242,7 +1305,9 @@ sure that it means no more than it says.
 </tr></table>
 
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-7)
+
 #### 1869-09-30 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1278,12 +1343,17 @@ New Advertisements
 </tr></table>
 
 <hr />
+
 ## Choice Miscellany
+
 #### From _Vermont chronicle._
+
 #### 1869-10-09 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1869-10-12/ed-1/seq-4)
+
 #### 1869-10-12 &middot; Manchester, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1302,7 +1372,9 @@ man than a thorough rogue
 </tr></table>
 
 <hr />
+
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1869-10-12/ed-1/seq-1)
+
 #### 1869-10-12 &middot; Hyde Park, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1319,7 +1391,9 @@ employment
 </tr></table>
 
 <hr />
+
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-2)
+
 #### 1869-10-12 &middot; Irasburgh, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1338,7 +1412,9 @@ gilt on l
 </tr></table>
 
 <hr />
+
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-2)
+
 #### 1869-10-12 &middot; Irasburgh, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1355,7 +1431,9 @@ DIM).
 </tr></table>
 
 <hr />
+
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-3)
+
 #### 1869-10-12 &middot; Irasburgh, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1375,7 +1453,9 @@ they will be sure to blacken you
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1869-10-14/ed-1/seq-1)
+
 #### 1869-10-14 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1440,7 +1520,9 @@ ir they will be sure to blacken you
 </tr></table>
 
 <hr />
+
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
+
 #### 1869-10-14 &middot; Rutland, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1470,7 +1552,9 @@ water where you cannot see the bottom
 </tr></table>
 
 <hr />
+
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
+
 #### 1869-10-14 &middot; Rutland, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1487,7 +1571,9 @@ kin
 </tr></table>
 
 <hr />
+
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
+
 #### 1869-10-14 &middot; Rutland, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1507,7 +1593,9 @@ between two grinders, they are opt to bite
 </tr></table>
 
 <hr />
+
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1869-10-20/ed-1/seq-3)
+
 #### 1869-10-20 &middot; Urbana, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1570,7 +1658,9 @@ ter for they will be sure to blacken yon
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1869-11-02/ed-1/seq-1)
+
 #### 1869-11-02 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1631,7 +1721,9 @@ be sure to blacken you.&quot; .
 </tr></table>
 
 <hr />
+
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-11-05/ed-1/seq-1)
+
 #### 1869-11-05 &middot; Bedford, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1675,7 +1767,9 @@ they are caught in the net
 </tr></table>
 
 <hr />
+
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-11-05/ed-1/seq-1)
+
 #### 1869-11-05 &middot; Bedford, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1696,7 +1790,9 @@ may depend upon it he keeps a very small
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1869-11-05/ed-1/seq-4)
+
 #### 1869-11-05 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1763,12 +1859,17 @@ The man who, on last Wednesda
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _The Owyhee avalanche._
+
 #### 1869-11-06 &middot; Ruby City, I.T. [Idaho]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1869-11-11/ed-1/seq-4)
+
 #### 1869-11-11 &middot; Ravenna, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1848,7 +1949,9 @@ blacken you.
 </tr></table>
 
 <hr />
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1869-11-27/ed-1/seq-1)
+
 #### 1869-11-27 &middot; Shepherdstown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1896,8 +1999,11 @@ no hones
 </tr></table>
 
 <hr />
+
 ## [COLONIAL EXTRACTS.](http://trove.nla.gov.au/ndp/del/article/1303016)
+
 #### From _The Brisbane Courier (Qld. : 1864 - 1933)_
+
 #### 1869-12-01 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1958,7 +2064,9 @@ to blacken you.-SrintaBaif
 </td></tr></table>
 
 <hr />
+
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153?page=11)
+
 #### 1869-12-04 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1971,12 +2079,17 @@ to blacken you.-SrintaBaif
 </tr></table>
 
 <hr />
+
 ## All Sorts and Sizes
+
 #### From _Bangor daily Whig & courier._
+
 #### 1869-12-06 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1869-12-15/ed-1/seq-1)
+
 #### 1869-12-15 &middot; Smyrna, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2033,7 +2146,9 @@ geon
 </tr></table>
 
 <hr />
+
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1869-12-16/ed-1/seq-4)
+
 #### 1869-12-16 &middot; Woodstock, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2050,7 +2165,9 @@ Beware of no uiau more than yourself ,
 </tr></table>
 
 <hr />
+
 ## [From _The democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026840/1869-12-20/ed-1/seq-1)
+
 #### 1869-12-20 &middot; Weston, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2101,7 +2218,9 @@ we carry onr worst enemies within u?
 </tr></table>
 
 <hr />
+
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157?page=16)
+
 #### 1870-01-01 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2114,7 +2233,9 @@ we carry our worst enemies with us.
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1870-01-06/ed-1/seq-1)
+
 #### 1870-01-06 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2130,12 +2251,17 @@ because of tho gilt on it
 </tr></table>
 
 <hr />
+
 ## All Sorts and Sizes
+
 #### From _Bangor daily Whig & courier._
+
 #### 1870-01-25 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1870-02-03/ed-1/seq-1)
+
 #### 1870-02-03 &middot; Point Pleasant, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2151,12 +2277,17 @@ very small Block of it within
 </tr></table>
 
 <hr />
+
 ## Good Advice
+
 #### From _Morning republican._
+
 #### 1870-02-05 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162?page=12)
+
 #### 1870-02-05 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2171,12 +2302,17 @@ mousers.”
 </tr></table>
 
 <hr />
+
 ## Beware
+
 #### From _Morning republican._
+
 #### 1870-02-12 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1870-02-27/ed-1/seq-4)
+
 #### 1870-02-27 &middot; New Orleans [La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2214,7 +2350,9 @@ to be cheated. I
 </tr></table>
 
 <hr />
+
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1870-03-01/ed-1/seq-1)
+
 #### 1870-03-01 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2281,8 +2419,11 @@ ter, for they will be sure to blacken you
 </tr></table>
 
 <hr />
+
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/65471753)
+
 #### From _Bell’s Life in Sydney and Sporting Chronicle (NSW : 1860 - 1870)_
+
 #### 1870-03-12 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2341,7 +2482,9 @@ suro to blacken you. I HOLLOWAY&#x27;
 </td></tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1870-03-17_43_11?page=7)
+
 #### 1870-03-17 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2355,7 +2498,9 @@ Do not choose your friend by his looks.
 </tr></table>
 
 <hr />
+
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1870-05-13/ed-1/seq-1)
+
 #### 1870-05-13 &middot; Upper Sandusky, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2370,7 +2515,9 @@ the feet
 </tr></table>
 
 <hr />
+
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-05-13/ed-1/seq-4)
+
 #### 1870-05-13 &middot; Columbia, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2392,7 +2539,9 @@ It, r &#x27; -
 </tr></table>
 
 <hr />
+
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-05-13/ed-1/seq-4)
+
 #### 1870-05-13 &middot; Columbia, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2433,7 +2582,9 @@ tom. - -
 </tr></table>
 
 <hr />
+
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1870-05-14/ed-1/seq-1)
+
 #### 1870-05-14 &middot; Columbia, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2481,7 +2632,9 @@ for they will be sure to blacken you
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1870-06-02/ed-1/seq-4)
+
 #### 1870-06-02 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2530,7 +2683,9 @@ sure to blacken you.?Rev. G. H. Spurgeon
 </tr></table>
 
 <hr />
+
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1870-10-13/ed-1/seq-1)
+
 #### 1870-10-13 &middot; Millersburg, Holmes Co., O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2603,7 +2758,9 @@ You&#x27;ll have peace to your end
 </tr></table>
 
 <hr />
+
 ## [From _The Sumter watchman._](https://chroniclingamerica.loc.gov/lccn/sn84026917/1870-11-09/ed-1/seq-1)
+
 #### 1870-11-09 &middot; Sumterville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2667,7 +2824,9 @@ ter, for thoy will bo sure to blackcu you
 </tr></table>
 
 <hr />
+
 ## [From _The Plymouth Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84038005/1870-11-10/ed-1/seq-1)
+
 #### 1870-11-10 &middot; Plymouth, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2704,7 +2863,9 @@ and count money after your ow n kin
 </tr></table>
 
 <hr />
+
 ## [From _Iowa voter._](https://chroniclingamerica.loc.gov/lccn/sn84027183/1870-11-17/ed-1/seq-6)
+
 #### 1870-11-17 &middot; Knoxville, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2760,7 +2921,9 @@ Orchard and Nursery.
 </tr></table>
 
 <hr />
+
 ## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1870-12-02/ed-1/seq-2)
+
 #### 1870-12-02 &middot; Rock Island, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2817,7 +2980,9 @@ his own character
 </tr></table>
 
 <hr />
+
 ## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn84022149/1870-12-08/ed-1/seq-3)
+
 #### 1870-12-08 &middot; Cheyenne, Wyo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2854,17 +3019,25 @@ built on fool’s heads.
 </tr></table>
 
 <hr />
+
 ## Good Advice
+
 #### From _Lowell daily citizen and news._
+
 #### 1870-12-17 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## Good Advice
+
 #### From _Lowell daily citizen and news._
+
 #### 1870-12-17 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1870-12-21/ed-1/seq-4)
+
 #### 1870-12-21 &middot; Urbana, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2912,7 +3085,9 @@ value his own character.
 </tr></table>
 
 <hr />
+
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1870-12-21/ed-1/seq-1)
+
 #### 1870-12-21 &middot; M'arthur, Vinton County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2970,7 +3145,9 @@ The Tariff on Plows.
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-12-24/ed-1/seq-1)
+
 #### 1870-12-24 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2990,7 +3167,9 @@ geon.
 </tr></table>
 
 <hr />
+
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-01-05/ed-1/seq-2)
+
 #### 1871-01-05 &middot; Eaton, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3055,7 +3234,9 @@ not value his own character.
 </tr></table>
 
 <hr />
+
 ## [From _Centre Hall reporter._](https://chroniclingamerica.loc.gov/lccn/sn85054524/1871-01-06/ed-1/seq-1)
+
 #### 1871-01-06 &middot; Centre Hall, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3106,7 +3287,9 @@ kind.
 </tr></table>
 
 <hr />
+
 ## [From _Centre Hall reporter._](https://chroniclingamerica.loc.gov/lccn/sn85054524/1871-01-06/ed-1/seq-1)
+
 #### 1871-01-06 &middot; Centre Hall, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3125,32 +3308,49 @@ value his own character.
 </tr></table>
 
 <hr />
+
 ## Spurgeon's Advice, Gratis
+
 #### From _Morning republican._
+
 #### 1871-01-06 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
 <hr />
+
 ## Essays in Brief
+
 #### From _Daily evening bulletin._
+
 #### 1871-01-07 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## Wise and Witty
+
 #### From _Daily evening bulletin._
+
 #### 1871-01-14 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## Facetious
+
 #### From _Vermont chronicle._
+
 #### 1871-01-14 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
 <hr />
+
 ## Good Advice
+
 #### From _Daily Central City register._
+
 #### 1871-01-15 &middot; Central City, Colo.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn84022149/1871-01-18/ed-1/seq-3)
+
 #### 1871-01-18 &middot; Cheyenne, Wyo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3198,7 +3398,9 @@ value ids own character
 </tr></table>
 
 <hr />
+
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1871-01-19/ed-1/seq-4)
+
 #### 1871-01-19 &middot; Idaho City, Idaho Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3255,7 +3457,9 @@ value his own character.
 </tr></table>
 
 <hr />
+
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
+
 #### 1871-01-19 &middot; Jonesborough, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3272,7 +3476,9 @@ small stock of It within.. . : -&#x27;. .... , , : ;
 </tr></table>
 
 <hr />
+
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
+
 #### 1871-01-19 &middot; Jonesborough, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3303,7 +3509,9 @@ and count money after your own kind.&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
+
 #### 1871-01-19 &middot; Jonesborough, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3321,7 +3529,9 @@ his own character. ., , ,
 </tr></table>
 
 <hr />
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1871-01-20/ed-1/seq-1)
+
 #### 1871-01-20 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3373,7 +3583,9 @@ value his own character
 </tr></table>
 
 <hr />
+
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1871-01-25/ed-1/seq-1)
+
 #### 1871-01-25 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3391,12 +3603,17 @@ dark askt to be cheated.
 </tr></table>
 
 <hr />
+
 ## SPURGEON sententiously expresses a number of thoughts "worth remembering" which he publishes as "advice gratis"
+
 #### From _Boston investigator._
+
 #### 1871-01-25 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Iowa voter._](https://chroniclingamerica.loc.gov/lccn/sn84027183/1871-01-26/ed-1/seq-3)
+
 #### 1871-01-26 &middot; Knoxville, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3446,7 +3663,9 @@ Bee the sack open before you buy w
 </tr></table>
 
 <hr />
+
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1871-01-28_2583?page=5)
+
 #### 1871-01-28 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3464,7 +3683,9 @@ Cc’ eated,
 </tr></table>
 
 <hr />
+
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1871-02-08/ed-1/seq-1)
+
 #### 1871-02-08 &middot; Watertown, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3484,7 +3705,9 @@ cheated
 </tr></table>
 
 <hr />
+
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1871-02-09/ed-1/seq-1)
+
 #### 1871-02-09 &middot; Manitowoc, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3504,8 +3727,11 @@ cheated
 </tr></table>
 
 <hr />
+
 ## [FIRE AND LOSS OF LIFE AT URANA.](http://trove.nla.gov.au/ndp/del/article/70056015)
+
 #### From _Kilmore Free Press (Kilmore, Vic. : 1870 - 1954)_
+
 #### 1871-02-09 &middot; Kilmore, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3519,8 +3745,11 @@ out of e-aploy., ment: A New .York pape
 </td></tr></table>
 
 <hr />
+
 ## [FIRE AND LOSS OF LIFE AT URANA.](http://trove.nla.gov.au/ndp/del/article/70056015)
+
 #### From _Kilmore Free Press (Kilmore, Vic. : 1870 - 1954)_
+
 #### 1871-02-09 &middot; Kilmore, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3538,7 +3767,9 @@ stock of it within. Always give up th
 </td></tr></table>
 
 <hr />
+
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1871-02-10/ed-1/seq-1)
+
 #### 1871-02-10 &middot; Dodgeville, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3553,7 +3784,9 @@ water where you cannot see the bottom
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1871-02-15/ed-1/seq-4)
+
 #### 1871-02-15 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3580,7 +3813,9 @@ own aiiiu
 </tr></table>
 
 <hr />
+
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1871-02-17/ed-1/seq-6)
+
 #### 1871-02-17 &middot; Paw Paw, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3595,7 +3830,9 @@ cies of fortune
 </tr></table>
 
 <hr />
+
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1871-02-18/ed-1/seq-2)
+
 #### 1871-02-18 &middot; Superior, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3615,7 +3852,9 @@ j cheated
 </tr></table>
 
 <hr />
+
 ## [From _The weekly echo._](https://chroniclingamerica.loc.gov/lccn/sn85034325/1871-02-23/ed-1/seq-4)
+
 #### 1871-02-23 &middot; Lake Charles, Parish of Calcasieu, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3643,7 +3882,9 @@ the&#x27;feet
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1871-02-23/ed-1/seq-4)
+
 #### 1871-02-23 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3656,12 +3897,17 @@ an honest man than a thorough rogue.
 </tr></table>
 
 <hr />
+
 ## Quips and Cranks
+
 #### From _The Cleveland morning herald._
+
 #### 1871-03-04 &middot; Cleveland, Ohio
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Daily telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88064499/1871-03-08/ed-1/seq-2)
+
 #### 1871-03-08 &middot; Monroe, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3683,7 +3929,9 @@ keeps a very small stock of it within
 </tr></table>
 
 <hr />
+
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1871-03-09/ed-1/seq-1)
+
 #### 1871-03-09 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3733,7 +3981,9 @@ Keen clear of a man t
 </tr></table>
 
 <hr />
+
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
+
 #### 1871-03-15 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3754,7 +4004,9 @@ Ho not c .ooso your menu .., f impropriety in the use of suc
 </tr></table>
 
 <hr />
+
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
+
 #### 1871-03-15 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3771,7 +4023,9 @@ dom good monsors. , . . ,i.iil .i.;, -,,v ,nJ ... v,. &#x27; .
 </tr></table>
 
 <hr />
+
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
+
 #### 1871-03-15 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3793,7 +4047,9 @@ valuo his own rlinrnctcr
 </tr></table>
 
 <hr />
+
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1871-03-16/ed-1/seq-1)
+
 #### 1871-03-16 &middot; Tarboro', N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3835,7 +4091,9 @@ a iacttr. for thev will be aiie i-j jb
 </tr></table>
 
 <hr />
+
 ## [From _The Stark County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028490/1871-03-16/ed-1/seq-4)
+
 #### 1871-03-16 &middot; Canton, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3848,7 +4106,9 @@ handsome shoes often pinch the feet.-
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1871-03-23/ed-1/seq-1)
+
 #### 1871-03-23 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3862,7 +4122,9 @@ dark asks to be cheated
 </tr></table>
 
 <hr />
+
 ## [From _The Daily state journal._](https://chroniclingamerica.loc.gov/lccn/sn84024670/1871-03-25/ed-1/seq-3)
+
 #### 1871-03-25 &middot; Alexandria, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3908,7 +4170,9 @@ his own character
 </tr></table>
 
 <hr />
+
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1871-03-30/ed-1/seq-4)
+
 #### 1871-03-30 &middot; Woodstock, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3930,7 +4194,9 @@ sure that it means no more than it says
 </tr></table>
 
 <hr />
+
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1871-03-31/ed-1/seq-4)
+
 #### 1871-03-31 &middot; Jasper, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3964,7 +4230,9 @@ ue his own character. The Aje
 </tr></table>
 
 <hr />
+
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-04-16/ed-1/seq-3)
+
 #### 1871-04-16 &middot; Knoxville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4004,7 +4272,9 @@ his own character. - &#x27; ;
 </tr></table>
 
 <hr />
+
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1871-04-20/ed-1/seq-4)
+
 #### 1871-04-20 &middot; Upper Sandusky, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4020,7 +4290,9 @@ The Directors of the Washington Lif
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84023296/1871-04-20/ed-1/seq-4)
+
 #### 1871-04-20 &middot; Woodstock, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4040,7 +4312,9 @@ asks to bc chcated
 </tr></table>
 
 <hr />
+
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1871-04-22/ed-1/seq-1)
+
 #### 1871-04-22 &middot; Middletown, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4070,7 +4344,9 @@ th
 </tr></table>
 
 <hr />
+
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-04-22/ed-1/seq-1)
+
 #### 1871-04-22 &middot; Charlestown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4105,7 +4381,9 @@ and count money after your own kind
 </tr></table>
 
 <hr />
+
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-04-22/ed-1/seq-1)
+
 #### 1871-04-22 &middot; Charlestown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4123,7 +4401,9 @@ If farmers would look at the theory of roll
 </tr></table>
 
 <hr />
+
 ## [From _The democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026840/1871-04-24/ed-1/seq-1)
+
 #### 1871-04-24 &middot; Weston, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4161,7 +4441,9 @@ own kin
 </tr></table>
 
 <hr />
+
 ## [From _The herald._](https://chroniclingamerica.loc.gov/lccn/sn88053095/1871-04-29/ed-1/seq-1)
+
 #### 1871-04-29 &middot; Smyrna, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4212,7 +4494,9 @@ ue his own character
 </tr></table>
 
 <hr />
+
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1871-05-05/ed-1/seq-1)
+
 #### 1871-05-05 &middot; Port Tobacco, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4262,8 +4546,11 @@ ue bis own character,—The Age. &#x27;
 </tr></table>
 
 <hr />
+
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/3752893)
+
 #### From _The Perth Gazette and West Australian Times (WA : 1864 - 1874)_
+
 #### 1871-05-05 &middot; Perth, Western Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4276,7 +4563,9 @@ water where you cannot see the bottom
 </td></tr></table>
 
 <hr />
+
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1871-05-06/ed-2/seq-3)
+
 #### 1871-05-06 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4295,7 +4584,9 @@ lbandsomuehoes often pinch the feet
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1871-05-06/ed-2/seq-3)
+
 #### 1871-05-06 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4317,7 +4608,9 @@ Hold on to your tongue when you ae jus
 </tr></table>
 
 <hr />
+
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1871-05-24/ed-1/seq-1)
+
 #### 1871-05-24 &middot; M'arthur, Vinton County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4369,7 +4662,9 @@ ey after youi own kind
 </tr></table>
 
 <hr />
+
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1871-05-24/ed-1/seq-1)
+
 #### 1871-05-24 &middot; M'arthur, Vinton County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4391,7 +4686,9 @@ A CRADLE SONG.
 </tr></table>
 
 <hr />
+
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1871-05-25/ed-1/seq-4)
+
 #### 1871-05-25 &middot; Tipton, Cedar Co., Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4407,7 +4704,9 @@ keeps a very small stock within.
 </tr></table>
 
 <hr />
+
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1871-06-08/ed-1/seq-6)
+
 #### 1871-06-08 &middot; Point Pleasant, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4423,7 +4722,9 @@ bile
 </tr></table>
 
 <hr />
+
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-06-20/ed-1/seq-3)
+
 #### 1871-06-20 &middot; New Bloomfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4448,12 +4749,17 @@ it gays. ... ,.
 </tr></table>
 
 <hr />
+
 ## LITERARY MISCELLANEA.
+
 #### From _Reynolds's  Newspaper_
+
 #### 1871-06-25 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1871-07-13/ed-1/seq-1)
+
 #### 1871-07-13 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4473,7 +4779,9 @@ they are very apt to bite
 </tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1871-07-13/ed-1/seq-1)
+
 #### 1871-07-13 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4487,7 +4795,9 @@ the feet.
 </tr></table>
 
 <hr />
+
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-07-18/ed-1/seq-2)
+
 #### 1871-07-18 &middot; New Bloomfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4502,7 +4812,9 @@ small stock within.
 </tr></table>
 
 <hr />
+
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1871-07-21/ed-1/seq-4)
+
 #### 1871-07-21 &middot; Oregon, Missouri.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4545,8 +4857,11 @@ uo his own charnctor.
 </tr></table>
 
 <hr />
+
 ## [GENERAL NEWS.](http://trove.nla.gov.au/ndp/del/article/18755913)
+
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
+
 #### 1871-07-25 &middot; Maitland, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4560,7 +4875,9 @@ of Holland against the transfer to ou
 </td></tr></table>
 
 <hr />
+
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1871-09-14/ed-1/seq-4)
+
 #### 1871-09-14 &middot; Woodstock, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4577,7 +4894,9 @@ keeps a very small stock of it within
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-09-16/ed-1/seq-1)
+
 #### 1871-09-16 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4593,18 +4912,27 @@ keeps a very small stock of it within
 </tr></table>
 
 <hr />
+
 ## Condensed Wisdom
+
 #### From _Daily evening bulletin._
+
 #### 1871-09-23 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## Condensed Wisdom
+
 #### From _Daily evening bulletin._
+
 #### 1871-09-23 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [AN INTERESTING DISCOVERY](http://trove.nla.gov.au/ndp/del/article/123549199)
+
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
+
 #### 1871-09-23 &middot; Gundagai, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4616,12 +4944,17 @@ cheated. — . -? . -?. It is easier t
 </td></tr></table>
 
 <hr />
+
 ## MISCELLANEA.
+
 #### From _Trewman's Exeter Flying Post_
+
 #### 1871-09-27 &middot; Exeter, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1871-09-30/ed-1/seq-1)
+
 #### 1871-09-30 &middot; Mechanicstown, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4675,7 +5008,9 @@ Keep clear of a man who does not
 </tr></table>
 
 <hr />
+
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1871-10-01/ed-1/seq-2)
+
 #### 1871-10-01 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4691,7 +5026,9 @@ keeps a very small stock of it within
 </tr></table>
 
 <hr />
+
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1871-10-05/ed-1/seq-2)
+
 #### 1871-10-05 &middot; Winchester, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4707,7 +5044,9 @@ keeps a ven small stock of it within.
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-07/ed-1/seq-1)
+
 #### 1871-10-07 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4728,7 +5067,9 @@ they are very apt to bite,
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-07/ed-1/seq-5)
+
 #### 1871-10-07 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4748,7 +5089,9 @@ mouscrs.—[Spur^eon,
 </tr></table>
 
 <hr />
+
 ## [From _Macon beacon._](https://chroniclingamerica.loc.gov/lccn/sn83016943/1871-10-07/ed-1/seq-1)
+
 #### 1871-10-07 &middot; Macon, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4766,7 +5109,9 @@ The poverty of the poor man is th
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-14/ed-1/seq-1)
+
 #### 1871-10-14 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4788,7 +5133,9 @@ your own kind
 </tr></table>
 
 <hr />
+
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1871-10-14/ed-1/seq-2)
+
 #### 1871-10-14 &middot; Albany, Or.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4806,7 +5153,9 @@ within
 </tr></table>
 
 <hr />
+
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-11-18/ed-1/seq-1)
+
 #### 1871-11-18 &middot; Knoxville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4819,7 +5168,9 @@ Handsome shoes often pinch the feet.
 </tr></table>
 
 <hr />
+
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1871-11-26/ed-1/seq-3)
+
 #### 1871-11-26 &middot; Columbia, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4834,7 +5185,9 @@ keeps a very small stock of it within
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1871-11-30/ed-1/seq-4)
+
 #### 1871-11-30 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4851,7 +5204,9 @@ A
 </tr></table>
 
 <hr />
+
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1871-11-30/ed-1/seq-3)
+
 #### 1871-11-30 &middot; Ridgway, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4868,7 +5223,9 @@ dark asks to be cheated
 </tr></table>
 
 <hr />
+
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-12-07/ed-1/seq-4)
+
 #### 1871-12-07 &middot; Tiffin, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4937,7 +5294,9 @@ will lie sure to blacken you.
 </tr></table>
 
 <hr />
+
 ## [From _The Iowa plain dealer._](https://chroniclingamerica.loc.gov/lccn/sn83025167/1871-12-08/ed-1/seq-4)
+
 #### 1871-12-08 &middot; New Oregon, Howard County, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4954,7 +5313,9 @@ in*
 </tr></table>
 
 <hr />
+
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1871-12-09/ed-1/seq-8)
+
 #### 1871-12-09 &middot; Albany, Or.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4977,7 +5338,9 @@ kind.&quot;; :-:. --&quot; - -&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1871-12-13/ed-1/seq-1)
+
 #### 1871-12-13 &middot; Richmond, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5027,7 +5390,9 @@ his own character
 </tr></table>
 
 <hr />
+
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1871-12-29/ed-1/seq-1)
+
 #### 1871-12-29 &middot; Dodgeville, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5044,7 +5409,9 @@ within
 </tr></table>
 
 <hr />
+
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1872-01-06/ed-1/seq-1)
+
 #### 1872-01-06 &middot; Frostburg, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5061,17 +5428,25 @@ within
 </tr></table>
 
 <hr />
+
 ## Grains of Gold
+
 #### From _Daily evening bulletin._
+
 #### 1872-02-03 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## Sense and Sentiment
+
 #### From _Daily evening bulletin._
+
 #### 1872-02-13 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1872-02-17/ed-1/seq-1)
+
 #### 1872-02-17 &middot; Donaldsonville, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5150,7 +5525,9 @@ you.-Exchanle.
 </tr></table>
 
 <hr />
+
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1872-02-17/ed-1/seq-1)
+
 #### 1872-02-17 &middot; Olympia, Wash. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5166,7 +5543,9 @@ rWHOLE NO. 588;
 </tr></table>
 
 <hr />
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1872-03-01/ed-1/seq-1)
+
 #### 1872-03-01 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5182,7 +5561,9 @@ small stock of it within.
 </tr></table>
 
 <hr />
+
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1872-03-07/ed-1/seq-1)
+
 #### 1872-03-07 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5224,7 +5605,9 @@ his own character
 </tr></table>
 
 <hr />
+
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1872-04-27/ed-1/seq-2)
+
 #### 1872-04-27 &middot; Gold Hill, N.T. [Nev.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5240,7 +5623,9 @@ keep· «very small stock of it within.
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1872-06-19/ed-1/seq-4)
+
 #### 1872-06-19 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5259,7 +5644,9 @@ In conversation, a wise man ma
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1872-06-20/ed-1/seq-1)
+
 #### 1872-06-20 &middot; Ravenna, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5298,7 +5685,9 @@ bag, and count monev after vour ow
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1872-06-20/ed-1/seq-1)
+
 #### 1872-06-20 &middot; Ravenna, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5317,7 +5706,9 @@ value his character.-&#x27; &quot;
 </tr></table>
 
 <hr />
+
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1872-07-31/ed-1/seq-1)
+
 #### 1872-07-31 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5332,7 +5723,9 @@ sure te&quot;&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1872-08-16/ed-1/seq-1)
+
 #### 1872-08-16 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5354,7 +5747,9 @@ E. Dwight, of Hudson, Michigan, ha
 </tr></table>
 
 <hr />
+
 ## [From _The Charleston daily news._](https://chroniclingamerica.loc.gov/lccn/sn84026994/1872-08-20/ed-1/seq-3)
+
 #### 1872-08-20 &middot; Charleston, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5391,7 +5786,9 @@ Chested.
 </tr></table>
 
 <hr />
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1872-08-28/ed-1/seq-1)
+
 #### 1872-08-28 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5422,7 +5819,9 @@ fools&#x27; heads.
 </tr></table>
 
 <hr />
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1872-08-28/ed-1/seq-1)
+
 #### 1872-08-28 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5441,7 +5840,9 @@ tan) Presidency aro consideriag. the expe
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1872-08-29/ed-1/seq-3)
+
 #### 1872-08-29 &middot; Ottumwa, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5460,7 +5861,9 @@ Sadly contemplating the result o
 </tr></table>
 
 <hr />
+
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1872-08-29/ed-1/seq-4)
+
 #### 1872-08-29 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5476,17 +5879,25 @@ blacken yow-SpurgooT
 </tr></table>
 
 <hr />
+
 ## Sayings of Spurgeon
+
 #### From _Georgia weekly telegraph and Georgia journal & messenger._
+
 #### 1872-09-03 &middot; Macon, Ga.
 [This text is not available under an open license.]
 <hr />
+
 ## Odds and Ends.
+
 #### From _New York Observer and Chronicle (1833-1912)_
+
 #### 1872-09-05 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Vinton record._](https://chroniclingamerica.loc.gov/lccn/sn85038222/1872-09-19/ed-1/seq-4)
+
 #### 1872-09-19 &middot; M'arthur, Vinton County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5506,7 +5917,9 @@ cheated.
 </tr></table>
 
 <hr />
+
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1872-09-19/ed-1/seq-1)
+
 #### 1872-09-19 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5523,12 +5936,17 @@ A gentleman advertised for
 </tr></table>
 
 <hr />
+
 ## All Sorts of Items
+
 #### From _Daily evening bulletin._
+
 #### 1872-09-21 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1872-09-25/ed-1/seq-1)
+
 #### 1872-09-25 &middot; Troy, Lincoln County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5544,7 +5962,9 @@ for they will bo snre lo blaeken yon
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1872-10-05/ed-1/seq-4)
+
 #### 1872-10-05 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5565,7 +5985,9 @@ to bit
 </tr></table>
 
 <hr />
+
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1872-10-10/ed-1/seq-4)
+
 #### 1872-10-10 &middot; Point Pleasant, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5582,7 +6004,9 @@ The mother of the Worrell sisters turned
 </tr></table>
 
 <hr />
+
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1872-10-12/ed-1/seq-1)
+
 #### 1872-10-12 &middot; Charlestown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5611,7 +6035,9 @@ means no more than it. says
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1872-11-14_45_46?page=7)
+
 #### 1872-11-14 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5627,12 +6053,17 @@ you.—Spurgeon.
 </tr></table>
 
 <hr />
+
 ## When you see a man with a great deal of religion displayed in his shop window, you may depend upon it he keeps a very small stock of it within
+
 #### From _The Congregationalist._
+
 #### 1872-11-21 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1873-01-04/ed-1/seq-2)
+
 #### 1873-01-04 &middot; Columbia, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5653,7 +6084,9 @@ good mousers
 </tr></table>
 
 <hr />
+
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-01-09/ed-1/seq-2)
+
 #### 1873-01-09 &middot; Ridgway, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5668,7 +6101,9 @@ f wo grinders they are very opt to bite.
 </tr></table>
 
 <hr />
+
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1873-04-12/ed-1/seq-4)
+
 #### 1873-04-12 &middot; Weaverville, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5738,7 +6173,9 @@ tor they will be sure to blacken you
 </tr></table>
 
 <hr />
+
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-04-12/ed-1/seq-1)
+
 #### 1873-04-12 &middot; Auburn, Placer County, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5808,7 +6245,9 @@ A Fearful Vistou.—The Paris Sob- r
 </tr></table>
 
 <hr />
+
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1873-06-13/ed-1/seq-1)
+
 #### 1873-06-13 &middot; Savannah, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5826,7 +6265,9 @@ A dbdnkex Toledo man wrote on th
 </tr></table>
 
 <hr />
+
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1873-06-13/ed-1/seq-1)
+
 #### 1873-06-13 &middot; Savannah, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5840,7 +6281,9 @@ dark asks to be cheate
 </tr></table>
 
 <hr />
+
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1873-06-14/ed-1/seq-1)
+
 #### 1873-06-14 &middot; Frostburg, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5858,7 +6301,9 @@ dark asks to be cheated
 </tr></table>
 
 <hr />
+
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1873-06-14/ed-1/seq-1)
+
 #### 1873-06-14 &middot; Frostburg, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5871,7 +6316,9 @@ handsome shoes often pinch the feet.
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1874-03-26/ed-1/seq-4)
+
 #### 1874-03-26 &middot; Ravenna, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5886,7 +6333,9 @@ dark asks to be cheated
 </tr></table>
 
 <hr />
+
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1874-10-29/ed-1/seq-3)
+
 #### 1874-10-29 &middot; Ottumwa, Wapello County, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5903,7 +6352,9 @@ own character. Bo virtuous and yo
 </tr></table>
 
 <hr />
+
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1874-11-25/ed-1/seq-3)
+
 #### 1874-11-25 &middot; Alexandria, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5917,7 +6368,9 @@ pinch the feet
 </tr></table>
 
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-12-04/ed-1/seq-3)
+
 #### 1874-12-04 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5930,7 +6383,9 @@ handsome shoes often pinch the feet
 </tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1874-12-17/ed-1/seq-4)
+
 #### 1874-12-17 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5943,7 +6398,9 @@ handsome shoes often pinch the feet..
 </tr></table>
 
 <hr />
+
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-05-27/ed-1/seq-4)
+
 #### 1875-05-27 &middot; Centre Hall, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5965,7 +6422,9 @@ kind
 </tr></table>
 
 <hr />
+
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1875-07-08/ed-1/seq-4)
+
 #### 1875-07-08 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5981,7 +6440,9 @@ small stock of it within
 </tr></table>
 
 <hr />
+
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
+
 #### 1875-09-08 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6000,7 +6461,9 @@ than a thorough rogue
 </tr></table>
 
 <hr />
+
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
+
 #### 1875-09-08 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6017,7 +6480,9 @@ own kind.
 </tr></table>
 
 <hr />
+
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
+
 #### 1875-09-08 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6049,8 +6514,11 @@ keeps a very small stock of it within
 </tr></table>
 
 <hr />
+
 ## [GOOD ADVICE.](http://trove.nla.gov.au/ndp/del/article/68582609)
+
 #### From _Williamstown Chronicle (Vic. : 1856 - 1954)_
+
 #### 1876-06-24 &middot; Williamstown, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6078,8 +6546,11 @@ means no more than it says
 </td></tr></table>
 
 <hr />
+
 ## [GOOD ADVICE](http://trove.nla.gov.au/ndp/del/article/63316813)
+
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
+
 #### 1876-07-11 &middot; Portland, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6092,8 +6563,11 @@ own kind. Don&#x27;t go to law, unless yo
 </td></tr></table>
 
 <hr />
+
 ## [GOOD ADVICE](http://trove.nla.gov.au/ndp/del/article/63316813)
+
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
+
 #### 1876-07-11 &middot; Portland, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6115,7 +6589,9 @@ no more than it says. &amp;nbsp
 </td></tr></table>
 
 <hr />
+
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1876-08-03/ed-1/seq-4)
+
 #### 1876-08-03 &middot; Centre Hall, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6129,7 +6605,9 @@ than a thorough rogue.
 </tr></table>
 
 <hr />
+
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1876-08-09/ed-1/seq-4)
+
 #### 1876-08-09 &middot; Abbeville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6148,7 +6626,9 @@ than a thorough rogue.
 </tr></table>
 
 <hr />
+
 ## [From _Port Royal standard and commercial._](https://chroniclingamerica.loc.gov/lccn/sn85026954/1876-08-10/ed-1/seq-1)
+
 #### 1876-08-10 &middot; Beaufort, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6168,8 +6648,11 @@ than a thorough rogue
 </tr></table>
 
 <hr />
+
 ## [GOOD ADVICE.](http://trove.nla.gov.au/ndp/del/article/96881833)
+
 #### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
+
 #### 1876-09-28 &middot; Port Elliot, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6182,8 +6665,11 @@ kind. Don&#x27;t go to law, unless you hav
 </td></tr></table>
 
 <hr />
+
 ## [GOOD ADVICE.](http://trove.nla.gov.au/ndp/del/article/96881833)
+
 #### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
+
 #### 1876-09-28 &middot; Port Elliot, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6203,7 +6689,9 @@ no more than it says.
 </td></tr></table>
 
 <hr />
+
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1877-08-08/ed-1/seq-6)
+
 #### 1877-08-08 &middot; Watertown, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6276,7 +6764,9 @@ will be sure to blacken you.—Rev. C. If
 </tr></table>
 
 <hr />
+
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1877-08-09/ed-1/seq-4)
+
 #### 1877-08-09 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6349,8 +6839,11 @@ will be sure to blacken you.—Rev. C. H
 </tr></table>
 
 <hr />
+
 ## [GEMS FOR THE THOUGHTFUL.](http://trove.nla.gov.au/ndp/del/article/130883581)
+
 #### From _The Grenfell Record and Lachlan District Advertiser (NSW : 1876 - 1951)_
+
 #### 1877-09-08 &middot; Grenfell, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6360,7 +6853,9 @@ than a thorough rogue. A teetotaler ca
 </td></tr></table>
 
 <hr />
+
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1877-09-19/ed-1/seq-1)
+
 #### 1877-09-19 &middot; Smyrna, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6427,7 +6922,9 @@ base character; for they will b
 </tr></table>
 
 <hr />
+
 ## [From _Alpena weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn85033549/1878-04-03/ed-1/seq-4)
+
 #### 1878-04-03 &middot; Alpena, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6479,7 +6976,9 @@ the dark asks to be cheated
 </tr></table>
 
 <hr />
+
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1878-05-10/ed-1/seq-4)
+
 #### 1878-05-10 &middot; Findlay, Hancock County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6536,7 +7035,9 @@ his own character.
 </tr></table>
 
 <hr />
+
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1878-05-24/ed-1/seq-1)
+
 #### 1878-05-24 &middot; Ashtabula, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6574,7 +7075,9 @@ kind
 </tr></table>
 
 <hr />
+
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1878-05-24/ed-1/seq-1)
+
 #### 1878-05-24 &middot; Ashtabula, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6592,7 +7095,9 @@ value his own character.
 </tr></table>
 
 <hr />
+
 ## [From _The Troy herald._](https://chroniclingamerica.loc.gov/lccn/sn86063984/1878-05-29/ed-1/seq-3)
+
 #### 1878-05-29 &middot; Troy, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6642,7 +7147,9 @@ Keep clear
 </tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1878-11-28/ed-1/seq-1)
+
 #### 1878-11-28 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6690,7 +7197,9 @@ kind
 </tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1878-11-28/ed-1/seq-1)
+
 #### 1878-11-28 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6708,8 +7217,11 @@ value his own character
 </tr></table>
 
 <hr />
+
 ## [Something Worth Reading](http://trove.nla.gov.au/ndp/del/article/78834405)
+
 #### From _The Singleton Argus and Upper Hunter General Advocate (NSW : 1874 - 1880)_
+
 #### 1879-07-09 &middot; Singleton, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6773,8 +7285,11 @@ you may depend You&#x27;ll have pence to you
 </td></tr></table>
 
 <hr />
+
 ## [ON KEEPING ONE'S EYES OPEN.](http://trove.nla.gov.au/ndp/del/article/101447530)
+
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
+
 #### 1879-07-14 &middot; Goulburn, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6837,8 +7352,11 @@ t?b bullsj,and; madmen ; iand .nov?
 </td></tr></table>
 
 <hr />
+
 ## [Something Worth Reading. ON KEEPING ONE'S EYES OPEN.](http://trove.nla.gov.au/ndp/del/article/132979049)
+
 #### From _The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881)_
+
 #### 1879-07-17 &middot; Nowra, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6905,7 +7423,9 @@ dopond e You&#x27;ll havo pcaco to your end.
 </td></tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-08-06/ed-1/seq-4)
+
 #### 1879-08-06 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6945,7 +7465,9 @@ kind
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-08-06/ed-1/seq-4)
+
 #### 1879-08-06 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6963,7 +7485,9 @@ value bis character
 </tr></table>
 
 <hr />
+
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1879-09-10/ed-1/seq-1)
+
 #### 1879-09-10 &middot; Newtown, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6978,7 +7502,9 @@ for they will be sure to blackeu you
 </tr></table>
 
 <hr />
+
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1879-09-10/ed-1/seq-1)
+
 #### 1879-09-10 &middot; Smyrna, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6998,7 +7524,9 @@ Horatio Seymour walks through th
 </tr></table>
 
 <hr />
+
 ## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1879-10-18/ed-1/seq-1)
+
 #### 1879-10-18 &middot; Walla Walla, Wash. Terr.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7062,8 +7590,11 @@ You&#x27;ll hare peace to your rial.
 </tr></table>
 
 <hr />
+
 ## [SOMETHING WORTH READING. ON KEEPING ONE'S EYES OPEN.](http://trove.nla.gov.au/ndp/del/article/127638875)
+
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
+
 #### 1880-04-30 &middot; Gundagai, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7127,7 +7658,9 @@ you may depend You&#x27;ll bare peace to you
 </td></tr></table>
 
 <hr />
+
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1881-06-30/ed-1/seq-1)
+
 #### 1881-06-30 &middot; Mexico, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7191,7 +7724,9 @@ he keeps a very small stock of it within
 </tr></table>
 
 <hr />
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1881-09-24/ed-1/seq-1)
+
 #### 1881-09-24 &middot; Shepherdstown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7236,7 +7771,9 @@ Largest Land Owxeh on tiir Con-
 </tr></table>
 
 <hr />
+
 ## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1881-09-26/ed-1/seq-3)
+
 #### 1881-09-26 &middot; Wheeling, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7269,7 +7806,9 @@ own kin.
 </tr></table>
 
 <hr />
+
 ## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1881-09-26/ed-1/seq-3)
+
 #### 1881-09-26 &middot; Wheeling, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7285,7 +7824,9 @@ A New Firm
 </tr></table>
 
 <hr />
+
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1884-04-07/ed-1/seq-1)
+
 #### 1884-04-07 &middot; Barton, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7355,17 +7896,25 @@ WONDERFUL PHENOMENA I
 </tr></table>
 
 <hr />
+
 ## SCRAPS.
+
 #### From _North Wales Chronicle_
+
 #### 1884-11-08 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## SCRAPS.
+
 #### From _North Wales Chronicle_
+
 #### 1884-11-08 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1887-02-05/ed-1/seq-4)
+
 #### 1887-02-05 &middot; Penn's Grove, Salem Co., N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7382,7 +7931,9 @@ to bite
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-02-09/ed-1/seq-4)
+
 #### 1887-02-09 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7401,12 +7952,17 @@ to bite.
 </tr></table>
 
 <hr />
+
 ## WELSH QUESTIONS IN PARLIAMENT.
+
 #### From _North Wales Chronicle_
+
 #### 1888-07-21 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1888-09-06/ed-1/seq-4)
+
 #### 1888-09-06 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7422,7 +7978,9 @@ keeps a very small stock of it within.
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1889-04-11/ed-1/seq-4)
+
 #### 1889-04-11 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7441,7 +7999,9 @@ We can only know ourselves throtur
 </tr></table>
 
 <hr />
+
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1889-10-28/ed-1/seq-4)
+
 #### 1889-10-28 &middot; Barton, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7510,7 +8070,9 @@ fish till they are caught in the net
 </tr></table>
 
 <hr />
+
 ## [From _Chariton courier._](https://chroniclingamerica.loc.gov/lccn/sn88068010/1889-12-05/ed-1/seq-4)
+
 #### 1889-12-05 &middot; Keytesville, Chariton County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7534,7 +8096,9 @@ tn the dark asks to be cheated
 </tr></table>
 
 <hr />
+
 ## [From _Union County courier._](https://chroniclingamerica.loc.gov/lccn/sn84022137/1889-12-11/ed-1/seq-3)
+
 #### 1889-12-11 &middot; Elk Point, Union County, D.T. [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7563,7 +8127,9 @@ At a regular meeting of Stephe
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1889-12-12/ed-1/seq-1)
+
 #### 1889-12-12 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7594,7 +8160,9 @@ to the W. C. T. U. of this city fro
 </tr></table>
 
 <hr />
+
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1890-01-10/ed-1/seq-1)
+
 #### 1890-01-10 &middot; Woodstock, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7642,7 +8210,9 @@ in the net
 </tr></table>
 
 <hr />
+
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1890-02-20/ed-1/seq-4)
+
 #### 1890-02-20 &middot; Mechanicstown, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7708,7 +8278,9 @@ caught in the net
 </tr></table>
 
 <hr />
+
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1890-03-20/ed-1/seq-4)
+
 #### 1890-03-20 &middot; Stillwater, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7721,7 +8293,9 @@ Handsome shoes often pinch the feet
 </tr></table>
 
 <hr />
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1890-03-21/ed-1/seq-1)
+
 #### 1890-03-21 &middot; Shepherdstown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7765,7 +8339,9 @@ fi?ti till they are caught in the net
 </tr></table>
 
 <hr />
+
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1890-04-04/ed-1/seq-3)
+
 #### 1890-04-04 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7789,7 +8365,9 @@ In tbo head, as well as of all bronchial
 </tr></table>
 
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1890-04-11/ed-1/seq-4)
+
 #### 1890-04-11 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7833,7 +8411,9 @@ ftab till they sre caught in the net
 </tr></table>
 
 <hr />
+
 ## [From _Barton County democrat._](https://chroniclingamerica.loc.gov/lccn/sn83040198/1890-04-24/ed-1/seq-1)
+
 #### 1890-04-24 &middot; Great Bend, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7856,7 +8436,9 @@ I no alls, according to the papers
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1890-04-24/ed-1/seq-3)
+
 #### 1890-04-24 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7879,7 +8461,9 @@ cheats or asks to be cheated.
 </tr></table>
 
 <hr />
+
 ## [From _The gold leaf._](https://chroniclingamerica.loc.gov/lccn/sn91068402/1890-05-29/ed-1/seq-3)
+
 #### 1890-05-29 &middot; Henderson, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7905,7 +8489,9 @@ The call for an election to vote o
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1890-08-21/ed-1/seq-4)
+
 #### 1890-08-21 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7921,7 +8507,9 @@ of God and of men is the only certificat
 </tr></table>
 
 <hr />
+
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1891-08-21/ed-1/seq-3)
+
 #### 1891-08-21 &middot; Woodstock, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7940,7 +8528,9 @@ who trade? in the dark asks to be cheated.
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1891-09-29/ed-1/seq-2)
+
 #### 1891-09-29 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7964,7 +8554,9 @@ asks to be cheated
 </tr></table>
 
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1891-10-02/ed-1/seq-1)
+
 #### 1891-10-02 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7987,7 +8579,9 @@ ly see some work that tome othe
 </tr></table>
 
 <hr />
+
 ## [From _Fair play._](https://chroniclingamerica.loc.gov/lccn/sn87052181/1891-12-12/ed-1/seq-2)
+
 #### 1891-12-12 &middot; Ste. Genevieve [Mo.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8010,7 +8604,9 @@ asks to be cheated. Never r
 </tr></table>
 
 <hr />
+
 ## [From _Blackfoot news._](https://chroniclingamerica.loc.gov/lccn/sn88056017/1892-01-23/ed-1/seq-1)
+
 #### 1892-01-23 &middot; Blackfoot, Idaho
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8036,7 +8632,9 @@ Never put confidence in a man wh
 </tr></table>
 
 <hr />
+
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1892-03-09/ed-1/seq-3)
+
 #### 1892-03-09 &middot; Tionesta, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8059,7 +8657,9 @@ cheated
 </tr></table>
 
 <hr />
+
 ## [From _The Butler weekly times._](https://chroniclingamerica.loc.gov/lccn/sn89066489/1892-05-04/ed-1/seq-7)
+
 #### 1892-05-04 &middot; Butler, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8081,7 +8681,9 @@ sack before you buy what is in it, &#x27; u t was ma-elous. I could hardl
 </tr></table>
 
 <hr />
+
 ## [From _Warren sheaf._](https://chroniclingamerica.loc.gov/lccn/sn90059228/1892-05-12/ed-1/seq-5)
+
 #### 1892-05-12 &middot; Warren, Marshall County, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8107,8 +8709,11 @@ The May term of dis
 </tr></table>
 
 <hr />
+
 ## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/87681519)
+
 #### From _The McIvor Times and Rodney Advertiser (Heathcote, Vic. : 1863 - 1918)_
+
 #### 1893-11-16 &middot; McIvor, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8121,8 +8726,11 @@ stock of it within
 </td></tr></table>
 
 <hr />
+
 ## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/65404339)
+
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
+
 #### 1893-11-17 &middot; Portland, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8134,8 +8742,11 @@ a very small stock of it within
 </td></tr></table>
 
 <hr />
+
 ## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/65533972)
+
 #### From _Euroa Advertiser (Vic. : 1884 - 1920)_
+
 #### 1893-11-17 &middot; Euroa, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8148,8 +8759,11 @@ within
 </td></tr></table>
 
 <hr />
+
 ## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/72943090)
+
 #### From _The Horsham Times (Vic. : 1882 - 1954)_
+
 #### 1893-11-17 &middot; Horsham, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8166,8 +8780,11 @@ small stock of it within
 </td></tr></table>
 
 <hr />
+
 ## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/18609848)
+
 #### From _Camperdown Chronicle (Vic. : 1877 - 1954)_
+
 #### 1893-11-18 &middot; Camperdown, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8180,7 +8797,9 @@ stock of it within. ;&#x27; •&quot; &#x27; ■;&#x27; -&#x27;■&quot;■
 </td></tr></table>
 
 <hr />
+
 ## [From _Mohave County miner._](https://chroniclingamerica.loc.gov/lccn/sn84024828/1894-04-07/ed-1/seq-3)
+
 #### 1894-04-07 &middot; Mineral Park, A.T. [Ariz.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8201,7 +8820,9 @@ trades in the dark auks to be cheated &quot;
 </tr></table>
 
 <hr />
+
 ## [From _Brookings register._](https://chroniclingamerica.loc.gov/lccn/sn2001063544/1894-05-25/ed-1/seq-5)
+
 #### 1894-05-25 &middot; Brookings, S.D.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8225,7 +8846,9 @@ asks to be cheated.—Ex
 </tr></table>
 
 <hr />
+
 ## [From _Reporter and farmer._](https://chroniclingamerica.loc.gov/lccn/sn99068116/1894-06-14/ed-1/seq-5)
+
 #### 1894-06-14 &middot; Webster, Day County, Dakota [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8248,7 +8871,9 @@ be cheated.— Plankinton Herald.
 </tr></table>
 
 <hr />
+
 ## [From _Western Kansas world._](https://chroniclingamerica.loc.gov/lccn/sn82015485/1894-06-16/ed-1/seq-3)
+
 #### 1894-06-16 &middot; WaKeeney, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8274,7 +8899,9 @@ Wheat in the eastert part of th
 </tr></table>
 
 <hr />
+
 ## [From _Union County courier._](https://chroniclingamerica.loc.gov/lccn/sn84022137/1894-06-21/ed-1/seq-2)
+
 #### 1894-06-21 &middot; Elk Point, Union County, D.T. [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8301,12 +8928,17 @@ All the calculations of both bime
 </tr></table>
 
 <hr />
+
 ## Local News
+
 #### From _The Council Grove Republican._
+
 #### 1894-11-30 &middot; Council Grove, Kan.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1895-05-17/ed-1/seq-3)
+
 #### 1895-05-17 &middot; Ebensburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8331,7 +8963,9 @@ cheated.
 </tr></table>
 
 <hr />
+
 ## [From _Chariton courier._](https://chroniclingamerica.loc.gov/lccn/sn88068010/1895-05-24/ed-1/seq-3)
+
 #### 1895-05-24 &middot; Keytesville, Chariton County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8362,7 +8996,9 @@ Dry Goods Co.
 </tr></table>
 
 <hr />
+
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1895-06-05/ed-1/seq-4)
+
 #### 1895-06-05 &middot; Tionesta, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8387,7 +9023,9 @@ in the dark aides to be cheated.
 </tr></table>
 
 <hr />
+
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1896-03-04/ed-1/seq-2)
+
 #### 1896-03-04 &middot; Somerset, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8410,7 +9048,9 @@ The total vote of the Populist party o
 </tr></table>
 
 <hr />
+
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1896-03-20/ed-1/seq-3)
+
 #### 1896-03-20 &middot; Ebensburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8432,7 +9072,9 @@ cheated
 </tr></table>
 
 <hr />
+
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1896-06-18/ed-1/seq-8)
+
 #### 1896-06-18 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

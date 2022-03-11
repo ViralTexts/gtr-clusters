@@ -1,8 +1,14 @@
+
 # Be Careful What You Say
+
 ### 135 reprints from 1873-10-10 to 1899-04-01 [cl8589934656]
+
 ## [Be Careful What You Say](http://chroniclingamerica.loc.gov/lccn/sn83032041/1873-10-10/ed-1/seq-1/)
+
 #### by Charles Carroll Sanger
+
 #### From _The Cambria Freeman_
+
 #### 1873-10-10
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -45,7 +51,9 @@ We have none of our own.
 </td></tr></table>
 
 <hr />
+
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1873-10-10/ed-1/seq-1)
+
 #### 1873-10-10 &middot; Ebensburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -82,7 +90,9 @@ We have non of our own.
 </tr></table>
 
 <hr />
+
 ## [From _The Volcano lubricator._](https://chroniclingamerica.loc.gov/lccn/sn86092474/1874-02-26/ed-1/seq-3)
+
 #### 1874-02-26 &middot; Volcano, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -109,8 +119,11 @@ Think of the ha
 </tr></table>
 
 <hr />
+
 ## [SELECT POETRY. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/111336269)
+
 #### From _The Newcastle Chronicle (NSW : 1866 - 1876)_
+
 #### 1874-03-10 &middot; Newcastle, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -130,7 +143,9 @@ foe, , Think of
 </td></tr></table>
 
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-03-20/ed-1/seq-1)
+
 #### 1874-03-20 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -168,8 +183,11 @@ lhiuk of the h
 </tr></table>
 
 <hr />
+
 ## [Selected Poetry. BE CAREFUL WHAT YOU SAY. DEDICATED TO](http://trove.nla.gov.au/ndp/del/article/128491277)
+
 #### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
+
 #### 1874-04-10 &middot; Port Elliot, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -198,7 +216,9 @@ friend or foe, Think of the harm o
 </td></tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1874-05-22/ed-1/seq-1)
+
 #### 1874-05-22 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -226,12 +246,17 @@ Think of the barm
 </tr></table>
 
 <hr />
+
 ## BE CAREFUL WHAT YOU SAY.
+
 #### From _Western Christian Advocate (1834-1883)_
+
 #### 1874-09-09 &middot; Cincinnati
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Vermont farmer._](https://chroniclingamerica.loc.gov/lccn/sn84023255/1874-09-11/ed-1/seq-1)
+
 #### 1874-09-11 &middot; Newport, Orleans County, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -259,12 +284,17 @@ Think of
 </tr></table>
 
 <hr />
+
 ## Selected Poetry
+
 #### From _Boston investigator._
+
 #### 1874-09-16 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1874-10-31/ed-1/seq-1)
+
 #### 1874-10-31 &middot; Shepherdstown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -302,7 +332,9 @@ i To slander friend or l
 </tr></table>
 
 <hr />
+
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1874-11-05/ed-1/seq-1)
+
 #### 1874-11-05 &middot; Woodstock, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -338,7 +370,9 @@ Then let ns a
 </tr></table>
 
 <hr />
+
 ## [From _The enquirer southerner._](https://chroniclingamerica.loc.gov/lccn/sn92073987/1874-11-06/ed-1/seq-4)
+
 #### 1874-11-06 &middot; Tarboro', N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -376,7 +410,9 @@ Think of the harm o
 </tr></table>
 
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-11-06/ed-1/seq-1)
+
 #### 1874-11-06 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -403,7 +439,9 @@ To slander friend or foe,
 </tr></table>
 
 <hr />
+
 ## [From _Huntington advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026801/1874-12-03/ed-1/seq-1)
+
 #### 1874-12-03 &middot; Huntington, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -440,7 +478,9 @@ To slander friend or
 </tr></table>
 
 <hr />
+
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1875-01-14/ed-1/seq-4)
+
 #### 1875-01-14 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -483,7 +523,9 @@ We hare none of onr own
 </tr></table>
 
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1875-01-21/ed-1/seq-4)
+
 #### 1875-01-21 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -521,7 +563,9 @@ Think of the harm one
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1875-02-04/ed-1/seq-1)
+
 #### 1875-02-04 &middot; Ravenna, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -557,7 +601,9 @@ Then let us al
 </tr></table>
 
 <hr />
+
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1875-02-05/ed-1/seq-4)
+
 #### 1875-02-05 &middot; Findlay, Hancock County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -595,7 +641,9 @@ Think of the harm one wo
 </tr></table>
 
 <hr />
+
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1875-02-06/ed-1/seq-1)
+
 #### 1875-02-06 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -631,7 +679,9 @@ Then let us all
 </tr></table>
 
 <hr />
+
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210?page=1)
+
 #### 1875-02-27
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -681,7 +731,9 @@ Then let us
 </tr></table>
 
 <hr />
+
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-03-24/ed-1/seq-1)
+
 #### 1875-03-24 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -709,7 +761,9 @@ Think of the harm o
 </tr></table>
 
 <hr />
+
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1875-04-08/ed-1/seq-1)
+
 #### 1875-04-08 &middot; Fayetteville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -749,7 +803,9 @@ To slander friend or foe,
 </tr></table>
 
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1875-05-20/ed-1/seq-1)
+
 #### 1875-05-20 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -786,8 +842,11 @@ We have none of our own.
 </tr></table>
 
 <hr />
+
 ## [Poetry. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/130909090)
+
 #### From _The Mining Record and Grenfell General Advertiser (NSW : 1867 - 1876)_
+
 #### 1875-06-05 &middot; Grenfell, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -817,8 +876,11 @@ Think.,
 </td></tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY. C.C.C.](http://trove.nla.gov.au/ndp/del/article/101875445)
+
 #### From _Wagga Wagga Advertiser (NSW : 1875 - 1910)_
+
 #### 1875-06-12 &middot; Wagga Wagga, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -847,8 +909,11 @@ foe, Think of the harm o
 </td></tr></table>
 
 <hr />
+
 ## [THE FAULTS OF OTHERS.](http://trove.nla.gov.au/ndp/del/article/30598455)
+
 #### From _Queanbeyan Age (NSW : 1867 - 1904)_
+
 #### 1875-06-23 &middot; Queanbeyan, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -877,7 +942,9 @@ Think of the har
 </td></tr></table>
 
 <hr />
+
 ## [From _Orangeburg news and times._](https://chroniclingamerica.loc.gov/lccn/sn86053227/1875-07-03/ed-1/seq-1)
+
 #### 1875-07-03 &middot; Orangeburg, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -913,7 +980,9 @@ h&#x27;hjen letjv^l?wlH&#x27;?we cni?frieuc
 </tr></table>
 
 <hr />
+
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1875-12-17/ed-1/seq-5)
+
 #### 1875-12-17 &middot; Jefferson City, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -945,7 +1014,9 @@ Think of the harm
 </tr></table>
 
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-01-06/ed-1/seq-1)
+
 #### 1876-01-06 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -985,7 +1056,9 @@ Think of the harm on
 </tr></table>
 
 <hr />
+
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1876-01-17/ed-1/seq-1)
+
 #### 1876-01-17 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1023,7 +1096,9 @@ Think of the harm
 </tr></table>
 
 <hr />
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1876-03-02/ed-1/seq-1)
+
 #### 1876-03-02 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1061,7 +1136,9 @@ Think of the
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1876-03-03/ed-1/seq-1)
+
 #### 1876-03-03 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1099,8 +1176,11 @@ Think of the barm
 </tr></table>
 
 <hr />
+
 ## [SELECTED POETRY. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/97420798)
+
 #### From _Western Star and Roma Advertiser (Toowoomba, Qld. : 1875 - 1948)_
+
 #### 1876-04-22 &middot; Toowoomba, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1120,8 +1200,11 @@ foe, Think of the harm
 </td></tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/61913529)
+
 #### From _Gippsland Times (Vic. : 1861 - 1954)_
+
 #### 1876-04-27 &middot; Gippsland, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1152,8 +1235,11 @@ friend or foe, Th
 </td></tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/170433114)
+
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
+
 #### 1876-09-02 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1180,7 +1266,9 @@ others
 </td></tr></table>
 
 <hr />
+
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1876-09-27/ed-1/seq-1)
+
 #### 1876-09-27 &middot; Newberry, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1217,7 +1305,9 @@ To slander friend or foe,
 </tr></table>
 
 <hr />
+
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1876-10-13/ed-1/seq-1)
+
 #### 1876-10-13 &middot; Salisbury, Litchfield Co., Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1260,7 +1350,9 @@ We have none of oar own.
 </tr></table>
 
 <hr />
+
 ## [From _Port Royal standard and commercial._](https://chroniclingamerica.loc.gov/lccn/sn85026954/1876-10-26/ed-1/seq-1)
+
 #### 1876-10-26 &middot; Beaufort, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1293,7 +1385,9 @@ And
 </tr></table>
 
 <hr />
+
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1876-11-01/ed-1/seq-4)
+
 #### 1876-11-01 &middot; Abbeville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1331,7 +1425,9 @@ We have none of our own
 </tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-11-09/ed-1/seq-4)
+
 #### 1876-11-09 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1368,7 +1464,9 @@ To slander frie
 </tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-11-09/ed-2/seq-4)
+
 #### 1876-11-09 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1404,7 +1502,9 @@ Wo have none of our own
 </tr></table>
 
 <hr />
+
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1877-01-11/ed-1/seq-1)
+
 #### 1877-01-11 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1441,7 +1541,9 @@ We have none of our own
 </tr></table>
 
 <hr />
+
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1877-01-25/ed-1/seq-1)
+
 #### 1877-01-25 &middot; Woodstock, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1484,8 +1586,11 @@ We have none of our own
 </tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/141200691)
+
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
+
 #### 1877-01-31 &middot; Riverina Region, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1514,8 +1619,11 @@ or foe. Think of the
 </td></tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/37147143)
+
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
+
 #### 1877-03-13 &middot; Launceston, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1540,7 +1648,9 @@ of thie harm one word may do To those
 </td></tr></table>
 
 <hr />
+
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1877-03-15/ed-1/seq-4)
+
 #### 1877-03-15 &middot; Manitowoc, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1572,7 +1682,9 @@ Think of the harm o
 </tr></table>
 
 <hr />
+
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1877-03-18/ed-1/seq-6)
+
 #### 1877-03-18 &middot; Chicago, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1616,7 +1728,9 @@ Think of the
 </tr></table>
 
 <hr />
+
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1877-03-21/ed-1/seq-7)
+
 #### 1877-03-21 &middot; Watertown, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1646,7 +1760,9 @@ Then let us all wh
 </tr></table>
 
 <hr />
+
 ## [From _Lincoln County advocate._](https://chroniclingamerica.loc.gov/lccn/sn2001063144/1877-03-28/ed-1/seq-2)
+
 #### 1877-03-28 &middot; Canton, Dakota Territory, [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1689,7 +1805,9 @@ Tbink of the harm
 </tr></table>
 
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1877-04-06/ed-1/seq-4)
+
 #### 1877-04-06 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1726,7 +1844,9 @@ W o have none of our own.
 </tr></table>
 
 <hr />
+
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1877-04-13/ed-1/seq-1)
+
 #### 1877-04-13 &middot; Findlay, Hancock County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1758,8 +1878,11 @@ We have none of our own.
 </tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/62076747)
+
 #### From _Clarence and Richmond Examiner and New England Advertiser (Grafton, NSW : 1859 - 1889)_
+
 #### 1877-04-28 &middot; Grafton, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1781,8 +1904,11 @@ those
 </td></tr></table>
 
 <hr />
+
 ## [Select Poetry. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/71726953)
+
 #### From _Northern Star (Lismore, NSW : 1876 - 1954)_
+
 #### 1877-05-05 &middot; Lismore, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1813,7 +1939,9 @@ foe, Think of the harm ono word may do
 </td></tr></table>
 
 <hr />
+
 ## [From _The weekly Union times._](https://chroniclingamerica.loc.gov/lccn/sn84026918/1877-05-25/ed-1/seq-4)
+
 #### 1877-05-25 &middot; Union C.H., South Carolina
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1846,8 +1974,11 @@ Think of the h
 </tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOD SAY.](http://trove.nla.gov.au/ndp/del/article/103372102)
+
 #### From _The Burrowa News (NSW : 1874 - 1951)_
+
 #### 1877-06-02 &middot; Burrowa, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1867,8 +1998,11 @@ of the harm one word may do
 </td></tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/130883403)
+
 #### From _The Grenfell Record and Lachlan District Advertiser (NSW : 1876 - 1951)_
+
 #### 1877-07-07 &middot; Grenfell, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1892,12 +2026,17 @@ others&#x27; faults until We have none of ou
 </td></tr></table>
 
 <hr />
+
 ## Poetic Sermon--"Judge Not."
+
 #### From _Shaker (1876-1877)_
+
 #### 1877-08-01 &middot; Shakers
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8?page=4)
+
 #### 1877-08-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1929,8 +2068,11 @@ Before of others’ tell.
 </tr></table>
 
 <hr />
+
 ## [POETRY. Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/114187588)
+
 #### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
+
 #### 1877-08-03 &middot; Kiama, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1959,8 +2101,11 @@ of the harm one word may do To those
 </td></tr></table>
 
 <hr />
+
 ## [POETRY. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/143908404)
+
 #### From _Cootamundra Herald (NSW : 1877 - 1954)_
+
 #### 1877-09-25 &middot; Cootamundra, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1990,7 +2135,9 @@ do , To those
 </td></tr></table>
 
 <hr />
+
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1878-01-31/ed-1/seq-1)
+
 #### 1878-01-31 &middot; Brownville, Nemaha County, N.T. [Neb.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2028,7 +2175,9 @@ Thinlrof the har
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Union times._](https://chroniclingamerica.loc.gov/lccn/sn84026918/1878-05-17/ed-2/seq-4)
+
 #### 1878-05-17 &middot; Union C.H., South Carolina
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2067,12 +2216,17 @@ Then let us,
 </tr></table>
 
 <hr />
+
 ## Selected.
+
 #### From _Shaker Manifesto (1878-1883)_
+
 #### 1878-10-01 &middot; Shakers
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10?page=16)
+
 #### 1878-10-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2113,7 +2267,9 @@ The faults of others go.
 </tr></table>
 
 <hr />
+
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1878-11-29/ed-1/seq-5)
+
 #### 1878-11-29 &middot; Jefferson City, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2150,7 +2306,9 @@ I No
 </tr></table>
 
 <hr />
+
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1879-02-05/ed-1/seq-1)
+
 #### 1879-02-05 &middot; Newberry, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2178,7 +2336,9 @@ Think of the harm
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-03-20/ed-1/seq-1)
+
 #### 1879-03-20 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2217,7 +2377,9 @@ Think of the harm
 </tr></table>
 
 <hr />
+
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1879-06-12/ed-1/seq-3)
+
 #### 1879-06-12 &middot; Salina, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2252,7 +2414,9 @@ The fsults of others go
 </tr></table>
 
 <hr />
+
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1879-06-25/ed-1/seq-1)
+
 #### 1879-06-25 &middot; Newtown, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2280,7 +2444,9 @@ Think oi the harm
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-07-24/ed-1/seq-4)
+
 #### 1879-07-24 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2319,7 +2485,9 @@ Think of the harm on
 </tr></table>
 
 <hr />
+
 ## [From _Rocky Mountain husbandman._](https://chroniclingamerica.loc.gov/lccn/sn83025309/1879-08-21/ed-1/seq-5)
+
 #### 1879-08-21 &middot; Diamond City, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2355,7 +2523,9 @@ Now let us
 </tr></table>
 
 <hr />
+
 ## [From _St. Tammany farmer._](https://chroniclingamerica.loc.gov/lccn/sn82015387/1880-02-07/ed-1/seq-4)
+
 #### 1880-02-07 &middot; Covington, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2387,7 +2557,9 @@ We have none of our own.
 </tr></table>
 
 <hr />
+
 ## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1880-02-19/ed-1/seq-2)
+
 #### 1880-02-19 &middot; Somerset, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2425,7 +2597,9 @@ Think of the har
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1880-03-11/ed-1/seq-1)
+
 #### 1880-03-11 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2463,8 +2637,11 @@ Think of the harm o
 </tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/141034482)
+
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
+
 #### 1880-07-14 &middot; Riverina Region, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2489,7 +2666,9 @@ Think o| the
 </td></tr></table>
 
 <hr />
+
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1880-09-09/ed-1/seq-1)
+
 #### 1880-09-09 &middot; Mechanicstown, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2517,7 +2696,9 @@ Think of Hie ha
 </tr></table>
 
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1880-09-24/ed-1/seq-1)
+
 #### 1880-09-24 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2546,7 +2727,9 @@ ilinik of the
 </tr></table>
 
 <hr />
+
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1880-11-13/ed-1/seq-1)
+
 #### 1880-11-13 &middot; Frostburg, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2574,8 +2757,11 @@ Think of ti c harm
 </tr></table>
 
 <hr />
+
 ## [SELECTED POETRY. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/101911761)
+
 #### From _Southern Argus (Goulburn, NSW : 1881 - 1885)_
+
 #### 1883-10-27 &middot; Goulburn, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2595,7 +2781,9 @@ know, • - ■ &#x27; ^&#x27; My o&gt;vn shortcoming
 </td></tr></table>
 
 <hr />
+
 ## [From _The Easley messenger._](https://chroniclingamerica.loc.gov/lccn/sn93067656/1884-02-15/ed-1/seq-8)
+
 #### 1884-02-15 &middot; Easley, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2623,7 +2811,9 @@ Thiik of the ha
 </tr></table>
 
 <hr />
+
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1884-02-22/ed-1/seq-4)
+
 #### 1884-02-22 &middot; Bel Air, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2651,7 +2841,9 @@ Think of the harm
 </tr></table>
 
 <hr />
+
 ## [From _The Dillon tribune._](https://chroniclingamerica.loc.gov/lccn/sn85053040/1884-04-05/ed-1/seq-2)
+
 #### 1884-04-05 &middot; Dillon, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2687,7 +2879,9 @@ We have none of our own.
 </tr></table>
 
 <hr />
+
 ## [From _Press and daily Dakotaian._](https://chroniclingamerica.loc.gov/lccn/sn91099608/1884-04-19/ed-1/seq-4)
+
 #### 1884-04-19 &middot; Yankton, Dakota Territory [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2720,7 +2914,9 @@ Think of the haim
 </tr></table>
 
 <hr />
+
 ## [From _The Wahpeton times._](https://chroniclingamerica.loc.gov/lccn/sn84024779/1884-05-02/ed-1/seq-1)
+
 #### 1884-05-02 &middot; Wahpeton, Richland County, Dakota [N.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2762,7 +2958,9 @@ Think of th
 </tr></table>
 
 <hr />
+
 ## [From _Iowa County democrat._](https://chroniclingamerica.loc.gov/lccn/sn86086852/1885-02-13/ed-1/seq-2)
+
 #### 1885-02-13 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2800,7 +2998,9 @@ Think of th
 </tr></table>
 
 <hr />
+
 ## [From _Charlotte home and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020714/1886-01-29/ed-1/seq-1)
+
 #### 1886-01-29 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2838,7 +3038,9 @@ To slander friend or foe,
 </tr></table>
 
 <hr />
+
 ## [From _The Delaware ledger._](https://chroniclingamerica.loc.gov/lccn/sn88053022/1886-05-15/ed-1/seq-4)
+
 #### 1886-05-15 &middot; Newark, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2903,7 +3105,9 @@ Think of
 </tr></table>
 
 <hr />
+
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-02-14_18_7?page=5)
+
 #### 1887-02-14 &middot; Lansing
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2945,7 +3149,9 @@ Now l
 </tr></table>
 
 <hr />
+
 ## [From _The Delta independent._](https://chroniclingamerica.loc.gov/lccn/sn86063206/1888-01-10/ed-1/seq-3)
+
 #### 1888-01-10 &middot; Delta, Colo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2983,12 +3189,17 @@ Think of the ha
 </tr></table>
 
 <hr />
+
 ## Look within
+
 #### From _Southwestern Christian advocate._
+
 #### 1888-11-29 &middot; New Orleans, La.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Fisherman & farmer._](https://chroniclingamerica.loc.gov/lccn/sn91068084/1889-04-19/ed-1/seq-1)
+
 #### 1889-04-19 &middot; Edenton, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3026,12 +3237,17 @@ Think of the harm o
 </tr></table>
 
 <hr />
+
 ## Miscellaneous
+
 #### From _Boston investigator._
+
 #### 1889-06-12 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1889-09-26/ed-1/seq-1)
+
 #### 1889-09-26 &middot; Stillwater, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3074,7 +3290,9 @@ We have none of our own
 </tr></table>
 
 <hr />
+
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1889-10-17/ed-1/seq-3)
+
 #### 1889-10-17 &middot; Portland, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3101,7 +3319,9 @@ Think of the harm one
 </tr></table>
 
 <hr />
+
 ## [From _The Irish standard._](https://chroniclingamerica.loc.gov/lccn/sn90059959/1889-11-02/ed-1/seq-3)
+
 #### 1889-11-02 &middot; Minneapolis, Minn. ;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3145,7 +3365,9 @@ We have none of our own.
 </tr></table>
 
 <hr />
+
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1890-02-20/ed-1/seq-7)
+
 #### 1890-02-20 &middot; Oskaloosa, Mahaska County, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3178,8 +3400,11 @@ We have none of our own. Si
 </tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/65679130)
+
 #### From _Fitzroy City Press (Vic. : 1881 - 1920)_
+
 #### 1890-04-25 &middot; Fitzroy, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3203,8 +3428,11 @@ of others&#x27; faults until TWe bave none o
 </td></tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/66177195)
+
 #### From _Oakleigh Leader (North Brighton, Vic. : 1888 - 1902)_
+
 #### 1890-04-26 &middot; Oakleigh, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3225,8 +3453,11 @@ do &#x27; To
 </td></tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/87729402)
+
 #### From _The Colac Herald (Vic. : 1875 - 1918)_
+
 #### 1890-05-09 &middot; Colac, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3250,8 +3481,11 @@ faults until We have none of oun o .w
 </td></tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/145923692)
+
 #### From _The Narracoorte Herald (SA : 1875 - 1954)_
+
 #### 1890-06-12 &middot; Naracoorte, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3272,8 +3506,11 @@ do To those
 </td></tr></table>
 
 <hr />
+
 ## [Miscellaneous. Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/72867044)
+
 #### From _The Horsham Times (Vic. : 1882 - 1954)_
+
 #### 1890-10-17 &middot; Horsham, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3293,8 +3530,11 @@ do To those
 </td></tr></table>
 
 <hr />
+
 ## [Miscellaneous. Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/140466209)
+
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
+
 #### 1890-10-21 &middot; Riverina Region, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3315,7 +3555,9 @@ do
 </td></tr></table>
 
 <hr />
+
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1890-11-20/ed-1/seq-1)
+
 #### 1890-11-20 &middot; Mechanicstown, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3345,8 +3587,11 @@ Then let us nil, wh
 </tr></table>
 
 <hr />
+
 ## [Miscellaneous. Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/77492306)
+
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
+
 #### 1890-11-22 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3367,8 +3612,11 @@ do To those
 </td></tr></table>
 
 <hr />
+
 ## [Miscellaneous. Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/108355049)
+
 #### From _Kapunda Herald (SA : 1878 - 1951)_
+
 #### 1890-11-25 &middot; Kapunda, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3388,7 +3636,9 @@ of the harm one word tnay do To those
 </td></tr></table>
 
 <hr />
+
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1890-12-24/ed-1/seq-8)
+
 #### 1890-12-24 &middot; Abbeville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3422,7 +3672,9 @@ We bave none of our own
 </tr></table>
 
 <hr />
+
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1891-01-01/ed-1/seq-1)
+
 #### 1891-01-01 &middot; Stillwater, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3463,7 +3715,9 @@ Think of the harm
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1891-02-04/ed-1/seq-4)
+
 #### 1891-02-04 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3494,7 +3748,9 @@ We have none of our own
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1891-05-14/ed-1/seq-2)
+
 #### 1891-05-14 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3523,7 +3779,9 @@ We have none of our own
 </tr></table>
 
 <hr />
+
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1891-05-21/ed-1/seq-1)
+
 #### 1891-05-21 &middot; Stillwater, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3564,8 +3822,11 @@ Think of the harm on
 </tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/73762155)
+
 #### From _Independent (Footscray, Vic. : 1883 - 1922)_
+
 #### 1892-02-06 &middot; Footscray, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3590,7 +3851,9 @@ until: We have none of our own. Landlad
 </td></tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1892-02-10/ed-1/seq-1)
+
 #### 1892-02-10 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3618,7 +3881,9 @@ Think of the harm on
 </tr></table>
 
 <hr />
+
 ## [From _Freeland tribune._](https://chroniclingamerica.loc.gov/lccn/sn87080287/1892-09-05/ed-1/seq-3)
+
 #### 1892-09-05 &middot; Freeland, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3656,8 +3921,11 @@ Think of tho harm o
 </tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/132290608)
+
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
+
 #### 1892-09-06 &middot; Wollongong, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3678,7 +3946,9 @@ and foe, Think .of the
 </td></tr></table>
 
 <hr />
+
 ## [From _The Roanoke times._](https://chroniclingamerica.loc.gov/lccn/sn86071868/1892-10-02/ed-1/seq-7)
+
 #### 1892-10-02 &middot; Roanoke, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3706,7 +3976,9 @@ Think of tho harm o
 </tr></table>
 
 <hr />
+
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1893-01-30/ed-1/seq-6)
+
 #### 1893-01-30 &middot; Barton, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3742,8 +4014,11 @@ Then let us all, whe
 </tr></table>
 
 <hr />
+
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/58879682)
+
 #### From _The Broadford Courier and Reedy Creek Times (Broadford, Vic. : 1893 - 1916)_
+
 #### 1893-11-03 &middot; Broadford, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3771,8 +4046,11 @@ foe, Think of the harm one
 </td></tr></table>
 
 <hr />
+
 ## [[?] [?] BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/88921339)
+
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
+
 #### 1893-11-04 &middot; Bendigo, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3793,8 +4071,11 @@ or foe, Think cl tha harm on
 </td></tr></table>
 
 <hr />
+
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/18609023)
+
 #### From _Camperdown Chronicle (Vic. : 1877 - 1954)_
+
 #### 1893-11-07 &middot; Camperdown, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3822,8 +4103,11 @@ foe. Thin
 </td></tr></table>
 
 <hr />
+
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/66876005)
+
 #### From _The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)_
+
 #### 1893-11-11 &middot; Caulfield, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3844,8 +4128,11 @@ of the harm o
 </td></tr></table>
 
 <hr />
+
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/74272858)
+
 #### From _Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)_
+
 #### 1893-11-18 &middot; Queenscliff, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3873,8 +4160,11 @@ or foe, Think of the harm
 </td></tr></table>
 
 <hr />
+
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/110247997)
+
 #### From _Petersburg Times (SA : 1887 - 1919)_
+
 #### 1893-11-24 &middot; Peterborough, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3902,8 +4192,11 @@ or foe. Think of the harm
 </td></tr></table>
 
 <hr />
+
 ## [SELECTED POETRY. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/97322935)
+
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
+
 #### 1893-12-01 &middot; Clare, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3933,8 +4226,11 @@ of the harm o
 </td></tr></table>
 
 <hr />
+
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/92802496)
+
 #### From _South Australian Chronicle  (Adelaide, SA : 1889 - 1895)_
+
 #### 1893-12-23 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3963,7 +4259,9 @@ Think of the har
 </td></tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1894-02-28/ed-1/seq-1)
+
 #### 1894-02-28 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3999,7 +4297,9 @@ Then let us all when
 </tr></table>
 
 <hr />
+
 ## [From _The Hartford republican._](https://chroniclingamerica.loc.gov/lccn/sn86069313/1894-03-16/ed-1/seq-1)
+
 #### 1894-03-16 &middot; Hartford, Ky.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4038,7 +4338,9 @@ Think of the harm one
 </tr></table>
 
 <hr />
+
 ## [From _Santa Fe daily New Mexican._](https://chroniclingamerica.loc.gov/lccn/sn84020631/1895-01-08/ed-1/seq-3)
+
 #### 1895-01-08 &middot; Santa Fe, N.M.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4076,8 +4378,11 @@ Think of the harm o
 </tr></table>
 
 <hr />
+
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/60460499)
+
 #### From _Healesville Guardian (Vic. : 1893 - 1898)_
+
 #### 1895-01-11 &middot; Healesville, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4105,8 +4410,11 @@ or foe, Think of the harm
 </td></tr></table>
 
 <hr />
+
 ## [POETRY. "BE CAREFUL OF WHAT YOU SAY."](http://trove.nla.gov.au/ndp/del/article/162317543)
+
 #### From _Adelaide Observer (SA : 1843 - 1904)_
+
 #### 1896-05-30 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4135,8 +4443,11 @@ friend or f
 </td></tr></table>
 
 <hr />
+
 ## [POETRY BE CAREFUL OF WHAT YOU SAY](http://trove.nla.gov.au/ndp/del/article/39636137)
+
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
+
 #### 1896-06-13 &middot; Launceston, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4165,8 +4476,11 @@ or f
 </td></tr></table>
 
 <hr />
+
 ## [YOUNG FOLKS. "Be Careful of What You Say."](http://trove.nla.gov.au/ndp/del/article/163785129)
+
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
+
 #### 1896-08-15 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4186,8 +4500,11 @@ commence, To slander friend or foe
 </td></tr></table>
 
 <hr />
+
 ## ["BE CAREFUL OF WHAT YOU SAY."](http://trove.nla.gov.au/ndp/del/article/88434998)
+
 #### From _The Colac Herald (Vic. : 1875 - 1918)_
+
 #### 1896-09-04 &middot; Colac, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4208,7 +4525,9 @@ friend-or fo
 </td></tr></table>
 
 <hr />
+
 ## [From _Greenbrier independent._](https://chroniclingamerica.loc.gov/lccn/sn84037217/1897-06-17/ed-1/seq-1)
+
 #### 1897-06-17 &middot; Lewisburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4239,7 +4558,9 @@ Kre others&#x27; faitlts you tell.
 </tr></table>
 
 <hr />
+
 ## [From _The Indian advocate._](https://chroniclingamerica.loc.gov/lccn/45043535/1899-04-01/ed-1/seq-10)
+
 #### 1899-04-01 &middot; [Sacred Heart, Okla.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 

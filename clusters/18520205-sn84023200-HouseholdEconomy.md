@@ -1,7 +1,12 @@
+
 # Household Economy
+
 ### 116 reprints from 1852-02-05 to 1878-11-14 [cl8589934644]
+
 ## [Household Economy](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-02-05/ed-1/seq-4/)
+
 #### From _Vermont Watchman and State Journal_
+
 #### 1852-02-05
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -26,7 +31,9 @@ To the poor, the weekly newspaper is a precious boon. They cannot afford books, 
 </td></tr></table>
 
 <hr />
+
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1852-01-20/ed-1/seq-1)
+
 #### 1852-01-20 &middot; Grand Haven, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -76,7 +83,9 @@ rectness in the use of language
 </tr></table>
 
 <hr />
+
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-02-05/ed-1/seq-4)
+
 #### 1852-02-05 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -163,7 +172,9 @@ fccnlo of humanity.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1852-02-11/ed-1/seq-3)
+
 #### 1852-02-11 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -210,7 +221,9 @@ Origin or Cbrtain Words. The bayonet tell
 </tr></table>
 
 <hr />
+
 ## [From _Semi-weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024518/1852-02-11/ed-1/seq-3)
+
 #### 1852-02-11 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -257,7 +270,9 @@ Origin or Certain Words. The bayonet tell
 </tr></table>
 
 <hr />
+
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1852-03-02/ed-1/seq-1)
+
 #### 1852-03-02 &middot; Hillsdale, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -300,7 +315,9 @@ rectness, in the use of language
 </tr></table>
 
 <hr />
+
 ## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1852-03-04/ed-1/seq-4)
+
 #### 1852-03-04 &middot; Davenport, Scott Co., Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -330,7 +347,9 @@ words with greater esse and accuracy.
 </tr></table>
 
 <hr />
+
 ## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1852-03-04/ed-1/seq-4)
+
 #### 1852-03-04 &middot; Davenport, Scott Co., Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -350,7 +369,9 @@ in the use of languag
 </tr></table>
 
 <hr />
+
 ## [From _Monongalia mirror._](https://chroniclingamerica.loc.gov/lccn/sn86092163/1852-05-13/ed-1/seq-1)
+
 #### 1852-05-13 &middot; Morgantown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -399,12 +420,17 @@ eoirectness in the u&amp;o of language
 </tr></table>
 
 <hr />
+
 ## A Newspaper in a Family
+
 #### From _The Hinds County gazette._
+
 #### 1852-05-20 &middot; Raymond, Miss.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1852-07-28/ed-1/seq-1)
+
 #### 1852-07-28 &middot; Martinsburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -454,7 +480,9 @@ and correctness in the use of language
 </tr></table>
 
 <hr />
+
 ## [From _The organ of the temperance reform._](https://chroniclingamerica.loc.gov/lccn/sn90068762/1852-08-06/ed-1/seq-3)
+
 #### 1852-08-06 &middot; Cincinnati, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -503,22 +531,33 @@ ueo of language. - . w -, . ..,
 </tr></table>
 
 <hr />
+
 ## BY ELECTRIC TELEGRAPH.
+
 #### From _Newcastle Courant_
+
 #### 1852-09-10 &middot; Newcastle-upon-Tyne, England
 [This text is not available under an open license.]
 <hr />
+
 ## Literary Extracts.
+
 #### From _North Wales Chronicle_
+
 #### 1852-09-24 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## A Newspaper in a Family
+
 #### From _The Ripley bee._
+
 #### 1852-09-25 &middot; Ripley [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1852-10-09/ed-1/seq-1)
+
 #### 1852-10-09 &middot; Sunbury, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -564,7 +603,9 @@ rectness in the use of the language
 </tr></table>
 
 <hr />
+
 ## [From _Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn93067980/1852-10-12/ed-1/seq-2)
+
 #### 1852-10-12 &middot; Camden, South-Carolina
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -614,7 +655,9 @@ language
 </tr></table>
 
 <hr />
+
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1852-10-14/ed-1/seq-1)
+
 #### 1852-10-14 &middot; Stroudsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -646,7 +689,9 @@ I nortantnLices.
 </tr></table>
 
 <hr />
+
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1852-10-14/ed-1/seq-1)
+
 #### 1852-10-14 &middot; Stroudsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -674,7 +719,9 @@ i , , ? , .
 </tr></table>
 
 <hr />
+
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1852-11-04/ed-1/seq-4)
+
 #### 1852-11-04 &middot; Bath, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -712,12 +759,17 @@ comonplace advertisemen
 </tr></table>
 
 <hr />
+
 ## Influence of a Newspaper
+
 #### From _North American and United States gazette._
+
 #### 1852-11-04 &middot; Philadelphia, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1852-11-06/ed-1/seq-2)
+
 #### 1852-11-06 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -750,7 +802,9 @@ clearness and correctness in their uje of language
 </tr></table>
 
 <hr />
+
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1852-11-06/ed-1/seq-1)
+
 #### 1852-11-06 &middot; Saint Paul, Minn. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -780,7 +834,9 @@ of language.
 </tr></table>
 
 <hr />
+
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1852-11-06/ed-1/seq-4)
+
 #### 1852-11-06 &middot; Richmond [Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -834,12 +890,17 @@ rectness in their use of languages.
 </tr></table>
 
 <hr />
+
 ## Influence of a Newspaper
+
 #### From _Daily national intelligencer._
+
 #### 1852-11-08 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1852-11-10/ed-1/seq-4)
+
 #### 1852-11-10 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -863,7 +924,9 @@ rectness in their use of languages._i
 </tr></table>
 
 <hr />
+
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1852-11-11/ed-1/seq-2)
+
 #### 1852-11-11 &middot; Wheeling, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -912,17 +975,25 @@ guage
 </tr></table>
 
 <hr />
+
 ## Influence of a Newspaper
+
 #### From _Fayetteville observer._
+
 #### 1852-11-11 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## Influence of a Newspaper
+
 #### From _The Daily Ohio statesman._
+
 #### 1852-11-11 &middot; Columbus [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1852-11-11_23_46?page=3)
+
 #### 1852-11-11 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -943,7 +1014,9 @@ the proceedings is, and must be, that «the denomi- j Tun iHariHATioR or xun Sor
 </tr></table>
 
 <hr />
+
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1852-11-12/ed-1/seq-3)
+
 #### 1852-11-12 &middot; Wilmington, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -966,7 +1039,9 @@ The Consecration of Bish
 </tr></table>
 
 <hr />
+
 ## [From _The organ of the temperance reform._](https://chroniclingamerica.loc.gov/lccn/sn90068762/1852-11-12/ed-1/seq-1)
+
 #### 1852-11-12 &middot; Cincinnati, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -992,7 +1067,9 @@ in almost half the time it require
 </tr></table>
 
 <hr />
+
 ## [From _The organ of the temperance reform._](https://chroniclingamerica.loc.gov/lccn/sn90068762/1852-11-12/ed-1/seq-1)
+
 #### 1852-11-12 &middot; Cincinnati, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1015,7 +1092,9 @@ rectness ia their use ol language. -
 </tr></table>
 
 <hr />
+
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1852-11-13/ed-1/seq-1)
+
 #### 1852-11-13 &middot; Elkton, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1070,7 +1149,9 @@ ness in their use of languag
 </tr></table>
 
 <hr />
+
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1852-11-16/ed-1/seq-2)
+
 #### 1852-11-16 &middot; Hillsdale, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1112,7 +1193,9 @@ rectness in their use of language.
 </tr></table>
 
 <hr />
+
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1852-11-17/ed-1/seq-1)
+
 #### 1852-11-17 &middot; Martinsburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1162,12 +1245,17 @@ I correctness iu the use of language.
 </tr></table>
 
 <hr />
+
 ## Selections
+
 #### From _Boston investigator._
+
 #### 1852-11-17 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82015677/1852-11-18/ed-1/seq-4)
+
 #### 1852-11-18 &middot; Indianapolis
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1215,7 +1303,9 @@ t7
 </tr></table>
 
 <hr />
+
 ## [From _The Minnesota pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83025241/1852-11-18/ed-1/seq-2)
+
 #### 1852-11-18 &middot; St. Paul, Minn. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1243,17 +1333,25 @@ j of language
 </tr></table>
 
 <hr />
+
 ## Influence of a Newspaper
+
 #### From _Bangor daily Whig & courier._
+
 #### 1852-11-20 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## Influence of a Newspaper
+
 #### From _Bangor daily Whig & courier._
+
 #### 1852-11-20 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1852-11-24/ed-1/seq-1)
+
 #### 1852-11-24 &middot; Grand Haven, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1282,7 +1380,9 @@ clearly and connectedly expressed. 6th. The
 </tr></table>
 
 <hr />
+
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-11-25/ed-1/seq-1)
+
 #### 1852-11-25 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1334,7 +1434,9 @@ A circular has been issued by lh
 </tr></table>
 
 <hr />
+
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1852-11-26/ed-1/seq-1)
+
 #### 1852-11-26 &middot; Carrollton [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1364,7 +1466,9 @@ ography, in almost half the time it requires
 </tr></table>
 
 <hr />
+
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1852-11-26/ed-1/seq-1)
+
 #### 1852-11-26 &middot; Carrollton [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1388,7 +1492,9 @@ general use of language
 </tr></table>
 
 <hr />
+
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1852-11-26/ed-1/seq-3)
+
 #### 1852-11-26 &middot; Athens, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1439,7 +1545,9 @@ uud correctness in their use of languag
 </tr></table>
 
 <hr />
+
 ## [From _Burlington free press._](https://chroniclingamerica.loc.gov/lccn/sn84023127/1852-11-26/ed-1/seq-2)
+
 #### 1852-11-26 &middot; Burlington, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1481,7 +1589,9 @@ in their tue of language
 </tr></table>
 
 <hr />
+
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1852-11-27/ed-1/seq-2)
+
 #### 1852-11-27 &middot; Saint Paul, Minn. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1529,7 +1639,9 @@ their use of language.
 </tr></table>
 
 <hr />
+
 ## [From _The southerner._](https://chroniclingamerica.loc.gov/lccn/sn90052434/1852-11-27/ed-1/seq-1)
+
 #### 1852-11-27 &middot; Tarboro', Edgecombe Co., (N.C.)
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1560,7 +1672,9 @@ their governments and doings on the
 </tr></table>
 
 <hr />
+
 ## [From _The southerner._](https://chroniclingamerica.loc.gov/lccn/sn90052434/1852-11-27/ed-1/seq-1)
+
 #### 1852-11-27 &middot; Tarboro', Edgecombe Co., (N.C.)
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1596,12 +1710,17 @@ with greater fluency, clearness and cor
 </tr></table>
 
 <hr />
+
 ## Influence of a Newspaper
+
 #### From _The Ripley bee._
+
 #### 1852-11-27 &middot; Ripley [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1852-12-01/ed-1/seq-1)
+
 #### 1852-12-01 &middot; Clarksburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1653,7 +1772,9 @@ language
 </tr></table>
 
 <hr />
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1852-12-08/ed-1/seq-1)
+
 #### 1852-12-08 &middot; Woodsfield, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1686,7 +1807,9 @@ portent places an
 </tr></table>
 
 <hr />
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1852-12-08/ed-1/seq-1)
+
 #### 1852-12-08 &middot; Woodsfield, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1713,7 +1836,9 @@ edge Upon a greater variety of subjecisl
 </tr></table>
 
 <hr />
+
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1852-12-11/ed-1/seq-1)
+
 #### 1852-12-11 &middot; Loudon, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1756,7 +1881,9 @@ clearness and correctness in their use of lanjrua
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35?page=2)
+
 #### 1852-12-23 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1788,7 +1915,9 @@ portant
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35?page=2)
+
 #### 1852-12-23 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1817,12 +1946,17 @@ their use of language.
 </tr></table>
 
 <hr />
+
 ## PROMOTIONS IN THE ARMY.
+
 #### From _North Wales Chronicle_
+
 #### 1853-01-21 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1853-01-26/ed-1/seq-2)
+
 #### 1853-01-26 &middot; Lancaster, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1869,7 +2003,9 @@ use of language
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1853-02-09/ed-1/seq-3)
+
 #### 1853-02-09 &middot; Cadiz, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1904,7 +2040,9 @@ place adver
 </tr></table>
 
 <hr />
+
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1853-02-25/ed-1/seq-1)
+
 #### 1853-02-25 &middot; Athens, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1929,8 +2067,11 @@ guage. Exchange
 </tr></table>
 
 <hr />
+
 ## [LOCAL.](http://trove.nla.gov.au/ndp/del/article/2239426)
+
 #### From _The Courier (Hobart, Tas. : 1840 - 1859)_
+
 #### 1853-05-05 &middot; Hobart, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1954,7 +2095,9 @@ doings, on the globe.&quot;-New York Tribune
 </td></tr></table>
 
 <hr />
+
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1853-10-22/ed-1/seq-2)
+
 #### 1853-10-22 &middot; Wheeling, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1976,7 +2119,9 @@ and elevate faun in the scale of humanity. IC i
 </tr></table>
 
 <hr />
+
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1853-10-26/ed-1/seq-1)
+
 #### 1853-10-26 &middot; Martinsburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2000,7 +2145,9 @@ elevate him in tbo scale of humanity. It i
 </tr></table>
 
 <hr />
+
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1853-11-16/ed-1/seq-4)
+
 #### 1853-11-16 &middot; Lancaster, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2025,7 +2172,9 @@ le of humanity. It is an undenii.b
 </tr></table>
 
 <hr />
+
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1854-03-08/ed-1/seq-1)
+
 #### 1854-03-08 &middot; Grand Haven, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2068,7 +2217,9 @@ uso of their language.&#x27; ; -:, r..,
 </tr></table>
 
 <hr />
+
 ## [From _The Union and eastern journal._](https://chroniclingamerica.loc.gov/lccn/sn83021380/1854-03-24/ed-1/seq-1)
+
 #### 1854-03-24 &middot; Biddeford [Me.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2105,7 +2256,9 @@ man-place adverti
 </tr></table>
 
 <hr />
+
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15?page=3)
+
 #### 1854-04-13 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2131,7 +2284,9 @@ ingly.
 </tr></table>
 
 <hr />
+
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1854-06-24/ed-1/seq-1)
+
 #### 1854-06-24 &middot; Sunbury, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2157,7 +2312,9 @@ of Ihe meeting of the next Congress, it will I ,,on and emphasis, and consequent
 </tr></table>
 
 <hr />
+
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1854-06-24/ed-1/seq-1)
+
 #### 1854-06-24 &middot; Sunbury, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2188,7 +2345,9 @@ ness in then use of language.
 </tr></table>
 
 <hr />
+
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1854-12-14/ed-1/seq-1)
+
 #### 1854-12-14 &middot; Port Tobacco, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2211,22 +2370,33 @@ wiser and better, and elevate him in theacal
 </tr></table>
 
 <hr />
+
 ## Miscellaneous Articles
+
 #### From _Boston investigator._
+
 #### 1855-01-31 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## Miscellaneous Articles
+
 #### From _Boston investigator._
+
 #### 1855-01-31 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## Influence of Newspapers
+
 #### From _Frederick Douglass' paper._
+
 #### 1855-02-02 &middot; Rochester, N.Y.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1855-03-28/ed-1/seq-1)
+
 #### 1855-03-28 &middot; Woodsfield, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2257,7 +2427,9 @@ requires
 </tr></table>
 
 <hr />
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1855-03-28/ed-1/seq-1)
+
 #### 1855-03-28 &middot; Woodsfield, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2281,7 +2453,9 @@ use oflangusge. ; ;
 </tr></table>
 
 <hr />
+
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1855-11-02/ed-1/seq-1)
+
 #### 1855-11-02 &middot; Bedford, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2333,7 +2507,9 @@ rectness in their use of language.
 </tr></table>
 
 <hr />
+
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1855-12-05/ed-1/seq-1)
+
 #### 1855-12-05 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2377,7 +2553,9 @@ Three things that never become
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1856-02-06/ed-1/seq-1)
+
 #### 1856-02-06 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2403,7 +2581,9 @@ quires oth
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1856-02-06/ed-1/seq-1)
+
 #### 1856-02-06 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2427,7 +2607,9 @@ and correctness in their use of language.
 </tr></table>
 
 <hr />
+
 ## [From _Squatter sovereign._](https://chroniclingamerica.loc.gov/lccn/sn82015827/1856-02-26/ed-1/seq-2)
+
 #### 1856-02-26 &middot; Atchison, Kan. Terr.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2474,8 +2656,11 @@ In-view; of these facts, who jvill be s
 </tr></table>
 
 <hr />
+
 ## [Varieties.](http://trove.nla.gov.au/ndp/del/article/118308699)
+
 #### From _The Goulburn Herald and County of Argyle Advertiser (NSW : 1848 - 1859)_
+
 #### 1856-03-01 &middot; Goulburn, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2502,8 +2687,11 @@ tie statesman, theyl m
 </td></tr></table>
 
 <hr />
+
 ## [THE NEWSPAPER IN A FAMILY.](http://trove.nla.gov.au/ndp/del/article/91867625)
+
 #### From _Geelong Advertiser and Intelligencer (Vic. : 1851 - 1856)_
+
 #### 1856-03-17 &middot; Geelong, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2546,7 +2734,9 @@ correctness in the use of language
 </td></tr></table>
 
 <hr />
+
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1856-04-12/ed-1/seq-1)
+
 #### 1856-04-12 &middot; Towanda, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2582,7 +2772,9 @@ vertisement
 </tr></table>
 
 <hr />
+
 ## [From _The Winchester appeal._](https://chroniclingamerica.loc.gov/lccn/sn97065089/1856-04-12/ed-1/seq-4)
+
 #### 1856-04-12 &middot; Winchester, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2626,7 +2818,9 @@ the common place adverti
 </tr></table>
 
 <hr />
+
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1856-06-11/ed-1/seq-1)
+
 #### 1856-06-11 &middot; Grand Haven, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2656,7 +2850,9 @@ quires others,
 </tr></table>
 
 <hr />
+
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1856-11-29/ed-1/seq-1)
+
 #### 1856-11-29 &middot; Ottawa, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2682,7 +2878,9 @@ standingly. .
 </tr></table>
 
 <hr />
+
 ## [From _San Andreas independent._](https://chroniclingamerica.loc.gov/lccn/sn85025090/1856-12-13/ed-1/seq-4)
+
 #### 1856-12-13 &middot; San Andreas, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2735,7 +2933,9 @@ great correctness in their use of languages.
 </tr></table>
 
 <hr />
+
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1857-02-12/ed-1/seq-6)
+
 #### 1857-02-12 &middot; Honolulu, Hawaiian Islands
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2758,22 +2958,33 @@ consequently read more understandingry.
 </tr></table>
 
 <hr />
+
 ## Influence of Newspapers
+
 #### From _Newark advocate._
+
 #### 1857-02-25 &middot; Newark [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## Influence of a Newspaper
+
 #### From _Daily morning news._
+
 #### 1857-03-10 &middot; Savannah, Ga.
 [This text is not available under an open license.]
 <hr />
+
 ## MISCELLANEA.
+
 #### From _Trewman's Exeter Flying Post_
+
 #### 1857-03-12 &middot; Exeter, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1857-03-21/ed-1/seq-4)
+
 #### 1857-03-21 &middot; Plaquemine, Parish of Iberville [La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2795,7 +3006,9 @@ pared with those who have not, are
 </tr></table>
 
 <hr />
+
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1857-10-24/ed-1/seq-2)
+
 #### 1857-10-24 &middot; Sunbury, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2842,7 +3055,9 @@ THE DUTCHMAN A.D THE PAMC.
 </tr></table>
 
 <hr />
+
 ## [From _San Andreas independent._](https://chroniclingamerica.loc.gov/lccn/sn85025090/1858-01-02/ed-1/seq-4)
+
 #### 1858-01-02 &middot; San Andreas, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2877,7 +3092,9 @@ more readily comprehend
 </tr></table>
 
 <hr />
+
 ## [From _Pennsylvania School Journal 1852-1980_](https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10?page=20)
+
 #### 1859-04-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2916,7 +3133,9 @@ paper, from the common place advertisemen
 </tr></table>
 
 <hr />
+
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1863-11-14/ed-1/seq-1)
+
 #### 1863-11-14 &middot; Gold Hill, N.T. [Nev.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2965,7 +3184,9 @@ use of language.
 </tr></table>
 
 <hr />
+
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1865-06-22/ed-1/seq-1)
+
 #### 1865-06-22 &middot; Pomeroy, Meigs County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2990,7 +3211,9 @@ What a Goo
 </tr></table>
 
 <hr />
+
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48?page=3)
+
 #### 1865-07-29
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3038,7 +3261,9 @@ rectness in the use of language.
 </tr></table>
 
 <hr />
+
 ## [From _North Branch democrat._](https://chroniclingamerica.loc.gov/lccn/sn86081912/1865-08-02/ed-1/seq-1)
+
 #### 1865-08-02 &middot; Tunkhannock, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3078,7 +3303,9 @@ A NEW WAT T
 </tr></table>
 
 <hr />
+
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1865-10-06/ed-1/seq-1)
+
 #### 1865-10-06 &middot; Brattleboro, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3101,7 +3328,9 @@ rectness in the use of language
 </tr></table>
 
 <hr />
+
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1865-12-02/ed-1/seq-1)
+
 #### 1865-12-02 &middot; Towsontown, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3139,7 +3368,9 @@ A
 </tr></table>
 
 <hr />
+
 ## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1866-01-12/ed-1/seq-4)
+
 #### 1866-01-12 &middot; New Oregon, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3188,7 +3419,9 @@ Oa a fence
 </tr></table>
 
 <hr />
+
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1868-04-16/ed-1/seq-1)
+
 #### 1868-04-16 &middot; Tarboro', N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3212,7 +3445,9 @@ edge of geography iu almost halt th
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1868-04-17/ed-1/seq-4)
+
 #### 1868-04-17 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3261,7 +3496,9 @@ use of language
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1868-07-21/ed-1/seq-4)
+
 #### 1868-07-21 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3297,7 +3534,9 @@ the use of language.
 </tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1868-12-24/ed-1/seq-1)
+
 #### 1868-12-24 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3333,8 +3572,11 @@ correctness in the use of language.
 </tr></table>
 
 <hr />
+
 ## [MINING CALLS, DIVIDENDS AND MEETINGS. CALLS.](http://trove.nla.gov.au/ndp/del/article/150434376)
+
 #### From _Geelong Advertiser (Vic. : 1859 - 1924)_
+
 #### 1869-09-25 &middot; Geelong, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3374,8 +3616,11 @@ correctness. &#x27; .Josephine.—We are gla
 </td></tr></table>
 
 <hr />
+
 ## [INFLUENCE OF A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/66837784)
+
 #### From _The Benalla Ensign and Farmer's and Squatter's Journal (Vic. : 1869 - 1872)_
+
 #### 1869-10-22 &middot; Benalla, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3417,8 +3662,11 @@ correctness.&quot; &amp;nbsp
 </td></tr></table>
 
 <hr />
+
 ## [NEW PLAN FOR PRESERVING MEAT AND FISH.](http://trove.nla.gov.au/ndp/del/article/92777189)
+
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
+
 #### 1869-10-22 &middot; Clare, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3450,8 +3698,11 @@ correctness. Printed by the proprietors
 </td></tr></table>
 
 <hr />
+
 ## [SAD DEATH OF A YOUNG LADY.](http://trove.nla.gov.au/ndp/del/article/101473078)
+
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
+
 #### 1869-11-13 &middot; Goulburn, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3489,8 +3740,11 @@ fluency, clearness, and correctness.
 </td></tr></table>
 
 <hr />
+
 ## [LAND OFFICE AT SALE. W. T. Dawson, Esq., Land Officer. AGRICULTURAL ARHAS.](http://trove.nla.gov.au/ndp/del/article/61344483)
+
 #### From _Gippsland Times (Vic. : 1861 - 1954)_
+
 #### 1869-12-07 &middot; Gippsland, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3530,8 +3784,11 @@ correct. ness. The debate on the repor
 </td></tr></table>
 
 <hr />
+
 ## [PRESBYTERY OF THE HUNTER.](http://trove.nla.gov.au/ndp/del/article/111161900)
+
 #### From _The Newcastle Chronicle (NSW : 1866 - 1876)_
+
 #### 1869-12-21 &middot; Newcastle, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3571,7 +3828,9 @@ fluency, clearness, and correctness
 </td></tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1874-05-05/ed-1/seq-1)
+
 #### 1874-05-05 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3615,7 +3874,9 @@ and correctness.
 </tr></table>
 
 <hr />
+
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1876-04-06/ed-1/seq-3)
+
 #### 1876-04-06 &middot; Russellville, Ark.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3655,7 +3916,9 @@ prehend the meaning of t
 </tr></table>
 
 <hr />
+
 ## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-11-14_8_194?page=2)
+
 #### 1878-11-14
 <table style="width: 100%;"><tr><td style="width: 50%">
 

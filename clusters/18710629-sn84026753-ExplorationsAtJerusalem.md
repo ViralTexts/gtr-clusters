@@ -1,8 +1,14 @@
+
 # The Explorations at Jerusalem
+
 ### 32 reprints from 1871-06-29 to 1871-08-11 [cl97]
+
 ## [The Explorations at Jerusalem](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
+
 #### by Lyman Abbott
+
 #### From _New National Era_
+
 #### 1871-06-29
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -20,12 +26,17 @@ Further explorations disclosed a subterranean passage, perhaps orginally constru
 </td></tr></table>
 
 <hr />
+
 ## Palestine Exploration Fund.
+
 #### From _The Times_
+
 #### 1867-11-14 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Journal of Sacred Literature 1848-1868_](https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4?page=248)
+
 #### 1868-01-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -91,7 +102,9 @@ only 6 feet deep, though it looked black enough for anything. Climb
 </tr></table>
 
 <hr />
+
 ## [From _British and Foreign Evangelical Review 1852-1888_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64?page=65)
+
 #### 1868-04-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -146,7 +159,9 @@ being only half-dressed round the drafts. One also sees two stou
 </tr></table>
 
 <hr />
+
 ## [From _British and Foreign Evangelical Review 1852-1888_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64?page=66)
+
 #### 1868-04-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -164,7 +179,9 @@ looked black enough for anything. Climbing down, we found ourselve
 </tr></table>
 
 <hr />
+
 ## [From _Quiver 1861-1926_](https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144?page=9)
+
 #### 1868-06-20
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -253,7 +270,9 @@ looked black enough for anything. On.climbin
 </tr></table>
 
 <hr />
+
 ## [From _The Art-Journal 1839-1912_](https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80?page=9)
+
 #### 1868-08-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -273,7 +292,9 @@ to the spot and examined it.”’
 </tr></table>
 
 <hr />
+
 ## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
+
 #### 1871-06-27 &middot; Middlebury, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -313,7 +334,9 @@ not count : that his liiflucnco is nothinir. &#x27;.Utt out i
 </tr></table>
 
 <hr />
+
 ## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
+
 #### 1871-06-27 &middot; Middlebury, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -353,7 +376,9 @@ Nor is this all. A pcrfect nct-work of
 </tr></table>
 
 <hr />
+
 ## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
+
 #### 1871-06-27 &middot; Middlebury, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -405,7 +430,9 @@ in Warner&#x27;s Mayazinc fur Juhj.
 </tr></table>
 
 <hr />
+
 ## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
+
 #### 1871-06-27 &middot; Middlebury, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -432,17 +459,25 @@ Ilobrow and of Christian origin. Tho his knccs and fect, Urigham Young
 </tr></table>
 
 <hr />
+
 ## The Explorations at Jerusalem
+
 #### From _The Yankton press._
+
 #### 1871-06-28 &middot; Yankton, Dakota Territory [S.D.]
 [This text is not available under an open license.]
 <hr />
+
 ## The Explorations at Jerusalem
+
 #### From _The Yankton press._
+
 #### 1871-06-28 &middot; Yankton, Dakota Territory [S.D.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
+
 #### 1871-06-29 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -556,7 +591,9 @@ straddle across it. Then can be seen that one
 </tr></table>
 
 <hr />
+
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
+
 #### 1871-06-29 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -594,7 +631,9 @@ July
 </tr></table>
 
 <hr />
+
 ## [From _New National Era 1870-1874_](https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25?page=0)
+
 #### 1871-06-29
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -611,7 +650,9 @@ sw od a oo cots Weigle auousaal took place in the bold that day. We up in her fi
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
+
 #### 1871-07-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -630,7 +671,9 @@ of the débris upon the} And the whole result more than confirms th
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
+
 #### 1871-07-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -644,7 +687,9 @@ being crushed in by a large | phus combine to give, but which have hithert
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
+
 #### 1871-07-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -657,7 +702,9 @@ non-commissioned officers | scarcely less interesting. Here he found
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
+
 #### 1871-07-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -674,7 +721,9 @@ known as Wilson’s Arch. | at the time, will afford the reader a mor
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
+
 #### 1871-07-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -687,7 +736,9 @@ who had not the means,| ‘On Friday, having arrived at a depth o
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=40)
+
 #### 1871-07-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -708,7 +759,9 @@ Sanctuary wall, near the southwest angle, among | serving also, at the same time
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=40)
+
 #### 1871-07-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -751,7 +804,9 @@ fixed to keep these stones steady.
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=40)
+
 #### 1871-07-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -766,7 +821,9 @@ until they are lost in the darkness below; ob
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=41)
+
 #### 1871-07-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -822,7 +879,9 @@ get to a point where he could turn his head
 </tr></table>
 
 <hr />
+
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-07-02/ed-1/seq-4)
+
 #### 1871-07-02 &middot; New Orleans, La
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -881,7 +940,9 @@ The investigations for the eastern an
 </tr></table>
 
 <hr />
+
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-07-02/ed-1/seq-4)
+
 #### 1871-07-02 &middot; New Orleans, La
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -902,7 +963,9 @@ stated in his very interesting report, an
 </tr></table>
 
 <hr />
+
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-07-06/ed-1/seq-1)
+
 #### 1871-07-06 &middot; Eaton, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -939,7 +1002,9 @@ Fthari - cDufirnls&#x27; Uit5 idea9 of iMjliitectunt
 </tr></table>
 
 <hr />
+
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-07-06/ed-1/seq-1)
+
 #### 1871-07-06 &middot; Eaton, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1040,7 +1105,9 @@ chough it looked black enough: for an
 </tr></table>
 
 <hr />
+
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-07-06/ed-1/seq-1)
+
 #### 1871-07-06 &middot; Eaton, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1068,7 +1135,9 @@ jorjuiy, .. f -
 </tr></table>
 
 <hr />
+
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1871-07-20/ed-1/seq-1)
+
 #### 1871-07-20 &middot; Point Pleasant, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1221,7 +1290,9 @@ in Harper&#x27;s Magazine fur July.
 </tr></table>
 
 <hr />
+
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1871-08-11/ed-1/seq-1)
+
 #### 1871-08-11 &middot; Oregon, Missouri.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

@@ -1,7 +1,12 @@
+
 # Interesting Statistics
+
 ### 209 reprints from 1853-07-19 to 1898-03-19 [cl19]
+
 ## [Interesting Statistics](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-07-19/ed-1/seq-1/)
+
 #### From _Sumter Banner_
+
 #### 1853-07-19
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -20,12 +25,17 @@ Some of these statements are rather singular, and yet many of them are susceptib
 </td></tr></table>
 
 <hr />
+
 ## VARIETIES.
+
 #### From _Jackson's Oxford Journal_
+
 #### 1851-10-18 &middot; Oxford, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Semi-weekly Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn93067976/1851-11-11/ed-1/seq-3)
+
 #### 1851-11-11 &middot; Camden, South-Carolina
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -40,18 +50,27 @@ in Africa, and 1264 in America. The numbe
 </tr></table>
 
 <hr />
+
 ## WEEKLY COMPENDIUM.
+
 #### From _Aberdeen Journal_
+
 #### 1851-11-12 &middot; Aberdeen, Scotland
 [This text is not available under an open license.]
 <hr />
+
 ## THE GOSPEL HAS NOTHING TO DO WITH INFANTS.
+
 #### From _German reformed messenger._
+
 #### 1851-12-03 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [No Title](http://trove.nla.gov.au/ndp/del/article/36262587)
+
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
+
 #### 1852-02-28 &middot; Launceston, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -66,8 +85,11 @@ Africa, and 1,264 in America. AUSTRALIA
 </td></tr></table>
 
 <hr />
+
 ## [DOMESTIC INTELLIGENCE.](http://trove.nla.gov.au/ndp/del/article/4783660)
+
 #### From _The Argus (Melbourne, Vic. : 1848 - 1957)_
+
 #### 1852-03-09 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -81,8 +103,11 @@ America. The number of ma&#x27;cs is nearl
 </td></tr></table>
 
 <hr />
+
 ## [British Extracts.](http://trove.nla.gov.au/ndp/del/article/670382)
+
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
+
 #### 1852-05-05 &middot; Maitland, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -95,12 +120,17 @@ America. The number of males is nearl
 </td></tr></table>
 
 <hr />
+
 ## Curious Statistics
+
 #### From _The Alta California._
+
 #### 1853-03-01 &middot; San Francisco, Calif.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Rutland County herald._](https://chroniclingamerica.loc.gov/lccn/sn84022366/1853-05-14/ed-1/seq-1)
+
 #### 1853-05-14 &middot; Rutland, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -134,12 +164,17 @@ nuts, and of
 </tr></table>
 
 <hr />
+
 ## Selections
+
 #### From _Boston investigator._
+
 #### 1853-07-06 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1853-07-10/ed-1/seq-2)
+
 #### 1853-07-10 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -197,7 +232,9 @@ ier garment* M&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1853-07-15/ed-1/seq-2)
+
 #### 1853-07-15 &middot; Wilmington, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -221,7 +258,9 @@ IIS pot oi
 </tr></table>
 
 <hr />
+
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1853-07-15/ed-1/seq-2)
+
 #### 1853-07-15 &middot; Wilmington, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -281,7 +320,9 @@ flannel under-garments. N. Y. Dutchman
 </tr></table>
 
 <hr />
+
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1853-07-16/ed-1/seq-2)
+
 #### 1853-07-16 &middot; Fayetteville [N.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -354,7 +395,9 @@ ue of flannel under-garments. A&quot;. Yor
 </tr></table>
 
 <hr />
+
 ## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-07-19/ed-1/seq-1)
+
 #### 1853-07-19 &middot; Sumterville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -438,7 +481,9 @@ dergarments
 </tr></table>
 
 <hr />
+
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1853-07-23/ed-1/seq-3)
+
 #### 1853-07-23 &middot; Plaquemine, Parish of Iberville [La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -510,7 +555,9 @@ the market value of flannel undcr-garments.
 </tr></table>
 
 <hr />
+
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-07-27/ed-1/seq-3)
+
 #### 1853-07-27 &middot; Dubuque, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -558,7 +605,9 @@ frequently in June and December, than
 </tr></table>
 
 <hr />
+
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-07-27/ed-1/seq-3)
+
 #### 1853-07-27 &middot; Dubuque, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -575,7 +624,9 @@ any
 </tr></table>
 
 <hr />
+
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-07-27/ed-1/seq-3)
+
 #### 1853-07-27 &middot; Dubuque, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -592,7 +643,9 @@ so doubtless to guard against the chilly pillows tractors from time to time, &am
 </tr></table>
 
 <hr />
+
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-07-27/ed-1/seq-3)
+
 #### 1853-07-27 &middot; Dubuque, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -611,7 +664,9 @@ the market value of flannel under-garments.
 </tr></table>
 
 <hr />
+
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1853-08-03/ed-1/seq-5)
+
 #### 1853-08-03 &middot; Clarksburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -679,7 +734,9 @@ degree, by mixing plain mathematics with
 </tr></table>
 
 <hr />
+
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1853-08-06/ed-1/seq-1)
+
 #### 1853-08-06 &middot; Thibodaux, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -746,7 +803,9 @@ market value of flannel under-garments
 </tr></table>
 
 <hr />
+
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1853-08-10/ed-1/seq-2)
+
 #### 1853-08-10 &middot; Lancaster, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -822,7 +881,9 @@ nel under garments.?JV. Y. Dutchman
 </tr></table>
 
 <hr />
+
 ## [From _The Woodville Republican, and Wilkinson advertiser._](https://chroniclingamerica.loc.gov/lccn/sn87065674/1853-08-23/ed-1/seq-1)
+
 #### 1853-08-23 &middot; Woodville, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -875,7 +936,9 @@ tadr frequently in Jane and we
 </tr></table>
 
 <hr />
+
 ## [From _The Weekly Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn93052117/1853-08-27/ed-1/seq-2)
+
 #### 1853-08-27 &middot; Auburn, Placer Co. [Calif.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -950,7 +1013,9 @@ of flannel under-garments.—N. Y. Dutch
 </tr></table>
 
 <hr />
+
 ## [From _The Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022165/1853-09-10/ed-1/seq-1)
+
 #### 1853-09-10 &middot; Santa Fe, N.M.T. [i.e. N.M.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1027,7 +1092,9 @@ flanuel under-garmeuto
 </tr></table>
 
 <hr />
+
 ## [From _Wisconsin tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086768/1853-09-15/ed-1/seq-1)
+
 #### 1853-09-15 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1102,7 +1169,9 @@ market value of flannel under garment
 </tr></table>
 
 <hr />
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1853-09-17/ed-1/seq-3)
+
 #### 1853-09-17 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1130,7 +1199,9 @@ to SO years of age
 </tr></table>
 
 <hr />
+
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1853-09-23/ed-1/seq-1)
+
 #### 1853-09-23 &middot; Athens, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1160,7 +1231,9 @@ of age
 </tr></table>
 
 <hr />
+
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1853-09-24/ed-1/seq-1)
+
 #### 1853-09-24 &middot; Fremont, Sandusky County [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1212,7 +1285,9 @@ Yellow Fever. The latest accounts t
 </tr></table>
 
 <hr />
+
 ## [From _Washington sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84020104/1853-09-28/ed-1/seq-2)
+
 #### 1853-09-28 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1257,7 +1332,9 @@ Births and deaths an more freqlicwt by n
 </tr></table>
 
 <hr />
+
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn83016866/1853-10-01/ed-1/seq-2)
+
 #### 1853-10-01 &middot; Columbus, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1287,7 +1364,9 @@ of 66, and not more mu uuc
 </tr></table>
 
 <hr />
+
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1853-10-08/ed-1/seq-3)
+
 #### 1853-10-08 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1314,7 +1393,9 @@ than one in 5000 live to 80 years of age
 </tr></table>
 
 <hr />
+
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1853-10-08/ed-1/seq-8)
+
 #### 1853-10-08 &middot; Richmond [Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1341,7 +1422,9 @@ live to it) years of age.&quot; 4
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1853-10-10/ed-1/seq-2)
+
 #### 1853-10-10 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1369,7 +1452,9 @@ reach the age ot 60, a
 </tr></table>
 
 <hr />
+
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1853-10-10/ed-1/seq-4)
+
 #### 1853-10-10 &middot; Richmond [Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1396,7 +1481,9 @@ live to i 0 years of age.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1853-10-12/ed-1/seq-1)
+
 #### 1853-10-12 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1423,7 +1510,9 @@ than one in 50
 </tr></table>
 
 <hr />
+
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-10-19/ed-1/seq-3)
+
 #### 1853-10-19 &middot; Dubuque, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1473,7 +1562,9 @@ y |(K) only 7 reach the age of 66, and not&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _Daily evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-10-21/ed-1/seq-4)
+
 #### 1853-10-21 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1504,7 +1595,9 @@ one in 500 live to 90 years of age.?Ex
 </tr></table>
 
 <hr />
+
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1853-10-27/ed-1/seq-2)
+
 #### 1853-10-27 &middot; Upper Sandusky, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1535,7 +1628,9 @@ age
 </tr></table>
 
 <hr />
+
 ## [From _Muscatine journal._](https://chroniclingamerica.loc.gov/lccn/sn88059754/1853-10-28/ed-1/seq-1)
+
 #### 1853-10-28 &middot; Bloomington, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1568,7 +1663,9 @@ To day, after forty years o* wedt-d life, persons only one reaches 10
 </tr></table>
 
 <hr />
+
 ## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1853-11-03/ed-1/seq-2)
+
 #### 1853-11-03 &middot; [Ottumwa] Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1593,7 +1690,9 @@ year
 </tr></table>
 
 <hr />
+
 ## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1853-11-03/ed-1/seq-2)
+
 #### 1853-11-03 &middot; [Ottumwa] Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1612,7 +1711,9 @@ age of 66 and not more thao one in river, all fully equipped for seUlsnsoct i
 </tr></table>
 
 <hr />
+
 ## [From _The Minnesota pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83025241/1853-11-03/ed-1/seq-1)
+
 #### 1853-11-03 &middot; St. Paul, Minn. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1653,7 +1754,9 @@ and deaths are more frequent by
 </tr></table>
 
 <hr />
+
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1853-11-05/ed-1/seq-1)
+
 #### 1853-11-05 &middot; New-Lisbon, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1675,7 +1778,9 @@ fused lo one-
 </tr></table>
 
 <hr />
+
 ## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-11-05_9_12?page=0)
+
 #### 1853-11-05
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1703,7 +1808,9 @@ if
 </tr></table>
 
 <hr />
+
 ## [From _The Port Gibson reveille._](https://chroniclingamerica.loc.gov/lccn/sn87090152/1853-11-30/ed-1/seq-1)
+
 #### 1853-11-30 &middot; Port Gibson, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1750,12 +1857,17 @@ one-fourth of the population.— English Quar
 </tr></table>
 
 <hr />
+
 ## General Summary
+
 #### From _Deseret news._
+
 #### 1853-12-01 &middot; G.S.L. City, Deseret [i.e. Salt Lake City, Utah]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1853-12-07/ed-1/seq-1)
+
 #### 1853-12-07 &middot; Cadiz, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1776,7 +1888,9 @@ profess more than 1,000 different religion
 </tr></table>
 
 <hr />
+
 ## [From _Butte record._](https://chroniclingamerica.loc.gov/lccn/sn93052998/1853-12-10/ed-1/seq-1)
+
 #### 1853-12-10 &middot; Bidwell, Butte County, Cal.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1827,7 +1941,9 @@ population
 </tr></table>
 
 <hr />
+
 ## [From _Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040305/1853-12-23/ed-1/seq-3)
+
 #### 1853-12-23 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1877,12 +1993,17 @@ culated at one-fourth the population.’
 </tr></table>
 
 <hr />
+
 ## Facts in Human Life
+
 #### From _Bangor daily Whig & courier._
+
 #### 1853-12-30 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Plymouth banner._](https://chroniclingamerica.loc.gov/lccn/sn87056241/1854-01-19/ed-1/seq-1)
+
 #### 1854-01-19 &middot; Plymouth, Marshall County, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1899,7 +2020,9 @@ his soul miy rest secure with respect to felicity refused to one hilf the human
 </tr></table>
 
 <hr />
+
 ## [From _Plymouth banner._](https://chroniclingamerica.loc.gov/lccn/sn87056241/1854-01-19/ed-1/seq-1)
+
 #### 1854-01-19 &middot; Plymouth, Marshall County, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1930,7 +2053,9 @@ rie I are lonr l
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1854-01-21/ed-2/seq-2)
+
 #### 1854-01-21 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1958,17 +2083,25 @@ of age
 </tr></table>
 
 <hr />
+
 ## Facts in Human Life
+
 #### From _The Ohio observer._
+
 #### 1854-01-25 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## HOME INTELLIGENCE.
+
 #### From _Ipswich Journal_
+
 #### 1854-02-11 &middot; Ipswich, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1854-02-18_10_48?page=14)
+
 #### 1854-02-18 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2024,22 +2157,33 @@ more frequent after the equinoxes: that is during
 </tr></table>
 
 <hr />
+
 ## Miscellaneous.
+
 #### From _North Wales Chronicle_
+
 #### 1854-02-25 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## Miscellaneous.
+
 #### From _North Wales Chronicle_
+
 #### 1854-02-25 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## Miscellany
+
 #### From _Vermont chronicle._
+
 #### 1854-02-28 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1854-03-09/ed-1/seq-1)
+
 #### 1854-03-09 &middot; Gallipolis, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2075,8 +2219,11 @@ thru the single, and
 </tr></table>
 
 <hr />
+
 ## [LIST OF DONATION TO OUR MUSEUM. [?].](http://trove.nla.gov.au/ndp/del/article/59758381)
+
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
+
 #### 1854-03-11 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2125,7 +2272,9 @@ more robust than others. Births
 </td></tr></table>
 
 <hr />
+
 ## [From _The Weekly Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn93052117/1854-04-22/ed-1/seq-4)
+
 #### 1854-04-22 &middot; Auburn, Placer Co. [Calif.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2178,7 +2327,9 @@ population
 </tr></table>
 
 <hr />
+
 ## [From _The Literary echo, and Pawcatuck advertiser._](https://chroniclingamerica.loc.gov/lccn/sn83021532/1854-04-27/ed-1/seq-2)
+
 #### 1854-04-27 &middot; Westerly, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2231,7 +2382,9 @@ sAPVY S W e e e
 </tr></table>
 
 <hr />
+
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5?page=19)
+
 #### 1854-05-01 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2277,7 +2430,9 @@ population.— English Quarterly.
 </tr></table>
 
 <hr />
+
 ## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18?page=14)
+
 #### 1854-05-06 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2292,8 +2447,11 @@ America
 </tr></table>
 
 <hr />
+
 ## [DESTRUCTION OF A RHINOCEROS IN THE SOONDERBUNDS. (From an East Indian Correspondent.)](http://trove.nla.gov.au/ndp/del/article/12952038)
+
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
+
 #### 1854-05-12 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2329,7 +2487,9 @@ December. Those horn in sprin
 </td></tr></table>
 
 <hr />
+
 ## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1854-05-17/ed-1/seq-1)
+
 #### 1854-05-17 &middot; Sumterville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2382,7 +2542,9 @@ t at one-fourth of the popu-lation; though
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1854-05-24/ed-1/seq-1)
+
 #### 1854-05-24 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2413,7 +2575,9 @@ losses are about balanced by a
 </tr></table>
 
 <hr />
+
 ## [From _The Port Gibson reveille._](https://chroniclingamerica.loc.gov/lccn/sn87090152/1854-05-31/ed-1/seq-1)
+
 #### 1854-05-31 &middot; Port Gibson, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2457,7 +2621,9 @@ of ca i cu latcd at one-fourtl, of the population
 </tr></table>
 
 <hr />
+
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1854-05-31/ed-1/seq-1)
+
 #### 1854-05-31 &middot; Martinsburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2491,13 +2657,19 @@ equinoxes; that is, during tho months of Juno
 </tr></table>
 
 <hr />
+
 ## INGENUITY OF SCIENCE.
+
 #### From _German reformed messenger._
+
 #### 1854-05-31 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [COURT OF COMMON PLEAS.—FEBRUARY 22.](http://trove.nla.gov.au/ndp/del/article/12953755)
+
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
+
 #### 1854-06-01 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2539,7 +2711,9 @@ one-fourth the population.-Englis
 </td></tr></table>
 
 <hr />
+
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1854-06-10/ed-1/seq-1)
+
 #### 1854-06-10 &middot; Saint Paul, Minn. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2584,7 +2758,9 @@ tion.—English Review.
 </tr></table>
 
 <hr />
+
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1854-06-10/ed-1/seq-4)
+
 #### 1854-06-10 &middot; New-Lisbon, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2623,8 +2799,11 @@ months of Jun
 </tr></table>
 
 <hr />
+
 ## [ENGLISH EXTRACTS. WHAT ATROCITY NEXT? From the Daily News, March 8.](http://trove.nla.gov.au/ndp/del/article/2248553)
+
 #### From _The Courier (Hobart, Tas. : 1840 - 1859)_
+
 #### 1854-06-15 &middot; Hobart, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2667,7 +2846,9 @@ Society.-The papers of 23rd February
 </td></tr></table>
 
 <hr />
+
 ## [From _The Yazoo Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87065704/1854-06-21/ed-1/seq-3)
+
 #### 1854-06-21 &middot; Yazoo City, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2711,8 +2892,11 @@ noxes; thj is, during the months of Jun
 </tr></table>
 
 <hr />
+
 ## [LOCAL INTELLIGENCE.](http://trove.nla.gov.au/ndp/del/article/65715254)
+
 #### From _The Cornwall Chronicle (Launceston, Tas. : 1835 - 1880)_
+
 #### 1854-06-24 &middot; Launceston, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2763,7 +2947,9 @@ one-fourth of the population. — Englis
 </td></tr></table>
 
 <hr />
+
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1854-07-05/ed-1/seq-2)
+
 #### 1854-07-05 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2806,7 +2992,9 @@ is calculated at one-fourth of the population
 </tr></table>
 
 <hr />
+
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1854-07-05/ed-1/seq-2)
+
 #### 1854-07-05 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2844,7 +3032,9 @@ of June a
 </tr></table>
 
 <hr />
+
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1854-07-15/ed-1/seq-1)
+
 #### 1854-07-15 &middot; Elkton, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2883,7 +3073,9 @@ one-fourth of the population.—English Quar
 </tr></table>
 
 <hr />
+
 ## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1854-07-22/ed-1/seq-3)
+
 #### 1854-07-22 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2913,13 +3105,19 @@ is, during the months of June an
 </tr></table>
 
 <hr />
+
 ## Facts in Human Life
+
 #### From _Fayetteville observer._
+
 #### 1854-07-27 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [Miscellaneous.](http://trove.nla.gov.au/ndp/del/article/3175426)
+
 #### From _The Perth Gazette and Independent Journal of Politics and News (WA : 1848 - 1864)_
+
 #### 1854-08-18 &middot; Perth, Western Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2961,7 +3159,9 @@ one-fourth the population.Englis
 </td></tr></table>
 
 <hr />
+
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1854-08-26/ed-1/seq-2)
+
 #### 1854-08-26 &middot; Thibodaux, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3008,7 +3208,9 @@ man were in London, they were invited by th
 </tr></table>
 
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1854-09-14/ed-1/seq-1)
+
 #### 1854-09-14 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3029,7 +3231,9 @@ on earth 1,000.000,000 inhabitants ; an
 </tr></table>
 
 <hr />
+
 ## [From _Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040305/1854-09-29/ed-1/seq-1)
+
 #### 1854-09-29 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3076,7 +3280,9 @@ nigh
 </tr></table>
 
 <hr />
+
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1854-10-12/ed-1/seq-1)
+
 #### 1854-10-12 &middot; Fayetteville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3106,7 +3312,9 @@ dred Vf:ns nf nrro f n pvwrv 1 Of) nri.
 </tr></table>
 
 <hr />
+
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1854-10-12/ed-1/seq-1)
+
 #### 1854-10-12 &middot; Fayetteville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3133,7 +3341,9 @@ post-ollioe in Liau County, Iowa.- b;aHze inDecemberdo so, doubtless, w. ojhl -J
 </tr></table>
 
 <hr />
+
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1854-11-04/ed-1/seq-4)
+
 #### 1854-11-04 &middot; Saint Paul, Minn. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3170,12 +3380,17 @@ diii
 </tr></table>
 
 <hr />
+
 ## Fashion and Varieties.
+
 #### From _Belfast News-Letter_
+
 #### 1854-11-29 &middot; Belfast, Ireland
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1854-12_31_6?page=98)
+
 #### 1854-12-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3202,8 +3417,11 @@ equinoxes—that is, during the months of June an
 </tr></table>
 
 <hr />
+
 ## [WHY NO NEW MATERIALS ARE USED IN PAPER MAKING IN ENGLAND. [To the Editor of the Daily News.]](http://trove.nla.gov.au/ndp/del/article/49306502)
+
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
+
 #### 1855-01-08 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3247,12 +3465,17 @@ calculated at one fourth the population
 </td></tr></table>
 
 <hr />
+
 ## MISCELLANEOUS.
+
 #### From _Glasgow Herald_
+
 #### 1855-01-15 &middot; Glasgow, Scotland
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Washington sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84020104/1855-02-04/ed-1/seq-2)
+
 #### 1855-02-04 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3320,7 +3543,9 @@ nnder garments.?National Monitor
 </tr></table>
 
 <hr />
+
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1855-02-07/ed-1/seq-1)
+
 #### 1855-02-07 &middot; Clarksburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3363,7 +3588,9 @@ born in the
 </tr></table>
 
 <hr />
+
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1855-02-16/ed-1/seq-1)
+
 #### 1855-02-16 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3428,7 +3655,9 @@ maikel value of flannel under garments
 </tr></table>
 
 <hr />
+
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1855-03-16/ed-1/seq-2)
+
 #### 1855-03-16 &middot; Greenville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3450,8 +3679,11 @@ years vf age. There uroon earth 1,000,000,- !
 </tr></table>
 
 <hr />
+
 ## [THE DEFINITION OF THE IMMACULATE CONCEPTION.](http://trove.nla.gov.au/ndp/del/article/115554359)
+
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
+
 #### 1855-04-07 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3474,7 +3706,9 @@ as;e. There are on the earth
 </td></tr></table>
 
 <hr />
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1855-04-18/ed-1/seq-1)
+
 #### 1855-04-18 &middot; Woodsfield, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3530,7 +3764,9 @@ one etghth the population &#x27; &#x27; a
 </tr></table>
 
 <hr />
+
 ## [From _Monongalia mirror._](https://chroniclingamerica.loc.gov/lccn/sn86092163/1855-05-05/ed-1/seq-1)
+
 #### 1855-05-05 &middot; Morgantown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3606,8 +3842,11 @@ ket value of flannel under garments.
 </tr></table>
 
 <hr />
+
 ## [British Extracts. LETTERS FROM THE CRIMEA.](http://trove.nla.gov.au/ndp/del/article/701218)
+
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
+
 #### 1855-05-09 &middot; Maitland, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3653,8 +3892,11 @@ night. The number o
 </td></tr></table>
 
 <hr />
+
 ## [No Title](http://trove.nla.gov.au/ndp/del/article/36292639)
+
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
+
 #### 1855-05-10 &middot; Launceston, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3694,8 +3936,11 @@ ThosoU born in the spri
 </td></tr></table>
 
 <hr />
+
 ## [Miscellaneous Extracts.](http://trove.nla.gov.au/ndp/del/article/59760254)
+
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
+
 #### 1855-05-26 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3729,8 +3974,11 @@ i?,diiringtheincntltsof.Junfcn
 </td></tr></table>
 
 <hr />
+
 ## [UNITED STATES. COMMERCIAL INTELLIGENCE.](http://trove.nla.gov.au/ndp/del/article/158103844)
+
 #### From _Adelaide Observer (SA : 1843 - 1904)_
+
 #### 1855-06-02 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3775,8 +4023,11 @@ most frequent by night. The number o
 </td></tr></table>
 
 <hr />
+
 ## [SCAB IN SHEEP. TO THE EDITOR OF THE REGISTER.](http://trove.nla.gov.au/ndp/del/article/49308631)
+
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
+
 #### 1855-06-02 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3817,13 +4068,19 @@ that is, during the months of Jane an
 </td></tr></table>
 
 <hr />
+
 ## MISCELLANEA.
+
 #### From _Trewman's Exeter Flying Post_
+
 #### 1855-06-07 &middot; Exeter, England
 [This text is not available under an open license.]
 <hr />
+
 ## [BRANDY AND BITTERS.](http://trove.nla.gov.au/ndp/del/article/91870894)
+
 #### From _Geelong Advertiser and Intelligencer (Vic. : 1851 - 1856)_
+
 #### 1855-06-07 &middot; Geelong, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3865,7 +4122,9 @@ capable of bearing arms is calculated
 </td></tr></table>
 
 <hr />
+
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1855-06-09/ed-1/seq-4)
+
 #### 1855-06-09 &middot; Shasta, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3881,7 +4140,9 @@ one for every second
 </tr></table>
 
 <hr />
+
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26?page=9)
+
 #### 1855-06-30 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3914,7 +4175,9 @@ The number o
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of the Times; A Chronicle of the Turf, Agriculture, Field Sports, Literature and the Stage (1835-1861)_](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23?page=7)
+
 #### 1855-07-21 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3937,8 +4200,11 @@ pred gee br Ag progres 100 years of life: to every 100, only p
 </tr></table>
 
 <hr />
+
 ## [Facts in human Life.](http://trove.nla.gov.au/ndp/del/article/66005609)
+
 #### From _The Inquirer and Commercial News (Perth, WA : 1855 - 1901)_
+
 #### 1855-09-12 &middot; Perth, Western Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3979,12 +4245,17 @@ of the population
 </td></tr></table>
 
 <hr />
+
 ## FACTS WORTH NOTING.
+
 #### From _New York Observer and Chronicle (1833-1912)_
+
 #### 1856-02-07 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Minnesota weekly times._](https://chroniclingamerica.loc.gov/lccn/sn85025594/1856-02-23/ed-1/seq-2)
+
 #### 1856-02-23 &middot; St. Paul, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4019,7 +4290,9 @@ to every 1000 individuals. Those born in sprin
 </tr></table>
 
 <hr />
+
 ## [From _Metropolitan; A Monthly Magazine Devoted to Religion, Education, Literature, and General Information 1853-1859_](https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2?page=42)
+
 #### 1856-03-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4060,7 +4333,9 @@ most frequent by night. The number o
 </tr></table>
 
 <hr />
+
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1856-04-24/ed-1/seq-1)
+
 #### 1856-04-24 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4092,7 +4367,9 @@ and above all those w ho observe a
 </tr></table>
 
 <hr />
+
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1856-07-12/ed-1/seq-1)
+
 #### 1856-07-12 &middot; Brownville, Nemaha County, N.T. [Neb.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4119,7 +4396,9 @@ one-half before reaching 17. Ofeverv &#x27;
 </tr></table>
 
 <hr />
+
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1856-08-07/ed-1/seq-1)
+
 #### 1856-08-07 &middot; Honolulu, Hawaiian Islands
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4157,7 +4436,9 @@ Women
 </tr></table>
 
 <hr />
+
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1857-03-22/ed-1/seq-2)
+
 #### 1857-03-22 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4202,7 +4483,9 @@ lation
 </tr></table>
 
 <hr />
+
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1857-05-02/ed-1/seq-1)
+
 #### 1857-05-02 &middot; Auburn, Placer County, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4241,7 +4524,9 @@ after Iho equinoxes—that is during the
 </tr></table>
 
 <hr />
+
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1857-05-07/ed-1/seq-1)
+
 #### 1857-05-07 &middot; Greenville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4278,8 +4563,11 @@ born in the spring are
 </tr></table>
 
 <hr />
+
 ## [HOME AND FOREIGN EXTRACTS. EXTRAORDINARY EXPERIMENT ON A CHILD.](http://trove.nla.gov.au/ndp/del/article/128760833)
+
 #### From _Northern Times (Newcastle, NSW : 1857 - 1918)_
+
 #### 1857-07-22 &middot; Newcastle, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4295,7 +4583,9 @@ half ol tbe huaiau species. Of 1 every
 </td></tr></table>
 
 <hr />
+
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1857-09-03/ed-1/seq-2)
+
 #### 1857-09-03 &middot; Port Tobacco, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4342,8 +4632,11 @@ calculated at one fourth of the population, j
 </tr></table>
 
 <hr />
+
 ## [SELECT PICKINGS.](http://trove.nla.gov.au/ndp/del/article/59867230)
+
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
+
 #### 1857-09-05 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4364,7 +4657,9 @@ in
 </td></tr></table>
 
 <hr />
+
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1857-09-10/ed-1/seq-1)
+
 #### 1857-09-10 &middot; Fayetteville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4417,8 +4712,11 @@ burth of the population
 </tr></table>
 
 <hr />
+
 ## [[?] AND THE LAW [?] LIBEL.](http://trove.nla.gov.au/ndp/del/article/128762208)
+
 #### From _Northern Times (Newcastle, NSW : 1857 - 1918)_
+
 #### 1858-01-02 &middot; Newcastle, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4438,12 +4736,17 @@ on earth 1,000.000,000
 </td></tr></table>
 
 <hr />
+
 ## News of the Week.
+
 #### From _German reformed messenger._
+
 #### 1858-03-31 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1858-06-02/ed-1/seq-2)
+
 #### 1858-06-02 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4468,7 +4771,9 @@ and industrious
 </tr></table>
 
 <hr />
+
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1858-12-15/ed-1/seq-4)
+
 #### 1858-12-15 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4491,13 +4796,19 @@ live longer than s
 </tr></table>
 
 <hr />
+
 ## Many Facts in Small Compass
+
 #### From _The Congregationalist._
+
 #### 1859-04-15 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [THE WAR. (From the Times.)](http://trove.nla.gov.au/ndp/del/article/13027804)
+
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
+
 #### 1859-07-15 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4520,12 +4831,17 @@ per minute, which is more than one ever
 </td></tr></table>
 
 <hr />
+
 ## FAMILY BIBLE CLASS.
+
 #### From _Christian Observer (1840-1910)_
+
 #### 1859-11-17 &middot; Louisville
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1860-08-02/ed-1/seq-1)
+
 #### 1860-08-02 &middot; Towanda, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4547,22 +4863,33 @@ conduct. Tall men live long
 </tr></table>
 
 <hr />
+
 ## Miscellaneous Articles
+
 #### From _Boston investigator._
+
 #### 1860-08-08 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## Many Facts in a Small Compass
+
 #### From _Lowell daily citizen and news._
+
 #### 1860-09-10 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## Many Facts in Small Compass
+
 #### From _Freedom's champion._
+
 #### 1862-11-22 &middot; Atchison City [i.e. Atchison] Kan.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1866-11-20/ed-1/seq-1)
+
 #### 1866-11-20 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4607,7 +4934,9 @@ Our neighboring little city of Cynthian
 </tr></table>
 
 <hr />
+
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1866-11-24/ed-1/seq-4)
+
 #### 1866-11-24 &middot; Wheeling, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4627,7 +4956,9 @@ years of lire; to everyone hundred onl
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1866-11-29/ed-1/seq-1)
+
 #### 1866-11-29 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4654,12 +4985,17 @@ leariDg arms is calculated at one-fourth of
 </tr></table>
 
 <hr />
+
 ## FACTS IN HUMAN LIFE.
+
 #### From _Ohio Farmer (1856-1906)_
+
 #### 1866-12-01 &middot; Cleveland
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1867-01-15/ed-1/seq-1)
+
 #### 1867-01-15 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4702,7 +5038,9 @@ a store and examine all the pretty articles ex
 </tr></table>
 
 <hr />
+
 ## [From _The tri-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn85042146/1867-02-19/ed-1/seq-2)
+
 #### 1867-02-19 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4744,7 +5082,9 @@ Home Journal
 </tr></table>
 
 <hr />
+
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1867-08-24/ed-1/seq-2)
+
 #### 1867-08-24 &middot; Gold Hill, N.T. [Nev.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4771,18 +5111,27 @@ The number of men is about equal t
 </tr></table>
 
 <hr />
+
 ## LITERARY MISCELLANEA.
+
 #### From _Reynolds's  Newspaper_
+
 #### 1869-03-07 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## THE FARMER'S JOURNAL.
+
 #### From _Trewman's Exeter Flying Post_
+
 #### 1871-02-01 &middot; Exeter, England
 [This text is not available under an open license.]
 <hr />
+
 ## [THE MOUNT MUIRHEAD AREA.](http://trove.nla.gov.au/ndp/del/article/39250256)
+
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
+
 #### 1871-05-05 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4809,8 +5158,11 @@ than the single, and, above
 </td></tr></table>
 
 <hr />
+
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/159530405)
+
 #### From _Adelaide Observer (SA : 1843 - 1904)_
+
 #### 1871-05-06 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4838,7 +5190,9 @@ single, and, above
 </td></tr></table>
 
 <hr />
+
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1871-05-25/ed-1/seq-1)
+
 #### 1871-05-25 &middot; Tarboro', N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4884,7 +5238,9 @@ culated at one fourth of the population
 </tr></table>
 
 <hr />
+
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1871-05-26/ed-1/seq-1)
+
 #### 1871-05-26 &middot; Deer Lodge, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4924,7 +5280,9 @@ quent by
 </tr></table>
 
 <hr />
+
 ## [From _The Daily state register._](https://chroniclingamerica.loc.gov/lccn/sn84020345/1871-07-11/ed-1/seq-1)
+
 #### 1871-07-11 &middot; Carson City, Nev.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4965,7 +5323,9 @@ and deaths are more frequentl
 </tr></table>
 
 <hr />
+
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1871-07-13/ed-1/seq-1)
+
 #### 1871-07-13 &middot; Millersburg, Holmes Co., O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5008,12 +5368,17 @@ that is, duriug the months o
 </tr></table>
 
 <hr />
+
 ## IMPERIAL PARLIAMENT.
+
 #### From _Ipswich Journal_
+
 #### 1871-07-29 &middot; Ipswich, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Oregon Republican._](https://chroniclingamerica.loc.gov/lccn/sn93051636/1871-08-19/ed-1/seq-4)
+
 #### 1871-08-19 &middot; Dallas, Or.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5043,12 +5408,17 @@ population
 </tr></table>
 
 <hr />
+
 ## Facts in Human Life
+
 #### From _The Milwaukee sentinel._
+
 #### 1871-08-23 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1871-10-18/ed-1/seq-4)
+
 #### 1871-10-18 &middot; Richmond, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5093,7 +5463,9 @@ How the Factory Helps the Farm
 </tr></table>
 
 <hr />
+
 ## [From _Semi-weekly Louisianian._](https://chroniclingamerica.loc.gov/lccn/sn83016631/1871-10-19/ed-1/seq-1)
+
 #### 1871-10-19 &middot; New Orleans, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5123,7 +5495,9 @@ minute, or one every second. Th
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1871-10-21/ed-2/seq-2)
+
 #### 1871-10-21 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5159,7 +5533,9 @@ e culated at one-fourth of the population
 </tr></table>
 
 <hr />
+
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1871-11-10/ed-1/seq-1)
+
 #### 1871-11-10 &middot; Fremont, Sandusky County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5185,7 +5561,9 @@ live3 to 80 years of age. Ther
 </tr></table>
 
 <hr />
+
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-11-16/ed-1/seq-1)
+
 #### 1871-11-16 &middot; Tiffin, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5226,7 +5604,9 @@ during tlie months of June and
 </tr></table>
 
 <hr />
+
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1871-11-27/ed-1/seq-2)
+
 #### 1871-11-27 &middot; Gold Hill, N.T. [Nev.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5253,7 +5633,9 @@ second. The married are longer-live
 </tr></table>
 
 <hr />
+
 ## [From _Every Saturday: A Journal of Choice Reading (1866-1874)_](https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101?page=10)
+
 #### 1871-12-02 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5272,7 +5654,9 @@ every one hundred, only six reach the age o
 </tr></table>
 
 <hr />
+
 ## [From _Every Saturday: A Journal of Choice Reading (1866-1874)_](https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101?page=10)
+
 #### 1871-12-02 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5293,7 +5677,9 @@ tion.
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1871-12-27/ed-1/seq-1)
+
 #### 1871-12-27 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5315,7 +5701,9 @@ the age of sixty-five; and not mor
 </tr></table>
 
 <hr />
+
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1872-02-17/ed-1/seq-1)
+
 #### 1872-02-17 &middot; Mechanicstown, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5342,7 +5730,9 @@ losses are about balanced by an equ
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1872-04-04/ed-1/seq-2)
+
 #### 1872-04-04 &middot; Ottumwa, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5363,7 +5753,9 @@ onlv six reaches the age of sixty fiv
 </tr></table>
 
 <hr />
+
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1873-03-20/ed-1/seq-1)
+
 #### 1873-03-20 &middot; Idaho City, Idaho Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5390,7 +5782,9 @@ married are longer lived than th
 </tr></table>
 
 <hr />
+
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1873-06-24/ed-2/seq-3)
+
 #### 1873-06-24 &middot; New Bloomfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5417,7 +5811,9 @@ ond. The married are longer. lived tha
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1879-04-26/ed-1/seq-1)
+
 #### 1879-04-26 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5468,7 +5864,9 @@ ted at one fourth of the population.
 </tr></table>
 
 <hr />
+
 ## [From _The Silver state._](https://chroniclingamerica.loc.gov/lccn/sn84022060/1879-06-25/ed-1/seq-3)
+
 #### 1879-06-25 &middot; Unionville, Nev.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5492,8 +5890,11 @@ more than 1,000 different religions.
 </tr></table>
 
 <hr />
+
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/110377222)
+
 #### From _Wallaroo Times (Port Wallaroo, SA : 1882 - 1888)_
+
 #### 1882-02-15 &middot; Port Wallaroo, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5514,7 +5915,9 @@ industrious conduct
 </td></tr></table>
 
 <hr />
+
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1883-01-03/ed-1/seq-3)
+
 #### 1883-01-03 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5541,7 +5944,9 @@ than men have, but fewer afterward. Person
 </tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1883-01-18/ed-1/seq-6)
+
 #### 1883-01-18 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5562,7 +5967,9 @@ thun ono in OOO lives to eighty years. O
 </tr></table>
 
 <hr />
+
 ## [From _The clarion._](https://chroniclingamerica.loc.gov/lccn/sn83016925/1883-01-24/ed-1/seq-3)
+
 #### 1883-01-24 &middot; Jackson, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5600,7 +6007,9 @@ but fewer afterward. Persons who are
 </tr></table>
 
 <hr />
+
 ## [From _Ballou's Monthly Magazine (1866-1893)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6?page=76)
+
 #### 1887-12-01 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5639,8 +6048,11 @@ calculated at one-fourth of the population.
 </tr></table>
 
 <hr />
+
 ## [No title](http://trove.nla.gov.au/ndp/del/article/149496576)
+
 #### From _Daily Telegraph (Launceston, Tas. : 1883 - 1928)_
+
 #### 1888-03-31 &middot; Launceston, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5684,7 +6096,9 @@ one-fourth of the population. Tk
 </td></tr></table>
 
 <hr />
+
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1888-12-29/ed-1/seq-1)
+
 #### 1888-12-29 &middot; Oakland, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5721,17 +6135,25 @@ others. Births are more frequent by
 </tr></table>
 
 <hr />
+
 ## The World's Population
+
 #### From _The Wisconsin state register._
+
 #### 1888-12-29 &middot; Portage, Columbia County, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## Facts in Human Life
+
 #### From _Morning Oregonian._
+
 #### 1889-01-08 &middot; Portland, Or.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1889-01-17/ed-1/seq-8)
+
 #### 1889-01-17 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5762,7 +6184,9 @@ frequent by ni
 </tr></table>
 
 <hr />
+
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1889-01-17_39_3?page=30)
+
 #### 1889-01-17 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5800,7 +6224,9 @@ Births are more frequent by
 </tr></table>
 
 <hr />
+
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1889-01-31/ed-1/seq-2)
+
 #### 1889-01-31 &middot; Helena, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5831,7 +6257,9 @@ than others. Births are more frequent
 </tr></table>
 
 <hr />
+
 ## [From _Thomas County cat._](https://chroniclingamerica.loc.gov/lccn/sn85032814/1889-03-07/ed-1/seq-6)
+
 #### 1889-03-07 &middot; Colby, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5866,7 +6294,9 @@ tian Union
 </tr></table>
 
 <hr />
+
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1889-03-29/ed-1/seq-3)
+
 #### 1889-03-29 &middot; Idaho City, Idaho Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5901,17 +6331,25 @@ tfan Union
 </tr></table>
 
 <hr />
+
 ## Longevity
+
 #### From _Boston investigator._
+
 #### 1889-04-17 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## One Dies Every Second
+
 #### From _Fayetteville observer._
+
 #### 1889-05-23 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1889-05-29/ed-1/seq-1)
+
 #### 1889-05-29 &middot; Hawthorne, Nev.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5934,8 +6372,11 @@ the single, mid, above nil, those wh
 </tr></table>
 
 <hr />
+
 ## [MOTHER EARTH.](http://trove.nla.gov.au/ndp/del/article/58466856)
+
 #### From _Mercury and Weekly Courier (Vic. : 1878 - 1903)_
+
 #### 1890-03-27 &middot; Fitzroy, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5953,8 +6394,11 @@ every second. The married are longe
 </td></tr></table>
 
 <hr />
+
 ## [FACTS ABOUT HUMAN LIFE.](http://trove.nla.gov.au/ndp/del/article/132638357)
+
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
+
 #### 1890-12-11 &middot; Wollongong, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5969,7 +6413,9 @@ or 1 every second. The married ar
 </td></tr></table>
 
 <hr />
+
 ## [From _The Telegraph-courier._](https://chroniclingamerica.loc.gov/lccn/sn85040310/1891-01-29/ed-1/seq-3)
+
 #### 1891-01-29 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6006,7 +6452,9 @@ ers. Births are more frequent by
 </tr></table>
 
 <hr />
+
 ## [From _Maryland independent._](https://chroniclingamerica.loc.gov/lccn/sn85025407/1891-03-20/ed-1/seq-3)
+
 #### 1891-03-20 &middot; Port Tobacco, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6041,8 +6489,11 @@ during the months of June
 </tr></table>
 
 <hr />
+
 ## [CONCENTRATES.](http://trove.nla.gov.au/ndp/del/article/44067664)
+
 #### From _Barrier Miner (Broken Hill, NSW : 1888 - 1954)_
+
 #### 1891-05-27 &middot; Broken Hill, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6057,8 +6508,11 @@ the human species, and cannot be to
 </td></tr></table>
 
 <hr />
+
 ## [Football.](http://trove.nla.gov.au/ndp/del/article/44067722)
+
 #### From _Barrier Miner (Broken Hill, NSW : 1888 - 1954)_
+
 #### 1891-05-28 &middot; Broken Hill, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6073,8 +6527,11 @@ species, and cannot be too careful o
 </td></tr></table>
 
 <hr />
+
 ## [FACTS IN HUMAN LIFE.](http://trove.nla.gov.au/ndp/del/article/77074176)
+
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
+
 #### 1893-08-05 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6096,7 +6553,9 @@ n
 </td></tr></table>
 
 <hr />
+
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1896-12-02/ed-1/seq-6)
+
 #### 1896-12-02 &middot; Watertown, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6121,12 +6580,17 @@ night than by day. The number of me
 </tr></table>
 
 <hr />
+
 ## Gleanings
+
 #### From _The Atchison daily globe._
+
 #### 1897-06-14 &middot; Atchison, Kan.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Bridgeton pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87068192/1897-07-22/ed-1/seq-4)
+
 #### 1897-07-22 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6141,7 +6605,9 @@ Africa and 1,264 in America
 </tr></table>
 
 <hr />
+
 ## [From _The Norfolk Virginian._](https://chroniclingamerica.loc.gov/lccn/sn85025715/1897-10-03/ed-1/seq-12)
+
 #### 1897-10-03 &middot; Norfolk, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6163,8 +6629,11 @@ Inhabitants, and of these 8
 </tr></table>
 
 <hr />
+
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/61320396)
+
 #### From _Clarence and Richmond Examiner (Grafton, NSW : 1889 - 1915)_
+
 #### 1897-10-09 &middot; Grafton, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6186,7 +6655,9 @@ minute, or on« «very second. THE TE
 </td></tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1897-10-27/ed-1/seq-1)
+
 #### 1897-10-27 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6206,7 +6677,9 @@ Thero are on earth 1,000,000,000 i
 </tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1897-10-27/ed-2/seq-1)
+
 #### 1897-10-27 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6229,8 +6702,11 @@ and 60 every minute, or 1 every second
 </tr></table>
 
 <hr />
+
 ## [THE LATE JUDGE WINDEYER.](http://trove.nla.gov.au/ndp/del/article/44200295)
+
 #### From _Barrier Miner (Broken Hill, NSW : 1888 - 1954)_
+
 #### 1897-11-09 &middot; Broken Hill, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6253,8 +6729,11 @@ second. Scenes from Shakespeare a
 </td></tr></table>
 
 <hr />
+
 ## [Smoke-Ho.](http://trove.nla.gov.au/ndp/del/article/70931433)
+
 #### From _Worker (Brisbane, Qld. : 1890 - 1955)_
+
 #### 1897-11-20 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6277,8 +6756,11 @@ minute, or 1 every second
 </td></tr></table>
 
 <hr />
+
 ## [Needles. "Short, Sharp, Shiny."](http://trove.nla.gov.au/ndp/del/article/87764851)
+
 #### From _Chronicle (Adelaide, SA : 1895 - 1954)_
+
 #### 1897-11-20 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6301,7 +6783,9 @@ every second. Tho railway revenue fo
 </td></tr></table>
 
 <hr />
+
 ## [From _The Dakota chief._](https://chroniclingamerica.loc.gov/lccn/sn99068086/1898-01-13/ed-1/seq-5)
+
 #### 1898-01-13 &middot; Gann Valley, Buffalo County, S.D.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6330,12 +6814,17 @@ second.
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _The Owyhee avalanche._
+
 #### 1898-02-04 &middot; Ruby City, I.T. [Idaho]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The St. Johns herald._](https://chroniclingamerica.loc.gov/lccn/sn94051692/1898-02-19/ed-1/seq-2)
+
 #### 1898-02-19 &middot; St. Johns, Apache County, Arizona Territory [Ariz.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6365,7 +6854,9 @@ year, 91,824 every day, 3,730 every hour, 1
 </tr></table>
 
 <hr />
+
 ## [From _The Winslow mail._](https://chroniclingamerica.loc.gov/lccn/sn96060765/1898-03-19/ed-1/seq-2)
+
 #### 1898-03-19 &middot; Winslow, Ariz.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

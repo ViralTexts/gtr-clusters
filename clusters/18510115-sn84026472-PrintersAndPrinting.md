@@ -1,8 +1,14 @@
+
 # Printers and Printing
+
 ### 157 reprints from 1851-01-15 to 1898-11-26 [cl92]
+
 ## [Printers and Printing](https://chroniclingamerica.loc.gov/lccn/sn84026472/1851-01-15/ed-1/seq-2/)
+
 #### by J[oseph]. T[inker]. Buckingham
+
 #### From _Hillsborough Recorder_
+
 #### 1851-01-15
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13,7 +19,9 @@
 </td></tr></table>
 
 <hr />
+
 ## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7?page=303)
+
 #### 1849-01-01 &middot; Bradford
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -68,7 +76,9 @@ be puzzled to read.
 </tr></table>
 
 <hr />
+
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1849-10-31/ed-1/seq-2)
+
 #### 1849-10-31 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -99,7 +109,9 @@ sermons, which, if published with the iinDerfe
 </tr></table>
 
 <hr />
+
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1849-10-31/ed-1/seq-2)
+
 #### 1849-10-31 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -123,12 +135,17 @@ would be puzzled to read.
 </tr></table>
 
 <hr />
+
 ## Printers and Printing
+
 #### From _Daily national intelligencer._
+
 #### 1849-11-01 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1849-11-02/ed-1/seq-2)
+
 #### 1849-11-02 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -175,7 +192,9 @@ i writers themselves would be puzzled to read &quot;
 </tr></table>
 
 <hr />
+
 ## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1849-11-03/ed-1/seq-3)
+
 #### 1849-11-03 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -213,7 +232,9 @@ minusoripta that the writers themselves wou
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1849-11-07/ed-1/seq-2)
+
 #### 1849-11-07 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -261,7 +282,9 @@ to read.
 </tr></table>
 
 <hr />
+
 ## [From _The Charlotte journal._](https://chroniclingamerica.loc.gov/lccn/sn84020716/1849-11-09/ed-1/seq-3)
+
 #### 1849-11-09 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -315,7 +338,9 @@ he puzzled lo read.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1849-11-10/ed-1/seq-4)
+
 #### 1849-11-10 &middot; Pickens Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -376,7 +401,9 @@ that th?- w&quot;iters tbfimselve woul
 </tr></table>
 
 <hr />
+
 ## [From _Hillsdale Whig standard._](https://chroniclingamerica.loc.gov/lccn/sn89080032/1849-11-13/ed-1/seq-1)
+
 #### 1849-11-13 &middot; Hillsdale, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -427,7 +454,9 @@ condition, manusctipts that the
 </tr></table>
 
 <hr />
+
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1849-11-14/ed-1/seq-2)
+
 #### 1849-11-14 &middot; Edgefield, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -477,17 +506,25 @@ would be puzzled to read.&quot;
 </tr></table>
 
 <hr />
+
 ## Variety
+
 #### From _Greenville mountaineer._
+
 #### 1849-11-16 &middot; Greenville, S.C.
 [This text is not available under an open license.]
 <hr />
+
 ## Printers and Printing
+
 #### From _Western commercial._
+
 #### 1849-11-17 &middot; Aurora, Ind.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Planters' banner._](https://chroniclingamerica.loc.gov/lccn/sn86053688/1849-11-22/ed-1/seq-4)
+
 #### 1849-11-22 &middot; Franklin, Attakapas Co., Lou.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -513,7 +550,9 @@ y ouat oplace. I h
 </tr></table>
 
 <hr />
+
 ## [From _The Planters' banner._](https://chroniclingamerica.loc.gov/lccn/sn86053688/1849-11-22/ed-1/seq-4)
+
 #### 1849-11-22 &middot; Franklin, Attakapas Co., Lou.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -533,12 +572,17 @@ lves wropd be puzzled o read.
 </tr></table>
 
 <hr />
+
 ## Printers and Printing
+
 #### From _Arkansas State Democrat._
+
 #### 1849-11-23 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1849-11-28/ed-1/seq-1)
+
 #### 1849-11-28 &middot; Hillsborough, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -570,7 +614,9 @@ few, if there were any, entity our of
 </tr></table>
 
 <hr />
+
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1849-11-29/ed-1/seq-1)
+
 #### 1849-11-29 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -622,7 +668,9 @@ ter himself would be puzzled to read,”
 </tr></table>
 
 <hr />
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1849-12-01/ed-1/seq-1)
+
 #### 1849-12-01 &middot; Woodsfield, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -673,12 +721,17 @@ to read.
 </tr></table>
 
 <hr />
+
 ## Printers and Printing
+
 #### From _Dover gazette & Strafford advertiser._
+
 #### 1849-12-01 &middot; Dover, N.H.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Minnesota pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83025241/1849-12-05/ed-1/seq-2)
+
 #### 1849-12-05 &middot; St. Paul, Minn. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -735,12 +788,17 @@ themselves would be puzzled to read
 </tr></table>
 
 <hr />
+
 ## FLOATINGS-BY.
+
 #### From _Home Journal (1846-1856)_
+
 #### 1849-12-08 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Democratic banner._](https://chroniclingamerica.loc.gov/lccn/sn89066057/1849-12-31/ed-1/seq-1)
+
 #### 1849-12-31 &middot; Bowling Green, Pike County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -787,7 +845,9 @@ utlior.&#x27;;Ani &#x27;lit&#x27; one bnt!fh practical p&#x27;rin.&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1850-01-11/ed-1/seq-1)
+
 #### 1850-01-11 &middot; [Ottumwa] Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -839,7 +899,9 @@ himself would be puzzled to read.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Friends' Weekly Intelligencer (1844-1853)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42?page=5)
+
 #### 1850-01-12 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -864,7 +926,9 @@ ischolars, sent to the printer in their own hand- :
 </tr></table>
 
 <hr />
+
 ## [From _Friends' Weekly Intelligencer (1844-1853)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42?page=5)
+
 #### 1850-01-12 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -887,37 +951,57 @@ Moluccas; and is cultivated, for the sake of atitely out of place. I have seen t
 </tr></table>
 
 <hr />
+
 ## THIRD EDITION.
+
 #### From _Manchester Times_
+
 #### 1850-02-23 &middot; Manchester, England
 [This text is not available under an open license.]
 <hr />
+
 ## THIRD EDITION.
+
 #### From _Manchester Times_
+
 #### 1850-02-23 &middot; Manchester, England
 [This text is not available under an open license.]
 <hr />
+
 ## MOST INTERESTING SCENE AT THE SLATE QUARRIES.
+
 #### From _North Wales Chronicle_
+
 #### 1850-04-30 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## MISCELLANEOUS.
+
 #### From _North Wales Chronicle_
+
 #### 1850-04-30 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## MISCELLANEOUS.
+
 #### From _North Wales Chronicle_
+
 #### 1850-04-30 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## TABLE TALK.
+
 #### From _Preston Chronicle_
+
 #### 1850-05-18 &middot; Preston, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1850-10-24/ed-1/seq-1)
+
 #### 1850-10-24 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -973,7 +1057,9 @@ be puzzled to read.”
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of the Times; A Chronicle of the Turf, Agriculture, Field Sports, Literature and the Stage (1835-1861)_](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45?page=0)
+
 #### 1850-12-28 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1010,7 +1096,9 @@ tals to designate the division of sentences ; sermons which, if publishe
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of the Times; A Chronicle of the Turf, Agriculture, Field Sports, Literature and the Stage (1835-1861)_](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45?page=0)
+
 #### 1850-12-28 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1031,7 +1119,9 @@ ble condition manuscripts that the writer himself would{be puzzled to
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1851-01-01/ed-1/seq-4)
+
 #### 1851-01-01 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1063,7 +1153,9 @@ sentences; sermons which, if published wit
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1851-01-01/ed-1/seq-4)
+
 #### 1851-01-01 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1088,17 +1180,25 @@ himself would be puzzled to read.
 </tr></table>
 
 <hr />
+
 ## Printers and Printing
+
 #### From _Daily national intelligencer._
+
 #### 1851-01-08 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## Printers and Printing
+
 #### From _Daily national intelligencer._
+
 #### 1851-01-08 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The southern press._](https://chroniclingamerica.loc.gov/lccn/sn82014764/1851-01-11/ed-1/seq-2)
+
 #### 1851-01-11 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1143,7 +1243,9 @@ limself would be puz/.led to read.
 </tr></table>
 
 <hr />
+
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1851-01-15/ed-1/seq-2)
+
 #### 1851-01-15 &middot; Hillsborough, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1197,7 +1299,9 @@ the writer himself
 </tr></table>
 
 <hr />
+
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn87070038/1851-01-16/ed-1/seq-2)
+
 #### 1851-01-16 &middot; Lancaster, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1249,7 +1353,9 @@ t-i himself would be puzzled to read.
 </tr></table>
 
 <hr />
+
 ## [From _Lynchburg Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024649/1851-01-16/ed-1/seq-1)
+
 #### 1851-01-16 &middot; Lynchburg [Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1269,7 +1375,9 @@ which, if published with tlm imp-rfectons uf tiiann
 </tr></table>
 
 <hr />
+
 ## [From _Lynchburg Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024649/1851-01-16/ed-1/seq-1)
+
 #### 1851-01-16 &middot; Lynchburg [Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1286,7 +1394,9 @@ lt. ved t
 </tr></table>
 
 <hr />
+
 ## [From _The daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015378/1851-01-17/ed-1/seq-1)
+
 #### 1851-01-17 &middot; [New Orleans, La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1328,7 +1438,9 @@ inn script s that the wnter himself would be puzzle
 </tr></table>
 
 <hr />
+
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1851-01-18/ed-1/seq-1)
+
 #### 1851-01-18 &middot; Elkton, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1379,7 +1491,9 @@ be puzzled to read.
 </tr></table>
 
 <hr />
+
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021169/1851-01-23/ed-1/seq-2)
+
 #### 1851-01-23 &middot; Newport, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1431,17 +1545,25 @@ read.”
 </tr></table>
 
 <hr />
+
 ## Printers and Printing
+
 #### From _The Daily Scioto gazette._
+
 #### 1851-01-23 &middot; Chillicothe, Ohio
 [This text is not available under an open license.]
 <hr />
+
 ## Printers and Printing
+
 #### From _The Daily Scioto gazette._
+
 #### 1851-01-23 &middot; Chillicothe, Ohio
 [This text is not available under an open license.]
 <hr />
+
 ## [From _North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024517/1851-01-25/ed-1/seq-3)
+
 #### 1851-01-25 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1470,7 +1592,9 @@ division of sentences; sermons which, if publishe
 </tr></table>
 
 <hr />
+
 ## [From _North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024517/1851-01-25/ed-1/seq-3)
+
 #### 1851-01-25 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1494,7 +1618,9 @@ puzzled to read.
 </tr></table>
 
 <hr />
+
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1851-01-31/ed-1/seq-4)
+
 #### 1851-01-31 &middot; Wilmington, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1536,7 +1662,9 @@ self would be puzzled to read.
 </tr></table>
 
 <hr />
+
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1851-01-31/ed-1/seq-1)
+
 #### 1851-01-31 &middot; Athens, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1591,12 +1719,17 @@ be puzzled to read
 </tr></table>
 
 <hr />
+
 ## MISCELLANEA.
+
 #### From _Trewman's Exeter Flying Post_
+
 #### 1851-02-06 &middot; Exeter, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Iowa capitol reporter._](https://chroniclingamerica.loc.gov/lccn/sn82014116/1851-02-12/ed-1/seq-1)
+
 #### 1851-02-12 &middot; Iowa City, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1636,7 +1769,9 @@ tences sermons which, if published wit
 </tr></table>
 
 <hr />
+
 ## [From _Iowa capitol reporter._](https://chroniclingamerica.loc.gov/lccn/sn82014116/1851-02-12/ed-1/seq-1)
+
 #### 1851-02-12 &middot; Iowa City, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1663,12 +1798,17 @@ puzzled to read.&quot;
 </tr></table>
 
 <hr />
+
 ## MISCELLANEOUS.
+
 #### From _North Wales Chronicle_
+
 #### 1851-02-15 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1851-02-20/ed-1/seq-1)
+
 #### 1851-02-20 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1724,33 +1864,51 @@ puszled to read.&quot;
 </tr></table>
 
 <hr />
+
 ## VARIETIES.
+
 #### From _Jackson's Oxford Journal_
+
 #### 1851-03-01 &middot; Oxford, England
 [This text is not available under an open license.]
 <hr />
+
 ## Local and Provincial News.
+
 #### From _Manchester Times_
+
 #### 1851-03-01 &middot; Manchester, England
 [This text is not available under an open license.]
 <hr />
+
 ## NEWS PAPER EDITING IN LONDON.
+
 #### From _New York Observer and Chronicle (1833-1912)_
+
 #### 1851-04-17 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## NEWS PAPER EDITING IN LONDON.
+
 #### From _New York Observer and Chronicle (1833-1912)_
+
 #### 1851-04-17 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## Printers and Printing
+
 #### From _Pensacola gazette._
+
 #### 1851-06-21 &middot; [Pensacola, Fla.]
 [This text is not available under an open license.]
 <hr />
+
 ## [Miscellaneous Extracts.](http://trove.nla.gov.au/ndp/del/article/59772712)
+
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
+
 #### 1851-06-21 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1789,8 +1947,11 @@ cripi iliat often the writers themselve
 </td></tr></table>
 
 <hr />
+
 ## [VARIETIES.](http://trove.nla.gov.au/ndp/del/article/91914199)
+
 #### From _Geelong Advertiser (Vic. : 1847 - 1851)_
+
 #### 1851-07-05 &middot; Geelong, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1829,8 +1990,11 @@ themselves would be puzzled to read.-A
 </td></tr></table>
 
 <hr />
+
 ## [IMPOUNDINGS.](http://trove.nla.gov.au/ndp/del/article/115765844)
+
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
+
 #### 1851-08-07 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1871,8 +2035,11 @@ themaoWes would be puzzled to read.-
 </td></tr></table>
 
 <hr />
+
 ## [Miscellaneous Extracts. HOUSE OF LORDS, MARCH-22. THE CHURCH IN THE COLONIES.](http://trove.nla.gov.au/ndp/del/article/62518461)
+
 #### From _Bathurst Free Press and Mining Journal (NSW : 1851 - 1904)_
+
 #### 1851-08-13 &middot; Bathurst, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1914,7 +2081,9 @@ themselves would be puzzled to read —
 </td></tr></table>
 
 <hr />
+
 ## [From _The primitive Republican._](https://chroniclingamerica.loc.gov/lccn/sn87065038/1851-09-04/ed-1/seq-1)
+
 #### 1851-09-04 &middot; Columbus, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1967,7 +2136,9 @@ published with the imperfections, of man
 </tr></table>
 
 <hr />
+
 ## [From _The primitive Republican._](https://chroniclingamerica.loc.gov/lccn/sn87065038/1851-09-04/ed-1/seq-1)
+
 #### 1851-09-04 &middot; Columbus, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1995,7 +2166,9 @@ ter himself would bo puzzied to read.&quot; ;&#x27;-&#x27; v;:
 </tr></table>
 
 <hr />
+
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1851-09-10/ed-1/seq-1)
+
 #### 1851-09-10 &middot; Grand Haven, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2044,7 +2217,9 @@ ter himself would be puzzled to read.
 </tr></table>
 
 <hr />
+
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1852-08-25/ed-1/seq-4)
+
 #### 1852-08-25 &middot; Lancaster, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2095,7 +2270,9 @@ author himself would be pouted to read.&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1852-09-23/ed-1/seq-2)
+
 #### 1852-09-23 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2129,7 +2306,9 @@ brnie ix f o?sermons which, 11 puunsncu wiin in
 </tr></table>
 
 <hr />
+
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1852-09-23/ed-1/seq-2)
+
 #### 1852-09-23 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2144,7 +2323,9 @@ woodsawyer than a printer, and the author woul
 </tr></table>
 
 <hr />
+
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1852-09-23/ed-1/seq-2)
+
 #### 1852-09-23 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2163,7 +2344,9 @@ would be puzzled to read with propriety
 </tr></table>
 
 <hr />
+
 ## [From _New Orleans daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015753/1852-09-29/ed-1/seq-1)
+
 #### 1852-09-29 &middot; [New Orleans, La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2184,17 +2367,25 @@ a printer, which was entirely without points, and ever
 </tr></table>
 
 <hr />
+
 ## VARIETIES.
+
 #### From _Preston Chronicle_
+
 #### 1852-10-23 &middot; Preston, England
 [This text is not available under an open license.]
 <hr />
+
 ## VARIETIES.
+
 #### From _Preston Chronicle_
+
 #### 1852-10-23 &middot; Preston, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1852-11-05/ed-1/seq-1)
+
 #### 1852-11-05 &middot; Wheeling, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2225,7 +2416,9 @@ division of sentences?sermons which, if publishe
 </tr></table>
 
 <hr />
+
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1852-11-05/ed-1/seq-1)
+
 #### 1852-11-05 &middot; Wheeling, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2250,7 +2443,9 @@ be puzzled to iead.
 </tr></table>
 
 <hr />
+
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1852-12-04/ed-1/seq-1)
+
 #### 1852-12-04 &middot; Saint Paul, Minn. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2273,7 +2468,9 @@ without points, and every line liegnn with
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1852-12-08/ed-1/seq-4)
+
 #### 1852-12-08 &middot; Cadiz, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2299,7 +2496,9 @@ graphy which would defy the sagacity of the
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1852-12-08/ed-1/seq-4)
+
 #### 1852-12-08 &middot; Cadiz, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2318,7 +2517,9 @@ published with the imperfections of the man
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1852-12-08/ed-1/seq-4)
+
 #### 1852-12-08 &middot; Cadiz, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2347,12 +2548,17 @@ would be puzzled to read with propriety
 </tr></table>
 
 <hr />
+
 ## PRINTERS AND THE ART OF PRINTING.
+
 #### From _German reformed messenger._
+
 #### 1853-02-09 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1853-02-26/ed-1/seq-1)
+
 #### 1853-02-26 &middot; Loudon, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2378,7 +2584,9 @@ printer in their own hand-writing, chiropraph
 </tr></table>
 
 <hr />
+
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1853-02-26/ed-1/seq-1)
+
 #### 1853-02-26 &middot; Loudon, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2396,7 +2604,9 @@ which, if published with the imperfections o
 </tr></table>
 
 <hr />
+
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1853-02-26/ed-1/seq-1)
+
 #### 1853-02-26 &middot; Loudon, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2411,7 +2621,9 @@ better fitted for a wood-sawyer than a printer
 </tr></table>
 
 <hr />
+
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1853-02-26/ed-1/seq-1)
+
 #### 1853-02-26 &middot; Loudon, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2431,12 +2643,17 @@ puzzled to read with propriet
 </tr></table>
 
 <hr />
+
 ## PRINTERS AND WRITERS.
+
 #### From _Christian Observer (1840-1910)_
+
 #### 1853-02-26 &middot; Louisville
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1853-04-02/ed-1/seq-1)
+
 #### 1853-04-02 &middot; Plaquemine, Parish of Iberville [La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2481,12 +2698,17 @@ thor himself would be puzzled to read
 </tr></table>
 
 <hr />
+
 ## Facts and Scraps
+
 #### From _Boston investigator._
+
 #### 1853-04-27 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1853-06-07/ed-1/seq-1)
+
 #### 1853-06-07 &middot; Hillsdale, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2534,12 +2756,17 @@ rad.
 </tr></table>
 
 <hr />
+
 ## Printers and Printing
+
 #### From _The Flag of '98._
+
 #### 1853-08-27 &middot; Warrenton, Va.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1853-10-20/ed-1/seq-2)
+
 #### 1853-10-20 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2574,7 +2801,9 @@ sermons which if published with the unperfecno
 </tr></table>
 
 <hr />
+
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1853-10-20/ed-1/seq-2)
+
 #### 1853-10-20 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2598,8 +2827,11 @@ ter himself would bo puzzlod to read
 </tr></table>
 
 <hr />
+
 ## [UNIVERSITY AND KING'S COLLEGES IN LONDON.](http://trove.nla.gov.au/ndp/del/article/115553667)
+
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
+
 #### 1855-08-25 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2638,8 +2870,11 @@ Unselves would be puzzled to read..—
 </td></tr></table>
 
 <hr />
+
 ## [Miscellaneous.](http://trove.nla.gov.au/ndp/del/article/118312334)
+
 #### From _The Goulburn Herald and County of Argyle Advertiser (NSW : 1848 - 1859)_
+
 #### 1855-09-01 &middot; Goulburn, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2675,8 +2910,11 @@ themseles would be puzzled to read.-
 </td></tr></table>
 
 <hr />
+
 ## [ENGLISH AND RUSSIAN WORKS.](http://trove.nla.gov.au/ndp/del/article/91871054)
+
 #### From _Geelong Advertiser and Intelligencer (Vic. : 1851 - 1856)_
+
 #### 1855-09-10 &middot; Geelong, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2716,12 +2954,17 @@ themselves would be puzzled to read.-
 </td></tr></table>
 
 <hr />
+
 ## Miscellaneous Items.
+
 #### From _German reformed messenger._
+
 #### 1859-08-17 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1859-08-27/ed-1/seq-2)
+
 #### 1859-08-27 &middot; Brattleboro, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2746,7 +2989,9 @@ which the writers themselves would be puzzled t
 </tr></table>
 
 <hr />
+
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1860-03-17/ed-1/seq-4)
+
 #### 1860-03-17 &middot; Pickens Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2795,18 +3040,27 @@ tors themselves would be puzzled to read.&quot;
 </tr></table>
 
 <hr />
+
 ## VARIETIES.
+
 #### From _Jackson's Oxford Journal_
+
 #### 1861-11-09 &middot; Oxford, England
 [This text is not available under an open license.]
 <hr />
+
 ## LAW COURTS—YESTERDAY.
+
 #### From _Freeman's Journal_
+
 #### 1861-11-12 &middot; Dublin, Ireland
 [This text is not available under an open license.]
 <hr />
+
 ## [PRINTERS AND PRINTING.](http://trove.nla.gov.au/ndp/del/article/30632208)
+
 #### From _Queanbeyan Age and General Advertiser (NSW : 1860 - 1867)_
+
 #### 1862-02-06 &middot; Queanbeyan, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2845,8 +3099,11 @@ themselves would be puzzled to readl.--A
 </td></tr></table>
 
 <hr />
+
 ## [VISITATION OF THE CATHOLIC BISHOP OF CAPE TOWN.](http://trove.nla.gov.au/ndp/del/article/115764263)
+
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
+
 #### 1862-04-05 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2886,8 +3143,11 @@ manuscript; that often writers
 </td></tr></table>
 
 <hr />
+
 ## [ARTEMUS WARD ON NEW ENGLAND RUM.](http://trove.nla.gov.au/ndp/del/article/75467458)
+
 #### From _The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)_
+
 #### 1862-04-17 &middot; Toowoomba, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2927,12 +3187,17 @@ Would be puzzled to real. — A Proof
 </td></tr></table>
 
 <hr />
+
 ## Authors and Printers
+
 #### From _Bangor daily Whig & courier._
+
 #### 1865-09-01 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1865-11-29/ed-1/seq-1)
+
 #### 1865-11-29 &middot; Smyrna, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2952,7 +3217,9 @@ eimients of biwy.-r... i„ bbd, ,vpnte U s seh .!
 </tr></table>
 
 <hr />
+
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1865-11-29/ed-1/seq-1)
+
 #### 1865-11-29 &middot; Smyrna, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2973,7 +3240,9 @@ j compelled to sji.-nl in reducing to a readable
 </tr></table>
 
 <hr />
+
 ## [From _Charles City intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84038074/1865-11-30/ed-1/seq-1)
+
 #### 1865-11-30 &middot; Charles City, Floyd County, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3031,7 +3300,9 @@ be puzzled to read.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1866-01-11/ed-1/seq-1)
+
 #### 1866-01-11 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3070,7 +3341,9 @@ to read.
 </tr></table>
 
 <hr />
+
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1866-03-10/ed-1/seq-1)
+
 #### 1866-03-10 &middot; Towsontown, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3114,7 +3387,9 @@ would be puzzled to read.”
 </tr></table>
 
 <hr />
+
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1866-03-10/ed-2/seq-1)
+
 #### 1866-03-10 &middot; Towsontown, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3158,7 +3433,9 @@ dition manuscript that the writer himiAlf
 </tr></table>
 
 <hr />
+
 ## [From _Maryland free press._](https://chroniclingamerica.loc.gov/lccn/sn84026707/1866-05-03/ed-1/seq-1)
+
 #### 1866-05-03 &middot; Hagerstown [Md.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3202,7 +3479,9 @@ puzzled to read.
 </tr></table>
 
 <hr />
+
 ## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051370/1866-05-12/ed-1/seq-1)
+
 #### 1866-05-12 &middot; Des Arc, Ark.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3236,7 +3515,9 @@ puzzled to re»*I
 </tr></table>
 
 <hr />
+
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1866-05-16/ed-1/seq-3)
+
 #### 1866-05-16 &middot; Alexandria, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3270,7 +3551,9 @@ tion, manuscripts that thein&quot; repliader himselfrman
 </tr></table>
 
 <hr />
+
 ## [From _The weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn87090179/1866-05-26/ed-1/seq-1)
+
 #### 1866-05-26 &middot; Port Gibson, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3326,7 +3609,9 @@ himself would be puzzled to rea
 </tr></table>
 
 <hr />
+
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1866-06-16/ed-1/seq-4)
+
 #### 1866-06-16 &middot; Canton, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3362,7 +3647,9 @@ puziled to read
 </tr></table>
 
 <hr />
+
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033371/1866-06-22/ed-1/seq-1)
+
 #### 1866-06-22 &middot; Clarksville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3396,12 +3683,17 @@ himself would be puzzled to read
 </tr></table>
 
 <hr />
+
 ## Authors and Printers
+
 #### From _The Hinds County gazette._
+
 #### 1866-06-22 &middot; Raymond, Miss.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1867-01-15/ed-1/seq-2)
+
 #### 1867-01-15 &middot; Wheeling, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3437,7 +3729,9 @@ self would l?e puzzled to read. Th
 </tr></table>
 
 <hr />
+
 ## [From _The Dallas daily herald._](https://chroniclingamerica.loc.gov/lccn/sn83025733/1873-10-05/ed-1/seq-1)
+
 #### 1873-10-05 &middot; Dallas, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3487,7 +3781,9 @@ read.
 </tr></table>
 
 <hr />
+
 ## [From _The Dallas weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022279/1873-10-11/ed-1/seq-1)
+
 #### 1873-10-11 &middot; Dallas, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3540,7 +3836,9 @@ read.
 </tr></table>
 
 <hr />
+
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-10-25/ed-1/seq-1)
+
 #### 1873-10-25 &middot; Clarksville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3576,7 +3874,9 @@ sentences sermons which, if publishe
 </tr></table>
 
 <hr />
+
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-10-25/ed-1/seq-1)
+
 #### 1873-10-25 &middot; Clarksville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3605,7 +3905,9 @@ read.&quot;- . : ,
 </tr></table>
 
 <hr />
+
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1879-04-15/ed-1/seq-1)
+
 #### 1879-04-15 &middot; Newtown, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3651,7 +3953,9 @@ ers themselves would be puzzled to read
 </tr></table>
 
 <hr />
+
 ## [From _The People's vindicator._](https://chroniclingamerica.loc.gov/lccn/sn85038558/1879-04-19/ed-1/seq-4)
+
 #### 1879-04-19 &middot; Natchitoches, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3689,7 +3993,9 @@ selveweoald be pualed to read.-W.od
 </tr></table>
 
 <hr />
+
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1879-04-30/ed-1/seq-3)
+
 #### 1879-04-30 &middot; Alexandria, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3732,7 +4038,9 @@ would be pnzzled to read.--[Wood
 </tr></table>
 
 <hr />
+
 ## [From _Louisiana capitolian._](https://chroniclingamerica.loc.gov/lccn/sn88064592/1879-05-10/ed-1/seq-1)
+
 #### 1879-05-10 &middot; Baton Rouge, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3782,7 +4090,9 @@ puzzled to read
 </tr></table>
 
 <hr />
+
 ## [From _Maryland independent._](https://chroniclingamerica.loc.gov/lccn/sn85025407/1879-05-22/ed-1/seq-4)
+
 #### 1879-05-22 &middot; Port Tobacco, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3830,7 +4140,9 @@ g would be puzzled to read
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1879-05-30/ed-1/seq-1)
+
 #### 1879-05-30 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3872,7 +4184,9 @@ i read
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Thibodaux sentinel and journal of the 8th Senatorial District._](https://chroniclingamerica.loc.gov/lccn/sn88064492/1879-06-07/ed-1/seq-1)
+
 #### 1879-06-07 &middot; Thibodaux, Lna. [i.e. La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3929,7 +4243,9 @@ read
 </tr></table>
 
 <hr />
+
 ## [From _The Meridional._](https://chroniclingamerica.loc.gov/lccn/sn88064005/1879-06-14/ed-1/seq-2)
+
 #### 1879-06-14 &middot; Abbeville, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3977,7 +4293,9 @@ would be ozzled to read.
 </tr></table>
 
 <hr />
+
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1879-06-21/ed-1/seq-3)
+
 #### 1879-06-21 &middot; Gold Hill, N.T. [Nev.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4016,7 +4334,9 @@ wonld be puxxled to read.
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1879-07-05/ed-1/seq-1)
+
 #### 1879-07-05 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4056,7 +4376,9 @@ i be puzzled to read
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1879-07-17/ed-1/seq-1)
+
 #### 1879-07-17 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4088,7 +4410,9 @@ find it puzzling to read.
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-07-17/ed-1/seq-1)
+
 #### 1879-07-17 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4140,12 +4464,17 @@ would be puzzled to read
 </tr></table>
 
 <hr />
+
 ## Miscellaneous
+
 #### From _Boston investigator._
+
 #### 1879-08-13 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1879-08-15/ed-1/seq-2)
+
 #### 1879-08-15 &middot; Albany, Linn County, Oregon
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4171,7 +4500,9 @@ puzzling to read
 </tr></table>
 
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1879-08-20/ed-1/seq-1)
+
 #### 1879-08-20 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4213,7 +4544,9 @@ puzzled to read
 </tr></table>
 
 <hr />
+
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1879-09-26/ed-1/seq-1)
+
 #### 1879-09-26 &middot; Ebensburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4247,7 +4580,9 @@ puzzled to read
 </tr></table>
 
 <hr />
+
 ## [From _Butler citizen._](https://chroniclingamerica.loc.gov/lccn/sn86071045/1879-10-08/ed-1/seq-1)
+
 #### 1879-10-08 &middot; Butler, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4290,7 +4625,9 @@ selves would be puzzled to read
 </tr></table>
 
 <hr />
+
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1880-01-09/ed-1/seq-1)
+
 #### 1880-01-09 &middot; Pascagoula, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4317,7 +4654,9 @@ reader, ia compelled to spend in
 </tr></table>
 
 <hr />
+
 ## [From _Maryland independent._](https://chroniclingamerica.loc.gov/lccn/sn85025407/1881-04-15/ed-1/seq-2)
+
 #### 1881-04-15 &middot; Port Tobacco, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4364,7 +4703,9 @@ puzzled to read.
 </tr></table>
 
 <hr />
+
 ## [From _The Grenada sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034375/1886-01-09/ed-1/seq-1)
+
 #### 1886-01-09 &middot; Grenada, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4402,7 +4743,9 @@ that often the writers themselves
 </tr></table>
 
 <hr />
+
 ## [From _Weekly expositor._](https://chroniclingamerica.loc.gov/lccn/sn2006060001/1886-05-20/ed-1/seq-4)
+
 #### 1886-05-20 &middot; Brockway Centre, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4445,7 +4788,9 @@ read.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Daily independent._](https://chroniclingamerica.loc.gov/lccn/sn84020355/1888-09-01/ed-1/seq-2)
+
 #### 1888-09-01 &middot; Elko, Nev.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4490,7 +4835,9 @@ ers themselves would be puzzled t
 </tr></table>
 
 <hr />
+
 ## [From _Weekly independent._](https://chroniclingamerica.loc.gov/lccn/sn86076366/1888-09-09/ed-1/seq-4)
+
 #### 1888-09-09 &middot; Elko, Nev.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4531,7 +4878,9 @@ pellfil t&#x27;i spend in lednring
 </tr></table>
 
 <hr />
+
 ## [From _Delaware gazette and state journal._](https://chroniclingamerica.loc.gov/lccn/sn88053046/1888-10-04/ed-1/seq-7)
+
 #### 1888-10-04 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4574,7 +4923,9 @@ be puzzled to read.
 </tr></table>
 
 <hr />
+
 ## [From _The St. Johns herald._](https://chroniclingamerica.loc.gov/lccn/sn94051692/1891-02-19/ed-1/seq-1)
+
 #### 1891-02-19 &middot; St. Johns, Apache County, Arizona Territory [Ariz.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4624,7 +4975,9 @@ be puzzled to read. Exchange
 </tr></table>
 
 <hr />
+
 ## [From _Sierra County advocate._](https://chroniclingamerica.loc.gov/lccn/sn94057006/1891-02-27/ed-1/seq-2)
+
 #### 1891-02-27 &middot; Kingston, N.M.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4671,7 +5024,9 @@ be puzzled to read
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1892-09-28/ed-1/seq-2)
+
 #### 1892-09-28 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4694,7 +5049,9 @@ Been &quot;the sormona of soain of ou
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1892-09-28/ed-1/seq-2)
+
 #### 1892-09-28 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4715,7 +5072,9 @@ would have hard puzzling to disciph
 </tr></table>
 
 <hr />
+
 ## [From _Las Vegas daily optic._](https://chroniclingamerica.loc.gov/lccn/sn86063592/1898-11-19/ed-1/seq-1)
+
 #### 1898-11-19 &middot; Las Vegas, N.M.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4758,7 +5117,9 @@ ers themselves would be puzzled to read
 </tr></table>
 
 <hr />
+
 ## [From _The Las Vegas weekly optic and stock grower._](https://chroniclingamerica.loc.gov/lccn/sn92070422/1898-11-26/ed-1/seq-9)
+
 #### 1898-11-26 &middot; Las Vegas, N.M.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4785,7 +5146,9 @@ tences sermons which, If publishe
 </tr></table>
 
 <hr />
+
 ## [From _The Las Vegas weekly optic and stock grower._](https://chroniclingamerica.loc.gov/lccn/sn92070422/1898-11-26/ed-1/seq-9)
+
 #### 1898-11-26 &middot; Las Vegas, N.M.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

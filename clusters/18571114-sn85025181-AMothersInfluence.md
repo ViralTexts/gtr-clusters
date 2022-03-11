@@ -1,7 +1,12 @@
+
 # A Mother's Influence
+
 ### 162 reprints from 1857-11-14 to 1894-03-27 [cl43]
+
 ## [A Mother's Influence](https://chroniclingamerica.loc.gov/lccn/sn85025181/1857-11-14/ed-1/seq-1/)
+
 #### From _Columbia Democrat and Bloomsburg General Advertiser_
+
 #### 1857-11-14
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12,12 +17,17 @@ Hon. Thomas H. Benton, in a speech in New York, turned to the ladies, and referr
 </td></tr></table>
 
 <hr />
+
 ## New England Celebration in New York
+
 #### From _Daily national intelligencer._
+
 #### 1856-12-25 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The liberator._](https://iiif.archivelab.org/iiif/sim_liberator_1857-01-02_27_1?page=0)
+
 #### 1857-01-02 &middot; Boston, Mass.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -44,7 +54,9 @@ the sole constituent member of my own body ; and
 </tr></table>
 
 <hr />
+
 ## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17?page=12)
+
 #### 1857-01-03 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -73,7 +85,9 @@ for endurance | may have at present, and what
 </tr></table>
 
 <hr />
+
 ## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17?page=12)
+
 #### 1857-01-03 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -98,12 +112,17 @@ owe to my mother. * *
 </tr></table>
 
 <hr />
+
 ## Miscellany
+
 #### From _Vermont chronicle._
+
 #### 1857-01-06 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1857-01-16/ed-1/seq-2)
+
 #### 1857-01-16 &middot; Athens, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -134,12 +153,17 @@ through all time, I owe to my mother
 </tr></table>
 
 <hr />
+
 ## A MOTHER'S INFLUENCE.
+
 #### From _German reformed messenger._
+
 #### 1857-01-21 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Union and eastern journal._](https://chroniclingamerica.loc.gov/lccn/sn83021380/1857-02-13/ed-1/seq-4)
+
 #### 1857-02-13 &middot; Biddeford [Me.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -172,7 +196,9 @@ I owe to my mother. They are only wome
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1857-05-07_31_19?page=3)
+
 #### 1857-05-07 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -202,12 +228,17 @@ all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## COL. BENTON'S MOTHER.
+
 #### From _Forrester's Boys' and Girls' Magazine, and Fireside Companion (1851-1857)_
+
 #### 1857-07-01 &middot; Boston
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1857-10-29/ed-1/seq-1)
+
 #### 1857-10-29 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -248,7 +279,9 @@ time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Columbia Democrat and Bloomsburg general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85025181/1857-11-14/ed-1/seq-1)
+
 #### 1857-11-14 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -286,12 +319,17 @@ time, I owo to my mother.
 </tr></table>
 
 <hr />
+
 ## We wish to say to every person who reads this that there is an article known as Dr. Sanford's Invigorator, or Liver Remedy, which can be relied on as certain to cure liver complaint in any of its forms, such as Jaundice, Dyspepsia and numerous other complaints, described in another column, besides which it is one of the greatest preparations or cures for consumption, taken in early stages, that is now known
+
 #### From _Lowell daily citizen and news._
+
 #### 1857-12-03 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1857-12-10/ed-1/seq-1)
+
 #### 1857-12-10 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -322,7 +360,9 @@ mother.
 </tr></table>
 
 <hr />
+
 ## [From _Columbia Democrat and Bloomsburg general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85025181/1857-12-12/ed-1/seq-1)
+
 #### 1857-12-12 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -358,7 +398,9 @@ through all timj, 1 owo to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023252/1857-12-12/ed-1/seq-1)
+
 #### 1857-12-12 &middot; St. Johnsbury, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -378,7 +420,9 @@ s
 </tr></table>
 
 <hr />
+
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1858-01-19/ed-1/seq-1)
+
 #### 1858-01-19 &middot; Hillsdale, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -411,7 +455,9 @@ time I owo to my mother
 </tr></table>
 
 <hr />
+
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1858-01-28/ed-1/seq-3)
+
 #### 1858-01-28 &middot; Honolulu, Hawaiian Islands
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -435,7 +481,9 @@ wishes.
 </tr></table>
 
 <hr />
+
 ## [From _The Nevada journal._](https://chroniclingamerica.loc.gov/lccn/sn84026884/1858-03-12/ed-1/seq-3)
+
 #### 1858-03-12 &middot; Nevada City, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -469,7 +517,9 @@ owe to my mother
 </tr></table>
 
 <hr />
+
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1858-04-08/ed-1/seq-1)
+
 #### 1858-04-08 &middot; Honolulu, Hawaiian Islands
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -491,7 +541,9 @@ wiea- T. II. Benton
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1858-04-13/ed-1/seq-1)
+
 #### 1858-04-13 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -522,7 +574,9 @@ my mot
 </tr></table>
 
 <hr />
+
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1858-05-01/ed-1/seq-1)
+
 #### 1858-05-01 &middot; Ottawa, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -550,7 +604,9 @@ resolution of total abstinence at a lime whe
 </tr></table>
 
 <hr />
+
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1858-09-02/ed-1/seq-2)
+
 #### 1858-09-02 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -577,7 +633,9 @@ mother.
 </tr></table>
 
 <hr />
+
 ## [From _Cleveland morning leader._](https://chroniclingamerica.loc.gov/lccn/sn83035143/1858-09-02/ed-1/seq-1)
+
 #### 1858-09-02 &middot; Cleveland [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -603,12 +661,17 @@ owe to my mother
 </tr></table>
 
 <hr />
+
 ## A Mother's Influence
+
 #### From _Milwaukee daily sentinel._
+
 #### 1858-09-04 &middot; Milwaukee, [Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1858-09-18/ed-1/seq-1)
+
 #### 1858-09-18 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -637,7 +700,9 @@ time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1858-11-03/ed-1/seq-1)
+
 #### 1858-11-03 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -667,7 +732,9 @@ through all time, I owe to my mother
 </tr></table>
 
 <hr />
+
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1858-11-11/ed-1/seq-2)
+
 #### 1858-11-11 &middot; Winchester, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -701,7 +768,9 @@ all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Dallas herald._](https://chroniclingamerica.loc.gov/lccn/sn84022278/1858-12-08/ed-1/seq-4)
+
 #### 1858-12-08 &middot; Dallas, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -716,12 +785,17 @@ owe to my mother
 </tr></table>
 
 <hr />
+
 ## LENDING TO THE LORD.
+
 #### From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_
+
 #### 1858-12-30 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1859-01-27/ed-1/seq-4)
+
 #### 1859-01-27 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -754,7 +828,9 @@ ill the past time, owe to my mother
 </tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1859-02-10/ed-1/seq-1)
+
 #### 1859-02-10 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -795,7 +871,9 @@ past tlmo, I owo to my jnoihcr
 </tr></table>
 
 <hr />
+
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-02-12_1_7?page=5)
+
 #### 1859-02-12 &middot; Lansing
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -836,8 +914,11 @@ the sole constituent member of my own body;
 </tr></table>
 
 <hr />
+
 ## [THE LATE WILLIAM KERR.](http://trove.nla.gov.au/ndp/del/article/154826788)
+
 #### From _The Age (Melbourne, Vic. : 1854 - 1954)_
+
 #### 1859-06-07 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -858,7 +939,9 @@ pious and earnest &#x27;wislieB. — T.&#x27;H
 </td></tr></table>
 
 <hr />
+
 ## [From _Randolph County journal._](https://chroniclingamerica.loc.gov/lccn/sn86058541/1859-06-16/ed-1/seq-2)
+
 #### 1859-06-16 &middot; Winchester, Randolph County, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -891,7 +974,9 @@ owe to mv mother.
 </tr></table>
 
 <hr />
+
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1859-07-06/ed-1/seq-2)
+
 #### 1859-07-06 &middot; Keokuk, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -905,7 +990,9 @@ abstinence society at a time when was tho i ...
 </tr></table>
 
 <hr />
+
 ## [From _Lynchburg daily Virginian._](https://chroniclingamerica.loc.gov/lccn/sn85034360/1859-09-22/ed-1/seq-3)
+
 #### 1859-09-22 &middot; Lynchburg [Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -933,7 +1020,9 @@ to iny mother
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1859-09-23/ed-1/seq-4)
+
 #### 1859-09-23 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -962,7 +1051,9 @@ it through all time, 1 owe to my motlier
 </tr></table>
 
 <hr />
+
 ## [From _The penny press._](https://chroniclingamerica.loc.gov/lccn/sn85025750/1859-10-01/ed-1/seq-3)
+
 #### 1859-10-01 &middot; Cincinnati [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -990,7 +1081,9 @@ motnor. i-i.v i .,
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1859-10-04/ed-1/seq-1)
+
 #### 1859-10-04 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1020,7 +1113,9 @@ er.
 </tr></table>
 
 <hr />
+
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1859-10-07/ed-1/seq-4)
+
 #### 1859-10-07 &middot; Wilmington, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1046,7 +1141,9 @@ through all time, I owe it to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Delaware inquirer._](https://chroniclingamerica.loc.gov/lccn/sn88053053/1859-10-08/ed-1/seq-2)
+
 #### 1859-10-08 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1073,7 +1170,9 @@ time, I owe it to my mother.&quot; ; righ
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1859-10-13/ed-1/seq-2)
+
 #### 1859-10-13 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1105,12 +1204,17 @@ that I have adhered to it through all time,
 </tr></table>
 
 <hr />
+
 ## A Strange Romance---A Father Finds His Daughter after a Search of Twenty Years
+
 #### From _Semi-weekly Mississippian._
+
 #### 1859-10-21 &middot; Jackson, Miss.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1859-10-28/ed-1/seq-2)
+
 #### 1859-10-28 &middot; Evansville, Ia. [i.e. Ind.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1138,7 +1242,9 @@ it through all time, I owu to my mother
 </tr></table>
 
 <hr />
+
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1859-10-28/ed-1/seq-1)
+
 #### 1859-10-28 &middot; Bellevue, Bossier Parish, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1169,7 +1275,9 @@ time
 </tr></table>
 
 <hr />
+
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1859-11-05/ed-1/seq-4)
+
 #### 1859-11-05 &middot; Pickens Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1198,7 +1306,9 @@ nil titne; 1 owe it to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1859-11-22/ed-1/seq-4)
+
 #### 1859-11-22 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1225,7 +1335,9 @@ hated to it through all time, owe it to my mother.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1859-11-30_30_47?page=0)
+
 #### 1859-11-30 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1253,7 +1365,9 @@ mother
 </tr></table>
 
 <hr />
+
 ## [From _Daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026845/1859-12-07/ed-1/seq-4)
+
 #### 1859-12-07 &middot; Wheeling, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1279,7 +1393,9 @@ mother
 </tr></table>
 
 <hr />
+
 ## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24?page=15)
+
 #### 1859-12-10 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1305,7 +1421,9 @@ and that I have adhered to it through all time, I
 </tr></table>
 
 <hr />
+
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1860-01-07/ed-1/seq-1)
+
 #### 1860-01-07 &middot; Brattleboro, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1333,17 +1451,25 @@ I owe it to my mother
 </tr></table>
 
 <hr />
+
 ## Family Circle.
+
 #### From _Christian Observer (1840-1910)_
+
 #### 1860-01-12 &middot; Louisville
 [This text is not available under an open license.]
 <hr />
+
 ## A Mother's Influence
+
 #### From _Milwaukee daily sentinel._
+
 #### 1860-02-01 &middot; Milwaukee, [Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Holmes County farmer._](https://chroniclingamerica.loc.gov/lccn/sn84028822/1860-03-22/ed-1/seq-1)
+
 #### 1860-03-22 &middot; Millersburg, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1370,7 +1496,9 @@ owe to my mother
 </tr></table>
 
 <hr />
+
 ## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1860-03-29/ed-1/seq-1)
+
 #### 1860-03-29 &middot; St. Charles City [Charles City], Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1390,7 +1518,9 @@ is tUl.
 </tr></table>
 
 <hr />
+
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1860-11-08/ed-1/seq-1)
+
 #### 1860-11-08 &middot; Towanda, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1414,12 +1544,17 @@ constituent member of niy own
 </tr></table>
 
 <hr />
+
 ## The Monitor
+
 #### From _Vermont chronicle._
+
 #### 1860-11-27 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1860-11-29_34_48?page=3)
+
 #### 1860-11-29 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1456,7 +1591,9 @@ mother.”’
 </tr></table>
 
 <hr />
+
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1860-12-20/ed-1/seq-1)
+
 #### 1860-12-20 &middot; Tipton, Cedar Co., Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1488,7 +1625,9 @@ to it through all tima,
 </tr></table>
 
 <hr />
+
 ## [From _The Plymouth weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056248/1861-01-17/ed-1/seq-1)
+
 #### 1861-01-17 &middot; Plymouth, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1520,7 +1659,9 @@ cr
 </tr></table>
 
 <hr />
+
 ## [From _Southern Teacher 1859-1861_](https://iiif.archivelab.org/iiif/sim_southern-teacher_1861-05_2_10?page=19)
+
 #### 1861-05-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1547,12 +1688,17 @@ that I have adhered to it through all time, I owe it to my mother
 </tr></table>
 
 <hr />
+
 ## Moral and Religious
+
 #### From _New Hampshire statesman._
+
 #### 1861-07-27 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Cincinnati daily press._](https://chroniclingamerica.loc.gov/lccn/sn84028745/1861-09-30/ed-1/seq-4)
+
 #### 1861-09-30 &middot; Cincinnati [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1580,7 +1726,9 @@ mat i cave aanereu to it turouga all time,
 </tr></table>
 
 <hr />
+
 ## [From _The Lansing state Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016318/1861-10-16/ed-1/seq-2)
+
 #### 1861-10-16 &middot; Lansing, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1605,7 +1753,9 @@ my mother
 </tr></table>
 
 <hr />
+
 ## [From _Randolph County journal._](https://chroniclingamerica.loc.gov/lccn/sn86058541/1861-10-17/ed-1/seq-1)
+
 #### 1861-10-17 &middot; Winchester, Randolph County, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1631,7 +1781,9 @@ U1L,UU ,r . i sole constituent member of m
 </tr></table>
 
 <hr />
+
 ## [From _Cincinnati daily press._](https://chroniclingamerica.loc.gov/lccn/sn84028745/1861-10-18/ed-1/seq-4)
+
 #### 1861-10-18 &middot; Cincinnati [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1660,7 +1812,9 @@ all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Alleghanian._](https://chroniclingamerica.loc.gov/lccn/sn85054845/1861-11-28/ed-1/seq-4)
+
 #### 1861-11-28 &middot; Ebensburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1690,7 +1844,9 @@ I owo my mother.&quot;. ; .
 </tr></table>
 
 <hr />
+
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1861-12-19/ed-1/seq-1)
+
 #### 1861-12-19 &middot; Honolulu, Hawaiian Islands
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1716,7 +1872,9 @@ nered,to it through all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1862-03-06/ed-1/seq-5)
+
 #### 1862-03-06 &middot; Point Pleasant, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1746,7 +1904,9 @@ all that, I owe to my luothor
 </tr></table>
 
 <hr />
+
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1862-03-22/ed-1/seq-1)
+
 #### 1862-03-22 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1776,7 +1936,9 @@ all lime, 1 owe to rny mother
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1862-04-02/ed-1/seq-2)
+
 #### 1862-04-02 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1806,7 +1968,9 @@ to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1862-04-04/ed-1/seq-4)
+
 #### 1862-04-04 &middot; Pomeroy, Meigs County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1835,12 +1999,17 @@ motber
 </tr></table>
 
 <hr />
+
 ## Miscellany
+
 #### From _Vermont chronicle._
+
 #### 1862-08-12 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Delaware gazette._](https://chroniclingamerica.loc.gov/lccn/sn83035595/1862-08-29/ed-1/seq-1)
+
 #### 1862-08-29 &middot; Delaware, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1868,12 +2037,17 @@ my mother
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _Daily evening bulletin._
+
 #### 1865-11-29 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Plymouth weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056248/1866-01-04/ed-1/seq-1)
+
 #### 1866-01-04 &middot; Plymouth, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1901,12 +2075,17 @@ I owe to my mother
 </tr></table>
 
 <hr />
+
 ## Read the Bible with Humility.
+
 #### From _Christian Advocate (1866-1905)_
+
 #### 1866-01-18 &middot; Chicago
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1866-02-08/ed-1/seq-2)
+
 #### 1866-02-08 &middot; Wilmington, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1933,7 +2112,9 @@ hexed to it through all time I owe to xny mother.
 </tr></table>
 
 <hr />
+
 ## [From _The southerner._](https://chroniclingamerica.loc.gov/lccn/sn90052434/1866-03-17/ed-1/seq-2)
+
 #### 1866-03-17 &middot; Tarboro', Edgecombe Co., (N.C.)
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1962,12 +2143,17 @@ all time I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## The Home Circle
+
 #### From _Vermont chronicle._
+
 #### 1866-03-31 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1867-02-02/ed-1/seq-1)
+
 #### 1867-02-02 &middot; Ashtabula, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1999,7 +2185,9 @@ mother.&#x27;&#x27;&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Revolution 1868-1872_](https://iiif.archivelab.org/iiif/sim_revolution_1868-10-29_2_17?page=10)
+
 #### 1868-10-29
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2024,7 +2212,9 @@ tbrough all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Buchanan County bulletin and guardian._](https://chroniclingamerica.loc.gov/lccn/sn87058351/1869-01-08/ed-1/seq-1)
+
 #### 1869-01-08 &middot; Independence, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2063,12 +2253,17 @@ er.&quot;
 </tr></table>
 
 <hr />
+
 ## A Mother's Influence
+
 #### From _Milwaukee daily sentinel._
+
 #### 1869-07-26 &middot; [Milwaukee, Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1869-08-13/ed-1/seq-3)
+
 #### 1869-08-13 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2091,7 +2286,9 @@ through all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Hickman courier._](https://chroniclingamerica.loc.gov/lccn/sn85052141/1869-08-14/ed-1/seq-3)
+
 #### 1869-08-14 &middot; Hickman, Ky.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2121,12 +2318,17 @@ time, I owe to my mother
 </tr></table>
 
 <hr />
+
 ## A Mother's Influence
+
 #### From _The Wisconsin state register._
+
 #### 1869-08-14 &middot; Portage, Columbia County, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1869-09-09/ed-1/seq-2)
+
 #### 1869-09-09 &middot; Charlestown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2154,7 +2356,9 @@ to it through all time. I owe to my mother.’
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1870-02-03/ed-1/seq-6)
+
 #### 1870-02-03 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2184,12 +2388,17 @@ through all time, I owe to my noth#
 </tr></table>
 
 <hr />
+
 ## A MOTHER'S INFLUENCE.
+
 #### From _The flag of our Union._
+
 #### 1870-02-19 &middot; Boston [Mass.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1870-02-22/ed-1/seq-4)
+
 #### 1870-02-22 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2219,12 +2428,17 @@ my mother
 </tr></table>
 
 <hr />
+
 ## A Mother's Influence
+
 #### From _The Congregationalist and Boston recorder._
+
 #### 1870-02-24 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-02-26/ed-1/seq-1)
+
 #### 1870-02-26 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2255,7 +2469,9 @@ owe to mv rnnth&quot;i\
 </tr></table>
 
 <hr />
+
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1870-02-26_25_8?page=13)
+
 #### 1870-02-26 &middot; Boston [Mass.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2286,7 +2502,9 @@ time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1870-03-15/ed-1/seq-4)
+
 #### 1870-03-15 &middot; Irasburgh, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2318,7 +2536,9 @@ to it through all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1870-03-18/ed-1/seq-1)
+
 #### 1870-03-18 &middot; Emporia, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2346,7 +2566,9 @@ it through all time, I owe to mymother.
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1870-04-07/ed-1/seq-4)
+
 #### 1870-04-07 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2372,7 +2594,9 @@ made a resolution of totp abstinenc
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1870-04-13/ed-1/seq-1)
+
 #### 1870-04-13 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2397,7 +2621,9 @@ resolution of total abstinence that
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1870-08-09/ed-1/seq-1)
+
 #### 1870-08-09 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2423,7 +2649,9 @@ ed to it through all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1870-08-11/ed-1/seq-4)
+
 #### 1870-08-11 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2449,7 +2677,9 @@ all time I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Revolution 1868-1872_](https://iiif.archivelab.org/iiif/sim_revolution_1870-08-18_6_7?page=11)
+
 #### 1870-08-18
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2478,7 +2708,9 @@ mother.
 </tr></table>
 
 <hr />
+
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1870-08-25/ed-1/seq-1)
+
 #### 1870-08-25 &middot; Gallipolis, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2508,7 +2740,9 @@ total abstinence that I have adhered t
 </tr></table>
 
 <hr />
+
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1870-09-17/ed-1/seq-1)
+
 #### 1870-09-17 &middot; Honolulu, Hawaiian Islands
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2533,7 +2767,9 @@ through all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1870-11-28/ed-1/seq-1)
+
 #### 1870-11-28 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2563,7 +2799,9 @@ time I owe to my mother
 </tr></table>
 
 <hr />
+
 ## [From _The galaxy_](https://iiif.archivelab.org/iiif/sim_galaxy_1870-12_10_6?page=137)
+
 #### 1870-12-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2587,7 +2825,9 @@ to it through all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1870-12-29_43_52?page=7)
+
 #### 1870-12-29 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2616,12 +2856,17 @@ my mother.
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _Morning republican._
+
 #### 1871-12-21 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1872-03-21/ed-1/seq-4)
+
 #### 1872-03-21 &middot; Point Pleasant, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2643,12 +2888,17 @@ I made a resolution of total abstinence that
 </tr></table>
 
 <hr />
+
 ## The Sunday School
+
 #### From _The Congregationalist._
+
 #### 1872-04-18 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1872-08-07/ed-1/seq-1)
+
 #### 1872-08-07 &middot; Somerset, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2674,7 +2924,9 @@ made a resolution of total abstinence
 </tr></table>
 
 <hr />
+
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1872-12_55_6?page=63)
+
 #### 1872-12-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2699,7 +2951,9 @@ time, I owe to my mother.” — Thos. H. Benton
 </tr></table>
 
 <hr />
+
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1872-12-15/ed-1/seq-1)
+
 #### 1872-12-15 &middot; Knoxville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2726,7 +2980,9 @@ through all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1872-12-27/ed-1/seq-4)
+
 #### 1872-12-27 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2753,7 +3009,9 @@ time, I owe to my mothr.&quot;- That. H
 </tr></table>
 
 <hr />
+
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1873-04-11/ed-1/seq-4)
+
 #### 1873-04-11 &middot; Jefferson City, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2783,7 +3041,9 @@ i owe w my moiuer. .j ,
 </tr></table>
 
 <hr />
+
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-10-04/ed-1/seq-4)
+
 #### 1873-10-04 &middot; Clarksville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2812,7 +3072,9 @@ mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1874-01-15/ed-1/seq-1)
+
 #### 1874-01-15 &middot; Idaho City, Idaho Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2836,7 +3098,9 @@ through all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1874-06-04_47_23?page=7)
+
 #### 1874-06-04 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2863,12 +3127,17 @@ through all time, I owe to my mother
 </tr></table>
 
 <hr />
+
 ## A Mother's Influence
+
 #### From _Lowell daily citizen and news._
+
 #### 1874-10-29 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1875-12-16/ed-1/seq-4)
+
 #### 1875-12-16 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2900,7 +3169,9 @@ to inv mother.
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1876-03-03/ed-1/seq-1)
+
 #### 1876-03-03 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2929,7 +3200,9 @@ all time, I owe to my mother
 </tr></table>
 
 <hr />
+
 ## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1877-03-22_54_12?page=2)
+
 #### 1877-03-22 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2964,7 +3237,9 @@ adhered to it through all time, I owe t
 </tr></table>
 
 <hr />
+
 ## [From _The Daily clarion._](https://chroniclingamerica.loc.gov/lccn/sn83045232/1878-01-27/ed-1/seq-3)
+
 #### 1878-01-27 &middot; Jackson, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2997,7 +3272,9 @@ I&#x27;d ?
 </tr></table>
 
 <hr />
+
 ## [From _The weekly clarion._](https://chroniclingamerica.loc.gov/lccn/sn83016926/1878-01-30/ed-1/seq-6)
+
 #### 1878-01-30 &middot; Jackson, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3029,12 +3306,17 @@ all the time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## A Mother's Influence
+
 #### From _Southwestern Christian advocate._
+
 #### 1878-02-21 &middot; New Orleans, La.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1878-02-22/ed-1/seq-1)
+
 #### 1878-02-22 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3064,7 +3346,9 @@ to rny mother
 </tr></table>
 
 <hr />
+
 ## [From _The Weston Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84038198/1878-03-02/ed-1/seq-1)
+
 #### 1878-03-02 &middot; Weston, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3096,7 +3380,9 @@ all timo I owo to my mother
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1878-03-05/ed-1/seq-1)
+
 #### 1878-03-05 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3129,7 +3415,9 @@ my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34?page=3)
+
 #### 1878-04-06 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3156,7 +3444,9 @@ made a resolution of total abstinence, at
 </tr></table>
 
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1878-09-11/ed-1/seq-4)
+
 #### 1878-09-11 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3186,7 +3476,9 @@ he time, I owe to my mother
 </tr></table>
 
 <hr />
+
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1878-10-03/ed-1/seq-1)
+
 #### 1878-10-03 &middot; Ridgway, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3214,7 +3506,9 @@ Ikt of my own
 </tr></table>
 
 <hr />
+
 ## [From _The Columbus journal._](https://chroniclingamerica.loc.gov/lccn/sn95073194/1878-10-09/ed-1/seq-4)
+
 #### 1878-10-09 &middot; Columbus, Neb.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3248,7 +3542,9 @@ mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1878-10-17/ed-1/seq-4)
+
 #### 1878-10-17 &middot; Centre Hall, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3276,7 +3572,9 @@ i to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Breckenridge news._](https://chroniclingamerica.loc.gov/lccn/sn86069309/1878-11-06/ed-1/seq-1)
+
 #### 1878-11-06 &middot; Cloverport, Ky.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3306,7 +3604,9 @@ time I owo to my mothe
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1878-11-26/ed-1/seq-1)
+
 #### 1878-11-26 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3334,7 +3634,9 @@ all the time, I owe tojmy mother.
 </tr></table>
 
 <hr />
+
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1879-01-11/ed-1/seq-3)
+
 #### 1879-01-11 &middot; Olympia, Wash. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3360,7 +3662,9 @@ time, I oivo to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1879-01-27/ed-1/seq-3)
+
 #### 1879-01-27 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3389,7 +3693,9 @@ my mother.&#x27;&quot;
 </tr></table>
 
 <hr />
+
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1879-02-06/ed-1/seq-1)
+
 #### 1879-02-06 &middot; Tiffin, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3429,7 +3735,9 @@ mv mother.&quot; &#x27; &#x27;
 </tr></table>
 
 <hr />
+
 ## [From _Chariton courier._](https://chroniclingamerica.loc.gov/lccn/sn88068010/1879-02-08/ed-1/seq-4)
+
 #### 1879-02-08 &middot; Keytesville, Chariton County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3460,7 +3768,9 @@ through all time I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014805/1879-03-13/ed-1/seq-2)
+
 #### 1879-03-13 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3491,7 +3801,9 @@ mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-03-20/ed-1/seq-4)
+
 #### 1879-03-20 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3542,7 +3854,9 @@ mother
 </tr></table>
 
 <hr />
+
 ## [From _The Brookhaven ledger._](https://chroniclingamerica.loc.gov/lccn/sn86053968/1879-04-03/ed-1/seq-1)
+
 #### 1879-04-03 &middot; Brookhaven, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3572,7 +3886,9 @@ mother.
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Union times._](https://chroniclingamerica.loc.gov/lccn/sn84026918/1879-04-11/ed-1/seq-1)
+
 #### 1879-04-11 &middot; Union C.H., South Carolina
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3598,7 +3914,9 @@ of total abstinenoe, at a timo when
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Union times._](https://chroniclingamerica.loc.gov/lccn/sn84026918/1879-04-11/ed-2/seq-1)
+
 #### 1879-04-11 &middot; Union C.H., South Carolina
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3629,7 +3947,9 @@ all time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1879-04-18/ed-1/seq-1)
+
 #### 1879-04-18 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3656,7 +3976,9 @@ the time I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Orangeburg democrat._](https://chroniclingamerica.loc.gov/lccn/sn93067822/1879-04-18/ed-1/seq-4)
+
 #### 1879-04-18 &middot; Orangeburg, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3685,7 +4007,9 @@ of total abstinence, at u time when&#x27;7
 </tr></table>
 
 <hr />
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1879-05-01/ed-1/seq-1)
+
 #### 1879-05-01 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3715,7 +4039,9 @@ time I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1879-05-03_47_23?page=3)
+
 #### 1879-05-03 &middot; Augusta
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3747,7 +4073,9 @@ time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Florida agriculturist._](https://chroniclingamerica.loc.gov/lccn/sn96027724/1879-06-04/ed-1/seq-2)
+
 #### 1879-06-04 &middot; DeLand, Fla.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3775,7 +4103,9 @@ to it all the time, I owe t
 </tr></table>
 
 <hr />
+
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1879-06-25/ed-1/seq-2)
+
 #### 1879-06-25 &middot; Indianapolis
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3805,12 +4135,17 @@ my mother.
 </tr></table>
 
 <hr />
+
 ## A Mother's Influence
+
 #### From _The Congregationalist._
+
 #### 1879-08-06 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1880-03-11/ed-1/seq-2)
+
 #### 1880-03-11 &middot; Fayetteville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3839,7 +4174,9 @@ adhe
 </tr></table>
 
 <hr />
+
 ## [From _Western sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026526/1881-04-07/ed-1/seq-1)
+
 #### 1881-04-07 &middot; Winston [i.e. Winston-Salem], N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3868,7 +4205,9 @@ mother.
 </tr></table>
 
 <hr />
+
 ## [From _The weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn86053402/1881-04-15/ed-1/seq-1)
+
 #### 1881-04-15 &middot; Cleveland, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3891,7 +4230,9 @@ owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1881-06-24/ed-1/seq-1)
+
 #### 1881-06-24 &middot; Albany, Linn County, Oregon
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3922,7 +4263,9 @@ time I owe to my mother
 </tr></table>
 
 <hr />
+
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11?page=1)
+
 #### 1884-10-18 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3952,7 +4295,9 @@ through all the time, I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1887-11-17/ed-1/seq-8)
+
 #### 1887-11-17 &middot; Ironton, Iron County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3995,7 +4340,9 @@ my mother.
 </tr></table>
 
 <hr />
+
 ## [From _St. Landry democrat._](https://chroniclingamerica.loc.gov/lccn/sn88064537/1889-08-17/ed-1/seq-3)
+
 #### 1889-08-17 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4023,7 +4370,9 @@ my mother.
 </tr></table>
 
 <hr />
+
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1892-02-10/ed-1/seq-1)
+
 #### 1892-02-10 &middot; Charlestown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4055,7 +4404,9 @@ time I owe to my mother.
 </tr></table>
 
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1892-03-04/ed-1/seq-1)
+
 #### 1892-03-04 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4090,7 +4441,9 @@ mother.
 </tr></table>
 
 <hr />
+
 ## [From _The Roanoke times._](https://chroniclingamerica.loc.gov/lccn/sn86071868/1894-03-27/ed-1/seq-5)
+
 #### 1894-03-27 &middot; Roanoke, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

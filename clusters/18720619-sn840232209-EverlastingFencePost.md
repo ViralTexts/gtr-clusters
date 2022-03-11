@@ -1,7 +1,12 @@
+
 # Everlasting Fence Posts
+
 ### 111 reprints from 1872-06-19 to 1885-03-26 [cl10]
+
 ## [Everlasting Fence Posts](https://chroniclingamerica.loc.gov/lccn/sn84023209/1872-06-19/ed-1/seq-4/)
+
 #### From _Green-Mountain Freeman_
+
 #### 1872-06-19
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12,17 +17,25 @@ For the benefit of others, I will give the recipe. Take boiled linseed oil, and 
 </td></tr></table>
 
 <hr />
+
 ## Farm and Home
+
 #### From _The Milwaukee sentinel._
+
 #### 1872-06-12 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## Farm and Home
+
 #### From _Milwaukee weekly sentinel._
+
 #### 1872-06-18 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1872-06-19/ed-1/seq-4)
+
 #### 1872-06-19 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -59,7 +72,9 @@ see it rotten.
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1872-06-26/ed-1/seq-4)
+
 #### 1872-06-26 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -89,7 +104,9 @@ will live long enough, to se it rot
 </tr></table>
 
 <hr />
+
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1872-08-29/ed-1/seq-1)
+
 #### 1872-08-29 &middot; Camden, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -124,7 +141,9 @@ l piece.
 </tr></table>
 
 <hr />
+
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11?page=19)
+
 #### 1872-09-04 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -150,7 +169,9 @@ than two cents apiece.” We believe that this is a goo
 </tr></table>
 
 <hr />
+
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1872-09-25/ed-1/seq-3)
+
 #### 1872-09-25 &middot; Alexandria, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -197,7 +218,9 @@ rotten.
 </tr></table>
 
 <hr />
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1872-10-11/ed-1/seq-1)
+
 #### 1872-10-11 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -239,7 +262,9 @@ will live long enough to see it rotten.
 </tr></table>
 
 <hr />
+
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1872-10-11/ed-1/seq-3)
+
 #### 1872-10-11 &middot; Centre Hall, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -282,17 +307,25 @@ rotten.&quot;
 </tr></table>
 
 <hr />
+
 ## Agriculture.
+
 #### From _Preston Chronicle_
+
 #### 1872-11-16 &middot; Preston, England
 [This text is not available under an open license.]
 <hr />
+
 ## Preserving Fence Posts
+
 #### From _Bangor daily Whig & courier._
+
 #### 1872-12-10 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Railway Age 1870-2016_](https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4?page=2)
+
 #### 1872-12-14
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -318,7 +351,9 @@ A Woman Inventor.
 </tr></table>
 
 <hr />
+
 ## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18?page=0)
+
 #### 1873-02-01 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -355,7 +390,9 @@ ber, and there is not a man that will live t
 </tr></table>
 
 <hr />
+
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1873-02-21/ed-1/seq-4)
+
 #### 1873-02-21 &middot; Brattleboro, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -384,7 +421,9 @@ over Iho timber, and there Is not 11 m
 </tr></table>
 
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1873-02-21/ed-1/seq-1)
+
 #### 1873-02-21 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -415,7 +454,9 @@ that will live to *oo it rot.&#x27;—Curretpondcn
 </tr></table>
 
 <hr />
+
 ## [From _The St. Cloud journal._](https://chroniclingamerica.loc.gov/lccn/sn85033526/1873-02-27/ed-1/seq-4)
+
 #### 1873-02-27 &middot; St. Cloud, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -445,7 +486,9 @@ For the benefit of
 </tr></table>
 
 <hr />
+
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1873-03-01/ed-1/seq-1)
+
 #### 1873-03-01 &middot; Sunbury, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -474,7 +517,9 @@ not a mau that w
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn85025132/1873-03-08/ed-1/seq-4)
+
 #### 1873-03-08 &middot; Shasta, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -508,7 +553,9 @@ apiece.
 </tr></table>
 
 <hr />
+
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1873-03-12/ed-1/seq-4)
+
 #### 1873-03-12 &middot; Richmond [Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -545,7 +592,9 @@ und there i? uot a man that wi&#x27;l live to see i
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-03-15/ed-1/seq-4)
+
 #### 1873-03-15 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -576,7 +625,9 @@ not s man that will live to see it rot.—
 </tr></table>
 
 <hr />
+
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-03-15/ed-1/seq-4)
+
 #### 1873-03-15 &middot; Clarksville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -615,12 +666,17 @@ there is not a man that will live t
 </tr></table>
 
 <hr />
+
 ## Everlasting Fence Posts
+
 #### From _The Yankton press._
+
 #### 1873-03-19 &middot; Yankton, Dakota Territory [S.D.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1873-03-20/ed-1/seq-1)
+
 #### 1873-03-20 &middot; Helena, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -658,7 +714,9 @@ and there is not a man that will live to see i
 </tr></table>
 
 <hr />
+
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1873-03-20/ed-1/seq-1)
+
 #### 1873-03-20 &middot; Jonesborough, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -678,7 +736,9 @@ taken out, basswood posts r after having s
 </tr></table>
 
 <hr />
+
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1873-04-04/ed-1/seq-4)
+
 #### 1873-04-04 &middot; Columbia, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -717,7 +777,9 @@ not a man that will live to see it rotten
 </tr></table>
 
 <hr />
+
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1873-04-10/ed-1/seq-1)
+
 #### 1873-04-10 &middot; Ellsworth, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -753,7 +815,9 @@ ber, and there is not a mu that will Uv
 </tr></table>
 
 <hr />
+
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1873-04-12/ed-1/seq-1)
+
 #### 1873-04-12 &middot; Olympia, Wash. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -791,7 +855,9 @@ is not a man that will live to see it rot
 </tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1873-04-17/ed-1/seq-4)
+
 #### 1873-04-17 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -842,7 +908,9 @@ rot.&quot; fCor. Western
 </tr></table>
 
 <hr />
+
 ## [From _Essex County herald._](https://chroniclingamerica.loc.gov/lccn/sn84023416/1873-04-19/ed-1/seq-4)
+
 #### 1873-04-19 &middot; Guildhall, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -873,7 +941,9 @@ is not a man that will live to see it rot
 </tr></table>
 
 <hr />
+
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1873-04-25/ed-1/seq-1)
+
 #### 1873-04-25 &middot; Columbia, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -905,7 +975,9 @@ not a man who will live to see it rot
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1873-05-01/ed-1/seq-2)
+
 #### 1873-05-01 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -935,7 +1007,9 @@ who will live to see it rot
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-05-03/ed-1/seq-4)
+
 #### 1873-05-03 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -966,7 +1040,9 @@ will lire to see it rotten.—Cm. Wate
 </tr></table>
 
 <hr />
+
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1873-05-16/ed-1/seq-1)
+
 #### 1873-05-16 &middot; Findlay, Hancock County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -989,7 +1065,9 @@ there is not a raan that will live to se
 </tr></table>
 
 <hr />
+
 ## [From _The Orangeburg news._](https://chroniclingamerica.loc.gov/lccn/sn84026920/1873-05-17/ed-1/seq-5)
+
 #### 1873-05-17 &middot; Orangeburg, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1018,7 +1096,9 @@ it- in it pulverized charo al to the e&lt;?
 </tr></table>
 
 <hr />
+
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1873-05-20/ed-1/seq-4)
+
 #### 1873-05-20 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1045,7 +1125,9 @@ Take boiled lin
 </tr></table>
 
 <hr />
+
 ## [From _The Toledo chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84038485/1873-05-29/ed-1/seq-4)
+
 #### 1873-05-29 &middot; Toledo, Tama County, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1078,7 +1160,9 @@ tbaro ia not a man that will live t
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1873-05-29/ed-1/seq-4)
+
 #### 1873-05-29 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1108,7 +1192,9 @@ and there is not a man that will live to se
 </tr></table>
 
 <hr />
+
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1873-06-03/ed-1/seq-6)
+
 #### 1873-06-03 &middot; New Bloomfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1144,7 +1230,9 @@ timber and there is not a niari that wil
 </tr></table>
 
 <hr />
+
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1873-06-07/ed-1/seq-4)
+
 #### 1873-06-07 &middot; Canton, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1174,7 +1262,9 @@ and there is not a man that will live to se
 </tr></table>
 
 <hr />
+
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1873-06-11/ed-1/seq-2)
+
 #### 1873-06-11 &middot; Watertown, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1204,7 +1294,9 @@ and there is not a man that will live to se
 </tr></table>
 
 <hr />
+
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1873-06-12/ed-1/seq-6)
+
 #### 1873-06-12 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1234,7 +1326,9 @@ and there is not a man that will live to se
 </tr></table>
 
 <hr />
+
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1873-06-12/ed-1/seq-3)
+
 #### 1873-06-12 &middot; Manitowoc, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1265,7 +1359,9 @@ that will live to see it . it.
 </tr></table>
 
 <hr />
+
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1873-06-18/ed-1/seq-6)
+
 #### 1873-06-18 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1297,7 +1393,9 @@ timbor and there is not a ma
 </tr></table>
 
 <hr />
+
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1873-06-19/ed-1/seq-4)
+
 #### 1873-06-19 &middot; Millersburg, Holmes Co., O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1337,7 +1435,9 @@ fence posts after having bee
 </tr></table>
 
 <hr />
+
 ## [From _The Vinton record._](https://chroniclingamerica.loc.gov/lccn/sn85038222/1873-06-19/ed-1/seq-1)
+
 #### 1873-06-19 &middot; M'arthur, Vinton County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1374,7 +1474,9 @@ is not a man who will live t
 </tr></table>
 
 <hr />
+
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-06-19/ed-1/seq-4)
+
 #### 1873-06-19 &middot; Ridgway, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1406,7 +1508,9 @@ mere is not a man that will live to se
 </tr></table>
 
 <hr />
+
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1873-06-21/ed-1/seq-4)
+
 #### 1873-06-21 &middot; Ottawa, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1436,7 +1540,9 @@ that w ill live to see it rot
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1873-06-28/ed-1/seq-4)
+
 #### 1873-06-28 &middot; Prescott, Ariz.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1465,12 +1571,17 @@ timber, and there is no man that wi
 </tr></table>
 
 <hr />
+
 ## Agricultural
+
 #### From _The Congregationalist._
+
 #### 1873-07-03 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-07-09/ed-1/seq-4)
+
 #### 1873-07-09 &middot; Somerset, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1507,7 +1618,9 @@ not a mau who will live to seo&quot; i
 </tr></table>
 
 <hr />
+
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1873-07-10/ed-1/seq-1)
+
 #### 1873-07-10 &middot; Redwood Falls, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1543,7 +1656,9 @@ paint, rut a ooai ot tbM over iae
 </tr></table>
 
 <hr />
+
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1873-07-18/ed-1/seq-1)
+
 #### 1873-07-18 &middot; Stanford, Ky.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1573,7 +1688,9 @@ TempcevKce Lector
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1873-07-22/ed-1/seq-1)
+
 #### 1873-07-22 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1601,7 +1718,9 @@ Ithat w
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1873-07-23/ed-1/seq-4)
+
 #### 1873-07-23 &middot; Mifflintown, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1632,7 +1751,9 @@ there is not a msn
 </tr></table>
 
 <hr />
+
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1873-07-30/ed-1/seq-4)
+
 #### 1873-07-30 &middot; Newberry, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1671,7 +1792,9 @@ a man that will live to see it rotten.
 </tr></table>
 
 <hr />
+
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1873-08-02/ed-1/seq-1)
+
 #### 1873-08-02 &middot; Charlestown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1705,7 +1828,9 @@ timber, and there is not a man who will liv
 </tr></table>
 
 <hr />
+
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-08-07/ed-1/seq-3)
+
 #### 1873-08-07 &middot; Ridgway, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1743,7 +1868,9 @@ and there is not a man who will live t
 </tr></table>
 
 <hr />
+
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1873-09-04/ed-1/seq-4)
+
 #### 1873-09-04 &middot; Camden, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1781,7 +1908,9 @@ man that will live to sec it rot
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1873-11-06/ed-1/seq-4)
+
 #### 1873-11-06 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1816,7 +1945,9 @@ NEW U8B F
 </tr></table>
 
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1874-02-26/ed-1/seq-3)
+
 #### 1874-02-26 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1845,7 +1976,9 @@ apiece. For the benefit of
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1874-06-16/ed-1/seq-1)
+
 #### 1874-06-16 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1879,7 +2012,9 @@ oil, aod stir in pulverised
 </tr></table>
 
 <hr />
+
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2?page=61)
+
 #### 1874-08-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1905,7 +2040,9 @@ which were as sound when taken out as whe
 </tr></table>
 
 <hr />
+
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1874-09-03/ed-1/seq-4)
+
 #### 1874-09-03 &middot; Ridgway, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1928,7 +2065,9 @@ Time and weather seem to have
 </tr></table>
 
 <hr />
+
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1874-09-11/ed-1/seq-4)
+
 #### 1874-09-11 &middot; Emporia, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1953,7 +2092,9 @@ the ground. Time and weather
 </tr></table>
 
 <hr />
+
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1874-10-14/ed-1/seq-1)
+
 #### 1874-10-14 &middot; Tionesta, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1979,7 +2120,9 @@ have no effect on them
 </tr></table>
 
 <hr />
+
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-10-14/ed-1/seq-4)
+
 #### 1874-10-14 &middot; Somerset, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1998,12 +2141,17 @@ as soon have poplar, basswood, or
 </tr></table>
 
 <hr />
+
 ## To Preserve Fence Posts
+
 #### From _Georgia weekly telegraph and Georgia journal & messenger._
+
 #### 1874-10-27 &middot; Macon, Ga.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1874-11-20/ed-1/seq-4)
+
 #### 1874-11-20 &middot; Fremont, Sandusky County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2043,7 +2191,9 @@ and there is not a man who will lir
 </tr></table>
 
 <hr />
+
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1874-12-24/ed-1/seq-3)
+
 #### 1874-12-24 &middot; Manitowoc, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2067,8 +2217,11 @@ weather seem to have no effect
 </tr></table>
 
 <hr />
+
 ## [MR. GLADSTONE'S "EXPOSTULATION."](http://trove.nla.gov.au/ndp/del/article/122070456)
+
 #### From _Queensland Times, Ipswich Herald and General Advertiser (Qld. : 1861 - 1908)_
+
 #### 1875-01-26 &middot; Ipswich, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2091,7 +2244,9 @@ apiece. This is the recipe: Take bottle
 </td></tr></table>
 
 <hr />
+
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1875-01-30/ed-1/seq-2)
+
 #### 1875-01-30 &middot; Honolulu, Hawaiian Islands
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2111,12 +2266,17 @@ Time and weather seem to have
 </tr></table>
 
 <hr />
+
 ## Agricultural
+
 #### From _Milwaukee daily sentinel._
+
 #### 1875-03-10 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1875-04-21/ed-1/seq-4)
+
 #### 1875-04-21 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2139,12 +2299,17 @@ w eather seem to have no effec
 </tr></table>
 
 <hr />
+
 ## Preservation of Timber
+
 #### From _Lowell daily citizen and news._
+
 #### 1875-04-29 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1875-06-17/ed-1/seq-5)
+
 #### 1875-06-17 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2172,7 +2337,9 @@ seem to have no
 </tr></table>
 
 <hr />
+
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1875-06-23/ed-1/seq-2)
+
 #### 1875-06-23 &middot; Ottumwa, Wapello County, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2197,7 +2364,9 @@ effect o
 </tr></table>
 
 <hr />
+
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1875-06-24/ed-1/seq-3)
+
 #### 1875-06-24 &middot; Superior, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2221,7 +2390,9 @@ weather st em to have no effec
 </tr></table>
 
 <hr />
+
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1875-07-08/ed-1/seq-1)
+
 #### 1875-07-08 &middot; Tipton, Cedar Co., Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2250,7 +2421,9 @@ effec
 </tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1875-12-16/ed-1/seq-1)
+
 #### 1875-12-16 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2287,7 +2460,9 @@ the timber, and there is not
 </tr></table>
 
 <hr />
+
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1875-12-22/ed-1/seq-2)
+
 #### 1875-12-22 &middot; Abbeville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2320,7 +2495,9 @@ this over the timber, and there is not a
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1876-04-26/ed-1/seq-1)
+
 #### 1876-04-26 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2342,7 +2519,9 @@ aud weather seem to have no iff c
 </tr></table>
 
 <hr />
+
 ## [From _The Hartford herald._](https://chroniclingamerica.loc.gov/lccn/sn84037890/1876-05-17/ed-1/seq-4)
+
 #### 1876-05-17 &middot; Hartford, Ky.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2371,7 +2550,9 @@ you the rec
 </tr></table>
 
 <hr />
+
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1876-05-18/ed-1/seq-1)
+
 #### 1876-05-18 &middot; Redwood Falls, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2410,7 +2591,9 @@ man that will live to see it rot.
 </tr></table>
 
 <hr />
+
 ## [From _The Wichita city eagle._](https://chroniclingamerica.loc.gov/lccn/sn85032573/1876-05-25/ed-1/seq-4)
+
 #### 1876-05-25 &middot; Wichita, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2449,8 +2632,11 @@ there is not a man to
 </tr></table>
 
 <hr />
+
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/77486808)
+
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
+
 #### 1876-09-27 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2475,8 +2661,11 @@ Time and: weather
 </td></tr></table>
 
 <hr />
+
 ## [TOWN TALK.](http://trove.nla.gov.au/ndp/del/article/150635594)
+
 #### From _Geelong Advertiser (Vic. : 1859 - 1924)_
+
 #### 1876-10-17 &middot; Geelong, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2508,8 +2697,11 @@ and weather seem to have n
 </td></tr></table>
 
 <hr />
+
 ## [THE DAVENPORT BROTHERS.](http://trove.nla.gov.au/ndp/del/article/88347706)
+
 #### From _The Bacchus Marsh Express (Vic. : 1866 - 1918)_
+
 #### 1876-10-21 &middot; Bacchus Marsh, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2541,7 +2733,9 @@ wvear.her se
 </td></tr></table>
 
 <hr />
+
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1877-03-29/ed-1/seq-4)
+
 #### 1877-03-29 &middot; Manitowoc, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2575,7 +2769,9 @@ man that wil
 </tr></table>
 
 <hr />
+
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1877-04-04/ed-1/seq-3)
+
 #### 1877-04-04 &middot; Watertown, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2616,7 +2812,9 @@ man th
 </tr></table>
 
 <hr />
+
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1877-04-26/ed-1/seq-1)
+
 #### 1877-04-26 &middot; Redwood Falls, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2650,7 +2848,9 @@ man that wi
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1877-04-26/ed-1/seq-2)
+
 #### 1877-04-26 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2689,7 +2889,9 @@ timber, and there
 </tr></table>
 
 <hr />
+
 ## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1877-05-10/ed-1/seq-4)
+
 #### 1877-05-10 &middot; Troy, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2711,7 +2913,9 @@ put in tbe ground. Time and w
 </tr></table>
 
 <hr />
+
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1877-05-24/ed-1/seq-1)
+
 #### 1877-05-24 &middot; Brownville, Nemaha County, N.T. [Neb.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2744,7 +2948,9 @@ seems to have no effeot upon them
 </tr></table>
 
 <hr />
+
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1877-07-06/ed-1/seq-2)
+
 #### 1877-07-06 &middot; Albany, Or.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2782,7 +2988,9 @@ i
 </tr></table>
 
 <hr />
+
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1878-09-05/ed-1/seq-4)
+
 #### 1878-09-05 &middot; Camden, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2817,7 +3025,9 @@ io effect on them. The posts can
 </tr></table>
 
 <hr />
+
 ## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1879-11-18/ed-1/seq-4)
+
 #### 1879-11-18 &middot; Paris, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2849,7 +3059,9 @@ will live long enough to see it rotten
 </tr></table>
 
 <hr />
+
 ## [From _St. Landry democrat._](https://chroniclingamerica.loc.gov/lccn/sn88064537/1880-12-18/ed-1/seq-4)
+
 #### 1880-12-18 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2880,7 +3092,9 @@ ground. Time and weather
 </tr></table>
 
 <hr />
+
 ## [From _The Meridional._](https://chroniclingamerica.loc.gov/lccn/sn88064005/1881-02-12/ed-1/seq-2)
+
 #### 1881-02-12 &middot; Abbeville, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2920,7 +3134,9 @@ over the timber, and there is
 </tr></table>
 
 <hr />
+
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1882-07-14/ed-1/seq-1)
+
 #### 1882-07-14 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2956,7 +3172,9 @@ live long enough to see it rotten
 </tr></table>
 
 <hr />
+
 ## [From _The Corvallis gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022650/1882-09-01/ed-1/seq-4)
+
 #### 1882-09-01 &middot; Corvallis, Or.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2981,7 +3199,9 @@ a piece. They should be well sea
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Copiahan._](https://chroniclingamerica.loc.gov/lccn/2018270504/1882-10-28/ed-1/seq-3)
+
 #### 1882-10-28 &middot; Hazlehurst, Copiah County, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3015,7 +3235,9 @@ long enough to see it &quot;otten
 </tr></table>
 
 <hr />
+
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1884-08-21/ed-1/seq-1)
+
 #### 1884-08-21 &middot; Alexandria, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3058,7 +3280,9 @@ sid st:r iii pulverixied chro
 </tr></table>
 
 <hr />
+
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1884-10-11/ed-1/seq-6)
+
 #### 1884-10-11 &middot; McMinnville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3107,7 +3331,9 @@ to see it rotten.
 </tr></table>
 
 <hr />
+
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44?page=0)
+
 #### 1884-10-30 &middot; St. Louis, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3146,7 +3372,9 @@ rotten.
 </tr></table>
 
 <hr />
+
 ## [From _Richmond democrat._](https://chroniclingamerica.loc.gov/lccn/sn86063662/1884-11-06/ed-1/seq-2)
+
 #### 1884-11-06 &middot; Richmond, Ray County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3165,7 +3393,9 @@ Koe it rolton.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1884-11-13/ed-1/seq-1)
+
 #### 1884-11-13 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3212,7 +3442,9 @@ enough to sse it rotten.
 </tr></table>
 
 <hr />
+
 ## [From _The Austin weekly statesman._](https://chroniclingamerica.loc.gov/lccn/sn86088296/1884-11-13/ed-1/seq-2)
+
 #### 1884-11-13 &middot; Austin, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3248,7 +3480,9 @@ it rotten
 </tr></table>
 
 <hr />
+
 ## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1884-11-23/ed-1/seq-7)
+
 #### 1884-11-23 &middot; Savannah
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3284,7 +3518,9 @@ rotten.
 </tr></table>
 
 <hr />
+
 ## [From _Charlotte home and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020714/1884-12-05/ed-1/seq-4)
+
 #### 1884-12-05 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3318,7 +3554,9 @@ that will live long enough to see it rotten
 </tr></table>
 
 <hr />
+
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1885-03-26/ed-1/seq-4)
+
 #### 1885-03-26 &middot; Augusta, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

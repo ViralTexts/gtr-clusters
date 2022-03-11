@@ -1,7 +1,12 @@
+
 # To Remove Ink Spots
+
 ### 30 reprints from 1863-12-30 to 1871-09-16 [cl25769803843]
+
 ## [To Remove Ink Spots](https://chroniclingamerica.loc.gov/lccn/sn85054616/1863-12-30/ed-1/seq-3/)
+
 #### From _Raftsman's Journal_
+
 #### 1863-12-30
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10,7 +15,9 @@ TO REMOVE INK SPOTS.—Put the article stained over a warm flat-iron, streach it
 </td></tr></table>
 
 <hr />
+
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1863-10-03/ed-1/seq-4)
+
 #### 1863-10-03 &middot; Auburn, Placer County, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -28,7 +35,9 @@ may try it
 </tr></table>
 
 <hr />
+
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1863-12-30/ed-1/seq-3)
+
 #### 1863-12-30 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -46,7 +55,9 @@ try it. &quot;
 </tr></table>
 
 <hr />
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1871-01-20/ed-1/seq-3)
+
 #### 1871-01-20 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -63,12 +74,17 @@ ately in cold water
 </tr></table>
 
 <hr />
+
 ## In General
+
 #### From _Boston daily advertiser._
+
 #### 1871-06-07 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1871-06-09/ed-1/seq-2)
+
 #### 1871-06-09 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -91,7 +107,9 @@ and will satisfy all who may try it
 </tr></table>
 
 <hr />
+
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1871-06-10/ed-1/seq-3)
+
 #### 1871-06-10 &middot; Richmond [Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -112,7 +130,9 @@ That&#x27;s one way. Another method, whic
 </tr></table>
 
 <hr />
+
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1871-06-11/ed-1/seq-2)
+
 #### 1871-06-11 &middot; Columbia, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -129,7 +149,9 @@ water. ..
 </tr></table>
 
 <hr />
+
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1871-06-13/ed-1/seq-1)
+
 #### 1871-06-13 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -153,7 +175,9 @@ water.
 </tr></table>
 
 <hr />
+
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-06-14/ed-1/seq-1)
+
 #### 1871-06-14 &middot; New Orleans, La
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -175,12 +199,17 @@ all who may try it.,
 </tr></table>
 
 <hr />
+
 ## All Sorts of Items
+
 #### From _Daily evening bulletin._
+
 #### 1871-06-14 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1871-06-16/ed-1/seq-3)
+
 #### 1871-06-16 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -196,7 +225,9 @@ nod (he spot w ill disappear ut on* &lt;• Wash i i
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Caucasian._](https://chroniclingamerica.loc.gov/lccn/sn85033995/1871-06-17/ed-1/seq-4)
+
 #### 1871-06-17 &middot; Lexington, Lafayette County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -220,7 +251,9 @@ will satisfy all who may try it.
 </tr></table>
 
 <hr />
+
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1871-06-23/ed-1/seq-4)
+
 #### 1871-06-23 &middot; Columbia, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -243,7 +276,9 @@ ly in cold wate
 </tr></table>
 
 <hr />
+
 ## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25?page=6)
+
 #### 1871-06-24
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -265,7 +300,9 @@ diately in cold water. That’s one way. An
 </tr></table>
 
 <hr />
+
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1871-06-28/ed-1/seq-2)
+
 #### 1871-06-28 &middot; Newberry, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -285,7 +322,9 @@ mediately in cold water
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1871-06-29/ed-1/seq-3)
+
 #### 1871-06-29 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -309,7 +348,9 @@ edy, and will satisfy all who may try it
 </tr></table>
 
 <hr />
+
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1871-06-30/ed-1/seq-1)
+
 #### 1871-06-30 &middot; Bolivar, Hardeman County, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -332,7 +373,9 @@ ly in cold wate
 </tr></table>
 
 <hr />
+
 ## [From _Macon beacon._](https://chroniclingamerica.loc.gov/lccn/sn83016943/1871-07-01/ed-1/seq-1)
+
 #### 1871-07-01 &middot; Macon, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -355,7 +398,9 @@ ly in cold wate
 </tr></table>
 
 <hr />
+
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-07-04/ed-1/seq-6)
+
 #### 1871-07-04 &middot; New Bloomfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -375,7 +420,9 @@ once. Wash immediately in cold water.
 </tr></table>
 
 <hr />
+
 ## [From _The Daily state journal._](https://chroniclingamerica.loc.gov/lccn/sn84024670/1871-07-05/ed-1/seq-3)
+
 #### 1871-07-05 &middot; Alexandria, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -397,7 +444,9 @@ That&#x27;s oneway. Another method whic
 </tr></table>
 
 <hr />
+
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1871-07-06/ed-1/seq-4)
+
 #### 1871-07-06 &middot; Plymouth, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -416,7 +465,9 @@ fcatisfy all who mav tr i
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1871-07-06/ed-1/seq-1)
+
 #### 1871-07-06 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -433,12 +484,17 @@ immediately in cold water
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _Lowell daily citizen and news._
+
 #### 1871-07-08 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1871-07-15/ed-1/seq-1)
+
 #### 1871-07-15 &middot; Weaverville, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -454,7 +510,9 @@ diately in cold water.
 </tr></table>
 
 <hr />
+
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1871-07-22/ed-1/seq-1)
+
 #### 1871-07-22 &middot; Auburn, Placer County, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -469,7 +527,9 @@ It, ana the spots will disappear at opeg.
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1871-07-27/ed-1/seq-4)
+
 #### 1871-07-27 &middot; Ravenna, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -491,7 +551,9 @@ ly in cold;water. . ... . ;
 </tr></table>
 
 <hr />
+
 ## [From _The weekly democratic statesman._](https://chroniclingamerica.loc.gov/lccn/sn83021327/1871-08-31/ed-1/seq-3)
+
 #### 1871-08-31 &middot; Austin, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -516,7 +578,9 @@ Mbals and Health. Take the
 </tr></table>
 
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1871-09-14/ed-1/seq-8)
+
 #### 1871-09-14 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -537,7 +601,9 @@ at once. Wash immediately in cold water.”
 </tr></table>
 
 <hr />
+
 ## [From _Painesville journal._](https://chroniclingamerica.loc.gov/lccn/sn84028193/1871-09-16/ed-1/seq-4)
+
 #### 1871-09-16 &middot; Painesville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 

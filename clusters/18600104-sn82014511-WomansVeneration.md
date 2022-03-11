@@ -1,7 +1,12 @@
+
 # Woman's Veneration
+
 ### 26 reprints from 1860-01-04 to 1869-09-22 [cl25769803797]
+
 ## [Woman's Veneration](https://chroniclingamerica.loc.gov/lccn/sn82014511/1860-01-04/ed-1/seq-3/)
+
 #### From _The Press and Tribune_
+
 #### 1860-01-04
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13,8 +18,11 @@ If women have one weakness more marked than another, it is towards veneration. T
 </td></tr></table>
 
 <hr />
+
 ## [THE MINISTERS WOOING. A TALE OF NEW ENGLAND. CHAPTER XII. MISS PRISSY.](http://trove.nla.gov.au/ndp/del/article/154828682)
+
 #### From _The Age (Melbourne, Vic. : 1854 - 1954)_
+
 #### 1859-09-08 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -82,12 +90,17 @@ of n noble HIV Never wan there
 </td></tr></table>
 
 <hr />
+
 ## Woman's Love of the Heroic
+
 #### From _Lowell daily citizen and news._
+
 #### 1859-10-08 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The press and tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014511/1859-10-27/ed-1/seq-3)
+
 #### 1859-10-27 &middot; Chicago, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -110,17 +123,25 @@ rhetoric of a noble life
 </tr></table>
 
 <hr />
+
 ## SCOTS BANKRUPTS.
+
 #### From _Caledonian Mercury_
+
 #### 1859-11-05 &middot; Edinburgh, Scotland
 [This text is not available under an open license.]
 <hr />
+
 ## For the Fireside.
+
 #### From _Ohio Farmer (1856-1906)_
+
 #### 1859-11-05 &middot; Cleveland
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The press and tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014511/1860-01-04/ed-1/seq-3)
+
 #### 1860-01-04 &middot; Chicago, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -185,12 +206,17 @@ ofanohlelifr.
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _Weekly Scioto gazette._
+
 #### 1860-01-17 &middot; Chillicothe, Ohio
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026845/1860-01-28/ed-1/seq-1)
+
 #### 1860-01-28 &middot; Wheeling, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -243,7 +269,9 @@ noble lire.
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1860-03-01/ed-1/seq-1)
+
 #### 1860-03-01 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -308,12 +336,17 @@ leroic deeds and the rhetoric of a nobl
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _Milwaukee daily sentinel._
+
 #### 1860-03-05 &middot; Milwaukee, [Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014488/1860-04-14/ed-1/seq-1)
+
 #### 1860-04-14 &middot; Placerville, El Dorado Co., Cal.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -374,7 +407,9 @@ the rhetoric of a noble life.’
 </tr></table>
 
 <hr />
+
 ## [From _Daily gazette and comet._](https://chroniclingamerica.loc.gov/lccn/sn88083120/1860-07-04/ed-1/seq-1)
+
 #### 1860-07-04 &middot; Baton Rouge, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -452,17 +487,25 @@ n deeds and the rhetoric of a nobl
 </tr></table>
 
 <hr />
+
 ## MISCELLANEA.
+
 #### From _Trewman's Exeter Flying Post_
+
 #### 1861-10-02 &middot; Exeter, England
 [This text is not available under an open license.]
 <hr />
+
 ## NATIVE WINESHUME'S PROCESS.
+
 #### From _Southern Cultivator (1843-1906)_
+
 #### 1861-12-01 &middot; Atlanta
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The New Orleans crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015775/1868-01-29/ed-1/seq-1)
+
 #### 1868-01-29 &middot; New Orleans, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -496,7 +539,9 @@ Septed. feen ready to
 </tr></table>
 
 <hr />
+
 ## [From _The New Orleans crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015775/1868-01-29/ed-1/seq-1)
+
 #### 1868-01-29 &middot; New Orleans, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -515,7 +560,9 @@ ii&#x27; ver wcoed them,. ex i&#x27; f&#x27;y hr,, deerl and th
 </tr></table>
 
 <hr />
+
 ## [From _Daily Ohio statesman._](https://chroniclingamerica.loc.gov/lccn/sn84028645/1868-02-05/ed-1/seq-1)
+
 #### 1868-02-05 &middot; Columbus, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -583,7 +630,9 @@ deeds and the rhetoric of noble life.-
 </tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1868-02-12/ed-1/seq-4)
+
 #### 1868-02-12 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -650,7 +699,9 @@ and the rhetoric of noble life.? The Min
 </tr></table>
 
 <hr />
+
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1868-02-20/ed-1/seq-1)
+
 #### 1868-02-20 &middot; Camden, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -722,7 +773,9 @@ rhetoric of nohle life
 </tr></table>
 
 <hr />
+
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1868-03-04/ed-1/seq-1)
+
 #### 1868-03-04 &middot; Smyrna, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -786,12 +839,17 @@ wooed them, except by heroic deeds, and fh
 </tr></table>
 
 <hr />
+
 ## For the Ladies
+
 #### From _Daily evening bulletin._
+
 #### 1868-05-02 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-06-13/ed-1/seq-1)
+
 #### 1868-06-13 &middot; Shepherdstown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -853,7 +911,9 @@ and the rhetoric of ii i d? iifc
 </tr></table>
 
 <hr />
+
 ## [From _The Grenada sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034375/1868-07-18/ed-1/seq-1)
+
 #### 1868-07-18 &middot; Grenada, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -936,7 +996,9 @@ deeds and rhetoric of noble life.-— 7*A
 </tr></table>
 
 <hr />
+
 ## [From _North Iowa times._](https://chroniclingamerica.loc.gov/lccn/sn84027239/1869-09-22/ed-1/seq-1)
+
 #### 1869-09-22 &middot; McGregor, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1004,7 +1066,9 @@ deeds and the rhetoric of a noble life.
 </tr></table>
 
 <hr />
+
 ## [From _North Iowa times._](https://chroniclingamerica.loc.gov/lccn/sn84027239/1869-09-22/ed-1/seq-2)
+
 #### 1869-09-22 &middot; McGregor, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 

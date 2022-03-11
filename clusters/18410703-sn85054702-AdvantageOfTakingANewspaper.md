@@ -1,7 +1,12 @@
+
 # Advantage of Taking a Newspaper
+
 ### 101 reprints from 1841-07-03 to 1894-03-22 [cl13]
+
 ## [Advantage of Taking a Newspaper](http://chroniclingamerica.loc.gov/lccn/sn85054702/1841-07-03/ed-1/seq-1/)
+
 #### From _Sunbury American and Shamokin Journal_
+
 #### 1841-07-03
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -30,12 +35,17 @@ Would not befallen him!
 </td></tr></table>
 
 <hr />
+
 ## "Why Don't You Take the Papers?"
+
 #### From _Scioto gazette._
+
 #### 1839-09-26 &middot; Chillicothe, Ohio
 [This text is not available under an open license.]
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1839-10-03/ed-1/seq-4)
+
 #### 1839-10-03 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -56,7 +66,9 @@ Would not hj v* Penc,
 </tr></table>
 
 <hr />
+
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1839-12-20/ed-1/seq-4)
+
 #### 1839-12-20 &middot; Brattleboro, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -80,22 +92,33 @@ Would not have h
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _Norwich aurora._
+
 #### 1841-03-10 &middot; Norwich, Conn.
 [This text is not available under an open license.]
 <hr />
+
 ## Advantage of Taking a Newspaper
+
 #### From _Boston investigator._
+
 #### 1841-03-17 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## Advantage of Taking a Newspaper
+
 #### From _The New England weekly review._
+
 #### 1841-04-17 &middot; Hartford [Conn.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042147/1841-05-12/ed-1/seq-4)
+
 #### 1841-05-12 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -122,17 +145,25 @@ Would not have happened him
 </tr></table>
 
 <hr />
+
 ## ADVANTAGE OF TAKING A NEWSPAPER.
+
 #### From _The New World; a Weekly Family Journal of Popular Literature, Science, Art and News (1840-1845)_
+
 #### 1841-05-15 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## The following, which we have cut from a country newspaper, is a beautiful and louching specimen of poetical ability
+
 #### From _Cleveland daily herald._
+
 #### 1841-05-25 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1841-06-09/ed-1/seq-1)
+
 #### 1841-06-09 &middot; Stroudsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -163,7 +194,9 @@ Would not have happened him
 </tr></table>
 
 <hr />
+
 ## [From _Sunbury American and Shamokin journal._](https://chroniclingamerica.loc.gov/lccn/sn85054702/1841-07-03/ed-1/seq-1)
+
 #### 1841-07-03 &middot; Sunbury, Northumberland Co., Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -180,7 +213,9 @@ Vruntrrlpt
 </tr></table>
 
 <hr />
+
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28?page=7)
+
 #### 1841-07-10 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -225,23 +260,35 @@ Had not befallen him!
 </tr></table>
 
 <hr />
+
 ## The moral of the following, which we cut from an exchange paper, is too obvious
+
 #### From _Raleigh register, and North-Carolina gazette._
+
 #### 1841-07-23 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## The following, which we have cut from a country newspaper, is a beautiful and touching specimen of poetical ability
+
 #### From _The Floridian._
+
 #### 1841-07-24 &middot; Tallahassee [Fla.]
 [This text is not available under an open license.]
 <hr />
+
 ## Take the Papers
+
 #### From _Pensacola gazette._
+
 #### 1841-08-07 &middot; [Pensacola, Fla.]
 [This text is not available under an open license.]
 <hr />
+
 ## [JONATHANISMS: OR SCRAPS FROM AMERICAN PAPERS.](http://trove.nla.gov.au/ndp/del/article/8752539)
+
 #### From _Colonial Times (Hobart, Tas. : 1828 - 1857)_
+
 #### 1842-04-05 &middot; Hobart, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -262,8 +309,11 @@ I&#x27;ll
 </td></tr></table>
 
 <hr />
+
 ## [SELECT POETRY. THE PRINCE OF WALES THE MUSIC BY NELSON—THE WORDS BY JEFFERYS.](http://trove.nla.gov.au/ndp/del/article/37114692)
+
 #### From _The Australian (Sydney, NSW : 1824 - 1848)_
+
 #### 1842-04-23 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -286,18 +336,27 @@ of the news - At home, like neighbour
 </td></tr></table>
 
 <hr />
+
 ## Foreign Varieties.
+
 #### From _Hull Packet_
+
 #### 1842-06-17 &middot; Hull, England
 [This text is not available under an open license.]
 <hr />
+
 ## The Companion.
+
 #### From _Manchester Times_
+
 #### 1842-06-25 &middot; Manchester, England
 [This text is not available under an open license.]
 <hr />
+
 ## [SELECT POETRY. ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/2557007)
+
 #### From _The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842)_
+
 #### 1842-07-16 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -315,8 +374,11 @@ upon bis crown. And hurt lum as it
 </td></tr></table>
 
 <hr />
+
 ## [POETRY. THE JOYS OF THE WILDERNESS.](http://trove.nla.gov.au/ndp/del/article/2557596)
+
 #### From _The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842)_
+
 #### 1842-10-20 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -335,8 +397,11 @@ him is it
 </td></tr></table>
 
 <hr />
+
 ## [[?]RACT[?] ADVANTAGES OF SMALL HOLDINGS AND OF RENTING IN AUSTRALIA.](http://trove.nla.gov.au/ndp/del/article/12419818)
+
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
+
 #### 1843-02-16 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -357,7 +422,9 @@ neighbour Jim, I&#x27;ll
 </td></tr></table>
 
 <hr />
+
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1844-08-31_25_1205?page=3)
+
 #### 1844-08-31 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -389,7 +456,9 @@ Would not have happened hu
 </tr></table>
 
 <hr />
+
 ## [From _Boston Cultivator (1839-1850)_](https://iiif.archivelab.org/iiif/sim_american-cultivator_1844-10-05_6_40?page=6)
+
 #### 1844-10-05 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -486,7 +555,9 @@ A tree fell dawa apon his crown,
 </tr></table>
 
 <hr />
+
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1844-10-24_12_43?page=1)
+
 #### 1844-10-24 &middot; Augusta
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -520,7 +591,9 @@ Would not have happened him
 </tr></table>
 
 <hr />
+
 ## [From _Boon's Lick times._](https://chroniclingamerica.loc.gov/lccn/sn83016957/1845-02-22/ed-1/seq-1)
+
 #### 1845-02-22 &middot; Fayette, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -546,7 +619,9 @@ Had he been reading of the&quot;nc.TJ,
 </tr></table>
 
 <hr />
+
 ## [From _The Cadiz sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84028793/1845-05-14/ed-1/seq-1)
+
 #### 1845-05-14 &middot; Cadiz, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -574,7 +649,9 @@ VVou
 </tr></table>
 
 <hr />
+
 ## [From _The Evansville journal._](https://chroniclingamerica.loc.gov/lccn/sn84023914/1845-07-10/ed-1/seq-2)
+
 #### 1845-07-10 &middot; Evansville, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -601,12 +678,17 @@ Would not have happened him
 </tr></table>
 
 <hr />
+
 ## Let Justice Be Done
+
 #### From _Weekly Ohio statesman._
+
 #### 1845-07-16 &middot; Columbus, Ohio
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1845-07-24/ed-1/seq-1)
+
 #### 1845-07-24 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -629,7 +711,9 @@ Would not have happened him.
 </tr></table>
 
 <hr />
+
 ## [From _Boston Cultivator (1839-1850)_](https://iiif.archivelab.org/iiif/sim_american-cultivator_1845-07-26_7_30?page=3)
+
 #### 1845-07-26 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -653,7 +737,9 @@ Would never have happened hi
 </tr></table>
 
 <hr />
+
 ## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82014301/1845-07-30/ed-1/seq-1)
+
 #### 1845-07-30 &middot; Indianapolis [Ind.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -676,12 +762,17 @@ Would nut have happened him
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _South Carolina temperance advocate and register of agriculture and general literature._
+
 #### 1845-07-31 &middot; Columbia, S.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1845-08-07/ed-1/seq-1)
+
 #### 1845-08-07 &middot; Martinsburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -702,7 +793,9 @@ And killed him as it
 </tr></table>
 
 <hr />
+
 ## [From _The Columbia Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025180/1845-08-09/ed-1/seq-2)
+
 #### 1845-08-09 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -728,7 +821,9 @@ Would not have happend him.
 </tr></table>
 
 <hr />
+
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7?page=7)
+
 #### 1845-08-13 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -757,7 +852,9 @@ Would never have happened him.
 </tr></table>
 
 <hr />
+
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1845-08-15/ed-1/seq-2)
+
 #### 1845-08-15 &middot; Ottawa, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -778,7 +875,9 @@ Would not have happened him,
 </tr></table>
 
 <hr />
+
 ## [From _Burlington hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn82014327/1845-09-11/ed-1/seq-1)
+
 #### 1845-09-11 &middot; Burlington, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -807,7 +906,9 @@ Would not have happened him.
 </tr></table>
 
 <hr />
+
 ## [From _The North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042147/1845-11-12/ed-1/seq-1)
+
 #### 1845-11-12 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -831,13 +932,19 @@ Would not have happened him
 </tr></table>
 
 <hr />
+
 ## Selections.
+
 #### From _Liverpool Mercury_
+
 #### 1846-01-09 &middot; Liverpool, England
 [This text is not available under an open license.]
 <hr />
+
 ## [VARIETIES.](http://trove.nla.gov.au/ndp/del/article/59764830)
+
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
+
 #### 1847-08-07 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -858,12 +965,17 @@ accident, Had not befallen lum !
 </td></tr></table>
 
 <hr />
+
 ## Truth and Poetry
+
 #### From _Arkansas State Democrat._
+
 #### 1848-05-12 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1849-07-21/ed-1/seq-1)
+
 #### 1849-07-21 &middot; Columbus, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -887,7 +999,9 @@ Had hs been reading o
 </tr></table>
 
 <hr />
+
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1849-07-21/ed-1/seq-4)
+
 #### 1849-07-21 &middot; Pickens Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -918,12 +1032,17 @@ W
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _New Hampshire statesman._
+
 #### 1852-03-20 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1857-01-22/ed-1/seq-1)
+
 #### 1857-01-22 &middot; Glasgow, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -950,7 +1069,9 @@ Would not have happened him.
 </tr></table>
 
 <hr />
+
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1857-02-20/ed-1/seq-1)
+
 #### 1857-02-20 &middot; Clarksburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -983,7 +1104,9 @@ Would not befallen him
 </tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1857-12-31/ed-1/seq-1)
+
 #### 1857-12-31 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1007,7 +1130,9 @@ llud he boon rending of t
 </tr></table>
 
 <hr />
+
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1865-01-11/ed-1/seq-4)
+
 #### 1865-01-11 &middot; Ebensburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1034,12 +1159,17 @@ Woald not have befalien him.
 </tr></table>
 
 <hr />
+
 ## Advertisements & Notices
+
 #### From _Hull Packet_
+
 #### 1867-04-26 &middot; Hull, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1867-05-23_40_21?page=2)
+
 #### 1867-05-23 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1060,7 +1190,9 @@ cent that accident would not have happened him
 </tr></table>
 
 <hr />
+
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1867-08-21/ed-1/seq-2)
+
 #### 1867-08-21 &middot; Newberry, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1080,7 +1212,9 @@ we&#x27;ll bet a cent that accident would no
 </tr></table>
 
 <hr />
+
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1867-09-14/ed-1/seq-1)
+
 #### 1867-09-14 &middot; Weaverville, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1099,7 +1233,9 @@ cent that accident would not have happened him
 </tr></table>
 
 <hr />
+
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1867-09-21/ed-1/seq-1)
+
 #### 1867-09-21 &middot; Shasta, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1119,7 +1255,9 @@ dent would not have happened him.—Lyon
 </tr></table>
 
 <hr />
+
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1867-09-27/ed-1/seq-1)
+
 #### 1867-09-27 &middot; Fremont, Sandusky County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1139,7 +1277,9 @@ accident would not have happened him
 </tr></table>
 
 <hr />
+
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1867-10-06/ed-1/seq-4)
+
 #### 1867-10-06 &middot; Keokuk, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1159,7 +1299,9 @@ cent that accident would not have happene
 </tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1867-10-30/ed-1/seq-2)
+
 #### 1867-10-30 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1178,7 +1320,9 @@ cent that accident would not have happened him.
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1868-01-01/ed-1/seq-1)
+
 #### 1868-01-01 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1202,7 +1346,9 @@ accident would not have happened him
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1868-12-03/ed-1/seq-2)
+
 #### 1868-12-03 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1234,7 +1380,9 @@ Had not befallen hint
 </tr></table>
 
 <hr />
+
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1870-01-19/ed-1/seq-3)
+
 #### 1870-01-19 &middot; Urbana, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1262,13 +1410,19 @@ Would not befallen him.
 </tr></table>
 
 <hr />
+
 ## VARIETIES.
+
 #### From _Trewman's Exeter Flying Post_
+
 #### 1870-06-08 &middot; Exeter, England
 [This text is not available under an open license.]
 <hr />
+
 ## [VITAL ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/166813642)
+
 #### From _Sydney Mail (NSW : 1860 - 1871)_
+
 #### 1870-09-10 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1289,8 +1443,11 @@ accident Had not befallen h
 </td></tr></table>
 
 <hr />
+
 ## [VITAL ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/123549533)
+
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
+
 #### 1870-10-08 &middot; Gundagai, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1311,8 +1468,11 @@ accident Had not befallen him !
 </td></tr></table>
 
 <hr />
+
 ## [VITAL ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/82100136)
+
 #### From _Warwick Examiner and Times (Qld. : 1867 - 1919)_
+
 #### 1870-11-26 &middot; Warwick, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1333,7 +1493,9 @@ accident Bad not befallen hi
 </td></tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1871-01-19/ed-1/seq-2)
+
 #### 1871-01-19 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1355,7 +1517,9 @@ bet a cent this accident had not befallen him
 </tr></table>
 
 <hr />
+
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1871-01-24/ed-1/seq-4)
+
 #### 1871-01-24 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1388,7 +1552,9 @@ Had not befallen him
 </tr></table>
 
 <hr />
+
 ## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1871-01-27/ed-1/seq-3)
+
 #### 1871-01-27 &middot; Rock Island, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1439,12 +1605,17 @@ Usd not befallen him
 </tr></table>
 
 <hr />
+
 ## Tal Advantage of Taking a Paper
+
 #### From _The Hinds County gazette._
+
 #### 1871-02-22 &middot; Raymond, Miss.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1871-03-02/ed-1/seq-4)
+
 #### 1871-03-02 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1471,8 +1642,11 @@ Had not befallen him
 </tr></table>
 
 <hr />
+
 ## [VITAL ADVANTAGE OF TAKING A PAPER.](http://trove.nla.gov.au/ndp/del/article/120722640)
+
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
+
 #### 1871-03-11 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1498,8 +1672,11 @@ Jim; &#x27;&#x27;?&#x27;?&#x27;? . ; &#x27; ! ; &#x27;?&#x27;&#x27;&#x27;? -I&#x
 </td></tr></table>
 
 <hr />
+
 ## [SELECT POETRY. THE ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/111142611)
+
 #### From _The Newcastle Chronicle (NSW : 1866 - 1876)_
+
 #### 1871-07-22 &middot; Newcastle, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1520,7 +1697,9 @@ neighbour Jim, &#x27; I&#x27;ll
 </td></tr></table>
 
 <hr />
+
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-09-28/ed-1/seq-4)
+
 #### 1871-09-28 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1544,7 +1723,9 @@ Would never have happened him
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1871-10-12_44_41?page=7)
+
 #### 1871-10-12 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1573,7 +1754,9 @@ Would never have happened him.
 </tr></table>
 
 <hr />
+
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1872-02-24/ed-1/seq-2)
+
 #### 1872-02-24 &middot; Frostburg, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1605,7 +1788,9 @@ Had not 1 efallcn him
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1872-07-27/ed-1/seq-1)
+
 #### 1872-07-27 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1632,8 +1817,11 @@ Had not befallen 1dm
 </tr></table>
 
 <hr />
+
 ## [Facts and Fancies. ONE RESULT OF TAKING A PAPER.](http://trove.nla.gov.au/ndp/del/article/27272267)
+
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
+
 #### 1872-08-17 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1654,8 +1842,11 @@ accident Had not beUlloa bim. A QUOD
 </td></tr></table>
 
 <hr />
+
 ## [VITAL ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/113592124)
+
 #### From _Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954)_
+
 #### 1872-08-21 &middot; Echuca, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1673,8 +1864,11 @@ news At home, like neighbor
 </td></tr></table>
 
 <hr />
+
 ## [VITAL ADVANTAGE OP TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/128493368)
+
 #### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
+
 #### 1872-08-30 &middot; Port Elliot, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1694,8 +1888,11 @@ home, like neighbor Jim, ? . I&#x27;ll
 </td></tr></table>
 
 <hr />
+
 ## [SELECTED POETRY. VITAL ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/108270105)
+
 #### From _Kapunda Herald and Northern Intelligencer (SA : 1864 - 1878)_
+
 #### 1872-09-03 &middot; Kapunda, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1715,8 +1912,11 @@ like neighboui Jim, TJ]
 </td></tr></table>
 
 <hr />
+
 ## [IMPROMPTU SHOTS AT FLYING GAME.](http://trove.nla.gov.au/ndp/del/article/77127677)
+
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
+
 #### 1872-09-11 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1739,8 +1939,11 @@ TH bet a cent this accident &#x27; ; -, : Ha
 </td></tr></table>
 
 <hr />
+
 ## [IMPOUNDING NOTICES.](http://trove.nla.gov.au/ndp/del/article/92766534)
+
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
+
 #### 1874-06-19 &middot; Clare, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1760,7 +1963,9 @@ neighbor .Tim, Id
 </td></tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1874-07-02/ed-1/seq-2)
+
 #### 1874-07-02 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1784,7 +1989,9 @@ Had he
 </tr></table>
 
 <hr />
+
 ## [From _Printers' Circular and Stationers' and Publishers' Gazette 1866-1890_](https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9?page=8)
+
 #### 1878-11-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1837,7 +2044,9 @@ Had not befallen him.
 </tr></table>
 
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1878-12-19/ed-1/seq-4)
+
 #### 1878-12-19 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1864,7 +2073,9 @@ Had not befallen him.
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1879-01-04/ed-1/seq-3)
+
 #### 1879-01-04 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1888,7 +2099,9 @@ had not befallen him. The moral of this i
 </tr></table>
 
 <hr />
+
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1879-01-10/ed-1/seq-1)
+
 #### 1879-01-10 &middot; Emporia, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1915,7 +2128,9 @@ Had not befallen him
 </tr></table>
 
 <hr />
+
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1879-01-27/ed-1/seq-1)
+
 #### 1879-01-27 &middot; Barton, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1948,7 +2163,9 @@ Had not befallen him
 </tr></table>
 
 <hr />
+
 ## [From _Louisiana capitolian._](https://chroniclingamerica.loc.gov/lccn/sn88064592/1879-02-08/ed-1/seq-4)
+
 #### 1879-02-08 &middot; Baton Rouge, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1977,12 +2194,17 @@ And killed him-as it shou&#x27;d
 </tr></table>
 
 <hr />
+
 ## Pebbles.
+
 #### From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_
+
 #### 1879-04-03 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1879-04-10/ed-1/seq-11)
+
 #### 1879-04-10 &middot; Chicago, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2014,8 +2236,11 @@ Ami killed him
 </tr></table>
 
 <hr />
+
 ## [Flotsam and Jetsam. A Warning.](http://trove.nla.gov.au/ndp/del/article/19780126)
+
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
+
 #### 1879-04-12 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2036,7 +2261,9 @@ accident Had not befallen him.
 </td></tr></table>
 
 <hr />
+
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1879-04-26/ed-1/seq-1)
+
 #### 1879-04-26 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2069,8 +2296,11 @@ I&#x27;d het a cent this sad, sa
 </tr></table>
 
 <hr />
+
 ## [D. D. Gazette. FRIDAY, MAY 1, 1879.](http://trove.nla.gov.au/ndp/del/article/76052055)
+
 #### From _The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)_
+
 #### 1879-05-16 &middot; Toowoomba, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2091,8 +2321,11 @@ accident had not befallen him. — [Mora
 </td></tr></table>
 
 <hr />
+
 ## [No title](http://trove.nla.gov.au/ndp/del/article/117579705)
+
 #### From _The Grenfell Record and Lachlan District Advertiser (NSW : 1876 - 1951)_
+
 #### 1879-05-17 &middot; Grenfell, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2108,7 +2341,9 @@ neighbour Jim, I&#x27;d
 </td></tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-06-19/ed-1/seq-1)
+
 #### 1879-06-19 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2142,7 +2377,9 @@ Had not befallen him
 </tr></table>
 
 <hr />
+
 ## [From _Lexington weekly intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn87052143/1879-06-28/ed-1/seq-3)
+
 #### 1879-06-28 &middot; Lexington, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2173,8 +2410,11 @@ bad not befallen blm.&quot;
 </tr></table>
 
 <hr />
+
 ## [COUNTRY NEWS. LONGFORD.](http://trove.nla.gov.au/ndp/del/article/90221982)
+
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
+
 #### 1893-05-04 &middot; Launceston, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2195,13 +2435,19 @@ this aooident Had not befallen him 1 S
 </td></tr></table>
 
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _The Galveston daily news._
+
 #### 1893-07-21 &middot; Houston [Tex.]
 [This text is not available under an open license.]
 <hr />
+
 ## [He Took a Paper. Published in the Herald 50 years ago.](http://trove.nla.gov.au/ndp/del/article/164368829)
+
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
+
 #### 1893-09-30 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2221,7 +2467,9 @@ bet a cent this accident Had not
 </td></tr></table>
 
 <hr />
+
 ## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1894-03-22/ed-1/seq-5)
+
 #### 1894-03-22 &middot; Princeton, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

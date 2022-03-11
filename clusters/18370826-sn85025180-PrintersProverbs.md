@@ -1,7 +1,12 @@
+
 # Printers Proverbs
+
 ### 165 reprints from 1837-08-26 to 1881-11-03 [cl8589934593]
+
 ## [Printers Proverbs](https://chroniclingamerica.loc.gov/lccn/sn85025180/1837-08-26/ed-1/seq-1/)
+
 #### From _The Columbia Democrat_
+
 #### 1837-08-26
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -18,7 +23,9 @@ PRINTERS PROVERBS
 </td></tr></table>
 
 <hr />
+
 ## [From _The Columbia Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025180/1837-08-26/ed-1/seq-1)
+
 #### 1837-08-26 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -64,12 +71,17 @@ villc
 </tr></table>
 
 <hr />
+
 ## Printers Proverbs
+
 #### From _Indiana journal._
+
 #### 1837-09-09 &middot; Indianapolis [Ind.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1837-09-14/ed-1/seq-2)
+
 #### 1837-09-14 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -106,7 +118,9 @@ shall be well w th thee and thy little ones,
 </tr></table>
 
 <hr />
+
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1837-09-20/ed-1/seq-1)
+
 #### 1837-09-20 &middot; Martinsburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -145,7 +159,9 @@ ones
 </tr></table>
 
 <hr />
+
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13?page=7)
+
 #### 1837-09-23 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -187,7 +203,9 @@ and thy little one
 </tr></table>
 
 <hr />
+
 ## [From _Iowa news._](https://chroniclingamerica.loc.gov/lccn/sn82015686/1837-10-07/ed-1/seq-4)
+
 #### 1837-10-07 &middot; Dubuque, Upper Mississippi Lead Mines, Wisconsin Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -236,7 +254,9 @@ well with thee and thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-10-07/ed-1/seq-1)
+
 #### 1837-10-07 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -262,7 +282,9 @@ o WKon thou tlnat write for his paper never i , hepi,y to mk. biddle
 </tr></table>
 
 <hr />
+
 ## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-10-07/ed-1/seq-1)
+
 #### 1837-10-07 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -276,7 +298,9 @@ resigned, which proved the firmness of his cbarac- j thee and thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _The Rhode-Island Republican._](https://chroniclingamerica.loc.gov/lccn/sn83025561/1837-10-11/ed-1/seq-3)
+
 #### 1837-10-11 &middot; Newport, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -311,7 +335,9 @@ with thee and thy little ones.
 </tr></table>
 
 <hr />
+
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1837-10-12/ed-1/seq-4)
+
 #### 1837-10-12 &middot; Newport, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -354,7 +380,9 @@ thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _Cheraw gazette._](https://chroniclingamerica.loc.gov/lccn/sn88084121/1837-10-18/ed-1/seq-3)
+
 #### 1837-10-18 &middot; Cheraw, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -394,7 +422,9 @@ be well with thee and t!iy little ones
 </tr></table>
 
 <hr />
+
 ## [From _Southern telegraph._](https://chroniclingamerica.loc.gov/lccn/sn87065592/1837-10-24/ed-1/seq-1)
+
 #### 1837-10-24 &middot; Rodney, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -433,17 +463,25 @@ thy lit&#x27; lo onus, llrornsrillc Banner
 </tr></table>
 
 <hr />
+
 ## Printers' Proverbs
+
 #### From _The Floridian._
+
 #### 1837-10-28 &middot; Tallahassee [Fla.]
 [This text is not available under an open license.]
 <hr />
+
 ## Printers' Proverbs
+
 #### From _Fayetteville observer._
+
 #### 1837-11-15 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1838-01-06/ed-1/seq-1)
+
 #### 1838-01-06 &middot; Columbus, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -489,17 +527,25 @@ it&quot;shall be welf with thee and thy littte ooes
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _Daily commercial bulletin and Missouri literary register._
+
 #### 1838-01-12 &middot; St. Louis, Mo.
 [This text is not available under an open license.]
 <hr />
+
 ## Miscellany
+
 #### From _New-Hampshire statesman and state journal._
+
 #### 1838-03-31 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Constantine republican._](https://chroniclingamerica.loc.gov/lccn/sn83016620/1838-05-23/ed-1/seq-1)
+
 #### 1838-05-23 &middot; Constantine, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -533,7 +579,9 @@ thou may est understand it.
 </tr></table>
 
 <hr />
+
 ## [From _The Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023252/1838-06-12/ed-1/seq-1)
+
 #### 1838-06-12 &middot; St. Johnsbury, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -566,8 +614,11 @@ and it shall bo woll with theo and thv little ones
 </tr></table>
 
 <hr />
+
 ## [EXTRACTS.](http://trove.nla.gov.au/ndp/del/article/12858984)
+
 #### From _The Sydney Herald (NSW : 1831 - 1842)_
+
 #### 1838-07-09 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -600,8 +651,11 @@ little ones.
 </td></tr></table>
 
 <hr />
+
 ## [PRINTER'S PROVERBS.](http://trove.nla.gov.au/ndp/del/article/65952703)
+
 #### From _The Cornwall Chronicle (Launceston, Tas. : 1835 - 1880)_
+
 #### 1838-08-18 &middot; Launceston, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -632,7 +686,9 @@ well with thec and thy little ones.
 </td></tr></table>
 
 <hr />
+
 ## [From _The Madisonian._](https://chroniclingamerica.loc.gov/lccn/sn82015015/1838-09-19/ed-1/seq-1)
+
 #### 1838-09-19 &middot; Washington City [i.e. Washington, D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -668,12 +724,17 @@ ones
 </tr></table>
 
 <hr />
+
 ## Printer's Proverbs
+
 #### From _Daily herald and gazette._
+
 #### 1838-10-18 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Piney Woods planter and Amite union literary reflector._](https://chroniclingamerica.loc.gov/lccn/sn83016939/1838-10-20/ed-1/seq-1)
+
 #### 1838-10-20 &middot; Liberty, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -714,7 +775,9 @@ and thy little ones. : &#x27; , &#x27; ;
 </tr></table>
 
 <hr />
+
 ## [From _Southern marksman._](https://chroniclingamerica.loc.gov/lccn/sn83016864/1839-01-01/ed-1/seq-3)
+
 #### 1839-01-01 &middot; Clinton, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -753,7 +816,9 @@ little ones
 </tr></table>
 
 <hr />
+
 ## [From _Lexington union._](https://chroniclingamerica.loc.gov/lccn/sn87065337/1839-01-12/ed-1/seq-3)
+
 #### 1839-01-12 &middot; Lexington, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -791,22 +856,33 @@ thv little one.
 </tr></table>
 
 <hr />
+
 ## Money Market.
+
 #### From _London Dispatch_
+
 #### 1839-03-03 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## Money Market.
+
 #### From _London Dispatch_
+
 #### 1839-03-03 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## SUMMARY of FOREIGN INTELLIGENCE.
+
 #### From _Derby Mercury_
+
 #### 1839-04-10 &middot; Derby, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1840-10-03/ed-1/seq-4)
+
 #### 1840-10-03 &middot; Fayetteville [N.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -849,7 +925,9 @@ oneB
 </tr></table>
 
 <hr />
+
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1841-11-03/ed-1/seq-1)
+
 #### 1841-11-03 &middot; Stroudsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -886,7 +964,9 @@ est understand it.
 </tr></table>
 
 <hr />
+
 ## [From _The Yazoo Whig and political register._](https://chroniclingamerica.loc.gov/lccn/sn87065695/1841-12-31/ed-1/seq-1)
+
 #### 1841-12-31 &middot; Yazoo City, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -928,7 +1008,9 @@ thy little ones. Richland Jef
 </tr></table>
 
 <hr />
+
 ## [From _Boon's Lick times._](https://chroniclingamerica.loc.gov/lccn/sn83016957/1842-02-12/ed-1/seq-2)
+
 #### 1842-02-12 &middot; Fayette, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -948,7 +1030,9 @@ And when thou goest out, tee to it tha
 </tr></table>
 
 <hr />
+
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn85042796/1842-06-29/ed-1/seq-3)
+
 #### 1842-06-29 &middot; Camden, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -978,7 +1062,9 @@ not understand it.
 </tr></table>
 
 <hr />
+
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1842-07-21/ed-1/seq-1)
+
 #### 1842-07-21 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1009,7 +1095,9 @@ mayest not understand it
 </tr></table>
 
 <hr />
+
 ## [From _Boon's Lick times._](https://chroniclingamerica.loc.gov/lccn/sn83016957/1842-09-03/ed-1/seq-2)
+
 #### 1842-09-03 &middot; Fayette, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1039,12 +1127,17 @@ est not understand it
 </tr></table>
 
 <hr />
+
 ## Domestic
+
 #### From _The Ohio observer._
+
 #### 1844-02-22 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1844-03-07/ed-1/seq-1)
+
 #### 1844-03-07 &middot; Martinsburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1064,7 +1157,9 @@ to himself
 </tr></table>
 
 <hr />
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1844-03-29/ed-1/seq-1)
+
 #### 1844-03-29 &middot; Woodsfield, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1102,7 +1197,9 @@ with thee and thy little ones.
 </tr></table>
 
 <hr />
+
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1844-04-19_25_16?page=3)
+
 #### 1844-04-19 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1132,7 +1229,9 @@ Neither peep over the outside while it is be
 </tr></table>
 
 <hr />
+
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7?page=3)
+
 #### 1844-04-26 &middot; Hartford [Conn.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1154,7 +1253,9 @@ have a care. to thyself that thou dost not touch
 </tr></table>
 
 <hr />
+
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7?page=3)
+
 #### 1844-04-26 &middot; Hartford [Conn.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1174,7 +1275,9 @@ Neither peep over the outside while it is bein
 </tr></table>
 
 <hr />
+
 ## [From _Independent Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016863/1844-04-27/ed-1/seq-1)
+
 #### 1844-04-27 &middot; Canton, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1201,12 +1304,17 @@ meet in tne aigiu 01 me prime
 </tr></table>
 
 <hr />
+
 ## Never enquire thou of the printer for the news, for behold it is his duty at the appointed time to give it unto thee without asking
+
 #### From _Milwaukie sentinel._
+
 #### 1844-05-11 &middot; Milwaukie [i.e. Milwaukee], Wisconsin
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Columbus Whig._](https://chroniclingamerica.loc.gov/lccn/sn87065034/1844-05-23/ed-1/seq-3)
+
 #### 1844-05-23 &middot; Columbus, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1237,7 +1345,9 @@ Neither peep over the outside whil
 </tr></table>
 
 <hr />
+
 ## [From _Holly Springs gazette._](https://chroniclingamerica.loc.gov/lccn/sn87090028/1844-05-25/ed-1/seq-4)
+
 #### 1844-05-25 &middot; Holly Springs, Misp. [i.e. Miss.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1264,7 +1374,9 @@ Neither peep over the outside while it i
 </tr></table>
 
 <hr />
+
 ## [From _The Columbia Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025180/1844-07-27/ed-1/seq-1)
+
 #### 1844-07-27 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1291,38 +1403,59 @@ Neither peep over the outside whil
 </tr></table>
 
 <hr />
+
 ## PRINTERS' PRECEPTS.
+
 #### From _The Catholic Telegraph (1831-1846)_
+
 #### 1844-10-26 &middot; Cincinnati
 [This text is not available under an open license.]
 <hr />
+
 ## PRINTERS' PRECEPTS.
+
 #### From _The Catholic Telegraph (1831-1846)_
+
 #### 1844-10-26 &middot; Cincinnati
 [This text is not available under an open license.]
 <hr />
+
 ## Varieties.
+
 #### From _Belfast News-Letter_
+
 #### 1844-12-24 &middot; Belfast, Ireland
 [This text is not available under an open license.]
 <hr />
+
 ## Varieties.
+
 #### From _Belfast News-Letter_
+
 #### 1844-12-24 &middot; Belfast, Ireland
 [This text is not available under an open license.]
 <hr />
+
 ## Sporting Intelligence.
+
 #### From _North Wales Chronicle_
+
 #### 1845-02-18 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## Sporting Intelligence.
+
 #### From _North Wales Chronicle_
+
 #### 1845-02-18 &middot; Bangor, Wales
 [This text is not available under an open license.]
 <hr />
+
 ## [PRINTERS' PRECEPTS.](http://trove.nla.gov.au/ndp/del/article/37155014)
+
 #### From _The Australian (Sydney, NSW : 1824 - 1848)_
+
 #### 1845-07-15 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1351,7 +1484,9 @@ theo and thy little ones.&#x27; Th
 </td></tr></table>
 
 <hr />
+
 ## [From _Boon's Lick times._](https://chroniclingamerica.loc.gov/lccn/sn83016957/1845-09-06/ed-1/seq-4)
+
 #### 1845-09-06 &middot; Fayette, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1404,8 +1539,11 @@ ones.
 </tr></table>
 
 <hr />
+
 ## [Domestic Intelligence.](http://trove.nla.gov.au/ndp/del/article/8757341)
+
 #### From _Colonial Times (Hobart, Tas. : 1828 - 1857)_
+
 #### 1845-09-19 &middot; Hobart, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1421,8 +1559,11 @@ keep such things unto himself. Do no
 </td></tr></table>
 
 <hr />
+
 ## [Domestic Intelligence.](http://trove.nla.gov.au/ndp/del/article/8757341)
+
 #### From _Colonial Times (Hobart, Tas. : 1828 - 1857)_
+
 #### 1845-09-19 &middot; Hobart, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1444,8 +1585,11 @@ well with theo and &#x27;? thy little ones
 </td></tr></table>
 
 <hr />
+
 ## [NEWSPAPER LITERATURE. UTILITY AND INFLUENCE OF THE PRESS.](http://trove.nla.gov.au/ndp/del/article/27452681)
+
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
+
 #### 1846-04-22 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1461,8 +1605,11 @@ keep such things unto himself. Do no
 </td></tr></table>
 
 <hr />
+
 ## [NEWSPAPER LITERATURE. UTILITY AND INFLUENCE OF THE PRESS.](http://trove.nla.gov.au/ndp/del/article/27452681)
+
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
+
 #### 1846-04-22 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1485,7 +1632,9 @@ little ones.&quot; When the Earl o
 </td></tr></table>
 
 <hr />
+
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-09-10_28_37?page=3)
+
 #### 1847-09-10 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1527,12 +1676,17 @@ thy little ones, — Exeter News Letter.
 </tr></table>
 
 <hr />
+
 ## Miscellaneous
+
 #### From _New Hampshire statesman._
+
 #### 1847-09-17 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1847-10-21/ed-1/seq-1)
+
 #### 1847-10-21 &middot; Martinsburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1570,12 +1724,17 @@ and thy little ones
 </tr></table>
 
 <hr />
+
 ## Printer's Proverbs
+
 #### From _Daily sentinel and gazette._
+
 #### 1847-10-22 &middot; Milwaukie [i.e. Milwaukee, Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn87070038/1847-10-29/ed-1/seq-1)
+
 #### 1847-10-29 &middot; Lancaster, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1614,12 +1773,17 @@ well withjthee and thy littleones. Exite
 </tr></table>
 
 <hr />
+
 ## Printer's Proverbs
+
 #### From _The Semi-weekly Natchez courier._
+
 #### 1847-10-29 &middot; Natchez, Miss.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Mississippi Creole._](https://chroniclingamerica.loc.gov/lccn/sn83016872/1847-11-13/ed-1/seq-1)
+
 #### 1847-11-13 &middot; Canton, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1676,7 +1840,9 @@ and thy little one
 </tr></table>
 
 <hr />
+
 ## [From _Juliet signal._](https://chroniclingamerica.loc.gov/lccn/sn84024082/1847-11-16/ed-1/seq-1)
+
 #### 1847-11-16 &middot; Juliet [i.e. Joliet], Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1713,7 +1879,9 @@ wilh thee and thy little &quot;, ones. Extr
 </tr></table>
 
 <hr />
+
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50?page=3)
+
 #### 1847-12-10 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1739,7 +1907,9 @@ est read it clearly.
 </tr></table>
 
 <hr />
+
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50?page=3)
+
 #### 1847-12-10 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1761,7 +1931,9 @@ self.
 </tr></table>
 
 <hr />
+
 ## [From _The Arkansas banner._](https://chroniclingamerica.loc.gov/lccn/sn82007022/1847-12-13/ed-1/seq-3)
+
 #### 1847-12-13 &middot; Little Rock, Ark.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1794,7 +1966,9 @@ and it shall b-* well with thee ar.j thy little ot.es.
 </tr></table>
 
 <hr />
+
 ## [From _The Charlotte journal._](https://chroniclingamerica.loc.gov/lccn/sn84020716/1848-05-10/ed-1/seq-1)
+
 #### 1848-05-10 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1841,22 +2015,33 @@ well with Ibce end thy little onei. Ex. pa
 </tr></table>
 
 <hr />
+
 ## Printers Proverbs
+
 #### From _The Floridian._
+
 #### 1848-05-20 &middot; Tallahassee [Fla.]
 [This text is not available under an open license.]
 <hr />
+
 ## GLEANINGS.
+
 #### From _Preston Chronicle_
+
 #### 1848-12-16 &middot; Preston, England
 [This text is not available under an open license.]
 <hr />
+
 ## THE LATE EXTRAORDINARY ROBBERY ON THE GREAT WESTERN RAILWAY.
+
 #### From _Freeman's Journal_
+
 #### 1849-01-09 &middot; Dublin, Ireland
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021169/1849-03-01/ed-1/seq-2)
+
 #### 1849-03-01 &middot; Newport, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1886,17 +2071,25 @@ with thee and thy liitle ones.
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _Daily national intelligencer._
+
 #### 1849-03-14 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## Printer's Proverbs
+
 #### From _Milwaukee sentinel and gazette._
+
 #### 1849-03-17 &middot; Milwaukee, [Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1849-03-17_4_26?page=5)
+
 #### 1849-03-17 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1931,12 +2124,17 @@ and pay in advance, and it shall be well with
 </tr></table>
 
 <hr />
+
 ## Printers' Proverbs
+
 #### From _Fayetteville observer._
+
 #### 1849-03-20 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Democratic banner._](https://chroniclingamerica.loc.gov/lccn/sn89066057/1849-03-26/ed-1/seq-4)
+
 #### 1849-03-26 &middot; Bowling Green, Pike County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1967,7 +2165,9 @@ well with thee and thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1849-03-29_20_13?page=3)
+
 #### 1849-03-29 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1986,12 +2186,17 @@ capable of appreciati.ig the noblest traits ot character, whp God called himself
 </tr></table>
 
 <hr />
+
 ## Camel Riding
+
 #### From _Mississippian_
+
 #### 1849-03-30 &middot; Jackson, Miss.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Wisconsin tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086768/1849-04-27/ed-1/seq-1)
+
 #### 1849-04-27 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2011,17 +2216,25 @@ such things to hint elf. When thou dost enter in
 </tr></table>
 
 <hr />
+
 ## Varieties.
+
 #### From _Northern Star_
+
 #### 1849-05-05 &middot; Leeds, England
 [This text is not available under an open license.]
 <hr />
+
 ## Variety.
+
 #### From _Christian Inquirer (1846-1864)_
+
 #### 1849-06-30 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1849-07-21/ed-1/seq-2)
+
 #### 1849-07-21 &middot; Fayetteville [N.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2053,7 +2266,9 @@ ones
 </tr></table>
 
 <hr />
+
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1849-11-03/ed-1/seq-4)
+
 #### 1849-11-03 &middot; Honolulu [Oahu], Hawaii
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2084,12 +2299,17 @@ and thy little ones. Picayune
 </tr></table>
 
 <hr />
+
 ## Variety
+
 #### From _Boston investigator._
+
 #### 1850-04-10 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Spirit of the Times; A Chronicle of the Turf, Agriculture, Field Sports, Literature and the Stage (1835-1861)_](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25?page=4)
+
 #### 1850-08-10 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2112,7 +2332,9 @@ dost not look at what gay be lying open, for that is not meet in the sigh
 </tr></table>
 
 <hr />
+
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1852-02-18/ed-1/seq-3)
+
 #### 1852-02-18 &middot; Clarksburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2144,17 +2366,25 @@ tle ones
 </tr></table>
 
 <hr />
+
 ## GRAND BALL IN PARIS.
+
 #### From _Belfast News-Letter_
+
 #### 1852-05-17 &middot; Belfast, Ireland
 [This text is not available under an open license.]
 <hr />
+
 ## FALL OF TWO HOUSES IN SEVENDIALS.
+
 #### From _Reynolds's  Newspaper_
+
 #### 1852-10-03 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1853-06-25/ed-1/seq-3)
+
 #### 1853-06-25 &middot; Thibodaux, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2187,7 +2417,9 @@ thee and thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _Daily evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-10-28/ed-1/seq-1)
+
 #### 1853-10-28 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2213,7 +2445,9 @@ not look at w
 </tr></table>
 
 <hr />
+
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1853-11-12/ed-1/seq-1)
+
 #### 1853-11-12 &middot; Plaquemine, Parish of Iberville [La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2237,7 +2471,9 @@ what may b
 </tr></table>
 
 <hr />
+
 ## [From _The Cedar Co. news-letter._](https://chroniclingamerica.loc.gov/lccn/sn85049620/1853-11-26/ed-1/seq-2)
+
 #### 1853-11-26 &middot; Tipton, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2254,7 +2490,9 @@ of
 </tr></table>
 
 <hr />
+
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1854-08-23/ed-1/seq-4)
+
 #### 1854-08-23 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2275,7 +2513,9 @@ quires hint to keep sucb thmgsto himself. -: !i
 </tr></table>
 
 <hr />
+
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1855-12-20/ed-1/seq-1)
+
 #### 1855-12-20 &middot; Upper Sandusky, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2308,7 +2548,9 @@ thou mayest understand it
 </tr></table>
 
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1856-02-14/ed-1/seq-1)
+
 #### 1856-02-14 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2343,7 +2585,9 @@ with thoe and thv little ones
 </tr></table>
 
 <hr />
+
 ## [From _Eaton Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028570/1856-02-28/ed-1/seq-1)
+
 #### 1856-02-28 &middot; Eaton, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2370,7 +2614,9 @@ in the sight of good
 </tr></table>
 
 <hr />
+
 ## [From _The Southern star._](https://chroniclingamerica.loc.gov/lccn/sn87065523/1856-03-29/ed-1/seq-3)
+
 #### 1856-03-29 &middot; Panola, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2392,7 +2638,9 @@ him who is the au hor of
 </tr></table>
 
 <hr />
+
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1856-04-11/ed-1/seq-1)
+
 #### 1856-04-11 &middot; Fremont, Sandusky County [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2426,7 +2674,9 @@ thee and thy little ones.
 </tr></table>
 
 <hr />
+
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1856-04-14/ed-1/seq-1)
+
 #### 1856-04-14 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2454,12 +2704,17 @@ little ones
 </tr></table>
 
 <hr />
+
 ## General Items
+
 #### From _The Weekly Raleigh register._
+
 #### 1856-04-23 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1856-05-03/ed-1/seq-2)
+
 #### 1856-05-03 &middot; Fayetteville [N.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2487,7 +2742,9 @@ little ones
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1856-05-08/ed-1/seq-2)
+
 #### 1856-05-08 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2514,7 +2771,9 @@ well with thee and thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _The Georgetown news._](https://chroniclingamerica.loc.gov/lccn/sn93052972/1856-05-22/ed-1/seq-1)
+
 #### 1856-05-22 &middot; Georgetown, El Dorado County, Cal.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2529,7 +2788,9 @@ thee and thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1856-05-24/ed-1/seq-4)
+
 #### 1856-05-24 &middot; Towanda, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2544,7 +2805,9 @@ thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1856-07-26/ed-1/seq-1)
+
 #### 1856-07-26 &middot; Brownville, Nemaha County, N.T. [Neb.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2580,7 +2843,9 @@ be well with thee and thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _The Nevada journal._](https://chroniclingamerica.loc.gov/lccn/sn84026884/1857-02-20/ed-1/seq-1)
+
 #### 1857-02-20 &middot; Nevada City, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2610,7 +2875,9 @@ with thee and with thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _The Winchester home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065088/1857-08-01/ed-1/seq-1)
+
 #### 1857-08-01 &middot; Winchester, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2647,7 +2914,9 @@ is not meet in the sight of the printer
 </tr></table>
 
 <hr />
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1857-09-06/ed-1/seq-3)
+
 #### 1857-09-06 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2686,12 +2955,17 @@ ones
 </tr></table>
 
 <hr />
+
 ## Printer's Proverbs
+
 #### From _The Weekly Raleigh register._
+
 #### 1857-09-09 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1857-09-17/ed-1/seq-1)
+
 #### 1857-09-17 &middot; Honolulu, Hawaiian Islands
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2713,7 +2987,9 @@ belrinz open, for that is not meet in thesight of goo
 </tr></table>
 
 <hr />
+
 ## [From _The Abbeville banner._](https://chroniclingamerica.loc.gov/lccn/sn85026945/1857-09-17/ed-1/seq-1)
+
 #### 1857-09-17 &middot; Abbeville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2750,7 +3026,9 @@ is not meet in the sight of the Devil an
 </tr></table>
 
 <hr />
+
 ## [From _Daily Iowa State Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014134/1857-10-17/ed-1/seq-2)
+
 #### 1857-10-17 &middot; Davenport, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2771,7 +3049,9 @@ that the truth would offend thee.&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _Daily Iowa State Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014134/1857-10-17/ed-1/seq-2)
+
 #### 1857-10-17 &middot; Davenport, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2788,7 +3068,9 @@ fer thoa maye* causc the printer much
 </tr></table>
 
 <hr />
+
 ## [From _The Burlington weekly hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn86060019/1857-10-28/ed-1/seq-4)
+
 #### 1857-10-28 &middot; Burlington, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2818,7 +3100,9 @@ not meet in the sight of the printer, and h
 </tr></table>
 
 <hr />
+
 ## [From _The weekly north Iowa times._](https://chroniclingamerica.loc.gov/lccn/sn84027238/1857-11-04/ed-1/seq-1)
+
 #### 1857-11-04 &middot; McGregor, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2857,8 +3141,11 @@ ter, and he might knock thee down
 </tr></table>
 
 <hr />
+
 ## [MISCELLANEA.](http://trove.nla.gov.au/ndp/del/article/77427839)
+
 #### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
+
 #### 1857-12-08 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2878,8 +3165,11 @@ foritiiad pay in advance.— Juktks
 </td></tr></table>
 
 <hr />
+
 ## [MISCELLANEA.](http://trove.nla.gov.au/ndp/del/article/78849901)
+
 #### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
+
 #### 1857-12-08 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2902,8 +3192,11 @@ it; and pay in advance.— American Paper
 </td></tr></table>
 
 <hr />
+
 ## [OFFENSIVE TRIALS.](http://trove.nla.gov.au/ndp/del/article/154835706)
+
 #### From _The Age (Melbourne, Vic. : 1854 - 1954)_
+
 #### 1857-12-10 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2931,7 +3224,9 @@ Paper, Wild Flow ehs.— Amongst the grea
 </td></tr></table>
 
 <hr />
+
 ## [From _Mariposa Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026978/1858-01-21/ed-1/seq-4)
+
 #### 1858-01-21 &middot; Mariposa, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2961,8 +3256,11 @@ with thee and thy little ones
 </tr></table>
 
 <hr />
+
 ## [DREADFUL SHIPWRECK.](http://trove.nla.gov.au/ndp/del/article/66047169)
+
 #### From _The Star (Ballarat, Vic. : 1855 - 1864)_
+
 #### 1858-03-22 &middot; Ballarat, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2992,8 +3290,11 @@ with thee and thy little ones. FRIGHTFU
 </td></tr></table>
 
 <hr />
+
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/87979815)
+
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
+
 #### 1858-04-12 &middot; Bendigo, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3023,8 +3324,11 @@ and thy little ones. Wanted. w w ANTE
 </td></tr></table>
 
 <hr />
+
 ## [Miscellanenus.](http://trove.nla.gov.au/ndp/del/article/136441556)
+
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
+
 #### 1858-04-15 &middot; Wollongong, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3053,8 +3357,11 @@ with thee and thy little ones &#x27;The Man
 </td></tr></table>
 
 <hr />
+
 ## [No title](http://trove.nla.gov.au/ndp/del/article/59868564)
+
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
+
 #### 1858-04-24 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3084,8 +3391,11 @@ and thy little onos. Exaus
 </td></tr></table>
 
 <hr />
+
 ## [THE LATE REV. T. F. LUCAS [COMMUNICATED.] " At Launceston, on 29th April, 1858, the Rav. T. F. LUCAS, aged 33 years."](http://trove.nla.gov.au/ndp/del/article/2462370)
+
 #### From _The Courier (Hobart, Tas. : 1840 - 1859)_
+
 #### 1858-05-03 &middot; Hobart, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3115,7 +3425,9 @@ tby littlo ones. STATISTIC.-Reference t
 </td></tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1858-06-10/ed-1/seq-1)
+
 #### 1858-06-10 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3149,7 +3461,9 @@ meet iu the sight of the printer, and he migh
 </tr></table>
 
 <hr />
+
 ## [From _The Kanzas news._](https://chroniclingamerica.loc.gov/lccn/sn85030219/1858-06-26/ed-1/seq-1)
+
 #### 1858-06-26 &middot; Emporia, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3187,7 +3501,9 @@ meet iu the sight of the printer, and h
 </tr></table>
 
 <hr />
+
 ## [From _Marshall County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056247/1858-07-01/ed-1/seq-1)
+
 #### 1858-07-01 &middot; Plymouth, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3221,8 +3537,11 @@ not meto in tho sight of tho printer, an
 </tr></table>
 
 <hr />
+
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/118247975)
+
 #### From _The Goulburn Herald and County of Argyle Advertiser (NSW : 1848 - 1859)_
+
 #### 1858-07-10 &middot; Goulburn, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3252,7 +3571,9 @@ and thy little ones. THE PATRIOTI
 </td></tr></table>
 
 <hr />
+
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn85026279/1858-07-23/ed-1/seq-1)
+
 #### 1858-07-23 &middot; Tiffin, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3286,7 +3607,9 @@ not moot lu the sight of tho printer, an
 </tr></table>
 
 <hr />
+
 ## [From _Theatrical Journal 1839-1871_](https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974?page=6)
+
 #### 1858-08-11
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3313,8 +3636,11 @@ advance,
 </tr></table>
 
 <hr />
+
 ## [The Family Companion.](http://trove.nla.gov.au/ndp/del/article/3717510)
+
 #### From _The Moreton Bay Courier (Brisbane, Qld. : 1846 - 1861)_
+
 #### 1858-08-18 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3344,7 +3670,9 @@ and thy &#x27;,&#x27;littléiQnM, * &#x27;tu THB VALU
 </td></tr></table>
 
 <hr />
+
 ## [From _The daily exchange._](https://chroniclingamerica.loc.gov/lccn/sn83009573/1858-08-21/ed-1/seq-1)
+
 #### 1858-08-21 &middot; Baltimore, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3366,7 +3694,9 @@ be lying open, for that is not meet in the sight o
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of the Times; A Chronicle of the Turf, Agriculture, Field Sports, Literature and the Stage (1835-1861)_](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28?page=9)
+
 #### 1858-08-21 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3388,7 +3718,9 @@ ing open, for that is not meet in the sight of good breeding. Neithe
 </tr></table>
 
 <hr />
+
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1858-09-02/ed-1/seq-1)
+
 #### 1858-09-02 &middot; Lancaster, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3418,7 +3750,9 @@ trouDle.
 </tr></table>
 
 <hr />
+
 ## [From _Preble County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85026031/1858-09-09/ed-1/seq-3)
+
 #### 1858-09-09 &middot; Eaton, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3445,7 +3779,9 @@ meet in the sight of good breeding
 </tr></table>
 
 <hr />
+
 ## [From _Meigs County telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038183/1858-11-30/ed-1/seq-4)
+
 #### 1858-11-30 &middot; Pomeroy [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3495,7 +3831,9 @@ not meet in the sight of the printer, aud h
 </tr></table>
 
 <hr />
+
 ## [From _Randolph County journal._](https://chroniclingamerica.loc.gov/lccn/sn86058541/1859-02-24/ed-1/seq-3)
+
 #### 1859-02-24 &middot; Winchester, Randolph County, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3521,7 +3859,9 @@ look at what may belying open, for i
 </tr></table>
 
 <hr />
+
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1859-07-28/ed-1/seq-1)
+
 #### 1859-07-28 &middot; Winchester, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3558,7 +3898,9 @@ that is not meet in tho sight of a prin
 </tr></table>
 
 <hr />
+
 ## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051343/1859-09-14/ed-1/seq-1)
+
 #### 1859-09-14 &middot; Des Arc, Ark.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3593,7 +3935,9 @@ mee
 </tr></table>
 
 <hr />
+
 ## [From _The penny press._](https://chroniclingamerica.loc.gov/lccn/sn85025750/1859-10-26/ed-1/seq-4)
+
 #### 1859-10-26 &middot; Cincinnati [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3626,7 +3970,9 @@ and thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _The Grand Haven news._](https://chroniclingamerica.loc.gov/lccn/sn85033622/1860-05-02/ed-1/seq-1)
+
 #### 1860-05-02 &middot; Grand Haven, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3652,8 +3998,11 @@ look at whnt m.ty bo lying opon ; for tha
 </tr></table>
 
 <hr />
+
 ## [The Golden Age. SATURDAY, SEPTEMBER 29, 1860. OUR PROPOSED TELEGRAPH.](http://trove.nla.gov.au/ndp/del/article/30630613)
+
 #### From _Queanbeyan Age and General Advertiser (NSW : 1860 - 1867)_
+
 #### 1860-09-29 &middot; Queanbeyan, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3684,8 +4033,11 @@ with thee and thy little ones. A MAx o
 </td></tr></table>
 
 <hr />
+
 ## [WAR SUPPLIES FOB GARIBALDI.](http://trove.nla.gov.au/ndp/del/article/63592449)
+
 #### From _Bathurst Free Press and Mining Journal (NSW : 1851 - 1904)_
+
 #### 1860-10-20 &middot; Bathurst, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3716,7 +4068,9 @@ little onos. A SnitRWD (Kafpiu) Lawteu
 </td></tr></table>
 
 <hr />
+
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1861-02-09/ed-1/seq-3)
+
 #### 1861-02-09 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3735,7 +4089,9 @@ printer, and ho might knock thee down.
 </tr></table>
 
 <hr />
+
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1861-03-13/ed-1/seq-1)
+
 #### 1861-03-13 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3764,7 +4120,9 @@ meet in the sight of the printer
 </tr></table>
 
 <hr />
+
 ## [From _Greenbrier weekly era._](https://chroniclingamerica.loc.gov/lccn/sn85059652/1861-03-23/ed-1/seq-1)
+
 #### 1861-03-23 &middot; Lewisburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3796,7 +4154,9 @@ the printer&#x27;s eye.
 </tr></table>
 
 <hr />
+
 ## [From _Juliet signal._](https://chroniclingamerica.loc.gov/lccn/sn84024082/1861-04-16/ed-1/seq-1)
+
 #### 1861-04-16 &middot; Juliet [i.e. Joliet], Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3826,7 +4186,9 @@ Pain People. There is a set of peopl
 </tr></table>
 
 <hr />
+
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1861-08-14/ed-1/seq-4)
+
 #### 1861-08-14 &middot; Ebensburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3852,7 +4214,9 @@ printer more trouble than thou thinkest
 </tr></table>
 
 <hr />
+
 ## [From _Washington statesman._](https://chroniclingamerica.loc.gov/lccn/sn84022799/1862-01-10/ed-1/seq-4)
+
 #### 1862-01-10 &middot; Walla Walla, Wash. Terr.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3882,12 +4246,17 @@ thy little ones
 </tr></table>
 
 <hr />
+
 ## ENGLAND.
+
 #### From _Glasgow Herald_
+
 #### 1862-05-16 &middot; Glasgow, Scotland
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1862-08-21/ed-1/seq-1)
+
 #### 1862-08-21 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3912,7 +4281,9 @@ touch of profane hands,
 </tr></table>
 
 <hr />
+
 ## [From _Cedar Falls gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025161/1862-09-12/ed-1/seq-1)
+
 #### 1862-09-12 &middot; Cedar Falls, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3942,7 +4313,9 @@ in the sight of tho priuter and ho migh
 </tr></table>
 
 <hr />
+
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1862-10-07/ed-1/seq-1)
+
 #### 1862-10-07 &middot; Hillsdale, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3975,7 +4348,9 @@ ter mucu trouble, and beside, it is pt-ous mat
 </tr></table>
 
 <hr />
+
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1862-10-17/ed-1/seq-1)
+
 #### 1862-10-17 &middot; Manitowoc, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4005,7 +4380,9 @@ is not meet in the -iglil of the printer
 </tr></table>
 
 <hr />
+
 ## [From _Washington statesman._](https://chroniclingamerica.loc.gov/lccn/sn84022799/1863-08-08/ed-1/seq-1)
+
 #### 1863-08-08 &middot; Walla Walla, Wash. Terr.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4019,7 +4396,9 @@ hold, it is his duty at the appointed time to give it
 </tr></table>
 
 <hr />
+
 ## [From _North Branch democrat._](https://chroniclingamerica.loc.gov/lccn/sn86081912/1865-10-25/ed-1/seq-4)
+
 #### 1865-10-25 &middot; Tunkhannock, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4039,7 +4418,9 @@ ones. ,
 </tr></table>
 
 <hr />
+
 ## [From _Sugar planter._](https://chroniclingamerica.loc.gov/lccn/sn86079096/1866-03-10/ed-1/seq-1)
+
 #### 1866-03-10 &middot; West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4073,7 +4454,9 @@ with thee and thy little ones
 </tr></table>
 
 <hr />
+
 ## [From _The new Northwest._](https://chroniclingamerica.loc.gov/lccn/sn84022673/1872-05-17/ed-1/seq-3)
+
 #### 1872-05-17 &middot; Portland, Or.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4107,7 +4490,9 @@ la notineef lnlhe,slgbt of. the printer
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1881-04-14/ed-1/seq-3)
+
 #### 1881-04-14 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4139,7 +4524,9 @@ is not mete,
 </tr></table>
 
 <hr />
+
 ## [From _The semi-weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85035561/1881-11-03/ed-1/seq-1)
+
 #### 1881-11-03 &middot; Mount Holly, Burlington Co., N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

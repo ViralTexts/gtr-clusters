@@ -1,7 +1,12 @@
+
 # Wanted--An Angel For Heaven
+
 ### 113 reprints from 1853-03-25 to 1879-08-16 [cl7]
+
 ## [Wanted--An Angel For Heaven](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-03-25/ed-1/seq-1/)
+
 #### From _Daily Evening Star_
+
 #### 1853-03-25
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -36,7 +41,9 @@ Mother of angels walk softly! Holy eyes watch thy footsteps, cherub forms bend t
 </td></tr></table>
 
 <hr />
+
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1853-01-27_34_4?page=0)
+
 #### 1853-01-27 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -82,7 +89,9 @@ them,” though “ they may not return to thee.”—(i
 </tr></table>
 
 <hr />
+
 ## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1853-01-28/ed-1/seq-1)
+
 #### 1853-01-28 &middot; Lewisburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -123,7 +132,9 @@ ings, and jour own radiant Isagel i
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1853-02-17_26_43?page=3)
+
 #### 1853-02-17 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -166,7 +177,9 @@ from taint; so shalt thou ‘ go to them,’ though
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1853-03-02/ed-1/seq-1)
+
 #### 1853-03-02 &middot; Cadiz, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -205,7 +218,9 @@ taint; so shalt thou &quot;goto them,&quot; tho&#x27;ttgl&quot;J
 </tr></table>
 
 <hr />
+
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1853-03-04/ed-1/seq-1)
+
 #### 1853-03-04 &middot; Athens, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -243,7 +258,9 @@ not return to thee. i anny fern
 </tr></table>
 
 <hr />
+
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1853-03-23/ed-1/seq-1)
+
 #### 1853-03-23 &middot; Martinsburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -258,7 +275,9 @@ There spoke the mother
 </tr></table>
 
 <hr />
+
 ## [From _Lynchburg daily Virginian._](https://chroniclingamerica.loc.gov/lccn/sn85034360/1853-03-24/ed-1/seq-1)
+
 #### 1853-03-24 &middot; Lynchburg [Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -296,7 +315,9 @@ return to thee.
 </tr></table>
 
 <hr />
+
 ## [From _Daily evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-03-25/ed-1/seq-1)
+
 #### 1853-03-25 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -369,17 +390,25 @@ taint; so eha.lt thou &quot;go to them,&quot; though
 </tr></table>
 
 <hr />
+
 ## Two in Heaven
+
 #### From _The Ripley bee._
+
 #### 1853-03-26 &middot; Ripley [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## Two in Heaven
+
 #### From _The daily South Carolinian._
+
 #### 1853-03-30 &middot; Columbia, S.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1853-03-31/ed-1/seq-1)
+
 #### 1853-03-31 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -423,7 +452,9 @@ f -th
 </tr></table>
 
 <hr />
+
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-02_32_1653?page=0)
+
 #### 1853-04-02 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -465,7 +496,9 @@ your own radiant child-angel in their mids
 </tr></table>
 
 <hr />
+
 ## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-04-05/ed-1/seq-6)
+
 #### 1853-04-05 &middot; Sumterville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -508,7 +541,9 @@ urn to thee. F.iNNY FsI. 0
 </tr></table>
 
 <hr />
+
 ## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-04-05/ed-1/seq-7)
+
 #### 1853-04-05 &middot; Sumterville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -552,12 +587,17 @@ turn to thee. FANNY FFILN
 </tr></table>
 
 <hr />
+
 ## By Magnetic Telegraph
+
 #### From _Daily morning news._
+
 #### 1853-04-06 &middot; Savannah, Ga.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1853-04-07/ed-1/seq-1)
+
 #### 1853-04-07 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -607,7 +647,9 @@ ures, children of earth
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1853-04-07_26_50?page=3)
+
 #### 1853-04-07 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -658,12 +700,17 @@ Can you
 </tr></table>
 
 <hr />
+
 ## Moral and Religious
+
 #### From _New Hampshire statesman._
+
 #### 1853-04-09 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1853-04-16/ed-1/seq-4)
+
 #### 1853-04-16 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -700,7 +747,9 @@ may not return to thee.--0/n*e Branch
 </tr></table>
 
 <hr />
+
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-16_32_1655?page=3)
+
 #### 1853-04-16 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -749,7 +798,9 @@ not return to thee.— Fanny Fern
 </tr></table>
 
 <hr />
+
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1853-04-21/ed-1/seq-2)
+
 #### 1853-04-21 &middot; Stroudsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -808,7 +859,9 @@ children of earth
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1853-05-10/ed-1/seq-1)
+
 #### 1853-05-10 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -853,17 +906,25 @@ earth
 </tr></table>
 
 <hr />
+
 ## Wanted—An Angel for Heaven
+
 #### From _The Weekly Raleigh register._
+
 #### 1853-05-11 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## Wanted
+
 #### From _The daily register._
+
 #### 1853-05-11 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1853-05-19/ed-1/seq-1)
+
 #### 1853-05-19 &middot; Bath, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -906,7 +967,9 @@ dren of earth !
 </tr></table>
 
 <hr />
+
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1853-05-20/ed-1/seq-4)
+
 #### 1853-05-20 &middot; Wilmington, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -954,7 +1017,9 @@ ly to your beautiful treasures, children of earth
 </tr></table>
 
 <hr />
+
 ## [From _Hannibal journal._](https://chroniclingamerica.loc.gov/lccn/sn89067494/1853-05-21/ed-1/seq-2)
+
 #### 1853-05-21 &middot; Hannibal, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -973,7 +1038,9 @@ New Haven, Conn., pronounced by the clierinhcd by tho hearth and at the board; t
 </tr></table>
 
 <hr />
+
 ## [From _Hannibal journal._](https://chroniclingamerica.loc.gov/lccn/sn89067494/1853-05-21/ed-1/seq-2)
+
 #### 1853-05-21 &middot; Hannibal, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -996,7 +1063,9 @@ lut t?&#x27;d, J,a co,nlM,nwnhaltihou ifto them,&quot; thouKh -Uhcy may no
 </tr></table>
 
 <hr />
+
 ## [From _Hannibal journal._](https://chroniclingamerica.loc.gov/lccn/sn87091069/1853-05-26/ed-1/seq-4)
+
 #### 1853-05-26 &middot; Hannibal, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1059,7 +1128,9 @@ return to thee
 </tr></table>
 
 <hr />
+
 ## [From _The Yazoo City weekly Whig._](https://chroniclingamerica.loc.gov/lccn/sn87065697/1853-06-24/ed-1/seq-1)
+
 #### 1853-06-24 &middot; Yazoo City, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1077,7 +1148,9 @@ long twined its - graceful foliage, about the their places &quot;not yet filled;
 </tr></table>
 
 <hr />
+
 ## [From _The Yazoo City weekly Whig._](https://chroniclingamerica.loc.gov/lccn/sn87065697/1853-06-24/ed-1/seq-1)
+
 #### 1853-06-24 &middot; Yazoo City, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1100,7 +1173,9 @@ though they may not &quot;return to thee,
 </tr></table>
 
 <hr />
+
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27?page=3)
+
 #### 1853-07-07 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1116,7 +1191,9 @@ there were no grief in the world ! &#x27; , The.Restorer used ■with the Xy
 </tr></table>
 
 <hr />
+
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27?page=3)
+
 #### 1853-07-07 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1131,7 +1208,9 @@ could ■ How lightly curl the flaxen locks on his When applying this prcp-crati
 </tr></table>
 
 <hr />
+
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27?page=3)
+
 #### 1853-07-07 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1149,7 +1228,9 @@ tressure.s. children of earth .—Lutheran Olks.
 </tr></table>
 
 <hr />
+
 ## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1853-08-25/ed-1/seq-4)
+
 #### 1853-08-25 &middot; Glasgow, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1189,7 +1270,9 @@ Qgli they may not return to thee
 </tr></table>
 
 <hr />
+
 ## [From _Muscatine journal._](https://chroniclingamerica.loc.gov/lccn/sn88059754/1853-09-16/ed-1/seq-4)
+
 #### 1853-09-16 &middot; Bloomington, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1212,12 +1295,17 @@ pillowed. &quot;Two in Heaven!&quot;
 </tr></table>
 
 <hr />
+
 ## Two in Heaves
+
 #### From _The Daily Scioto gazette._
+
 #### 1853-10-03 &middot; Chillicothe, Ohio
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1853-11-12/ed-1/seq-2)
+
 #### 1853-11-12 &middot; Thibodaux, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1255,13 +1343,19 @@ beautiful treasures, children of earth !
 </tr></table>
 
 <hr />
+
 ## Two in Heaven
+
 #### From _New Hampshire statesman._
+
 #### 1854-03-11 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## [FERN LEAVES, FROM FANNY'S PORTFOLIO. TWO IN HEAVEN.](http://trove.nla.gov.au/ndp/del/article/12954478)
+
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
+
 #### 1854-05-17 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1295,8 +1389,11 @@ them,&quot; though &quot; they may not return t
 </td></tr></table>
 
 <hr />
+
 ## [Miscellaneous Extracts.](http://trove.nla.gov.au/ndp/del/article/59759074)
+
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
+
 #### 1854-09-02 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1332,7 +1429,9 @@ t&#x27;-nonreturn-to theo.&quot;&#x27; .&#x27; &#x27;
 </td></tr></table>
 
 <hr />
+
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1854-09-21_25_38?page=3)
+
 #### 1854-09-21 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1349,22 +1448,33 @@ painting, to his heart’s content Yonder away successful and persevering of any
 </tr></table>
 
 <hr />
+
 ## An Angel for Haven
+
 #### From _The Ohio observer._
+
 #### 1854-09-27 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## An Angel for Haven
+
 #### From _The Ohio observer._
+
 #### 1854-09-27 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## Multiple News Items
+
 #### From _The Ohio observer._
+
 #### 1855-04-11 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1855-04-14/ed-1/seq-1)
+
 #### 1855-04-14 &middot; Ottawa, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1408,17 +1518,25 @@ dren of earth
 </tr></table>
 
 <hr />
+
 ## Wanted
+
 #### From _Fayetteville observer._
+
 #### 1855-04-26 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## By Magnetic Telegraph
+
 #### From _Daily morning news._
+
 #### 1855-05-17 &middot; Savannah, Ga.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1855-05-23/ed-1/seq-1)
+
 #### 1855-05-23 &middot; Ashland, Ashland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1447,7 +1565,9 @@ sive, darling hand that has wandered so
 </tr></table>
 
 <hr />
+
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1855-05-23/ed-1/seq-1)
+
 #### 1855-05-23 &middot; Ashland, Ashland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1466,7 +1586,9 @@ It shouts in your ear; its chariots rum
 </tr></table>
 
 <hr />
+
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1855-05-23/ed-1/seq-1)
+
 #### 1855-05-23 &middot; Ashland, Ashland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1496,7 +1618,9 @@ sures, children of earth ! &#x27; :-
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035102/1855-05-23/ed-1/seq-1)
+
 #### 1855-05-23 &middot; Ravenna, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1534,7 +1658,9 @@ taint; so shalt thou &quot; go to them;,,; though,
 </tr></table>
 
 <hr />
+
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1855-05-25/ed-1/seq-1)
+
 #### 1855-05-25 &middot; Fremont, Sandusky County [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1580,7 +1706,9 @@ children of earth!
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1855-05-30/ed-1/seq-1)
+
 #### 1855-05-30 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1624,7 +1752,9 @@ though they may not return to thee.
 </tr></table>
 
 <hr />
+
 ## [From _Valley Farmer (1849-1864)_](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-06_7_6?page=43)
+
 #### 1855-06-01 &middot; St. Louis
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1672,12 +1802,17 @@ msy not return to thee.”’
 </tr></table>
 
 <hr />
+
 ## VARIETIES.
+
 #### From _Jackson's Oxford Journal_
+
 #### 1855-06-16 &middot; Oxford, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1855-06-22/ed-1/seq-1)
+
 #### 1855-06-22 &middot; Athens, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1721,7 +1856,9 @@ of Earth
 </tr></table>
 
 <hr />
+
 ## [From _The Camden weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027851/1855-08-07/ed-1/seq-1)
+
 #### 1855-08-07 &middot; Camden, South-Carolina
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1768,7 +1905,9 @@ earth.? Fanny Fkrn, in Olive Branch
 </tr></table>
 
 <hr />
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-08-19/ed-1/seq-1)
+
 #### 1855-08-19 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1811,7 +1950,9 @@ earth. Olive Branch
 </tr></table>
 
 <hr />
+
 ## [From _American union._](https://chroniclingamerica.loc.gov/lccn/sn86092124/1855-08-25/ed-1/seq-1)
+
 #### 1855-08-25 &middot; Morgantown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1843,7 +1984,9 @@ though &quot; they may not return to thee.
 </tr></table>
 
 <hr />
+
 ## [From _True American._](https://chroniclingamerica.loc.gov/lccn/sn84028817/1855-08-29/ed-1/seq-4)
+
 #### 1855-08-29 &middot; Steubenville [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1882,7 +2025,9 @@ taint, so shalt thou &#x27;go to them,&#x27; though
 </tr></table>
 
 <hr />
+
 ## [From _Council Bluffs bugle._](https://chroniclingamerica.loc.gov/lccn/sn82014139/1855-10-02/ed-1/seq-5)
+
 #### 1855-10-02 &middot; City of Council Bluffs, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1909,7 +2054,9 @@ inrs, an 1 your own rclient child in tfceir
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of the times._](https://chroniclingamerica.loc.gov/lccn/sn84028880/1855-10-23/ed-1/seq-1)
+
 #### 1855-10-23 &middot; Ironton, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1943,7 +2090,9 @@ free from earth ; thou shalt go to them
 </tr></table>
 
 <hr />
+
 ## [From _Tribune and telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040307/1855-11-08/ed-1/seq-1)
+
 #### 1855-11-08 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1973,7 +2122,9 @@ to wipe away your tears ! In the solemn silenc
 </tr></table>
 
 <hr />
+
 ## [From _Tribune and telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040307/1855-11-08/ed-1/seq-1)
+
 #### 1855-11-08 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1989,12 +2140,17 @@ On her brow a glory crown.
 </tr></table>
 
 <hr />
+
 ## WANTED--AN ANGEL OF HEAVEN.
+
 #### From _German reformed messenger._
+
 #### 1855-11-21 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1855-12-11/ed-1/seq-1)
+
 #### 1855-12-11 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2025,7 +2181,9 @@ the grave we feel the force of the sickenin
 </tr></table>
 
 <hr />
+
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1855-12-11/ed-1/seq-1)
+
 #### 1855-12-11 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2042,7 +2200,9 @@ On her brow a glory crown
 </tr></table>
 
 <hr />
+
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1855-12-13/ed-1/seq-1)
+
 #### 1855-12-13 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2075,7 +2235,9 @@ of the grave we feel the force of the sicken
 </tr></table>
 
 <hr />
+
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1855-12-13/ed-1/seq-1)
+
 #### 1855-12-13 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2092,7 +2254,9 @@ On her brow a glory crown.&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1856-01-01/ed-1/seq-1)
+
 #### 1856-01-01 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2124,7 +2288,9 @@ night to wipe away your thars! In the solem
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1856-01-01/ed-1/seq-1)
+
 #### 1856-01-01 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2141,7 +2307,9 @@ On her brow a glory crown
 </tr></table>
 
 <hr />
+
 ## [From _Tribune and telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040307/1856-01-10/ed-1/seq-1)
+
 #### 1856-01-10 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2182,7 +2350,9 @@ On her brow n glory crown.
 </tr></table>
 
 <hr />
+
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1856-05-16/ed-1/seq-4)
+
 #### 1856-05-16 &middot; Irasburgh, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2223,12 +2393,17 @@ thee
 </tr></table>
 
 <hr />
+
 ## WHAT LITTLE HANDS CAN DO.
+
 #### From _Christian Observer (1840-1910)_
+
 #### 1856-10-16 &middot; Louisville
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1857-02-26/ed-1/seq-1)
+
 #### 1857-02-26 &middot; Jackson C.H., Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2266,7 +2441,9 @@ may not return to thee
 </tr></table>
 
 <hr />
+
 ## [From _Grass Valley telegraph._](https://chroniclingamerica.loc.gov/lccn/sn84026882/1857-02-28/ed-1/seq-1)
+
 #### 1857-02-28 &middot; Grass Valley [Calif.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2306,22 +2483,33 @@ though tb y may ; at return to thee
 </tr></table>
 
 <hr />
+
 ## TWO IN HEAVEN
+
 #### From _German reformed messenger._
+
 #### 1857-03-04 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## TWO IN HEAVEN
+
 #### From _German reformed messenger._
+
 #### 1857-03-04 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## TWO IN HEAVEN
+
 #### From _German reformed messenger._
+
 #### 1857-03-04 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1857-06-03/ed-1/seq-4)
+
 #### 1857-06-03 &middot; Edgefield, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2359,32 +2547,49 @@ they may not return to thee
 </tr></table>
 
 <hr />
+
 ## MISCELLANEA.
+
 #### From _Trewman's Exeter Flying Post_
+
 #### 1857-08-13 &middot; Exeter, England
 [This text is not available under an open license.]
 <hr />
+
 ## GENERAL INTELLIGENCE.
+
 #### From _Hull Packet_
+
 #### 1857-08-28 &middot; Hull, England
 [This text is not available under an open license.]
 <hr />
+
 ## The family.
+
 #### From _German reformed messenger._
+
 #### 1857-12-16 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## TWO IN HEAVEN.
+
 #### From _The liberator._
+
 #### 1858-05-07 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## TWO IN HEAVEN.
+
 #### From _The liberator._
+
 #### 1858-05-07 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Freeman's champion._](https://chroniclingamerica.loc.gov/lccn/sn95063180/1858-06-24/ed-1/seq-1)
+
 #### 1858-06-24 &middot; Prairie City, Kanzas
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2428,7 +2633,9 @@ nl return to thee
 </tr></table>
 
 <hr />
+
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1858-07-14/ed-1/seq-1)
+
 #### 1858-07-14 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2471,7 +2678,9 @@ turn to thee
 </tr></table>
 
 <hr />
+
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1858-08-19/ed-1/seq-1)
+
 #### 1858-08-19 &middot; Smyrna, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2514,7 +2723,9 @@ not return to you
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1858-08-19/ed-1/seq-1)
+
 #### 1858-08-19 &middot; Ottumwa, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2557,7 +2768,9 @@ return to you
 </tr></table>
 
 <hr />
+
 ## [From _Marshall County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056247/1858-09-16/ed-1/seq-1)
+
 #### 1858-09-16 &middot; Plymouth, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2602,7 +2815,9 @@ may not return to yo
 </tr></table>
 
 <hr />
+
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1859-04-01/ed-1/seq-1)
+
 #### 1859-04-01 &middot; Ellsworth, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2639,12 +2854,17 @@ r-» them.’ tii oign *tli# v may not return t
 </tr></table>
 
 <hr />
+
 ## A CONSCIENTIOUS RULER.
+
 #### From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_
+
 #### 1859-06-23 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1859-07-29/ed-1/seq-1)
+
 #### 1859-07-29 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2676,7 +2896,9 @@ away your teara ! In tho solcmn silenco o
 </tr></table>
 
 <hr />
+
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32?page=5)
+
 #### 1859-08-06 &middot; Lansing
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2707,7 +2929,9 @@ uway your tear! In the solemn silence of th
 </tr></table>
 
 <hr />
+
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32?page=5)
+
 #### 1859-08-06 &middot; Lansing
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2725,7 +2949,9 @@ On her brow ¢ glory crown
 </tr></table>
 
 <hr />
+
 ## [From _Sugar planter._](https://chroniclingamerica.loc.gov/lccn/sn86079096/1859-08-20/ed-1/seq-1)
+
 #### 1859-08-20 &middot; West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2775,7 +3001,9 @@ On herb-ro a glory crown. &quot; -x
 </tr></table>
 
 <hr />
+
 ## [From _Mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014488/1859-09-03/ed-1/seq-1)
+
 #### 1859-09-03 &middot; Placerville, El Dorado Co., Cal.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2806,17 +3034,25 @@ comes never in the hash ofnighttewipe away
 </tr></table>
 
 <hr />
+
 ## Moral and Religious
+
 #### From _New Hampshire statesman._
+
 #### 1859-09-10 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## Moral and Religious
+
 #### From _New Hampshire statesman._
+
 #### 1859-09-10 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1861-09-22/ed-1/seq-1)
+
 #### 1861-09-22 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2849,12 +3085,17 @@ not re&#x27;. urn Lo thee
 </tr></table>
 
 <hr />
+
 ## Two in Heaven
+
 #### From _Fayetteville observer._
+
 #### 1861-09-26 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn85029094/1864-06-11/ed-1/seq-1)
+
 #### 1864-06-11 &middot; Oskaloosa, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2904,7 +3145,9 @@ ures, children of earth
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Butte record._](https://chroniclingamerica.loc.gov/lccn/sn84038763/1867-03-23/ed-1/seq-3)
+
 #### 1867-03-23 &middot; Oroville [Calif.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2919,22 +3162,33 @@ tures tended by the good Shepherd of the heavenly fold.
 </tr></table>
 
 <hr />
+
 ## Stray Thoughts.
+
 #### From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_
+
 #### 1868-07-07 &middot; Cincinnati
 [This text is not available under an open license.]
 <hr />
+
 ## Religious Miscellany.
+
 #### From _Christian Advocate (1866-1905)_
+
 #### 1871-01-05 &middot; Chicago
 [This text is not available under an open license.]
 <hr />
+
 ## Two in Heaven.
+
 #### From _Christian Advocate (1866-1905)_
+
 #### 1874-11-26 &middot; Chicago
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1874-12-09/ed-1/seq-4)
+
 #### 1874-12-09 &middot; Richmond, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2969,12 +3223,17 @@ not return to thee.—Missionary Messenger
 </tr></table>
 
 <hr />
+
 ## TWO IN HEAVEN.
+
 #### From _Reformed Church messenger /_
+
 #### 1874-12-23 &middot; Philadelphia, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1875-01-07/ed-1/seq-4)
+
 #### 1875-01-07 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3009,7 +3268,9 @@ hough they may not rcturu to thee.?MissiontV
 </tr></table>
 
 <hr />
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1879-03-15/ed-1/seq-2)
+
 #### 1879-03-15 &middot; Shepherdstown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3027,7 +3288,9 @@ row never enter that blest land
 </tr></table>
 
 <hr />
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1879-08-16/ed-1/seq-3)
+
 #### 1879-08-16 &middot; Shepherdstown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 

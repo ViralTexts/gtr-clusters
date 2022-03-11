@@ -1,7 +1,12 @@
+
 # Have We a Fanny Fern Among Us
+
 ### 24 reprints from 1855-02-22 to 1855-03-01 [cl42949672966]
+
 ## [Have We a Fanny Fern Among Us](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-22/ed-1/seq-3/)
+
 #### From _The Alexandria Gazette_
+
 #### 1855-02-22
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -15,37 +20,57 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 </td></tr></table>
 
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _The daily Cleveland herald._
+
 #### 1855-02-16 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _The daily Cleveland herald._
+
 #### 1855-02-16 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _The daily Cleveland herald._
+
 #### 1855-02-17 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _The Boston daily Atlas._
+
 #### 1855-02-17 &middot; Boston [Mass.]
 [This text is not available under an open license.]
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _The Boston daily Atlas._
+
 #### 1855-02-17 &middot; Boston [Mass.]
 [This text is not available under an open license.]
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _The daily Cleveland herald._
+
 #### 1855-02-19 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Daily American organ._](https://chroniclingamerica.loc.gov/lccn/sn85042002/1855-02-21/ed-1/seq-3)
+
 #### 1855-02-21 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -61,7 +86,9 @@ and Ruth Hall; and the reader will find that the
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-21/ed-1/seq-3)
+
 #### 1855-02-21 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -91,7 +118,9 @@ cure a copy. GEO. e. y ren&lt; h.
 </tr></table>
 
 <hr />
+
 ## [From _The national era._](https://chroniclingamerica.loc.gov/lccn/sn84026752/1855-02-22/ed-1/seq-3)
+
 #### 1855-02-22 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -109,7 +138,9 @@ Fanny Fern
 </tr></table>
 
 <hr />
+
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-02-22/ed-1/seq-3)
+
 #### 1855-02-22 &middot; Bath, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -125,7 +156,9 @@ ny is not Ruth Hall, who is Fanny Fern ? The life an
 </tr></table>
 
 <hr />
+
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-02-22/ed-1/seq-3)
+
 #### 1855-02-22 &middot; Bath, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -140,7 +173,9 @@ AUTHOR OF FERN LEAVES AND RUTH HALL
 </tr></table>
 
 <hr />
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-02-22/ed-1/seq-2)
+
 #### 1855-02-22 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -159,7 +194,9 @@ THE LIFE and BEAUTIES ofFANJi Y FER
 </tr></table>
 
 <hr />
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-02-22/ed-1/seq-2)
+
 #### 1855-02-22 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -175,7 +212,9 @@ Author or Fern I.enes and Ruth Hal
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-22/ed-1/seq-3)
+
 #### 1855-02-22 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -200,12 +239,17 @@ j teh VI [Pied W hig \ Rockingham Reg
 </tr></table>
 
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _Daily national intelligencer._
+
 #### 1855-02-23 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-26/ed-1/seq-4)
+
 #### 1855-02-26 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -234,12 +278,17 @@ teb v.&#x27; 1 [Pied. Whig A Rockingham Reg
 </tr></table>
 
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _Daily national intelligencer._
+
 #### 1855-02-26 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-27/ed-1/seq-4)
+
 #### 1855-02-27 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -265,7 +314,9 @@ lures oi the chat miiig and brilliant
 </tr></table>
 
 <hr />
+
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-03-01/ed-1/seq-3)
+
 #### 1855-03-01 &middot; Bath, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -282,7 +333,9 @@ ny is not Ruth Hall, who is Fanny Fern ? The life an
 </tr></table>
 
 <hr />
+
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-03-01/ed-1/seq-3)
+
 #### 1855-03-01 &middot; Bath, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -299,7 +352,9 @@ AUTHOR OF PERN LEAVES AND RUTII HALL
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-03-01/ed-1/seq-4)
+
 #### 1855-03-01 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -324,12 +379,17 @@ teh 21 [ Pied. Whig &amp; Rockingham Reg
 </tr></table>
 
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _Bangor daily Whig & courier._
+
 #### 1855-03-01 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3?page=19)
+
 #### 1855-03-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 

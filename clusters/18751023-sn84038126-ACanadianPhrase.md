@@ -1,7 +1,12 @@
+
 # A Canadian Phrase
+
 ### 52 reprints from 1875-10-23 to 1882-03-10 [cl58]
+
 ## [A Canadian Phrase](https://chroniclingamerica.loc.gov/lccn/sn84038126/1875-10-23/ed-1/seq-2/)
+
 #### From _The Benton Record_
+
 #### 1875-10-23
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10,22 +15,33 @@ A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Du
 </td></tr></table>
 
 <hr />
+
 ## EPITOME OF OPINION IN THE MORNING JOURNALS.
+
 #### From _Pall Mall Gazette_
+
 #### 1874-09-24 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## THE GOVERNOR-GENERAL OF CANADA ON THE DOMINION.
+
 #### From _Belfast News-Letter_
+
 #### 1874-09-25 &middot; Belfast, Ireland
 [This text is not available under an open license.]
 <hr />
+
 ## LORD DUFFERIN ON CANADA.
+
 #### From _Daily News_
+
 #### 1874-09-25 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413?page=0)
+
 #### 1874-09-26
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -47,7 +63,9 @@ In every line Lord Dufferin gives proof of the long-transmitte
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84023296/1874-11-18/ed-1/seq-1)
+
 #### 1874-11-18 &middot; Woodstock, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -79,12 +97,17 @@ too many children. Hero I was ap
 </tr></table>
 
 <hr />
+
 ## A Canadian Phrase
+
 #### From _Lowell daily citizen and news._
+
 #### 1874-11-20 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The herald and mail._](https://chroniclingamerica.loc.gov/lccn/sn86053406/1874-11-27/ed-1/seq-1)
+
 #### 1874-11-27 &middot; Columbia, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -133,7 +156,9 @@ been telling Emily.&quot; Harper&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295?page=148)
+
 #### 1874-12-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -161,7 +186,9 @@ what I&#x27;ve been telling Emily.
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295?page=148)
+
 #### 1874-12-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -179,7 +206,9 @@ other. On his voyage out, being called upon | evil spirit which tormented her. �
 </tr></table>
 
 <hr />
+
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295?page=148)
+
 #### 1874-12-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -192,7 +221,9 @@ ferences between the old country and their new | woman was punctual in her atten
 </tr></table>
 
 <hr />
+
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-12-02/ed-1/seq-1)
+
 #### 1874-12-02 &middot; Somerset, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -233,7 +264,9 @@ had the anecdote made familiar b
 </tr></table>
 
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1874-12-02/ed-1/seq-1)
+
 #### 1874-12-02 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -289,8 +322,11 @@ the papers, an I one hear- every where.
 </tr></table>
 
 <hr />
+
 ## [LORD DUFFERIN ON CANADA.](http://trove.nla.gov.au/ndp/del/article/169514225)
+
 #### From _The Telegraph (Brisbane, Qld. : 1872 - 1947)_
+
 #### 1874-12-02 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -313,7 +349,9 @@ oried put, &#x27; Right you are, sir,
 </td></tr></table>
 
 <hr />
+
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1874-12-03/ed-1/seq-1)
+
 #### 1874-12-03 &middot; Ottumwa, Wapello County, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -363,7 +401,9 @@ telling Emily.&quot;— Hurptn Ifogwfnyo
 </tr></table>
 
 <hr />
+
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1874-12-03/ed-1/seq-4)
+
 #### 1874-12-03 &middot; Tipton, Cedar Co., Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -409,7 +449,9 @@ oftentimes irrelevant exclamation:
 </tr></table>
 
 <hr />
+
 ## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1874-12-04/ed-1/seq-1)
+
 #### 1874-12-04 &middot; Independence, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -449,7 +491,9 @@ back, exclaiming in triumphant tones
 </tr></table>
 
 <hr />
+
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1874-12-04/ed-1/seq-5)
+
 #### 1874-12-04 &middot; Stanford, Ky.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -466,7 +510,9 @@ Airm with the onion juice and half a nian could scarcely have too many chil
 </tr></table>
 
 <hr />
+
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1874-12-04/ed-1/seq-5)
+
 #### 1874-12-04 &middot; Stanford, Ky.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -491,7 +537,9 @@ paters, and now one bears rvrrywhere,
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1874-12-05/ed-1/seq-1)
+
 #### 1874-12-05 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -533,7 +581,9 @@ hears everywhere:
 </tr></table>
 
 <hr />
+
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1874-12-06/ed-1/seq-1)
+
 #### 1874-12-06 &middot; New Orleans [La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -571,12 +621,17 @@ everywhere, &quot;That&#x27;s what I&#x27;ve been tellin
 </tr></table>
 
 <hr />
+
 ## A Canadian Phrase
+
 #### From _Cleveland daily herald._
+
 #### 1874-12-07 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-12-09/ed-1/seq-1)
+
 #### 1874-12-09 &middot; Somerset, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -625,7 +680,9 @@ I&#x27;ve been telling Emily.1
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1874-12-12/ed-1/seq-2)
+
 #### 1874-12-12 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -674,7 +731,9 @@ I&#x27;ve here telling Emily.&quot;—Harper&#x27; Mag
 </tr></table>
 
 <hr />
+
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1874-12-17/ed-1/seq-1)
+
 #### 1874-12-17 &middot; Tiffin, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -718,7 +777,9 @@ telling Emily,
 </tr></table>
 
 <hr />
+
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1874-12-18/ed-1/seq-2)
+
 #### 1874-12-18 &middot; Chicago, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -757,7 +818,9 @@ cuerywhoro, “TJmt’n what I’vo boon tollin
 </tr></table>
 
 <hr />
+
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1874-12-18/ed-1/seq-1)
+
 #### 1874-12-18 &middot; Deer Lodge, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -794,12 +857,17 @@ appreng hmp , +ito e by º
 </tr></table>
 
 <hr />
+
 ## That's What I've Been Telling Emily
+
 #### From _Daily evening bulletin._
+
 #### 1874-12-19 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1874-12-25/ed-1/seq-1)
+
 #### 1874-12-25 &middot; Findlay, Hancock County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -844,13 +912,19 @@ Emily.&quot; Harper&#x27;a Mmjazine
 </tr></table>
 
 <hr />
+
 ## That's What I've Been Telling Emily
+
 #### From _Inter ocean._
+
 #### 1874-12-27 &middot; Chicago, Ill.
 [This text is not available under an open license.]
 <hr />
+
 ## [The Cornwall Chronicle WITH WHICH IS INCORPORATED THE LAUNCESTON TIMES. MONDAY, DECEMBER 28, 1874.](http://trove.nla.gov.au/ndp/del/article/66077830)
+
 #### From _The Cornwall Chronicle (Launceston, Tas. : 1835 - 1880)_
+
 #### 1874-12-28 &middot; Launceston, Tasmania
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -883,7 +957,9 @@ That&#x27;ll what I&#x27;ve been Idling Kmlly.&#x27;
 </td></tr></table>
 
 <hr />
+
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1875-01-09/ed-1/seq-7)
+
 #### 1875-01-09 &middot; Ottawa, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -897,7 +973,9 @@ foruive nn-: I saw that them was uo mercvl new home, than by the fact that when 
 </tr></table>
 
 <hr />
+
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1875-01-09/ed-1/seq-7)
+
 #### 1875-01-09 &middot; Ottawa, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -913,7 +991,9 @@ al io, when I was further greeted with an im-! his ear. a bloody shirt bosom, a 
 </tr></table>
 
 <hr />
+
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1875-01-18/ed-1/seq-2)
+
 #### 1875-01-18 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -957,7 +1037,9 @@ telling L.raily. Harper i
 </tr></table>
 
 <hr />
+
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207?page=13)
+
 #### 1875-02-06
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -974,8 +1056,11 @@ I’ve been telling Emily.
 </tr></table>
 
 <hr />
+
 ## [THE VICTORIAN INEBIATES' ASYLUM.](http://trove.nla.gov.au/ndp/del/article/100847067)
+
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
+
 #### 1875-02-06 &middot; Goulburn, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1009,7 +1094,9 @@ papers, and one hears everywhere,
 </td></tr></table>
 
 <hr />
+
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1875-02-14/ed-1/seq-5)
+
 #### 1875-02-14 &middot; Silver City, Nev.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1056,8 +1143,11 @@ l ing Emily.
 </tr></table>
 
 <hr />
+
 ## [TOPICS OF THE DAY](http://trove.nla.gov.au/ndp/del/article/28738587)
+
 #### From _The South Australian Advertiser (Adelaide, SA : 1858 - 1889)_
+
 #### 1875-02-23 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1097,8 +1187,11 @@ btentelling Emily.&#x27;&quot; &quot; His Excellenc
 </td></tr></table>
 
 <hr />
+
 ## [VICTORIAN NOTES.](http://trove.nla.gov.au/ndp/del/article/77175317)
+
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
+
 #### 1875-02-24 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1129,8 +1222,11 @@ papers, and one hears everywhere/1
 </td></tr></table>
 
 <hr />
+
 ## [AN INTERVIEW WITH MARK TWAIN ABOUT HIS AGE.](http://trove.nla.gov.au/ndp/del/article/96883869)
+
 #### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
+
 #### 1875-02-25 &middot; Port Elliot, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1174,8 +1270,11 @@ That&#x27;s what I&#x27;ve been tellin&#x27; Emily.
 </td></tr></table>
 
 <hr />
+
 ## [THE MINISTER OF LANDS AND THE RESIDENCE CLAUSE.](http://trove.nla.gov.au/ndp/del/article/115186945)
+
 #### From _Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954)_
+
 #### 1875-02-27 &middot; Echuca, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1211,8 +1310,11 @@ been telling Emily.
 </td></tr></table>
 
 <hr />
+
 ## [NEWS OF THE WEEK](http://trove.nla.gov.au/ndp/del/article/93962030)
+
 #### From _South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)_
+
 #### 1875-02-27 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1252,7 +1354,9 @@ IVe been telling Emily.&#x27; &#x27; The Unite
 </td></tr></table>
 
 <hr />
+
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1875-03-05/ed-1/seq-2)
+
 #### 1875-03-05 &middot; Bolivar, Hardeman County, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1295,7 +1399,9 @@ Emily.
 </tr></table>
 
 <hr />
+
 ## [From _The Dallas daily herald._](https://chroniclingamerica.loc.gov/lccn/sn83025733/1875-03-05/ed-1/seq-2)
+
 #### 1875-03-05 &middot; Dallas, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1345,8 +1451,11 @@ I&#x27;ve Iteen telling Emily.
 </tr></table>
 
 <hr />
+
 ## [HOW TO JUDGE WOOL.](http://trove.nla.gov.au/ndp/del/article/108368361)
+
 #### From _Kapunda Herald and Northern Intelligencer (SA : 1864 - 1878)_
+
 #### 1875-03-05 &middot; Kapunda, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1385,7 +1494,9 @@ beeu tellin &#x27; Emily.
 </td></tr></table>
 
 <hr />
+
 ## [From _Arizona citizen._](https://chroniclingamerica.loc.gov/lccn/sn82014896/1875-03-06/ed-1/seq-4)
+
 #### 1875-03-06 &middot; Tucson, Pima County, A.T. [i.e. Ariz.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1417,7 +1528,9 @@ improving thump on the back by a stal-jwell selected stock of DRY GOODb
 </tr></table>
 
 <hr />
+
 ## [From _Arizona citizen._](https://chroniclingamerica.loc.gov/lccn/sn82014896/1875-03-06/ed-1/seq-4)
+
 #### 1875-03-06 &middot; Tucson, Pima County, A.T. [i.e. Ariz.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1431,8 +1544,11 @@ been telling Emily,&quot; having had the anee- we wn sell at the VERY LOWEST pri
 </tr></table>
 
 <hr />
+
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/92768808)
+
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
+
 #### 1875-03-09 &middot; Clare, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1471,7 +1587,9 @@ been tellin&#x27; Emily.&quot; We (Register) hav
 </td></tr></table>
 
 <hr />
+
 ## [From _The Dallas weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022279/1875-03-13/ed-1/seq-4)
+
 #### 1875-03-13 &middot; Dallas, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1518,8 +1636,11 @@ I&#x27;ve been telling Emily.
 </tr></table>
 
 <hr />
+
 ## [WHAT I'VE BEEN TELLING EMILY.](http://trove.nla.gov.au/ndp/del/article/71557069)
+
 #### From _The North Eastern Ensign (Benalla, Vic. : 1872 - 1938)_
+
 #### 1875-03-16 &middot; Benalla, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1560,7 +1681,9 @@ been telling Emly.;,e&#x27;.,.:a, ,,, t .::&#x27;A
 </td></tr></table>
 
 <hr />
+
 ## [From _The Benton record._](https://chroniclingamerica.loc.gov/lccn/sn84038126/1875-10-23/ed-1/seq-2)
+
 #### 1875-10-23 &middot; Benton, M.T. [Mont.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1600,8 +1723,11 @@ p esand one hears everywhere, &quot;That&#x27;
 </tr></table>
 
 <hr />
+
 ## Lord Dufferin's Speeches And Addresses.*
+
 #### From _The Times_
+
 #### 1882-03-10 &middot; London, England
 [This text is not available under an open license.]
 <hr />

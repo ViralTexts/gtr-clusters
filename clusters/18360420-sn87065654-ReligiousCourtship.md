@@ -1,7 +1,12 @@
+
 # Religious Courtship
+
 ### 137 reprints from 1836-04-20 to 1899-12-15 [cl114]
+
 ## [Religious Courtship](https://chroniclingamerica.loc.gov/lccn/sn87065654/1839-04-20/ed-1/seq-4/)
+
 #### From _Piney Woods Planter_
+
 #### 1836-04-20
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -20,7 +25,9 @@ From the above interview the marriage took place the ensuing week.
 </td></tr></table>
 
 <hr />
+
 ## [From _Weekly Visitor, or Ladies' Miscellany (1802-1806)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57?page=6)
+
 #### 1803-12-31 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -47,7 +54,9 @@ marriage took filace the week following.
 </tr></table>
 
 <hr />
+
 ## [From _Lady's Weekly Miscellany (1806-1810)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25?page=11)
+
 #### 1809-04-15 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -77,7 +86,9 @@ onthe spot. In order to effec
 </tr></table>
 
 <hr />
+
 ## [From _Lady's Weekly Miscellany (1806-1810)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25?page=11)
+
 #### 1809-04-15 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -111,7 +122,9 @@ lowing.
 </tr></table>
 
 <hr />
+
 ## [From _The Portland gazette._](https://chroniclingamerica.loc.gov/lccn/sn83016083/1823-07-08/ed-1/seq-1)
+
 #### 1823-07-08 &middot; Portland, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -154,7 +167,9 @@ place tlic week following
 </tr></table>
 
 <hr />
+
 ## [From _Christian Repository (1821-1824)_](https://iiif.archivelab.org/iiif/sim_circular_1823-07-11_2_66?page=2)
+
 #### 1823-07-11 &middot; Wilmington
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -203,7 +218,9 @@ From the above interview the marriage
 </tr></table>
 
 <hr />
+
 ## [From _Phenix gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025006/1826-10-31/ed-1/seq-3)
+
 #### 1826-10-31 &middot; Alexandria [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -245,12 +262,17 @@ the marriage took place the ensuing week
 </tr></table>
 
 <hr />
+
 ## Religious Courtship
+
 #### From _Aurora and Franklin gazette._
+
 #### 1826-11-04 &middot; Philadelphia, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Martinsburg gazette and public advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85059526/1826-11-09/ed-1/seq-4)
+
 #### 1826-11-09 &middot; Martinsburg, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -290,7 +312,9 @@ and speak face !o taco ”
 </tr></table>
 
 <hr />
+
 ## [From _The Escritoir : or Masonic and miscellaneous album._](https://iiif.archivelab.org/iiif/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43?page=7)
+
 #### 1826-11-18 &middot; Albany, N.Y.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -326,7 +350,9 @@ look place the ensuing week.
 </tr></table>
 
 <hr />
+
 ## [From _The Album and Ladies' Weekly Gazette (1826-1827)_](https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1826-11-22_1_25?page=4)
+
 #### 1826-11-22 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -373,7 +399,9 @@ suing week.
 </tr></table>
 
 <hr />
+
 ## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1826-11-25_3_26?page=3)
+
 #### 1826-11-25 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -409,12 +437,17 @@ view, the marriage took place the ensuing week.--
 </tr></table>
 
 <hr />
+
 ## Gariep
+
 #### From _Bangor register._
+
 #### 1826-11-30 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Saturday evening post._](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49?page=0)
+
 #### 1826-12-09 &middot; Philadelphia [Pa.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -443,7 +476,9 @@ lan: Me politely handed his fair neighbor
 </tr></table>
 
 <hr />
+
 ## [From _The Saturday evening post._](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49_0?page=0)
+
 #### 1826-12-09 &middot; Philadelphia [Pa.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -464,7 +499,9 @@ Sudden and violent passion, was desirous
 </tr></table>
 
 <hr />
+
 ## [From _Masonic Mirror: and Mechanics' Intelligencer (1824-1827)_](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=3)
+
 #### 1826-12-16 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -494,7 +531,9 @@ I intended to be curious, they omitted to print the entering into a courtship on
 </tr></table>
 
 <hr />
+
 ## [From _Masonic Mirror: and Mechanics' Intelligencer (1824-1827)_](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=4)
+
 #### 1826-12-16 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -512,7 +551,9 @@ To let their fame stranger ?** He returned the book, pointing to the
 </tr></table>
 
 <hr />
+
 ## [From _Masonic Mirror: and Mechanics' Intelligencer (1824-1827)_](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=4)
+
 #### 1826-12-16 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -527,7 +568,9 @@ the marriage took place the ensuing week,
 </tr></table>
 
 <hr />
+
 ## [From _Bowen's Boston News - Letter, and City Record (1825-1827)_](https://iiif.archivelab.org/iiif/sim_boston-news-letter-and-city-record_1826-12-16_2_24?page=2)
+
 #### 1826-12-16 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -580,8 +623,11 @@ week.
 </tr></table>
 
 <hr />
+
 ## [POLICY OF FRANCE AND ENGLAND. MR. CANNING V. M. CHATEAUBRIAND.](http://trove.nla.gov.au/ndp/del/article/37073878)
+
 #### From _The Australian (Sydney, NSW : 1824 - 1848)_
+
 #### 1827-05-30 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -624,7 +670,9 @@ marriage took place the ensuing week.
 </td></tr></table>
 
 <hr />
+
 ## [From _Delaware journal._](https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-07-31/ed-1/seq-3)
+
 #### 1827-07-31 &middot; Wilmington [Del.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -657,7 +705,9 @@ marriage took place the ensuing week
 </tr></table>
 
 <hr />
+
 ## [From _Universalist Watchman, Repository and Chronicle (1831-1847)_](https://iiif.archivelab.org/iiif/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9?page=7)
+
 #### 1832-06-23 &middot; Woodstock
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -694,7 +744,9 @@ place the ensuing week.
 </tr></table>
 
 <hr />
+
 ## [From _Wilmington expositor._](https://chroniclingamerica.loc.gov/lccn/sn88053122/1832-07-06/ed-1/seq-2)
+
 #### 1832-07-06 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -726,12 +778,17 @@ ting to the 12th epistle of Joh
 </tr></table>
 
 <hr />
+
 ## Religious Courtship
+
 #### From _Vermont watchman and State gazette._
+
 #### 1832-07-16 &middot; Montpelier, Vt.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1834-12-06_3_149?page=7)
+
 #### 1834-12-06
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -752,7 +809,9 @@ place the ensuing week.
 </tr></table>
 
 <hr />
+
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1835-01-15/ed-1/seq-4)
+
 #### 1835-01-15 &middot; Newport, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -790,7 +849,9 @@ week.
 </tr></table>
 
 <hr />
+
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46?page=7)
+
 #### 1835-05-16 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -817,22 +878,33 @@ unto you, I would not write with paper and ink,
 </tr></table>
 
 <hr />
+
 ## Religious Courtship
+
 #### From _The globe._
+
 #### 1835-05-21 &middot; City of Washington [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## Religious Courtship
+
 #### From _The Ohio observer._
+
 #### 1836-01-14 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## The President of the United States, by and with the advice and consent of the Senate, has conferred the Broyet of Colonel on Lieut. Colonel Williams S. Foster, of the 4th regiment U. S.
+
 #### From _Daily commercial bulletin._
+
 #### 1838-06-20 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Piney Woods planter._](https://chroniclingamerica.loc.gov/lccn/sn87065654/1839-04-20/ed-1/seq-4)
+
 #### 1839-04-20 &middot; Liberty, Mi. [i.e. Miss.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -885,7 +957,9 @@ ge took place thn ensuing week
 </tr></table>
 
 <hr />
+
 ## [From _Holly Springs banner._](https://chroniclingamerica.loc.gov/lccn/sn87065188/1839-06-08/ed-1/seq-1)
+
 #### 1839-06-08 &middot; Holly Springs, Mi. [i.e. Miss.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -927,12 +1001,17 @@ took place the ensjing week.
 </tr></table>
 
 <hr />
+
 ## Miscellaneous
+
 #### From _Raleigh register, and North-Carolina gazette._
+
 #### 1842-04-26 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82015677/1845-06-19/ed-1/seq-1)
+
 #### 1845-06-19 &middot; Indianapolis
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -950,12 +1029,17 @@ the following pi in : lie marked a text and handed th
 </tr></table>
 
 <hr />
+
 ## For the Girls
+
 #### From _Raymond gazette._
+
 #### 1845-08-15 &middot; Raymond, Miss.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Kosciusko chronicle._](https://chroniclingamerica.loc.gov/lccn/sn83016940/1846-05-21/ed-1/seq-1)
+
 #### 1846-05-21 &middot; Kosciusko, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -974,12 +1058,17 @@ week
 </tr></table>
 
 <hr />
+
 ## Religious Courtship
+
 #### From _Pensacola gazette._
+
 #### 1846-05-23 &middot; [Pensacola, Fla.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Columbian fountain._](https://chroniclingamerica.loc.gov/lccn/sn82014769/1846-06-25/ed-1/seq-4)
+
 #### 1846-06-25 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1015,7 +1104,9 @@ suing Week
 </tr></table>
 
 <hr />
+
 ## [From _Burlington hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn82014327/1846-07-23/ed-1/seq-1)
+
 #### 1846-07-23 &middot; Burlington, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1053,8 +1144,11 @@ suing week.
 </tr></table>
 
 <hr />
+
 ## [EXTRACTS.](http://trove.nla.gov.au/ndp/del/article/3715315)
+
 #### From _The Moreton Bay Courier (Brisbane, Qld. : 1846 - 1861)_
+
 #### 1847-11-20 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1090,7 +1184,9 @@ mar-riage took place the ensuing week.
 </td></tr></table>
 
 <hr />
+
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1849-02-03/ed-1/seq-4)
+
 #### 1849-02-03 &middot; Honolulu [Oahu], Hawaii
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1134,7 +1230,9 @@ week
 </tr></table>
 
 <hr />
+
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1858-07-31/ed-1/seq-1)
+
 #### 1858-07-31 &middot; Council Bluffs [Iowa]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1154,7 +1252,9 @@ of years, with a faco radiant with smiles, exigency of the case suggested the fo
 </tr></table>
 
 <hr />
+
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1858-07-31/ed-1/seq-1)
+
 #### 1858-07-31 &middot; Council Bluffs [Iowa]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1179,7 +1279,9 @@ took place the following week.
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1859-04-29/ed-1/seq-1)
+
 #### 1859-04-29 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1202,7 +1304,9 @@ now 1 beseech the, lady, not as t
 </tr></table>
 
 <hr />
+
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1859-07-06/ed-1/seq-1)
+
 #### 1859-07-06 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1236,7 +1340,9 @@ speak face to face that our joy may be full.
 </tr></table>
 
 <hr />
+
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1859-10-18/ed-1/seq-4)
+
 #### 1859-10-18 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1269,7 +1375,9 @@ not write with paper and ink, b
 </tr></table>
 
 <hr />
+
 ## [From _The penny press._](https://chroniclingamerica.loc.gov/lccn/sn85025750/1859-10-18/ed-1/seq-4)
+
 #### 1859-10-18 &middot; Cincinnati [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1300,7 +1408,9 @@ would not write with paper and in
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1859-11-02/ed-1/seq-1)
+
 #### 1859-11-02 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1326,12 +1436,17 @@ that we love one another.&quot; She returned
 </tr></table>
 
 <hr />
+
 ## Miscellany
+
 #### From _Vermont patriot._
+
 #### 1860-08-18 &middot; Montpelier [Vt.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1863-10-23/ed-1/seq-1)
+
 #### 1863-10-23 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1382,12 +1497,17 @@ I would not write with pape
 </tr></table>
 
 <hr />
+
 ## A YOUNG GENTLEMAN happening to sit at church in a pew adjoining one in which sat a young lady for whom he conceived a sudden and violent passion, was desirous of entering into courtship on the spot
+
 #### From _Milwaukee daily sentinel._
+
 #### 1863-10-29 &middot; [Milwaukee, Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1863-11-06/ed-1/seq-1)
+
 #### 1863-11-06 &middot; Irasburgh, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1430,7 +1550,9 @@ a
 </tr></table>
 
 <hr />
+
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1863-11-14/ed-1/seq-4)
+
 #### 1863-11-14 &middot; Portland, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1476,7 +1598,9 @@ would not write with paper an
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1863-11-25/ed-1/seq-3)
+
 #### 1863-11-25 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1502,7 +1626,9 @@ She returned it, pointing to the secon
 </tr></table>
 
 <hr />
+
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1863-11-26/ed-1/seq-3)
+
 #### 1863-11-26 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1529,7 +1655,9 @@ chapter of Ruth, verse tent
 </tr></table>
 
 <hr />
+
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-12-24/ed-1/seq-3)
+
 #### 1863-12-24 &middot; Chicago, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1561,7 +1689,9 @@ had from the beginning, that we love one an*
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1864-01-20/ed-1/seq-4)
+
 #### 1864-01-20 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1585,7 +1715,9 @@ ond chapter of Ru
 </tr></table>
 
 <hr />
+
 ## [From _Cleveland morning leader._](https://chroniclingamerica.loc.gov/lccn/sn83035143/1864-03-05/ed-1/seq-3)
+
 #### 1864-03-05 &middot; Cleveland [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1612,7 +1744,9 @@ to the second chapter of Rath,
 </tr></table>
 
 <hr />
+
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1866-04-12/ed-1/seq-1)
+
 #### 1866-04-12 &middot; Ebensburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1640,7 +1774,9 @@ She returned it, pointing to the secon
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1866-09-18/ed-1/seq-1)
+
 #### 1866-09-18 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1679,7 +1815,9 @@ paper and i
 </tr></table>
 
 <hr />
+
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1868-09-23/ed-1/seq-1)
+
 #### 1868-09-23 &middot; Smyrna, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1709,7 +1847,9 @@ eyes, seeing 1 am a stranger?&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1868-11-19/ed-1/seq-1)
+
 #### 1868-11-19 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1748,12 +1888,17 @@ unto
 </tr></table>
 
 <hr />
+
 ## Courting in Church
+
 #### From _Lowell daily citizen and news._
+
 #### 1868-11-27 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1868-12-14/ed-1/seq-4)
+
 #### 1868-12-14 &middot; New Orleans, La
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1776,12 +1921,17 @@ Jilhn : &quot;Huirlncr mnnv tliinirjl tn mrit„ mit
 </tr></table>
 
 <hr />
+
 ## How to Court in Church
+
 #### From _The Wisconsin state register._
+
 #### 1868-12-26 &middot; Portage, Columbia County, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1869-03-04/ed-1/seq-4)
+
 #### 1869-03-04 &middot; Upper Sandusky, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1809,7 +1959,9 @@ but I trust shortly to come un
 </tr></table>
 
 <hr />
+
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-10-29/ed-1/seq-4)
+
 #### 1869-10-29 &middot; Bedford, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1833,7 +1985,9 @@ John-.—&quot;Having many things to write unto
 </tr></table>
 
 <hr />
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1870-03-02/ed-1/seq-4)
+
 #### 1870-03-02 &middot; Warren, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1861,7 +2015,9 @@ I had many things to write unt
 </tr></table>
 
 <hr />
+
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1870-04-09/ed-1/seq-1)
+
 #### 1870-04-09 &middot; Middletown, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1885,7 +2041,9 @@ He returned the book point
 </tr></table>
 
 <hr />
+
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1871-03-17/ed-1/seq-4)
+
 #### 1871-03-17 &middot; Columbia, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1920,12 +2078,17 @@ not write with paper and in
 </tr></table>
 
 <hr />
+
 ## Courting in Church
+
 #### From _Morning republican._
+
 #### 1871-04-10 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1871-04-15/ed-1/seq-3)
+
 #### 1871-04-15 &middot; Superior, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1954,7 +2117,9 @@ took place the following week.
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1871-04-19/ed-1/seq-1)
+
 #### 1871-04-19 &middot; Mifflintown, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1984,7 +2149,9 @@ ing wees
 </tr></table>
 
 <hr />
+
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1871-05-11/ed-1/seq-4)
+
 #### 1871-05-11 &middot; Edgefield, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2015,7 +2182,9 @@ place the following week
 </tr></table>
 
 <hr />
+
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1871-05-25/ed-1/seq-1)
+
 #### 1871-05-25 &middot; Camden, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2038,7 +2207,9 @@ place the following week
 </tr></table>
 
 <hr />
+
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1872-10-05/ed-1/seq-1)
+
 #### 1872-10-05 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2067,7 +2238,9 @@ to the second chapter of Butb, v
 </tr></table>
 
 <hr />
+
 ## [From _The Brookhaven ledger._](https://chroniclingamerica.loc.gov/lccn/sn86053968/1879-07-17/ed-1/seq-1)
+
 #### 1879-07-17 &middot; Brookhaven, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2098,7 +2271,9 @@ following week.
 </tr></table>
 
 <hr />
+
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1879-07-30/ed-1/seq-8)
+
 #### 1879-07-30 &middot; Indianapolis
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2126,17 +2301,25 @@ following week
 </tr></table>
 
 <hr />
+
 ## In General
+
 #### From _Boston daily advertiser._
+
 #### 1879-08-29 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## Novel Courtship
+
 #### From _Milwaukee daily sentinel._
+
 #### 1879-09-01 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1879-09-25/ed-1/seq-4)
+
 #### 1879-09-25 &middot; Salina, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2173,7 +2356,9 @@ riage took place
 </tr></table>
 
 <hr />
+
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1879-10-24/ed-1/seq-1)
+
 #### 1879-10-24 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2209,7 +2394,9 @@ riage took place
 </tr></table>
 
 <hr />
+
 ## [From _The Canton advocate._](https://chroniclingamerica.loc.gov/lccn/sn83025440/1879-12-04/ed-1/seq-2)
+
 #### 1879-12-04 &middot; Canton, D.T. [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2250,7 +2437,9 @@ The Male and the Small Boy.
 </tr></table>
 
 <hr />
+
 ## [From _The Northern Pacific farmer._](https://chroniclingamerica.loc.gov/lccn/sn90059028/1879-12-11/ed-1/seq-3)
+
 #### 1879-12-11 &middot; Wadena, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2289,7 +2478,9 @@ interview a marriage took nlace.
 </tr></table>
 
 <hr />
+
 ## [From _The Columbus journal._](https://chroniclingamerica.loc.gov/lccn/sn95073194/1880-01-28/ed-1/seq-4)
+
 #### 1880-01-28 &middot; Columbus, Neb.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2318,7 +2509,9 @@ ond chapter of lluth, vers
 </tr></table>
 
 <hr />
+
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1880-01-29/ed-1/seq-1)
+
 #### 1880-01-29 &middot; Brownville, Nemaha County, N.T. [Neb.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2360,8 +2553,11 @@ marriage took place.
 </tr></table>
 
 <hr />
+
 ## [A Scriptural Courtship.](http://trove.nla.gov.au/ndp/del/article/110469359)
+
 #### From _The Herald (Fremantle, WA : 1867 - 1886)_
+
 #### 1880-02-07 &middot; Fremantle, Western Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2386,7 +2582,9 @@ a marriage took place
 </td></tr></table>
 
 <hr />
+
 ## [From _The National Police Gazette (1845-1906)_](https://iiif.archivelab.org/iiif/sim_national-police-gazette_1880-11-27_37_166?page=9)
+
 #### 1880-11-27 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2417,7 +2615,9 @@ the following week.
 </tr></table>
 
 <hr />
+
 ## [From _The American Magazine 1884-1888_](https://iiif.archivelab.org/iiif/sim_american-magazine_1886-02_3_5?page=38)
+
 #### 1886-02-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2455,7 +2655,9 @@ I would not write with pa
 </tr></table>
 
 <hr />
+
 ## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1886-06-10/ed-1/seq-5)
+
 #### 1886-06-10 &middot; Savannah
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2490,7 +2692,9 @@ would not wrltewitti paper and ink, b
 </tr></table>
 
 <hr />
+
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1886-07-03/ed-1/seq-6)
+
 #### 1886-07-03 &middot; McMinnville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2532,7 +2736,9 @@ and
 </tr></table>
 
 <hr />
+
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1887-07-13/ed-1/seq-3)
+
 #### 1887-07-13 &middot; Watertown, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2573,7 +2779,9 @@ I trust I
 </tr></table>
 
 <hr />
+
 ## [From _Hand County press._](https://chroniclingamerica.loc.gov/lccn/sn98062948/1887-07-14/ed-1/seq-3)
+
 #### 1887-07-14 &middot; Miller, Dakota [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2612,7 +2820,9 @@ and ink write unto thee, but 1 trust
 </tr></table>
 
 <hr />
+
 ## [From _Griggs courier._](https://chroniclingamerica.loc.gov/lccn/sn88076998/1887-07-15/ed-1/seq-8)
+
 #### 1887-07-15 &middot; Cooperstown, Griggs Co., Dak. [N.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2652,7 +2862,9 @@ and ink write unto thee, but I trust
 </tr></table>
 
 <hr />
+
 ## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1887-07-21/ed-1/seq-2)
+
 #### 1887-07-21 &middot; Worthington, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2691,7 +2903,9 @@ pen and ink write unto thee, but
 </tr></table>
 
 <hr />
+
 ## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1887-07-22/ed-1/seq-3)
+
 #### 1887-07-22 &middot; Little Falls, Morrison County, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2730,7 +2944,9 @@ many tilings to write. I will not with
 </tr></table>
 
 <hr />
+
 ## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1887-07-28/ed-1/seq-2)
+
 #### 1887-07-28 &middot; Worthington, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2769,8 +2985,11 @@ I will not with pen and ink write unt
 </tr></table>
 
 <hr />
+
 ## [Courtship in Church.](http://trove.nla.gov.au/ndp/del/article/100894218)
+
 #### From _Nepean Times (Penrith, NSW : 1882 - 1962)_
+
 #### 1887-11-19 &middot; Penrith, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2804,8 +3023,11 @@ with pen and ink write unto thee, but I
 </td></tr></table>
 
 <hr />
+
 ## [MISCELLNEOUS.](http://trove.nla.gov.au/ndp/del/article/128763986)
+
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
+
 #### 1888-01-20 &middot; Gundagai, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2840,8 +3062,11 @@ with pen and ink write unto thee, but
 </td></tr></table>
 
 <hr />
+
 ## [A Courtship in Church.](http://trove.nla.gov.au/ndp/del/article/98451322)
+
 #### From _Goulburn Evening Penny Post (NSW : 1881 - 1940)_
+
 #### 1888-01-26 &middot; Goulburn, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2876,7 +3101,9 @@ trust I shall shortly see thee,
 </td></tr></table>
 
 <hr />
+
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1889-03-06/ed-1/seq-6)
+
 #### 1889-03-06 &middot; New Ulm, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2921,7 +3148,9 @@ speak face to face, that our joy ma
 </tr></table>
 
 <hr />
+
 ## [From _The Ladies' Home Journal (1889-1907)_](https://iiif.archivelab.org/iiif/sim_ladies-home-journal_1891-01_8_2?page=1)
+
 #### 1891-01-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2983,7 +3212,9 @@ write unto you
 </tr></table>
 
 <hr />
+
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1891-02-06/ed-1/seq-8)
+
 #### 1891-02-06 &middot; Newtown, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3018,7 +3249,9 @@ paper a
 </tr></table>
 
 <hr />
+
 ## [From _Nevada County picayune._](https://chroniclingamerica.loc.gov/lccn/sn87091048/1891-02-12/ed-1/seq-1)
+
 #### 1891-02-12 &middot; Prescott, Nev. County, Ark.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3050,7 +3283,9 @@ ond chapter of Uuth,
 </tr></table>
 
 <hr />
+
 ## [From _The Durham recorder._](https://chroniclingamerica.loc.gov/lccn/sn84020731/1892-03-23/ed-1/seq-1)
+
 #### 1892-03-23 &middot; Durham, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3105,8 +3340,11 @@ with paper and ink,
 </tr></table>
 
 <hr />
+
 ## [CURIOUS COURTSHIP.](http://trove.nla.gov.au/ndp/del/article/77532961)
+
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
+
 #### 1892-10-22 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3122,8 +3360,11 @@ come unto you and speak face to
 </td></tr></table>
 
 <hr />
+
 ## [No title](http://trove.nla.gov.au/ndp/del/article/144503786)
+
 #### From _The Prahran Telegraph (Vic. : 1889 - 1930)_
+
 #### 1893-01-11 &middot; Prahran, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3140,8 +3381,11 @@ trust to come unto you and speak face t
 </td></tr></table>
 
 <hr />
+
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/88967312)
+
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
+
 #### 1893-05-05 &middot; Bendigo, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3179,7 +3423,9 @@ marriage took place tho coming week.
 </td></tr></table>
 
 <hr />
+
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1895-08-18/ed-1/seq-11)
+
 #### 1895-08-18 &middot; Savannah, Ga.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3219,7 +3465,9 @@ ing week
 </tr></table>
 
 <hr />
+
 ## [From _The Jersey City news._](https://chroniclingamerica.loc.gov/lccn/sn87068097/1895-08-21/ed-1/seq-4)
+
 #### 1895-08-21 &middot; Jersey City [N.J.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3258,7 +3506,9 @@ place the com-itg wee*;.’&#x27;—Scottish Am
 </tr></table>
 
 <hr />
+
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1895-09-06/ed-1/seq-5)
+
 #### 1895-09-06 &middot; Paw Paw, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3288,7 +3538,9 @@ coming week. Scottish American
 </tr></table>
 
 <hr />
+
 ## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1895-09-21_8_44?page=8)
+
 #### 1895-09-21
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3359,7 +3611,9 @@ place the coming week.
 </tr></table>
 
 <hr />
+
 ## [From _Pine Bluff daily graphic._](https://chroniclingamerica.loc.gov/lccn/sn89051168/1895-09-24/ed-1/seq-3)
+
 #### 1895-09-24 &middot; Pine Bluff, Ark.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3389,7 +3643,9 @@ riage took place the coming week.
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1895-09-25/ed-1/seq-4)
+
 #### 1895-09-25 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3419,7 +3675,9 @@ took place the coming week
 </tr></table>
 
 <hr />
+
 ## [From _The Roanoke daily times._](https://chroniclingamerica.loc.gov/lccn/sn95079481/1895-09-28/ed-1/seq-2)
+
 #### 1895-09-28 &middot; Roanoke, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3461,7 +3719,9 @@ riage took plnco the coming week.
 </tr></table>
 
 <hr />
+
 ## [From _Waterbury Democrat._](https://chroniclingamerica.loc.gov/lccn/2016270502/1895-09-30/ed-1/seq-7)
+
 #### 1895-09-30 &middot; Waterbury, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3493,7 +3753,9 @@ riage took place the coming week
 </tr></table>
 
 <hr />
+
 ## [From _Pine Bluff daily graphic._](https://chroniclingamerica.loc.gov/lccn/sn89051168/1895-10-03/ed-1/seq-3)
+
 #### 1895-10-03 &middot; Pine Bluff, Ark.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3534,7 +3796,9 @@ riage took place the coming week.
 </tr></table>
 
 <hr />
+
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1895-10-03/ed-1/seq-3)
+
 #### 1895-10-03 &middot; Redwood Falls, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3580,17 +3844,25 @@ riage took place the coming week.
 </tr></table>
 
 <hr />
+
 ## The New Woman
+
 #### From _The daily picayune._
+
 #### 1895-10-06 &middot; New Orleans, La.
 [This text is not available under an open license.]
 <hr />
+
 ## A Bible Courtship
+
 #### From _Bangor daily Whig & courier._
+
 #### 1895-10-08 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1895-11-08/ed-1/seq-4)
+
 #### 1895-11-08 &middot; Pascagoula, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3634,7 +3906,9 @@ riaic took place the coining vcek
 </tr></table>
 
 <hr />
+
 ## [From _News and citizen._](https://chroniclingamerica.loc.gov/lccn/sn97067613/1895-11-21/ed-1/seq-2)
+
 #### 1895-11-21 &middot; Morrisville, Vt. ;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3676,8 +3950,11 @@ took place the coming week. Scot
 </tr></table>
 
 <hr />
+
 ## [A BIBLE COURTSHIP.](http://trove.nla.gov.au/ndp/del/article/62739565)
+
 #### From _Bathurst Free Press and Mining Journal (NSW : 1851 - 1904)_
+
 #### 1895-12-03 &middot; Bathurst, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3713,8 +3990,11 @@ marriage took place the following month.
 </td></tr></table>
 
 <hr />
+
 ## [A Bible Courtship.](http://trove.nla.gov.au/ndp/del/article/146905633)
+
 #### From _Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)_
+
 #### 1895-12-07 &middot; Maryborough, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3739,8 +4019,11 @@ to face.11 From the
 </td></tr></table>
 
 <hr />
+
 ## [A Bible Courtship.](http://trove.nla.gov.au/ndp/del/article/61276001)
+
 #### From _Clarence and Richmond Examiner (Grafton, NSW : 1889 - 1915)_
+
 #### 1895-12-21 &middot; Grafton, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3775,8 +4058,11 @@ face.&quot; Trom the
 </td></tr></table>
 
 <hr />
+
 ## [A BIBLE COURTSHIP.](http://trove.nla.gov.au/ndp/del/article/70632245)
+
 #### From _The Capricornian (Rockhampton, Qld. : 1875 - 1929)_
+
 #### 1896-01-11 &middot; Rockhampton, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3810,8 +4096,11 @@ thee ; but I trust I shal
 </td></tr></table>
 
 <hr />
+
 ## [A BIBLE COURTSHIP.](http://trove.nla.gov.au/ndp/del/article/52508471)
+
 #### From _Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)_
+
 #### 1896-01-15 &middot; Rockhampton, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3846,7 +4135,9 @@ speak face to face.&quot; From the
 </td></tr></table>
 
 <hr />
+
 ## [From _The Cape Girardeau Democrat._](https://chroniclingamerica.loc.gov/lccn/sn89066818/1896-01-18/ed-1/seq-5)
+
 #### 1896-01-18 &middot; Cape Girardeau, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3883,7 +4174,9 @@ wee k
 </tr></table>
 
 <hr />
+
 ## [From _Indian chieftain._](https://chroniclingamerica.loc.gov/lccn/sn83025010/1896-02-20/ed-1/seq-2)
+
 #### 1896-02-20 &middot; Vinita, Indian Territory [Okla.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3943,8 +4236,11 @@ place the following week
 </tr></table>
 
 <hr />
+
 ## [Established August 1842. The Portland Guardian, With which is incorporated The Portland Mirror. Published at Portland Every Monday, Wednesday, and Friday Evening. WEDNESDAY, APRIL 1, 1896.](http://trove.nla.gov.au/ndp/del/article/63635059)
+
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
+
 #### 1896-04-01 &middot; Portland, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3982,8 +4278,11 @@ took place the coming week. DREADFUL
 </td></tr></table>
 
 <hr />
+
 ## [SCRAPS AND CLEANINGS.](http://trove.nla.gov.au/ndp/del/article/64157770)
+
 #### From _Traralgon Record (Traralgon, Vic. : 1886 - 1932)  _
+
 #### 1896-04-10 &middot; Traralgon, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4007,8 +4306,11 @@ thee; but I trust I shall shortly se
 </td></tr></table>
 
 <hr />
+
 ## [SCRAPS AND GLEANINGS.](http://trove.nla.gov.au/ndp/del/article/66910397)
+
 #### From _The Maffra Spectator (Vic. : 1882 - 1920)_
+
 #### 1896-04-16 &middot; Maffra, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4043,8 +4345,11 @@ pen write unto thee ; but I trus
 </td></tr></table>
 
 <hr />
+
 ## [HERE AND THERE.](http://trove.nla.gov.au/ndp/del/article/68585515)
+
 #### From _Williamstown Chronicle (Vic. : 1856 - 1954)_
+
 #### 1896-05-02 &middot; Williamstown, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4068,8 +4373,11 @@ and pen write unto th
 </td></tr></table>
 
 <hr />
+
 ## [CURRENT TOPICS](http://trove.nla.gov.au/ndp/del/article/36058352)
+
 #### From _Burra Record (SA : 1878 - 1954)_
+
 #### 1896-06-10 &middot; Burra, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4089,8 +4397,11 @@ face to face. From the
 </td></tr></table>
 
 <hr />
+
 ## [Courtship in Church.](http://trove.nla.gov.au/ndp/del/article/126303864)
+
 #### From _The Richmond River Herald and Northern Districts Advertiser (NSW : 1886 - 1942)_
+
 #### 1896-12-31 &middot; Coraki, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4110,7 +4421,9 @@ face.&#x27; From the
 </td></tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1897-06-23/ed-1/seq-4)
+
 #### 1897-06-23 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4150,8 +4463,11 @@ ing week?Church Paper
 </tr></table>
 
 <hr />
+
 ## [COURTSHIP IN CHURCH.](http://trove.nla.gov.au/ndp/del/article/59564215)
+
 #### From _Traralgon Record (Traralgon, Vic. : 1886 - 1932)  _
+
 #### 1899-12-15 &middot; Traralgon, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 

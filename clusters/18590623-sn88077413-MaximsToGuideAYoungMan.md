@@ -1,7 +1,12 @@
+
 # None (Sometimes "Maxims to Guide a Young Man")
+
 ### 50 reprints from 1859-06-23 to 1895-12-26 [cl105]
+
 ## [None (Sometimes "Maxims to Guide a Young Man")](https://chroniclingamerica.loc.gov/lccn/sn88077413/1859-06-23/ed-1/seq-2/)
+
 #### From _Daily Press_
+
 #### 1859-06-23
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12,7 +17,9 @@ The following has been handed to us by a friend who has carried it in his purse 
 </td></tr></table>
 
 <hr />
+
 ## [From _Semi-weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024518/1852-08-25/ed-1/seq-3)
+
 #### 1852-08-25 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -34,7 +41,9 @@ maxims at least once a week.
 </tr></table>
 
 <hr />
+
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1857-10-06/ed-1/seq-2)
+
 #### 1857-10-06 &middot; Wheeling, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -70,7 +79,9 @@ keep a wif
 </tr></table>
 
 <hr />
+
 ## [From _Daily Nashville patriot._](https://chroniclingamerica.loc.gov/lccn/sn96091000/1857-10-16/ed-1/seq-2)
+
 #### 1857-10-16 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -102,7 +113,9 @@ week
 </tr></table>
 
 <hr />
+
 ## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1857-12-23/ed-1/seq-4)
+
 #### 1857-12-23 &middot; Nevada, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -143,7 +156,9 @@ week
 </tr></table>
 
 <hr />
+
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-12-26_14_41?page=6)
+
 #### 1857-12-26 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -207,7 +222,9 @@ when
 </tr></table>
 
 <hr />
+
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1858-01-02/ed-1/seq-1)
+
 #### 1858-01-02 &middot; Shasta, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -236,12 +253,17 @@ week
 </tr></table>
 
 <hr />
+
 ## Moral and Religious
+
 #### From _New Hampshire statesman._
+
 #### 1858-01-02 &middot; Concord [N.H.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1858-01-06/ed-1/seq-1)
+
 #### 1858-01-06 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -275,7 +297,9 @@ i least once a week
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1858-01-12/ed-1/seq-1)
+
 #### 1858-01-12 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -299,7 +323,9 @@ once a&#x27;fteek
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1858-01-14/ed-1/seq-1)
+
 #### 1858-01-14 &middot; Ottumwa, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -344,7 +370,9 @@ ims at least once a week
 </tr></table>
 
 <hr />
+
 ## [From _Muscatine weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027253/1858-01-16/ed-1/seq-4)
+
 #### 1858-01-16 &middot; Muscatine, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -387,7 +415,9 @@ y
 </tr></table>
 
 <hr />
+
 ## [From _Mariposa Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026978/1858-04-01/ed-1/seq-1)
+
 #### 1858-04-01 &middot; Mariposa, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -439,7 +469,9 @@ least once a week
 </tr></table>
 
 <hr />
+
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1859-04-27/ed-1/seq-1)
+
 #### 1859-04-27 &middot; Edgefield, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -473,7 +505,9 @@ maxims once a week.
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1859-05-18/ed-1/seq-4)
+
 #### 1859-05-18 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -526,7 +560,9 @@ once a week
 </tr></table>
 
 <hr />
+
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1859-05-20/ed-1/seq-1)
+
 #### 1859-05-20 &middot; Bedford, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -558,7 +594,9 @@ week
 </tr></table>
 
 <hr />
+
 ## [From _The daily press._](https://chroniclingamerica.loc.gov/lccn/sn88077413/1859-06-23/ed-1/seq-2)
+
 #### 1859-06-23 &middot; Cincinnati [Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -608,7 +646,9 @@ over the above maxims at least ence a week.&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _Pointe Coupee Democrat._](https://chroniclingamerica.loc.gov/lccn/sn86053686/1859-08-27/ed-1/seq-2)
+
 #### 1859-08-27 &middot; False River [i.e. New Roads], Parish of Pointe Coupee [La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -627,7 +667,9 @@ are young, that you may spend when
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1859-10-13/ed-1/seq-1)
+
 #### 1859-10-13 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -650,7 +692,9 @@ above maxims once a week
 </tr></table>
 
 <hr />
+
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1865-07-08/ed-1/seq-1)
+
 #### 1865-07-08 &middot; Elkton, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -678,7 +722,9 @@ out of it. Do not marry until you are abl
 </tr></table>
 
 <hr />
+
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1865-07-14/ed-1/seq-1)
+
 #### 1865-07-14 &middot; Bedford, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -712,7 +758,9 @@ maxims at least once a week
 </tr></table>
 
 <hr />
+
 ## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1865-07-21/ed-1/seq-1)
+
 #### 1865-07-21 &middot; New Oregon, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -778,7 +826,9 @@ once a wee^
 </tr></table>
 
 <hr />
+
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1865-07-22/ed-1/seq-1)
+
 #### 1865-07-22 &middot; Sioux City, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -807,7 +857,9 @@ until you are able to support a wife.
 </tr></table>
 
 <hr />
+
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-08-19_22_24?page=6)
+
 #### 1865-08-19 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -854,7 +906,9 @@ once a week
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1866-05-10_39_19?page=2)
+
 #### 1866-05-10 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -895,7 +949,9 @@ least once a week
 </tr></table>
 
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1866-12-21/ed-1/seq-1)
+
 #### 1866-12-21 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -922,7 +978,9 @@ over the above maxims at least one a wee k
 </tr></table>
 
 <hr />
+
 ## [From _Delaware State journal and statesman._](https://chroniclingamerica.loc.gov/lccn/sn84038112/1867-07-30/ed-1/seq-1)
+
 #### 1867-07-30 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -961,7 +1019,9 @@ bappy. Save when yo
 </tr></table>
 
 <hr />
+
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1867-08-17/ed-1/seq-1)
+
 #### 1867-08-17 &middot; Elkton, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -988,7 +1048,9 @@ once a week
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1867-11-01/ed-1/seq-1)
+
 #### 1867-11-01 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1038,7 +1100,9 @@ pace a week.&quot;
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1873-10-02/ed-1/seq-4)
+
 #### 1873-10-02 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1071,12 +1135,17 @@ would be happy. Hea
 </tr></table>
 
 <hr />
+
 ## To Be Carried in Your Pocket
+
 #### From _Boston investigator._
+
 #### 1873-12-03 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1873-12-18/ed-1/seq-1)
+
 #### 1873-12-18 &middot; Leonard Town, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1104,7 +1173,9 @@ above maxims at least oucc a week —L&#x27;x
 </tr></table>
 
 <hr />
+
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1874-01-02/ed-1/seq-3)
+
 #### 1874-01-02 &middot; Paw Paw, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1141,7 +1212,9 @@ above maxims at least once a week
 </tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1874-01-08/ed-1/seq-1)
+
 #### 1874-01-08 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1166,7 +1239,9 @@ be usefully
 </tr></table>
 
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1874-01-08/ed-1/seq-1)
+
 #### 1874-01-08 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1207,7 +1282,9 @@ week.
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1874-04-09/ed-1/seq-1)
+
 #### 1874-04-09 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1246,7 +1323,9 @@ once a week
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1874-04-29/ed-1/seq-1)
+
 #### 1874-04-29 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1284,7 +1363,9 @@ mtTima at least once a week
 </tr></table>
 
 <hr />
+
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1881-02-03/ed-1/seq-2)
+
 #### 1881-02-03 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1323,7 +1404,9 @@ over tae above maxims at least once
 </tr></table>
 
 <hr />
+
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1881-05-28/ed-1/seq-1)
+
 #### 1881-05-28 &middot; Winnsboro, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1347,7 +1430,9 @@ above maxIms at least once a week
 </tr></table>
 
 <hr />
+
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1881-06-02/ed-1/seq-1)
+
 #### 1881-06-02 &middot; Millheim, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1382,7 +1467,9 @@ above maxims at least once a week
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1881-06-09/ed-1/seq-4)
+
 #### 1881-06-09 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1416,7 +1503,9 @@ above maxims at least once a week
 </tr></table>
 
 <hr />
+
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1887-01-13/ed-1/seq-3)
+
 #### 1887-01-13 &middot; [Wilmington, Del.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1455,7 +1544,9 @@ once a week
 </tr></table>
 
 <hr />
+
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1894-12-08_71_23?page=8)
+
 #### 1894-12-08 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1484,7 +1575,9 @@ generous. Save when yo
 </tr></table>
 
 <hr />
+
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn91068247/1894-12-14/ed-1/seq-1)
+
 #### 1894-12-14 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1508,7 +1601,9 @@ erous. Save when you are young an
 </tr></table>
 
 <hr />
+
 ## [From _The New South._](https://chroniclingamerica.loc.gov/lccn/sn87065071/1895-06-01/ed-1/seq-4)
+
 #### 1895-06-01 &middot; Ellisville, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1536,8 +1631,11 @@ when you are youi g and enjoy you
 </tr></table>
 
 <hr />
+
 ## [WHEN HE LOST HIS SAND.](http://trove.nla.gov.au/ndp/del/article/88899363)
+
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
+
 #### 1895-10-19 &middot; Bendigo, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1554,8 +1652,11 @@ yon are generous. -J Small and stead
 </td></tr></table>
 
 <hr />
+
 ## [Maxims of Life.](http://trove.nla.gov.au/ndp/del/article/162671833)
+
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
+
 #### 1895-11-23 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1573,8 +1674,11 @@ any one. Be just before you ar
 </td></tr></table>
 
 <hr />
+
 ## [ONE CAUSE FOR LAME HORSES.](http://trove.nla.gov.au/ndp/del/article/109155498)
+
 #### From _The Kadina and Wallaroo Times (SA : 1888 - 1954)_
+
 #### 1895-11-30 &middot; Kadina, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1591,8 +1695,11 @@ if you can possibly avoid it. : Neve
 </td></tr></table>
 
 <hr />
+
 ## [Good Maxims.](http://trove.nla.gov.au/ndp/del/article/148209045)
+
 #### From _The Mount Barker Courier and Onkaparinga and Gumeracha Advertiser (SA : 1880 - 1954)_
+
 #### 1895-12-06 &middot; Mount Barker, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1608,7 +1715,9 @@ you, can possibly avoid it. Never spea
 </td></tr></table>
 
 <hr />
+
 ## [From _Audubon Republican._](https://chroniclingamerica.loc.gov/lccn/sn87057928/1895-12-26/ed-1/seq-7)
+
 #### 1895-12-26 &middot; Audubon, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 

@@ -1,8 +1,14 @@
+
 # Sketch of the Hon. Geo. L. Mabson, of North Carolina.
+
 ### 8 reprints from 1871-06-29 to 1871-07-13 [cl137438953500]
+
 ## [Sketch of the Hon. Geo. L. Mabson, of North Carolina.](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
+
 #### by George M. Arnold
+
 #### From _New National Era_
+
 #### 1871-06-29
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -40,7 +46,9 @@ From dark ignorance to Liberty’s shining light.
 </td></tr></table>
 
 <hr />
+
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
+
 #### 1871-06-29 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -178,7 +186,9 @@ From dark ignorance to Liberty&#x27;s shining light.
 </tr></table>
 
 <hr />
+
 ## [From _New National Era 1870-1874_](https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25?page=0)
+
 #### 1871-06-29
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -230,7 +240,9 @@ fore. they said yes. Many of his friends | frome, Burned at Sea —“ Raise you
 </tr></table>
 
 <hr />
+
 ## [From _New National Era 1870-1874_](https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25?page=0)
+
 #### 1871-06-29
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -244,7 +256,9 @@ and standing has a law office in the city “down
 </tr></table>
 
 <hr />
+
 ## [From _New National Era 1870-1874_](https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25?page=0)
+
 #### 1871-06-29
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -259,7 +273,9 @@ anderstanding that he was to devote his leisure be your ‘the best means of. pa
 </tr></table>
 
 <hr />
+
 ## [From _New National Era 1870-1874_](https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25?page=0)
+
 #### 1871-06-29
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -283,7 +299,9 @@ Mr: Mabsou’s certificate of moral cherecter | 79%.” _ Is it wise to disease 
 </tr></table>
 
 <hr />
+
 ## [From _Semi-weekly Louisianian._](https://chroniclingamerica.loc.gov/lccn/sn83016631/1871-07-13/ed-1/seq-1)
+
 #### 1871-07-13 &middot; New Orleans, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -388,7 +406,9 @@ our bee. seeeded with ~eu&#x27;ess He
 </tr></table>
 
 <hr />
+
 ## [From _Semi-weekly Louisianian._](https://chroniclingamerica.loc.gov/lccn/sn83016631/1871-07-13/ed-1/seq-1)
+
 #### 1871-07-13 &middot; New Orleans, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 

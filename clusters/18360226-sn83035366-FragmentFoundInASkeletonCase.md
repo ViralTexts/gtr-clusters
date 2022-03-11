@@ -1,7 +1,12 @@
+
 # A Fragment Found in a Skeleton Case
+
 ### 159 reprints from 1836-02-26 to 1899-06-05 [cl102]
+
 ## [A Fragment Found in a Skeleton Case](http://chroniclingamerica.loc.gov/lccn/sn83035366/1836-02-26/ed-1/seq-4/)
+
 #### From _The Carroll Free Press_
+
 #### 1836-02-26
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -57,7 +62,9 @@ And tread the palace of the sky!
 </td></tr></table>
 
 <hr />
+
 ## [From _European Magazine and London Review 1782-1826_](https://iiif.archivelab.org/iiif/sim_european-magazine-and-london-review_1815-11_68?page=60)
+
 #### 1815-11-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -90,17 +97,25 @@ B&#x27;li tliro* the d
 </tr></table>
 
 <hr />
+
 ## Poetical Selections.
+
 #### From _Liverpool Mercury_
+
 #### 1817-05-23 &middot; Liverpool, England
 [This text is not available under an open license.]
 <hr />
+
 ## FRAGMENT.
+
 #### From _Ipswich Journal_
+
 #### 1817-05-31 &middot; Ipswich, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_](https://iiif.archivelab.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7?page=37)
+
 #### 1817-07-01 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -174,7 +189,9 @@ And tread t
 </tr></table>
 
 <hr />
+
 ## [From _The Gentleman's Magazine 1731-1907_](https://iiif.archivelab.org/iiif/sim_gentlemans-magazine_1817-07_88?page=66)
+
 #### 1817-07-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -244,7 +261,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _The Weekly Entertainer, and West of England Miscellany 1783-1824_](https://iiif.archivelab.org/iiif/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57?page=19)
+
 #### 1817-08-18
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -317,17 +336,25 @@ And tread the palace of the sky?
 </tr></table>
 
 <hr />
+
 ## Poet's Corner
+
 #### From _Maryland gazette and political intelligencer._
+
 #### 1817-09-04 &middot; Annapolis, Md.
 [This text is not available under an open license.]
 <hr />
+
 ## Poetry
+
 #### From _Raleigh register, and North-Carolina gazette._
+
 #### 1817-09-12 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Rhode-Island Republican._](https://chroniclingamerica.loc.gov/lccn/sn83025561/1817-10-01/ed-1/seq-4)
+
 #### 1817-10-01 &middot; Newport, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -376,13 +403,19 @@ hewe fect with angel&#x27;s wings shall vie,
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _Providence patriot, Columbian phenix._
+
 #### 1817-10-11 &middot; Providence, R.I.
 [This text is not available under an open license.]
 <hr />
+
 ## [VERSES, Found in a case containing a Human Skeleton.](http://trove.nla.gov.au/ndp/del/article/2177719)
+
 #### From _The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842)_
+
 #### 1818-01-31 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -429,7 +462,9 @@ the palace of the sky! &amp;nbsp; [COPIE
 </td></tr></table>
 
 <hr />
+
 ## [From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_](https://iiif.archivelab.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11?page=37)
+
 #### 1818-03-01 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -500,12 +535,17 @@ Aud tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## FOUND IN A CASE CONTAINING A HUMAN SKELETON.
+
 #### From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_
+
 #### 1818-03-02 &middot; Boston
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Robinson's Magazine, a Weekly Repository of Original Papers; and Selections from the English Magazines (1818-1819)_](https://iiif.archivelab.org/iiif/sim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20?page=15)
+
 #### 1818-11-28 &middot; Baltimore
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -593,7 +633,9 @@ And tread the palace of the sky!
 </tr></table>
 
 <hr />
+
 ## [From _Universalist Magazine (1819-1828)_](https://iiif.archivelab.org/iiif/sim_universalist_1820-03-18_1_38?page=3)
+
 #### 1820-03-18 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -655,22 +697,33 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## A FRAGMENT.
+
 #### From _Religious remembrancer._
+
 #### 1820-11-25 &middot; Philadelphia
 [This text is not available under an open license.]
 <hr />
+
 ## The following beautiful stanzas were handed to us by a friend, a few days since
+
 #### From _Louisville public advertiser._
+
 #### 1820-11-29 &middot; Louisville, Ky.
 [This text is not available under an open license.]
 <hr />
+
 ## A FRAGMENT.
+
 #### From _The National Recorder (1819-1821)_
+
 #### 1821-02-10 &middot; Philadelphia
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The American Masonic Register, and Ladies and Gentlemen's Magazine (1820-1823)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register_1821-03_1_7?page=38)
+
 #### 1821-03-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -749,7 +802,9 @@ And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## [From _Edwardsville spectator._](https://chroniclingamerica.loc.gov/lccn/sn82015374/1821-04-10/ed-1/seq-4)
+
 #### 1821-04-10 &middot; Edwardsville, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -813,17 +868,25 @@ And tread the palace of the sky !
 </tr></table>
 
 <hr />
+
 ## THE MIRROR OF FASHION.
+
 #### From _Morning Chronicle_
+
 #### 1821-09-14 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## POETRY.
+
 #### From _Trewman's Exeter Flying Post_
+
 #### 1821-09-27 &middot; Exeter, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Saturday Magazine: Being in Great Part a Compilation From the British Reviews, Magazines, and Scientific Journals (1821-1822)_](https://iiif.archivelab.org/iiif/sim_saturday-magazine_1822-02-10_5_6?page=9)
+
 #### 1822-02-10 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -900,7 +963,9 @@ And tread the palace of the sky!
 </tr></table>
 
 <hr />
+
 ## [From _Calcutta Journal, or Political, Commercial and Literary Gazette 1819-1823_](https://iiif.archivelab.org/iiif/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89?page=7)
+
 #### 1822-04-13
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -965,7 +1030,9 @@ And tread tlie palace of the&#x27;sky.
 </tr></table>
 
 <hr />
+
 ## [From _Kaleidoscope; Or, Literary and Scientific Mirror 1818-1831_](https://iiif.archivelab.org/iiif/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173?page=3)
+
 #### 1823-10-21
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1045,7 +1112,9 @@ And reach the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1825-06-11_10_2?page=15)
+
 #### 1825-06-11 &middot; New Haven
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1101,7 +1170,9 @@ And tread the palace of the sky!
 </tr></table>
 
 <hr />
+
 ## [From _Evangelist (1824-1825)_](https://iiif.archivelab.org/iiif/sim_east-anglian-or-notes-and-queries_1825-07_2_7?page=39)
+
 #### 1825-07-01 &middot; Hartford
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1185,7 +1256,9 @@ These feet with angels’ wings shall vie,
 </tr></table>
 
 <hr />
+
 ## [From _The western luminary._](https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1826-02-01_2_30?page=15)
+
 #### 1826-02-01 &middot; Lexington, Ky.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1261,17 +1334,25 @@ Aod tread the palace of the sky!
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _Western intelligencer, religious, literary and political._
+
 #### 1827-12-05 &middot; Cleveland, Ohio
 [This text is not available under an open license.]
 <hr />
+
 ## A FRAGMENT.
+
 #### From _Christian Advocate and Journal (1827-1828)_
+
 #### 1827-12-14 &middot; Chicago
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1827-12-21_10_532?page=2)
+
 #### 1827-12-21 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1335,7 +1416,9 @@ And tread the Palace of tbe 3ky.
 </tr></table>
 
 <hr />
+
 ## [From _Literary cadet and Rhode-Island statesman._](https://chroniclingamerica.loc.gov/lccn/sn83021389/1827-12-26/ed-1/seq-4)
+
 #### 1827-12-26 &middot; Providence, R.I.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1374,12 +1457,17 @@ These
 </tr></table>
 
 <hr />
+
 ## A Fragment
+
 #### From _Maryland gazette._
+
 #### 1832-04-05 &middot; Annapolis, Md.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1833-03-02_16_9?page=0)
+
 #### 1833-03-02 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1464,12 +1552,17 @@ And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## POETRY.
+
 #### From _New York Observer and Chronicle (1833-1912)_
+
 #### 1833-03-30 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The liberator._](https://iiif.archivelab.org/iiif/sim_liberator_1833-03-30_3_13?page=3)
+
 #### 1833-03-30 &middot; Boston, Mass.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1543,12 +1636,17 @@ And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## LINES ON A SKULL.
+
 #### From _The Catholic Telegraph (1831-1846)_
+
 #### 1833-08-03 &middot; Cincinnati
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Jesuit or Catholic sentinel._](https://iiif.archivelab.org/iiif/sim_jesuit-or-catholic-sentinel_1833-08-31_4_35?page=3)
+
 #### 1833-08-31 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1623,13 +1721,19 @@ And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## LINES ON A SKULL.
+
 #### From _United States Catholic Miscellany (1822-1835)_
+
 #### 1834-12-20 &middot; Charleston
 [This text is not available under an open license.]
 <hr />
+
 ## [FRAGMENT Found in the Skeleton Case at the Royal Academy, supposed to have been written by one of the Students, and deposited there.](http://trove.nla.gov.au/ndp/del/article/640778)
+
 #### From _The Perth Gazette and Western Australian Journal (WA : 1833 - 1847)_
+
 #### 1835-08-29 &middot; Perth, Western Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1672,7 +1776,9 @@ spurn&#x27;d, And home to virtue&#x27;s lap return
 </td></tr></table>
 
 <hr />
+
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1836-02-26/ed-1/seq-4)
+
 #### 1836-02-26 &middot; Carrollton [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1743,7 +1849,9 @@ And tread the palace ol the sky
 </tr></table>
 
 <hr />
+
 ## [From _Episcopal Recorder (1831-1851)_](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1836-04-23_14_4?page=3)
+
 #### 1836-04-23 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1814,7 +1922,9 @@ And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1836-05-28_9_34?page=4)
+
 #### 1836-05-28 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1890,12 +2000,17 @@ And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _Vermont chronicle._
+
 #### 1836-06-09 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Boston recorder._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25?page=3)
+
 #### 1836-06-17 &middot; Boston [Mass.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1932,17 +2047,25 @@ When stars and suns have lost their light.
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _The Ohio observer._
+
 #### 1836-06-30 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## SELECTED POETRY.
+
 #### From _The Catholic Telegraph (1831-1846)_
+
 #### 1837-10-19 &middot; Cincinnati
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1838-10-25/ed-1/seq-4)
+
 #### 1838-10-25 &middot; Edgefield, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1993,7 +2116,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _The native American._](https://chroniclingamerica.loc.gov/lccn/sn86053569/1839-02-16/ed-1/seq-4)
+
 #### 1839-02-16 &middot; Washington City [i.e. Washington, D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2035,7 +2160,9 @@ And
 </tr></table>
 
 <hr />
+
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1840-10-02/ed-1/seq-1)
+
 #### 1840-10-02 &middot; Stroudsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2072,8 +2199,11 @@ But our time for indulging in the sentimenta
 </tr></table>
 
 <hr />
+
 ## [POETRY. ON SKULLS AND SKELETONS.](http://trove.nla.gov.au/ndp/del/article/2554766)
+
 #### From _The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842)_
+
 #### 1841-10-21 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2119,7 +2249,9 @@ lap return M These feel with eagle
 </td></tr></table>
 
 <hr />
+
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1843-05-10/ed-1/seq-1)
+
 #### 1843-05-10 &middot; Stroudsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2171,7 +2303,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _Evangelical Magazine and Gospel Advocate (1830-1848)_](https://iiif.archivelab.org/iiif/sim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44?page=7)
+
 #### 1843-11-03 &middot; Utica
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2260,7 +2394,9 @@ And tread the palai&#x27;e of the sky. ANONYMOUS.
 </tr></table>
 
 <hr />
+
 ## [From _Bloomington herald._](https://chroniclingamerica.loc.gov/lccn/sn85050801/1844-01-26/ed-1/seq-1)
+
 #### 1844-01-26 &middot; Bloomington, I. T. [Iowa]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2316,12 +2452,17 @@ And trend the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## Poetry
+
 #### From _Vermont chronicle._
+
 #### 1844-10-16 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Knickerbocker; or New York Monthly Magazine (1833-1862)_](https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1846-02_27_2?page=87)
+
 #### 1846-02-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2395,7 +2536,9 @@ And tread the palace of the sky!
 </tr></table>
 
 <hr />
+
 ## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27?page=3)
+
 #### 1846-04-04 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2412,7 +2555,9 @@ wht&#x27;s mysterious sea
 </tr></table>
 
 <hr />
+
 ## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27?page=3)
+
 #### 1846-04-04 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2453,7 +2598,9 @@ would his hand once more stri
 </tr></table>
 
 <hr />
+
 ## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27?page=3)
+
 #### 1846-04-04 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2499,7 +2646,9 @@ Aul tread the palace of the sky!
 </tr></table>
 
 <hr />
+
 ## [From _Boon's Lick times._](https://chroniclingamerica.loc.gov/lccn/sn83016957/1847-11-13/ed-1/seq-1)
+
 #### 1847-11-13 &middot; Fayette, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2551,12 +2700,17 @@ And tread the palace of the aky.
 </tr></table>
 
 <hr />
+
 ## Miscellany.
+
 #### From _Christian Inquirer (1846-1864)_
+
 #### 1848-01-08 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Friends' Weekly Intelligencer (1844-1853)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1849-02-03_5_45?page=6)
+
 #### 1849-02-03 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2622,12 +2776,17 @@ And tread the Palace of the sky.
 </tr></table>
 
 <hr />
+
 ## Lines on a Skeleton
+
 #### From _The Raleigh register._
+
 #### 1849-04-28 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1849-05-03/ed-1/seq-1)
+
 #### 1849-05-03 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2677,7 +2836,9 @@ j And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## [From _The primitive Republican._](https://chroniclingamerica.loc.gov/lccn/sn87065038/1851-11-20/ed-1/seq-1)
+
 #### 1851-11-20 &middot; Columbus, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2730,7 +2891,9 @@ These feet with angel&#x27;s wings shall fly
 </tr></table>
 
 <hr />
+
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1852-04-29/ed-1/seq-1)
+
 #### 1852-04-29 &middot; Litchfield, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2781,7 +2944,9 @@ And tread the palace ot the sky.
 </tr></table>
 
 <hr />
+
 ## [From _The New England Journal of Medicine 1828-2014_](https://iiif.archivelab.org/iiif/sim_new-england-journal-of-medicine_1852-12-29_47_22?page=7)
+
 #### 1852-12-29
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2807,7 +2972,9 @@ When suns and stars have lost their light.’
 </tr></table>
 
 <hr />
+
 ## [From _The National Magazine; Devoted to Literature, Art, and Religion (1852-1858)_](https://iiif.archivelab.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4?page=64)
+
 #### 1853-04-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2835,7 +3002,9 @@ When suns and stars have lost their light.”
 </tr></table>
 
 <hr />
+
 ## [From _Medical and Surgical Reporter (1856-1858)_](https://iiif.archivelab.org/iiif/sim_medical-and-surgical-reporter_1856-12_9_12?page=37)
+
 #### 1856-12-01 &middot; Burlington
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2850,7 +3019,9 @@ What bea uteons pictures filled this spot
 </tr></table>
 
 <hr />
+
 ## [From _Medical and Surgical Reporter (1856-1858)_](https://iiif.archivelab.org/iiif/sim_medical-and-surgical-reporter_1856-12_9_12?page=37)
+
 #### 1856-12-01 &middot; Burlington
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2875,12 +3046,17 @@ Once shone the bright and busy eye; And home to virtue’s lap returned
 </tr></table>
 
 <hr />
+
 ## Lines to a Skeleton
+
 #### From _Daily national intelligencer._
+
 #### 1858-09-01 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1858-11-01/ed-1/seq-4)
+
 #### 1858-11-01 &middot; Wheeling, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2926,7 +3102,9 @@ if grandeur&#x27;s guilty bribe they spurned
 </tr></table>
 
 <hr />
+
 ## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1858-12-03/ed-1/seq-1)
+
 #### 1858-12-03 &middot; Lewisburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2969,7 +3147,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1858-12-08/ed-1/seq-1)
+
 #### 1858-12-08 &middot; Hillsborough, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3006,22 +3186,33 @@ When Death unfolds Eternity.
 </tr></table>
 
 <hr />
+
 ## Lines on a Skeleton
+
 #### From _Daily evening bulletin._
+
 #### 1859-01-20 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## On a Skeleton
+
 #### From _Semi-weekly Mississippian._
+
 #### 1860-02-17 &middot; Jackson, Miss.
 [This text is not available under an open license.]
 <hr />
+
 ## On a Skeleton
+
 #### From _Milwaukee daily sentinel._
+
 #### 1860-03-19 &middot; Milwaukee, [Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The weekly pioneer and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016751/1860-09-07/ed-1/seq-5)
+
 #### 1860-09-07 &middot; Saint Paul, Minn. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3046,12 +3237,17 @@ And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## Poetry.
+
 #### From _German reformed messenger._
+
 #### 1860-10-17 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1860-11-03/ed-1/seq-1)
+
 #### 1860-11-03 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3094,7 +3290,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _The Cass County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85033611/1860-11-08/ed-1/seq-1)
+
 #### 1860-11-08 &middot; Dowagiac, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3130,12 +3328,17 @@ And tread the place of the sky.-.
 </tr></table>
 
 <hr />
+
 ## LINES ON A SKELETON.
+
 #### From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_
+
 #### 1861-06-13 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1861-08-09/ed-1/seq-1)
+
 #### 1861-08-09 &middot; Bedford, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3158,7 +3361,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1861-12-14_35_15?page=4)
+
 #### 1861-12-14 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3190,7 +3395,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _The Abingdon Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84025980/1863-06-26/ed-1/seq-1)
+
 #### 1863-06-26 &middot; Abingdon [Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3233,7 +3440,9 @@ And tread the palace
 </tr></table>
 
 <hr />
+
 ## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1864-02-27_17_26?page=13)
+
 #### 1864-02-27 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3275,12 +3484,17 @@ And tread the palace
 </tr></table>
 
 <hr />
+
 ## Lines on a Skeleton
+
 #### From _Freedom's champion._
+
 #### 1864-04-28 &middot; Atchison City [i.e. Atchison] Kan.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn84024207/1864-06-16/ed-1/seq-1)
+
 #### 1864-06-16 &middot; Lancaster, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3306,7 +3520,9 @@ Theeo feet with Angel&#x27;s&#x27;wings shall vie,
 </tr></table>
 
 <hr />
+
 ## [From _Delaware State journal and statesman._](https://chroniclingamerica.loc.gov/lccn/sn84038112/1866-11-20/ed-1/seq-1)
+
 #### 1866-11-20 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3345,7 +3561,9 @@ Aud tread the palace of t
 </tr></table>
 
 <hr />
+
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1866-11-23/ed-1/seq-4)
+
 #### 1866-11-23 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3365,7 +3583,9 @@ And tread the palace ot the sky
 </tr></table>
 
 <hr />
+
 ## [From _The Hickman courier._](https://chroniclingamerica.loc.gov/lccn/sn85052141/1868-05-02/ed-1/seq-1)
+
 #### 1868-05-02 &middot; Hickman, Ky.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3388,7 +3608,9 @@ And tread the- palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1869-01-09/ed-1/seq-1)
+
 #### 1869-01-09 &middot; Weaverville, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3417,7 +3639,9 @@ And where it cou
 </tr></table>
 
 <hr />
+
 ## [From _The evening telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83025925/1870-03-05/ed-1/seq-6)
+
 #### 1870-03-05 &middot; Philadelphia [Pa.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3454,7 +3678,9 @@ Can little now avail to
 </tr></table>
 
 <hr />
+
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1871-04-13/ed-1/seq-1)
+
 #### 1871-04-13 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3488,7 +3714,9 @@ And trod the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## [From _The Morristown gazette._](https://chroniclingamerica.loc.gov/lccn/sn85033681/1871-05-10/ed-1/seq-4)
+
 #### 1871-05-10 &middot; Morristown, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3513,7 +3741,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-12-19/ed-1/seq-1)
+
 #### 1871-12-19 &middot; Charles Town, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3555,7 +3785,9 @@ And trend the palaeo of the sky
 </tr></table>
 
 <hr />
+
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1873-08-22/ed-1/seq-1)
+
 #### 1873-08-22 &middot; Columbia, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3597,7 +3829,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _Arizona citizen._](https://chroniclingamerica.loc.gov/lccn/sn82014896/1873-11-22/ed-1/seq-1)
+
 #### 1873-11-22 &middot; Tucson, Pima County, A.T. [i.e. Ariz.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3641,7 +3875,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _Northern Ohio journal._](https://chroniclingamerica.loc.gov/lccn/sn84028194/1873-11-22/ed-1/seq-1)
+
 #### 1873-11-22 &middot; Painesville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3682,7 +3918,9 @@ A
 </tr></table>
 
 <hr />
+
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1873-11-27/ed-1/seq-4)
+
 #### 1873-11-27 &middot; Camden, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3732,7 +3970,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1874-01-29/ed-1/seq-1)
+
 #### 1874-01-29 &middot; Leonard Town, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3763,7 +4003,9 @@ And tread the
 </tr></table>
 
 <hr />
+
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1874-02-13/ed-1/seq-8)
+
 #### 1874-02-13 &middot; Jefferson City, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3792,7 +4034,9 @@ And where
 </tr></table>
 
 <hr />
+
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1874-02-13/ed-1/seq-8)
+
 #### 1874-02-13 &middot; Jefferson City, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3820,7 +4064,9 @@ And tread tho palace of tho sky
 </tr></table>
 
 <hr />
+
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1875-02-18/ed-1/seq-1)
+
 #### 1875-02-18 &middot; Russellville, Ark.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3868,7 +4114,9 @@ And tread the pa
 </tr></table>
 
 <hr />
+
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1875-03-04/ed-1/seq-1)
+
 #### 1875-03-04 &middot; Russellville, Ark.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3908,7 +4156,9 @@ Than al
 </tr></table>
 
 <hr />
+
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1878-03_96_573?page=67)
+
 #### 1878-03-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3958,7 +4208,9 @@ And tread the pala
 </tr></table>
 
 <hr />
+
 ## [From _Daily globe._](https://chroniclingamerica.loc.gov/lccn/sn83025287/1879-02-23/ed-1/seq-9)
+
 #### 1879-02-23 &middot; St. Paul, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3995,7 +4247,9 @@ Than all
 </tr></table>
 
 <hr />
+
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1879-03-14/ed-1/seq-1)
+
 #### 1879-03-14 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4024,7 +4278,9 @@ And trend the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1879-06-01/ed-1/seq-2)
+
 #### 1879-06-01 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4059,7 +4315,9 @@ Than
 </tr></table>
 
 <hr />
+
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1881-04-21/ed-1/seq-4)
+
 #### 1881-04-21 &middot; Edgefield, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4090,7 +4348,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1881-04-21/ed-1/seq-5)
+
 #### 1881-04-21 &middot; Edgefield, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4113,7 +4373,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Union times._](https://chroniclingamerica.loc.gov/lccn/sn84026918/1881-04-22/ed-1/seq-4)
+
 #### 1881-04-22 &middot; Union C.H., South Carolina
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4136,7 +4398,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _The weekly Union times._](https://chroniclingamerica.loc.gov/lccn/sn84026918/1881-04-22/ed-2/seq-4)
+
 #### 1881-04-22 &middot; Union C.H., South Carolina
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4159,7 +4423,9 @@ And tread the palace ol the sky
 </tr></table>
 
 <hr />
+
 ## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1881-06-30_14_326?page=7)
+
 #### 1881-06-30
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4199,7 +4465,9 @@ And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1881-07-16/ed-1/seq-1)
+
 #### 1881-07-16 &middot; Donaldsonville, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4230,7 +4498,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1881-08-18/ed-1/seq-1)
+
 #### 1881-08-18 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4261,7 +4531,9 @@ And tread
 </tr></table>
 
 <hr />
+
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1882-09-30_56_8?page=3)
+
 #### 1882-09-30 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4304,7 +4576,9 @@ And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## [From _Lake Charles commercial._](https://chroniclingamerica.loc.gov/lccn/2013271051/1884-05-24/ed-1/seq-1)
+
 #### 1884-05-24 &middot; Lake Charles, Calcasieu Parish, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4327,7 +4601,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _The Arkansaw traveler._](https://chroniclingamerica.loc.gov/lccn/sn90050009/1884-08-23/ed-1/seq-3)
+
 #### 1884-08-23 &middot; Little Rock, Ark.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4362,7 +4638,9 @@ And tread the palace of the sky
 </tr></table>
 
 <hr />
+
 ## [From _The comet._](https://chroniclingamerica.loc.gov/lccn/sn89058128/1884-08-30/ed-1/seq-4)
+
 #### 1884-08-30 &middot; Johnson City, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4387,7 +4665,9 @@ And tread the palace of tho
 </tr></table>
 
 <hr />
+
 ## [From _The Physicians' and Surgeons' Investigator; a Monthly Journal Devoted to the Best Interests of the Profession (1880-1889)_](https://iiif.archivelab.org/iiif/sim_physicians-and-surgeons-investigator_1884-11-15_5_11?page=24)
+
 #### 1884-11-15 &middot; Buffalo
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4442,7 +4722,9 @@ And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## [From _Springfield globe-republic._](https://chroniclingamerica.loc.gov/lccn/sn87076916/1885-02-09/ed-1/seq-3)
+
 #### 1885-02-09 &middot; Springfield, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4483,13 +4765,19 @@ And tread tho palace of the sky
 </tr></table>
 
 <hr />
+
 ## Line to a Skeleton
+
 #### From _The new Mississippian._
+
 #### 1885-07-07 &middot; Jackson, Miss.
 [This text is not available under an open license.]
 <hr />
+
 ## [TO A SKELETON](http://trove.nla.gov.au/ndp/del/article/72953426)
+
 #### From _The Horsham Times (Vic. : 1882 - 1954)_
+
 #### 1885-12-04 &middot; Horsham, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4534,7 +4822,9 @@ shall vie And tread the palace of t
 </td></tr></table>
 
 <hr />
+
 ## [From _The progressive farmer._](https://chroniclingamerica.loc.gov/lccn/sn92073049/1886-06-02/ed-1/seq-6)
+
 #### 1886-06-02 &middot; Winston, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4574,42 +4864,65 @@ To hew t
 </tr></table>
 
 <hr />
+
 ## The Temple of the Mind
+
 #### From _Morning Oregonian._
+
 #### 1887-08-17 &middot; Portland, Or.
 [This text is not available under an open license.]
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _Morning Oregonian._
+
 #### 1890-04-27 &middot; Portland, Or.
 [This text is not available under an open license.]
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _Morning Oregonian._
+
 #### 1890-04-28 &middot; Portland, Or.
 [This text is not available under an open license.]
 <hr />
+
 ## "Behold This Ruin; Was a Skull One of Ethereal Spirit Full
+
 #### From _Morning Oregonian._
+
 #### 1890-04-29 &middot; Portland, Or.
 [This text is not available under an open license.]
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _Morning Oregonian._
+
 #### 1890-04-30 &middot; Portland, Or.
 [This text is not available under an open license.]
 <hr />
+
 ## The Temple of the Mind "Fearfully and Wonderfully Made"
+
 #### From _Morning Oregonian._
+
 #### 1890-05-01 &middot; Portland, Or.
 [This text is not available under an open license.]
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _Morning Oregonian._
+
 #### 1890-05-02 &middot; Portland, Or.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The daily morning Astorian._](https://chroniclingamerica.loc.gov/lccn/sn96061150/1890-05-04/ed-1/seq-2)
+
 #### 1890-05-04 &middot; Astoria, Oregon
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4636,7 +4949,9 @@ When death unveils eternity.
 </tr></table>
 
 <hr />
+
 ## [From _The Seattle post-intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83045604/1890-05-06/ed-1/seq-6)
+
 #### 1890-05-06 &middot; Seattle, Wash. Terr. [Wash.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4659,7 +4974,9 @@ Yet gentle roactrt
 </tr></table>
 
 <hr />
+
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1890-05-09/ed-1/seq-3)
+
 #### 1890-05-09 &middot; Idaho City, Idaho Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4685,7 +5002,9 @@ ils eternit
 </tr></table>
 
 <hr />
+
 ## [From _The Mason County journal._](https://chroniclingamerica.loc.gov/lccn/sn88085081/1890-05-09/ed-1/seq-8)
+
 #### 1890-05-09 &middot; Shelton, W.T.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4712,7 +5031,9 @@ When death unveils eternity.
 </tr></table>
 
 <hr />
+
 ## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1891-01-31_4_10?page=0)
+
 #### 1891-01-31
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4787,7 +5108,9 @@ To tread the palace of t
 </tr></table>
 
 <hr />
+
 ## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1891-12-19_12_312?page=0)
+
 #### 1891-12-19
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4862,7 +5185,9 @@ And tread the palace of the sky !
 </tr></table>
 
 <hr />
+
 ## [From _The Music Magazine and Musical Courier 1880-1962_](https://iiif.archivelab.org/iiif/sim_music-magazine-and-musical-courier_1893-01-18_26_672?page=15)
+
 #### 1893-01-18
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4903,7 +5228,9 @@ And tread the palace of t
 </tr></table>
 
 <hr />
+
 ## [From _Morning journal and courier._](https://chroniclingamerica.loc.gov/lccn/sn82015483/1893-05-23/ed-1/seq-1)
+
 #### 1893-05-23 &middot; New Haven [Conn.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4931,7 +5258,9 @@ And tread the mansions of th. sky.
 </tr></table>
 
 <hr />
+
 ## [From _Grand Rapids herald._](https://chroniclingamerica.loc.gov/lccn/sn83016672/1893-08-15/ed-1/seq-3)
+
 #### 1893-08-15 &middot; Grand Rapids, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4962,7 +5291,9 @@ When death unveils eternity.
 </tr></table>
 
 <hr />
+
 ## [From _Grand Rapids herald._](https://chroniclingamerica.loc.gov/lccn/sn83016672/1893-08-17/ed-1/seq-2)
+
 #### 1893-08-17 &middot; Grand Rapids, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4982,7 +5313,9 @@ thee
 </tr></table>
 
 <hr />
+
 ## [From _Grand Rapids herald._](https://chroniclingamerica.loc.gov/lccn/sn83016672/1893-08-19/ed-1/seq-3)
+
 #### 1893-08-19 &middot; Grand Rapids, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5011,7 +5344,9 @@ When death unveils eternity
 </tr></table>
 
 <hr />
+
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1894-04-13/ed-1/seq-1)
+
 #### 1894-04-13 &middot; Pascagoula, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5037,7 +5372,9 @@ Hut in the dews of kin
 </tr></table>
 
 <hr />
+
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1895-09-13/ed-1/seq-3)
+
 #### 1895-09-13 &middot; Olympia, Wash. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5066,7 +5403,9 @@ When death unveils eternity.
 </tr></table>
 
 <hr />
+
 ## [From _Goldsboro weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn84020751/1896-04-30/ed-1/seq-1)
+
 #### 1896-04-30 &middot; Goldsboro, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5122,22 +5461,33 @@ T
 </tr></table>
 
 <hr />
+
 ## Lines to a Skeleton
+
 #### From _The Irish world and American industrial liberator._
+
 #### 1896-05-02 &middot; New York [N.Y.]
 [This text is not available under an open license.]
 <hr />
+
 ## Lines to a Skeleton
+
 #### From _The daily inter ocean._
+
 #### 1896-08-15 &middot; Chicago, Ill.
 [This text is not available under an open license.]
 <hr />
+
 ## Poor Humanity
+
 #### From _The daily inter ocean._
+
 #### 1896-09-06 &middot; Chicago, Ill.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Anaconda standard._](https://chroniclingamerica.loc.gov/lccn/sn84036012/1897-02-18/ed-2/seq-9)
+
 #### 1897-02-18 &middot; Anaconda, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5157,7 +5507,9 @@ Andhometo virtue&#x27;s co
 </tr></table>
 
 <hr />
+
 ## [From _The Atlanta constitution._](https://chroniclingamerica.loc.gov/lccn/sn89053706/1897-02-22/ed-1/seq-4)
+
 #### 1897-02-22 &middot; Atlanta, Ga.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5207,7 +5559,9 @@ And tread the palace ot the sky!”
 </tr></table>
 
 <hr />
+
 ## [From _The Pioche weekly record._](https://chroniclingamerica.loc.gov/lccn/sn86091346/1897-02-25/ed-1/seq-3)
+
 #### 1897-02-25 &middot; Pioche, Nev.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5258,7 +5612,9 @@ And tread the palace of th
 </tr></table>
 
 <hr />
+
 ## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1897-03_21_3?page=12)
+
 #### 1897-03-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5296,8 +5652,11 @@ And tread the palace of the sky.
 </tr></table>
 
 <hr />
+
 ## [TO A SKELETON. [The following verses were published anonypiously in the London "Morning Chronicle" in 1827. Nothwithstanding the offer of a reward of fifty guineas, the authors name has remained a secret until nearly sixty years had passed, when it was learned that the lines were written by Robert Philip, of Gormyre Cottage, Scotland. Toward the end of the year 1826 he wrote the verses while watching for body-snatchers in the parish church-yard of Torphichen, where, during the repairing of the church, the unearthing of a skeleton suggested the subject. The verses were shown to Dr John Alford, who procured a copy, and either by accident or intention dropped a copy in the Royal College of Surgeons, where they were found.]](http://trove.nla.gov.au/ndp/del/article/149738198)
+
 #### From _Geelong Advertiser (Vic. : 1859 - 1924)_
+
 #### 1897-03-06 &middot; Geelong, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5342,7 +5701,9 @@ tread tho nalace of t
 </td></tr></table>
 
 <hr />
+
 ## [From _The Winslow mail._](https://chroniclingamerica.loc.gov/lccn/sn96060765/1897-04-24/ed-1/seq-3)
+
 #### 1897-04-24 &middot; Winslow, Ariz.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5394,18 +5755,27 @@ And tread the palace
 </tr></table>
 
 <hr />
+
 ## The Temple of Mind "Fearfully and Wonderfully" Made
+
 #### From _Morning Oregonian._
+
 #### 1899-02-19 &middot; Portland, Or.
 [This text is not available under an open license.]
 <hr />
+
 ## Lines on a Skull.
+
 #### From _Southern Cultivator (1843-1906)_
+
 #### 1899-05-01 &middot; Atlanta
 [This text is not available under an open license.]
 <hr />
+
 ## [Poetry. TO A SKELETON.](http://trove.nla.gov.au/ndp/del/article/138999633)
+
 #### From _Wellington Times (NSW : 1899 - 1954)_
+
 #### 1899-06-05 &middot; Wellington, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 

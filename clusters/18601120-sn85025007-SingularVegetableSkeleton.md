@@ -1,7 +1,12 @@
+
 # A Singular Vegetable Skeleton
+
 ### 110 reprints from 1860-11-20 to 1893-03-21 [cl60]
+
 ## [A Singular Vegetable Skeleton](http://chroniclingamerica.loc.gov/lccn/sn85025007/1860-11-20/ed-1/seq-4/)
+
 #### From _Alexandria Gazette_
+
 #### 1860-11-20
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10,7 +15,9 @@ A SINGULAR VEGETABLE SKELETON.—A singular story is told of an apple tree plant
 </td></tr></table>
 
 <hr />
+
 ## [From _Daily Nashville patriot._](https://chroniclingamerica.loc.gov/lccn/sn83025725/1860-11-20/ed-1/seq-2)
+
 #### 1860-11-20 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -38,7 +45,9 @@ moulded thereto by the powers of vegetabl
 </tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1860-11-20/ed-1/seq-4)
+
 #### 1860-11-20 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -73,7 +82,9 @@ to by the powers of vegetable life
 </tr></table>
 
 <hr />
+
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1860-11-23/ed-1/seq-3)
+
 #### 1860-11-23 &middot; Keokuk, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -102,7 +113,9 @@ deed, modeled thereto by tbe powera of veg
 </tr></table>
 
 <hr />
+
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1860-11-29/ed-1/seq-1)
+
 #### 1860-11-29 &middot; Plymouth, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -142,12 +155,17 @@ thereto by the powers of vegetable lif
 </tr></table>
 
 <hr />
+
 ## A Singular Vegetable Skeleton
+
 #### From _The Dover gazette._
+
 #### 1860-12-01 &middot; Dover, N.H.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1860-12-06/ed-1/seq-1)
+
 #### 1860-12-06 &middot; Towanda, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -175,12 +193,17 @@ Williams, as if indeed, molded thereto by the
 </tr></table>
 
 <hr />
+
 ## Local and Maine Items
+
 #### From _Bangor daily Whig & courier._
+
 #### 1860-12-06 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
+
 #### 1860-12-22 &middot; Sioux City, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -206,7 +229,9 @@ the Federal District Coutt, declaring th
 </tr></table>
 
 <hr />
+
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
+
 #### 1860-12-22 &middot; Sioux City, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -230,7 +255,9 @@ sr out of the lattefs lei&#x27;.isal to surrender I ties of lb# toes of the skel
 </tr></table>
 
 <hr />
+
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
+
 #### 1860-12-22 &middot; Sioux City, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -250,7 +277,9 @@ Much dissatisfaction is expressed at the of the skeleton of Roger Ui liams, as i
 </tr></table>
 
 <hr />
+
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
+
 #### 1860-12-22 &middot; Sioux City, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -269,7 +298,9 @@ thence divided into two branches each one
 </tr></table>
 
 <hr />
+
 ## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1860-12-27/ed-1/seq-2)
+
 #### 1860-12-27 &middot; St. Charles City [Charles City], Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -291,7 +322,9 @@ ishment from the phosphates of th
 </tr></table>
 
 <hr />
+
 ## [From _The weekly pioneer and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016751/1860-12-28/ed-1/seq-6)
+
 #### 1860-12-28 &middot; Saint Paul, Minn. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -310,7 +343,9 @@ cupied by the knee joint, and the entir
 </tr></table>
 
 <hr />
+
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1860-12-29/ed-1/seq-1)
+
 #### 1860-12-29 &middot; Auburn, Placer County, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -339,7 +374,9 @@ to by the powers of vegetable life. &#x27;This si
 </tr></table>
 
 <hr />
+
 ## [From _The Jeffersonian Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028083/1861-01-04/ed-1/seq-4)
+
 #### 1861-01-04 &middot; Chardon, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -373,7 +410,9 @@ thereto by tho powers of vegetable life
 </tr></table>
 
 <hr />
+
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1861-02-14/ed-1/seq-1)
+
 #### 1861-02-14 &middot; Cumberland, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -404,7 +443,9 @@ ded I hereto Ly tiio powers of vcgitable.
 </tr></table>
 
 <hr />
+
 ## [From _The hydraulic press._](https://chroniclingamerica.loc.gov/lccn/sn93051083/1861-03-23/ed-1/seq-1)
+
 #### 1861-03-23 &middot; North San Juan, Nev. Co., Cal.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -434,7 +475,9 @@ power of vegetable life. This singularl
 </tr></table>
 
 <hr />
+
 ## [From _The Texas Republican._](https://chroniclingamerica.loc.gov/lccn/sn83025730/1861-04-13/ed-1/seq-1)
+
 #### 1861-04-13 &middot; Marshall, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -465,7 +508,9 @@ moulded thereto by the powers of vege
 </tr></table>
 
 <hr />
+
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1862-09-27/ed-1/seq-1)
+
 #### 1862-09-27 &middot; Shasta, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -494,7 +539,9 @@ ed thereto liy the powers of vegetable life.
 </tr></table>
 
 <hr />
+
 ## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1864-03-18/ed-1/seq-1)
+
 #### 1864-03-18 &middot; St. Albans, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -528,7 +575,9 @@ slavery of six millions of white men
 </tr></table>
 
 <hr />
+
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1864-04-15/ed-1/seq-4)
+
 #### 1864-04-15 &middot; Irasburgh, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -555,7 +604,9 @@ if, indeed, molded thereto by the power
 </tr></table>
 
 <hr />
+
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1865-09-14/ed-1/seq-1)
+
 #### 1865-09-14 &middot; Towanda, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -585,17 +636,25 @@ by the powers of vegetable life. This sin
 </tr></table>
 
 <hr />
+
 ## ROGER WILLIAMS
+
 #### From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_
+
 #### 1866-10-01 &middot; Cincinnati
 [This text is not available under an open license.]
 <hr />
+
 ## Reger Williams—Search for His Remains—His Body Absorbed by the Roots of a Tree—A Curious Incident
+
 #### From _The daily Cleveland herald._
+
 #### 1866-10-04 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1866-10-14/ed-1/seq-3)
+
 #### 1866-10-14 &middot; Chicago, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -615,7 +674,9 @@ a slight crook at the knee, which makes th
 </tr></table>
 
 <hr />
+
 ## [From _The tri-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn85042146/1866-10-16/ed-1/seq-3)
+
 #### 1866-10-16 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -635,7 +696,9 @@ crook at the knee, which makes the whol
 </tr></table>
 
 <hr />
+
 ## [From _The weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042148/1866-10-17/ed-1/seq-2)
+
 #### 1866-10-17 &middot; Raleigh, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -655,7 +718,9 @@ crook at the knee, which makes the whol
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1866-10-17/ed-1/seq-1)
+
 #### 1866-10-17 &middot; Mifflintown, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -676,7 +741,9 @@ slight crook at the knee, which make
 </tr></table>
 
 <hr />
+
 ## [From _The Weekly Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026193/1866-10-19/ed-1/seq-1)
+
 #### 1866-10-19 &middot; Perrysburg, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -696,7 +763,9 @@ ti e kneo, which makes the whole bear
 </tr></table>
 
 <hr />
+
 ## [From _The day book._](https://chroniclingamerica.loc.gov/lccn/sn85025697/1866-10-20/ed-1/seq-1)
+
 #### 1866-10-20 &middot; Norfolk, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -715,7 +784,9 @@ formed a slight crook at the knee, which mad
 </tr></table>
 
 <hr />
+
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1866-10-23/ed-1/seq-1)
+
 #### 1866-10-23 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -736,7 +807,9 @@ slight crook at the knee, which make
 </tr></table>
 
 <hr />
+
 ## [From _The south-western._](https://chroniclingamerica.loc.gov/lccn/sn83016483/1866-10-24/ed-1/seq-6)
+
 #### 1866-10-24 &middot; Shreveport, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -755,12 +828,17 @@ One of these roots formed a slight crook at th
 </tr></table>
 
 <hr />
+
 ## Roger Williams
+
 #### From _Milwaukee daily sentinel._
+
 #### 1866-10-25 &middot; [Milwaukee, Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1866-10-26/ed-1/seq-1)
+
 #### 1866-10-26 &middot; Portland, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -779,12 +857,17 @@ crook at the knee, which makes the whole l&gt;e.i
 </tr></table>
 
 <hr />
+
 ## ROGER WILLIAMS.-Ninety years after his death
+
 #### From _The Times_
+
 #### 1866-10-26 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8?page=3)
+
 #### 1866-10-27
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -803,7 +886,9 @@ the knee, which made the whole bear a very clos
 </tr></table>
 
 <hr />
+
 ## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1866-10-30/ed-1/seq-2)
+
 #### 1866-10-30 &middot; Davenport, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -822,12 +907,17 @@ upward lo the toe* O-eof these ro-i»f rt
 </tr></table>
 
 <hr />
+
 ## Who Ate Roger Williams?
+
 #### From _Bangor daily Whig & courier._
+
 #### 1866-10-31 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Conservative._](https://chroniclingamerica.loc.gov/lccn/sn87075001/1866-11-02/ed-1/seq-4)
+
 #### 1866-11-02 &middot; M'connelsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -846,17 +936,25 @@ formed a slight crook at . the knee
 </tr></table>
 
 <hr />
+
 ## Roger Wiliams—Search for His Remains—His Body Absorbed by the Roots of a Tree—A Curious Incident
+
 #### From _Daily evening bulletin._
+
 #### 1866-11-02 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## ROGER WILLIAMS.
+
 #### From _Glasgow Herald_
+
 #### 1866-11-03 &middot; Glasgow, Scotland
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1866-11-07/ed-1/seq-1)
+
 #### 1866-11-07 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -881,7 +979,9 @@ principle of vegeta
 </tr></table>
 
 <hr />
+
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1866-11-22/ed-1/seq-1)
+
 #### 1866-11-22 &middot; Towanda, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -902,7 +1002,9 @@ ed a slight crook at the knee, which mad
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1866-11-23/ed-1/seq-1)
+
 #### 1866-11-23 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -925,12 +1027,17 @@ formed a slight crook at the knee, whic
 </tr></table>
 
 <hr />
+
 ## CONSECRATION OF ST. PAUL'S CHURCH., CHOPPINGTON.
+
 #### From _Newcastle Courant_
+
 #### 1866-11-23 &middot; Newcastle-upon-Tyne, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1866-11-29/ed-1/seq-1)
+
 #### 1866-11-29 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -950,7 +1057,9 @@ these roots formed a slight crook at th
 </tr></table>
 
 <hr />
+
 ## [From _The Montana post._](https://chroniclingamerica.loc.gov/lccn/sn83025293/1866-12-01/ed-1/seq-1)
+
 #### 1866-12-01 &middot; Virginia City, Montana Territory [i.e. Mont.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -971,17 +1080,25 @@ at the knee, which made the whole bea
 </tr></table>
 
 <hr />
+
 ## OCCASIONAL NOTES.
+
 #### From _Pall Mall Gazette_
+
 #### 1866-12-03 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## GENERAL NEWS.
+
 #### From _Glasgow Herald_
+
 #### 1866-12-05 &middot; Glasgow, Scotland
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1866-12-08/ed-1/seq-1)
+
 #### 1866-12-08 &middot; Shasta, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1000,13 +1117,19 @@ ward to the toes. One of these roots had
 </tr></table>
 
 <hr />
+
 ## GENERAL NEWS.
+
 #### From _Bristol Mercury_
+
 #### 1866-12-08 &middot; Bristol, England
 [This text is not available under an open license.]
 <hr />
+
 ## [POLICE.](http://trove.nla.gov.au/ndp/del/article/112860461)
+
 #### From _The Ballarat Star (Vic. : 1865 - 1924)_
+
 #### 1867-01-02 &middot; Ballarat, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1024,8 +1147,11 @@ crook at the knee, which makes the whol
 </td></tr></table>
 
 <hr />
+
 ## [THE JAMAICA PROSECUTIONS.](http://trove.nla.gov.au/ndp/del/article/60605009)
+
 #### From _Empire (Sydney, NSW : 1850 - 1875)_
+
 #### 1867-01-19 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1043,8 +1169,11 @@ formed a slight crook at the knee, wblo
 </td></tr></table>
 
 <hr />
+
 ## [NEWS OF THE WEEK.](http://trove.nla.gov.au/ndp/del/article/91259650)
+
 #### From _South Australian Weekly Chronicle (Adelaide, SA : 1858 - 1867)_
+
 #### 1867-01-19 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1061,7 +1190,9 @@ slight crook at the knee, which make
 </td></tr></table>
 
 <hr />
+
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1867-01-31/ed-1/seq-1)
+
 #### 1867-01-31 &middot; Fayetteville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1084,8 +1215,11 @@ slight crook at the knee, whic
 </tr></table>
 
 <hr />
+
 ## [AN APPLE TREE ROBBING A GRAVE !](http://trove.nla.gov.au/ndp/del/article/90361043)
+
 #### From _The McIvor Times and Rodney Advertiser (Heathcote, Vic. : 1863 - 1918)_
+
 #### 1867-02-01 &middot; McIvor, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1104,13 +1238,19 @@ form. The graves were emptied of ever
 </td></tr></table>
 
 <hr />
+
 ## A Curious Incident
+
 #### From _The Hawaiian gazette._
+
 #### 1867-04-24 &middot; Honolulu [Oahu, Hawaii]
 [This text is not available under an open license.]
 <hr />
+
 ## [Miscellaneous.](http://trove.nla.gov.au/ndp/del/article/110068970)
+
 #### From _The Herald (Fremantle, WA : 1867 - 1886)_
+
 #### 1867-07-13 &middot; Fremantle, Western Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1138,8 +1278,11 @@ crook at the knee, which makes the whol
 </td></tr></table>
 
 <hr />
+
 ## [THE SERVANTS' HOME.](http://trove.nla.gov.au/ndp/del/article/20318686)
+
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
+
 #### 1868-05-23 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1159,12 +1302,17 @@ form. The graves were emptied of ever
 </td></tr></table>
 
 <hr />
+
 ## Who Ate Roger Williams?
+
 #### From _Lowell daily citizen and news._
+
 #### 1868-10-24 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Monthly Religious Magazine (1861-1869)_](https://iiif.archivelab.org/iiif/sim_monthly-religious-magazine-and-theological-review_1868-12_40_6?page=75)
+
 #### 1868-12-01 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1185,12 +1333,17 @@ stood the thief — t
 </tr></table>
 
 <hr />
+
 ## Who Are Roger Williams?
+
 #### From _Daily evening bulletin._
+
 #### 1868-12-02 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1868-12-07/ed-1/seq-1)
+
 #### 1868-12-07 &middot; Wheeling, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1212,17 +1365,25 @@ formed a slight crook at the knee
 </tr></table>
 
 <hr />
+
 ## The Cannibal Apple Ttree
+
 #### From _Daily Arkansas gazette._
+
 #### 1868-12-10 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
 <hr />
+
 ## Who Ate Roger Williams?
+
 #### From _Milwaukee daily sentinel._
+
 #### 1869-01-07 &middot; [Milwaukee, Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1869-01-21/ed-1/seq-1)
+
 #### 1869-01-21 &middot; Belfast, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1244,7 +1405,9 @@ formed a slight crook at the knee, whic
 </tr></table>
 
 <hr />
+
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1869-05-20/ed-1/seq-1)
+
 #### 1869-05-20 &middot; Tipton, Cedar Co., Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1264,7 +1427,9 @@ complaiut, lie applied to t^oy, landlady ue of these roots formed a slight crook
 </tr></table>
 
 <hr />
+
 ## [From _The Historical Magazine, and Notes and Queries Concerning the Antiquities, History, and Biography of America (1857-1875)_](https://iiif.archivelab.org/iiif/sim_historical-magazine-biography-of-america_1870-07_8_1?page=57)
+
 #### 1870-07-01 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1282,12 +1447,17 @@ One of these roots formed a slight crook at the
 </tr></table>
 
 <hr />
+
 ## Who Ate Roger Williams?
+
 #### From _The Milwaukee sentinel._
+
 #### 1871-06-15 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1871-09-13/ed-1/seq-1)
+
 #### 1871-09-13 &middot; Urbana, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1308,7 +1478,9 @@ at the knee, which made the whole bea
 </tr></table>
 
 <hr />
+
 ## [From _The union Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025134/1871-09-23/ed-1/seq-1)
+
 #### 1871-09-23 &middot; Sonora, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1327,7 +1499,9 @@ roots formed a slight crook at the knee, whic
 </tr></table>
 
 <hr />
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1871-09-29/ed-1/seq-1)
+
 #### 1871-09-29 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1349,7 +1523,9 @@ a close resemblance to the human form
 </tr></table>
 
 <hr />
+
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1871-10-07/ed-1/seq-1)
+
 #### 1871-10-07 &middot; Olympia, Wash. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1368,7 +1544,9 @@ upward to the toes. One of these root
 </tr></table>
 
 <hr />
+
 ## [From _The Hawaiian gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025121/1871-11-15/ed-1/seq-3)
+
 #### 1871-11-15 &middot; Honolulu [Oahu, Hawaii]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1387,7 +1565,9 @@ formed a slight crook at the knee, which made t
 </tr></table>
 
 <hr />
+
 ## [From _Wellman's Miscellany (1870-1873)_](https://iiif.archivelab.org/iiif/sim_wellmans-miscellany_1871-12_4_6?page=10)
+
 #### 1871-12-01 &middot; Detroit
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1407,7 +1587,9 @@ a slight crook at the knee, which make
 </tr></table>
 
 <hr />
+
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1872-05-30/ed-1/seq-1)
+
 #### 1872-05-30 &middot; Manchester, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1427,7 +1609,9 @@ these roots formed a slight crook al th
 </tr></table>
 
 <hr />
+
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1872-09-27/ed-1/seq-2)
+
 #### 1872-09-27 &middot; Jasper, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1460,12 +1644,17 @@ the
 </tr></table>
 
 <hr />
+
 ## Roger Williams's Grave
+
 #### From _Boston daily advertiser._
+
 #### 1874-03-05 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _New-York tribune._](https://chroniclingamerica.loc.gov/lccn/sn83030214/1874-03-23/ed-1/seq-6)
+
 #### 1874-03-23 &middot; New York [N.Y.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1487,7 +1676,9 @@ eton : but not a fragment ?if Roger&#x27;s remains re
 </tr></table>
 
 <hr />
+
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1874-04-01/ed-1/seq-4)
+
 #### 1874-04-01 &middot; New Orleans, La
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1511,7 +1702,9 @@ blance to the outlines of the skeleton; bu
 </tr></table>
 
 <hr />
+
 ## [From _The Grange advance._](https://chroniclingamerica.loc.gov/lccn/sn85025567/1874-04-08/ed-1/seq-10)
+
 #### 1874-04-08 &middot; Red Wing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1535,7 +1728,9 @@ resemblance to the outlines of the skele
 </tr></table>
 
 <hr />
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1874-04-16/ed-1/seq-3)
+
 #### 1874-04-16 &middot; Nashville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1560,8 +1755,11 @@ blance to the outlines of the skeleton
 </tr></table>
 
 <hr />
+
 ## [A SKELETON ABSORBED BY A TREE.](http://trove.nla.gov.au/ndp/del/article/77551184)
+
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
+
 #### 1874-06-20 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1584,8 +1782,11 @@ of the skeleton ; and not a fragment o
 </td></tr></table>
 
 <hr />
+
 ## [Telegraphic. REUTER'S TELEGRAM TO ASSOCIATED PRESS. [BY SUBMARINE TELEGRAPH.] English. TASMANIAN RAILWAYS. LONDON, June 27.](http://trove.nla.gov.au/ndp/del/article/1385092)
+
 #### From _The Brisbane Courier (Qld. : 1864 - 1933)_
+
 #### 1874-06-29 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1607,8 +1808,11 @@ skeloton ; but not a fragment of Roger&#x27;
 </td></tr></table>
 
 <hr />
+
 ## [A SKELETON ABSORBED BY A TREE.](http://trove.nla.gov.au/ndp/del/article/92766615)
+
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
+
 #### 1874-06-30 &middot; Clare, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1630,8 +1834,11 @@ the outlines of tie skeleton; and not
 </td></tr></table>
 
 <hr />
+
 ## [A SKELETON ABSORBED BY A TREE.](http://trove.nla.gov.au/ndp/del/article/64744751)
+
 #### From _Portland Guardian and Normanby General Advertiser (Vic. : 1842 - 1876)_
+
 #### 1874-07-03 &middot; Portland, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1654,8 +1861,11 @@ skeleton ; and not a fragiment o
 </td></tr></table>
 
 <hr />
+
 ## [The "Fourth Estate" in France.](http://trove.nla.gov.au/ndp/del/article/18331562)
+
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
+
 #### 1874-07-04 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1678,8 +1888,11 @@ skeleton : but not a fragment of Roger&#x27;
 </td></tr></table>
 
 <hr />
+
 ## [ENGLISH EXTRACTS.](http://trove.nla.gov.au/ndp/del/article/61899357)
+
 #### From _Clarence and Richmond Examiner and New England Advertiser (Grafton, NSW : 1859 - 1889)_
+
 #### 1874-07-14 &middot; Grafton, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1701,17 +1914,25 @@ to thc outlines of the skeleton j bu
 </td></tr></table>
 
 <hr />
+
 ## MATLOCK BATH.
+
 #### From _Derby Mercury_
+
 #### 1874-07-22 &middot; Derby, England
 [This text is not available under an open license.]
 <hr />
+
 ## THE FARMER'S JOURNAL.
+
 #### From _Trewman's Exeter Flying Post_
+
 #### 1874-07-22 &middot; Exeter, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1877-06-21/ed-1/seq-4)
+
 #### 1877-06-21 &middot; Manitowoc, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1732,12 +1953,17 @@ the human form. These roots ar
 </tr></table>
 
 <hr />
+
 ## Who Ate Roger Williams!
+
 #### From _Daily Arkansas gazette._
+
 #### 1877-06-24 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1877-08-02/ed-1/seq-2)
+
 #### 1877-08-02 &middot; Hillsborough [Hillsboro], Highland County, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1759,13 +1985,19 @@ the human form. These roots are
 </tr></table>
 
 <hr />
+
 ## Roger Williams
+
 #### From _St. Louis globe-Democrat._
+
 #### 1877-09-23 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
 <hr />
+
 ## [WHO ATE ROGER WILLIAMS](http://trove.nla.gov.au/ndp/del/article/135688119)
+
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
+
 #### 1877-11-23 &middot; Wollongong, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1784,7 +2016,9 @@ These roots ar
 </td></tr></table>
 
 <hr />
+
 ## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1892-11-03/ed-1/seq-3)
+
 #### 1892-11-03 &middot; Worthington, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1802,7 +2036,9 @@ ward to the toes. One of these formed
 </tr></table>
 
 <hr />
+
 ## [From _Hand County press._](https://chroniclingamerica.loc.gov/lccn/sn98062948/1892-11-03/ed-1/seq-3)
+
 #### 1892-11-03 &middot; Miller, Dakota [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1820,7 +2056,9 @@ ward to the toes. One of these formed
 </tr></table>
 
 <hr />
+
 ## [From _The Hope pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87096037/1892-11-04/ed-1/seq-3)
+
 #### 1892-11-04 &middot; Hope, N.D.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1840,7 +2078,9 @@ whole bear a w
 </tr></table>
 
 <hr />
+
 ## [From _The Hope pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87096037/1892-11-04/ed-2/seq-3)
+
 #### 1892-11-04 &middot; Hope, N.D.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1858,7 +2098,9 @@ ward to the toes. One of these formed
 </tr></table>
 
 <hr />
+
 ## [From _Griggs courier._](https://chroniclingamerica.loc.gov/lccn/sn88076998/1892-11-04/ed-1/seq-7)
+
 #### 1892-11-04 &middot; Cooperstown, Griggs Co., Dak. [N.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1876,7 +2118,9 @@ ward to the toes. One of these formed
 </tr></table>
 
 <hr />
+
 ## [From _Los Angeles herald._](https://chroniclingamerica.loc.gov/lccn/sn84025968/1892-11-19/ed-1/seq-10)
+
 #### 1892-11-19 &middot; Los Angeles [Calif.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1899,7 +2143,9 @@ knee.i, which made the whole bear
 </tr></table>
 
 <hr />
+
 ## [From _Peninsula enterprise._](https://chroniclingamerica.loc.gov/lccn/sn94060041/1892-11-19/ed-1/seq-1)
+
 #### 1892-11-19 &middot; Accomac, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1921,7 +2167,9 @@ these roots formed a slight crook at th
 </tr></table>
 
 <hr />
+
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1892-11-25/ed-1/seq-7)
+
 #### 1892-11-25 &middot; Bloomsburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1943,7 +2191,9 @@ these roots formed a slight crook at th
 </tr></table>
 
 <hr />
+
 ## [From _Evening capital._](https://chroniclingamerica.loc.gov/lccn/sn88065721/1892-11-26/ed-1/seq-1)
+
 #### 1892-11-26 &middot; Annapolis, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1965,7 +2215,9 @@ these roots formed a slight crook at th
 </tr></table>
 
 <hr />
+
 ## [From _Evening journal._](https://chroniclingamerica.loc.gov/lccn/sn85042354/1892-12-07/ed-1/seq-4)
+
 #### 1892-12-07 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1987,7 +2239,9 @@ these roots formed a slight crook at th
 </tr></table>
 
 <hr />
+
 ## [From _Freeland tribune._](https://chroniclingamerica.loc.gov/lccn/sn87080287/1892-12-12/ed-1/seq-2)
+
 #### 1892-12-12 &middot; Freeland, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2009,7 +2263,9 @@ these roots formed a slight crook at th
 </tr></table>
 
 <hr />
+
 ## [From _The Durham daily globe._](https://chroniclingamerica.loc.gov/lccn/sn91068305/1892-12-27/ed-1/seq-4)
+
 #### 1892-12-27 &middot; Durham, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2031,7 +2287,9 @@ thci-e roots formed a slight crook at di
 </tr></table>
 
 <hr />
+
 ## [From _The Madison daily leader._](https://chroniclingamerica.loc.gov/lccn/sn99062034/1893-02-06/ed-1/seq-2)
+
 #### 1893-02-06 &middot; Madison, S.D.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2053,7 +2311,9 @@ these roota formed a slight crook at th
 </tr></table>
 
 <hr />
+
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1893-03-21/ed-1/seq-3)
+
 #### 1893-03-21 &middot; Idaho City, Idaho Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 

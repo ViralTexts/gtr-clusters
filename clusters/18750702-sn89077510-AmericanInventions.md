@@ -1,7 +1,12 @@
+
 # American Inventions
+
 ### 183 reprints from 1875-08-21 to 1891-01-22 [cl4]
+
 ## [American Inventions](https://chroniclingamerica.loc.gov/lccn/sn89077510/1875-08-21/ed-1/seq-1/)
+
 #### From _The Workingman's Advocate_
+
 #### 1875-08-21
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10,7 +15,9 @@ The great American inventions, which have been adopted all over the world, are t
 </td></tr></table>
 
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1872-10-24/ed-1/seq-7)
+
 #### 1872-10-24 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -35,7 +42,9 @@ cessful composing machine for printers. Th
 </tr></table>
 
 <hr />
+
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1872-11-02/ed-1/seq-1)
+
 #### 1872-11-02 &middot; Frostburg, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -49,7 +58,9 @@ loom would he helpless, is American
 </tr></table>
 
 <hr />
+
 ## [From _Essex County herald._](https://chroniclingamerica.loc.gov/lccn/sn84023416/1873-08-16/ed-1/seq-1)
+
 #### 1873-08-16 &middot; Guildhall, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -71,12 +82,17 @@ would be helpless, is American. Th
 </tr></table>
 
 <hr />
+
 ## American Inventions
+
 #### From _Boston investigator._
+
 #### 1873-08-20 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-09-24/ed-1/seq-4)
+
 #### 1873-09-24 &middot; Somerset, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -96,7 +112,9 @@ would be helpless, is American. Th
 </tr></table>
 
 <hr />
+
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-10-04/ed-1/seq-4)
+
 #### 1873-10-04 &middot; Auburn, Placer County, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -110,7 +128,9 @@ loom would be helpless, is American. Th
 </tr></table>
 
 <hr />
+
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1873-10-18/ed-1/seq-1)
+
 #### 1873-10-18 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -127,7 +147,9 @@ Would be heltiless is Ativrrici.
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-11-01/ed-1/seq-1)
+
 #### 1873-11-01 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -142,7 +164,9 @@ be helpless, is American. The powe
 </tr></table>
 
 <hr />
+
 ## [From _Harper's weekly journal of civilization._](https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889?page=6)
+
 #### 1874-01-10 &middot; New York, N.Y.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -166,7 +190,9 @@ American. Navigation by stea
 </tr></table>
 
 <hr />
+
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1874-03-14/ed-1/seq-1)
+
 #### 1874-03-14 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -182,7 +208,9 @@ power loom would 1h helpless, i
 </tr></table>
 
 <hr />
+
 ## [From _The weekly democratic statesman._](https://chroniclingamerica.loc.gov/lccn/sn83021327/1874-04-09/ed-1/seq-3)
+
 #### 1874-04-09 &middot; Austin, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -201,8 +229,11 @@ helpless, is American. , Tbe power shuttle
 </tr></table>
 
 <hr />
+
 ## [RHYNIE. [From our own Correspondent] April 27.](http://trove.nla.gov.au/ndp/del/article/92766077)
+
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
+
 #### 1874-05-01 &middot; Clare, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -213,7 +244,9 @@ the pow6r4oom would • be helpless, i
 </td></tr></table>
 
 <hr />
+
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1874-06-04/ed-1/seq-1)
+
 #### 1874-06-04 &middot; Helena, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -233,7 +266,9 @@ less, is American. The power shuttle, whic
 </tr></table>
 
 <hr />
+
 ## [From _Republic; A Monthly Magazine Devoted to the Dissemination of Political Information 1873-1877_](https://iiif.archivelab.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2?page=54)
+
 #### 1875-02-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -247,7 +282,9 @@ ner and the power-loom would be helpless
 </tr></table>
 
 <hr />
+
 ## [From _Appletons' Journal of Literature, Science and Art (1869-1876)_](https://iiif.archivelab.org/iiif/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326?page=28)
+
 #### 1875-06-19 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -279,7 +316,9 @@ composing-machine for printers is American
 </tr></table>
 
 <hr />
+
 ## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1875-07-02/ed-1/seq-2)
+
 #### 1875-07-02 &middot; Somerset, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -310,7 +349,9 @@ cessful composing machine for printing
 </tr></table>
 
 <hr />
+
 ## [From _The anti-monopolist._](https://chroniclingamerica.loc.gov/lccn/sn85025587/1875-07-12/ed-1/seq-3)
+
 #### 1875-07-12 &middot; Saint Paul, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -324,7 +365,9 @@ would be helpless, is American. The power
 </tr></table>
 
 <hr />
+
 ## [From _The workingman's advocate._](https://chroniclingamerica.loc.gov/lccn/sn89077510/1875-08-21/ed-1/seq-1)
+
 #### 1875-08-21 &middot; Chicago [Ill.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -352,12 +395,17 @@ plication, by Hear Th
 </tr></table>
 
 <hr />
+
 ## American Inventions Abroad
+
 #### From _Lowell daily citizen and news._
+
 #### 1875-08-27 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1875-08-31/ed-1/seq-8)
+
 #### 1875-08-31 &middot; New Orleans [La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -384,7 +432,9 @@ successtul composing machine for printers
 </tr></table>
 
 <hr />
+
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1875-09-03/ed-1/seq-1)
+
 #### 1875-09-03 &middot; Dodgeville, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -413,7 +463,9 @@ composing-machine for printers
 </tr></table>
 
 <hr />
+
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1875-09-04/ed-1/seq-1)
+
 #### 1875-09-04 &middot; Canton, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -442,7 +494,9 @@ composing-machine for printers
 </tr></table>
 
 <hr />
+
 ## [From _Northern Ohio journal._](https://chroniclingamerica.loc.gov/lccn/sn84028194/1875-09-04/ed-1/seq-1)
+
 #### 1875-09-04 &middot; Painesville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -471,12 +525,17 @@ composing-machine for printers
 </tr></table>
 
 <hr />
+
 ## Facts of Science and Art
+
 #### From _Boston investigator._
+
 #### 1875-09-08 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Wilmington daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn84020594/1875-09-13/ed-1/seq-2)
+
 #### 1875-09-13 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -501,7 +560,9 @@ practical application, by Henry and Morse
 </tr></table>
 
 <hr />
+
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1875-09-17/ed-1/seq-2)
+
 #### 1875-09-17 &middot; Salisbury, Litchfield Co., Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -533,12 +594,17 @@ cessful composing machine for printers i
 </tr></table>
 
 <hr />
+
 ## YANKEE ingenuity promises to revelutionize the world
+
 #### From _The Galveston daily news._
+
 #### 1875-09-19 &middot; Houston [Tex.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1875-09-23/ed-1/seq-4)
+
 #### 1875-09-23 &middot; New Orleans [La.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -570,7 +636,9 @@ application, by Henry and Morse
 </tr></table>
 
 <hr />
+
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1875-09-28/ed-1/seq-1)
+
 #### 1875-09-28 &middot; Wheeling, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -601,7 +669,9 @@ tor printer
 </tr></table>
 
 <hr />
+
 ## [From _The Leavenworth weekly times._](https://chroniclingamerica.loc.gov/lccn/sn84027691/1875-10-07/ed-1/seq-1)
+
 #### 1875-10-07 &middot; Leavenworth, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -630,7 +700,9 @@ for printers
 </tr></table>
 
 <hr />
+
 ## [From _Chilton's Iron Age 1873-1983_](https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15?page=4)
+
 #### 1875-10-07
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -657,7 +729,9 @@ cessful composing machine for printers.
 </tr></table>
 
 <hr />
+
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234?page=5)
+
 #### 1875-10-09
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -686,7 +760,9 @@ for printers.
 </tr></table>
 
 <hr />
+
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1875-10-22/ed-1/seq-1)
+
 #### 1875-10-22 &middot; Idaho City, Idaho Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -717,7 +793,9 @@ printers
 </tr></table>
 
 <hr />
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-11-13/ed-1/seq-1)
+
 #### 1875-11-13 &middot; Shepherdstown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -747,7 +825,9 @@ ican. The gpage lathe is American.
 </tr></table>
 
 <hr />
+
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47?page=5)
+
 #### 1875-11-20 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -778,7 +858,9 @@ for printers.
 </tr></table>
 
 <hr />
+
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1875-11-25/ed-1/seq-4)
+
 #### 1875-11-25 &middot; Superior, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -812,7 +894,9 @@ t
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-12-01/ed-1/seq-1)
+
 #### 1875-12-01 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -827,7 +911,9 @@ threw the goblet on the floor. The ufacture of ice on a large scale. 14 Th
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-12-01/ed-1/seq-1)
+
 #### 1875-12-01 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -852,7 +938,9 @@ printers,
 </tr></table>
 
 <hr />
+
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-12-09/ed-1/seq-1)
+
 #### 1875-12-09 &middot; Centre Hall, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -883,7 +971,9 @@ printer*.
 </tr></table>
 
 <hr />
+
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1875-12-13/ed-1/seq-3)
+
 #### 1875-12-13 &middot; Barton, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -908,7 +998,9 @@ steam. 6, The hot air (caloric) engine.
 </tr></table>
 
 <hr />
+
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1875-12-13/ed-1/seq-3)
+
 #### 1875-12-13 &middot; Barton, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -927,7 +1019,9 @@ A meeting of the directors of the nn eleVator. 13, The artificial
 </tr></table>
 
 <hr />
+
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1875-12-13/ed-1/seq-3)
+
 #### 1875-12-13 &middot; Barton, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -947,7 +1041,9 @@ inecouinon party at tue rronuer The only successful composing machine
 </tr></table>
 
 <hr />
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1876-01-13/ed-1/seq-1)
+
 #### 1876-01-13 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -975,7 +1071,9 @@ successful
 </tr></table>
 
 <hr />
+
 ## [From _The daily Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053942/1876-01-20/ed-1/seq-2)
+
 #### 1876-01-20 &middot; Rock Island, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1010,7 +1108,9 @@ machine for prihters
 </tr></table>
 
 <hr />
+
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244?page=0)
+
 #### 1876-02-19
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1037,12 +1137,17 @@ practical application, by Henry and Morse.
 </tr></table>
 
 <hr />
+
 ## General and Personal
+
 #### From _St. Louis globe-Democrat._
+
 #### 1879-05-28 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1879-05-30/ed-1/seq-1)
+
 #### 1879-05-30 &middot; Iola, Allen County, Kansas
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1071,7 +1176,9 @@ fifteenth, the composing machine fo
 </tr></table>
 
 <hr />
+
 ## [From _The Silver state._](https://chroniclingamerica.loc.gov/lccn/sn84022060/1879-05-31/ed-1/seq-2)
+
 #### 1879-05-31 &middot; Unionville, Nev.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1101,7 +1208,9 @@ chine for printers.
 </tr></table>
 
 <hr />
+
 ## [From _Morning appeal._](https://chroniclingamerica.loc.gov/lccn/sn86076999/1879-06-04/ed-1/seq-2)
+
 #### 1879-06-04 &middot; Carson City, Nev.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1129,7 +1238,9 @@ the composing machine for printers. It i
 </tr></table>
 
 <hr />
+
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1879-06-19/ed-1/seq-1)
+
 #### 1879-06-19 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1158,7 +1269,9 @@ chine for printers. It is not rtea tna
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-06-26/ed-1/seq-3)
+
 #### 1879-06-26 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1189,7 +1302,9 @@ posing machine for printers. It i
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1879-07-31/ed-1/seq-4)
+
 #### 1879-07-31 &middot; Ravenna, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1219,7 +1334,9 @@ machine for printers. It is not ofte
 </tr></table>
 
 <hr />
+
 ## [From _American Machinist 1877-2009_](https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17?page=2)
+
 #### 1879-08-30
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1246,7 +1363,9 @@ composing machine for printers.
 </tr></table>
 
 <hr />
+
 ## [From _The Cincinnati daily star._](https://chroniclingamerica.loc.gov/lccn/sn85025759/1879-09-02/ed-1/seq-6)
+
 #### 1879-09-02 &middot; [Cincinnati, Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1274,12 +1393,17 @@ the composing machine for printers. I
 </tr></table>
 
 <hr />
+
 ## American Inventions
+
 #### From _Milwaukee daily sentinel._
+
 #### 1879-09-04 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-1)
+
 #### 1879-09-10 &middot; Watertown, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1308,7 +1432,9 @@ ers
 </tr></table>
 
 <hr />
+
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-2)
+
 #### 1879-09-10 &middot; Watertown, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1337,7 +1463,9 @@ composing machine for printers.
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-09-11/ed-1/seq-1)
+
 #### 1879-09-11 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1359,7 +1487,9 @@ ninth, the machine for manufacture
 </tr></table>
 
 <hr />
+
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-09-11/ed-1/seq-1)
+
 #### 1879-09-11 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1375,7 +1505,9 @@ composing machine for printers.
 </tr></table>
 
 <hr />
+
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1879-09-13/ed-1/seq-2)
+
 #### 1879-09-13 &middot; Superior, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1404,7 +1536,9 @@ composing machine for printers
 </tr></table>
 
 <hr />
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-10-02/ed-1/seq-2)
+
 #### 1879-10-02 &middot; Yorkville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1428,7 +1562,9 @@ for printers
 </tr></table>
 
 <hr />
+
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1879-10-23/ed-1/seq-1)
+
 #### 1879-10-23 &middot; Helena, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1454,12 +1590,17 @@ tbe composing machine for printers.
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _The Wisconsin state register._
+
 #### 1879-11-29 &middot; Portage, Columbia County, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1880-04-14/ed-1/seq-2)
+
 #### 1880-04-14 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1483,7 +1624,9 @@ nosing machine tor printers. A sixteenll
 </tr></table>
 
 <hr />
+
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1880-04-16/ed-1/seq-2)
+
 #### 1880-04-16 &middot; Wheeling, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1505,7 +1648,9 @@ plication. 15. The composing machin
 </tr></table>
 
 <hr />
+
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1880-04-21/ed-1/seq-1)
+
 #### 1880-04-21 &middot; Salisbury, Litchfield Co., Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1529,7 +1674,9 @@ The telephone
 </tr></table>
 
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1880-04-22/ed-1/seq-7)
+
 #### 1880-04-22 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1552,7 +1699,9 @@ e composing machine for printers
 </tr></table>
 
 <hr />
+
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1880-04-23/ed-1/seq-3)
+
 #### 1880-04-23 &middot; Paw Paw, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1575,7 +1724,9 @@ The composing machine for printers
 </tr></table>
 
 <hr />
+
 ## [From _Daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn93061632/1880-04-23/ed-1/seq-3)
+
 #### 1880-04-23 &middot; Las Vegas, N.M.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1599,7 +1750,9 @@ magnet and its practical application.
 </tr></table>
 
 <hr />
+
 ## [From _Northern Ohio journal._](https://chroniclingamerica.loc.gov/lccn/sn84028194/1880-05-01/ed-1/seq-4)
+
 #### 1880-05-01 &middot; Painesville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1622,7 +1775,9 @@ The composing machine for printers. .
 </tr></table>
 
 <hr />
+
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1880-05-05/ed-1/seq-1)
+
 #### 1880-05-05 &middot; Abbeville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1645,7 +1800,9 @@ lag on a large scale. 14. Th** electric
 </tr></table>
 
 <hr />
+
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1880-05-13/ed-1/seq-6)
+
 #### 1880-05-13 &middot; Ironton, Iron County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1668,7 +1825,9 @@ The composing machine for printers.
 </tr></table>
 
 <hr />
+
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1880-05-20/ed-1/seq-4)
+
 #### 1880-05-20 &middot; Bellevue, Bossier Parish, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1691,7 +1850,9 @@ The composing machine for printers.
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1880-05-20/ed-1/seq-4)
+
 #### 1880-05-20 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1729,12 +1890,17 @@ tiou. la. Ihe composing machin
 </tr></table>
 
 <hr />
+
 ## THE fifteen great American inventions of world-wide adoption are:
+
 #### From _St. Louis globe-Democrat._
+
 #### 1880-05-23 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25?page=6)
+
 #### 1880-06-17 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1760,7 +1926,9 @@ for printers.
 </tr></table>
 
 <hr />
+
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1880-06-24/ed-1/seq-1)
+
 #### 1880-06-24 &middot; [Wilmington, Del.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1789,12 +1957,17 @@ fifteenth, the composing machine fo
 </tr></table>
 
 <hr />
+
 ## Facts of Science and Art
+
 #### From _Boston investigator._
+
 #### 1880-07-14 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1880-11-06/ed-1/seq-3)
+
 #### 1880-11-06 &middot; Rock Island, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1822,7 +1995,9 @@ the composing machine for printers. I
 </tr></table>
 
 <hr />
+
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4?page=6)
+
 #### 1881-01-27 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1843,7 +2018,9 @@ and its practical application. 15. The compos
 </tr></table>
 
 <hr />
+
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1881-04-21/ed-1/seq-1)
+
 #### 1881-04-21 &middot; Mexico, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1871,7 +2048,9 @@ Artificial ice making on a large
 </tr></table>
 
 <hr />
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1881-04-26/ed-1/seq-1)
+
 #### 1881-04-26 &middot; Woodsfield, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1894,12 +2073,17 @@ The composing machine for printerst&#x27;
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _Georgia weekly telegraph, journal & messenger._
+
 #### 1881-06-03 &middot; Macon, Ga.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The daily Cairo bulletin._](https://chroniclingamerica.loc.gov/lccn/sn87082573/1881-06-10/ed-1/seq-1)
+
 #### 1881-06-10 &middot; Cairo, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1925,7 +2109,9 @@ tical application
 </tr></table>
 
 <hr />
+
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1881-06-11/ed-1/seq-1)
+
 #### 1881-06-11 &middot; Opelousas, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1959,7 +2145,9 @@ tica.l aplication
 </tr></table>
 
 <hr />
+
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1881-06-15/ed-1/seq-1)
+
 #### 1881-06-15 &middot; Newberry, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1985,7 +2173,9 @@ machine for printers. A sixteent
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1881-06-23/ed-1/seq-4)
+
 #### 1881-06-23 &middot; Ravenna, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2012,12 +2202,17 @@ tical application. ,- . i - , f
 </tr></table>
 
 <hr />
+
 ## Our Great Inventions
+
 #### From _The Wisconsin state register._
+
 #### 1881-06-25 &middot; Portage, Columbia County, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1881-07-15/ed-1/seq-2)
+
 #### 1881-07-15 &middot; Albany, Linn County, Oregon
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2039,7 +2234,9 @@ a large scale ; 1 4, the electric mag
 </tr></table>
 
 <hr />
+
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1881-07-15/ed-1/seq-4)
+
 #### 1881-07-15 &middot; Olympia, Wash. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2064,7 +2261,9 @@ tical application
 </tr></table>
 
 <hr />
+
 ## [From _The weekly miner._](https://chroniclingamerica.loc.gov/lccn/sn84036032/1881-08-09/ed-1/seq-6)
+
 #### 1881-08-09 &middot; Butte, Mont.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2090,7 +2289,9 @@ application
 </tr></table>
 
 <hr />
+
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1881-08-25/ed-1/seq-4)
+
 #### 1881-08-25 &middot; Belfast, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2111,7 +2312,9 @@ net and its practical application ; 15, th
 </tr></table>
 
 <hr />
+
 ## [From _The Stark County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028490/1881-08-25/ed-1/seq-7)
+
 #### 1881-08-25 &middot; Canton, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2136,7 +2339,9 @@ plication.15, The telephone.
 </tr></table>
 
 <hr />
+
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1881-08-29/ed-1/seq-4)
+
 #### 1881-08-29 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2160,7 +2365,9 @@ pons of tho world wide adoption, are:
 </tr></table>
 
 <hr />
+
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1881-09-07/ed-1/seq-1)
+
 #### 1881-09-07 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2183,17 +2390,25 @@ its practical application. 15. The com
 </tr></table>
 
 <hr />
+
 ## FROM BOMBAY TO CAWNPORE BY TROOP TRAIN
+
 #### From _Graphic_
+
 #### 1881-09-24 &middot; London, England
 [This text is not available under an open license.]
 <hr />
+
 ## American Ideas
+
 #### From _Daily evening bulletin._
+
 #### 1881-10-08 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Union County courier._](https://chroniclingamerica.loc.gov/lccn/sn84022137/1881-11-16/ed-1/seq-1)
+
 #### 1881-11-16 &middot; Elk Point, Union County, D.T. [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2226,7 +2441,9 @@ practical application
 </tr></table>
 
 <hr />
+
 ## [From _The Canton advocate._](https://chroniclingamerica.loc.gov/lccn/sn83025440/1882-01-05/ed-1/seq-5)
+
 #### 1882-01-05 &middot; Canton, D.T. [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2257,7 +2474,9 @@ shoes.
 </tr></table>
 
 <hr />
+
 ## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1882-10-12/ed-1/seq-4)
+
 #### 1882-10-12 &middot; Troy, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2282,7 +2501,9 @@ plication.I
 </tr></table>
 
 <hr />
+
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1882-10-26/ed-1/seq-1)
+
 #### 1882-10-26 &middot; Salina, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2315,7 +2536,9 @@ practical application
 </tr></table>
 
 <hr />
+
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5?page=3)
+
 #### 1884-08-16
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2336,7 +2559,9 @@ tical application. 15. The telephone.
 </tr></table>
 
 <hr />
+
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3?page=50)
+
 #### 1884-09-01 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2364,7 +2589,9 @@ chine for printers.
 </tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1885-04-23/ed-1/seq-4)
+
 #### 1885-04-23 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2398,7 +2625,9 @@ cal application
 </tr></table>
 
 <hr />
+
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1885-04-23/ed-2/seq-4)
+
 #### 1885-04-23 &middot; Anderson Court House, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2425,7 +2654,9 @@ lal application
 </tr></table>
 
 <hr />
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1886-04-13/ed-1/seq-1)
+
 #### 1886-04-13 &middot; Woodsfield, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2448,7 +2679,9 @@ cation 15 The telephone.
 </tr></table>
 
 <hr />
+
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1887-07-26/ed-1/seq-4)
+
 #### 1887-07-26 &middot; Savannah, Ga.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2469,12 +2702,17 @@ A Jackson. Mich., man owns the highes
 </tr></table>
 
 <hr />
+
 ## Popular Science
+
 #### From _Daily evening bulletin._
+
 #### 1887-08-13 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1887-08-13_64_1665?page=10)
+
 #### 1887-08-13 &middot; New York, N.Y.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2494,7 +2732,9 @@ electric magnet and its practical application ; and
 </tr></table>
 
 <hr />
+
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1887-08-20/ed-1/seq-7)
+
 #### 1887-08-20 &middot; Oakland, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2516,7 +2756,9 @@ its practical application; 15, the tele
 </tr></table>
 
 <hr />
+
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1887-08-24/ed-1/seq-1)
+
 #### 1887-08-24 &middot; Watertown, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2538,7 +2780,9 @@ its practical application; 15, the tele
 </tr></table>
 
 <hr />
+
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1887-08-27/ed-1/seq-4)
+
 #### 1887-08-27 &middot; Penn's Grove, Salem Co., N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2560,12 +2804,17 @@ its practical application; 15, the tele
 </tr></table>
 
 <hr />
+
 ## Bits of Science
+
 #### From _The daily picayune._
+
 #### 1887-08-28 &middot; New Orleans, La.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Indianapolis journal._](https://chroniclingamerica.loc.gov/lccn/sn82015679/1887-08-29/ed-1/seq-4)
+
 #### 1887-08-29 &middot; Indianapolis [Ind.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2585,12 +2834,17 @@ tical application; and, 15, the telephone
 </tr></table>
 
 <hr />
+
 ## NATURE AND SCIENCE.
+
 #### From _Hampshire/Portsmouth Telegraph_
+
 #### 1887-09-03 &middot; Portsmouth, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1887-09-07_64_36?page=6)
+
 #### 1887-09-07 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2613,12 +2867,17 @@ phone.
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _The Atchison daily globe._
+
 #### 1887-09-10 &middot; Atchison, Kan.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _American: A National Journal 1880-1900_](https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370?page=14)
+
 #### 1887-09-10
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2635,7 +2894,9 @@ electric magnet and its practical application ; and 15, the telephone.
 </tr></table>
 
 <hr />
+
 ## [From _The Atlanta constitution._](https://chroniclingamerica.loc.gov/lccn/sn89053706/1887-09-13/ed-1/seq-6)
+
 #### 1887-09-13 &middot; Atlanta, Ga.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2655,7 +2916,9 @@ magnet and its practical application; and,
 </tr></table>
 
 <hr />
+
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1887-09-15/ed-1/seq-4)
+
 #### 1887-09-15 &middot; Bellevue, Bossier Parish, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2677,7 +2940,9 @@ its practical application; 15, the tele
 </tr></table>
 
 <hr />
+
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1887-09-15_58_37?page=6)
+
 #### 1887-09-15 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2697,7 +2962,9 @@ plication ; and 15, the telephone.
 </tr></table>
 
 <hr />
+
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1887-09-21/ed-1/seq-7)
+
 #### 1887-09-21 &middot; Abbeville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2720,7 +2987,9 @@ its practical application, and 13, the
 </tr></table>
 
 <hr />
+
 ## [From _Fort Worth daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn86064205/1887-09-22/ed-1/seq-3)
+
 #### 1887-09-22 &middot; Fort Worth, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2752,7 +3021,9 @@ shoes
 </tr></table>
 
 <hr />
+
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1887-09-23/ed-1/seq-2)
+
 #### 1887-09-23 &middot; Perrysburg, Wood Co., O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2773,7 +3044,9 @@ net and Its practical application ; 15, lli
 </tr></table>
 
 <hr />
+
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1887-09-23/ed-1/seq-2)
+
 #### 1887-09-23 &middot; Ebensburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2795,7 +3068,9 @@ electric magnet and ltspracticalapplieation
 </tr></table>
 
 <hr />
+
 ## [From _Iowa County democrat._](https://chroniclingamerica.loc.gov/lccn/sn86086852/1887-09-23/ed-1/seq-4)
+
 #### 1887-09-23 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2822,7 +3097,9 @@ tical application
 </tr></table>
 
 <hr />
+
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1887-09-24/ed-1/seq-6)
+
 #### 1887-09-24 &middot; Ottawa, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2842,7 +3119,9 @@ electric iiiugnet and its practical application
 </tr></table>
 
 <hr />
+
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1887-09-29/ed-1/seq-4)
+
 #### 1887-09-29 &middot; St. Clairsville, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2869,7 +3148,9 @@ electric magnet au&#x27;d its practical application
 </tr></table>
 
 <hr />
+
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1887-10-01/ed-1/seq-6)
+
 #### 1887-10-01 &middot; McMinnville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2904,7 +3185,9 @@ practical application
 </tr></table>
 
 <hr />
+
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1887-10-05/ed-1/seq-6)
+
 #### 1887-10-05 &middot; Abbeville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2929,7 +3212,9 @@ its practical application, (15) the telephone.
 </tr></table>
 
 <hr />
+
 ## [From _Savannah courier._](https://chroniclingamerica.loc.gov/lccn/sn89058248/1887-10-06/ed-1/seq-2)
+
 #### 1887-10-06 &middot; Savannah, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2953,7 +3238,9 @@ its practical application; (lo) th
 </tr></table>
 
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1887-10-07/ed-1/seq-2)
+
 #### 1887-10-07 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2987,7 +3274,9 @@ practical application.
 </tr></table>
 
 <hr />
+
 ## [From _The Ouachita telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85034336/1887-10-08/ed-1/seq-2)
+
 #### 1887-10-08 &middot; Monroe, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3010,17 +3299,25 @@ t and its practical application; (15) th
 </tr></table>
 
 <hr />
+
 ## Multiple News Items
+
 #### From _The Wisconsin state register._
+
 #### 1887-10-08 &middot; Portage, Columbia County, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## Bits of Science
+
 #### From _The daily picayune._
+
 #### 1887-10-09 &middot; New Orleans, La.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1887-10-13/ed-1/seq-7)
+
 #### 1887-10-13 &middot; Ironton, Iron County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3042,7 +3339,9 @@ net and its practical application; 15
 </tr></table>
 
 <hr />
+
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1887-10-13/ed-1/seq-1)
+
 #### 1887-10-13 &middot; Manitowoc, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3065,8 +3364,11 @@ practical application, (15) the tele
 </tr></table>
 
 <hr />
+
 ## [N.S.W. Penny Postage.](http://trove.nla.gov.au/ndp/del/article/71090157)
+
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
+
 #### 1887-10-15 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3086,7 +3388,9 @@ applicat
 </td></tr></table>
 
 <hr />
+
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1887-10-19/ed-1/seq-1)
+
 #### 1887-10-19 &middot; Russellville, Ark.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3108,7 +3412,9 @@ net and its practical application; 1ft
 </tr></table>
 
 <hr />
+
 ## [From _The Lebanon express._](https://chroniclingamerica.loc.gov/lccn/sn97071028/1887-10-21/ed-1/seq-1)
+
 #### 1887-10-21 &middot; Lebanon, Linn County, Or.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3130,7 +3436,9 @@ its practical application; 15, the tele
 </tr></table>
 
 <hr />
+
 ## [From _The Iowa plain dealer._](https://chroniclingamerica.loc.gov/lccn/sn83025167/1887-10-27/ed-1/seq-1)
+
 #### 1887-10-27 &middot; New Oregon, Howard County, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3152,7 +3460,9 @@ not and Its practical application 15
 </tr></table>
 
 <hr />
+
 ## [From _The Kimball graphic._](https://chroniclingamerica.loc.gov/lccn/sn99068076/1887-10-28/ed-1/seq-4)
+
 #### 1887-10-28 &middot; Kimball, Brule County, Dakota [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3180,7 +3490,9 @@ FARM AND HOUSEHOLD.
 </tr></table>
 
 <hr />
+
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1887-10-29/ed-1/seq-4)
+
 #### 1887-10-29 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3202,7 +3514,9 @@ net and its practical application; 15
 </tr></table>
 
 <hr />
+
 ## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1887-10-30/ed-1/seq-15)
+
 #### 1887-10-30 &middot; Saint Paul, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3228,7 +3542,9 @@ THE POPE&#x27;S SECLUSION
 </tr></table>
 
 <hr />
+
 ## [From _Custer chronicle._](https://chroniclingamerica.loc.gov/lccn/sn97065762/1887-11-05/ed-1/seq-3)
+
 #### 1887-11-05 &middot; Custer City, Black Hills, D.T. [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3252,7 +3568,9 @@ phone.
 </tr></table>
 
 <hr />
+
 ## [From _The Clifton clarion._](https://chroniclingamerica.loc.gov/lccn/sn94050557/1887-11-09/ed-1/seq-1)
+
 #### 1887-11-09 &middot; Clifton, Graham County, A.T., Ariz.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3276,8 +3594,11 @@ it3 practical application; 15, th
 </tr></table>
 
 <hr />
+
 ## [Scientific Items.](http://trove.nla.gov.au/ndp/del/article/165222803)
+
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
+
 #### 1887-11-12 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3296,7 +3617,9 @@ practical application; 15, th
 </td></tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-11-30/ed-1/seq-1)
+
 #### 1887-11-30 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3318,7 +3641,9 @@ net and its plait i Ml application: l&quot;t
 </tr></table>
 
 <hr />
+
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1887-12-08/ed-1/seq-1)
+
 #### 1887-12-08 &middot; Winnsboro, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3336,7 +3661,9 @@ net anid its&#x27; practical&#x27; application; 1
 </tr></table>
 
 <hr />
+
 ## [From _Semi-weekly interior journal._](https://chroniclingamerica.loc.gov/lccn/sn85052020/1887-12-13/ed-1/seq-4)
+
 #### 1887-12-13 &middot; Stanford, Ky.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3360,7 +3687,9 @@ and its practical applictUon, and 15
 </tr></table>
 
 <hr />
+
 ## [From _Morris tribune._](https://chroniclingamerica.loc.gov/lccn/sn91059394/1887-12-14/ed-1/seq-3)
+
 #### 1887-12-14 &middot; Morris, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3383,7 +3712,9 @@ magnet aud its practical application-
 </tr></table>
 
 <hr />
+
 ## [From _Morris tribune._](https://chroniclingamerica.loc.gov/lccn/sn91059394/1887-12-14/ed-1/seq-4)
+
 #### 1887-12-14 &middot; Morris, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3406,7 +3737,9 @@ magnet and its practical application
 </tr></table>
 
 <hr />
+
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1887-12-16/ed-1/seq-1)
+
 #### 1887-12-16 &middot; Olympia, Wash. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3431,8 +3764,11 @@ Tiik Central Committee of the pro
 </tr></table>
 
 <hr />
+
 ## [Needles. "Short Sharp, Shiny."](http://trove.nla.gov.au/ndp/del/article/92866555)
+
 #### From _South Australian Weekly Chronicle (Adelaide, SA : 1881 - 1889)_
+
 #### 1887-12-24 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3451,8 +3787,11 @@ practical application; 15. Th
 </td></tr></table>
 
 <hr />
+
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/36424010)
+
 #### From _The South Australian Advertiser (Adelaide, SA : 1858 - 1889)_
+
 #### 1887-12-28 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3473,7 +3812,9 @@ application; 15. He telephone
 </td></tr></table>
 
 <hr />
+
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-01-13/ed-1/seq-6)
+
 #### 1888-01-13 &middot; Wessington Springs, Aurora County, Dakota [S.D.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3502,7 +3843,9 @@ application 15, the teleplaone.
 </tr></table>
 
 <hr />
+
 ## [From _Lake Charles commercial._](https://chroniclingamerica.loc.gov/lccn/2013271051/1888-01-14/ed-1/seq-3)
+
 #### 1888-01-14 &middot; Lake Charles, Calcasieu Parish, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3526,8 +3869,11 @@ net and its practical application
 </tr></table>
 
 <hr />
+
 ## [Pastoral News, Stock Movements, and Markets.](http://trove.nla.gov.au/ndp/del/article/18959533)
+
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
+
 #### 1888-01-21 &middot; Maitland, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3547,8 +3893,11 @@ practical application; 15, th
 </td></tr></table>
 
 <hr />
+
 ## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/72882356)
+
 #### From _The Horsham Times (Vic. : 1882 - 1954)_
+
 #### 1888-03-09 &middot; Horsham, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3568,8 +3917,11 @@ p&#x27;ra?tical appli?ition; and 5ll th
 </td></tr></table>
 
 <hr />
+
 ## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/140554537)
+
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
+
 #### 1888-03-16 &middot; Riverina Region, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3589,8 +3941,11 @@ application; and 15, the telephone. Th
 </td></tr></table>
 
 <hr />
+
 ## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/167930706)
+
 #### From _Mackay Mercury (Qld. : 1887 - 1905)_
+
 #### 1888-03-24 &middot; Mackay, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3610,8 +3965,11 @@ practical application; and 13, tli
 </td></tr></table>
 
 <hr />
+
 ## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/108343802)
+
 #### From _Kapunda Herald (SA : 1878 - 1951)_
+
 #### 1888-03-27 &middot; Kapunda, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3630,7 +3988,9 @@ its practical application : and 13, th
 </td></tr></table>
 
 <hr />
+
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1888-03-30/ed-1/seq-3)
+
 #### 1888-03-30 &middot; Idaho City, Idaho Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3652,7 +4012,9 @@ j not and its practical application; 15
 </tr></table>
 
 <hr />
+
 ## [From _The Magnolia gazette._](https://chroniclingamerica.loc.gov/lccn/sn85034447/1888-04-28/ed-1/seq-1)
+
 #### 1888-04-28 &middot; Magnolia, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3677,8 +4039,11 @@ net and its practical application
 </tr></table>
 
 <hr />
+
 ## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/77500303)
+
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
+
 #### 1888-04-28 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3698,7 +4063,9 @@ application ; and 15, the telephone. Th
 </td></tr></table>
 
 <hr />
+
 ## [From _Industry Week 1880-2016_](https://iiif.archivelab.org/iiif/sim_industry-week_1888-05-03_21_19?page=10)
+
 #### 1888-05-03
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3718,8 +4085,11 @@ tion; 15, the telephone.
 </tr></table>
 
 <hr />
+
 ## [SCIENCE AND INVENTION.](http://trove.nla.gov.au/ndp/del/article/88550068)
+
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
+
 #### 1888-06-09 &middot; Bendigo, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3740,8 +4110,11 @@ pleased is the lvnpcror Francis Josep
 </td></tr></table>
 
 <hr />
+
 ## [PROPOSED UNION OF TASMANIA TO VICTORIA.](http://trove.nla.gov.au/ndp/del/article/58464749)
+
 #### From _Mercury and Weekly Courier (Vic. : 1878 - 1903)_
+
 #### 1888-08-24 &middot; Fitzroy, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3762,12 +4135,17 @@ practical&#x27;application ; and, 15, th
 </td></tr></table>
 
 <hr />
+
 ## General Intelligence
+
 #### From _Boston investigator._
+
 #### 1888-08-29 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Arizona silver belt._](https://chroniclingamerica.loc.gov/lccn/sn84021913/1888-09-29/ed-1/seq-4)
+
 #### 1888-09-29 &middot; Globe City, Pinal County, Ariz.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3790,7 +4168,9 @@ Tho gauge lathe 12 Th
 </tr></table>
 
 <hr />
+
 ## [From _Omaha daily bee._](https://chroniclingamerica.loc.gov/lccn/sn99021999/1888-09-30/ed-1/seq-12)
+
 #### 1888-09-30 &middot; Omaha [Neb.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3813,7 +4193,9 @@ cation. 15. The telephone
 </tr></table>
 
 <hr />
+
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1888-10-04_59_40?page=7)
+
 #### 1888-10-04 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3834,7 +4216,9 @@ application; 16, The telephone.
 </tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1888-10-31/ed-1/seq-3)
+
 #### 1888-10-31 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3855,7 +4239,9 @@ electric magnet and its
 </tr></table>
 
 <hr />
+
 ## [From _The Fairfield news and herald._](https://chroniclingamerica.loc.gov/lccn/2012218613/1888-10-31/ed-1/seq-4)
+
 #### 1888-10-31 &middot; Winnsboro, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3882,7 +4268,9 @@ application
 </tr></table>
 
 <hr />
+
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1888-11-14/ed-1/seq-2)
+
 #### 1888-11-14 &middot; New Ulm, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3905,7 +4293,9 @@ practical application 15, The tele
 </tr></table>
 
 <hr />
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1888-11-30/ed-1/seq-4)
+
 #### 1888-11-30 &middot; Shepherdstown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3928,7 +4318,9 @@ and its practical application; 15, Th
 </tr></table>
 
 <hr />
+
 ## [From _The Democrat._](https://chroniclingamerica.loc.gov/lccn/sn92073907/1889-01-03/ed-1/seq-4)
+
 #### 1889-01-03 &middot; Scotland Neck, Halifax Co., N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3950,7 +4342,9 @@ net and its practical application ; 15
 </tr></table>
 
 <hr />
+
 ## [From _Wheeling Sunday register._](https://chroniclingamerica.loc.gov/lccn/sn86092523/1889-01-06/ed-1/seq-3)
+
 #### 1889-01-06 &middot; Wheeling, W. Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3973,13 +4367,19 @@ Congressman Ford says of the work o
 </tr></table>
 
 <hr />
+
 ## Great American Inventions
+
 #### From _The Milwaukee sentinel._
+
 #### 1889-01-06 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [POPULAR SCIENCE.](http://trove.nla.gov.au/ndp/del/article/109493060)
+
 #### From _Petersburg Times (SA : 1887 - 1919)_
+
 #### 1889-03-01 &middot; Peterborough, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3999,7 +4399,9 @@ practical application; 15. Th
 </td></tr></table>
 
 <hr />
+
 ## [From _Baxter Springs news._](https://chroniclingamerica.loc.gov/lccn/sn83040592/1891-01-17/ed-1/seq-7)
+
 #### 1891-01-17 &middot; Baxter Springs, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4023,7 +4425,9 @@ The Sterling, (TUee county, KaasaB
 </tr></table>
 
 <hr />
+
 ## [From _Indian chieftain._](https://chroniclingamerica.loc.gov/lccn/sn83025010/1891-01-22/ed-1/seq-4)
+
 #### 1891-01-22 &middot; Vinita, Indian Territory [Okla.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 

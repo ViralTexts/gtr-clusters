@@ -1,8 +1,14 @@
+
 # A Literary Curiosity
+
 ### 200 reprints from 1868-03-08 to 1899-06-10 [cl51]
+
 ## [A Literary Curiosity](http://chroniclingamerica.loc.gov/lccn/sn82015775/1868-03-08/ed-1/seq-3/)
+
 #### by H. A. Deming
+
 #### From _The New Orleans Crescent_
+
 #### 1868-03-08
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -72,17 +78,25 @@ LIFE.
 </td></tr></table>
 
 <hr />
+
 ## A Literary Curiosity
+
 #### From _The Hawaiian gazette._
+
 #### 1868-02-26 &middot; Honolulu [Oahu, Hawaii]
 [This text is not available under an open license.]
 <hr />
+
 ## A Literary Curiosity
+
 #### From _Daily national intelligencer._
+
 #### 1868-03-02 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The New Orleans crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015775/1868-03-08/ed-1/seq-3)
+
 #### 1868-03-08 &middot; New Orleans, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -115,7 +129,9 @@ S38-For, live we how we na, yet die we mua
 </tr></table>
 
 <hr />
+
 ## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1868-03-09/ed-1/seq-2)
+
 #### 1868-03-09 &middot; Rock Island, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -185,12 +201,17 @@ Mason; 36, Hill; 37, Dana; 38, Shakespeare
 </tr></table>
 
 <hr />
+
 ## A Literary Curiosity
+
 #### From _The Independent press._
+
 #### 1868-03-20 &middot; Ripley, Ohio
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13?page=2)
+
 #### 1868-03-28 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -279,7 +300,9 @@ Southwell; 11. Congreve ; 12 13. ter; 14 ter, if you please? He is no more a gen
 </tr></table>
 
 <hr />
+
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4?page=12)
+
 #### 1868-03-28 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -332,7 +355,9 @@ il—Her sensual snares let faithless pleasures lay,
 </tr></table>
 
 <hr />
+
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4?page=12)
+
 #### 1868-03-28 &middot; Philadelphia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -370,17 +395,25 @@ speare.
 </tr></table>
 
 <hr />
+
 ## A LITERARY CURIOSITY.
+
 #### From _New York Observer and Chronicle (1833-1912)_
+
 #### 1868-04-02 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## A LITERARY CURIOSITY.
+
 #### From _New York Observer and Chronicle (1833-1912)_
+
 #### 1868-04-02 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1868-04-04/ed-1/seq-2)
+
 #### 1868-04-04 &middot; Davenport, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -416,7 +449,9 @@ nee i
 </tr></table>
 
 <hr />
+
 ## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1868-04-04/ed-1/seq-2)
+
 #### 1868-04-04 &middot; Davenport, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -444,7 +479,9 @@ kins :H, Horrick 35, Willi mi Maeon
 </tr></table>
 
 <hr />
+
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1868-04-09/ed-1/seq-1)
+
 #### 1868-04-09 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -512,7 +549,9 @@ Shakspeare.&#x27; &#x27; . &#x27; . !
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1868-04-24/ed-1/seq-1)
+
 #### 1868-04-24 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -588,7 +627,9 @@ i Dana;
 </tr></table>
 
 <hr />
+
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+
 #### 1868-04-25
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -623,7 +664,9 @@ hastenea up among the rioters. But now cries of | 14—And throw a cruel sunshin
 </tr></table>
 
 <hr />
+
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+
 #### 1868-04-25
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -660,7 +703,9 @@ the door-way, and in a few moments more the 54 we masters grow ot ail Geek we de
 </tr></table>
 
 <hr />
+
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+
 #### 1868-04-25
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -699,7 +744,9 @@ Dryden, 32 Francis Quarles, 33 Watkins, 34 Her
 </tr></table>
 
 <hr />
+
 ## [From _The Hancock Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85042591/1868-05-01/ed-1/seq-1)
+
 #### 1868-05-01 &middot; Findlay, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -797,17 +844,25 @@ Dryden ; 33, Francis Quarles ; S3, Walklos ;
 </tr></table>
 
 <hr />
+
 ## A Literary Curiosity
+
 #### From _Bangor daily Whig & courier._
+
 #### 1868-05-13 &middot; Bangor, Me.
 [This text is not available under an open license.]
 <hr />
+
 ## A Literary Curisity
+
 #### From _The Union and Dakotaian._
+
 #### 1868-05-16 &middot; Yankton, Dakota Territory [S.D.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The workingman's advocate._](https://chroniclingamerica.loc.gov/lccn/sn89077510/1868-05-30/ed-1/seq-4)
+
 #### 1868-05-30 &middot; Chicago [Ill.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -830,7 +885,9 @@ ber of each line refers to Its author below.
 </tr></table>
 
 <hr />
+
 ## [From _The workingman's advocate._](https://chroniclingamerica.loc.gov/lccn/sn89077510/1868-05-30/ed-1/seq-4)
+
 #### 1868-05-30 &middot; Chicago [Ill.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -854,7 +911,9 @@ CrurcMIl. ?t, loctiwtor, 14. Armstrong 13, Mxlton.
 </tr></table>
 
 <hr />
+
 ## [From _Clarksville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061077/1868-06-26/ed-1/seq-1)
+
 #### 1868-06-26 &middot; Clarksville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -917,7 +976,9 @@ self be Just:
 </tr></table>
 
 <hr />
+
 ## [From _Sphinx. A Journal of Humour and Criticism 1868-1871_](https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2?page=12)
+
 #### 1868-08-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1020,12 +1081,17 @@ Dana; 38, Shakspere.
 </tr></table>
 
 <hr />
+
 ## Poetry.
+
 #### From _Bristol Mercury_
+
 #### 1868-08-22 &middot; Bristol, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1868-09-11/ed-1/seq-1)
+
 #### 1868-09-11 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1075,7 +1141,9 @@ well
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1868-09-11/ed-1/seq-1)
+
 #### 1868-09-11 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1098,7 +1166,9 @@ ric
 </tr></table>
 
 <hr />
+
 ## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39?page=4)
+
 #### 1868-09-26
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1207,7 +1277,9 @@ Mason ; 36, Hill; 37. Dana; 38. Shakspere.
 </tr></table>
 
 <hr />
+
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1868-09-27/ed-1/seq-1)
+
 #### 1868-09-27 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1288,12 +1360,17 @@ stronz: 15. Milloa: lti. BaPey: 17. &#x27;trench
 </tr></table>
 
 <hr />
+
 ## LITERATURE.
+
 #### From _Derby Mercury_
+
 #### 1868-09-30 &middot; Derby, England
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1868-10-02/ed-1/seq-1)
+
 #### 1868-10-02 &middot; Oregon, Missouri.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1337,7 +1414,9 @@ nice
 </tr></table>
 
 <hr />
+
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1868-10-02/ed-1/seq-1)
+
 #### 1868-10-02 &middot; Oregon, Missouri.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1368,8 +1447,11 @@ SI Hint iium Ihestnlee wliollv
 </tr></table>
 
 <hr />
+
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/77166222)
+
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
+
 #### 1868-11-25 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1447,8 +1529,11 @@ Cowper; 27, Sir Wm. Davenant; 28, Gray;
 </td></tr></table>
 
 <hr />
+
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/20321954)
+
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
+
 #### 1868-12-19 &middot; Brisbane, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1506,7 +1591,9 @@ Shakespeare. What if you fail i
 </td></tr></table>
 
 <hr />
+
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1869-01-06/ed-1/seq-1)
+
 #### 1869-01-06 &middot; Alexandria, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1598,8 +1685,11 @@ Hill; 37, Dana; 38, Shakspeare
 </tr></table>
 
 <hr />
+
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/158936459)
+
 #### From _Adelaide Observer (SA : 1843 - 1904)_
+
 #### 1869-03-27 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1678,8 +1768,11 @@ Quarles; 3-3,
 </td></tr></table>
 
 <hr />
+
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/169267052)
+
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
+
 #### 1869-04-10 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1753,7 +1846,9 @@ Quades-Watkins; 34,
 </td></tr></table>
 
 <hr />
+
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1869-05-15/ed-1/seq-1)
+
 #### 1869-05-15 &middot; Elkton, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1854,7 +1949,9 @@ Hill: 37, Dana; 38. Shakespeare
 </tr></table>
 
 <hr />
+
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468?page=56)
+
 #### 1869-06-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1872,7 +1969,9 @@ poets of the past and present time :
 </tr></table>
 
 <hr />
+
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468?page=56)
+
 #### 1869-06-01 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1899,7 +1998,9 @@ For, live we how we can, yet die we must
 </tr></table>
 
 <hr />
+
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1869-06-17/ed-1/seq-1)
+
 #### 1869-06-17 &middot; Leonard Town, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2003,7 +2104,9 @@ Charles&#x27;: -JJ, Watkins; 34, Herrick:
 </tr></table>
 
 <hr />
+
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1869-07-03/ed-1/seq-4)
+
 #### 1869-07-03 &middot; Middletown, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2025,7 +2128,9 @@ thor below
 </tr></table>
 
 <hr />
+
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1869-07-03/ed-1/seq-4)
+
 #### 1869-07-03 &middot; Middletown, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2130,7 +2235,9 @@ Dunn ; 39, Shakspearc.
 </tr></table>
 
 <hr />
+
 ## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1869-10-22/ed-1/seq-4)
+
 #### 1869-10-22 &middot; Burlington, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2209,7 +2316,9 @@ Diana; 3b, Shakspeare
 </tr></table>
 
 <hr />
+
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19?page=11)
+
 #### 1869-11-06 &middot; St. Louis, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2227,7 +2336,9 @@ leading poets of the past and present :—
 </tr></table>
 
 <hr />
+
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-12-16/ed-1/seq-1)
+
 #### 1869-12-16 &middot; Troy, Lincoln County, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2279,7 +2390,9 @@ ter Devenant. 18, Grey. 1,
 </tr></table>
 
 <hr />
+
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1870-03-01/ed-1/seq-3)
+
 #### 1870-03-01 &middot; New Bloomfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2345,8 +2458,11 @@ Heattie; 20. Cow per; 27, Sir Walter Davcnant;
 </tr></table>
 
 <hr />
+
 ## [LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/101471480)
+
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
+
 #### 1870-10-15 &middot; Goulburn, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2410,7 +2526,9 @@ yet die we must. Shakslenae
 </td></tr></table>
 
 <hr />
+
 ## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1872-06-01_9_231?page=12)
+
 #### 1872-06-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2455,8 +2573,11 @@ Wh at is ambition ? ’Tis a glorious ch
 </tr></table>
 
 <hr />
+
 ## [SELECT POETRY. A Literary Curiosity.](http://trove.nla.gov.au/ndp/del/article/135876714)
+
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
+
 #### 1872-08-06 &middot; Wollongong, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2479,7 +2600,9 @@ Harriet, 35
 </td></tr></table>
 
 <hr />
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1873-03-28/ed-1/seq-1)
+
 #### 1873-03-28 &middot; Romney, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2509,7 +2632,9 @@ Dana—38, Shakespeare
 </tr></table>
 
 <hr />
+
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22?page=5)
+
 #### 1873-05-29 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2559,7 +2684,9 @@ Wiliam Mason; 36 Hill; 37 Dana; 38 Shakespeare,
 </tr></table>
 
 <hr />
+
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1873-12-14/ed-1/seq-2)
+
 #### 1873-12-14 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2581,7 +2708,9 @@ For, live we how we can, yet die we must
 </tr></table>
 
 <hr />
+
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1874-11-23/ed-1/seq-1)
+
 #### 1874-11-23 &middot; Barton, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2618,12 +2747,17 @@ Think not ambition wise because &#x27;tis brave
 </tr></table>
 
 <hr />
+
 ## A Poetical Melange
+
 #### From _St. Louis globe-Democrat._
+
 #### 1876-07-16 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-09-07/ed-1/seq-6)
+
 #### 1876-09-07 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2693,7 +2827,9 @@ nant; 28, Gray; 29, Willis; 30, Addison; 31, Dryden;
 </tr></table>
 
 <hr />
+
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1876-09-08/ed-1/seq-6)
+
 #### 1876-09-08 &middot; Paw Paw, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2751,7 +2887,9 @@ jut,
 </tr></table>
 
 <hr />
+
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1876-10-12/ed-1/seq-2)
+
 #### 1876-10-12 &middot; Mexico, Mo.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2829,7 +2967,9 @@ rick; 35. Mason; 36. Hill; 37.. Dana; 38. Shak­
 </tr></table>
 
 <hr />
+
 ## [From _Dodge City times._](https://chroniclingamerica.loc.gov/lccn/sn84029838/1876-10-14/ed-1/seq-6)
+
 #### 1876-10-14 &middot; Dodge City, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2912,7 +3052,9 @@ rope; inor;o. ewcu;i. spencer; 7. iantei;
 </tr></table>
 
 <hr />
+
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278?page=9)
+
 #### 1876-11-11
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3030,8 +3172,11 @@ Shakspeare.
 </tr></table>
 
 <hr />
+
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/77046668)
+
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
+
 #### 1877-03-03 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3089,7 +3234,9 @@ not com
 </td></tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1877-05-01/ed-1/seq-1)
+
 #### 1877-05-01 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3170,7 +3317,9 @@ speare.
 </tr></table>
 
 <hr />
+
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1877-08-03/ed-1/seq-4)
+
 #### 1877-08-03 &middot; Ashtabula, Ohio
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3239,12 +3388,17 @@ Dana; 38 Shakespeare.
 </tr></table>
 
 <hr />
+
 ## THE NEW FOREIGN SECRETARY.
+
 #### From _Aberdeen Journal_
+
 #### 1878-04-03 &middot; Aberdeen, Scotland
 [This text is not available under an open license.]
 <hr />
+
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350?page=5)
+
 #### 1878-04-27
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3330,12 +3484,17 @@ Shakespeare.
 </tr></table>
 
 <hr />
+
 ## A Poem of Scraps
+
 #### From _Lowell daily citizen._
+
 #### 1878-09-26 &middot; Lowell, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1878-10-03/ed-1/seq-6)
+
 #### 1878-10-03 &middot; Kenosha, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3401,7 +3560,9 @@ rick; 35, William Mason, 36, Hill; 37. Dana; 38,
 </tr></table>
 
 <hr />
+
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1878-10-04/ed-1/seq-6)
+
 #### 1878-10-04 &middot; Paw Paw, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3428,7 +3589,9 @@ It. Fortune makes folly her peculiar care.
 </tr></table>
 
 <hr />
+
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1878-10-04/ed-1/seq-6)
+
 #### 1878-10-04 &middot; Paw Paw, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3468,7 +3631,9 @@ Dacnaut: &#x27;. Gray; 21, Will
 </tr></table>
 
 <hr />
+
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1878-10-30/ed-1/seq-1)
+
 #### 1878-10-30 &middot; Tionesta, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3527,18 +3692,27 @@ llaleigh ; 9,
 </tr></table>
 
 <hr />
+
 ## Literary Review
+
 #### From _The Congregationalist._
+
 #### 1879-01-15 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## Notes and Queries.
+
 #### From _New York Observer and Chronicle (1833-1912)_
+
 #### 1879-08-21 &middot; New York
 [This text is not available under an open license.]
 <hr />
+
 ## [Life.](http://trove.nla.gov.au/ndp/del/article/82115500)
+
 #### From _Warwick Examiner and Times (Qld. : 1867 - 1919)_
+
 #### 1879-09-03 &middot; Warwick, Queensland
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3609,8 +3783,11 @@ Addison; 81 Dryden ; 32
 </td></tr></table>
 
 <hr />
+
 ## [LIFE.](http://trove.nla.gov.au/ndp/del/article/141039884)
+
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
+
 #### 1879-11-19 &middot; Riverina Region, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3659,7 +3836,9 @@ Cralibe; 23 &#x27;Mnssiiiirer; &#x27;? 24 Co
 </td></tr></table>
 
 <hr />
+
 ## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1880-08-12/ed-1/seq-6)
+
 #### 1880-08-12 &middot; Princeton, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3676,7 +3855,9 @@ a year&#x27;s laborious search among the leading poet* o
 </tr></table>
 
 <hr />
+
 ## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1880-08-12/ed-1/seq-6)
+
 #### 1880-08-12 &middot; Princeton, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3701,7 +3882,9 @@ For, live we how we can, yet die we mus
 </tr></table>
 
 <hr />
+
 ## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1880-08-13/ed-1/seq-2)
+
 #### 1880-08-13 &middot; Little Falls, Morrison County, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3720,7 +3903,9 @@ the past and present tim
 </tr></table>
 
 <hr />
+
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1880-09-30/ed-1/seq-1)
+
 #### 1880-09-30 &middot; Ridgway, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3745,7 +3930,9 @@ For, live we how we can, yet die we must
 </tr></table>
 
 <hr />
+
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1881-03-27/ed-1/seq-2)
+
 #### 1881-03-27 &middot; Memphis, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3822,7 +4009,9 @@ Francis Charles; 3, Watkins; 34, Ilerrick;
 </tr></table>
 
 <hr />
+
 ## [From _Northern tribune._](https://chroniclingamerica.loc.gov/lccn/sn85026455/1881-05-21/ed-1/seq-3)
+
 #### 1881-05-21 &middot; Cheboygan, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3848,7 +4037,9 @@ The cradl
 </tr></table>
 
 <hr />
+
 ## [From _Northern tribune._](https://chroniclingamerica.loc.gov/lccn/sn85026455/1881-05-21/ed-1/seq-3)
+
 #### 1881-05-21 &middot; Cheboygan, Mich.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3870,7 +4061,9 @@ For; live we how we can, yet die we mus
 </tr></table>
 
 <hr />
+
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1881-11-04/ed-1/seq-1)
+
 #### 1881-11-04 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3890,7 +4083,9 @@ and present time
 </tr></table>
 
 <hr />
+
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1881-11-04/ed-1/seq-1)
+
 #### 1881-11-04 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3915,8 +4110,11 @@ For, live we how we can. yet die we mus t
 </tr></table>
 
 <hr />
+
 ## [A POEM BY MANY POETS.](http://trove.nla.gov.au/ndp/del/article/70053218)
+
 #### From _South Bourke and Mornington Journal (Richmond, Vic. : 1872 - 1920)_
+
 #### 1882-08-23 &middot; South Bourke, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3928,8 +4126,11 @@ preset: times. The credit of it is gve
 </td></tr></table>
 
 <hr />
+
 ## [A POEM BY MANY POETS.](http://trove.nla.gov.au/ndp/del/article/70053218)
+
 #### From _South Bourke and Mornington Journal (Richmond, Vic. : 1872 - 1920)_
+
 #### 1882-08-23 &middot; South Bourke, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3959,7 +4160,9 @@ Dana; 33, Shakspere.-Gu
 </td></tr></table>
 
 <hr />
+
 ## [From _The daily Cairo bulletin._](https://chroniclingamerica.loc.gov/lccn/sn87082573/1882-08-27/ed-1/seq-1)
+
 #### 1882-08-27 &middot; Cairo, Ill.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4059,7 +4262,9 @@ Dryden; 32, Francis Charles ; 33, Watkh s;
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1882-08-31/ed-1/seq-1)
+
 #### 1882-08-31 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4092,7 +4297,9 @@ T
 </tr></table>
 
 <hr />
+
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1882-08-31/ed-1/seq-1)
+
 #### 1882-08-31 &middot; Pulaski, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4145,7 +4352,9 @@ Pill; 37, Dana; 3S, Shakespeare
 </tr></table>
 
 <hr />
+
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1882-09-25/ed-1/seq-3)
+
 #### 1882-09-25 &middot; [Wilmington, Del.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4245,7 +4454,9 @@ Daua; 3S, Shakespeare
 </tr></table>
 
 <hr />
+
 ## [From _The Evening critic._](https://chroniclingamerica.loc.gov/lccn/sn82014424/1882-09-26/ed-1/seq-1)
+
 #### 1882-09-26 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4329,22 +4540,33 @@ Oil, Pill; 37, Dana; us, shakspoar
 </tr></table>
 
 <hr />
+
 ## A Literary Curiosity
+
 #### From _The Cleveland herald._
+
 #### 1882-09-27 &middot; [Cleveland, Ohio]
 [This text is not available under an open license.]
 <hr />
+
 ## A Literary Curiosity
+
 #### From _St. Louis globe-Democrat._
+
 #### 1882-10-01 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
 <hr />
+
 ## A Literary Curiosity
+
 #### From _St. Louis globe-Democrat._
+
 #### 1882-10-01 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1882-10-17/ed-1/seq-1)
+
 #### 1882-10-17 &middot; Idaho City, Idaho Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4444,7 +4666,9 @@ kl &quot;»; 34, Herrick; 35. William Mason;
 </tr></table>
 
 <hr />
+
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1882-10-17/ed-1/seq-1)
+
 #### 1882-10-17 &middot; Staunton, Va.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4533,7 +4757,9 @@ Dana; 38, Shakespeare,
 </tr></table>
 
 <hr />
+
 ## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391?page=6)
+
 #### 1882-10-26
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4551,7 +4777,9 @@ We would be glad to hear from any person who can tell th
 </tr></table>
 
 <hr />
+
 ## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391?page=6)
+
 #### 1882-10-26
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4622,7 +4850,9 @@ What is ambition ? ’tis a glorious cheat!
 </tr></table>
 
 <hr />
+
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1882-11-18/ed-1/seq-1)
+
 #### 1882-11-18 &middot; McMinnville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4720,7 +4950,9 @@ kins; 34, Herrick; 35, William Mason;
 </tr></table>
 
 <hr />
+
 ## [From _Charlotte home and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020714/1882-12-08/ed-1/seq-1)
+
 #### 1882-12-08 &middot; Charlotte, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4800,7 +5032,9 @@ Dana ; 38, Sbakspeare
 </tr></table>
 
 <hr />
+
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1882-12-08/ed-1/seq-1)
+
 #### 1882-12-08 &middot; Ebensburg, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4912,7 +5146,9 @@ Sbakspeare
 </tr></table>
 
 <hr />
+
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1882-12-09/ed-1/seq-1)
+
 #### 1882-12-09 &middot; Donaldsonville, La.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4989,7 +5225,9 @@ Win. Mlason; 36. Pill; 37, Dana; 38, Shakespeare
 </tr></table>
 
 <hr />
+
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1882-12-09/ed-1/seq-1)
+
 #### 1882-12-09 &middot; Towsontown, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5037,7 +5275,9 @@ peare
 </tr></table>
 
 <hr />
+
 ## [From _Phillipsburg herald._](https://chroniclingamerica.loc.gov/lccn/sn85029677/1883-01-04/ed-1/seq-2)
+
 #### 1883-01-04 &middot; Phillipsburg, Kan.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5149,7 +5389,9 @@ Pill; 87. Dana ; SS Shakspeare
 </tr></table>
 
 <hr />
+
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1883-01-04/ed-1/seq-4)
+
 #### 1883-01-04 &middot; Belfast, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5208,7 +5450,9 @@ Jn. Tin* paths of glory lead but to the grave.
 </tr></table>
 
 <hr />
+
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1883-01-04/ed-1/seq-4)
+
 #### 1883-01-04 &middot; Belfast, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5230,7 +5474,9 @@ D &lt;i.:nit; 2n.
 </tr></table>
 
 <hr />
+
 ## [From _Butler citizen._](https://chroniclingamerica.loc.gov/lccn/sn86071045/1883-03-21/ed-1/seq-1)
+
 #### 1883-03-21 &middot; Butler, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5319,7 +5565,9 @@ peare
 </tr></table>
 
 <hr />
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1883-05-26/ed-1/seq-1)
+
 #### 1883-05-26 &middot; Westminster, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5395,7 +5643,9 @@ Shakspeare
 </tr></table>
 
 <hr />
+
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1883-06-09/ed-1/seq-1)
+
 #### 1883-06-09 &middot; Elkton, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5492,8 +5742,11 @@ peare
 </tr></table>
 
 <hr />
+
 ## [Pastime Page. Puzzles, Enigmas, &c. A LITERARY RECREATION.](http://trove.nla.gov.au/ndp/del/article/71001474)
+
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
+
 #### 1883-07-14 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5552,7 +5805,9 @@ we may, yet die we must
 </td></tr></table>
 
 <hr />
+
 ## [From _The Hope pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87096037/1883-08-10/ed-1/seq-4)
+
 #### 1883-08-10 &middot; Hope, N.D.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5649,8 +5904,11 @@ Herrick 85, William Mason 36, Pill
 </tr></table>
 
 <hr />
+
 ## [ANSWER TO LITERARY RECREATION, JULY 14.](http://trove.nla.gov.au/ndp/del/article/71003568)
+
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
+
 #### 1883-09-08 &middot; Sydney, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5670,7 +5928,9 @@ Walter Davenant; 28/ Gray s 29, Wiilis;
 </td></tr></table>
 
 <hr />
+
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1883-09-13/ed-1/seq-1)
+
 #### 1883-09-13 &middot; Ellsworth, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5718,8 +5978,11 @@ its far©—
 </tr></table>
 
 <hr />
+
 ## [A LITERARY CURIOSITY. A REMARKABLE POEM TO WHICH THIRTY-EIGHT POETS CONTRIBUTE A LINE EACH.](http://trove.nla.gov.au/ndp/del/article/169271908)
+
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
+
 #### 1883-09-15 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5786,7 +6049,9 @@ winuit. 1. Young; 2.-Dr. Jofas0n ;
 </td></tr></table>
 
 <hr />
+
 ## [From _Seattle daily post-intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83045611/1883-10-27/ed-1/seq-4)
+
 #### 1883-10-27 &middot; Seattle, W.T. [Wash.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5912,7 +6177,9 @@ Mason; :!*», Fill; 87, Dana, 3*.
 </tr></table>
 
 <hr />
+
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1884-04-26/ed-1/seq-4)
+
 #### 1884-04-26 &middot; Clarksville, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6001,8 +6268,11 @@ Addison; 31, Dryden; 32, &#x27;Francis Charles
 </tr></table>
 
 <hr />
+
 ## [LIFE.](http://trove.nla.gov.au/ndp/del/article/90572076)
+
 #### From _The Bacchus Marsh Express (Vic. : 1866 - 1918)_
+
 #### 1885-08-15 &middot; Bacchus Marsh, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6014,8 +6284,11 @@ some poet. Why all this toil for
 </td></tr></table>
 
 <hr />
+
 ## [LIFE.](http://trove.nla.gov.au/ndp/del/article/90572076)
+
 #### From _The Bacchus Marsh Express (Vic. : 1866 - 1918)_
+
 #### 1885-08-15 &middot; Bacchus Marsh, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6037,8 +6310,11 @@ not ambition wise because &#x27;tis brave,
 </td></tr></table>
 
 <hr />
+
 ## [The Moss Rose.](http://trove.nla.gov.au/ndp/del/article/101642995)
+
 #### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
+
 #### 1885-11-03 &middot; Kiama, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6102,7 +6378,9 @@ Francis Quarles; 88 Watkins; 81 Harrick;
 </td></tr></table>
 
 <hr />
+
 ## [From _Herald of gospel liberty._](https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1885-11-26_77_48?page=1)
+
 #### 1885-11-26 &middot; Portsmouth [N.H.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6119,8 +6397,11 @@ Why all this toil for triumphs of an hour?—[Young
 </tr></table>
 
 <hr />
+
 ## [POETRY. LIFE.](http://trove.nla.gov.au/ndp/del/article/160168516)
+
 #### From _Adelaide Observer (SA : 1843 - 1904)_
+
 #### 1886-09-11 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6148,7 +6429,9 @@ fall, but stoop to rise, (Mas singer.
 </td></tr></table>
 
 <hr />
+
 ## [From _The Hawaiian gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025121/1886-11-02/ed-1/seq-7)
+
 #### 1886-11-02 &middot; Honolulu [Oahu, Hawaii]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6254,27 +6537,41 @@ Dana 3S Shakespher
 </tr></table>
 
 <hr />
+
 ## A Curious Life Poem
+
 #### From _St. Louis globe-Democrat._
+
 #### 1887-02-03 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
 <hr />
+
 ## Curious Life Poem
+
 #### From _The Milwaukee sentinel._
+
 #### 1887-02-11 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## The Breakfast Table
+
 #### From _Boston daily advertiser._
+
 #### 1887-02-12 &middot; Boston, Mass.
 [This text is not available under an open license.]
 <hr />
+
 ## A Curicus Life Poem
+
 #### From _The daily inter ocean._
+
 #### 1887-02-13 &middot; Chicago, Ill.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-02-17_35_7?page=30)
+
 #### 1887-02-17 &middot; New York
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6402,7 +6699,9 @@ Herrick ; 35, William Mason ; 36, Hill ; 87, Dana»
 </tr></table>
 
 <hr />
+
 ## [From _Iowa County democrat._](https://chroniclingamerica.loc.gov/lccn/sn86086852/1887-02-18/ed-1/seq-4)
+
 #### 1887-02-18 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6499,7 +6798,9 @@ peare
 </tr></table>
 
 <hr />
+
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1887-02-24/ed-1/seq-5)
+
 #### 1887-02-24 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6596,7 +6897,9 @@ peare
 </tr></table>
 
 <hr />
+
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1887-03-03/ed-1/seq-1)
+
 #### 1887-03-03 &middot; Oskaloosa, Mahaska County, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6670,7 +6973,9 @@ Shakespeare.
 </tr></table>
 
 <hr />
+
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1887-03-03/ed-1/seq-4)
+
 #### 1887-03-03 &middot; Ellsworth, Me.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6744,12 +7049,17 @@ Smolh tt: 22, &lt; mbb* ; 25. Massing* r; 24. f row -
 </tr></table>
 
 <hr />
+
 ## A Poem of Poems
+
 #### From _Milwaukee daily journal._
+
 #### 1887-03-05 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1887-03-17/ed-1/seq-4)
+
 #### 1887-03-17 &middot; Ravenna, O. [Ohio]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6831,17 +7141,25 @@ kius; 31. Derrick; 3o. William Mason;
 </tr></table>
 
 <hr />
+
 ## THE POEM OF POEMS.
+
 #### From _Hampshire/Portsmouth Telegraph_
+
 #### 1887-03-19 &middot; Portsmouth, England
 [This text is not available under an open license.]
 <hr />
+
 ## A Veritable Poem of Poems
+
 #### From _The Galveston daily news._
+
 #### 1887-03-27 &middot; Houston [Tex.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The Irish standard._](https://chroniclingamerica.loc.gov/lccn/sn90059959/1887-04-02/ed-1/seq-3)
+
 #### 1887-04-02 &middot; Minneapolis, Minn. ;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6919,7 +7237,9 @@ Dryden 32, Francis Quarles 33, Watkins
 </tr></table>
 
 <hr />
+
 ## [From _The San Saba news._](https://chroniclingamerica.loc.gov/lccn/sn84022097/1887-04-08/ed-1/seq-2)
+
 #### 1887-04-08 &middot; San Saba, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7002,7 +7322,9 @@ Shakespeare wf
 </tr></table>
 
 <hr />
+
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1887-04-13/ed-1/seq-2)
+
 #### 1887-04-13 &middot; New Ulm, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7105,7 +7427,9 @@ speare
 </tr></table>
 
 <hr />
+
 ## [From _The sun._](https://chroniclingamerica.loc.gov/lccn/sn91059392/1887-04-14/ed-1/seq-1)
+
 #### 1887-04-14 &middot; Morris, Stevens County, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7215,7 +7539,9 @@ speare.
 </tr></table>
 
 <hr />
+
 ## [From _Bridgeton pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87068192/1887-04-14/ed-1/seq-6)
+
 #### 1887-04-14 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7291,7 +7617,9 @@ Dryden; 32, Francis Quarles; 33, Watkins;
 </tr></table>
 
 <hr />
+
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1887-04-14/ed-1/seq-4)
+
 #### 1887-04-14 &middot; Mineral Point, Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7373,7 +7701,9 @@ kins; 34. Herrick: 35. William Muscat
 </tr></table>
 
 <hr />
+
 ## [From _The Hope pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87096037/1887-04-15/ed-1/seq-2)
+
 #### 1887-04-15 &middot; Hope, N.D.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7478,8 +7808,11 @@ speare.
 </tr></table>
 
 <hr />
+
 ## [A VERITABLE POEM OF POEMS.](http://trove.nla.gov.au/ndp/del/article/170599572)
+
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
+
 #### 1887-04-16 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7547,7 +7880,9 @@ Herrlck&#x27;: 35, William Mason ; 36, Hill;
 </td></tr></table>
 
 <hr />
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-04-20/ed-1/seq-1)
+
 #### 1887-04-20 &middot; Mifflintown, Juniata County, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7647,7 +7982,9 @@ Hill; 37, Dana; 33. Shakespeare
 </tr></table>
 
 <hr />
+
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1887-04-22/ed-1/seq-1)
+
 #### 1887-04-22 &middot; Olympia, Wash. Territory
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7750,7 +8087,9 @@ Herrick; 35, William Mason ; 36, Hill;
 </tr></table>
 
 <hr />
+
 ## [From _The Universalist._](https://chroniclingamerica.loc.gov/lccn/sn90053049/1887-04-30/ed-1/seq-6)
+
 #### 1887-04-30 &middot; Chicago [Ill.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7827,7 +8166,9 @@ kins; 34. Herrick; 35. William Mason;
 </tr></table>
 
 <hr />
+
 ## [From _American Printer 1883-2015_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8?page=39)
+
 #### 1887-05-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7902,7 +8243,9 @@ Watkins ; 34, Herrick; 35, William Mason; 36, Hill; 37, Dana;
 </tr></table>
 
 <hr />
+
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1887-05-27/ed-1/seq-1)
+
 #### 1887-05-27 &middot; Brattleboro, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7936,7 +8279,9 @@ Oh, then, renounce that Impi
 </tr></table>
 
 <hr />
+
 ## [From _The Columbus journal._](https://chroniclingamerica.loc.gov/lccn/sn95073194/1887-06-01/ed-1/seq-1)
+
 #### 1887-06-01 &middot; Columbus, Neb.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8015,7 +8360,9 @@ kins; 34, Herrick; 35. William Mason;
 </tr></table>
 
 <hr />
+
 ## [From _Evening capital._](https://chroniclingamerica.loc.gov/lccn/sn88065721/1887-10-26/ed-1/seq-1)
+
 #### 1887-10-26 &middot; Annapolis, Md.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8113,7 +8460,9 @@ Herrick; 35, William Mason; 36, Hill;
 </tr></table>
 
 <hr />
+
 ## [From _Waterbury evening Democrat._](https://chroniclingamerica.loc.gov/lccn/sn94053256/1888-03-15/ed-1/seq-1)
+
 #### 1888-03-15 &middot; Waterbury, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8153,7 +8502,9 @@ SO. Thou pendulum betwixt a smile and tear:
 </tr></table>
 
 <hr />
+
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1888-07-26/ed-1/seq-1)
+
 #### 1888-07-26 &middot; Oskaloosa, Mahaska County, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8235,7 +8586,9 @@ speare.
 </tr></table>
 
 <hr />
+
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1888-07-26/ed-1/seq-2)
+
 #### 1888-07-26 &middot; Oskaloosa, Mahaska County, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8311,8 +8664,11 @@ speare.
 </tr></table>
 
 <hr />
+
 ## [POETRY. A CURIOUS LIFE POEM. [SELECTED FROM VARIOUS AUTHORS.]](http://trove.nla.gov.au/ndp/del/article/72557946)
+
 #### From _Windsor and Richmond Gazette (NSW : 1888 - 1954)_
+
 #### 1888-10-06 &middot; Richmond, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8379,7 +8735,9 @@ Addison, 31 Dryden, 32 Francis Quarles,
 </td></tr></table>
 
 <hr />
+
 ## [From _The National tribune._](https://chroniclingamerica.loc.gov/lccn/sn82016187/1888-11-22/ed-1/seq-7)
+
 #### 1888-11-22 &middot; Washington, D.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8450,7 +8808,9 @@ Hill; 37, Dana; 3S, Shaksperc
 </tr></table>
 
 <hr />
+
 ## [From _Ballou's Monthly Magazine (1866-1893)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1889-01_69_1?page=81)
+
 #### 1889-01-01 &middot; Boston
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8569,13 +8929,19 @@ Shakespeare.
 </tr></table>
 
 <hr />
+
 ## Literary Curiosity.
+
 #### From _Newcastle Courant_
+
 #### 1889-01-12 &middot; Newcastle-upon-Tyne, England
 [This text is not available under an open license.]
 <hr />
+
 ## [MULTUM IN PARVO.](http://trove.nla.gov.au/ndp/del/article/138842181)
+
 #### From _Newcastle Morning Herald and Miners' Advocate (NSW : 1876 - 1954) _
+
 #### 1889-03-09 &middot; Newcastle, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8632,7 +8998,9 @@ can, yet dio we tiut
 </td></tr></table>
 
 <hr />
+
 ## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19?page=2)
+
 #### 1889-04-06
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8700,8 +9068,11 @@ Addison; 25, Dryden; 26, Francis Charles;
 </tr></table>
 
 <hr />
+
 ## ["LIFE."](http://trove.nla.gov.au/ndp/del/article/170504786)
+
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
+
 #### 1889-04-20 &middot; Melbourne, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8777,13 +9148,19 @@ Davenant; 28, Gray; 29/Willis i SO
 </td></tr></table>
 
 <hr />
+
 ## Answers to Correspondents
+
 #### From _Weekly courier-journal._
+
 #### 1889-05-06 &middot; Louisville [Ky.]
 [This text is not available under an open license.]
 <hr />
+
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/68575477)
+
 #### From _Warragul Guardian and Buln Buln and Narracan Shire Advocate (Warragul, Vic. : 1879 - 1894)_
+
 #### 1889-05-17 &middot; Warragul, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8861,8 +9238,11 @@ Watkins; 34,
 </td></tr></table>
 
 <hr />
+
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/65677344)
+
 #### From _Fitzroy City Press (Vic. : 1881 - 1920)_
+
 #### 1889-07-19 &middot; Fitzroy, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8938,8 +9318,11 @@ Davenant ;2?8, Gray ; 29, Willis 30,
 </td></tr></table>
 
 <hr />
+
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/87349732)
+
 #### From _The Colac Herald (Vic. : 1875 - 1918)_
+
 #### 1889-07-26 &middot; Colac, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9016,8 +9399,11 @@ Watkins; 34,
 </td></tr></table>
 
 <hr />
+
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/66890967)
+
 #### From _The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)_
+
 #### 1889-07-27 &middot; Caulfield, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9072,8 +9458,11 @@ ambition wise because &#x27;tis brave
 </td></tr></table>
 
 <hr />
+
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/66890967)
+
 #### From _The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)_
+
 #### 1889-07-27 &middot; Caulfield, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9109,7 +9498,9 @@ Charles; 31, Watkins; 34,
 </td></tr></table>
 
 <hr />
+
 ## [From _The Caucasian._](https://chroniclingamerica.loc.gov/lccn/sn91068245/1890-04-24/ed-1/seq-4)
+
 #### 1890-04-24 &middot; Clinton, N.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9210,8 +9601,11 @@ to your
 </tr></table>
 
 <hr />
+
 ## [A Literary Curiosity.](http://trove.nla.gov.au/ndp/del/article/119047721)
+
 #### From _The Manaro Mercury, and Cooma and Bombala Advertiser (NSW : 1862 - 1931)_
+
 #### 1890-05-03 &middot; Monaro, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9284,8 +9678,11 @@ Massinger ; 24, Cowley; 25, lieattie;
 </td></tr></table>
 
 <hr />
+
 ## [A Literary Cariosity.](http://trove.nla.gov.au/ndp/del/article/58900944)
+
 #### From _Evelyn Observer, and South and East Bourke Record (Vic. : 1882 - 1902)_
+
 #### 1890-08-01 &middot; Kangaroo Ground, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9334,8 +9731,11 @@ I, Arnmstrong; 10, lltaon;
 </td></tr></table>
 
 <hr />
+
 ## [A Literary Curiosity.](http://trove.nla.gov.au/ndp/del/article/66896493)
+
 #### From _The Coburg Leader (Vic. : 1890 - 1913)_
+
 #### 1890-09-24 &middot; Coburg, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9409,7 +9809,9 @@ Fruncis Charles; 3;, Watkins; 3I,
 </td></tr></table>
 
 <hr />
+
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1891-03-19/ed-1/seq-5)
+
 #### 1891-03-19 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9492,8 +9894,11 @@ Pill; 37, Dana; 38, Shakespeare.
 </tr></table>
 
 <hr />
+
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/108358365)
+
 #### From _Kapunda Herald (SA : 1878 - 1951)_
+
 #### 1891-09-11 &middot; Kapunda, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9568,7 +9973,9 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 </td></tr></table>
 
 <hr />
+
 ## [From _Journal of Education 1875-1876_](https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11?page=9)
+
 #### 1892-03-17
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9619,7 +10026,9 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 </tr></table>
 
 <hr />
+
 ## [From _Morning journal and courier._](https://chroniclingamerica.loc.gov/lccn/sn82015483/1893-03-20/ed-1/seq-1)
+
 #### 1893-03-20 &middot; New Haven [Conn.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9657,7 +10066,9 @@ S. By tarns we rates Lha vti-tl braeta ana die.
 </tr></table>
 
 <hr />
+
 ## [From _Evening capital journal._](https://chroniclingamerica.loc.gov/lccn/sn99063952/1893-05-24/ed-1/seq-3)
+
 #### 1893-05-24 &middot; Salem, Or.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9694,7 +10105,9 @@ given.IT. Sin may be c
 </tr></table>
 
 <hr />
+
 ## [From _Evening capital journal._](https://chroniclingamerica.loc.gov/lccn/sn99063952/1893-05-24/ed-1/seq-3)
+
 #### 1893-05-24 &middot; Salem, Or.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9719,7 +10132,9 @@ liam Mason. 86. Pill. 87. Dana. 08. Shake
 </tr></table>
 
 <hr />
+
 ## [From _Fairhaven herald._](https://chroniclingamerica.loc.gov/lccn/sn88085722/1893-06-07/ed-1/seq-4)
+
 #### 1893-06-07 &middot; Fairhaven, Wash.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9802,7 +10217,9 @@ speare. .
 </tr></table>
 
 <hr />
+
 ## [From _The Wadsworth dispatch._](https://chroniclingamerica.loc.gov/lccn/sn86076126/1893-06-17/ed-1/seq-1)
+
 #### 1893-06-17 &middot; Wadsworth, Nev.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9828,8 +10245,11 @@ A The cradle and the tomb, alaeleo ni
 </tr></table>
 
 <hr />
+
 ## [The Doung Folks. A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/92309573)
+
 #### From _South Australian Chronicle  (Adelaide, SA : 1889 - 1895)_
+
 #### 1893-08-05 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9844,8 +10264,11 @@ authors of England and America, and the
 </td></tr></table>
 
 <hr />
+
 ## [The Doung Folks. A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/92309573)
+
 #### From _South Australian Chronicle  (Adelaide, SA : 1889 - 1895)_
+
 #### 1893-08-05 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9892,7 +10315,9 @@ DrrdeD. 32. Francis Cbarlea. S3 Watklna
 </td></tr></table>
 
 <hr />
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1893-08-11/ed-1/seq-1)
+
 #### 1893-08-11 &middot; Shepherdstown, Va. [W. Va.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9975,7 +10400,9 @@ Davenant; Gray
 </tr></table>
 
 <hr />
+
 ## [From _The Wilmington daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn88053055/1894-01-08/ed-1/seq-3)
+
 #### 1894-01-08 &middot; Wilmington, Del.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10004,7 +10431,9 @@ iDrydei.;32, I rand» Charle
 </tr></table>
 
 <hr />
+
 ## [From _The Austin weekly statesman._](https://chroniclingamerica.loc.gov/lccn/sn86088296/1894-03-15/ed-1/seq-4)
+
 #### 1894-03-15 &middot; Austin, Tex.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10091,7 +10520,9 @@ Dana; 38, Shakespeare
 </tr></table>
 
 <hr />
+
 ## [From _The Newberry herald and news._](https://chroniclingamerica.loc.gov/lccn/sn93067777/1894-05-16/ed-1/seq-4)
+
 #### 1894-05-16 &middot; Newberry, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10115,7 +10546,9 @@ of the past and present
 </tr></table>
 
 <hr />
+
 ## [From _The Newberry herald and news._](https://chroniclingamerica.loc.gov/lccn/sn93067777/1894-05-16/ed-1/seq-4)
+
 #### 1894-05-16 &middot; Newberry, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10217,7 +10650,9 @@ cis Quarles; 33. W atkins; 34. Herrick;
 </tr></table>
 
 <hr />
+
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1894-06-20/ed-1/seq-8)
+
 #### 1894-06-20 &middot; Abbeville, S.C.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10333,12 +10768,17 @@ Francis Quarles; 33. Walking; 34 Herrlck ; ?,
 </tr></table>
 
 <hr />
+
 ## Sergeant Conrad's Dignity Ruffled
+
 #### From _The daily picayune._
+
 #### 1896-08-30 &middot; New Orleans, La.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Bridgeton pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87068192/1897-07-01/ed-1/seq-7)
+
 #### 1897-07-01 &middot; Bridgeton, N.J.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10413,7 +10853,9 @@ Dana; 38, Shakespeare
 </tr></table>
 
 <hr />
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1897-07-14/ed-1/seq-2)
+
 #### 1897-07-14 &middot; Bellows Falls, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10523,7 +10965,9 @@ kins; 34, Herrick; 35, William Mason;
 </tr></table>
 
 <hr />
+
 ## [From _Waterbury Democrat._](https://chroniclingamerica.loc.gov/lccn/2016270502/1897-09-23/ed-1/seq-6)
+
 #### 1897-09-23 &middot; Waterbury, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10546,7 +10990,9 @@ thor below:
 </tr></table>
 
 <hr />
+
 ## [From _Waterbury Democrat._](https://chroniclingamerica.loc.gov/lccn/2016270502/1897-09-23/ed-1/seq-6)
+
 #### 1897-09-23 &middot; Waterbury, Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10573,7 +11019,9 @@ kins; 34, Herrick; 35, William Mason;:
 </tr></table>
 
 <hr />
+
 ## [From _The record-union._](https://chroniclingamerica.loc.gov/lccn/sn82015104/1897-10-17/ed-1/seq-16)
+
 #### 1897-10-17 &middot; Sacramento, Calif.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10601,7 +11049,9 @@ For live we how we can, yet die we must. —SJieAespeare.
 </tr></table>
 
 <hr />
+
 ## [From _American Fruit Grower 1897-2015_](https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1?page=1)
+
 #### 1898-01-01
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10651,12 +11101,17 @@ For live we how ‘we can, yet die we must
 </tr></table>
 
 <hr />
+
 ## Multiple Classified Advertisements
+
 #### From _The Milwaukee journal._
+
 #### 1898-02-17 &middot; Milwaukee [Wis.]
 [This text is not available under an open license.]
 <hr />
+
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1898-02-20/ed-1/seq-10)
+
 #### 1898-02-20 &middot; Savannah, Ga.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10752,8 +11207,11 @@ must
 </tr></table>
 
 <hr />
+
 ## [A Literary Curiosity.](http://trove.nla.gov.au/ndp/del/article/71759934)
+
 #### From _Northern Star (Lismore, NSW : 1876 - 1954)_
+
 #### 1898-03-19 &middot; Lismore, New South Wales
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10796,12 +11254,17 @@ Ataaaitigur ; 24, Cowley; 20, lieattiu
 </td></tr></table>
 
 <hr />
+
 ## A Poem of Poems
+
 #### From _Arkansas Democrat._
+
 #### 1898-07-23 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
 <hr />
+
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1898-11-03/ed-1/seq-3)
+
 #### 1898-11-03 &middot; Salisbury, Litchfield Co., Conn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10884,7 +11347,9 @@ Mason; 36, PilJ; 37, Dana; 38,Shakespeare.
 </tr></table>
 
 <hr />
+
 ## [From _The sea coast echo._](https://chroniclingamerica.loc.gov/lccn/sn86074033/1898-11-19/ed-1/seq-4)
+
 #### 1898-11-19 &middot; Bay Saint Louis, Miss.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10953,8 +11418,11 @@ peare.
 </tr></table>
 
 <hr />
+
 ## [A Literary Curiosity.](http://trove.nla.gov.au/ndp/del/article/95351671)
+
 #### From _Port Pirie Recorder and North Western Mail (SA : 1898 - 1918)_
+
 #### 1899-06-10 &middot; Port Pirie, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
