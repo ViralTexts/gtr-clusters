@@ -40,7 +40,7 @@ The body&#x27;s but the type at beet of man, i i
 Worn out, the type is thrown to pi again?  
 The imprefaion lives through an eternal age. [ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_basilisk_ver03%2Fdata%2Fsn82003410%2F0041566123A%2F1854101201%2F0360.jp2/pct:17.988737,74.603374,14.330920,4.047888/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_basilisk_ver03%2Fdata%2Fsn82003410%2F0041566123A%2F1854101201%2F0360.jp2/pct:17.988737,74.603374,14.330920,4.047888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -62,7 +62,7 @@ Whose impress is the spirit&#x27;s deathless pa-e:
 t urn oui, me xype is inrown to pi again  
 The impression lives through an eternal ,a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1854102501%2F0318.jp2/pct:25.494937,71.511816,12.951489,4.284019/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1854102501%2F0318.jp2/pct:25.494937,71.511816,12.951489,4.284019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ The body&#x27;s but the type, at best,- of man,
 Worn out, the type is thrown to pi again, &#x27;  
 &#x27; The impression lives through aa eterna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F0021247762A%2F1854110201%2F0435.jp2/pct:50.430622,77.374092,13.684211,4.647958/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F0021247762A%2F1854110201%2F0435.jp2/pct:50.430622,77.374092,13.684211,4.647958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ Whose impress is the spirit&#x27;s deathless page)
 VV&#x27;irn out, the type is thrown la pi again,  
 The impression lives through an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn84028479%2F0028077537A%2F1854110301%2F0366.jp2/pct:4.447315,54.255935,11.718029,4.169079/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn84028479%2F0028077537A%2F1854110301%2F0366.jp2/pct:4.447315,54.255935,11.718029,4.169079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ Whoae imprest is tiie spirit&#x27;) deathlee page,
 Worn out, the type is thrown to pi sguin,  
 The impression lives thro&#x27; an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775940%2F1854111001%2F0389.jp2/pct:18.199928,6.051831,11.499457,3.576082/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775940%2F1854111001%2F0389.jp2/pct:18.199928,6.051831,11.499457,3.576082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ Whose impress is the spirit’s deathless page;
 Worn out, the tvpe is thrown to pi again.—  
 The impression lives through an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895667%2F1854112301%2F0399.jp2/pct:6.356801,19.782251,12.308043,5.056834/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895667%2F1854112301%2F0399.jp2/pct:6.356801,19.782251,12.308043,5.056834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ page;
 Worn out, the type Is thrr&quot; &quot; P&quot; &quot;Rain,  
 The lmpron:tion lives to4&quot; etcrnil age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1854112501%2F0106.jp2/pct:61.469780,92.249577,10.731456,3.985932/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1854112501%2F0106.jp2/pct:61.469780,92.249577,10.731456,3.985932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ Whose impress is the e pii it&#x27;s deathless page ;
 Worn out, the type is thrown to pi again,  
 The impression lives to an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn83035366%2F00296029105%2F1854113001%2F0191.jp2/pct:6.753645,43.843436,12.106677,6.210927/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn83035366%2F00296029105%2F1854113001%2F0191.jp2/pct:6.753645,43.843436,12.106677,6.210927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ Whose impress is the spirit&#x27;s deathless page ;
 Worn oui, the type is thrown to pi again,  
 I The impression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn85059716%2F0020129302A%2F1854120601%2F0193.jp2/pct:30.349099,91.852742,13.851351,5.455059/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn85059716%2F0020129302A%2F1854120601%2F0193.jp2/pct:30.349099,91.852742,13.851351,5.455059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ Whose impress is the spirit s deathless page ;
 Worn out, the types is thrown to pi again,—  
 The impression lives to an eternal ago.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026884%2F00279557487%2F1855021601%2F0832.jp2/pct:72.368690,26.856279,12.119354,5.018185/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026884%2F00279557487%2F1855021601%2F0832.jp2/pct:72.368690,26.856279,12.119354,5.018185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ Worn out, the type 13 thrown to pi aiu,
 The impression lives through an eternal age.  
 A Frist Eate Hit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn82015827%2F00212472815%2F1855051501%2F0055.jp2/pct:68.986723,49.313846,12.969951,5.478077/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn82015827%2F00212472815%2F1855051501%2F0055.jp2/pct:68.986723,49.313846,12.969951,5.478077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ Whose impress Is the spirit&#x27;s deathless page;
 Worn out, the type i thrown to pi again  
 The impression live through an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1855062601%2F0775.jp2/pct:36.026012,83.259212,12.196532,4.531978/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1855062601%2F0775.jp2/pct:36.026012,83.259212,12.196532,4.531978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ Whoso impress is the spirit&#x27;s deathless page
 Worn out Tvre is thrown to 11 again,  
 The impression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn83035487%2F00211100497%2F1855120801%2F0324.jp2/pct:52.083333,69.250611,12.916667,4.452892/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn83035487%2F00211100497%2F1855120801%2F0324.jp2/pct:52.083333,69.250611,12.916667,4.452892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ page;
 *n out, the type is thrown to pi again  
 he impress-on lives to an eternal aire.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1856042301%2F0068.jp2/pct:45.074791,75.993712,11.351243,6.789430/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1856042301%2F0068.jp2/pct:45.074791,75.993712,11.351243,6.789430/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ Whose impress is the spirit&#x27;s deathless page;
 Worn out, the type is thrown to pi again,  
 The impression lives through an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_pearse_ver01%2Fdata%2Fsn82015753%2F00212475385%2F1856120801%2F1300.jp2/pct:6.198686,7.443110,10.324302,4.250948/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_pearse_ver01%2Fdata%2Fsn82015753%2F00212475385%2F1856120801%2F1300.jp2/pct:6.198686,7.443110,10.324302,4.250948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ Whose impress is the spirit’s deathless page,
 \i orn . ill, the lone is thrown to pi again,  
 The impression lives through an eternal ape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1857011301%2F0646.jp2/pct:15.306405,23.845903,10.259728,4.395525/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1857011301%2F0646.jp2/pct:15.306405,23.845903,10.259728,4.395525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ Whose impress is the spirit&#x27;s deathless page;
 Won out, the type is throwto pi again,  
 The impression lives through an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474228%2F1857032601%2F0193.jp2/pct:4.362934,20.991040,12.316602,4.744926/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474228%2F1857032601%2F0193.jp2/pct:4.362934,20.991040,12.316602,4.744926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ Whoso impress is the spirit&#x27;s deathless page:
 Worn out, the type is thrown to pi again,  
 The impression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1857091601%2F1237.jp2/pct:24.737846,29.093253,16.444233,5.769231/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1857091601%2F1237.jp2/pct:24.737846,29.093253,16.444233,5.769231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ Whose vipress is the spirit’s deathiess page ;
 Worn out, the type is thrown to pi again,  
 The unpression lives through an everual age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-17_12_42$7/pct:59.699454,28.132952,12.509758,5.820611/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-17_12_42$7/pct:59.699454,28.132952,12.509758,5.820611/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ Whose tpress is the spirit’s deathiess page ;
 Worn out, the type is thrown to pi again,  
 The wnpression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-24_12_43$0/pct:3.239657,29.564249,10.050742,3.546438/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-24_12_43$0/pct:3.239657,29.564249,10.050742,3.546438/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ Worn out, the type is thrown iopi again,
 The impression Iirei through en tiers al  
 age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1858050601%2F0473.jp2/pct:63.107379,82.106821,15.016997,12.484865/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1858050601%2F0473.jp2/pct:63.107379,82.106821,15.016997,12.484865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ Whose imprest is (he spit it&#x27;s drat 1
 lUorn out. the type i? thrown to pi ..gain.  
 The ; .pression lives through an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_oddish_ver01%2Fdata%2Fsn88064150%2F00295878630%2F1858082501%2F0167.jp2/pct:33.578792,83.565283,14.488218,4.529352/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_oddish_ver01%2Fdata%2Fsn88064150%2F00295878630%2F1858082501%2F0167.jp2/pct:33.578792,83.565283,14.488218,4.529352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ Whose impress is the spirit’s deathless page ;
 Worn out, the type is thrown to pi again,  
 The impression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1858-11_17_102$83/pct:53.248588,25.691937,30.696798,7.490975/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1858-11_17_102$83/pct:53.248588,25.691937,30.696798,7.490975/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ Whose imprest Is the spirit&#x27;s deathless page ;
 Worn out, the type is thrown topi again,  
 The impression lives through an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1858111101%2F0990.jp2/pct:8.828797,39.795274,9.222779,4.006066/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1858111101%2F0990.jp2/pct:8.828797,39.795274,9.222779,4.006066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ Wl.ose imprint is the spirit&#x27;s deathless page.
 Worn out, the type is thrown to pi again;  
 The impression lives through an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1874032701%2F0325.jp2/pct:5.854271,40.596760,16.482412,9.002558/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1874032701%2F0325.jp2/pct:5.854271,40.596760,16.482412,9.002558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ The impression lives through an eternal age.
   
 Items of Interest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1875092401%2F0386.jp2/pct:83.955334,15.018101,10.476051,5.009926/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1875092401%2F0386.jp2/pct:83.955334,15.018101,10.476051,5.009926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ Whose impress ia the spirit&#x27;a deatnieas page ;
 Worn out, tbe type is thrown to pi again  
 Ihe impression bves through an eteanaJag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283612%2F1875111101%2F0192.jp2/pct:84.957265,35.053977,10.536131,29.333664/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283612%2F1875111101%2F0192.jp2/pct:84.957265,35.053977,10.536131,29.333664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ Worn out, the type is thrown to f/ again,
   
 The émfpression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12$57/pct:10.381078,62.859066,38.173456,12.365350/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12$57/pct:10.381078,62.859066,38.173456,12.365350/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ TTovi out, ihe type is thrown to pi again,
 The impression hyes through an eter  
 rial age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00296029956%2F1894031501%2F0194.jp2/pct:43.111412,30.552785,12.160640,15.789692/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00296029956%2F1894031501%2F0194.jp2/pct:43.111412,30.552785,12.160640,15.789692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

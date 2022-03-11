@@ -36,7 +36,7 @@ exertion, whereby the circulation is
 qnickened, will increase both pain and  
 aweuing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1874100901%2F0386.jp2/pct:4.803726,68.832156,9.886893,3.715372/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1874100901%2F0386.jp2/pct:4.803726,68.832156,9.886893,3.715372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ to serious consequences; In such cases medical
 advice should always be sought as suou as possi­  
 ble.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_jefferson_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1877010601%2F0011.jp2/pct:43.159566,37.994209,13.131781,14.906150/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_jefferson_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1877010601%2F0011.jp2/pct:43.159566,37.994209,13.131781,14.906150/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ serious c sequences; in such cases
 medical advice should always be sought  
 as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_auklet_ver01%2Fdata%2Fsn84022761%2Fno_reel%2F1877020201%2F0275.jp2/pct:21.057429,19.860947,16.367872,10.409288/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_auklet_ver01%2Fdata%2Fsn84022761%2Fno_reel%2F1877020201%2F0275.jp2/pct:21.057429,19.860947,16.367872,10.409288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ serious consequences; in such cases
 medical advice should always bo sought  
 as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290975%2F1877020201%2F0034.jp2/pct:5.036473,4.655707,33.561687,89.163587/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290975%2F1877020201%2F0034.jp2/pct:5.036473,4.655707,33.561687,89.163587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ cases medical advice should always be
 sought us soon as possidle — London Oar­  
 den 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_accio_ver01%2Fdata%2Fsn82014805%2F00271740384%2F1877021201%2F0161.jp2/pct:38.559322,7.216142,15.439619,19.699042/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_accio_ver01%2Fdata%2Fsn82014805%2F00271740384%2F1877021201%2F0161.jp2/pct:38.559322,7.216142,15.439619,19.699042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ such rases, medical advice should a&gt;­
 vvays be -ought a- de.ot k« pr-*ible.—  
 Ismilon (Jarilrn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895382%2F1877022201%2F0449.jp2/pct:15.699896,19.719578,11.258249,9.393491/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895382%2F1877022201%2F0449.jp2/pct:15.699896,19.719578,11.258249,9.393491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ chewed tobacco, bruised dock leaves, tomato
 juice, wood ashes, tobacco ashes, and carbonate  
 of soda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862762%2F1877032201%2F0251.jp2/pct:15.979992,84.145869,15.528059,10.513761/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862762%2F1877032201%2F0251.jp2/pct:15.979992,84.145869,15.528059,10.513761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ UOCK leaves, loinaio juicu, wouu aasiea,
 tobacco ashes, and carbonate of soda.  
 Baklna Meats. Baking is a mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_abraham_ver02%2Fdata%2Fsn84023963%2F00200295936%2F1877041301%2F0120.jp2/pct:19.497632,39.664878,16.944616,13.980888/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_abraham_ver02%2Fdata%2Fsn84023963%2F00200295936%2F1877041301%2F0120.jp2/pct:19.497632,39.664878,16.944616,13.980888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ such cases, medical advice should al-
 ways be sought as soon as possible.—  
 London Garden.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5$6/pct:71.237374,9.985041,20.909091,52.991773/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5$6/pct:71.237374,9.985041,20.909091,52.991773/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ times lead to serious conecquences ; in such
 cases medical advice should always be sought  
 as soon as possiblo.?London Garden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F0020219235A%2F1877060501%2F0094.jp2/pct:1.821015,30.135135,14.122885,25.743243/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F0020219235A%2F1877060501%2F0094.jp2/pct:1.821015,30.135135,14.122885,25.743243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ lead to serious consequences; in
 such cases medical advice should ul  
 ways be sought as soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1877062101%2F0102.jp2/pct:75.517387,40.084581,9.770519,21.476740/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1877062101%2F0102.jp2/pct:75.517387,40.084581,9.770519,21.476740/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ times lead to serious consequences; in such
 cases medical advice should always be sought  
 as soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_farmington_ver01%2Fdata%2Fsn83016025%2F00279525425%2F1877062901%2F0594.jp2/pct:5.719378,27.327617,10.956740,14.035141/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_farmington_ver01%2Fdata%2Fsn83016025%2F00279525425%2F1877062901%2F0594.jp2/pct:5.719378,27.327617,10.956740,14.035141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ to serious consequences ; lu such cases
 medical advice should always be sought as  
 soon as possible. London Qardcn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_eden_ver01%2Fdata%2Fsn98060050%2F00280777389%2F1877062901%2F0813.jp2/pct:5.284858,33.129292,11.113193,19.289340/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_eden_ver01%2Fdata%2Fsn98060050%2F00280777389%2F1877062901%2F0813.jp2/pct:5.284858,33.129292,11.113193,19.289340/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ Stings in the eye, ear, mouth or throat some­
 cases medical advice should always be sought  
 is sooo as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_kump_ver01%2Fdata%2Fsn84026784%2F00414186702A%2F1877081101%2F0128.jp2/pct:69.654969,54.566946,12.582326,21.312415/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kump_ver01%2Fdata%2Fsn84026784%2F00414186702A%2F1877081101%2F0128.jp2/pct:69.654969,54.566946,12.582326,21.312415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ serious consequences; in such cases medi­
 cal advice should always be sought 5&#x27;  
 soon as possible.- -—Gorrlen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_auklet_ver01%2Fdata%2Fsn84022761%2Fno_reel%2F1878051701%2F0866.jp2/pct:77.360067,47.184638,15.037594,21.946343/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_auklet_ver01%2Fdata%2Fsn84022761%2Fno_reel%2F1878051701%2F0866.jp2/pct:77.360067,47.184638,15.037594,21.946343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ serious consequences; in such cases medi­
 cal advice should always be sought ns  
 soon as possible. Uanlen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290987%2F1878060601%2F0190.jp2/pct:76.540581,48.167428,16.389028,24.056205/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290987%2F1878060601%2F0190.jp2/pct:76.540581,48.167428,16.389028,24.056205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ the pain:
 crease the local irritation,  
 The poison of stings being acid, common-sense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25$5/pct:71.767001,35.231587,21.544036,9.206530/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25$5/pct:71.767001,35.231587,21.544036,9.206530/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ The poison of stings being acid, common-sense
 mong the most easily-procured remedies  
 may be mentioned soft soap, liquor of ammonia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25$5/pct:72.547380,45.690964,20.875139,1.252847/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25$5/pct:72.547380,45.690964,20.875139,1.252847/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ sometimes lead to serious consequences; in such
 cases, medical advice should always be sought  
 as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25$5/pct:72.157191,48.215642,21.599777,12.433561/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25$5/pct:72.157191,48.215642,21.599777,12.433561/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ sometimes lead to serious consequences;
 in such cases medical advice should  
 always be sought as soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776099%2F1878112101%2F0433.jp2/pct:7.726624,40.535990,11.955746,19.671671/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776099%2F1878112101%2F0433.jp2/pct:7.726624,40.535990,11.955746,19.671671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ sometimes leaJ to serious consequences;
 in such cases medical advice shonld  
 always be sought as soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028745%2F1878120501%2F0280.jp2/pct:35.831057,46.929198,9.791423,16.163368/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028745%2F1878120501%2F0280.jp2/pct:35.831057,46.929198,9.791423,16.163368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ serious Consequences. In such cases
 medical advice should always be sought  
 for as soon as poasible. Grophu&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_ferrari_ver02%2Fdata%2Fsn86088181%2F0020029693A%2F1878121401%2F0493.jp2/pct:56.781988,42.842860,17.710049,30.744876/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_ferrari_ver02%2Fdata%2Fsn86088181%2F0020029693A%2F1878121401%2F0493.jp2/pct:56.781988,42.842860,17.710049,30.744876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ serious consequsnoss; in such rtsot medi­
 cal advice should always l&gt;e sought as  
 soon as possible. Partis*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290987%2F1878122601%2F0408.jp2/pct:74.377955,47.296502,16.515302,24.112849/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290987%2F1878122601%2F0408.jp2/pct:74.377955,47.296502,16.515302,24.112849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ serious conscqueuc.es; in such cases nietli-
 I cal advice should always be sought as  
 j soon as possible. Garden.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290999%2F1879010201%2F0016.jp2/pct:75.997459,49.101535,16.905972,24.869156/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290999%2F1879010201%2F0016.jp2/pct:75.997459,49.101535,16.905972,24.869156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1191,7 +1191,7 @@ j soon as possible. Garden.
 ity tempts him to put faith in oily gam- blood. The first thing to be done is to  
 mon sharks.- Prairie Farmer. press the tube of a small key firmly on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.192619,37.812671,21.690708,1.011463/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.192619,37.812671,21.690708,1.011463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1227,7 +1227,7 @@ tbe active
   
 scalding. The of stagnant slops, nothing favors its activity iess than coid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.221387,46.430980,21.896190,8.557300/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.221387,46.430980,21.896190,8.557300/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,7 +1249,7 @@ care^u.^y
   
 crude carbolic acid. Mix this into the I K^tly. increase the local irritation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.241935,39.257618,21.608515,2.350448/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.241935,39.257618,21.608515,2.350448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ preparation of whitewash equals this for&#x27; tioned soft soap, liquor of ammon
 poultry houses. ((spirits of hartshorn), smelling salts,  
 washing soda, quick-lime made into a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.225496,40.596603,28.253812,4.116495/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.225496,40.596603,28.253812,4.116495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ and
 readily multiply and destroy it. reduced to a minimum. Any active!  
 ONE of our readers sends us the fol- exertion whereby the circulation i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.233716,41.986963,21.957835,8.987573/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.233716,41.986963,21.957835,8.987573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1333,7 +1333,7 @@ lead to serious consequences in such
 cases medical advice should always be  
 sought for as soon as possible.—New,ten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:63.247442,49.481424,20.959191,5.076582/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:63.247442,49.481424,20.959191,5.076582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ I preparation of whitewash equals this for ,soaP. liquor of ammonia but a single
   
 that high and low grades of sugar be ad- *ou^try houses- (spirits of hartshorn), smelling salts, Times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:50.304367,36.445937,43.465294,7.674344/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:50.304367,36.445937,43.465294,7.674344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1398,7 +1398,7 @@ whlch
   
 lowing, clipped from a local paper, and quickened will increase both pain and charge of the hydraulic pipe turne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:50.263513,44.072297,43.444867,7.191299/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:50.263513,44.072297,43.444867,7.191299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1413,7 +1413,7 @@ lowing, clipped from a local paper, and quickened will increase both pain and ch
 mon sense points to the alkalies as the A MAX in this town froze the bottom  
 proper means of cure. Among the most of his feet lately, and as he held them t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:72.271929,41.778631,21.489562,0.953295/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:72.271929,41.778631,21.489562,0.953295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ exertion
 to a minimum. Any active  
 whereby the circulation i-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:72.292356,44.443378,21.489562,6.394754/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:72.292356,44.443378,21.489562,6.394754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1509,7 +1509,7 @@ serious consequences; In such cases
 medical advice should always bo sought  
 for as soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_dunning_ver01%2Fdata%2Fsn84022835%2F00237285013%2F1879012301%2F0095.jp2/pct:79.168325,59.521531,14.106645,21.189337/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_dunning_ver01%2Fdata%2Fsn84022835%2F00237285013%2F1879012301%2F0095.jp2/pct:79.168325,59.521531,14.106645,21.189337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1775,7 @@ sometimes lead to serious consequences;
 in such ca?cs medical advico should al  
 ways bo sought for as soon us fJotwible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559942%2F1879053001%2F0099.jp2/pct:71.109993,34.391534,10.798122,16.301335/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559942%2F1879053001%2F0099.jp2/pct:71.109993,34.391534,10.798122,16.301335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1828,7 +1828,7 @@ sometimes lead to serious consequences
 in such cases medical advice should al  
 ways be sought for as soon as possible,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F0028077585A%2F1879100901%2F0074.jp2/pct:14.723833,17.085186,9.749771,15.655413/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F0028077585A%2F1879100901%2F0074.jp2/pct:14.723833,17.085186,9.749771,15.655413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1883,7 +1883,7 @@ sometimes lead to serious consequences;
 in such cases medical advice should al­  
 ways be sought for as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775216%2F1879101701%2F0257.jp2/pct:80.665247,58.929660,10.716041,16.506156/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775216%2F1879101701%2F0257.jp2/pct:80.665247,58.929660,10.716041,16.506156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1954,7 +1954,7 @@ lead to serious consequences in such
 cases medical advice should always bo  
 sought as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_mazda_ver01%2Fdata%2Fsn89064525%2F00212479214%2F1880021301%2F0341.jp2/pct:86.133855,39.275220,9.560471,17.456742/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_mazda_ver01%2Fdata%2Fsn89064525%2F00212479214%2F1880021301%2F0341.jp2/pct:86.133855,39.275220,9.560471,17.456742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1975,7 +1975,7 @@ favors its activity less than cold. Let
 the body be kept cool and at rest, and  
 the activity of the poison will be re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065151%2F00279523350%2F1880021401%2F0188.jp2/pct:37.835432,72.105997,34.083683,4.769874/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065151%2F00279523350%2F1880021401%2F0188.jp2/pct:37.835432,72.105997,34.083683,4.769874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2038,7 +2038,7 @@ lead to serious consequences in such
 cases medical advice should always be  
 sought as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065151%2F00279523350%2F1880021401%2F0188.jp2/pct:37.104159,58.489739,34.993005,34.923291/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065151%2F00279523350%2F1880021401%2F0188.jp2/pct:37.104159,58.489739,34.993005,34.923291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2063,7 +2063,7 @@ paste with water, the juice of an onion,
 tobacco juice, chewed tobacco, bruised  
 dock leaves and carbon of soda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665829%2F1880021901%2F0150.jp2/pct:66.023256,61.472754,14.488372,6.406480/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665829%2F1880021901%2F0150.jp2/pct:66.023256,61.472754,14.488372,6.406480/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ ing soda, quicklime made into a paste
 with water, the juice of an onion, tobac­  
 co juice, bruised dock leaves and carbo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F0021247003A%2F1880021901%2F0066.jp2/pct:56.750044,58.132024,12.276033,5.399819/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F0021247003A%2F1880021901%2F0066.jp2/pct:56.750044,58.132024,12.276033,5.399819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2103,7 +2103,7 @@ The pain caused by the sting of a plant
 or an insect is the result of a oertain amount  
 of acid poison injected into the system
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00212477047%2F1880022001%2F0033.jp2/pct:29.550758,66.940928,10.997666,1.350211/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00212477047%2F1880022001%2F0033.jp2/pct:29.550758,66.940928,10.997666,1.350211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2131,7 +2131,7 @@ dock leaves and carbou of soda.
 “1 wonder what makes it look so  
 dark and gloomy out of doors,” sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271761491%2F1880022501%2F0058.jp2/pct:76.156725,71.439498,15.593105,10.191984/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271761491%2F1880022501%2F0058.jp2/pct:76.156725,71.439498,15.593105,10.191984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2158,7 +2158,7 @@ ter, the juice of an onion, tobacco
 juice, chewed tobacco, bruised dock  
 leaves and carbon of soda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285189%2F1880022601%2F0138.jp2/pct:28.247261,76.879475,10.693792,7.169849/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285189%2F1880022601%2F0138.jp2/pct:28.247261,76.879475,10.693792,7.169849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2183,7 +2183,7 @@ paste with water, the juice of an onion,
 tobacco juice, chewed tobacco, bruised  
 dock leaves and carbon of soda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588289%2F1880022801%2F0069.jp2/pct:63.117172,60.501225,13.910381,6.157905/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588289%2F1880022801%2F0069.jp2/pct:63.117172,60.501225,13.910381,6.157905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2199,7 +2199,7 @@ dock leaves and carbon of soda
 insect is the. result of a certain amount of  
 acid poison injected into the blood,&quot; says 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_columnist_ver01%2Fdata%2Fsn92053943%2F00295873152%2F1880033001%2F0614.jp2/pct:59.624981,16.563341,12.641766,1.450462/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_columnist_ver01%2Fdata%2Fsn92053943%2F00295873152%2F1880033001%2F0614.jp2/pct:59.624981,16.563341,12.641766,1.450462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2223,7 +2223,7 @@ ing soda, quicklime made into a paste
 with water, the juice of an onion, tobac­  
 co juke, bruised dock leaves aad carbo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_dunning_ver01%2Fdata%2Fsn84022835%2F00237285013%2F1880040101%2F0338.jp2/pct:40.899609,88.897868,10.638853,4.869179/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_dunning_ver01%2Fdata%2Fsn84022835%2F00237285013%2F1880040101%2F0338.jp2/pct:40.899609,88.897868,10.638853,4.869179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2248,7 +2248,7 @@ into a paste with water, the juice of an
 onion, tobacco juice, chewed tobacco,  
 bruised dock leaves and carbon o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn87076843%2F00280775733%2F1880070901%2F1105.jp2/pct:17.698373,84.917141,10.736454,5.256344/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn87076843%2F00280775733%2F1880070901%2F1105.jp2/pct:17.698373,84.917141,10.736454,5.256344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2310,7 +2310,7 @@ advice should always be sought as soon as pos-
   
 sible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1881-09_49_9$21/pct:57.621951,46.865443,35.175305,42.533129/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1881-09_49_9$21/pct:57.621951,46.865443,35.175305,42.533129/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

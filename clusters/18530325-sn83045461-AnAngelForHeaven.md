@@ -84,7 +84,7 @@ thy footsteps, cherub forms bend to listen! Keep
 thy spirit free from earth taint ; so shalt thou “ go to  
 them,” though “ they may not return to thee.”—(i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1853-01-27_34_4$0/pct:81.432127,72.002618,11.752428,10.503927/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1853-01-27_34_4$0/pct:81.432127,72.002618,11.752428,10.503927/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ you look wp f Can you bear the sp&#x27;j
 of the sight ? Ten thousand celc  
 ings, and jour own radiant Isagel i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F0028077635A%2F1853012801%2F0675.jp2/pct:79.647495,68.970991,12.782931,21.561553/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F0028077635A%2F1853012801%2F0675.jp2/pct:79.647495,68.970991,12.782931,21.561553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ forins bend to listen! Keep thy spirit free
 from taint; so shalt thou ‘ go to them,’ though  
 ‘they may not return to thee.—[ Olive Branch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1853-02-17_26_43$3/pct:53.185745,30.080117,21.436285,18.317553/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1853-02-17_26_43$3/pct:53.185745,30.080117,21.436285,18.317553/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ listen! Keep thy spirit free front earth&#x27;
 taint; so shalt thou &quot;goto them,&quot; tho&#x27;ttgl&quot;J  
 &quot;they may not return to thee.&quot; Oitvt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1853030201%2F0525.jp2/pct:81.321839,34.641819,13.523707,14.128998/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1853030201%2F0525.jp2/pct:81.321839,34.641819,13.523707,14.128998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ to listen I Keep thy spirit free from earth
 taint; so shalt thou go to them, tho&#x27; they may  
 not return to thee. i anny fern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779209%2F1853030401%2F0103.jp2/pct:61.603614,40.222161,13.250518,13.741086/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779209%2F1853030401%2F0103.jp2/pct:61.603614,40.222161,13.250518,13.741086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ not return to thee. i anny fern
 earth, two in heaven.”  
 There spoke the mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349001%2F1853032301%2F0423.jp2/pct:27.928407,90.698324,12.799043,2.587291/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349001%2F1853032301%2F0423.jp2/pct:27.928407,90.698324,12.799043,2.587291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ ten! Keep thy spirit free from enith taint; so
 shalt thou “go to them,” though they may not  
 return to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn85034360%2F00393347958%2F1853032401%2F0772.jp2/pct:19.655172,72.569544,18.017241,17.109980/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn85034360%2F00393347958%2F1853032401%2F0772.jp2/pct:19.655172,72.569544,18.017241,17.109980/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ watch thy footsteps, cherub forms bend to
 taint; so eha.lt thou &quot;go to them,&quot; though  
 ! &quot;they may not return to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_ibizanhound_ver01%2Fdata%2Fsn83045461%2F00280654000%2F1853032501%2F0311.jp2/pct:76.700680,29.436605,18.885461,54.428880/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ibizanhound_ver01%2Fdata%2Fsn83045461%2F00280654000%2F1853032501%2F0311.jp2/pct:76.700680,29.436605,18.885461,54.428880/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ Wanted angels for heaven ! Cling not loo
 clostly to your beautiful treasures, children of  
 f -th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1853033101%2F0053.jp2/pct:4.766123,69.406393,12.313962,17.808219/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1853033101%2F0053.jp2/pct:4.766123,69.406393,12.313962,17.808219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ look up? Can you bear the splender of that
 sight! Ten thousand celestial beings, sad  
 your own radiant child-angel in their mids
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-02_32_1653$0/pct:72.616598,62.962413,8.590535,11.825880/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-02_32_1653$0/pct:72.616598,62.962413,8.590535,11.825880/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ t free from earth taint; so shalt thou
 To to them, tho&#x27; they may not re. n  
 urn to thee. F.iNNY FsI. 0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288476%2F1853040501%2F0300.jp2/pct:30.023571,4.997925,14.122962,18.814832/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288476%2F1853040501%2F0300.jp2/pct:30.023571,4.997925,14.122962,18.814832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ it free from earth taint; so shalt thou
 go to them, tho&#x27; they may not re­  
 turn to thee. FANNY FFILN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288476%2F1853040501%2F0301.jp2/pct:29.547675,4.753268,13.247362,18.820373/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288476%2F1853040501%2F0301.jp2/pct:29.547675,4.753268,13.247362,18.820373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ Wanted—angels for heaven 1 Cllng;
 not too closely to your beautiful treas­  
 ures, children of earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182975%2F1853040701%2F0789.jp2/pct:79.500000,14.619484,15.545000,23.585872/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182975%2F1853040701%2F0789.jp2/pct:79.500000,14.619484,15.545000,23.585872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ earth!
   
 Can you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1853-04-07_26_50$3/pct:29.346652,57.319738,21.760259,24.544792/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1853-04-07_26_50$3/pct:29.346652,57.319738,21.760259,24.544792/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ to listen! Keep thy spirit free from earth&#x27;s
 taint; so shall thou “go.to them,” though they  
 may not return to thee.--0/n*e Branch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_emeralds_ver02%2Fdata%2Fsn85025007%2F00414215890%2F1853041601%2F0360.jp2/pct:8.283355,34.745600,12.501811,12.085333/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_emeralds_ver02%2Fdata%2Fsn85025007%2F00414215890%2F1853041601%2F0360.jp2/pct:8.283355,34.745600,12.501811,12.085333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ listen! Keep thy spirit free from earth-taint;
 so shalt thy soul go to them, though they may  
 not return to thee.— Fanny Fern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-16_32_1655$3/pct:60.648148,51.819938,8.624829,10.889912/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-16_32_1655$3/pct:60.648148,51.819938,8.624829,10.889912/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -854,7 +854,7 @@ Wanted angels for heaven 1 Cling
 not too closely to your beautiful treasures?  
 children of earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1853042101%2F0566.jp2/pct:66.064578,5.374469,30.834399,89.610814/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1853042101%2F0566.jp2/pct:66.064578,5.374469,30.834399,89.610814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ On his brow a glory crown&quot;
 closely to your beautiful treasures, children of  
 earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192312%2F1853051001%2F0012.jp2/pct:16.348652,76.697303,13.989932,18.442238/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192312%2F1853051001%2F0012.jp2/pct:16.348652,76.697303,13.989932,18.442238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ Warned—angels for heaven ! Cling not
 too closely to your beautiful treasures, chil­  
 dren of earth !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895667%2F1853051901%2F0080.jp2/pct:69.215956,63.878212,12.521779,15.145998/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895667%2F1853051901%2F0080.jp2/pct:69.215956,63.878212,12.521779,15.145998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ On liis brow a glory crown.&quot;
 Wanted angels for heaven! Cling not too close­  
 ly to your beautiful treasures, children of earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1853052001%2F0547.jp2/pct:35.724842,70.107252,15.706033,14.985733/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1853052001%2F0547.jp2/pct:35.724842,70.107252,15.706033,14.985733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ Tliero upoke tho mother 1 Slill here ! only
   
 New Haven, Conn., pronounced by the clierinhcd by tho hearth and at the board; thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn89067494%2F00280779726%2F1853052101%2F0220.jp2/pct:10.866142,57.475582,41.364829,5.202855/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn89067494%2F00280779726%2F1853052101%2F0220.jp2/pct:10.866142,57.475582,41.364829,5.202855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ unless great precaution be used. The coun alfh.!hy isleH c&#x27;,cn&#x27;b ,orn,
 ifo-r!i k .11 &quot;&quot;&#x27;l-,u&quot; ,len! Keep thy spirit free from earth &#x27;tumt: so  
 lut t?&#x27;d, J,a co,nlM,nwnhaltihou ifto them,&quot; thouKh -Uhcy may no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn89067494%2F00280779726%2F1853052101%2F0220.jp2/pct:10.813648,68.163035,41.469816,9.335086/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn89067494%2F00280779726%2F1853052101%2F0220.jp2/pct:10.813648,68.163035,41.469816,9.335086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ shall thou &quot;go to them,&quot; though &quot;they may not
   
 return to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn87091069%2F00280779714%2F1853052601%2F0255.jp2/pct:38.291475,42.665537,13.990096,15.219540/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn87091069%2F00280779714%2F1853052601%2F0255.jp2/pct:38.291475,42.665537,13.990096,15.219540/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ terest blast of adversity. As the vine which cherished by the dearth and .at the
   
 long twined its - graceful foliage, about the their places &quot;not yet filled; even though their
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065697%2F00295877601%2F1853062401%2F0155.jp2/pct:64.738292,45.299882,28.126722,4.414773/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065697%2F00295877601%2F1853062401%2F0155.jp2/pct:64.738292,45.299882,28.126722,4.414773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1168,7 +1168,7 @@ bend to listen! Keep thy spirit free fieri t
 earth taint; so shalt thon &quot;go t?i t1 m,&#x27;.&#x27;  
 though they may not &quot;return to thee,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065697%2F00295877601%2F1853062401%2F0155.jp2/pct:78.650138,56.896737,14.407713,6.955960/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065697%2F00295877601%2F1853062401%2F0155.jp2/pct:78.650138,56.896737,14.407713,6.955960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ though they may not &quot;return to thee,
 ” , not come streaming in on his w.astcd form, as if according to the directions,  
 there were no grief in the world ! &#x27; , The.Restorer used ■with the Xy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27$3/pct:48.323522,37.183099,19.529050,1.568075/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27$3/pct:48.323522,37.183099,19.529050,1.568075/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ lucate How sweetly he sleeps, that precious little an- glossy and natural appear
 could ■ How lightly curl the flaxen locks on his When applying this prcp-cration,  
 , , white forehead ! You could weep your very Xylobals.-.mum can bo used wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27$3/pct:48.323522,38.788732,19.529050,1.201878/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27$3/pct:48.323522,38.788732,19.529050,1.201878/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1223,7 +1223,7 @@ On hi.s brow a glory crown.”
 Oh! cling not too closely to your beautiful  
 tressure.s. children of earth .—Lutheran Olks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27$3/pct:50.217558,49.633803,10.724341,1.446009/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27$3/pct:50.217558,49.633803,10.724341,1.446009/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ us Leii&#x27;i to listen! Keep Ihy spirit free
 era jjprAi tuinljso shall thy soul go to them,  
 Qgli they may not return to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292467%2F1853082501%2F0356.jp2/pct:5.336649,26.339149,12.796480,19.299051/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292467%2F1853082501%2F0356.jp2/pct:5.336649,26.339149,12.796480,19.299051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ cessors draw life from the same faithful
 breast where their dying heads were  
 pillowed. &quot;Two in Heaven!&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn88059754%2F00279528505%2F1853091601%2F0079.jp2/pct:18.772401,46.172814,12.275986,5.804993/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn88059754%2F00279528505%2F1853091601%2F0079.jp2/pct:18.772401,46.172814,12.275986,5.804993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1338,7 +1338,7 @@ On his brow a glory crown.&quot;
 Wanted—angel tor heaven ! Cling not too closely to your  
 beautiful treasures, children of earth !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1853111201%2F0086.jp2/pct:68.484627,80.961160,14.659590,13.409538/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1853111201%2F0086.jp2/pct:68.484627,80.961160,14.659590,13.409538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ The strength of the Syrian Mission has l^n ‘hTo^gh wreathed ^ -
   
 painting, to his heart’s content Yonder away successful and persevering of any modem expositor, much weakened by the partial loss of health in world knocks at your doo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1854-09-21_25_38$3/pct:2.697520,34.125809,55.804142,1.054579/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1854-09-21_25_38$3/pct:2.697520,34.125809,55.804142,1.054579/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ Wanted angels for Heaven ! Cling not
 too closely to your beautiful treasures, chil­  
 dren of earth 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1855041401%2F0175.jp2/pct:62.271630,55.767250,11.047915,14.289392/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1855041401%2F0175.jp2/pct:62.271630,55.767250,11.047915,14.289392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ Vainly you clasp and unclasp that pas-
   
 sive, darling hand that has wandered so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027273%2F1855052301%2F0416.jp2/pct:51.083773,64.952622,10.779145,7.113076/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027273%2F1855052301%2F0416.jp2/pct:51.083773,64.952622,10.779145,7.113076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1581,7 +1581,7 @@ door, and will let you have no peace.;
   
 It shouts in your ear; its chariots rum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027273%2F1855052301%2F0416.jp2/pct:51.098418,74.478838,21.719391,2.400505/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027273%2F1855052301%2F0416.jp2/pct:51.098418,74.478838,21.719391,2.400505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1613,7 +1613,7 @@ sures, children of earth ! &#x27; :-
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027273%2F1855052301%2F0416.jp2/pct:51.025190,80.530638,10.588752,6.127606/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027273%2F1855052301%2F0416.jp2/pct:51.025190,80.530638,10.588752,6.127606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1653,7 +1653,7 @@ to listen! &#x27;. Keep thy spirit free from earth&#x27;s
 taint; so shalt thou &quot; go to them;,,; though,  
 &quot;they may not return to thee. Fann
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035102%2F00296027078%2F1855052301%2F0417.jp2/pct:42.978034,35.092181,12.693554,17.024793/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035102%2F00296027078%2F1855052301%2F0417.jp2/pct:42.978034,35.092181,12.693554,17.024793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1701,7 +1701,7 @@ Wanted angels for Heaven! Cling
 not too closely to your beautiful treasures,  
 children of earth!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775782%2F1855052501%2F0091.jp2/pct:43.995532,56.017687,12.455781,18.350145/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775782%2F1855052501%2F0091.jp2/pct:43.995532,56.017687,12.455781,18.350145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ bend lo listen ! Keep thy spirit free front
 earth&#x27;s tint ; so shall thou &quot;go to them,&quot;  
 though they may not return to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237283703%2F1855053001%2F0094.jp2/pct:71.487603,18.255998,11.125238,17.829741/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237283703%2F1855053001%2F0094.jp2/pct:71.487603,18.255998,11.125238,17.829741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ listen! Keep thy spirit free from earth’s taint,
 so shalt thou “‘go to them,’ though “they  
 msy not return to thee.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-06_7_6$43/pct:57.258065,18.682213,35.908319,33.242950/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-06_7_6$43/pct:57.258065,18.682213,35.908319,33.242950/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1851,7 +1851,7 @@ Wanted angels for Heaven! Cling nut too
 closely to your beautiful treasures, children  
 of Earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn84024443%2F00200293861%2F1855062201%2F0014.jp2/pct:29.019293,13.972269,12.178457,18.314795/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn84024443%2F00200293861%2F1855062201%2F0014.jp2/pct:29.019293,13.972269,12.178457,18.314795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1900,7 +1900,7 @@ Wanted?angels for Heaven ! Cling not too
 closely to your beautiful treasures, children of  
 earth.? Fanny Fkrn, in Olive Branch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn84027851%2F00295862282%2F1855080701%2F0265.jp2/pct:49.505304,12.085256,15.947572,19.999268/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn84027851%2F00295862282%2F1855080701%2F0265.jp2/pct:49.505304,12.085256,15.947572,19.999268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ Wanted Angels for heaven! Cling nit too
 closely to your beautiful treasures, children of  
 earth. Olive Branch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_chet_ver01%2Fdata%2Fsn85038518%2F00200293204%2F1855081901%2F0169.jp2/pct:82.299131,23.356091,12.593383,17.008025/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_chet_ver01%2Fdata%2Fsn85038518%2F00200293204%2F1855081901%2F0169.jp2/pct:82.299131,23.356091,12.593383,17.008025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1979,7 +1979,7 @@ bend to listen! K^ep thy spirit Iron from
 earth&#x27;s taint ; so shall tlum ?? go to them,&quot;  
 though &quot; they may not return to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_lincoln_ver01%2Fdata%2Fsn86092124%2F00279550250%2F1855082501%2F0039.jp2/pct:82.667993,76.986271,13.775631,13.571911/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_lincoln_ver01%2Fdata%2Fsn86092124%2F00279550250%2F1855082501%2F0039.jp2/pct:82.667993,76.986271,13.775631,13.571911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2020,7 +2020,7 @@ to listen! - Keep thy spirit free from earth&#x27;s
 taint, so shalt thou &#x27;go to them,&#x27; though  
 &#x27;they may not return to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cousteau_ver02%2Fdata%2Fsn84028817%2F00296027352%2F1855082901%2F0159.jp2/pct:19.480290,69.645073,12.480113,18.416481/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cousteau_ver02%2Fdata%2Fsn84028817%2F00296027352%2F1855082901%2F0159.jp2/pct:19.480290,69.645073,12.480113,18.416481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2049,7 +2049,7 @@ you look up Can yon be.»r the splendor
 of that *ight Ten thousand celestial be­  
 inrs, an 1 your own rclient child in tfceir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn82014139%2F0041566896A%2F1855100201%2F0126.jp2/pct:62.704446,44.233343,14.614144,4.997878/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn82014139%2F0041566896A%2F1855100201%2F0126.jp2/pct:62.704446,44.233343,14.614144,4.997878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2085,7 +2085,7 @@ Little angels watch thy steps. Spirit
 forms stoop to listen I Keep thy soul  
 free from earth ; thou shalt go to them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84028880%2F00296027558%2F1855102301%2F0530.jp2/pct:18.751183,56.047454,12.828761,12.760417/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84028880%2F00296027558%2F1855102301%2F0530.jp2/pct:18.751183,56.047454,12.828761,12.760417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2117,7 +2117,7 @@ empty room from whence you have borne your
 dead. But it comes never in the hush of night  
 to wipe away your tears ! In the solemn silenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040307%2F00514151362%2F1855110801%2F0179.jp2/pct:56.776662,27.823420,12.812052,8.332420/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040307%2F00514151362%2F1855110801%2F0179.jp2/pct:56.776662,27.823420,12.812052,8.332420/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2135,7 +2135,7 @@ your own radiant child-angel in the midst—
 In her eyes a glory bright,   
 On her brow a glory crown.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040307%2F00514151362%2F1855110801%2F0179.jp2/pct:56.776662,38.383174,12.769010,2.227334/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040307%2F00514151362%2F1855110801%2F0179.jp2/pct:56.776662,38.383174,12.769010,2.227334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2176,7 +2176,7 @@ comes never in the hush of night to wipe
 away your tears ? In the solemn silence of  
 the grave we feel the force of the sickenin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879166%2F1855121101%2F0361.jp2/pct:54.534075,69.545555,12.712100,11.956762/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879166%2F1855121101%2F0361.jp2/pct:54.534075,69.545555,12.712100,11.956762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2195,7 +2195,7 @@ diant child angel in the midst
 In her ey es a glory bright.  
 On her brow a glory crown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879166%2F1855121101%2F0361.jp2/pct:54.909597,83.951026,12.253129,3.496581/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879166%2F1855121101%2F0361.jp2/pct:54.909597,83.951026,12.253129,3.496581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2230,7 +2230,7 @@ But it comes never in the hush of night to&gt;
 wipe away your tears! In tht solran silence  
 of the grave we feel the force of the sicken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hershey_ver01%2Fdata%2Fsn85025182%2F00296028393%2F1855121301%2F0582.jp2/pct:81.002543,62.941090,12.095895,13.278213/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hershey_ver01%2Fdata%2Fsn85025182%2F00296028393%2F1855121301%2F0582.jp2/pct:81.002543,62.941090,12.095895,13.278213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2249,7 +2249,7 @@ diant child angel in the midst—
 In her eyes a glory bright,  
 On her brow a glory crown.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hershey_ver01%2Fdata%2Fsn85025182%2F00296028393%2F1855121301%2F0582.jp2/pct:81.002543,78.729268,12.065625,3.415522/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hershey_ver01%2Fdata%2Fsn85025182%2F00296028393%2F1855121301%2F0582.jp2/pct:81.002543,78.729268,12.065625,3.415522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2283,7 +2283,7 @@ the empty room from whence you have borne
 , your dead. But it comes never in the hush of  
 night to wipe away your thars! In the solem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1856010101%2F0446.jp2/pct:83.546785,13.823979,13.025842,11.181481/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1856010101%2F0446.jp2/pct:83.546785,13.823979,13.025842,11.181481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2302,7 +2302,7 @@ midst—
 In her eyes a glory bright.  
 On her brow a glory crown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1856010101%2F0446.jp2/pct:83.546785,27.859067,12.834420,3.042877/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1856010101%2F0446.jp2/pct:83.546785,27.859067,12.834420,3.042877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2345,7 +2345,7 @@ midst—
 In Lor eyes a glory brizht.  
 On her brow n glory crown.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040307%2F00514151362%2F1856011001%2F0215.jp2/pct:70.063360,15.264624,12.872183,13.355617/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040307%2F00514151362%2F1856011001%2F0215.jp2/pct:70.063360,15.264624,12.872183,13.355617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2388,7 +2388,7 @@ free from earth taint; so shalt thou go
 to them though they may not return to  
 thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194928%2F1856051601%2F0076.jp2/pct:33.231182,26.515957,13.215859,19.574468/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194928%2F1856051601%2F0076.jp2/pct:33.231182,26.515957,13.215859,19.574468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2436,7 +2436,7 @@ bind to lixtenf Keep thy spirit from taint:
 so shalt thou go l them, though they  
 may not return to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026712%2F1857022601%2F0726.jp2/pct:79.677658,15.667689,12.430530,14.845275/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026712%2F1857022601%2F0726.jp2/pct:79.677658,15.667689,12.430530,14.845275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2478,7 +2478,7 @@ bend to listen ! Keep thy spirits free from
 earth’s taint; so shall thou go to them  
 though tb y may ; at return to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026882%2F00279557414%2F1857022801%2F0187.jp2/pct:75.818209,15.586150,13.719875,16.330425/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026882%2F00279557414%2F1857022801%2F0187.jp2/pct:75.818209,15.586150,13.719875,16.330425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2542,7 +2542,7 @@ bend to listen! Keep thy spirit free from
 earth taints: so shalt thou go to them, though  
 they may not return to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288269%2F1857060301%2F0453.jp2/pct:16.205257,30.092774,13.735086,14.615184/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288269%2F1857060301%2F0453.jp2/pct:16.205257,30.092774,13.735086,14.615184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2628,7 +2628,7 @@ tllOll (TO to thWlh. ihn&#x27;iV.rh lfiW Wiv
 L &#x27; -O &quot; &quot;&quot;V ,  
 nl return to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn95063180%2F00212472852%2F1858062401%2F0113.jp2/pct:79.762662,76.620718,14.240305,19.353078/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn95063180%2F00212472852%2F1858062401%2F0113.jp2/pct:79.762662,76.620718,14.240305,19.353078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2673,7 +2673,7 @@ it free from earth taint; so shalt thou
 |go to them, though they may not re­  
 turn to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1858071401%2F0081.jp2/pct:29.759487,75.032412,13.072515,17.260321/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1858071401%2F0081.jp2/pct:29.759487,75.032412,13.072515,17.260321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2718,7 +2718,7 @@ to listen ! Keep thy spirit free from earlh
 taint, so shall thou go with them tho&#x27; they may  
 not return to you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00383342922%2F1858081901%2F0328.jp2/pct:18.038804,39.190039,14.368117,16.840649/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00383342922%2F1858081901%2F0328.jp2/pct:18.038804,39.190039,14.368117,16.840649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2763,7 +2763,7 @@ listen Keep thy spirit free from earth that
 so shall thou go to them, though they may not  
 return to you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027352%2F00279528578%2F1858081901%2F0140.jp2/pct:81.478273,37.486410,12.925268,14.967022/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027352%2F00279528578%2F1858081901%2F0140.jp2/pct:81.478273,37.486410,12.925268,14.967022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2810,7 +2810,7 @@ bent to listen &#x27;.keep thy spirit free from earth
 that so shall thou go to them, tho&#x27; they  
 may not return to yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F00200294531%2F1858091601%2F0377.jp2/pct:44.910462,70.079763,12.606032,15.414580/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F00200294531%2F1858091601%2F0377.jp2/pct:44.910462,70.079763,12.606032,15.414580/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2849,7 +2849,7 @@ f r ns b nt t* list -n ! Keep thy spirit
 fre-1 from earth * f iin‘; s» *h ill t b &gt;u *g»  
 r-» them.’ tii oign *tli# v may not return t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895047%2F1859040101%2F0894.jp2/pct:29.931973,67.688822,13.143070,14.157855/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895047%2F1859040101%2F0894.jp2/pct:29.931973,67.688822,13.143070,14.157855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2891,7 +2891,7 @@ whouco you havo borno your dcad, llit it
 comes ncvcr iu thc hush of night to wipe  
 away your teara ! In tho solcmn silenco o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_graniteville_ver01%2Fdata%2Fsn84023200%2F00280777638%2F1859072901%2F0759.jp2/pct:82.266693,70.130847,12.819497,10.648218/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_graniteville_ver01%2Fdata%2Fsn84023200%2F00280777638%2F1859072901%2F0759.jp2/pct:82.266693,70.130847,12.819497,10.648218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2924,7 +2924,7 @@ room from whence you have borne your dead.—
 But it comes never in the hush of night to wipe  
 uway your tear! In the solemn silence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32$5/pct:64.277344,58.275862,16.816406,11.681034/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32$5/pct:64.277344,58.275862,16.816406,11.681034/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2944,7 +2944,7 @@ angel in the midst of thea—
 In her eyes a glory bright,  
 On her brow ¢ glory crown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32$5/pct:64.687500,72.557471,16.464844,3.577586/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32$5/pct:64.687500,72.557471,16.464844,3.577586/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2996,7 +2996,7 @@ iidst: of tl e-- .
 In her eyes oftglory bright  
 On herb-ro a glory crown. &quot; -x
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn86079096%2F00212475002%2F1859082001%2F0326.jp2/pct:81.039326,36.634948,15.449438,27.840254/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn86079096%2F00212475002%2F1859082001%2F0326.jp2/pct:81.039326,36.634948,15.449438,27.840254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3029,7 +3029,7 @@ enflin, at the èràrp, and ila heavy fooPoPh
 whence you hate borne roar dead. But it  
 comes never in the hash ofnighttewipe away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn82014488%2F00279557438%2F1859090301%2F0533.jp2/pct:83.065380,29.480699,12.955520,9.381565/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn82014488%2F00279557438%2F1859090301%2F0533.jp2/pct:83.065380,29.480699,12.955520,9.381565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3080,7 +3080,7 @@ tttburl K-ep th ej.irit fra from earth taint;
 so shait thy soul go to them, though they may  
 not re&#x27;. urn Lo thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200290033%2F1861092201%2F0238.jp2/pct:39.903424,60.067296,10.579456,8.010420/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200290033%2F1861092201%2F0238.jp2/pct:39.903424,60.067296,10.579456,8.010420/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3140,7 +3140,7 @@ Wanted angels fi-r heaven 1 Cling
 not too closely to your beautiful treas­  
 ures, children of earth 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn85029094%2F00237281858%2F1864061101%2F0691.jp2/pct:56.150864,48.494596,12.548467,22.014925/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn85029094%2F00237281858%2F1864061101%2F0691.jp2/pct:56.150864,48.494596,12.548467,22.014925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3157,7 +3157,7 @@ tempest—no sickness, nor drooping head nor fading
 eye, nor weary feet, sweetly she rests by the green ]pas­  
 tures tended by the good Shepherd of the heavenly fold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn84038763%2F0027955792A%2F1867032301%2F0259.jp2/pct:30.487452,69.072460,12.837838,1.825782/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn84038763%2F0027955792A%2F1867032301%2F0259.jp2/pct:30.487452,69.072460,12.837838,1.825782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3218,7 +3218,7 @@ listen; keep thy spiri; free from earthly tint.
 So shalt thou go to them, though they may  
 not return to thee.—Missionary Messenger
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184418%2F1874120901%2F0278.jp2/pct:5.189137,71.412566,12.576786,14.585308/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184418%2F1874120901%2F0278.jp2/pct:5.189137,71.412566,12.576786,14.585308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3263,7 +3263,7 @@ loly eyes watch thy footsteps; cherub forms j
 larthly taint. So shrill thou go to them, j  
 hough they may not rcturu to thee.?MissiontV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862750%2F1875010701%2F0224.jp2/pct:43.654624,72.170731,15.238468,12.888809/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862750%2F1875010701%2F0224.jp2/pct:43.654624,72.170731,15.238468,12.888809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3283,7 +3283,7 @@ Good Shepherd linger the little lambs of
 I the Heavenly fold. Sickness aud sor­  
 row never enter that blest land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F0027176781A%2F1879031501%2F0048.jp2/pct:51.545718,72.904085,19.347156,3.932074/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F0027176781A%2F1879031501%2F0048.jp2/pct:51.545718,72.904085,19.347156,3.932074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3303,7 +3303,7 @@ weary feetjby the green pastures, teuded
 lambs of the Heavenly fold. Sickness  
 and sorrow never enter that blest abode
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F0027176781A%2F1879081601%2F0137.jp2/pct:50.301596,29.640986,18.944878,3.829692/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F0027176781A%2F1879081601%2F0137.jp2/pct:50.301596,29.640986,18.944878,3.829692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

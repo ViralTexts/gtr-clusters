@@ -38,7 +38,7 @@ to lose; for lawyers’ houses are built on fools’ heads.” “ Beware
 of no man more than of yourself; we carry our worst enemies  
 within us.” In a word, asin all these bundles of conceits, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-review_1869-06-12_27_711$14/pct:9.771574,47.434853,36.421320,5.903909/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-review_1869-06-12_27_711$14/pct:9.771574,47.434853,36.421320,5.903909/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ Always glvo&#x27;up the&#x27;, road&#x27; &#x27;-to&#x27; hulls&#x27; and
 madmen arid, nover fight1 with n opal i  
 hearer,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1869071501%2F0757.jp2/pct:49.966450,57.239110,14.784165,30.601692/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1869071501%2F0757.jp2/pct:49.966450,57.239110,14.784165,30.601692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ trifana no raw tliun it say iKin&#x27;t
 go to 1 w oilM you lave rmtliirig to  
 l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1869080301%2F0304.jp2/pct:5.057606,48.613875,13.298184,13.370474/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1869080301%2F0304.jp2/pct:5.057606,48.613875,13.298184,13.370474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ oftB get belter wrk, for the poorekt
 bleat o2.ee ia U tU r than Itiu out of  
 tfl)pVu)ftftiei.t. Alwayagiveup the road
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1869080301%2F0304.jp2/pct:5.233353,68.404298,13.200547,12.163417/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1869080301%2F0304.jp2/pct:5.233353,68.404298,13.200547,12.163417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ never wade into water were you cannot mjc
 tho bottom. Put no djiendenee Uwn the  
 label of a bsg. and cout m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105483%2F1869082101%2F0690.jp2/pct:40.230906,23.115578,16.651865,12.290022/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105483%2F1869082101%2F0690.jp2/pct:40.230906,23.115578,16.651865,12.290022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ Nr lay wsgo. bar had,
 A ad vu may deeal  
 Yeull have peae t ysaieaJ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105483%2F1869082101%2F0690.jp2/pct:40.164298,40.875808,16.585258,10.323044/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105483%2F1869082101%2F0690.jp2/pct:40.164298,40.875808,16.585258,10.323044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ better than being out oi employment. Always
 give up the road to bulls and madmen; and  
 never fight with a coal-heaver, or contend wit 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_connemara_ver01%2Fdata%2Fsn85025007%2F00414184807%2F1869082701%2F0082.jp2/pct:6.507937,7.980967,14.925926,17.706644/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_connemara_ver01%2Fdata%2Fsn85025007%2F00414184807%2F1869082701%2F0082.jp2/pct:6.507937,7.980967,14.925926,17.706644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ iJrink nothing without seeing it; sign noth-1 (if all tho einclovmenti to which 
 ing without reading it, and make suro it -apply ihemeivts in San Kram-isco tb.-y ,  
 means no more than it says. Don&#x27;t tj&quot; to duciu to be,t muiued in tint luuu lry b.i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022168%2F00296025185%2F1869082801%2F0374.jp2/pct:8.552230,56.488107,28.130727,10.462193/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022168%2F00296025185%2F1869082801%2F0374.jp2/pct:8.552230,56.488107,28.130727,10.462193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ Kiv up the road to bulls and mad men; and that oí the sun hi mid -lay. Tin-ru U
 never fight with coalhuavor, or contend in it. ra. hut th-y have gre it i ll&#x27;eet u-on  
 with a ba character, for they will bo sure , the brain. The ido 1 ni-.li.- to Hot bu . I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022168%2F00296025185%2F1869082801%2F0374.jp2/pct:8.979841,77.103075,27.519853,3.906401/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022168%2F00296025185%2F1869082801%2F0374.jp2/pct:8.979841,77.103075,27.519853,3.906401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ aud never fight with a coal heaver, or
 contend with a base character, for they  
 wiil be sure to blacken von. Her. C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023139%2F1869090201%2F0355.jp2/pct:61.498409,13.408521,21.159965,81.954887/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023139%2F1869090201%2F0355.jp2/pct:61.498409,13.408521,21.159965,81.954887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ men; end never fight with a coal.heaver
 or contend with a base character, for they  
 will be sure to blacken you.- -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762003%2F1869090501%2F0254.jp2/pct:34.755009,67.122396,15.850030,28.841146/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762003%2F1869090501%2F0254.jp2/pct:34.755009,67.122396,15.850030,28.841146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ and madmen, and never fight with a coul
 heaver, or rontend with a base character,  
 for they will be sure to blacken yon, Ikv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1869090801%2F0159.jp2/pct:21.995590,62.694301,12.183021,22.137306/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1869090801%2F0159.jp2/pct:21.995590,62.694301,12.183021,22.137306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ and madmen, and never fight with a coal
 heaver, or contend with a base character,  
 for they will be sure to blacken you.—Rev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768722%2F1869090801%2F0481.jp2/pct:15.108465,73.764824,11.333604,24.095011/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768722%2F1869090801%2F0481.jp2/pct:15.108465,73.764824,11.333604,24.095011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ for they w ill be sure to blacken you.
 -liev.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200294580%2F1869090901%2F0399.jp2/pct:17.855343,75.581952,11.202117,20.739534/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200294580%2F1869090901%2F0399.jp2/pct:17.855343,75.581952,11.202117,20.739534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ and madmen* and never fight with a coal
 heaver, or contend with a base character,  
 for they will be sure to blacken you.—Rev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_peugeot_ver01%2Fdata%2Fsn85025431%2F00212479706%2F1869090901%2F0034.jp2/pct:55.722561,71.007408,9.718699,18.984494/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_peugeot_ver01%2Fdata%2Fsn85025431%2F00212479706%2F1869090901%2F0034.jp2/pct:55.722561,71.007408,9.718699,18.984494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ fight with a coal heaver, or contend with a
 base character, for they will be sure to black­  
 en you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348707%2F1869090901%2F0111.jp2/pct:56.264237,70.436951,13.163659,20.223724/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348707%2F1869090901%2F0111.jp2/pct:56.264237,70.436951,13.163659,20.223724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ and mudinou, uud never fight with a coal
 heaver, or contend with a baso character,  
 Tor I hey will be sure to blacken you.-- Ur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075001%2F00237286935%2F1869091001%2F0664.jp2/pct:21.446289,61.916533,11.791643,21.928166/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075001%2F00237286935%2F1869091001%2F0664.jp2/pct:21.446289,61.916533,11.791643,21.928166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ if you put your thumb between two
 grinders, they are very apt to bite.  
 Corn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn84024443%2F00200293861%2F1869091001%2F1206.jp2/pct:32.912391,42.247511,13.397790,13.257468/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn84024443%2F00200293861%2F1869091001%2F1206.jp2/pct:32.912391,42.247511,13.397790,13.257468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ a coal-heaver, or contend with a
 bad character, for they will be sure  
 to blacken vou.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775113%2F1869091701%2F0651.jp2/pct:34.660684,45.461088,10.726304,34.306569/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775113%2F1869091701%2F0651.jp2/pct:34.660684,45.461088,10.726304,34.306569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ or contend with a base charac­
 ter, for they will be sure to  
 blackeu you.— [C. H. Spurgeon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F00295873991%2F1869091801%2F0360.jp2/pct:75.760691,14.798206,14.473684,64.882287/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F00295873991%2F1869091801%2F0360.jp2/pct:75.760691,14.798206,14.473684,64.882287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ Ahere you cannot see the bottom.
 Beware of no man more than of your  
 self ; we cai ry our worst enemies with us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197437%2F1869092101%2F0594.jp2/pct:77.108198,38.414634,12.463314,10.684590/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197437%2F1869092101%2F0594.jp2/pct:77.108198,38.414634,12.463314,10.684590/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ It iavor, nor contend with a base character,- -
 or they will be sure to blacken you.  
 . &quot;hen sf rtfevV opiiiir n or doctrine coinrs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197437%2F1869092101%2F0594.jp2/pct:77.734299,79.337583,13.128546,3.658537/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197437%2F1869092101%2F0594.jp2/pct:77.734299,79.337583,13.128546,3.658537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1181,7 +1181,7 @@ See the sack open before you buy what is
 in it; for he who trades in the dark asks to  
 be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00294554828%2F1869092401%2F0047.jp2/pct:80.102941,30.934685,12.529412,17.826577/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00294554828%2F1869092401%2F0047.jp2/pct:80.102941,30.934685,12.529412,17.826577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,7 +1260,7 @@ madmen, and never fight with a coal
 heaver, nor contend with a base &quot;charac­  
 ter, for they will be sure to blacken you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1869092401%2F0814.jp2/pct:52.747898,16.627941,12.751809,43.305257/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1869092401%2F0814.jp2/pct:52.747898,16.627941,12.751809,43.305257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,7 +1280,7 @@ member “Thank you, pussy, and thank
 you pussy,,” killed the cat.   
 Do not choose your friends by thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151209%2F1869093001%2F0603.jp2/pct:3.892493,86.408607,14.813099,5.187526/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151209%2F1869093001%2F0603.jp2/pct:3.892493,86.408607,14.813099,5.187526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1300,7 +1300,7 @@ Drink nothing without seeing it; sign
 nothing without reading it; and make  
 sure that it means no more than it says.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151209%2F1869093001%2F0607.jp2/pct:5.079365,90.200958,14.587814,3.830638/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151209%2F1869093001%2F0607.jp2/pct:5.079365,90.200958,14.587814,3.830638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1338,7 +1338,7 @@ the gilt on it.
   
 New Advertisements
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151209%2F1869093001%2F0608.jp2/pct:4.521944,5.726041,27.438931,90.355943/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151209%2F1869093001%2F0608.jp2/pct:4.521944,5.726041,27.438931,90.355943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1367,7 +1367,7 @@ always said.
 Nobody is more like an holiest  
 man than a thorough rogue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1869101201%2F0346.jp2/pct:18.491675,39.033752,12.713026,5.651886/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1869101201%2F0346.jp2/pct:18.491675,39.033752,12.713026,5.651886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ poorest pay is better than none, and the
 humblest oftico is better than being- out of  
 employment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197437%2F1869101201%2F0607.jp2/pct:79.525692,83.967126,12.707510,3.900265/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197437%2F1869101201%2F0607.jp2/pct:79.525692,83.967126,12.707510,3.900265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1407,7 +1407,7 @@ that the gingerbread is good because of the
   
 gilt on l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194965%2F1869101201%2F0155.jp2/pct:46.420163,94.694093,9.569312,1.940928/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194965%2F1869101201%2F0155.jp2/pct:46.420163,94.694093,9.569312,1.940928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ tween two erinders, tbev are very apt to
   
 DIM).
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194965%2F1869101201%2F0155.jp2/pct:56.418779,95.084388,9.610857,1.476793/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194965%2F1869101201%2F0155.jp2/pct:56.418779,95.084388,9.610857,1.476793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1448,7 +1448,7 @@ madmen ; and never fight with a coal hea­
 ver, nor contend with a base character, for  
 they will be sure to blacken you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194965%2F1869101201%2F0156.jp2/pct:13.556485,7.207772,9.651325,3.405411/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194965%2F1869101201%2F0156.jp2/pct:13.556485,7.207772,9.651325,3.405411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1515,7 +1515,7 @@ ladmen, -and never fight with a coal
 eaver, or contend with a base character,  
 ir they will be sure to blacken you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1869101401%2F0227.jp2/pct:50.689655,52.912621,10.870279,22.828654/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1869101401%2F0227.jp2/pct:50.689655,52.912621,10.870279,22.828654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ feet.
 In any business, never wade into  
 water where you cannot see the bottom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_leek_ver01%2Fdata%2Fsn84022367%2F00415628353%2F1869101401%2F0748.jp2/pct:39.611622,17.715489,11.096510,8.841126/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_leek_ver01%2Fdata%2Fsn84022367%2F00415628353%2F1869101401%2F0748.jp2/pct:39.611622,17.715489,11.096510,8.841126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ Put no dependence upon tho Lbel of
 a bag; and count money after your own  
 kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_leek_ver01%2Fdata%2Fsn84022367%2F00415628353%2F1869101401%2F0748.jp2/pct:39.582421,30.079770,11.140312,2.670064/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_leek_ver01%2Fdata%2Fsn84022367%2F00415628353%2F1869101401%2F0748.jp2/pct:39.582421,30.079770,11.140312,2.670064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1588,7 +1588,7 @@ By no means put yourself in another
 person&#x27;s power; if you put your thumb  
 between two grinders, they are opt to bite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_leek_ver01%2Fdata%2Fsn84022367%2F00415628353%2F1869101401%2F0748.jp2/pct:39.582421,37.314425,11.111111,4.287614/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_leek_ver01%2Fdata%2Fsn84022367%2F00415628353%2F1869101401%2F0748.jp2/pct:39.582421,37.314425,11.111111,4.287614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1653,7 +1653,7 @@ madmen; and never fight with a coal
 heaver, or contend with a base charac­  
 ter for they will be sure to blacken yon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775915%2F1869102001%2F0364.jp2/pct:39.618029,46.863340,10.527120,19.554571/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775915%2F1869102001%2F0364.jp2/pct:39.618029,46.863340,10.527120,19.554571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1716,7 +1716,7 @@ couteud with a base character, for they will
 be sure to blacken you.&quot; .  
 ? Among the obituary notices in a cun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192324%2F1869110201%2F0389.jp2/pct:84.861013,54.769128,13.815095,28.433476/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192324%2F1869110201%2F0389.jp2/pct:84.861013,54.769128,13.815095,28.433476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1762,7 +1762,7 @@ Sever shout hallo ! till you are quite out
 of the wood ; and Dever cry fried fish till  
 they are caught in the net
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869110501%2F0627.jp2/pct:84.359486,70.851948,11.152055,17.995141/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869110501%2F0627.jp2/pct:84.359486,70.851948,11.152055,17.995141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1785,7 +1785,7 @@ religion displayed in his shop window, you
 may depend upon it he keeps a very small  
 | stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869110501%2F0627.jp2/pct:84.410666,88.941140,11.218588,5.462811/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869110501%2F0627.jp2/pct:84.410666,88.941140,11.218588,5.462811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1854,7 +1854,7 @@ ing out of employment.
 Sett Is for It.  
 The man who, on last Wednesda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470193%2F1869110501%2F0109.jp2/pct:29.543687,34.177763,10.513352,35.855797/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470193%2F1869110501%2F0109.jp2/pct:29.543687,34.177763,10.513352,35.855797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1944,7 +1944,7 @@ character, for they will be sure to
 blacken you.  
 . &#x27; j T J.S TT.ct r; rj 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027157%2F1869111101%2F0320.jp2/pct:8.231368,17.158949,10.773876,36.508135/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027157%2F1869111101%2F0320.jp2/pct:8.231368,17.158949,10.773876,36.508135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ i-e hi-1 ow :i e irarter.
 would b!*-?; heme h:&lt;- Maker, would in-.k&#x27;&#x27;  
 no hones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1869112701%2F0611.jp2/pct:56.442790,47.114310,13.276330,20.367449/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1869112701%2F0611.jp2/pct:56.442790,47.114310,13.276330,20.367449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2074,7 +2074,7 @@ to blacken you.-SrintaBaif
 © inte Do not choose your friend by his looks.  
 ‘‘ Handsome shoes often pinch the feet.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153$11/pct:51.081081,84.578652,36.846847,2.977528/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153$11/pct:51.081081,84.578652,36.846847,2.977528/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2141,7 +2141,7 @@ a coal heaver, or contend with a base character,
 for they will be sure to blacken you.— Spur­  
 geon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1869121501%2F0460.jp2/pct:78.288350,47.011368,14.417492,21.598827/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1869121501%2F0460.jp2/pct:78.288350,47.011368,14.417492,21.598827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2160,7 +2160,7 @@ office better than being out of employ-,
 meat  
 Beware of no uiau more than yourself ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348446%2F1869121601%2F0193.jp2/pct:5.273011,90.358846,12.314093,3.342418/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348446%2F1869121601%2F0193.jp2/pct:5.273011,90.358846,12.314093,3.342418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2213,7 +2213,7 @@ no bones of lying or stealing.
 llcwaro of no man more than yoursslf;  
 we carry onr worst enemies within u?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026840%2F00202192488%2F1869122001%2F0235.jp2/pct:79.273504,13.110450,15.933048,27.039209/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026840%2F00202192488%2F1869122001%2F0235.jp2/pct:79.273504,13.110450,15.933048,27.039209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2228,7 +2228,7 @@ we carry onr worst enemies within u?
 —— Beware of no man more than yourself:  
 we carry our worst enemies with us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157$16/pct:47.340426,84.375000,36.258865,2.399554/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157$16/pct:47.340426,84.375000,36.258865,2.399554/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2246,7 +2246,7 @@ whether it is bread or a stone; and do
 not be sure that the gingerbread is good  
 because of tho gilt on it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623719%2F1870010601%2F0010.jp2/pct:39.358892,79.374095,11.365746,2.684041/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623719%2F1870010601%2F0010.jp2/pct:39.358892,79.374095,11.365746,2.684041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2272,7 +2272,7 @@ of religion displayed in lii? shop win­
 dow, you may depend upon it be keeps a  
 very small Block of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1870020301%2F0026.jp2/pct:80.615183,82.245994,16.151832,3.777073/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1870020301%2F0026.jp2/pct:80.615183,82.245994,16.151832,3.777073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2297,7 +2297,7 @@ very small Block of it within
 most, for ‘‘ mewing cats are very seldom good  
 mousers.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162$12/pct:11.944938,82.977528,36.234458,3.398876/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162$12/pct:11.944938,82.977528,36.234458,3.398876/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2345,7 +2345,7 @@ Ben the sack opened before you buy what on
 is in it; for he whotradesin the dark asks en  
 to be cheated. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280761692%2F1870022701%2F0455.jp2/pct:7.647274,82.649007,15.642151,13.980868/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280761692%2F1870022701%2F0455.jp2/pct:7.647274,82.649007,15.642151,13.980868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2414,7 +2414,7 @@ madmen ; and never fight with a coal
 heaver, or contend with a base charac­  
 ter, for they will be sure to blacken you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744808%2F1870030101%2F0523.jp2/pct:69.814136,15.079090,12.277846,31.220413/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744808%2F1870030101%2F0523.jp2/pct:69.814136,15.079090,12.277846,31.220413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2493,7 +2493,7 @@ suro to blacken you. I HOLLOWAY&#x27;
 Do not choose your friend by his looks.  
 “Handsome shoes often pinch the feet.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1870-03-17_43_11$7/pct:51.496674,89.221891,20.620843,1.247208/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1870-03-17_43_11$7/pct:51.496674,89.221891,20.620843,1.247208/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2510,7 +2510,7 @@ Ho riot choose your friend by h is
 looks : handsome shoes often pinch  
 the feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028824%2F1870051301%2F0506.jp2/pct:85.470085,69.351409,11.161388,2.232855/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028824%2F1870051301%2F0506.jp2/pct:85.470085,69.351409,11.161388,2.232855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2534,7 +2534,7 @@ and do not be sure that the ginger­
 bread is good ltccan-c of the gilt on  
 It, r &#x27; - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1870051301%2F0169.jp2/pct:5.939777,87.793326,9.872130,5.855759/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1870051301%2F0169.jp2/pct:5.939777,87.793326,9.872130,5.855759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2577,7 +2577,7 @@ In any business never wade into
 water when you cannot see the bot­  
 tom. - - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1870051301%2F0169.jp2/pct:26.454008,82.432723,9.817132,13.240043/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1870051301%2F0169.jp2/pct:26.454008,82.432723,9.817132,13.240043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2627,7 +2627,7 @@ mad-men, and never fight with a coal­
 heaver, or contend with a baso character,  
 for they will be sure to blacken you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551530%2F1870051401%2F0157.jp2/pct:0.609969,1.462948,16.614384,23.069912/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551530%2F1870051401%2F0157.jp2/pct:0.609969,1.462948,16.614384,23.069912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2678,7 +2678,7 @@ men, and never fight with a coal-heaver, or
 contend with a base character, for they will be  
 sure to blacken you.?Rev. G. H. Spurgeon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862737%2F1870060201%2F0252.jp2/pct:26.288899,10.925595,12.939309,18.333333/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862737%2F1870060201%2F0252.jp2/pct:26.288899,10.925595,12.939309,18.333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2753,7 +2753,7 @@ Nor lay wagers, nor lend.
 And you may depend  
 You&#x27;ll have peace to your end
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775484%2F1870101301%2F0104.jp2/pct:26.564912,51.939337,9.706740,29.754395/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775484%2F1870101301%2F0104.jp2/pct:26.564912,51.939337,9.706740,29.754395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2819,7 +2819,7 @@ madmen ; anti never fight with n coal
 heaver, nor contend with a base charac?  
 ter, for thoy will bo sure to blackcu you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_danastjames_ver01%2Fdata%2Fsn84026917%2F0029455130A%2F1870110901%2F0186.jp2/pct:48.742138,64.128981,12.491265,29.002639/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_danastjames_ver01%2Fdata%2Fsn84026917%2F0029455130A%2F1870110901%2F0186.jp2/pct:48.742138,64.128981,12.491265,29.002639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2858,7 +2858,7 @@ fio!s&quot; heads.
 I &#x27;ut no dependence on tin label of a bag .  
 and count money after your ow n kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn84038005%2F0020029581A%2F1870111001%2F0269.jp2/pct:73.141004,80.997748,10.969473,11.250650/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn84038005%2F0020029581A%2F1870111001%2F0269.jp2/pct:73.141004,80.997748,10.969473,11.250650/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2916,7 +2916,7 @@ his own character. ,n
   
 Orchard and Nursery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1870111701%2F0545.jp2/pct:65.298716,56.277810,14.193188,18.301412/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1870111701%2F0545.jp2/pct:65.298716,56.277810,14.193188,18.301412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2975,7 +2975,7 @@ be cheated.
 Keep clear of a man wbo duos not value  
 his own character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn84038628%2F0029587997A%2F1870120201%2F0524.jp2/pct:5.277554,61.655363,10.989541,19.128360/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn84038628%2F0029587997A%2F1870120201%2F0524.jp2/pct:5.277554,61.655363,10.989541,19.128360/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3014,7 +3014,7 @@ Don’t go to law unless you have
 nothing to lose; lawyer’s houses are  
 built on fool’s heads.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wyu_afton_ver01%2Fdata%2Fsn84022149%2F00340588101%2F1870120801%2F0297.jp2/pct:4.799083,4.391602,12.513649,13.119109/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wyu_afton_ver01%2Fdata%2Fsn84022149%2F00340588101%2F1870120801%2F0297.jp2/pct:4.799083,4.391602,12.513649,13.119109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3080,7 +3080,7 @@ Keep clear of a man who does, not
 value his own character.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775927%2F1870122101%2F0072.jp2/pct:8.368201,41.326708,10.708198,13.648446/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775927%2F1870122101%2F0072.jp2/pct:8.368201,41.326708,10.708198,13.648446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3140,7 +3140,7 @@ does not valne his owncharacter.
   
 The Tariff on Plows.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1870122101%2F0409.jp2/pct:79.721305,13.783220,12.486249,35.474205/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1870122101%2F0409.jp2/pct:79.721305,13.783220,12.486249,35.474205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3162,7 +3162,7 @@ Nobody is more like an honest
 man than a thorough rogue.—[Spur­  
 geon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870122401%2F0214.jp2/pct:29.921773,88.535847,12.222947,5.668063/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870122401%2F0214.jp2/pct:29.921773,88.535847,12.222947,5.668063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3229,7 +3229,7 @@ cheased.
 Keep clear oi man who does  
 not value his own character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774820%2F1871010501%2F0170.jp2/pct:36.816919,10.901387,11.793764,75.796097/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774820%2F1871010501%2F0170.jp2/pct:36.816919,10.901387,11.793764,75.796097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3282,7 +3282,7 @@ Put no dependance on the btbie of a
 bag, and oonnt money after your own  
 kind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn85054524%2F00296028721%2F1871010601%2F0003.jp2/pct:22.507566,52.909275,10.134025,15.635924/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn85054524%2F00296028721%2F1871010601%2F0003.jp2/pct:22.507566,52.909275,10.134025,15.635924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3303,7 +3303,7 @@ dark asks to be cheated.
 Keep clear of a man who does not  
 value his own character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn85054524%2F00296028721%2F1871010601%2F0003.jp2/pct:22.568093,68.590937,10.095115,2.904375/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn85054524%2F00296028721%2F1871010601%2F0003.jp2/pct:22.568093,68.590937,10.095115,2.904375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3393,7 +3393,7 @@ dark asks to be cheated.
 Keep clear of a man who docs not  
 value ids own character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wyu_afton_ver01%2Fdata%2Fsn84022149%2F00340588101%2F1871011801%2F0429.jp2/pct:3.504043,7.253426,12.865004,18.643208/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wyu_afton_ver01%2Fdata%2Fsn84022149%2F00340588101%2F1871011801%2F0429.jp2/pct:3.504043,7.253426,12.865004,18.643208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3452,7 +3452,7 @@ dark asks to be cheated.
 keep clear uf a man who does not  
 value his own character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869471%2F1871011901%2F0227.jp2/pct:23.564189,17.986564,18.378378,29.621336/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869471%2F1871011901%2F0227.jp2/pct:23.564189,17.986564,18.378378,29.621336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3471,7 +3471,7 @@ of religion displayed In his shop Window
 you may depend upon it be keeps a &quot;very  
 small stock of It within.. . : -&#x27;. .... , , : ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.698852,15.374732,11.060095,2.987152/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.698852,15.374732,11.060095,2.987152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3504,7 +3504,7 @@ beads. , ) , , . ,, ...,f, , y.
 . Put no dependence on the label of a bajf  
 and count money after your own kind.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.577313,18.361884,11.154625,9.967880/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.577313,18.361884,11.154625,9.967880/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3524,7 +3524,7 @@ tobe cheated.. f 4, f j,:,- , ; ,,
 Keep clear of a man who does not value  
 his own character. ., , , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.577313,28.308351,11.127616,3.672377/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.577313,28.308351,11.127616,3.672377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3578,7 +3578,7 @@ asks to be cheated.
 Keep clear of a man who does not  
 value his own character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1871012001%2F0015.jp2/pct:51.223833,59.546728,11.002415,20.790179/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1871012001%2F0015.jp2/pct:51.223833,59.546728,11.002415,20.790179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3598,7 +3598,7 @@ it. See the sack opened before yon buy
 what is in it, for he who trades in the  
 dark askt to be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871012501%2F0076.jp2/pct:42.177976,92.158516,12.291751,3.175942/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871012501%2F0076.jp2/pct:42.177976,92.158516,12.291751,3.175942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3658,7 +3658,7 @@ water where you cannot .see the
 torn.  
 Bee the sack open before you buy w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1871012601%2F0624.jp2/pct:78.672194,74.594678,15.414291,12.535878/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1871012601%2F0624.jp2/pct:78.672194,74.594678,15.414291,12.535878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3678,7 +3678,7 @@ Sce the sack opened before you buy what is
 in it, for he who trades im the dark aeka to be  
 Cc’ eated,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1871-01-28_2583$5/pct:77.280065,56.819414,15.052462,3.294469/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1871-01-28_2583$5/pct:77.280065,56.819414,15.052462,3.294469/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3700,7 +3700,7 @@ fore you buy what is in it, for ho
 who trades in the dark asks to be  
 cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768734%2F1871020801%2F0089.jp2/pct:83.629011,55.298475,10.540047,3.995515/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768734%2F1871020801%2F0089.jp2/pct:83.629011,55.298475,10.540047,3.995515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3722,7 +3722,7 @@ fore you buy what is in it, for he
 who trades in the dark asks to ho  
 cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769337%2F1871020901%2F0193.jp2/pct:76.766647,59.524607,11.604543,4.251758/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769337%2F1871020901%2F0193.jp2/pct:76.766647,59.524607,11.604543,4.251758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3779,7 +3779,7 @@ Generalities.
 Ix any business &quot;never wade into the  
 water where you cannot see the bottom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215531%2F1871021001%2F0021.jp2/pct:80.826866,14.406299,11.863348,1.624796/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215531%2F1871021001%2F0021.jp2/pct:80.826866,14.406299,11.863348,1.624796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3808,7 +3808,7 @@ Hunt on 1001 s beads.&quot;
 bag, and, count money after your  
 own aiiiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286947%2F1871021501%2F0137.jp2/pct:56.005375,18.241309,9.541408,6.025903/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286947%2F1871021501%2F0137.jp2/pct:56.005375,18.241309,9.541408,6.025903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3825,7 +3825,7 @@ an honest man than a thorough rogue.
 Draw upon content for tho deficien­  
 cies of fortune
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1871021701%2F0267.jp2/pct:80.876901,12.781262,13.562572,2.305422/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1871021701%2F0267.jp2/pct:80.876901,12.781262,13.562572,2.305422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3847,7 +3847,7 @@ i receipt for it. See the sack opened bc­
 ! who trades in the dark asks to be  
 j cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769593%2F1871021801%2F0086.jp2/pct:80.794586,60.858328,12.067234,4.434469/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769593%2F1871021801%2F0086.jp2/pct:80.794586,60.858328,12.067234,4.434469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3877,7 +3877,7 @@ Do not choose your friend by his
 looks; handsome shoes often pinch  
 the&#x27;feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn85034325%2F00295873826%2F1871022301%2F0413.jp2/pct:5.419075,76.882058,18.376686,14.742785/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn85034325%2F00295873826%2F1871022301%2F0413.jp2/pct:5.419075,76.882058,18.376686,14.742785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3892,7 +3892,7 @@ the&#x27;feet
 Spurgeon says, nobody is more like  
 an honest man than a thorough rogue. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1871022301%2F0464.jp2/pct:16.193601,81.824070,11.468417,0.932763/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1871022301%2F0464.jp2/pct:16.193601,81.824070,11.468417,0.932763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3924,7 +3924,7 @@ deal of religion displayed in his shop
 w(ndow, you may depend upon it he  
 keeps a very small stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_juggernaut_ver01%2Fdata%2Fsn88064499%2F00280761813%2F1871030801%2F0275.jp2/pct:51.723224,73.672425,21.951220,10.156750/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_juggernaut_ver01%2Fdata%2Fsn88064499%2F00280761813%2F1871030801%2F0275.jp2/pct:51.723224,73.672425,21.951220,10.156750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3976,7 +3976,7 @@ what is in it; for ho who trades in
 the dark a?ks to be cheated.  
 Keen clear of a man t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665799%2F1871030901%2F0861.jp2/pct:72.598628,73.034970,11.063465,21.478986/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665799%2F1871030901%2F0861.jp2/pct:72.598628,73.034970,11.063465,21.478986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3999,7 +3999,7 @@ a very small stock within.
   
 Ho not c .ooso your menu .., f impropriety in the use of suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1871031501%2F1065.jp2/pct:60.997778,74.095430,23.066047,3.589448/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1871031501%2F1065.jp2/pct:60.997778,74.095430,23.066047,3.589448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4018,7 +4018,7 @@ most; for mewing cats are very sel
   
 dom good monsors. , . . ,i.iil .i.;, -,,v ,nJ ... v,. &#x27; .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1871031501%2F1065.jp2/pct:61.159362,79.976935,34.801050,1.528038/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1871031501%2F1065.jp2/pct:61.159362,79.976935,34.801050,1.528038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4042,7 +4042,7 @@ dark asks to be cheated.
 Keep clear of a man that doe not  
 valuo his own rlinrnctcr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1871031501%2F1065.jp2/pct:61.320945,85.829609,11.432034,5.867090/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1871031501%2F1065.jp2/pct:61.320945,85.829609,11.432034,5.867090/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4086,7 +4086,7 @@ madmen ; aiid never tight with a
 pea - i heaver, nor contend with a !.;.-,  
 a iacttr. for thev will be aiie i-j jb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023140%2F1871031601%2F0045.jp2/pct:73.519164,79.466073,23.911150,13.103448/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023140%2F1871031601%2F0045.jp2/pct:73.519164,79.466073,23.911150,13.103448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4101,7 +4101,7 @@ a iacttr. for thev will be aiie i-j jb
 Do not choose your friend by his looks ;  
 handsome shoes often pinch the feet.-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_jaques_ver01%2Fdata%2Fsn84028490%2F00280775010%2F1871031601%2F0046.jp2/pct:3.539698,52.849430,9.646030,0.863827/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_jaques_ver01%2Fdata%2Fsn84028490%2F00280775010%2F1871031601%2F0046.jp2/pct:3.539698,52.849430,9.646030,0.863827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4117,7 +4117,7 @@ selves.See the sack open before you bay
 what is in it; for he who trades in the  
 dark asks to be cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1871032301%2F0477.jp2/pct:83.253825,30.873963,10.972199,2.009855/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1871032301%2F0477.jp2/pct:83.253825,30.873963,10.972199,2.009855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4165,7 +4165,7 @@ asks to be cheated.
 Keep clear of a man that does not value  
 his own character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_forego_ver01%2Fdata%2Fsn84024670%2F00280762386%2F1871032501%2F0308.jp2/pct:3.643509,46.601007,12.769261,18.053910/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_forego_ver01%2Fdata%2Fsn84024670%2F00280762386%2F1871032501%2F0308.jp2/pct:3.643509,46.601007,12.769261,18.053910/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4189,7 +4189,7 @@ Drink nothing without seeing it. sign
 nothing without reading it, and make  
 sure that it means no more than it says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348446%2F1871033001%2F0457.jp2/pct:6.196747,43.928410,12.352182,8.182299/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348446%2F1871033001%2F0457.jp2/pct:6.196747,43.928410,12.352182,8.182299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4225,7 +4225,7 @@ asks to be cheated.
 Keep clear of a innn that does not val­  
 ue his own character. The Aje
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_bird_ver02%2Fdata%2Fsn84023963%2F00200295924%2F1871033101%2F0837.jp2/pct:4.837618,42.684157,14.394452,12.058527/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_bird_ver02%2Fdata%2Fsn84023963%2F00200295924%2F1871033101%2F0837.jp2/pct:4.837618,42.684157,14.394452,12.058527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4267,7 +4267,7 @@ where you cannot see the bottom, :. ;
 &#x27; Keep clear of a man who does not value  
 his own character. - &#x27; ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293708%2F1871041601%2F0383.jp2/pct:32.856089,23.421610,14.568266,14.396186/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293708%2F1871041601%2F0383.jp2/pct:32.856089,23.421610,14.568266,14.396186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4285,7 +4285,7 @@ is in it, for he who trades in the dark asks
 to be cheated. Spurgeon.  
 The Directors of the Washington Lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028812%2F1871042001%2F0160.jp2/pct:29.253825,11.744966,10.552607,2.187422/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028812%2F1871042001%2F0160.jp2/pct:29.253825,11.744966,10.552607,2.187422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4307,7 +4307,7 @@ thc sack opcned bcfore you buy what is
 in it ; for he who tradcs in the dark  
 asks to bc chcated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_killington_ver02%2Fdata%2Fsn84023296%2F00200296102%2F1871042001%2F0616.jp2/pct:17.079208,74.220374,12.680883,5.405405/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_killington_ver02%2Fdata%2Fsn84023296%2F00200296102%2F1871042001%2F0616.jp2/pct:17.079208,74.220374,12.680883,5.405405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4339,7 +4339,7 @@ a
 .  
 th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765277%2F1871042201%2F0071.jp2/pct:68.521463,81.216667,14.368045,14.783333/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765277%2F1871042201%2F0071.jp2/pct:68.521463,81.216667,14.368045,14.783333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4376,7 +4376,7 @@ lose ; law yer&#x27;s houses are built on fool’s heads.
 Put no dependence on the label of a bag ;  
 and count money after your own kind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186993%2F1871042201%2F0064.jp2/pct:82.506258,13.138528,12.418397,13.975469/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186993%2F1871042201%2F0064.jp2/pct:82.506258,13.138528,12.418397,13.975469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4396,7 +4396,7 @@ own chameter.— The Age.
 Rolling Grain in tho Spring.  
 If farmers would look at the theory of roll
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186993%2F1871042201%2F0064.jp2/pct:82.506258,28.419913,12.477298,4.830447/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186993%2F1871042201%2F0064.jp2/pct:82.506258,28.419913,12.477298,4.830447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4436,7 +4436,7 @@ Put no dependence on the label of a
 bag, and count the money after your  
 own kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026840%2F00202192488%2F1871042401%2F0503.jp2/pct:62.435665,55.453845,15.607024,15.889381/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026840%2F00202192488%2F1871042401%2F0503.jp2/pct:62.435665,55.453845,15.607024,15.889381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4489,7 +4489,7 @@ asks to be cheated.
 Keep clear of a mau who does not val­  
 ue his own character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_kedavra_ver01%2Fdata%2Fsn88053095%2F0027176523A%2F1871042901%2F0221.jp2/pct:52.280702,70.864312,12.236842,22.506196/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_kedavra_ver01%2Fdata%2Fsn88053095%2F0027176523A%2F1871042901%2F0221.jp2/pct:52.280702,70.864312,12.236842,22.506196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4541,7 +4541,7 @@ to be cheated. 1 .
 Keep clear of a man that does not val­  
 ue bis own character,—The Age. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624335%2F1871050501%2F0204.jp2/pct:68.515430,41.022920,12.306552,22.074844/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624335%2F1871050501%2F0204.jp2/pct:68.515430,41.022920,12.306552,22.074844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4579,7 +4579,7 @@ stock ot .IthIn.
 Do not your friend by his looks;  
 lbandsomuehoes often pinch the feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871050602%2F0445.jp2/pct:27.569797,72.582253,12.404822,3.576770/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871050602%2F0445.jp2/pct:27.569797,72.582253,12.404822,3.576770/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4603,7 +4603,7 @@ Keep clear of a man who does not ~value
 his owneharacter.  
 Hold on to your tongue when you ae jus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871050602%2F0445.jp2/pct:27.553934,78.003490,12.452411,5.458624/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871050602%2F0445.jp2/pct:27.553934,78.003490,12.452411,5.458624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4657,7 +4657,7 @@ Put no dependence on the
 label of a ba&quot; and count mon  
 ey after youi own kind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1871052401%2F0498.jp2/pct:33.738043,12.465914,22.461369,81.976367/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1871052401%2F0498.jp2/pct:33.738043,12.465914,22.461369,81.976367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4681,7 +4681,7 @@ does not value his owncharacter.
   
 A CRADLE SONG.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1871052401%2F0498.jp2/pct:44.223694,39.254642,11.938926,7.895079/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1871052401%2F0498.jp2/pct:44.223694,39.254642,11.938926,7.895079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4699,7 +4699,7 @@ deal of religion displayed in Ins shop
 window, you may depend upon it tt tip  
 keeps a very small stock within.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027398%2F00279529418%2F1871052501%2F1112.jp2/pct:3.120906,89.086294,11.140745,2.262194/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027398%2F00279529418%2F1871052501%2F1112.jp2/pct:3.120906,89.086294,11.140745,2.262194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4717,7 +4717,7 @@ person&#x27;s power; if you put your thumb
 between two grinders,-they aro very apt to  
 bile
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1871060801%2F0315.jp2/pct:19.971451,84.622510,15.455489,4.207195/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1871060801%2F0315.jp2/pct:19.971451,84.622510,15.455489,4.207195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4744,7 +4744,7 @@ sign nothing , without reading , it, and
 make sure that it means&#x27; no more than  
 it gays. ... ,.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1871062001%2F0640.jp2/pct:24.974671,81.868781,16.590679,11.991904/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1871062001%2F0640.jp2/pct:24.974671,81.868781,16.590679,11.991904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4774,7 +4774,7 @@ other person&#x27;s power; if you put
 your thumb between two grinders,  
 they are very apt to bite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283636%2F1871071301%2F0393.jp2/pct:85.902141,84.443689,9.923547,5.959665/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283636%2F1871071301%2F0393.jp2/pct:85.902141,84.443689,9.923547,5.959665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4790,7 +4790,7 @@ edge.Do not choose your friend by his
 looks; handsome shoes often pinch  
 the feet.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283636%2F1871071301%2F0393.jp2/pct:85.993884,93.077272,9.862385,2.243372/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283636%2F1871071301%2F0393.jp2/pct:85.993884,93.077272,9.862385,2.243372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4807,7 +4807,7 @@ deal of religion displayed in his window
 you may depend upon it he keep a very  
 small stock within.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1871071801%2F0672.jp2/pct:59.056944,92.864338,16.774027,2.451310/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1871071801%2F0672.jp2/pct:59.056944,92.864338,16.774027,2.451310/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4852,7 +4852,7 @@ Keep clear of n man wlo docs not val­
 uo his own charnctor.  
 , Hold on to your tonguo when you ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871072101%2F0122.jp2/pct:33.069307,8.522420,12.187219,11.750405/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871072101%2F0122.jp2/pct:33.069307,8.522420,12.187219,11.750405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4889,7 +4889,7 @@ deal of religion displayed in his shop
 window, you may depend upon it he  
 keeps a very small stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348446%2F1871091401%2F0549.jp2/pct:7.849197,50.632197,11.933457,3.695341/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348446%2F1871091401%2F0549.jp2/pct:7.849197,50.632197,11.933457,3.695341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4907,7 +4907,7 @@ deal of religion displayed in his shop
 window, you may depend upon it he  
 keeps a very small stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1871091601%2F0366.jp2/pct:81.534460,19.075213,12.288687,3.275781/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1871091601%2F0366.jp2/pct:81.534460,19.075213,12.288687,3.275781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5003,7 +5003,7 @@ I the dark asks to be cheated.
 Keep clear of a man who does not  
 ! value his own character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623458%2F1871093001%2F0115.jp2/pct:31.442507,47.055993,14.044231,26.023622/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623458%2F1871093001%2F0115.jp2/pct:31.442507,47.055993,14.044231,26.023622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5021,7 +5021,7 @@ deal of religion displayed in his shop
 window, you may depend upon it he  
 keeps a very small stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200293022%2F1871100101%2F0373.jp2/pct:86.468843,15.273876,9.465875,2.059925/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200293022%2F1871100101%2F0373.jp2/pct:86.468843,15.273876,9.465875,2.059925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5039,7 +5039,7 @@ deal of religion displayed in his shop
 window, you may depend upon it he  
 keeps a ven small stock of it within.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1871100501%2F0165.jp2/pct:46.079224,86.191626,12.853678,2.106817/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1871100501%2F0165.jp2/pct:46.079224,86.191626,12.853678,2.106817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5062,7 +5062,7 @@ other person&#x27;s power; if you puti
 your thumb between two grinders, |  
 they are very apt to bite,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1871100701%2F0384.jp2/pct:69.293126,89.926610,12.743191,6.060606/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1871100701%2F0384.jp2/pct:69.293126,89.926610,12.743191,6.060606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5084,7 +5084,7 @@ Don&#x27;t believe the man who talks the
 most, for mewing cats »re very seldom good  
 mouscrs.—[Spur^eon,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1871100701%2F0388.jp2/pct:17.357513,91.151284,12.370466,4.959562/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1871100701%2F0388.jp2/pct:17.357513,91.151284,12.370466,4.959562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5104,7 +5104,7 @@ he keeps a&quot; very small stock of it
 wi&#x27;liin.  
 The poverty of the poor man is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877820%2F1871100701%2F0474.jp2/pct:70.366578,41.502140,11.345484,3.493028/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877820%2F1871100701%2F0474.jp2/pct:70.366578,41.502140,11.345484,3.493028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5128,7 +5128,7 @@ Put no dependence on the label
 of a bag, and count money after  
 your own kind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1871101401%2F0390.jp2/pct:68.505859,86.825284,12.418620,6.474905/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1871101401%2F0390.jp2/pct:68.505859,86.825284,12.418620,6.474905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5148,7 +5148,7 @@ shop window, you may depend upon
 it lie keeps a very small stock of it  
 within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152615%2F1871101401%2F0615.jp2/pct:82.226364,73.710872,13.707218,4.312248/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152615%2F1871101401%2F0615.jp2/pct:82.226364,73.710872,13.707218,4.312248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5163,7 +5163,7 @@ within
 Do not choose your friend by his looks.  
 Handsome shoes often pinch the feet.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F0020029371A%2F1871111801%2F0457.jp2/pct:31.951512,94.456133,14.471715,0.999369/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F0020029371A%2F1871111801%2F0457.jp2/pct:31.951512,94.456133,14.471715,0.999369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5180,7 +5180,7 @@ deal of religion displayed in his shop
 window, you may depend opon it he  
 keeps a very small stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551566%2F1871112601%2F0103.jp2/pct:43.221356,10.984626,14.122176,2.452764/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551566%2F1871112601%2F0103.jp2/pct:43.221356,10.984626,14.122176,2.452764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5199,7 +5199,7 @@ looks. Handsome shoes often pinch
 the feet  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_peugeot_ver01%2Fdata%2Fsn85025431%2F00212479706%2F1871113001%2F0508.jp2/pct:54.412701,12.506404,9.529337,1.796100/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_peugeot_ver01%2Fdata%2Fsn85025431%2F00212479706%2F1871113001%2F0508.jp2/pct:54.412701,12.506404,9.529337,1.796100/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5218,7 +5218,7 @@ See tho sack open before you buy
 what is in it; for be who trades in the  
 dark asks to be cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776075%2F1871113001%2F0534.jp2/pct:17.082111,82.542955,12.078446,3.340206/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776075%2F1871113001%2F0534.jp2/pct:17.082111,82.542955,12.078446,3.340206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5289,7 +5289,7 @@ and never fight with a coalheaver or
 contend with a base character,for they  
 will lie sure to blacken you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775125%2F1871120701%2F0304.jp2/pct:13.286813,3.205959,9.569923,20.930484/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775125%2F1871120701%2F0304.jp2/pct:13.286813,3.205959,9.569923,20.930484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5308,7 +5308,7 @@ window, you may depend upon it he
 keept a very small stock of it with­  
 in*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025167%2F00279529352%2F1871120801%2F0659.jp2/pct:2.075880,47.944145,11.505676,3.155007/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025167%2F00279529352%2F1871120801%2F0659.jp2/pct:2.075880,47.944145,11.505676,3.155007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5333,7 +5333,7 @@ Put no dependence on a label f a
 lag, and count money after. your own  
 kind.&quot;; :-:. --&quot; - -&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152615%2F1871120901%2F0677.jp2/pct:40.728477,83.913489,13.410596,6.654722/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152615%2F1871120901%2F0677.jp2/pct:40.728477,83.913489,13.410596,6.654722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5385,7 +5385,7 @@ i to be cheated.
 Keep clear of a man who does not value  
 his own character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184418%2F1871121301%2F0143.jp2/pct:68.457888,52.612519,12.684856,24.420877/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184418%2F1871121301%2F0143.jp2/pct:68.457888,52.612519,12.684856,24.420877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5404,7 +5404,7 @@ shop-window, you may depend upon it
 he keeps a very small stock of it  
 within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215531%2F1871122901%2F0205.jp2/pct:79.476879,54.977151,11.895197,2.735280/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215531%2F1871122901%2F0205.jp2/pct:79.476879,54.977151,11.895197,2.735280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5423,7 +5423,7 @@ shop-window, you may depend upon it
 he keeps a very small stock of it  
 within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1872010601%2F0071.jp2/pct:80.879417,55.624928,11.978439,2.859675/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1872010601%2F0071.jp2/pct:80.879417,55.624928,11.978439,2.859675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5520,7 +5520,7 @@ heaver or contend with a base char­
 acter, for they w~i be sure to blacken  
 you.-Exchanle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_bolivar_ver01%2Fdata%2Fsn85034248%2F00200299346%2F1872021701%2F0096.jp2/pct:65.704618,12.321820,28.702229,83.566338/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_bolivar_ver01%2Fdata%2Fsn85034248%2F00200299346%2F1872021701%2F0096.jp2/pct:65.704618,12.321820,28.702229,83.566338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5538,7 +5538,7 @@ U3.
   
 rWHOLE NO. 588;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291062%2F1872021701%2F0593.jp2/pct:64.633442,16.981263,27.910333,78.556558/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291062%2F1872021701%2F0593.jp2/pct:64.633442,16.981263,27.910333,78.556558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5556,7 +5556,7 @@ of religion displayed in his shop window,
 you may depend upon it ho keeps a very  
 small stock of it within.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1872030101%2F0239.jp2/pct:51.431771,91.529299,10.882259,2.938876/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1872030101%2F0239.jp2/pct:51.431771,91.529299,10.882259,2.938876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5600,7 +5600,7 @@ be cheated
 Keep clear of a man who does not value  
 his own character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348719%2F1872030701%2F0039.jp2/pct:69.078160,67.771953,12.403797,15.940367/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348719%2F1872030701%2F0039.jp2/pct:69.078160,67.771953,12.403797,15.940367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5618,7 +5618,7 @@ deal of religion displayed In his shop
 window, you may depend upon It he  
 keep· «very small stock of it within.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279555211%2F1872042701%2F0404.jp2/pct:9.161169,91.375587,11.597549,2.708624/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279555211%2F1872042701%2F0404.jp2/pct:9.161169,91.375587,11.597549,2.708624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5639,7 +5639,7 @@ what is in it, for he who trades in
 dark aska to be cheated.  
 In conversation, a wise man ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872061901%2F0204.jp2/pct:54.916887,43.107641,9.352183,4.338922/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872061901%2F0204.jp2/pct:54.916887,43.107641,9.352183,4.338922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5680,7 +5680,7 @@ built on fool&#x27;s heads. . -
 Put 110 dependence on the label of a  
 bag, and count monev after vour ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027169%2F1872062001%2F0314.jp2/pct:81.358804,43.522343,10.814975,12.229315/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027169%2F1872062001%2F0314.jp2/pct:81.358804,43.522343,10.814975,12.229315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5701,7 +5701,7 @@ dark asks to. be cheated. . .... ,. . ...
 Keep clear of a man Who does not  
 value his character.-&#x27; &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027169%2F1872062001%2F0314.jp2/pct:81.281775,56.239830,10.445232,3.442233/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027169%2F1872062001%2F0314.jp2/pct:81.281775,56.239830,10.445232,3.442233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5718,7 +5718,7 @@ Always give up tbe road to bulla and i
 contend with a beee character, for they will be  
 sure te&quot;&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_mastiff_ver01%2Fdata%2Fsn83045462%2F00280654383%2F1872073101%2F0108.jp2/pct:57.561658,93.037113,13.511878,1.770514/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_mastiff_ver01%2Fdata%2Fsn83045462%2F00280654383%2F1872073101%2F0108.jp2/pct:57.561658,93.037113,13.511878,1.770514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5742,7 +5742,7 @@ he who trades in the dark asks to be cheated.
 HOW TO GET PLENTY OF EGGS.  
 E. Dwight, of Hudson, Michigan, ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1872081601%2F0335.jp2/pct:62.411233,16.804878,22.034377,78.173780/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1872081601%2F0335.jp2/pct:62.411233,16.804878,22.034377,78.173780/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5781,7 +5781,7 @@ See the sack open before you buy what ls in
 nt-for be who trades in the dark asks to be  
 Chested.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_brandonblaze_ver01%2Fdata%2Fsn84026994%2F0029455161A%2F1872082001%2F0383.jp2/pct:0.321285,86.881050,14.511379,11.575980/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_brandonblaze_ver01%2Fdata%2Fsn84026994%2F0029455161A%2F1872082001%2F0383.jp2/pct:0.321285,86.881050,14.511379,11.575980/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5814,7 +5814,7 @@ Do not ge. to law unless you hava&#x27;nothi&#x27;
 ingto lose; lawyeia&#x27; houses are built- on  
 fools&#x27; heads. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293460%2F1872082801%2F0197.jp2/pct:72.708240,10.940077,10.946613,8.202309/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293460%2F1872082801%2F0197.jp2/pct:72.708240,10.940077,10.946613,8.202309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5835,7 +5835,7 @@ lo be cheated.
 The authorities of tha Mulmt f Rimlnno.  
 tan) Presidency aro consideriag. the expe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293460%2F1872082801%2F0197.jp2/pct:72.693285,19.648158,10.871841,3.793293/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293460%2F1872082801%2F0197.jp2/pct:72.693285,19.648158,10.871841,3.793293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5856,7 +5856,7 @@ blacken you.—
   
 Sadly contemplating the result o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn84027352%2F0027952875A%2F1872082901%2F0165.jp2/pct:77.579618,56.154649,16.974522,3.413092/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn84027352%2F0027952875A%2F1872082901%2F0165.jp2/pct:77.579618,56.154649,16.974522,3.413092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5874,7 +5874,7 @@ a coal-heave, or contend with abase
 character, for tlrey will be sure to  
 blacken yow-SpurgooT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665805%2F1872082901%2F0229.jp2/pct:6.643515,81.863561,10.690020,2.483041/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665805%2F1872082901%2F0229.jp2/pct:6.643515,81.863561,10.690020,2.483041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5912,7 +5912,7 @@ bay what is in it, for he who
 trades in the dark asks to be  
 cheated. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85038222%2F00280774911%2F1872091901%2F0370.jp2/pct:5.216516,80.488798,12.004028,6.978955/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85038222%2F00280774911%2F1872091901%2F0370.jp2/pct:5.216516,80.488798,12.004028,6.978955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5931,7 +5931,7 @@ character, for they will be sure to
 blacken you. Spurgeon.  
 A gentleman advertised for 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665805%2F1872091901%2F0238.jp2/pct:84.054426,71.570881,10.900474,3.358876/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665805%2F1872091901%2F0238.jp2/pct:84.054426,71.570881,10.900474,3.358876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5957,7 +5957,7 @@ madmen ; and never flebt with a coal
 heaver, or contend with a base character,  
 for they will bo snre lo blaeken yon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292807%2F1872092501%2F0573.jp2/pct:77.166225,23.103023,14.389920,3.285009/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292807%2F1872092501%2F0573.jp2/pct:77.166225,23.103023,14.389920,3.285009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5980,7 +5980,7 @@ person’s power ; if you put your thumb
 between two grinders they are very apt  
 to bit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623732%2F1872100501%2F0190.jp2/pct:15.130535,87.317397,11.207270,5.776892/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623732%2F1872100501%2F0190.jp2/pct:15.130535,87.317397,11.207270,5.776892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5999,7 +5999,7 @@ er, or contend with a base character, for
 they will be sure to blacken you.  
 The mother of the Worrell sisters turned 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1872101001%2F0601.jp2/pct:18.498943,47.177235,15.988372,5.206264/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1872101001%2F0601.jp2/pct:18.498943,47.177235,15.988372,5.206264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6030,7 +6030,7 @@ Drink nothing without seeing ; sign noth­
 ing without reading it; and make sure that it  
 means no more than it. says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186993%2F1872101201%2F0356.jp2/pct:56.569929,38.251484,12.648875,10.138514/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186993%2F1872101201%2F0356.jp2/pct:56.569929,38.251484,12.648875,10.138514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6048,7 +6048,7 @@ and never fight with a coal heaver, or contend with
 a base character, for they will be sure to blacken  
 you.—Spurgeon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1872-11-14_45_46$7/pct:29.369469,61.990181,20.713496,2.133686/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1872-11-14_45_46$7/pct:29.369469,61.990181,20.713496,2.133686/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6079,7 +6079,7 @@ Don&#x27;t believe in the, man who talks
 most, for mowing cats are very seldom  
 good mousers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84027008%2F00294551499%2F1873010401%2F0231.jp2/pct:81.912682,28.564929,16.360591,7.735008/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84027008%2F00294551499%2F1873010401%2F0231.jp2/pct:81.912682,28.564929,16.360591,7.735008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6096,7 +6096,7 @@ Br do means put yourself in another&#x27;s
 power; if you put your thumb between  
 f wo grinders they are very opt to bite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873010901%2F0021.jp2/pct:4.774289,91.126232,12.335129,2.805166/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873010901%2F0021.jp2/pct:4.774289,91.126232,12.335129,2.805166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6168,7 +6168,7 @@ madmen; and never fight with a coal
 heaver, nor contend with a base character  
 tor they will be sure to blacken you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F0027955730A%2F1873041201%2F0765.jp2/pct:6.576037,31.636581,12.281106,32.213963/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F0027955730A%2F1873041201%2F0765.jp2/pct:6.576037,31.636581,12.281106,32.213963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6240,7 +6240,7 @@ nor contend with a base character, for they
 will he Sltre to blacken von.  
 A Fearful Vistou.—The Paris Sob- r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873041201%2F0060.jp2/pct:17.300584,29.323334,15.053502,34.997285/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873041201%2F0060.jp2/pct:17.300584,29.323334,15.053502,34.997285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6260,7 +6260,7 @@ of a bag, and count money after your
 own kind.  
 A dbdnkex Toledo man wrote on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_eadweard_ver01%2Fdata%2Fsn85034076%2F00200292364%2F1873061301%2F0332.jp2/pct:81.807229,43.941932,12.650602,3.992183/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_eadweard_ver01%2Fdata%2Fsn85034076%2F00200292364%2F1873061301%2F0332.jp2/pct:81.807229,43.941932,12.650602,3.992183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6276,7 +6276,7 @@ See -&#x27;the sack open before you buy
 what is in it, for he who trades in the  
 dark asks to be cheate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_eadweard_ver01%2Fdata%2Fsn85034076%2F00200292364%2F1873061301%2F0332.jp2/pct:81.746988,51.116695,12.630522,1.647125/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_eadweard_ver01%2Fdata%2Fsn85034076%2F00200292364%2F1873061301%2F0332.jp2/pct:81.746988,51.116695,12.630522,1.647125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6296,7 +6296,7 @@ See the sack open before you buy
 what is in it, for lie who trades in the  
 dark asks to be cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1873061401%2F0385.jp2/pct:81.392705,48.936974,11.885935,4.101054/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1873061401%2F0385.jp2/pct:81.392705,48.936974,11.885935,4.101054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6311,7 +6311,7 @@ dark asks to be cheated
 Do not choose a friend by his looks;  
 handsome shoes often pinch the feet.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1873061401%2F0385.jp2/pct:81.511318,94.467732,11.861224,1.087572/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1873061401%2F0385.jp2/pct:81.511318,94.467732,11.861224,1.087572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6328,7 +6328,7 @@ See the sack open before you buy
 what is in it ; he who trades in the  
 dark asks to be cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027170%2F1874032601%2F0178.jp2/pct:7.864819,51.291284,10.574677,1.688602/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027170%2F1874032601%2F0178.jp2/pct:7.864819,51.291284,10.574677,1.688602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6347,7 +6347,7 @@ the dark asks to be cheated. Keep
 clear of a man who dooe not value his  
 own character. Bo virtuous and yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1874102901%2F0616.jp2/pct:23.576240,49.336502,10.096448,2.777435/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1874102901%2F0616.jp2/pct:23.576240,49.336502,10.096448,2.777435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6363,7 +6363,7 @@ own character. Bo virtuous and yo
 his looks. Handsome shoes often  
 pinch the feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555146%2F1874112501%2F0485.jp2/pct:3.674094,39.500463,12.689233,1.792322/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555146%2F1874112501%2F0485.jp2/pct:3.674094,39.500463,12.689233,1.792322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6378,7 +6378,7 @@ pinch the feet
 — Do not choose your friend by his looks;  
 handsome shoes often pinch the feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874120401%2F0954.jp2/pct:16.215887,91.675526,12.735543,1.119853/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874120401%2F0954.jp2/pct:16.215887,91.675526,12.735543,1.119853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6393,7 +6393,7 @@ handsome shoes often pinch the feet
 ^ Do not choose-your-friend by his looks;  
 handsome shoes often pinch the feet.. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551281%2F1874121701%2F0278.jp2/pct:17.851112,40.815395,15.646259,1.294847/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551281%2F1874121701%2F0278.jp2/pct:17.851112,40.815395,15.646259,1.294847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6417,7 +6417,7 @@ Put no dependence on the label of a
 bog, and count money after vour own  
 kind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1875052701%2F0234.jp2/pct:65.308160,53.596591,9.761285,5.031447/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1875052701%2F0234.jp2/pct:65.308160,53.596591,9.761285,5.031447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6435,7 +6435,7 @@ of religion displayed in his Bhop window,
 you may depend upon it he keeps a very  
 small stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_ellsworth_ver01%2Fdata%2Fsn84020071%2F00393347260%2F1875070801%2F0729.jp2/pct:4.468333,30.295301,11.000302,2.279342/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_ellsworth_ver01%2Fdata%2Fsn84020071%2F00393347260%2F1875070801%2F0729.jp2/pct:4.468333,30.295301,11.000302,2.279342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6456,7 +6456,7 @@ value his own character.
 Nobody is more like an honest man  
 than a thorough rogue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.706746,73.901899,10.418934,4.602120/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.706746,73.901899,10.418934,4.602120/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6475,7 +6475,7 @@ Put do dependence on the label of
 a bag, and count money after your  
 own kind. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.706746,79.436095,10.459739,3.145753/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.706746,79.436095,10.459739,3.145753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6509,7 +6509,7 @@ deal ol religion displayed in his shop
 window, you may depend upon it he  
 keeps a very small stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.693145,83.979960,10.459739,9.740184/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.693145,83.979960,10.459739,9.740184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6600,7 +6600,7 @@ no more than it says. &amp;nbsp
 Nobody is more like an honest man  
 than a thorough rogue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1876080301%2F0472.jp2/pct:44.497877,94.875214,9.578893,0.810256/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1876080301%2F0472.jp2/pct:44.497877,94.875214,9.578893,0.810256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6621,7 +6621,7 @@ Nobody is more like an honest man
 than a thorough rogue.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194035%2F1876080901%2F0008.jp2/pct:44.952733,94.403599,11.064529,4.991469/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194035%2F1876080901%2F0008.jp2/pct:44.952733,94.403599,11.064529,4.991469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6643,7 +6643,7 @@ meets a downfall.
 Nobody is more like an honest man  
 than a thorough rogue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85026954%2F0041562010A%2F1876081001%2F0146.jp2/pct:70.896740,12.409119,26.500816,85.231054/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85026954%2F0041562010A%2F1876081001%2F0146.jp2/pct:70.896740,12.409119,26.500816,85.231054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6759,7 +6759,7 @@ and never fight with a coal-heaver, or
 contend with a base character; for they  
 will be sure to blacken you.—Rev. C. If
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877080801%2F0278.jp2/pct:35.895404,4.622960,29.076422,89.000334/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877080801%2F0278.jp2/pct:35.895404,4.622960,29.076422,89.000334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6834,7 +6834,7 @@ and never fight with a coal-heaver, or
 contend with a base character; for they  
 will be sure to blacken you.—Rev. C. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769453%2F1877080901%2F0218.jp2/pct:72.015525,25.185332,12.375089,30.216467/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769453%2F1877080901%2F0218.jp2/pct:72.015525,25.185332,12.375089,30.216467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6917,7 +6917,7 @@ the road to hulls and mad-tnen : ami never j
 light with a coal heaver, or contend with a  
 base character; for they will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894961%2F1877091901%2F0283.jp2/pct:4.640670,32.857504,12.794070,43.266801/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894961%2F1877091901%2F0283.jp2/pct:4.640670,32.857504,12.794070,43.266801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6971,7 +6971,7 @@ See the sack open before you buy
 what is in it; for he who trades in  
 the dark asks to be cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F00296023966%2F1878040301%2F0680.jp2/pct:44.418890,21.596507,11.959522,28.011644/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F00296023966%2F1878040301%2F0680.jp2/pct:44.418890,21.596507,11.959522,28.011644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7030,7 +7030,7 @@ dark asks to be cheated.
 Keep clear of a man who does not  
 his own character. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774996%2F1878051001%2F0525.jp2/pct:26.759769,67.867005,9.521794,22.368276/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774996%2F1878051001%2F0525.jp2/pct:26.759769,67.867005,9.521794,22.368276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7070,7 +7070,7 @@ heads. &quot;
 bag, and count money after your own  
 kind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775204%2F1878052401%2F0470.jp2/pct:82.645310,36.745089,10.634082,10.708222/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775204%2F1878052401%2F0470.jp2/pct:82.645310,36.745089,10.634082,10.708222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7090,7 +7090,7 @@ asks to be cheated. , - -
 . Keep clear of a man who does not  
 value his own character. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775204%2F1878052401%2F0470.jp2/pct:82.661823,47.513946,10.535007,2.716469/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775204%2F1878052401%2F0470.jp2/pct:82.661823,47.513946,10.535007,2.716469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7142,7 +7142,7 @@ is in it ; for ho who trades in tho dark
 asks to bo cheated.  
 Keep clear 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn86063984%2F00200292819%2F1878052901%2F2059.jp2/pct:41.408751,30.115627,17.155816,23.668535/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn86063984%2F00200292819%2F1878052901%2F2059.jp2/pct:41.408751,30.115627,17.155816,23.668535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7192,7 +7192,7 @@ Put no dependence on the label of a
 bag, and count money after your own  
 kind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283600%2F1878112801%2F0365.jp2/pct:66.199158,14.730214,20.211937,82.318805/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283600%2F1878112801%2F0365.jp2/pct:66.199158,14.730214,20.211937,82.318805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7212,7 +7212,7 @@ asks to be cheated.
 Keep clear of a man who does not  
 value his own character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283600%2F1878112801%2F0365.jp2/pct:76.640175,28.040499,9.724170,2.741079/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283600%2F1878112801%2F0365.jp2/pct:76.640175,28.040499,9.724170,2.741079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7460,7 +7460,7 @@ Put no dependence on the label of a
 bag, and count money after your own  
 kind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1879080601%2F0553.jp2/pct:19.394893,74.418605,11.070304,14.728682/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1879080601%2F0553.jp2/pct:19.394893,74.418605,11.070304,14.728682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7480,7 +7480,7 @@ dark asks to be cheated.
 Keep clear ot a uifii who does not  
 value bis character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1879080601%2F0553.jp2/pct:19.482336,89.354005,11.017838,3.346253/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1879080601%2F0553.jp2/pct:19.482336,89.354005,11.017838,3.346253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7497,7 +7497,7 @@ mad men ; and never light with a coal
 heaver, or contend with a basec.iaraeter,  
 for they will be sure to blackeu you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763190%2F1879091001%2F0187.jp2/pct:80.538203,78.564319,12.045491,2.102513/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763190%2F1879091001%2F0187.jp2/pct:80.538203,78.564319,12.045491,2.102513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7519,7 +7519,7 @@ stock within.
 »  
 Horatio Seymour walks through th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894973%2F1879091001%2F0113.jp2/pct:78.970427,57.082732,13.174777,3.715729/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894973%2F1879091001%2F0113.jp2/pct:78.970427,57.082732,13.174777,3.715729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7585,7 +7585,7 @@ Nor lay wagers, nor len-II
 And you mat; depend ..  
 You&#x27;ll hare peace to your rial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn86072040%2Fno_reel%2F1879101801%2F0889.jp2/pct:64.406869,27.251991,11.372735,23.196474/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn86072040%2Fno_reel%2F1879101801%2F0889.jp2/pct:64.406869,27.251991,11.372735,23.196474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7719,7 +7719,7 @@ great deal of religion displayed in hie
 &quot;op yu &quot;V aP P?.  
 he keeps a very small stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556278%2F1881063001%2F0340.jp2/pct:82.696778,57.876555,11.989372,23.445417/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556278%2F1881063001%2F0340.jp2/pct:82.696778,57.876555,11.989372,23.445417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7766,7 +7766,7 @@ Keep clear of the man who dors not J
 value his own character.  
 Largest Land Owxeh on tiir Con- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F0027176781A%2F1881092401%2F0567.jp2/pct:63.903693,44.291313,19.195886,19.297738/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F0027176781A%2F1881092401%2F0567.jp2/pct:63.903693,44.291313,19.195886,19.297738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7801,7 +7801,7 @@ Put no dependence on the label of a
 bag, and count the money after your  
 own kin. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_nova_ver02%2Fdata%2Fsn86092518%2F00383341644%2F1881092601%2F0301.jp2/pct:36.583975,54.070194,10.882996,9.600140/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_nova_ver02%2Fdata%2Fsn86092518%2F00383341644%2F1881092601%2F0301.jp2/pct:36.583975,54.070194,10.882996,9.600140/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7819,7 +7819,7 @@ Keep clear of the man who does not
 vaiue his own character.  
 A New Firm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_nova_ver02%2Fdata%2Fsn86092518%2F00383341644%2F1881092601%2F0301.jp2/pct:36.655261,63.687795,10.811710,2.360747/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_nova_ver02%2Fdata%2Fsn86092518%2F00383341644%2F1881092601%2F0301.jp2/pct:36.655261,63.687795,10.811710,2.360747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7891,7 +7891,7 @@ window, you may depend upon it he
 keeps a very small stock of it within.  
 WONDERFUL PHENOMENA I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194412%2F1884040701%2F0054.jp2/pct:70.251623,12.266152,22.294372,84.300868/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194412%2F1884040701%2F0054.jp2/pct:70.251623,12.266152,22.294372,84.300868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7926,7 +7926,7 @@ person’s power; if you put your thumb
 betwten two grinders they are very apt  
 to bite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1887020501%2F0823.jp2/pct:40.857548,70.337599,10.582034,2.780425/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1887020501%2F0823.jp2/pct:40.857548,70.337599,10.582034,2.780425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7947,7 +7947,7 @@ person&#x27;s power; if you put your thumb
 betwten two grinders they are very apt  
 to bite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1887020901%2F0644.jp2/pct:41.649233,70.764120,11.052999,2.785587/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1887020901%2F0644.jp2/pct:41.649233,70.764120,11.052999,2.785587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7973,7 +7973,7 @@ deal of religion displayed in his shop
 window, you may depend upon it he  
 keeps a very small stock of it within.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775290%2F1888090601%2F0284.jp2/pct:51.298810,26.030425,11.044076,1.911325/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775290%2F1888090601%2F0284.jp2/pct:51.298810,26.030425,11.044076,1.911325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7994,7 +7994,7 @@ Beware of no man more than your
 self; we carry our worst enemies with us.  
 We can only know ourselves throtur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775290%2F1889041101%2F0412.jp2/pct:27.194025,80.405933,11.067730,4.605777/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775290%2F1889041101%2F0412.jp2/pct:27.194025,80.405933,11.067730,4.605777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8065,7 +8065,7 @@ Never bliout hello! till you are out
 of the woods ; and don&#x27;t cry fresh  
 fish till they are caught in the net
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196408%2F1889102801%2F0608.jp2/pct:64.640592,3.891808,23.255814,93.325550/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196408%2F1889102801%2F0608.jp2/pct:64.640592,3.891808,23.255814,93.325550/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8091,7 +8091,7 @@ it. See the sack open before you
 buy what is in it, for he who trades  
 tn the dark asks to be cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_beetlebailey_ver01%2Fdata%2Fsn88068010%2F00294556060%2F1889120501%2F0229.jp2/pct:39.737865,64.095272,10.773441,8.828060/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_beetlebailey_ver01%2Fdata%2Fsn88068010%2F00294556060%2F1889120501%2F0229.jp2/pct:39.737865,64.095272,10.773441,8.828060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8122,7 +8122,7 @@ in the dark asks to be cheated.—Ex.
   
 At a regular meeting of Stephe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F00279523039%2F1889121101%2F0180.jp2/pct:50.641026,60.106468,11.238966,9.185879/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F00279523039%2F1889121101%2F0180.jp2/pct:50.641026,60.106468,11.238966,9.185879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8155,7 +8155,7 @@ cheated.
 An appeal has lately been made  
 to the W. C. T. U. of this city fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768849%2F1889121201%2F1413.jp2/pct:15.881104,11.003327,50.523708,83.068560/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768849%2F1889121201%2F1413.jp2/pct:15.881104,11.003327,50.523708,83.068560/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8205,7 +8205,7 @@ quite out of the wrods; ?nd ?Ion&#x27;?&#x27;
 cry lresli fish till thoj are caught  
 in the net
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_ozzyosbourne_ver01%2Fdata%2Fsn85026941%2F00175032381%2F1890011001%2F0408.jp2/pct:37.542764,43.292903,12.087858,23.774457/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_ozzyosbourne_ver01%2Fdata%2Fsn85026941%2F00175032381%2F1890011001%2F0408.jp2/pct:37.542764,43.292903,12.087858,23.774457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8273,7 +8273,7 @@ good because of the gilt upon it.
 Don&#x27;t cry fresh fish till they are  
 caught in the net
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623446%2F1890022001%2F0214.jp2/pct:4.619783,6.834333,25.420240,90.293204/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623446%2F1890022001%2F0214.jp2/pct:4.619783,6.834333,25.420240,90.293204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8288,7 +8288,7 @@ caught in the net
 Do not choose your friend by his looks.  
 Handsome shoes often pinch the feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F0019991974A%2F1890032001%2F0555.jp2/pct:28.757290,23.927545,19.709885,1.257184/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F0019991974A%2F1890032001%2F0555.jp2/pct:28.757290,23.927545,19.709885,1.257184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8334,7 +8334,7 @@ Never shout hello till you are quite
 out of the woods ; and don&#x27;t cry fresh  
 fi?ti till they are caught in the net
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1890032101%2F0459.jp2/pct:84.438832,44.926829,12.246887,19.034146/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1890032101%2F0459.jp2/pct:84.438832,44.926829,12.246887,19.034146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8360,7 +8360,7 @@ tho dark asks to be cheated.
 A Cure ot CaturrU  
 In tbo head, as well as of all bronchial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237288038%2F1890040401%2F0283.jp2/pct:36.616933,31.581076,10.785547,6.847284/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237288038%2F1890040401%2F0283.jp2/pct:36.616933,31.581076,10.785547,6.847284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8406,7 +8406,7 @@ Never shout hello till you are quite
 out of the woods; and don&#x27;t cry fresh  
 ftab till they sre caught in the net
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187183%2F1890041101%2F0665.jp2/pct:4.273289,70.042150,11.197949,18.939234/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187183%2F1890041101%2F0665.jp2/pct:4.273289,70.042150,11.197949,18.939234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8431,7 +8431,7 @@ you buy what is in it, for he who trades
 in the dark asks to be cheated.  
 I no alls, according to the papers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_finney_ver02%2Fdata%2Fsn83040198%2F00212473467%2F1890042401%2F0717.jp2/pct:5.674826,34.612416,12.279502,7.464991/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_finney_ver02%2Fdata%2Fsn83040198%2F00212473467%2F1890042401%2F0717.jp2/pct:5.674826,34.612416,12.279502,7.464991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8456,7 +8456,7 @@ See the bag open before you buy what is
 in it, for he who trades in the dark either  
 cheats or asks to be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775307%2F1890042401%2F0112.jp2/pct:3.395473,31.082819,11.035286,6.250000/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775307%2F1890042401%2F0112.jp2/pct:3.395473,31.082819,11.035286,6.250000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8484,7 +8484,7 @@ he who trades in the dark asks to be
 cheated.&quot;  
 The call for an election to vote o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_haw_ver01%2Fdata%2Fsn91068402%2F00295878666%2F1890052901%2F0316.jp2/pct:25.010688,7.059993,10.973350,6.839023/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_haw_ver01%2Fdata%2Fsn91068402%2F00295878666%2F1890052901%2F0316.jp2/pct:25.010688,7.059993,10.973350,6.839023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8502,7 +8502,7 @@ self; we carry our worst enemies with us,
 A life that will bear the inspection  
 of God and of men is the only certificat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775307%2F1890082101%2F0181.jp2/pct:25.990017,30.699203,10.898502,2.263244/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775307%2F1890082101%2F0181.jp2/pct:25.990017,30.699203,10.898502,2.263244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8523,7 +8523,7 @@ money before yon receipt for it. See the
 sack before you buy what is in it, for be  
 who trade? in the dark asks to be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_ozzyosbourne_ver01%2Fdata%2Fsn85026941%2F00175032393%2F1891082101%2F0132.jp2/pct:4.594595,94.502666,11.356356,4.500827/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_ozzyosbourne_ver01%2Fdata%2Fsn85026941%2F00175032393%2F1891082101%2F0132.jp2/pct:4.594595,94.502666,11.356356,4.500827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8549,7 +8549,7 @@ See the sack before you buy what is
 in it, for he who trades in the dark­  
 asks to be cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192403%2F1891092901%2F0160.jp2/pct:17.430556,56.879244,11.870660,6.971509/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192403%2F1891092901%2F0160.jp2/pct:17.430556,56.879244,11.870660,6.971509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8574,7 +8574,7 @@ to be cheated.
 Kven the lexical of men can usual*  
 ly see some work that tome othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187195%2F1891100201%2F0152.jp2/pct:73.256808,87.845646,10.982212,6.875086/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187195%2F1891100201%2F0152.jp2/pct:73.256808,87.845646,10.982212,6.875086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8599,7 +8599,7 @@ the sack before you buy what&#x27;s in
 it, for he who trades in the dark  
 asks to be cheated. Never r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_gordon_ver01%2Fdata%2Fsn87052181%2F00200292546%2F1891121201%2F0814.jp2/pct:18.772771,31.292050,12.023011,8.938624/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_gordon_ver01%2Fdata%2Fsn87052181%2F00200292546%2F1891121201%2F0814.jp2/pct:18.772771,31.292050,12.023011,8.938624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8627,7 +8627,7 @@ to lie cheated. Never repeat slander­
 ous reports when told you by a tattler.  
 Never put confidence in a man wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/idhi_hillerman_ver01%2Fdata%2Fsn88056017%2F00415666706%2F1892012301%2F0728.jp2/pct:32.172509,83.067602,14.437269,9.598214/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_hillerman_ver01%2Fdata%2Fsn88056017%2F00415666706%2F1892012301%2F0728.jp2/pct:32.172509,83.067602,14.437269,9.598214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8652,7 +8652,7 @@ See the sack before you buy what&#x27;s in it,
 for be who trades in the dark asks to be  
 cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892030901%2F1068.jp2/pct:54.976213,16.085990,12.254995,6.300964/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892030901%2F1068.jp2/pct:54.976213,16.085990,12.254995,6.300964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8676,7 +8676,7 @@ in the label of a dog; aud count raon- f it tlJrKZa nUi t-atarth and was iu
 ev before tou receive it. See the duced to trv vour lea.edv. There  
 sack before you buy what is in it, &#x27; u t was ma-elous. I could hardl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_jughead_ver01%2Fdata%2Fsn89066489%2F00294556655%2F1892050401%2F0720.jp2/pct:17.913043,82.752341,29.565217,5.892300/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_jughead_ver01%2Fdata%2Fsn89066489%2F00294556655%2F1892050401%2F0720.jp2/pct:17.913043,82.752341,29.565217,5.892300/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8704,7 +8704,7 @@ asks to be cheated.&quot;
 District Court.  
 The May term of dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_orr_ver01%2Fdata%2Fsn90059228%2F00280766410%2F1892051201%2F0413.jp2/pct:7.055871,73.754014,11.281165,9.226076/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_orr_ver01%2Fdata%2Fsn90059228%2F00280766410%2F1892051201%2F0413.jp2/pct:7.055871,73.754014,11.281165,9.226076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8815,7 +8815,7 @@ you receipt for it. See the sack open
 before you buy wh it is in it for he who  
 trades in the dark auks to be cheated &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_agave_ver01%2Fdata%2Fsn84024828%2F00211100618%2F1894040701%2F0220.jp2/pct:52.032321,48.745894,17.384917,6.763213/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_agave_ver01%2Fdata%2Fsn84024828%2F00211100618%2F1894040701%2F0220.jp2/pct:52.032321,48.745894,17.384917,6.763213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8841,7 +8841,7 @@ See the sack open before you buy what
 is in it, for he who trades in the dark  
 asks to be cheated.—Ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_fennel_ver01%2Fdata%2Fsn2001063544%2F0033289982A%2F1894052501%2F0845.jp2/pct:40.045888,26.446186,16.921108,7.253976/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_fennel_ver01%2Fdata%2Fsn2001063544%2F0033289982A%2F1894052501%2F0845.jp2/pct:40.045888,26.446186,16.921108,7.253976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8866,7 +8866,7 @@ the sack oj»en before you Buy what is in
 it. for he who trades in the dark asks to  
 be cheated.— Plankinton Herald.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_leek_ver02%2Fdata%2Fsn99068116%2F00340581210%2F1894061401%2F0737.jp2/pct:46.339706,58.438652,13.818085,7.190627/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_leek_ver02%2Fdata%2Fsn99068116%2F00340581210%2F1894061401%2F0737.jp2/pct:46.339706,58.438652,13.818085,7.190627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8894,7 +8894,7 @@ in the dark asks to be cheated.
   
 Wheat in the eastert part of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_earhart_ver01%2Fdata%2Fsn82015485%2F00237283326%2F1894061601%2F0546.jp2/pct:31.500370,9.100829,23.340724,18.267132/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_earhart_ver01%2Fdata%2Fsn82015485%2F00237283326%2F1894061601%2F0546.jp2/pct:31.500370,9.100829,23.340724,18.267132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8923,7 +8923,7 @@ cheated.
   
 All the calculations of both bime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F00279523039%2F1894062101%2F1136.jp2/pct:26.717047,41.255729,11.104257,8.139719/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F00279523039%2F1894062101%2F1136.jp2/pct:26.717047,41.255729,11.104257,8.139719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8958,7 +8958,7 @@ the sack open before you buy w hat is in
 it, for he w ho trades ir. the dark asks to be  
 cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477758%2F1895051701%2F0231.jp2/pct:21.789608,12.159233,11.085941,5.748831/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477758%2F1895051701%2F0231.jp2/pct:21.789608,12.159233,11.085941,5.748831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8991,7 +8991,7 @@ ladies&#x27; shoes, just re
 ceived by the People&#x27;s  
 Dry Goods Co.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_beetlebailey_ver01%2Fdata%2Fsn88068010%2F00294556059%2F1895052401%2F0857.jp2/pct:64.604479,79.243920,14.193652,16.771009/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_beetlebailey_ver01%2Fdata%2Fsn88068010%2F00294556059%2F1895052401%2F0857.jp2/pct:64.604479,79.243920,14.193652,16.771009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9018,7 +9018,7 @@ cept it. Spe the sack open before you
 buy what is io it, for he who trades  
 in the dark aides to be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776154%2F1895060501%2F0594.jp2/pct:68.391142,81.235119,12.267294,7.767857/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776154%2F1895060501%2F0594.jp2/pct:68.391142,81.235119,12.267294,7.767857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9043,7 +9043,7 @@ you buy what is in it, for he who buys in
 the dark asks ti be cheated.  
 The total vote of the Populist party o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn84026409%2F00280776531%2F1896030401%2F0316.jp2/pct:46.996255,45.975489,10.277154,5.531633/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn84026409%2F00280776531%2F1896030401%2F0316.jp2/pct:46.996255,45.975489,10.277154,5.531633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9067,7 +9067,7 @@ it: see the sack before you buy what is in
 it, for he who buys in the dark asks to be  
 cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477758%2F1896032001%2F0401.jp2/pct:10.117512,28.589849,11.278303,5.110772/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477758%2F1896032001%2F0401.jp2/pct:10.117512,28.589849,11.278303,5.110772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9095,7 +9095,7 @@ dark asks to be cheated.&quot;
 WANAMAKER CLOTHING  
 The timely clothing is serg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_irvin_ver01%2Fdata%2Fsn83032011%2F00280776865%2F1896061801%2F1126.jp2/pct:37.034545,42.088702,14.759982,10.593347/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_irvin_ver01%2Fdata%2Fsn83032011%2F00280776865%2F1896061801%2F1126.jp2/pct:37.034545,42.088702,14.759982,10.593347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

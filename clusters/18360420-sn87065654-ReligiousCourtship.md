@@ -49,7 +49,7 @@ be full. 2 Epist. John, ver. 12.
 M B. Upon the above interview, the  
 marriage took filace the week following.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57$6/pct:33.752677,32.651391,26.820128,17.982815/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57$6/pct:33.752677,32.651391,26.820128,17.982815/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ and violent passion, and was de-
 sirous of entering into a courtship  
 onthe spot. In order to effec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25$11/pct:27.517361,36.010467,29.050926,29.790660/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25$11/pct:27.517361,36.010467,29.050926,29.790660/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ Upon the above interview, the
 marriage took place the week fol-  
 lowing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25$11/pct:59.085648,17.109501,28.993056,33.393720/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25$11/pct:59.085648,17.109501,28.993056,33.393720/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ you and speak face to face.”
 From the above interview the marriage took  
 place tlic week following
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn83016083%2F00332895114%2F1823070801%2F0115.jp2/pct:40.479083,16.322126,35.225366,78.206876/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn83016083%2F00332895114%2F1823070801%2F0115.jp2/pct:40.479083,16.322126,35.225366,78.206876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ speak face to face.”
   
 From the above interview the marriage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_circular_1823-07-11_2_66$2/pct:7.208872,64.492946,20.476484,26.443971/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_circular_1823-07-11_2_66$2/pct:7.208872,64.492946,20.476484,26.443971/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ things to write unto you, I would not write with
 speak face to face.” From the above interview,  
 the marriage took place the ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_hops_ver01%2Fdata%2Fsn85025006%2F00414216365%2F1826103101%2F0261.jp2/pct:38.041734,32.619848,18.904940,24.220178/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_hops_ver01%2Fdata%2Fsn85025006%2F00414216365%2F1826103101%2F0261.jp2/pct:38.041734,32.619848,18.904940,24.220178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ pointing to the 3d epistle of John—i
 and ink; But I trust to come onto you  
 and speak face !o taco ” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn85059526%2F00393348926%2F1826110901%2F0190.jp2/pct:58.892941,62.715979,17.405063,20.166357/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn85059526%2F00393348926%2F1826110901%2F0190.jp2/pct:58.892941,62.715979,17.405063,20.166357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ ink; but I trust to come unto you and speak face to
 face.” From the above interview, the marriage  
 look place the ensuing week. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43$7/pct:40.227396,62.995211,26.529507,22.094036/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43$7/pct:40.227396,62.995211,26.529507,22.094036/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ into you and speak face to face.” From the a-
 bove interview the marriage took place the en-  
 suing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1826-11-22_1_25$4/pct:61.718750,41.914683,27.140625,33.705357/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1826-11-22_1_25$4/pct:61.718750,41.914683,27.140625,33.705357/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ with paper and ink; butI trust to come unto you
 and speak face to face.” Fromthe above inter-  
 view, the marriage took place the ensuing week.--
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1826-11-25_3_26$3/pct:53.588645,46.623981,20.889127,16.395033/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-telescope_1826-11-25_3_26$3/pct:53.588645,46.623981,20.889127,16.395033/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ entering into a courtship on the spot; but the
 gency of the case suggested the following  
 lan: Me politely handed his fair neighbor 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49$0/pct:49.733232,45.213987,14.386433,7.101391/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49$0/pct:49.733232,45.213987,14.386433,7.101391/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ church ina pew adjoining one in which sat a
 you for whom he conceived « most  
 Sudden and violent passion, was desirous 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49_0$0/pct:45.937962,45.590433,13.663220,5.150156/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49_0$0/pct:45.937962,45.590433,13.663220,5.150156/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ I impressing the other. When their editions were a most sudden and violent passi
   
 I intended to be curious, they omitted to print the entering into a courtship on the spot ; but the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51$3/pct:68.954573,84.435386,26.284467,2.173913/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51$3/pct:68.954573,84.435386,26.284467,2.173913/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ to the abilities of the corrector. ihou shouldst take knowledge of me, seeing I 
   
 To let their fame stranger ?** He returned the book, pointing to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51$4/pct:33.525437,24.138955,56.915739,6.398456/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51$4/pct:33.525437,24.138955,56.915739,6.398456/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ paper and ink ; but I trust to come unto yon and
 speak face to face.’*—From the above interview,  
 the marriage took place the ensuing week,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51$4/pct:63.056439,32.615796,27.424483,3.132423/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51$4/pct:63.056439,32.615796,27.424483,3.132423/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ face.”—From the above interview |
 the marriage took place the ensuing  
 week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-news-letter-and-city-record_1826-12-16_2_24$2/pct:2.591241,21.128501,36.751825,57.701812/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-news-letter-and-city-record_1826-12-16_2_24$2/pct:2.591241,21.128501,36.751825,57.701812/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ write with ink ; but I trust to come unto you and
 speak face to face.&quot; From the above interview the  
 marriage took place the ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_kedavra_ver01%2Fdata%2Fsn83025530%2F00271740220%2F1827073101%2F0123.jp2/pct:69.899103,59.375000,22.449552,14.565374/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_kedavra_ver01%2Fdata%2Fsn83025530%2F00271740220%2F1827073101%2F0123.jp2/pct:69.899103,59.375000,22.449552,14.565374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ to come unto you and speak face to face.” )
 From the above interview, the marriage took  
 place the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9$7/pct:66.161928,29.953198,28.893696,23.673947/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9$7/pct:66.161928,29.953198,28.893696,23.673947/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ thou shouldest take knowledge of me, seeing
 I am a stranger?&quot; He returned the book, poin­  
 ting to the 12th epistle of Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_kedavra_ver01%2Fdata%2Fsn88053122%2F00271741820%2F1832070601%2F0133.jp2/pct:32.804878,59.902872,19.756098,14.189189/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_kedavra_ver01%2Fdata%2Fsn88053122%2F00271741820%2F1832070601%2F0133.jp2/pct:32.804878,59.902872,19.756098,14.189189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ ink: but I trust to come unto you, and speak face to
 face.” From the above interview, the marriage took  
 place the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_chambers-journal_1834-12-06_3_149$7/pct:37.949640,68.036437,26.019185,8.299595/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal_1834-12-06_3_149$7/pct:37.949640,68.036437,26.019185,8.299595/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ speak face to face.” From the above inter­
 view a marriage took place the enuuing‘  
 week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152743%2F1835011501%2F1014.jp2/pct:36.724707,34.812794,14.868556,14.621043/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152743%2F1835011501%2F1014.jp2/pct:36.724707,34.812794,14.868556,14.621043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ am a stranger?” He returned the book, pointing to the twelfth
 verse of the Third Epistle of John. ‘Having many things to write  
 unto you, I would not write with paper and ink, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46$7/pct:67.755102,62.462064,26.989796,11.779211/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46$7/pct:67.755102,62.462064,26.989796,11.779211/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ anyspeaic tace to lace.&quot;
 Vom the above interview the mar-  
 ge took place thn ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065654%2F00295878216%2F1839042001%2F0718.jp2/pct:23.604112,27.814663,14.956662,26.430287/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065654%2F00295878216%2F1839042001%2F0718.jp2/pct:23.604112,27.814663,14.956662,26.430287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ face.&quot; ;
 From the above interview, the marriage;  
 took place the ensjing week. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn87065188%2F00295877935%2F1839060801%2F0068.jp2/pct:81.985013,61.621272,16.455115,18.591883/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn87065188%2F00295877935%2F1839060801%2F0068.jp2/pct:81.985013,61.621272,16.455115,18.591883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ courtship on the spot. But the place not suiting a
 fornvtl declaration, the exigency of the case suggested  
 the following pi in : lie marked a text and handed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_hoosier_ver01%2Fdata%2Fsn82015677%2F00296029804%2F1845061901%2F0124.jp2/pct:65.763079,66.463675,14.529683,3.579060/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_hoosier_ver01%2Fdata%2Fsn82015677%2F00296029804%2F1845061901%2F0124.jp2/pct:65.763079,66.463675,14.529683,3.579060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1053,7 +1053,7 @@ view, the marriage took place the ensu-
 mg  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn83016940%2F0029587806A%2F1846052101%2F0649.jp2/pct:58.496138,76.052519,17.423898,5.037819/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn83016940%2F0029587806A%2F1846052101%2F0649.jp2/pct:58.496138,76.052519,17.423898,5.037819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ and speak face to face.&quot; From the above
 interview, the marriage took placc the en­  
 suing Week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_alicanto_ver02%2Fdata%2Fsn82014769%2F00415661022%2F1846062501%2F0662.jp2/pct:7.048323,5.308900,18.276393,20.321404/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_alicanto_ver02%2Fdata%2Fsn82014769%2F00415661022%2F1846062501%2F0662.jp2/pct:7.048323,5.308900,18.276393,20.321404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ and speak face lo face.&quot; From the above
 interview the marriage took place the en  
 suing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82014327%2F00415668855%2F1846072301%2F0488.jp2/pct:81.845433,48.045731,13.440157,14.542290/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82014327%2F00415668855%2F1846072301%2F0488.jp2/pct:81.845433,48.045731,13.440157,14.542290/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ speak face to face.&#x27; From the above inter
 view a marriage took place the ensuing  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00237289699%2F1849020301%2F0570.jp2/pct:23.892928,19.001274,14.590218,18.503070/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00237289699%2F1849020301%2F0570.jp2/pct:23.892928,19.001274,14.590218,18.503070/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ tering into a courtship ou the spot but the
 who had been the housekeeper for a score place not suiting a formal declaration, the  
 of years, with a faco radiant with smiles, exigency of the case suggested the followi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529479%2F1858073101%2F0262.jp2/pct:37.679790,12.510701,22.435696,3.408826/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529479%2F1858073101%2F0262.jp2/pct:37.679790,12.510701,22.435696,3.408826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ face.&quot;
 From tho abovo interview, a marriage  
 took place the following week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529479%2F1858073101%2F0262.jp2/pct:48.976378,20.616390,11.023622,5.420655/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529479%2F1858073101%2F0262.jp2/pct:48.976378,20.616390,11.023622,5.420655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ ble, open with a pin stuck in the following
 text, &quot;2d epistle of John 5th &quot; verse ; &quot;and  
 now 1 beseech the, lady, not as t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628407%2F1859042901%2F0102.jp2/pct:64.744681,68.353146,14.595745,6.538127/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628407%2F1859042901%2F0102.jp2/pct:64.744681,68.353146,14.595745,6.538127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1335,7 +1335,7 @@ write unto yon, 1 would not write with paper
 and ink, but I trust to come unto you, and  
 speak face to face that our joy may be full.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1859070601%2F0425.jp2/pct:66.251729,68.281886,14.200092,11.976549/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1859070601%2F0425.jp2/pct:66.251729,68.281886,14.200092,11.976549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1370,7 +1370,7 @@ the twelth verse of the Third Epistle of John :
 &quot;Having many things to write unto you, I would  
 not write with paper and ink, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879178%2F1859101801%2F0591.jp2/pct:5.508777,80.542532,15.142001,12.268363/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879178%2F1859101801%2F0591.jp2/pct:5.508777,80.542532,15.142001,12.268363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1403,7 +1403,7 @@ verse of the Third Epistle of John: &quot;Hav­
 ing many things to write unto you, I  
 would not write with paper and in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85025750%2F00280774650%2F1859101801%2F0211.jp2/pct:6.445227,60.926030,14.738231,10.827216/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85025750%2F00280774650%2F1859101801%2F0211.jp2/pct:6.445227,60.926030,14.738231,10.827216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ that which we had from the beginning
   
 that we love one another.&quot; She returned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667826%2F1859110201%2F0185.jp2/pct:56.527849,74.561571,12.327542,6.767061/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667826%2F1859110201%2F0185.jp2/pct:56.527849,74.561571,12.327542,6.767061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,7 +1492,7 @@ teenth verse of the Third Epistle of John
 &quot; Having many things to write unto you,  
 I would not write with pape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628407%2F1863102301%2F1048.jp2/pct:47.695262,58.472554,30.900555,37.350835/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628407%2F1863102301%2F1048.jp2/pct:47.695262,58.472554,30.900555,37.350835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1545,7 @@ John &quot;Having many things to write
 unto you, would not write with paper  
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194941%2F1863110601%2F0593.jp2/pct:4.646622,58.066378,12.475595,18.730159/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194941%2F1863110601%2F0593.jp2/pct:4.646622,58.066378,12.475595,18.730159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1593,7 +1593,7 @@ thirteenth verse of the Third Epistle of John:
 “Having many things to write unto yon, 1  
 would not write with paper an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_damariscotta_ver02%2Fdata%2Fsn83016025%2F00279525176%2F1863111401%2F0314.jp2/pct:3.736264,30.972848,12.641941,17.345477/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_damariscotta_ver02%2Fdata%2Fsn83016025%2F00279525176%2F1863111401%2F0314.jp2/pct:3.736264,30.972848,12.641941,17.345477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1621,7 +1621,7 @@ commandment unto thee, but which we had
 from the begining, that we love one another.  
 She returned it, pointing to the secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769787%2F1863112501%2F0252.jp2/pct:67.328881,53.820837,12.017697,6.805170/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769787%2F1863112501%2F0252.jp2/pct:67.328881,53.820837,12.017697,6.805170/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ from the begining, that we love one another. ”
 She returned it, pointing to the second  
 chapter of Ruth, verse tent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769428%2F1863112601%2F0310.jp2/pct:68.995805,54.060255,11.934102,7.179436/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769428%2F1863112601%2F0310.jp2/pct:68.995805,54.060255,11.934102,7.179436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1684,7 +1684,7 @@ commandment unto thee but that which we
 had from the beginning, that we love one an*  
 .other.” She relumed it, pointing to the 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_edgewater_ver02%2Fdata%2Fsn84031490%2Fno_reel%2F1863122401%2F0003.jp2/pct:43.485139,85.282317,10.033557,6.857310/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_edgewater_ver02%2Fdata%2Fsn84031490%2Fno_reel%2F1863122401%2F0003.jp2/pct:43.485139,85.282317,10.033557,6.857310/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1710,7 +1710,7 @@ gining, that we love one another.&quot; - .
 She returned it, pointing to the sec­  
 ond chapter of Ru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286881%2F1864012001%2F0371.jp2/pct:5.446387,26.529108,10.707102,6.583149/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286881%2F1864012001%2F0371.jp2/pct:5.446387,26.529108,10.707102,6.583149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1739,7 +1739,7 @@ we had from the beginning, that we love
 one another.&#x27; &#x27; She returned it, pointing  
 to the second chapter of Rath,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn83035143%2F00280775599%2F1864030501%2F0026.jp2/pct:15.093992,65.516224,10.947291,8.023599/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn83035143%2F00280775599%2F1864030501%2F0026.jp2/pct:15.093992,65.516224,10.947291,8.023599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1769,7 +1769,7 @@ which we had from the beginning, that
 we love one another.&quot;  
 She returned it, pointing to the secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477655%2F1866041201%2F0344.jp2/pct:62.564273,35.145823,14.098524,10.133465/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477655%2F1866041201%2F0344.jp2/pct:62.564273,35.145823,14.098524,10.133465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1810,7 +1810,7 @@ ofthe Third Epistle of John. &quot;Having many
 things to write unto you, I would not write with  
 paper and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1866091801%2F0160.jp2/pct:82.690981,64.800528,12.571133,12.878338/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1866091801%2F0160.jp2/pct:82.690981,64.800528,12.571133,12.878338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1842,7 +1842,7 @@ her face, and bowed herself to the ground and
 said to him: Why have I found grace in thine  
 eyes, seeing 1 am a stranger?&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1868092301%2F0194.jp2/pct:79.701855,53.235832,14.629919,9.152956/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1868092301%2F0194.jp2/pct:79.701855,53.235832,14.629919,9.152956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1883,7 +1883,7 @@ unto you, I would not write with pen
 and ink, but I trust shortly to come  
 unto 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623690%2F1868111901%2F0212.jp2/pct:78.995163,53.391584,12.126147,15.697095/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623690%2F1868111901%2F0212.jp2/pct:78.995163,53.391584,12.126147,15.697095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1916,7 +1916,7 @@ He returned the book, pointing to the
 thirteenth chapter of Third Epistle of St.  
 Jilhn : &quot;Huirlncr mnnv tliinirjl tn mrit„ mit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_haunter_ver01%2Fdata%2Fsn83016555%2F00295874065%2F1868121401%2F0531.jp2/pct:32.098470,32.775199,13.049713,5.155836/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_haunter_ver01%2Fdata%2Fsn83016555%2F00295874065%2F1868121401%2F0531.jp2/pct:32.098470,32.775199,13.049713,5.155836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1954,7 +1954,7 @@ manv things to write unto you, I
 would not write with pen and ink,  
 but I trust shortly to come un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028824%2F1869030401%2F0260.jp2/pct:49.042146,20.514529,11.077794,9.410824/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028824%2F1869030401%2F0260.jp2/pct:49.042146,20.514529,11.077794,9.410824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +1980,7 @@ John-.—&quot;Having many things to write unto
 | you. I would not write with pen and ink, but  
 | I trust shortly to come
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869102901%2F0626.jp2/pct:15.310734,84.910175,11.407293,7.060485/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869102901%2F0626.jp2/pct:15.310734,84.910175,11.407293,7.060485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2010,7 +2010,7 @@ the thirteenth and fourteenth verses
 of the Third Epistle of John:  
 I had many things to write unt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1870030201%2F0513.jp2/pct:53.360299,76.998100,9.505289,9.081697/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1870030201%2F0513.jp2/pct:53.360299,76.998100,9.505289,9.081697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2036,7 +2036,7 @@ that thou shouldest take knowledge of me,
 seeing lama stranger ?&quot;  
 He returned the book point
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1870040901%2F0495.jp2/pct:70.138889,56.938844,11.984127,7.980511/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1870040901%2F0495.jp2/pct:70.138889,56.938844,11.984127,7.980511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2073,7 +2073,7 @@ the third Epistle of John: &quot;Caving ma­
 ny things to write unto yon, I. would  
 not write with paper and in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1871031701%2F0321.jp2/pct:25.992282,58.304536,9.840132,9.740821/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1871031701%2F0321.jp2/pct:25.992282,58.304536,9.840132,9.740821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2112,7 +2112,7 @@ unto you, and speak face to face.”
 From the above interview the marriage  
 took place the following week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769593%2F1871041501%2F0119.jp2/pct:42.840672,43.358988,11.879739,9.194459/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769593%2F1871041501%2F0119.jp2/pct:42.840672,43.358988,11.879739,9.194459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2144,7 +2144,7 @@ face to face.&quot; From the above inter­
 view the marriage took place the follow  
 ing wees
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776348%2F1871041901%2F0067.jp2/pct:68.190062,74.422248,12.005803,11.607259/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776348%2F1871041901%2F0067.jp2/pct:68.190062,74.422248,12.005803,11.607259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2177,7 +2177,7 @@ and speak face to NC?/&#x27; From the
 above interview,-the marriage in?k.  
 place the following week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_jinx_ver01%2Fdata%2Fsn84026897%2F00211101222%2F1871051101%2F0210.jp2/pct:23.474707,68.633152,10.809458,10.526480/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_jinx_ver01%2Fdata%2Fsn84026897%2F00211101222%2F1871051101%2F0210.jp2/pct:23.474707,68.633152,10.809458,10.526480/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2202,7 +2202,7 @@ unto you, and speak face to face.&quot; From 8
 tho abovo interview, the marriage took &#x27;  
 place the following week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F0029586235A%2F1871052501%2F0045.jp2/pct:32.690557,84.155753,16.358669,7.658460/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F0029586235A%2F1871052501%2F0045.jp2/pct:32.690557,84.155753,16.358669,7.658460/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2233,7 +2233,7 @@ had from the beginning, that we love
 one another.&quot; She returned it, pointing  
 to the second chapter of Butb, v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779404%2F1872100501%2F0929.jp2/pct:15.675566,67.749682,12.277508,9.393982/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779404%2F1872100501%2F0929.jp2/pct:15.675566,67.749682,12.277508,9.393982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,7 +2266,7 @@ speak faoe to faoe.” From the above
 interview the marriage took plaoe the  
 following week. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_chert_ver01%2Fdata%2Fsn86053968%2F00383343781%2F1879071701%2F0276.jp2/pct:71.792328,70.043505,10.668816,10.929149/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_chert_ver01%2Fdata%2Fsn86053968%2F00383343781%2F1879071701%2F0276.jp2/pct:71.792328,70.043505,10.668816,10.929149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2296,7 +2296,7 @@ you and speak faca to face.&quot; From the
 above interview the marriage took place the  
 following week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_kautsky_ver01%2Fdata%2Fsn87056600%2F00271740578%2F1879073001%2F0237.jp2/pct:20.683594,54.637557,14.082031,8.147831/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_kautsky_ver01%2Fdata%2Fsn87056600%2F00271740578%2F1879073001%2F0237.jp2/pct:20.683594,54.637557,14.082031,8.147831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2351,7 +2351,7 @@ trust to come unto you and speak face to
 face.&quot; From tbe above interVidw a mar­  
 riage took place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027670%2F00237283387%2F1879092501%2F0450.jp2/pct:44.191965,77.477108,11.616070,11.316113/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027670%2F00237283387%2F1879092501%2F0450.jp2/pct:44.191965,77.477108,11.616070,11.316113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2389,7 +2389,7 @@ trust to come unto you and speak face to
 face. .From the above interview a mar­  
 riage took place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237288002%2F1879102401%2F0624.jp2/pct:72.448598,39.221432,11.252336,12.529650/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237288002%2F1879102401%2F0624.jp2/pct:72.448598,39.221432,11.252336,12.529650/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2432,7 +2432,7 @@ interview a marriage took place.
   
 The Male and the Small Boy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn83025440%2F00295876475%2F1879120401%2F0749.jp2/pct:58.745811,57.833279,12.206798,15.071900/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn83025440%2F00295876475%2F1879120401%2F0749.jp2/pct:58.745811,57.833279,12.206798,15.071900/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2473,7 +2473,7 @@ and ink, but I trust to come unto you
 and speak face to face.&quot; From this  
 interview a marriage took nlace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_peugeot_ver01%2Fdata%2Fsn90059028%2F00212479184%2F1879121101%2F0055.jp2/pct:24.036197,31.497906,16.331970,16.621500/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_peugeot_ver01%2Fdata%2Fsn90059028%2F00212479184%2F1879121101%2F0055.jp2/pct:24.036197,31.497906,16.331970,16.621500/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2504,7 +2504,7 @@ beginning that we love one another.&quot;
 Sho returned it pointing to the sec­  
 ond chapter of lluth, vers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_abbott_ver01%2Fdata%2Fsn95073194%2F206539239%2F1880012801%2F0314.jp2/pct:27.131229,67.460660,10.923890,10.864410/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_abbott_ver01%2Fdata%2Fsn95073194%2F206539239%2F1880012801%2F0314.jp2/pct:27.131229,67.460660,10.923890,10.864410/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2548,7 +2548,7 @@ face.&quot; From the above interview a
 marriage took place.  
 &amp; w 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285189%2F1880012901%2F0119.jp2/pct:81.891133,57.719547,10.846596,16.916228/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285189%2F1880012901%2F0119.jp2/pct:81.891133,57.719547,10.846596,16.916228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2610,7 +2610,7 @@ trust to come unto you, and speak face to face.”
 From the above iuterview the marriage took place  
 the following week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_national-police-gazette_1880-11-27_37_166$9/pct:73.597233,11.649485,20.042275,10.837629/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-police-gazette_1880-11-27_37_166$9/pct:73.597233,11.649485,20.042275,10.837629/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2650,7 +2650,7 @@ verse of the the Third Kpistle of John—
 ‘Having many things to write unto you,  
 I would not write with pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-magazine_1886-02_3_5$38/pct:48.162939,22.318436,34.704473,34.245810/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-magazine_1886-02_3_5$38/pct:48.162939,22.318436,34.704473,34.245810/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2687,7 +2687,7 @@ verse oi(j,be Third Eyields of
 ing mspy things to write onto’jou, 1  
 would not wrltewitti paper and ink, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/gu_ace_ver02%2Fdata%2Fsn82015137%2F00414181922%2F1886061001%2F1042.jp2/pct:42.320614,50.588824,12.359011,10.980767/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_ace_ver02%2Fdata%2Fsn82015137%2F00414181922%2F1886061001%2F1042.jp2/pct:42.320614,50.588824,12.359011,10.980767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2731,7 +2731,7 @@ Epistle of John :
 you, 1 would not write with paper  
 and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020515%2F1886070301%2F0210.jp2/pct:42.220774,8.445197,15.884398,20.852339/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020515%2F1886070301%2F0210.jp2/pct:42.220774,8.445197,15.884398,20.852339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2774,7 +2774,7 @@ had many things to write. I will not
 with pen and ink write unto thee, but  
 I trust I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dorothy_ver01%2Fdata%2Fsn85033295%2F00279550079%2F1887071301%2F0099.jp2/pct:64.266878,5.183592,28.472222,89.402157/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dorothy_ver01%2Fdata%2Fsn85033295%2F00279550079%2F1887071301%2F0099.jp2/pct:64.266878,5.183592,28.472222,89.402157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2815,7 +2815,7 @@ Third Epistle of John: “1 had many
 things to write. I will not with ]&gt;en  
 and ink write unto thee, but 1 trust 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_imbe_ver01%2Fdata%2Fsn98062948%2F00340581064%2F1887071401%2F1397.jp2/pct:69.637176,7.091931,10.702924,13.694064/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_imbe_ver01%2Fdata%2Fsn98062948%2F00340581064%2F1887071401%2F1397.jp2/pct:69.637176,7.091931,10.702924,13.694064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2857,7 +2857,7 @@ Third Epistle of John: &quot;I had many
 things to write. I will not with pen  
 and ink write unto thee, but I trust 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ndhi_dysprosium_ver01%2Fdata%2Fsn88076998%2F00199918138%2F1887071501%2F0298.jp2/pct:59.964360,5.024119,16.067716,18.395879/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_dysprosium_ver01%2Fdata%2Fsn88076998%2F00199918138%2F1887071501%2F0298.jp2/pct:59.964360,5.024119,16.067716,18.395879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2898,7 +2898,7 @@ of the third epistle of John: &quot;I had
 many things to write. I will not with  
 pen and ink write unto thee, but 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_honda_ver01%2Fdata%2Fsn85025620%2F00212479342%2F1887072101%2F0386.jp2/pct:85.309246,68.784260,10.776565,12.829548/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_honda_ver01%2Fdata%2Fsn85025620%2F00212479342%2F1887072101%2F0386.jp2/pct:85.309246,68.784260,10.776565,12.829548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2939,7 +2939,7 @@ of the third epistle of John: &quot;I had
 many tilings to write. I will not with  
 &#x27;pen and ink write unto thee, but 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_neon_ver01%2Fdata%2Fsn89064525%2F0021247924A%2F1887072201%2F0044.jp2/pct:69.713118,67.042670,11.657341,13.703965/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_neon_ver01%2Fdata%2Fsn89064525%2F0021247924A%2F1887072201%2F0044.jp2/pct:69.713118,67.042670,11.657341,13.703965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2980,7 +2980,7 @@ teenth verse of the Third Epistle of
 John—&quot;I had many things to write.  
 I will not with pen and ink write unt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_honda_ver01%2Fdata%2Fsn85025620%2F00212479342%2F1887072801%2F0390.jp2/pct:84.152324,73.084422,10.663507,12.504062/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_honda_ver01%2Fdata%2Fsn85025620%2F00212479342%2F1887072801%2F0390.jp2/pct:84.152324,73.084422,10.663507,12.504062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3143,7 +3143,7 @@ woirid.not write with paper and ink,
 but I*trust to come unto you, and  
 speak face to face, that our joy ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_audi_ver01%2Fdata%2Fsn89064939%2F00206537991%2F1889030601%2F0081.jp2/pct:35.951746,73.909168,14.876584,18.914206/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_audi_ver01%2Fdata%2Fsn89064939%2F00206537991%2F1889030601%2F0081.jp2/pct:35.951746,73.909168,14.876584,18.914206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3207,7 +3207,7 @@ pointing to the thirteenth verse of the Third
 Epistle of John—* Having many things to  
 write unto you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_ladies-home-journal_1891-01_8_2$1/pct:30.367293,11.911232,20.616528,54.468599/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-home-journal_1891-01_8_2$1/pct:30.367293,11.911232,20.616528,54.468599/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3244,7 +3244,7 @@ Epistle of John, &quot;Having many things
 to write unto you, I would not write with  
 paper a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763219%2F1891020601%2F0043.jp2/pct:50.084628,62.452060,11.509463,14.487195/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763219%2F1891020601%2F0043.jp2/pct:50.084628,62.452060,11.509463,14.487195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3278,7 +3278,7 @@ ginning, that we love one another.’’
 She returned it pointing to the sec­  
 ond chapter of Uuth,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_jolteon_ver01%2Fdata%2Fsn87091048%2F00414213030%2F1891021201%2F0859.jp2/pct:67.655520,42.169963,12.517979,13.458712/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_jolteon_ver01%2Fdata%2Fsn87091048%2F00414213030%2F1891021201%2F0859.jp2/pct:67.655520,42.169963,12.517979,13.458712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3335,7 +3335,7 @@ Epistle of John:
 Unto VOU. I woillil nnf. writn  
 with paper and ink,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84020731%2F00416157121%2F1892032301%2F0917.jp2/pct:68.374847,14.934608,24.683544,80.438757/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84020731%2F00416157121%2F1892032301%2F0917.jp2/pct:68.374847,14.934608,24.683544,80.438757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3460,7 +3460,7 @@ speak face to face.” From the above in­
 terview the marriage took place the com­  
 ing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/gu_endeavour_ver01%2Fdata%2Fsn86063034%2F0041418215A%2F1895081801%2F1033.jp2/pct:3.719841,9.026490,12.593113,15.967945/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_endeavour_ver01%2Fdata%2Fsn86063034%2F0041418215A%2F1895081801%2F1033.jp2/pct:3.719841,9.026490,12.593113,15.967945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3501,7 +3501,7 @@ unto you, and speak face to fac$..’ From
 the above interview the marriage*, totok  
 place the com-itg wee*;.’&#x27;—Scottish Am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_horseradish_ver02%2Fdata%2Fsn87068097%2F00383340226%2F1895082101%2F0182.jp2/pct:50.550568,86.468834,11.184991,9.956695/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_horseradish_ver02%2Fdata%2Fsn87068097%2F00383340226%2F1895082101%2F0182.jp2/pct:50.550568,86.468834,11.184991,9.956695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3533,7 +3533,7 @@ speak face to face. &quot; From the above in­
 terview the marriage took place the  
 coming week. Scottish American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023814%2F1895090601%2F0247.jp2/pct:50.537920,53.113693,13.534334,11.140735/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023814%2F1895090601%2F0247.jp2/pct:50.537920,53.113693,13.534334,11.140735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3606,7 +3606,7 @@ to come unto you and speak face to face.”
 From the above interview the marriage took  
 place the coming week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-night_1895-09-21_8_44$8/pct:6.714313,14.060338,48.899756,78.245226/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1895-09-21_8_44$8/pct:6.714313,14.060338,48.899756,78.245226/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3638,7 +3638,7 @@ speak face to face. ”
 From the above interview the mar­  
 riage took place the coming week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_elvis_ver01%2Fdata%2Fsn89051168%2F00393343047%2F1895092401%2F0085.jp2/pct:17.324738,77.385456,14.489323,11.717108/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_elvis_ver01%2Fdata%2Fsn89051168%2F00393343047%2F1895092401%2F0085.jp2/pct:17.324738,77.385456,14.489323,11.717108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3670,7 +3670,7 @@ and speak face to face.&quot;
 From the above interview the marriage  
 took place the coming week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295862208%2F1895092501%2F0238.jp2/pct:50.764852,79.221304,17.312937,11.067034/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295862208%2F1895092501%2F0238.jp2/pct:50.764852,79.221304,17.312937,11.067034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3714,7 +3714,7 @@ face to face.&#x27;&#x27;
 From the above interview the mar?  
 riage took plnco the coming week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kelly_ver01%2Fdata%2Fsn95079481%2F00175031777%2F1895092801%2F0058.jp2/pct:3.075415,79.351752,15.738528,19.009570/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kelly_ver01%2Fdata%2Fsn95079481%2F00175031777%2F1895092801%2F0058.jp2/pct:3.075415,79.351752,15.738528,19.009570/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3748,7 +3748,7 @@ face to face. &quot;
 From the atiovo interview tho mar­  
 riage took place the coming week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_gum_ver01%2Fdata%2F2016270502%2F00271762987%2F1895093001%2F0430.jp2/pct:64.529540,72.347470,14.354486,11.051553/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_gum_ver01%2Fdata%2F2016270502%2F00271762987%2F1895093001%2F0430.jp2/pct:64.529540,72.347470,14.354486,11.051553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3791,7 +3791,7 @@ speak face to face. ”
 From the above interview the mar­  
 riage took place the coming week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_elvis_ver01%2Fdata%2Fsn89051168%2F00393343047%2F1895100301%2F0121.jp2/pct:48.130746,71.112349,14.775281,17.336071/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_elvis_ver01%2Fdata%2Fsn89051168%2F00393343047%2F1895100301%2F0121.jp2/pct:48.130746,71.112349,14.775281,17.336071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3839,7 +3839,7 @@ face to face.&quot;
 From the above interview the mar­  
 riage took place the coming week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919994%2F1895100301%2F0320.jp2/pct:49.871451,55.221494,14.056562,17.606458/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919994%2F1895100301%2F0320.jp2/pct:49.871451,55.221494,14.056562,17.606458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3901,7 +3901,7 @@ speak face to face.&quot;
 From the above interview the mar­  
 riaic took place the coining vcek
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878836%2F1895110801%2F0806.jp2/pct:85.889443,63.138737,12.094763,19.277614/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878836%2F1895110801%2F0806.jp2/pct:85.889443,63.138737,12.094763,19.277614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3945,7 +3945,7 @@ ou, and speak face to face.&quot; From
 tho above interview the marriage  
 took place the coming week. Scot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn97067613%2F00202197310%2F1895112101%2F0077.jp2/pct:36.815336,42.235026,13.458529,16.588503/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn97067613%2F00202197310%2F1895112101%2F0077.jp2/pct:36.815336,42.235026,13.458529,16.588503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4169,7 +4169,7 @@ face.&quot; From the above interview the
 marriage took place the following  
 wee k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_jerome_ver01%2Fdata%2Fsn89066818%2F00200292339%2F1896011801%2F0437.jp2/pct:21.197861,73.667576,13.796791,11.291481/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_jerome_ver01%2Fdata%2Fsn89066818%2F00200292339%2F1896011801%2F0437.jp2/pct:21.197861,73.667576,13.796791,11.291481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4231,7 +4231,7 @@ speak face to face &quot; From the
 above interview the marriage took  
 place the following week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/okhi_comanche_ver01%2Fdata%2Fsn83025010%2F00237284744%2F1896022001%2F0173.jp2/pct:50.389524,18.019398,40.112713,78.113834/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_comanche_ver01%2Fdata%2Fsn83025010%2F00237284744%2F1896022001%2F0173.jp2/pct:50.389524,18.019398,40.112713,78.113834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4458,7 +4458,7 @@ face to face. &quot; From the above inter­
 view the marriage took place the com­  
 ing week?Church Paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_gnomiemoore_ver01%2Fdata%2Fsn84026965%2F00294551189%2F1897062301%2F0339.jp2/pct:76.444823,2.151728,10.698787,13.844830/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_gnomiemoore_ver01%2Fdata%2Fsn84026965%2F00294551189%2F1897062301%2F0339.jp2/pct:76.444823,2.151728,10.698787,13.844830/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

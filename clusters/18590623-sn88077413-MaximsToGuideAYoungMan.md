@@ -36,7 +36,7 @@ you would be happy. Save when you are young, to
 to spend when you are old. Read over the above  
 maxims at least once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024518%2F00296022718%2F1852082501%2F0271.jp2/pct:16.546537,51.178075,15.261673,5.716766/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024518%2F00296022718%2F1852082501%2F0271.jp2/pct:16.546537,51.178075,15.261673,5.716766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ out again. Never borrow if yon can possibly
 avoid it. Do not marry until you are able to  
 keep a wif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190601%2F1857100601%2F0337.jp2/pct:29.994147,31.337594,14.104565,11.970584/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190601%2F1857100601%2F0337.jp2/pct:29.994147,31.337594,14.104565,11.970584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ Save hen you are young to spend when you are
 old. Read over the above maxims at least once a  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_kitty_ver01%2Fdata%2Fsn96091000%2F00212470223%2F1857101601%2F0371.jp2/pct:6.033810,40.594943,11.690507,8.527516/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kitty_ver01%2Fdata%2Fsn96091000%2F00212470223%2F1857101601%2F0371.jp2/pct:6.033810,40.594943,11.690507,8.527516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ spend when you are old.
 Head over the above maxims at least once a  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1857122301%2F0296.jp2/pct:36.721734,14.227230,14.954163,15.408039/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1857122301%2F0296.jp2/pct:36.721734,14.227230,14.954163,15.408039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ and mothers in the Truth, which we are now
   
 when
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-12-26_14_41$6/pct:49.238782,56.997012,39.302885,32.395418/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-12-26_14_41$6/pct:49.238782,56.997012,39.302885,32.395418/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ spend when you are old.
 Read over the above maxims at least once a  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556653%2F1858010201%2F0005.jp2/pct:62.712406,42.042176,12.602777,8.387141/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556653%2F1858010201%2F0005.jp2/pct:62.712406,42.042176,12.602777,8.387141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ when you are young that you may spend when
 you are old. Read over the above maxims at  
 i least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_loons_ver01%2Fdata%2Fsn84024718%2F00414183773%2F1858010601%2F0007.jp2/pct:56.863780,66.114180,12.794791,10.546347/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_loons_ver01%2Fdata%2Fsn84024718%2F00414183773%2F1858010601%2F0007.jp2/pct:56.863780,66.114180,12.794791,10.546347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ Save w|&gt;en yon are young that you may spend when
 yon arjj old. Read over the above maxims at least  
 once a&#x27;fteek
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192300%2F1858011201%2F0370.jp2/pct:28.704342,71.845026,14.024810,7.683612/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192300%2F1858011201%2F0370.jp2/pct:28.704342,71.845026,14.024810,7.683612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ Save when you are young that you may spei
 when you are old. Read over the above  
 ims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027352%2F00279528578%2F1858011401%2F0016.jp2/pct:82.467102,55.861399,12.733125,18.512522/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027352%2F00279528578%2F1858011401%2F0016.jp2/pct:82.467102,55.861399,12.733125,18.512522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ over what you have been doing during
 the day. Make no haste to be rich if  
 y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1858011601%2F0098.jp2/pct:50.428332,15.526650,22.857143,20.669806/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1858011601%2F0098.jp2/pct:50.428332,15.526650,22.857143,20.669806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ spend when you arc old.
 Be sure and read over the above maxima at  
 least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026978%2F00279557475%2F1858040101%2F0208.jp2/pct:33.647610,23.803867,14.442710,25.061445/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026978%2F00279557475%2F1858040101%2F0208.jp2/pct:33.647610,23.803867,14.442710,25.061445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ happy. Save when you are young to spend
 when you are old. Read over the above  
 maxims once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288257%2F1859042701%2F0409.jp2/pct:39.300123,72.751174,11.156411,10.810642/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288257%2F1859042701%2F0409.jp2/pct:39.300123,72.751174,11.156411,10.810642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ young, that you may spend when you are
 old. Read over the above maxims at least  
 once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667826%2F1859051801%2F0091.jp2/pct:18.981247,72.282661,12.633046,13.719072/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667826%2F1859051801%2F0091.jp2/pct:18.981247,72.282661,12.633046,13.719072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ when you are old.
 Road over the above maxims at least once a  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028551%2F1859052001%2F0567.jp2/pct:62.579660,47.098197,14.430926,12.036381/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028551%2F1859052001%2F0567.jp2/pct:62.579660,47.098197,14.430926,12.036381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ you would be happy. Save when you are young1,
 that you may spend when you are old. Read  
 over the above maxims at least ence a week.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88077413%2F00280775344%2F1859062301%2F0421.jp2/pct:23.307184,70.312279,14.244426,18.708492/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88077413%2F00280775344%2F1859062301%2F0421.jp2/pct:23.307184,70.312279,14.244426,18.708492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ are young, that you may spend when
 &#x27; you are old. Read over the above max­  
 ■ ims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn86053686%2F00295874405%2F1859082701%2F0345.jp2/pct:50.833333,52.645005,15.388889,4.752954/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn86053686%2F00295874405%2F1859082701%2F0345.jp2/pct:50.833333,52.645005,15.388889,4.752954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ le happy. Save when you are young, to
 spend when you &#x27; are old. Read over the  
 above maxims once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775393%2F1859101301%2F0064.jp2/pct:43.933210,53.518036,12.430427,6.857770/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775393%2F1859101301%2F0064.jp2/pct:43.933210,53.518036,12.430427,6.857770/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ Earn money before you spend it. Never
 run into debt unless you see away to get  
 out of it. Do not marry until you are abl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624517%2F1865070801%2F0413.jp2/pct:5.784962,73.091903,12.637766,8.437570/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624517%2F1865070801%2F0413.jp2/pct:5.784962,73.091903,12.637766,8.437570/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ when you are young, that you may spend
 when you are old. Read over the above  
 maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1865071401%2F0538.jp2/pct:80.519343,76.720240,12.739799,11.094646/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1865071401%2F0538.jp2/pct:80.519343,76.720240,12.739799,11.094646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ that you may spend whvn ycu are old.
 Read over the abovo maxims at !casi  
 once a wee^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn87058042%2F00279529340%2F1865072101%2F1205.jp2/pct:66.401988,13.162331,28.817588,81.137604/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn87058042%2F00279529340%2F1865072101%2F1205.jp2/pct:66.401988,13.162331,28.817588,81.137604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ spend it. Never run in debt unless you
 see a way to get out of it. Io not marry  
 until you are able to support a wife.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529315%2F1865072201%2F0414.jp2/pct:76.609442,65.154927,13.099666,12.197563/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529315%2F1865072201%2F0414.jp2/pct:76.609442,65.154927,13.099666,12.197563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ are young that you may spend when you are
 old. Read over the above maxims at least  
 once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-08-19_22_24$6/pct:47.023810,71.547085,52.343750,14.461883/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-08-19_22_24$6/pct:47.023810,71.547085,52.343750,14.461883/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ would be happy. Save when you are young to spend
 when yon are old. Read over the above maxims at  
 least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1866-05-10_39_19$2/pct:7.064128,43.377276,21.793587,15.065913/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1866-05-10_39_19$2/pct:7.064128,43.377276,21.793587,15.065913/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ happy. Nave when you are young, that
 you may spend when you are old. Read  
 over the above maxims at least one a wee k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187134%2F1866122101%2F0004.jp2/pct:4.773697,75.047659,14.532031,10.202641/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187134%2F1866122101%2F0004.jp2/pct:4.773697,75.047659,14.532031,10.202641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ generous.
 Keep yourself innocent, if you would be  
 bappy. Save when yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741145%2F1867073001%2F0260.jp2/pct:80.608108,72.201767,10.900901,13.365243/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741145%2F1867073001%2F0260.jp2/pct:80.608108,72.201767,10.900901,13.365243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1043,7 +1043,7 @@ young, that you may spend when you are
 old. Head over the above maxims at least  
 once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1867081701%2F0129.jp2/pct:44.038679,62.126308,12.403672,7.716741/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1867081701%2F0129.jp2/pct:44.038679,62.126308,12.403672,7.716741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1095,7 +1095,7 @@ old. Read over the above maxims at . least
   
 pace a week.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1867110101%2F0387.jp2/pct:49.403305,79.352997,14.504284,16.722169/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1867110101%2F0387.jp2/pct:49.403305,79.352997,14.504284,16.722169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1130,7 +1130,7 @@ speak evil of any one. Be just before you j
 are generous. Keep yourself innoceut, if you &#x27;  
 would be happy. Hea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1873100201%2F0386.jp2/pct:28.320244,77.491611,17.617801,11.009341/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1873100201%2F0386.jp2/pct:28.320244,77.491611,17.617801,11.009341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1168,7 +1168,7 @@ j Save when you arc young, that you may
 spend when you are old. Read over tho  
 above maxims at least oucc a week —L&#x27;x
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623513%2F1873121801%2F0677.jp2/pct:75.562569,57.287833,11.713319,9.378834/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623513%2F1873121801%2F0677.jp2/pct:75.562569,57.287833,11.713319,9.378834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ Save when you are young, that you may
 spend when you are old, Read over the  
 above maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1874010201%2F0317.jp2/pct:78.827408,54.073393,13.804472,13.779004/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1874010201%2F0317.jp2/pct:78.827408,54.073393,13.804472,13.779004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ out and paste it in your hatr )&#x27;
 Never be, idle.; ; If your Jiania can&#x27;t  
 be usefully
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874010801%2F0411.jp2/pct:55.385757,28.460726,9.703264,8.007514/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874010801%2F0411.jp2/pct:55.385757,28.460726,9.703264,8.007514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1277,7 @@ may spend when you are old. Read
 over the above maxims at least once  
 week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874010801%2F0411.jp2/pct:55.148368,40.131502,9.807122,17.247857/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874010801%2F0411.jp2/pct:55.148368,40.131502,9.807122,17.247857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1318,7 +1318,7 @@ hat you may spend when you are eld.
 Head over the above maxims at least  
 once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775435%2F1874040901%2F0281.jp2/pct:84.172078,49.256029,11.347403,12.403797/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775435%2F1874040901%2F0281.jp2/pct:84.172078,49.256029,11.347403,12.403797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ are young, that you may spend when
 yon are old. Read over the above  
 mtTima at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1874042901%2F0113.jp2/pct:49.569263,81.371505,11.026878,12.543276/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1874042901%2F0113.jp2/pct:49.569263,81.371505,11.026878,12.543276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1399,7 +1399,7 @@ Save when you are young that you
 may spend when you are old. Read  
 over tae above maxims at least once 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F00280779490%2F1881020301%2F0113.jp2/pct:58.360129,31.641671,12.560289,14.608998/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F00280779490%2F1881020301%2F0113.jp2/pct:58.360129,31.641671,12.560289,14.608998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1425,7 +1425,7 @@ ms port a wife. Nove?&#x27;speak evil of any one,
 .0 spenmd when you are old. Read over th&lt;  
 above maxIms at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288427%2F1881052801%2F0600.jp2/pct:58.292125,89.231501,13.649267,7.293610/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288427%2F1881052801%2F0600.jp2/pct:58.292125,89.231501,13.649267,7.293610/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1462,7 +1462,7 @@ Save when you are young, that you may
 spend when you are old. Kead over the  
 above maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881060201%2F0289.jp2/pct:69.451175,83.760290,12.570676,12.378671/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881060201%2F0289.jp2/pct:69.451175,83.760290,12.570676,12.378671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1498,7 +1498,7 @@ Save when you are young, that you may
 spend when you are old. Read over the  
 above maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861915%2F1881060901%2F0248.jp2/pct:55.338001,27.283661,15.335408,11.912923/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861915%2F1881060901%2F0248.jp2/pct:55.338001,27.283661,15.335408,11.912923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ when you are old.
 Read over the above maxima at least  
 once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_descendo_ver01%2Fdata%2Fsn84038114%2F00271765472%2F1887011301%2F0054.jp2/pct:36.582569,24.740933,14.105505,22.490285/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_descendo_ver01%2Fdata%2Fsn84038114%2F00271765472%2F1887011301%2F0054.jp2/pct:36.582569,24.740933,14.105505,22.490285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ Never speak evil of any
 one. Be just before you are  
 generous. Save when yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_scientific-american_1894-12-08_71_23$8/pct:77.831094,76.461892,13.171785,14.668200/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1894-12-08_71_23$8/pct:77.831094,76.461892,13.171785,14.668200/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1596,7 +1596,7 @@ able to support a wife. Never speak evil
 of any one. Be just before you are gen­  
 erous. Save when you are young an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn91068247%2F0029602305A%2F1894121401%2F0419.jp2/pct:17.197964,16.947027,12.831503,6.634625/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn91068247%2F0029602305A%2F1894121401%2F0419.jp2/pct:17.197964,16.947027,12.831503,6.634625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1626,7 +1626,7 @@ Never speak evil of anyone, lie just
 before you are generous,  
 when you are youi g and enjoy you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_karakul_ver02%2Fdata%2Fsn87065071%2F00199917596%2F1895060101%2F0750.jp2/pct:10.105519,75.892857,11.931818,9.451970/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_karakul_ver02%2Fdata%2Fsn87065071%2F00199917596%2F1895060101%2F0750.jp2/pct:10.105519,75.892857,11.931818,9.451970/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1737,7 +1737,7 @@ anyone. Be just before you are gener­
 ous. Save when you are young and en­  
 joy your savings when you 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_gardevoir_ver02%2Fdata%2Fsn87057928%2F00340584405%2F1895122601%2F0443.jp2/pct:65.646503,17.716451,13.782479,8.761707/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gardevoir_ver02%2Fdata%2Fsn87057928%2F00340584405%2F1895122601%2F0443.jp2/pct:65.646503,17.716451,13.782479,8.761707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

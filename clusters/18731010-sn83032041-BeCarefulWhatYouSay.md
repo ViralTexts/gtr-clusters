@@ -85,7 +85,7 @@ Our chickens, &quot;roost at home ;&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We have non of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477692%2F1873101001%2F0560.jp2/pct:79.461124,21.482936,12.486528,15.332679/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477692%2F1873101001%2F0560.jp2/pct:79.461124,21.482936,12.486528,15.332679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ Then let us all when wc cotnwencc
 To slander friend or foe.  
 Think of the ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_lincoln_ver01%2Fdata%2Fsn86092474%2F00279550262%2F1874022601%2F0105.jp2/pct:33.253826,13.655861,14.894322,10.306855/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_lincoln_ver01%2Fdata%2Fsn86092474%2F00279550262%2F1874022601%2F0105.jp2/pct:33.253826,13.655861,14.894322,10.306855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ Then let r.s nil, when wo commence
 To slander friend or foe,  
 lhiuk of the h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874032001%2F0808.jp2/pct:17.662461,18.692275,9.930175,16.712147/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874032001%2F0808.jp2/pct:17.662461,18.692275,9.930175,16.712147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ Then let us all. when we commence
 To slander friend or foe.  
 Think of the barm 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1874052201%2F0512.jp2/pct:29.219858,34.697242,10.050659,6.849520/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1874052201%2F0512.jp2/pct:29.219858,34.697242,10.050659,6.849520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ Then let ui all, when wo coiamenoo
 To slander friend or foe,  
 Think of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84023255%2F00280776968%2F1874091101%2F0317.jp2/pct:8.307480,62.361130,8.359186,7.535805/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84023255%2F00280776968%2F1874091101%2F0317.jp2/pct:8.307480,62.361130,8.359186,7.535805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ The faults of others go.
 Then let us all when we commence  
 i To slander friend or l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1874103101%2F0383.jp2/pct:39.941303,24.001986,16.091163,17.017544/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1874103101%2F0383.jp2/pct:39.941303,24.001986,16.091163,17.017544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ My own short oomlhgs bid me let
 The faults of others go.  
 Then let ns a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348458%2F1874110501%2F0579.jp2/pct:20.149653,17.245416,9.339925,11.799324/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348458%2F1874110501%2F0579.jp2/pct:20.149653,17.245416,9.339925,11.799324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ Then let us all when we commence
 To slander friend or foe.  
 Think of the harm o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn92073987%2F00296023152%2F1874110601%2F0174.jp2/pct:30.324601,10.718257,10.051253,12.397154/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn92073987%2F00296023152%2F1874110601%2F0174.jp2/pct:30.324601,10.718257,10.051253,12.397154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ The faults of others go.
 I hen let us nil, when wo commence  
 To slander friend or foe,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874110601%2F0936.jp2/pct:18.482560,20.715397,10.887371,10.402627/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874110601%2F0936.jp2/pct:18.482560,20.715397,10.887371,10.402627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ The faults of other# go.
 Then let ns all when we commence  
 To slander friend or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_neely_ver01%2Fdata%2Fsn84026801%2F00340582123%2F1874120301%2F0182.jp2/pct:50.028777,12.509245,9.342926,9.353759/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_neely_ver01%2Fdata%2Fsn84026801%2F00340582123%2F1874120301%2F0182.jp2/pct:50.028777,12.509245,9.342926,9.353759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ Our ehickens, &quot;roost at home.&#x27;
 Don&#x27;t speak of others faults until  
 We hare none of onr own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665817%2F1875011401%2F0010.jp2/pct:6.760983,8.679245,9.873418,13.475350/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665817%2F1875011401%2F0010.jp2/pct:6.760983,8.679245,9.873418,13.475350/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ Then let us all when we commence
 To slander friend or Joe,  
 Think of the harm one 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029014%2F1875012101%2F0370.jp2/pct:6.744687,26.760929,10.070835,9.274874/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029014%2F1875012101%2F0370.jp2/pct:6.744687,26.760929,10.070835,9.274874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ My own shortcomings bid me let
 The faults of others go.  
 Then let us al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027182%2F1875020401%2F0025.jp2/pct:39.202120,13.812933,9.333137,10.585612/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027182%2F1875020401%2F0025.jp2/pct:39.202120,13.812933,9.333137,10.585612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ Then let us all, when we commence
 To slander friend or foe,  
 Think of the harm one wo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1875020501%2F0502.jp2/pct:88.460964,7.825674,9.240185,11.008194/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1875020501%2F0502.jp2/pct:88.460964,7.825674,9.240185,11.008194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ My own shortcomings bid me let
 The faults of others go.  
 Then let us all 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1875020601%2F0309.jp2/pct:18.970942,16.737394,13.566537,14.615577/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1875020601%2F0309.jp2/pct:18.970942,16.737394,13.566537,14.615577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ The faults of others go.
   
 Then let us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210$1/pct:18.390192,15.969080,15.458422,19.023379/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210$1/pct:18.390192,15.969080,15.458422,19.023379/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +756,7 @@ Then let all, when we commence
 To slander friend oi foe,  
 Think of the harm o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875032401%2F0047.jp2/pct:15.774260,20.164319,10.695114,8.497653/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875032401%2F0047.jp2/pct:15.774260,20.164319,10.695114,8.497653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ Then let us all when we commence
 To slander friend or foe,  
 1 hink of the harm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470387%2F1875040801%2F0449.jp2/pct:50.763306,20.686264,11.016366,13.419298/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470387%2F1875040801%2F0449.jp2/pct:50.763306,20.686264,11.016366,13.419298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ Our chickens, &#x27;&#x27;roost at home.&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029014%2F1875052001%2F0434.jp2/pct:50.797509,16.478964,9.934680,9.411003/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029014%2F1875052001%2F0434.jp2/pct:50.797509,16.478964,9.934680,9.411003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ My own shortcomings bid me let
 The faults of others go.  
 h&#x27;hjen letjv^l?wlH&#x27;?we cni?frieuc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_heddalettuce_ver01%2Fdata%2Fsn86053227%2F00294558779%2F1875070301%2F0056.jp2/pct:1.307624,14.114804,14.915780,14.972810/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_heddalettuce_ver01%2Fdata%2Fsn86053227%2F00294558779%2F1875070301%2F0056.jp2/pct:1.307624,14.114804,14.915780,14.972810/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ Then let us all when we commence
 To slander friend or foe,  
 Think of the harm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1875121701%2F0966.jp2/pct:4.651163,10.168315,15.614618,14.645150/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1875121701%2F0966.jp2/pct:4.651163,10.168315,15.614618,14.645150/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ Then let us ail when we commence
 To slander friend or foe,  
 Think of the harm on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1876010601%2F0272.jp2/pct:79.434261,73.253297,13.021045,15.482517/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1876010601%2F0272.jp2/pct:79.434261,73.253297,13.021045,15.482517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ Then let us all, when we commence,
 To slander friend or fe,  
 Think of the harm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1876011701%2F0224.jp2/pct:33.388180,15.402323,13.794049,15.852255/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1876011701%2F0224.jp2/pct:33.388180,15.402323,13.794049,15.852255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ Then let us all, when we commence
 To slander friend or foe.  
 Think of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1876030201%2F0243.jp2/pct:16.294432,13.691572,9.959893,11.645810/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1876030201%2F0243.jp2/pct:16.294432,13.691572,9.959893,11.645810/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ Then let us all, when we begin,
 To slander friend or foe.  
 Think of the barm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1876030301%2F0890.jp2/pct:41.946375,32.055800,10.248262,10.102790/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1876030301%2F0890.jp2/pct:41.946375,32.055800,10.248262,10.102790/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1300,7 +1300,7 @@ The faults of others go.
 Thent let us all, when we commence,  
 To slander friend or foe,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237287058%2F1876092701%2F0154.jp2/pct:3.260291,22.089074,11.587918,14.230592/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237287058%2F1876092701%2F0154.jp2/pct:3.260291,22.089074,11.587918,14.230592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1345,7 +1345,7 @@ Oar chickens, &quot;roost at home.&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We have none of oar own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763827%2F1876101301%2F0184.jp2/pct:28.846707,16.865654,9.850446,15.625362/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763827%2F1876101301%2F0184.jp2/pct:28.846707,16.865654,9.850446,15.625362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1380,7 +1380,7 @@ I tjy my own defect* to cure,
 Ere 1 of others&#x27; toll.  
 And 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85026954%2F0041562010A%2F1876102601%2F0189.jp2/pct:4.319710,14.850612,12.079669,11.899334/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85026954%2F0041562010A%2F1876102601%2F0189.jp2/pct:4.319710,14.850612,12.079669,11.899334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1420,7 +1420,7 @@ OorchickenB, &quot;roost at home.&quot;
 Don&#x27;t speak of others&#x27; fanlte until  
 We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194035%2F1876110101%2F0056.jp2/pct:13.592593,4.846899,9.777778,13.201258/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194035%2F1876110101%2F0056.jp2/pct:13.592593,4.846899,9.777778,13.201258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1459,7 +1459,7 @@ The faults of others go.
 Then let us all, when we commence  
 To slander frie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876110901%2F0226.jp2/pct:2.060908,5.007289,12.032905,12.027001/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876110901%2F0226.jp2/pct:2.060908,5.007289,12.032905,12.027001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ Our chickens, &quot;roost at home.&quot;
 Don&#x27;t speak of others&#x27; faults until  
 Wo have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_evadeestruction_ver01%2Fdata%2Fsn84026965%2F00294550847%2F1876110902%2F0039.jp2/pct:2.401858,7.007196,11.902439,12.115142/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_evadeestruction_ver01%2Fdata%2Fsn84026965%2F00294550847%2F1876110902%2F0039.jp2/pct:2.401858,7.007196,11.902439,12.115142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1536,7 +1536,7 @@ Our chickens, “roost at home.”
 Don’t speak of other’s faults until  
 We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348720%2F1877011101%2F0231.jp2/pct:40.053333,31.734801,8.591111,10.944051/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348720%2F1877011101%2F0231.jp2/pct:40.053333,31.734801,8.591111,10.944051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1581,7 +1581,7 @@ Our chickens, “roost at home.&quot;
 Don’t speak of other’s faults until  
 We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F0039334846A%2F1877012501%2F0412.jp2/pct:29.362629,15.452011,8.139640,11.140980/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F0039334846A%2F1877012501%2F0412.jp2/pct:29.362629,15.452011,8.139640,11.140980/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1677,7 +1677,7 @@ Then let us all wheu we commence
 To slander friend or foe.  
 Think of the harm o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1877031501%2F0240.jp2/pct:40.958748,7.313976,8.342073,8.010708/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1877031501%2F0240.jp2/pct:40.958748,7.313976,8.342073,8.010708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ Then let ns all, when we commence
 To slander friend or foe,  
 Think of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_jefferson_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1877031801%2F0006.jp2/pct:43.670757,78.821479,10.674847,12.608902/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_jefferson_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1877031801%2F0006.jp2/pct:43.670757,78.821479,10.674847,12.608902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1755,7 +1755,7 @@ My own short comings bid mo lot
 The faults of others go.  
 Then let us all wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877032101%2F0119.jp2/pct:7.087429,8.554009,10.997586,8.629842/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877032101%2F0119.jp2/pct:7.087429,8.554009,10.997586,8.629842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1800,7 +1800,7 @@ Then let us all when we commence
 To slander friend or foe,  
 Tbink of the harm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn2001063144%2F00295876475%2F1877032801%2F0184.jp2/pct:86.857430,6.562314,9.568273,8.912001/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn2001063144%2F00295876475%2F1877032801%2F0184.jp2/pct:86.857430,6.562314,9.568273,8.912001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1839,7 +1839,7 @@ Don’t speak of other’s faults until
 W o have none of our own.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187158%2F1877040601%2F0417.jp2/pct:17.092902,8.407311,12.895790,16.546562/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187158%2F1877040601%2F0417.jp2/pct:17.092902,8.407311,12.895790,16.546562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1873,7 +1873,7 @@ Like our chickeru?, &quot;roost at home.&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774996%2F1877041301%2F0292.jp2/pct:34.465534,20.242960,8.933923,9.232468/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774996%2F1877041301%2F0292.jp2/pct:34.465534,20.242960,8.933923,9.232468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1969,7 +1969,7 @@ Then let us all when we commence
 To slander friend or foe,  
 Think of the h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_flopeye_ver01%2Fdata%2Fsn84026918%2F00295861411%2F1877052501%2F0091.jp2/pct:7.813898,6.604600,13.619644,13.932092/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_flopeye_ver01%2Fdata%2Fsn84026918%2F00295861411%2F1877052501%2F0091.jp2/pct:7.813898,6.604600,13.619644,13.932092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2063,7 +2063,7 @@ Be sure your own defects you cure
   
 Before of others’ tell.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8$4/pct:30.353535,64.489267,20.656566,14.452258/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8$4/pct:30.353535,64.489267,20.656566,14.452258/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2170,7 +2170,7 @@ Then let us all when wo commence.
 To slander friend or foe,  
 Thinlrof the har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285190%2F1878013101%2F0341.jp2/pct:39.884471,17.582201,10.330467,12.817484/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285190%2F1878013101%2F0341.jp2/pct:39.884471,17.582201,10.330467,12.817484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,7 +2211,7 @@ The faults of others go. &#x27;
 ]  
 Then let us,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_grandamericancoonhunt_ver01%2Fdata%2Fsn84026918%2F00295862087%2F1878051702%2F0224.jp2/pct:5.661215,37.950103,18.333967,14.956276/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_grandamericancoonhunt_ver01%2Fdata%2Fsn84026918%2F00295862087%2F1878051702%2F0224.jp2/pct:5.661215,37.950103,18.333967,14.956276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2262,7 +2262,7 @@ My own short-comings bid me let
 The faults of others go.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10$16/pct:47.559853,53.829916,32.550645,36.761158/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10$16/pct:47.559853,53.829916,32.550645,36.761158/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2301,7 +2301,7 @@ My own short-comings bid me let
 Tbe faults of others go.  
 I No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292182%2F1878112901%2F1162.jp2/pct:0.937786,54.275318,18.206770,16.176471/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292182%2F1878112901%2F1162.jp2/pct:0.937786,54.275318,18.206770,16.176471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2331,7 +2331,7 @@ Then let us all, when we commence
 Tq slandpr friend or foe,  
 Think of the harm 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237287071%2F1879020501%2F0230.jp2/pct:38.549895,25.589761,11.276474,10.214154/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237287071%2F1879020501%2F0230.jp2/pct:38.549895,25.589761,11.276474,10.214154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2372,7 +2372,7 @@ Then let us all, when we commence
 To slander friend or foe,  
 Think of the harm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879032001%2F0229.jp2/pct:4.219135,12.224237,12.705007,11.175582/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879032001%2F0229.jp2/pct:4.219135,12.224237,12.705007,11.175582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2409,7 +2409,7 @@ No worse than some I know.
 My own short comings bid me let  
 The fsults of others go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027670%2F00237283387%2F1879061201%2F0373.jp2/pct:7.709539,12.966252,10.546948,10.110671/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027670%2F00237283387%2F1879061201%2F0373.jp2/pct:7.709539,12.966252,10.546948,10.110671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2439,7 +2439,7 @@ Th&#x27;.h let us all, when we commence
 To slander friend or foe.  
 Think oi the harm 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763190%2F1879062501%2F0099.jp2/pct:49.870514,22.630429,10.895302,9.519257/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763190%2F1879062501%2F0099.jp2/pct:49.870514,22.630429,10.895302,9.519257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2480,7 +2480,7 @@ Then let us all when we commence
 To slander friend or foe;  
 Think of the harm on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879072401%2F0304.jp2/pct:2.871231,6.509924,11.611467,10.818845/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879072401%2F0304.jp2/pct:2.871231,6.509924,11.611467,10.818845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2518,7 +2518,7 @@ My own shortcomings bid me let
 The faults of others go.  
 Now let us 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_jay_ver01%2Fdata%2Fsn83025309%2F00294551864%2F1879082101%2F1506.jp2/pct:9.493945,7.671801,16.414360,18.601896/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_jay_ver01%2Fdata%2Fsn83025309%2F00294551864%2F1879082101%2F1506.jp2/pct:9.493945,7.671801,16.414360,18.601896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2552,7 +2552,7 @@ Our chickens, &quot;roost at home,&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_hayes_ver01%2Fdata%2Fsn82015387%2F00200299097%2F1880020701%2F0267.jp2/pct:7.789179,27.783203,16.977612,17.659505/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_hayes_ver01%2Fdata%2Fsn82015387%2F00200299097%2F1880020701%2F0267.jp2/pct:7.789179,27.783203,16.977612,17.659505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2592,7 +2592,7 @@ Then let us all, when we commence U
 To slander friend or foe,  
 Think of the har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028885%2F1880021901%2F0180.jp2/pct:50.525295,6.320483,9.633102,15.342250/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028885%2F1880021901%2F0180.jp2/pct:50.525295,6.320483,9.633102,15.342250/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2632,7 +2632,7 @@ Then let as all. when we commence
 To slander friend ot foe,  
 Think of the harm o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1880031101%2F0040.jp2/pct:33.445237,55.658225,9.847531,10.255533/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1880031101%2F0040.jp2/pct:33.445237,55.658225,9.847531,10.255533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2691,7 +2691,7 @@ Then let ns all, when we commence
 To slander friend or foe,  
 Think of Hie ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623471%2F1880090901%2F0034.jp2/pct:18.233846,31.744760,13.708658,9.037512/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623471%2F1880090901%2F0034.jp2/pct:18.233846,31.744760,13.708658,9.037512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2722,7 +2722,7 @@ rhon let ns ft!!, when we cofEmoi.co
 To slander friend or foe,  
 ilinik of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F0041418716A%2F1880092401%2F0342.jp2/pct:55.325831,80.244958,12.815144,12.874388/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F0041418716A%2F1880092401%2F0342.jp2/pct:55.325831,80.244958,12.815144,12.874388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2752,7 +2752,7 @@ Then let us, sir, when wc commence
 To slander friend or foe,  
 Think of ti c harm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_laplata_ver01%2Fdata%2Fsn85025350%2F0041562637A%2F1880111301%2F0199.jp2/pct:18.658195,22.582735,12.454738,10.785486/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_laplata_ver01%2Fdata%2Fsn85025350%2F0041562637A%2F1880111301%2F0199.jp2/pct:18.658195,22.582735,12.454738,10.785486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2806,7 +2806,7 @@ ThlIeI let us all, whei we comin ce
 To slander friend or foe,  
 Thiik of the ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_ettabaker_ver02%2Fdata%2Fsn93067656%2F00237288208%2F1884021501%2F0110.jp2/pct:7.677577,18.879325,22.812210,20.544253/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_ettabaker_ver02%2Fdata%2Fsn93067656%2F00237288208%2F1884021501%2F0110.jp2/pct:7.677577,18.879325,22.812210,20.544253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2836,7 +2836,7 @@ Then lot us all, when wo commence
 To slander friend or foe.  
 Think of the harm 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625534%2F1884022201%2F0033.jp2/pct:17.610980,9.781517,9.058546,6.267096/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625534%2F1884022201%2F0033.jp2/pct:17.610980,9.781517,9.058546,6.267096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2874,7 +2874,7 @@ Our chick .-ns &#x27;roost at home,&#x27;
 Don&#x27;t speak of others faults until  
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_indigobunting_ver02%2Fdata%2Fsn85053040%2F00295860455%2F1884040501%2F0023.jp2/pct:10.466989,13.025088,12.640902,14.848308/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_indigobunting_ver02%2Fdata%2Fsn85053040%2F00295860455%2F1884040501%2F0023.jp2/pct:10.466989,13.025088,12.640902,14.848308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2909,7 +2909,7 @@ Then let us all, when we commenoe
 To slander friend or foe.  
 Think of the haim 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_avenger_ver01%2Fdata%2Fsn91099608%2F00415665404%2F1884041901%2F0164.jp2/pct:33.851259,17.450068,10.944907,7.058635/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_avenger_ver01%2Fdata%2Fsn91099608%2F00415665404%2F1884041901%2F0164.jp2/pct:33.851259,17.450068,10.944907,7.058635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2953,7 +2953,7 @@ Then lef us all, when we commehce
 To slander friend or foe,  
 Think of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ndhi_bowbells_ver01%2Fdata%2Fsn84024779%2F00295863699%2F1884050201%2F0030.jp2/pct:18.403917,15.460998,10.637388,10.739891/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_bowbells_ver01%2Fdata%2Fsn84024779%2F00295863699%2F1884050201%2F0030.jp2/pct:18.403917,15.460998,10.637388,10.739891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2993,7 +2993,7 @@ Then let us all when w e commence
 To slander friend or fee.  
 Think of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_lucretia_ver01%2Fdata%2Fsn86086852%2F00271768916%2F1885021301%2F0522.jp2/pct:16.817216,61.722071,8.076514,11.756585/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_lucretia_ver01%2Fdata%2Fsn86086852%2F00271768916%2F1885021301%2F0522.jp2/pct:16.817216,61.722071,8.076514,11.756585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3033,7 +3033,7 @@ Then let as all when we commence
 To slander friend or foe,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023024%2F1886012901%2F0433.jp2/pct:29.431117,15.536784,12.583962,14.798973/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023024%2F1886012901%2F0433.jp2/pct:29.431117,15.536784,12.583962,14.798973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3100,7 +3100,7 @@ all, when we commence
 To slander friend or foe,  
 Think of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn88053022%2F00271765216%2F1886051501%2F0072.jp2/pct:16.607774,54.628988,12.058304,16.296810/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn88053022%2F00271765216%2F1886051501%2F0072.jp2/pct:16.607774,54.628988,12.058304,16.296810/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3144,7 +3144,7 @@ The faults of others go.
   
 Now l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-02-14_18_7$5/pct:11.828271,10.372575,9.959112,12.081129/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-02-14_18_7$5/pct:11.828271,10.372575,9.959112,12.081129/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3184,7 +3184,7 @@ Then let u* nil, when we commence
 To slander friend or f»e,  
 Think of the ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/cohi_caddoa_ver02%2Fdata%2Fsn86063206%2F00383341012%2F1888011001%2F0641.jp2/pct:32.107125,5.938198,11.414104,16.027550/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_caddoa_ver02%2Fdata%2Fsn86063206%2F00383341012%2F1888011001%2F0641.jp2/pct:32.107125,5.938198,11.414104,16.027550/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3232,7 +3232,7 @@ Then let us all, when we commence
 To slander friend or foe,  
 Think of the harm o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_elk_ver01%2Fdata%2Fsn91068084%2F00296023206%2F1889041901%2F0112.jp2/pct:23.447256,33.304404,17.285573,16.239965/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_elk_ver01%2Fdata%2Fsn91068084%2F00296023206%2F1889041901%2F0112.jp2/pct:23.447256,33.304404,17.285573,16.239965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3285,7 +3285,7 @@ Our chickens, &quot;roost at home.”
 Don’t speak of other*’ faults until  
 We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F0019991974A%2F1889092601%2F0451.jp2/pct:7.990555,19.128466,17.413163,22.827597/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F0019991974A%2F1889092601%2F0451.jp2/pct:7.990555,19.128466,17.413163,22.827597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3314,7 +3314,7 @@ Then let us all, when we commence
 standcr fiiend or foe,  
 Think of the harm one 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_halfwayrock_ver01%2Fdata%2Fsn83016025%2F00414210910%2F1889101701%2F0405.jp2/pct:4.036136,27.820176,8.411045,5.643334/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_halfwayrock_ver01%2Fdata%2Fsn83016025%2F00414210910%2F1889101701%2F0405.jp2/pct:4.036136,27.820176,8.411045,5.643334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3360,7 +3360,7 @@ JDoat spoak of others&#x27; faults uutil
   
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_betelgeuse_ver01%2Fdata%2Fsn90059959%2F00271742812%2F1889110201%2F0119.jp2/pct:8.488166,11.358274,12.386576,14.368049/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_betelgeuse_ver01%2Fdata%2Fsn90059959%2F00271742812%2F1889110201%2F0119.jp2/pct:8.488166,11.358274,12.386576,14.368049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3395,7 +3395,7 @@ Our chickens, “roost at home;’’
 Don’t speak of others&#x27; faults until  
 We have none of our own. Si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529042%2F1890022001%2F0037.jp2/pct:68.666601,53.567565,7.660435,6.312885/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529042%2F1890022001%2F0037.jp2/pct:68.666601,53.567565,7.660435,6.312885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3582,7 +3582,7 @@ My own shortcomings bid me h I
 The faults of othe is go.  
 Then let us nil, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623446%2F1890112001%2F0371.jp2/pct:45.066847,32.306527,11.536075,11.968186/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623446%2F1890112001%2F0371.jp2/pct:45.066847,32.306527,11.536075,11.968186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3667,7 +3667,7 @@ Ouf chickens, &#x27;&#x27;roost at borne;&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We bave none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287290%2F1890122401%2F0032.jp2/pct:81.692913,8.138082,14.262706,9.442362/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287290%2F1890122401%2F0032.jp2/pct:81.692913,8.138082,14.262706,9.442362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3710,7 +3710,7 @@ Then let us all when we commence
 To slander friend or foe.  
 Think of the harm 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1891010101%2F0003.jp2/pct:22.517436,24.813559,12.288276,17.487006/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1891010101%2F0003.jp2/pct:22.517436,24.813559,12.288276,17.487006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3743,7 +3743,7 @@ Our chickens, &quot;roost at home
 Don&#x27;t speak of others&#x27; faults until  
 We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1891020401%2F0032.jp2/pct:37.676609,8.670888,10.598559,7.806401/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1891020401%2F0032.jp2/pct:37.676609,8.670888,10.598559,7.806401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3774,7 +3774,7 @@ Our chickens, &quot; roost at home.&quot;
 Don&#x27;t speak of other&#x27;s iaults until  
 We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628493%2F1891051401%2F0085.jp2/pct:67.252329,30.659692,13.145639,7.788434/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628493%2F1891051401%2F0085.jp2/pct:67.252329,30.659692,13.145639,7.788434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3817,7 +3817,7 @@ Then let us all when we commence
 To slander friend or foe.  
 Think of the harm on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1891052101%2F0083.jp2/pct:23.535924,25.324294,12.238459,13.496045/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1891052101%2F0083.jp2/pct:23.535924,25.324294,12.238459,13.496045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3876,7 +3876,7 @@ Then let us all when we commence
 To slander friend or foe.  
 Think of the harm on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1892021001%2F0245.jp2/pct:66.674766,14.340519,9.889442,6.424461/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1892021001%2F0245.jp2/pct:66.674766,14.340519,9.889442,6.424461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3916,7 +3916,7 @@ Then let us all, when we commence
 To slander friend or foe.  
 Think of tho harm o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892090501%2F0770.jp2/pct:43.976160,61.670650,10.727969,12.689200/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892090501%2F0770.jp2/pct:43.976160,61.670650,10.727969,12.689200/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3971,7 +3971,7 @@ Then let us all, when wo commence
 To slander friend or foe.  
 Think of tho harm o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn86071868%2F00175031698%2F1892100201%2F1223.jp2/pct:35.174591,66.262904,14.217137,9.125946/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn86071868%2F00175031698%2F1892100201%2F1223.jp2/pct:35.174591,66.262904,14.217137,9.125946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4009,7 +4009,7 @@ My own shortcomings bid nie let
 The faults of others go.  
 Then let us all, whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196421%2F1893013001%2F0462.jp2/pct:8.758010,7.168142,13.075984,13.528761/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196421%2F1893013001%2F0462.jp2/pct:8.758010,7.168142,13.075984,13.528761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4292,7 +4292,7 @@ My own short-comings bid me let
 The faults of others go.  
 Then let us all when 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861952%2F1894022801%2F0227.jp2/pct:75.869000,53.913093,9.903839,8.981748/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861952%2F1894022801%2F0227.jp2/pct:75.869000,53.913093,9.903839,8.981748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4333,7 +4333,7 @@ Then let us all, when we commence
 To slander friend or foe,  
 Think of the harm one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_excalibur_ver01%2Fdata%2Fsn86069313%2F00206533808%2F1894031601%2F0489.jp2/pct:42.006156,16.272762,11.370632,15.045848/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_excalibur_ver01%2Fdata%2Fsn86069313%2F00206533808%2F1894031601%2F0489.jp2/pct:42.006156,16.272762,11.370632,15.045848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4373,7 +4373,7 @@ Then let us all, when we commence
 To slander friend or foe,  
 Think of the harm o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F00415628961%2F1895010801%2F0023.jp2/pct:69.789323,56.408420,10.861117,11.757124/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F00415628961%2F1895010801%2F0023.jp2/pct:69.789323,56.408420,10.861117,11.757124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4553,7 +4553,7 @@ And lind it works full well :
 To find your own defects to cure  
 Kre others&#x27; faitlts you tell.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn84037217%2F00271764856%2F1897061701%2F0525.jp2/pct:13.040376,14.052486,11.516830,10.176752/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn84037217%2F00271764856%2F1897061701%2F0525.jp2/pct:13.040376,14.052486,11.516830,10.176752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4595,7 +4595,7 @@ To speak ill of friend or foe,
 Think of the harm one word may do  
 To those
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/okhi_beaver_ver01%2Fdata%2F45043535%2F00237280350%2F1899040101%2F0749.jp2/pct:14.280763,65.333983,72.963605,26.084837/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_beaver_ver01%2Fdata%2F45043535%2F00237280350%2F1899040101%2F0749.jp2/pct:14.280763,65.333983,72.963605,26.084837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

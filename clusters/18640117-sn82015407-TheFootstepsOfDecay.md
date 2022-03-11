@@ -125,7 +125,7 @@ And where are they ?
   
 Where are 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78$151/pct:14.072495,13.589077,35.714286,40.539662/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78$151/pct:14.072495,13.589077,35.714286,40.539662/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ And where are they?
   
 Where ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_museum-of-foreign-literature-science-and-art_1824_4_23$16/pct:14.265799,40.743848,67.425651,43.791946/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_museum-of-foreign-literature-science-and-art_1824_4_23$16/pct:14.265799,40.743848,67.425651,43.791946/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ the production of another age. It is surpassed by nothing, with
 which we are acquainted, in the Spanish language, except the  
 odes of Luis de Leon. The flow of the verse, and the fine an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1$405/pct:17.485380,58.617747,69.239766,4.266212/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1$405/pct:17.485380,58.617747,69.239766,4.266212/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ Age came, and laid his fingers there,
 And where are they?  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1$405/pct:32.456140,68.208191,41.023392,18.634812/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1$405/pct:32.456140,68.208191,41.023392,18.634812/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ The cheek&#x27;s pure glow of red and white
 Hath passed away:  
 Youth smiled, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41$3/pct:9.821429,8.566233,17.410714,32.886677/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41$3/pct:9.821429,8.566233,17.410714,32.886677/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ Life, with its glories, glides asray.
 And the stem footstep of decay  
 Comet stealing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347$3/pct:3.752790,7.982526,17.745536,6.940032/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347$3/pct:3.752790,7.982526,17.745536,6.940032/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ To that sad wave ;
   
 Death levels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347$3/pct:5.147879,21.455520,13.867188,9.779587/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347$3/pct:5.147879,21.455520,13.867188,9.779587/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ And where are they ?
   
 Where are th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_ladies-garland_1824-06-12_1_18$3/pct:38.992537,15.411932,24.782338,59.422348/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-garland_1824-06-12_1_18$3/pct:38.992537,15.411932,24.782338,59.422348/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ And the stem footsteps of decay
 Come* stealing on.  
 Mow ple
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn83045110%2F00414184534%2F1825011401%2F0018.jp2/pct:1.044680,5.705951,15.434480,6.479969/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn83045110%2F00414184534%2F1825011401%2F0018.jp2/pct:1.044680,5.705951,15.434480,6.479969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ The cheek’s pure glow of red and white .
 Hath passed away.  
 Youthsinil ti and a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn83045110%2F00414184534%2F1825011401%2F0018.jp2/pct:1.125040,22.030338,14.180864,15.744846/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn83045110%2F00414184534%2F1825011401%2F0018.jp2/pct:1.125040,22.030338,14.180864,15.744846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ The strength is gone, the step is low,
 And joy grows weariness and woe  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_hops_ver01%2Fdata%2Fsn85025006%2F00414216341%2F1825020501%2F0068.jp2/pct:5.825875,30.511464,15.172227,46.674750/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_hops_ver01%2Fdata%2Fsn85025006%2F00414216341%2F1825020501%2F0068.jp2/pct:5.825875,30.511464,15.172227,46.674750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ Life, &quot; ith its glorious, glides away.
 And the stern footsteps of decay  
 Conies stealing on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038455%2F00393348914%2F1825022401%2F0461.jp2/pct:7.647566,7.610350,17.002370,6.202435/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038455%2F00393348914%2F1825022401%2F0461.jp2/pct:7.647566,7.610350,17.002370,6.202435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ And the stern footsteps of decav
 Comes stealing on :  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1$38/pct:17.048817,76.808460,63.794379,13.025715/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1$38/pct:17.048817,76.808460,63.794379,13.025715/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ Youth smiled, and all was heavenly fair :
 Age came, and laid his finger there,  
 And where
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1$39/pct:33.764793,24.897861,36.316568,56.356645/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1$39/pct:33.764793,24.897861,36.316568,56.356645/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ The cheek’s pure glow of red and white,
 Hath pass’d away :  
 Youth smiled, and all was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1825-03-26_1_43$3/pct:73.968934,22.273642,19.041243,41.227364/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-telescope_1825-03-26_1_43$3/pct:73.968934,22.273642,19.041243,41.227364/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ cept the ode of Luis de Lean. 1
   
 ‘ Long e’er the damps of death can blight,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43$3/pct:7.607560,9.997446,16.421313,34.601634/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43$3/pct:7.607560,9.997446,16.421313,34.601634/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ And swallow all.
 Alike the river’s loraly tide,  
 Alike the humble riv’lets glide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43$3/pct:8.956216,23.078396,16.421313,9.939990/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43$3/pct:8.956216,23.078396,16.421313,9.939990/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ And joy grows weariness and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43$3/pct:9.174660,35.220889,14.588280,15.679265/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43$3/pct:9.174660,35.220889,14.588280,15.679265/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1126,7 +1126,7 @@ And joy grows weariness and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19$0/pct:51.048753,17.877435,39.937642,75.030438/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19$0/pct:51.048753,17.877435,39.937642,75.030438/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ And where are they ?—
   
 Where ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_cincinnati-literary-gazette_1825-06-18_3_25$7/pct:7.265494,13.279743,54.250419,77.106109/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-literary-gazette_1825-06-18_3_25$7/pct:7.265494,13.279743,54.250419,77.106109/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11$1/pct:65.484880,26.079734,25.130344,56.270764/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11$1/pct:65.484880,26.079734,25.130344,56.270764/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1363,7 +1363,7 @@ Life, with its glories, glides away,
 And the stern footsteps of decay  
 Come stealing on:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35$3/pct:6.300230,6.906780,14.939724,7.298729/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35$3/pct:6.300230,6.906780,14.939724,7.298729/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,7 +1434,7 @@ Age came, and laitl his finger there.
 And w here arc they  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35$3/pct:7.792767,22.245763,13.877727,22.775424/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35$3/pct:7.792767,22.245763,13.877727,22.775424/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1450,7 +1450,7 @@ The following is a translation from an ancient
 Spanish Poem, which. says the E linburg Review  
 fs surpassed by nothing which we are acquainted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199$3/pct:9.921004,12.682704,19.888476,1.811815/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199$3/pct:9.921004,12.682704,19.888476,1.811815/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo,  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199$3/pct:1.347584,16.062728,27.555762,80.709501/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199$3/pct:1.347584,16.062728,27.555762,80.709501/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_columbian-star_1825-12-10_4_50$3/pct:5.412874,8.993533,16.970091,41.946241/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_columbian-star_1825-12-10_4_50$3/pct:5.412874,8.993533,16.970091,41.946241/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1695,7 +1695,7 @@ No hap} ier, let us hope to tind
 ‘To-morrow than to-day ;  
 ims of yore were bright
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4$3/pct:9.839782,35.512484,14.389359,10.698642/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4$3/pct:9.839782,35.512484,14.389359,10.698642/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1731,7 +1731,7 @@ And joy grows weariness and wo
   
 When age comes o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4$3/pct:9.915357,62.144109,79.096131,10.435830/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4$3/pct:9.915357,62.144109,79.096131,10.435830/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1856,7 +1856,7 @@ And where are they?
   
 Where are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_theological-repertory-and-churchmans-guide_1826-09_8_2$17/pct:13.200852,35.174287,71.823989,55.839746/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_theological-repertory-and-churchmans-guide_1826-09_8_2$17/pct:13.200852,35.174287,71.823989,55.839746/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1962,7 +1962,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9$6/pct:6.730769,28.733602,79.869727,61.680121/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9$6/pct:6.730769,28.733602,79.869727,61.680121/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2027,7 +2027,7 @@ Aie doomed to fall—
 ^ he sea of death, whose wave roll on,  
 m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_kedavra_ver01%2Fdata%2Fsn85042523%2F00271740244%2F1826110901%2F0672.jp2/pct:3.421634,82.742402,17.908389,16.172214/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_kedavra_ver01%2Fdata%2Fsn85042523%2F00271740244%2F1826110901%2F0672.jp2/pct:3.421634,82.742402,17.908389,16.172214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2057,7 +2057,7 @@ The strength is gone, the step is low,
 And joy grows weariness and wo  
 When age cornea on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_kedavra_ver01%2Fdata%2Fsn85042523%2F00271740244%2F1826110901%2F0672.jp2/pct:21.523179,21.960926,15.783664,10.672938/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_kedavra_ver01%2Fdata%2Fsn85042523%2F00271740244%2F1826110901%2F0672.jp2/pct:21.523179,21.960926,15.783664,10.672938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ The strength is gone, the step is low,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn82014309%2F00414182926%2F1826111401%2F0083.jp2/pct:22.294629,41.113402,17.204779,36.250859/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn82014309%2F00414182926%2F1826111401%2F0083.jp2/pct:22.294629,41.113402,17.204779,36.250859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2214,7 +2214,7 @@ To that sad wave ;
   
 Death 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12$30/pct:5.052790,60.679825,84.653092,26.293860/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12$30/pct:5.052790,60.679825,84.653092,26.293860/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2249,7 +2249,7 @@ And joy grows weariness and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12$31/pct:9.216418,36.425439,34.104478,18.947368/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12$31/pct:9.216418,36.425439,34.104478,18.947368/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2324,7 +2324,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and woe  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_hops_ver01%2Fdata%2Fsn85025006%2F00414216365%2F1826121201%2F0404.jp2/pct:4.241071,24.927152,18.636204,36.409124/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_hops_ver01%2Fdata%2Fsn85025006%2F00414216365%2F1826121201%2F0404.jp2/pct:4.241071,24.927152,18.636204,36.409124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2446,7 +2446,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1827-06-16_4_3$2/pct:68.211034,43.742802,20.674879,51.497121/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-telescope_1827-06-16_4_3$2/pct:68.211034,43.742802,20.674879,51.497121/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2531,7 +2531,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30$7/pct:57.845528,14.833060,35.284553,67.788725/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30$7/pct:57.845528,14.833060,35.284553,67.788725/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2629,7 +2629,7 @@ The strength is gone,—the step is slow,
 And joy grows weariness and woe,  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11$4/pct:67.757009,10.726073,23.624091,51.093234/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11$4/pct:67.757009,10.726073,23.624091,51.093234/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2699,7 +2699,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo, }  
 When age comes on. Flowarp. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37$7/pct:39.819277,12.466186,25.572289,55.725879/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37$7/pct:39.819277,12.466186,25.572289,55.725879/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2750,7 +2750,7 @@ Liko theai ilia present shall delight—
 Liko them doray.  
 Our live* li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn84024735%2F00414184042%2F1830101901%2F0184.jp2/pct:3.656227,10.634687,14.979364,8.466267/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn84024735%2F00414184042%2F1830101901%2F0184.jp2/pct:3.656227,10.634687,14.979364,8.466267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2790,7 +2790,7 @@ The strength is gone, the step is slow,
 Amt joy grows wearisome and wo  
 Whsu ago cornea on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn84024735%2F00414184042%2F1830101901%2F0184.jp2/pct:3.495994,20.601878,12.794368,11.453030/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn84024735%2F00414184042%2F1830101901%2F0184.jp2/pct:3.495994,20.601878,12.794368,11.453030/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2853,7 +2853,7 @@ kouth smiled and all was heavenly fair;
 Age came and laid ins linger there.  
 And 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn85059526%2F00393348938%2F1830102101%2F0388.jp2/pct:0.744471,13.726322,19.821546,31.018519/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn85059526%2F00393348938%2F1830102101%2F0388.jp2/pct:0.744471,13.726322,19.821546,31.018519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2942,7 +2942,7 @@ Aud joy grows wearisome and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1830-10-23_4_43$0/pct:7.864336,22.000916,20.245853,43.750000/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1830-10-23_4_43$0/pct:7.864336,22.000916,20.245853,43.750000/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3056,7 +3056,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1830-12-04_15_27$15/pct:7.168459,15.913978,38.844086,62.177419/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1830-12-04_15_27$15/pct:7.168459,15.913978,38.844086,62.177419/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3193,7 +3193,7 @@ And joy grows wearisome and wo
   
 Wlien age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38$3/pct:15.871254,32.349831,14.428413,29.631980/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38$3/pct:15.871254,32.349831,14.428413,29.631980/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3277,7 +3277,7 @@ And joy grows wearisome and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26$3/pct:10.541142,12.176560,15.737583,31.535388/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26$3/pct:10.541142,12.176560,15.737583,31.535388/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3327,7 +3327,7 @@ Let no vain hope deceive the mind—
 To-morrow than to-d ly,  
 Oiir lives like hasting streams must be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34$2/pct:35.325477,57.419495,19.809203,17.972150/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34$2/pct:35.325477,57.419495,19.809203,17.972150/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3390,7 +3390,7 @@ I And joy grows wearisome and wo
   
 I When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34$2/pct:35.662177,11.118364,46.745230,83.268059/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34$2/pct:35.662177,11.118364,46.745230,83.268059/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3405,7 +3405,7 @@ I When age comes on.
 &quot;The following is a transition from an ancient Spanish Poem, :  
 which, says the Euinburgh Review, is surpassed by nothing | talent to be able clearly to prove and explain | change,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51$3/pct:13.167614,8.010993,37.045455,1.231678/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51$3/pct:13.167614,8.010993,37.045455,1.231678/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3483,7 +3483,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and wo  
 =&quot; When age comes o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51$3/pct:13.167614,9.649837,14.531250,28.135179/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51$3/pct:13.167614,9.649837,14.531250,28.135179/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3596,7 +3596,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and wo  
 When age come on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152743%2F1831080401%2F0293.jp2/pct:5.243382,11.031928,14.847709,40.649032/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152743%2F1831080401%2F0293.jp2/pct:5.243382,11.031928,14.847709,40.649032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3655,7 +3655,7 @@ The strength is gone, the step is slow,
 And joys grow wearisome aul wo,  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36$3/pct:11.192028,20.540881,15.197394,19.446541/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36$3/pct:11.192028,20.540881,15.197394,19.446541/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3741,7 +3741,7 @@ We disappear!
   
 Long ere the lamp of death can blight,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14$3/pct:11.876988,41.793818,13.600212,31.445618/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14$3/pct:11.876988,41.793818,13.600212,31.445618/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3769,7 +3769,7 @@ And joy grows wearisome and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14$3/pct:11.598621,73.278560,13.865323,7.609546/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14$3/pct:11.598621,73.278560,13.865323,7.609546/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3886,7 +3886,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19$7/pct:12.195767,12.500000,26.825397,67.966028/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19$7/pct:12.195767,12.500000,26.825397,67.966028/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3930,7 +3930,7 @@ Alike the humble riv’lets glide
 To that sad wave ;  
 Death level
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_chambers-journal_1836-02-06_5_210$7/pct:43.173077,51.808511,22.500000,19.744681/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal_1836-02-06_5_210$7/pct:43.173077,51.808511,22.500000,19.744681/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4014,7 +4014,7 @@ And where are they ?
   
 Wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42$7/pct:42.700535,25.063721,19.893048,43.627867/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42$7/pct:42.700535,25.063721,19.893048,43.627867/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4036,7 +4036,7 @@ Leon.
   
 ness and dignity, and the conclusions arrived
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42$7/pct:40.401070,10.705183,50.347594,4.141886/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42$7/pct:40.401070,10.705183,50.347594,4.141886/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4132,7 +4132,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34$3/pct:8.560209,42.233103,12.290576,32.987711/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34$3/pct:8.560209,42.233103,12.290576,32.987711/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4220,7 +4220,7 @@ The strength is gore, the step is slow,
 And ae grows weariness and wo,  
 hen age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47$7/pct:39.294971,9.098428,26.101607,57.692308/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47$7/pct:39.294971,9.098428,26.101607,57.692308/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4417,7 +4417,7 @@ Dreams of the sleep that death mus; break
 Alas! before it bids us wake,  
 We disappear.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39$1/pct:86.703125,13.989694,9.078125,19.921061/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39$1/pct:86.703125,13.989694,9.078125,19.921061/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4451,7 +4451,7 @@ Alivady past,
   
 Let no vain hope deceive the mind-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152767%2F1844081501%2F0766.jp2/pct:5.185613,14.247420,12.923107,9.606621/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152767%2F1844081501%2F0766.jp2/pct:5.185613,14.247420,12.923107,9.606621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4483,7 +4483,7 @@ The strength is gone, the step s slow,
 And jov grows wearisome and wo,  
 Wihen age chines on,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152767%2F1844081501%2F0766.jp2/pct:6.302663,36.218335,11.440127,8.326632/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152767%2F1844081501%2F0766.jp2/pct:6.302663,36.218335,11.440127,8.326632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4524,7 +4524,7 @@ Life is the running ol the race,
 And death the goal ;  
 There all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024719%2F00414183712%2F1847081801%2F0317.jp2/pct:35.266550,24.782854,11.076938,13.562700/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024719%2F00414183712%2F1847081801%2F0317.jp2/pct:35.266550,24.782854,11.076938,13.562700/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4625,7 +4625,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and wo,  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1$11/pct:36.239368,12.464046,28.219927,72.291467/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1$11/pct:36.239368,12.464046,28.219927,72.291467/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4654,7 +4654,7 @@ To that sad wave;
   
 Teath levels 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_strykers-american-register-and-magazine_1849-06_2_2$173/pct:43.697479,53.389399,39.159664,19.240571/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_strykers-american-register-and-magazine_1849-06_2_2$173/pct:43.697479,53.389399,39.159664,19.240571/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4711,7 +4711,7 @@ The strength is gone, the step is slow,
 And yyy grows weariness aud wo,  
 When age comes ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ingstad_ver01%2Fdata%2Fsn90068957%2F00296027005%2F1849090101%2F0108.jp2/pct:21.495825,18.375073,11.405223,21.461852/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ingstad_ver01%2Fdata%2Fsn90068957%2F00296027005%2F1849090101%2F0108.jp2/pct:21.495825,18.375073,11.405223,21.461852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4762,7 +4762,7 @@ And rich and poor sleep side by side
 Within the  
 grave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00383342910%2F1856060401%2F0486.jp2/pct:2.458588,50.769616,13.687881,17.131773/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00383342910%2F1856060401%2F0486.jp2/pct:2.458588,50.769616,13.687881,17.131773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4816,7 +4816,7 @@ And death, the goal.
 There all our steps at last are brought,  
 That path alone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065090%2F00212470478%2F1856070501%2F0088.jp2/pct:63.392679,32.960969,10.882176,22.691790/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065090%2F00212470478%2F1856070501%2F0088.jp2/pct:63.392679,32.960969,10.882176,22.691790/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4863,7 +4863,7 @@ Life is Ihe running of the raco,
 And death the goal.  
 Thero all o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065090%2F00212470478%2F1856072601%2F0103.jp2/pct:26.388614,9.512261,10.832180,18.997575/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065090%2F00212470478%2F1856072601%2F0103.jp2/pct:26.388614,9.512261,10.832180,18.997575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4939,7 +4939,7 @@ The sea of DEATH, whose waves roll on
 O’er king and kingdom, crown and throne,  
 And swallow all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1857-12-10_6_311$14/pct:49.916528,67.921527,27.045075,5.593849/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1857-12-10_6_311$14/pct:49.916528,67.921527,27.045075,5.593849/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4997,7 +4997,7 @@ The strength is gone, the step is slow
 Au l joy grows wearisome aad woe,  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340597%2F1860033101%2F0262.jp2/pct:20.406091,27.178808,10.748731,25.394040/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340597%2F1860033101%2F0262.jp2/pct:20.406091,27.178808,10.748731,25.394040/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5030,7 +5030,7 @@ The Sea of Death, whose waves roll on
 O&#x27;ur king a&#x27;r.d kingdom, crown and&#x27; throne  
 And swallow all. &#x27; : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775897%2F1863102101%2F0348.jp2/pct:43.945794,55.527803,10.260472,6.954121/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775897%2F1863102101%2F0348.jp2/pct:43.945794,55.527803,10.260472,6.954121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5059,7 +5059,7 @@ Age came and laid his fingers there,
 - Aud where are they ?  
 Wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775897%2F1863102101%2F0348.jp2/pct:43.629004,67.779677,10.841253,8.715657/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775897%2F1863102101%2F0348.jp2/pct:43.629004,67.779677,10.841253,8.715657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5152,7 +5152,7 @@ And joy grows wearisome, and wo!
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16$3/pct:40.232701,30.103806,24.556032,60.776075/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16$3/pct:40.232701,30.103806,24.556032,60.776075/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5221,7 +5221,7 @@ Are all those glittering toys of earth
 That lure us hero?  
 DrcaniB of a sleep that death must b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1864051301%2F0034.jp2/pct:2.829849,32.291947,10.724585,17.061675/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1864051301%2F0034.jp2/pct:2.829849,32.291947,10.724585,17.061675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5293,7 +5293,7 @@ The strength is gone, tho step is slow,
 And joy grows wearisome, and wo I  
 When nge comes on t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_national_ver01%2Fdata%2Fsn84022046%2F00279554206%2F1864111401%2F0467.jp2/pct:81.596306,14.490042,11.694308,22.681720/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_national_ver01%2Fdata%2Fsn84022046%2F00279554206%2F1864111401%2F0467.jp2/pct:81.596306,14.490042,11.694308,22.681720/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5365,7 +5365,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome ana wo!  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032276%2F00296028605%2F1864113001%2F0289.jp2/pct:17.916261,19.299076,14.362220,25.041440/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032276%2F00296028605%2F1864113001%2F0289.jp2/pct:17.916261,19.299076,14.362220,25.041440/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5429,7 +5429,7 @@ And where are they?
 AVVte&lt;3 th\&#x27; strength that spurned &#x27;letay,  
 lsc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026207%2F1864120101%2F0195.jp2/pct:16.167449,17.498272,11.620354,23.791753/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026207%2F1864120101%2F0195.jp2/pct:16.167449,17.498272,11.620354,23.791753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5477,7 +5477,7 @@ And deem each future dream
   
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529315%2F1864120301%2F0308.jp2/pct:50.624385,22.154166,13.298918,9.889677/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529315%2F1864120301%2F0308.jp2/pct:50.624385,22.154166,13.298918,9.889677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5550,7 +5550,7 @@ And joy grows wearisome and wo !
 VV&#x27; hen age comes on.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775162%2F1864121001%2F0381.jp2/pct:5.626381,4.176611,12.782594,29.899231/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775162%2F1864121001%2F0381.jp2/pct:5.626381,4.176611,12.782594,29.899231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5622,7 +5622,7 @@ The strength is gone, the step is slpw,
 And joy grows wearisome and woe!  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028654%2F1864121501%2F0201.jp2/pct:40.990256,60.810911,12.900035,32.740345/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028654%2F1864121501%2F0201.jp2/pct:40.990256,60.810911,12.900035,32.740345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5694,7 +5694,7 @@ The strength is gone, the step is slow.
 And joy grows wearisome, and woe!  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557992%2F1864121701%2F0405.jp2/pct:18.741646,17.933131,14.120680,38.232246/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557992%2F1864121701%2F0405.jp2/pct:18.741646,17.933131,14.120680,38.232246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5765,7 +5765,7 @@ The heart&#x27;s blithe tone?
 - And joy grqws wearisome, and wol  
 When age comes on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869458%2F1864121701%2F0037.jp2/pct:6.104651,35.735294,17.681259,28.733032/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869458%2F1864121701%2F0037.jp2/pct:6.104651,35.735294,17.681259,28.733032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5834,7 +5834,7 @@ YVIiert; is the strvupththat spurned decay,
 Thfj atep that roved fijight uud gay,  
 The heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1865010701%2F0046.jp2/pct:43.479827,18.887650,12.788184,29.690549/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1865010701%2F0046.jp2/pct:43.479827,18.887650,12.788184,29.690549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5905,7 +5905,7 @@ The strength is gone, the step is slew,
 And joy grow a wearisome, and wo !  
 When age comes on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn82014487%2F00279557244%2F1865020401%2F0647.jp2/pct:9.950767,9.739726,10.651392,20.660959/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn82014487%2F00279557244%2F1865020401%2F0647.jp2/pct:9.950767,9.739726,10.651392,20.660959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5972,7 +5972,7 @@ The strength is gone, the step is slow,
 Aud joy grows wearisome and wo !  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn86081096%2F0029602868A%2F1865022201%2F0026.jp2/pct:18.260691,15.651886,14.795421,32.550188/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn86081096%2F0029602868A%2F1865022201%2F0026.jp2/pct:18.260691,15.651886,14.795421,32.550188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6045,7 +6045,7 @@ The strength is gone the step is slow,
 And joy grows wearysome and wo !  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_mateer_ver01%2Fdata%2Fsn85025182%2F00212477898%2F1865030801%2F0146.jp2/pct:18.250419,24.231720,12.660704,39.196986/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_mateer_ver01%2Fdata%2Fsn85025182%2F00212477898%2F1865030801%2F0146.jp2/pct:18.250419,24.231720,12.660704,39.196986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6084,7 +6084,7 @@ Like thun the preaent shall delight
 Like I he in decay  
 Ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199288%2F1865040401%2F1019.jp2/pct:2.093835,9.434968,12.989531,14.952026/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199288%2F1865040401%2F1019.jp2/pct:2.093835,9.434968,12.989531,14.952026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6155,7 +6155,7 @@ Age cams and laid lue finger there,
 And where ere tbeyl  
 Where
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_abraham_ver02%2Fdata%2Fsn84023963%2F00200295997%2F1865072901%2F1234.jp2/pct:2.985391,30.841639,18.124074,44.933555/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_abraham_ver02%2Fdata%2Fsn84023963%2F00200295997%2F1865072901%2F1234.jp2/pct:2.985391,30.841639,18.124074,44.933555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6199,7 +6199,7 @@ Aud swallow all.
 Alike the river’s lardir &#x27;  
 Alike tho ham ole ri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525206%2F1865093001%2F0563.jp2/pct:4.095112,4.688682,11.117074,11.863499/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525206%2F1865093001%2F0563.jp2/pct:4.095112,4.688682,11.117074,11.863499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6221,7 +6221,7 @@ We disappear.
 Long ore the damp of earth can blight,  
 The cheek’s pure glow of rod and wnit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525206%2F1865093001%2F0563.jp2/pct:4.755614,19.321906,8.623679,3.872574/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525206%2F1865093001%2F0563.jp2/pct:4.755614,19.321906,8.623679,3.872574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6301,7 +6301,7 @@ The heart is gone, the step is slow,
 And joy grows wearisome and wo !  
 | When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625479%2F1866012601%2F0422.jp2/pct:18.882518,29.173910,14.901558,30.779986/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625479%2F1866012601%2F0422.jp2/pct:18.882518,29.173910,14.901558,30.779986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6354,7 +6354,7 @@ Like ;bem the present shall Wglit
 Like them docs j.  
 Our Uvea like
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn97063063%2F00296024314%2F1866041801%2F0479.jp2/pct:40.084277,16.520088,10.850672,10.103938/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn97063063%2F00296024314%2F1866041801%2F0479.jp2/pct:40.084277,16.520088,10.850672,10.103938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6394,7 +6394,7 @@ The strength is gone, the step l slow, &#x27;
 And Juv grows weariMime, aud wol  
 When age oouiaa a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn97063063%2F00296024314%2F1866041801%2F0479.jp2/pct:40.927048,29.592245,9.981564,11.722966/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn97063063%2F00296024314%2F1866041801%2F0479.jp2/pct:40.927048,29.592245,9.981564,11.722966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6481,7 +6481,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and wo!  
 When age comes on!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-05-01_18_9$10/pct:9.573241,11.858407,24.538639,50.309735/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-05-01_18_9$10/pct:9.573241,11.858407,24.538639,50.309735/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6587,7 +6587,7 @@ And joy grows wearisome, and wo!
 When age comes on 1  
 -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529315%2F1866051901%2F0565.jp2/pct:11.475954,11.173839,13.162758,69.759267/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529315%2F1866051901%2F0565.jp2/pct:11.475954,11.173839,13.162758,69.759267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6664,7 +6664,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and woe,  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn83035595%2F00296026645%2F1866061501%2F0107.jp2/pct:28.400776,12.725386,10.497238,22.804514/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn83035595%2F00296026645%2F1866061501%2F0107.jp2/pct:28.400776,12.725386,10.497238,22.804514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6742,7 +6742,7 @@ The strength is gone, and the step is slow,
 And joy grows wearisome, and woe !  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn93052977%2F00279557451%2F1866062301%2F0050.jp2/pct:10.168604,9.805014,11.502191,28.770891/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn93052977%2F00279557451%2F1866062301%2F0050.jp2/pct:10.168604,9.805014,11.502191,28.770891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6815,7 +6815,7 @@ The strength is gono, tho step is ?low,
 And joy grows wearisome, and woe!  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551657%2F1866072901%2F0384.jp2/pct:2.167414,3.968029,16.212008,33.007000/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551657%2F1866072901%2F0384.jp2/pct:2.167414,3.968029,16.212008,33.007000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6887,7 +6887,7 @@ The strength is gonet the step is. slow,
 And joy grows wearisome, and &quot;woe !  
 When age comes 011
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1866091801%2F0160.jp2/pct:44.300742,17.711836,12.316779,25.156611/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1866091801%2F0160.jp2/pct:44.300742,17.711836,12.316779,25.156611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6972,7 +6972,7 @@ The strength is gone, the s/ep is slow,
 And joy grows wearisonr, and woe!  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_zions-herald_1866-12-26_37_52$3/pct:9.259761,21.852300,10.412148,22.124697/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1866-12-26_37_52$3/pct:9.259761,21.852300,10.412148,22.124697/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7030,7 +7030,7 @@ life I the rijnning of the raoe,
 &#x27;iAai patn alone,, or all nnBought. .-, .  
 r ; &#x27; is found of all. , . . .....
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F0028077490A%2F1867012401%2F0012.jp2/pct:6.653185,48.274422,14.580384,24.659059/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F0028077490A%2F1867012401%2F0012.jp2/pct:6.653185,48.274422,14.580384,24.659059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7095,7 +7095,7 @@ The strength Is gone, the step Is alow.
 And Joy grows wearlsotno, and woo !  
 When age comes on ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83009571%2F0027952391A%2F1867092001%2F0359.jp2/pct:38.593232,29.466990,9.573103,13.803082/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83009571%2F0027952391A%2F1867092001%2F0359.jp2/pct:38.593232,29.466990,9.573103,13.803082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7177,7 +7177,7 @@ The strength is gone, tab step is slow.
 And joys grow wearisome aad wool  
 , n hen age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F0023728687A%2F1867092501%2F0481.jp2/pct:34.724244,11.300448,10.140708,20.217809/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F0023728687A%2F1867092501%2F0481.jp2/pct:34.724244,11.300448,10.140708,20.217809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7255,7 +7255,7 @@ The strength is gone, the step is slow,
 And joys grows wearisome and woe !  
 When age comes on. . .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775174%2F1867100501%2F0063.jp2/pct:32.329004,15.421655,12.467532,26.665799/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775174%2F1867100501%2F0063.jp2/pct:32.329004,15.421655,12.467532,26.665799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7327,7 +7327,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, aud woe f  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192324%2F1868110301%2F0180.jp2/pct:56.069264,16.948108,13.203463,25.927671/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192324%2F1868110301%2F0180.jp2/pct:56.069264,16.948108,13.203463,25.927671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7402,7 +7402,7 @@ The strength is gone, the step is slow,
 And Jov grows wearisome, and woe &#x27;.  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1868110501%2F0409.jp2/pct:42.413859,15.516081,12.488102,28.771363/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1868110501%2F0409.jp2/pct:42.413859,15.516081,12.488102,28.771363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7469,7 +7469,7 @@ The strength is gone, tho step is slow.
 And joy grow wearisome, and woe &#x27;.  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293381%2F1868110801%2F0271.jp2/pct:5.418719,16.591777,8.620690,18.804763/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293381%2F1868110801%2F0271.jp2/pct:5.418719,16.591777,8.620690,18.804763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7558,7 +7558,7 @@ The strength is gone, the step is slow.
 And joy grows wearisome, and woe !  
 W hi n age comes on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1868112101%2F0399.jp2/pct:56.066676,10.816300,13.712760,37.355870/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1868112101%2F0399.jp2/pct:56.066676,10.816300,13.712760,37.355870/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7630,7 +7630,7 @@ The strength Is gone, the step Is slow.
 Andiny grows wearisome, aud woe!  
 When age comes on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1868112501%2F0219.jp2/pct:35.576923,11.489851,9.599359,20.873229/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1868112501%2F0219.jp2/pct:35.576923,11.489851,9.599359,20.873229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7665,7 +7665,7 @@ To-morrow than todny
 M .Our golJen dreams ol yore were bright,  
 .&#x27;.Like them the present shall d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042148%2F00296022676%2F1868120201%2F0627.jp2/pct:4.935065,9.704807,12.671614,6.452456/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042148%2F00296022676%2F1868120201%2F0627.jp2/pct:4.935065,9.704807,12.671614,6.452456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7700,7 +7700,7 @@ M Where is the streneth that spumed decay,
 The strength is gouc, the step is slow,-jfl.&#x27;ttiAndjoy  
 grows wearisome, and woe! &#x27;&quot;&#x27;.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042148%2F00296022676%2F1868120201%2F0627.jp2/pct:4.434137,23.249739,13.116883,9.535005/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042148%2F00296022676%2F1868120201%2F0627.jp2/pct:4.434137,23.249739,13.116883,9.535005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7732,7 +7732,7 @@ Already pat.
 Let uo vain l.o,.c deceive the mind,  
 No 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065409%2F00212470417%2F1868121701%2F0123.jp2/pct:9.404264,9.662599,13.687986,10.610194/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065409%2F00212470417%2F1868121701%2F0123.jp2/pct:9.404264,9.662599,13.687986,10.610194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7770,7 +7770,7 @@ The strength is gone, the step i. slow,
 And joy grows wearisome, and woe!  
 Whea age conies on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065409%2F00212470417%2F1868121701%2F0123.jp2/pct:11.038055,27.609476,11.775254,13.768844/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065409%2F00212470417%2F1868121701%2F0123.jp2/pct:11.038055,27.609476,11.775254,13.768844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7845,7 +7845,7 @@ The strength is gone the step is slow,
 And joy grows wearisome, and woe !  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1868122601%2F0228.jp2/pct:5.059055,7.889481,12.952756,29.360852/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1868122601%2F0228.jp2/pct:5.059055,7.889481,12.952756,29.360852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7877,7 +7877,7 @@ Like them the preaent ahall delight—
 Like them defray.  
 Oar 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623707%2F1869012801%2F0024.jp2/pct:27.990634,16.390146,9.720448,10.898832/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623707%2F1869012801%2F0024.jp2/pct:27.990634,16.390146,9.720448,10.898832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7937,7 +7937,7 @@ Aliis ! before it bids no woke,
 We diuppear.  
 Long&#x27;ere the dump of denth con bli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn86072040%2Fno_reel%2F1869020501%2F0669.jp2/pct:3.334884,38.843886,13.851404,22.879815/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn86072040%2Fno_reel%2F1869020501%2F0669.jp2/pct:3.334884,38.843886,13.851404,22.879815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8013,7 +8013,7 @@ The strength is gone, the step \s slow,
 And joy grows wearisome and woe !  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F00295873991%2F1869022701%2F0244.jp2/pct:21.271930,16.196605,25.757576,76.766156/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F00295873991%2F1869022701%2F0244.jp2/pct:21.271930,16.196605,25.757576,76.766156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8096,7 +8096,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and—woe !  
 When age comes on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-04-03_22_14$9/pct:20.242215,25.309917,21.770473,45.227273/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-04-03_22_14$9/pct:20.242215,25.309917,21.770473,45.227273/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8179,7 +8179,7 @@ And joy grows wearisome and wo,
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_proof-sheet_1869-09_3_14$4/pct:61.328671,33.437500,22.937063,58.020833/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_proof-sheet_1869-09_3_14$4/pct:61.328671,33.437500,22.937063,58.020833/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8208,7 +8208,7 @@ Let no vain liope deceive the mind? J
 iSo happier let im li&#x27;?p?? to find &#x27;  
 To morrow than t?? day. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn84026853%2F00202193997%2F1869101501%2F0009.jp2/pct:4.520901,13.794697,9.719106,7.673989/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn84026853%2F00202193997%2F1869101501%2F0009.jp2/pct:4.520901,13.794697,9.719106,7.673989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8278,7 +8278,7 @@ Then strength is gone, the step is slow,
 And joy weariieme. and woe !  
 When age come on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776075%2F1869103001%2F0155.jp2/pct:34.510759,12.780814,13.520097,33.469945/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776075%2F1869103001%2F0155.jp2/pct:34.510759,12.780814,13.520097,33.469945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8351,7 +8351,7 @@ Tbe strength is gone, the step Is slow.
 And joy grows wearisome and wo,  
 Vi hen age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1869112401%2F0450.jp2/pct:34.313571,11.311983,10.127379,20.170455/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1869112401%2F0450.jp2/pct:34.313571,11.311983,10.127379,20.170455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8382,7 +8382,7 @@ To-morrow than to-day,
 Like them decay.  
 | Our live
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623707%2F1869120901%2F0232.jp2/pct:15.237890,16.032488,10.875981,8.383400/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623707%2F1869120901%2F0232.jp2/pct:15.237890,16.032488,10.875981,8.383400/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8412,7 +8412,7 @@ The step (hat roved so light and gay,
 The heart’s blithe tone ?  
 I The strength is gone, the step is slow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623707%2F1869120901%2F0232.jp2/pct:15.237890,30.802181,11.286259,8.016244/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623707%2F1869120901%2F0232.jp2/pct:15.237890,30.802181,11.286259,8.016244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8481,7 +8481,7 @@ The strength Is gone the stop Is slow.
 And joy grows weaflsoine and we,  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00294554828%2F1870012801%2F0126.jp2/pct:2.671312,10.269848,10.293264,30.586530/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00294554828%2F1870012801%2F0126.jp2/pct:2.671312,10.269848,10.293264,30.586530/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8542,7 +8542,7 @@ Like them the preterit shall delight—
 sfLike them decay.  
 Our l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870020501%2F0028.jp2/pct:6.822519,5.701357,70.292621,91.753394/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870020501%2F0028.jp2/pct:6.822519,5.701357,70.292621,91.753394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8583,7 +8583,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and woe!  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870020501%2F0028.jp2/pct:18.431934,29.174208,10.798346,14.061086/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870020501%2F0028.jp2/pct:18.431934,29.174208,10.798346,14.061086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8617,7 +8617,7 @@ Like thom the present shall delight­
 . Lot them decayr  
 Our lives liko 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551530%2F1870060501%2F0236.jp2/pct:2.397043,14.401715,13.937504,11.751289/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551530%2F1870060501%2F0236.jp2/pct:2.397043,14.401715,13.937504,11.751289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8658,7 +8658,7 @@ The strength is gono, tho step is Blow,
 And joy grows wearisomo and wo,  
 When ago comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551530%2F1870060501%2F0236.jp2/pct:2.310403,29.145568,15.387281,15.724648/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551530%2F1870060501%2F0236.jp2/pct:2.310403,29.145568,15.387281,15.724648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8699,7 +8699,7 @@ The strciig&#x27;h is gone, the step is slow,
 Aud jov glows wearisome, and woe!  
 Yt lien age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1870061501%2F0915.jp2/pct:26.468807,29.573433,9.670907,11.594618/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1870061501%2F0915.jp2/pct:26.468807,29.573433,9.670907,11.594618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8770,7 +8770,7 @@ The strength is gone, tbe step is slow,
 And joy grows wearisome and wo,  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn83025799%2F00415620123%2F1870092101%2F0121.jp2/pct:5.821288,24.314665,13.222073,31.287784/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn83025799%2F00415620123%2F1870092101%2F0121.jp2/pct:5.821288,24.314665,13.222073,31.287784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8802,7 +8802,7 @@ Already jiast.
 Let no vnln hopes deceive Ihe mind,  
 No happier li t u hope 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1870112401%2F0866.jp2/pct:43.348051,14.105489,12.727971,7.998926/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1870112401%2F0866.jp2/pct:43.348051,14.105489,12.727971,7.998926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8832,7 +8832,7 @@ Atusl before it bids us wnue,
 Wo ilisuppeur.  
 Ixnig ere the (lumps of dentil can bl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1870112401%2F0866.jp2/pct:44.096756,26.882298,11.345748,7.730506/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1870112401%2F0866.jp2/pct:44.096756,26.882298,11.345748,7.730506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8905,7 +8905,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and woe!  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186981%2F1870123101%2F0424.jp2/pct:56.198227,14.488360,12.285036,26.381520/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186981%2F1870123101%2F0424.jp2/pct:56.198227,14.488360,12.285036,26.381520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8977,7 +8977,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and woe 1  
 When ace comas on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186993%2F1871010701%2F0004.jp2/pct:56.023662,14.352203,12.181984,26.153624/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186993%2F1871010701%2F0004.jp2/pct:56.023662,14.352203,12.181984,26.153624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9014,7 +9014,7 @@ Liku them the present shall delight?
 Like them decay.  
 Our livee like 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1871013101%2F0023.jp2/pct:29.125133,15.671806,13.737095,11.090308/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1871013101%2F0023.jp2/pct:29.125133,15.671806,13.737095,11.090308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9055,7 +9055,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and woe !  
 When age routes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1871013101%2F0023.jp2/pct:30.611428,29.240088,11.939302,12.896476/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1871013101%2F0023.jp2/pct:30.611428,29.240088,11.939302,12.896476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9102,7 +9102,7 @@ The strength is gone, the step ia alow,
 Aud joy grows wearisome, and woe I  
 When age routes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_mastiff_ver01%2Fdata%2Fsn83045462%2F0028065436A%2F1871110401%2F0621.jp2/pct:2.723633,9.035088,11.574494,12.872100/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_mastiff_ver01%2Fdata%2Fsn83045462%2F0028065436A%2F1871110401%2F0621.jp2/pct:2.723633,9.035088,11.574494,12.872100/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9201,7 +9201,7 @@ The strength is pone, the step is slow,
 And joy grows wearisome, and tfoe ;  
 When?lyiu ?&quot;&quot;.roes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1871112101%2F0191.jp2/pct:29.943386,13.564290,13.041977,32.803190/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1871112101%2F0191.jp2/pct:29.943386,13.564290,13.041977,32.803190/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9269,7 +9269,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and woi;  
 When age comes on!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348707%2F1871113001%2F0511.jp2/pct:44.180849,22.760355,11.281588,32.913193/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348707%2F1871113001%2F0511.jp2/pct:44.180849,22.760355,11.281588,32.913193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9339,7 +9339,7 @@ The strength is gone, the step is slow,
 And jov grows wearisome, and wool  
 When age comes on 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186993%2F1871120901%2F0184.jp2/pct:43.964643,13.926374,25.059170,82.503868/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186993%2F1871120901%2F0184.jp2/pct:43.964643,13.926374,25.059170,82.503868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9410,7 +9410,7 @@ The strength ia gone, the atep la slow.
 And jor grows wearisome and wo,  
 - When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F0029455564A%2F1872031401%2F0405.jp2/pct:68.351889,17.430802,12.502281,22.001419/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F0029455564A%2F1872031401%2F0405.jp2/pct:68.351889,17.430802,12.502281,22.001419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9457,7 +9457,7 @@ Life is the running of the race,
 And death the goal ;  
 glitt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_descendo_ver01%2Fdata%2Fsn87062253%2F00271765186%2F1873022401%2F0073.jp2/pct:73.137417,17.391304,9.975166,14.928668/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_descendo_ver01%2Fdata%2Fsn87062253%2F00271765186%2F1873022401%2F0073.jp2/pct:73.137417,17.391304,9.975166,14.928668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9477,7 +9477,7 @@ Life, in its glories, glides away,
 And the stern footsteps of decay,  
 Come stealing on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F0029602742A%2F1874021001%2F0029.jp2/pct:27.820324,76.279717,10.765832,3.426858/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F0029602742A%2F1874021001%2F0029.jp2/pct:27.820324,76.279717,10.765832,3.426858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9554,7 +9554,7 @@ The strength Is gone, the step is slow,
 And Joy grows wearisome and woe!  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775435%2F1874082701%2F0365.jp2/pct:6.935768,30.104073,10.748038,31.196197/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775435%2F1874082701%2F0365.jp2/pct:6.935768,30.104073,10.748038,31.196197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9635,7 +9635,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and woe   
 When age comes on I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151246%2F1874111201%2F0346.jp2/pct:5.608127,4.452244,14.249930,27.668909/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151246%2F1874111201%2F0346.jp2/pct:5.608127,4.452244,14.249930,27.668909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9689,7 +9689,7 @@ Are all thoae glittering toya of earth
 That lure us here  
 Oreaiua of a sleep that death niu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1874111301%2F0677.jp2/pct:8.144391,9.097458,13.036993,17.505403/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1874111301%2F0677.jp2/pct:8.144391,9.097458,13.036993,17.505403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9761,7 +9761,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and woe  
 When age comes on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200295602%2F1874111901%2F0528.jp2/pct:7.768151,7.330438,13.878100,25.382548/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200295602%2F1874111901%2F0528.jp2/pct:7.768151,7.330438,13.878100,25.382548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9833,7 +9833,7 @@ The strength is gone, the step is slow.
 And joy grows wearisome and woe  
 When age somes on I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152627%2F1874120401%2F1119.jp2/pct:6.578736,6.674473,12.256715,23.224044/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152627%2F1874120401%2F1119.jp2/pct:6.578736,6.674473,12.256715,23.224044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9914,7 +9914,7 @@ The strength is gone, the step is slow.
 And joy grows wearisome and woe  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1875013001%2F0640.jp2/pct:4.056618,24.102678,9.966438,21.635737/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1875013001%2F0640.jp2/pct:4.056618,24.102678,9.966438,21.635737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9973,7 +9973,7 @@ The cheek&#x27;s pure glow of red ani white.
 He passed away ;  
 Youth smiled a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1875021001%2F0545.jp2/pct:36.443149,13.890451,8.367347,19.649083/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1875021001%2F0545.jp2/pct:36.443149,13.890451,8.367347,19.649083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10052,7 +10052,7 @@ The strength is gone, the step is slow,
 Aud ioys grow wearisome and woe  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84026810%2F00393349190%2F1875031301%2F0491.jp2/pct:0.748474,35.283364,17.850108,43.794825/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84026810%2F00393349190%2F1875031301%2F0491.jp2/pct:0.748474,35.283364,17.850108,43.794825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10124,7 +10124,7 @@ The strength is gone, the step is slow.
 And joy grows wearisome and woe.  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875050501%2F0321.jp2/pct:5.125541,13.890009,10.909091,29.783515/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875050501%2F0321.jp2/pct:5.125541,13.890009,10.909091,29.783515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10163,7 +10163,7 @@ The strength is gone, the step is slow, .
 And joy grows wearisome and woe,  
 &#x27; When age comes on!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775435%2F1875050601%2F0510.jp2/pct:2.918384,20.243808,12.481451,11.969913/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775435%2F1875050601%2F0510.jp2/pct:2.918384,20.243808,12.481451,11.969913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10233,7 +10233,7 @@ The strength Is gone, the step Is slow,
 And Joy grows wearisome aud woe,  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn87056600%2F00202191575%2F1875051301%2F0175.jp2/pct:67.667121,4.683602,12.566318,24.438648/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn87056600%2F00202191575%2F1875051301%2F0175.jp2/pct:67.667121,4.683602,12.566318,24.438648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10301,7 +10301,7 @@ The strength is gone, the step is slow,
 And Joy grows wearisome with woe  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762027%2F1875052301%2F0328.jp2/pct:2.187563,7.128447,15.049625,33.641560/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762027%2F1875052301%2F0328.jp2/pct:2.187563,7.128447,15.049625,33.641560/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10354,7 +10354,7 @@ Are all the glittering loysof earth
 That lure us here!  
 Where is the strength that spumed decay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_eadweard_ver01%2Fdata%2Fsn85034076%2F00200292388%2F1875082701%2F0276.jp2/pct:21.612779,41.433971,15.473441,24.362883/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_eadweard_ver01%2Fdata%2Fsn85034076%2F00200292388%2F1875082701%2F0276.jp2/pct:21.612779,41.433971,15.473441,24.362883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10427,7 +10427,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and woe,  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295860662%2F1875092301%2F0311.jp2/pct:6.834320,30.616654,16.109467,29.939120/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295860662%2F1875092301%2F0311.jp2/pct:6.834320,30.616654,16.109467,29.939120/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10489,7 +10489,7 @@ I)reams of a sleep that death must break.
 Alas! before It bids us wake,  
 We disappear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029026%2F1876032301%2F0054.jp2/pct:6.225408,19.543860,10.427206,18.596491/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029026%2F1876032301%2F0054.jp2/pct:6.225408,19.543860,10.427206,18.596491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10556,7 +10556,7 @@ Dreams of a sleep that death must break,
 Alas! before It bids us wake,  
 Ye disappear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_eden_ver01%2Fdata%2Fsn98060050%2F00280777389%2F1876072101%2F0596.jp2/pct:27.577803,18.722567,8.867642,14.530044/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_eden_ver01%2Fdata%2Fsn98060050%2F00280777389%2F1876072101%2F0596.jp2/pct:27.577803,18.722567,8.867642,14.530044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10619,7 +10619,7 @@ Dreams of a sleep that death must break,
 Alas I before it bids us wake,   
 Ye disappear ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1876080301%2F0515.jp2/pct:22.490177,16.132765,12.907014,25.068597/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1876080301%2F0515.jp2/pct:22.490177,16.132765,12.907014,25.068597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10674,7 +10674,7 @@ Are all thoao glittering toys of earth A]
 That lure ub here ? li  
 Dreams of a bleep that death
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_grandamericancoonhunt_ver01%2Fdata%2Fsn85042623%2F00295862154%2F1876081601%2F0341.jp2/pct:4.878191,15.629061,16.390488,25.078606/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_grandamericancoonhunt_ver01%2Fdata%2Fsn85042623%2F00295862154%2F1876081601%2F0341.jp2/pct:4.878191,15.629061,16.390488,25.078606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10778,7 +10778,7 @@ by h. b.
 How bright and cheerful the kitchen  
 of the old Stedhurst farmhouse looke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876116%2F1876091501%2F0144.jp2/pct:17.847503,14.573171,12.314440,20.560976/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876116%2F1876091501%2F0144.jp2/pct:17.847503,14.573171,12.314440,20.560976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10832,7 +10832,7 @@ That lure ns here ?
 Dreams of a seep that death must break  
 Alas !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F00295873826%2F1876092801%2F1302.jp2/pct:29.246183,4.656559,13.907443,20.034035/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F00295873826%2F1876092801%2F1302.jp2/pct:29.246183,4.656559,13.907443,20.034035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10888,7 +10888,7 @@ Dreams of a sleep that death must break.
 Alas! before it bids us wake.  
 Ye disappear 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1876111801%2F0704.jp2/pct:21.885829,17.376723,14.535838,25.636567/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1876111801%2F0704.jp2/pct:21.885829,17.376723,14.535838,25.636567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10943,7 +10943,7 @@ To that sad wave;
   
 Death levels poverty and pride,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_national-repository_1880-04_7$67/pct:22.631988,58.076132,61.529503,28.137860/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-repository_1880-04_7$67/pct:22.631988,58.076132,61.529503,28.137860/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11029,7 +11029,7 @@ The strength Is gone, the step&#x27;is slow
 And joy grows wearisome and woe  
 When ago comes ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn84026106%2F00280776579%2F1882062201%2F0511.jp2/pct:2.275015,16.681416,12.703845,37.625369/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn84026106%2F00280776579%2F1882062201%2F0511.jp2/pct:2.275015,16.681416,12.703845,37.625369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11101,7 +11101,7 @@ The strength is gone, tho stop is slow,
 And joy grows wearisome with woe  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776105%2F1882092801%2F0556.jp2/pct:6.000000,14.861848,12.111111,31.565727/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776105%2F1882092801%2F0556.jp2/pct:6.000000,14.861848,12.111111,31.565727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11173,7 +11173,7 @@ The strength is gone, the stew is slow,
 And joy grows wearisome with woe  
 When age comeson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768825%2F1882101201%2F1589.jp2/pct:8.370370,6.958443,14.121212,29.113167/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768825%2F1882101201%2F1589.jp2/pct:8.370370,6.958443,14.121212,29.113167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11209,7 +11209,7 @@ Where is the strength that npurned decay,
 The steps that rvd so li.Mit mid (ray,  
 The heart&#x27;s blithe tone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023772%2F1882102701%2F0301.jp2/pct:8.318560,20.682918,12.218737,10.346111/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023772%2F1882102701%2F0301.jp2/pct:8.318560,20.682918,12.218737,10.346111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11283,7 +11283,7 @@ The strength is gone. the step is slow,
 And joy grows wearisome with woe  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_bolivar_ver01%2Fdata%2Fsn85034248%2F00200299395%2F1883032401%2F0053.jp2/pct:20.571895,12.905605,23.970588,82.472960/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_bolivar_ver01%2Fdata%2Fsn85034248%2F00200299395%2F1883032401%2F0053.jp2/pct:20.571895,12.905605,23.970588,82.472960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11388,7 +11388,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and woe  
 When age comes on!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1885-11_20_5$46/pct:13.629738,21.349446,67.456268,32.074522/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1885-11_20_5$46/pct:13.629738,21.349446,67.456268,32.074522/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11443,7 +11443,7 @@ Dreams of a sleep that death must break.
 Alas ! before it bids us wake.  
 Vo disappear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625546%2F1887081201%2F0141.jp2/pct:62.904662,18.676418,9.669712,14.224046/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625546%2F1887081201%2F0141.jp2/pct:62.904662,18.676418,9.669712,14.224046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11473,7 +11473,7 @@ The sea of Death, whose waves roll on
 O’er king and kingdom, crown and throne,  
 And swallow all.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_maine-farmer_1893-06-15_61_32$1/pct:21.973684,74.506579,11.891447,6.437970/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1893-06-15_61_32$1/pct:21.973684,74.506579,11.891447,6.437970/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11579,7 +11579,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and woe!  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_reedys-mirror_1899-07-13_9_22$8/pct:38.056586,34.510086,26.785714,59.852305/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_reedys-mirror_1899-07-13_9_22$8/pct:38.056586,34.510086,26.785714,59.852305/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -37,7 +37,7 @@ large scale. The electro magnet, and its practical
 application, by Henry &amp; Morse. The only suc­  
 cessful composing machine for printers. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151234%2F1872102401%2F0063.jp2/pct:20.846082,64.500637,14.686710,8.102192/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151234%2F1872102401%2F0063.jp2/pct:20.846082,64.500637,14.686710,8.102192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -53,7 +53,7 @@ nation. The cotton gin, without which
 the machine spinner and the power  
 loom would he helpless, is American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1872110201%2F0253.jp2/pct:68.637572,51.041227,12.198487,1.449664/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1872110201%2F0253.jp2/pct:68.637572,51.041227,12.198487,1.449664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ The cotton gin, without which the
 machine snihrier and the power loom  
 would be helpless, is American. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023416%2F00202197498%2F1873081601%2F0126.jp2/pct:79.957089,46.592978,12.193814,9.505852/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023416%2F00202197498%2F1873081601%2F0126.jp2/pct:79.957089,46.592978,12.193814,9.505852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ The cotton gin, without which the
 machine spinner and the power loom  
 would be helpless, is American. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873092401%2F0279.jp2/pct:15.449267,68.965517,10.299511,5.438101/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873092401%2F0279.jp2/pct:15.449267,68.965517,10.299511,5.438101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ Hail C oldmbia!—The cotton-gin, with­
 out which the machine-spinner and the power  
 loom would be helpless, is American. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873100401%2F0167.jp2/pct:7.460885,48.072281,14.738265,1.726566/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873100401%2F0167.jp2/pct:7.460885,48.072281,14.738265,1.726566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ gin, without which tin? machine
 Spinner and the power loom  
 Would be heltiless is Ativrrici.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1873101801%2F0014.jp2/pct:4.214207,58.875665,14.409275,4.608762/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1873101801%2F0014.jp2/pct:4.214207,58.875665,14.409275,4.608762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ The cotton gin, without which the mu- ,
 chine spinner and the power loom would ,  
 be helpless, is American. The powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623744%2F1873110101%2F0206.jp2/pct:72.422646,32.242226,11.268747,2.296285/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623744%2F1873110101%2F0206.jp2/pct:72.422646,32.242226,11.268747,2.296285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ a the power-ehuttle, whic h permits an unlim-
 breadth of the The  
 American. Navigation by stea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889$6/pct:72.077603,84.126181,19.646365,3.340081/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889$6/pct:72.077603,84.126181,19.646365,3.340081/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ The cotton gin, without which
 the machine spinner and the  
 power loom would 1h helpless, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1874031401%2F0105.jp2/pct:33.485069,69.056138,14.311726,4.540407/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1874031401%2F0105.jp2/pct:33.485069,69.056138,14.311726,4.540407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ The cotton gin, without which the ma­
 chine, spinner and tbe power-loom would be  
 helpless, is American. , Tbe power shuttle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn83021327%2F00200297106%2F1874040901%2F0248.jp2/pct:73.585647,68.871049,10.961236,4.435524/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn83021327%2F00200297106%2F1874040901%2F0248.jp2/pct:73.585647,68.871049,10.961236,4.435524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ The cotton gin, without which the muchiue
 spinner and the power loom would be help-  
 less, is American. The power shuttle, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861174%2F1874060401%2F0188.jp2/pct:40.961306,41.766110,16.565901,5.389817/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861174%2F1874060401%2F0188.jp2/pct:40.961306,41.766110,16.565901,5.389817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ which we have not largely contributed. The
 cotton-gin, without which the machine-spin-  
 ner and the power-loom would be helpless
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2$54/pct:4.250000,38.211634,37.400000,3.496287/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2$54/pct:4.250000,38.211634,37.400000,3.496287/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ ean. The sand-biast is American. The
 gauge-lathe is American. The only successful  
 composing-machine for printers is American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326$28/pct:33.013699,8.879648,54.075342,82.852250/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326$28/pct:33.013699,8.879648,54.075342,82.852250/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ machine manufacture of horseshoes, the
 sand-blast, the gauge-lathe, the only suc­  
 cessful composing machine for printing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028903%2F1875070201%2F0369.jp2/pct:55.231849,26.355211,9.746797,10.651263/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028903%2F1875070201%2F0369.jp2/pct:55.231849,26.355211,9.746797,10.651263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ tributed. The cotton gin, without which
 we the machine-spinner and the power-h om  
 would be helpless, is American. The power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn85025587%2F00383346769%2F1875071201%2F0262.jp2/pct:23.522401,72.310829,13.332250,1.510973/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn85025587%2F00383346769%2F1875071201%2F0262.jp2/pct:23.522401,72.310829,13.332250,1.510973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ The grain elevator. 13. The artificial
 The electro-magnet, aad its practical ap­  
 plication, by Hear Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897895%2F1875082101%2F0714.jp2/pct:74.271272,87.234043,11.529065,7.719175/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897895%2F1875082101%2F0714.jp2/pct:74.271272,87.234043,11.529065,7.719175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ artificial manufacture of ice on a large scale.
 plication, by Henry and Morse. 15. The only  
 successtul composing machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F0029587434A%2F1875083101%2F0429.jp2/pct:34.599853,86.739691,14.537445,7.731959/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F0029587434A%2F1875083101%2F0429.jp2/pct:34.599853,86.739691,14.537445,7.731959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ net and its practical application, by Hen­
 ry and Morse. 15. The only successful  
 composing-machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215543%2F1875090301%2F0423.jp2/pct:81.565016,72.042384,12.251435,8.204530/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215543%2F1875090301%2F0423.jp2/pct:81.565016,72.042384,12.251435,8.204530/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ net and its practical application, by Hen­
 ry and Morse. 15. The Only successful  
 composing-machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016739%2F00295877510%2F1875090401%2F0071.jp2/pct:38.556774,50.300933,10.930315,7.794162/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016739%2F00295877510%2F1875090401%2F0071.jp2/pct:38.556774,50.300933,10.930315,7.794162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ and its practical application, by Hen­
 ry and Morse. 15. The only successful  
 composing-machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F0029602899A%2F1875090401%2F0255.jp2/pct:54.436384,78.698948,9.542411,7.092199/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F0029602899A%2F1875090401%2F0255.jp2/pct:54.436384,78.698948,9.542411,7.092199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ elevator. 12. The artificial manufacture of ice
 a large scale. 14. The electro magnet, and  
 practical application, by Henry and Morse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271741698%2F1875091301%2F0911.jp2/pct:17.915861,25.054745,12.572534,6.149635/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271741698%2F1875091301%2F0911.jp2/pct:17.915861,25.054745,12.572534,6.149635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ ican. The cand-blast is American. The
 gauge-lathe is American. The only suc­  
 cessful composing machine for printers i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1875091701%2F0384.jp2/pct:51.896703,65.873388,10.957105,10.961313/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1875091701%2F0384.jp2/pct:51.896703,65.873388,10.957105,10.961313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ large scale.
 14 The electro magnet, and its practical  
 application, by Henry and Morse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F0029587434A%2F1875092301%2F0589.jp2/pct:53.428882,64.512384,14.296081,10.087719/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F0029587434A%2F1875092301%2F0589.jp2/pct:53.428882,64.512384,14.296081,10.087719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ application, by Henry anil Morse. 15. j ?
 1 lie only successful composing machine 1 (|  
 tor printer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_enterprise_ver02%2Fdata%2Fsn84026847%2F00415665210%2F1875092801%2F0311.jp2/pct:14.322081,38.648861,12.815030,8.981409/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_enterprise_ver02%2Fdata%2Fsn84026847%2F00415665210%2F1875092801%2F0311.jp2/pct:14.322081,38.648861,12.815030,8.981409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ practical apfl icatton, by Henry and Morse.
 13. The oidy successful comosing machine  
 for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027691%2F0023728334A%2F1875100701%2F0169.jp2/pct:5.346777,58.034416,9.960281,8.943286/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027691%2F0023728334A%2F1875100701%2F0169.jp2/pct:5.346777,58.034416,9.960281,8.943286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ The electro-magnet, and its practical applica-
 tion, by Henry and Morse. 15. The only suc-  
 cessful composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15$4/pct:72.556685,82.470011,16.399531,9.923664/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15$4/pct:72.556685,82.470011,16.399531,9.923664/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ practical application, by Henry and Mors,
 15. the only successful composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234$5/pct:77.292111,32.503771,19.189765,16.063348/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234$5/pct:77.292111,32.503771,19.189765,16.063348/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ Henry and Morse. 15.—The only
 successful composing machine for  
 printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn84022135%2F00295869483%2F1875102201%2F0215.jp2/pct:56.045082,68.423237,18.015710,16.670124/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn84022135%2F00295869483%2F1875102201%2F0215.jp2/pct:56.045082,68.423237,18.015710,16.670124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ bilities are yet to be developed, is Amer­
 ican. The gpage lathe is American.  
 -The only successful composing machin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1875111301%2F0595.jp2/pct:29.351218,79.262024,13.921103,11.295551/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1875111301%2F0595.jp2/pct:29.351218,79.262024,13.921103,11.295551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -853,7 +853,7 @@ practical application, by Henry and Morse.
 15. the only successful composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47$5/pct:75.311791,65.620357,20.011338,14.171620/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47$5/pct:75.311791,65.620357,20.011338,14.171620/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ successful composing machine for
 printers.  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875112501%2F0586.jp2/pct:60.763139,25.983978,17.222051,20.271682/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875112501%2F0586.jp2/pct:60.763139,25.983978,17.222051,20.271682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ and fantastic grimaces, he ground his ! carving). 11. The gabe lathe. 1J. The
 teeth in agony, and in a violent fury j grain elevator. 13. The artificial man­  
 threw the goblet on the floor. The ufacture of ice on a large scale. 14 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875120101%2F0443.jp2/pct:61.107230,92.803235,22.004890,1.778976/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875120101%2F0443.jp2/pct:61.107230,92.803235,22.004890,1.778976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ cation by Henry and Morse. 15. The
 only successful composing machine for  
 printers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875120101%2F0443.jp2/pct:72.231925,87.951482,10.915124,8.382749/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875120101%2F0443.jp2/pct:72.231925,87.951482,10.915124,8.382749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ cation by llenry and Morse. 15. The
 only successful composing maMiiuc for  
 printer*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1875120901%2F0339.jp2/pct:17.189194,88.348447,9.630979,7.639461/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1875120901%2F0339.jp2/pct:17.189194,88.348447,9.630979,7.639461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ last I &quot; &#x27; &quot;b1&quot; ixaprr. t, a tic id-
 ry printing press, o, iNavigation by  
 steam. 6, The hot air (caloric) engine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:26.356478,69.922136,21.116679,5.250278/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:26.356478,69.922136,21.116679,5.250278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ church. Monday evening, the 13th inst. dia rubber industry. 10, The sand blast
   
 A meeting of the directors of the nn eleVator. 13, The artificial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:25.297065,75.205784,22.219041,2.491657/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:25.297065,75.205784,22.219041,2.491657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1036,7 +1036,7 @@ l 11.. 1&#x27; . I ttl&#x27;FUl-.&quot;&quot;, 1 &quot; J s.. .w.
   
 inecouinon party at tue rronuer The only successful composing machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:25.368647,77.775306,22.161775,2.035595/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:25.368647,77.775306,22.161775,2.035595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ The electro magnet, and its practical appli­
 cation by Henry and Morse. 15. The only  
 successful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1876011301%2F0219.jp2/pct:83.441920,88.770053,11.111553,8.696058/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1876011301%2F0219.jp2/pct:83.441920,88.770053,11.111553,8.696058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ application, by Henry and Morse.
 15. The only successful composiug  
 machine for prihters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn92053942%2F00295879889%2F1876012001%2F0063.jp2/pct:18.396153,33.063855,12.083139,11.868776/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn92053942%2F00295879889%2F1876012001%2F0063.jp2/pct:18.396153,33.063855,12.083139,11.868776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1132,7 +1132,7 @@ large scale. 14. The electro-magnet, and its
 practical application, by Henry and Morse.  
 15. The only successful composing machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244$0/pct:70.314136,76.134644,20.837696,14.353253/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244$0/pct:70.314136,76.134644,20.837696,14.353253/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ a large scale; fourteenth, the electro­
 magnet and its practical application;  
 fifteenth, the composing machine fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_dole_ver01%2Fdata%2Fsn83040340%2F00237283156%2F1879053001%2F0048.jp2/pct:56.331570,76.143371,12.416226,8.877184/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_dole_ver01%2Fdata%2Fsn83040340%2F00237283156%2F1879053001%2F0048.jp2/pct:56.331570,76.143371,12.416226,8.877184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ the electro-magnet and its practical ap­
 plication; fifteenth, the composing ma­  
 chine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_arrowhead_ver01%2Fdata%2Fsn84022060%2F0027955470A%2F1879053101%2F0513.jp2/pct:27.579186,48.294877,16.883484,14.544333/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_arrowhead_ver01%2Fdata%2Fsn84022060%2F0027955470A%2F1879053101%2F0513.jp2/pct:27.579186,48.294877,16.883484,14.544333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ ure on a large scale; fourteenth, the electro­
 magnet and its practical application; fifteenth,  
 the composing machine for printers. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_dayton_ver01%2Fdata%2Fsn86076999%2F00415627336%2F1879060401%2F0690.jp2/pct:4.407544,81.133389,17.343173,11.166806/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_dayton_ver01%2Fdata%2Fsn86076999%2F00415627336%2F1879060401%2F0690.jp2/pct:4.407544,81.133389,17.343173,11.166806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ the electro-magnet and its practical ap
 plication ; fifteenth, the composing ma  
 chine for printers. It is not rtea tna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665817%2F1879061901%2F0541.jp2/pct:82.783938,76.076555,10.893018,8.833272/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665817%2F1879061901%2F0541.jp2/pct:82.783938,76.076555,10.893018,8.833272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ the. electro-magnet and its practi­
 cal application; fifteenth, the com­  
 posing machine for printers. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879062601%2F0526.jp2/pct:53.408302,78.178477,9.732056,9.394740/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879062601%2F0526.jp2/pct:53.408302,78.178477,9.732056,9.394740/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ the electromagnet and its practical ap­
 plication; fifteenth, tbe composing  
 machine for printers. It is not ofte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027194%2F1879073101%2F0466.jp2/pct:18.781800,8.237638,10.757378,10.042184/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027194%2F1879073101%2F0466.jp2/pct:18.781800,8.237638,10.757378,10.042184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ large scale; fourteenth, the electro-magnet
 and its practical application; fifteenth, the  
 composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17$2/pct:8.616928,11.606042,19.633508,13.008631/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17$2/pct:8.616928,11.606042,19.633508,13.008631/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1388,7 +1388,7 @@ large scale; fouiteenth, the electro-mag.
 net and its practical application : fifteenth,  
 the composing machine for printers. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_himilco_ver01%2Fdata%2Fsn85025759%2F00296026955%2F1879090201%2F0087.jp2/pct:81.761872,79.297876,14.475797,9.025162/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_himilco_ver01%2Fdata%2Fsn85025759%2F00296026955%2F1879090201%2F0087.jp2/pct:81.761872,79.297876,14.475797,9.025162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ magnet and its practical application; fif­
 teenth, the composing machine for print­  
 ers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00279550018%2F1879091001%2F0545.jp2/pct:47.471649,79.866705,14.449712,9.580214/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00279550018%2F1879091001%2F0545.jp2/pct:47.471649,79.866705,14.449712,9.580214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1458,7 +1458,7 @@ scale; fourteenth, the electro-magnet and
 its practical application; fifteenth, the  
 composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00279550018%2F1879091001%2F0546.jp2/pct:4.675590,83.477052,14.844767,11.238510/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00279550018%2F1879091001%2F0546.jp2/pct:4.675590,83.477052,14.844767,11.238510/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1482,7 +1482,7 @@ engine seventh, the sewing machine
 eighth, the India rubber industry  
 ninth, the machine for manufacture 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479755%2F1879091101%2F0160.jp2/pct:26.842211,76.144497,10.846231,5.808860/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479755%2F1879091101%2F0160.jp2/pct:26.842211,76.144497,10.846231,5.808860/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1500,7 +1500,7 @@ scale fourteenth the electro-magnet and
 its practical application fifteenth, the  
 composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479755%2F1879091101%2F0160.jp2/pct:26.886432,82.931269,10.830151,2.723963/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479755%2F1879091101%2F0160.jp2/pct:26.886432,82.931269,10.830151,2.723963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ scale; fourteenth, the electro-magnet and
 its practical application; fifteenth, the  
 composing machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F0027176960A%2F1879091301%2F0761.jp2/pct:6.795263,74.791520,12.503469,10.238119/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F0027176960A%2F1879091301%2F0761.jp2/pct:6.795263,74.791520,12.503469,10.238119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ scale. 14. The electro-magnet and its practical
 application. 14. The composing machine  
 for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879100201%2F0338.jp2/pct:3.105725,47.750844,15.068196,6.234925/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879100201%2F0338.jp2/pct:3.105725,47.750844,15.068196,6.234925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1585,7 +1585,7 @@ facture on a large scale; 14th, tbe electro­
 magnet and its practical application; 15tb,  
 tbe composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861204%2F1879102301%2F0360.jp2/pct:55.038023,88.575269,16.682510,8.250620/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861204%2F1879102301%2F0360.jp2/pct:55.038023,88.575269,16.682510,8.250620/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1619,7 +1619,7 @@ large scale. 14. The elecirio magnet and
 its practical application. 15. The com  
 nosing machine tor printers. A sixteenll
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023209%2F00202197486%2F1880041401%2F0466.jp2/pct:51.644314,38.474092,10.692633,5.127159/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023209%2F00202197486%2F1880041401%2F0466.jp2/pct:51.644314,38.474092,10.692633,5.127159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1643,7 +1643,7 @@ Aruflcial ice making on a large scale. 14.
 The electric magnet and its practical ap­  
 plication. 15. The composing machin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_eritrea_ver01%2Fdata%2Fsn84026844%2F00202193456%2F1880041601%2F0372.jp2/pct:2.571534,24.219577,12.450666,6.335979/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_eritrea_ver01%2Fdata%2Fsn84026844%2F00202193456%2F1880041601%2F0372.jp2/pct:2.571534,24.219577,12.450666,6.335979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,7 +1669,7 @@ and its practical application. 15. The
 composing machino for printers. 16.  
 The telephone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763840%2F1880042101%2F0082.jp2/pct:62.385996,28.995488,11.003236,6.969841/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763840%2F1880042101%2F0082.jp2/pct:62.385996,28.995488,11.003236,6.969841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1694,7 +1694,7 @@ a large scale. 14. The electric mag­
 and its practical application. 15.  
 e composing machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151283%2F1880042201%2F0095.jp2/pct:1.667609,45.535714,13.218391,8.065149/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151283%2F1880042201%2F0095.jp2/pct:1.667609,45.535714,13.218391,8.065149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1719,7 +1719,7 @@ on a largo scale. 14. Tho electric mag­
 net and its practical application. 15.  
 The composing machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023760%2F1880042301%2F0475.jp2/pct:7.482536,46.007354,13.997851,7.693033/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023760%2F1880042301%2F0475.jp2/pct:7.482536,46.007354,13.997851,7.693033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ on a large scale. 14. The electric
 magnet and its practical application.  
 15. The composing machine for prin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nmu_elk_ver01%2Fdata%2Fsn93061632%2F0029602482A%2F1880042301%2F0405.jp2/pct:52.227074,66.734331,13.135371,8.525755/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_elk_ver01%2Fdata%2Fsn93061632%2F0029602482A%2F1880042301%2F0405.jp2/pct:52.227074,66.734331,13.135371,8.525755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1770,7 +1770,7 @@ on a large scale. 14. J.he electric mag­
 net and its practical application. : 15.  
 The composing machine for printers. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F00296029002%2F1880050101%2F0523.jp2/pct:65.595568,33.842149,9.667590,4.827831/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F00296029002%2F1880050101%2F0523.jp2/pct:65.595568,33.842149,9.667590,4.827831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1795,7 +1795,7 @@ lag on a large scale. 14. Th** electric
 : magnet and its practical application.  
 15. The composing machine for print
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287253%2F1880050501%2F0329.jp2/pct:44.875278,15.320969,11.064460,5.748095/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287253%2F1880050501%2F0329.jp2/pct:44.875278,15.320969,11.064460,5.748095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1820,7 +1820,7 @@ on a large scale. 14. i- The electric mag­
 net and its practical application. 15.  
 The composing machine for printers. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556801%2F1880051301%2F0159.jp2/pct:24.103448,84.763682,13.810345,6.218905/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556801%2F1880051301%2F0159.jp2/pct:24.103448,84.763682,13.810345,6.218905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1845,7 +1845,7 @@ on a laige scale. 14. The electric ma«£
 net and its practical application. 15.  
 The composing machine for printers. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F0029587403A%2F1880052001%2F0090.jp2/pct:22.661164,85.156250,14.386792,6.461864/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F0029587403A%2F1880052001%2F0090.jp2/pct:22.661164,85.156250,14.386792,6.461864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1885,7 +1885,7 @@ magnet and its practical ap lica-
   
 tiou. la. Ihe composing machin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1880052001%2F0083.jp2/pct:67.393445,75.693813,10.170207,6.403549/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1880052001%2F0083.jp2/pct:67.393445,75.693813,10.170207,6.403549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1921,7 +1921,7 @@ fourteenth, the electro-magnet and its practical
 application ; fifteenth, the composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25$6/pct:48.244048,55.671098,13.735119,6.668096/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25$6/pct:48.244048,55.671098,13.735119,6.668096/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1952,7 +1952,7 @@ a large scale, fourteenth, the electro­
 magnet and its practical application;  
 fifteenth, the composing machine fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_fidelius_ver01%2Fdata%2Fsn84038114%2F00271741558%2F1880062401%2F0625.jp2/pct:24.803536,54.026520,13.089391,9.152652/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_fidelius_ver01%2Fdata%2Fsn84038114%2F00271741558%2F1880062401%2F0625.jp2/pct:24.803536,54.026520,13.089391,9.152652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1990,7 +1990,7 @@ large ecale; fourteenth, the electro magnet
 and its practical application; fifteenth  
 the composing machine for printers. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_columnist_ver01%2Fdata%2Fsn92053943%2F00295873553%2F1880110601%2F0653.jp2/pct:29.915418,37.269974,12.257011,7.989751/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_columnist_ver01%2Fdata%2Fsn92053943%2F00295873553%2F1880110601%2F0653.jp2/pct:29.915418,37.269974,12.257011,7.989751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2013,7 +2013,7 @@ sand-blast for carving; . 11. The gauge lathe;
 ing on a large scale; 14. The electric magnet  
 and its practical application. 15. The compos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4$6/pct:22.419725,33.565609,13.274083,4.438250/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4$6/pct:22.419725,33.565609,13.274083,4.438250/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2043,7 +2043,7 @@ horseshoes. &#x27;
 The gram elevator, v  
 Artificial ice making on a large
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556278%2F1881042101%2F0300.jp2/pct:59.363015,84.083124,11.489078,6.131537/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556278%2F1881042101%2F0300.jp2/pct:59.363015,84.083124,11.489078,6.131537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2068,7 +2068,7 @@ on a large scale. .14. The electric msg
 et and its practical application. k15.  
 The composing machine for printerst&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027406%2F1881042601%2F0457.jp2/pct:85.153609,76.039329,11.392033,5.589398/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027406%2F1881042601%2F0457.jp2/pct:85.153609,76.039329,11.392033,5.589398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2104,7 +2104,7 @@ calo.
 14. Tho electric magnet and its prac­  
 tical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_archives_ver01%2Fdata%2Fsn87082573%2F00211101131%2F1881061001%2F1139.jp2/pct:79.280397,80.016105,14.185277,8.683398/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_archives_ver01%2Fdata%2Fsn87082573%2F00211101131%2F1881061001%2F1139.jp2/pct:79.280397,80.016105,14.185277,8.683398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2140,7 +2140,7 @@ scale.
 14. The electric magnet and its prac­  
 tica.l aplication
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212474927%2F1881061101%2F0531.jp2/pct:42.141421,15.229885,26.591823,80.268199/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212474927%2F1881061101%2F0531.jp2/pct:42.141421,15.229885,26.591823,80.268199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2168,7 +2168,7 @@ electric magnet and its practical 1
 application. 15. The composing  
 machine for printers. A sixteent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F0023728706A%2F1881061501%2F0303.jp2/pct:74.284951,85.396255,12.219804,9.971696/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F0023728706A%2F1881061501%2F0303.jp2/pct:74.284951,85.396255,12.219804,9.971696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2197,7 +2197,7 @@ scale.
 14. The electric magnet and its prac­  
 tical application. ,- . i - , f 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027200%2F1881062301%2F0367.jp2/pct:50.109633,18.431977,10.451688,6.820069/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027200%2F1881062301%2F0367.jp2/pct:50.109633,18.431977,10.451688,6.820069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2229,7 +2229,7 @@ am elevator; 1 artificial ice making
 a large scale ; 1 4, the electric mag  
 &#x27;eCirad its practical application ; 15
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295867504%2F1881071501%2F0105.jp2/pct:5.181592,66.883801,10.658938,6.897212/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295867504%2F1881071501%2F0105.jp2/pct:5.181592,66.883801,10.658938,6.897212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2256,7 +2256,7 @@ scale.
 14. &#x27;The electric magnet and its prac­  
 tical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291098%2F1881071501%2F0035.jp2/pct:54.099906,9.397810,10.724945,6.721411/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291098%2F1881071501%2F0035.jp2/pct:54.099906,9.397810,10.724945,6.721411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2284,7 +2284,7 @@ horse-shoes.
 14. The electric magnet and its practical  
 application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_jewelwing_ver01%2Fdata%2Fsn84036032%2F0029586056A%2F1881080901%2F0911.jp2/pct:45.970226,71.498116,17.428131,9.359296/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_jewelwing_ver01%2Fdata%2Fsn84036032%2F0029586056A%2F1881080901%2F0911.jp2/pct:45.970226,71.498116,17.428131,9.359296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2307,7 +2307,7 @@ the grain elevator; Id, artifical ice-mak­
 ing on a large scale; 14, the electric mag­  
 net and its practical application ; 15, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1881082501%2F0142.jp2/pct:17.482297,92.985996,11.129032,4.500949/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1881082501%2F0142.jp2/pct:17.482297,92.985996,11.129032,4.500949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2334,7 +2334,7 @@ II, The gange lathe.
 14, The electric magnet and Its practical ap­  
 plication.15, The telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_jaques_ver01%2Fdata%2Fsn84028490%2F00280775046%2F1881082501%2F0926.jp2/pct:76.630319,66.284971,13.363267,6.623292/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_jaques_ver01%2Fdata%2Fsn84028490%2F00280775046%2F1881082501%2F0926.jp2/pct:76.630319,66.284971,13.363267,6.623292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2360,7 +2360,7 @@ pons of tho world wide adoption, are:
 6. The hot air ongino.  
 7. The sewine machinn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F00280779490%2F1881082901%2F0816.jp2/pct:83.768352,77.759871,13.478793,7.493956/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F00280779490%2F1881082901%2F0816.jp2/pct:83.768352,77.759871,13.478793,7.493956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2385,7 +2385,7 @@ guugo lathe., 12, Tho grain elevator.
 scale. 14. The elcctrio magnet and  
 its practical application. 15. The com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477874%2F1881090701%2F0988.jp2/pct:75.625876,40.707581,10.094132,5.386282/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477874%2F1881090701%2F0988.jp2/pct:75.625876,40.707581,10.094132,5.386282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2436,7 +2436,7 @@ larg.) scale.
 14. The electric magnet and  
 practical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F0027952357A%2F1881111601%2F0569.jp2/pct:39.607531,37.979872,11.376293,14.795877/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F0027952357A%2F1881111601%2F0569.jp2/pct:39.607531,37.979872,11.376293,14.795877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2469,7 +2469,7 @@ shoes.
 12. The grain elevator.  
 13. Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn83025440%2F00295876487%2F1882010501%2F0384.jp2/pct:53.836797,68.204325,12.359194,12.178694/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn83025440%2F00295876487%2F1882010501%2F0384.jp2/pct:53.836797,68.204325,12.359194,12.178694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2496,7 +2496,7 @@ li The grain elevator.
 11. The electric magnet and iU practical ap­  
 plication.I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555675%2F1882101201%2F0561.jp2/pct:26.590745,89.173789,10.737527,5.168905/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555675%2F1882101201%2F0561.jp2/pct:26.590745,89.173789,10.737527,5.168905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2531,7 +2531,7 @@ scale.
 14. The electric magnet and Its  
 practical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027670%2F00237283399%2F1882102601%2F0388.jp2/pct:48.531712,57.114649,10.860122,6.442058/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027670%2F00237283399%2F1882102601%2F0388.jp2/pct:48.531712,57.114649,10.860122,6.442058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2554,7 +2554,7 @@ The grain elevator. 13. Artificial ice making on a
 large scale. 14. The electro-magnet and its prac-  
 tical application. 15. The telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5$3/pct:65.758048,75.461538,27.829699,9.980769/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5$3/pct:65.758048,75.461538,27.829699,9.980769/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2584,7 +2584,7 @@ teenth, the electro-magnet and its practical
 application ; fifteenth, the composing ma-  
 chine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3$50/pct:46.961806,70.766129,34.201389,18.490783/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3$50/pct:46.961806,70.766129,34.201389,18.490783/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2620,7 +2620,7 @@ scale.
 14. The electric magnet aud its practi?  
 cal application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551128%2F1885042301%2F0100.jp2/pct:50.655082,56.549012,11.993748,12.451248/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551128%2F1885042301%2F0100.jp2/pct:50.655082,56.549012,11.993748,12.451248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2649,7 +2649,7 @@ icale.
 14. The electric magnet aud its practi­  
 lal application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_gnomiemoore_ver01%2Fdata%2Fsn84026965%2F00294551190%2F1885042302%2F0596.jp2/pct:51.872340,61.388064,11.801418,7.648289/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_gnomiemoore_ver01%2Fdata%2Fsn84026965%2F00294551190%2F1885042302%2F0596.jp2/pct:51.872340,61.388064,11.801418,7.648289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2674,7 +2674,7 @@ ice making on a large scale. 14 The
 electric msgnet and its practical appli­  
 cation 15 The telephone. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027388%2F1886041301%2F0396.jp2/pct:60.776869,83.085221,10.674650,5.663430/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027388%2F1886041301%2F0396.jp2/pct:60.776869,83.085221,10.674650,5.663430/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2697,7 +2697,7 @@ large scale; 11. the electric magnet and its prac­
 tical application; 15, the telephone.  
 A Jackson. Mich., man owns the highes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/gu_bobbsey_ver02%2Fdata%2Fsn86063034%2F00414181958%2F1887072601%2F0728.jp2/pct:71.160361,29.369781,12.558818,4.011134/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_bobbsey_ver02%2Fdata%2Fsn86063034%2F00414181958%2F1887072601%2F0728.jp2/pct:71.160361,29.369781,12.558818,4.011134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2727,7 +2727,7 @@ ing ; 11, the gauge lathe ; 12, the grain elevator ;
 13, artificial ice-making on a large scale ; 14, the  
 electric magnet and its practical application ; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1887-08-13_64_1665$10/pct:45.629529,53.902116,19.338768,5.208333/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1887-08-13_64_1665$10/pct:45.629529,53.902116,19.338768,5.208333/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2751,7 +2751,7 @@ elevator; 13, artificial ice making on a
 large-scale; 14, the electric magnet and  
 its practical application; 15, the tele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588307%2F1887082001%2F0674.jp2/pct:6.464117,79.205062,13.925782,6.426735/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588307%2F1887082001%2F0674.jp2/pct:6.464117,79.205062,13.925782,6.426735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2775,7 +2775,7 @@ elevator; 13, artificial ice making on a
 large scale; 14, the electric magnet and  
 its practical application; 15, the tele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dorothy_ver01%2Fdata%2Fsn85033295%2F00279550079%2F1887082401%2F0145.jp2/pct:62.185166,86.876543,13.722425,6.373457/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dorothy_ver01%2Fdata%2Fsn85033295%2F00279550079%2F1887082401%2F0145.jp2/pct:62.185166,86.876543,13.722425,6.373457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2799,7 +2799,7 @@ elevator; 13, artificial ice-making on a
 large scale; 14, the electric magnet and  
 its practical application; 15, the tele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1887082701%2F0939.jp2/pct:17.738201,70.557880,10.814782,5.024407/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1887082701%2F0939.jp2/pct:17.738201,70.557880,10.814782,5.024407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2829,7 +2829,7 @@ the grain elevator; 13, artificial ice-making on a
 large scale; 14, the electric magnet and its prac­  
 tical application; and, 15, the telephone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn82015679%2F00271745710%2F1887082901%2F0529.jp2/pct:50.792065,25.254861,14.171543,3.867578/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn82015679%2F00271745710%2F1887082901%2F0529.jp2/pct:50.792065,25.254861,14.171543,3.867578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2862,7 +2862,7 @@ vator; 13, artificial ice-making on a
 its practical application; 15, the tele-  
 phone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_zions-herald_1887-09-07_64_36$6/pct:20.443645,38.112446,12.185252,5.547880/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1887-09-07_64_36$6/pct:20.443645,38.112446,12.185252,5.547880/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2889,7 +2889,7 @@ facture of horseshoes; 10, the sand-blast for carving; 11, the gauge lathe:
 12, the grain elevator; 13, artificial ice-making on a large scale ; 14 the  
 electric magnet and its practical application ; and 15, the telephone. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370$14/pct:47.204301,43.315832,36.102151,4.826333/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370$14/pct:47.204301,43.315832,36.102151,4.826333/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2911,7 +2911,7 @@ lathe; 12, the grain elevator; 13, artificial ice.
 making on a large scale; 14, the electriS  
 magnet and its practical application; and,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/gu_fornax_ver01%2Fdata%2Fsn89053706%2F00393344659%2F1887091301%2F0006.jp2/pct:78.595369,31.870188,13.919358,3.792185/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_fornax_ver01%2Fdata%2Fsn89053706%2F00393344659%2F1887091301%2F0006.jp2/pct:78.595369,31.870188,13.919358,3.792185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2935,7 +2935,7 @@ elevator; 13, artificial ice making on s
 large scale; 14, the eleetric magnet and  
 its practical application; 15, the tele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F00295874557%2F1887091501%2F0365.jp2/pct:53.210273,78.639241,14.747191,6.474156/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F00295874557%2F1887091501%2F0365.jp2/pct:53.210273,78.639241,14.747191,6.474156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2957,7 +2957,7 @@ grain elevator; 13, artificial ice-making on a large
 scale; 14, the electric magnet and its practical ap¬  
 plication ; and 15, the telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1887-09-15_58_37$6/pct:36.001816,79.522110,14.058717,3.676073/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1887-09-15_58_37$6/pct:36.001816,79.522110,14.058717,3.676073/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2982,7 +2982,7 @@ elevator; 13, artificial ice-making on a
 large scale; 14, the electric magnet and j  
 its practical application, and 13, the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194060%2F1887092101%2F0063.jp2/pct:28.732059,24.996431,13.897093,5.935046/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194060%2F1887092101%2F0063.jp2/pct:28.732059,24.996431,13.897093,5.935046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3016,7 +3016,7 @@ shoes
 12 The crain elevator  
 13 Artificial Icemaking on a larg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_echo_ver03%2Fdata%2Fsn86064205%2F0020653560A%2F1887092201%2F0513.jp2/pct:30.853056,31.014656,14.575175,11.147125/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_echo_ver03%2Fdata%2Fsn86064205%2F0020653560A%2F1887092201%2F0513.jp2/pct:30.853056,31.014656,14.575175,11.147125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3039,7 +3039,7 @@ the grain elevator ; 13, artificial ice mak.
 Jng on a targe scale ; 14, the electric mag­  
 net and Its practical application ; 15, lli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_foxtrot_ver01%2Fdata%2Fsn87076843%2F00237282735%2F1887092301%2F0304.jp2/pct:7.315175,71.848426,10.856031,5.251380/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_foxtrot_ver01%2Fdata%2Fsn87076843%2F00237282735%2F1887092301%2F0304.jp2/pct:7.315175,71.848426,10.856031,5.251380/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3063,7 +3063,7 @@ gaug lathe. (12) the rain elevator, (13) arti- !
 Scial ice-making on a large scale, (14) the i  
 electric magnet and ltspracticalapplieation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477734%2F1887092301%2F0069.jp2/pct:52.558666,74.069726,11.407973,4.894941/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477734%2F1887092301%2F0069.jp2/pct:52.558666,74.069726,11.407973,4.894941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3092,7 +3092,7 @@ scale.
 14. The electrical magnet and its prac­  
 tical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_lucretia_ver01%2Fdata%2Fsn86086852%2F00271768928%2F1887092301%2F0366.jp2/pct:24.020482,79.178042,9.824898,6.257508/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_lucretia_ver01%2Fdata%2Fsn86086852%2F00271768928%2F1887092301%2F0366.jp2/pct:24.020482,79.178042,9.824898,6.257508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3114,7 +3114,7 @@ the gauge lathe; 13, the grain elevator; 13.
 artillcial ice making on a large scale; 11, the  
 electric iiiugnet and its practical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471574%2F1887092401%2F0258.jp2/pct:37.152435,71.863371,14.375863,4.492291/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471574%2F1887092401%2F0258.jp2/pct:37.152435,71.863371,14.375863,4.492291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3143,7 +3143,7 @@ tlie gauge lathe; 12, tbe grain elevator; 13,
 artificial ice making on a large scale; 14, tbe  
 electric magnet au&#x27;d its practical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775290%2F1887092901%2F0080.jp2/pct:27.716947,85.798078,10.295800,6.427056/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775290%2F1887092901%2F0080.jp2/pct:27.716947,85.798078,10.295800,6.427056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3180,7 +3180,7 @@ scale.
 14. The electrical magnet and its  
 practical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020515%2F1887100101%2F0730.jp2/pct:43.770244,7.034393,30.317426,85.048670/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020515%2F1887100101%2F0730.jp2/pct:43.770244,7.034393,30.317426,85.048670/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3207,7 +3207,7 @@ larsre scale. (14) the electric magnet and J
 its practical application, (15) the telephone.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194060%2F1887100501%2F0078.jp2/pct:30.481946,83.543987,15.083424,6.983719/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194060%2F1887100501%2F0078.jp2/pct:30.481946,83.543987,15.083424,6.983719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3233,7 +3233,7 @@ artificial ice-making on a large
 scale; (14) the electric magent and  
 its practical application; (lo) th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_gordon_ver01%2Fdata%2Fsn89058248%2F00296020424%2F1887100601%2F0426.jp2/pct:34.297204,80.792208,12.313290,8.727273/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_gordon_ver01%2Fdata%2Fsn89058248%2F00296020424%2F1887100601%2F0426.jp2/pct:34.297204,80.792208,12.313290,8.727273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3269,7 +3269,7 @@ scale.
 14. The electrical magnet and its  
 practical application.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F0051415210A%2F1887100701%2F0530.jp2/pct:61.994609,72.352399,10.889488,11.327126/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F0051415210A%2F1887100701%2F0530.jp2/pct:61.994609,72.352399,10.889488,11.327126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3294,7 +3294,7 @@ tor; (13) artificial ice making on a
 large scale; (1.1) the electric magnet  
 t and its practical application; (15) th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_angel_ver01%2Fdata%2Fsn85034336%2F00211101040%2F1887100801%2F0499.jp2/pct:80.899332,65.825364,14.968604,6.913309/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_angel_ver01%2Fdata%2Fsn85034336%2F00211101040%2F1887100801%2F0499.jp2/pct:80.899332,65.825364,14.968604,6.913309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3334,7 +3334,7 @@ grain elevator; 13. artificial ice-making
 on a large scale; li, the electric mag­  
 net and its practical application; 15
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556837%2F1887101301%2F0696.jp2/pct:42.575459,88.324757,12.149249,5.728988/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556837%2F1887101301%2F0696.jp2/pct:42.575459,88.324757,12.149249,5.728988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3359,7 +3359,7 @@ gage lathe, (12) the grain elevator,
 scale, (14) the electric magnet and its  
 practical application, (15) the tele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769362%2F1887101301%2F0685.jp2/pct:58.968540,71.581040,10.657233,5.339890/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769362%2F1887101301%2F0685.jp2/pct:58.968540,71.581040,10.657233,5.339890/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3407,7 +3407,7 @@ grain elevator; 13, artificial ice-making
 on a largo scale; 14, tho electric mag­  
 net and its practical application; 1ft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_igglybuff_ver01%2Fdata%2Fsn84023017%2F00414212992%2F1887101901%2F0140.jp2/pct:84.286906,76.990228,11.063386,5.579805/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_igglybuff_ver01%2Fdata%2Fsn84023017%2F00414212992%2F1887101901%2F0140.jp2/pct:84.286906,76.990228,11.063386,5.579805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3431,7 +3431,7 @@ elevator; 13, artificial ice making on a
 targe scale; 14, the electric magnet and  
 its practical application; 15, the tele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn97071028%2F00416152652%2F1887102101%2F0117.jp2/pct:61.124438,84.649289,10.779610,5.578642/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn97071028%2F00416152652%2F1887102101%2F0117.jp2/pct:61.124438,84.649289,10.779610,5.578642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3455,7 +3455,7 @@ grain elevator 13, artificial ice-making
 ou a largo scale 14, tho electric mag­  
 not and Its practical application 15
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn83025167%2F00279528414%2F1887102701%2F0630.jp2/pct:81.519711,78.087688,10.674460,5.594702/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn83025167%2F00279528414%2F1887102701%2F0630.jp2/pct:81.519711,78.087688,10.674460,5.594702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3485,7 +3485,7 @@ tical application, (15) the telephone.
   
 FARM AND HOUSEHOLD.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_falcon_ver01%2Fdata%2Fsn99068076%2F00415623367%2F1887102801%2F0360.jp2/pct:30.947137,5.786340,21.220264,87.301533/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_falcon_ver01%2Fdata%2Fsn99068076%2F00415623367%2F1887102801%2F0360.jp2/pct:30.947137,5.786340,21.220264,87.301533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3509,7 +3509,7 @@ grain elevator, 13, artificial ice-making
 oj a large scale; 14, the electric mag­  
 net and its practical application; 15
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_incadove_ver01%2Fdata%2Fsn84021912%2F00211104697%2F1887102901%2F0226.jp2/pct:44.844029,90.290147,12.477648,6.018386/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_incadove_ver01%2Fdata%2Fsn84021912%2F00211104697%2F1887102901%2F0226.jp2/pct:44.844029,90.290147,12.477648,6.018386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3537,7 +3537,7 @@ phone.
 -»-   
 THE POPE&#x27;S SECLUSION
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_chaska_ver01%2Fdata%2Fsn90059522%2F00175033270%2F1887103001%2F0720.jp2/pct:25.910892,2.879352,11.529912,5.828042/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_chaska_ver01%2Fdata%2Fsn90059522%2F00175033270%2F1887103001%2F0720.jp2/pct:25.910892,2.879352,11.529912,5.828042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3563,7 +3563,7 @@ scale, (14) the electric magnet and its
 practical application, (15) the tele­  
 phone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_daikon_ver02%2Fdata%2Fsn97065762%2F00332899661%2F1887110501%2F0590.jp2/pct:9.773737,82.481586,13.208081,6.609220/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_daikon_ver02%2Fdata%2Fsn97065762%2F00332899661%2F1887110501%2F0590.jp2/pct:9.773737,82.481586,13.208081,6.609220/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3589,7 +3589,7 @@ artificial ice-making on a large
 scale; 15, the electric magnet and  
 it3 practical application; 15, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_deserttortoise_ver01%2Fdata%2Fsn94050557%2F00202192841%2F1887110901%2F0530.jp2/pct:68.582915,54.887328,11.859296,8.472344/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_deserttortoise_ver01%2Fdata%2Fsn94050557%2F00202192841%2F1887110901%2F0530.jp2/pct:68.582915,54.887328,11.859296,8.472344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3636,7 +3636,7 @@ grain elevator; l.&#x27;J, artificial ice-making
 on a large scale; 14, the electric mag­  
 net and its plait i Ml application: l&quot;t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86053634%2F0021247776A%2F1887113001%2F0087.jp2/pct:80.250740,52.554653,9.381603,4.584635/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86053634%2F0021247776A%2F1887113001%2F0087.jp2/pct:80.250740,52.554653,9.381603,4.584635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3656,7 +3656,7 @@ grain elevator; 18, -artiicia iie-making
 on a la&#x27;rge scale; 14,&#x27; the electrio mag­  
 net anid its&#x27; practical&#x27; application; 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F0023728849A%2F1887120801%2F0069.jp2/pct:80.638933,56.610899,12.493418,3.857829/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F0023728849A%2F1887120801%2F0069.jp2/pct:80.638933,56.610899,12.493418,3.857829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3682,7 +3682,7 @@ The grain elevator. 13 Artificial ice mak
 in;, on a large scale, 14 The electric magnet  
 and its practical applictUon, and 15
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_casablanca_ver01%2Fdata%2Fsn85052020%2F00206533833%2F1887121301%2F0436.jp2/pct:22.849782,23.853211,14.248910,8.133892/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_casablanca_ver01%2Fdata%2Fsn85052020%2F00206533833%2F1887121301%2F0436.jp2/pct:22.849782,23.853211,14.248910,8.133892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3707,7 +3707,7 @@ grain elevator, (13) artificial ice-mak­
 ing on a large scale. (14) the electric  
 magnet aud its practical application-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_ibo_ver01%2Fdata%2Fsn91059394%2F00383347737%2F1887121401%2F0464.jp2/pct:26.522974,34.184243,10.893134,6.340758/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ibo_ver01%2Fdata%2Fsn91059394%2F00383347737%2F1887121401%2F0464.jp2/pct:26.522974,34.184243,10.893134,6.340758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3732,7 +3732,7 @@ grain elevator, (13) artificial ice-mak­
 ing on a large scale. (14) the electric  
 magnet and its practical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_ibo_ver01%2Fdata%2Fsn91059394%2F00383347737%2F1887121401%2F0465.jp2/pct:26.354595,34.379098,10.888203,6.382769/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ibo_ver01%2Fdata%2Fsn91059394%2F00383347737%2F1887121401%2F0465.jp2/pct:26.354595,34.379098,10.888203,6.382769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3759,7 +3759,7 @@ the electric magnet and its practical
 application ; 15, the telephone.  
 Tiik Central Committee of the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291116%2F1887121601%2F0151.jp2/pct:37.582006,83.126404,10.590440,8.185527/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291116%2F1887121601%2F0151.jp2/pct:37.582006,83.126404,10.590440,8.185527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3838,7 +3838,7 @@ artificial ice making on a &#x27;large scale
 14, the electric magnet and Us practical  
 application 15, the teleplaone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_mustang_ver01%2Fdata%2Fsn99067997%2F00415625078%2F1888011301%2F0452.jp2/pct:68.223094,80.656285,14.271130,11.049314/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_mustang_ver01%2Fdata%2Fsn99067997%2F00415625078%2F1888011301%2F0452.jp2/pct:68.223094,80.656285,14.271130,11.049314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3864,7 +3864,7 @@ tor; (13) artificial ice making on a
 large scale; (14) the electric mag­  
 net and its practical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2F2013271051%2F00295873966%2F1888011401%2F0331.jp2/pct:41.878284,20.286086,12.302977,8.680104/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2F2013271051%2F00295873966%2F1888011401%2F0331.jp2/pct:41.878284,20.286086,12.302977,8.680104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4007,7 +4007,7 @@ j grain elevator; 13. artificial ice-making
 on a large scale; 14. the electric tuag­  
 j not and its practical application; 15
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869239%2F1888033001%2F0213.jp2/pct:14.909639,62.223926,12.801205,6.165644/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869239%2F1888033001%2F0213.jp2/pct:14.909639,62.223926,12.801205,6.165644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4034,7 +4034,7 @@ lath ; (12) the grain elevator ;
 large scale ; (14) the electric mag­  
 net and its practical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn85034447%2F00199917286%2F1888042801%2F0274.jp2/pct:17.535336,82.103018,12.367491,8.743438/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn85034447%2F00199917286%2F1888042801%2F0274.jp2/pct:17.535336,82.103018,12.367491,8.743438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4080,7 +4080,7 @@ the grain elevator; 13, artificial ice making on a large
 scale; 14, the electric magnet and its practical applica-  
 tion; 15, the telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_industry-week_1888-05-03_21_19$10/pct:61.542056,52.845528,25.911215,8.451897/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_industry-week_1888-05-03_21_19$10/pct:61.542056,52.845528,25.911215,8.451897/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4163,7 +4163,7 @@ machinemanufacfure of horse shoes
 10 Tho sandblast for carving 11  
 Tho gauge lathe 12 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_blackwidow_ver01%2Fdata%2Fsn84021913%2F00211105112%2F1888092901%2F0093.jp2/pct:19.603025,60.891594,12.022684,7.701986/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_blackwidow_ver01%2Fdata%2Fsn84021913%2F00211105112%2F1888092901%2F0093.jp2/pct:19.603025,60.891594,12.022684,7.701986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4188,7 +4188,7 @@ ico-making on a largo scale. 14. The
 electric magnet and its practical appli  
 cation. 15. The telephone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_dewitt_ver01%2Fdata%2Fsn99021999%2F00206539616%2F1888093001%2F0748.jp2/pct:44.495413,59.524959,12.544107,5.681191/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_dewitt_ver01%2Fdata%2Fsn99021999%2F00206539616%2F1888093001%2F0748.jp2/pct:44.495413,59.524959,12.544107,5.681191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4211,7 +4211,7 @@ grain elevator; 13, Artifictal ice-making on a large
 scale; 14, The electric magnet and its practical  
 application; 16, The telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1888-10-04_59_40$7/pct:23.967890,76.495267,13.331422,4.948365/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1888-10-04_59_40$7/pct:23.967890,76.495267,13.331422,4.948365/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4234,7 +4234,7 @@ lathe; 12. The gram elevator; 13. Arti­
 ficial ice making on a Urge scale ; 14. Tbe  
 electric magnet and its
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86053634%2F0021247776A%2F1888103101%2F0276.jp2/pct:23.488701,77.608142,9.477401,4.860051/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86053634%2F0021247776A%2F1888103101%2F0276.jp2/pct:23.488701,77.608142,9.477401,4.860051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4263,7 +4263,7 @@ shoes.
 , 14. The electric magnet and its practic  
 application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2F2012218613%2F00237280842%2F1888103101%2F0054.jp2/pct:37.670274,58.143213,11.606196,6.771309/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2F2012218613%2F00237280842%2F1888103101%2F0054.jp2/pct:37.670274,58.143213,11.606196,6.771309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4288,7 +4288,7 @@ gauge lathe 12. The grain elevator
 scale 14. The electric magnet and its At this the fellow&quot; £t &quot;Day&quot; knoddng^Wm  
 practical application 15, The tele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_audi_ver01%2Fdata%2Fsn89064939%2F0020653798A%2F1888111401%2F0374.jp2/pct:4.401893,86.534882,29.481677,8.439431/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_audi_ver01%2Fdata%2Fsn89064939%2F0020653798A%2F1888111401%2F0374.jp2/pct:4.401893,86.534882,29.481677,8.439431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4313,7 +4313,7 @@ tor; 13, Artilicial ice making on a
 large scale; 14, The electric magnet  
 and its practical application; 15, Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1888113001%2F0198.jp2/pct:51.190476,30.826396,12.037529,6.866966/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1888113001%2F0198.jp2/pct:51.190476,30.826396,12.037529,6.866966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4337,7 +4337,7 @@ grain-elevator; 13. Artificial ice-making
 on a largo scale; If. Tho electric mag­  
 net and its practical application ; 15
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073907%2F00416156724%2F1889010301%2F0007.jp2/pct:32.298224,79.978769,12.379354,6.656051/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073907%2F00416156724%2F1889010301%2F0007.jp2/pct:32.298224,79.978769,12.379354,6.656051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4362,7 +4362,7 @@ magnet and its practical application; loth,
 the telephone.  
 Congressman Ford says of the work o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_gore_ver01%2Fdata%2Fsn86092523%2F00279550377%2F1889010601%2F0633.jp2/pct:29.789864,35.032800,12.931897,5.712203/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gore_ver01%2Fdata%2Fsn86092523%2F00279550377%2F1889010601%2F0633.jp2/pct:29.789864,35.032800,12.931897,5.712203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4420,7 +4420,7 @@ nctand its practical application; 15,
 telephone. &#x27;  
 The Sterling, (TUee county, KaasaB
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_jones_ver01%2Fdata%2Fsn83040592%2F00212473960%2F1891011701%2F0450.jp2/pct:55.025516,85.274787,16.241402,6.768284/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jones_ver01%2Fdata%2Fsn83040592%2F00212473960%2F1891011701%2F0450.jp2/pct:55.025516,85.274787,16.241402,6.768284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4445,7 +4445,7 @@ tho grain elevator; 13, nrlificTnlice-making
 on n largo scale; 14, tho electric mag­  
 net and its practical application; IS, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/okhi_comanche_ver01%2Fdata%2Fsn83025010%2F00237284665%2F1891012201%2F0224.jp2/pct:38.082040,55.505108,11.123429,4.327469/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_comanche_ver01%2Fdata%2Fsn83025010%2F00237284665%2F1891012201%2F0224.jp2/pct:38.082040,55.505108,11.123429,4.327469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

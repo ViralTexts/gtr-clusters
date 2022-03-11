@@ -116,7 +116,7 @@ Faith, Truth aud Hope?best boons to mortals given
 Waved their bright wings and answered &quot;yes, in  
 Heaven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_chanel_ver01%2Fdata%2Fsn84024735%2F00415664369%2F1857042401%2F0159.jp2/pct:2.161300,5.075743,14.669761,17.219813/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_chanel_ver01%2Fdata%2Fsn84024735%2F00415664369%2F1857042401%2F0159.jp2/pct:2.161300,5.075743,14.669761,17.219813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ I aith, Truth and II &gt;pe—Lest boons to mortal given
 Wav’d their bright vuugs, and whispered, 44 Vos in  
 Heaven/’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1857051201%2F0708.jp2/pct:15.984081,19.612216,12.550326,15.842296/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1857051201%2F0708.jp2/pct:15.984081,19.612216,12.550326,15.842296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ And where the girls m.y reatP
 F.ith. Truth and Hope best boons to mortal, given  
 Waved their bright wingsand whimpered, &quot;Unly Heaven:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F00280776373%2F1857051501%2F0138.jp2/pct:2.215062,38.882888,12.323802,14.642802/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F00280776373%2F1857051501%2F0138.jp2/pct:2.215062,38.882888,12.323802,14.642802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ Fnlth, Trulh and Ilpp beat boons to mortals given­
 Waved thel- bright winga and whlapcred, &quot;I&#x27;m, in  
 ears a.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668156%2F1857051901%2F0043.jp2/pct:21.737854,25.102437,12.476149,8.982100/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668156%2F1857051901%2F0043.jp2/pct:21.737854,25.102437,12.476149,8.982100/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ given—
 \\ av d their bright wing*, and whispered,  
 &quot; Fes, in Heaven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn83032194%2F00296028666%2F1857052101%2F0006.jp2/pct:16.643984,61.119314,14.385806,9.850243/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn83032194%2F00296028666%2F1857052101%2F0006.jp2/pct:16.643984,61.119314,14.385806,9.850243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ liken to the graces?
 did the lAfatfy deep, its answer gSt*,&#x27;&quot;*  
 murmuring, &quot;not while brandy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529479%2F1857060601%2F0022.jp2/pct:73.697026,14.057838,10.812351,5.584883/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529479%2F1857060601%2F0022.jp2/pct:73.697026,14.057838,10.812351,5.584883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ gi*rn
 Waved their bright wings and answered, &#x27;yes in  
 heaven.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1857060601%2F0455.jp2/pct:34.611797,6.921026,16.400549,25.017436/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1857060601%2F0455.jp2/pct:34.611797,6.921026,16.400549,25.017436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ given,
 m Waved their bright wings and answered  
 44yes, in Heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1857061101%2F0589.jp2/pct:-0.776593,6.976443,21.509434,31.806023/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1857061101%2F0589.jp2/pct:-0.776593,6.976443,21.509434,31.806023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ given,
 Waved their bright ings and answered &quot; yes,  
 iu litavc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn86083444%2F00296028551%2F1857061201%2F0266.jp2/pct:4.372771,24.777312,12.162092,25.212702/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn86083444%2F00296028551%2F1857061201%2F0266.jp2/pct:4.372771,24.777312,12.162092,25.212702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ Faiih. Truth and Hope?best noon to mortals given.
 Waved their bright wings and answered &quot;Yes, in  
 Heaven.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654097%2F1857062301%2F0402.jp2/pct:1.352517,2.503790,16.445821,18.936331/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654097%2F1857062301%2F0402.jp2/pct:1.352517,2.503790,16.445821,18.936331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ Faith, Truth and Hope beats boons to mortals
 Waived their bright wings and answered &quot;yes in  
 ffemat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028820%2F00280775460%2F1857070201%2F0189.jp2/pct:6.078360,17.055948,12.321494,22.786529/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028820%2F00280775460%2F1857070201%2F0189.jp2/pct:6.078360,17.055948,12.321494,22.786529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ Faith, Hope and Truth?best boons to &quot;mortals
 Waved their bright wings, and answered* &quot;Yes, in .  
 Heaven!&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862683%2F1857070201%2F0316.jp2/pct:1.644502,14.739361,15.815816,15.589833/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862683%2F1857070201%2F0316.jp2/pct:1.644502,14.739361,15.815816,15.589833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ tals given,
 Waved their bright wings and answered &quot;yes,  
 in Haven!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032276%2F00296028587%2F1857070901%2F0659.jp2/pct:47.292380,16.869754,15.067079,29.383776/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032276%2F00296028587%2F1857070901%2F0659.jp2/pct:47.292380,16.869754,15.067079,29.383776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ Faith, Truth and Hope—best boon to mortals given,
 Waved their, bright wlugs and answered &quot;Yes, in  
 } Heaven,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1857081201%2F0217.jp2/pct:6.852552,27.443457,14.357278,19.049542/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1857081201%2F0217.jp2/pct:6.852552,27.443457,14.357278,19.049542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ And where tho girls rn&#x27;iy rest?
 aith, Truth nnd Hope heit boons to mortals given,  
 Waved their wing und answered, &#x27; Ves, in Iteuocn!&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035102%2F00296027078%2F1857081301%2F0890.jp2/pct:5.833333,39.122604,12.361111,19.258973/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035102%2F00296027078%2F1857081301%2F0890.jp2/pct:5.833333,39.122604,12.361111,19.258973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ given,
 W red their bright wings, and whispered, “Yes  
 in Heaven 1”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1858030301%2F0008.jp2/pct:3.391591,5.374476,12.884433,20.404618/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1858030301%2F0008.jp2/pct:3.391591,5.374476,12.884433,20.404618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ gn ..
 navti tneir ongm wings ana answerem  
 &#x27; &quot;Yes, inHeaven.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F0028077490A%2F1867041801%2F0069.jp2/pct:22.395306,52.212150,13.999595,30.591260/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F0028077490A%2F1867041801%2F0069.jp2/pct:22.395306,52.212150,13.999595,30.591260/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -989,7 +989,7 @@ given,
 Waved their bright wings and answered, Yes,  
 in heaven.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1867122401%2F0424.jp2/pct:5.908336,7.930121,12.542640,16.769719/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1867122401%2F0424.jp2/pct:5.908336,7.930121,12.542640,16.769719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ given.
 Waved their bright wings and answered,  
 yes, in Heaven.” Refoktkr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_duval_ver01%2Fdata%2Fsn84038206%2F00393349232%2F1890122001%2F0692.jp2/pct:26.711681,31.596281,10.766374,4.186846/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_duval_ver01%2Fdata%2Fsn84038206%2F00393349232%2F1890122001%2F0692.jp2/pct:26.711681,31.596281,10.766374,4.186846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

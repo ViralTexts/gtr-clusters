@@ -60,7 +60,7 @@ money, old fellow; you take it and have
 your hair cut;” saying which he scamp­  
 ered off. The Judge thought it so good 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/gu_bobbsey_ver02%2Fdata%2Fsn82015137%2F00414181946%2F1887021101%2F0592.jp2/pct:31.697650,28.522572,12.286496,10.648715/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_bobbsey_ver02%2Fdata%2Fsn82015137%2F00414181946%2F1887021101%2F0592.jp2/pct:31.697650,28.522572,12.286496,10.648715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ old fellow, take it and have your hair cut.&quot;
 Saying which he scampered off. Augusta  
 (Go J Cnroukfe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_hotel_ver01%2Fdata%2Fsn87076917%2F00237289225%2F1887022601%2F0093.jp2/pct:19.747814,82.405904,12.324588,11.793358/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_hotel_ver01%2Fdata%2Fsn87076917%2F00237289225%2F1887022601%2F0093.jp2/pct:19.747814,82.405904,12.324588,11.793358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ old fellow you take it and have your hair
 cut.&quot; Saying which ho scampered off.—  
 Auf/vsta [Ga.) Chronicle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_goshawk_ver03%2Fdata%2Fsn2001063112%2F00415623409%2F1887030401%2F0572.jp2/pct:28.686445,17.486427,12.137421,13.915142/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_goshawk_ver03%2Fdata%2Fsn2001063112%2F00415623409%2F1887030401%2F0572.jp2/pct:28.686445,17.486427,12.137421,13.915142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ old fellow; take it sad have jr&lt; ur hair ca
 _- which he scsunpsred off.?Augv  
 (Qa.) Chronicle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_pinkfloyd_ver01%2Fdata%2Fsn86071854%2F00175048170%2F1887030601%2F0221.jp2/pct:47.745980,29.515960,14.995912,13.400571/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_pinkfloyd_ver01%2Fdata%2Fsn86071854%2F00175048170%2F1887030601%2F0221.jp2/pct:47.745980,29.515960,14.995912,13.400571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ money, old fellow; you take it and have
 your hair cut;&quot; saying which he scampered  
 off. The judge thought it so good a stor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_jeffers_ver01%2Fdata%2Fsn90059522%2F00175033233%2F1887030701%2F0069.jp2/pct:84.223412,87.566466,13.032390,10.537946/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_jeffers_ver01%2Fdata%2Fsn90059522%2F00175033233%2F1887030701%2F0069.jp2/pct:84.223412,87.566466,13.032390,10.537946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ The boy said: “‘I don’t want your money, old fellow;
 you take it and have your hair cut.””? Saying which he  
 scampered off.—Augusta (Ga.) Chronicle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_central-law-journal_1887-03-11_24$23/pct:48.694030,38.414634,34.925373,34.679878/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_central-law-journal_1887-03-11_24$23/pct:48.694030,38.414634,34.925373,34.679878/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ want your money old fellow you take it
 and have your hair cut saying which he  
 scampered off The Judge thought ii s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_echo_ver03%2Fdata%2Fsn86064205%2F00206535581%2F1887031401%2F0039.jp2/pct:38.204171,76.987997,14.083411,11.660058/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_echo_ver03%2Fdata%2Fsn86064205%2F00206535581%2F1887031401%2F0039.jp2/pct:38.204171,76.987997,14.083411,11.660058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ money, old fel ow; you take it and have
 your hair cut.&quot; Saying which he scamp­  
 ered off. Augusta (Ja.) Chronic&#x27;.&#x27;:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn97067613%2F00202197280%2F1887031701%2F0426.jp2/pct:15.762344,76.262793,9.427564,11.786068/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn97067613%2F00202197280%2F1887031701%2F0426.jp2/pct:15.762344,76.262793,9.427564,11.786068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ Augusta Chronicle.
 I have just heard the following good  
 story on Chief Justice Bleckley. Nobod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769507%2F1887031701%2F0052.jp2/pct:50.935304,61.812144,14.161876,2.137887/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769507%2F1887031701%2F0052.jp2/pct:50.935304,61.812144,14.161876,2.137887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ The boy said:
 you take it and have your hair cut,” say­  
 ing which he scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769507%2F1887031701%2F0052.jp2/pct:50.848618,65.487034,14.248563,12.520557/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769507%2F1887031701%2F0052.jp2/pct:50.848618,65.487034,14.248563,12.520557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ money, old fe’low; you take it and have
 your hair cut.” Htying which he seam­  
 jx’red otT. —| Augusta (Hi.) Chronicle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187183%2F1887031801%2F0045.jp2/pct:70.836797,66.924665,12.889074,15.318197/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187183%2F1887031801%2F0045.jp2/pct:70.836797,66.924665,12.889074,15.318197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ money, old fellow; you take it and
 have your hair cut.” Saying which he  
 scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769222%2F1887031901%2F0048.jp2/pct:71.802403,78.724668,10.534045,11.554857/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769222%2F1887031901%2F0048.jp2/pct:71.802403,78.724668,10.534045,11.554857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ money, old fellow : you take it and
 have your hair cut.&quot; Saying which  
 he scampered off. Augusta Chronicle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F0029602398A%2F1887032301%2F0334.jp2/pct:62.475442,17.845462,10.962672,23.139820/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F0029602398A%2F1887032301%2F0334.jp2/pct:62.475442,17.845462,10.962672,23.139820/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ money, old fellow; you take it and have
 your hair cut.&#x27; Saying which he scam­  
 pered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F0029602854A%2F1887032401%2F0467.jp2/pct:69.166774,69.421667,12.967966,21.763573/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F0029602854A%2F1887032401%2F0467.jp2/pct:69.166774,69.421667,12.967966,21.763573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ Baid: &quot;I don&#x27;t want your mouey, old fel­
 low; you take it and have your hair cut,&quot;  
 saying which he scampered oft. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556837%2F1887040701%2F0469.jp2/pct:42.954442,30.704354,11.881338,9.334397/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556837%2F1887040701%2F0469.jp2/pct:42.954442,30.704354,11.881338,9.334397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -707,7 +707,7 @@ money, old&#x27;fellow; you take it and have
 your hair cut,&quot; saying which he scam­  
 pered off. The Judge thought it s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296026839%2F1887040701%2F0061.jp2/pct:72.438557,73.780412,10.564954,12.127949/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296026839%2F1887040701%2F0061.jp2/pct:72.438557,73.780412,10.564954,12.127949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ earned your money ; here it is.
 1 he boy said : &quot;I  
 dou&#x27;t want you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_alburg_ver02%2Fdata%2Fsn84023253%2F0020029631A%2F1887040701%2F0489.jp2/pct:75.314361,6.839445,11.065520,11.463598/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_alburg_ver02%2Fdata%2Fsn84023253%2F0020029631A%2F1887040701%2F0489.jp2/pct:75.314361,6.839445,11.065520,11.463598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ hand for the dime. The judge said:
 hereitas&quot; The boy said: &quot;I don&#x27;t  
 want your nmey. old fellow; yop take 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_onslaught_ver01%2Fdata%2Fsn88064405%2F0020029998A%2F1887040901%2F0262.jp2/pct:55.484330,84.987562,13.639601,12.077114/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_onslaught_ver01%2Fdata%2Fsn88064405%2F0020029998A%2F1887040901%2F0262.jp2/pct:55.484330,84.987562,13.639601,12.077114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -831,7 +831,7 @@ Vjw: you tako it and have your hair cut,&quot;
   
 saying which he scampered off. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn86053488%2F00296020370%2F1887040901%2F0924.jp2/pct:8.634850,53.331486,16.115427,10.541626/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn86053488%2F00296020370%2F1887040901%2F0924.jp2/pct:8.634850,53.331486,16.115427,10.541626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ want your money, old fellow; you taki
 it and have your hair cut.&quot; saying  
 which he scampered oil&#x27;. The jml l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_eagle_ver01%2Fdata%2Fsn83025733%2F00200297167%2F1887041101%2F0670.jp2/pct:42.748292,57.600534,16.841829,15.468046/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_eagle_ver01%2Fdata%2Fsn83025733%2F00200297167%2F1887041101%2F0670.jp2/pct:42.748292,57.600534,16.841829,15.468046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -902,7 +902,7 @@ want your money, old fellow; you take
 it and have your hair cut.” saying  
 which he scampered off. The judg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_apple_ver01%2Fdata%2Fsn2001063565%2F00279522758%2F1887041501%2F0062.jp2/pct:75.945087,58.059468,18.881450,15.814641/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_apple_ver01%2Fdata%2Fsn2001063565%2F00279522758%2F1887041501%2F0062.jp2/pct:75.945087,58.059468,18.881450,15.814641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ said: &quot;I don&#x27;t want your money, old fel­
 -ow; you take it and have your hair cut,&quot;  
 Baying which he scampered off. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876190%2F1887041601%2F0533.jp2/pct:5.300501,53.459821,15.484140,11.551339/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876190%2F1887041601%2F0533.jp2/pct:5.300501,53.459821,15.484140,11.551339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ money, old fellow; you take it and have
 your hair cut.&quot; Saying which he scam­  
 pered off.-[Augusta (G:.) Chronicle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_moloney_ver01%2Fdata%2Fsn83026389%2F00212474940%2F1887041601%2F0484.jp2/pct:70.737483,63.214967,13.075101,20.269304/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_moloney_ver01%2Fdata%2Fsn83026389%2F00212474940%2F1887041601%2F0484.jp2/pct:70.737483,63.214967,13.075101,20.269304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ said: &quot;I don&#x27;t want your money, old fel­
 bw; you take it and have your hair cut,&quot;  
 wving which ho scampered off. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cotton_ver01%2Fdata%2Fsn88067090%2F00199916610%2F1887041601%2F0426.jp2/pct:1.901496,53.252180,16.302993,11.428052/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cotton_ver01%2Fdata%2Fsn88067090%2F00199916610%2F1887041601%2F0426.jp2/pct:1.901496,53.252180,16.302993,11.428052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ want your money, old fellow you take
 it and have your hair cut.&quot; saying  
 which be scampered off. The judg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ndhi_bowbells_ver01%2Fdata%2Fsn84024779%2F00295863705%2F1887042101%2F0132.jp2/pct:18.605536,66.535156,12.403691,13.438777/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_bowbells_ver01%2Fdata%2Fsn84024779%2F00295863705%2F1887042101%2F0132.jp2/pct:18.605536,66.535156,12.403691,13.438777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1088,7 +1088,7 @@ want your money, old fellow; you takt
 it ami have your hair cut.&quot; s ix in;  
 which lie scampered oil&#x27;. The judg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869227%2F1887042601%2F0436.jp2/pct:46.179966,65.674847,12.903226,13.619632/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869227%2F1887042601%2F0436.jp2/pct:46.179966,65.674847,12.903226,13.619632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ said: “1 don’t want your money, old fel­
 low; you take it and have your hair cut,”  
 saving which he scampered off. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529637%2F1887042801%2F0557.jp2/pct:49.022222,67.996954,14.338889,10.620716/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529637%2F1887042801%2F0557.jp2/pct:49.022222,67.996954,14.338889,10.620716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ i your nair cur &#x27;
 saying which he scam  
 pered eff, The judge thought it so gjo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1887051301%2F0701.jp2/pct:86.894025,57.254161,11.189402,12.985480/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1887051301%2F0701.jp2/pct:86.894025,57.254161,11.189402,12.985480/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ said: &quot;I don&#x27;t want your money, old fel
 low; you take It and have your hair cut,&quot;  
 laying which he scampered off. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_gordon_ver01%2Fdata%2Fsn89058248%2F00296020424%2F1887051901%2F0347.jp2/pct:46.610009,28.493506,11.784703,10.805195/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_gordon_ver01%2Fdata%2Fsn89058248%2F00296020424%2F1887051901%2F0347.jp2/pct:46.610009,28.493506,11.784703,10.805195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1246,7 +1246,7 @@ have your hair cut.&quot; Saying which he
 scampered off.—Atlanta:(Ga.) Chroni­  
 cle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_goshawk_ver03%2Fdata%2Fsn2001063112%2F00415623409%2F1887052001%2F0673.jp2/pct:70.862739,72.386112,12.276383,16.059000/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_goshawk_ver03%2Fdata%2Fsn2001063112%2F00415623409%2F1887052001%2F0673.jp2/pct:70.862739,72.386112,12.276383,16.059000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1300,7 +1300,7 @@ iTi6,,107 said: &quot;l don,t your money,
 old fellow; take it and have your hair cut.&quot;  
 wg which tf &amp;-Aeus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_brutus_ver02%2Fdata%2Fsn85047084%2F00202195465%2F1887052101%2F0462.jp2/pct:4.152467,19.813658,26.151710,75.398949/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_brutus_ver02%2Fdata%2Fsn85047084%2F00202195465%2F1887052101%2F0462.jp2/pct:4.152467,19.813658,26.151710,75.398949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,7 +1346,7 @@ The boy said:
 old fellow; you take it and have your hair  
 cut.’’ Saying which he scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-05-30_18_22$6/pct:54.950350,22.696208,11.813668,12.742504/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-05-30_18_22$6/pct:54.950350,22.696208,11.813668,12.742504/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1391,7 +1391,7 @@ money, old fellow ; you take {t and have
 your hair cut.” Saying which he scam  
 pered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-06-16_35_24$30/pct:50.288562,40.598138,20.304302,22.564470/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-06-16_35_24$30/pct:50.288562,40.598138,20.304302,22.564470/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1469,7 +1469,7 @@ money, old lellow; you take it and
 have your hair cut.&quot; Saying which  
 he scampered ofl. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_episky_ver01%2Fdata%2Fsn84038114%2F00271765484%2F1887091201%2F0255.jp2/pct:22.102490,23.578431,12.954981,14.330065/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_episky_ver01%2Fdata%2Fsn84038114%2F00271765484%2F1887091201%2F0255.jp2/pct:22.102490,23.578431,12.954981,14.330065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ The boy said: I don’t want your
 money, old fellow, you take it and get your  
 hair cut- Saying which he scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623884%2F1887091701%2F0187.jp2/pct:17.618447,84.183042,10.466583,10.737025/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623884%2F1887091701%2F0187.jp2/pct:17.618447,84.183042,10.466583,10.737025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1544,7 +1544,7 @@ money, old fellow, you take il and get
 your hair cut.&quot; Saying which he kuu­  
 (ered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776506%2F1887102601%2F0537.jp2/pct:84.969180,66.891729,10.020547,12.804437/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776506%2F1887102601%2F0537.jp2/pct:84.969180,66.891729,10.020547,12.804437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1626,7 +1626,7 @@ money,’oldjellow ; you’take it and
 have your hair cut.’ baying which  
 be scampered olT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187183%2F1888010601%2F0211.jp2/pct:8.542382,47.314815,12.270047,19.540466/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187183%2F1888010601%2F0211.jp2/pct:8.542382,47.314815,12.270047,19.540466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1673,7 +1673,7 @@ money, old fellow, you take it and g?-t
 your hair cut.&quot; Saying which he  
 scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1888022401%2F0038.jp2/pct:15.843210,47.468912,12.003374,19.935376/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1888022401%2F0038.jp2/pct:15.843210,47.468912,12.003374,19.935376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1717,7 +1717,7 @@ The hoy said—
 f e n ow . You take it and have your  
 hair cut.&quot; and forthwith scampere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn86091172%2F00295868089%2F1893080401%2F0728.jp2/pct:33.472454,76.018626,14.252922,12.791036/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn86091172%2F00295868089%2F1893080401%2F0728.jp2/pct:33.472454,76.018626,14.252922,12.791036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1754,7 +1754,7 @@ fellow. You take it and have your
 hair cut&quot; and forthwith scampered  
 off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_earhart_ver01%2Fdata%2Fsn82015485%2F00237283326%2F1893080501%2F0242.jp2/pct:64.099139,79.723960,14.277234,13.275742/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_earhart_ver01%2Fdata%2Fsn82015485%2F00237283326%2F1893080501%2F0242.jp2/pct:64.099139,79.723960,14.277234,13.275742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1905,7 +1905,7 @@ The boy said : &quot;I don&#x27;t want your money,
 old fellow. You take it and have your hair  
 cut,&quot; and forthwith scampered oil&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861952%2F1894091201%2F0342.jp2/pct:2.008848,80.014768,13.276735,8.426344/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861952%2F1894091201%2F0342.jp2/pct:2.008848,80.014768,13.276735,8.426344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2051,7 +2051,7 @@ he held out his hand for the money.
 the gamin, with a lordly air; &quot;ye can keep  
 tt and git yer hair cut.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/gu_endeavour_ver01%2Fdata%2Fsn86063034%2F00414182197%2F1896090501%2F0048.jp2/pct:58.950515,82.916169,12.421123,8.364465/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_endeavour_ver01%2Fdata%2Fsn86063034%2F00414182197%2F1896090501%2F0048.jp2/pct:58.950515,82.916169,12.421123,8.364465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2083,7 +2083,7 @@ ing, he held out his hand for the money.
 the gamin, with a lordly air; &quot;ye cau keep  
 it and git yer hair cut.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn95079481%2F00175031790%2F1896091001%2F0043.jp2/pct:33.434824,78.531385,16.200444,10.394265/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn95079481%2F00175031790%2F1896091001%2F0043.jp2/pct:33.434824,78.531385,16.200444,10.394265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,7 +2116,7 @@ ing, he held out his hand for the money.
 “Well, my lad,” said the professor,  
 ‘vou’ ve earned your money ; here it is.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2$22/pct:28.144989,13.533058,21.082090,16.590909/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2$22/pct:28.144989,13.533058,21.082090,16.590909/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2173,7 +2173,7 @@ his hand for the money.
 ‘* Well, my lad,” said the professor, ‘* you’ve  
 earned your money; here it is.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1$34/pct:12.360939,31.556373,24.721879,12.132353/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1$34/pct:12.360939,31.556373,24.721879,12.132353/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2207,7 +2207,7 @@ is.
 turned the gamin, with a lordiy air.  
 &#x27;Ye can keep it and gic yer hair cut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196445%2F1897020801%2F0473.jp2/pct:67.913327,56.931134,14.796676,13.561400/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196445%2F1897020801%2F0473.jp2/pct:67.913327,56.931134,14.796676,13.561400/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

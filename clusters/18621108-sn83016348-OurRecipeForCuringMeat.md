@@ -57,7 +57,7 @@ put down for at least two days after
 killing, during which time it shoutd be  
 slightly sprinkled wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027285%2F1856120301%2F0096.jp2/pct:27.193771,33.093525,10.916442,10.881295/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027285%2F1856120301%2F0096.jp2/pct:27.193771,33.093525,10.916442,10.881295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ In this ratio the pickle to be increased
 boiled together, until all the dirt from the  
 sugar, .which will not he a little,) rise t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895047%2F1856121201%2F0407.jp2/pct:17.614224,75.955940,12.761009,3.922109/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895047%2F1856121201%2F0407.jp2/pct:17.614224,75.955940,12.761009,3.922109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ ed. Let these be boiled togeth­
 er, until all tho dirt from the su­  
 gar, (which will be not a little) ri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857010201%2F0246.jp2/pct:14.235222,12.709525,9.884217,5.590613/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857010201%2F0246.jp2/pct:14.235222,12.709525,9.884217,5.590613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ any quantity desired. Let these be boiled to­
 gether, until all the dirt trom the sugar rises  
 to the top and is skimmed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860121301%2F0522.jp2/pct:7.573565,75.460893,14.605778,5.205146/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860121301%2F0522.jp2/pct:7.573565,75.460893,14.605778,5.205146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ the dirt always to bo found in salt and sugar.
 never he abandoned. There is none that  
 surpasses it, if so good.—O&#x27;er. Telegraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624505%2F1862110801%2F0490.jp2/pct:68.824639,52.317470,12.604554,6.420980/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624505%2F1862110801%2F0490.jp2/pct:68.824639,52.317470,12.604554,6.420980/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ never bo abandoned. Thoro is none that
 surpasses it, if so good.  
 Gamanloivn &#x27;Jtlegraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025181%2F00237287952%2F1862112201%2F0211.jp2/pct:5.914668,80.017128,13.092840,10.919212/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025181%2F00237287952%2F1862112201%2F0211.jp2/pct:5.914668,80.017128,13.092840,10.919212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ never be abandoned. There is none that
 surpasses it, if so good.—Germantown Tele-  
 graph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-11-22_2156$9/pct:67.180617,70.686329,13.913363,8.599779/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-11-22_2156$9/pct:67.180617,70.686329,13.913363,8.599779/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ su rpiutees it, if good*—-£ (terna*
 |u«n  
 Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_ivysaur_ver01%2Fdata%2Fsn83025182%2F00279528293%2F1862120301%2F1189.jp2/pct:66.410340,30.922003,14.539703,10.271225/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ivysaur_ver01%2Fdata%2Fsn83025182%2F00279528293%2F1862120301%2F1189.jp2/pct:66.410340,30.922003,14.539703,10.271225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ never be abandoned. There is none that
 surpasses it, if &quot; c 1. Oermantow Tel­  
 egraph. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286881%2F1862120301%2F0125.jp2/pct:17.129412,32.526419,10.698039,4.399115/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286881%2F1862120301%2F0125.jp2/pct:17.129412,32.526419,10.698039,4.399115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ never be abandoned. There is none that
 surpasses it, if m good.— (rtnnanhvit  
 Tdtpraph. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769301%2F1862120501%2F0667.jp2/pct:82.065268,68.309464,12.708625,14.227043/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769301%2F1862120501%2F0667.jp2/pct:82.065268,68.309464,12.708625,14.227043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ if this receipt is properly tried, ic will nev­
 er be abandoned. There is none that surpas­  
 ses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028654%2F1862121101%2F0103.jp2/pct:7.403994,46.148028,14.925755,12.079957/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028654%2F1862121101%2F0103.jp2/pct:7.403994,46.148028,14.925755,12.079957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ never ba abandoned. There is none
 that surpasses it, if so good. German-  
 town Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F0023728690A%2F1862122501%2F0228.jp2/pct:5.823049,57.221422,12.376152,11.575226/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F0023728690A%2F1862122501%2F0228.jp2/pct:5.823049,57.221422,12.376152,11.575226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ will never be abandoned. There is none
 that surpasses it, if so good. German­  
 low Telegraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775526%2F1863011501%2F0389.jp2/pct:34.186607,44.354501,12.001484,15.464061/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775526%2F1863011501%2F0389.jp2/pct:34.186607,44.354501,12.001484,15.464061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ If this receipt be properly tried, it
 will never be abandoned. There ia  
 none that surpasses it, it so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85033611%2F00202198016%2F1863110501%2F0571.jp2/pct:82.593536,47.742890,12.109427,10.053917/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85033611%2F00202198016%2F1863110501%2F0571.jp2/pct:82.593536,47.742890,12.109427,10.053917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ tried, it will never be abandoned. There is none that
   
 surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_genesee-farmer_1863-12_24_12$16/pct:51.270492,19.320310,38.360656,32.004282/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_genesee-farmer_1863-12_24_12$16/pct:51.270492,19.320310,38.360656,32.004282/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ If this receipt be properly tried, it will
 never be abandoned. There is none that  
 surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_bunting_ver01%2Fdata%2Fsn86069123%2F00202195234%2F1863121001%2F0206.jp2/pct:62.760150,38.995154,14.346639,7.332313/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_bunting_ver01%2Fdata%2Fsn86069123%2F00202195234%2F1863121001%2F0206.jp2/pct:62.760150,38.995154,14.346639,7.332313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ gar.If this receipt&#x27; is properly tried, it will
 never be ahanricned. There is nouo lli.il  
 surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026193%2F00280775769%2F1863123001%2F1238.jp2/pct:6.250000,63.643502,12.588778,11.385944/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026193%2F00280775769%2F1863123001%2F1238.jp2/pct:6.250000,63.643502,12.588778,11.385944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ be abandoned.
 There 1s none that surpasses  
 it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1$8/pct:46.463142,33.291203,34.214445,15.444894/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1$8/pct:46.463142,33.291203,34.214445,15.444894/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ If this receipt is properly tried it will
 never be abandoned. There is none that ]  
 surpasses if, if so good.— O&#x27;er. Telegraph 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn88065733%2F00415625649%2F1864010801%2F0431.jp2/pct:7.879656,32.566194,17.186246,10.646855/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn88065733%2F00415625649%2F1864010801%2F0431.jp2/pct:7.879656,32.566194,17.186246,10.646855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ never be abandoned. There is none that!
 surpasses it, it so good.— Germantown!  
 Telegraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625479%2F1864121601%2F0178.jp2/pct:6.451613,66.489402,14.553763,5.239308/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625479%2F1864121601%2F0178.jp2/pct:6.451613,66.489402,14.553763,5.239308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ er bo abandoned. There is none that sur­
 passes it, if so good. GermantowH le.lt­  
 graph. - &quot;1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85034406%2F00296026700%2F1864122101%2F0112.jp2/pct:43.630513,65.372383,12.455044,5.035781/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85034406%2F00296026700%2F1864122101%2F0112.jp2/pct:43.630513,65.372383,12.455044,5.035781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ will never be abaudoncd. There is
 none that surpasses It, if so good G er-  
 mautowu Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F0028077540A%2F1864122901%2F0214.jp2/pct:4.750506,19.360902,12.447063,5.682475/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F0028077540A%2F1864122901%2F0214.jp2/pct:4.750506,19.360902,12.447063,5.682475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ to answer well; though the operation
 of boiling purifies the pickle by throwing  
 XI th dirt sdeaj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775162%2F1865100701%2F0558.jp2/pct:5.580923,79.997366,12.869948,14.682644/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775162%2F1865100701%2F0558.jp2/pct:5.580923,79.997366,12.869948,14.682644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ ways to be found in salt and sugar.
 f this receipt is properly tried, it, will never  
 be abandoned, @fhere is none that surpasses it,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-11-01_17_21$8/pct:52.131603,81.552163,20.991659,8.333333/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-11-01_17_21$8/pct:52.131603,81.552163,20.991659,8.333333/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ If this rocipc is properly tried, it will nev­
 er be abandoned. There is nono that sur­  
 passes it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192312%2F1865120501%2F0092.jp2/pct:83.684073,44.336245,13.608977,7.149506/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192312%2F1865120501%2F0092.jp2/pct:83.684073,44.336245,13.608977,7.149506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +846,7 @@ pickle by throwing off the dirt always to be
 found in salt and sugar.  
 The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525218%2F1865121301%2F0115.jp2/pct:3.196642,66.474351,11.079270,9.171579/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525218%2F1865121301%2F0115.jp2/pct:3.196642,66.474351,11.079270,9.171579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ If this receipt is properly tried, it will­
 never ba abandoned. There is none that  
 surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F00294555626%2F1865122101%2F0481.jp2/pct:79.210134,62.639280,12.909836,4.806014/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F00294555626%2F1865122101%2F0481.jp2/pct:79.210134,62.639280,12.909836,4.806014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ tity desired. Let these be boiled togeth­
 er, until all the dirt from the sunar rises  
 to the , top and is skimm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197425%2F1866010301%2F0270.jp2/pct:7.608008,63.611783,14.815595,8.751957/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197425%2F1866010301%2F0270.jp2/pct:7.608008,63.611783,14.815595,8.751957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ If this receipt is properly tried ; it
 will never be abandoned. There is none  
 that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197425%2F1866010301%2F0270.jp2/pct:7.797682,80.318770,14.752371,3.016935/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197425%2F1866010301%2F0270.jp2/pct:7.797682,80.318770,14.752371,3.016935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ ing off the dirt always to be found in saltand’suger. (snd it Se ee on
 If this recipe is properly tried, it will never be aban- tried three times without a therefore think  
 doned. There is none
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-01-04_34_4$0/pct:66.756896,93.025309,25.032225,3.649205/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-01-04_34_4$0/pct:66.756896,93.025309,25.032225,3.649205/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ always to ‘be found in galt and pe hPa gah
 is properly tried, it will never be ; There  
 is none that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141$30/pct:6.055901,60.984848,25.652174,8.890374/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141$30/pct:6.055901,60.984848,25.652174,8.890374/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ omit boiling the pickle, and find it toanswer well,
 though the operation of boiling purifies the pickle  
 by throwing off the dirt always to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20$2/pct:63.954172,59.900000,27.203290,15.920000/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20$2/pct:63.954172,59.900000,27.203290,15.920000/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ aipe is properlf tried, it will never be
 abandoned. There is none that surpass  
 it, if any so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn87079926%2F00280776063%2F1866111501%2F0295.jp2/pct:3.392706,76.200544,14.418999,11.416490/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn87079926%2F00280776063%2F1866111501%2F0295.jp2/pct:3.392706,76.200544,14.418999,11.416490/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ the dirt. If this recipe is properly tried, it
 will never be abandoned. There is none that  
 surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-11-15_18_22$4/pct:60.236448,53.441385,24.798155,10.990231/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-11-15_18_22$4/pct:60.236448,53.441385,24.798155,10.990231/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ It this recipe is properly tried it
 will never be abandoned. There is  
 none that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032276%2F00296028605%2F1866112101%2F0515.jp2/pct:78.855517,39.232761,14.940642,20.400879/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032276%2F00296028605%2F1866112101%2F0515.jp2/pct:78.855517,39.232761,14.940642,20.400879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1148,7 +1148,7 @@ If this recipe is properly tried, it will never be
 abandoned. There is none that surpasses it, if  
 any so good. —Scientific American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F0027952522A%2F1866112401%2F0587.jp2/pct:36.735367,76.266335,11.512778,7.943373/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F0027952522A%2F1866112401%2F0587.jp2/pct:36.735367,76.266335,11.512778,7.943373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ will never be abandoned. There is none
 that surpasses it, if so good.—Germantown  
 Telegraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_naomi_ver01%2Fdata%2Fsn85033019%2F00271769118%2F1866112901%2F0644.jp2/pct:55.349854,25.740336,11.958212,11.148796/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_naomi_ver01%2Fdata%2Fsn85033019%2F00271769118%2F1866112901%2F0644.jp2/pct:55.349854,25.740336,11.958212,11.148796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ no:i e sh rperior, i f: gifcotl.—Qar-
   
 manlouti Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025161%2F00279529327%2F1866113001%2F1407.jp2/pct:5.787129,39.752288,10.745005,7.567060/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025161%2F00279529327%2F1866113001%2F1407.jp2/pct:5.787129,39.752288,10.745005,7.567060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1251,7 +1251,7 @@ sugar. If this receipt is properly tried, it will
 never be abandoned. There is none that sur-  
 passes it, if so good.—[ Germantown Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-01-01_19_1$3/pct:43.901766,17.688081,25.027594,25.021133/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-01-01_19_1$3/pct:43.901766,17.688081,25.027594,25.021133/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ It this leceipt is properly tried, it will
 never bo ubaudoncd. Thero is none that  
 surpasses it, if so good. Gcrmantotcn To&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1867111601%2F0531.jp2/pct:79.599719,62.032598,12.306882,12.573620/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1867111601%2F0531.jp2/pct:79.599719,62.032598,12.306882,12.573620/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ ia properly tried, it will never be aban­
 doned. There is none that surpasses it, if  
 bo good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85038521%2F00200293368%2F1867120101%2F0526.jp2/pct:7.946644,35.866393,10.401589,3.480705/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85038521%2F00200293368%2F1867120101%2F0526.jp2/pct:7.946644,35.866393,10.401589,3.480705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1332,7 +1332,7 @@ never lie abandoned. There Is none that
 surpasses it, if so good. (Jermau town  
 Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F0028077540A%2F1867120501%2F0814.jp2/pct:6.953224,55.272109,12.154596,4.634354/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F0028077540A%2F1867120501%2F0814.jp2/pct:6.953224,55.272109,12.154596,4.634354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ time it should be slightly sprinkled with pow-
 dered saltpetre, which removes all the surface  
 blood, &amp;c., leaving the meat fresh and clean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1868-01_2_1$18/pct:44.522241,72.857537,34.925865,17.690824/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1868-01_2_1$18/pct:44.522241,72.857537,34.925865,17.690824/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1381,7 +1381,7 @@ If this receipt is &#x27;properly tried.it will
 never be abandoned. Tluro is none that sur­  
 passes it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1868112801%2F0752.jp2/pct:79.630589,51.835175,12.083549,4.270705/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1868112801%2F0752.jp2/pct:79.630589,51.835175,12.083549,4.270705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1425,7 +1425,7 @@ never bo abandoned. There is none that
 surpasses it, if so good. Germantotcn  
 Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054846%2F00212477679%2F1868120301%2F0512.jp2/pct:11.712102,9.864688,14.524737,16.477521/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054846%2F00212477679%2F1868120301%2F0512.jp2/pct:11.712102,9.864688,14.524737,16.477521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ If this receipt is properly tried, it
 will never be abandoned.&quot; There is  
 none ihat surpasses it, if so good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293381%2F1868121101%2F0379.jp2/pct:4.468458,30.625425,9.886098,4.407433/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293381%2F1868121101%2F0379.jp2/pct:4.468458,30.625425,9.886098,4.407433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1472,7 +1472,7 @@ If this receipt is properly tried, it will never
 be abandoned. ere is none that surpasses  
 it, if so good.— Germantown Tdegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1868-12-19_2473$7/pct:60.367011,66.784104,15.671799,6.947576/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1868-12-19_2473$7/pct:60.367011,66.784104,15.671799,6.947576/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,7 +1492,7 @@ sugar. If this receipt is properly tried,
 it will never be abandoned- There is  
 none that surpass it, if so good.-- German
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768722%2F1869012701%2F0364.jp2/pct:7.704785,39.299570,11.732901,4.295551/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768722%2F1869012701%2F0364.jp2/pct:7.704785,39.299570,11.732901,4.295551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1512,7 +1512,7 @@ off the dirt always to be found in salt and
 it will never be abandoned. There is  
 none that t urpasses it, if any so goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_ireland_ver01%2Fdata%2Fsn84022644%2F0029586753A%2F1869041701%2F0651.jp2/pct:5.219985,38.391431,12.242108,4.152964/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_ireland_ver01%2Fdata%2Fsn84022644%2F0029586753A%2F1869041701%2F0651.jp2/pct:5.219985,38.391431,12.242108,4.152964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1535,7 +1535,7 @@ surpasses it, if so good. Germantown
 relegraph.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1869110401%2F0239.jp2/pct:84.504926,62.907698,11.053598,4.714116/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1869110401%2F0239.jp2/pct:84.504926,62.907698,11.053598,4.714116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1563,7 +1563,7 @@ that surpasses It, If so good. German-
   
 town Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237287976%2F1869110501%2F0313.jp2/pct:4.687500,72.619718,11.708861,5.070423/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237287976%2F1869110501%2F0313.jp2/pct:4.687500,72.619718,11.708861,5.070423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ lever be abandoned. There is none
 hat surpasses it, if so&#x27;good. German­  
 own Teiegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1869112501%2F0254.jp2/pct:37.939615,35.794938,11.529529,6.424400/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1869112501%2F0254.jp2/pct:37.939615,35.794938,11.529529,6.424400/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1611,7 +1611,7 @@ If this receipt is properly tried it will never
 be abandoned. There is none that surpass  
 it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014248%2F00332895163%2F1870012801%2F0095.jp2/pct:4.130395,30.665325,12.803297,4.300187/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014248%2F00332895163%2F1870012801%2F0095.jp2/pct:4.130395,30.665325,12.803297,4.300187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ in salt and sugar. If this recipe Is proper­
 ly tried, it will never be abandoned. There  
 is none that surpasses it. If auy as good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895011%2F1870042801%2F0279.jp2/pct:16.855895,74.918345,11.148472,9.761159/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895011%2F1870042801%2F0279.jp2/pct:16.855895,74.918345,11.148472,9.761159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1691,7 +1691,7 @@ never be abandoned. There is none that
 surpass it, if so good.—Germantown Tele-  
 graph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1870-10-29_2570$7/pct:60.375881,46.621991,15.387627,13.799234/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1870-10-29_2570$7/pct:60.375881,46.621991,15.387627,13.799234/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1741,7 +1741,7 @@ never ho abandoned. Thero is none
 that surpaa-j It, if so good. dermantown  
 Tdtgraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237287976%2F1870110401%2F0534.jp2/pct:4.990476,63.948740,11.847619,14.969723/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237287976%2F1870110401%2F0534.jp2/pct:4.990476,63.948740,11.847619,14.969723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1773,7 +1773,7 @@ find it to answer well ;though the operation of
 boiling purifies the pickle by throwing off the  
 dirt always to be found in salt and sugar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45$0/pct:81.427402,86.881590,10.030022,7.045823/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45$0/pct:81.427402,86.881590,10.030022,7.045823/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1790,7 +1790,7 @@ If this receipt is properly tried it
 will never be abandoned. There is  
 none that surpass it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F0027952889A%2F1870111101%2F0210.jp2/pct:24.274237,43.218758,10.163143,1.435042/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F0027952889A%2F1870111101%2F0210.jp2/pct:24.274237,43.218758,10.163143,1.435042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ answer well; though tho operation of
 boiling purilies the pickle by throwing off  
 the dirt always to be found in salt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524019%2F1870111101%2F0627.jp2/pct:70.019896,82.939701,12.351820,12.417452/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524019%2F1870111101%2F0627.jp2/pct:70.019896,82.939701,12.351820,12.417452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1851,7 +1851,7 @@ If this receipt is properly tried it will
 never be abandoned. There is none that  
 surpass it, it so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1870111701%2F0022.jp2/pct:24.314652,32.301706,16.469830,8.035835/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1870111701%2F0022.jp2/pct:24.314652,32.301706,16.469830,8.035835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1872,7 +1872,7 @@ If this receipt is properly tried it
 will never be abandoned. There is  
 uone that surpass it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1870111801%2F0274.jp2/pct:67.603149,81.442971,9.554832,5.549072/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1870111801%2F0274.jp2/pct:67.603149,81.442971,9.554832,5.549072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1899,7 +1899,7 @@ If this receipt is properly tried it
 will never be abandoned. There is  
 none that surpass it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470193%2F1870111801%2F0285.jp2/pct:6.443944,58.197318,10.385385,6.362408/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470193%2F1870111801%2F0285.jp2/pct:6.443944,58.197318,10.385385,6.362408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1927,7 +1927,7 @@ If this receipt is properly tried it will
 never be abandoned. There is none that  
 surpasses it, or is so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F0029455564A%2F1870112401%2F0133.jp2/pct:55.965333,49.532841,11.672506,6.916748/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F0029455564A%2F1870112401%2F0133.jp2/pct:55.965333,49.532841,11.672506,6.916748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1962,7 +1962,7 @@ operation of boiling purifies the pickle by
 throwing off the dirt always to be found  
 in salt and sugar.—Germant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624335%2F1870112501%2F0106.jp2/pct:55.540024,75.898528,12.393999,12.102182/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624335%2F1870112501%2F0106.jp2/pct:55.540024,75.898528,12.393999,12.102182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2011,7 +2011,7 @@ find it to answer well ; though the operation of
 boiling purifies the pickle by throwing off the  
 dirt always to be found in salt and sugar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12$27/pct:51.578073,75.712719,35.132890,14.062500/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12$27/pct:51.578073,75.712719,35.132890,14.062500/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2033,7 +2033,7 @@ If this receipt is properly tried,
 it will never be abandoned. There  
 is none that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1870121201%2F0005.jp2/pct:42.759114,41.184559,16.311651,8.771241/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1870121201%2F0005.jp2/pct:42.759114,41.184559,16.311651,8.771241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2060,7 +2060,7 @@ recipe is properly tried, it will never be
 abandoned. There is none to surpass it, if  
 so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028812%2F1871011901%2F0108.jp2/pct:38.926598,50.585192,10.812944,6.110632/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028812%2F1871011901%2F0108.jp2/pct:38.926598,50.585192,10.812944,6.110632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2086,7 +2086,7 @@ recipe is properly tried it will never be aban­
 doned. There is uoue that surpsss it, if so  
 good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558030%2F1871012101%2F0016.jp2/pct:7.040836,69.723218,14.632860,7.775787/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558030%2F1871012101%2F0016.jp2/pct:7.040836,69.723218,14.632860,7.775787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ If this receipt is properly tried it
 will never be abandoned. There is  
 none that surpass it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775484%2F1871012601%2F0168.jp2/pct:85.849871,20.034519,9.767041,13.409453/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775484%2F1871012601%2F0168.jp2/pct:85.849871,20.034519,9.767041,13.409453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2150,7 +2150,7 @@ If this receipt is properly tried, it
 will never be abandoned. There is none  
 that surpass it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_neahkahnie_ver01%2Fdata%2Fsn93051636%2F00295868387%2F1871030401%2F0185.jp2/pct:51.256482,76.269894,12.777556,5.537025/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_neahkahnie_ver01%2Fdata%2Fsn93051636%2F00295868387%2F1871030401%2F0185.jp2/pct:51.256482,76.269894,12.777556,5.537025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2243,7 +2243,7 @@ never be abandoned. Thore is none that
 surpass it, if so good. Qtrmanlown Tele  
 graph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1872120301%2F0412.jp2/pct:5.894519,34.651318,17.140641,6.623290/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1872120301%2F0412.jp2/pct:5.894519,34.651318,17.140641,6.623290/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2272,7 +2272,7 @@ If this receipt is properlv tried, it
 will never be abandoned. There is  
 none that surpass it, if so pood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1872120401%2F0110.jp2/pct:4.870973,73.926277,10.200031,8.093789/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1872120401%2F0110.jp2/pct:4.870973,73.926277,10.200031,8.093789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2298,7 +2298,7 @@ If this receipt is properly tried, it will
 ie »er be abandoned There is none that  
 surpasses it. if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524664%2F1872121901%2F0207.jp2/pct:3.560580,89.790123,11.209079,5.521605/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524664%2F1872121901%2F0207.jp2/pct:3.560580,89.790123,11.209079,5.521605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2319,7 +2319,7 @@ properly tried, it will never be abandoned.
 There is none that surpasses it, if ever so  
 &quot;ood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1873010101%2F0005.jp2/pct:18.229836,87.759405,10.920771,3.717678/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1873010101%2F0005.jp2/pct:18.229836,87.759405,10.920771,3.717678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2361,7 +2361,7 @@ cipe is properly tried, it will never be
 abandoned. There is none that surpass it,  
 if so good.--ernnantown Telegraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475099%2F1873021501%2F0220.jp2/pct:41.541721,12.095623,12.108866,13.142245/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475099%2F1873021501%2F0220.jp2/pct:41.541721,12.095623,12.108866,13.142245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2389,7 +2389,7 @@ It this recipe is properly tried it
 will not be abandoned. There is none that  
 surpasses it, if as good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_dean_ver02%2Fdata%2Fsn84038034%2F00271740566%2F1873031301%2F0585.jp2/pct:6.128293,42.849527,14.222986,8.316673/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dean_ver02%2Fdata%2Fsn84038034%2F00271740566%2F1873031301%2F0585.jp2/pct:6.128293,42.849527,14.222986,8.316673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2417,7 +2417,7 @@ If this recipe is properly tried it (
 will not ho abandoned. There is none that !  
 surpasses it, if as good. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1873031401%2F1195.jp2/pct:7.242571,43.188766,14.457498,7.804738/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1873031401%2F1195.jp2/pct:7.242571,43.188766,14.457498,7.804738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2448,7 +2448,7 @@ If this recipe is properly tried
 it will not be abandoned. There  
 is none that surpasses it if as good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1873032001%2F0056.jp2/pct:14.709969,29.433368,9.725599,9.601259/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1873032001%2F0056.jp2/pct:14.709969,29.433368,9.725599,9.601259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2476,7 +2476,7 @@ If this recipe is properly tried, it will
 never be abandoned- There is norm  
 that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348458%2F1873110601%2F0380.jp2/pct:83.570128,74.828947,12.008197,9.884868/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348458%2F1873110601%2F0380.jp2/pct:83.570128,74.828947,12.008197,9.884868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2535,7 +2535,7 @@ boiling purifies the pickle by throwing
   
 on tne dirt always to be tound in salt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023416%2F00202197498%2F1873112201%2F0186.jp2/pct:7.374579,33.688450,12.125510,13.888528/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023416%2F00202197498%2F1873112201%2F0186.jp2/pct:7.374579,33.688450,12.125510,13.888528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2573,7 +2573,7 @@ found in salt and sugar. If this recipe is
 properly tried, it will never be abandoned.  
 There is none that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1873120401%2F0392.jp2/pct:5.310531,59.702837,10.321032,10.895993/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1873120401%2F0392.jp2/pct:5.310531,59.702837,10.321032,10.895993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2612,7 +2612,7 @@ find U antwers well, though the ope­
 ration of boiling purifies the pickle  
 by throwing off tbe dirt alway
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775356%2F1873120401%2F0186.jp2/pct:72.333560,81.839318,10.784647,12.180315/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775356%2F1873120401%2F0186.jp2/pct:72.333560,81.839318,10.784647,12.180315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2632,7 +2632,7 @@ and sugar. If this recipe is properly
 tried, it will never be abandoned. There  
 is none that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn85033386%2F00296020709%2F1873120501%2F0204.jp2/pct:15.477898,61.872247,9.610119,3.314978/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn85033386%2F00296020709%2F1873120501%2F0204.jp2/pct:15.477898,61.872247,9.610119,3.314978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2660,7 +2660,7 @@ ar. if this receipt is pioperly tried, it
 .will never be abandoned. There is ome  
 that surpasses it if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F0019991991A%2F1873122501%2F0116.jp2/pct:14.717121,65.367498,10.477012,8.217161/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F0019991991A%2F1873122501%2F0116.jp2/pct:14.717121,65.367498,10.477012,8.217161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2697,7 +2697,7 @@ ar. If this receipt is pioperly tried, it
 .•ill never be abandoned. There is niie  
 that surpasses it if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F0019991991A%2F1873122501%2F0117.jp2/pct:14.493954,61.236323,10.551598,12.435301/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F0019991991A%2F1873122501%2F0117.jp2/pct:14.493954,61.236323,10.551598,12.435301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2718,7 +2718,7 @@ tried, it will never be abandoned.
 There is none that surpasses it, if so  
 good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1874010701%2F0007.jp2/pct:18.542211,57.653844,13.859878,4.708878/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1874010701%2F0007.jp2/pct:18.542211,57.653844,13.859878,4.708878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2757,7 +2757,7 @@ to he found in salt and sugar. If this
 receipt is strictly followed, it will re­  
 quire only a single trial to prove it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624542%2F1874103101%2F0054.jp2/pct:14.758401,33.514142,10.997806,12.643678/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624542%2F1874103101%2F0054.jp2/pct:14.758401,33.514142,10.997806,12.643678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2781,7 +2781,7 @@ throwing ofl&#x27;the dirt alwavi to be found in salt
 ao&lt;l sugar. If this receipt is strictly followed, it  
 will reqnire only a single trial to x&gt;rove its supe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654012%2F1874110701%2F0254.jp2/pct:57.040447,55.011866,13.639451,4.788677/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654012%2F1874110701%2F0254.jp2/pct:57.040447,55.011866,13.639451,4.788677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2816,7 +2816,7 @@ of boiling purifies the pickle by throw­
 ing oft the dirt always to be found in  
 saft and sugar. If tni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1874112801%2F0400.jp2/pct:57.893011,4.190665,13.322091,12.562066/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1874112801%2F0400.jp2/pct:57.893011,4.190665,13.322091,12.562066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2843,7 +2843,7 @@ iu salt aud auga!. If this recipe is proper*
 ly tried, it w ill never be abandoned There i  
 is none that surpasses it, if »o good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895382%2F1875110401%2F0179.jp2/pct:17.383608,28.832448,11.617100,6.974861/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895382%2F1875110401%2F0179.jp2/pct:17.383608,28.832448,11.617100,6.974861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2882,7 +2882,7 @@ and find it to answer well, though the
 operation of boiling purifies the pickle by  
 throwing off the d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919921%2F1876120701%2F0389.jp2/pct:49.905735,14.736533,10.683313,17.029826/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919921%2F1876120701%2F0389.jp2/pct:49.905735,14.736533,10.683313,17.029826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2918,7 +2918,7 @@ operation of boiling purifies the pickle by
 throwing off the dirt always to be found in  
 salt and sugar.—Germantow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_farmington_ver01%2Fdata%2Fsn83016025%2F00279525425%2F1877020501%2F0102.jp2/pct:4.861789,85.142583,10.995935,10.307333/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_farmington_ver01%2Fdata%2Fsn83016025%2F00279525425%2F1877020501%2F0102.jp2/pct:4.861789,85.142583,10.995935,10.307333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2953,7 +2953,7 @@ throwing off tho dirt always to do found
 in salt and sugar. If this receipt is strict­  
 ly followed, it will require only a singl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn86063984%2F00200292819%2F1878050801%2F2038.jp2/pct:11.001016,66.729195,16.387195,14.836289/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn86063984%2F00200292819%2F1878050801%2F2038.jp2/pct:11.001016,66.729195,16.387195,14.836289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2989,7 +2989,7 @@ le, and find it to answer well, though
 the operation of tuH&#x27;.iiJX p&#x27;irifies the  
 pickle by throwing off 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919933%2F1878121201%2F0403.jp2/pct:7.398405,23.426814,10.924907,11.993193/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919933%2F1878121201%2F0403.jp2/pct:7.398405,23.426814,10.924907,11.993193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3016,7 +3016,7 @@ and is skimmed off. Then throw it
 into a tub to cool, and when cold,  
 pour it over your beef and pork
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271766294%2F1878122501%2F0262.jp2/pct:74.716388,42.992681,15.522857,11.691128/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271766294%2F1878122501%2F0262.jp2/pct:74.716388,42.992681,15.522857,11.691128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3040,7 +3040,7 @@ throwing off the dirt always to be found in (
 salt and sugar. If this receipt is strictly fol- 1  
 lowed, it will require only a single trial t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879121101%2F0377.jp2/pct:70.854380,85.345792,14.717437,6.181015/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879121101%2F0377.jp2/pct:70.854380,85.345792,14.717437,6.181015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3075,7 +3075,7 @@ the pickle, andi find it to answer well,
 though the operation of boiling puni­  
 lies the pickle by throwing off t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555158%2F1880052601%2F0791.jp2/pct:4.949821,48.101117,13.420650,14.873604/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555158%2F1880052601%2F0791.jp2/pct:4.949821,48.101117,13.420650,14.873604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3116,7 +3116,7 @@ the pickle, and find it to answer well, though
 the operation of boiling purifies the pickle  
 by throwing off the d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2$23/pct:52.079482,23.092968,35.998152,28.784267/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2$23/pct:52.079482,23.092968,35.998152,28.784267/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3148,7 +3148,7 @@ and sugar. If this receipt is strictly
   
 followed, it will require only a singl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85026421%2F00415669215%2F1881111701%2F0965.jp2/pct:38.939821,79.339311,10.190409,6.182161/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85026421%2F00415669215%2F1881111701%2F0965.jp2/pct:38.939821,79.339311,10.190409,6.182161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3188,7 +3188,7 @@ iound in salt and sugar. If this re­
 ceipt is strictly followed it will re­  
 quire only a single trial to prove it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065152%2F00279523350%2F1884010401%2F1634.jp2/pct:38.706868,35.568082,17.675042,15.319421/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065152%2F00279523350%2F1884010401%2F1634.jp2/pct:38.706868,35.568082,17.675042,15.319421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -124,7 +124,7 @@ had.
 S self be just ;  
 S38-For, live we how we na, yet die we mua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_psylocke_ver01%2Fdata%2Fsn82015775%2F00200299899%2F1868030801%2F0467.jp2/pct:78.395296,20.694022,16.160850,12.613982/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_psylocke_ver01%2Fdata%2Fsn82015775%2F00200299899%2F1868030801%2F0467.jp2/pct:78.395296,20.694022,16.160850,12.613982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ Crabbe; 23, Masstager; 24. CowUe 25, Beastia;
 Qaarles;S37Watkins:ai, Herrick; 35, William  
 Mason; 36, Hill; 37, Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_article_ver01%2Fdata%2Fsn84038628%2F00295879932%2F1868030901%2F0492.jp2/pct:45.256048,63.628589,11.954131,30.079414/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_article_ver01%2Fdata%2Fsn84038628%2F00295879932%2F1868030901%2F0492.jp2/pct:45.256048,63.628589,11.954131,30.079414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ SSEET SS Srmes; 8 Pope; 4. Prior; 6 Sewell ; 6. coaching vil festival. .
 Spencer ; ’ Daniel ; 8. Sir Walter ; low ; 10. PP Mister, her busband ; “ why do you call him Mis-  
 Southwell; 11. Congreve ; 12 13. ter; 14 ter, if you please? He is no more a gentieman than | am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13$2/pct:7.594563,20.096463,54.639480,44.393087/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13$2/pct:7.594563,20.096463,54.639480,44.393087/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ il—Her sensual snares let faithless pleasures lay,
 %—0 then renounce that impious self-esteem ;  
 4—Riches have w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4$12/pct:4.595588,43.252595,33.014706,30.947232/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4$12/pct:4.595588,43.252595,33.014706,30.947232/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ den, 32 Francis Quarles, 33 Watkins. 34 H. rrick,
 35 William Mason, 36 Hill, 37 Dana, 33 Shak-  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4$12/pct:5.257353,15.895329,67.867647,67.301038/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4$12/pct:5.257353,15.895329,67.867647,67.301038/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ given.
 17--Sin nisv be clasped so close we canoot  
 nee i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528621%2F1868040401%2F0498.jp2/pct:24.690664,51.463560,9.697225,8.374403/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528621%2F1868040401%2F0498.jp2/pct:24.690664,51.463560,9.697225,8.374403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ ant 28. Carey 29, Willis 30, Addlatm
 kins :H, Horrick 35, Willi mi Maeon  
 36, lltll 87, Dana S3, Shakesphearc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528621%2F1868040401%2F0498.jp2/pct:24.278215,70.008214,9.969066,7.377539/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528621%2F1868040401%2F0498.jp2/pct:24.278215,70.008214,9.969066,7.377539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ Dryden; 32, Francis Quarles; 33, Watkins ; 34, Her­
 rick; 35, William Mason; 86, Hill; 37, Dana; 38,  
 Shakspeare.&#x27; &#x27; . &#x27; . ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744808%2F1868040901%2F0155.jp2/pct:16.407236,12.885053,12.677044,32.266571/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744808%2F1868040901%2F0155.jp2/pct:16.407236,12.885053,12.677044,32.266571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ Addison; 81, Drvden; 32, Francis liuaries; 88, Wat-
 kius; 84, Hernck; 35, William Uasou; as, mu; a,  
 i Dana;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1868042401%2F0513.jp2/pct:28.510224,15.331471,12.794547,32.515067/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1868042401%2F0513.jp2/pct:28.510224,15.331471,12.794547,32.515067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ dumb,
   
 hastenea up among the rioters. But now cries of | 14—And throw a cruel sunshine on a fool
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34$3/pct:18.921053,69.769576,23.434211,7.320555/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34$3/pct:18.921053,69.769576,23.434211,7.320555/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ the door-way, and in a few moments more the 54 we masters grow ot ail Geek we de
 33—How long we live, not years, but actions, tell ;  
 34—That man lives twice who lives the first life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34$3/pct:18.815789,76.957586,23.421053,9.543230/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34$3/pct:18.815789,76.957586,23.421053,9.543230/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ Davenant, 28 Grey, 29 Willis, 30 Addison, 51
   
 Dryden, 32 Francis Quarles, 33 Watkins, 34 Her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34$3/pct:18.789474,86.531403,35.342105,7.493883/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34$3/pct:18.789474,86.531403,35.342105,7.493883/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ Dryden ; 33, Francis Quarles ; S3, Walklos ;
 34, Herrick ; 35, William Mason ; 3s, BUI ;  
 37, Dana ; 3i, Fbaksoeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85042591%2F00280774972%2F1868050101%2F0150.jp2/pct:13.653603,16.482545,9.818795,40.863897/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85042591%2F00280774972%2F1868050101%2F0150.jp2/pct:13.653603,16.482545,9.818795,40.863897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ ber of each line refers to Its author below.
 9— By turns we cat*.&#x27; * he v**al breath ard die—  
 4—The ‘radio *nd u tor.b, alas, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.789408,6.923440,11.309986,4.976961/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.789408,6.923440,11.309986,4.976961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ W. h.uffiito*. 10, Pou.iiweil. 11, Congreve. 12.
 CrurcMIl. ?t, loctiwtor, 14. Armstrong 13, Mxlton.  
 14 Bs If. 1*. ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.835999,25.224480,11.263395,5.567698/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.835999,25.224480,11.263395,5.567698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ prehend;37 The trust that&#x27;sglveu guard and to your­
 self be Just:  
 38 For, live how we can, yet die wo must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061077%2F00212470302%2F1868062601%2F0420.jp2/pct:60.441124,20.750931,11.205977,22.585268/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061077%2F00212470302%2F1868062601%2F0420.jp2/pct:60.441124,20.750931,11.205977,22.585268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1076,7 +1076,7 @@ Davenant; 28, Gray; 29, Willis; 30, Addison ;
 34, Herrick; 35, William Mason; 36, Hill; 37,  
 Dana; 38, Shakspere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2$12/pct:29.364608,15.353626,25.296912,53.379588/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2$12/pct:29.364608,15.353626,25.296912,53.379588/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ race
 84 That man lives twice who lives the  
 well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1868091101%2F0563.jp2/pct:48.744090,16.364871,13.903664,19.703486/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1868091101%2F0563.jp2/pct:48.744090,16.364871,13.903664,19.703486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,7 @@ Deavenant; 2S, Caiey; 29, Willis; 80, Addison; 81,
 Dryden; 82, Francis Quarlos; 83, Watkins: 84, Iler­  
 ric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1868091101%2F0563.jp2/pct:48.891844,38.128112,13.874113,5.511544/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1868091101%2F0563.jp2/pct:48.891844,38.128112,13.874113,5.511544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ fellow; 10. Southwell; 11, Congreve; 12, Churchill;
 Francis Quarles ; 33. Watkins ; 34, Herrick: 35, William  
 Mason ; 36, Hill; 37. Dana; 38. Shakspere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39$4/pct:7.605178,15.171756,34.830097,71.087786/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39$4/pct:7.605178,15.171756,34.830097,71.087786/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1355,7 +1355,7 @@ Ha&#x27;.elga; 9, longfellow; 10, Couth well ; II, Cen­
 tre ve; is Churchill; U, Bchenter; 14, Arm­  
 stronz: 15. Milloa: lti. BaPey: 17. &#x27;trench
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200292984%2F1868092701%2F0385.jp2/pct:51.005143,12.500000,10.674770,23.362235/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200292984%2F1868092701%2F0385.jp2/pct:51.005143,12.500000,10.674770,23.362235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1409,7 +1409,7 @@ I.W.Ivo well, how long or short permit to Heaven,
   
 nice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559905%2F1868100201%2F0666.jp2/pct:40.804020,16.435289,12.160804,12.270488/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559905%2F1868100201%2F0666.jp2/pct:40.804020,16.435289,12.160804,12.270488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1442,7 +1442,7 @@ SV O, Hun, I renounco Hint Impious silf-eseem I
 .11 How long wo live, not jenrs but anions till,  
 SI Hint iium Ihestnlee wliollv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559905%2F1868100201%2F0666.jp2/pct:40.924623,29.302881,11.577889,7.493656/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559905%2F1868100201%2F0666.jp2/pct:40.924623,29.302881,11.577889,7.493656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1680,7 +1680,7 @@ Addison; 31, Dryden; 32, Francis Quarles; 33,
 Watkins; 34, Herrick; 35, William Mason; 36,  
 Hill; 37, Dana; 38, Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_connemara_ver01%2Fdata%2Fsn85025007%2F00414184790%2F1869010601%2F0223.jp2/pct:3.932656,38.716775,14.938097,41.016840/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_connemara_ver01%2Fdata%2Fsn85025007%2F00414184790%2F1869010601%2F0223.jp2/pct:3.932656,38.716775,14.938097,41.016840/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1944,7 +1944,7 @@ enant: 28, Gray: 29, Willis; 30. Addison:
 kins: 34, Herrick; 35, William Mason; 3(1.  
 Hill: 37, Dana; 38. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1869051501%2F0491.jp2/pct:38.289979,48.212344,11.526711,38.570515/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1869051501%2F0491.jp2/pct:38.289979,48.212344,11.526711,38.570515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1964,7 +1964,7 @@ ard authors of England and America. This is the
 result of a year’s laborious search among the leading  
 poets of the past and present time :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468$56/pct:50.741030,11.242455,35.530421,7.092555/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468$56/pct:50.741030,11.242455,35.530421,7.092555/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1993,7 +1993,7 @@ Dana,
   
 For, live we how we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468$56/pct:50.468019,57.771630,44.617785,12.399396/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468$56/pct:50.468019,57.771630,44.617785,12.399396/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2099,7 +2099,7 @@ Charles&#x27;: -JJ, Watkins; 34, Herrick:
 35, William M ison ; 3tj. ILU ; m , Dana:  
 38, Shak.-pero
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623501%2F1869061701%2F0558.jp2/pct:54.295781,18.433300,12.404672,50.024200/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623501%2F1869061701%2F0558.jp2/pct:54.295781,18.433300,12.404672,50.024200/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2123,7 +2123,7 @@ eight leading poets of tho past and present.
 Tho number of each line refers to its au­  
 thor below 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1869070301%2F0339.jp2/pct:4.627404,9.114927,12.139423,7.381110/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1869070301%2F0339.jp2/pct:4.627404,9.114927,12.139423,7.381110/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2230,7 +2230,7 @@ Davenant; 28, Gray; 29, Willis; 30, Addison:
 Dunn ; 39, Shakspearc.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1869070301%2F0339.jp2/pct:4.947917,8.652576,14.503205,36.377147/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1869070301%2F0339.jp2/pct:4.947917,8.652576,14.503205,36.377147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2311,7 +2311,7 @@ Davensut; 2t, Grey; 29. Willis; 80, Addison;
 31, llerrick; ii, William Mason; 36, Hill; 37,  
 Diana; 3b, Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F0028077702A%2F1869102201%2F0389.jp2/pct:16.895140,25.753913,9.880719,26.835475/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F0028077702A%2F1869102201%2F0389.jp2/pct:16.895140,25.753913,9.880719,26.835475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2331,7 +2331,7 @@ America. This is the result of a year’s laborious
 search among the voluminous writings of thirty-eight  
 leading poets of the past and present :—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19$11/pct:68.389225,41.137124,24.683892,5.518395/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19$11/pct:68.389225,41.137124,24.683892,5.518395/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2385,7 +2385,7 @@ strong. IS, Milton. 18, Bally, If, Traaeh.
 Cowley. 24, Beat tie. 28, Cawper. ST, Sir Wal  
 ter Devenant. 18, Grey. 1,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1869121601%2F0851.jp2/pct:19.681557,24.369616,14.329943,22.772122/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1869121601%2F0851.jp2/pct:19.681557,24.369616,14.329943,22.772122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2453,7 +2453,7 @@ Heattie; 20. Cow per; 27, Sir Walter Davcnant;
 32, Francis Quark&#x27;s; 33, Watkins; 34. Derrick;  
 35, Mason; 30, Hill; 37, Dana; 38, Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1870030101%2F0080.jp2/pct:23.032630,17.057026,17.322457,37.423625/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1870030101%2F0080.jp2/pct:23.032630,17.057026,17.322457,37.423625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2568,7 +2568,7 @@ Think n« ambition wise because ’tis brave :**
 The ps aoe of glory lead but to the grave.*%  
 Wh at is ambition ? ’Tis a glorious ch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1872-06-01_9_231$12/pct:46.250000,43.558673,33.064516,24.457908/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1872-06-01_9_231$12/pct:46.250000,43.558673,33.064516,24.457908/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2627,7 +2627,7 @@ Davenant—28, &lt;JiHy —_&gt;:*, WiBis — 30, Addison
 — 34,Herrick—35,William Mason—3C, Hill—37,  
 Dana—38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873032801%2F0612.jp2/pct:18.043043,46.555256,12.779446,11.345912/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873032801%2F0612.jp2/pct:18.043043,46.555256,12.779446,11.345912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2679,7 +2679,7 @@ Walter Davenant; 28 G 29 Willis; 30 Addison; 31
 Dryden; 32 Francis Quarles; 33 Watkins; 34 Herrick; 35  
 Wiliam Mason; 36 Hill; 37 Dana; 38 Shakespeare,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22$5/pct:9.264381,28.266616,20.907080,20.015106/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22$5/pct:9.264381,28.266616,20.907080,20.015106/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2703,7 +2703,7 @@ The trust that&#x27;s given guard, and to yourself
 be jot, Dana.  
 For, live we how we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_chet_ver01%2Fdata%2Fsn83045160%2F00200293083%2F1873121401%2F0674.jp2/pct:17.587940,48.189734,9.260589,4.365261/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_chet_ver01%2Fdata%2Fsn83045160%2F00200293083%2F1873121401%2F0674.jp2/pct:17.587940,48.189734,9.260589,4.365261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2742,7 +2742,7 @@ Riches have wings, and grandeur is a dream.
 Cowper.  
 Think not ambition wise because &#x27;tis brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194977%2F1874112301%2F0629.jp2/pct:13.405328,21.736249,11.130310,10.249613/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194977%2F1874112301%2F0629.jp2/pct:13.405328,21.736249,11.130310,10.249613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2822,7 +2822,7 @@ nant; 28, Gray; 29, Willis; 30, Addison; 31, Dryden;
 32, Quaries ; 33, Watkins; 34, Herrick; 35, Mason ;  
 36, Hill; 37, Dana; 38, Shakspeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1876090701%2F0560.jp2/pct:2.941967,6.909329,14.132187,31.726513/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1876090701%2F0560.jp2/pct:2.941967,6.909329,14.132187,31.726513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2882,7 +2882,7 @@ jut,
 38. F r, live we how we can, die we must.  
 1, Young; 2, Dr. Huru Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1876090801%2F0202.jp2/pct:6.018865,10.175725,14.448271,24.305272/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1876090801%2F0202.jp2/pct:6.018865,10.175725,14.448271,24.305272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2962,7 +2962,7 @@ Davenant; 28. -Gray; 89. Willis; 30. Addison;
 rick; 35. Mason; 36. Hill; 37.. Dana; 38. Shak­  
 . speare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556266%2F1876101201%2F0028.jp2/pct:5.783891,25.398997,14.882333,30.654355/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556266%2F1876101201%2F0028.jp2/pct:5.783891,25.398997,14.882333,30.654355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3047,7 +3047,7 @@ ZS. For, live wehow uccan,diewemust,
 rope; inor;o. ewcu;i. spencer; 7. iantei;  
 -3. &amp;it Walter ltaleieh;3. II. W. Lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029838%2F00237283089%2F1876101401%2F0006.jp2/pct:14.736465,30.853659,21.333811,38.463415/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029838%2F00237283089%2F1876101401%2F0006.jp2/pct:14.736465,30.853659,21.333811,38.463415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3167,7 +3167,7 @@ Francis Quarles. 33, Watkins. 34. Herrick.
 35, Wm. Mason. 36, Hill. 37, Dana. 38,  
 Shakspeare. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278$9/pct:7.329843,9.682300,42.068063,83.755673/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278$9/pct:7.329843,9.682300,42.068063,83.755673/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3312,7 +3312,7 @@ Benttie; 20, Cowper; 27, Sir Walter Devenant;
 35, William Mason; 33, Pill; 37, Dana; .33,Shak- |  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762337%2F1877050101%2F0070.jp2/pct:49.378608,16.867397,11.116902,29.096715/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762337%2F1877050101%2F0070.jp2/pct:49.378608,16.867397,11.116902,29.096715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3383,7 +3383,7 @@ Ion- 39. PWnci Ouarles: 33 Watkins; 34
 Herrinkf SS William Mason: 86 HJ1; 8  
 Dana; 38 Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775204%2F1877080301%2F0279.jp2/pct:29.187859,13.083884,10.582445,21.936904/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775204%2F1877080301%2F0279.jp2/pct:29.187859,13.083884,10.582445,21.936904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3479,7 +3479,7 @@ Addison ; 31, Dryden ; 82, Francis Quarles ; 33, Watkins; 84,
 Herrick; 35, William Mason; 36, Hill; 37, Dana; 38,  
 Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350$5/pct:63.705972,29.740894,27.309852,44.442358/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350$5/pct:63.705972,29.740894,27.309852,44.442358/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3555,7 +3555,7 @@ Dryden: 32, Francis Quarles: 33, Watkins; 34, Her­
 rick; 35, William Mason, 36, Hill; 37. Dana; 38,  
 -ihakspeare.J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151271%2F1878100301%2F0102.jp2/pct:5.132528,4.374043,14.381381,22.652456/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151271%2F1878100301%2F0102.jp2/pct:5.132528,4.374043,14.381381,22.652456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3584,7 +3584,7 @@ It. Fortune makes folly her peculiar care.
 5. Custom does often reason overrule,  
 1. And throw a cruel sunshine on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1878100401%2F1056.jp2/pct:6.570657,5.863159,14.176418,7.198940/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1878100401%2F1056.jp2/pct:6.570657,5.863159,14.176418,7.198940/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3626,7 +3626,7 @@ Churchill; 1H. Rochester: 14, Armstrong; l. Milton;
 24, Crowley: 25. DcatUe: . Cowper; 27. Sir Walter  
 Dacnaut: &#x27;. Gray; 21, Will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1878100401%2F1056.jp2/pct:6.660666,15.244213,14.131413,11.532579/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1878100401%2F1056.jp2/pct:6.660666,15.244213,14.131413,11.532579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3687,7 +3687,7 @@ I, Touug ; &#x27;J, Dr. Johnson ; 3, Tope ; , Pn.rv .
 5, Hewell ; tl. Spencer ; 7, lauiel ; H. Kir Waif -1  
 llaleigh ; 9, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776129%2F1878103001%2F0500.jp2/pct:81.259720,52.280852,14.171851,19.919920/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776129%2F1878103001%2F0500.jp2/pct:81.259720,52.280852,14.171851,19.919920/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3850,7 +3850,7 @@ line is a quotation from some of the bUkdM Au­
 thors of England and America. This itfthVresott of  
 a year&#x27;s laborious search among the leading poet* o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_goshen_ver01%2Fdata%2Fsn83016758%2F00280767979%2F1880081201%2F0189.jp2/pct:37.112419,4.922442,13.860179,2.210678/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_goshen_ver01%2Fdata%2Fsn83016758%2F00280767979%2F1880081201%2F0189.jp2/pct:37.112419,4.922442,13.860179,2.210678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3877,7 +3877,7 @@ The trust that&#x27;s given guard, and to yourself bejust
 Dana.  
 For, live we how we can, yet die we mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_goshen_ver01%2Fdata%2Fsn83016758%2F00280767979%2F1880081201%2F0189.jp2/pct:37.138920,31.516893,13.780675,6.775727/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_goshen_ver01%2Fdata%2Fsn83016758%2F00280767979%2F1880081201%2F0189.jp2/pct:37.138920,31.516893,13.780675,6.775727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3898,7 +3898,7 @@ result of
 a year&#x27;s laborious search among the leading poets of  
 the past and present tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_mazda_ver01%2Fdata%2Fsn89064525%2F00212479214%2F1880081301%2F0445.jp2/pct:55.033831,5.890580,9.517404,1.554775/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_mazda_ver01%2Fdata%2Fsn89064525%2F00212479214%2F1880081301%2F0445.jp2/pct:55.033831,5.890580,9.517404,1.554775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3925,7 +3925,7 @@ The trust that&#x27;s given guard, and to yourseli
 be just, Dana.  
 For, live we how we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776105%2F1880093001%2F0164.jp2/pct:4.597489,51.282051,12.241507,7.872488/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776105%2F1880093001%2F0164.jp2/pct:4.597489,51.282051,12.241507,7.872488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4004,7 +4004,7 @@ Cowper; 27, Sir Walter levcnant; 2S, Grav;
 Francis Charles; 3, Watkins; 34, Ilerrick;  
 3. William Mason; 3U, rill; 3J, Dana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_charlie_ver01%2Fdata%2Fsn83045160%2F0028077960A%2F1881032701%2F0281.jp2/pct:32.159748,72.361024,9.012086,19.362898/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_charlie_ver01%2Fdata%2Fsn83045160%2F0028077960A%2F1881032701%2F0281.jp2/pct:32.159748,72.361024,9.012086,19.362898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4032,7 +4032,7 @@ By turns we catch the vital breath and die
 Pope.  
 The cradl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881052101%2F0556.jp2/pct:6.292563,10.886850,11.958594,6.422018/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881052101%2F0556.jp2/pct:6.292563,10.886850,11.958594,6.422018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4056,7 +4056,7 @@ A jUSt. , ! &#x27; j &#x27; &#x27;
 - : ! f , : Dana.&quot;  
 For; live we how we can, yet die we mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881052101%2F0556.jp2/pct:6.387905,41.457696,11.849632,4.464832/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881052101%2F0556.jp2/pct:6.387905,41.457696,11.849632,4.464832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4078,7 +4078,7 @@ This is the result of a year’s laborious
 search among the leading poets of the past  
 and present time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024653%2F00393349554%2F1881110401%2F0179.jp2/pct:40.420115,15.897764,10.936505,4.629393/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024653%2F00393349554%2F1881110401%2F0179.jp2/pct:40.420115,15.897764,10.936505,4.629393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4105,7 +4105,7 @@ The trust-that’s given guard, and to yourself be just,
 Dana.  
 For, live we how we can. yet die we mus t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024653%2F00393349554%2F1881110401%2F0179.jp2/pct:40.404201,45.661342,10.809198,6.303514/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024653%2F00393349554%2F1881110401%2F0179.jp2/pct:40.404201,45.661342,10.809198,6.303514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4257,7 +4257,7 @@ Dryden; 32, Francis Charles ; 33, Watkh s;
 34. llerrick; 35. William Mason ; 30, Fill ;  
 37, I) ma; 38, Shakpearo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_archives_ver01%2Fdata%2Fsn87082573%2F00211101106%2F1882082701%2F1267.jp2/pct:34.429205,9.721105,29.850746,86.122285/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_archives_ver01%2Fdata%2Fsn87082573%2F00211101106%2F1882082701%2F1267.jp2/pct:34.429205,9.721105,29.850746,86.122285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4292,7 +4292,7 @@ die.
 The cradle and the tomb, alus! so nigh.  
 T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882083101%2F0582.jp2/pct:64.857183,31.848807,9.990053,9.238324/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882083101%2F0582.jp2/pct:64.857183,31.848807,9.990053,9.238324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4347,7 +4347,7 @@ Francis Charles; 33, Watkins; 31,
 Herrick; 3o, William Mason; 3G,  
 Pill; 37, Dana; 3S, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882083101%2F0582.jp2/pct:64.928236,50.531004,9.961631,16.569601/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882083101%2F0582.jp2/pct:64.928236,50.531004,9.961631,16.569601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4449,7 +4449,7 @@ Devenant; 28, Cray; 39, VV fills, 30, Addison;
 34, Herrick; 3), William Mason; 30, Pill; 37,  
 Daua; 3S, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_glisseo_ver01%2Fdata%2Fsn84038114%2F00271741406%2F1882092501%2F0312.jp2/pct:25.192678,6.784387,14.812139,33.008055/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_glisseo_ver01%2Fdata%2Fsn84038114%2F00271741406%2F1882092501%2F0312.jp2/pct:25.192678,6.784387,14.812139,33.008055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4535,7 +4535,7 @@ singer; 21, Cowley: 20, lleattle: 211, Oownor;
 33, WatUlns; 31,Uerrlck; 35, William Mason:  
 Oil, Pill; 37, Dana; us, shakspoar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_harry_ver01%2Fdata%2Fsn82014424%2F00211102871%2F1882092601%2F0300.jp2/pct:42.310978,49.291416,12.067493,27.854699/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_harry_ver01%2Fdata%2Fsn82014424%2F00211102871%2F1882092601%2F0300.jp2/pct:42.310978,49.291416,12.067493,27.854699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4661,7 +4661,7 @@ llry den ; 32, Francis Charles; 33, Wat­
 kl &quot;»; 34, Herrick; 35. William Mason;  
 зб, Pill; 3T ( Dana; 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869604%2F1882101701%2F0674.jp2/pct:2.171815,33.828125,17.977799,59.828125/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869604%2F1882101701%2F0674.jp2/pct:2.171815,33.828125,17.977799,59.828125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4752,7 +4752,7 @@ Davenant;&#x27; 28, Gray; 29, Willis; 80, Addison;
 34,Herrlck; 35, William Mason; 38. Pill; 37,  
 Dana; 38, Shakespeare,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762234%2F1882101701%2F0176.jp2/pct:49.290471,27.180233,10.765816,32.176599/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762234%2F1882101701%2F0176.jp2/pct:49.290471,27.180233,10.765816,32.176599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4772,7 +4772,7 @@ the result of a year’s laborious search among the voluminous
 writings of thirty-eight leading poets of ‘the past and present.  
 We would be glad to hear from any person who can tell th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391$6/pct:34.352900,22.356021,28.076379,5.863874/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391$6/pct:34.352900,22.356021,28.076379,5.863874/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4845,7 +4845,7 @@ What is ambition ? ’tis a glorious cheat!
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391$6/pct:34.989392,35.680628,25.795615,23.952880/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391$6/pct:34.989392,35.680628,25.795615,23.952880/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4945,7 +4945,7 @@ Dryden; 22, Francis Charles; 33, Wat­
 kins; 34, Herrick; 35, William Mason;  
 36, Pill; 37, Dana; 38, Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020503%2F1882111801%2F0314.jp2/pct:19.416942,14.543566,13.256326,52.577587/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020503%2F1882111801%2F0314.jp2/pct:19.416942,14.543566,13.256326,52.577587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5027,7 +5027,7 @@ Devenant ; 28, Gray ; 29, Willis ; 80, Addison
 34, Herrick ; 35, William Mason ; 36, Phill ; 37,  
 Dana ; 38, Sbakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023012%2F1882120801%2F0428.jp2/pct:27.953016,16.113240,12.603933,36.292039/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023012%2F1882120801%2F0428.jp2/pct:27.953016,16.113240,12.603933,36.292039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5141,7 +5141,7 @@ Francis Charles ; 33, Watkint ; 34. Ilerrick ;
 33, William Mason ; 36, Pill ; 37, Dana; 38,  
 Sbakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1882120801%2F0202.jp2/pct:36.084838,17.711561,11.306965,33.492253/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1882120801%2F0202.jp2/pct:36.084838,17.711561,11.306965,33.492253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5220,7 +5220,7 @@ Beattie; 26, Cowper; 27, Sir Walter Devenant;
 Francis Charles; 33, Watkins; 34, Herrick; 35.  
 Win. Mlason; 36. Pill; 37, Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_bolivar_ver01%2Fdata%2Fsn85034248%2F00200299383%2F1882120901%2F0420.jp2/pct:32.645161,14.307079,11.645161,24.887836/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_bolivar_ver01%2Fdata%2Fsn85034248%2F00200299383%2F1882120901%2F0420.jp2/pct:32.645161,14.307079,11.645161,24.887836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5270,7 +5270,7 @@ Heattie: 26, Cow per; 27, Sir Walter hetrnant;
 34, Wm. Meson: 36, Pill: 37, Dana; 36. Shahs,  
 peare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627609%2F1882120901%2F0739.jp2/pct:51.195670,22.212290,11.159591,16.189909/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627609%2F1882120901%2F0739.jp2/pct:51.195670,22.212290,11.159591,16.189909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5384,7 +5384,7 @@ inilis ; SO1, Addison , 31, Dryden ;
 34, Berrick ; So, William Mason ; 36,  
 Pill; 87. Dana ; SS Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_curry_ver01%2Fdata%2Fsn85029677%2F00212473030%2F1883010401%2F0076.jp2/pct:19.042301,43.730752,12.313277,47.976243/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_curry_ver01%2Fdata%2Fsn85029677%2F00212473030%2F1883010401%2F0076.jp2/pct:19.042301,43.730752,12.313277,47.976243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5445,7 +5445,7 @@ Jn. Tin* paths of glory lead but to the grave.
 2. 2 Only destructive to tin* brave and great.  
 21. What’s all tin gaudy glitter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1883010401%2F0437.jp2/pct:16.892207,6.115892,10.892052,16.962134/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1883010401%2F0437.jp2/pct:16.892207,6.115892,10.892052,16.962134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5469,7 +5469,7 @@ strong: 17. Milton: 10. Bailey: 17, Trench: In.
 ; -7. Beattie: 20. ( owper: 27. Sir Walter  
 D &lt;i.:nit; 2n.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1883010401%2F0437.jp2/pct:16.892207,25.897877,10.892052,4.236948/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1883010401%2F0437.jp2/pct:16.892207,25.897877,10.892052,4.236948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5560,7 +5560,7 @@ son; 31, Dryden; 32, Francis Charles;
 Mason; 36, Pill; 37, Dana; 38, Shaks­  
 peare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_erie_ver02%2Fdata%2Fsn86071045%2F00296026487%2F1883032101%2F0012.jp2/pct:72.859100,17.352835,11.251240,38.046226/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_erie_ver02%2Fdata%2Fsn86071045%2F00296026487%2F1883032101%2F0012.jp2/pct:72.859100,17.352835,11.251240,38.046226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5638,7 +5638,7 @@ Francis Charles; 33, Watkins; 34, Herrick;
 35. William Mason; 36, Pill; 37, Dana; 38,  
 Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623847%2F1883052601%2F0094.jp2/pct:72.007769,47.690572,12.250546,24.321275/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623847%2F1883052601%2F0094.jp2/pct:72.007769,47.690572,12.250546,24.321275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5737,7 +5737,7 @@ Watkins; 34, Herrick; 35, William
 Mason; 30, Pill: 37, Dana: 38, Shakes­  
 peare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F0041562458A%2F1883060901%2F0059.jp2/pct:85.862069,10.978543,10.101420,34.247431/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F0041562458A%2F1883060901%2F0059.jp2/pct:85.862069,10.978543,10.101420,34.247431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5899,7 +5899,7 @@ per 27, Sir Walter Dcvenant: 28, Gray,
 Herrick 85, William Mason 36, Pill  
 87, Dana 38, Shakspearo,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740839%2F1883081001%2F0079.jp2/pct:44.726271,6.064251,11.803999,31.587886/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740839%2F1883081001%2F0079.jp2/pct:44.726271,6.064251,11.803999,31.587886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5973,7 +5973,7 @@ its far©—
 21. We masters grow nf all that we despise.  
 2- &#x27;*. * »h, then re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895357%2F1883091301%2F0166.jp2/pct:35.610946,18.040966,11.177445,11.978072/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895357%2F1883091301%2F0166.jp2/pct:35.610946,18.040966,11.177445,11.978072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6172,7 +6172,7 @@ Addison; HI, Drydeu; 32, FrancisCharbs;
 38, Watkms; :M, llerrick; .&#x27;&lt;s, William  
 Mason; :!*», Fill; 87, Dana, 3*. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_dungeness_ver03%2Fdata%2Fsn83045611%2F00202198892%2F1883102701%2F0521.jp2/pct:7.125136,7.390079,10.931927,39.270011/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_dungeness_ver03%2Fdata%2Fsn83045611%2F00202198892%2F1883102701%2F0521.jp2/pct:7.125136,7.390079,10.931927,39.270011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6263,7 +6263,7 @@ Addison; 31, Dryden; 32, &#x27;Francis Charles
 33, Walk Ins ; 34, Herrlck ! 35, Wm, Mason  
 36, Pill ; 37, Dana ; 88, Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn88061082%2F0029602062A%2F1884042601%2F0478.jp2/pct:14.937063,2.990146,9.944056,27.760788/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn88061082%2F0029602062A%2F1884042601%2F0478.jp2/pct:14.937063,2.990146,9.944056,27.760788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6392,7 +6392,7 @@ of the standard authors of England ana America.
   
 Why all this toil for triumphs of an hour?—[Young
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1885-11-26_77_48$1/pct:9.969325,8.437730,26.738241,3.850405/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1885-11-26_77_48$1/pct:9.969325,8.437730,26.738241,3.850405/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6532,7 +6532,7 @@ Gray 29 Willis 30 Addison 31 Dryden
 rick 35 William Mason 30 Pill 37  
 Dana 3S Shakespher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_damsel_ver01%2Fdata%2Fsn83025121%2F00211108915%2F1886110201%2F0486.jp2/pct:3.009689,28.283108,19.995877,54.696572/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_damsel_ver01%2Fdata%2Fsn83025121%2F00211108915%2F1886110201%2F0486.jp2/pct:3.009689,28.283108,19.995877,54.696572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6694,7 +6694,7 @@ Dryden ; 82, Francis Quarles: 33, Watkins; 34,
 Herrick ; 35, William Mason ; 36, Hill ; 87, Dana»  
 33, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-02-17_35_7$30/pct:31.505771,11.800574,20.304302,46.682209/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-02-17_35_7$30/pct:31.505771,11.800574,20.304302,46.682209/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6793,7 +6793,7 @@ dison. 31. Dryden. 32. Francis Quarles.
 Mason. 36. Hill, 37. Dana. 38. Shakes­  
 peare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_lucretia_ver01%2Fdata%2Fsn86086852%2F00271768928%2F1887021801%2F0242.jp2/pct:25.087743,56.764311,9.886503,34.146430/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_lucretia_ver01%2Fdata%2Fsn86086852%2F00271768928%2F1887021801%2F0242.jp2/pct:25.087743,56.764311,9.886503,34.146430/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6892,7 +6892,7 @@ dison, 31. Dryden, 32. Francis Quarles,
 Mason, 36. Hill, 37. Dana, 38, Shakes­  
 peare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769507%2F1887022401%2F0029.jp2/pct:19.012989,20.985045,14.329491,43.148557/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769507%2F1887022401%2F0029.jp2/pct:19.012989,20.985045,14.329491,43.148557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6968,7 +6968,7 @@ Beattie; 2»’&gt;, Cowper; 27. Sir Walter Davenant;
 35, William Mason; 3f&gt;, Hill; 37, Dana; 38,  
 Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529029%2F1887030301%2F0387.jp2/pct:87.716124,6.260951,8.896261,17.780880/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529029%2F1887030301%2F0387.jp2/pct:87.716124,6.260951,8.896261,17.780880/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7044,7 +7044,7 @@ Is. Soinerv ille ; lb. 1’ltoiU‘on ; 2&quot;. Bvr«»n;21.
 Smolh tt: 22, &lt; mbb* ; 25. Massing* r; 24. f row -  
 |. \ 25. B* ittie; 2* &lt; owp« r; 27. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895333%2F1887030301%2F0039.jp2/pct:24.808061,4.674693,10.160749,21.814165/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895333%2F1887030301%2F0039.jp2/pct:24.808061,4.674693,10.160749,21.814165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7136,7 +7136,7 @@ Drydeii&quot;; 32. Francis Quarle.i: 33. Wat­
 kius; 31. Derrick; 3o. William Mason;  
 36, Hill; 37, Dana; 3J, Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296026839%2F1887031701%2F0052.jp2/pct:40.288693,8.617308,10.761828,23.620986/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296026839%2F1887031701%2F0052.jp2/pct:40.288693,8.617308,10.761828,23.620986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7232,7 +7232,7 @@ Dryden 32, Francis Quarles 33, Watkins
 34, Herrick 35, William Mason 36, Hill  
 37, Dana 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_antares_ver03%2Fdata%2Fsn90059959%2F00295876864%2F1887040201%2F0385.jp2/pct:36.424355,40.801240,13.969142,25.890668/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_antares_ver03%2Fdata%2Fsn90059959%2F00295876864%2F1887040201%2F0385.jp2/pct:36.424355,40.801240,13.969142,25.890668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7317,7 +7317,7 @@ Quarles 33 Watkins 34 Herrick 31
 William Mason 37 Hillg7Dana 33  
 Shakespeare wf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_juliet_ver02%2Fdata%2Fsn84022097%2F00206536172%2F1887040801%2F0414.jp2/pct:71.963652,47.693329,10.527482,27.194656/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_juliet_ver02%2Fdata%2Fsn84022097%2F00206536172%2F1887040801%2F0414.jp2/pct:71.963652,47.693329,10.527482,27.194656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7422,7 +7422,7 @@ son 31, Dryden 35, Francis Quarles
 Mason 36, Hill 37, Dana 38, Shak­  
 speare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quiring_ver01%2Fdata%2Fsn89064939%2F00206537978%2F1887041301%2F0116.jp2/pct:81.226631,8.504801,14.939450,50.311581/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quiring_ver01%2Fdata%2Fsn89064939%2F00206537978%2F1887041301%2F0116.jp2/pct:81.226631,8.504801,14.939450,50.311581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7534,7 +7534,7 @@ son 31, Dryden 35, Francis Quarles
 Mason 30, Hill 37, Dana 3S, Shak­  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_hula_ver01%2Fdata%2Fsn91059392%2F00383348080%2F1887041401%2F0379.jp2/pct:83.062117,15.245584,10.844269,41.570510/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_hula_ver01%2Fdata%2Fsn91059392%2F00383348080%2F1887041401%2F0379.jp2/pct:83.062117,15.245584,10.844269,41.570510/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7612,7 +7612,7 @@ Dryden; 32, Francis Quarles; 33, Watkins;
 34, Herrick; 35, William Mason; 33, Hill;  
 37, Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529637%2F1887041401%2F0540.jp2/pct:36.836379,41.094033,13.930592,25.787372/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529637%2F1887041401%2F0540.jp2/pct:36.836379,41.094033,13.930592,25.787372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7696,7 +7696,7 @@ Dryden; 32, Francis Quarles: 33, Wat­
 kins; 34. Herrick: 35. William Muscat  
 36, Hill: 37, Dana; 38. Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768849%2F1887041401%2F0304.jp2/pct:67.818964,43.876791,14.563376,29.852969/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768849%2F1887041401%2F0304.jp2/pct:67.818964,43.876791,14.563376,29.852969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7803,7 +7803,7 @@ son 81, Dryden 35, Francis Quarles:
 Mason 36, Hill 37, Dana 88, Shak­  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740839%2F1887041501%2F0880.jp2/pct:69.406204,9.222478,12.068649,42.861985/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740839%2F1887041501%2F0880.jp2/pct:69.406204,9.222478,12.068649,42.861985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7977,7 +7977,7 @@ deu; 32, Francis (Juarles; 33, Watkins;
 31, Herrick; 35, William Mason; 30,  
 Hill; 37, Dana; 33. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1887042001%2F0681.jp2/pct:39.876892,19.186720,10.913326,40.355167/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1887042001%2F0681.jp2/pct:39.876892,19.186720,10.913326,40.355167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8082,7 +8082,7 @@ Francis Quaries; 33, Watkins; 34,
 Herrick; 35, William Mason ; 36, Hill;  
 37, Dana; 38, Shakspeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291116%2F1887042201%2F0010.jp2/pct:48.583547,22.241462,11.023528,51.889778/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291116%2F1887042201%2F0010.jp2/pct:48.583547,22.241462,11.023528,51.889778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8161,7 +8161,7 @@ venaut; 28. Gray; 29. Willis; 30. Addison;
 kins; 34. Herrick; 35. William Mason;  
 36. Hill; 37. Dana; 38. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_cinnabar_ver01%2Fdata%2Fsn90053049%2F00332897901%2F1887043001%2F0353.jp2/pct:43.386736,60.036242,12.262481,32.509757/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cinnabar_ver01%2Fdata%2Fsn90053049%2F00332897901%2F1887043001%2F0353.jp2/pct:43.386736,60.036242,12.262481,32.509757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8238,7 +8238,7 @@ Watkins ; 34, Herrick; 35, William Mason; 36, Hill; 37, Dana;
   
 38, Shakespear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8$39/pct:10.341495,15.471869,38.176546,55.739564/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8$39/pct:10.341495,15.471869,38.176546,55.739564/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8274,7 +8274,7 @@ i ioar not too high to fall, hut stcop to rise,
 I We masters grow of all that we despise;  
 Oh, then, renounce that Impi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_eden_ver01%2Fdata%2Fsn98060050%2F00280777419%2F1887052701%2F0591.jp2/pct:62.564015,16.926299,9.696142,8.011520/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_eden_ver01%2Fdata%2Fsn98060050%2F00280777419%2F1887052701%2F0591.jp2/pct:62.564015,16.926299,9.696142,8.011520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8355,7 +8355,7 @@ Dryden; S2, Francis Quarlcs; 33, Wat­
 kins; 34, Herrick; 35. William Mason;  
 36, Hill; 37, Dana; 38, Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_abbott_ver01%2Fdata%2Fsn95073194%2F00206539252%2F1887060101%2F0442.jp2/pct:60.318962,30.815172,10.663603,25.324811/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_abbott_ver01%2Fdata%2Fsn95073194%2F00206539252%2F1887060101%2F0442.jp2/pct:60.318962,30.815172,10.663603,25.324811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8455,7 +8455,7 @@ Gray; 29, Wills; 30, Addisou; 81, Diyden;
 Herrick; 35, William Mason; 36, Hill;  
 87,&#x27;Dana; 38. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_galena_ver02%2Fdata%2Fsn88065721%2F00279521626%2F1887102601%2F0272.jp2/pct:80.600958,29.337352,15.777888,45.544518/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_galena_ver02%2Fdata%2Fsn88065721%2F00279521626%2F1887102601%2F0272.jp2/pct:80.600958,29.337352,15.777888,45.544518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8497,7 +8497,7 @@ SO. Thou pendulum betwixt a smile and tear:
 23. W itb cran and kill to ruin and betray.  
 ! &quot; ow ,0 nin w &quot; two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_forest_ver01%2Fdata%2Fsn94053256%2F00271763049%2F1888031501%2F0361.jp2/pct:82.049830,55.230507,12.245187,13.978372/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_forest_ver01%2Fdata%2Fsn94053256%2F00271763049%2F1888031501%2F0361.jp2/pct:82.049830,55.230507,12.245187,13.978372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8581,7 +8581,7 @@ Potter; 26, Cowper; 27, Sir Walter Davenaut;
 35, William Mason;36, Hill; 37, Dana; 38, Shake­  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1888072601%2F0132.jp2/pct:78.812961,26.052639,8.647085,17.228709/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1888072601%2F0132.jp2/pct:78.812961,26.052639,8.647085,17.228709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8659,7 +8659,7 @@ Potler; 26, Cowper; 27, Sir Walter Davenaut;
 35, WUUam Mason;36, Hill; 37, Daua; 38, Shake­  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1888072601%2F0133.jp2/pct:79.082130,25.873003,8.647085,17.215100/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1888072601%2F0133.jp2/pct:79.082130,25.873003,8.647085,17.215100/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8803,7 +8803,7 @@ Addison; 31, Dryden; S2, Francis Quarles; 33,
 Watkins; 34, Herrick; 35, William Mason; 36,  
 Hill; 37, Dana; 3S, Shaksperc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_franklin_ver01%2Fdata%2Fsn82016187%2F00211102950%2F1888112201%2F0414.jp2/pct:16.247974,16.059133,12.817396,21.132037/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_franklin_ver01%2Fdata%2Fsn82016187%2F00211102950%2F1888112201%2F0414.jp2/pct:16.247974,16.059133,12.817396,21.132037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8924,7 +8924,7 @@ Beattie; 26, Cowper; 27, Sir Walter Devanant;
 85, William Mason; 86, Pill; 87, Dana; 38,  
 Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1889-01_69_1$81/pct:19.332797,17.016575,74.196141,77.679558/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1889-01_69_1$81/pct:19.332797,17.016575,74.196141,77.679558/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9063,7 +9063,7 @@ Walter Davenant; 22, Gray; 23, Willis; 24,
 Addison; 25, Dryden; 26, Francis Charles;  
 27, Watkins; 28, Herrick ; 29, Wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19$2/pct:23.497554,22.628032,15.234102,18.746631/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19$2/pct:23.497554,22.628032,15.234102,18.746631/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9596,7 +9596,7 @@ not comprehend.
 The trust that&#x27;sgiven guard, and  
 to your
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_haw_ver01%2Fdata%2Fsn91068245%2F00295878757%2F1890042401%2F0277.jp2/pct:28.187559,20.559279,11.232030,33.253037/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_haw_ver01%2Fdata%2Fsn91068245%2F00295878757%2F1890042401%2F0277.jp2/pct:28.187559,20.559279,11.232030,33.253037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9889,7 +9889,7 @@ det: 28, Gray; 29, Willis; 30, Addison;
 kins; 34. Herrick. 35, William Mason; 36,  
 Pill; 37, Dana; 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_belle_ver01%2Fdata%2Fsn85033078%2F00271768539%2F1891031901%2F0413.jp2/pct:56.123841,38.336801,12.520458,27.319264/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_belle_ver01%2Fdata%2Fsn85033078%2F00271768539%2F1891031901%2F0413.jp2/pct:56.123841,38.336801,12.520458,27.319264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10021,7 +10021,7 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 88—For, live we how we can, yet die we must.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11$9/pct:38.018535,19.370651,23.300971,25.189753/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11$9/pct:38.018535,19.370651,23.300971,25.189753/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10061,7 +10061,7 @@ t. Life&#x27;s a aaort summer, mas a Oowar.
 S. By tarns we rates Lha vti-tl braeta ana die.  
 4. 1 oe Oracle an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_forest_ver01%2Fdata%2Fsn82015483%2F00271764091%2F1893032001%2F0267.jp2/pct:74.373301,64.635487,9.710057,6.691904/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_forest_ver01%2Fdata%2Fsn82015483%2F00271764091%2F1893032001%2F0267.jp2/pct:74.373301,64.635487,9.710057,6.691904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10100,7 +10100,7 @@ IB. live well; how long or short, permit ta
 18. They who forgive most shall be most for­  
 given.IT. Sin may be c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063952%2F00280760328%2F1893052401%2F1204.jp2/pct:19.682660,16.453860,13.241405,11.767266/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063952%2F00280760328%2F1893052401%2F1204.jp2/pct:19.682660,16.453860,13.241405,11.767266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10127,7 +10127,7 @@ lis. 80. Addison. 81. Dryden. 82. Francis
 Charles. 83. Watklns. 84. Herrick. 35. Wil­  
 liam Mason. 86. Pill. 87. Dana. 08. Shake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063952%2F00280760328%2F1893052401%2F1204.jp2/pct:19.928221,39.059779,12.731394,6.543819/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063952%2F00280760328%2F1893052401%2F1204.jp2/pct:19.928221,39.059779,12.731394,6.543819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10212,7 +10212,7 @@ Charles. 3. Watkins. 34, Herrick. 35. Wil-
 Uam Mason. 3. Pill. 37. Dana. 38, Shake­  
 speare. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_heron_ver02%2Fdata%2Fsn88085722%2F0041418991A%2F1893060701%2F1322.jp2/pct:65.659862,7.566178,14.354379,33.893947/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_heron_ver02%2Fdata%2Fsn88085722%2F0041418991A%2F1893060701%2F1322.jp2/pct:65.659862,7.566178,14.354379,33.893947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10240,7 +10240,7 @@ A Ufa&#x27;s a short rammer, man a flower.
 A Br turne w* aatch the vital breath and die.  
 A The cradle and the tomb, alaeleo ni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_gabbs_ver01%2Fdata%2Fsn86076126%2F0033289108A%2F1893061701%2F0194.jp2/pct:34.713529,17.147053,14.979538,9.110520/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_gabbs_ver01%2Fdata%2Fsn86076126%2F0033289108A%2F1893061701%2F0194.jp2/pct:34.713529,17.147053,14.979538,9.110520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10395,7 +10395,7 @@ IS, Somcrville; ]Thomson; 2ii, liryaid; 21,
 ISt.&#x27;iillIt;Cow per; Si, sir Waiter  
 Davenant; Gray
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_bones_ver01%2Fdata%2Fsn84026824%2F00271767857%2F1893081101%2F0541.jp2/pct:49.341871,11.937200,14.345429,34.705463/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_bones_ver01%2Fdata%2Fsn84026824%2F00271767857%2F1893081101%2F0541.jp2/pct:49.341871,11.937200,14.345429,34.705463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10426,7 +10426,7 @@ lUeattl«; Jü,Cowper;-&#x27;7. Kir Walter Daven
 ant;28.(Jroy; 2». Willis; »&gt;. Ad.i  
 iDrydei.;32, I rand» Charle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_episky_ver01%2Fdata%2Fsn88053055%2F00271741340%2F1894010801%2F0038.jp2/pct:11.728395,25.872905,11.860670,9.287709/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_episky_ver01%2Fdata%2Fsn88053055%2F00271741340%2F1894010801%2F0038.jp2/pct:11.728395,25.872905,11.860670,9.287709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10515,7 +10515,7 @@ Francis Charles; 33, Watkins; 84, Her­
 rick: 35, William Mason; 30, Pill; 37,  
 Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297507%2F1894031501%2F0407.jp2/pct:36.371882,28.278689,14.784580,33.767564/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297507%2F1894031501%2F0407.jp2/pct:36.371882,28.278689,14.784580,33.767564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10541,7 +10541,7 @@ tensive reading of the voluminous
 writings of thirty-eight leading poets  
 of the past and present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn93067777%2F00237287034%2F1894051601%2F0378.jp2/pct:3.576389,8.910274,12.070312,7.284562/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn93067777%2F00237287034%2F1894051601%2F0378.jp2/pct:3.576389,8.910274,12.070312,7.284562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10645,7 +10645,7 @@ cis Quarles; 33. W atkins; 34. Herrick;
 35. William Mason; 36. Pill; 37. Dana;  
 38. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn93067777%2F00237287034%2F1894051601%2F0378.jp2/pct:2.842882,20.470896,12.638889,50.524775/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn93067777%2F00237287034%2F1894051601%2F0378.jp2/pct:2.842882,20.470896,12.638889,50.524775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10763,7 +10763,7 @@ Francis Quarles; 33. Walking; 34 Herrlck ; ?,
 35. William Mason; 3C. Pill: 37. Dana; 38.  
 .Shakespeare. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F0023728737A%2F1894062001%2F0168.jp2/pct:0.270537,5.298836,18.864783,37.776831/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F0023728737A%2F1894062001%2F0168.jp2/pct:0.270537,5.298836,18.864783,37.776831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10848,7 +10848,7 @@ Davenant; 28, Gray; 29, Willis; 30, Addison;
 34, Herrick; 35, William Mason; 36, Hill; 37,  
 Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529686%2F1897070101%2F0637.jp2/pct:35.189651,11.315266,14.410217,28.912111/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529686%2F1897070101%2F0637.jp2/pct:35.189651,11.315266,14.410217,28.912111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10960,7 +10960,7 @@ Dry den; 32, Francis Charles; 33, Wal­
 kins; 34, Herrick; 35, William Mason;  
 36, Phil; 37, Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562850A%2F1897071401%2F0480.jp2/pct:63.236225,8.025548,10.861305,48.611497/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562850A%2F1897071401%2F0480.jp2/pct:63.236225,8.025548,10.861305,48.611497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10985,7 +10985,7 @@ poets of the past and present The
 number of each line refers to its au­  
 thor below:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_hickory_ver01%2Fdata%2F2016270502%2F00271762781%2F1897092301%2F0588.jp2/pct:70.822527,22.491562,12.763987,6.090825/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_hickory_ver01%2Fdata%2F2016270502%2F00271762781%2F1897092301%2F0588.jp2/pct:70.822527,22.491562,12.763987,6.090825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11014,7 +11014,7 @@ Dryden; 32, Francis Charles; 33, Wal­
 kins; 34, Herrick; 35, William Mason;:  
 36, Phil; 37, Dana; 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_hickory_ver01%2Fdata%2F2016270502%2F00271762781%2F1897092301%2F0588.jp2/pct:70.804001,68.456582,12.782512,7.732433/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_hickory_ver01%2Fdata%2F2016270502%2F00271762781%2F1897092301%2F0588.jp2/pct:70.804001,68.456582,12.782512,7.732433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11044,7 +11044,7 @@ Whom Christians worship, yet not comprehend . —Hill
 The trust that&#x27;s given guard, and to yourself be just, —Dana.  
 For live we how we can, yet die we must. —SJieAespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_firebaugh_ver01%2Fdata%2Fsn82015104%2F00280768777%2F1897101701%2F0561.jp2/pct:9.724888,72.480333,27.148646,6.018274/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_firebaugh_ver01%2Fdata%2Fsn82015104%2F00280768777%2F1897101701%2F0561.jp2/pct:9.724888,72.480333,27.148646,6.018274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11096,7 +11096,7 @@ The trust that’s given guard, and to your-
 self be just, —Dana.  
 For live we how ‘we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1$1/pct:66.346407,23.933599,11.621479,11.798697/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1$1/pct:66.346407,23.933599,11.621479,11.798697/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11202,7 +11202,7 @@ yourself lie just;
 38. For, live how we can, yet die we  
 must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/gu_fletcher_ver01%2Fdata%2Fsn86063034%2F00414182239%2F1898022001%2F0542.jp2/pct:31.449646,32.522638,12.789564,47.167307/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_fletcher_ver01%2Fdata%2Fsn86063034%2F00414182239%2F1898022001%2F0542.jp2/pct:31.449646,32.522638,12.789564,47.167307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11342,7 +11342,7 @@ dison; 31, Dryden; 32, Francis Charles;
 33, Watkins; 34, Herrick; 35, William  
 Mason; 36, PilJ; 37, Dana; 38,Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_beatles_ver01%2Fdata%2Fsn84027718%2F0027176358A%2F1898110301%2F0198.jp2/pct:50.312636,4.914062,10.905918,34.698350/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_beatles_ver01%2Fdata%2Fsn84027718%2F0027176358A%2F1898110301%2F0198.jp2/pct:50.312636,4.914062,10.905918,34.698350/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11413,7 +11413,7 @@ Francis Quarles; 33. vVatkies; 34, Herrick; 35,
 William Mason; 36, Hill; 37, Dana; 38, Shakos&#x27;  
 peare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_abolitionist_ver02%2Fdata%2Fsn86074033%2F00199916385%2F1898111901%2F0063.jp2/pct:51.019121,15.556887,11.197052,18.460540/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_abolitionist_ver02%2Fdata%2Fsn86074033%2F00199916385%2F1898111901%2F0063.jp2/pct:51.019121,15.556887,11.197052,18.460540/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

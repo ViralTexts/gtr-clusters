@@ -105,7 +105,7 @@ the
 fur «pople«., 1  
 fainting, lay Mat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271742538%2F1872091101%2F0990.jp2/pct:32.410038,38.924501,12.523674,13.924501/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271742538%2F1872091101%2F0990.jp2/pct:32.410038,38.924501,12.523674,13.924501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ For acid poisons give nlkilies; for
 alkaline poisons give acids; white  
 of an egg is good in most cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016951%2F00295878484%2F1872102601%2F0797.jp2/pct:23.249902,38.574567,11.243645,21.093106/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016951%2F00295878484%2F1872102601%2F0797.jp2/pct:23.249902,38.574567,11.243645,21.093106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ better, cut out the part without d-lay ;
 hold the wounded part a* long a* can L  
 home to a hot cml. or m I nf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765277%2F1872110901%2F0405.jp2/pct:55.863708,14.430759,13.094295,49.134487/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765277%2F1872110901%2F0405.jp2/pct:55.863708,14.430759,13.094295,49.134487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ sore: enlatge the wound, or, better, cut out the
 part without delay; hold the wounded part as  
 long as can be borne to a hot coal 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_crucio_ver01%2Fdata%2Fsn84026837%2F0027174254A%2F1872111601%2F0836.jp2/pct:60.768072,34.547244,17.118474,13.418635/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_crucio_ver01%2Fdata%2Fsn84026837%2F0027174254A%2F1872111601%2F0836.jp2/pct:60.768072,34.547244,17.118474,13.418635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ give strong coflce, and keep moving.
 For apoplexy, raise the hevl and body;  
 Ior tainting, lay tbe person II it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F0020219087A%2F1872121401%2F1192.jp2/pct:1.861440,74.226942,13.239645,18.917718/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F0020219087A%2F1872121401%2F1192.jp2/pct:1.861440,74.226942,13.239645,18.917718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ For acid polsops, give alkalis; for alkaline
 poisons, give acida?white of egg it  
 good in moat cases; in a ease ol opium
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F0020219087A%2F1872121401%2F1193.jp2/pct:2.461140,73.651507,13.045892,17.609730/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F0020219087A%2F1872121401%2F1193.jp2/pct:2.461140,73.651507,13.045892,17.609730/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ moving.
 For appoplexy, raise the head and body ;  
 for fainting lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293733%2F1872121801%2F0568.jp2/pct:49.179375,25.007851,14.393609,19.323773/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293733%2F1872121801%2F0568.jp2/pct:49.179375,25.007851,14.393609,19.323773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ moving.
 For appoplexy, raise the head and body ;  
 for fainting lay tho person llat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293563%2F1872122501%2F1029.jp2/pct:24.726426,31.362550,17.112922,20.956175/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293563%2F1872122501%2F1029.jp2/pct:24.726426,31.362550,17.112922,20.956175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ keep moving.
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_dean_ver02%2Fdata%2Fsn84038034%2F00271740566%2F1873010201%2F0505.jp2/pct:6.198268,46.140538,14.456208,22.597817/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dean_ver02%2Fdata%2Fsn84038034%2F00271740566%2F1873010201%2F0505.jp2/pct:6.198268,46.140538,14.456208,22.597817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ keep moving.
 For apoplexy, raise the head and body;  
 for fainting, lay the person tlat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1873010301%2F1119.jp2/pct:6.882700,46.532607,13.671666,22.072919/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1873010301%2F1119.jp2/pct:6.882700,46.532607,13.671666,22.072919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ coffee and keep moving. .
 If in water, float on the back with  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775800%2F1873010301%2F0430.jp2/pct:85.501459,74.572243,9.691292,21.102662/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775800%2F1873010301%2F0430.jp2/pct:85.501459,74.572243,9.691292,21.102662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ oning. give strong coffee, and keep moving.
 If in water, float on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873010401%2F0434.jp2/pct:82.355119,17.715690,12.071839,18.086138/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873010401%2F0434.jp2/pct:82.355119,17.715690,12.071839,18.086138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ rao.it c-e; in a cuse of opium poisoning,
 pive s&#x27;ronL&#x27; foi&#x27;ee, and keep movinj;.  
 F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212471513%2F1873010401%2F1303.jp2/pct:4.605527,39.620694,17.160593,13.249903/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212471513%2F1873010401%2F1303.jp2/pct:4.605527,39.620694,17.160593,13.249903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ projecting.
 For appoplexy. raise tae head and body ;  
 for fainting, lay fiat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1873010701%2F0425.jp2/pct:84.001736,83.094218,13.363715,13.900785/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1873010701%2F0425.jp2/pct:84.001736,83.094218,13.363715,13.900785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ moving. . &#x27; . r . ... . , .- e
 : For .apoplexy, raise 4he head and  
 body ; for fainting, lay Jibe person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027169%2F1873010901%2F0436.jp2/pct:19.403893,5.392585,10.523114,19.460741/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027169%2F1873010901%2F0436.jp2/pct:19.403893,5.392585,10.523114,19.460741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ moving.
 Jf in water, float on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293745%2F1873012401%2F0081.jp2/pct:48.351319,37.150926,14.628297,15.448175/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293745%2F1873012401%2F0081.jp2/pct:48.351319,37.150926,14.628297,15.448175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ for apoplexy, raise the head and
   
 body; for fainting, lay tha perwon flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779416%2F1873012401%2F0080.jp2/pct:53.551913,71.035274,12.629022,19.902495/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779416%2F1873012401%2F0080.jp2/pct:53.551913,71.035274,12.629022,19.902495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ moving.
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293472%2F1873012501%2F0090.jp2/pct:38.332585,67.819383,10.791798,16.123348/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293472%2F1873012501%2F0090.jp2/pct:38.332585,67.819383,10.791798,16.123348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1053,7 +1053,7 @@ moving.
 For apoplexy, ratso the head &#x27;and  
 body ; for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292807%2F1873012901%2F0641.jp2/pct:63.480774,12.217547,14.781062,23.515662/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292807%2F1873012901%2F0641.jp2/pct:63.480774,12.217547,14.781062,23.515662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ moving.
 If in water, lloat on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293575%2F1873012901%2F0040.jp2/pct:26.489758,7.192760,17.062384,21.435376/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293575%2F1873012901%2F0040.jp2/pct:26.489758,7.192760,17.062384,21.435376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1151,7 +1151,7 @@ Tor apoplexy, raise the head ana
 body for fainting, lay the parson fiat.  
 »
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85033526%2F00212472566%2F1873013001%2F0019.jp2/pct:14.402910,14.826307,11.949540,15.553325/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85033526%2F00212472566%2F1873013001%2F0019.jp2/pct:14.402910,14.826307,11.949540,15.553325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ lltve strong ollcc ami k
 Keep moving,  
 on the back, with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105495%2F1873020101%2F0452.jp2/pct:33.961567,7.024351,14.966741,18.744983/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105495%2F1873020101%2F0452.jp2/pct:33.961567,7.024351,14.966741,18.744983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1266,7 +1266,7 @@ and keep moving.
 ii n water, noat on the back, with  
 the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1873020501%2F0342.jp2/pct:74.016240,75.978492,9.556527,17.356509/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1873020501%2F0342.jp2/pct:74.016240,75.978492,9.556527,17.356509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ j For apoplexy, raise the head
 and body; for fainting, lay the  
 I person fiat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470387%2F1873020601%2F0023.jp2/pct:16.725427,5.007790,11.253702,31.560205/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470387%2F1873020601%2F0023.jp2/pct:16.725427,5.007790,11.253702,31.560205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1422,7 +1422,7 @@ i&quot;E give strong coffee, and keep
   
 moving.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472967%2F1873020701%2F0591.jp2/pct:4.543032,26.714286,8.872902,18.890110/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472967%2F1873020701%2F0591.jp2/pct:4.543032,26.714286,8.872902,18.890110/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1465,7 +1465,7 @@ For acid poisons, give alkalies ; fur alka­
 lino poisons, give acids ; white oi an egg is  
 good iu most cases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn85034447%2F00199917262%2F1873020701%2F0034.jp2/pct:66.488821,64.795198,15.066057,20.091808/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn85034447%2F00199917262%2F1873020701%2F0034.jp2/pct:66.488821,64.795198,15.066057,20.091808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1499,7 +1499,7 @@ line puolom, give aelds--whblte of eggl I
 gesl In nast esass; ain ase of opium pal  
 moingl give strorg oe amnl keep movinlg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F0029455483A%2F1873020801%2F0231.jp2/pct:28.370457,48.585924,11.122509,10.977979/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F0029455483A%2F1873020801%2F0231.jp2/pct:28.370457,48.585924,11.122509,10.977979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1548,7 +1548,7 @@ good lu most cases ; in a case of opium pol
 Boning give strong cofi&#x27;co and keep mov  
 lug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777377%2F1873022101%2F0227.jp2/pct:16.227145,31.466366,10.970464,17.886293/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777377%2F1873022101%2F0227.jp2/pct:16.227145,31.466366,10.970464,17.886293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ coffee and keep moving.
 If in water, float on the back, with  
 the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776117%2F1873022601%2F0529.jp2/pct:35.061114,65.919947,14.644636,21.149728/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776117%2F1873022601%2F0529.jp2/pct:35.061114,65.919947,14.644636,21.149728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ keep moving.
 If in a water, float on the back, with  
 the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1873022701%2F0043.jp2/pct:15.158371,61.641850,9.815524,16.866517/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1873022701%2F0043.jp2/pct:15.158371,61.641850,9.815524,16.866517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1674,7 +1674,7 @@ dash water into them ; remove cinders,
 etc., with the round point of a pencil.  
 Remove insects from the ear by tepid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_kirby_ver02%2Fdata%2Fsn84022552%2F00202197231%2F1873022801%2F0443.jp2/pct:44.578548,33.230941,12.322367,4.635577/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_kirby_ver02%2Fdata%2Fsn84022552%2F00202197231%2F1873022801%2F0443.jp2/pct:44.578548,33.230941,12.322367,4.635577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1695,7 +1695,7 @@ tard.For acid poisons give alkalies ; for
 iillviiline poisons, give acids; white of  
 an egg is pood in most cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_kirby_ver02%2Fdata%2Fsn84022552%2F00202197231%2F1873022801%2F0443.jp2/pct:44.247615,44.121754,12.341834,3.825747/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_kirby_ver02%2Fdata%2Fsn84022552%2F00202197231%2F1873022801%2F0443.jp2/pct:44.247615,44.121754,12.341834,3.825747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ moving.
 If in water, float on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873030601%2F0043.jp2/pct:16.888889,39.129880,10.910256,19.434167/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873030601%2F0043.jp2/pct:16.888889,39.129880,10.910256,19.434167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1791,7 +1791,7 @@ For acid poisons give alkalies ; for
 alkaline poisons, give acids ; white of  
 an egg is good in most cases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763803%2F1873030701%2F0392.jp2/pct:28.922138,60.372093,11.011040,14.000000/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763803%2F1873030701%2F0392.jp2/pct:28.922138,60.372093,11.011040,14.000000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1845,7 +1845,7 @@ moving.
 If in water, float on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1873030701%2F0259.jp2/pct:7.953193,48.820721,12.772709,26.262480/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1873030701%2F0259.jp2/pct:7.953193,48.820721,12.772709,26.262480/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1897,7 +1897,7 @@ keepmoviBg.
 It in water float on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F0029587613A%2F1873030801%2F0258.jp2/pct:5.212483,54.988095,12.483400,17.380952/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F0029587613A%2F1873030801%2F0258.jp2/pct:5.212483,54.988095,12.483400,17.380952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1919,7 +1919,7 @@ poisons give acids; while of an egg 1* good in
 moat casgs; io a case of opium poisoning give  
 strong cofie© and keep moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_accio_ver01%2Fdata%2Fsn84026837%2F0027174030A%2F1873031101%2F0266.jp2/pct:5.653626,27.770781,16.579198,5.384131/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_accio_ver01%2Fdata%2Fsn84026837%2F0027174030A%2F1873031101%2F0266.jp2/pct:5.653626,27.770781,16.579198,5.384131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1965,7 +1965,7 @@ For acid poisons give sikslies ; for
 alkaline poisons, give acids; white of  
 an egg is good in most cases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028721%2F1873031301%2F0454.jp2/pct:24.343935,55.395907,9.671533,13.544897/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028721%2F1873031301%2F0454.jp2/pct:24.343935,55.395907,9.671533,13.544897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2021,7 +2021,7 @@ strong coffee, and keep moving.
 For appohlexy, raise the head and  
 body; for fainting, lay the person fiat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_angel_ver01%2Fdata%2Fsn85034336%2F00211101027%2F1873031501%2F0726.jp2/pct:8.046683,7.890639,14.782965,26.492473/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_angel_ver01%2Fdata%2Fsn85034336%2F00211101027%2F1873031501%2F0726.jp2/pct:8.046683,7.890639,14.782965,26.492473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2065,7 +2065,7 @@ f or acid poisons give alkalies ; for
 alkaline poisons, give acids; while of an  
 egg is good in most eases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873032701%2F0052.jp2/pct:85.691988,53.003901,11.086542,13.410273/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873032701%2F0052.jp2/pct:85.691988,53.003901,11.086542,13.410273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2091,7 +2091,7 @@ tepid water; never put a bard instru
 mont into your oar.  
 If an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873040201%2F0360.jp2/pct:3.269036,60.828436,11.573604,6.392432/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873040201%2F0360.jp2/pct:3.269036,60.828436,11.573604,6.392432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2114,7 +2114,7 @@ mustard.
 alkulino poisons, givo acids ; whito of  
 an egg is good in most cases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873040201%2F0360.jp2/pct:3.532995,71.262720,11.472081,4.858822/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873040201%2F0360.jp2/pct:3.532995,71.262720,11.472081,4.858822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2160,7 +2160,7 @@ Img.
 For il,,,plexy, raise tile head and body;  
 for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762015%2F1873040601%2F0596.jp2/pct:50.496820,74.018967,16.951510,18.884892/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762015%2F1873040601%2F0596.jp2/pct:50.496820,74.018967,16.951510,18.884892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2196,7 +2196,7 @@ coffee, and keep moving.
 If in water; tfdal oh the back, with the nose  
 and mouth projecting. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_fullerton_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1873040901%2F0003.jp2/pct:69.435333,16.376323,13.003749,9.996352/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_fullerton_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1873040901%2F0003.jp2/pct:69.435333,16.376323,13.003749,9.996352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2241,7 +2241,7 @@ white of egg 18 good in most cases ; in
 case of opium poisoning, give strong cof­  
 fee and keep moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873041001%2F0052.jp2/pct:80.373832,72.058418,12.442734,15.004133/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873041001%2F0052.jp2/pct:80.373832,72.058418,12.442734,15.004133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2271,7 +2271,7 @@ white of egg is good In most casos ; in
 caso of opium poisoning, give strong cof­  
 fee nnd keep moving. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1873041101%2F0481.jp2/pct:81.586255,60.939398,10.898993,7.180456/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1873041101%2F0481.jp2/pct:81.586255,60.939398,10.898993,7.180456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2301,7 +2301,7 @@ white of egg is g«md m must CAses in ease
 | of opium |»otaoni!ig. give strong cpMeeaml  
 keep mo \ m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897895%2F1873041201%2F0333.jp2/pct:84.279689,67.226785,11.149416,7.962729/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897895%2F1873041201%2F0333.jp2/pct:84.279689,67.226785,11.149416,7.962729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2391,7 +2391,7 @@ coffee and keep moving.
 If in water, float on the back,  
 with the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528906%2F1873042501%2F0065.jp2/pct:32.203307,45.670158,10.145778,21.231785/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528906%2F1873042501%2F0065.jp2/pct:32.203307,45.670158,10.145778,21.231785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2439,7 +2439,7 @@ movjng.
 If in water, float on the back, with tho  
 pose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F0027955730A%2F1873042601%2F0773.jp2/pct:6.225645,13.376873,12.428094,19.420501/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F0027955730A%2F1873042601%2F0773.jp2/pct:6.225645,13.376873,12.428094,19.420501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2464,7 +2464,7 @@ never put a haul instrument into the ear.
 If any artery is cut, compress above (hi  
 wound; if a vein is cut,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873042601%2F0071.jp2/pct:7.110577,32.019671,14.629808,6.790622/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873042601%2F0071.jp2/pct:7.110577,32.019671,14.629808,6.790622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2492,7 +2492,7 @@ give strong coffee, and keep moving.
 If in water, float on the hack, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873042601%2F0071.jp2/pct:7.336538,43.509162,14.605769,8.387227/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873042601%2F0071.jp2/pct:7.336538,43.509162,14.605769,8.387227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2517,7 +2517,7 @@ cofiee, and keep moving.
 If in water, float on tbe back, with the nose  
 and month projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F0029455564A%2F1873050101%2F0649.jp2/pct:43.950662,36.713881,12.316343,5.325779/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F0029455564A%2F1873050101%2F0649.jp2/pct:43.950662,36.713881,12.316343,5.325779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2565,7 +2565,7 @@ white of egg is good in most cases; in cases of opium poison-
 ing, give strong coffee, and keep moving. If in water, float  
 on the back, with the nose and meuth projecting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_peterson-magazine_1873-05_63_5$70/pct:6.530214,35.481998,38.157895,28.513357/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_peterson-magazine_1873-05_63_5$70/pct:6.530214,35.481998,38.157895,28.513357/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2614,7 +2614,7 @@ ing.
 If in water, float on the back, with the nose  
 and month projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861277%2F1873050801%2F0162.jp2/pct:26.760787,70.544355,17.354061,24.566532/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861277%2F1873050801%2F0162.jp2/pct:26.760787,70.544355,17.354061,24.566532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2657,7 +2657,7 @@ ing.
 it iu water, float on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524664%2F1873051501%2F0291.jp2/pct:14.057776,27.457213,11.240343,12.264670/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524664%2F1873051501%2F0291.jp2/pct:14.057776,27.457213,11.240343,12.264670/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2703,7 +2703,7 @@ egg is good in most cases ; in a ease of
 opium poisojiinggive strong coffee and  
 keep moving. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877480%2F1873051501%2F0178.jp2/pct:4.863305,79.512771,11.718643,14.531015/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877480%2F1873051501%2F0178.jp2/pct:4.863305,79.512771,11.718643,14.531015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2757,7 +2757,7 @@ and keep moving.
 If in water, float on the back, with  
 the nosj and ruouib projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1873051601%2F0299.jp2/pct:8.718967,45.474421,12.472691,22.125055/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1873051601%2F0299.jp2/pct:8.718967,45.474421,12.472691,22.125055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2802,7 +2802,7 @@ cottee, and keep moving.
 If in water, float on the back, with the nose  
 and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_mastiff_ver01%2Fdata%2Fsn83045462%2F00280654395%2F1873051701%2F0582.jp2/pct:43.166261,57.899217,13.751141,12.640449/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_mastiff_ver01%2Fdata%2Fsn83045462%2F00280654395%2F1873051701%2F0582.jp2/pct:43.166261,57.899217,13.751141,12.640449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2855,7 +2855,7 @@ If in water, float on the back,
 with the nose and mouth project­  
 ing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn84022044%2F00279554838%2F1873051701%2F0502.jp2/pct:11.309524,11.542974,15.173060,21.608243/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn84022044%2F00279554838%2F1873051701%2F0502.jp2/pct:11.309524,11.542974,15.173060,21.608243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2908,7 +2908,7 @@ mouth is sore ; enlarge tne wound, or,
   
 better, cut out the part without dela
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873052201%2F0076.jp2/pct:69.003144,62.300588,12.446828,9.823678/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873052201%2F0076.jp2/pct:69.003144,62.300588,12.446828,9.823678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2928,7 +2928,7 @@ llUllsuun Ulio maim. , iu. uiuimiuv . . . . . . . , , - - - o
   
 good in most cases ; in case of opium fate called him away to the West wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873052201%2F0076.jp2/pct:69.225079,73.943465,25.245053,2.127064/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873052201%2F0076.jp2/pct:69.225079,73.943465,25.245053,2.127064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2959,7 +2959,7 @@ ing. give strong coffee, and keep moving.
 If in vvab r, float on the back, with the  
 no?e and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742046%2F1873052401%2F0512.jp2/pct:2.448262,53.349770,13.923080,8.443673/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742046%2F1873052401%2F0512.jp2/pct:2.448262,53.349770,13.923080,8.443673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3012,7 +3012,7 @@ and keep moving.
 If in Avater, float on the back with  
 the noose and mouth projecting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624347%2F1873052901%2F0256.jp2/pct:67.459459,39.886689,12.130631,21.902097/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624347%2F1873052901%2F0256.jp2/pct:67.459459,39.886689,12.130631,21.902097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3042,7 +3042,7 @@ strong conee, and keep moving.
 IF in water llat on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1873060401%2F0093.jp2/pct:28.524590,56.623176,11.033500,7.363998/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1873060401%2F0093.jp2/pct:28.524590,56.623176,11.033500,7.363998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3094,7 +3094,7 @@ egg is good in most ca-es in a ca-e of
 ; opium rfiisoniiig, give strong cdlV-e  
 1 and k&#x27; p moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775137%2F1873060501%2F0009.jp2/pct:59.095463,66.276243,9.331616,13.403315/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775137%2F1873060501%2F0009.jp2/pct:59.095463,66.276243,9.331616,13.403315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3133,7 +3133,7 @@ give strong coffee, and keep moving.
 If in water, float on the back, with the nose  
 and mouth projectin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525358%2F1873061001%2F0115.jp2/pct:85.298495,32.816071,11.067471,10.384338/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525358%2F1873061001%2F0115.jp2/pct:85.298495,32.816071,11.067471,10.384338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3182,7 +3182,7 @@ keep moving.
 If in water, float on the back, with  
 the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1873061301%2F0738.jp2/pct:15.736998,10.691061,11.304231,19.894192/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1873061301%2F0738.jp2/pct:15.736998,10.691061,11.304231,19.894192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3229,7 +3229,7 @@ good in most cases ; in a case of opium
 poisoning give strong coffee, and keep  
 moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F00280777031%2F1873061301%2F0519.jp2/pct:63.985828,44.347939,9.849424,12.250454/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F00280777031%2F1873061301%2F0519.jp2/pct:63.985828,44.347939,9.849424,12.250454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3290,7 +3290,7 @@ and keep moving.
 If in water, float on the back, with  
 the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1873061901%2F0335.jp2/pct:66.826923,47.537809,10.028013,14.951432/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1873061901%2F0335.jp2/pct:66.826923,47.537809,10.028013,14.951432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3318,7 +3318,7 @@ keep moving.
 If in water, float on tho Buck, with  
 the noso and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1873061901%2F0561.jp2/pct:21.719002,18.677098,12.177939,9.459459/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1873061901%2F0561.jp2/pct:21.719002,18.677098,12.177939,9.459459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3364,7 +3364,7 @@ keep moving.
 If in water, float on the bock, with  
 tho nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1873061901%2F0106.jp2/pct:15.441886,5.479922,10.147525,15.478778/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1873061901%2F0106.jp2/pct:15.441886,5.479922,10.147525,15.478778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3395,7 +3395,7 @@ poisoning, give strong coffee and keep
 moving. 3pif in water, float on the back,  
 with the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1873062001%2F0742.jp2/pct:50.741840,11.368653,11.100620,9.801325/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1873062001%2F0742.jp2/pct:50.741840,11.368653,11.100620,9.801325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3426,7 +3426,7 @@ poisoning, give strong entice and keep
 moving. If iu water, tlout ou thu buck,  
 with thu nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1873062601%2F0562.jp2/pct:79.099678,79.689467,12.942122,10.518954/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1873062601%2F0562.jp2/pct:79.099678,79.689467,12.942122,10.518954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3458,7 +3458,7 @@ poisoning, give strong coffee and keep
 moving. j If in water, float on the back,  
 with tho nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1873062601%2F0110.jp2/pct:57.090214,10.152226,9.949502,9.042005/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1873062601%2F0110.jp2/pct:57.090214,10.152226,9.949502,9.042005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3489,7 +3489,7 @@ iu most case j in cases of opi­
 um poisoning give strong coffee  
 and keep moving. nt-iiiyr. a h 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn87075167%2F00280774893%2F1873070201%2F0965.jp2/pct:84.952314,71.103148,11.903921,12.068083/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn87075167%2F00280774893%2F1873070201%2F0965.jp2/pct:84.952314,71.103148,11.903921,12.068083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3530,7 +3530,7 @@ the throat, or by warm mu: °
 For acid poisons give alkalies; for alkaline poisons  
 give acids; white of an egg is good in most cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1873-07-03_46_27$4/pct:28.512168,71.695619,20.907080,11.083837/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-07-03_46_27$4/pct:28.512168,71.695619,20.907080,11.083837/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3579,7 +3579,7 @@ and keep moving.
 If in water, float on the back, with  
 the nose and mouth projecting. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873070501%2F0319.jp2/pct:15.344300,71.005053,9.841316,15.362156/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873070501%2F0319.jp2/pct:15.344300,71.005053,9.841316,15.362156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3619,7 +3619,7 @@ and keep moving.
 If In water, ti »at on the back, witb  
 the nose aud mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1873073101%2F0329.jp2/pct:38.465526,63.991679,11.016071,10.871469/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1873073101%2F0329.jp2/pct:38.465526,63.991679,11.016071,10.871469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3668,7 +3668,7 @@ For apoplexy, raise the head
 and body; for fainting, lay the  
 ncrso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470387%2F1873073101%2F0111.jp2/pct:6.222885,66.648525,10.751085,21.965821/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470387%2F1873073101%2F0111.jp2/pct:6.222885,66.648525,10.751085,21.965821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3773,7 +3773,7 @@ For acid poisons, give alkalies ; for alkaline
 poisons, give acids ; white of an egg is good  
 in most cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10$3/pct:66.647662,14.166017,23.090080,18.978956/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10$3/pct:66.647662,14.166017,23.090080,18.978956/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3816,7 +3816,7 @@ In case of poisoning, excite vomiting by
 tickling tbe throat or by warm water and  
 mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873100401%2F0167.jp2/pct:7.325671,28.352555,15.032838,17.087971/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873100401%2F0167.jp2/pct:7.325671,28.352555,15.032838,17.087971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3865,7 +3865,7 @@ moving.
 If iu water, float on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_caliente_ver02%2Fdata%2Fsn84022048%2F00415627397%2F1873101401%2F1351.jp2/pct:2.504394,38.748531,11.994728,15.055817/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_caliente_ver02%2Fdata%2Fsn84022048%2F00415627397%2F1873101401%2F1351.jp2/pct:2.504394,38.748531,11.994728,15.055817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3954,7 +3954,7 @@ and keep moving.
 If in water .neat on the back, with  
 the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152627%2F1873122701%2F0771.jp2/pct:56.975415,53.218315,16.352201,22.428666/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152627%2F1873122701%2F0771.jp2/pct:56.975415,53.218315,16.352201,22.428666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4003,7 +4003,7 @@ keep moving.
 If in water, float on the back, with  
 the nose and month projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200295602%2F1874012201%2F0189.jp2/pct:64.356743,14.404549,14.310131,19.006002/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200295602%2F1874012201%2F0189.jp2/pct:64.356743,14.404549,14.310131,19.006002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4029,7 +4029,7 @@ llcuiovc insects from the ear by
 tepid water.  
 Never put a hard &#x27; ins
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472979%2F1874012301%2F0106.jp2/pct:4.317309,89.956720,8.925970,5.215847/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472979%2F1874012301%2F0106.jp2/pct:4.317309,89.956720,8.925970,5.215847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4071,7 +4071,7 @@ line poison-., give acids u bile of eg g is good
 in mo; civs; in a case of opium poisoning,  
 give strong coifee, and keep moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1874013101%2F0396.jp2/pct:50.583204,72.877327,14.968896,14.155553/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1874013101%2F0396.jp2/pct:50.583204,72.877327,14.968896,14.155553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4120,7 +4120,7 @@ keep moving.
 If in water, tloat on the back, with  
 the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1874013101%2F0525.jp2/pct:81.336846,72.075853,12.598791,17.719748/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1874013101%2F0525.jp2/pct:81.336846,72.075853,12.598791,17.719748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4154,7 +4154,7 @@ ease of poisoning excite vomiting by
 tickling the throat, or by warm water  
 and mustard, if in water float on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769726%2F1874020301%2F0646.jp2/pct:37.345954,77.680607,13.860644,14.227379/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769726%2F1874020301%2F0646.jp2/pct:37.345954,77.680607,13.860644,14.227379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4199,7 +4199,7 @@ keep moving.
 If in water, float on the back, with  
 the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194977%2F1874033001%2F0495.jp2/pct:40.881503,7.365751,11.069364,20.377109/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194977%2F1874033001%2F0495.jp2/pct:40.881503,7.365751,11.069364,20.377109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4292,7 +4292,7 @@ Aeep moving
 If in water, float on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779428%2F1874050601%2F0425.jp2/pct:7.332072,54.923652,15.018921,18.728576/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779428%2F1874050601%2F0425.jp2/pct:7.332072,54.923652,15.018921,18.728576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4340,7 +4340,7 @@ mg give strong coffee and keep mov
 ing. If in water, float on the back.  
 with nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874061901%2F0215.jp2/pct:14.533030,15.904427,30.000000,75.036646/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874061901%2F0215.jp2/pct:14.533030,15.904427,30.000000,75.036646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4383,7 +4383,7 @@ cases ; in case of opium-poUoning give
 strong coffee and keep moving. If in  
 water float on the back, with nose an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn87076843%2F00280775745%2F1874062601%2F0916.jp2/pct:27.533675,42.647438,10.599743,15.091424/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn87076843%2F00280775745%2F1874062601%2F0916.jp2/pct:27.533675,42.647438,10.599743,15.091424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4427,7 +4427,7 @@ keep moving.
 If in water, float on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877480%2F1874090301%2F0450.jp2/pct:16.100629,8.892238,11.572327,15.190010/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877480%2F1874090301%2F0450.jp2/pct:16.100629,8.892238,11.572327,15.190010/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4462,7 +4462,7 @@ case of opium poisoning, give strong coffee ami
 keep moving. It&#x27; in water. Iloat on the back,  
 with the nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551281%2F1874110501%2F0250.jp2/pct:82.152231,78.173516,15.626519,11.819961/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551281%2F1874110501%2F0250.jp2/pct:82.152231,78.173516,15.626519,11.819961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4499,7 +4499,7 @@ give strong coffee and keep moving. If
 in water, float on the back, with the nose  
 and mouth projectiag. For apoplexy, rais
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn86053067%2F00415620184%2F1874110501%2F0255.jp2/pct:56.469154,3.989296,26.681297,93.848808/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn86053067%2F00415620184%2F1874110501%2F0255.jp2/pct:56.469154,3.989296,26.681297,93.848808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4541,7 +4541,7 @@ ing, give strong coffee and keep moving
 If in water, float on the back, with tht  
 nose and mou&#x27;h projecting. For aponlexy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1874110601%2F0197.jp2/pct:72.717979,32.164083,10.968307,15.173057/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1874110601%2F0197.jp2/pct:72.717979,32.164083,10.968307,15.173057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4580,7 +4580,7 @@ of opium poisoning, give strong coffee
 and keep moving. If in water, float  
 on the back, with tho nose and mout
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1874111101%2F0687.jp2/pct:55.864849,76.889911,9.848339,12.029319/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1874111101%2F0687.jp2/pct:55.864849,76.889911,9.848339,12.029319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4614,7 +4614,7 @@ throat, or by hot writer or mustard. For acid
 poisons, give acids ; in case of opium poison­  
 ing, give strong coffee and keep moving. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F00295874892%2F1874111801%2F0268.jp2/pct:33.155376,80.801249,14.432990,10.822060/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F00295874892%2F1874111801%2F0268.jp2/pct:33.155376,80.801249,14.432990,10.822060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4658,7 +4658,7 @@ opium poisoning, give strong coffee and
 keep moving. If in water, float on the  
 back, with the nose and month pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1874112501%2F0237.jp2/pct:18.962556,62.855997,10.838200,14.106164/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1874112501%2F0237.jp2/pct:18.962556,62.855997,10.838200,14.106164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4695,7 +4695,7 @@ opium poisoning, give strong coffee, and
 keep moving. If in water, Boat on the  
 back, wiih the nose and mouth project
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1874112501%2F0378.jp2/pct:64.507476,58.601466,14.085312,12.937042/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1874112501%2F0378.jp2/pct:64.507476,58.601466,14.085312,12.937042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4732,7 +4732,7 @@ of opium poisoning, give strong cmlVeand
 keep moving. If in water,&#x27; float on the  
 back, with the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F00212470016%2F1874112601%2F0158.jp2/pct:82.885277,85.074278,10.909659,10.129840/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F00212470016%2F1874112601%2F0158.jp2/pct:82.885277,85.074278,10.909659,10.129840/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4770,7 +4770,7 @@ poisoning, give strong coffee and kecj)
 moving. It in water, float on the hack,  
 w itli the nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1874112601%2F1564.jp2/pct:59.975862,45.646625,17.537905,14.738136/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1874112601%2F1564.jp2/pct:59.975862,45.646625,17.537905,14.738136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4815,7 +4815,7 @@ poisoning, give strong coffee and keep
 moving. If in water, float on the back,  
 with the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152627%2F1874112701%2F1103.jp2/pct:31.704508,6.204331,24.744982,88.574465/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152627%2F1874112701%2F1103.jp2/pct:31.704508,6.204331,24.744982,88.574465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4870,7 +4870,7 @@ give strong coffee and keep moving.
 If in water, float on the back, with  
 the nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82015854%2F00279528980%2F1874120301%2F0445.jp2/pct:75.973162,15.718253,14.760831,17.650280/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82015854%2F00279528980%2F1874120301%2F0445.jp2/pct:75.973162,15.718253,14.760831,17.650280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4904,7 +4904,7 @@ case of opium &quot;poisoning, give strong
 coffee and keep moving. If in water,  
 float on the back, with the nose an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1874120301%2F0414.jp2/pct:46.743555,84.247361,9.728630,8.868747/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1874120301%2F0414.jp2/pct:46.743555,84.247361,9.728630,8.868747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4938,7 +4938,7 @@ poisoning, give strong coffee and keep
 moving. If in water, float on the back,  
 with the uese and mouth projecting. Eo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84026810%2F00393349190%2F1874120501%2F0379.jp2/pct:3.390163,70.727628,14.702136,13.287566/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84026810%2F00393349190%2F1874120501%2F0379.jp2/pct:3.390163,70.727628,14.702136,13.287566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4970,7 +4970,7 @@ tickling the throat, or by water or mus­
 tard. For acid poisons, give acids; in  
 case of opiam poisoning, give stron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779428%2F1874121001%2F1156.jp2/pct:42.945801,32.659544,12.763757,9.630378/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779428%2F1874121001%2F1156.jp2/pct:42.945801,32.659544,12.763757,9.630378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5008,7 +5008,7 @@ in case of opium poisoning, give strong
 coffee ami keep moving. If in water,  
 float on the back w ith the nose pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348458%2F1874121001%2F0599.jp2/pct:55.998637,64.853824,11.405078,15.923018/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348458%2F1874121001%2F0599.jp2/pct:55.998637,64.853824,11.405078,15.923018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5046,7 +5046,7 @@ opium poisoning, give strong coffee and
 keep moving. If in water, float on the  
 back, with the nose and mouth projec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1874121201%2F0407.jp2/pct:69.623580,75.472258,13.399981,14.558402/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1874121201%2F0407.jp2/pct:69.623580,75.472258,13.399981,14.558402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5082,7 +5082,7 @@ by water or mustard. For acid poisons
 give acids ; in case off opium poisoniDg  
 give strong c.ffee andkeep moving. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1874121801%2F0632.jp2/pct:40.876801,75.056012,13.030242,15.608663/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1874121801%2F0632.jp2/pct:40.876801,75.056012,13.030242,15.608663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5127,7 +5127,7 @@ poisoning, give strong coffee, and keep
 moving. If in water, float on the back.  
 with the nose and mouth projectin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028903%2F1874122501%2F0263.jp2/pct:74.287890,53.180927,9.687738,12.919660/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028903%2F1874122501%2F0263.jp2/pct:74.287890,53.180927,9.687738,12.919660/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5158,7 +5158,7 @@ throat, or by water or mustard. For acid poisons give acids; in
 case of opium poisoning, give strong coffee and keep moving. If in  
 water float on the back, with the nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1$2/pct:48.951468,65.155616,35.530258,18.448354/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1$2/pct:48.951468,65.155616,35.530258,18.448354/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5196,7 +5196,7 @@ poisoning, give strong coffee and keep
 moving. If in water, float on the back,  
 with the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_dole_ver01%2Fdata%2Fsn83040340%2F00237283132%2F1875010901%2F0007.jp2/pct:56.010979,15.610510,11.546203,15.399747/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_dole_ver01%2Fdata%2Fsn83040340%2F00237283132%2F1875010901%2F0007.jp2/pct:56.010979,15.610510,11.546203,15.399747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5241,7 +5241,7 @@ or mustard. For acid poisons, give
 acids; in case of opium poisoning, give  
 strong coffee and keep moving. If yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1875011301%2F0431.jp2/pct:35.044499,74.396967,14.675658,13.774974/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1875011301%2F0431.jp2/pct:35.044499,74.396967,14.675658,13.774974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5271,7 +5271,7 @@ poisons, give acids. In case of opium{poisoning, give strong
 coffee, and keep moving. If in water, float on the back,  
 with the nose and mouth projecting. For apoplexy, rais
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_peterson-magazine_1875-02_67_2$55/pct:55.856643,66.923516,35.402098,18.978311/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_peterson-magazine_1875-02_67_2$55/pct:55.856643,66.923516,35.402098,18.978311/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5306,7 +5306,7 @@ mustard. For acid poisons, give
 acids; in case of opium poisoning,  
 give strong coffee and keep moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775198%2F1875030501%2F0271.jp2/pct:81.164328,79.532950,10.885341,11.064922/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775198%2F1875030501%2F0271.jp2/pct:81.164328,79.532950,10.885341,11.064922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5353,7 +5353,7 @@ keep moving.
 If in the water, float on the back, with  
 the nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1875031801%2F0047.jp2/pct:73.207728,50.246914,10.845441,17.040123/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1875031801%2F0047.jp2/pct:73.207728,50.246914,10.845441,17.040123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5389,7 +5389,7 @@ I! give strong coliee and keep moving.
 ’ For apoplexy, raise the h adml body.  
 &#x27; For fainting, lay tU person dat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F0041562346A%2F1875040201%2F0160.jp2/pct:73.761553,77.505956,14.136578,17.294301/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F0041562346A%2F1875040201%2F0160.jp2/pct:73.761553,77.505956,14.136578,17.294301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5435,7 +5435,7 @@ give strong coBee and keep ntovisg. It
 in water, Boat on the back with the nose  
 and mouth projecting. For apoplexy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F0028077943A%2F1875051201%2F0446.jp2/pct:77.060343,54.705711,14.627847,13.432401/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F0028077943A%2F1875051201%2F0446.jp2/pct:77.060343,54.705711,14.627847,13.432401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5468,7 +5468,7 @@ the wound as long as can be borne to a
 hot coal, or end of a cigar.  
 In can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1875052001%2F0227.jp2/pct:76.513169,63.747510,9.728763,8.276667/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1875052001%2F0227.jp2/pct:76.513169,63.747510,9.728763,8.276667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5505,7 +5505,7 @@ ium poisoning give strong coffee and keep
 moving. If in water, float on the hack  
 with the nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1875052801%2F0295.jp2/pct:74.278260,47.602542,10.872076,11.462263/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1875052801%2F0295.jp2/pct:74.278260,47.602542,10.872076,11.462263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5545,7 +5545,7 @@ For slight burns, dip the part in
 cold water if the skin is destroyed  
 cover with varnish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85033526%2F00212472566%2F1875090201%2F0557.jp2/pct:87.384639,51.710981,9.981851,12.614761/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85033526%2F00212472566%2F1875090201%2F0557.jp2/pct:87.384639,51.710981,9.981851,12.614761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5579,7 +5579,7 @@ For slight burns, dip iho part in cold
 water; if the ekia is destroyed, cover  
 with varnish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470120%2F1875090301%2F0343.jp2/pct:75.484414,30.413089,11.260882,9.932699/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470120%2F1875090301%2F0343.jp2/pct:75.484414,30.413089,11.260882,9.932699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5608,7 +5608,7 @@ For slight burns, dip the part in cold
 water : if the skin is destroyed, cover with  
 varnish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85042534%2F00200293575%2F1875090801%2F1116.jp2/pct:50.216549,87.658376,14.223843,7.555138/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85042534%2F00200293575%2F1875090801%2F1116.jp2/pct:50.216549,87.658376,14.223843,7.555138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5639,7 +5639,7 @@ vomiting by tickling th. throat or by
 hot mustard. - For acid poisons, glv.  
 acids ; in csm of opium poisoning, giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1875092201%2F0859.jp2/pct:33.505359,86.304158,10.063517,8.054667/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1875092201%2F0859.jp2/pct:33.505359,86.304158,10.063517,8.054667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5668,7 +5668,7 @@ ruent into the ear.
 If an artery is cut, compress it abov  
 tbe wound: if a ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1875100201%2F0781.jp2/pct:65.904486,58.846497,9.797395,7.775547/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1875100201%2F0781.jp2/pct:65.904486,58.846497,9.797395,7.775547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5704,7 +5704,7 @@ acids; in case of opium poisoning give
 strong coffee and keep moving. If in  
 water, float on the back with the nose an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48$6/pct:49.863239,36.236999,19.037199,19.056464/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48$6/pct:49.863239,36.236999,19.037199,19.056464/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5735,7 +5735,7 @@ For slight burns, dip the part in cold
 water; if the skin is destroyed, cover  
 with varnish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1875120201%2F0234.jp2/pct:5.525847,31.891963,14.383656,9.795365/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1875120201%2F0234.jp2/pct:5.525847,31.891963,14.383656,9.795365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5764,7 +5764,7 @@ by tickling the throat, or by hot mu*-
 | ease of opium poisoning,give strong cof­  
 fee and keep moving. It you fall int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1875122301%2F0350.jp2/pct:23.842292,72.715068,9.750714,6.389204/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1875122301%2F0350.jp2/pct:23.842292,72.715068,9.750714,6.389204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5798,7 +5798,7 @@ cold water; if the skin is destroyed,
 cover with varnish.  
 For apoplexy, raise the head an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237280532%2F1876022401%2F0581.jp2/pct:29.396885,7.100651,11.090401,11.367051/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237280532%2F1876022401%2F0581.jp2/pct:29.396885,7.100651,11.090401,11.367051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5829,7 +5829,7 @@ coal, or end of a cigar. .
 tickling the throat, or by water or mustard.  
 For acid poisons, eive strong . coffee an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1876041701%2F0276.jp2/pct:80.458530,80.398671,14.362778,10.340532/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1876041701%2F0276.jp2/pct:80.458530,80.398671,14.362778,10.340532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5870,7 +5870,7 @@ mustard. For acid poisons, give acids;
 in case of opium poisoning, give strong  
 coffee and keep moving. If you fall int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876090701%2F0184.jp2/pct:85.980590,66.914901,12.116844,13.495560/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876090701%2F0184.jp2/pct:85.980590,66.914901,12.116844,13.495560/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5906,7 +5906,7 @@ mustard. For acid poisons, give acids;
 in case of opium poisoning, give strong  
 coffee and keep moving. If you fall int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876090701%2F0185.jp2/pct:86.167007,68.784989,12.141538,11.545373/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876090701%2F0185.jp2/pct:86.167007,68.784989,12.141538,11.545373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5948,7 +5948,7 @@ give acids; in case of opium poisoning give strong
 Coffee and kee p moving. If in water, float on the  
 back with the nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1876-12-21_49_51$7/pct:7.975113,71.806912,21.464932,14.124718/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1876-12-21_49_51$7/pct:7.975113,71.806912,21.464932,14.124718/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6003,7 +6003,7 @@ for alkaline poltsg e sda-v -
 whit of egg good in mot eases  
 In a e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_karma_ver01%2Fdata%2Fsn88064118%2F00280761783%2F1878082101%2F0209.jp2/pct:81.620150,57.426542,14.771954,26.993865/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_karma_ver01%2Fdata%2Fsn88064118%2F00280761783%2F1878082101%2F0209.jp2/pct:81.620150,57.426542,14.771954,26.993865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6048,7 +6048,7 @@ acid poisons give acids ; in case of opium
 poison give strong coffee and keep mov­  
 ing. If in water float on the back, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_grandfather_ver01%2Fdata%2Fsn85042098%2F00415667425%2F1879052201%2F0156.jp2/pct:64.587973,53.023067,14.866370,14.531044/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_grandfather_ver01%2Fdata%2Fsn85042098%2F00415667425%2F1879052201%2F0156.jp2/pct:64.587973,53.023067,14.866370,14.531044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6083,7 +6083,7 @@ of acigar. In case of poisoning excite vomiting by tick-
 ling the throat or by water or mustard. For acid poisons  
 give acids; in case of opium poison give strong coffee an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_scientific-american_1879-05-24_40_21$11/pct:37.209877,7.059829,55.407407,87.521368/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1879-05-24_40_21$11/pct:37.209877,7.059829,55.407407,87.521368/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6116,7 +6116,7 @@ In case of poisoning exe&#x27;te vomiting by
 tickling the throat or by water or mustard.  
 For acid poisons give acids; in case o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1879060601%2F0302.jp2/pct:64.119694,37.054809,14.572025,11.622947/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1879060601%2F0302.jp2/pct:64.119694,37.054809,14.572025,11.622947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6136,7 +6136,7 @@ is good in most cases; in a case of opium i
 poisoning, give strong coffee and keep mov­  
 ing about
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529595%2F1879061201%2F0099.jp2/pct:72.598095,31.414330,11.484741,3.517134/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529595%2F1879061201%2F0099.jp2/pct:72.598095,31.414330,11.484741,3.517134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6167,7 +6167,7 @@ wound, or, hotter, cut out the part without
 I can be Isirne to a hot coal, or end of a cigar.  
 *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624566%2F1879070501%2F0076.jp2/pct:76.496433,84.732349,10.266436,8.493799/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624566%2F1879070501%2F0076.jp2/pct:76.496433,84.732349,10.266436,8.493799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6199,7 +6199,7 @@ strong coffee and keep moving.
 If in water, float on the back with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1879072401%2F0723.jp2/pct:60.799790,57.496152,10.856792,11.021036/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1879072401%2F0723.jp2/pct:60.799790,57.496152,10.856792,11.021036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6223,7 +6223,7 @@ case of opium poisoning, give strong
 coffee and keep moving.  
 FiFn Frittebs. Take the remains o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn86053402%2F00280779283%2F1879080701%2F0593.jp2/pct:21.198648,38.444473,11.666370,5.715777/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn86053402%2F00280779283%2F1879080701%2F0593.jp2/pct:21.198648,38.444473,11.666370,5.715777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6251,7 +6251,7 @@ back, with the nose and mouth projecting. For
 apoplexy, raise the head and body; for fainting, lay  
 the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34$7/pct:31.570156,11.056604,21.241648,6.792453/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34$7/pct:31.570156,11.056604,21.241648,6.792453/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6290,7 +6290,7 @@ cigar. In case of poisoning ¢xcite yomi&#x27;ing
 by tickling the throat or by hot water or mus  
 tard, In case of opium ison give stron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-08-30_59_6$6/pct:68.809663,45.213068,18.702513,9.090909/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-08-30_59_6$6/pct:68.809663,45.213068,18.702513,9.090909/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6389,7 +6389,7 @@ the hack, with the nose and mouth pro­
 jecting. For apoplexy, raise tlie head  
 and body; lor fainting, l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_floyd_ver01%2Fdata%2Fsn86092245%2F00414186580%2F1879092701%2F0398.jp2/pct:30.178787,36.356948,12.062553,9.284563/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_floyd_ver01%2Fdata%2Fsn86092245%2F00414186580%2F1879092701%2F0398.jp2/pct:30.178787,36.356948,12.062553,9.284563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6423,7 +6423,7 @@ the nose and mouth projecting. For apoplexy,
 raise the head and body; for fainting,  
 l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879102301%2F0349.jp2/pct:83.728770,29.676118,15.774234,10.595389/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879102301%2F0349.jp2/pct:83.728770,29.676118,15.774234,10.595389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6584,7 +6584,7 @@ acid poisona, give alkalies; in case of
 opium poison, give strong coffee, and  
 keep moving. If in water, float on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn88077272%2F00296027236%2F1879122501%2F0443.jp2/pct:52.763474,32.493801,10.607621,11.392405/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn88077272%2F00296027236%2F1879122501%2F0443.jp2/pct:52.763474,32.493801,10.607621,11.392405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6624,7 +6624,7 @@ back, with the nose and mouth project­
 ing. For apoplexy, raise the head and  
 body; fcr fainting, lay t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_anoka_ver02%2Fdata%2Fsn83025287%2F0010049386A%2F1880010401%2F0016.jp2/pct:71.144628,44.650386,13.065591,14.911292/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_anoka_ver02%2Fdata%2Fsn83025287%2F0010049386A%2F1880010401%2F0016.jp2/pct:71.144628,44.650386,13.065591,14.911292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6659,7 +6659,7 @@ keep moving If in water, float on he
 back, with the nose and project­  
 ing. or apoplexy, raise he ad 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_golf_ver01%2Fdata%2Fsn85025620%2F00212479317%2F1880010801%2F0606.jp2/pct:82.710582,80.325719,10.416090,10.540314/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_golf_ver01%2Fdata%2Fsn85025620%2F00212479317%2F1880010801%2F0606.jp2/pct:82.710582,80.325719,10.416090,10.540314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6696,7 +6696,7 @@ pium poison, give strong coffee, and
 keep moving, [f in water, float on t!.  
 1 ack, with ti*e nose aud mouth projr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065151%2F00279523350%2F1880011001%2F0153.jp2/pct:66.224633,41.243740,18.243922,13.655901/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065151%2F00279523350%2F1880011001%2F0153.jp2/pct:66.224633,41.243740,18.243922,13.655901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6734,7 +6734,7 @@ ting by tickling the throat or by­
 hot water or mustard. In case of  
 opium poison give Btrong coffee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1880111101%2F0198.jp2/pct:74.456140,13.990407,20.112281,67.645043/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1880111101%2F0198.jp2/pct:74.456140,13.990407,20.112281,67.645043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6766,7 +6766,7 @@ or Dy mastard and water. For scid poisons,
 give acide; in case of Opium poisoning, giva  
 strong coffee and keep movsnal if in the wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1881-07-16_60_52$6/pct:68.700632,38.184732,18.957346,9.600816/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1881-07-16_60_52$6/pct:68.700632,38.184732,18.957346,9.600816/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6831,7 +6831,7 @@ white of egg is good in most cases;
 in case jof opium poisoning, give  
 strong coffee, and keep moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882081001%2F0573.jp2/pct:16.152528,8.034597,10.197087,20.450666/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882081001%2F0573.jp2/pct:16.152528,8.034597,10.197087,20.450666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6969,7 +6969,7 @@ coffee and keep moving. It in
 j water float on the back with the]  
 ! nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_jolteon_ver01%2Fdata%2Fsn87091048%2F00414213042%2F1886091501%2F0374.jp2/pct:18.455254,6.019934,13.354066,27.764120/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_jolteon_ver01%2Fdata%2Fsn87091048%2F00414213042%2F1886091501%2F0374.jp2/pct:18.455254,6.019934,13.354066,27.764120/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7008,7 +7008,7 @@ vomiting hy tickling tlie throat or 1
 warm waie.r and mustard. For acid  
 poisons, give alkalies; for alka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877832%2F1886092501%2F0181.jp2/pct:68.687291,80.421196,11.747492,12.269022/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877832%2F1886092501%2F0181.jp2/pct:68.687291,80.421196,11.747492,12.269022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7061,7 +7061,7 @@ an egg is good in most cases; in case
 of opium poisoning give* strong coffee  
 and keep moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_flareon_ver01%2Fdata%2Fsn88064492%2F00295874715%2F1888012101%2F0024.jp2/pct:36.302947,34.258178,17.472376,24.956192/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_flareon_ver01%2Fdata%2Fsn88064492%2F00295874715%2F1888012101%2F0024.jp2/pct:36.302947,34.258178,17.472376,24.956192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7107,7 +7107,7 @@ lay; hold the wounded part as long
 as can be borne to a hot coal or end  
 of a cigar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_bullfrog_ver01%2Fdata%2Fsn84022060%2F00332890566%2F1892033001%2F0305.jp2/pct:25.463918,32.233934,17.454897,26.304828/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_bullfrog_ver01%2Fdata%2Fsn84022060%2F00332890566%2F1892033001%2F0305.jp2/pct:25.463918,32.233934,17.454897,26.304828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7152,7 +7152,7 @@ In case of poisoning excite vomiting by
 tickling the throat or by warm water and  
 mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_graftonnotch_ver01%2Fdata%2Fsn83016025%2F0041421096A%2F1892040501%2F0605.jp2/pct:44.442278,44.267757,12.485374,16.223686/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_graftonnotch_ver01%2Fdata%2Fsn83016025%2F0041421096A%2F1892040501%2F0605.jp2/pct:44.442278,44.267757,12.485374,16.223686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7196,7 +7196,7 @@ better, cut out the part without delay;
 hold the wounded part as long as can  
 be borne to a hot coal or end of a cigar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_gore_ver01%2Fdata%2Fsn86092518%2F0041418666A%2F1892041201%2F0222.jp2/pct:28.517569,37.998747,12.702961,16.527401/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gore_ver01%2Fdata%2Fsn86092518%2F0041418666A%2F1892041201%2F0222.jp2/pct:28.517569,37.998747,12.702961,16.527401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7258,7 +7258,7 @@ In case of poisoning excite vomiting
 by tickling the throat or by warm water  
 and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_elk_ver01%2Fdata%2Fsn91068084%2F00296023218%2F1892042201%2F0517.jp2/pct:38.825032,64.185241,16.491060,21.391474/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_elk_ver01%2Fdata%2Fsn91068084%2F00296023218%2F1892042201%2F0517.jp2/pct:38.825032,64.185241,16.491060,21.391474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7306,7 +7306,7 @@ gar.In case of poisoning excite vomiting
 bytickling the throat or by warm  
 water and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196421%2F1892042501%2F0135.jp2/pct:37.804516,5.190539,30.421866,89.717477/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196421%2F1892042501%2F0135.jp2/pct:37.804516,5.190539,30.421866,89.717477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7327,7 +7327,7 @@ ter, cut out. the part without delay; bold
 the wounded part as long its can be borue  
 to a hot coal or end of a cigar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_elliot_ver01%2Fdata%2Fsn87068079%2F00332896477%2F1892042801%2F0334.jp2/pct:86.621663,67.124787,9.792114,3.250426/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_elliot_ver01%2Fdata%2Fsn87068079%2F00332896477%2F1892042801%2F0334.jp2/pct:86.621663,67.124787,9.792114,3.250426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7345,7 +7345,7 @@ danger. Before passing through smoke
 take a fail breath and then stoop low, but  
 if carbonic acid gas is suspected walk erect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_elliot_ver01%2Fdata%2Fsn87068079%2F00332896477%2F1892042801%2F0334.jp2/pct:86.621663,70.530285,9.807456,1.973364/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_elliot_ver01%2Fdata%2Fsn87068079%2F00332896477%2F1892042801%2F0334.jp2/pct:86.621663,70.530285,9.807456,1.973364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7390,7 +7390,7 @@ hold tiie woundod part aa long as can
 be borne to a hot coal or end of a  
 cigar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554103%2F1892043001%2F0075.jp2/pct:4.384520,41.745317,12.458831,16.149993/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554103%2F1892043001%2F0075.jp2/pct:4.384520,41.745317,12.458831,16.149993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7409,7 +7409,7 @@ through smoke take a full breath And
 then stoop low, but if carbolic acid gas  
 is suspected walk erect.—From a Boo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554103%2F1892043001%2F0075.jp2/pct:4.384520,57.862640,12.355908,2.835052/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554103%2F1892043001%2F0075.jp2/pct:4.384520,57.862640,12.355908,2.835052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7463,7 +7463,7 @@ In case of poisoning excito vomiting
 by tickling the throat or by warm water  
 and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1100.jp2/pct:44.046467,46.835628,12.023233,17.858189/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1100.jp2/pct:44.046467,46.835628,12.023233,17.858189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7509,7 +7509,7 @@ In case of poisoning excite vomiting
 by tickling the throat or by warm water  
 and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1102.jp2/pct:45.048286,46.801643,11.778072,17.869718/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1102.jp2/pct:45.048286,46.801643,11.778072,17.869718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7555,7 +7555,7 @@ In case of poisoning excite vomiting
 by tickling the throat or by warm water  
 and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1104.jp2/pct:44.714367,47.299461,11.766939,17.717281/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1104.jp2/pct:44.714367,47.299461,11.766939,17.717281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7576,7 +7576,7 @@ tor cut out the part without delay bold
 the woundod part as long as can be borne  
 to a hot coal or end of ciga
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/uuml_boozer_ver01%2Fdata%2Fsn85058130%2F175048637%2F1892050801%2F0447.jp2/pct:18.491172,74.453412,12.744783,3.398886/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/uuml_boozer_ver01%2Fdata%2Fsn85058130%2F175048637%2F1892050801%2F0447.jp2/pct:18.491172,74.453412,12.744783,3.398886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7618,7 +7618,7 @@ In case of poisoning excite vomiting
 by tickling the throat or by warm wa?  
 ter and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn86071868%2F00175031698%2F1892051301%2F0254.jp2/pct:17.777778,33.980671,16.115942,16.753282/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn86071868%2F00175031698%2F1892051301%2F0254.jp2/pct:17.777778,33.980671,16.115942,16.753282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7662,7 +7662,7 @@ i by tickling the throat or by warm waj
 tor and mustard.  
 j If iu water, Moat on the hack, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1892052501%2F0305.jp2/pct:76.605987,74.214701,11.885113,13.776022/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1892052501%2F0305.jp2/pct:76.605987,74.214701,11.885113,13.776022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7714,7 +7714,7 @@ through smoke take a full breath and
 then sloop low, but if carbonic acid  
 | gas is suspected walk erect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_belair_ver01%2Fdata%2Fsn89060136%2F00279522564%2F1892081201%2F0152.jp2/pct:43.092689,82.188266,12.465121,4.689681/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_belair_ver01%2Fdata%2Fsn89060136%2F00279522564%2F1892081201%2F0152.jp2/pct:43.092689,82.188266,12.465121,4.689681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7794,7 +7794,7 @@ ticklise tee throit or bv warm wler and
   
 mustard.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295868351%2F1893021701%2F0163.jp2/pct:27.907316,29.967351,9.865928,12.103545/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295868351%2F1893021701%2F0163.jp2/pct:27.907316,29.967351,9.865928,12.103545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7825,7 +7825,7 @@ by tickling tho throat or by warm water
 and mustard.  
 For slight burns, dip the part in col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063954%2F0028076033A%2F1894012901%2F0733.jp2/pct:14.945754,75.260380,12.794613,13.040377/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063954%2F0028076033A%2F1894012901%2F0733.jp2/pct:14.945754,75.260380,12.794613,13.040377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7870,7 +7870,7 @@ poisoning give strong coffe and keep
 moving. If in water float on the back  
 with nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85040310%2F00514152135%2F1895120501%2F0589.jp2/pct:52.013301,46.283133,14.288968,18.358449/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85040310%2F00514152135%2F1895120501%2F0589.jp2/pct:52.013301,46.283133,14.288968,18.358449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7893,7 +7893,7 @@ poironing Rive stiong cofle and keep
 moving. If in water float on the back  
 with nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn87056250%2F00202191320%2F1896010401%2F0026.jp2/pct:81.563594,88.197816,14.060677,5.602751/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn87056250%2F00202191320%2F1896010401%2F0026.jp2/pct:81.563594,88.197816,14.060677,5.602751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7925,7 +7925,7 @@ poisoning give strong cage and keep
 moving. If in water Host on the back  
 with nose and &#x27;mouth projecting. Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/okhi_ellis_ver01%2Fdata%2Fsn86063952%2F00237281214%2F1896011801%2F0765.jp2/pct:34.269953,68.389688,12.101362,10.441767/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_ellis_ver01%2Fdata%2Fsn86063952%2F00237281214%2F1896011801%2F0765.jp2/pct:34.269953,68.389688,12.101362,10.441767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7949,7 +7949,7 @@ poisoning give strong coffo and keep
 moving. If in water float on tho baok  
 with nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/okhi_ellis_ver01%2Fdata%2Fsn86063952%2F00237281214%2F1896012901%2F0794.jp2/pct:17.533025,41.527939,12.077543,6.181443/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_ellis_ver01%2Fdata%2Fsn86063952%2F00237281214%2F1896012901%2F0794.jp2/pct:17.533025,41.527939,12.077543,6.181443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

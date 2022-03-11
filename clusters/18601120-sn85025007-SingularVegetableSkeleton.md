@@ -40,7 +40,7 @@ creased resemblance to the outlines of the
 skt-1 ;iou of Roger Williams, as if, indeed.  
 moulded thereto by the powers of vegetabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_kitty_ver01%2Fdata%2Fsn83025725%2F00212470284%2F1860112001%2F0486.jp2/pct:28.068060,41.024822,11.039657,8.895281/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kitty_ver01%2Fdata%2Fsn83025725%2F00212470284%2F1860112001%2F0486.jp2/pct:28.068060,41.024822,11.039657,8.895281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ resemblance to the outlines of the skeleton of
 Koger Williams, as if. iudeed, moulded there­  
 to by the powers of vegetable life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F00415663511%2F1860112001%2F0074.jp2/pct:2.843834,66.561964,14.129280,12.695227/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F00415663511%2F1860112001%2F0074.jp2/pct:2.843834,66.561964,14.129280,12.695227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ Ouaupiad by tbe knee joint, thua producing
 of tbe skeleton of Roger VI illiams, as if, in­  
 deed, modeled thereto by tbe powera of veg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_ivysaur_ver01%2Fdata%2Fsn83025182%2F00279528682%2F1860112301%2F0020.jp2/pct:4.856260,65.381608,15.138988,9.450960/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ivysaur_ver01%2Fdata%2Fsn83025182%2F00279528682%2F1860112301%2F0020.jp2/pct:4.856260,65.381608,15.138988,9.450960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ rf-V Ii m.rmn a 1
 of Roger William,, M if, indeed monlded  
 thereto by the powers of vegetable lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200294567%2F1860112901%2F0069.jp2/pct:18.876972,82.689350,12.593060,10.419070/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200294567%2F1860112901%2F0069.jp2/pct:18.876972,82.689350,12.593060,10.419070/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ knee joint thus producing an increased resem­
 blance to the outlines of the skeleton of Roger  
 Williams, as if indeed, molded thereto by the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860120601%2F0515.jp2/pct:45.856264,63.834448,15.603755,9.850174/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860120601%2F0515.jp2/pct:45.856264,63.834448,15.603755,9.850174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ Montgomery Admrtiser yesterd iy pun- tion and nearly straight course toward the
 lisbed a presentment of the grand jury of precise spot that had been occupied by  
 the Federal District Coutt, declaring th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:44.838855,62.621133,27.383367,3.914350/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:44.838855,62.621133,27.383367,3.914350/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ they both turned upward to the eitreroi-
   
 sr out of the lattefs lei&#x27;.isal to surrender I ties of lb# toes of the skeleton. One of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:45.413568,64.453472,27.270678,6.381448/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:45.413568,64.453472,27.270678,6.381448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ an increased resemblance to ihe outlines
   
 Much dissatisfaction is expressed at the of the skeleton of Roger Ui liams, as i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:44.861393,71.012653,23.833671,2.221658/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:44.861393,71.012653,23.833671,2.221658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ cumference, the root followed the direc­
 tion of the back bone to the hips, and  
 thence divided into two branches each one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:56.964165,66.146164,11.708362,2.856417/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:56.964165,66.146164,11.708362,2.856417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ the knee joint, and the entire root,
 thus following the source of its nour­  
 ishment from the phosphates of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014141%2F00279529455%2F1860122701%2F0841.jp2/pct:46.735541,82.556111,10.071705,6.376710/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014141%2F00279529455%2F1860122701%2F0841.jp2/pct:46.735541,82.556111,10.071705,6.376710/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ of the toes of the skeleton. One of the
 roots formed a slight crook at the part oc­  
 cupied by the knee joint, and the entir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016751%2F00383347282%2F1860122801%2F0606.jp2/pct:63.418035,85.641731,12.834418,4.257838/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016751%2F00383347282%2F1860122801%2F0606.jp2/pct:63.418035,85.641731,12.834418,4.257838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ bianco to the outlines of the skelet n of
 Roger Williams, as if, indeed, molded there­  
 to by the powers of vegetable life. &#x27;This si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557979%2F1860122901%2F0426.jp2/pct:47.236504,55.073961,14.831987,10.591018/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557979%2F1860122901%2F0426.jp2/pct:47.236504,55.073961,14.831987,10.591018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ tiliinco to tho outlines of iho skeleton of
 linger Williams, as if, indeed, moulded  
 thereto by tho powers of vegetable life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_horatio_ver01%2Fdata%2Fsn84028083%2F00280775241%2F1861010401%2F0440.jp2/pct:16.399018,27.579222,13.319479,16.784836/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_horatio_ver01%2Fdata%2Fsn84028083%2F00280775241%2F1861010401%2F0440.jp2/pct:16.399018,27.579222,13.319479,16.784836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ semblance to the outlines of the skeleton 1
 of linger Williams, as if, indeed, tnoul-l  
 ded I hereto Ly tiio powers of vcgitable. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026189%2F1861021401%2F0427.jp2/pct:70.939227,34.124406,11.571516,10.434619/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026189%2F1861021401%2F0427.jp2/pct:70.939227,34.124406,11.571516,10.434619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ the outlines of the skeleton of Roger Will­
 iams, as if, indeed, moulded thereto by the  
 power of vegetable life. This singularl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn93051083%2F00279557517%2F1861032301%2F0555.jp2/pct:3.564287,43.475618,14.362128,9.899185/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn93051083%2F00279557517%2F1861032301%2F0555.jp2/pct:3.564287,43.475618,14.362128,9.899185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ resemblance to the outlines &#x27;»f the skele
 ton ot liogef Williams, as if iltd* eil,  
 moulded thereto by the powers of vege
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_eastland_ver01%2Fdata%2Fsn83025730%2F00279520944%2F1861041301%2F1152.jp2/pct:27.717027,55.955812,13.216916,10.282581/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_eastland_ver01%2Fdata%2Fsn83025730%2F00279520944%2F1861041301%2F1152.jp2/pct:27.717027,55.955812,13.216916,10.282581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ producing an increased resemblance to the
 outlines of the skeleton as if, indeed, mould­  
 ed thereto liy the powers of vegetable life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556665%2F1862092701%2F0245.jp2/pct:61.136488,65.643585,12.602777,8.963466/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556665%2F1862092701%2F0245.jp2/pct:61.136488,65.643585,12.602777,8.963466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ joint, uius producing an uiere?ed re-
 blacks, and tho ignorance of mental  
 slavery of six millions of white men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1864031801%2F0002.jp2/pct:40.547264,66.639709,51.403696,18.142607/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1864031801%2F0002.jp2/pct:40.547264,66.639709,51.403696,18.142607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ joint, thus producing an increased resem
 blance to the outlines of the skeleton, as  
 if, indeed, molded thereto by the power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194941%2F1864041501%2F0684.jp2/pct:20.484061,81.894229,12.396694,9.400255/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194941%2F1864041501%2F0684.jp2/pct:20.484061,81.894229,12.396694,9.400255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ increased resemblance to the outlines of
 the skeleton, as if, indeed, molded thereto  
 by the powers of vegetable life. This sin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028654%2F1865091401%2F0345.jp2/pct:80.948806,73.135540,13.031076,9.642422/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028654%2F1865091401%2F0345.jp2/pct:80.948806,73.135540,13.031076,9.642422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ leg to the heel, where they both turned up­
 ward to the toes. One of these roots formed  
 a slight crook at the knee, which makes th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_illinois_ver02%2Fdata%2Fsn82014064%2Fno_reel%2F1866101401%2F0003.jp2/pct:2.899176,37.970645,8.894000,3.031270/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_illinois_ver02%2Fdata%2Fsn82014064%2Fno_reel%2F1866101401%2F0003.jp2/pct:2.899176,37.970645,8.894000,3.031270/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ heel, where they both turned upward to the
 toes. One of these roots formed a slight  
 crook at the knee, which makes the whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042146%2F00296022822%2F1866101601%2F0360.jp2/pct:4.153306,27.542687,12.398840,4.243999/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042146%2F00296022822%2F1866101601%2F0360.jp2/pct:4.153306,27.542687,12.398840,4.243999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ heel, where they both turned upward to the
 toes. One of these roots formed a slight  
 crook at the knee, which makes the whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042148%2F00296022676%2F1866101701%2F0170.jp2/pct:45.524058,28.308295,12.737784,4.337035/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042148%2F00296022676%2F1866101701%2F0170.jp2/pct:45.524058,28.308295,12.737784,4.337035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ the h-sl, where they both turned upward
 to the tees. One of these roots formed a  
 slight crook at the knee, which make
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776336%2F1866101701%2F0298.jp2/pct:66.801104,19.349569,14.646572,6.934957/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776336%2F1866101701%2F0298.jp2/pct:66.801104,19.349569,14.646572,6.934957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ where they both turusd upward to the tosa.
 On of these roots formed a slight crook at  
 ti e kneo, which makes the whole bear 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026193%2F00280775757%2F1866101901%2F0568.jp2/pct:56.325301,39.451365,12.349398,4.108137/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026193%2F00280775757%2F1866101901%2F0568.jp2/pct:56.325301,39.451365,12.349398,4.108137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ one alone each leg to the heel, where they both
 turned upward t j the toes. One of these roots  
 formed a slight crook at the knee, which mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_icelandic_ver01%2Fdata%2Fsn85025697%2F00393348318%2F1866102001%2F0360.jp2/pct:3.189066,44.862911,14.376683,4.297228/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_icelandic_ver01%2Fdata%2Fsn85025697%2F00393348318%2F1866102001%2F0360.jp2/pct:3.189066,44.862911,14.376683,4.297228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ the heel, where they both turned upward
 to the toes.. One of these roots formed a  
 slight crook at the knee, which make
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779349%2F1866102301%2F0793.jp2/pct:16.963177,67.603825,12.660323,4.880833/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779349%2F1866102301%2F0793.jp2/pct:16.963177,67.603825,12.660323,4.880833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ sending one along each leg to the heel,
 where they both turned upward to the toes.  
 One of these roots formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn83016483%2F00212475166%2F1866102401%2F0700.jp2/pct:58.615729,24.585770,13.075448,4.105750/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn83016483%2F00212475166%2F1866102401%2F0700.jp2/pct:58.615729,24.585770,13.075448,4.105750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ to the heel, where they both turned upward O&#x27;
 the toes. One of tho roots formed a slight  
 crook at the knee, which makes the whole l&gt;e.i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F0027952522A%2F1866102601%2F0487.jp2/pct:73.130880,84.287867,11.210596,2.929540/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F0027952522A%2F1866102601%2F0487.jp2/pct:73.130880,84.287867,11.210596,2.929540/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ the heel, where they both turned upward to the
 toes. One of these roots formed a slight crook at  
 the knee, which made the whole bear a very clos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8$3/pct:30.657895,29.311741,11.671053,3.289474/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8$3/pct:30.657895,29.311741,11.671053,3.289474/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -902,7 +902,7 @@ ed into two branches, sending one slon^
 each leg to the heel, where they both tinned  
 upward lo the toe* O-eof these ro-i»f rt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528608%2F1866103001%2F0249.jp2/pct:15.833449,28.235860,9.800120,3.236785/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528608%2F1866103001%2F0249.jp2/pct:15.833449,28.235860,9.800120,3.236785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ to the heel, where they both turned up­
 ward to the toes. One of these roots  
 formed a slight crook at . the knee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075001%2F00237286935%2F1866110201%2F0075.jp2/pct:22.792688,49.949061,13.691171,5.181196/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075001%2F00237286935%2F1866110201%2F0075.jp2/pct:22.792688,49.949061,13.691171,5.181196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ gular root is preserved w ith great care,
 not only as an illustration of a great  
 principle of vegeta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769799%2F1866110701%2F0037.jp2/pct:66.737509,49.546717,12.296149,7.459940/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769799%2F1866110701%2F0037.jp2/pct:66.737509,49.546717,12.296149,7.459940/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ lug to the heel, where they both turned up­
 ward to the toes. One of these roots form­  
 ed a slight crook at the knee, which mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028654%2F1866112201%2F0581.jp2/pct:40.976265,13.971027,26.566154,81.470281/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028654%2F1866112201%2F0581.jp2/pct:40.976265,13.971027,26.566154,81.470281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1022,7 +1022,7 @@ upward to the toes. One of these roots
   
 formed a slight crook at the knee, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1866112301%2F0207.jp2/pct:52.696425,74.037736,13.169057,5.207547/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1866112301%2F0207.jp2/pct:52.696425,74.037736,13.169057,5.207547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ along each leg to tho heel, where they
 both turned upward to the toes. One of  
 these roots formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744791%2F1866112901%2F0170.jp2/pct:69.323176,28.404811,12.247290,5.576479/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744791%2F1866112901%2F0170.jp2/pct:69.323176,28.404811,12.247290,5.576479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ they both turned upward to the toes.
 One of these roots formed a slight crook  
 at the knee, which made the whole bea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_grizzly_ver02%2Fdata%2Fsn83025293%2F0029455533A%2F1866120101%2F0678.jp2/pct:47.501797,52.823998,14.665708,5.214436/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_grizzly_ver02%2Fdata%2Fsn83025293%2F0029455533A%2F1866120101%2F0678.jp2/pct:47.501797,52.823998,14.665708,5.214436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ into two branches, sending one along each
 leg to the heel, where they both turned up­  
 ward to the toes. One of these roots had 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556677%2F1866120801%2F0411.jp2/pct:76.538897,39.332478,13.156156,3.762824/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556677%2F1866120801%2F0411.jp2/pct:76.538897,39.332478,13.156156,3.762824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1210,7 +1210,7 @@ they both turned upward to the
 toes. . One of these roots formed a  
 slight crook at the knee, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470363%2F1867013101%2F0291.jp2/pct:55.735736,66.502809,12.012012,8.157772/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470363%2F1867013101%2F0291.jp2/pct:55.735736,66.502809,12.012012,8.157772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ semblance to the human form. There were the graves, but the oc-
 cupants had disappeared; the very bones had vanished. There  
 stood the thief — t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_monthly-religious-magazine-and-theological-review_1868-12_40_6$75/pct:20.759369,21.693735,66.074951,16.415313/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_monthly-religious-magazine-and-theological-review_1868-12_40_6$75/pct:20.759369,21.693735,66.074951,16.415313/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ leg to the heels, when both turned up­
 ward to the toes. One of these roots  
 formed a slight crook at the knee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_chekhov_ver01%2Fdata%2Fsn84026847%2F00415665076%2F1868120701%2F0547.jp2/pct:49.015252,56.204033,11.984797,4.941535/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_chekhov_ver01%2Fdata%2Fsn84026847%2F00415665076%2F1868120701%2F0547.jp2/pct:49.015252,56.204033,11.984797,4.941535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1400,7 +1400,7 @@ along each leg to the heels, when both turn­
 ed upward to the toes. One of these roots  
 formed a slight crook at the knee, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524652%2F1869012101%2F0015.jp2/pct:69.107833,22.010077,12.842466,5.916866/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524652%2F1869012101%2F0015.jp2/pct:69.107833,22.010077,12.842466,5.916866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1422,7 +1422,7 @@ when both turned upwards to the toes.
   
 complaiut, lie applied to t^oy, landlady ue of these roots formed a slight crook Jjaiu. Saui is a dissatisfied sort of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027398%2F00279529418%2F1869052001%2F0705.jp2/pct:43.196044,79.720864,39.414023,3.825202/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027398%2F00279529418%2F1869052001%2F0705.jp2/pct:43.196044,79.720864,39.414023,3.825202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1442,7 +1442,7 @@ branches, sending one along each leg to the heel, |
 where they both turned, upward, to the toes.  
 One of these roots formed a slight crook at the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_historical-magazine-biography-of-america_1870-07_8_1$57/pct:21.685304,69.483568,35.862620,8.274648/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_historical-magazine-biography-of-america_1870-07_8_1$57/pct:21.685304,69.483568,35.862620,8.274648/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1473,7 +1473,7 @@ they both turned upward to the toes.
 One of these roots formed a slight crook  
 at the knee, which made the whole bea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775927%2F1871091301%2F0220.jp2/pct:76.793545,10.173440,11.980354,5.319700/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775927%2F1871091301%2F0220.jp2/pct:76.793545,10.173440,11.980354,5.319700/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ one along each leg to the heel, whore they
 both turned upward to the toes. One of these  
 roots formed a slight crook at the knee, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025134%2F00279556720%2F1871092301%2F0564.jp2/pct:64.696624,35.476726,13.937548,3.950988/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025134%2F00279556720%2F1871092301%2F0564.jp2/pct:64.696624,35.476726,13.937548,3.950988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1518,7 +1518,7 @@ One of these roots formed a slight crook
 at tne xnee, suiui —  
 a close resemblance to the human form
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1871092901%2F0155.jp2/pct:62.888925,44.574024,10.966468,6.042843/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1871092901%2F0155.jp2/pct:62.888925,44.574024,10.966468,6.042843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ into two branches, sending one along each
 leg to thi) heel, where they both turned  
 upward to the toes. One of these root
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291062%2F1871100701%2F0513.jp2/pct:21.906869,46.933073,14.046565,4.621350/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291062%2F1871100701%2F0513.jp2/pct:21.906869,46.933073,14.046565,4.621350/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ tending one along each leg to the bee, where they
 both turned upward to the toes. One of these root  
 formed a slight crook at the knee, which made t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_azure_ver01%2Fdata%2Fsn83025121%2F0021110885A%2F1871111501%2F0132.jp2/pct:43.925912,53.029453,12.329762,3.786816/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_azure_ver01%2Fdata%2Fsn83025121%2F0021110885A%2F1871111501%2F0132.jp2/pct:43.925912,53.029453,12.329762,3.786816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1582,7 +1582,7 @@ the heel, ‘where they both turned upw yard
 to the toes. One of these roots formed  
 a slight crook at the knee, which make
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_wellmans-miscellany_1871-12_4_6$10/pct:9.355828,31.320028,34.304703,11.379552/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_wellmans-miscellany_1871-12_4_6$10/pct:9.355828,31.320028,34.304703,11.379552/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,7 +1604,7 @@ along each leg to lhe heel, where they
 both turned upward to tho toe. One of  
 these roots formed a slight crook al th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1872053001%2F0865.jp2/pct:81.784093,73.730298,12.689955,4.944093/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1872053001%2F0865.jp2/pct:81.784093,73.730298,12.689955,4.944093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ outlines of a skeleton of Roger Wil­
 liame, as if, indeed, molded thereto by  
 the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_bird_ver02%2Fdata%2Fsn84023963%2F00200295924%2F1872092701%2F1264.jp2/pct:82.220350,67.390139,16.810617,12.687567/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_bird_ver02%2Fdata%2Fsn84023963%2F00200295924%2F1872092701%2F1264.jp2/pct:82.220350,67.390139,16.810617,12.687567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ tim part occupied by tho knee-joints, thus producing
 at. laeieaaad resemblance to tin. outline?? of Hie skel?  
 eton : but not a fragment ?if Roger&#x27;s remains re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_hugo_ver01%2Fdata%2Fsn83030214%2F00206531162%2F1874032301%2F0648.jp2/pct:67.006915,63.816876,16.189222,6.041403/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_hugo_ver01%2Fdata%2Fsn83030214%2F00206531162%2F1874032301%2F0648.jp2/pct:67.006915,63.816876,16.189222,6.041403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1697,7 +1697,7 @@ crook at the part occupied by the knee
 joints, thus producing an increased resem­  
 blance to the outlines of the skeleton; bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_haunter_ver01%2Fdata%2Fsn83016555%2F00295874685%2F1874040101%2F0581.jp2/pct:4.500000,62.304688,12.379310,5.371094/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_haunter_ver01%2Fdata%2Fsn83016555%2F00295874685%2F1874040101%2F0581.jp2/pct:4.500000,62.304688,12.379310,5.371094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ slight crook at the part occupied by the
 knee-joints, thus producing an increased  
 resemblance to the outlines of the skele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025567%2F00212472207%2F1874040801%2F0255.jp2/pct:39.989876,23.051511,17.115920,8.625964/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025567%2F00212472207%2F1874040801%2F0255.jp2/pct:39.989876,23.051511,17.115920,8.625964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,7 +1750,7 @@ at the part occupied by the knee joints,
 thus producing an increased resem  
 blance to the outlines of the skeleton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033699%2F00200293496%2F1874041601%2F0366.jp2/pct:51.732857,54.661629,10.709505,6.334037/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033699%2F00200293496%2F1874041601%2F0366.jp2/pct:51.732857,54.661629,10.709505,6.334037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1948,7 +1948,7 @@ the roots turned upward to the toes, the
 whole bearing a striking resemblance to  
 the human form. These roots ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1877062101%2F0720.jp2/pct:28.879589,89.471990,10.781311,5.390999/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1877062101%2F0720.jp2/pct:28.879589,89.471990,10.781311,5.390999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +1980,7 @@ roots turned upward to the toes, the
 whole bearing a striking resemblance to  
 the human form. These roots are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283600%2F1877080201%2F0076.jp2/pct:75.754294,43.407683,9.840631,4.659232/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283600%2F1877080201%2F0076.jp2/pct:75.754294,43.407683,9.840631,4.659232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2031,7 +2031,7 @@ vided into two branches sending one along
 each leg to the heel where both timed up­  
 ward to the toes. One of these formed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_honda_ver01%2Fdata%2Fsn85025620%2F00212479366%2F1892110301%2F0307.jp2/pct:73.285396,85.362391,10.701821,3.074129/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_honda_ver01%2Fdata%2Fsn85025620%2F00212479366%2F1892110301%2F0307.jp2/pct:73.285396,85.362391,10.701821,3.074129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2051,7 +2051,7 @@ vided into two branches sending one along
 each leg to the heel where both turned up­  
 ward to the toes. One of these formed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_imbe_ver01%2Fdata%2Fsn98062948%2F00340581076%2F1892110301%2F1088.jp2/pct:69.378518,83.449327,10.638217,2.812608/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_imbe_ver01%2Fdata%2Fsn98062948%2F00340581076%2F1892110301%2F1088.jp2/pct:69.378518,83.449327,10.638217,2.812608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2073,7 +2073,7 @@ ward to the toes. One of these formed a
 sligth crook at the knee which made the  
 whole bear a w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740840%2F1892110401%2F0886.jp2/pct:68.178439,83.084492,12.197955,4.117930/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740840%2F1892110401%2F0886.jp2/pct:68.178439,83.084492,12.197955,4.117930/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2093,7 +2093,7 @@ vided into two branches sending one along
 each leg to the heel where both turned up­  
 ward to the toes. One of these formed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740840%2F1892110402%2F0890.jp2/pct:67.730464,83.239388,11.823388,3.173278/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740840%2F1892110402%2F0890.jp2/pct:67.730464,83.239388,11.823388,3.173278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2113,7 +2113,7 @@ vided into two branches sending one along
 each leg to the heel where both turned up­  
 ward to the toes. One of these formed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ndhi_dysprosium_ver01%2Fdata%2Fsn88076998%2F0019991814A%2F1892110401%2F1251.jp2/pct:63.571429,82.609497,13.861284,3.620410/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_dysprosium_ver01%2Fdata%2Fsn88076998%2F0019991814A%2F1892110401%2F1251.jp2/pct:63.571429,82.609497,13.861284,3.620410/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2138,7 +2138,7 @@ turned upward toward the loes. One of
 these roots formed a slight crook at the  
 knee.i, which made the whole bear 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_nicasio_ver01%2Fdata%2Fsn84025968%2F00280769472%2F1892111901%2F0192.jp2/pct:21.300631,62.553782,13.917159,6.363636/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_nicasio_ver01%2Fdata%2Fsn84025968%2F00280769472%2F1892111901%2F0192.jp2/pct:21.300631,62.553782,13.917159,6.363636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2162,7 +2162,7 @@ along each leg to the heel, where both
 turned upward toward the toes. One of  
 these roots formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_ivory_ver01%2Fdata%2Fsn94060041%2F00175033993%2F1892111901%2F0325.jp2/pct:86.345687,62.326736,11.846902,5.651916/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_ivory_ver01%2Fdata%2Fsn94060041%2F00175033993%2F1892111901%2F0325.jp2/pct:86.345687,62.326736,11.846902,5.651916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2186,7 +2186,7 @@ along each leg to tho heel, whero both
 turned upward toward the toes. One of  
 these roots formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_irvin_ver01%2Fdata%2Fsn83032011%2F00280776853%2F1892112501%2F0860.jp2/pct:17.618415,64.386439,14.519699,6.150615/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_irvin_ver01%2Fdata%2Fsn83032011%2F00280776853%2F1892112501%2F0860.jp2/pct:17.618415,64.386439,14.519699,6.150615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2210,7 +2210,7 @@ along each leg to the heel, where lx&gt;tit
 turned upward toward the toes. One of  
 these roots formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_kensington_ver02%2Fdata%2Fsn88065721%2F00279521705%2F1892112601%2F0660.jp2/pct:69.209175,81.776199,12.584216,5.577265/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kensington_ver02%2Fdata%2Fsn88065721%2F00279521705%2F1892112601%2F0660.jp2/pct:69.209175,81.776199,12.584216,5.577265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2234,7 +2234,7 @@ along each leg to the heel, where both
 turned upward toward the toes. One of  
 these roots formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_arden_ver01%2Fdata%2Fsn85042354%2F00383343343%2F1892120701%2F0079.jp2/pct:32.583841,61.976744,12.423780,5.915698/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_arden_ver01%2Fdata%2Fsn85042354%2F00383343343%2F1892120701%2F0079.jp2/pct:32.583841,61.976744,12.423780,5.915698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2258,7 +2258,7 @@ along each leg to the lieel, where both
 turned upward toward the toes. One of  
 these roots formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892121201%2F0884.jp2/pct:45.607290,63.739086,12.345152,6.146208/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892121201%2F0884.jp2/pct:45.607290,63.739086,12.345152,6.146208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2282,7 +2282,7 @@ along each leg to the heel, where both
 turned upward toward the toes. One of  
 thci-e roots formed a slight crook at di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_fisher_ver01%2Fdata%2Fsn91068305%2F0029602420A%2F1892122701%2F0641.jp2/pct:23.637692,64.393110,14.346238,5.944439/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_fisher_ver01%2Fdata%2Fsn91068305%2F0029602420A%2F1892122701%2F0641.jp2/pct:23.637692,64.393110,14.346238,5.944439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2306,7 +2306,7 @@ along each leg to the heel, where both
 turned upward toward the toes. One of  
 these roota formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_faroe_ver01%2Fdata%2Fsn99062034%2F00279523301%2F1893020601%2F1097.jp2/pct:50.324588,74.948423,14.362358,6.196581/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_faroe_ver01%2Fdata%2Fsn99062034%2F00279523301%2F1893020601%2F1097.jp2/pct:50.324588,74.948423,14.362358,6.196581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2330,7 +2330,7 @@ along each leg to the heel, where both
 turned upward toward the toes. One of  
 these root3 formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869252%2F1893032101%2F0680.jp2/pct:69.225779,57.437888,12.651384,5.590062/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869252%2F1893032101%2F0680.jp2/pct:69.225779,57.437888,12.651384,5.590062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

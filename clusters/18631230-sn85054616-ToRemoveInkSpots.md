@@ -30,7 +30,7 @@ Wash immediately in cold water, lids is a
 complete remedy and will satisfy all who  
 may try it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557992%2F1863100301%2F0158.jp2/pct:9.348681,53.852682,14.219540,4.042770/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557992%2F1863100301%2F0158.jp2/pct:9.348681,53.852682,14.219540,4.042770/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -50,7 +50,7 @@ Wash immediately in water. This is a com­
 plete remedy, and will satisfy all who may  
 try it. &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477801%2F1863123001%2F0275.jp2/pct:4.299226,21.506635,14.600172,3.825137/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477801%2F1863123001%2F0275.jp2/pct:4.299226,21.506635,14.600172,3.825137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ drops of lemon juice on it, and the spot
 will disappear at once. Wash immedi­  
 ately in cold water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293435%2F1871012001%2F0070.jp2/pct:26.588603,6.692589,10.398126,2.651113/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293435%2F1871012001%2F0070.jp2/pct:26.588603,6.692589,10.398126,2.651113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ appear at once. Wash immediately in
 cold water. This is a complete remedy,  
 and will satisfy all who may try it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1871060901%2F1176.jp2/pct:60.835763,29.044806,12.653061,8.384959/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1871060901%2F1176.jp2/pct:60.835763,29.044806,12.653061,8.384959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ juice on it, and the spot will disappear at
 once. Wash immediately in cold water.  
 That&#x27;s one way. Another method, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742009%2F1871061001%2F0559.jp2/pct:29.015121,46.926454,14.230577,5.128674/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742009%2F1871061001%2F0559.jp2/pct:29.015121,46.926454,14.230577,5.128674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ juice on lt, and the-Spot will disappear
 at once. .Wash immediately in cold  
 water. ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551554%2F1871061101%2F0246.jp2/pct:82.373956,67.325555,16.392970,3.829787/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551554%2F1871061101%2F0246.jp2/pct:82.373956,67.325555,16.392970,3.829787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ juice on it, and the spot will disappear
 at once. Wash immediately .in ; cold  
 water. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871061301%2F0549.jp2/pct:57.105103,16.302807,12.644847,5.897363/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871061301%2F0549.jp2/pct:57.105103,16.302807,12.644847,5.897363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ once. Wash immediately in cold water.
 This is a oomplete remedy, ami will satisfy  
 all who may try it.,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871061401%2F0298.jp2/pct:55.402685,90.548181,12.449664,6.821534/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871061401%2F0298.jp2/pct:55.402685,90.548181,12.449664,6.821534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ then squeeze a few drops of lemon juice on it,
 nod (he spot w ill disappear ut on* &lt;• Wash i i  
 ! mediately in cold water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1871061601%2F0274.jp2/pct:30.042194,73.052764,12.722524,3.008096/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1871061601%2F0274.jp2/pct:30.042194,73.052764,12.722524,3.008096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ water. This is a complete remedy, and
   
 will satisfy all who may try it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_dagwood_ver01%2Fdata%2Fsn85033995%2F00294556515%2F1871061701%2F0098.jp2/pct:14.873741,81.227988,9.823383,2.629725/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dagwood_ver01%2Fdata%2Fsn85033995%2F00294556515%2F1871061701%2F0098.jp2/pct:14.873741,81.227988,9.823383,2.629725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ lemon juice on it. and the spot will
 disappear at once. Wash immediate­  
 ly in cold wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1871062301%2F0361.jp2/pct:46.275618,35.708854,9.413428,5.225421/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1871062301%2F0361.jp2/pct:46.275618,35.708854,9.413428,5.225421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ squeeze afew drops of lemon juice on it, and
 the spot will disappear at, once. Wash imme-  
 diately in cold water. That’s one way. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25$6/pct:44.414894,66.575758,15.875614,6.439394/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25$6/pct:44.414894,66.575758,15.875614,6.439394/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ queeze a few drops of lemon juice on it, and
 the spot will disappear at once. Wash im­  
 mediately in cold water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286984%2F1871062801%2F0532.jp2/pct:28.271049,37.842483,11.268663,4.330536/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286984%2F1871062801%2F0532.jp2/pct:28.271049,37.842483,11.268663,4.330536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ disappear at once. Wash immediately
 in cold water. This is a complete rem­  
 edy, and will satisfy all who may try it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1871062901%2F0279.jp2/pct:20.374417,22.206801,17.242133,9.114041/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1871062901%2F0279.jp2/pct:20.374417,22.206801,17.242133,9.114041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ lemon juice on it, and the spot w ill
 disappear at once. Wash immediate  
 ly in cold wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1871063001%2F0339.jp2/pct:84.377095,46.130887,10.567252,5.759452/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1871063001%2F0339.jp2/pct:84.377095,46.130887,10.567252,5.759452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ lemon juice ou it, and the spot, will
 disappear at once. Wash immediate­  
 ly in cold wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877820%2F1871070101%2F0422.jp2/pct:82.106956,46.543025,11.158022,5.850266/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877820%2F1871070101%2F0422.jp2/pct:82.106956,46.543025,11.158022,5.850266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ it well, then squeeze a fow drops of lonion
 juice on it, and tho spot will disappear at  
 once. Wash immediately in cold water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1871070401%2F0660.jp2/pct:6.789324,88.680509,17.051049,6.965841/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1871070401%2F0660.jp2/pct:6.789324,88.680509,17.051049,6.965841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ juice on it, and the spot will disappear at
 once. Wash immediately in cold water.  
 That&#x27;s oneway. Another method whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_forego_ver01%2Fdata%2Fsn84024670%2F00280762398%2F1871070501%2F0028.jp2/pct:2.320508,10.497278,12.623959,5.660586/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_forego_ver01%2Fdata%2Fsn84024670%2F00280762398%2F1871070501%2F0028.jp2/pct:2.320508,10.497278,12.623959,5.660586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ at once. Wash immediately in cold wat-
 er. This is a complete remedy and will  
 fcatisfy all who mav tr i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200294580%2F1871070601%2F0764.jp2/pct:3.973343,6.291733,11.291337,3.639613/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200294580%2F1871070601%2F0764.jp2/pct:3.973343,6.291733,11.291337,3.639613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ drops of lemon juice on if, and .th
 spot will disappear at once. Wash  
 immediately in cold water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470193%2F1871070601%2F0414.jp2/pct:80.839967,73.932055,10.801537,3.498150/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470193%2F1871070601%2F0414.jp2/pct:80.839967,73.932055,10.801537,3.498150/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ squeeze a few drops of lemon juice on it, and
 the spot will disappear at once. Wash imme­  
 diately in cold water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F0027955730A%2F1871071501%2F0358.jp2/pct:79.779276,90.826023,14.637976,2.937267/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F0027955730A%2F1871071501%2F0358.jp2/pct:79.779276,90.826023,14.637976,2.937267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ stained ov®r a warm -flat-iron, stretch it well,
 then squeeze a few drops of lemon Juice ou  
 It, ana the spots will disappear at opeg.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558030%2F1871072201%2F0119.jp2/pct:78.701374,89.969403,14.539385,2.294798/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558030%2F1871072201%2F0119.jp2/pct:78.701374,89.969403,14.539385,2.294798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ lemon juice, on it, and the spot will
 disappear at once. Wash immediate­  
 ly in cold;water. . ... . ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027169%2F1871072701%2F0122.jp2/pct:8.523077,56.624410,10.600000,5.344270/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027169%2F1871072701%2F0122.jp2/pct:8.523077,56.624410,10.600000,5.344270/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ spot will disappear at once. Wash
 immediately in cold water.  
 Mbals and Health. Take the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn83021327%2F00200297106%2F1871083101%2F0018.jp2/pct:50.471204,5.612881,20.972326,90.180293/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn83021327%2F00200297106%2F1871083101%2F0018.jp2/pct:50.471204,5.612881,20.972326,90.180293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ stretch it well, then squeeze a few drops of
 lemon juice on it, and the spot will disappear  
 at once. Wash immediately in cold water.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151222%2F1871091401%2F0128.jp2/pct:4.168896,41.510246,14.575531,6.846095/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151222%2F1871091401%2F0128.jp2/pct:4.168896,41.510246,14.575531,6.846095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ once. Wash immeuiately
 in cold  
 water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028193%2F00296028988%2F1871091601%2F0045.jp2/pct:35.199077,8.971292,9.650894,5.921053/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028193%2F00296028988%2F1871091601%2F0045.jp2/pct:35.199077,8.971292,9.650894,5.921053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

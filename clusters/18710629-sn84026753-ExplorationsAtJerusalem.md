@@ -97,7 +97,7 @@ from the surface, and from here we commence the exploring of the
 “bottomless pit.” After dropping a rope down, we found that it was  
 only 6 feet deep, though it looked black enough for anything. Climb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4$248/pct:11.610672,41.997519,66.304348,44.323821/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4$248/pct:11.610672,41.997519,66.304348,44.323821/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ can be seen that one course in the Haram wall, near the bottom, is
 quite smooth all over, the stone being finely dressed, all other courses  
 being only half-dressed round the drafts. One also sees two stou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64$65/pct:16.119097,23.512748,68.891170,71.033994/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64$65/pct:16.119097,23.512748,68.891170,71.033994/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ here we commence the exploring of the ‘ bottomless pit.’ After
 dropping a rope down, we found that it was only six feet deep, though it  
 looked black enough for anything. Climbing down, we found ourselve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64$66/pct:18.377823,11.366856,67.248460,9.985836/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64$66/pct:18.377823,11.366856,67.248460,9.985836/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ dropped a rope down into it, I&gt; discover that it
 really is only six feet deep, though certainly it  
 looked black enough for anything. On.climbin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144$9/pct:14.025357,13.434829,76.743265,76.308761/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144$9/pct:14.025357,13.434829,76.743265,76.308761/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ told the sergeant”—Sergeant Birtles—“that
 they had found a bottomless pit. I went down  
 to the spot and examined it.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80$9/pct:70.914346,29.954355,21.702575,7.208064/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80$9/pct:70.914346,29.954355,21.702575,7.208064/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ east, just whcro somo largo looso stoncs
   
 not count : that his liiflucnco is nothinir. &#x27;.Utt out i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:50.521691,11.189502,22.332052,12.656978/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:50.521691,11.189502,22.332052,12.656978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ ruins of tho ancient walls aud houscs.
   
 Nor is this all. A pcrfect nct-work of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:50.869486,62.621702,11.184331,12.163116/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:50.869486,62.621702,11.184331,12.163116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ he could tiirn his hcad. From &quot;The He­
 covery of Jcrusalcm,&quot; by Lymax AnnorT,  
 in Warner&#x27;s Mayazinc fur Juhj.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:61.907377,30.929872,11.422295,20.502328/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:61.907377,30.929872,11.422295,20.502328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ ho found somo eurious reniains both of
   
 Ilobrow and of Christian origin. Tho his knccs and fect, Urigham Young
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:51.125755,76.873148,22.386967,6.758854/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:51.125755,76.873148,22.386967,6.758854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ bottom one recdlleots there is still a pit of nakuown
 depth to be explored, and cautiouly  
 straddle across it. Then can be seen that one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:57.379673,52.038390,14.907968,44.303108/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:57.379673,52.038390,14.907968,44.303108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ head. ? From &quot; The Recovery of Jerusalem,&quot;
 bv Lyman Abbott, in //nrper&#x27;s Maga.ine for  
 July
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:70.195496,10.239221,14.694562,11.677410/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:70.195496,10.239221,14.694562,11.677410/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ sw od a oo cots Weigle auousaal took place in the bold that day. We up in her fi
 ‘ ; row -/ could play at dominoes or dice in the hold, | went of the fishery question very much. The  
 7 PA gg: deagrad geek The following description of his explorations at My peters nt on board the fishing junk was | question which are f arises now is, if th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25$0/pct:14.705882,67.003833,78.676471,2.597956/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25$0/pct:14.705882,67.003833,78.676471,2.597956/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ have experienced the pe-| which were probably used for the storage ot
 culiar effect of the rattling | food, and others as aqueduets and cisterns.  
 of the débris upon the} And the whole result more than confirms th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:29.995608,33.400693,55.906895,9.844111/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:29.995608,33.400693,55.906895,9.844111/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ frames, with the prospect at | ideas of Jewish architectural grandeur which
 any moment of the boards | the books of the Bible and the pages of Jose-  
 being crushed in by a large | phus combine to give, but which have hithert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.039526,43.331409,55.950812,3.752887/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.039526,43.331409,55.950812,3.752887/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ being crushed in by a large | phus combine to give, but which have hithert
 upon the workmen. The Along the southern wall his discoveries were  
 non-commissioned officers | scarcely less interesting. Here he found 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.215195,49.653580,55.862978,2.453811/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.215195,49.653580,55.862978,2.453811/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ commenced on the western | The following description of his explorations at
 wall, at a point near what is | this point, taken from one of his letters written  
 known as Wilson’s Arch. | at the time, will afford the reader a mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.215195,53.262125,55.994730,7.476905/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.215195,53.262125,55.994730,7.476905/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ known as Wilson’s Arch. | at the time, will afford the reader a mor
 covered by Captain Wilson, | given by any general description :  
 who had not the means,| ‘On Friday, having arrived at a depth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.346948,63.048499,55.775143,2.742494/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.346948,63.048499,55.775143,2.742494/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ descent.
 ‘The shaft mouth is on the south side of the  
 Sanctuary wall, near the southwest angle, among | serving also, at the same time, that two side
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$40/pct:12.214411,6.553118,70.694200,44.688222/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$40/pct:12.214411,6.553118,70.694200,44.688222/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ in the most disagreeable manner.
 Here five more frames have been  
 fixed to keep these stones steady.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$40/pct:12.302285,52.540416,26.801406,38.394919/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$40/pct:12.302285,52.540416,26.801406,38.394919/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ On peering down from this ledge one sees the
 Sanctuary wall, with its projecting courses,  
 until they are lost in the darkness below; ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$40/pct:48.198594,46.304850,34.666081,3.493072/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$40/pct:48.198594,46.304850,34.666081,3.493072/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ difficulty of his position is indicated by the fact
 that he had to back out 200 feet before he could  
 get to a point where he could turn his head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$41/pct:52.213542,8.965517,35.677083,48.247126/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$41/pct:52.213542,8.965517,35.677083,48.247126/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ that he could barely squeeze through, and
 the air so foul as to threaten suftocation.  
 The investigations for the eastern an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871070201%2F0417.jp2/pct:32.449324,36.639185,12.500000,28.103783/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871070201%2F0417.jp2/pct:32.449324,36.639185,12.500000,28.103783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ There are other interesting details of
 discoveries made by Captain Warren, as  
 stated in his very interesting report, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871070201%2F0417.jp2/pct:32.533784,73.011639,12.466216,5.783220/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871070201%2F0417.jp2/pct:32.533784,73.011639,12.466216,5.783220/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ age er ood3nd others as aqueducts and
 eistei-ns. And the. whole results &#x27;more  
 Fthari - cDufirnls&#x27; Uit5 idea9 of iMjliitectunt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.395303,13.908014,12.067841,11.539521/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.395303,13.908014,12.067841,11.539521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ pit. After dropping a &quot;rope down, we
 tou nd.- tltatr-. ft w as i only six feet deep,  
 chough it looked black enough: for an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.395303,29.991738,12.230920,40.925365/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.395303,29.991738,12.230920,40.925365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1130,7 +1130,7 @@ to a point where be could turn his head.
 by Lyman. Abbott, In Srirjr&#x27;0 Magazine  
 jorjuiy, .. f - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.835616,70.848251,11.594912,7.835307/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.835616,70.848251,11.594912,7.835307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1285,7 +1285,7 @@ j Recovery of Jerusalem,&quot; by Lyman Abbott
 in Harper&#x27;s Magazine fur July.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1871072001%2F0328.jp2/pct:34.366908,9.891155,31.693423,87.323032/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1871072001%2F0328.jp2/pct:34.366908,9.891155,31.693423,87.323032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1398,7 +1398,7 @@ Furthor oxnloratlons disclosod a sub
 torrnnoan pnssngo, porlmps originally  
 construct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871081101%2F0131.jp2/pct:42.124212,44.234173,12.061206,45.187202/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871081101%2F0131.jp2/pct:42.124212,44.234173,12.061206,45.187202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

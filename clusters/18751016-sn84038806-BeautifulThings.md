@@ -75,7 +75,7 @@ Beautiful graves, where grasses creep.
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—Oh! beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769441%2F1875091601%2F0203.jp2/pct:7.561527,23.442819,13.514219,5.057196/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769441%2F1875091601%2F0203.jp2/pct:7.561527,23.442819,13.514219,5.057196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ Beautiful graves where grasses creep, c
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands--Oh! beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1875091701%2F0375.jp2/pct:15.804094,34.642542,11.154971,4.048985/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1875091701%2F0375.jp2/pct:15.804094,34.642542,11.154971,4.048985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ deep
 Over worn-out hands t o, beautiful, beautiful  
 sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477709%2F1875091701%2F0231.jp2/pct:26.605930,25.890766,13.125386,5.326100/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477709%2F1875091701%2F0231.jp2/pct:26.605930,25.890766,13.125386,5.326100/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ lie deep
 Over worn-out hands—Oh, beautiful  
 sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349190%2F1875100201%2F0723.jp2/pct:3.631011,32.718075,14.528950,6.538830/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349190%2F1875100201%2F0723.jp2/pct:3.631011,32.718075,14.528950,6.538830/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ Where brown leaves lull, where drifts lie
 (deep  
 Over worn-nut hands—Oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_keswick_ver01%2Fdata%2Fsn84038806%2F00280768960%2F1875101601%2F0383.jp2/pct:42.259247,11.595619,11.260364,8.487271/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_keswick_ver01%2Fdata%2Fsn84038806%2F00280768960%2F1875101601%2F0383.jp2/pct:42.259247,11.595619,11.260364,8.487271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ Where brown leaves fall, where drifts lie
 deep,  
 Over worn-out hands?Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193778%2F1875110401%2F0489.jp2/pct:5.138986,16.144607,13.618313,5.883969/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193778%2F1875110401%2F0489.jp2/pct:5.138986,16.144607,13.618313,5.883969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ Where brown leaves fall, where drifts
 lie deep  
 Over worn-out hands-Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1875110601%2F0591.jp2/pct:15.727209,20.613608,13.463234,5.286372/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1875110601%2F0591.jp2/pct:15.727209,20.613608,13.463234,5.286372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ Beautiful graves, where grasses creep.
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands! O beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875111001%2F0431.jp2/pct:4.364392,22.785657,10.980256,4.656141/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875111001%2F0431.jp2/pct:4.364392,22.785657,10.980256,4.656141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ Beautiful hands are those that do
   
 Work that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47$5/pct:12.226313,33.021077,12.885100,6.615925/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47$5/pct:12.226313,33.021077,12.885100,6.615925/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ Where brown leaves fall, where drifts lie deep,
   
 Over worn-out hands—Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47$5/pct:12.245689,44.306206,14.047665,5.459602/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47$5/pct:12.245689,44.306206,14.047665,5.459602/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn-out hands Oh,-beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1875120401%2F0495.jp2/pct:21.412722,46.321796,14.460059,6.376380/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1875120401%2F0495.jp2/pct:21.412722,46.321796,14.460059,6.376380/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—Oh, beautiful sleep !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18$3/pct:25.868421,56.474359,10.000000,3.814103/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18$3/pct:25.868421,56.474359,10.000000,3.814103/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn-out hands—Oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8$1/pct:46.879433,49.834872,16.737589,7.037006/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8$1/pct:46.879433,49.834872,16.737589,7.037006/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ Beautilul graves, where grasses creep.
 Where brown leaves fall, where drills lie deep  
 Over worn-out hands—Oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn85025587%2F00383346770%2F1876020301%2F0041.jp2/pct:9.425174,24.602686,13.332237,4.829370/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn85025587%2F00383346770%2F1876020301%2F0041.jp2/pct:9.425174,24.602686,13.332237,4.829370/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ Where brown leaves fall-where
 drifts lie deep  
 Over woru-out hands. Oh I beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1876040601%2F0898.jp2/pct:37.080224,23.202402,11.074834,4.376447/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1876040601%2F0898.jp2/pct:37.080224,23.202402,11.074834,4.376447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ Beautiful graves, where grasses creep,
   
 Over worn-out hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33$3/pct:28.513158,14.262821,9.407895,3.685897/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33$3/pct:28.513158,14.262821,9.407895,3.685897/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ Beautiful graves where glasses creep,
 Where brnwn leaven full wlmrp il i-iftu I in jUon  
 Over worn-out hands oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85026955%2F00200293538%2F1876062701%2F0508.jp2/pct:29.544236,28.381162,12.046470,5.080324/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85026955%2F00200293538%2F1876062701%2F0508.jp2/pct:29.544236,28.381162,12.046470,5.080324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn out hands — Oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11$7/pct:17.857143,72.114625,21.371429,7.588933/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11$7/pct:17.857143,72.114625,21.371429,7.588933/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ eantiful graves where grasses creep,
 &#x27;here brown leaves fatl,where drifts lie deep,  
 ver wornout hands-Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237287058%2F1877012401%2F0220.jp2/pct:16.192459,32.256296,11.257614,5.418071/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237287058%2F1877012401%2F0220.jp2/pct:16.192459,32.256296,11.257614,5.418071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ deep
   
 O&#x27;er worn-out hands—oh,beautiful sleep!.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290975%2F1877071201%2F0192.jp2/pct:7.716756,23.352986,16.488685,6.985388/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290975%2F1877071201%2F0192.jp2/pct:7.716756,23.352986,16.488685,6.985388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—O, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765290%2F1878041301%2F0219.jp2/pct:17.129011,14.598260,10.461230,13.421187/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765290%2F1878041301%2F0219.jp2/pct:17.129011,14.598260,10.461230,13.421187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ Beautiful graves, where grasses creep.
 Where brown leaves fall, where drilts lie deep  
 Over worn-out hands oh, beautiful Bleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200295614%2F1878050901%2F0368.jp2/pct:6.347411,13.735783,9.615385,3.567610/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200295614%2F1878050901%2F0368.jp2/pct:6.347411,13.735783,9.615385,3.567610/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ Beautiful grave, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_golf_ver01%2Fdata%2Fsn85025620%2F00212479317%2F1878050901%2F0258.jp2/pct:62.031090,17.782860,10.681374,3.241497/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_golf_ver01%2Fdata%2Fsn85025620%2F00212479317%2F1878050901%2F0258.jp2/pct:62.031090,17.782860,10.681374,3.241497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands,—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169$2/pct:6.780402,36.847134,20.691164,6.910828/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169$2/pct:6.780402,36.847134,20.691164,6.910828/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fa&#x27;l, wheredrlft-s lie deep  
 Over worn-out hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn87056600%2F00202191599%2F1878051501%2F0201.jp2/pct:6.835564,15.821501,13.639261,4.180753/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn87056600%2F00202191599%2F1878051501%2F0201.jp2/pct:6.835564,15.821501,13.639261,4.180753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ lie deep
 Over worn-out hands—oh, beautiful  
 sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F0029587384A%2F1878052301%2F0050.jp2/pct:56.287726,30.546572,16.851107,7.988357/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F0029587384A%2F1878052301%2F0050.jp2/pct:56.287726,30.546572,16.851107,7.988357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn-out hands, — oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_zions-herald_1878-05-23_55_21$5/pct:77.399289,24.490248,11.329976,4.421543/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1878-05-23_55_21$5/pct:77.399289,24.490248,11.329976,4.421543/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ Beautiful graves, where grasses creep.
 OVérëv, 0 &quot;&#x27;&quot; 1 ? lVtS ful1 &#x27; 1111,1 Be .loo,,  
 worn out hands—Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894961%2F1878052901%2F0428.jp2/pct:57.248473,26.575550,10.237866,5.024045/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894961%2F1878052901%2F0428.jp2/pct:57.248473,26.575550,10.237866,5.024045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ lie
 deep 1  
 Over worn-out hands oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878800%2F1878053101%2F0671.jp2/pct:29.846090,27.027027,12.333611,6.361057/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878800%2F1878053101%2F0671.jp2/pct:29.846090,27.027027,12.333611,6.361057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Ovor worn-out hands—oh, beautiful sleep I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn83025440%2F00295876475%2F1878060401%2F0460.jp2/pct:8.829699,18.337933,10.668813,3.846809/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn83025440%2F00295876475%2F1878060401%2F0460.jp2/pct:8.829699,18.337933,10.668813,3.846809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves foil, where drifts lie deep  
 Over worn-out hands—oh beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623793%2F1878060801%2F0107.jp2/pct:6.417087,23.406331,9.364051,3.805291/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623793%2F1878060801%2F0107.jp2/pct:6.417087,23.406331,9.364051,3.805291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ lie deep
 Over worn out hands—oh, beautiful  
 bleep !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_camas_ver01%2Fdata%2Fsn83045610%2F00202198211%2F1878071201%2F0483.jp2/pct:15.900243,27.563764,12.433090,6.798593/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_camas_ver01%2Fdata%2Fsn83045610%2F00202198211%2F1878071201%2F0483.jp2/pct:15.900243,27.563764,12.433090,6.798593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ Beautiful graves, where grasses creep.
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands?oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F0020219235A%2F1878071601%2F0319.jp2/pct:70.609842,20.685693,13.073110,5.037064/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F0020219235A%2F1878071601%2F0319.jp2/pct:70.609842,20.685693,13.073110,5.037064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn out hands oh beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774996%2F1878072601%2F0569.jp2/pct:37.755102,18.052783,9.471112,5.466844/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774996%2F1878072601%2F0569.jp2/pct:37.755102,18.052783,9.471112,5.466844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn-out hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878800%2F1879013101%2F0813.jp2/pct:28.623556,26.840716,12.223799,6.658844/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878800%2F1879013101%2F0813.jp2/pct:28.623556,26.840716,12.223799,6.658844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Ove.- worn-out hands oh. beautiful sleep I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F0028077585A%2F1879081401%2F0038.jp2/pct:25.226698,27.379819,8.398989,3.522132/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F0028077585A%2F1879081401%2F0038.jp2/pct:25.226698,27.379819,8.398989,3.522132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1082,7 +1082,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, wbore drifts lie deep.  
 Over worn out hands oh, beautiful sleep !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194394%2F1879081801%2F0343.jp2/pct:14.666851,23.188253,9.538291,4.035495/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194394%2F1879081801%2F0343.jp2/pct:14.666851,23.188253,9.538291,4.035495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ Where fern leaves fall, where drifts lie deep
   
 Over worn-out hands; O beautiful sleep!’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16$4/pct:42.883361,49.569477,13.580750,1.543943/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16$4/pct:42.883361,49.569477,13.580750,1.543943/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1126,7 +1126,7 @@ Where leaves fall and drifts lie deep
   
 Over worn-out hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1882-01-24_13_4$5/pct:8.443510,44.824132,10.336538,4.619323/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1882-01-24_13_4$5/pct:8.443510,44.824132,10.336538,4.619323/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ Where brown leaves fall, where drifts lie
 deep i  
 Over worn-out hands Oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_kay_ver01%2Fdata%2Fsn85033437%2F00296021064%2F1882031201%2F0243.jp2/pct:47.805716,33.891263,11.010464,4.855176/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kay_ver01%2Fdata%2Fsn85033437%2F00296021064%2F1882031201%2F0243.jp2/pct:47.805716,33.891263,11.010464,4.855176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ it tfB$tvliful graves, where grasses creep,
 Where brown leaves fall, where drifts Ho deep  
 Over worn-out hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_chester_ver02%2Fdata%2Fsn82016187%2F00211102305%2F1882040801%2F0271.jp2/pct:5.115931,16.215155,14.195961,4.348253/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_chester_ver02%2Fdata%2Fsn82016187%2F00211102305%2F1882040801%2F0271.jp2/pct:5.115931,16.215155,14.195961,4.348253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ Where brown leaves fall, where drifts lie j
 deep,  
 Over worn out-hands—oh, beautiful sleep. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_laplata_ver01%2Fdata%2Fsn85025350%2F0041562637A%2F1882051301%2F0535.jp2/pct:18.564206,29.742517,12.612066,6.539170/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_laplata_ver01%2Fdata%2Fsn85025350%2F0041562637A%2F1882051301%2F0535.jp2/pct:18.564206,29.742517,12.612066,6.539170/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands oh, beautifui sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_inskip_ver01%2Fdata%2Fsn85042459%2F00280769046%2F1882052601%2F0532.jp2/pct:4.305268,14.506099,9.927582,3.841784/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_inskip_ver01%2Fdata%2Fsn85042459%2F00280769046%2F1882052601%2F0532.jp2/pct:4.305268,14.506099,9.927582,3.841784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1243,7 +1243,7 @@ lie deep
 Over worn-out hands oh, beautiful  
 leep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn84026106%2F00280776579%2F1882072001%2F0524.jp2/pct:1.685621,65.557355,12.530463,7.259608/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn84026106%2F00280776579%2F1882072001%2F0524.jp2/pct:1.685621,65.557355,12.530463,7.259608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ Where brown leaves fall, where drifts lie
 deep,  
 Over worn-out hands; oh beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1882072201%2F0115.jp2/pct:5.579399,30.289532,10.340665,4.875418/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1882072201%2F0115.jp2/pct:5.579399,30.289532,10.340665,4.875418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1288,7 +1288,7 @@ Over worn-out hands oh, beautiful
   
 sleep. Unknown Ej
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775277%2F1882081701%2F0019.jp2/pct:5.201560,21.047241,10.890767,5.492255/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775277%2F1882081701%2F0019.jp2/pct:5.201560,21.047241,10.890767,5.492255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1314,7 +1314,7 @@ deep
   
 Over worn out handsoh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020503%2F1883012701%2F0351.jp2/pct:18.731936,27.803983,12.301301,4.127358/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020503%2F1883012701%2F0351.jp2/pct:18.731936,27.803983,12.301301,4.127358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1335,7 +1335,7 @@ Beautiful graves. where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands-oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_moose_ver01%2Fdata%2Fsn83025309%2F00294551852%2F1883031501%2F0086.jp2/pct:5.076142,24.111239,15.461083,6.221330/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_moose_ver01%2Fdata%2Fsn83025309%2F00294551852%2F1883031501%2F0086.jp2/pct:5.076142,24.111239,15.461083,6.221330/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1355,7 +1355,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn-out hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023416%2F00202197504%2F1885091101%2F0982.jp2/pct:82.587156,25.960662,12.366972,4.480917/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023416%2F00202197504%2F1885091101%2F0982.jp2/pct:82.587156,25.960662,12.366972,4.480917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1376,7 +1376,7 @@ Beautiful graves wjiere grasses creep.
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769489%2F1885100101%2F0455.jp2/pct:4.768461,29.253066,13.359952,4.258640/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769489%2F1885100101%2F0455.jp2/pct:4.768461,29.253066,13.359952,4.258640/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768837%2F1885100101%2F1184.jp2/pct:4.923693,30.674847,13.313998,4.261945/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768837%2F1885100101%2F1184.jp2/pct:4.923693,30.674847,13.313998,4.261945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1419,7 +1419,7 @@ Where brown leaves fall, where drifts lis
 deop  
 Over worn-out hands oh, beautiful sloop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776130%2F1885101401%2F0721.jp2/pct:81.476122,25.777183,14.120323,6.425703/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776130%2F1885101401%2F0721.jp2/pct:81.476122,25.777183,14.120323,6.425703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ Where brown leaves fall, where drifts lie
 deep,  
 Over worn out hands—Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1886-12_83_6$21/pct:50.645439,69.069767,33.433735,16.308140/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1886-12_83_6$21/pct:50.645439,69.069767,33.433735,16.308140/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1524,7 @@ Beautiful grave where grasses creep.
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands? oh. beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1888062201%2F0103.jp2/pct:49.188830,22.229754,11.879433,3.634486/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1888062201%2F0103.jp2/pct:49.188830,22.229754,11.879433,3.634486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1540,7 @@ Over worn-out hands? oh. beautiful sleep
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands,—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7$22/pct:54.820766,87.301216,23.856613,1.777362/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7$22/pct:54.820766,87.301216,23.856613,1.777362/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1577,7 +1577,7 @@ Beautiful grave where grasses creep,
 Where brown leaves fall where, drifts lie deep  
 &#x27; Over worn-out hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_finney_ver02%2Fdata%2Fsn83040198%2F00212473467%2F1889091901%2F0468.jp2/pct:44.274912,61.112937,11.517688,2.837112/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_finney_ver02%2Fdata%2Fsn83040198%2F00212473467%2F1889091901%2F0468.jp2/pct:44.274912,61.112937,11.517688,2.837112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn our hands Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F00296023991%2F1891030401%2F0145.jp2/pct:28.269936,18.603963,9.718185,4.170364/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F00296023991%2F1891030401%2F0145.jp2/pct:28.269936,18.603963,9.718185,4.170364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1636,7 +1636,7 @@ Where brown leaves fall, whero drifts lie
 dcop  
 Over wornout hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892121501%2F0889.jp2/pct:57.591959,74.119195,11.313088,4.998856/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892121501%2F0889.jp2/pct:57.591959,74.119195,11.313088,4.998856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1658,7 +1658,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over wornout hands-oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026817%2F00202192221%2F1892122001%2F0635.jp2/pct:39.596141,68.592619,11.035690,4.674385/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026817%2F00202192221%2F1892122001%2F0635.jp2/pct:39.596141,68.592619,11.035690,4.674385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1680,7 +1680,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands oh. beautiful bleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_ike_ver01%2Fdata%2Fsn82016187%2F00211102329%2F1893020201%2F0560.jp2/pct:4.688742,79.141288,11.324503,4.503245/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ike_ver01%2Fdata%2Fsn82016187%2F00211102329%2F1893020201%2F0560.jp2/pct:4.688742,79.141288,11.324503,4.503245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1712,7 +1712,7 @@ lie deep
 Over worn-out hands oh, beautiful  
 sletp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073907%2F00416156748%2F1893060801%2F0099.jp2/pct:16.572876,23.717299,12.830613,7.321030/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073907%2F00416156748%2F1893060801%2F0099.jp2/pct:16.572876,23.717299,12.830613,7.321030/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,7 +1733,7 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, where drifts lie deep.  
 Over worn out hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn85030821%2F00212472876%2F1893090801%2F0584.jp2/pct:43.710960,21.623803,11.555934,3.678930/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn85030821%2F00212472876%2F1893090801%2F0584.jp2/pct:43.710960,21.623803,11.555934,3.678930/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1757,7 +1757,7 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn out hands—oh, beautiful sleep.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1893-09-23_50_38$15/pct:61.607143,22.082954,24.353448,9.389243/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1893-09-23_50_38$15/pct:61.607143,22.082954,24.353448,9.389243/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1780,7 +1780,7 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, and drifts lie deep  
 Over worn-out hands—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4$82/pct:15.586420,13.095238,32.253086,14.064230/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4$82/pct:15.586420,13.095238,32.253086,14.064230/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1803,7 +1803,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn-out hands —oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1894-12-01_51_48$13/pct:61.188369,31.618962,25.758534,9.279964/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1894-12-01_51_48$13/pct:61.188369,31.618962,25.758534,9.279964/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1825,7 +1825,7 @@ Where brown leaves fall, where drifts 1 itt
 deep  
 Over wornout hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F0041562895A%2F1894121001%2F1175.jp2/pct:31.948424,69.147880,11.379451,4.565433/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F0041562895A%2F1894121001%2F1175.jp2/pct:31.948424,69.147880,11.379451,4.565433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1842,7 +1842,7 @@ Where brown leaves fall
 Where drifts lie deep.  
 Over worn out hands, oh beautiful sleep.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn85030821%2F00212472888%2F1895011101%2F0047.jp2/pct:50.973864,70.318275,11.869486,1.457906/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn85030821%2F00212472888%2F1895011101%2F0047.jp2/pct:50.973864,70.318275,11.869486,1.457906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ f Be intifnl graves, where grasses creep.
 When brown leavrs fall, where drifts lie deep  
 Over worn out hands—Oh! beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_irving_ver01%2Fdata%2Fsn89060124%2F00415625698%2F1895051701%2F0084.jp2/pct:49.494377,29.788830,10.315660,4.215896/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_irving_ver01%2Fdata%2Fsn89060124%2F00415625698%2F1895051701%2F0084.jp2/pct:49.494377,29.788830,10.315660,4.215896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1951,7 +1951,7 @@ Beautiful graves, where grasses creep.
 Where brown leaves fall where drifts lie deep  
 Overwornout hands oh. beautiful sleep!&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_garwood_ver02%2Fdata%2Fsn83040340%2F00237285293%2F1897082001%2F0475.jp2/pct:50.261506,24.744301,13.389121,5.027726/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_garwood_ver02%2Fdata%2Fsn83040340%2F00237285293%2F1897082001%2F0475.jp2/pct:50.261506,24.744301,13.389121,5.027726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2009,7 +2009,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over wornout hands—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12$17/pct:66.080692,14.308553,23.083573,3.357314/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12$17/pct:66.080692,14.308553,23.083573,3.357314/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

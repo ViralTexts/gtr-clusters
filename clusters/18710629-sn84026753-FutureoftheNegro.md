@@ -35,7 +35,7 @@ colored people may prosper, improve and multi-
 ply in the full enjoyment of all the fruits of.  
 ‘theiriabor.” If suoh setitiments ‘as these pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-york-times_1871-06-16_20_6158$3/pct:71.527012,67.953020,12.968578,7.235738/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-times_1871-06-16_20_6158$3/pct:71.527012,67.953020,12.968578,7.235738/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ not only an increase In numbers, hut also
 a great Increase in property, comfort and  
 education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190868%2F1871062101%2F0585.jp2/pct:14.687727,53.808975,15.758896,19.754346/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190868%2F1871062101%2F0585.jp2/pct:14.687727,53.808975,15.758896,19.754346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ I only an increase m numbers, but also a great
 1 &quot; ,3e^SM^0 P??PertT? comfort, and educaUoo y.  
 O. Picayune
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:4.595861,77.252543,15.037537,16.298525/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:4.595861,77.252543,15.037537,16.298525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ the fruits of their labor.”
 There is evident candor in this remark.  
 It was not made for political effect, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769726%2F1871062901%2F0095.jp2/pct:26.199007,61.674880,10.809380,8.015689/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769726%2F1871062901%2F0095.jp2/pct:26.199007,61.674880,10.809380,8.015689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ tury and a half,” ‘whi y io &gt; 3 : ;
 Y a ha : and that *‘while spies mer pray | Thoughts for the Youn; Men of Ameriva. By Es  
 never to see anything more of that kind of invol-. U. Reavie &amp; SES Sa a ae vi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1871-07-01_9_44$0/pct:54.723684,21.901125,23.328947,2.900196/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1871-07-01_9_44$0/pct:54.723684,21.901125,23.328947,2.900196/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ rican race which is so often held. Of the
   
 the United States, there are four millions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1871-10-07_25_7$15/pct:56.938937,49.594659,36.122125,5.674773/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1871-10-07_25_7$15/pct:56.938937,49.594659,36.122125,5.674773/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ of 1880 may not only show for them an in-
 crease of numbers, but also a great increase |  
 in property, comfort and education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1871-10-07_25_7$15/pct:56.344171,14.329995,43.655829,72.746781/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1871-10-07_25_7$15/pct:56.344171,14.329995,43.655829,72.746781/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

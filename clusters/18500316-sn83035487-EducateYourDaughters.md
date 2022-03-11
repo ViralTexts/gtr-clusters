@@ -48,7 +48,7 @@ are not, to a good degree, qualified to dis
 caarge the duties of the &quot;home work &#x27; of  
 education.&quot; Rev. 8. Dyer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn82015050%2F00280763366%2F1849072801%2F0450.jp2/pct:19.166267,64.367555,12.969174,12.387975/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn82015050%2F00280763366%2F1849072801%2F0450.jp2/pct:19.166267,64.367555,12.969174,12.387975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ the duties of the &#x27;home work of education.&#x27;
   
 Rev. S. Dyer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ingstad_ver01%2Fdata%2Fsn90068958%2F00296027017%2F1849102001%2F0010.jp2/pct:52.557975,32.654804,14.586653,10.348754/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ingstad_ver01%2Fdata%2Fsn90068958%2F00296027017%2F1849102001%2F0010.jp2/pct:52.557975,32.654804,14.586653,10.348754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ in the Union.
   
 Mr. Seward gave notice that be wopM, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_frederick-douglass-paper_1850-02-08_3_7$2/pct:22.401909,36.632231,45.241251,8.605372/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_frederick-douglass-paper_1850-02-08_3_7$2/pct:22.401909,36.632231,45.241251,8.605372/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ mothers are not. to a good degree, qualifi­
 ed to discharge the duties of the homo work  
 ol educution. IUv. S. Dyer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1850031601%2F0051.jp2/pct:52.713178,79.580988,13.810690,12.038774/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1850031601%2F0051.jp2/pct:52.713178,79.580988,13.810690,12.038774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ sons.” This on ¢ b , would educ ate their
 sons. This is to the point, and it js true  
 So nation can become fully and pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27$3/pct:52.113063,79.058160,13.474204,10.123698/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27$3/pct:52.113063,79.058160,13.474204,10.123698/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ the mothers are not to a good degree qualified
 to discharge the duties of the “ home work of  
 education.”—Rev. S. Dyer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1850-03-21_23_47$3/pct:54.825462,27.940141,20.636550,14.806338/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1850-03-21_23_47$3/pct:54.825462,27.940141,20.636550,14.806338/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ good degree, qualified to dischargo the du­
 ties of the homework of education.&#x27; Rev.  
 - S. V&#x27;rt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667802%2F1851022101%2F0109.jp2/pct:4.935972,75.906913,16.204889,13.757700/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667802%2F1851022101%2F0109.jp2/pct:4.935972,75.906913,16.204889,13.757700/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ are not, to a good degree, qualified to dis­
 charge tlie duties of the home work of ed­  
 ucation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn84024649%2F00393347946%2F1851031301%2F0018.jp2/pct:38.141391,60.590922,11.559293,10.837140/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn84024649%2F00393347946%2F1851031301%2F0018.jp2/pct:38.141391,60.590922,11.559293,10.837140/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ tie hornework of&#x27;ednada .
   
 ktaism
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288282%2F1851041001%2F0005.jp2/pct:56.609750,19.541097,22.217273,77.101512/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288282%2F1851041001%2F0005.jp2/pct:56.609750,19.541097,22.217273,77.101512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ fully and permanently civilized and enlightened,
 when the mothers are not, to a good degree, quali-  
 fied to discharge the duties of home education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9$15/pct:19.796380,45.513460,35.180995,22.308076/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9$15/pct:19.796380,45.513460,35.180995,22.308076/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ lized and enlightened, when the mothers are not,
 to a good degree, qualified to discharge the du-  
 ties of home education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1851-06_3_6$30/pct:48.823925,67.041522,36.626344,21.561419/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1851-06_3_6$30/pct:48.823925,67.041522,36.626344,21.561419/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ when them others are not, to a good degree,
 qualified to discharge the duties of the  
 home work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F0028077635A%2F1851070201%2F0370.jp2/pct:66.902063,33.904652,12.544137,15.828892/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F0028077635A%2F1851070201%2F0370.jp2/pct:66.902063,33.904652,12.544137,15.828892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ nation can become fully and permanent-
 ly civilized and enlightened, when the  
 1 things he informed me at their first star
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1851070301%2F0205.jp2/pct:64.989749,61.596583,15.313042,12.275515/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1851070301%2F0205.jp2/pct:64.989749,61.596583,15.313042,12.275515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ civilized and enlightened, when the moth­
 era aro uot, to a good degree, qualified to  
 discharge the duties of home education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82014073%2F00279529200%2F1851071001%2F0395.jp2/pct:83.607546,71.193265,13.535154,12.855865/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82014073%2F00279529200%2F1851071001%2F0395.jp2/pct:83.607546,71.193265,13.535154,12.855865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ to a good decree, qualified to dis­
 charge the duties of the home woik  
 of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779210%2F1851071801%2F0306.jp2/pct:20.117228,57.910185,13.941804,16.744937/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779210%2F1851071801%2F0306.jp2/pct:20.117228,57.910185,13.941804,16.744937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ n i&#x27;fiWj en lJ,e mother8 are not, to a good degree
 quaiined to discharge the duties of the home work of  
 education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022627%2F1851080601%2F0363.jp2/pct:1.123596,78.992395,14.592519,8.840304/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022627%2F1851080601%2F0363.jp2/pct:1.123596,78.992395,14.592519,8.840304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ now&quot; nDeKe8t..ln,bolh wife and children. &quot;And
 of oil, t!fi ,f we cou,d educate only one class  
 ?he bi &quot;&#x27;T&quot; Would choo8e Ae girl. ; for wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024517%2F00296022706%2F1851080601%2F0324.jp2/pct:1.268834,79.096257,14.369548,6.383778/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024517%2F00296022706%2F1851080601%2F0324.jp2/pct:1.268834,79.096257,14.369548,6.383778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ j enlightened, when the mothers are not to
 j a &quot;ood degree, qualified to discharge the du­  
 i ties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024718%2F00414183736%2F1851080601%2F0330.jp2/pct:71.639951,83.927528,13.554368,11.575427/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024718%2F00414183736%2F1851080601%2F0330.jp2/pct:71.639951,83.927528,13.554368,11.575427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ f nlightened, when the mothers are not, to a
 good degree, qualified to discharge the du­  
 ties oihome education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85042199%2F00296026670%2F1851082701%2F0155.jp2/pct:3.976956,53.835979,13.529084,14.246032/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85042199%2F00296026670%2F1851082701%2F0155.jp2/pct:3.976956,53.835979,13.529084,14.246032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ mothers are not 1o a good degree, qual­
 illed 10 discharge the duties ol the home  
 work ol educution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021169%2F00514152780%2F1851111301%2F0593.jp2/pct:5.875068,77.439417,12.404022,15.301308/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021169%2F00514152780%2F1851111301%2F0593.jp2/pct:5.875068,77.439417,12.404022,15.301308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ ilized&#x27; juid tulightencd.- when the ,
 re thc duties of I  
 tlio homework; tducatk n; siucu th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1851120201%2F0187.jp2/pct:6.147837,72.259919,12.454795,16.664750/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1851120201%2F0187.jp2/pct:6.147837,72.259919,12.454795,16.664750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ when their mothers are not, to a good
 degree, qualified to diischarge the duties  
 of the home work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288282%2F1851120401%2F0146.jp2/pct:83.502387,62.702389,15.980509,14.230741/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288282%2F1851120401%2F0146.jp2/pct:83.502387,62.702389,15.980509,14.230741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ were all like the mother, and soon the father lost
 his interest in both wife and children. ‘  
 | now,’ said he, ‘if we could educate only one class
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-01-06_10_1$1/pct:61.003717,79.613466,12.788104,5.782419/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-01-06_10_1$1/pct:61.003717,79.613466,12.788104,5.782419/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ enlightened where the mothers are not, toa
 good degree, qualified to discharge the duties  
 of the home work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1855-06-14_29_8$3/pct:53.128286,11.170213,20.846477,14.574468/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1855-06-14_29_8$3/pct:53.128286,11.170213,20.846477,14.574468/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ where the mothers are not, to a good degree, qual­
 ified to discharge the duties of the home work of  
 education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F0020219056A%2F1855090101%2F0088.jp2/pct:17.193948,85.522748,13.730595,9.087828/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F0020219056A%2F1855090101%2F0088.jp2/pct:17.193948,85.522748,13.730595,9.087828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1036,7 +1036,7 @@ mothers arc not, to a good degree, qualified to
 discharge the duties of the home work of  
 education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855090701%2F0707.jp2/pct:80.789681,42.404750,12.508205,10.591174/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855090701%2F0707.jp2/pct:80.789681,42.404750,12.508205,10.591174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ when they become mothers they would
 educate their sons.* This is to the point,  
 and it is true.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1856020901%2F0009.jp2/pct:18.852580,69.139106,13.874513,10.638981/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1856020901%2F0009.jp2/pct:18.852580,69.139106,13.874513,10.638981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ when they become mothers they would
 educate their sons.&#x27; This is to the point,  
 and it is true.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1856020901%2F0010.jp2/pct:18.809981,68.822377,13.844185,10.628897/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1856020901%2F0010.jp2/pct:18.809981,68.822377,13.844185,10.628897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1129,7 +1129,7 @@ choose the girls, for when they become mothers,
 tbcj would educate their sous.  
 It is stated American priuted muslin d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_firedrake_ver01%2Fdata%2Fsn82014835%2F00415661514%2F1856032701%2F0654.jp2/pct:43.785986,3.542741,26.419523,91.451822/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_firedrake_ver01%2Fdata%2Fsn82014835%2F00415661514%2F1856032701%2F0654.jp2/pct:43.785986,3.542741,26.419523,91.451822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ ana clras of our children, w* would cboose tbs
 girls; for when Omy become mother* they  
 woald edoeatc 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016751%2F00383347269%2F1856040301%2F0090.jp2/pct:79.470199,83.158640,12.071902,6.355052/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016751%2F00383347269%2F1856040301%2F0090.jp2/pct:79.470199,83.158640,12.071902,6.355052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ cato only ono class of our children, we would
 choose tho girls; for when they becomo moth­  
 ers, they would educate the sons.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1856040801%2F0926.jp2/pct:65.072464,65.227103,13.710145,8.775662/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1856040801%2F0926.jp2/pct:65.072464,65.227103,13.710145,8.775662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ Can&#x27;t tou Throw a Littlbo* tbat
 in — Can yon take off my bafrd bete I&quot;  
 said a grave, tall slab-sided Yankee t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn88064473%2F00295872445%2F1856041701%2F0219.jp2/pct:60.078278,67.242462,16.780822,15.734925/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn88064473%2F00295872445%2F1856041701%2F0219.jp2/pct:60.078278,67.242462,16.780822,15.734925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ Mrs, they would educate their sons.&quot;
 A stout red faced gentleman, in t  
 jvhite beaver, bluo coat and buff vest&#x27; ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1856071001%2F0396.jp2/pct:34.403053,8.655000,16.545718,10.839436/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1856071001%2F0396.jp2/pct:34.403053,8.655000,16.545718,10.839436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ enlightened, when the mothers are not in a
 good degree qualified to discharge the duties  
 of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182987%2F1857030501%2F0456.jp2/pct:50.386883,55.842986,15.093036,10.762548/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182987%2F1857030501%2F0456.jp2/pct:50.386883,55.842986,15.093036,10.762548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1365,7 +1365,7 @@ mothers are not iu a good degree
 qualified to discharge the duties of the  
 home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_kingler_ver01%2Fdata%2Fsn87058152%2F00279529236%2F1857030701%2F0288.jp2/pct:15.451505,11.447007,11.315496,12.207751/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_kingler_ver01%2Fdata%2Fsn87058152%2F00279529236%2F1857030701%2F0288.jp2/pct:15.451505,11.447007,11.315496,12.207751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1400,7 +1400,7 @@ when tbe mothers are not in a good degree
 qualified to di-cliarge the duties of the home  
 work ofeduca&#x27;ion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876074%2F1857032101%2F0259.jp2/pct:27.721774,13.934659,16.290323,12.556818/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876074%2F1857032101%2F0259.jp2/pct:27.721774,13.934659,16.290323,12.556818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ i. t... ,..,, i j... k.a ..
 cjw öf our chiidron we should choose  
 the girls, for. when they become moth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857041701%2F0303.jp2/pct:71.993931,55.465914,10.835757,8.229125/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857041701%2F0303.jp2/pct:71.993931,55.465914,10.835757,8.229125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1473,7 +1473,7 @@ mothers, thov educate their sons.&#x27; This is
 tho point, an l it is truo. No nation can  
 become fully enlightened whon tho moth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F0020029452A%2F1857042301%2F0256.jp2/pct:44.128878,79.217877,12.863962,12.597765/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F0020029452A%2F1857042301%2F0256.jp2/pct:44.128878,79.217877,12.863962,12.597765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1501,7 +1501,7 @@ we would choose the pirls; Jor when they become
 mothers, they would educate their sons.&quot;  
 And this reminds me that there is one most im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn96091000%2F00212470089%2F1857052901%2F0517.jp2/pct:46.937631,27.513068,11.983181,6.232409/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn96091000%2F00212470089%2F1857052901%2F0517.jp2/pct:46.937631,27.513068,11.983181,6.232409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ children, we should cliooso the girls, for i Macon and the Light House, and spen
   
 when thev become mothers they would edu- a pleasant evening in batning in tne surt ana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1857070101%2F0459.jp2/pct:3.677419,40.433962,25.367742,9.566038/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1857070101%2F0459.jp2/pct:3.677419,40.433962,25.367742,9.566038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1559,7 +1559,7 @@ tho uiothcru are not in a good degrea quali­
 fied to discharge the dutien of the homo work  
 of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1857070101%2F0459.jp2/pct:3.935484,50.132075,12.451613,3.207547/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1857070101%2F0459.jp2/pct:3.935484,50.132075,12.451613,3.207547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1600,7 +1600,7 @@ when mothers are not, in n good degree, qualified
 to discharge the duties of the home work of  
 education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85026945%2F00202194278%2F1857090301%2F0662.jp2/pct:56.586385,69.173725,15.908983,8.541314/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85026945%2F00202194278%2F1857090301%2F0662.jp2/pct:56.586385,69.173725,15.908983,8.541314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1632,7 +1632,7 @@ come fully enlightened when mothers are not, in
 a good degree, qualified to discharge the duties  
 of the home-work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_loons_ver01%2Fdata%2Fsn84024718%2F00414183761%2F1857090901%2F0343.jp2/pct:56.483458,46.475730,12.571149,8.409274/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_loons_ver01%2Fdata%2Fsn84024718%2F00414183761%2F1857090901%2F0343.jp2/pct:56.483458,46.475730,12.571149,8.409274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1666,7 +1666,7 @@ when mother* are not, in a good degree,
 qualified to discharge the duties of the  
 homework of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1857091201%2F0513.jp2/pct:65.653882,5.855520,17.239471,12.395289/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1857091201%2F0513.jp2/pct:65.653882,5.855520,17.239471,12.395289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ to discharge the duties of the home work of
   
 education.&#x27; , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1857091601%2F0729.jp2/pct:44.036873,84.147438,12.406376,9.289781/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1857091601%2F0729.jp2/pct:44.036873,84.147438,12.406376,9.289781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ are nit, in a gotal degree, qualified to
 discharge the duties of the home work of  
 education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1857091601%2F0365.jp2/pct:17.987642,80.394612,15.671678,12.680706/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1857091601%2F0365.jp2/pct:17.987642,80.394612,15.671678,12.680706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1777,7 +1777,7 @@ the girls, fAr, whAen they become m i era
 they educate their sons. This is theo ut  
 and it is traie No nation can become fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475051%2F1857092602%2F0367.jp2/pct:57.367448,76.892148,12.808261,9.307001/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475051%2F1857092602%2F0367.jp2/pct:57.367448,76.892148,12.808261,9.307001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +1808,7 @@ when mothers aro not, in a good degree,
 qualified to discharge the duties of the home-  
 work of education,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025181%2F00237287939%2F1857121201%2F0478.jp2/pct:70.095161,87.373331,12.978336,9.393598/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025181%2F00237287939%2F1857121201%2F0478.jp2/pct:70.095161,87.373331,12.978336,9.393598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ tion can become fully eullghtened when its moth­
 ers are not 111 a good degree qualified to discharge  
 the duties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_manowar_ver01%2Fdata%2Fsn84024738%2F00202191022%2F1858040301%2F0320.jp2/pct:5.236751,52.885583,12.595380,6.400029/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_manowar_ver01%2Fdata%2Fsn84024738%2F00202191022%2F1858040301%2F0320.jp2/pct:5.236751,52.885583,12.595380,6.400029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1897,7 +1897,7 @@ r, educate their sons.&#x27;&quot; This is to the point, and
 - qualified to discharge the duties of the home  
 work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288257%2F1858041401%2F0189.jp2/pct:68.732954,18.514868,14.126566,10.129785/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288257%2F1858041401%2F0189.jp2/pct:68.732954,18.514868,14.126566,10.129785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1932,7 +1932,7 @@ when the mothers are not in a good drgr e
 qualified to discharge the duties of-the home  
 work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182999%2F1858041501%2F0063.jp2/pct:79.201842,67.905223,14.701650,11.742730/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182999%2F1858041501%2F0063.jp2/pct:79.201842,67.905223,14.701650,11.742730/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1968,7 +1968,7 @@ j are not in a good degree, qualified to discharge
 the duties of the home work of edu- j  
 cation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn93067882%2F0020219428A%2F1858043001%2F0740.jp2/pct:29.336834,45.022598,15.422015,12.473442/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn93067882%2F0020219428A%2F1858043001%2F0740.jp2/pct:29.336834,45.022598,15.422015,12.473442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2000,7 +2000,7 @@ ed when mothers are not in a good degree qualifi­
 ed to discharge tlie duties of the home work of  
 education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1858051401%2F0630.jp2/pct:4.167979,79.489626,14.829396,10.628826/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1858051401%2F0630.jp2/pct:4.167979,79.489626,14.829396,10.628826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2038,7 +2038,7 @@ enlightened when mothers ara not ia a good
 degree qualified to discharge thg cjatisg of  
 the home work of edscation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156372%2F1858051901%2F0697.jp2/pct:33.047809,76.149794,14.402390,15.093265/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156372%2F1858051901%2F0697.jp2/pct:33.047809,76.149794,14.402390,15.093265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2065,7 +2065,7 @@ These boy came home intelligent men, but ! Mr.Hll.T M. jf ha will, in your leoke
 they married uoedueated and uncivilixvd&#x27; Bt ,j behavior yowr heart and earoest-&#x27;  
 wives, and the uniform resoit was that the ... -.., ihnnuht and . will, which ke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1858052701%2F0772.jp2/pct:71.848502,82.531267,25.852647,2.596520/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1858052701%2F0772.jp2/pct:71.848502,82.531267,25.852647,2.596520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2090,7 +2090,7 @@ come mother they educai tbeir tons.
 Thi i &#x27;he point, &quot;anH it true. &#x27; No nation  
 can-become fully &#x27;enlightened when l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1858052701%2F0772.jp2/pct:71.886188,85.209353,12.756736,4.309407/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1858052701%2F0772.jp2/pct:71.886188,85.209353,12.756736,4.309407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2133,7 +2133,7 @@ no nation can fail to become fully enlightened when
 its mothers are in a good degree qualified to dis­  
 charge the duties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00212471380%2F1858100201%2F0523.jp2/pct:64.801035,72.881155,14.978971,12.476326/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00212471380%2F1858100201%2F0523.jp2/pct:64.801035,72.881155,14.978971,12.476326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2198,7 +2198,7 @@ can become fully enlightened, when mothars
 are not in a good degree qualified to dis­  
 charge the duties of the home work ofeducation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775393%2F1859071401%2F0015.jp2/pct:18.210160,54.940711,12.415184,11.039935/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775393%2F1859071401%2F0015.jp2/pct:18.210160,54.940711,12.415184,11.039935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2235,7 +2235,7 @@ rsot in a good degree qualified to dis­
 charge the duties ol&#x27;ihe home work ol  
 education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F0029587398A%2F1859072901%2F0025.jp2/pct:22.402597,41.461366,14.224838,12.793953/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F0029587398A%2F1859072901%2F0025.jp2/pct:22.402597,41.461366,14.224838,12.793953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2269,7 +2269,7 @@ mothers are not in a good degree qualified to discharge
   
 the duties of the home-work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_scientific-american_1859-07-30_1_5$2/pct:34.431940,75.082992,26.580922,15.602421/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1859-07-30_1_5$2/pct:34.431940,75.082992,26.580922,15.602421/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2304,7 +2304,7 @@ fully enlightened, when mothers are not
 in a good degree qualified to discharge  
 the duties of the home work ofeducation,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470594%2F1859080401%2F0035.jp2/pct:41.490500,80.853339,12.871287,12.129459/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470594%2F1859080401%2F0035.jp2/pct:41.490500,80.853339,12.871287,12.129459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2337,7 +2337,7 @@ are not in a good degree qualified to discharge
   
 the duties of the home ww qi eaucauon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn83035595%2F00296029191%2F1859080501%2F0293.jp2/pct:5.577508,88.576779,11.079027,7.253433/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn83035595%2F00296029191%2F1859080501%2F0293.jp2/pct:5.577508,88.576779,11.079027,7.253433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2370,7 +2370,7 @@ t a ttoouie fully enlightened, when nioth­
 t&#x27; are not iu a good degree qualified to  
 ?.. &#x27;C&#x27;.jpe the duties of the beme work o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775150%2F1859080601%2F0250.jp2/pct:4.200680,82.229873,12.636054,10.646186/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775150%2F1859080601%2F0250.jp2/pct:4.200680,82.229873,12.636054,10.646186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2398,7 +2398,7 @@ mothers thoy oducnto thoir tons.&quot; Tbit it
 tho point, and it is true. No nation can  
 become fully enlightened, whon mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_horatio_ver01%2Fdata%2Fsn84028083%2F00280775241%2F1859081201%2F0132.jp2/pct:44.064885,76.319648,12.366412,7.653959/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_horatio_ver01%2Fdata%2Fsn84028083%2F00280775241%2F1859081201%2F0132.jp2/pct:44.064885,76.319648,12.366412,7.653959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2434,7 +2434,7 @@ come fully enlightened, when motiiers are not
 in a good degree qualified to discharge the du­  
 ties of the bom work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_archie_ver01%2Fdata%2Fsn83045160%2F00200290070%2F1859081401%2F0151.jp2/pct:24.198167,40.901826,8.863116,6.940639/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_archie_ver01%2Fdata%2Fsn83045160%2F00200290070%2F1859081401%2F0151.jp2/pct:24.198167,40.901826,8.863116,6.940639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2465,7 +2465,7 @@ can become fully enlightened, when mothers are
 not in a good degree qualified to discharge the  
 duties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1859-09_14$40/pct:11.565836,61.293008,36.610320,21.642619/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1859-09_14$40/pct:11.565836,61.293008,36.610320,21.642619/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2497,7 +2497,7 @@ come mothers they educste their sons.*?
 This is the point, and it is true. No nation  
 can become fully enlightened, whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1859090701%2F0783.jp2/pct:42.149417,82.567028,13.655994,11.131394/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1859090701%2F0783.jp2/pct:42.149417,82.567028,13.655994,11.131394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2531,7 +2531,7 @@ become fully enlightnad when mothers are
 not In a good degree qualified to discbarge  
 the bouse work of education.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1859092201%2F1050.jp2/pct:57.724484,76.305385,12.660346,11.083845/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1859092201%2F1050.jp2/pct:57.724484,76.305385,12.660346,11.083845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2565,7 +2565,7 @@ true. No nation can become fully enlightened,
   
 celebrated in physics for the invention of the! when mothers are not in a good degree quali
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1859-09-24_16_28$13/pct:16.757812,16.721082,75.273438,22.294776/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1859-09-24_16_28$13/pct:16.757812,16.721082,75.273438,22.294776/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2605,7 +2605,7 @@ the mothers are not in a good degree
 qualified to discharge the duties of the  
 home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1859120301%2F0293.jp2/pct:69.856413,75.802579,12.561434,14.396542/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1859120301%2F0293.jp2/pct:69.856413,75.802579,12.561434,14.396542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2643,7 +2643,7 @@ they educate their sons.” This is tho
 point, and it is true. No nation ran l e­  
 eoni ■ fully enlightened w ;i mothers ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_charmander_ver01%2Fdata%2Fsn82014282%2F0041421244A%2F1860030701%2F0015.jp2/pct:83.867778,45.761089,10.979658,7.757153/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_charmander_ver01%2Fdata%2Fsn82014282%2F0041421244A%2F1860030701%2F0015.jp2/pct:83.867778,45.761089,10.979658,7.757153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2674,7 +2674,7 @@ mothers are not in a goqd degree qualified to
 discharge the duties of the home work. of  
 j educatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296230%2F1860033001%2F0264.jp2/pct:68.054953,86.118777,13.217643,9.864050/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296230%2F1860033001%2F0264.jp2/pct:68.054953,86.118777,13.217643,9.864050/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2720,7 +2720,7 @@ thers are not, in a good degree, qualified to
 discharge the duties of the home-work of  
 education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340597%2F1860051201%2F0286.jp2/pct:4.835050,77.741761,12.624367,17.088736/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340597%2F1860051201%2F0286.jp2/pct:4.835050,77.741761,12.624367,17.088736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2747,7 +2747,7 @@ foot?&quot; &#x27;-l&#x27;art on em r&#x27;o, and the resi on j become mothers, 
   
 raihcr settling reply. - This is the point, and it is true. N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn88078725%2F00296028034%2F1860051701%2F0087.jp2/pct:67.955801,36.777264,25.868193,7.167857/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn88078725%2F00296028034%2F1860051701%2F0087.jp2/pct:67.955801,36.777264,25.868193,7.167857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2789,7 +2789,7 @@ gence.
 in a good degree qualified to discharge the duties of %  
 homework of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31$7/pct:41.964286,15.183718,51.926692,18.858069/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31$7/pct:41.964286,15.183718,51.926692,18.858069/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2821,7 +2821,7 @@ thers are not, in a good degree, qualified to dis­
 charge the duties of tho home-work of educa­  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00383342934%2F1860071901%2F0083.jp2/pct:49.031271,72.409952,14.140041,9.431860/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00383342934%2F1860071901%2F0083.jp2/pct:49.031271,72.409952,14.140041,9.431860/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2845,7 +2845,7 @@ choose the girls, for when they become
 mothers, thev educate their sous.  
 This is the true principle of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F0041566350A%2F1860072701%2F0304.jp2/pct:69.743082,40.237741,14.087179,6.594819/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F0041566350A%2F1860072701%2F0304.jp2/pct:69.743082,40.237741,14.087179,6.594819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2878,7 +2878,7 @@ it is true. No nation can become enlight­
 ened when mothers are not in a good de­  
 gree qualified to discharge the duties of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051343%2F00414212578%2F1860082901%2F0550.jp2/pct:68.069533,58.597254,13.161025,11.135653/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051343%2F00414212578%2F1860082901%2F0550.jp2/pct:68.069533,58.597254,13.161025,11.135653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2912,7 +2912,7 @@ not in a good degree qualified to dis­
 charge the duties of the home work of  
 cduca&#x27;ian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn85029094%2F00237281858%2F1860090501%2F0032.jp2/pct:34.559972,49.755596,12.740844,12.426036/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn85029094%2F00237281858%2F1860090501%2F0032.jp2/pct:34.559972,49.755596,12.740844,12.426036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2952,7 +2952,7 @@ cation.
 -4?­  
 Long Sermons ?Rev. Wm Taylor, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551244%2F1860092501%2F0028.jp2/pct:50.102681,70.443276,16.083009,19.397532/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551244%2F1860092501%2F0028.jp2/pct:50.102681,70.443276,16.083009,19.397532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2984,7 +2984,7 @@ ed, when the mothers are not in a good degree
 quulilied to discharge the home work of educa­  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557293%2F1861032301%2F0285.jp2/pct:62.367374,80.335085,14.768852,8.689225/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557293%2F1861032301%2F0285.jp2/pct:62.367374,80.335085,14.768852,8.689225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3014,7 +3014,7 @@ fully enlightened when mothers are not in a good degree
 qualified to discharge the duties of the home-work of  
 education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00212471379%2F1861060801%2F0229.jp2/pct:36.334306,84.008505,14.733446,7.676813/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00212471379%2F1861060801%2F0229.jp2/pct:36.334306,84.008505,14.733446,7.676813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3138,7 +3138,7 @@ he, ‘if we would educate but one class of our children,
 we would choose the girls; for when they become mothers,  
 they educate their sons.’ This is the point, and it is true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31$7/pct:39.702309,56.495205,27.430134,7.802964/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31$7/pct:39.702309,56.495205,27.430134,7.802964/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3185,7 +3185,7 @@ a go.nl degree qualified to diseharge
 the duties of the home-work of edu­  
 cation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn86092176%2F00279550110%2F1863031401%2F0023.jp2/pct:80.050302,53.373387,15.818483,15.726058/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn86092176%2F00279550110%2F1863031401%2F0023.jp2/pct:80.050302,53.373387,15.818483,15.726058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3216,7 +3216,7 @@ mothers they educate their sons.&quot; ThU is the
 point, ana u is true. - cio nation can becomo  
 fully enlightened when mothers aro not in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668168%2F1863051201%2F0164.jp2/pct:55.934226,75.465349,12.412147,7.813650/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668168%2F1863051201%2F0164.jp2/pct:55.934226,75.465349,12.412147,7.813650/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3256,7 +3256,7 @@ nation can become fully enlightened when moth­
 ers are not in good degree qualified to discharge  
 the duties of the home-work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474241%2F1863091001%2F0233.jp2/pct:20.986372,45.495448,14.678780,9.333473/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474241%2F1863091001%2F0233.jp2/pct:20.986372,45.495448,14.678780,9.333473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3293,7 +3293,7 @@ when mothers are not in a good degree
 qualified to discharge the duties of the  
 homework of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_naomi_ver01%2Fdata%2Fsn85033019%2F00271769118%2F1863091701%2F0001.jp2/pct:47.330739,59.235106,13.701686,14.292031/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_naomi_ver01%2Fdata%2Fsn85033019%2F00271769118%2F1863091701%2F0001.jp2/pct:47.330739,59.235106,13.701686,14.292031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3372,7 +3372,7 @@ choose the girls, for when they become mothers,
 they educate their sons. This is the point, and it  
 is true. No nation can become fully enlightene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1864-12_40_6$9/pct:67.419738,49.787335,23.900119,17.367675/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1864-12_40_6$9/pct:67.419738,49.787335,23.900119,17.367675/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3398,7 +3398,7 @@ educate their sons.&#x27; This is the
 it is true. 2\u nation can become IUHJ vu iv any, sum jmui, as tney waitieii uirougn j&#x27;nu lor am tor poi  
 lighti&#x27;ned whrn mothers are not qualified toj the snow storm to the church, whose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025161%2F00279529327%2F1864120901%2F0984.jp2/pct:47.454103,87.464418,32.130060,5.190652/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025161%2F00279529327%2F1864120901%2F0984.jp2/pct:47.454103,87.464418,32.130060,5.190652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3429,7 +3429,7 @@ when they liecoine mother* they educate ths&#x27;ir
 non*.&quot; This ii the point, and it is true.  
 No nation can become fully enlightene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83009571%2F00279523908%2F1864120901%2F0414.jp2/pct:17.572693,66.619462,12.632860,9.006002/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83009571%2F00279523908%2F1864120901%2F0414.jp2/pct:17.572693,66.619462,12.632860,9.006002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3460,7 +3460,7 @@ we would educate but one class ot our
 children, we should choose the girls, for  
 when they become mothers, they edu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn83016836%2F00212472530%2F1864121501%2F0198.jp2/pct:59.230307,72.526343,12.918421,9.582553/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn83016836%2F00212472530%2F1864121501%2F0198.jp2/pct:59.230307,72.526343,12.918421,9.582553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3556,7 +3556,7 @@ com* mother* they educate their aooa,— i
 This is the point, and it is tru*. No na- j  
 lion can become fully enlightened whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn89060120%2F00415623628%2F1865011901%2F0006.jp2/pct:60.831837,63.484848,13.689408,13.041126/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn89060120%2F00415623628%2F1865011901%2F0006.jp2/pct:60.831837,63.484848,13.689408,13.041126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3588,7 +3588,7 @@ when they become mothers, t&#x27;jey educate
 their sons. This is the r,Qint, end it is  
 true. No nation can become fully en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn82014487%2F00279557244%2F1865012101%2F0636.jp2/pct:79.776557,75.349315,12.275137,9.397260/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn82014487%2F00279557244%2F1865012101%2F0636.jp2/pct:79.776557,75.349315,12.275137,9.397260/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3630,7 +3630,7 @@ cate their long, ; Th&#x27;n in the point, and
   
 it is true No nation can become fully
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn86059181%2F00296022044%2F1865021001%2F0496.jp2/pct:6.368732,23.556923,10.464030,8.701538/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn86059181%2F00296022044%2F1865021001%2F0496.jp2/pct:6.368732,23.556923,10.464030,8.701538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3659,7 +3659,7 @@ they become mothers, they educate their sons. This
 is the point, and it is true. No nation can become  
 fully enlightened when mothers are not qualified t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1865021001%2F0450.jp2/pct:7.816712,66.822217,14.708525,8.832233/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1865021001%2F0450.jp2/pct:7.816712,66.822217,14.708525,8.832233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3689,7 +3689,7 @@ choose the girls, for when Ibey bccom ■ mother*,
 &#x27;they educate their sons. This is the point,  
 and it is true. No nation can become full
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn86076422%2F00279557372%2F1865021101%2F0237.jp2/pct:85.141368,53.250149,13.570283,8.715631/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn86076422%2F00279557372%2F1865021101%2F0237.jp2/pct:85.141368,53.250149,13.570283,8.715631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3753,7 +3753,7 @@ the giris, for when they become mothers,
 they educate their sons. This is the point,  
 and it is true. No nation can become full
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477801%2F1865030101%2F0513.jp2/pct:63.868987,36.177651,14.585466,9.672407/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477801%2F1865030101%2F0513.jp2/pct:63.868987,36.177651,14.585466,9.672407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3788,7 +3788,7 @@ when they become mothers, they educate
 their sous. This is the poiut, aud, it is  
 true. No nation can become fully eulight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197425%2F1865030801%2F0071.jp2/pct:78.173575,51.826812,15.414508,14.240506/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197425%2F1865030801%2F0071.jp2/pct:78.173575,51.826812,15.414508,14.240506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3832,7 +3832,7 @@ are not qualified to discharge the duties
 of home education.  
 Tin-: Pi?avers or Joux Knox.—Dur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_naomi_ver01%2Fdata%2Fsn85033019%2F00271769118%2F1865082401%2F0382.jp2/pct:64.869387,58.011893,14.383636,15.280456/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_naomi_ver01%2Fdata%2Fsn85033019%2F00271769118%2F1865082401%2F0382.jp2/pct:64.869387,58.011893,14.383636,15.280456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3853,7 +3853,7 @@ j^er things he informed me that at their
 Jitart they made a great mistake—they only  
 vent their boys to school.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34$0/pct:6.645161,83.264652,13.661290,4.544414/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34$0/pct:6.645161,83.264652,13.661290,4.544414/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3873,7 +3873,7 @@ jjrle, for when they become mothers, they
 httneate their sons. This is the point, and  
 It is true. No nation can become folly en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34$0/pct:7.354839,89.102564,13.064516,4.475733/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34$0/pct:7.354839,89.102564,13.064516,4.475733/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3917,7 +3917,7 @@ had landed with their equally wretched pa-¢choose the girls;
   
 rents on the wharf, thrown by hundreds at aSthers they educate their sons.” This is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1865-09_26$33/pct:25.740132,64.563365,68.256579,18.929712/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1865-09_26$33/pct:25.740132,64.563365,68.256579,18.929712/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3948,7 +3948,7 @@ coi! fully enlightened when mothers are not in a good
 i degree qualified to discharge the duties of the home  
 : work education. Zer-oy Gaxtte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F0027174478A%2F1865090701%2F0582.jp2/pct:31.544786,65.576782,12.519833,6.771981/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F0027174478A%2F1865090701%2F0582.jp2/pct:31.544786,65.576782,12.519833,6.771981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3975,7 +3975,7 @@ mothers, thev educate their isons.
 This is the point, ami it is true. No  
 nation can become luily enlightene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F0023728687A%2F1865092001%2F0026.jp2/pct:27.338129,86.733716,10.713169,6.752874/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F0023728687A%2F1865092001%2F0026.jp2/pct:27.338129,86.733716,10.713169,6.752874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4015,7 +4015,7 @@ lean become fully enlightened where mothers
 are not in a good degree qualified to discharge  
 |the duties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2$26/pct:42.254174,65.969037,41.141002,22.391055/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2$26/pct:42.254174,65.969037,41.141002,22.391055/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4055,7 +4055,7 @@ their sons.&#x27;&quot; This is the point, and iui
 it is true. thl  
 QM on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_empath_ver01%2Fdata%2Fsn86053712%2F00280762143%2F1867051501%2F0431.jp2/pct:15.291848,61.565875,14.021547,11.857451/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_empath_ver01%2Fdata%2Fsn86053712%2F00280762143%2F1867051501%2F0431.jp2/pct:15.291848,61.565875,14.021547,11.857451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

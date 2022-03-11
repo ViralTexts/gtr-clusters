@@ -58,7 +58,7 @@ ing thump on the back by a stalwart young emigrant, who cried
 out, ‘ Right you are, Sir! That’s what I’ve been telling Emily.’”  
 In every line Lord Dufferin gives proof of the long-transmitte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413$0/pct:46.251673,65.980285,38.688086,11.215772/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413$0/pct:46.251673,65.980285,38.688086,11.215772/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ r.nii&#x27;.K. ;.. .i,:i, i,n..
 wero froiiiEr a man could scarcelv havo  
 too many children. Hero I was ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_killington_ver02%2Fdata%2Fsn84023296%2F00200296114%2F1874111801%2F0337.jp2/pct:84.470765,58.623865,12.333145,14.458624/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_killington_ver02%2Fdata%2Fsn84023296%2F00200296114%2F1874111801%2F0337.jp2/pct:84.470765,58.623865,12.333145,14.458624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ ing tho round of the papers, aud one
 hears every where, &quot;That&#x27;s what I&#x27;ve  
 been telling Emily.&quot; Harper&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1874112701%2F0411.jp2/pct:76.040134,75.379705,9.832776,17.026194/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1874112701%2F0411.jp2/pct:76.040134,75.379705,9.832776,17.026194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ anecdote made familiar ‘by going the round of
 the papers, and one hears every where, ‘‘ That&#x27;s  
 what I&#x27;ve been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295$148/pct:11.430678,10.614669,66.297935,70.041322/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295$148/pct:11.430678,10.614669,66.297935,70.041322/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ people a new by-word, which has spread with | who labored under the delusion tha
 electric rapidity from one end of Canada to the | sessed by a devil applied to him to take away the  
 other. On his voyage out, being called upon | evil spirit which tormented her. ‘The doctor at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295$148/pct:11.430678,77.195248,66.666667,7.076446/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295$148/pct:11.430678,77.195248,66.666667,7.076446/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ other. On his voyage out, being called upon | evil spirit which tormented her. �
 perhaps no better idea could be given of the dif- | consider her case. On the morrow the unhappy  
 ferences between the old country and their new | woman was punctual in her attendance. Hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295$148/pct:11.467552,88.533058,66.703540,2.505165/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295$148/pct:11.467552,88.533058,66.703540,2.505165/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ ha.e got up the slang phrase, &quot; Th .&#x27;&#x27;.
 irh.nf ri&#x27;tf .&#x27;I&#x27;ll f,&#x27;!!itl.t l in ii&#x27; liflvin i&#x27; f  
 had the anecdote made familiar b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874120201%2F0505.jp2/pct:74.919988,13.277499,10.692464,15.510888/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874120201%2F0505.jp2/pct:74.919988,13.277499,10.692464,15.510888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ dote made familiar by going the round of
 the papers, an I one hear- every where.  
 - That&#x27;s &#x27;i-li&#x27;it I&#x27; re &#x27;cn telUmj Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1874120201%2F0401.jp2/pct:83.709309,61.006429,11.165049,12.136998/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1874120201%2F0401.jp2/pct:83.709309,61.006429,11.165049,12.136998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ roond of the paper*, aad oan bean
 everywhere, &quot;That&#x27;i what I&#x27;vn tjwa  
 telling Emily.&quot;— Hurptn Ifogwfnyo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1874120301%2F0636.jp2/pct:55.667172,74.812631,10.204701,14.528812/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1874120301%2F0636.jp2/pct:55.667172,74.812631,10.204701,14.528812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ phrase &quot;took.&quot; until n JW one hears
 everywhere throughout Canada the  
 oftentimes irrelevant exclamation:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1874120301%2F0617.jp2/pct:16.789388,25.389511,11.321740,16.560603/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1874120301%2F0617.jp2/pct:16.789388,25.389511,11.321740,16.560603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ with an approving thump 011 the
 back, exclaiming in triumphant tones  
 &quot;That&#x27;s fust what Foe been tellim/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528906%2F1874120401%2F0340.jp2/pct:75.845837,74.092885,10.125527,13.832775/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528906%2F1874120401%2F0340.jp2/pct:75.845837,74.092885,10.125527,13.832775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ up half an ounce of white snap, add of life by a too numerous family, ia
 two ouncet of fuller&#x27;t earth, and mix the land to which they were going a  
 Airm with the onion juice and half a nian could scarcely have too many chil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1874120401%2F0600.jp2/pct:52.679659,51.614966,21.660577,3.165974/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1874120401%2F0600.jp2/pct:52.679659,51.614966,21.660577,3.165974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ familiar by going the roundsof the news­
 paters, and now one bears rvrrywhere,  
 &quot;Thst&#x27;s what Pre been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1874120401%2F0600.jp2/pct:63.743402,49.568276,10.596833,12.088264/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1874120401%2F0600.jp2/pct:63.743402,49.568276,10.596833,12.088264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ the rouuds of the newspapers, aud now one
 hears everywhere:  
 &quot;That&#x27;s what I&#x27;ve been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663742%2F1874120501%2F0543.jp2/pct:2.678446,74.477001,15.738793,15.926276/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663742%2F1874120501%2F0543.jp2/pct:2.678446,74.477001,15.738793,15.926276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ had the anecdoto made familiar by going tho
 rounds of the newspapers, and now one hears  
 everywhere, &quot;That&#x27;s what I&#x27;ve been tellin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F00295874892%2F1874120601%2F0378.jp2/pct:62.093796,83.107404,14.475628,11.561522/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F00295874892%2F1874120601%2F0378.jp2/pct:62.093796,83.107404,14.475628,11.561522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ going the round of tbe papers, and
 one hoars every where, &quot;1&#x27;itaf what  
 I&#x27;ve been telling Emily.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874120901%2F0509.jp2/pct:75.314236,13.026477,11.692488,16.903139/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874120901%2F0509.jp2/pct:75.314236,13.026477,11.692488,16.903139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ familiar by going the round of the papers,
 and one hears every where, “ Tkat t zohat  
 I&#x27;ve here telling Emily.&quot;—Harper&#x27; Mag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623756%2F1874121201%2F0267.jp2/pct:72.992110,8.705613,21.720952,88.256387/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623756%2F1874121201%2F0267.jp2/pct:72.992110,8.705613,21.720952,88.256387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ the round of the papers, and one hears
 everywhere, &quot;That&#x27;s what I&#x27;ve been  
 telling Emily,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775137%2F1874121701%2F0345.jp2/pct:59.935083,79.106425,8.933108,11.609958/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775137%2F1874121701%2F0345.jp2/pct:59.935083,79.106425,8.933108,11.609958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ had tbo amvdoto wadn familiar bv‘going the
 irmnd;i of tho nnwapupors, and now one ncaia  
 cuerywhoro, “TJmt’n what I’vo boon tollin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_fullerton_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1874121801%2F0002.jp2/pct:84.090376,85.682201,12.811033,11.692869/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_fullerton_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1874121801%2F0002.jp2/pct:84.090376,85.682201,12.811033,11.692869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ witbhasherl au sugaImmntco laughter
 l&lt; a wes, E I :sea ei er getod iSt. an  
 appreng hmp , +ito e by º
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1874121801%2F0214.jp2/pct:50.425969,78.339861,12.000588,14.447346/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1874121801%2F0214.jp2/pct:50.425969,78.339861,12.000588,14.447346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ newspapers, aud now one hear every
 where, &quot;That s what 1 ve been telling  
 Emily.&quot; Harper&#x27;a Mmjazine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1874122501%2F0475.jp2/pct:83.279364,43.708452,9.420077,13.687085/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1874122501%2F0475.jp2/pct:83.279364,43.708452,9.420077,13.687085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ together.&#x27; And Mr. Uovburne read : p.-rhapi 20 better idea could be given o
 I cannot hope, dear Jennie, that you could : difference between the old country and their  
 foruive nn-: I saw that them was uo mercvl new home, than by the fact that when as in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1875010901%2F0804.jp2/pct:34.577259,77.952650,30.145773,1.466236/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1875010901%2F0804.jp2/pct:34.577259,77.952650,30.145773,1.466236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ children. Here I was applauded lustily,) nun, but he would. He w as absent f..r 
 with ;t cheertal accompaniment of laughter&#x27; half an hour, and ca&#x27;.e buck with a cut in  
 al io, when I was further greeted with an im-! his ear. a bloody shirt bosom, a no-e like a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1875010901%2F0804.jp2/pct:49.698737,80.387409,30.398445,2.555825/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1875010901%2F0804.jp2/pct:49.698737,80.387409,30.398445,2.555825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ the round of tl.a papers, and one hears
 everywhere, &#x27; &quot; That I whu J&#x27;v been  
 telling L.raily. Harper i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F0028077943A%2F1875011801%2F0057.jp2/pct:20.813740,61.924973,12.512779,16.073384/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F0028077943A%2F1875011801%2F0057.jp2/pct:20.813740,61.924973,12.512779,16.073384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ This is what gave rise to the phrase, and
 now one hears it everywhere. ‘‘That’s what  
 I’ve been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207$13/pct:7.809168,43.118401,21.295309,3.582202/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207$13/pct:7.809168,43.118401,21.295309,3.582202/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ of the newspapers, and now one hears
 i everywhere, &quot;That’s what I’ve been tell­  
 l ing Emily. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554619%2F1875021401%2F0407.jp2/pct:81.831610,61.332598,11.082903,19.826873/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554619%2F1875021401%2F0407.jp2/pct:81.831610,61.332598,11.082903,19.826873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1394,7 +1394,7 @@ made familiar by g-iing t!.e rounds of
 everywhere, &quot;lba.&#x27;s what I&#x27;ve bjeu tiling  
 Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470120%2F1875030501%2F0246.jp2/pct:34.782609,80.786026,11.541239,15.154019/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470120%2F1875030501%2F0246.jp2/pct:34.782609,80.786026,11.541239,15.154019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ of the newspaper, and now ono
 bears r every whero,; t &quot;Thafa What  
 I&#x27;ve Iteen telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_bentley_ver01%2Fdata%2Fsn83025733%2F00200297544%2F1875030501%2F0661.jp2/pct:32.488575,74.141812,12.401329,20.019696/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_bentley_ver01%2Fdata%2Fsn83025733%2F00200297544%2F1875030501%2F0661.jp2/pct:32.488575,74.141812,12.401329,20.019696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1523,7 +1523,7 @@ ii cheertul accompaniment ot laughter, jjyE constantly on hand a large and
 also, when I was further greeted with an; &#x27; r . , n. T1T?V annus  
 improving thump on the back by a stal-jwell selected stock of DRY GOODb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_joshuatree_ver01%2Fdata%2Fsn82014896%2F0021110465A%2F1875030601%2F0328.jp2/pct:40.697413,73.985185,35.658043,9.733333/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_joshuatree_ver01%2Fdata%2Fsn82014896%2F0021110465A%2F1875030601%2F0328.jp2/pct:40.697413,73.985185,35.658043,9.733333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ improving thump on the back by a stal-jwell selected stock of DRY GOODb
 fiWaffic phrS 5nttSIei I and &#x27;tOBACCO, HAr&#x27;dwIrE, etc., which  
 been telling Emily,&quot; having had the anee- we wn sell at the VERY LOWEST prices
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_joshuatree_ver01%2Fdata%2Fsn82014896%2F0021110465A%2F1875030601%2F0328.jp2/pct:40.787402,84.103704,35.590551,2.029630/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_joshuatree_ver01%2Fdata%2Fsn82014896%2F0021110465A%2F1875030601%2F0328.jp2/pct:40.787402,84.103704,35.590551,2.029630/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ of the newspapers, und now ono
 hoars everywhere, &quot;That&#x27;s what  
 I&#x27;ve been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_eagle_ver01%2Fdata%2Fsn84022279%2F00200296552%2F1875031301%2F0688.jp2/pct:39.105839,57.944183,10.857664,18.361426/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_eagle_ver01%2Fdata%2Fsn84022279%2F00200296552%2F1875031301%2F0688.jp2/pct:39.105839,57.944183,10.857664,18.361426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1718,7 +1718,7 @@ telling Emily,&quot; haing had the anecdote
 miliar by going the rounds of the  
 p esand one hears everywhere, &quot;That&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_moose_ver01%2Fdata%2Fsn84038126%2F00212476997%2F1875102301%2F0098.jp2/pct:75.851305,71.039095,17.281498,24.773663/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_moose_ver01%2Fdata%2Fsn84038126%2F00212476997%2F1875102301%2F0098.jp2/pct:75.851305,71.039095,17.281498,24.773663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

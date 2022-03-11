@@ -78,7 +78,7 @@ greater variety of subjects, and expressing their
 viows with greater flueucy, clearness and cor­  
 rectness in the use of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1852012001%2F0117.jp2/pct:76.771592,57.106599,16.653745,23.471640/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1852012001%2F0117.jp2/pct:76.771592,57.106599,16.653745,23.471640/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ thought, which cannot fail to make him
 wiser and better, and elovate him in tin  
 fccnlo of humanity.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1852020501%2F0235.jp2/pct:7.873723,4.100454,12.831941,43.742906/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1852020501%2F0235.jp2/pct:7.873723,4.100454,12.831941,43.742906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ Meets, and expressing their views with greater fluen
 &#x27;cy, clearness and correctness in the use ot language.&quot;  
 Origin or Cbrtain Words. The bayonet tell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022627%2F1852021101%2F0475.jp2/pct:30.825139,29.584527,15.775973,17.304544/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022627%2F1852021101%2F0475.jp2/pct:30.825139,29.584527,15.775973,17.304544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ jects, and expressing their views with greater fluen-
 ley. clearness and correctness in the use ot language.&quot;  
 Origin or Certain Words. The bayonet tell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024518%2F00296022718%2F1852021101%2F0051.jp2/pct:32.574458,29.492355,15.733666,17.847095/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024518%2F00296022718%2F1852021101%2F0051.jp2/pct:32.574458,29.492355,15.733666,17.847095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ er variety ol subjects, and expressing their
 views with greater fluency, clearness and cor­  
 rectness, in the use of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1852030201%2F0108.jp2/pct:79.158783,48.419056,14.408383,16.547218/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1852030201%2F0108.jp2/pct:79.158783,48.419056,14.408383,16.547218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ read more understanding!)&#x27;.
 2d, They are better spellers, snd define  
 words with greater esse and accuracy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82014073%2F00279529200%2F1852030401%2F0532.jp2/pct:5.458221,55.888820,12.584232,9.657747/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82014073%2F00279529200%2F1852030401%2F0532.jp2/pct:5.458221,55.888820,12.584232,9.657747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ jeets, and expressing their views with
 gTeater fluency,clearness and correctness  
 in the use of languag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82014073%2F00279529200%2F1852030401%2F0532.jp2/pct:5.486298,74.830948,12.808850,4.812280/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82014073%2F00279529200%2F1852030401%2F0532.jp2/pct:5.486298,74.830948,12.808850,4.812280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ variety of subjects, and expressing
 &#x27;heir views with greater clearness and  
 eoirectness in the u&amp;o of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn86092163%2F00202192464%2F1852051301%2F0075.jp2/pct:56.838002,18.544558,13.596723,24.351717/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn86092163%2F00202192464%2F1852051301%2F0075.jp2/pct:56.838002,18.544558,13.596723,24.351717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ creater variety of subjects, and expressing
 their views with greater fluency, clearness  
 and correctness in the use of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349001%2F1852072801%2F0295.jp2/pct:55.453893,51.056436,13.352171,21.340701/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349001%2F1852072801%2F0295.jp2/pct:55.453893,51.056436,13.352171,21.340701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ pressing their views with greater flu
 3ncy, clearness, and correctness in tli0  
 ueo of language. - . w -, . .., 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn90068762%2F00296026876%2F1852080601%2F0158.jp2/pct:36.385542,51.835340,13.713034,23.480458/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn90068762%2F00296026876%2F1852080601%2F0158.jp2/pct:36.385542,51.835340,13.713034,23.480458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ a greater variely of subjects, and expressing
 their views, with greater clearness and cor  
 rectness in the use of the language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1852100901%2F0576.jp2/pct:80.589849,20.932458,12.122771,19.797648/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1852100901%2F0576.jp2/pct:80.589849,20.932458,12.122771,19.797648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ subjects, and expressing their views with greater^
 fluency, clearness, and correctness in their use o  
 language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn93067980%2F00295862270%2F1852101201%2F0154.jp2/pct:60.216832,61.825612,24.359917,25.431255/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn93067980%2F00295862270%2F1852101201%2F0154.jp2/pct:60.216832,61.825612,24.359917,25.431255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ requires others, as the newspaper has made
 them familiar with the location of the im-  
 I nortantnLices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1852101401%2F0465.jp2/pct:79.348882,31.499508,15.095562,15.312261/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1852101401%2F0465.jp2/pct:79.348882,31.499508,15.095562,15.312261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ and expressing their views with greater
 i , , ? , .  
 1 fluency-, clearness and correctness in thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1852101401%2F0465.jp2/pct:79.348882,51.657005,15.014577,9.592038/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1852101401%2F0465.jp2/pct:79.348882,51.657005,15.014577,9.592038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ having become so familiar with every va­
 riety of style, in the newspaper, from the  
 comonplace advertisemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895655%2F1852110401%2F0559.jp2/pct:5.633546,56.948742,12.511395,14.438988/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895655%2F1852110401%2F0559.jp2/pct:5.633546,56.948742,12.511395,14.438988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ knowledge upon a greater variety of subsets,
 and expressing their views with greater flumcy,  
 clearness and correctness in their uje of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82014434%2F00415661423%2F1852110601%2F0464.jp2/pct:82.804196,39.089882,14.376820,10.084891/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82014434%2F00415661423%2F1852110601%2F0464.jp2/pct:82.804196,39.089882,14.376820,10.084891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ of subjects, and express their views with a great­
 er fluency, clearness and correctness in the use  
 of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1852110601%2F0247.jp2/pct:70.428060,69.520451,12.564901,9.040903/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1852110601%2F0247.jp2/pct:70.428060,69.520451,12.564901,9.040903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ greater variety of subjects, expressing theii
 views witn greater fluency. clearness and cor­  
 rectness in their use of languages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_manowar_ver01%2Fdata%2Fsn84024738%2F00202190911%2F1852110601%2F0426.jp2/pct:7.094714,7.700449,14.165780,19.460672/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_manowar_ver01%2Fdata%2Fsn84024738%2F00202190911%2F1852110601%2F0426.jp2/pct:7.094714,7.700449,14.165780,19.460672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ ter variety of subject*, and expressing their
 views with greater flue: cy, clearness and cor­  
 rectness in their use of languages._i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_emeralds_ver02%2Fdata%2Fsn85025007%2F00414215889%2F1852111001%2F0511.jp2/pct:7.421911,51.635659,12.609169,6.455034/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_emeralds_ver02%2Fdata%2Fsn85025007%2F00414215889%2F1852111001%2F0511.jp2/pct:7.421911,51.635659,12.609169,6.455034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -970,7 +970,7 @@ jects and expressing their views with greater fluen­
 cy, clearness and correctness in their use of lan­  
 guage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190522%2F1852111101%2F0280.jp2/pct:29.438551,55.732055,13.906125,17.215972/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190522%2F1852111101%2F0280.jp2/pct:29.438551,55.732055,13.906125,17.215972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ when compared with those who have not, are
   
 the proceedings is, and must be, that «the denomi- j Tun iHariHATioR or xun Soriptorbs, and other and emphasis, and consequently read more under
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1852-11-11_23_46$3/pct:3.122509,12.829980,38.320489,2.953664/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1852-11-11_23_46$3/pct:3.122509,12.829980,38.320489,2.953664/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ ency, clearness and correctness in their use of lan­
 uap;e.O O  
 The Consecration of Bish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1852111201%2F0435.jp2/pct:16.929077,56.405915,14.964611,5.677842/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1852111201%2F0435.jp2/pct:16.929077,56.405915,14.964611,5.677842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ with greater ease and accuracy.
 in almost half the time it require  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn90068762%2F00296026876%2F1852111201%2F0221.jp2/pct:77.181208,68.723703,13.129195,7.138850/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn90068762%2F00296026876%2F1852111201%2F0221.jp2/pct:77.181208,68.723703,13.129195,7.138850/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1087,7 +1087,7 @@ er variety, of subjects, and expressing their
 view with greater f lnency, clearness and cor­  
 rectness ia their use ol language. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn90068762%2F00296026876%2F1852111201%2F0221.jp2/pct:76.971477,78.695652,13.338926,5.483871/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn90068762%2F00296026876%2F1852111201%2F0221.jp2/pct:76.971477,78.695652,13.338926,5.483871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ j subjects and expressing (heir views with
 greater fluency, clearness and correct­  
 ness in their use of languag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624463%2F1852111301%2F0276.jp2/pct:79.703541,17.143553,14.822932,27.245424/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624463%2F1852111301%2F0276.jp2/pct:79.703541,17.143553,14.822932,27.245424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ er variety of subjects, and expressing their
 viows with greater fluency, clcarnoss and cor­  
 rectness in their use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1852111601%2F0252.jp2/pct:35.984793,75.221901,14.373446,16.254946/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1852111601%2F0252.jp2/pct:35.984793,75.221901,14.373446,16.254946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ greater variety of *ubv**ts, and expressing
 their views with grsster uuenev, clearness and  
 I correctness iu the use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349001%2F1852111701%2F0355.jp2/pct:53.981386,30.794122,13.120476,21.170959/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349001%2F1852111701%2F0355.jp2/pct:53.981386,30.794122,13.120476,21.170959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ their views, with greater clearness and correctness in
 the ose of the language.  
 t7 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_hoosier_ver01%2Fdata%2Fsn82015677%2F00202191629%2F1852111801%2F0455.jp2/pct:7.312566,75.154321,14.347941,15.853909/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_hoosier_ver01%2Fdata%2Fsn82015677%2F00202191629%2F1852111801%2F0455.jp2/pct:7.312566,75.154321,14.347941,15.853909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ riety of subjects, and express their views with a
 j greater fluency , clearnt *s and correctness in the use •  
 j of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83025241%2F00383347221%2F1852111801%2F0147.jp2/pct:42.929293,84.433109,12.847222,7.434339/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83025241%2F00383347221%2F1852111801%2F0147.jp2/pct:42.929293,84.433109,12.847222,7.434339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ globe. 4lh. They are better grammarians.
 tcr language, containing moro ;thoughts, more  
 clearly and connectedly expressed. 6th. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1852112401%2F0287.jp2/pct:60.085295,70.398230,17.122098,13.849558/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1852112401%2F0287.jp2/pct:60.085295,70.398230,17.122098,13.849558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1429,7 +1429,7 @@ better language, containing more thoughts,
   
 A circular has been issued by lh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1852112501%2F0397.jp2/pct:67.754734,75.094923,24.562669,17.972156/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1852112501%2F0397.jp2/pct:67.754734,75.094923,24.562669,17.972156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ I with more ease and accuracy.
 3. They obtain a practical knowledge of ge-  
 ography, in almost half the time it requires
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn83035366%2F00296029099%2F1852112601%2F0919.jp2/pct:49.767442,13.421524,14.922481,9.576960/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn83035366%2F00296029099%2F1852112601%2F0919.jp2/pct:49.767442,13.421524,14.922481,9.576960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1487,7 +1487,7 @@ subjects, and expressing their view with great
 er fluency, clearness and correctness in their  
 general use of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn83035366%2F00296029099%2F1852112601%2F0919.jp2/pct:50.019380,26.967066,14.767442,7.234394/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn83035366%2F00296029099%2F1852112601%2F0919.jp2/pct:50.019380,26.967066,14.767442,7.234394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1540,7 @@ greater variety of subjects, nnd expressing
 their views with greater fluency, clearness  
 uud correctness in their use of languag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779210%2F1852112601%2F0418.jp2/pct:2.750573,21.672504,14.232132,21.862230/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779210%2F1852112601%2F0418.jp2/pct:2.750573,21.672504,14.232132,21.862230/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1584,7 +1584,7 @@ riety of subjects, and expressing their views
 with greater fluency, clearness and correctness  
 in their tue of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84023127%2F0028077697A%2F1852112601%2F0617.jp2/pct:82.009386,55.487977,12.271858,16.294201/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84023127%2F0028077697A%2F1852112601%2F0617.jp2/pct:82.009386,55.487977,12.271858,16.294201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1634,7 +1634,7 @@ ty of subjects, and expressing their views with
 greater fluency, clearness and correctness in  
 their use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1852112701%2F0260.jp2/pct:82.973082,4.705551,12.853767,17.990983/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1852112701%2F0260.jp2/pct:82.973082,4.705551,12.853767,17.990983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1667,7 +1667,7 @@ pers has made them familiar with the
 location of the important places, nations,  
 their governments and doings on the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn90052434%2F00296023085%2F1852112701%2F0412.jp2/pct:48.795782,22.531445,14.550378,14.380509/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn90052434%2F00296023085%2F1852112701%2F0412.jp2/pct:48.795782,22.531445,14.550378,14.380509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1705,7 +1705,7 @@ sive knowledge upon a greater variety
 of subjects, and expressing their views  
 with greater fluency, clearness and cor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn90052434%2F00296023085%2F1852112701%2F0412.jp2/pct:48.895539,40.893335,14.735642,9.814796/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn90052434%2F00296023085%2F1852112701%2F0412.jp2/pct:48.895539,40.893335,14.735642,9.814796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1767,7 +1767,7 @@ pressing their views with greater fluency,
 clearness and correctness in their uso of  
 language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn85059716%2F00202193018%2F1852120101%2F0228.jp2/pct:70.196892,50.789784,13.720643,24.003543/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn85059716%2F00202193018%2F1852120101%2F0228.jp2/pct:70.196892,50.789784,13.720643,24.003543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1802,7 +1802,7 @@ quires others, as the newspaper has mad
 them familiar with the location&#x27; of the imj.  
 portent places an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1852120801%2F0074.jp2/pct:80.113177,68.084800,15.278901,12.950678/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1852120801%2F0074.jp2/pct:80.113177,68.084800,15.278901,12.950678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1831,7 +1831,7 @@ ways taking the lead in the debating IS
 cieties, exhibiting a more extensive knowf-  
 edge Upon a greater variety of subjecisl 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1852120801%2F0074.jp2/pct:80.092967,84.640900,14.955538,10.729738/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1852120801%2F0074.jp2/pct:80.092967,84.640900,14.955538,10.729738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1876,7 +1876,7 @@ sive knowledge upon agreatcr variety of subjects,
 and expressing their views with greater Cuency,  
 clearness and correctness in their use of lanjrua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1852121101%2F0020.jp2/pct:76.261173,45.159552,13.543403,16.009056/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1852121101%2F0020.jp2/pct:76.261173,45.159552,13.543403,16.009056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1910,7 +1910,7 @@ them familiar with the location of the im-
   
 portant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35$2/pct:5.777538,5.535324,21.004320,11.744355/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35$2/pct:5.777538,5.535324,21.004320,11.744355/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1941,7 +1941,7 @@ their use of language.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35$2/pct:6.074514,21.176256,21.625270,12.381646/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35$2/pct:6.074514,21.176256,21.625270,12.381646/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1998,7 +1998,7 @@ and expressing their views with greal
 fluency, clearness and correctness in th&lt;  
 use of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862634%2F1853012601%2F0206.jp2/pct:3.810931,3.360947,13.175775,20.954635/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862634%2F1853012601%2F0206.jp2/pct:3.810931,3.360947,13.175775,20.954635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2035,7 +2035,7 @@ ing become so familliar with every variety
 of style, in the newspaper, trom the common­  
 place adver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1853020901%2F0510.jp2/pct:5.186386,38.792644,12.605799,11.926972/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1853020901%2F0510.jp2/pct:5.186386,38.792644,12.605799,11.926972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2062,7 +2062,7 @@ pressing their views with greater fluency.
 clearness, and correctness in the use of lan­  
 guage. Exchange
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779209%2F1853022501%2F0099.jp2/pct:73.668417,25.731959,13.259565,7.573883/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779209%2F1853022501%2F0099.jp2/pct:73.668417,25.731959,13.259565,7.573883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2114,7 +2114,7 @@ to his labor supplied with material for thought
 which cannot fail to make him wiser and better,  
 and elevate faun in the scale of humanity. IC i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190546%2F1853102201%2F0323.jp2/pct:29.232136,82.640340,14.001122,5.128397/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190546%2F1853102201%2F0323.jp2/pct:29.232136,82.640340,14.001122,5.128397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2140,7 +2140,7 @@ supplied with material for thought wbieb
 cannot fell to make him wiser aad bettor, sod  
 elevate him in tbo scale of humanity. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349001%2F1853102601%2F0547.jp2/pct:69.376886,11.794801,12.697497,7.981886/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349001%2F1853102601%2F0547.jp2/pct:69.376886,11.794801,12.697497,7.981886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2167,7 +2167,7 @@ night which cannot fail to make him
 k*r and better, ami eleeate him in th?  
 le of humanity. It is an undenii.b 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862634%2F1853111601%2F0379.jp2/pct:32.015287,71.525753,12.435690,8.140839/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862634%2F1853111601%2F0379.jp2/pct:32.015287,71.525753,12.435690,8.140839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ ety of subjects, and expressing their views with
 greater fluencyr clearness and correctness in the&#x27;  
 uso of their language.&#x27; ; -:, r.., 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1854030801%2F0556.jp2/pct:77.258567,69.804006,17.133956,19.330174/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1854030801%2F0556.jp2/pct:77.258567,69.804006,17.133956,19.330174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2251,7 +2251,7 @@ ing become so familiar with every variety
 of stylo, in the newspaper, from the com*  
 man-place adverti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83021380%2F00279523878%2F1854032401%2F0031.jp2/pct:68.837013,56.917584,12.970515,12.559093/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83021380%2F00279523878%2F1854032401%2F0031.jp2/pct:68.837013,56.917584,12.970515,12.559093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2279,7 +2279,7 @@ Bhan ases, and consequently ‘read more understand:
 ingly.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15$3/pct:24.203314,57.634576,11.687380,5.065994/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15$3/pct:24.203314,57.634576,11.687380,5.065994/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2307,7 +2307,7 @@ repeal but an abstraction ; for, by the timet Better reader., excelling in pronu
   
 of Ihe meeting of the next Congress, it will I ,,on and emphasis, and consequently read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1854062401%2F0938.jp2/pct:55.272264,21.680000,25.987980,4.586667/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1854062401%2F0938.jp2/pct:55.272264,21.680000,25.987980,4.586667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2340,7 +2340,7 @@ their view, with greater fluency, and clear.
   
 ness in then use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1854062401%2F0938.jp2/pct:68.530322,34.213333,12.729922,7.253333/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1854062401%2F0938.jp2/pct:68.530322,34.213333,12.729922,7.253333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2365,7 +2365,7 @@ fast table, with his wife and children, and
 for thought which cannot fail to make him  
 wiser and better, and elevate him in theacal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F0041562427A%2F1854121401%2F0322.jp2/pct:79.217652,37.899092,14.442970,7.110428/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F0041562427A%2F1854121401%2F0322.jp2/pct:79.217652,37.899092,14.442970,7.110428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2422,7 +2422,7 @@ words with ease and accuracy. . .
 of geography, in almost half the time  
 requires 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1855032801%2F0589.jp2/pct:58.269720,62.764423,12.333483,10.889423/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1855032801%2F0589.jp2/pct:58.269720,62.764423,12.333483,10.889423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2448,7 +2448,7 @@ and expressing their views with greats
 fluency, clearness and correctness in their  
 use oflangusge. ; ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1855032801%2F0589.jp2/pct:58.329591,76.923077,12.393354,7.620192/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1855032801%2F0589.jp2/pct:58.329591,76.923077,12.393354,7.620192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2502,7 +2502,7 @@ er variety ot subjects, and expressing their
 views with greater fluency, clearness and cor­  
 rectness in their use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1855110201%2F0208.jp2/pct:63.089046,17.881082,14.520620,22.206451/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1855110201%2F0208.jp2/pct:63.089046,17.881082,14.520620,22.206451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2548,7 +2548,7 @@ their se of language.
 - Three Things.  
 Three things that never become 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477771%2F1855120501%2F0274.jp2/pct:81.447747,23.209239,14.573346,20.407913/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477771%2F1855120501%2F0274.jp2/pct:81.447747,23.209239,14.573346,20.407913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2576,7 +2576,7 @@ with more ease and accuracy.
 geography, in almost half the time it re­  
 quires oth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1856020601%2F0212.jp2/pct:82.793496,43.687770,12.456792,7.270336/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1856020601%2F0212.jp2/pct:82.793496,43.687770,12.456792,7.270336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2602,7 +2602,7 @@ greater variety of subjects, and expressing
 their views with greater fluency, clearness  
 and correctness in their use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1856020601%2F0212.jp2/pct:82.921521,53.362765,12.495199,6.331016/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1856020601%2F0212.jp2/pct:82.921521,53.362765,12.495199,6.331016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2651,7 +2651,7 @@ fluency, clearness,&quot; and correctness&#x27; in the
 use 0: language.  
 In-view; of these facts, who jvill be s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn82015827%2F00212472815%2F1856022601%2F0185.jp2/pct:7.694342,39.343723,12.559492,24.407375/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn82015827%2F00212472815%2F1856022601%2F0185.jp2/pct:7.694342,39.343723,12.559492,24.407375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2767,7 +2767,7 @@ become so familiar with every variety of style
 iu the newspaper, from the common place ad­  
 vertisement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028630%2F1856041201%2F0301.jp2/pct:44.963158,23.658472,14.680270,14.179978/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028630%2F1856041201%2F0301.jp2/pct:44.963158,23.658472,14.680270,14.179978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2813,7 +2813,7 @@ having become so familiar with everv
 variety of style in the newspaper, from  
 the common place adverti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065089%2F00212470478%2F1856041201%2F0043.jp2/pct:38.507702,7.585201,14.802961,19.228219/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065089%2F00212470478%2F1856041201%2F0043.jp2/pct:38.507702,7.585201,14.802961,19.228219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2845,7 +2845,7 @@ words with caso and accuracy.
 geography, and in almost half the time it re­  
 quires others,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1856061101%2F0992.jp2/pct:78.345769,55.250108,17.415463,12.634756/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1856061101%2F0992.jp2/pct:78.345769,55.250108,17.415463,12.634756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2873,7 +2873,7 @@ tion, and consequently read more under­
 standingly. .  
 2. They are better spel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1856112901%2F0450.jp2/pct:50.232427,75.925719,11.057895,6.633852/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1856112901%2F0450.jp2/pct:50.232427,75.925719,11.057895,6.633852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2928,7 +2928,7 @@ knowledge upon a greater variety of sub­
 jects and expressing their view&#x27;s with  
 great correctness in their use of languages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025090%2F00279557463%2F1856121301%2F0053.jp2/pct:8.330983,6.694294,14.104372,25.268303/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025090%2F00279557463%2F1856121301%2F0053.jp2/pct:8.330983,6.694294,14.104372,25.268303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2953,7 +2953,7 @@ when compared with those who have not, are :
 consequently read more understandingry.  
 2. They are better spellers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474228%2F1857021201%2F0166.jp2/pct:8.244608,77.755701,17.349167,5.979752/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474228%2F1857021201%2F0166.jp2/pct:8.244608,77.755701,17.349167,5.979752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3001,7 +3001,7 @@ ars, of both sexes, and of all ages, &quot;who have
 had accessio newspapers at home, when com«  
 pared with those who have not, are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876074%2F1857032101%2F0259.jp2/pct:12.479839,88.096591,15.766129,5.767045/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876074%2F1857032101%2F0259.jp2/pct:12.479839,88.096591,15.766129,5.767045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3050,7 +3050,7 @@ correctness in their use of language.
   
 THE DUTCHMAN A.D THE PAMC.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776038%2F1857102401%2F0465.jp2/pct:4.781022,58.138558,12.883212,16.962911/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776038%2F1857102401%2F0465.jp2/pct:4.781022,58.138558,12.883212,16.962911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3087,7 +3087,7 @@ mon place advertisement to the finished
 and classical oration of statesmen, they  
 more readily comprehend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025090%2F00279557463%2F1858010201%2F0284.jp2/pct:31.023746,77.015529,12.486640,14.404737/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025090%2F00279557463%2F1858010201%2F0284.jp2/pct:31.023746,77.015529,12.486640,14.404737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3128,7 +3128,7 @@ doings, on the globe.
 so familiar with every variety of style, in the news-  
 paper, from the common place advertisemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10$20/pct:49.044586,19.354839,37.685775,24.608295/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10$20/pct:49.044586,19.354839,37.685775,24.608295/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3179,7 +3179,7 @@ and expressing their views with greater
 fluency, clearness and correctness in .their  
 use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_national_ver01%2Fdata%2Fsn84022046%2F00279554188%2F1863111401%2F0123.jp2/pct:65.964157,32.166878,14.997998,20.015863/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_national_ver01%2Fdata%2Fsn84022046%2F00279554188%2F1863111401%2F0123.jp2/pct:65.964157,32.166878,14.997998,20.015863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3206,7 +3206,7 @@ their views with great fluency, clearness and
 correctness in their use of language, &#x27;  
 What a Goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026797%2F1865062201%2F0330.jp2/pct:83.068894,30.408728,12.630480,7.851875/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026797%2F1865062201%2F0330.jp2/pct:83.068894,30.408728,12.630480,7.851875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3256,7 +3256,7 @@ greater variety of snbjects, and expressing their
 views with greater fluency, clearness and cor-  
 rectness in the use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48$3/pct:40.828947,41.558704,11.842105,14.311741/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48$3/pct:40.828947,41.558704,11.842105,14.311741/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3298,7 +3298,7 @@ and correctness in their use of language.
   
 A NEW WAT T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn86081912%2F00296028617%2F1865080201%2F0601.jp2/pct:79.470684,62.700599,14.603274,17.715104/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn86081912%2F00296028617%2F1865080201%2F0601.jp2/pct:79.470684,62.700599,14.603274,17.715104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3323,7 +3323,7 @@ greater variety of subjects, and expressing their
 views with greater fluency, clearness and cor­  
 rectness in the use of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777365%2F1865100601%2F0467.jp2/pct:81.319496,73.683449,12.008895,5.960648/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777365%2F1865100601%2F0467.jp2/pct:81.319496,73.683449,12.008895,5.960648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3363,7 +3363,7 @@ clearness and correctness in their use of
 ’ language.  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627476%2F1865120201%2F0197.jp2/pct:80.455356,48.468310,12.723449,12.675828/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627476%2F1865120201%2F0197.jp2/pct:80.455356,48.468310,12.723449,12.675828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3414,7 +3414,7 @@ use of language.
   
 Oa a fence 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn87058042%2F00279529340%2F1866011201%2F1316.jp2/pct:6.054812,23.186852,17.234969,27.716248/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn87058042%2F00279529340%2F1866011201%2F1316.jp2/pct:6.054812,23.186852,17.234969,27.716248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3440,7 +3440,7 @@ fine words with ease and accuracy.
 3. They obtain a practical knowl  
 edge of geography iu almost halt th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023139%2F1868041601%2F0065.jp2/pct:72.597765,18.813145,10.837989,6.604275/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023139%2F1868041601%2F0065.jp2/pct:72.597765,18.813145,10.837989,6.604275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3491,7 +3491,7 @@ and expressing their views with greater
 fluency, clearness, and correctness in the  
 use of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1868041701%2F0512.jp2/pct:5.386179,8.078244,13.516260,24.742422/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1868041701%2F0512.jp2/pct:5.386179,8.078244,13.516260,24.742422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3529,7 +3529,7 @@ greater fluency, clearness and correctness in
 the use of language.  
 .-m .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762489%2F1868072101%2F0125.jp2/pct:17.079853,11.268379,12.709355,11.236064/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762489%2F1868072101%2F0125.jp2/pct:17.079853,11.268379,12.709355,11.236064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3567,7 +3567,7 @@ subjects, and expressing their views
 with greater fluencv, clearness and  
 correctness in the use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283648%2F1868122401%2F0443.jp2/pct:26.716970,62.013182,10.409609,12.606351/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283648%2F1868122401%2F0443.jp2/pct:26.716970,62.013182,10.409609,12.606351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3869,7 +3869,7 @@ greater variety of subjects and expressing
 their views with greater fluency, clearness,  
 and correctness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192348%2F1874050501%2F0075.jp2/pct:70.359649,49.355783,13.385965,17.909956/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192348%2F1874050501%2F0075.jp2/pct:70.359649,49.355783,13.385965,17.909956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3911,7 +3911,7 @@ ed and classical oration of the
 statesman, they more readily com­  
 prehend the meaning of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_igglybuff_ver01%2Fdata%2Fsn84023017%2F00414213005%2F1876040601%2F0242.jp2/pct:3.002833,42.182227,11.846081,16.454584/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_igglybuff_ver01%2Fdata%2Fsn84023017%2F00414213005%2F1876040601%2F0242.jp2/pct:3.002833,42.182227,11.846081,16.454584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3945,7 +3945,7 @@ a greater variety of subjects, and expressing their views
 with greater fluency, clearness, and correctness, in their  
 use of language, than those whoare unfamiliar wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-11-14_8_194$2/pct:5.810724,21.654040,55.586413,70.596591/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-11-14_8_194$2/pct:5.810724,21.654040,55.586413,70.596591/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

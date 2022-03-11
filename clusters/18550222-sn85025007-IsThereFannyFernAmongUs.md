@@ -81,7 +81,7 @@ This volume presents vivid, life-like pictures of
 the charming and brilliant author ot Fern Leaves  
 and Ruth Hall; and the reader will find that the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_alicanto_ver02%2Fdata%2Fsn85042002%2F00415660996%2F1855022101%2F0347.jp2/pct:0.928002,65.976306,15.501993,3.042700/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_alicanto_ver02%2Fdata%2Fsn85042002%2F00415660996%2F1855022101%2F0347.jp2/pct:0.928002,65.976306,15.501993,3.042700/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ Fein Leaves and Ruth Hall. I all early* and se­
 cure a copy. GEO. e. y ren&lt; h.  
 :eb -M [Pied. Whig &amp; Rockingham Reg.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022101%2F0037.jp2/pct:15.915769,46.690888,12.686908,9.683931/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022101%2F0037.jp2/pct:15.915769,46.690888,12.686908,9.683931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ Is Ruth Hall Fanny F?*rn, or somebody e! e &#x27;
 And if Fatinv Fern is not Ruth Hall, who is  
 Fanny Fern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026752%2F00415620366%2F1855022201%2F0248.jp2/pct:85.667396,6.951131,12.079585,3.455112/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026752%2F00415620366%2F1855022201%2F0248.jp2/pct:85.667396,6.951131,12.079585,3.455112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ I Volume, 12mo», cloth, Price $1. Who is Ruth Hall?—
 Is Ruth Hall Fanny Fern, or somebody else ? And if Fan­  
 ny is not Ruth Hall, who is Fanny Fern ? The life an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855022201%2F0034.jp2/pct:42.620564,23.001949,12.324841,2.203425/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855022201%2F0034.jp2/pct:42.620564,23.001949,12.324841,2.203425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ It presents vivid, life-like pictures of the charming and
 brilliant  
 AUTHOR OF FERN LEAVES AND RUTH HALL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855022201%2F0034.jp2/pct:42.602366,27.554999,12.361237,1.493317/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855022201%2F0034.jp2/pct:42.602366,27.554999,12.361237,1.493317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ And, if Fanny Fern is not Rnth Hall,
 WHO IS FANNY EE UN?  
 THE LIFE and BEAUTIES ofFANJi Y FER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_dolly_ver01%2Fdata%2Fsn85038518%2F00200293198%2F1855022201%2F0181.jp2/pct:45.444618,19.294285,12.371295,4.764168/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_dolly_ver01%2Fdata%2Fsn85038518%2F00200293198%2F1855022201%2F0181.jp2/pct:45.444618,19.294285,12.371295,4.764168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ It presents vivid and life life pictures of the charming
 and brilliant  
 Author or Fern I.enes and Ruth Hal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_dolly_ver01%2Fdata%2Fsn85038518%2F00200293198%2F1855022201%2F0181.jp2/pct:45.522621,25.436616,12.308892,1.900915/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_dolly_ver01%2Fdata%2Fsn85038518%2F00200293198%2F1855022201%2F0181.jp2/pct:45.522621,25.436616,12.308892,1.900915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ ol the season. It presents vivid hle-like pic­
 cure a copy. GEO. E. !• REN( H.  
 j teh VI [Pied W hig \ Rockingham Reg 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022201%2F0041.jp2/pct:55.226786,60.560052,12.705211,6.655685/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022201%2F0041.jp2/pct:55.226786,60.560052,12.705211,6.655685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ Fern Leaves and Ruth Hail, t all early and se­
 cure a copy. (iLO. E. FRENCH,  
 teb v.&#x27; 1 [Pied. Whig A Rockingham Reg 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022601%2F0050.jp2/pct:59.956667,56.077289,12.599304,9.152045/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022601%2F0050.jp2/pct:59.956667,56.077289,12.599304,9.152045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ W&#x27;h«&gt; is Fanny Fein7 This i- the wittiest book
 nflhe season. It piesenis vivid lile-like pie- i  
 lures oi the chat miiig and brilliant 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022701%2F0054.jp2/pct:72.666343,56.245973,12.805569,7.755268/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022701%2F0054.jp2/pct:72.666343,56.245973,12.805569,7.755268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ I HE LIFE i BEAUTIES OF FANNY FERN. In one
 Is Ruth Hall Fanny Fern, or somebody else ? And u Fan­  
 ny is not Ruth Hall, who is Fanny Fern ? The life an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855030101%2F0038.jp2/pct:29.949054,65.526316,12.449964,2.690443/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855030101%2F0038.jp2/pct:29.949054,65.526316,12.449964,2.690443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ It presents vivid, life-like pictures of the charming and
 brilliant  
 AUTHOR OF PERN LEAVES AND RUTII HALL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855030101%2F0038.jp2/pct:29.967249,69.916898,12.413574,2.344183/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855030101%2F0038.jp2/pct:29.967249,69.916898,12.413574,2.344183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ Fern Leaves and Ruth Hall. Call early at : &#x27;&#x27;
 cure a copy. GEO. K. FREM H  
 teh 21 [ Pied. Whig &amp; Rockingham Reg 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855030101%2F0062.jp2/pct:86.303775,67.194861,12.909310,6.726148/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855030101%2F0062.jp2/pct:86.303775,67.194861,12.909310,6.726148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ The Life and _——- of Fant
   
 fore the , and the wor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3$19/pct:51.610905,11.521526,19.237918,9.858121/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3$19/pct:51.610905,11.521526,19.237918,9.858121/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

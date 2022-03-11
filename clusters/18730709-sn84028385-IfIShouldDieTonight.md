@@ -74,7 +74,7 @@ Forgive, oh, hearts estranged, forgive, I plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night. ae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-outlook_1873-06-18_7_25$0/pct:64.693446,32.364766,22.436575,17.068713/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1873-06-18_7_25$0/pct:64.693446,32.364766,22.436575,17.068713/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ When dreamless rest is mine I shall not need
   
 The tenderness for which I loug to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1873-06-28_51_26$9/pct:10.055556,16.698546,22.472222,16.258607/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1873-06-28_51_26$9/pct:10.055556,16.698546,22.472222,16.258607/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ Forgive, oh, hearts estranged, forgive, I plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_living-age_1873-07-05_118_1517$1/pct:15.344168,24.878788,38.288719,31.787879/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_living-age_1873-07-05_118_1517$1/pct:15.344168,24.878788,38.288719,31.787879/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ Think gently of me ; I am travel worn;
 My faltering feet are pierced with many a thorn  
 Forgive, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1873080101%2F0340.jp2/pct:39.574385,28.548387,12.397501,7.419355/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1873080101%2F0340.jp2/pct:39.574385,28.548387,12.397501,7.419355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ Forgive, oh, hearts estranged, forgive 1 plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873092701%2F0585.jp2/pct:9.008152,25.491468,11.644022,5.836177/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873092701%2F0585.jp2/pct:9.008152,25.491468,11.644022,5.836177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ forgive, oh hearts estranged, forgive, I plead ?
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_forego_ver01%2Fdata%2Fsn84024670%2F00280762428%2F1873120801%2F0573.jp2/pct:5.346100,15.822643,12.751845,5.601134/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_forego_ver01%2Fdata%2Fsn84024670%2F00280762428%2F1873120801%2F0573.jp2/pct:5.346100,15.822643,12.751845,5.601134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ Forgive, oh hearts estranged, forgive. I plead!
 When dreamless rest i-miue 1 shall not need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn92053942%2F00295873620%2F1874012201%2F0739.jp2/pct:44.212039,11.819032,12.262494,8.534019/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn92053942%2F00295873620%2F1874012201%2F0739.jp2/pct:44.212039,11.819032,12.262494,8.534019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ Forgive. oh hearts estranged, forgive, I plead!
 When dreamless rest is mine I shall not need  
 The tenderness tor which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1874030701%2F0048.jp2/pct:14.233255,21.938104,10.472973,5.959175/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1874030701%2F0048.jp2/pct:14.233255,21.938104,10.472973,5.959175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ Forgive,oh hearts estranged ! forgive, I plead !
 When dreamless rest is mine I shall not ueed  
 The tenderness fjr which 1 long to-night 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663730%2F1874032001%2F0272.jp2/pct:66.232266,10.479630,15.485928,14.540962/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663730%2F1874032001%2F0272.jp2/pct:66.232266,10.479630,15.485928,14.540962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ Think gently of me: I am travel-worn:
 My feet are pierced withl many a thorn;  
 Forgive, 0 hearts e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1875012901%2F0241.jp2/pct:16.930380,28.846992,10.716341,9.056234/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1875012901%2F0241.jp2/pct:16.930380,28.846992,10.716341,9.056234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ x ixiii n Keuiiy oi me; x am travel-worn ;
 My feet are pierced with many a thorn ;  
 Forgive, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029014%2F1875021101%2F0379.jp2/pct:38.405797,18.493330,10.807894,7.847240/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029014%2F1875021101%2F0379.jp2/pct:38.405797,18.493330,10.807894,7.847240/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ So I might rest forgiven of all to-night.
 Oh, friends, I pray to-night.  
 Keep not your kisses from ray dead, cold brow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665817%2F1875040801%2F0031.jp2/pct:26.936672,16.819013,10.515464,6.288848/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665817%2F1875040801%2F0031.jp2/pct:26.936672,16.819013,10.515464,6.288848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ Forgive! oh, hearts estranged, forgive, I plead!
 When drtealle s rest is mine I shall not need  
 The tenderness for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_jay_ver01%2Fdata%2Fsn83025309%2F00294551864%2F1876052501%2F0241.jp2/pct:5.324497,11.949878,20.726691,17.955379/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_jay_ver01%2Fdata%2Fsn83025309%2F00294551864%2F1876052501%2F0241.jp2/pct:5.324497,11.949878,20.726691,17.955379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ Think gently of me ; I am travel-worn,
 My faltering feet are pierced with many a thorn.  
 Forgive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1876060201%2F0084.jp2/pct:6.106755,20.405616,14.037998,8.923557/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1876060201%2F0084.jp2/pct:6.106755,20.405616,14.037998,8.923557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ Whan dreamless rest is mine I shall not
 need  
 The tenderness for which I long to-nigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470120%2F1876081001%2F0545.jp2/pct:31.063830,67.290263,11.347518,9.632814/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470120%2F1876081001%2F0545.jp2/pct:31.063830,67.290263,11.347518,9.632814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ pit ad!
 When divamlot-H rout id mino I eha&#x27;l not need  
 The ton.l .lnesd for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_grandamericancoonhunt_ver01%2Fdata%2Fsn85042623%2F00295862154%2F1876091301%2F0357.jp2/pct:2.664604,29.102244,15.867286,10.266002/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_grandamericancoonhunt_ver01%2Fdata%2Fsn85042623%2F00295862154%2F1876091301%2F0357.jp2/pct:2.664604,29.102244,15.867286,10.266002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ When dreamless rest is mine I shall not need
 The tenderness for which I long to-night.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1876-09-16_43_1094$5/pct:14.630298,12.500000,17.831380,13.808140/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1876-09-16_43_1094$5/pct:14.630298,12.500000,17.831380,13.808140/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ plead !
 When dreamless rest is mine I shall not need  
 The tendernes for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F00295873826%2F1876092101%2F1299.jp2/pct:2.923977,20.792232,17.373294,9.864365/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F00295873826%2F1876092101%2F1299.jp2/pct:2.923977,20.792232,17.373294,9.864365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ Forgive, oh, hearts estranged! forgive, I plead l
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348720%2F1877051701%2F0303.jp2/pct:61.807528,17.705088,11.012962,8.998572/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348720%2F1877051701%2F0303.jp2/pct:61.807528,17.705088,11.012962,8.998572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ plead I
 When dreamless rest is mine I shall not nted  
 The tenderness for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85026955%2F00200293538%2F1877100901%2F0775.jp2/pct:15.731553,32.227159,12.231644,10.566509/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85026955%2F00200293538%2F1877100901%2F0775.jp2/pct:15.731553,32.227159,12.231644,10.566509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ Forgive ! Oh. hearts estranged, forgive, I plead !
 When dreamless rest is mine F shall * * need  
 The tenderness for which I long to night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_kump_ver01%2Fdata%2Fsn84026784%2F00414186702A%2F1877102701%2F0172.jp2/pct:55.722354,22.473605,12.549544,5.875171/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kump_ver01%2Fdata%2Fsn84026784%2F00414186702A%2F1877102701%2F0172.jp2/pct:55.722354,22.473605,12.549544,5.875171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ Forgive! oh, hearts estranged, forgive, I plead!
 When dreamless rest is mine. I shall not need  
 The tenderness for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529595%2F1879011601%2F0015.jp2/pct:4.749596,21.867627,10.957189,9.924873/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529595%2F1879011601%2F0015.jp2/pct:4.749596,21.867627,10.957189,9.924873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ Forgive! oh, hearts estranged, forgive, I plead!
 When dreamless rest Is mine I shall not need  
 The tenderness lor which I long to-tilgliL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_jaques_ver01%2Fdata%2Fsn84028490%2F00280775034%2F1879021301%2F0796.jp2/pct:78.244611,32.695933,13.176419,5.898196/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_jaques_ver01%2Fdata%2Fsn84028490%2F00280775034%2F1879021301%2F0796.jp2/pct:78.244611,32.695933,13.176419,5.898196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ forgive ! oh, hearts estranged, forgive, I plead !
 When d res ru lees rest is mine I shall not Head  
 The tenderness fur which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470132%2F1879080701%2F0319.jp2/pct:38.683128,20.635283,10.836763,9.929159/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470132%2F1879080701%2F0319.jp2/pct:38.683128,20.635283,10.836763,9.929159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ Forgive, oh, hearts otiraugad, forgive, 1 plead.
 When dreamless rest it mine 1 shall not neod  
 The tenderness for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_eritrea_ver01%2Fdata%2Fsn84026844%2F00202193456%2F1880022501%2F0197.jp2/pct:21.716075,23.417889,11.825965,5.245713/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_eritrea_ver01%2Fdata%2Fsn84026844%2F00202193456%2F1880022501%2F0197.jp2/pct:21.716075,23.417889,11.825965,5.245713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1130,7 +1130,7 @@ Forgive, oh hearts estranged, forgive I plead!
 When dreamless rest is mine I shall not need  
 . . The tenderness for which I long to-night&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881022601%2F0507.jp2/pct:9.501599,19.030080,11.607143,6.292204/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881022601%2F0507.jp2/pct:9.501599,19.030080,11.607143,6.292204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ Forgive, oh, hearts estranged, forgive, I plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348732%2F1881051201%2F0291.jp2/pct:48.332274,23.077818,11.249206,8.854833/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348732%2F1881051201%2F0291.jp2/pct:48.332274,23.077818,11.249206,8.854833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ Forgive, oh, hearts estranged, forgive I plead I
 When dreamless rest Is mine I shall not need  
 The tenderness for which I long to-night 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cousteau_ver02%2Fdata%2Fsn84028271%2F00296027339%2F1882053101%2F0221.jp2/pct:38.955270,36.971697,10.631127,10.039345/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cousteau_ver02%2Fdata%2Fsn84028271%2F00296027339%2F1882053101%2F0221.jp2/pct:38.955270,36.971697,10.631127,10.039345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1243,7 +1243,7 @@ Forgive, oh hearts estiauged, forgive, 1 plead,
 When dreamless rest is mine I shall not need.  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_ishtar_ver01%2Fdata%2Fsn86069125%2F00206534242%2F1882060301%2F0649.jp2/pct:49.211978,34.142857,20.621552,7.900000/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_ishtar_ver01%2Fdata%2Fsn86069125%2F00206534242%2F1882060301%2F0649.jp2/pct:49.211978,34.142857,20.621552,7.900000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ When dreamless rest is mine I shall not
 need .  
 The tenderness for which I long to-night. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_anoka_ver02%2Fdata%2Fsn83025287%2F00175035217%2F1882070901%2F0064.jp2/pct:43.728796,75.439761,13.134842,7.733156/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_anoka_ver02%2Fdata%2Fsn83025287%2F00175035217%2F1882070901%2F0064.jp2/pct:43.728796,75.439761,13.134842,7.733156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ Forgive, oh heart estranged, forgive, I plead!
 When dreamless rest Is mine I shall not need  
 The tenderness for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_dassel_ver01%2Fdata%2Fsn90059522%2F00175035424%2F1884072601%2F0390.jp2/pct:70.878342,13.939328,13.196945,6.128810/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_dassel_ver01%2Fdata%2Fsn90059522%2F00175035424%2F1884072601%2F0390.jp2/pct:70.878342,13.939328,13.196945,6.128810/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1333,7 +1333,7 @@ plead!
 need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_jones_ver01%2Fdata%2Fsn96061150%2F00200298391%2F1885112401%2F0498.jp2/pct:56.332011,21.793417,12.572475,9.784336/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_jones_ver01%2Fdata%2Fsn96061150%2F00200298391%2F1885112401%2F0498.jp2/pct:56.332011,21.793417,12.572475,9.784336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ Forgive, oh hearts estranged ; forgive, I plead !
 When dreamless rest is mine, I shall not need |  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-11-28_59_17$4/pct:33.734940,18.150685,28.584337,20.936073/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-11-28_59_17$4/pct:33.734940,18.150685,28.584337,20.936073/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1404,7 +1404,7 @@ Forgive, oh, hearts estranged, forgive, I plead;
 When dreamless rest Is mine, 1 shall not need  
 The tenderuess for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_mastiff_ver01%2Fdata%2Fsn83045462%2F00280654449%2F1886010201%2F0715.jp2/pct:26.410256,69.680851,11.495726,7.812040/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_mastiff_ver01%2Fdata%2Fsn83045462%2F00280654449%2F1886010201%2F0715.jp2/pct:26.410256,69.680851,11.495726,7.812040/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1448,7 +1448,7 @@ need
 The tenderness for which I long to­  
 night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_duval_ver01%2Fdata%2Fsn84038206%2F00393349220%2F1887031201%2F0500.jp2/pct:22.063988,51.592532,14.616660,13.224190/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_duval_ver01%2Fdata%2Fsn84038206%2F00393349220%2F1887031201%2F0500.jp2/pct:22.063988,51.592532,14.616660,13.224190/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1495,7 +1495,7 @@ Forgive, oh, hearts estranged, forgive I plead !
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767833%2F1887032501%2F0461.jp2/pct:44.469717,17.527478,15.350995,12.194015/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767833%2F1887032501%2F0461.jp2/pct:44.469717,17.527478,15.350995,12.194015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1524,7 @@ plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/gu_bobbsey_ver02%2Fdata%2Fsn82015137%2F00414181946%2F1887032901%2F0962.jp2/pct:57.971757,64.645753,12.485436,6.894607/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_bobbsey_ver02%2Fdata%2Fsn82015137%2F00414181946%2F1887032901%2F0962.jp2/pct:57.971757,64.645753,12.485436,6.894607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ Forgive, oh, hearts estranged, forgive, I plead ;
 Wheu dreamless rest is mine, 1 shall not uecd  
 The tenderness for which 1 long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_grandamericancoonhunt_ver01%2Fdata%2Fsn84026918%2F00295862087%2F1887051302%2F0857.jp2/pct:4.016643,31.037149,15.533152,8.353628/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_grandamericancoonhunt_ver01%2Fdata%2Fsn84026918%2F00295862087%2F1887051302%2F0857.jp2/pct:4.016643,31.037149,15.533152,8.353628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1588,7 +1588,7 @@ Think gently of me; I am travel-worn,
 My faltering feet are pierced with many a thorn:  
 Forg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-05-19_35_20$11/pct:69.123820,32.496439,24.213012,16.898148/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-05-19_35_20$11/pct:69.123820,32.496439,24.213012,16.898148/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ When dreamless rest is mine i shall not need
   
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_smalleys-magazine_1887-07_5_7$22/pct:63.593993,77.529183,23.226308,15.116732/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_smalleys-magazine_1887-07_5_7$22/pct:63.593993,77.529183,23.226308,15.116732/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1753,7 +1753,7 @@ Forgive, Oh hearts estranged, forgive, I plead!
 When dreamless rest is mine, I shall not need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1888121301%2F0267.jp2/pct:41.128246,52.942641,8.571045,2.755873/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1888121301%2F0267.jp2/pct:41.128246,52.942641,8.571045,2.755873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1787,7 +1787,7 @@ Think gently of mc; I am travel worn;
 Sly faltering feet are pierced with many a than.  
 Forgive. O 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_abbott_ver01%2Fdata%2Fsn95073194%2F00206539264%2F1889010201%2F0076.jp2/pct:6.606808,9.127895,10.694184,8.794075/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_abbott_ver01%2Fdata%2Fsn95073194%2F00206539264%2F1889010201%2F0076.jp2/pct:6.606808,9.127895,10.694184,8.794075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1835,7 +1835,7 @@ My faltering feet are pierced with many a
 thorn. . _ , ~  
 Forgi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1889022101%2F0348.jp2/pct:33.090790,20.034052,8.348083,7.175288/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1889022101%2F0348.jp2/pct:33.090790,20.034052,8.348083,7.175288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1882,7 +1882,7 @@ My faltering feet are pierced with many a thorn.
   
 Forg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_brutus_ver02%2Fdata%2Fsn85047084%2F00202195623%2F1889102601%2F0398.jp2/pct:81.793806,22.602804,13.379810,9.805213/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_brutus_ver02%2Fdata%2Fsn85047084%2F00202195623%2F1889102601%2F0398.jp2/pct:81.793806,22.602804,13.379810,9.805213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1908,7 +1908,7 @@ Forgive, oh! hearts estranged ; forgive, I plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F0020219641A%2F1890092901%2F0151.jp2/pct:4.767580,27.523468,10.727056,5.613084/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F0020219641A%2F1890092901%2F0151.jp2/pct:4.767580,27.523468,10.727056,5.613084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ Forgive, oh, hearts estranged forgive, I plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_the-musical-visitor-a-magazine-of-musical-literature_1891-01_20_1$0/pct:14.972067,33.153078,26.173184,21.027454/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-musical-visitor-a-magazine-of-musical-literature_1891-01_20_1$0/pct:14.972067,33.153078,26.173184,21.027454/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1985,7 +1985,7 @@ When dreamless rest is mine, I shall not need
 The tenderness for which I long to-night.  
 B. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762258%2F1892020301%2F0030.jp2/pct:27.254631,18.187822,10.805980,11.913448/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762258%2F1892020301%2F0030.jp2/pct:27.254631,18.187822,10.805980,11.913448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2013,7 +2013,7 @@ Forgive, oh, hearts estranged, forgive, I plead !
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_excalibur_ver01%2Fdata%2Fsn85052020%2F00206533857%2F1892052401%2F1176.jp2/pct:22.306525,16.697712,14.301973,7.221261/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_excalibur_ver01%2Fdata%2Fsn85052020%2F00206533857%2F1892052401%2F1176.jp2/pct:22.306525,16.697712,14.301973,7.221261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2130,7 +2130,7 @@ Forgive, Oh, hearts estranged, forgive, I plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/okhi_beaver_ver01%2Fdata%2F45043535%2F00237280350%2F1893070101%2F0072.jp2/pct:13.391137,40.554885,36.673089,19.445115/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_beaver_ver01%2Fdata%2F45043535%2F00237280350%2F1893070101%2F0072.jp2/pct:13.391137,40.554885,36.673089,19.445115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2179,7 +2179,7 @@ need
 The tenuerr esses for which I lorg to­  
 night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_earnhardt_ver01%2Fdata%2Fsn84042105%2F0033289173A%2F1893112601%2F0227.jp2/pct:16.157185,17.169050,11.147278,19.039237/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_earnhardt_ver01%2Fdata%2Fsn84042105%2F0033289173A%2F1893112601%2F0227.jp2/pct:16.157185,17.169050,11.147278,19.039237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2221,7 +2221,7 @@ Forgive, oh, hearts estranged, forgive, 1 plead!
 When dreamless rest is n.ine 1 shall not need  
 The tenderness for which I long tonight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F0041562895A%2F1894112401%2F1124.jp2/pct:57.049715,56.632508,12.204564,6.646741/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F0041562895A%2F1894112401%2F1124.jp2/pct:57.049715,56.632508,12.204564,6.646741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2265,7 +2265,7 @@ Oh, friends, I pray to-night,
 Keep not your kisses for my doad, cold  
 brow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_edwards_ver01%2Fdata%2Fsn86063624%2F0021110935A%2F1895122201%2F1130.jp2/pct:44.780167,51.476348,12.202208,9.505875/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_edwards_ver01%2Fdata%2Fsn86063624%2F0021110935A%2F1895122201%2F1130.jp2/pct:44.780167,51.476348,12.202208,9.505875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2312,7 +2312,7 @@ When dreamless rest Is made I shall
 not need  
 The tenderness for which I long tonigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/uuml_collins_ver01%2Fdata%2Fsn85058130%2F2065344540%2F1896010501%2F0050.jp2/pct:44.155437,40.750000,12.644939,13.022727/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/uuml_collins_ver01%2Fdata%2Fsn85058130%2F2065344540%2F1896010501%2F0050.jp2/pct:44.155437,40.750000,12.644939,13.022727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2348,7 +2348,7 @@ When dreamless rest is mine I shall not need
 The tenderness for which I long to-night.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_midland-monthly-magazine_1897-03_7_3$63/pct:54.646018,46.201413,32.920354,16.224971/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_midland-monthly-magazine_1897-03_7_3$63/pct:54.646018,46.201413,32.920354,16.224971/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2380,7 +2380,7 @@ When dreamless rest Is mine- I shall not
 need&#x27;  
 The tenderness for which I Ions tonight.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_atherton_ver01%2Fdata%2Fsn84026355%2F00211100229%2F1897052201%2F0487.jp2/pct:30.258698,86.345709,11.668153,8.431933/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_atherton_ver01%2Fdata%2Fsn84026355%2F00211100229%2F1897052201%2F0487.jp2/pct:30.258698,86.345709,11.668153,8.431933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2421,7 +2421,7 @@ My faltering feet are pierced with many
 a thorn.  
 Forgive, O 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_gmc_ver02%2Fdata%2Fsn86064199%2F00212477503%2F1899093001%2F0656.jp2/pct:4.747292,21.657643,14.187726,14.174649/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_gmc_ver02%2Fdata%2Fsn86064199%2F00212477503%2F1899093001%2F0656.jp2/pct:4.747292,21.657643,14.187726,14.174649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

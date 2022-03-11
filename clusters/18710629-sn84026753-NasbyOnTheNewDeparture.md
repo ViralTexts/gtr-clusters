@@ -100,7 +100,7 @@ Corners, and uv puttixr myeoif hi liis place,
 and Kernel McPcltct and Elder Teunihaoker  
 who Lev bin lacg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1871060601%2F0003.jp2/pct:22.931908,34.178916,8.975802,7.041252/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1871060601%2F0003.jp2/pct:22.931908,34.178916,8.975802,7.041252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ to to long ei be livee.
 Prreoi.Em V.Nxssr.  
 (wtcb wax Postmaster*}
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1871060601%2F0003.jp2/pct:22.931908,0.782361,38.172951,96.996997/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1871060601%2F0003.jp2/pct:22.931908,0.782361,38.172951,96.996997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ PETROLEUM V. NASBY,
   
 (wich wuz Postmaster.)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775125%2F1871060801%2F0197.jp2/pct:39.614531,4.535340,18.330560,90.367702/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775125%2F1871060801%2F0197.jp2/pct:39.614531,4.535340,18.330560,90.367702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ a executm war dances uv the must frantic
 desermshen onto prostrate bodies. It wuz  
 witli difficulty that Pollock and Buffer r 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871061101%2F0287.jp2/pct:71.194904,10.316487,13.584711,71.749264/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871061101%2F0287.jp2/pct:71.194904,10.316487,13.584711,71.749264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ ez Iwaut to so long ez he lives.
 PETROLEUM Y. NASBT.  
 (Wieh wuz Postmaster.)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871061101%2F0287.jp2/pct:70.971074,6.145731,27.186639,92.149166/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871061101%2F0287.jp2/pct:70.971074,6.145731,27.186639,92.149166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ things ez I want to so long ez he lives.
 Ff.trolefm V. Nasbt,  
 (wich wuz Postmaster)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_dyerbrook_ver01%2Fdata%2Fsn82014248%2F00332895175%2F1871061401%2F0612.jp2/pct:68.571954,17.685527,26.286528,79.062411/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_dyerbrook_ver01%2Fdata%2Fsn82014248%2F00332895175%2F1871061401%2F0612.jp2/pct:68.571954,17.685527,26.286528,79.062411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1281,7 +1281,7 @@ ez I want to, so long ez he lives.
 Petrolic V. Nasbt,  
 (Wich wuz Postmaster,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F0029455564A%2F1871061501%2F0249.jp2/pct:29.004966,20.147284,23.836675,73.433375/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F0029455564A%2F1871061501%2F0249.jp2/pct:29.004966,20.147284,23.836675,73.433375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1419,7 +1419,7 @@ North to hold you, dat wuz all.&quot;
 And the nigger laffed a fiendish  
 laff.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn84027352%2F00279528748%2F1871062201%2F0855.jp2/pct:43.590228,16.274279,10.459840,54.437905/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn84027352%2F00279528748%2F1871062201%2F0855.jp2/pct:43.590228,16.274279,10.459840,54.437905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ public eudorseuiDut of Vallaudyc.uiu&#x27;a
 IlliH&#x27;JIe  
 tz the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0954.jp2/pct:82.582369,53.085376,12.573464,34.643562/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0954.jp2/pct:82.582369,53.085376,12.573464,34.643562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,7 +1652,7 @@ an that no wanted to. Uv course this
 (icJNortncru papers, and uv courso Val­  
 laudyguni&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0957.jp2/pct:5.770258,5.694697,12.520036,63.313278/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0957.jp2/pct:5.770258,5.694697,12.520036,63.313278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1722,7 +1722,7 @@ responded Bigler.
   
 said Dcekin Pugra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1871062801%2F0229.jp2/pct:25.886574,12.056197,11.342625,13.972991/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1871062801%2F0229.jp2/pct:25.886574,12.056197,11.342625,13.972991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ pshun onto their prostrate bodies, ft
 with difficulty tfiat Pollock and Bigler  
 rained em 1 1 urn takin DV em out and u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1871062801%2F0229.jp2/pct:26.797295,27.771727,10.224921,4.073187/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1871062801%2F0229.jp2/pct:26.797295,27.771727,10.224921,4.073187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1769,7 +1769,7 @@ nr imery county, Ohio, wuz to me a n n
 lite. Troo, tie -. 1 1 : the dite diaadrantage  
 ut abjoorin evrytbing that is Dimo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1871062801%2F0229.jp2/pct:13.840210,41.995208,11.328826,4.617730/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1871062801%2F0229.jp2/pct:13.840210,41.995208,11.328826,4.617730/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2014,7 +2014,7 @@ Vallandygum&#x27;s asaershun will cxplodt
 itself without hnrtiu anybody. Joe Bigler  
 is my evil genius. 1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190868%2F1871062801%2F0610.jp2/pct:1.200582,3.128883,25.145525,95.193503/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190868%2F1871062801%2F0610.jp2/pct:1.200582,3.128883,25.145525,95.193503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2247,7 +2247,7 @@ lives. Prtbolkim V. N a?by, ! i
 [wich wuz Postmaster.)  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:31.412675,0.097407,27.982927,96.289930/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:31.412675,0.097407,27.982927,96.289930/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2454,7 +2454,7 @@ two run things ez I want to so long as be lives.
 Peteolecm V. Napbt.  
 (wich was Postmatter 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F00280777031%2F1871063001%2F0108.jp2/pct:4.325383,11.376241,10.323959,67.922095/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F00280777031%2F1871063001%2F0108.jp2/pct:4.325383,11.376241,10.323959,67.922095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2529,7 +2529,7 @@ aever.tiolkafinematsaoiQeawria ur .ow -j
 tbeomiDonst eeeeassries at. if- Baversij i .  
 rhv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775186%2F1871070101%2F0542.jp2/pct:81.875450,62.851033,14.056875,33.114754/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775186%2F1871070101%2F0542.jp2/pct:81.875450,62.851033,14.056875,33.114754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2625,7 +2625,7 @@ i their zeal sprang off the platlorm alter
 n, auu WUZ a cxccuuil wui uiiueen uv  
 .he most frantic deHcripshcn onto cm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775186%2F1871070101%2F0543.jp2/pct:5.011511,19.755147,12.944927,44.922092/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775186%2F1871070101%2F0543.jp2/pct:5.011511,19.755147,12.944927,44.922092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2686,7 +2686,7 @@ I shood suggest. It wuz a very satisfac
 tory consultashen. There was some ob  
 jickshuns on the part uv a few to wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1871070701%2F1191.jp2/pct:67.994532,34.984566,12.556141,30.956931/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1871070701%2F1191.jp2/pct:67.994532,34.984566,12.556141,30.956931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2882,7 +2882,7 @@ itself without hurtin anybody. Joe Big.
 ler is an avil genius. I shel never be  
 able two run
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1871070701%2F1191.jp2/pct:67.877368,5.071292,26.127709,90.577686/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1871070701%2F1191.jp2/pct:67.877368,5.071292,26.127709,90.577686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3123,7 +3123,7 @@ wnz genboine dat&#x27;s about all Hah wuz
 ob it. He &#x27;snrest a desire to ascertain  
 ji&quot;t how preeaWe yood be to 3e higg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776348%2F1871071901%2F0117.jp2/pct:67.803721,13.927540,24.443634,81.202415/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776348%2F1871071901%2F0117.jp2/pct:67.803721,13.927540,24.443634,81.202415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3252,7 +3252,7 @@ by their works. “ There are,” I said, in a
 spasm of delight, “ present at this meetin  
 twenty-two uv our fellow-citizens of Afri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624530%2F1871080501%2F0216.jp2/pct:72.758030,39.685907,11.006424,56.799544/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624530%2F1871080501%2F0216.jp2/pct:72.758030,39.685907,11.006424,56.799544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3373,7 +3373,7 @@ ez I want to so long ez he lives.
 Petroleum V. Nasby,  
 (which wuz Postmaster.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624530%2F1871080501%2F0216.jp2/pct:84.128480,11.651838,10.946467,54.269702/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624530%2F1871080501%2F0216.jp2/pct:84.128480,11.651838,10.946467,54.269702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3394,7 +3394,7 @@ Confederit X Roads hev heerd with \
 mingled emoshuns uv pleasure and  
 gratilood uv the nominashen uv tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588290%2F1884080201%2F0657.jp2/pct:63.658578,21.968261,13.962607,4.701563/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588290%2F1884080201%2F0657.jp2/pct:63.658578,21.968261,13.962607,4.701563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

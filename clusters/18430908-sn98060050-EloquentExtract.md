@@ -71,7 +71,7 @@ come—to use the touching language
 of the Psatmist— “forgotten and  
 clean out of mind.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_university-magazine_1842-05_19_113$73/pct:16.649950,9.589867,69.157472,77.503016/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_university-magazine_1842-05_19_113$73/pct:16.649950,9.589867,69.157472,77.503016/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ and will not remember to lisp our name; and then
 we have become—to use the touching language* of  
 the Psalmist—“ forgotten and clean out of mind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1842-06-16_13_24$3/pct:29.382127,13.741020,12.529833,7.367839/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1842-06-16_13_24$3/pct:29.382127,13.741020,12.529833,7.367839/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ dried, and will glisten again with joy ; and even our children will cease to thi
 remember to lisp our name.’ Then shall we have become, in the touching language of the Psalmist,  
 ‘
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1842-07_20_1$105/pct:19.736842,15.471780,73.926593,68.838527/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1842-07_20_1$105/pct:19.736842,15.471780,73.926593,68.838527/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ ing language of the Psalmist,
   
 and clean out of mind!&#x27;Knickerbock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn85050801%2F00279528499%2F1842111801%2F0218.jp2/pct:36.366009,35.662784,15.272993,20.440007/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn85050801%2F00279528499%2F1842111801%2F0218.jp2/pct:36.366009,35.662784,15.272993,20.440007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ Then shall we have become in the touching
 language of the lValmist,&#x27; forgotten and  
 clean out of minde.&#x27;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065696%2F00295877583%2F1843020301%2F0296.jp2/pct:35.312152,32.694968,14.464883,16.757102/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065696%2F00295877583%2F1843020301%2F0296.jp2/pct:35.312152,32.694968,14.464883,16.757102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ re,ue-iiber to lisp our name. Then shall we
 have become, in the touching language of the  
 Psrdmist, &#x27; forgotten and clean out of rnind!&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn82003383%2F00295874442%2F1843021801%2F0455.jp2/pct:80.562827,51.307996,12.352749,14.215202/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn82003383%2F00295874442%2F1843021801%2F0455.jp2/pct:80.562827,51.307996,12.352749,14.215202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ shall we have become, in the touching
 language of the Psalmist, “forgotten and  
 clean out of mind.” —Knickerbucker
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7$2/pct:31.026558,22.200072,27.119510,37.640449/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7$2/pct:31.026558,22.200072,27.119510,37.640449/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ the rocks were rent,&#x27;when the Man of sorrows will not remember to lisp our 
 yielded up the ghost I For us. His creatures, it is we have become—to use the touching language of  
 only in our individual eyes that the change is the Psalmist forgotten and cleanout of mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24$2/pct:43.593544,16.209928,31.653491,4.343330/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24$2/pct:43.593544,16.209928,31.653491,4.343330/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ rors as unceasingly as ever; the world will have cats, birds and beasts, quarrel
 the same attraction for an offspring, yet unborn, things, and on all manner of occasions. If there is  
 that she bad once for ourselves, and that she has anything in the world that will make a man fee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24$2/pct:43.478261,80.455016,31.604084,6.023785/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24$2/pct:43.478261,80.455016,31.604084,6.023785/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ Then shall we bedorae, in the language of
 the Psalmist, forgotten and clean out ol  
 mind I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025180%2F00237287939%2F1843061701%2F0120.jp2/pct:23.872611,71.283164,18.573248,21.675288/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025180%2F00237287939%2F1843061701%2F0120.jp2/pct:23.872611,71.283164,18.573248,21.675288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ we shall be left. In a fevv days, the sound
 of mirth and gladness will resound in the  
 very chamber where we died; and soon w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn87090028%2F00295877959%2F1843063001%2F0224.jp2/pct:47.558538,61.099150,15.005711,12.668555/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn87090028%2F00295877959%2F1843063001%2F0224.jp2/pct:47.558538,61.099150,15.005711,12.668555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ we have become in the touching language of
 the Psalmist, &quot;forgotten and clean out of  
 mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F0028077733A%2F1843090801%2F0147.jp2/pct:79.471545,44.230769,14.878049,22.235577/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F0028077733A%2F1843090801%2F0147.jp2/pct:79.471545,44.230769,14.878049,22.235577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ aud the worm. And :t may be (or tome
 short lime thai we stall be spoken of,- but  
 ihe (hing .of file will creep in, aud ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn83016785%2F00295877947%2F1843122701%2F0037.jp2/pct:62.401656,76.768642,14.879227,17.973231/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn83016785%2F00295877947%2F1843122701%2F0037.jp2/pct:62.401656,76.768642,14.879227,17.973231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ become in the touching language of the
 Psalmist, &quot;forgotten and clean gone  
 out of mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn87090149%2F00199917341%2F1844011801%2F0605.jp2/pct:16.259640,10.723801,31.298201,85.579485/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn87090149%2F00199917341%2F1844011801%2F0605.jp2/pct:16.259640,10.723801,31.298201,85.579485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ Then shall we have become in-the touch­
 ing language of the Psalmist, &quot;forgottei  
 and clean out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn83016954%2F0019991733A%2F1844012001%2F0208.jp2/pct:83.636654,47.274109,14.910600,20.427889/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn83016954%2F0019991733A%2F1844012001%2F0208.jp2/pct:83.636654,47.274109,14.910600,20.427889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ will not remember to lisp our names. Then we
 shall have become,in the touching language of the  
 Psalmist, “ forgotten and clean out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182951%2F1844031401%2F0815.jp2/pct:39.292774,52.784156,17.488469,16.521958/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182951%2F1844031401%2F0815.jp2/pct:39.292774,52.784156,17.488469,16.521958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ will continue to move on, and lauzhter and
 song will be heard in the place in which we di­  
 ed, and the eye t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn84020048%2F0029587823A%2F1846012401%2F0304.jp2/pct:54.067481,19.681964,34.009522,75.645139/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn84020048%2F0029587823A%2F1846012401%2F0304.jp2/pct:54.067481,19.681964,34.009522,75.645139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ the House from Va., now a U. S.S. Heis|and our friends will all return and we
 shall be left behind to darkness and the  
 good natuied face would disarm a Nero.| worm. And it may be for some shor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_huntress_1846-01-24_9_50$1/pct:54.960067,79.698408,41.614124,4.775202/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_huntress_1846-01-24_9_50$1/pct:54.960067,79.698408,41.614124,4.775202/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ shall soon bo forgotten. The days will continue
 lo move on, and laughter and song will bo heard  
 in tho place in which wt died, and tho e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn84028793%2F00296026669%2F1846031101%2F0434.jp2/pct:19.071049,73.734940,14.898642,12.629341/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn84028793%2F00296026669%2F1846031101%2F0434.jp2/pct:19.071049,73.734940,14.898642,12.629341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ names. Then shall we have become, in
 the touching language of the l’salmist.}  
 Cforgotten and clean out of mind.””&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021168%2F00514152779%2F1846040901%2F0024.jp2/pct:20.440795,41.658267,12.590032,18.747900/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021168%2F00514152779%2F1846040901%2F0024.jp2/pct:20.440795,41.658267,12.590032,18.747900/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ will continue to mo?e on, and laughter and song
 will be heard in the place in which we died; and  
 the eye that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_bees_ver01%2Fdata%2Fsn85025007%2F00414215774%2F1846040901%2F0630.jp2/pct:7.321926,46.138867,15.224168,10.215776/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_bees_ver01%2Fdata%2Fsn85025007%2F00414215774%2F1846040901%2F0630.jp2/pct:7.321926,46.138867,15.224168,10.215776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,7 +923,7 @@ be as bright over our graves as they are now
   
 around our paths. -The world Will have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn84020019%2F00295877571%2F1846041001%2F0210.jp2/pct:37.764823,32.747158,13.976966,6.197727/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn84020019%2F00295877571%2F1846041001%2F0210.jp2/pct:37.764823,32.747158,13.976966,6.197727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ will be heard in the place in which we died;
   
 and the ey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn84020019%2F00295877571%2F1846041001%2F0210.jp2/pct:37.835916,40.767746,14.062278,8.985632/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn84020019%2F00295877571%2F1846041001%2F0210.jp2/pct:37.835916,40.767746,14.062278,8.985632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ while nature wore the same aspect of beauty as when
 her Creator commanded her to be. The heavens shall  
 I be as bright over our graves as they are now around
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1846-04-23_17_17$3/pct:18.291090,65.448822,12.437941,2.489745/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1846-04-23_17_17$3/pct:18.291090,65.448822,12.437941,2.489745/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ will continue to m ive on, and laughter and
 song will lie heard iu the placefin which we  
 died, nnd the eyes that mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn82003383%2F00295875045%2F1846042501%2F0487.jp2/pct:81.226296,28.847032,12.420986,12.397260/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn82003383%2F00295875045%2F1846042501%2F0487.jp2/pct:81.226296,28.847032,12.420986,12.397260/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ iil soon be forgotten. Days will continue
 t move on,and laughter and *&lt;mg will l»e  
 i*ar I hi the place in which we died; and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_dawson_ver01%2Fdata%2Fsn84038585%2F00414186464%2F1846051101%2F0374.jp2/pct:45.865855,37.760870,12.492834,10.688406/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_dawson_ver01%2Fdata%2Fsn84038585%2F00414186464%2F1846051101%2F0374.jp2/pct:45.865855,37.760870,12.492834,10.688406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ funeral will wind on its way, and our friends | tism, Hemorrhoids, Piles, Worms,
 will Yetarn; and we shall be left to darkness, | 8%! Kidneys, and-miany others too numerovs  
 And it may be for a short time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-05-15_9_10$3/pct:64.876576,74.682368,25.892857,11.362463/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-05-15_9_10$3/pct:64.876576,74.682368,25.892857,11.362463/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ Our funeral will wind on its way, and the prayers will
 be said, and our friends will all return, and we shall be left to  
 darkness, And it may be for a short time that we shail be sp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6$1/pct:67.764523,71.063588,27.878631,11.809235/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6$1/pct:67.764523,71.063588,27.878631,11.809235/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ Days will continue to move on, and laughter and
 song will l&gt;o heard in the place in which we died ;  
 and the eye that mourned fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024719%2F00414183712%2F1846061801%2F0080.jp2/pct:21.643434,66.877756,14.825141,13.619058/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024719%2F00414183712%2F1846061801%2F0080.jp2/pct:21.643434,66.877756,14.825141,13.619058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ _  taaaton; ae Rear branch Mil preemie A. Easier a member of A. B. M. U. . Rel? 
 ee eee. Sylvia Katty, per Rev. aly concert, per Rev.Mr. Howard, ==! Sn egigg] «&gt;it wa duke nol note, &quot;30 48| friends will return, and we shall be Jeft to darkness. And it) Conspicuous and foremost among the pv adndy wre Mente Bow Ail 4  
 ~~ er by Gowriemen. oie Tolland he » Bt Coe ee “ aa] rite vst 10 00 «“ Balance to new aect..19 23) may be for a short time that we shall be spoken of, but the lights of our moral firmament is the Tem- are the cause of it. You alow 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-07-17_9_19$0/pct:0.000000,87.668067,98.490021,3.592437/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-07-17_9_19$0/pct:0.000000,87.668067,98.490021,3.592437/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ same aspect of beauty as when the Creator
 commanded her to be. The heavens shall be  
 as bright over our graves as they now ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12$25/pct:20.226537,75.712106,32.969256,8.697864/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12$25/pct:20.226537,75.712106,32.969256,8.697864/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ continue to move on, and laughter and song
 will be heard in the place in which we died ;  
 and the eye that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12$25/pct:17.920712,71.948118,71.116505,16.480163/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12$25/pct:17.920712,71.948118,71.116505,16.480163/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1271,7 +1271,7 @@ on, and laughter and song will be heard
 in the place in which we died and the  
 eye that mourned for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82014327%2F00415668855%2F1846122401%2F0576.jp2/pct:55.555556,60.548749,13.406211,13.916974/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82014327%2F00415668855%2F1846122401%2F0576.jp2/pct:55.555556,60.548749,13.406211,13.916974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1317,7 +1317,7 @@ shall we havo become, in tho touching
 language of the, Psalmist. &#x27; forgotten and  
 clean out of mind Knickerbocker
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn82003383%2F00295874417%2F1847012301%2F0021.jp2/pct:82.011070,15.732950,12.269373,16.917626/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn82003383%2F00295874417%2F1847012301%2F0021.jp2/pct:82.011070,15.732950,12.269373,16.917626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ move on, and laughter and song will be in the
 place in which we have died: and the eve that  
 moaned fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_harrison_ver01%2Fdata%2Fsn82015672%2F00296021805%2F1848122001%2F0605.jp2/pct:60.252625,36.216751,16.961942,12.607166/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_harrison_ver01%2Fdata%2Fsn82015672%2F00296021805%2F1848122001%2F0605.jp2/pct:60.252625,36.216751,16.961942,12.607166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1409,7 +1409,7 @@ shall we have become, in the touching
 tonguago or the J&#x27;salmist, &quot;forgotten  
 no ciean gone out or mind,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292455%2F1849090601%2F0203.jp2/pct:4.692932,36.121193,13.093859,24.585766/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292455%2F1849090601%2F0203.jp2/pct:4.692932,36.121193,13.093859,24.585766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ name. Then ehall we have become, in the
 touching language of the Pealmieh, forgotten  
 and clean gone out of mind.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016872%2F00295878502%2F1849090801%2F0721.jp2/pct:79.453032,51.208321,15.695600,10.171306/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016872%2F00295878502%2F1849090801%2F0721.jp2/pct:79.453032,51.208321,15.695600,10.171306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ on. and laughter and song will be
 heard in the place in which we aiea;  
 and the eye tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775502%2F1850092601%2F0062.jp2/pct:19.406957,15.585926,12.469112,17.417854/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775502%2F1850092601%2F0062.jp2/pct:19.406957,15.585926,12.469112,17.417854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1511,7 +1511,7 @@ throbbing heart, will be alii led, and wa
 shall be at rest. UurTunerai will wind  
 on m way, and the prayers will be aaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84028880%2F00296027558%2F1854101701%2F0329.jp2/pct:81.347150,50.624386,12.879349,9.260558/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84028880%2F00296027558%2F1854101701%2F0329.jp2/pct:81.347150,50.624386,12.879349,9.260558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ j songs will be heard in the place in which we
 ! died, and the eyes that mourned for us will be  
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026192%2F00280775770%2F1856030801%2F0867.jp2/pct:61.342043,8.204614,27.464371,21.203611/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026192%2F00280775770%2F1856030801%2F0867.jp2/pct:61.342043,8.204614,27.464371,21.203611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ laugu gs of the Psalmist &quot; forgotten aud I
 clean out of mind.&#x27;&#x27;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1856122501%2F0490.jp2/pct:80.588141,19.346942,19.352938,20.454734/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1856122501%2F0490.jp2/pct:80.588141,19.346942,19.352938,20.454734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ names. Then shall we have become, in
 the touching language of the Psalmist,  
 &quot; forgotten and clean gone out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194928%2F1858043001%2F0493.jp2/pct:46.608232,19.283414,13.128811,21.980676/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194928%2F1858043001%2F0493.jp2/pct:46.608232,19.283414,13.128811,21.980676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1682,7 +1682,7 @@ lisp our names. Then shall we have become,
 in the teaching language of the PsaUuat,  
 yforgotton and clean gone out of mind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027352%2F00279528578%2F1858061701%2F0104.jp2/pct:55.742297,80.153198,12.967256,16.869963/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027352%2F00279528578%2F1858061701%2F0104.jp2/pct:55.742297,80.153198,12.967256,16.869963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ lisp our names. Then shall we have become,
 in the touching language ol the Psalmist, &quot;for­  
 gotten and out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1858071601%2F0671.jp2/pct:50.208962,60.309669,14.600857,16.066084/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1858071601%2F0671.jp2/pct:50.208962,60.309669,14.600857,16.066084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1757,7 +1757,7 @@ we have become, in the touching language
 of the Psalmist. *forgotten and out of  
 mind/ &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767754%2F1858072401%2F0487.jp2/pct:17.246790,43.921344,16.424156,14.050637/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767754%2F1858072401%2F0487.jp2/pct:17.246790,43.921344,16.424156,14.050637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1798,7 +1798,7 @@ Then shall wc have become, in the touching
 language of the psalmist, ‘forgotten and gone  
 out of mind.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1858081801%2F0437.jp2/pct:49.490874,67.359322,14.726225,13.627119/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1858081801%2F0437.jp2/pct:49.490874,67.359322,14.726225,13.627119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1830,7 +1830,7 @@ will creep in and our names will be for­
 gotten.jDays will move on,aud laughter and  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F00200294531%2F1858081901%2F0365.jp2/pct:57.060890,67.985545,12.259953,10.498517/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F00200294531%2F1858081901%2F0365.jp2/pct:57.060890,67.985545,12.259953,10.498517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1872,7 +1872,7 @@ member to lisp our names. Then we shall
 become, in the touching language of the  
 Psalmist, ‘forgotten and out of mind.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624293%2F1858081901%2F0284.jp2/pct:78.422020,64.499495,15.069310,17.084956/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624293%2F1858081901%2F0284.jp2/pct:78.422020,64.499495,15.069310,17.084956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1911,7 +1911,7 @@ Thon shall we have become, in the touch,
 ing language of the Psalmist, &quot;forgotten  
 and clean gone out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_k_ver01%2Fdata%2Fsn82006863%2F00212472839%2F1858090401%2F0002.jp2/pct:47.742936,53.437129,10.923501,12.257554/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_k_ver01%2Fdata%2Fsn82006863%2F00212472839%2F1858090401%2F0002.jp2/pct:47.742936,53.437129,10.923501,12.257554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1952,7 +1952,7 @@ have become in the touching language of the
 Psalmist, “ forgotten and clean gone out of  
 mind.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn90059500%2F0038334718A%2F1858091801%2F0392.jp2/pct:17.267997,63.082547,10.738656,11.879869/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn90059500%2F0038334718A%2F1858091801%2F0392.jp2/pct:17.267997,63.082547,10.738656,11.879869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1991,7 +1991,7 @@ fhe reader will readily divine what
 followed. Sally was heiress to the, ... .... ..  
 ..., e i and the prayers will be said, ami ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014141%2F00279529455%2F1858093001%2F0415.jp2/pct:65.099976,59.948869,30.454011,7.445428/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014141%2F00279529455%2F1858093001%2F0415.jp2/pct:65.099976,59.948869,30.454011,7.445428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2024,7 +2024,7 @@ with Thomas Jefferson, at his resi-1 we shall become, in the Umclmig lan-,
   
 dencc in &quot;Virginia. It was in the ffuagc of the Psalmist, forgotten and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014141%2F00279529455%2F1858093001%2F0415.jp2/pct:65.151729,67.354966,30.675135,7.445428/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014141%2F00279529455%2F1858093001%2F0415.jp2/pct:65.151729,67.354966,30.675135,7.445428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2047,7 +2047,7 @@ life will creep in, and our names will soon be for­
 gotten. Days will continue to move on, an  
 laughter and song will be heard in; the otH in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_price_ver01%2Fdata%2Fsn84026547%2F00296022962%2F1858102801%2F0005.jp2/pct:60.973908,67.444384,16.492256,5.339121/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_price_ver01%2Fdata%2Fsn84026547%2F00296022962%2F1858102801%2F0005.jp2/pct:60.973908,67.444384,16.492256,5.339121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2081,7 +2081,7 @@ will continue to move inland laughter and
   
 song will be beard in tbvro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1858111701%2F0685.jp2/pct:42.762487,69.129594,12.308869,6.295938/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1858111701%2F0685.jp2/pct:42.762487,69.129594,12.308869,6.295938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2108,7 +2108,7 @@ continue to move on, and laughter and
 songs will be heard in the room in which  
 we died ; and the that mourned 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026884%2F00279557505%2F1858121001%2F0077.jp2/pct:70.605593,77.380452,12.652079,10.152854/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026884%2F00279557505%2F1858121001%2F0077.jp2/pct:70.605593,77.380452,12.652079,10.152854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2141,7 +2141,7 @@ and our names will soon be forgotton. Days
 will continue to move on, and laughter and­  
 song will be heard in the room
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00415667309%2F1858121801%2F0147.jp2/pct:79.178804,55.609362,14.551255,10.815174/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00415667309%2F1858121801%2F0147.jp2/pct:79.178804,55.609362,14.551255,10.815174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2168,7 +2168,7 @@ continue to move on, and laughter and
 0 nigs will be heard in the room in which  
 we died, and the e\e that m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767766%2F1859010101%2F0007.jp2/pct:1.215904,61.406647,16.278317,8.975928/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767766%2F1859010101%2F0007.jp2/pct:1.215904,61.406647,16.278317,8.975928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,7 +2211,7 @@ become in the touching language of the
 Psalmist, &#x27;forgotten and clean gone out of  
 mind.&#x27;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_ivysaur_ver01%2Fdata%2Fsn83025182%2F00279528669%2F1859022201%2F0523.jp2/pct:50.274919,24.906558,14.883218,16.129800/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ivysaur_ver01%2Fdata%2Fsn83025182%2F00279528669%2F1859022201%2F0523.jp2/pct:50.274919,24.906558,14.883218,16.129800/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2241,7 +2241,7 @@ names. Then we shall become, in the
 touching language of the I&#x27;ialmist. &quot;For  
 gotten and clean gone out of tuiud.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_horatio_ver01%2Fdata%2Fsn84028083%2F00280775241%2F1859030401%2F0040.jp2/pct:44.088987,86.394063,12.005883,8.105355/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_horatio_ver01%2Fdata%2Fsn84028083%2F00280775241%2F1859030401%2F0040.jp2/pct:44.088987,86.394063,12.005883,8.105355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2291,7 +2291,7 @@ durnamesj Then we shall become, la the
 touching language of the Psalmist, &quot;Forgot  
 . ten and clean gone but of mind.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035102%2F0029602708A%2F1859031001%2F0260.jp2/pct:4.581530,74.593308,12.770563,16.783494/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035102%2F0029602708A%2F1859031001%2F0260.jp2/pct:4.581530,74.593308,12.770563,16.783494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2322,7 +2322,7 @@ to lisp our names. When we shali become, ia
 the touching language cf the Psalmist, &#x27;for­  
 gotten and clean gone cut cf mind.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477631%2F1859040601%2F0432.jp2/pct:74.499489,56.738303,14.028935,10.230580/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477631%2F1859040601%2F0432.jp2/pct:74.499489,56.738303,14.028935,10.230580/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2365,7 +2365,7 @@ Then shall we have become, in the touching
 language of the Psalmist, ‘forgotten and  
 clean gone out of mind.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F0041562430A%2F1859040701%2F0049.jp2/pct:79.488698,19.069601,14.643174,17.498658/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F0041562430A%2F1859040701%2F0049.jp2/pct:79.488698,19.069601,14.643174,17.498658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2397,7 +2397,7 @@ we have become, in the touching language
 ot tho rsalinist, &#x27;lorgotton and clean gonr&#x27;  
 out of mind.&quot; V&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061076%2F00200293897%2F1859040801%2F0474.jp2/pct:80.982346,84.126759,14.595350,9.634788/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061076%2F00200293897%2F1859040801%2F0474.jp2/pct:80.982346,84.126759,14.595350,9.634788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2427,7 +2427,7 @@ ber to lisp our names. Then shall we have
 become, in the touching language of the Psal­  
 mist. “forgotten and clean gone out of mind. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624499%2F1859050701%2F0171.jp2/pct:55.912486,34.482886,12.236691,8.152374/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624499%2F1859050701%2F0171.jp2/pct:55.912486,34.482886,12.236691,8.152374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2462,7 +2462,7 @@ in. and our names will soon be forgotten.
 Days will continue to move on, and laugh­  
 ter and song will be heard in the r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_charmander_ver01%2Fdata%2Fsn82014282%2F00414212438%2F1859051101%2F0534.jp2/pct:48.335704,75.851789,10.842817,10.192185/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_charmander_ver01%2Fdata%2Fsn82014282%2F00414212438%2F1859051101%2F0534.jp2/pct:48.335704,75.851789,10.842817,10.192185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2486,7 +2486,7 @@ and our names will seen be forgotten. Days
 will continue to move on, and laughter and song  
 will be heard in the roo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn83016483%2F00212475166%2F1859051101%2F0077.jp2/pct:82.015810,76.018429,13.241107,5.480116/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn83016483%2F00212475166%2F1859051101%2F0077.jp2/pct:82.015810,76.018429,13.241107,5.480116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2512,7 +2512,7 @@ unborn that she has now for our children.
 Yet a little while and all thiswill have hap­  
 pened. Roll back thc billowy tide of time!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667826%2F1859052501%2F0092.jp2/pct:69.138509,91.921163,12.406500,3.815006/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667826%2F1859052501%2F0092.jp2/pct:69.138509,91.921163,12.406500,3.815006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2538,7 +2538,7 @@ and then we sha&#x27;l be laid in sik-nce and
 darkness for tho worm. And it may be  
 for a short time we shall be spoken of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286893%2F1859052501%2F0402.jp2/pct:61.790153,56.567362,10.744062,7.634785/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286893%2F1859052501%2F0402.jp2/pct:61.790153,56.567362,10.744062,7.634785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2561,7 +2561,7 @@ ed. and we shall be at rest. Our funeral
 will wend its way, and the prayers will  
 be said, and we shall be left in the dark
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769775%2F1859053101%2F0230.jp2/pct:82.021496,64.080161,12.705237,5.513831/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769775%2F1859053101%2F0230.jp2/pct:82.021496,64.080161,12.705237,5.513831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2587,7 +2587,7 @@ and laughter and songs will be beard in the
 room where we died : and the eye that  
 mourn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn85030219%2F00212472803%2F1859062501%2F0399.jp2/pct:33.621736,85.747278,14.875531,7.104366/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn85030219%2F00212472803%2F1859062501%2F0399.jp2/pct:33.621736,85.747278,14.875531,7.104366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2611,7 +2611,7 @@ offspring yet unborn that she had once for our­
 selves. Yet a little while and all (his shall havi  
 happened. The throbbing heart will be still
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026192%2F00280775769%2F1859072801%2F0331.jp2/pct:64.888273,70.794271,13.926901,5.494792/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026192%2F00280775769%2F1859072801%2F0331.jp2/pct:64.888273,70.794271,13.926901,5.494792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2656,7 +2656,7 @@ Then shall we have become, in the touch­
 ing language of the Psalmist, &quot;forgotten  
 and clean gone out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470594%2F1859081101%2F0039.jp2/pct:66.751100,24.770020,12.824957,17.662438/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470594%2F1859081101%2F0039.jp2/pct:66.751100,24.770020,12.824957,17.662438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2689,7 +2689,7 @@ Then shall wo have become, in the
 touching language of tho Psalmist, &#x27;for­  
 gotten and clean gone out of mind.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1859121501%2F0603.jp2/pct:55.616438,23.598008,11.917808,10.626310/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1859121501%2F0603.jp2/pct:55.616438,23.598008,11.917808,10.626310/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2742,7 +2742,7 @@ shall we have become, in tho touching lan­
 guage of the Psalmist, “ forgotten, and  
 clean gone out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340597%2F1860010701%2F0214.jp2/pct:56.474947,16.389002,25.639555,78.684139/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340597%2F1860010701%2F0214.jp2/pct:56.474947,16.389002,25.639555,78.684139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2774,7 +2774,7 @@ be forgotten, Days will continue to move
 on, and laughter and soag will be heard  
 in the room i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027479%2F1861041701%2F0098.jp2/pct:31.462180,66.173438,12.388326,9.169193/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027479%2F1861041701%2F0098.jp2/pct:31.462180,66.173438,12.388326,9.169193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2806,7 +2806,7 @@ and then we shall be left alone in the
 darkness for the worms. And it may  
 be for a short time, we shall be spoke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1861051801%2F0443.jp2/pct:80.175557,77.426985,13.738465,11.452763/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1861051801%2F0443.jp2/pct:80.175557,77.426985,13.738465,11.452763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2859,7 +2859,7 @@ Then shall we have become, in the touchm
 language of the Psalmist, &#x27;forgotten and  
 clean out of mind,&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F0021247292A%2F1861101201%2F0416.jp2/pct:59.697242,68.342246,13.129496,16.660725/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F0021247292A%2F1861101201%2F0416.jp2/pct:59.697242,68.342246,13.129496,16.660725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2903,7 +2903,7 @@ ber to lisp our name. Then ball we have
 .besQuii-, iu the touching languagaof the Psalm­  
 ist, &#x27;forgotten and clean out of mind.&#x27;&quot;,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn83035595%2F00296029208%2F1861110101%2F0176.jp2/pct:4.119908,38.830250,11.883167,14.205886/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn83035595%2F00296029208%2F1861110101%2F0176.jp2/pct:4.119908,38.830250,11.883167,14.205886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2950,7 +2950,7 @@ Then shall we have become, in the
 touching language of the Psalmist, &#x27;for­  
 gotten and clean out of mind.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026797%2F1862013101%2F0040.jp2/pct:26.492298,46.532206,11.232349,17.540664/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026797%2F1862013101%2F0040.jp2/pct:26.492298,46.532206,11.232349,17.540664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2991,7 +2991,7 @@ names. Then shall we have become, in the
 touching language of the psalmist, “ forgo-ten  
 and gone on: of mind/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn86058108%2F00279557360%2F1863051601%2F0298.jp2/pct:28.727674,34.836562,13.250050,18.053874/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn86058108%2F00279557360%2F1863051601%2F0298.jp2/pct:28.727674,34.836562,13.250050,18.053874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3033,7 +3033,7 @@ Then shall wc have become iu tho touching
 languago of the psalmist—&quot;forgotten and  
 gone out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026190%2F1863091001%2F0409.jp2/pct:81.439890,38.320770,12.995196,17.584033/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026190%2F1863091001%2F0409.jp2/pct:81.439890,38.320770,12.995196,17.584033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3077,7 +3077,7 @@ we have become, in the touching language
 of the psalmist, “forgotten and gone out of  
 mind.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340615%2F1863111401%2F0183.jp2/pct:83.925612,40.988179,12.470079,16.167486/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340615%2F1863111401%2F0183.jp2/pct:83.925612,40.988179,12.470079,16.167486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3115,7 +3115,7 @@ on, and laughter and song will he heard
 in the place iu which we died ; and tiie  
 eye that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625479%2F1864062401%2F0069.jp2/pct:63.577505,62.479835,15.115844,14.747702/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625479%2F1864062401%2F0069.jp2/pct:63.577505,62.479835,15.115844,14.747702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3153,7 +3153,7 @@ song will be heard in the very chamber
 in which we died : aud the eye that  
 mourned for us will be dried and wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200292959%2F1867040701%2F0325.jp2/pct:10.803868,52.463863,14.596555,6.668857/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200292959%2F1867040701%2F0325.jp2/pct:10.803868,52.463863,14.596555,6.668857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3198,7 +3198,7 @@ shall we have become, in the touching lan­
 guage of the Psalmist, &#x27;forgotten and clean  
 out of mind.&#x27;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn86081912%2F00296028629%2F1867041001%2F0273.jp2/pct:49.383297,24.915862,14.419358,18.628648/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn86081912%2F00296028629%2F1867041001%2F0273.jp2/pct:49.383297,24.915862,14.419358,18.628648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3230,7 +3230,7 @@ be dried and will glisten with joy; and even
 our children will ceoso to think of us, and  
 will not remember to lisp our name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_eastern_ver01%2Fdata%2Fsn86053571%2F00237289043%2F1867041101%2F0359.jp2/pct:28.094443,61.922230,12.234677,9.244314/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_eastern_ver01%2Fdata%2Fsn86053571%2F00237289043%2F1867041101%2F0359.jp2/pct:28.094443,61.922230,12.234677,9.244314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3263,7 +3263,7 @@ will glisten with joy ; and even our chil­
 dren will cease to think of US, and will not  
 remember to lisp our name.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187134%2F1867051001%2F0080.jp2/pct:16.557892,74.903030,12.778986,11.912500/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187134%2F1867051001%2F0080.jp2/pct:16.557892,74.903030,12.778986,11.912500/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3303,7 +3303,7 @@ MEMORIES
 The heart has  
 memo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_eiffel_ver02%2Fdata%2Fsn83016739%2F00295877534%2F1867051801%2F0673.jp2/pct:71.272804,19.809033,12.707066,14.731737/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eiffel_ver02%2Fdata%2Fsn83016739%2F00295877534%2F1867051801%2F0673.jp2/pct:71.272804,19.809033,12.707066,14.731737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3336,7 +3336,7 @@ be dried and will glisten with joy; and even
 our children will cease to think of us, arid  
 w iil not remember to lisp our name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470107%2F1867052501%2F0535.jp2/pct:69.385009,76.306774,12.272911,9.525914/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470107%2F1867052501%2F0535.jp2/pct:69.385009,76.306774,12.272911,9.525914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3369,7 +3369,7 @@ will be dried and will glisten with joy; and
 even our children will cease to think of  
 us, and will not remember to lisp our name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1867053101%2F0159.jp2/pct:66.297663,71.747196,12.389578,9.203980/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1867053101%2F0159.jp2/pct:66.297663,71.747196,12.389578,9.203980/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3402,7 +3402,7 @@ and will glisttn with joj; and even ourchil
 dren will cease to think of us, and will no!  
 remember to lisf our naoee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_carlisle_ver01%2Fdata%2Fsn86053370%2F00296027911%2F1867061201%2F0730.jp2/pct:42.989195,82.871598,12.072950,11.926515/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carlisle_ver01%2Fdata%2Fsn86053370%2F00296027911%2F1867061201%2F0730.jp2/pct:42.989195,82.871598,12.072950,11.926515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3439,7 +3439,7 @@ our cmidrcn win cease to think or us, and
 will not remember to lisp our name.  
 Hospitality Among Lions. &quot;I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477813%2F1867081401%2F0393.jp2/pct:2.486334,40.876871,14.582966,12.155421/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477813%2F1867081401%2F0393.jp2/pct:2.486334,40.876871,14.582966,12.155421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3476,7 +3476,7 @@ iu the very chamber in wnich we died ;
 and tbe eye that mourned for us will be  
 dried and will glisten 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200292960%2F1867081801%2F0129.jp2/pct:46.204773,74.988824,9.576597,6.414841/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200292960%2F1867081801%2F0129.jp2/pct:46.204773,74.988824,9.576597,6.414841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3506,7 +3506,7 @@ mourned for us will be dried and will glistem with
 joy ; and even our children will cease to think of us,  
 and will not remember to lisp our name.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239$22/pct:60.368098,13.120567,25.276074,13.497340/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239$22/pct:60.368098,13.120567,25.276074,13.497340/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3542,7 +3542,7 @@ she has now for our ohildrcn. Yet a
 little whilo and all this will have&quot; ban  
 penedt Days will continue 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1868040901%2F0487.jp2/pct:65.032460,78.562500,14.618312,8.718750/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1868040901%2F0487.jp2/pct:65.032460,78.562500,14.618312,8.718750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3573,7 +3573,7 @@ continue to move on, und laughter and
 sung will be heard lu the very chamber  
 In which w died;, and the eye tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F0028077540A%2F1868041601%2F0879.jp2/pct:33.593889,48.299128,11.955942,8.096711/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F0028077540A%2F1868041601%2F0879.jp2/pct:33.593889,48.299128,11.955942,8.096711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3602,7 +3602,7 @@ cuoo lor oursolvos, aud that aha has
 no-v fur our children. Yet a littlo  
 while and all this will have happoncd 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076793%2F00280775113%2F1868042301%2F0352.jp2/pct:71.755446,53.347251,10.964671,8.267223/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076793%2F00280775113%2F1868042301%2F0352.jp2/pct:71.755446,53.347251,10.964671,8.267223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3627,7 +3627,7 @@ y. have the same funeral windh on its wpay;aui- -
 in the attraction for offspring- that she had  
 to SUpfor onrelves, and that shewe know rytinog
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280761692%2F1868052401%2F0133.jp2/pct:76.556530,70.131623,21.308159,22.713466/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280761692%2F1868052401%2F0133.jp2/pct:76.556530,70.131623,21.308159,22.713466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3660,7 +3660,7 @@ will be dried and will glisten with joy; and
 eveu our children will cease to think of us, ;  
 and will not remember to lisp our name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192324%2F1868052601%2F0087.jp2/pct:57.844322,65.207190,13.259406,10.752960/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192324%2F1868052601%2F0087.jp2/pct:57.844322,65.207190,13.259406,10.752960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3693,7 +3693,7 @@ will be dried and will glisten with joy; aud
 eveu our children will cease to think of us,  
 and will not remember to lisp our name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192324%2F1868052601%2F0088.jp2/pct:57.905104,65.413808,13.176602,10.932711/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192324%2F1868052601%2F0088.jp2/pct:57.905104,65.413808,13.176602,10.932711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3719,7 +3719,7 @@ our path. The world will have the same
 attraction for our offspring yet unborn  
 thai she lis* now for our children. \ et 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1868053001%2F0299.jp2/pct:83.145907,40.752215,13.181495,7.205677/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1868053001%2F0299.jp2/pct:83.145907,40.752215,13.181495,7.205677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3752,7 +3752,7 @@ have happened. Days will contin­
 ue to move on, and laughter and  
 song will be he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84024207%2F00296028022%2F1868060401%2F0728.jp2/pct:83.816425,39.681264,11.278335,10.405785/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84024207%2F00296028022%2F1868060401%2F0728.jp2/pct:83.816425,39.681264,11.278335,10.405785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3796,7 +3796,7 @@ and even our children will cease.to think
 of us, and will not remember to lisp our  
 name.-Littl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775174%2F1868062001%2F0215.jp2/pct:68.976728,41.409810,12.354552,13.240418/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775174%2F1868062001%2F0215.jp2/pct:68.976728,41.409810,12.354552,13.240418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3833,7 +3833,7 @@ will cease to think of us, and will not
 remember to lisp our name. .  
 A New lork letter jjresents the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1868070101%2F0130.jp2/pct:64.427067,54.740995,9.607405,10.780196/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1868070101%2F0130.jp2/pct:64.427067,54.740995,9.607405,10.780196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3868,7 +3868,7 @@ joy; and even our ehlldresf wilr cease
 think of us, aad will not remember  
 lisp out names. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F0028077540A%2F1868070201%2F0925.jp2/pct:7.836822,81.182796,12.667740,9.946237/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F0028077540A%2F1868070201%2F0925.jp2/pct:7.836822,81.182796,12.667740,9.946237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3904,7 +3904,7 @@ cease to think of us, and will not remem­
 ber to lisp our name.&quot;  
 The Language of the Eyes.—lt ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768722%2F1868070801%2F0249.jp2/pct:76.543380,37.659479,14.021529,14.250834/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768722%2F1868070801%2F0249.jp2/pct:76.543380,37.659479,14.021529,14.250834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3935,7 +3935,7 @@ all thi will have happened I Ray
 wilt continue to move on, and laugh  
 tef and song will be hear I in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016951%2F00295878046%2F1868071101%2F0586.jp2/pct:40.398075,80.519481,12.773403,12.359551/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016951%2F00295878046%2F1868071101%2F0586.jp2/pct:40.398075,80.519481,12.773403,12.359551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3969,7 +3969,7 @@ even our children will cease to think of U3,
 and will nt remember to lisp our name.  
 Robbers are the most ingeni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1868071701%2F0531.jp2/pct:34.432448,62.188998,13.714619,14.163433/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1868071701%2F0531.jp2/pct:34.432448,62.188998,13.714619,14.163433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4007,7 +4007,7 @@ us, and will not romcmbor to lisp our
 names.  
 The Vaujk of o.ns Vo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279554164%2F1868071801%2F0064.jp2/pct:45.709510,56.585427,11.538819,11.204066/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279554164%2F1868071801%2F0064.jp2/pct:45.709510,56.585427,11.538819,11.204066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4043,7 +4043,7 @@ will glisteii with joy ; and even our
 childteu will cease to l(rink of us, and  
 will O&#x27;jt remember to lisp our name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620123%2F1868081901%2F0514.jp2/pct:50.204736,75.264305,15.417483,13.772677/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620123%2F1868081901%2F0514.jp2/pct:50.204736,75.264305,15.417483,13.772677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4077,7 +4077,7 @@ with joy; and even our children will cease
 to think of us. and will not remember to  
 isp our name.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769325%2F1868101601%2F0362.jp2/pct:7.823653,83.326145,12.876137,10.441377/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769325%2F1868101601%2F0362.jp2/pct:7.823653,83.326145,12.876137,10.441377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4124,7 +4124,7 @@ member to lisp our name.
 vista of  
 The Pie Boy who Be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_eyelet_ver02%2Fdata%2Fsn85034375%2F0019991716A%2F1868120501%2F0319.jp2/pct:36.995968,31.494253,11.088710,15.603448/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eyelet_ver02%2Fdata%2Fsn85034375%2F0019991716A%2F1868120501%2F0319.jp2/pct:36.995968,31.494253,11.088710,15.603448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4161,7 +4161,7 @@ and even our children will cease to
 1 think of us. and will not remember to  
 lisp our name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn84027696%2F0041421258A%2F1868121501%2F0353.jp2/pct:26.554250,78.833333,10.956396,13.253472/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn84027696%2F0041421258A%2F1868121501%2F0353.jp2/pct:26.554250,78.833333,10.956396,13.253472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4201,7 +4201,7 @@ name. Then shall we have become, in the lan­
 guage of the Psalmist, ‘.-forgotten and clean  
 out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557402%2F1869030601%2F0427.jp2/pct:12.954102,67.286993,13.733830,12.345999/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557402%2F1869030601%2F0427.jp2/pct:12.954102,67.286993,13.733830,12.345999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4245,7 +4245,7 @@ come, in the language of the Psalmist,
 &quot;forgotten and clean out of mind.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551268%2F1869052001%2F0080.jp2/pct:15.663094,55.335438,22.872005,18.166975/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551268%2F1869052001%2F0080.jp2/pct:15.663094,55.335438,22.872005,18.166975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4291,7 +4291,7 @@ Then shall we have become, in the ,
 language of the Psalmist, &quot;forgot- ,  
 ten and clean out of in.ml.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620123%2F1869061601%2F0670.jp2/pct:63.531605,57.070016,15.805231,21.241139/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620123%2F1869061601%2F0670.jp2/pct:63.531605,57.070016,15.805231,21.241139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4329,7 +4329,7 @@ the very chamber in which we died; and the
 eyes will glisten again with joy; and even our  
 children will cease to think of us, and will no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-08_79_470$26/pct:50.039185,58.080937,35.854232,30.593026/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-08_79_470$26/pct:50.039185,58.080937,35.854232,30.593026/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4349,7 +4349,7 @@ a vapor, while nature wore the same aspect
 beauty as when her Creator commanded her  
 be. And so likewise shall it be when we are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1869092901%2F0412.jp2/pct:63.558450,43.337379,14.226945,3.325243/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1869092901%2F0412.jp2/pct:63.558450,43.337379,14.226945,3.325243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4379,7 +4379,7 @@ forgotten. Days will continue to move on, and
 iaugter will be heard in the very chamber in  
 which wc died ; aud the eyes will glisten agai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1869092901%2F0412.jp2/pct:63.644155,46.686893,14.415495,15.764563/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1869092901%2F0412.jp2/pct:63.644155,46.686893,14.415495,15.764563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4408,7 +4408,7 @@ In r children Yets little wtnl&quot; and all
 tht* will hive happened! Days will con­  
 tinue 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1869112001%2F0607.jp2/pct:83.435100,49.965568,13.118697,8.742417/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1869112001%2F0607.jp2/pct:83.435100,49.965568,13.118697,8.742417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4452,7 +4452,7 @@ forgotten. Hays will continue to move on,
 and laughter will l&gt;e heard in the very chamber  
 in which we died ; and the eyes will agai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186981%2F1869120201%2F0198.jp2/pct:69.030837,12.443145,12.457171,13.995379/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186981%2F1869120201%2F0198.jp2/pct:69.030837,12.443145,12.457171,13.995379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4483,7 +4483,7 @@ dry and will glisten with joy ; and even our
 children will cease to think of us, und will not  
 remember to lisp our name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627488%2F1869121801%2F0070.jp2/pct:48.354328,51.005834,10.433880,6.621739/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627488%2F1869121801%2F0070.jp2/pct:48.354328,51.005834,10.433880,6.621739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4508,7 +4508,7 @@ unborn that she had once for ourselves, and
 that she has now for our children.  
 The Aim or Life.?The great controllin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192324%2F1870020101%2F0429.jp2/pct:83.513608,56.973817,13.324320,7.106891/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192324%2F1870020101%2F0429.jp2/pct:83.513608,56.973817,13.324320,7.106891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4534,7 +4534,7 @@ some attraction for offsprings yet unborn that
 she had once for ourselves, and that she has  
 now for our children.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1870020901%2F0493.jp2/pct:34.427362,61.813086,14.372085,5.714634/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1870020901%2F0493.jp2/pct:34.427362,61.813086,14.372085,5.714634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4560,7 +4560,7 @@ our path ; the world will have the same
 attraction for offsprings yet unborn  
 that the has now for our children.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623719%2F1870021701%2F0039.jp2/pct:74.641731,49.360898,11.342792,6.907858/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623719%2F1870021701%2F0039.jp2/pct:74.641731,49.360898,11.342792,6.907858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4608,7 +4608,7 @@ to movwon, and laughter will be
 heard in the very chamber in  
 which we died; and the eyes wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774820%2F1870021701%2F0010.jp2/pct:60.510463,47.787144,11.176284,21.628030/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774820%2F1870021701%2F0010.jp2/pct:60.510463,47.787144,11.176284,21.628030/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4635,7 +4635,7 @@ traction for offsprings yet unborn that
 a she -bad once*for ourselves, and that  
 en shebras now foE our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555134%2F1870032301%2F0370.jp2/pct:43.214162,85.635910,13.415481,6.945137/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555134%2F1870032301%2F0370.jp2/pct:43.214162,85.635910,13.415481,6.945137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4661,7 +4661,7 @@ attraction for offsprings yet unborn that
 she had onoe for ourselves, and that she  
 bas now for our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870041601%2F0068.jp2/pct:56.492876,84.655963,12.257124,6.903670/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870041601%2F0068.jp2/pct:56.492876,84.655963,12.257124,6.903670/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4689,7 +4689,7 @@ attractions1 &#x27;for offspring yet unborn
 that she had once for ourselves, and  
 that ste haB now for our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237280544%2F1870092201%2F0102.jp2/pct:28.580823,85.229682,11.035118,6.572438/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237280544%2F1870092201%2F0102.jp2/pct:28.580823,85.229682,11.035118,6.572438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4715,7 +4715,7 @@ same attraction for oil-springs yet unborn
 that she had once for ourselves and that  
 she has now for our children.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1871011701%2F0458.jp2/pct:41.219636,17.801832,16.624494,8.143214/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1871011701%2F0458.jp2/pct:41.219636,17.801832,16.624494,8.143214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4767,7 +4767,7 @@ Then shall we have become, in the
 touching language of the psalmist,  
 4 forgotten and goes oat of mind.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn83025799%2F00415620135%2F1871101101%2F0205.jp2/pct:83.212268,42.353610,16.535513,23.532310/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn83025799%2F00415620135%2F1871101101%2F0205.jp2/pct:83.212268,42.353610,16.535513,23.532310/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4809,7 +4809,7 @@ we have become, in the touching language of
 the psalmist, “forgotten and gone out ot the  
 mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558030%2F1871120901%2F0195.jp2/pct:17.567961,69.483363,15.024272,16.563384/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558030%2F1871120901%2F0195.jp2/pct:17.567961,69.483363,15.024272,16.563384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4855,7 +4855,7 @@ of the psalmist, &#x27; TorgoUen and gone out 01
   
 mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn92053941%2F00295873590%2F1872012001%2F0383.jp2/pct:38.625232,25.682991,11.028542,9.026816/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn92053941%2F00295873590%2F1872012001%2F0383.jp2/pct:38.625232,25.682991,11.028542,9.026816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4898,7 +4898,7 @@ come, in the touching language of the
 psalmist, &quot;forgotten and gone out of  
 the mind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F00296023954%2F1872022701%2F0128.jp2/pct:5.680473,42.065276,12.174556,19.604066/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F00296023954%2F1872022701%2F0128.jp2/pct:5.680473,42.065276,12.174556,19.604066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4927,7 +4927,7 @@ children.
 Si I.IMILK.  
 A health journal savs that, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_monroe_ver01%2Fdata%2Fsn84024443%2F00280779234%2F1872030801%2F0609.jp2/pct:19.909873,75.999441,12.433429,9.393346/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_monroe_ver01%2Fdata%2Fsn84024443%2F00280779234%2F1872030801%2F0609.jp2/pct:19.909873,75.999441,12.433429,9.393346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4975,7 +4975,7 @@ Then shall we have become, in the
 touching language of the psalmist,  
 &quot; forgotten, and go out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F0029587613A%2F1872033001%2F0058.jp2/pct:42.880364,53.629417,12.451235,19.460363/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F0029587613A%2F1872033001%2F0058.jp2/pct:42.880364,53.629417,12.451235,19.460363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5004,7 +5004,7 @@ It is said the more clumsy, awk­
 ward and ungraceful a man is, tbe  
 warmer his heart and more sensitiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872041701%2F0164.jp2/pct:25.102298,90.459592,9.521561,6.893881/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872041701%2F0164.jp2/pct:25.102298,90.459592,9.521561,6.893881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5044,7 +5044,7 @@ and the prayers will be arid, and oiir
 friends will return, and we shall be loft  
 behind to dm kne-s an i the worm. An 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623513%2F1872061301%2F0435.jp2/pct:77.922502,48.218029,11.713352,9.556254/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623513%2F1872061301%2F0435.jp2/pct:77.922502,48.218029,11.713352,9.556254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5073,7 +5073,7 @@ trightl over our heads as Ihey are now
 sluie altraction for off&#x27;prugsl )eL aanbjrn  
 that she has now for our children.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762015%2F1872101301%2F0400.jp2/pct:18.376068,90.530750,15.486365,5.425442/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762015%2F1872101301%2F0400.jp2/pct:18.376068,90.530750,15.486365,5.425442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5098,7 +5098,7 @@ The world will have the same attractions for
 offspring yet unborn that it had once for ourselves,  
 and that it has now for our children.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1872103101%2F0195.jp2/pct:84.166886,91.404575,15.297885,6.203836/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1872103101%2F0195.jp2/pct:84.166886,91.404575,15.297885,6.203836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5124,7 +5124,7 @@ will have the same attractions for offspring
 j that it has now for our children.  
 ? ^ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1872121901%2F0223.jp2/pct:84.982890,77.210028,14.666140,6.387190/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1872121901%2F0223.jp2/pct:84.982890,77.210028,14.666140,6.387190/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5152,7 +5152,7 @@ children.
 The Napoleonic dynasty virtually ends  
 with the death of Napoleon III, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194977%2F1873012701%2F0234.jp2/pct:72.176535,79.627704,11.184211,9.525790/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194977%2F1873012701%2F0234.jp2/pct:72.176535,79.627704,11.184211,9.525790/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5186,7 +5186,7 @@ springs yet utiborri that she once bad
 j for ourselves, aud that she has now for  
 .iour children.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027431%2F1873021101%2F0392.jp2/pct:72.809625,87.083378,10.799717,6.058993/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027431%2F1873021101%2F0392.jp2/pct:72.809625,87.083378,10.799717,6.058993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5214,7 +5214,7 @@ had lorourselves, and that she has
 now for our children.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_kitty_ver01%2Fdata%2Fsn85033435%2F00212470466%2F1873021501%2F0266.jp2/pct:69.375331,66.839093,8.787718,5.558001/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kitty_ver01%2Fdata%2Fsn85033435%2F00212470466%2F1873021501%2F0266.jp2/pct:69.375331,66.839093,8.787718,5.558001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5255,7 +5255,7 @@ names. Then shall we have become, in
 the touching language of the psalmist,  
 -forgotten and out of mind.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873031301%2F0047.jp2/pct:15.891801,69.837796,10.857988,14.151004/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873031301%2F0047.jp2/pct:15.891801,69.837796,10.857988,14.151004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5283,7 +5283,7 @@ has for our children.
 When a man thinks that nobody  
 cares for him, and that he is alone in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340664%2F1873032801%2F0051.jp2/pct:71.484992,82.586143,11.062401,8.178955/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340664%2F1873032801%2F0051.jp2/pct:71.484992,82.586143,11.062401,8.178955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5317,7 +5317,7 @@ tion for offsprings yet unborn that she
 OUee had for ourselves, and that she has  
 now for our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1873050901%2F0049.jp2/pct:62.980982,74.253039,14.300457,6.645374/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1873050901%2F0049.jp2/pct:62.980982,74.253039,14.300457,6.645374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5352,7 +5352,7 @@ had once for ourselves, and that she
 now has for our children.  
 The country will tender its thank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027170%2F1873091101%2F0066.jp2/pct:7.521578,81.308411,10.419236,6.542056/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027170%2F1873091101%2F0066.jp2/pct:7.521578,81.308411,10.419236,6.542056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5379,7 +5379,7 @@ she has now for our ilnldren.
 Evils iu the journey of life aro like the  
 bills which alarm travelers upon thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1873103001%2F0540.jp2/pct:6.406685,80.331633,12.794800,8.482143/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1873103001%2F0540.jp2/pct:6.406685,80.331633,12.794800,8.482143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5401,7 +5401,7 @@ tions for ofl.-aiings yet unlKirn, that bhe
 now lor our children.  
 The Litti.u Cokpoiial comes to us thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873121001%2F0322.jp2/pct:2.205659,37.846050,29.601460,11.006077/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873121001%2F0322.jp2/pct:2.205659,37.846050,29.601460,11.006077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5422,7 +5422,7 @@ while nature wore the same as­
 pect of beauty as when the Crea­  
 tor commanded her to be.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1874022601%2F0263.jp2/pct:3.943465,14.337349,9.771419,4.016064/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1874022601%2F0263.jp2/pct:3.943465,14.337349,9.771419,4.016064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5453,7 +5453,7 @@ attraction for offspring yet unborn
 that she had once for ourselves, and  
 mat sno nas now lor our children.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85026421%2F00415669203%2F1874042301%2F0212.jp2/pct:17.136553,72.562620,10.872763,6.685934/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85026421%2F00415669203%2F1874042301%2F0212.jp2/pct:17.136553,72.562620,10.872763,6.685934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5479,7 +5479,7 @@ offspring Jyet unborn that she once had
 for ourselves, and that she now has for  
 our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1874093001%2F0202.jp2/pct:27.389297,90.305515,10.839460,5.938368/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1874093001%2F0202.jp2/pct:27.389297,90.305515,10.839460,5.938368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5507,7 +5507,7 @@ yet .unborn that she once had for
 ourselves, and that she now has for  
 our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn92073987%2F00296023152%2F1874103001%2F0167.jp2/pct:80.541975,57.996232,10.308702,8.112601/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn92073987%2F00296023152%2F1874103001%2F0167.jp2/pct:80.541975,57.996232,10.308702,8.112601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5551,7 +5551,7 @@ Days will lo move and
 laughter will be heard in the very «hasm-  
 ber in which we died; and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16$2/pct:77.682737,67.786885,13.802488,12.691257/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16$2/pct:77.682737,67.786885,13.802488,12.691257/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5587,7 +5587,7 @@ Days will
 laughter will be heard in the very cham-  
 ber in which we died; and the eyes wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16$4/pct:72.672614,68.633880,18.231187,11.775956/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16$4/pct:72.672614,68.633880,18.231187,11.775956/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5631,7 +5631,7 @@ died; and the eyeb wll glietep aglai
 with joy; d even oiur children will  
 cease tothi k ofa uas, and.will not re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_forge_ver01%2Fdata%2Fsn85038558%2F00280761527%2F1874112801%2F0092.jp2/pct:49.109987,54.617028,14.746112,17.692048/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_forge_ver01%2Fdata%2Fsn85038558%2F00280761527%2F1874112801%2F0092.jp2/pct:49.109987,54.617028,14.746112,17.692048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5672,7 +5672,7 @@ which w.* died; and the eyes will glisten
 agiin with joy; anel even our children  
 will cease to think of us. and will no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623525%2F1874122401%2F0212.jp2/pct:78.620170,57.561133,11.892324,14.407264/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623525%2F1874122401%2F0212.jp2/pct:78.620170,57.561133,11.892324,14.407264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5715,7 +5715,7 @@ shall we have liecomc, in the touch­
 ing language of the Psalmist,  
 “forgotten and gone out of mind.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_igglybuff_ver01%2Fdata%2Fsn84023017%2F00414213005%2F1875012801%2F0004.jp2/pct:53.523884,20.100643,12.475529,20.523483/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_igglybuff_ver01%2Fdata%2Fsn84023017%2F00414213005%2F1875012801%2F0004.jp2/pct:53.523884,20.100643,12.475529,20.523483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5785,7 +5785,7 @@ tue tiling oi wo win creep in, nun inir
 name will soon be forgotten. Dayoi  
 will continue to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1875032401%2F0759.jp2/pct:75.733855,74.779592,10.039139,8.729585/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1875032401%2F0759.jp2/pct:75.733855,74.779592,10.039139,8.729585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5828,7 +5828,7 @@ eves will glisten agaiu with joy; and
 even our children will cease to think ot  
 us, and will not remember to lisp ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1875050801%2F0487.jp2/pct:10.836441,68.210878,18.307784,16.717485/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1875050801%2F0487.jp2/pct:10.836441,68.210878,18.307784,16.717485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5853,7 +5853,7 @@ around our path; the world has the same attraction for off-
 spring yet unborn that she once had for ourselves, and that  
 she now has for our children.--The Telegram.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1875-06-05_10_1$5/pct:36.905953,63.409264,27.463732,8.671352/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1875-06-05_10_1$5/pct:36.905953,63.409264,27.463732,8.671352/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5892,7 +5892,7 @@ liave become, iu the touching language
 of the Psahuiat, forgotten aud goueout  
 of Blind.&#x27;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1875062501%2F0577.jp2/pct:87.548406,80.989863,9.502532,12.999404/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1875062501%2F0577.jp2/pct:87.548406,80.989863,9.502532,12.999404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5940,7 +5940,7 @@ Then shall we have become, in the
 touching language of the Psalmist,  
 1 forgotten ami gone out of mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554619%2F1875112801%2F0922.jp2/pct:19.459339,70.699954,12.807194,23.560270/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554619%2F1875112801%2F0922.jp2/pct:19.459339,70.699954,12.807194,23.560270/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5965,7 +5965,7 @@ for our offspring yet unborn that she once
 bad for ourselves, and that she now lias for  
 our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1875121001%2F0407.jp2/pct:62.187014,80.136379,10.952340,5.461984/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1875121001%2F0407.jp2/pct:62.187014,80.136379,10.952340,5.461984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5990,7 +5990,7 @@ are now around our path; the world will
 have the same attractions for offsprings yet  
 unborn that she had once for our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340688%2F1877070501%2F0111.jp2/pct:71.555134,40.486232,10.714286,6.093401/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340688%2F1877070501%2F0111.jp2/pct:71.555134,40.486232,10.714286,6.093401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6018,7 +6018,7 @@ she has now for our children. Yet a 1
 little while, and all this will have hap- i  
 pened. Days will continue to move on, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn92065401%2F0041562010A%2F1877071201%2F0109.jp2/pct:30.287206,59.717728,13.981723,8.021324/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn92065401%2F0041562010A%2F1877071201%2F0109.jp2/pct:30.287206,59.717728,13.981723,8.021324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6045,7 +6045,7 @@ to move on, and laughter and songs
 will be heard in the room where we  
 died ; and the eye that mourned for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765290%2F1877072101%2F0131.jp2/pct:60.495461,79.030374,10.703480,9.258178/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765290%2F1877072101%2F0131.jp2/pct:60.495461,79.030374,10.703480,9.258178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6074,7 +6074,7 @@ she had once for ourselves, nnd that she
 has now for our children. Vet a little  
 while, and all this will have happened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn86053067%2F00415620184%2F1877072601%2F0285.jp2/pct:65.627331,39.693783,13.929086,8.964728/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn86053067%2F00415620184%2F1877072601%2F0285.jp2/pct:65.627331,39.693783,13.929086,8.964728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6108,7 +6108,7 @@ and will glisten with joy, aud even onr
 children will cease to think of us, on*  
 will not remember to lisp our names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028745%2F1877083001%2F0025.jp2/pct:54.014188,87.310743,9.745653,8.696399/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028745%2F1877083001%2F0025.jp2/pct:54.014188,87.310743,9.745653,8.696399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6129,7 +6129,7 @@ prayers will be said and we shall be
 left In the darkness and silence of the  
 tomb. And it may be but a short time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1877090501%2F0145.jp2/pct:82.730093,85.291445,10.823854,3.985460/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1877090501%2F0145.jp2/pct:82.730093,85.291445,10.823854,3.985460/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6172,7 +6172,7 @@ ceaue think of us. and will not remembei
   
 to lisp our names—Ooodrich
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340688%2F1877090601%2F0147.jp2/pct:60.942225,66.860609,10.747254,10.822605/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340688%2F1877090601%2F0147.jp2/pct:60.942225,66.860609,10.747254,10.822605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6193,7 +6193,7 @@ prayers will he said and we shall be
 left In the darkness and silence of the  
 tninb. And it may be but a short time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn86053402%2F00280779283%2F1877090601%2F0239.jp2/pct:9.168292,81.240229,11.633268,4.325169/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn86053402%2F00280779283%2F1877090601%2F0239.jp2/pct:9.168292,81.240229,11.633268,4.325169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6223,7 +6223,7 @@ dren. Yet a little while and all this
 will have happened. Days will con  
 tinue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_bobcat_ver01%2Fdata%2Fsn82014896%2F00211105719%2F1877090801%2F0417.jp2/pct:22.496910,75.198340,12.466890,8.971073/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_bobcat_ver01%2Fdata%2Fsn82014896%2F00211105719%2F1877090801%2F0417.jp2/pct:22.496910,75.198340,12.466890,8.971073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6254,7 +6254,7 @@ will glisten with joy&#x27;, aud even our children will
 cease to think of us, and will not remember to  
 lisp our names. [Goodrich
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524676%2F1877092001%2F0591.jp2/pct:4.653498,82.218920,11.286408,6.367632/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524676%2F1877092001%2F0591.jp2/pct:4.653498,82.218920,11.286408,6.367632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6280,7 +6280,7 @@ so, likewise, shall it be when we are
   
 gone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1877100301%2F0167.jp2/pct:63.504155,74.782383,10.959141,4.469274/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1877100301%2F0167.jp2/pct:63.504155,74.782383,10.959141,4.469274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6317,7 +6317,7 @@ us, and will not remember to lisp our
   
 nam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1877100301%2F0167.jp2/pct:63.452216,79.368585,11.011080,6.976744/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1877100301%2F0167.jp2/pct:63.452216,79.368585,11.011080,6.976744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6352,7 +6352,7 @@ joy, anil even our children will cease to
 think of Us, and will not remember to  
 lisp our name (?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1877100401%2F0777.jp2/pct:60.452125,64.680590,10.823078,12.238040/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1877100401%2F0777.jp2/pct:60.452125,64.680590,10.823078,12.238040/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6389,7 +6389,7 @@ cease to think of us, and will not re- i
 member to lisp our names.  
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767808%2F1877101301%2F0376.jp2/pct:16.645790,77.367087,13.699838,15.545288/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767808%2F1877101301%2F0376.jp2/pct:16.645790,77.367087,13.699838,15.545288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6417,7 +6417,7 @@ olpraing raborn tlhat sh id ae
 for ourselves, and that sho en w  
 for our abildlme, Tet 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_karma_ver01%2Fdata%2Fsn88064118%2F00280761783%2F1877102401%2F0039.jp2/pct:80.436280,74.246532,15.315729,9.583798/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_karma_ver01%2Fdata%2Fsn88064118%2F00280761783%2F1877102401%2F0039.jp2/pct:80.436280,74.246532,15.315729,9.583798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6445,7 +6445,7 @@ and song will be beard in the room
 where we died ; and the eye that  
 mourned for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_adam_ver02%2Fdata%2Fsn84026526%2F0029587966A%2F1877102501%2F0222.jp2/pct:54.043877,83.704588,12.180747,8.737735/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_adam_ver02%2Fdata%2Fsn84026526%2F0029587966A%2F1877102501%2F0222.jp2/pct:54.043877,83.704588,12.180747,8.737735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6481,7 +6481,7 @@ n children wili cease to think of us, and r
 will not remember to lisp our names. e  
 THE PAYING OF 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212474915%2F1877111001%2F0186.jp2/pct:20.132450,57.366285,13.841060,12.165712/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212474915%2F1877111001%2F0186.jp2/pct:20.132450,57.366285,13.841060,12.165712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6506,7 +6506,7 @@ tt&#x27;prnurs yet inborn tiiat she had once for our
 &#x27;•Mi&#x27;— and that she has now for our children  
 j et a . wuile an 1 ail this will have happened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524688%2F1878070401%2F0122.jp2/pct:3.221431,77.758471,11.313157,4.322328/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524688%2F1878070401%2F0122.jp2/pct:3.221431,77.758471,11.313157,4.322328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6541,7 +6541,7 @@ and oven our children will cease to think
 of us, anil will not remember to lisp our  
 names. Ooodrich
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023209%2F00202197486%2F1878091801%2F0115.jp2/pct:50.009348,85.345296,10.992709,9.257749/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023209%2F00202197486%2F1878091801%2F0115.jp2/pct:50.009348,85.345296,10.992709,9.257749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6570,7 +6570,7 @@ children. Yet a little and all this will
 have happened. Days will continue to  
 niovo on and lauuliter and gong will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023209%2F00202197486%2F1878100201%2F0123.jp2/pct:59.729780,68.709416,11.052730,6.696429/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023209%2F00202197486%2F1878100201%2F0123.jp2/pct:59.729780,68.709416,11.052730,6.696429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6598,7 +6598,7 @@ attraction for pfennig yet uhm
 that she once had for oarselrss, aad  
 that she h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_berenice_ver01%2Fdata%2Fsn90061066%2F0020029192A%2F1879052701%2F0358.jp2/pct:73.843248,83.554648,11.075138,7.783453/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_berenice_ver01%2Fdata%2Fsn90061066%2F0020029192A%2F1879052701%2F0358.jp2/pct:73.843248,83.554648,11.075138,7.783453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6638,7 +6638,7 @@ names. Exchange.
 A CA1D.  
 To all who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_berenice_ver01%2Fdata%2Fsn90061066%2F0020029192A%2F1879052701%2F0360.jp2/pct:71.925169,36.089145,10.946000,14.552737/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_berenice_ver01%2Fdata%2Fsn90061066%2F0020029192A%2F1879052701%2F0360.jp2/pct:71.925169,36.089145,10.946000,14.552737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6663,7 +6663,7 @@ same attraction for offspring yet unborn
 that she onco had for ourselves, and that  
 she now has for our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557323%2F1879121301%2F0697.jp2/pct:37.354355,38.676335,12.234141,6.372227/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557323%2F1879121301%2F0697.jp2/pct:37.354355,38.676335,12.234141,6.372227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6685,7 +6685,7 @@ Then shall we have become, in the
 touching language of iho IVamlist,  
 &quot;forgotten and gone out of min
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_fernico_ver01%2Fdata%2Fsn84038328%2F00280763779%2F1880041601%2F0301.jp2/pct:30.163208,59.756098,10.699174,5.534709/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_fernico_ver01%2Fdata%2Fsn84038328%2F00280763779%2F1880041601%2F0301.jp2/pct:30.163208,59.756098,10.699174,5.534709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6722,7 +6722,7 @@ become in tho touching language of
 tho Psalmist, » forgotten and gone out  
 of mind.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F0029587384A%2F1880050101%2F0574.jp2/pct:74.266098,56.707317,13.683712,14.312331/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F0029587384A%2F1880050101%2F0574.jp2/pct:74.266098,56.707317,13.683712,14.312331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6756,7 +6756,7 @@ ter and song will he heard m the
 very chamber in which we died,  
 and will glisten with joy, and eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_adam_ver02%2Fdata%2Fsn84026526%2F00295879671%2F1880092301%2F0188.jp2/pct:41.756648,74.331269,11.893634,11.714323/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_adam_ver02%2Fdata%2Fsn84026526%2F00295879671%2F1880092301%2F0188.jp2/pct:41.756648,74.331269,11.893634,11.714323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6794,7 +6794,7 @@ think of us, and will not remember to
 lisp our name. Ex.  
 Mary Stuart Fac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ingstad_ver01%2Fdata%2Fsn84028296%2F00296029129%2F1883081601%2F1030.jp2/pct:24.461207,54.404591,13.663793,14.978479/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ingstad_ver01%2Fdata%2Fsn84028296%2F00296029129%2F1883081601%2F1030.jp2/pct:24.461207,54.404591,13.663793,14.978479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6829,7 +6829,7 @@ for offsprings yet unborn that
   
 she has now for our children.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84020731%2F00416157121%2F1891111801%2F0850.jp2/pct:20.843672,35.056310,24.772539,8.114352/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84020731%2F00416157121%2F1891111801%2F0850.jp2/pct:20.843672,35.056310,24.772539,8.114352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6868,7 +6868,7 @@ cease to think of us aud will not
 remember to lisp our name. Thus  
 quickly will pass the memo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_boozer_ver01%2Fdata%2Fsn95060636%2F0041421664A%2F1893121401%2F0065.jp2/pct:65.577236,23.025163,14.162602,21.667463/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_boozer_ver01%2Fdata%2Fsn95060636%2F0041421664A%2F1893121401%2F0065.jp2/pct:65.577236,23.025163,14.162602,21.667463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6903,7 +6903,7 @@ and even our children will cease to&#x27;tbink
 of us and will not remember to lisp our  
 name. Thun quickly will pass he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_agave_ver01%2Fdata%2Fsn84024828%2F00211100618%2F1893123001%2F0135.jp2/pct:8.262247,49.865027,17.206922,15.266947/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_agave_ver01%2Fdata%2Fsn84024828%2F00211100618%2F1893123001%2F0135.jp2/pct:8.262247,49.865027,17.206922,15.266947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6929,7 +6929,7 @@ same attraction for oflspring yet unborn
 that she had once for ourselves, and that  
 she has now for our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623987%2F1898072301%2F0136.jp2/pct:28.267018,70.158257,11.449191,6.401249/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623987%2F1898072301%2F0136.jp2/pct:28.267018,70.158257,11.449191,6.401249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -61,7 +61,7 @@ AC ho«(.^l{MU&#x27;iK,,|,or
 rj| k** a cent l,al acci,lcnl  
 Would not hj v* Penc,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187122%2F1839100301%2F0405.jp2/pct:2.837008,25.391850,13.341766,8.004180/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187122%2F1839100301%2F0405.jp2/pct:2.837008,25.391850,13.341766,8.004180/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would not have h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777328%2F1839122001%2F0550.jp2/pct:6.739715,20.727674,12.238991,8.757285/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777328%2F1839122001%2F0550.jp2/pct:6.739715,20.727674,12.238991,8.757285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ At home like neig&#x27;ibor Jim,
 I&#x27;ll bet a cent the accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn85042147%2F00202197978%2F1841051201%2F0080.jp2/pct:6.377875,7.923840,10.921405,9.383195/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn85042147%2F00202197978%2F1841051201%2F0080.jp2/pct:6.377875,7.923840,10.921405,9.383195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ At home, like neighboi Jim, &quot;
 I&#x27;ll bet a cent this accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237281846%2F1841060901%2F0247.jp2/pct:38.774840,60.018672,17.769749,16.127903/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237281846%2F1841060901%2F0247.jp2/pct:38.774840,60.018672,17.769749,16.127903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ t, an inspiration, winch should stir up the aoul of
 very lilwral minded and iiil?lligenl being i lUmtvn  
 Vruntrrlpt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn85054702%2F00280776002%2F1841070301%2F0191.jp2/pct:4.500756,20.582470,14.466717,3.808457/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn85054702%2F00280776002%2F1841070301%2F0191.jp2/pct:4.500756,20.582470,14.466717,3.808457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ At home, I:ke neighbour Jim,
 I&#x27;m very sure this accident  
 Had not befallen him!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28$7/pct:36.951754,48.669579,56.359649,44.360604/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28$7/pct:36.951754,48.669579,56.359649,44.360604/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ At home like neighbor Jim
 } TH bet « cent the accudent  
 Would not have happened hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1844-08-31_25_1205$3/pct:45.692568,23.884286,8.530405,7.283035/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1844-08-31_25_1205$3/pct:45.692568,23.884286,8.530405,7.283035/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ W hile strofling through the wood,
 A tree fell dawa apon his crown,  
 “And killed tim-—as it eh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-cultivator_1844-10-05_6_40$6/pct:70.642857,92.442761,16.071429,1.136168/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-cultivator_1844-10-05_6_40$6/pct:70.642857,92.442761,16.071429,1.136168/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ At home like neighbor Jim,
 I&#x27;ll) bet a cent the accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_maine-farmer_1844-10-24_12_43$1/pct:52.528302,30.123385,9.283019,7.653750/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1844-10-24_12_43$1/pct:52.528302,30.123385,9.283019,7.653750/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ A tree full down upon his crown,
 And killed him as it shoull.  
 Had he been reading of the&quot;nc.TJ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn83016957%2F00200292431%2F1845022201%2F0241.jp2/pct:65.116279,24.648533,10.592144,11.139976/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn83016957%2F00200292431%2F1845022201%2F0241.jp2/pct:65.116279,24.648533,10.592144,11.139976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent thai accident  
 VVou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn84028793%2F00296026669%2F1845051401%2F0258.jp2/pct:4.358679,35.714286,14.477727,11.425781/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn84028793%2F00296026669%2F1845051401%2F0258.jp2/pct:4.358679,35.714286,14.477727,11.425781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ At home, like neighber Jim
 I&#x27;ll bet a cent that accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_julian_ver02%2Fdata%2Fsn84023914%2F00296029816%2F1845071001%2F0292.jp2/pct:6.831871,74.800309,42.987438,9.791291/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_julian_ver02%2Fdata%2Fsn84023914%2F00296029816%2F1845071001%2F0292.jp2/pct:6.831871,74.800309,42.987438,9.791291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ At home, like neighbor Jim,
 I’ll bet a cent that accident  
 Would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182963%2F1845072401%2F0086.jp2/pct:59.092854,59.516948,13.056269,6.151365/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182963%2F1845072401%2F0086.jp2/pct:59.092854,59.516948,13.056269,6.151365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would never have happened hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_american-cultivator_1845-07-26_7_30$3/pct:82.862524,20.065281,10.098870,6.132967/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-cultivator_1845-07-26_7_30$3/pct:82.862524,20.065281,10.098870,6.132967/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ At home, like neighbor Jim,
 I&#x27;ll l ot a tent th.tt accident  
 Would nut have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn82014301%2F00202191290%2F1845073001%2F0077.jp2/pct:19.728636,23.772697,11.018711,5.506052/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn82014301%2F00202191290%2F1845073001%2F0077.jp2/pct:19.728636,23.772697,11.018711,5.506052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ While strolling through the wood,
 A tree fell down upon his crown,  
 And killed him as it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393348987%2F1845080701%2F0339.jp2/pct:16.827853,27.961747,9.676015,5.113474/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393348987%2F1845080701%2F0339.jp2/pct:16.827853,27.961747,9.676015,5.113474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would not have happend him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025180%2F00237287940%2F1845080901%2F0254.jp2/pct:35.536663,30.712570,14.133900,10.808647/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025180%2F00237287940%2F1845080901%2F0254.jp2/pct:35.536663,30.712570,14.133900,10.808647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would never have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7$7/pct:16.056485,73.991597,18.017782,11.974790/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7$7/pct:16.056485,73.991597,18.017782,11.974790/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ At home, like neighbor Jim, &quot; .
 I&#x27;ll bet a cent this accident  
 Would not have happened him, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472037%2F1845081501%2F0389.jp2/pct:53.195834,78.702461,12.722075,6.129754/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472037%2F1845081501%2F0389.jp2/pct:53.195834,78.702461,12.722075,6.129754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ I&#x27;ll bet a cent that accident
   
 Would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82014327%2F00415668855%2F1845091101%2F0307.jp2/pct:29.320787,51.064760,11.210253,6.265395/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82014327%2F00415668855%2F1845091101%2F0307.jp2/pct:29.320787,51.064760,11.210253,6.265395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ At home, like neighbour Jim
 I&#x27;ll bet a cent that accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn85042147%2F00296022603%2F1845111201%2F0397.jp2/pct:32.833787,68.637838,13.160763,6.389189/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn85042147%2F00296022603%2F1845111201%2F0397.jp2/pct:32.833787,68.637838,13.160763,6.389189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ HTiila strolling through a wood,
 And killed him, &quot;worry good.&quot;  
 Had hs been reading o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1849072101%2F0917.jp2/pct:3.830563,72.778905,12.525334,8.992563/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1849072101%2F0917.jp2/pct:3.830563,72.778905,12.525334,8.992563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ ax nome, like neighbor Jim, j
 I&#x27;d bet a cent that accident ,  
 W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1849072101%2F0042.jp2/pct:5.191635,29.984351,15.317633,12.689470/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1849072101%2F0042.jp2/pct:5.191635,29.984351,15.317633,12.689470/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1064,7 +1064,7 @@ At home like neighbor Jim,
 I&#x27;ll bet a cent Ihnt accident  
 Would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292479%2F1857012201%2F0227.jp2/pct:30.492424,46.795261,11.212121,11.026731/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292479%2F1857012201%2F0227.jp2/pct:30.492424,46.795261,11.212121,11.026731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ At homo, like neighbor Jim,
 I&#x27;ll hot a cent the accident  
 Would not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn85059716%2F00201293031%2F1857022001%2F0229.jp2/pct:15.209851,12.305995,27.501734,86.729318/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn85059716%2F00201293031%2F1857022001%2F0229.jp2/pct:15.209851,12.305995,27.501734,86.729318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,7 +1125,7 @@ A tree fill iluirn vpnn hit crown.
 And killed him as it should ;  
 llud he boon rending of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1857123101%2F0175.jp2/pct:5.369475,40.161868,9.133287,7.761709/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1857123101%2F0175.jp2/pct:5.369475,40.161868,9.133287,7.761709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ At home like neighbor Jim,
 I&#x27;ll let a cent this accident  
 Woald not have befalien him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477655%2F1865011101%2F0257.jp2/pct:8.420154,21.547665,12.997438,9.952908/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477655%2F1865011101%2F0257.jp2/pct:8.420154,21.547665,12.997438,9.952908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ crown and killed him—as it should. Had he been
 reading the news, at home, like neighbor Jim, I&#x27;ll beta  
 cent that accident would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1867-05-23_40_21$2/pct:24.777228,27.058030,21.163366,4.537787/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1867-05-23_40_21$2/pct:24.777228,27.058030,21.163366,4.537787/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ fell down upon his crown and kiHed_him
 the news, at home like neighbor Jim,  
 we&#x27;ll bet a cent that accident would no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286996%2F1867082101%2F0030.jp2/pct:69.345595,10.387383,13.239149,4.645537/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286996%2F1867082101%2F0030.jp2/pct:69.345595,10.387383,13.239149,4.645537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1228,7 +1228,7 @@ ed him—as it should. Had he been reading of
 the news, at home like neighbor Jim, we II beta  
 cent that accident would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557402%2F1867091401%2F0148.jp2/pct:50.035900,80.917646,14.036977,3.520904/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557402%2F1867091401%2F0148.jp2/pct:50.035900,80.917646,14.036977,3.520904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ Had he been reading of the news, at home
 like neighbor Jim, we’ll beta cent that acci  
 dent would not have happened him.—Lyon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556677%2F1867092101%2F0572.jp2/pct:76.094686,62.725316,13.173653,4.381894/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556677%2F1867092101%2F0572.jp2/pct:76.094686,62.725316,13.173653,4.381894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ been reading of the news, at home like
 neighbor Jim, we&#x27;ll bet a cent that  
 accident would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775824%2F1867092701%2F0359.jp2/pct:77.080428,31.855225,9.840384,4.338447/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775824%2F1867092701%2F0359.jp2/pct:77.080428,31.855225,9.840384,4.338447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ as it should. Had he been reading of the
 news, at home like neighbor Jim, we&#x27;ll het a  
 cent that accident would not have happene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn83025182%2F00279528384%2F1867100601%2F0320.jp2/pct:4.714877,87.617925,11.096952,4.492925/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn83025182%2F00279528384%2F1867100601%2F0320.jp2/pct:4.714877,87.617925,11.096952,4.492925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ crown and killed him?as it should. Had he been
 reading of the news like brother Jim, we&#x27;ll bet a  
 cent that accident would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551256%2F1867103001%2F0148.jp2/pct:3.018748,93.263698,15.782226,5.112699/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551256%2F1867103001%2F0148.jp2/pct:3.018748,93.263698,15.782226,5.112699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ been reading of tbe news, at home like
 neighbor Jim, we&#x27;ll bet a cent that  
 accident would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1868010101%2F0012.jp2/pct:65.076126,72.370089,9.354889,5.602028/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1868010101%2F0012.jp2/pct:65.076126,72.370089,9.354889,5.602028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ At home, like neighbor Jim,
 I’ll bet a cent, this accident,  
 Had not befallen hint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623690%2F1868120301%2F0222.jp2/pct:24.593581,59.566032,11.356584,12.244373/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623690%2F1868120301%2F0222.jp2/pct:24.593581,59.566032,11.356584,12.244373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1405,7 +1405,7 @@ At home like neighbor Jim,
 I&#x27;ll bet a cent this accident  
 Would not befallen him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775915%2F1870011901%2F0418.jp2/pct:38.090796,37.204151,9.266169,6.692317/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775915%2F1870011901%2F0418.jp2/pct:38.090796,37.204151,9.266169,6.692317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1512,7 +1512,7 @@ killed him?as it should. Had he been reading
 of the news, at home, like neighbor Jim, I&#x27;ll  
 bet a cent this accident had not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551268%2F1871011901%2F0439.jp2/pct:17.936713,45.199437,16.193090,7.295374/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551268%2F1871011901%2F0439.jp2/pct:17.936713,45.199437,16.193090,7.295374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ At home like neighbor Jim,
 I&#x27;ll bet a cent this accident  
 Had not befallen him 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022974%2F1871012401%2F0438.jp2/pct:6.299431,8.465932,28.902456,85.301918/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022974%2F1871012401%2F0438.jp2/pct:6.299431,8.465932,28.902456,85.301918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1600,7 +1600,7 @@ At home like neighbor Jim,
 I&#x27;ll bet a cent this arcident  
 Usd not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn84038628%2F0029587997A%2F1871012701%2F0708.jp2/pct:16.815905,4.125713,20.883290,91.675768/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn84038628%2F0029587997A%2F1871012701%2F0708.jp2/pct:16.815905,4.125713,20.883290,91.675768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1637,7 +1637,7 @@ At home like neighbor Jim,
 PH bet a cent this accident  
 Had not befallen him 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623720%2F1871030201%2F0045.jp2/pct:6.008949,7.508495,9.119966,7.223501/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623720%2F1871030201%2F0045.jp2/pct:6.008949,7.508495,9.119966,7.223501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1718,7 +1718,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would never have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871092801%2F0230.jp2/pct:5.248048,7.725814,13.294289,6.115314/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871092801%2F0230.jp2/pct:5.248048,7.725814,13.294289,6.115314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1749,7 +1749,7 @@ At home, like Neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would never have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_youths-companion_1871-10-12_44_41$7/pct:31.214848,38.313388,14.820022,6.899776/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1871-10-12_44_41$7/pct:31.214848,38.313388,14.820022,6.899776/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1783,7 +1783,7 @@ At home like neighbor Jim,
 I&#x27;ll bet a cent this accident  
 Had not 1 efallcn him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1872022401%2F0101.jp2/pct:29.205462,28.387850,12.538796,12.106698/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1872022401%2F0101.jp2/pct:29.205462,28.387850,12.538796,12.106698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1812,7 +1812,7 @@ At home like neighbor Jim.
 I&#x27;ll bet à cent this accident  
 Had not befallen 1dm 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F0029587613A%2F1872072701%2F0126.jp2/pct:5.756792,31.089439,9.524580,6.053758/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F0029587613A%2F1872072701%2F0126.jp2/pct:5.756792,31.089439,9.524580,6.053758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1984,7 +1984,7 @@ A tree fell upon his crown.
 And killed him very good.  
 Had he 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874070201%2F0516.jp2/pct:5.147168,10.859568,7.454519,4.751798/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874070201%2F0516.jp2/pct:5.147168,10.859568,7.454519,4.751798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2039,7 +2039,7 @@ At home, like neighbor Jim,
 I&#x27;d bet a cent, this accident  
 Had not befallen him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9$8/pct:48.887344,71.286031,48.296245,16.491131/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9$8/pct:48.887344,71.286031,48.296245,16.491131/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2068,7 +2068,7 @@ At homo, like neighbor Jim,
 I&#x27;d bet a cent, this accident  
 Had not befallen him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029038%2F1878121901%2F0139.jp2/pct:7.455429,5.880173,8.486813,5.966646/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029038%2F1878121901%2F0139.jp2/pct:7.455429,5.880173,8.486813,5.966646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2094,7 +2094,7 @@ Had he been reading of the news at home,
 like neighbor Jim, I’d bet a cent this accident  
 had not befallen him. The moral of this i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F0041562380A%2F1879010401%2F0012.jp2/pct:14.560603,69.862609,10.745223,5.377456/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F0041562380A%2F1879010401%2F0012.jp2/pct:14.560603,69.862609,10.745223,5.377456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2123,7 +2123,7 @@ At home, like neighbor Jim,
 I&#x27;d bet a cent, this accident  
 Had not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472992%2F1879011001%2F0006.jp2/pct:65.910858,43.858485,7.683338,5.682698/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472992%2F1879011001%2F0006.jp2/pct:65.910858,43.858485,7.683338,5.682698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2158,7 +2158,7 @@ At home, like neighbor Jim,
 I&#x27;d risk a cent this accident  
 Had not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194394%2F1879012701%2F0227.jp2/pct:13.616071,60.484976,11.202567,9.414866/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194394%2F1879012701%2F0227.jp2/pct:13.616071,60.484976,11.202567,9.414866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2189,7 +2189,7 @@ While strolling through thle wood,
 A tree fell upon hisrcrown,  
 And killed him-as it shou&#x27;d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_gambit_ver01%2Fdata%2Fsn88064592%2F00280761862%2F1879020801%2F0012.jp2/pct:4.363267,74.047315,12.785388,12.140530/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gambit_ver01%2Fdata%2Fsn88064592%2F00280761862%2F1879020801%2F0012.jp2/pct:4.363267,74.047315,12.785388,12.140530/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2231,7 +2231,7 @@ While strolling through the wood,
 A tree fell down upon his crown,  
 Ami killed him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_pulaski_ver01%2Fdata%2Fsn84031492%2Fno_reel%2F1879041001%2F0011.jp2/pct:30.221811,3.571429,23.765514,94.895812/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_pulaski_ver01%2Fdata%2Fsn84031492%2Fno_reel%2F1879041001%2F0011.jp2/pct:30.221811,3.571429,23.765514,94.895812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2291,7 +2291,7 @@ Had he been posted in the news,
 And talked like tneighlbor Jim.  
 I&#x27;d het a cent this sad, sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212474927%2F1879042601%2F0070.jp2/pct:29.526749,16.630117,26.045953,80.823587/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212474927%2F1879042601%2F0070.jp2/pct:29.526749,16.630117,26.045953,80.823587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2372,7 +2372,7 @@ At home like neighbor Jim,
 I&#x27;d bet a cent this accident  
 Had not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879061901%2F0520.jp2/pct:63.860627,61.113652,9.825784,10.404756/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879061901%2F0520.jp2/pct:63.860627,61.113652,9.825784,10.404756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2405,7 +2405,7 @@ Neighbor Jim, I&#x27;d bet a cent this accident
   
 bad not befallen blm.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_eeyore_ver01%2Fdata%2Fsn87052143%2F00294556552%2F1879062801%2F0353.jp2/pct:13.317191,61.169253,9.912228,5.136533/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_eeyore_ver01%2Fdata%2Fsn87052143%2F00294556552%2F1879062801%2F0353.jp2/pct:13.317191,61.169253,9.912228,5.136533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2491,7 +2491,7 @@ At home, like neighbor Jim,
 I bet a cent that accident  
 Would ne&#x27;er have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_goshen_ver01%2Fdata%2Fsn83016758%2F00280767815%2F1894032201%2F0095.jp2/pct:35.481100,83.547253,12.344287,8.213003/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_goshen_ver01%2Fdata%2Fsn83016758%2F00280767815%2F1894032201%2F0095.jp2/pct:35.481100,83.547253,12.344287,8.213003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -227,7 +227,7 @@ in the prioes,so that they may be able to
 pey the men better wages. He believed the  
 merchants would pay living wages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:5.312298,3.710070,28.466903,92.682997/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:5.312298,3.710070,28.466903,92.682997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

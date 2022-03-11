@@ -122,7 +122,7 @@ vttQ a coating of lime. There are many women
 among them, and faces tne ferocity of which  
 males cue aid to lock upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1871061501%2F0001.jp2/pct:32.359551,54.155990,8.717228,2.838725/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1871061501%2F0001.jp2/pct:32.359551,54.155990,8.717228,2.838725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ of lime. There are many women among them,
 and faces the ferocity oi which makes one sick  
 to look npon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn83025925%2F00280776324%2F1871061501%2F0318.jp2/pct:4.848279,38.139046,14.477030,5.125509/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn83025925%2F00280776324%2F1871061501%2F0318.jp2/pct:4.848279,38.139046,14.477030,5.125509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ lime. &quot;There are&#x27; many womerramong
 them, and faces the ; ferocity of which  
 makes one sick to&#x27;look upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293708%2F1871061701%2F0596.jp2/pct:22.467091,8.468126,14.480106,5.349403/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293708%2F1871061701%2F0596.jp2/pct:22.467091,8.468126,14.480106,5.349403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ women among them, and faces, the fe?
 rocity of which makes ono sick to look  
 upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551554%2F1871061801%2F0270.jp2/pct:65.791280,61.009322,16.334821,7.126785/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551554%2F1871061801%2F0270.jp2/pct:65.791280,61.009322,16.334821,7.126785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ lime. There nre many women among
 them. niYd&#x27; fiifPM th fnnvrMtv of wlilnli  
 I UIUKVH UUI HICK HI IOOK UpUIl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293563%2F1871062101%2F0403.jp2/pct:25.393207,50.288092,17.278322,5.137644/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293563%2F1871062101%2F0403.jp2/pct:25.393207,50.288092,17.278322,5.137644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ women among them, and faoes tho fero
   
 city of which makes ona sick to look
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871062101%2F0577.jp2/pct:44.696189,38.504754,12.461380,4.883319/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871062101%2F0577.jp2/pct:44.696189,38.504754,12.461380,4.883319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ over with a coating of lime. There are many
 women among them, and faces the ferocity  
 of which makes one sick to look upon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022974%2F1871062701%2F0523.jp2/pct:52.000000,78.477718,14.808219,6.205748/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022974%2F1871062701%2F0523.jp2/pct:52.000000,78.477718,14.808219,6.205748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ manry women among them, andi
 faces, the ferocity of which makes&#x27;  
 one sick to look uponms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286984%2F1871062801%2F0531.jp2/pct:86.047567,75.595478,11.905410,7.670569/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286984%2F1871062801%2F0531.jp2/pct:86.047567,75.595478,11.905410,7.670569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ Iim&lt;h There are many women among them,
 and faces the ferocity of which makes one sick  
 to look upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:83.079913,58.971494,16.729545,4.987824/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:83.079913,58.971494,16.729545,4.987824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ many women among them, and faces
 the ferocity of which make one sick to  
 look upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F0027955520A%2F1871070601%2F0020.jp2/pct:20.347063,81.848783,11.751526,4.897074/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F0027955520A%2F1871070601%2F0020.jp2/pct:20.347063,81.848783,11.751526,4.897074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

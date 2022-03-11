@@ -66,7 +66,7 @@ and pay in advance, and it shall be well
 with thee and thy little ones. Broivns  
 villc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025180%2F00237287927%2F1837082601%2F0082.jp2/pct:59.754877,17.392024,36.343172,78.189641/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025180%2F00237287927%2F1837082601%2F0082.jp2/pct:59.754877,17.392024,36.343172,78.189641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ eye. that thou mayst understand it.
 ately for it, and pay in trlcance, and it i  
 shall be well w th thee and thy little ones, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_aquasox_ver01%2Fdata%2Fsn85025007%2F00414215622%2F1837091401%2F0695.jp2/pct:54.584246,50.459831,15.792104,14.595526/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_aquasox_ver01%2Fdata%2Fsn85025007%2F00414215622%2F1837091401%2F0695.jp2/pct:54.584246,50.459831,15.792104,14.595526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ ately for it, and pay in advance, and it
 shall be well with thee and thy little  
 ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393348951%2F1837092001%2F0531.jp2/pct:46.242661,71.827375,14.153620,17.066657/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393348951%2F1837092001%2F0531.jp2/pct:46.242661,71.827375,14.153620,17.066657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ meet thine eye, that thou mavest understand it
 mediately for it, and pay in advance, and it shall be well with thee  
 and thy little one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13$7/pct:64.190628,70.325834,27.582535,17.513576/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13$7/pct:64.190628,70.325834,27.582535,17.513576/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ other subscribe immediately for it,
 and pay in advance, and it shall be  
 well with thee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82015686%2F00415668818%2F1837100701%2F0224.jp2/pct:67.097751,62.867711,14.458814,23.198433/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82015686%2F00415668818%2F1837100701%2F0224.jp2/pct:67.097751,62.867711,14.458814,23.198433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ time to give it unto thee without asking.
   
 o WKon thou tlnat write for his paper never i , hepi,y to mk. biddle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837100701%2F0643.jp2/pct:14.059280,68.962888,62.688223,28.126589/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837100701%2F0643.jp2/pct:14.059280,68.962888,62.688223,28.126589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ o WKon thou tlnat write for his paper never i , hepi,y to mk. biddle
 &quot; The time approached, mv friend appeared quite j it, and pay in advance, and  
 resigned, which proved the firmness of his cbarac- j thee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837100701%2F0643.jp2/pct:15.771121,81.189629,24.615628,1.359939/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837100701%2F0643.jp2/pct:15.771121,81.189629,24.615628,1.359939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ democratic ;) subscribe immediately for it
 and pay in advance, and it shall be well  
 with thee and thy little ones. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/rp_beholder_ver02%2Fdata%2Fsn83025561%2F00340587984%2F1837101101%2F0740.jp2/pct:17.022285,11.543618,14.787814,13.632628/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_beholder_ver02%2Fdata%2Fsn83025561%2F00340587984%2F1837101101%2F0740.jp2/pct:17.022285,11.543618,14.787814,13.632628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ other, subacribe immediately for it, and pay
 in advance; nud it shull be well with thee and  
 thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152755%2F1837101201%2F0384.jp2/pct:4.604776,71.377579,14.862940,15.020960/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152755%2F1837101201%2F0384.jp2/pct:4.604776,71.377579,14.862940,15.020960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ thou mayest understand it.
 * ly for it, and pay. in advance, and it shall  
 be well with thee and t!iy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_hookandcook_ver03%2Fdata%2Fsn88084121%2F00295861800%2F1837101801%2F0375.jp2/pct:19.103314,24.059886,16.926576,17.665837/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_hookandcook_ver03%2Fdata%2Fsn88084121%2F00295861800%2F1837101801%2F0375.jp2/pct:19.103314,24.059886,16.926576,17.665837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ othersubscribe immediately for it, and pay
 in advance, and it shall bo well tor thee auJ  
 thy lit&#x27; lo onus, llrornsrillc Banner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_kingsombra_ver01%2Fdata%2Fsn87065592%2F00415662026%2F1837102401%2F0067.jp2/pct:78.234824,25.312240,14.916134,16.167083/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_kingsombra_ver01%2Fdata%2Fsn87065592%2F00415662026%2F1837102401%2F0067.jp2/pct:78.234824,25.312240,14.916134,16.167083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ t . i- .....&quot;..-. . t. . , . . . . . 1 .
 subscribe immediately for it, and pay hi advance, uud 1  
 it&quot;shall be welf with thee and thy littte ooes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1838010601%2F0095.jp2/pct:33.155503,66.966599,15.649081,11.533742/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1838010601%2F0095.jp2/pct:33.155503,66.966599,15.649081,11.533742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ for it is not roadv to meet thino eye, ihlt
 thou may est understand it.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn83016620%2F00202197991%2F1838052301%2F0410.jp2/pct:83.117057,67.628866,12.173913,12.783505/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn83016620%2F00202197991%2F1838052301%2F0410.jp2/pct:83.117057,67.628866,12.173913,12.783505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ may&#x27;st undorstnnil it.
 .&#x27;iubscnbc immediatcly for it, and pny m advancc;  
 and it shall bo woll with theo and thv little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296187%2F1838061201%2F0183.jp2/pct:58.265939,44.565064,17.434644,13.506274/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296187%2F1838061201%2F0183.jp2/pct:58.265939,44.565064,17.434644,13.506274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ scribe immediately for it, and pay in advance,
 that it may be well with thee and thy little  
 ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_alicanto_ver02%2Fdata%2Fsn82015015%2F00415660960%2F1838091901%2F0604.jp2/pct:63.762605,65.831325,15.556290,14.514056/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_alicanto_ver02%2Fdata%2Fsn82015015%2F00415660960%2F1838091901%2F0604.jp2/pct:63.762605,65.831325,15.556290,14.514056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ subscribe immediately for it. and pay in
 advance, and it shall be well with thee  
 and thy little ones. : &#x27; , &#x27; ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn83016939%2F00295878216%2F1838102001%2F0611.jp2/pct:56.068693,19.049000,33.766535,72.165845/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn83016939%2F00295878216%2F1838102001%2F0611.jp2/pct:56.068693,19.049000,33.766535,72.165845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ file immediately for it and. pay in ad
 vance, that it may be well with the and thy  
 little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn83016864%2F00295878186%2F1839010101%2F0620.jp2/pct:17.078861,6.808260,14.030176,16.613569/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn83016864%2F00295878186%2F1839010101%2F0620.jp2/pct:17.078861,6.808260,14.030176,16.613569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ scribe immediately it an l&quot; pay in ad­
 vance, that it may be well ilh thee and  
 thv little one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_kingsombra_ver01%2Fdata%2Fsn87065337%2F00415662002%2F1839011201%2F0128.jp2/pct:2.001396,8.832891,34.954620,85.795756/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_kingsombra_ver01%2Fdata%2Fsn87065337%2F00415662002%2F1839011201%2F0128.jp2/pct:2.001396,8.832891,34.954620,85.795756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ scribe immediately for it, pay in advance,
 and it shall be well with the and thy little  
 oneB
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00416156888%2F1840100301%2F0335.jp2/pct:54.341246,6.991442,14.608890,14.140882/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00416156888%2F1840100301%2F0335.jp2/pct:54.341246,6.991442,14.608890,14.140882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ G. .Neither examine thou the proof-sheet,-for
 it is not ready to meet thine eye, that thou may­  
 est understand it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237281846%2F1841110301%2F0319.jp2/pct:39.245346,12.938699,35.721410,78.965840/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237281846%2F1841110301%2F0319.jp2/pct:39.245346,12.938699,35.721410,78.965840/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ er, subscribe for it immediately and pay in
 advance and it shall be well with thee and  
 thy little ones. Richland Jef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065695%2F00295877583%2F1841123101%2F0114.jp2/pct:71.851739,40.121175,16.284369,19.850072/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065695%2F00295877583%2F1841123101%2F0114.jp2/pct:71.851739,40.121175,16.284369,19.850072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ touch the type; for thou mayest cause the
 printer much trouble.  
 And when thou goest out, tee to it tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn83016957%2F0020029242A%2F1842021201%2F0400.jp2/pct:65.853179,87.004104,14.524700,5.289558/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn83016957%2F0020029242A%2F1842021201%2F0400.jp2/pct:65.853179,87.004104,14.524700,5.289558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ it is not ready to meet thine eyes and thou mayest
 not understand it.  
 7. Nor should&#x27;st thou, unless thou art a subscriber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn85042796%2F00295863092%2F1842062901%2F0351.jp2/pct:40.828872,12.579432,21.792584,12.371936/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn85042796%2F00295863092%2F1842062901%2F0351.jp2/pct:40.828872,12.579432,21.792584,12.371936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ G. Neither examine thou the proof sheet—
 for it is not ready to meet thine eye and thou  
 mayest not understand it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182951%2F1842072101%2F0504.jp2/pct:58.206318,81.171068,17.213386,10.953645/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182951%2F1842072101%2F0504.jp2/pct:58.206318,81.171068,17.213386,10.953645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ of the printer.
 it is not ready to meet thine eye, and thou may­  
 est not understand it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn83016957%2F0020029242A%2F1842090301%2F0519.jp2/pct:66.845771,33.556536,14.348259,10.820271/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn83016957%2F0020029242A%2F1842090301%2F0519.jp2/pct:66.845771,33.556536,14.348259,10.820271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ him who is the author of an article: for
 his duty requires him to keep such things  
 to himself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393348987%2F1844030701%2F0043.jp2/pct:15.338794,79.687714,12.960722,5.194494/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393348987%2F1844030701%2F0043.jp2/pct:15.338794,79.687714,12.960722,5.194494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ subscribj immediately for it, and
 pay in advance, that it &#x27;may be well .  
 with thee and thy little ones. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027522%2F1844032901%2F0016.jp2/pct:79.457683,47.360704,16.146261,15.791789/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027522%2F1844032901%2F0016.jp2/pct:79.457683,47.360704,16.146261,15.791789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ eyes of the printer.
   
 Neither peep over the outside while it is be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1844-04-19_25_16$3/pct:40.713802,14.576547,12.077131,8.740499/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1844-04-19_25_16$3/pct:40.713802,14.576547,12.077131,8.740499/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ him to keep such things to himself.
 When thou dost enter into a printing cffice,  
 have a care. to thyself that thou dost not touch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7$3/pct:55.320755,20.803063,15.761006,5.605733/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7$3/pct:55.320755,20.803063,15.761006,5.605733/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ of the printer.
   
 Neither peep over the outside while it is bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7$3/pct:55.245283,26.448066,15.723270,3.730611/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7$3/pct:55.245283,26.448066,15.723270,3.730611/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ Look not at the copy which is in tha
 hands of the compositor, for that is not  
 meet in tne aigiu 01 me prime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_kingsombra_ver01%2Fdata%2Fsn83016863%2F00415662051%2F1844042701%2F0284.jp2/pct:77.271807,73.226612,14.693382,10.104274/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_kingsombra_ver01%2Fdata%2Fsn83016863%2F00415662051%2F1844042701%2F0284.jp2/pct:77.271807,73.226612,14.693382,10.104274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ the hands of the compositor, for that is
 not meet in the sight of the printer.  
 Neither peep over the outside whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065034%2F00295877649%2F1844052301%2F0219.jp2/pct:80.169146,77.862912,15.281423,13.698488/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065034%2F00295877649%2F1844052301%2F0219.jp2/pct:80.169146,77.862912,15.281423,13.698488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ nanus 01 the compositor, for that is not meet
 in the sight of the pt inter.  
 Neither peep over the outside while it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn87090028%2F00295877959%2F1844052501%2F0390.jp2/pct:4.068430,65.790068,15.439908,9.334086/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn87090028%2F00295877959%2F1844052501%2F0390.jp2/pct:4.068430,65.790068,15.439908,9.334086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1398,7 +1398,7 @@ hands of the compositor, for that is not
 meet in the sight of the Printer.  
 Neither peep over the outside whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025180%2F00237287940%2F1844072701%2F0053.jp2/pct:79.120879,45.487708,15.260211,10.737510/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025180%2F00237287940%2F1844072701%2F0053.jp2/pct:79.120879,45.487708,15.260211,10.737510/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1534,7 +1534,7 @@ advance, that it may be well
 with thee and thy little  
 ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn83016957%2F00200292431%2F1845090601%2F0355.jp2/pct:5.239135,5.365929,13.633657,22.847478/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn83016957%2F00200292431%2F1845090601%2F0355.jp2/pct:5.239135,5.365929,13.633657,22.847478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ other — subscribe immediately for it and pay
 in advance, nnd it shall be well with thee and  
 thy little ones, — Exeter News Letter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-09-10_28_37$3/pct:33.032194,74.309979,11.842970,13.972930/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-09-10_28_37$3/pct:33.032194,74.309979,11.842970,13.972930/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1719,7 +1719,7 @@ any other—subscribe immediately lor it and
 pay in advance, and it shall be well with thee  
 and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393348999%2F1847102101%2F0163.jp2/pct:69.154322,62.255307,13.224264,13.485663/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393348999%2F1847102101%2F0163.jp2/pct:69.154322,62.255307,13.224264,13.485663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1768,7 +1768,7 @@ pertoany other subscribe immediately
 for it and pay in advance, and it shall be  
 well withjthee and thy littleones. Exite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn87070038%2F00296028058%2F1847102901%2F0079.jp2/pct:42.676623,73.300234,12.693854,15.473728/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn87070038%2F00296028058%2F1847102901%2F0079.jp2/pct:42.676623,73.300234,12.693854,15.473728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1835,7 +1835,7 @@ pay in advance, and it shall bo well with thee
   
 and thy little one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016872%2F00295878502%2F1847111301%2F0349.jp2/pct:11.555233,74.729627,16.012597,16.100533/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016872%2F00295878502%2F1847111301%2F0349.jp2/pct:11.555233,74.729627,16.012597,16.100533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1874,7 +1874,7 @@ to any other subscribe immediately 1 for
 it and pay in advance, and it shall be well  
 wilh thee and thy little &quot;, ones. Extr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84024082%2F0021247163A%2F1847111601%2F0265.jp2/pct:79.058070,29.777283,14.631916,16.369710/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84024082%2F0021247163A%2F1847111601%2F0265.jp2/pct:79.058070,29.777283,14.631916,16.369710/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1902,7 @@ sight of the printer.
 is not ready to meet thine eye, that thou may- |  
 est read it clearly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50$3/pct:9.149146,47.072193,12.302891,5.481283/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50$3/pct:9.149146,47.072193,12.302891,5.481283/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1926,7 @@ often requires him to keep such things to him-
 self.  
 7. Never say to the publisher that thou wilt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50$3/pct:9.067017,55.494652,12.385020,4.893048/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50$3/pct:9.067017,55.494652,12.385020,4.893048/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1961,7 +1961,7 @@ VII. Prefer thy own city newspaper to any oth­
 er—subscribe inmediatcly and j jy f &gt;r it in ady Mice,  
 and it shall b-* well with thee ar.j thy little ot.es.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_devo_ver01%2Fdata%2Fsn82007022%2F00393342894%2F1847121301%2F0225.jp2/pct:28.375286,29.582256,13.435135,10.059192/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_devo_ver01%2Fdata%2Fsn82007022%2F00393342894%2F1847121301%2F0225.jp2/pct:28.375286,29.582256,13.435135,10.059192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2010,7 +2010,7 @@ to any other; end subscribe immediately
 for it, and pay in advance, end it ahall be  
 well with Ibce end thy little onei. Ex. pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_chestnut_ver01%2Fdata%2Fsn84020716%2F00415667711%2F1848051001%2F0070.jp2/pct:17.993908,78.560115,44.299391,13.736501/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_chestnut_ver01%2Fdata%2Fsn84020716%2F00415667711%2F1848051001%2F0070.jp2/pct:17.993908,78.560115,44.299391,13.736501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2066,7 +2066,7 @@ per to any other, and subseribe immediately
 for it, and pay in advanee, anl it sha&#x27;l be well  
 with thee and thy liitle ones. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021169%2F00514152780%2F1849030101%2F0043.jp2/pct:59.459720,39.752054,13.082489,11.040200/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021169%2F00514152780%2F1849030101%2F0043.jp2/pct:59.459720,39.752054,13.082489,11.040200/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2119,7 +2119,7 @@ and pay in advance, and it shall be well with
   
 ‘hee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_scientific-american_1849-03-17_4_26$5/pct:67.705167,74.092742,19.554205,16.061828/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1849-03-17_4_26$5/pct:67.705167,74.092742,19.554205,16.061828/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2160,7 +2160,7 @@ best conducted paper to any other, and
 subscribe immediately for it, and it shall be  
 well with thee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_jerome_ver01%2Fdata%2Fsn89066057%2F00200292121%2F1849032601%2F0570.jp2/pct:25.257845,30.880025,17.116524,16.033555/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_jerome_ver01%2Fdata%2Fsn89066057%2F00200292121%2F1849032601%2F0570.jp2/pct:25.257845,30.880025,17.116524,16.033555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2181,7 +2181,7 @@ and L&#x27;au&#x27;iffl C&#x27;rist an exnerience which no reader Overcome evil 
   
 capable of appreciati.ig the noblest traits ot character, whp God called himself a Father, he chose a name dm requires him to keep such tilings to liim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1849-03-29_20_13$3/pct:17.008143,47.672658,38.008931,1.759697/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1849-03-29_20_13$3/pct:17.008143,47.672658,38.008931,1.759697/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,7 +2211,7 @@ fit tie;? that 1:.! U ‘hold i-T f;. i, him who is the E&#x27;.&#x27;-
 thor of ,;n ad ’ for h! d&quot;ty require., him to k; ■ p  
 such things to hint elf. When thou dost enter in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086768%2F00271769751%2F1849042701%2F0111.jp2/pct:77.274102,72.346426,13.819628,4.349008/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086768%2F00271769751%2F1849042701%2F0111.jp2/pct:77.274102,72.346426,13.819628,4.349008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2261,7 +2261,7 @@ immediately for it. and pay in advance, and
 it shall be well with thee and thy little  
 ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00415667279%2F1849072101%2F0333.jp2/pct:50.873646,54.291149,15.249097,12.129350/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00415667279%2F1849072101%2F0333.jp2/pct:50.873646,54.291149,15.249097,12.129350/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2294,7 +2294,7 @@ other, and subscribe immediately for it, and
 pay in advance, and it shall be well with, thee  
 and thy little ones. Picayune
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00237289699%2F1849110301%2F0737.jp2/pct:20.423122,48.637681,15.259037,11.084058/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00237289699%2F1849110301%2F0737.jp2/pct:20.423122,48.637681,15.259037,11.084058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2327,7 +2327,7 @@ for his duty requires hint to keep such things to himself.
 When thou dost enter into his office, have a care unto thyselfthat thou  
 dost not look at what gay be lying open, for that is not meet in the sigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25$4/pct:68.699597,85.211268,27.032930,4.412412/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25$4/pct:68.699597,85.211268,27.032930,4.412412/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2361,7 +2361,7 @@ other and subscribe immediately for it, j
 and it shall be well with thee and thy lit­  
 tle ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn85059716%2F00202193018%2F1852021801%2F0064.jp2/pct:29.171104,39.813741,14.168442,12.425714/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn85059716%2F00202193018%2F1852021801%2F0064.jp2/pct:29.171104,39.813741,14.168442,12.425714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2412,7 +2412,7 @@ other, and subscribe immediately for it, and
 pav in advance, and it shall be well with  
 thee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1853062501%2F0016.jp2/pct:61.521739,35.044204,14.166667,10.866896/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1853062501%2F0016.jp2/pct:61.521739,35.044204,14.166667,10.866896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2440,7 +2440,7 @@ Wlien thou doest enter into his office
 take heed unto thyself that thou doest  
 not look at w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045461%2F00280654024%2F1853102801%2F0404.jp2/pct:64.468157,85.201461,16.110738,8.943043/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045461%2F00280654024%2F1853102801%2F0404.jp2/pct:64.468157,85.201461,16.110738,8.943043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2466,7 +2466,7 @@ When thou does enter into his office taku
 heed unto thyself that thou does not look at  
 what may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853111201%2F0398.jp2/pct:79.963768,48.942006,14.275362,6.818182/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853111201%2F0398.jp2/pct:79.963768,48.942006,14.275362,6.818182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2485,7 +2485,7 @@ who is the author of an article for his &quot;With our six dollars and sixty-six
   
 of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn85049620%2F0027952939A%2F1853112601%2F0011.jp2/pct:51.494580,46.495828,41.695611,8.462455/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn85049620%2F0027952939A%2F1853112601%2F0011.jp2/pct:51.494580,46.495828,41.695611,8.462455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2508,7 +2508,7 @@ It is&#x27; not fit. that thou shouldst&#x27;ask &#x27; lijni wbp
 isthe author of any article, for . hia. duty-, re--  
 quires hint to keep sucb thmgsto himself. -: !i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477771%2F1854082301%2F0044.jp2/pct:20.726125,76.506974,14.538279,6.173438/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477771%2F1854082301%2F0044.jp2/pct:20.726125,76.506974,14.538279,6.173438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2543,7 +2543,7 @@ X. Neither examine the proff sheet;
 for it is not ready to meet thine eye, that  
 thou mayest understand it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F00296028861%2F1855122001%2F0172.jp2/pct:68.926316,45.592932,12.182456,13.774750/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F00296028861%2F1855122001%2F0172.jp2/pct:68.926316,45.592932,12.182456,13.774750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2580,7 +2580,7 @@ other, and subscribe immediately for il,
 and pay in advance, and it shall be well  
 with thoe and thv little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026712%2F1856021401%2F0662.jp2/pct:56.317822,51.838926,12.010300,16.093960/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026712%2F1856021401%2F0662.jp2/pct:56.317822,51.838926,12.010300,16.093960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2609,7 +2609,7 @@ heed unto hy self thai thou dost not look al
 what in-iy be lying open;, for that is not meet  
 in the sight of good 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn84028570%2F00280774790%2F1856022801%2F0363.jp2/pct:49.226964,77.372475,13.481756,7.484377/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn84028570%2F00280774790%2F1856022801%2F0363.jp2/pct:49.226964,77.372475,13.481756,7.484377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2633,7 +2633,7 @@ truth would ff ndtluje.
 It is not fit that thou svouldst ask  
 him who is the au hor of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065523%2F00295878174%2F1856032901%2F0462.jp2/pct:62.485227,53.698342,14.857336,8.041590/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065523%2F00295878174%2F1856032901%2F0462.jp2/pct:62.485227,53.698342,14.857336,8.041590/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2669,7 +2669,7 @@ other, and subscribe for it immediately.
 Pay in advance, and it shall be well with  
 thee and thy little ones. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775782%2F1856041101%2F0279.jp2/pct:42.767296,82.020572,12.726600,14.005918/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775782%2F1856041101%2F0279.jp2/pct:42.767296,82.020572,12.726600,14.005918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2699,7 +2699,7 @@ and subscribe for it immediately. Pay in ad
 vanoe, and it shall be well with thee and thy  
 little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654073%2F1856041401%2F0203.jp2/pct:66.062094,85.243687,16.042294,8.131560/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654073%2F1856041401%2F0203.jp2/pct:66.062094,85.243687,16.042294,8.131560/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2737,7 +2737,7 @@ and subscribe for it immediately. I&#x27;ay in ad­
 vance, and it shall be well with thee and thy  
 little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00415667292%2F1856050301%2F0269.jp2/pct:49.367267,75.524239,15.002812,9.030440/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00415667292%2F1856050301%2F0269.jp2/pct:49.367267,75.524239,15.002812,9.030440/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2766,7 +2766,7 @@ paper to any other, and subscribe for it im- r
 mediately. Cay in advance, and it shall be  
 well with thee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862683%2F1856050801%2F0078.jp2/pct:2.613832,51.895374,14.371425,9.397559/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862683%2F1856050801%2F0078.jp2/pct:2.613832,51.895374,14.371425,9.397559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2783,7 +2783,7 @@ other, and subscribe immediately for it and
 pay in advance, and it shall be well with  
 thee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn93052972%2F00279557256%2F1856052201%2F0301.jp2/pct:80.671317,65.717868,14.785667,2.248694/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn93052972%2F00279557256%2F1856052201%2F0301.jp2/pct:80.671317,65.717868,14.785667,2.248694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2800,7 +2800,7 @@ other, and subscribe for it immediately. Pay
 in advance, and it shall be well with thee and  
 thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028630%2F1856052401%2F0328.jp2/pct:8.311284,89.491974,14.557717,2.122757/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028630%2F1856052401%2F0328.jp2/pct:8.311284,89.491974,14.557717,2.122757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2838,7 +2838,7 @@ any other, and subscribe immediately
 for it and pay in advance, and it will  
 be well with thee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470697%2F1856072601%2F0030.jp2/pct:29.373283,69.541547,12.560513,14.250239/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470697%2F1856072601%2F0030.jp2/pct:29.373283,69.541547,12.560513,14.250239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2870,7 +2870,7 @@ other, and subscribe for it immediately.
 Pay in advance, and it shall be well  
 with thee and with thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026884%2F00279557499%2F1857022001%2F0347.jp2/pct:83.174764,81.129193,12.922594,10.762507/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026884%2F00279557499%2F1857022001%2F0347.jp2/pct:83.174764,81.129193,12.922594,10.762507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2909,7 +2909,7 @@ mayest cause the printer much trouble.
 in the hands of the compositors; for that  
 is not meet in the sight of the printer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1857080101%2F0311.jp2/pct:16.807568,32.956403,15.016103,20.531335/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1857080101%2F0311.jp2/pct:16.807568,32.956403,15.016103,20.531335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2950,7 +2950,7 @@ journals subscribe immediately for it, py in
 advance, and it shall be well with thee and thy little  
 ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_dolly_ver01%2Fdata%2Fsn85038518%2F00200293241%2F1857090601%2F0237.jp2/pct:5.262313,39.469027,12.963260,12.861357/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_dolly_ver01%2Fdata%2Fsn85038518%2F00200293241%2F1857090601%2F0237.jp2/pct:5.262313,39.469027,12.963260,12.861357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2982,7 +2982,7 @@ Zlt. When thou dost enter into his office, have a
 caxe unto thyself that thou dost not look at what may  
 belrinz open, for that is not meet in thesight of goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474216%2F1857091701%2F0047.jp2/pct:14.904933,89.332904,13.003590,4.984424/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474216%2F1857091701%2F0047.jp2/pct:14.904933,89.332904,13.003590,4.984424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3021,7 +3021,7 @@ msyett cause the Dsril much trouble.
 in the hands of the compos1 ton; for thafr  
 is not meet in the sight of the Devil an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85026945%2F00202194278%2F1857091701%2F0669.jp2/pct:82.336021,70.435623,16.914226,16.871097/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85026945%2F00202194278%2F1857091701%2F0669.jp2/pct:82.336021,70.435623,16.914226,16.871097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3044,7 +3044,7 @@ per, never say unto him, &quot;Whatthink­
 eat thou of my piece V for it may be  
 that the truth would offend thee.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_gastly_ver01%2Fdata%2Fsn82014134%2F00279529261%2F1857101701%2F0155.jp2/pct:4.927413,83.061939,9.646758,4.542480/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gastly_ver01%2Fdata%2Fsn82014134%2F00279529261%2F1857101701%2F0155.jp2/pct:4.927413,83.061939,9.646758,4.542480/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3063,7 +3063,7 @@ Jirinting office hare a care unto thy
 «rif that thou do not touch the type,  
 fer thoa maye* causc the printer much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_gastly_ver01%2Fdata%2Fsn82014134%2F00279529261%2F1857101701%2F0155.jp2/pct:4.955786,88.963314,9.694046,3.068099/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gastly_ver01%2Fdata%2Fsn82014134%2F00279529261%2F1857101701%2F0155.jp2/pct:4.955786,88.963314,9.694046,3.068099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3095,7 +3095,7 @@ printer much trouble.
 the hands of the compositors for that is  
 not meet in the sight of the printer, and h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86060019%2F00415668892%2F1857102801%2F0069.jp2/pct:29.205029,68.731073,11.147411,7.736908/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86060019%2F00415668892%2F1857102801%2F0069.jp2/pct:29.205029,68.731073,11.147411,7.736908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3136,7 +3136,7 @@ is in the hands of tho compositors for
 that is not meet in the sight of the prin­  
 ter, and he might knock thee down
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027238%2F0027952942A%2F1857110401%2F0236.jp2/pct:84.124127,36.014010,11.379709,15.255607/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027238%2F0027952942A%2F1857110401%2F0236.jp2/pct:84.124127,36.014010,11.379709,15.255607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3251,7 +3251,7 @@ paper to any other, and subscribe immediately
 for it, and pay in advance, and it shall be well  
 with thee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026978%2F00279557475%2F1858012101%2F0171.jp2/pct:7.565869,26.272712,14.418661,11.679489/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026978%2F00279557475%2F1858012101%2F0171.jp2/pct:7.565869,26.272712,14.418661,11.679489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3456,7 +3456,7 @@ thou mayest cause the printer much trouble.
 bands or the compositors, for that - is not  
 meet iu the sight of the printer, and he migh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862695%2F1858061001%2F0021.jp2/pct:83.631702,77.755109,14.377622,13.811976/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862695%2F1858061001%2F0021.jp2/pct:83.631702,77.755109,14.377622,13.811976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3496,7 +3496,7 @@ mayest cause the the printer much trouble.
 hands of the compositors, for that is not  
 meet iu the sight of the printer, and h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn85030219%2F00212472803%2F1858062601%2F0204.jp2/pct:47.245536,76.836972,14.802381,16.225202/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn85030219%2F00212472803%2F1858062601%2F0204.jp2/pct:47.245536,76.836972,14.802381,16.225202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3532,7 +3532,7 @@ trouble.
 the hands of tho compositors, for teat is  
 not meto in tho sight of tho printer, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F00200294531%2F1858070101%2F0337.jp2/pct:70.651531,61.706294,12.380277,13.846154/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F00200294531%2F1858070101%2F0337.jp2/pct:70.651531,61.706294,12.380277,13.846154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3602,7 +3602,7 @@ le&quot;5. Look thou notnt copy which isjn
 tho hands of the compositors for that ia  
 not moot lu the sight of tho printer, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026279%2F00280775095%2F1858072301%2F0406.jp2/pct:81.799779,35.836128,12.384983,12.392477/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026279%2F00280775095%2F1858072301%2F0406.jp2/pct:81.799779,35.836128,12.384983,12.392477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3631,7 +3631,7 @@ reading a proof. Prefer the town paper to any
 other ; subscribe immediately for it, and pay in  
 advance,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974$6/pct:46.717172,54.599567,35.563973,16.423160/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974$6/pct:46.717172,54.599567,35.563973,16.423160/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3689,7 +3689,7 @@ himself. When thou dost enter into his office, have
 j carc to thyself that thou dost not look at what may  
 be lying open, for that is not meet in the sight o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83009573%2F00296026335%2F1858082101%2F0184.jp2/pct:43.270114,91.686924,13.092343,3.948435/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83009573%2F00296026335%2F1858082101%2F0184.jp2/pct:43.270114,91.686924,13.092343,3.948435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3713,7 +3713,7 @@ requires him to keep such things to himself. When thou dost enter into l
 his office, have care to thyself that thou dost not look at what may be ly- |  
 ing open, for that is not meet in the sight of good breeding. Neithe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28$9/pct:15.945406,74.864499,37.300266,4.076332/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28$9/pct:15.945406,74.864499,37.300266,4.076332/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3745,7 +3745,7 @@ thdu dost riot touch the type or the press
 for thou mayest &#x27;cause the ptioter mueb  
 trouDle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1858090201%2F0828.jp2/pct:69.467584,25.096366,12.314379,10.214758/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1858090201%2F0828.jp2/pct:69.467584,25.096366,12.314379,10.214758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3774,7 +3774,7 @@ to thyself that thou dost not look at
 wlmt mav be lvinir open, for that is not  
 meet in the sight of good breeding
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85026031%2F00280774807%2F1858090901%2F0385.jp2/pct:17.309218,8.543794,11.534190,9.027405/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85026031%2F00280774807%2F1858090901%2F0385.jp2/pct:17.309218,8.543794,11.534190,9.027405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3826,7 +3826,7 @@ mayest understand it.
 the hands of the compositor, for thai is  
 not meet in the sight of the printer, aud h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85038183%2F00296027546%2F1858113001%2F0358.jp2/pct:4.993065,81.255845,11.958699,14.094856/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85038183%2F00296027546%2F1858113001%2F0358.jp2/pct:4.993065,81.255845,11.958699,14.094856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3854,7 +3854,7 @@ When thou dost enter into his office,
 hive care to thyself that thou tlost not  
 look at what may belying open, for i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn86058541%2F00202191472%2F1859022401%2F0257.jp2/pct:16.837402,28.607897,11.061465,8.585773/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn86058541%2F00202191472%2F1859022401%2F0257.jp2/pct:16.837402,28.607897,11.061465,8.585773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3893,7 +3893,7 @@ that thou mnyest understand it.
 is in the hand of the compositor, for  
 that is not meet in tho sight of a prin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00212470478%2F1859072801%2F0731.jp2/pct:79.849740,14.050999,12.483144,16.824395/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00212470478%2F1859072801%2F0731.jp2/pct:79.849740,14.050999,12.483144,16.824395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3930,7 +3930,7 @@ mayest understand it.
 the hand of the compositor, for that is not  
 mee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051343%2F00414212578%2F1859091401%2F0351.jp2/pct:54.964985,66.509052,12.879332,12.716158/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051343%2F00414212578%2F1859091401%2F0351.jp2/pct:54.964985,66.509052,12.879332,12.716158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3965,7 +3965,7 @@ and subscribe immediately lor it and pay
 m advance, and it shall be well with thee  
 and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85025750%2F00280774650%2F1859102601%2F0239.jp2/pct:19.376202,32.093547,14.654988,11.284869/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85025750%2F00280774650%2F1859102601%2F0239.jp2/pct:19.376202,32.093547,14.654988,11.284869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3993,7 +3993,7 @@ When thou dost enter into his office,
 take heed unto thyself that thou dost not  
 look at whnt m.ty bo lying opon ; for tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85033622%2F00296026462%2F1860050201%2F0228.jp2/pct:79.078858,80.026063,14.004079,8.766734/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85033622%2F00296026462%2F1860050201%2F0228.jp2/pct:79.078858,80.026063,14.004079,8.766734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4084,7 +4084,7 @@ is in the hands of the compositors, for
 that is not meet in the sight ot the  
 printer, and ho might knock thee down.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1861020901%2F0395.jp2/pct:6.488428,90.013675,14.027190,4.926496/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1861020901%2F0395.jp2/pct:6.488428,90.013675,14.027190,4.926496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4115,7 +4115,7 @@ Look thou not at the copy which is ia
 the hands of the compositor, for that is not  
 meet in the sight of the printer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85025182%2F00212477886%2F1861031301%2F0150.jp2/pct:83.555306,46.868476,12.463199,11.389469/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85025182%2F00212477886%2F1861031301%2F0150.jp2/pct:83.555306,46.868476,12.463199,11.389469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4149,7 +4149,7 @@ i? in the hands of the compositor:
 for that is not meat in the sight of  
 the printer&#x27;s eye.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn85059652%2F00415664953%2F1861032301%2F0007.jp2/pct:61.417038,57.612680,11.701242,12.588021/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn85059652%2F00415664953%2F1861032301%2F0007.jp2/pct:61.417038,57.612680,11.701242,12.588021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4181,7 +4181,7 @@ hands of the compositor, for tUot is not
 meet io the eight tf the printer.  
 Pain People. There is a set of peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84024082%2F00212471616%2F1861041601%2F0064.jp2/pct:72.121604,68.397097,11.335705,9.189322/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84024082%2F00212471616%2F1861041601%2F0064.jp2/pct:72.121604,68.397097,11.335705,9.189322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4209,7 +4209,7 @@ tnnfh tliA trnfl ; Fur thou mavest causo me
 - -j i , j  
 printer more trouble than thou thinkest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477643%2F1861081401%2F0364.jp2/pct:8.540069,21.245296,14.178319,7.560725/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477643%2F1861081401%2F0364.jp2/pct:8.540069,21.245296,14.178319,7.560725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4241,7 +4241,7 @@ and subscribe for it immediately. Pay in
 advance, and it shall be well with thee and  
 thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn84022799%2Fno_reel%2F1862011001%2F0020.jp2/pct:11.626977,55.819049,13.226408,9.621085/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn84022799%2Fno_reel%2F1862011001%2F0020.jp2/pct:11.626977,55.819049,13.226408,9.621085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4276,7 +4276,7 @@ le, and beside,it is pi-ous matter and suffers not the
 touch of profane hands,   
 1, Look thou not at the copy which is in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151386%2F1862082101%2F0185.jp2/pct:84.509216,75.629471,10.791792,5.239628/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151386%2F1862082101%2F0185.jp2/pct:84.509216,75.629471,10.791792,5.239628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4308,7 +4308,7 @@ hands of the compositor for that is not
 ineot  
 in the sight of tho priuter and ho migh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025161%2F00279529327%2F1862091201%2F0504.jp2/pct:84.203151,41.641840,12.902291,7.521424/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025161%2F00279529327%2F1862091201%2F0504.jp2/pct:84.203151,41.641840,12.902291,7.521424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4343,7 +4343,7 @@ not tbe type, for thou mayest cause the prin
   
 ter mucu trouble, and beside, it is pt-ous mat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668168%2F1862100701%2F0044.jp2/pct:69.159877,64.780467,12.515026,6.276852/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668168%2F1862100701%2F0044.jp2/pct:69.159877,64.780467,12.515026,6.276852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4375,7 +4375,7 @@ not the touch of profane hands.
 is in the hands of &quot;he compositor; for that  
 is not meet in the -iglil of the printer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769301%2F1862101701%2F0639.jp2/pct:69.562347,62.695803,12.719298,10.522966/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769301%2F1862101701%2F0639.jp2/pct:69.562347,62.695803,12.719298,10.522966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4391,7 +4391,7 @@ Never inquire of an editor for the news, for be­
 hold, it is his duty at the appointed time to give it  
 ‘ unto thee without asking. .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn84022799%2Fno_reel%2F1863080801%2F0327.jp2/pct:42.191759,90.980131,12.085137,1.574994/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn84022799%2Fno_reel%2F1863080801%2F0327.jp2/pct:42.191759,90.980131,12.085137,1.574994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4413,7 +4413,7 @@ subscribe for it immediately, pay in advance.
 thd ft&#x27;shah&#x27;be wvll with thee and thy little  
 ones. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn86081912%2F00296028617%2F1865102501%2F0652.jp2/pct:5.664113,65.668552,14.329634,5.552475/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn86081912%2F00296028617%2F1865102501%2F0652.jp2/pct:5.664113,65.668552,14.329634,5.552475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4449,7 +4449,7 @@ other, and subscribe immediately for it
 and pay in advance, and it shall be well  
 with thee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn86079096%2F00212475026%2F1866031001%2F0032.jp2/pct:56.742557,39.991208,17.381786,15.504103/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn86079096%2F00212475026%2F1866031001%2F0032.jp2/pct:56.742557,39.991208,17.381786,15.504103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4485,7 +4485,7 @@ niuchjtrouble.
 in the hands of the compositors, for that  
 la notineef lnlhe,slgbt of. the printer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_lyonsport_ver02%2Fdata%2Fsn84022673%2F00200298433%2F1872051701%2F0128.jp2/pct:19.074532,75.274725,12.045214,10.144733/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_lyonsport_ver02%2Fdata%2Fsn84022673%2F00200298433%2F1872051701%2F0128.jp2/pct:19.074532,75.274725,12.045214,10.144733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4519,7 +4519,7 @@ V. Look not thou at the copy which
 is in the hands of the compositor, for it  
 is not mete, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775265%2F1881041401%2F0213.jp2/pct:17.677841,85.810374,10.956664,9.623593/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775265%2F1881041401%2F0213.jp2/pct:17.677841,85.810374,10.956664,9.623593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4556,7 +4556,7 @@ any other, and subscribe immediately
 tor it and pay in advance, and it will  
 be well with thee and thy little oner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_junior_ver01%2Fdata%2Fsn85035561%2F00332896921%2F1881110301%2F0144.jp2/pct:29.803206,15.881104,12.015622,15.828025/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_junior_ver01%2Fdata%2Fsn85035561%2F00332896921%2F1881110301%2F0144.jp2/pct:29.803206,15.881104,12.015622,15.828025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

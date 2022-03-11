@@ -47,7 +47,7 @@ four hundred unstamped, misdirected, unaddress-
 ed, or unsealed letters and packages daily accu-  
 mulate in the New York Post-oflice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3$6/pct:51.206716,64.324818,19.543547,13.357664/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3$6/pct:51.206716,64.324818,19.543547,13.357664/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ the space of two days.
   
 A Paris correspondent writes: “All the ani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5$2/pct:59.654472,44.530303,15.853659,7.606061/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5$2/pct:59.654472,44.530303,15.853659,7.606061/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ dressed or unsealed letters and packages
 daily accumulate in the New York Post  
 .Office. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075000%2F00237286923%2F1871052601%2F0153.jp2/pct:5.964912,74.659435,10.960735,10.544904/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075000%2F00237286923%2F1871052601%2F0153.jp2/pct:5.964912,74.659435,10.960735,10.544904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ dressed or unsealed letters and packages
 daily accumulate in the New York Post  
 Office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1871060101%2F0773.jp2/pct:51.471758,78.394492,14.427776,13.708747/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1871060101%2F0773.jp2/pct:51.471758,78.394492,14.427776,13.708747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ two to live hundred unstamped, misdirected,
 unaddresaed, or nosealed letters and packages  
 daily accumulate in the New York po9t office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:83.190427,78.312563,13.779963,7.718092/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:83.190427,78.312563,13.779963,7.718092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

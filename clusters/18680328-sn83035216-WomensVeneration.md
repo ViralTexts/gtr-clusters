@@ -93,7 +93,7 @@ harp, sackbut,
   
 faithful Paula, with her beautiful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19$92/pct:11.925795,11.745940,62.367491,74.361949/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19$92/pct:11.925795,11.745940,62.367491,74.361949/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ t hnd evi ! n l
 1  
 } ct] cate] : And i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19$92/pct:44.125442,35.092807,30.388693,28.509281/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19$92/pct:44.125442,35.092807,30.388693,28.509281/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ the flattery ol ?du iron to ] i ?strafe tbemaaltaa at the
 feet of a geruuie hero who ne\er WOOOd them. BXOapi  
 by heroic deeds and the rhetoric ot a noble lue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_flavory_ver01%2Fdata%2Fsn83030213%2F00206530637%2F1859101501%2F0317.jp2/pct:1.552967,65.340567,16.106489,4.902552/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_flavory_ver01%2Fdata%2Fsn83030213%2F00206530637%2F1859101501%2F0317.jp2/pct:1.552967,65.340567,16.106489,4.902552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ genuine hero who never wooed them, except
 by heroic deeds and the rhetoric of a noble  
 life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035045%2F00296027133%2F1859102601%2F0605.jp2/pct:15.141700,76.297353,11.238866,9.976648/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035045%2F00296027133%2F1859102601%2F0605.jp2/pct:15.141700,76.297353,11.238866,9.976648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ those who have turned away from the pr
 themeelves at the feet of a genuine hero who never wooed them except by  
 heroic deeds and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_illustrated-london-news_1859-11-05_35_1001$2/pct:4.802124,76.055858,26.616795,15.633515/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_illustrated-london-news_1859-11-05_35_1001$2/pct:4.802124,76.055858,26.616795,15.633515/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ the. feet of a genuine hero, who never wooed
 them, except by heroic deeds aud the rhetor  
 icof a noble life- Mrs. il- B. Stowe. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775393%2F1859112401%2F0081.jp2/pct:32.104399,64.789697,12.338018,6.836553/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775393%2F1859112401%2F0081.jp2/pct:32.104399,64.789697,12.338018,6.836553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ of
   
 woman&#x27;^eternsl powar af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529480%2F1860011401%2F0006.jp2/pct:68.789745,41.042859,26.573532,13.613680/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529480%2F1860011401%2F0006.jp2/pct:68.789745,41.042859,26.573532,13.613680/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ turned away from tho (lattery of admirer* to
 pro.trate tbemselve* at thf feet of a genu­  
 ina hero whe never wooed Ihein aieept b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529480%2F1860011401%2F0006.jp2/pct:83.921686,58.964480,11.281358,3.706150/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529480%2F1860011401%2F0006.jp2/pct:83.921686,58.964480,11.281358,3.706150/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ trate themselves at the feet of a genuine
 nero^who never wooed them except by  
 iieroic deeds and tho rhetoric of a noble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027238%2F0027952942A%2F1860011801%2F0699.jp2/pct:4.580860,64.311485,11.220580,26.658649/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027238%2F0027952942A%2F1860011801%2F0699.jp2/pct:4.580860,64.311485,11.220580,26.658649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ uine bero, who never wooed&#x27; ll.em except
 by heroic deeds and the rhetoric of a noble  
 life.&quot; . . i , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028034%2F1860012601%2F0018.jp2/pct:57.224074,63.348103,12.585767,7.532539/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028034%2F1860012601%2F0018.jp2/pct:57.224074,63.348103,12.585767,7.532539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ who have turned away from the flattery of ud­
 genuine hero, who never wooed them except by  
 lierrrio deeds and the rhetoric of a noble life*. -7Vi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557293%2F1860020401%2F0023.jp2/pct:17.662689,76.813002,14.711915,10.431235/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557293%2F1860020401%2F0023.jp2/pct:17.662689,76.813002,14.711915,10.431235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ selves at the feet of &quot;n genuine&#x27;&#x27;-hero who
 never wooed them except by heroic deeds  
 and the rhetoric ef a*noble life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85026945%2F00202193997%2F1860021601%2F0061.jp2/pct:84.316618,13.575192,15.452311,27.465029/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85026945%2F00202193997%2F1860021601%2F0061.jp2/pct:84.316618,13.575192,15.452311,27.465029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ to proslrnte themselves at the feet of a
 genuine hero who never wooed them except by  
 heroic deeds and the rhetoric of a noble life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1860032201%2F0903.jp2/pct:64.704589,52.947377,18.208299,21.985729/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1860032201%2F0903.jp2/pct:64.704589,52.947377,18.208299,21.985729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ genuine hero who nover wooed them,
 except oy ncroio ueeus anu uio rueiune  
 of a noblo lif&#x27;o. f J.I. B. Stowo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1860051701%2F0696.jp2/pct:17.761090,71.158488,12.155082,8.138911/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1860051701%2F0696.jp2/pct:17.761090,71.158488,12.155082,8.138911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ admirers to prostrate themselves at the feet of
 a genuine hero who never woo tbetn except hy  
 .heroic deeds and the &#x27;rhetoric of noble life. / 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn84027851%2F00295862300%2F1860052201%2F0071.jp2/pct:83.105554,18.283491,17.858874,24.785523/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn84027851%2F00295862300%2F1860052201%2F0071.jp2/pct:83.105554,18.283491,17.858874,24.785523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ rostrate themselves .at the feet of a
 entiine hero who never woo them cx e  
 ept by heroic deeds and the rhetoric o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1860080201%2F0985.jp2/pct:56.842883,35.610200,14.978369,33.246218/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1860080201%2F0985.jp2/pct:56.842883,35.610200,14.978369,33.246218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ selves at tho feet «f a geuuine hero,
 who never wooed them, except by he­  
 roic deeds and the rhetoric Aobl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014140%2F00279529467%2F1861112801%2F0059.jp2/pct:74.028769,40.320776,10.095519,32.941688/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014140%2F00279529467%2F1861112801%2F0059.jp2/pct:74.028769,40.320776,10.095519,32.941688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ feet of a genuine hero, who never wooed
 them, except by noble deeds and the rhet­  
 oiic of noble life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056248%2F00200294543%2F1861122601%2F0591.jp2/pct:30.546239,12.194656,25.754672,84.255725/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056248%2F00200294543%2F1861122601%2F0591.jp2/pct:30.546239,12.194656,25.754672,84.255725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ makers of silver shrines for some divinity
 or other, which, of course, they always  
 think fell straight down from heaven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1867051601%2F0082.jp2/pct:56.662892,34.802658,12.419781,2.834667/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1867051601%2F0082.jp2/pct:56.662892,34.802658,12.419781,2.834667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ been ready to fall down and worship
 even before the sound of cornet, flute,  
 harp, sackbut, and so forth,&quot; where th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1867051601%2F0082.jp2/pct:56.662892,38.790180,12.476406,3.987522/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1867051601%2F0082.jp2/pct:56.662892,38.790180,12.476406,3.987522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,7 +1045,7 @@ feet of a genuine hero, who never
 moved them except by heroic deeds and  
 the rhetoric of a noble life&quot; a mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1867051601%2F0082.jp2/pct:56.681767,42.764139,12.495281,3.309372/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1867051601%2F0082.jp2/pct:56.681767,42.764139,12.495281,3.309372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ throwing oat fluttering tendrils every­
 where for somethiug high and strong to  
 climh by.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1867051601%2F0082.jp2/pct:56.719517,50.169538,12.438656,4.557168/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1867051601%2F0082.jp2/pct:56.719517,50.169538,12.438656,4.557168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ at the feet of a irenuine hero, who never
 wooed theni;ureenthy heroin deeds and the  
 rhetoric ot noble lire. 2U Jfcafir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85038521%2F0020029337A%2F1868012601%2F0091.jp2/pct:16.809158,69.602896,10.824518,25.285213/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85038521%2F0020029337A%2F1868012601%2F0091.jp2/pct:16.809158,69.602896,10.824518,25.285213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1209,7 +1209,7 @@ the lcetot.a genuine hero, who never
 wooed them, except by heroic deeils and  
 the rhetoric ot noble lite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775174%2F1868032801%2F0167.jp2/pct:43.369176,10.517864,12.493600,31.406396/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775174%2F1868032801%2F0167.jp2/pct:43.369176,10.517864,12.493600,31.406396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1283,7 +1283,7 @@ of a genuine hero, who never wooed
 them except by heroic deeds and the  
 rhetoric of noble life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85042591%2F00280774972%2F1868042401%2F0149.jp2/pct:37.825093,43.374706,9.759931,27.831824/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85042591%2F00280774972%2F1868042401%2F0149.jp2/pct:37.825093,43.374706,9.759931,27.831824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ on emblem and n lign of womnn’e externel
 power oflelflnoriﬁee to whet Ihe deem- no~  
 hlest in nun! Does not old Rio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn86072040%2Fno_reel%2F1868071701%2F0553.jp2/pct:32.944652,68.341019,14.101368,17.665788/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn86072040%2Fno_reel%2F1868071701%2F0553.jp2/pct:32.944652,68.341019,14.101368,17.665788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

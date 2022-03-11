@@ -38,7 +38,7 @@ Medical Uses of Sait.
 In many cases of disordered stomach, a tea-  
 spoonful of salt taken three times a day is a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.306991,8.355886,19.250253,2.148173/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.306991,8.355886,19.250253,2.148173/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ the order of nature, placing the greatest va-
 lue on those things that are difficult to obtain  
 We burrow in the earth to obtain gold from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.306991,10.673207,19.630193,31.630582/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.306991,10.673207,19.630193,31.630582/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ for every thing with sailors,—our landsmen
 would rather seek medicines that come from  
 the Persian Gulf or the wilds of Hindostan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.585613,42.506766,19.807497,11.857240/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.585613,42.506766,19.807497,11.857240/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ the Persian Gulf or the wilds of Hindostan.
 As it was with the Philistine |  
 warrior, so it is with men atthe present day, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.686930,48.832882,19.858156,1.556157/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.686930,48.832882,19.858156,1.556157/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ wash the month with brine; if &#x27;he teeth be covered
 with tartar, wash them twice a day with salt and  
 water. In swelled riert, wash the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_diglett_ver01%2Fdata%2Fsn82015378%2F0029587238A%2F1848071201%2F0040.jp2/pct:65.134529,70.495736,14.461883,17.444030/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_diglett_ver01%2Fdata%2Fsn82015378%2F0029587238A%2F1848071201%2F0040.jp2/pct:65.134529,70.495736,14.461883,17.444030/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ Salt will expel worms, if used in the food in a
 moderate degree, and aids digestion, but &quot;alt meat  
 .r 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237282358%2F1850022101%2F0547.jp2/pct:6.372697,76.770920,18.015705,19.749379/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237282358%2F1850022101%2F0547.jp2/pct:6.372697,76.770920,18.015705,19.749379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ Salt will expel worms, if used in the food in a
 moderate degree, and aids digestion; but salt meat is  
 injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5$10/pct:8.785822,54.162512,36.764706,36.266201/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5$10/pct:8.785822,54.162512,36.764706,36.266201/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ Salt will expel worms, if used in the food
 in a moderate degree, and aids digestion; but  
 salt meat is injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_scientific-american_1850-03-16_5_26$1/pct:68.794326,10.890233,19.655522,31.495246/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1850-03-16_5_26$1/pct:68.794326,10.890233,19.655522,31.495246/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ in a ini&#x27;deralt degree, ami rids digestion;
 but salt meat is injurious il used much.  
 S. 1 . Amir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199264%2F1850032801%2F0035.jp2/pct:34.237844,22.966381,12.001457,20.065920/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199264%2F1850032801%2F0035.jp2/pct:34.237844,22.966381,12.001457,20.065920/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ Salt will expel worms, if used in the food in a
 moderate degree, and aids digestion ; but salt meat  
 is injurious if used much. Scientific American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237282358%2F1850041101%2F0576.jp2/pct:6.600362,56.219270,17.555756,23.883251/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237282358%2F1850041101%2F0576.jp2/pct:6.600362,56.219270,17.555756,23.883251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ Salt will expel worms, if used in the food in a mod­
 erate degree, and aids digestion ;f but salt meat is in­  
 jurious if used much.—Scientific American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024718%2F00414183736%2F1850050801%2F0075.jp2/pct:80.663662,67.360841,17.196959,16.293629/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024718%2F00414183736%2F1850050801%2F0075.jp2/pct:80.663662,67.360841,17.196959,16.293629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ Salt willexpel worms, if used in the)
 food in a moderate degree and aids di  
 gestion; but salt meat is injurious i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn86074079%2F00295878502%2F1850053001%2F1047.jp2/pct:77.882670,25.795053,15.329287,24.160777/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn86074079%2F00295878502%2F1850053001%2F1047.jp2/pct:77.882670,25.795053,15.329287,24.160777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ In swelled neck, wash the part with brine, and drink it also twice a
 day until cured. Salt expels worms, if usedin the food ina moderate de-  
 gree, and aids digestion ; but salt meat is injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-03_20_24$9/pct:9.443681,28.788610,26.802885,12.620656/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-03_20_24$9/pct:9.443681,28.788610,26.802885,12.620656/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ Salt expels worms, if used in the food in a
 moderate degree, and aids digestion; but  
 salt meat is injurious if used much. Sci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035101%2F00296027054%2F1850081901%2F0439.jp2/pct:44.282670,41.691374,12.500000,20.146830/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035101%2F00296027054%2F1850081901%2F0439.jp2/pct:44.282670,41.691374,12.500000,20.146830/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ wash the mouth with brine; if the teeth he cov.
 ered with tartar wash them twice a day with  
 salt water.?[Scicntiiiic American.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn85042796%2F00202193973%2F1850082301%2F0268.jp2/pct:76.785714,69.104721,21.343537,18.378873/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn85042796%2F00202193973%2F1850082301%2F0268.jp2/pct:76.785714,69.104721,21.343537,18.378873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ be affected wash the mouth with
 brine; if ihe teeth be covered wilh tartar,  
 Wah litem twice a day with salt water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156360%2F1850090401%2F0347.jp2/pct:82.646547,61.142482,14.567615,17.728168/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156360%2F1850090401%2F0347.jp2/pct:82.646547,61.142482,14.567615,17.728168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ Salt expels worms, if used in the food in a
 moderate degree, anil aids digestion; but  
 salt meat in injurious if used much.— Scien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624256%2F1850121801%2F0200.jp2/pct:35.436018,48.847753,14.496973,20.034772/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624256%2F1850121801%2F0200.jp2/pct:35.436018,48.847753,14.496973,20.034772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ termed cliolic, a teaspoonful of salt, dissolved
   
 in a pint of cold water, taken as soon as pos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1851012501%2F0210.jp2/pct:46.012592,45.372460,12.119622,2.948646/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1851012501%2F0210.jp2/pct:46.012592,45.372460,12.119622,2.948646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ when other remedies failed, Dr. Ktish, touud
 that two teaspoonslul oi salt completely slav­  
 ed the blood. New York Courier.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1851012501%2F0210.jp2/pct:46.082546,49.675508,12.259531,8.253386/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1851012501%2F0210.jp2/pct:46.082546,49.675508,12.259531,8.253386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ remedies failed, Dr. Hush found that
 two tcapoonsful of salt completely  
 staved the blood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779210%2F1851013101%2F0216.jp2/pct:32.578720,21.991085,13.665363,14.472511/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779210%2F1851013101%2F0216.jp2/pct:32.578720,21.991085,13.665363,14.472511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ failed. Dr. rush found that two teaspoonmls
 of salt completely stayed the blood.  
 A MODEL EDITOR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_crawdads_ver01%2Fdata%2Fsn85025007%2F00414215853%2F1851020101%2F0362.jp2/pct:80.739673,12.672157,12.817803,9.733084/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_crawdads_ver01%2Fdata%2Fsn85025007%2F00414215853%2F1851020101%2F0362.jp2/pct:80.739673,12.672157,12.817803,9.733084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ jent from the
   
 two teaspoonfuls of sal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1851-02-01_30_1540$3/pct:75.914229,29.977461,8.194814,3.140496/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1851-02-01_30_1540$3/pct:75.914229,29.977461,8.194814,3.140496/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ lungs, and wheu other it-muiliys fuilod,
 I)r. Kuan found lhallwo tea spoonfuls  
 ofaaltcompletly stayed the blood. . A le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn87070038%2F00296028058%2F1851030601%2F0796.jp2/pct:5.241621,83.655316,12.977397,7.143850/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn87070038%2F00296028058%2F1851030601%2F0796.jp2/pct:5.241621,83.655316,12.977397,7.143850/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ the lungs, and when other remedies failed, Dr. Bush
 found that two tca?poonful? of fa!t completely stnyeu  
 the blood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1851030701%2F0045.jp2/pct:81.942807,89.495041,15.094340,8.059062/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1851030701%2F0045.jp2/pct:81.942807,89.495041,15.094340,8.059062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ Salt water expels worms, if used in the
 food moderately, and aids digestion; battoo  
 much salt meat is Injurious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00237289687%2F1851031501%2F0184.jp2/pct:9.880501,44.140452,14.004663,18.564466/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00237289687%2F1851031501%2F0184.jp2/pct:9.880501,44.140452,14.004663,18.564466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ pain, termed colic, a teaspoonful of salt
 dissolved in a pint of cold water, taken&#x27; as  
 soon as possible, with a short nap immedi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00415667280%2F1851062101%2F0104.jp2/pct:65.802292,87.561411,14.713467,3.628852/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00415667280%2F1851062101%2F0104.jp2/pct:65.802292,87.561411,14.713467,3.628852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ aids digestion; but salt meat is inju-
 us if  
 used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1851100701%2F0162.jp2/pct:8.527697,90.563893,11.938776,2.501137/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1851100701%2F0162.jp2/pct:8.527697,90.563893,11.938776,2.501137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ in most cases. If .ther gums be affected, wash the
 mouth with brine ; if the teeth be covered with  
 tartar, wash them twice a day with salt water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024518%2F00296022718%2F1852021401%2F0054.jp2/pct:37.797801,77.065441,15.226023,14.164751/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024518%2F00296022718%2F1852021401%2F0054.jp2/pct:37.797801,77.065441,15.226023,14.164751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1251,7 +1251,7 @@ Salt will expel Worms, if used in foe#
 in a moderate degree, and aids digestion!  
 but salt meal is injurious, if used mu elk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn88059762%2F00279528566%2F1854112301%2F0201.jp2/pct:82.008671,22.573176,12.991329,19.038315/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn88059762%2F00279528566%2F1854112301%2F0201.jp2/pct:82.008671,22.573176,12.991329,19.038315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ a moderate degree, and aid digestion; but
 salt meat is injurious if used much.  
 Here is a very beautiful thought of tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn93052971%2F00279557256%2F1854113001%2F0024.jp2/pct:79.365079,59.086022,14.976102,23.833747/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn93052971%2F00279557256%2F1854113001%2F0024.jp2/pct:79.365079,59.086022,14.976102,23.833747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ Salt will expel worms, if used in food at a moderate
 degree, and aids digestion: but salt meat is injurious  
 if used much.— Scientific American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51$3/pct:36.670145,12.447781,11.904953,4.438642/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51$3/pct:36.670145,12.447781,11.904953,4.438642/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ go to bed—it is one of the speediest remedies known.
 Tbe same will revive ® person almost dead from receiv-  
 me a very beavy fall, A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51$3/pct:23.858072,92.369452,11.800594,3.302872/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51$3/pct:23.858072,92.369452,11.800594,3.302872/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1398,7 +1398,7 @@ Salt will expel worms, if used in lood in a mod.
 erate degree, and aids digestion ; but salt meat is  
 injurious il used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028630%2F1855010601%2F0040.jp2/pct:62.311248,60.566570,14.756035,20.995767/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028630%2F1855010601%2F0040.jp2/pct:62.311248,60.566570,14.756035,20.995767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,7 +1434,7 @@ lethargy. In cases of severe bleeding at the lungs, and
 when other remedies have failed, it has been found that  
 two teaspoonfuls of salt completely stayed the blood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1855-03_50_3$69/pct:11.677368,40.469905,36.115570,17.106653/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1855-03_50_3$69/pct:11.677368,40.469905,36.115570,17.106653/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1489,7 +1489,7 @@ Salt will expel worms, if used in food at a
 moderate degree, and aids digestion ; but salt  
 meats is injurious if used mueli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1855040701%2F0381.jp2/pct:78.841829,4.432271,15.498501,17.094124/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1855040701%2F0381.jp2/pct:78.841829,4.432271,15.498501,17.094124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ Salt will expel worms, if used in food at a th
 moderate degree, and aids digestion; but salt  
 meats is injurious if used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn83016483%2F00212475142%2F1855041101%2F0155.jp2/pct:54.703444,60.161443,14.174107,18.886515/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn83016483%2F00212475142%2F1855041101%2F0155.jp2/pct:54.703444,60.161443,14.174107,18.886515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ food at a moderate degree, and aids
 digestion, but salt meat is injurious  
 if used much. : &#x27;. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F0021247034A%2F1855042601%2F0068.jp2/pct:81.456368,20.520165,12.794811,30.763061/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F0021247034A%2F1855042601%2F0068.jp2/pct:81.456368,20.520165,12.794811,30.763061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1661,7 +1661,7 @@ Salt will expel worms, if-tsfd i# the
 food at a moderate degree, and aids di  
 gpstion bu salt meat is injurious if use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn88059762%2F00279528566%2F1855101801%2F0365.jp2/pct:17.994822,7.930486,13.089758,27.386372/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn88059762%2F00279528566%2F1855101801%2F0365.jp2/pct:17.994822,7.930486,13.089758,27.386372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1710,7 +1710,7 @@ Salt will expel worms, if used iu tho food
 at a moderate degree, and aids digestion;  
 but salt meat is injurious if used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1855102001%2F0267.jp2/pct:73.366575,48.462741,11.433975,14.981761/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1855102001%2F0267.jp2/pct:73.366575,48.462741,11.433975,14.981761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1731,7 +1731,7 @@ tnind.iu. ( )-.- - ,--&#x27;v:,;t&#x27;;.i,&#x27;J sioatsJut)f t,jnU.,ceinsleteJ
 dead. -1 aaw her last week near Belfast, j In case of a bite from a mad &amp;og, wa,sh  
 She Is living with a family who love her the JxM wTthi strong brine for an, .hour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1855102501%2F0646.jp2/pct:30.747922,83.299278,25.447830,5.012941/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1855102501%2F0646.jp2/pct:30.747922,83.299278,25.447830,5.012941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1774,7 +1774,7 @@ briaet Wr4, drink ft tw.i0.&quot; fVi dy
 a&#x27;modarote degree, a.nd,idaigeition,; but  
 saltiueAti8rursJi,use vpp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1855102501%2F0646.jp2/pct:43.157895,73.191663,13.074792,22.490124/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1855102501%2F0646.jp2/pct:43.157895,73.191663,13.074792,22.490124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1892,7 +1892,7 @@ in the food moderately, and also
 aids digestion; but too much salt  
 meat is injurious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065521%2F00295878174%2F1856062101%2F0508.jp2/pct:24.476987,4.387082,28.323141,91.179535/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065521%2F00295878174%2F1856062101%2F0508.jp2/pct:24.476987,4.387082,28.323141,91.179535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1946,7 +1946,7 @@ Salt will expel worms, if used in food ina
 moderate degree, and aids digestion, but salt  
 meat is injurious, if used much. [Ex.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_maine-farmer_1856-07-17_24_30$0/pct:81.520563,67.291847,12.242965,20.771899/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1856-07-17_24_30$0/pct:81.520563,67.291847,12.242965,20.771899/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1979,7 +1979,7 @@ In a fit, the feet should be placed in warm water.
 with mustard added, and the legs briskly rubbed,  
 all bandages removed from the neck, and a cool
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8$12/pct:12.653846,36.345178,35.961538,19.898477/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8$12/pct:12.653846,36.345178,35.961538,19.898477/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2009,7 +2009,7 @@ tartar, wash them twice a day with salt and water.
 In swelled neck, wash the part with brine, and  
 drink it, also, twice a day, until cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8$12/pct:13.038462,57.335025,35.730769,14.720812/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8$12/pct:13.038462,57.335025,35.730769,14.720812/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2028,7 +2028,7 @@ have visited is that of Major FRENCH, a few rods
 Salt will expel worms, if used in food in a mod- east of the capitol, on soil that I once knew as un-  
 erate degree, and aids digestion, but salt meat is kindly and perverse as that of any cold spring land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8$12/pct:13.346154,66.649746,72.153846,8.020305/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8$12/pct:13.346154,66.649746,72.153846,8.020305/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2086,7 +2086,7 @@ moderate degree, and aids digestion, but suit
 meat is injurious, if used much. Ex.  
 A very flue young mare, belonging to Dr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776038%2F1856080901%2F0266.jp2/pct:4.535479,71.579827,12.710315,18.584564/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776038%2F1856080901%2F0266.jp2/pct:4.535479,71.579827,12.710315,18.584564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2122,7 +2122,7 @@ most cases. If the gnms are affected, wash the month with brine.
 If the teeth be covered with tartar, wash them twice a day with  
 salt and water .—Mtdiad Joormd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6$6/pct:34.762371,64.472801,27.609015,14.674278/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6$6/pct:34.762371,64.472801,27.609015,14.674278/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2175,7 +2175,7 @@ a moderate degree, and aids digestion, but
   
 salt meat is injurious, if used much.?Kx
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn93067882%2F0020219428A%2F1856081501%2F0403.jp2/pct:35.469725,52.270605,17.850115,23.113488/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn93067882%2F0020219428A%2F1856081501%2F0403.jp2/pct:35.469725,52.270605,17.850115,23.113488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2226,7 +2226,7 @@ Salt will expel worms, if used in food in a
 moderate degree, and aids digestion, but  
 salt meat i; injurious, if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_gonne_ver01%2Fdata%2Fsn83026391%2F00202190108%2F1856082301%2F0225.jp2/pct:20.254630,4.912281,18.472222,25.657895/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gonne_ver01%2Fdata%2Fsn83026391%2F00202190108%2F1856082301%2F0225.jp2/pct:20.254630,4.912281,18.472222,25.657895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2280,7 +2280,7 @@ Salt will expel worms, if used in food in a
 moderate decree, nnd aids digestion, but salt  
 meat is injurious, if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1856091801%2F0652.jp2/pct:67.262330,29.117987,12.294496,20.272179/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1856091801%2F0652.jp2/pct:67.262330,29.117987,12.294496,20.272179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2339,7 +2339,7 @@ Salt will expel worms, if used in food in a moderate
 degree, and aids digestion, but salt meat is injurious if  
 used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-10_53_4$69/pct:52.468652,75.646329,35.227273,12.125129/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-10_53_4$69/pct:52.468652,75.646329,35.227273,12.125129/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2396,7 +2396,7 @@ Salt will expel worms, if used in food in a
 moderate degree, and aids digestion, but salt  
 meat is injurious, if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1856100801%2F0355.jp2/pct:5.579954,64.354181,13.174890,17.120623/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667814%2F1856100801%2F0355.jp2/pct:5.579954,64.354181,13.174890,17.120623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2421,7 +2421,7 @@ In an npopltct&#x27;o fit, no time should
 be lost in pouring down salt and ,  
 vatcr. if suflicient sensibility remain;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F0021247034A%2F1856110601%2F0385.jp2/pct:6.282033,10.188895,12.988725,9.250143/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F0021247034A%2F1856110601%2F0385.jp2/pct:6.282033,10.188895,12.988725,9.250143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2463,7 +2463,7 @@ food ia a moderate degree, and aids
 digestion, but caltmeat is injurious  
 if used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F0021247034A%2F1856110601%2F0385.jp2/pct:6.487041,26.949056,16.298140,18.019462/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F0021247034A%2F1856110601%2F0385.jp2/pct:6.487041,26.949056,16.298140,18.019462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2507,7 +2507,7 @@ brine. If tho teeth be covered with tartar,
 wash them two or three times a day with  
 Mit and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857032001%2F0289.jp2/pct:56.675186,74.433527,10.003651,17.214758/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857032001%2F0289.jp2/pct:56.675186,74.433527,10.003651,17.214758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2553,7 +2553,7 @@ brine. If the tooth bo covered with
 tartar, wash them twice a day with  
 salt and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065087%2F00212470478%2F1857032701%2F0233.jp2/pct:63.171717,16.770439,15.171717,25.663238/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065087%2F00212470478%2F1857032701%2F0233.jp2/pct:63.171717,16.770439,15.171717,25.663238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2592,7 +2592,7 @@ cases. If the gums be affected, wash the mouth
 with brine. If the teeth be covered with tartar.  
 wash them twice a day with salt and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022640%2F1857040101%2F0265.jp2/pct:20.746120,60.115095,14.737292,13.081009/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022640%2F1857040101%2F0265.jp2/pct:20.746120,60.115095,14.737292,13.081009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2631,7 +2631,7 @@ cases. It the gums be anecled, wash the mouth
 with brine. If the teeth be covered with tartar,  
 wash them twice a day with salt and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022767%2F1857040101%2F0103.jp2/pct:22.040614,61.091135,14.743272,12.734036/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022767%2F1857040101%2F0103.jp2/pct:22.040614,61.091135,14.743272,12.734036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2683,7 +2683,7 @@ the mouth with brine. If the teeth be covered
 with tartar, wash them twice a day with salt  
 and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn84037930%2F00415668880%2F1857052701%2F0393.jp2/pct:14.031485,68.498449,11.181187,12.264185/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn84037930%2F00415668880%2F1857052701%2F0393.jp2/pct:14.031485,68.498449,11.181187,12.264185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2728,7 +2728,7 @@ bo affected wash the mouth with brine.—
 1: the teeth be covered with tartar wash  
 them twice a day with sail an! water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1857060201%2F0720.jp2/pct:81.155015,64.409940,12.987013,17.180048/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1857060201%2F0720.jp2/pct:81.155015,64.409940,12.987013,17.180048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2746,7 +2746,7 @@ In many cases of severe bleeding at the lungs, and when
 other remedies fail, Dr. Rush found that two teagpoonsful  
 of salt completely stayed the blood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-06_12_23$6/pct:76.778955,69.462435,12.282362,1.975389/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-06_12_23$6/pct:76.778955,69.462435,12.282362,1.975389/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2775,7 +2775,7 @@ water; drink it down and go to bed; it is one of the
 speediest remedies known. The same will revive a person  
 who seems almost dead from a heavy fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-13_12_24$6/pct:76.310790,58.516839,12.234043,3.448834/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-13_12_24$6/pct:76.310790,58.516839,12.234043,3.448834/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2823,7 +2823,7 @@ Salt will expel worms, if used in food in a
 moderate degree, and aids digestion, but salt  
 meat is injurious, when used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028630%2F1857062501%2F0549.jp2/pct:77.698497,67.655953,14.538738,19.539329/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028630%2F1857062501%2F0549.jp2/pct:77.698497,67.655953,14.538738,19.539329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2844,7 +2844,7 @@ Salt will expel worms, if used in food in
 moderate degree, and aids digestion, but salt  
 meat is injurious, when used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1857062501%2F0010.jp2/pct:6.144287,85.869139,14.532275,5.916155/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1857062501%2F0010.jp2/pct:6.144287,85.869139,14.532275,5.916155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2860,7 +2860,7 @@ meat is injurious, when used much
 part with a strong brine for an hour, and then  
 fciad on some salt with a rag.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1857062501%2F0010.jp2/pct:6.006213,92.268512,14.601312,1.802272/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1857062501%2F0010.jp2/pct:6.006213,92.268512,14.601312,1.802272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2896,7 +2896,7 @@ of salt completely stayed the blood.
   
 Drop Biaouit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-08_6_2$86/pct:11.139456,81.434024,34.863946,5.179935/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-08_6_2$86/pct:11.139456,81.434024,34.863946,5.179935/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2951,7 +2951,7 @@ Salt will expel worms, if used in food ina
 moderate degree, and aids digestiun, but salt meat  
 is injurious, if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-17_25_39$0/pct:41.951155,40.513029,12.145483,19.503257/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-17_25_39$0/pct:41.951155,40.513029,12.145483,19.503257/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2991,7 +2991,7 @@ Salt will ejpel worm*, if u»cd in food in
 .i in &gt;derute d&lt; .•r»&#x27;»-, uii ! ni 1* (ligation, but  
 oalt uivut it injurious, if used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83009653%2F00279523970%2F1857100201%2F0580.jp2/pct:29.845460,78.732776,12.593904,17.024320/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83009653%2F00279523970%2F1857100201%2F0580.jp2/pct:29.845460,78.732776,12.593904,17.024320/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3024,7 +3024,7 @@ If Tie teeth bo&#x27; coveVed wifli tartar, wash.
 tticTTi twicoa day with salt and water., &#x27;  
 In swelled neck, wasn tho. part with brine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033372%2F00200293897%2F1857100201%2F0164.jp2/pct:80.659267,49.592468,12.663976,9.963463/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033372%2F00200293897%2F1857100201%2F0164.jp2/pct:80.659267,49.592468,12.663976,9.963463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3049,7 +3049,7 @@ not, the head must be sponged well with cold
 water until the senses return, when salt will  
 completely restore the patient from lethargy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1857-11-07_1893$3/pct:24.697802,83.294574,13.228022,5.813953/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1857-11-07_1893$3/pct:24.697802,83.294574,13.228022,5.813953/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3091,7 +3091,7 @@ twice a day with salt and water.
 In swelled neck, wash the part with brine, and drink  
 it also twice ■a day, until cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn84024825%2F00383346745%2F1857120501%2F0144.jp2/pct:63.304145,57.460489,13.531816,12.321976/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn84024825%2F00383346745%2F1857120501%2F0144.jp2/pct:63.304145,57.460489,13.531816,12.321976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3133,7 +3133,7 @@ twice a day with salt and water.
 In swelled neck, wash the part with brine, and drink  
 it also twice u day, until cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn84024825%2F00383346745%2F1857120501%2F0145.jp2/pct:63.304145,56.865573,13.481222,12.889850/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn84024825%2F00383346745%2F1857120501%2F0145.jp2/pct:63.304145,56.865573,13.481222,12.889850/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3176,7 +3176,7 @@ twice a day with salt and water.
 In swelled neck, wash the part with brine, and drink  
 it also twice n day, until cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn84024825%2F00383346745%2F1857120501%2F0146.jp2/pct:62.549134,56.823508,13.496789,12.871823/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn84024825%2F00383346745%2F1857120501%2F0146.jp2/pct:62.549134,56.823508,13.496789,12.871823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3199,7 +3199,7 @@ well with cold water until the senses return
 when the salt will completely restore the pa  
 tient from lethargy. Salt wille xpel worms, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557967%2F1858010201%2F0213.jp2/pct:47.921296,88.248089,14.722222,6.320854/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557967%2F1858010201%2F0213.jp2/pct:47.921296,88.248089,14.722222,6.320854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3257,7 +3257,7 @@ the mouth with brine. If the teeth be
 ivered with tartar, wash twice a day  
 with salt and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1858011601%2F0030.jp2/pct:8.009524,57.960548,11.928571,20.577773/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1858011601%2F0030.jp2/pct:8.009524,57.960548,11.928571,20.577773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3309,7 +3309,7 @@ the mouth with brine. If the teeth be
 covered with tartar, wash twice a day  
 with salt and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1858011601%2F0031.jp2/pct:7.811380,60.179812,12.268883,18.371660/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1858011601%2F0031.jp2/pct:7.811380,60.179812,12.268883,18.371660/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3338,7 +3338,7 @@ until the senses return, when Bait will
 completely restore the patient from  
 lethargy. Salt will expel worms, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1858013001%2F0104.jp2/pct:86.186620,61.519858,11.278195,7.795790/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1858013001%2F0104.jp2/pct:86.186620,61.519858,11.278195,7.795790/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3394,7 +3394,7 @@ food in a moderate degree, and aids diges­
 tion ; but salt meal w injurious if used  
 much. ? Scientific Jitntricoix
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767754%2F1858070301%2F0479.jp2/pct:74.962714,31.500063,21.854027,27.151963/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767754%2F1858070301%2F0479.jp2/pct:74.962714,31.500063,21.854027,27.151963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3441,7 +3441,7 @@ Salt will expel worms, if used in the food
 in a moderate degree, and aids digestion ; but  
 salt meat is injurious if used too much.— .Sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1859120101%2F0314.jp2/pct:77.547199,61.049200,14.942529,18.978849/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1859120101%2F0314.jp2/pct:77.547199,61.049200,14.942529,18.978849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3494,7 +3494,7 @@ Salt will expel .worms, jf used in the
 food in moderate degree, snd;. aids diges­  
 tion ; but salt meat is injurious if used to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028820%2F00280775472%2F1860020201%2F0209.jp2/pct:43.839594,69.573590,12.211940,20.852820/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028820%2F00280775472%2F1860020201%2F0209.jp2/pct:43.839594,69.573590,12.211940,20.852820/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3546,7 +3546,7 @@ brine twice a day until cured., j v-r .f,
 food in a moderate degree, and aids&#x27; di­  
 gestion; but salt meat is injurious&#x27; ifusc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026785%2F1860021401%2F0120.jp2/pct:84.200113,58.464322,11.136235,19.359946/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026785%2F1860021401%2F0120.jp2/pct:84.200113,58.464322,11.136235,19.359946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3598,7 +3598,7 @@ wash the mouth with brine ; if the teeth be tar­
 tared, wash them twice a day with salt water.  
 In swelled neck, wash the part in brine twic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762453%2F1860050101%2F0080.jp2/pct:69.736161,68.882089,12.670288,13.933250/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762453%2F1860050101%2F0080.jp2/pct:69.736161,68.882089,12.670288,13.933250/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3648,7 +3648,7 @@ I tio in twice a day wiih salt water.
 In swelled neck, wash the part with  
 brine twice a day until cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1860053001%2F0933.jp2/pct:70.027456,42.566073,14.149888,21.220942/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1860053001%2F0933.jp2/pct:70.027456,42.566073,14.149888,21.220942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3703,7 +3703,7 @@ Salt will expel worms if used in the
 food in a moderate degree, and aids diges­  
 tion ; but salt meat is injurious if use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054845%2F00212477655%2F1860071901%2F0657.jp2/pct:61.079635,31.704545,14.353163,24.507576/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054845%2F00212477655%2F1860071901%2F0657.jp2/pct:61.079635,31.704545,14.353163,24.507576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3740,7 +3740,7 @@ remedies failed, Dr. Ruh found that two
 teaspoonful of 6alt completely stayed the  
 blood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472931%2F1863041101%2F0080.jp2/pct:49.156324,75.968645,14.196067,13.896976/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472931%2F1863041101%2F0080.jp2/pct:49.156324,75.968645,14.196067,13.896976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3776,7 +3776,7 @@ other remedies failed. Dr Bush found that two
 teaspooufuls of salt completely stayed the  
 blood.— [Medical World
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn86058108%2F00279557360%2F1863051601%2F0298.jp2/pct:28.607265,53.299031,13.415613,15.106689/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn86058108%2F00279557360%2F1863051601%2F0298.jp2/pct:28.607265,53.299031,13.415613,15.106689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3812,7 +3812,7 @@ severe bleeding at the lungs, when other
 remedies failed, l)r. Hush found that two  
 teasnoonfolls of salt completely stayed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557992%2F1863051601%2F0075.jp2/pct:32.214381,43.079869,14.414457,13.036789/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557992%2F1863051601%2F0075.jp2/pct:32.214381,43.079869,14.414457,13.036789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3844,7 +3844,7 @@ the neck, and a cool ap&amp;rttnunt procured it
 possible. In immy cases of Revere bleeding  
 at the l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_jinx_ver01%2Fdata%2Fsn84026897%2F00211101209%2F1864012001%2F0145.jp2/pct:0.678733,22.149764,16.219979,10.928716/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_jinx_ver01%2Fdata%2Fsn84026897%2F00211101209%2F1864012001%2F0145.jp2/pct:0.678733,22.149764,16.219979,10.928716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3867,7 +3867,7 @@ Salt wiil ?.xpe! waring if ardill food Ats
 moder te d-jgree, aud aid digestif?. ; Lut sui?  
 moats arie injurious to tal lunch.- Scientifi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_jinx_ver01%2Fdata%2Fsn84026897%2F00211101209%2F1864012001%2F0145.jp2/pct:0.597517,35.454614,16.074951,6.232666/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_jinx_ver01%2Fdata%2Fsn84026897%2F00211101209%2F1864012001%2F0145.jp2/pct:0.597517,35.454614,16.074951,6.232666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3904,7 +3904,7 @@ from tho neck, and a cool aperient procured
 Hush ton. id that two tcaspouufula of suit  
 completely stayed the blood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026193%2F00280775757%2F1864052501%2F0047.jp2/pct:6.709265,67.392748,12.655307,11.130296/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026193%2F00280775757%2F1864052501%2F0047.jp2/pct:6.709265,67.392748,12.655307,11.130296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3944,7 +3944,7 @@ othor remedies failed, Dr. Hush found
 that twp teaspoonfula of. salt com  
 pletely stayed tho blood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1865031001%2F0197.jp2/pct:41.459400,83.420313,12.893197,12.511709/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1865031001%2F0197.jp2/pct:41.459400,83.420313,12.893197,12.511709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3977,7 +3977,7 @@ in;; nt tiie lungs, when oilier reim dies
 failed, Dr. Rush found that two it a-  
 j spoonfuls if salt completely slayed ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629217%2F1865041101%2F0767.jp2/pct:43.073096,71.115174,12.342135,11.190911/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629217%2F1865041101%2F0767.jp2/pct:43.073096,71.115174,12.342135,11.190911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4006,7 +4006,7 @@ procured, if possible. In case of severe bleeding at
   
 lungs, when other remedies failed, Dr. Rush found
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_zions-herald_1865-09-13_36_37$3/pct:46.490281,88.518371,12.486501,5.281550/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1865-09-13_36_37$3/pct:46.490281,88.518371,12.486501,5.281550/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4035,7 +4035,7 @@ of severe bleeding at the lungs, when other
 remedies failed, Dr. Rush found that twa  
 . tabiespoousful of salt stayed the blood,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83009569%2F00296026177%2F1866040501%2F0324.jp2/pct:83.979906,90.271080,11.210584,6.747771/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83009569%2F00296026177%2F1866040501%2F0324.jp2/pct:83.979906,90.271080,11.210584,6.747771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4077,7 +4077,7 @@ vere bleeding at the lungs, when other
 remedies failed,. Dr. Bush found that  
 two toaspoonfuls of salt stayed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn97063063%2F00296024314%2F1866053001%2F0508.jp2/pct:38.805374,42.572445,11.108155,13.004575/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn97063063%2F00296024314%2F1866053001%2F0508.jp2/pct:38.805374,42.572445,11.108155,13.004575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4107,7 +4107,7 @@ of severe bleeding at the lungs, when other
 remedies failed, Dr. Rush found that two  
 lablespoonful of salt stayed the blood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558005%2F1866070701%2F0319.jp2/pct:48.357972,67.442258,14.207522,9.457428/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558005%2F1866070701%2F0319.jp2/pct:48.357972,67.442258,14.207522,9.457428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4160,7 +4160,7 @@ Salt will expel worm?, if used in tl e
 fo I in a mo 1- rate d gree and ails diges­  
 tior ; but salt mei.t is injurious if use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477680%2F1867102401%2F0053.jp2/pct:2.328289,6.131524,13.285797,24.198455/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477680%2F1867102401%2F0053.jp2/pct:2.328289,6.131524,13.285797,24.198455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4188,7 +4188,7 @@ mustard added, and the legs briskly rubbed, all bandages
 from the neck, and a cool apartment procared, if possi-  
 ble. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744$23/pct:13.616625,62.500000,26.116625,10.614901/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744$23/pct:13.616625,62.500000,26.116625,10.614901/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4238,7 +4238,7 @@ a moderate degree, and aids digestion, but
 salt meat is injurious if used much.&quot;  
 Reader
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_newfoundland_ver04%2Fdata%2Fsn83045462%2F00280654504%2F1878081001%2F0026.jp2/pct:43.173285,23.062877,14.873646,14.261141/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_newfoundland_ver04%2Fdata%2Fsn83045462%2F00280654504%2F1878081001%2F0026.jp2/pct:43.173285,23.062877,14.873646,14.261141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4299,7 +4299,7 @@ aids digestion, but salt meat is in­
 jurious if used much.  
 The London World states tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_grandfather_ver01%2Fdata%2Fsn85042098%2F00415667413%2F1878090501%2F0322.jp2/pct:32.838080,55.025824,14.348604,31.088598/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_grandfather_ver01%2Fdata%2Fsn85042098%2F00415667413%2F1878090501%2F0322.jp2/pct:32.838080,55.025824,14.348604,31.088598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4337,7 +4337,7 @@ found two teaspoonfuls of salt completely
 stayed the blood.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1878092701%2F0155.jp2/pct:49.615115,57.098301,14.499650,13.669606/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1878092701%2F0155.jp2/pct:49.615115,57.098301,14.499650,13.669606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4377,7 +4377,7 @@ when other remedies failed, liv. lUit.
 found two&#x27; leaspoonfuls of salt com­  
 pletely stayed lt&quot;S btooM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_adam_ver02%2Fdata%2Fsn84026526%2F0029587966A%2F1878101001%2F0426.jp2/pct:78.954248,51.876586,12.156863,14.959263/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_adam_ver02%2Fdata%2Fsn84026526%2F0029587966A%2F1878101001%2F0426.jp2/pct:78.954248,51.876586,12.156863,14.959263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4425,7 +4425,7 @@ until cured. Salt will expel worms, if used
 in the food in a moderate degree, and sids  
 digestion, but salt is injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-06-28_58_49$9/pct:57.707355,60.482955,18.603286,22.798295/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-06-28_58_49$9/pct:57.707355,60.482955,18.603286,22.798295/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4483,7 +4483,7 @@ she food in moderate degree, and aid
 digestion, but salt meat is iujurous if  
 used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027194%2F1879082801%2F0485.jp2/pct:32.497801,57.910306,10.891234,24.411312/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027194%2F1879082801%2F0485.jp2/pct:32.497801,57.910306,10.891234,24.411312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4535,7 +4535,7 @@ if used in fool in a moderate degree,
 and aid digestion, but salt meat is  
 injurious if used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F0041562346A%2F1879121801%2F0891.jp2/pct:9.866131,13.156844,14.136546,27.657310/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F0041562346A%2F1879121801%2F0891.jp2/pct:9.866131,13.156844,14.136546,27.657310/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4587,7 +4587,7 @@ expel worms, if used in lood in a moder­
 ate degree, and aid digestion, but salt  
 meat is injurious if u-ed much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1880021801%2F0663.jp2/pct:40.769231,21.685190,10.837607,16.231584/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1880021801%2F0663.jp2/pct:40.769231,21.685190,10.837607,16.231584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4638,7 +4638,7 @@ expel vorms, it&#x27; used in food In a inoder­
 ate degri-ee, and aid digestioi, but salt  
 me1Cat is ijtiriotis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288439%2F1880030901%2F0893.jp2/pct:29.385041,20.259384,13.545033,18.608432/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288439%2F1880030901%2F0893.jp2/pct:29.385041,20.259384,13.545033,18.608432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4689,7 +4689,7 @@ if used in food In a moderate degree, and
 aid digestion, but salt meat Is injurious  
 if used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_irvin_ver01%2Fdata%2Fsn90069164%2F0028077683A%2F1880050401%2F0585.jp2/pct:6.391648,37.512023,17.417876,25.264508/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_irvin_ver01%2Fdata%2Fsn90069164%2F0028077683A%2F1880050401%2F0585.jp2/pct:6.391648,37.512023,17.417876,25.264508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4729,7 +4729,7 @@ anu drink twice u day, also, until cured.
 a moderate !egrce, and ai.l diction,  
 but salt meat is injurious u used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477710%2F1880050701%2F0418.jp2/pct:40.724763,38.646212,11.504170,11.980326/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477710%2F1880050701%2F0418.jp2/pct:40.724763,38.646212,11.504170,11.980326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4778,7 +4778,7 @@ used in food in a moderate degree, and
 • d digestion, but salt meat is Injurious  
 If used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_floyd_ver01%2Fdata%2Fsn86092245%2F00414186580%2F1880050801%2F0522.jp2/pct:18.600591,6.889597,12.225804,16.691437/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_floyd_ver01%2Fdata%2Fsn86092245%2F00414186580%2F1880050801%2F0522.jp2/pct:18.600591,6.889597,12.225804,16.691437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4829,7 +4829,7 @@ used in food in a moderate degree, and
 aid digestion, but salt meat Is Injurious  
 1f used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288439%2F1880052201%2F1021.jp2/pct:17.341281,3.734111,13.589317,18.407691/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288439%2F1880052201%2F1021.jp2/pct:17.341281,3.734111,13.589317,18.407691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4871,7 +4871,7 @@ curesl. Salt will expel worms, if used in food in a
 moderate degree, and aid digasti n. hut salt meat  
 it injurious if used mneh.—feeiunye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627609%2F1880052901%2F0244.jp2/pct:3.759210,50.908299,11.231581,14.489208/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627609%2F1880052901%2F0244.jp2/pct:3.759210,50.908299,11.231581,14.489208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4918,7 +4918,7 @@ if used iu food in a moderate degree, and
 aid digestion, but salt meat is injurious if  
 used too much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624566%2F1880060501%2F0265.jp2/pct:13.849420,60.340754,10.166585,15.274841/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624566%2F1880060501%2F0265.jp2/pct:13.849420,60.340754,10.166585,15.274841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4964,7 +4964,7 @@ worms, if used in food in a moderate degree,
 and aid digestion, but salt meat is injurious if  
 used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861915%2F1880070101%2F0056.jp2/pct:43.125271,20.323520,14.746424,13.958165/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861915%2F1880070101%2F0056.jp2/pct:43.125271,20.323520,14.746424,13.958165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5009,7 +5009,7 @@ drink twice a day, also, until cured. Salt
 will expel worms, if used in food in a moder­  
 ate degree, and aid digestion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1880080601%2F0557.jp2/pct:6.911181,77.818665,14.616122,17.704181/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1880080601%2F0557.jp2/pct:6.911181,77.818665,14.616122,17.704181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5053,7 +5053,7 @@ thrM times will relieve in most cases.
 ir the teeth be covered with tartar,  
 wash twice a day with salt and wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776695%2F1881011201%2F0111.jp2/pct:28.604119,6.876150,10.860764,12.818827/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776695%2F1881011201%2F0111.jp2/pct:28.604119,6.876150,10.860764,12.818827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5100,7 +5100,7 @@ Salt will expel worms, if used in food in a
 moderate degree, and aid digestion, but  
 salt meat is injurious it used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023209%2F00202197486%2F1881011901%2F0639.jp2/pct:49.458895,52.139111,11.277767,14.601159/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023209%2F00202197486%2F1881011901%2F0639.jp2/pct:49.458895,52.139111,11.277767,14.601159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5142,7 +5142,7 @@ used in food in a modurato . degree,
 nnd aid digestiou, but, salt. raeat is in-  
 jurous if used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_killington_ver02%2Fdata%2Fsn84023296%2F00200296126%2F1881012601%2F0607.jp2/pct:79.667450,48.368721,12.000723,19.678923/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_killington_ver02%2Fdata%2Fsn84023296%2F00200296126%2F1881012601%2F0607.jp2/pct:79.667450,48.368721,12.000723,19.678923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5185,7 +5185,7 @@ three times will rolleve in most cases.
 If tho teeth be covered with tartar,  
 wash twice a day with salt and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288427%2F1881012701%2F0399.jp2/pct:18.576697,5.194525,13.031007,14.556166/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288427%2F1881012701%2F0399.jp2/pct:18.576697,5.194525,13.031007,14.556166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5226,7 +5226,7 @@ relieve most cases. If the teeth be cover­
 ed with tartar, wash twice a day with salt  
 and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024653%2F00393349554%2F1881012801%2F0019.jp2/pct:85.313002,43.261594,11.111557,14.671407/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024653%2F00393349554%2F1881012801%2F0019.jp2/pct:85.313002,43.261594,11.111557,14.671407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5249,7 +5249,7 @@ will relieve in most case*. If the teeth be
 eovered with tartar, wash twice a day with  
 salt and water. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192361%2F1881020101%2F0228.jp2/pct:84.615718,87.551035,13.406489,5.872703/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192361%2F1881020101%2F0228.jp2/pct:84.615718,87.551035,13.406489,5.872703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5272,7 +5272,7 @@ will leviveu person who seems almost
 dead from receiving a very heavy  
 fall, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623471%2F1881033101%2F0193.jp2/pct:24.423626,13.115474,14.218324,6.948654/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623471%2F1881033101%2F0193.jp2/pct:24.423626,13.115474,14.218324,6.948654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5292,7 +5292,7 @@ is one of the speediest remedies known.
 The same will revive a person who  
 seems almost dead from a heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dorothy_ver01%2Fdata%2Fsn85033295%2F00279550031%2F1881060801%2F0011.jp2/pct:34.962866,35.427192,13.870686,3.736536/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dorothy_ver01%2Fdata%2Fsn85033295%2F00279550031%2F1881060801%2F0011.jp2/pct:34.962866,35.427192,13.870686,3.736536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5312,7 +5312,7 @@ It is one of the speed ist remedies known.
 The same will revive a person who seems  
 almost dead from a heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477710%2F1881062401%2F0628.jp2/pct:66.023280,91.471611,11.684102,3.209733/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477710%2F1881062401%2F0628.jp2/pct:66.023280,91.471611,11.684102,3.209733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5330,7 +5330,7 @@ Swelled Neck —Wash the part with
 brine, and drink it also twice a day  
 until cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_elliot_ver01%2Fdata%2Fsn87068079%2F00332896441%2F1881063001%2F0096.jp2/pct:74.221339,48.674267,10.839132,2.411298/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_elliot_ver01%2Fdata%2Fsn87068079%2F00332896441%2F1881063001%2F0096.jp2/pct:74.221339,48.674267,10.839132,2.411298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5350,7 +5350,7 @@ speediest remedies known. Tho same
 will revive a person who seems almost  
 dead from a heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_elliot_ver01%2Fdata%2Fsn87068079%2F00332896441%2F1881063001%2F0096.jp2/pct:74.237906,51.287306,10.839132,3.269502/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_elliot_ver01%2Fdata%2Fsn87068079%2F00332896441%2F1881063001%2F0096.jp2/pct:74.237906,51.287306,10.839132,3.269502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5378,7 +5378,7 @@ Swelled Neck—Wash the
 part with brine, and drink it also  
 twice a day until cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349207%2F1881070901%2F0629.jp2/pct:53.756194,5.508178,40.718533,87.029918/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349207%2F1881070901%2F0629.jp2/pct:53.756194,5.508178,40.718533,87.029918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5400,7 +5400,7 @@ remedies known. The same will
 revive a person who seems almost  
 dead from a heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349207%2F1881070901%2F0629.jp2/pct:79.762141,15.643786,14.732408,5.721376/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349207%2F1881070901%2F0629.jp2/pct:79.762141,15.643786,14.732408,5.721376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5420,7 +5420,7 @@ remedies kuown. The same will revive a
 person who seems almost dead from a  
 heavy fal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776695%2F1881072001%2F0218.jp2/pct:19.022999,64.177546,11.000178,3.054830/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776695%2F1881072001%2F0218.jp2/pct:19.022999,64.177546,11.000178,3.054830/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5436,7 +5436,7 @@ Swelled Aeck. Wash the part with
 brine, and drink it also twice a day uulil  
 cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776695%2F1881072001%2F0218.jp2/pct:18.933856,80.156658,11.035835,1.201044/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776695%2F1881072001%2F0218.jp2/pct:18.933856,80.156658,11.035835,1.201044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5456,7 +5456,7 @@ speediest remedies klloHII. The same
 will revive a person who seems almost  
 dead from a heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779180%2F1881072001%2F0331.jp2/pct:21.331924,39.226674,12.325581,3.362286/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779180%2F1881072001%2F0331.jp2/pct:21.331924,39.226674,12.325581,3.362286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5476,7 +5476,7 @@ remedies known. The same will revive a
 person who seetns almost dead from a  
 heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288427%2F1881080401%2F0723.jp2/pct:69.867183,14.839859,13.198672,3.751772/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288427%2F1881080401%2F0723.jp2/pct:69.867183,14.839859,13.198672,3.751772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5493,7 +5493,7 @@ SWELLED JNECK.—Wash the part with
 brine, and drink it also twice a day until  
 cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881081101%2F0322.jp2/pct:16.540872,77.615056,12.651912,1.378527/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881081101%2F0322.jp2/pct:16.540872,77.615056,12.651912,1.378527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5513,7 +5513,7 @@ remedies known. The same will revive a
 person who seems ului&#x27;Mtt dead from a  
 heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881081101%2F0322.jp2/pct:69.766748,15.332658,12.749989,3.407940/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881081101%2F0322.jp2/pct:69.766748,15.332658,12.749989,3.407940/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5533,7 +5533,7 @@ is one of the speediest remedies known
 The same will revive a person who seems  
 almost dead from a heavy fall.—Ex.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479767%2F1881082401%2F0359.jp2/pct:40.741637,48.140809,10.632288,2.879346/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479767%2F1881082401%2F0359.jp2/pct:40.741637,48.140809,10.632288,2.879346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5554,7 +5554,7 @@ known. The same will revive a
 person who seems almost dead  
 from a heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F0023728706A%2F1881082401%2F0346.jp2/pct:2.694726,84.721652,12.147347,5.473943/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F0023728706A%2F1881082401%2F0346.jp2/pct:2.694726,84.721652,12.147347,5.473943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5575,7 +5575,7 @@ known. The same will revive a
 person who seems almost dead  
 from a heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237287083%2F1881082402%2F0221.jp2/pct:2.770919,84.052046,12.039323,5.512833/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237287083%2F1881082402%2F0221.jp2/pct:2.770919,84.052046,12.039323,5.512833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5594,7 +5594,7 @@ to bed. It is one of the speediest remedies
 known. The same will revive a person who  
 seems almost dead from a heavy fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861915%2F1881090101%2F0296.jp2/pct:16.498491,95.411326,13.393704,3.246675/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861915%2F1881090101%2F0296.jp2/pct:16.498491,95.411326,13.393704,3.246675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5641,7 +5641,7 @@ the mouth with brine. If the teeth be
 covered with tartar wash them twice a  
 day with salt and water.—Medica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dorothy_ver01%2Fdata%2Fsn85033295%2F00279550031%2F1881092801%2F0138.jp2/pct:79.334301,50.163646,13.872400,17.944361/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dorothy_ver01%2Fdata%2Fsn85033295%2F00279550031%2F1881092801%2F0138.jp2/pct:79.334301,50.163646,13.872400,17.944361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5661,7 +5661,7 @@ remedies known. The same will revive
 a person who seems almost dead from a  
 heavy fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881101301%2F0358.jp2/pct:16.965200,68.622906,12.491470,3.430373/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881101301%2F0358.jp2/pct:16.965200,68.622906,12.491470,3.430373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5677,7 +5677,7 @@ SWEI.I.KD NKOK. Wash the part with
 brine, and drin!t it also twice a day until  
 cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881101301%2F0358.jp2/pct:43.219038,28.484455,12.512794,1.387601/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881101301%2F0358.jp2/pct:43.219038,28.484455,12.512794,1.387601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5726,7 +5726,7 @@ mouth with brine. If the teeth be
 covered with tartar wash them twice a  
 day with salt and water.—From th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1881-11-17_34_46$6/pct:40.166667,57.911850,13.750000,17.991329/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1881-11-17_34_46$6/pct:40.166667,57.911850,13.750000,17.991329/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5785,7 +5785,7 @@ brine. If the teeth be covered
 with tartar wash them twice  
 a day with salt and water.— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_agate_ver01%2Fdata%2F2018270504%2F00383343562%2F1881120301%2F0218.jp2/pct:70.484304,45.937122,10.731188,28.334341/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_agate_ver01%2Fdata%2F2018270504%2F00383343562%2F1881120301%2F0218.jp2/pct:70.484304,45.937122,10.731188,28.334341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5800,7 +5800,7 @@ a day with salt and water.—
 effect a speedy cure. Salt will expel worms, if used in  
 a moderate degree, and aids digestion; but the daily us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973$23/pct:11.810777,35.470480,26.284461,1.360701/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973$23/pct:11.810777,35.470480,26.284461,1.360701/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5849,7 +5849,7 @@ wash the mouth with brine. If the
 teeth nro covered with tartar, wash  
 them twice a day with salt aud water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_fernico_ver01%2Fdata%2Fsn85052020%2F00280763779%2F1881123001%2F0674.jp2/pct:18.113541,49.441201,11.817981,23.486239/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_fernico_ver01%2Fdata%2Fsn85052020%2F00280763779%2F1881123001%2F0674.jp2/pct:18.113541,49.441201,11.817981,23.486239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5895,7 +5895,7 @@ with brine. If the teeth be covered
 with tartar, wash them twice a day with  
 salt and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_kay_ver01%2Fdata%2Fsn85033437%2F00296021064%2F1882012901%2F0100.jp2/pct:18.243451,76.490771,10.970724,14.540937/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kay_ver01%2Fdata%2Fsn85033437%2F00296021064%2F1882012901%2F0100.jp2/pct:18.243451,76.490771,10.970724,14.540937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5940,7 +5940,7 @@ with brine. If the teeth be covered
 with tartar, wash them twice a day with  
 salt and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_kay_ver01%2Fdata%2Fsn85033437%2F00296021064%2F1882020301%2F0115.jp2/pct:25.514019,71.445540,10.950156,13.968405/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kay_ver01%2Fdata%2Fsn85033437%2F00296021064%2F1882020301%2F0115.jp2/pct:25.514019,71.445540,10.950156,13.968405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5959,7 +5959,7 @@ to bed. It is one of the speediest remedies
 known. The same will revive a person  
 who seems almost dead from a heavy fail.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lytton_ver01%2Fdata%2Fsn82014381%2F00175037974%2F1882041501%2F0193.jp2/pct:39.084055,86.081771,10.783606,2.563494/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lytton_ver01%2Fdata%2Fsn82014381%2F00175037974%2F1882041501%2F0193.jp2/pct:39.084055,86.081771,10.783606,2.563494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5980,7 +5980,7 @@ known. The same will revive a person
 who seems almost dead from a heavy  
 fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020552%2F1884052901%2F0300.jp2/pct:25.928918,92.806935,9.666128,3.619963/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020552%2F1884052901%2F0300.jp2/pct:25.928918,92.806935,9.666128,3.619963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6038,7 +6038,7 @@ mouth with brine. If the teeth be
 covered with tartar wash them  
 twice a day with salt and wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020552%2F1884082801%2F0354.jp2/pct:27.869518,12.194270,9.637250,18.204053/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020552%2F1884082801%2F0354.jp2/pct:27.869518,12.194270,9.637250,18.204053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6091,7 +6091,7 @@ expel worms, if used in the food in a
 moderate degree, and aids digestion,  
 but salt meat is iujurioua if used mrch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1885030701%2F0467.jp2/pct:30.688287,6.110506,10.526997,17.763337/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1885030701%2F0467.jp2/pct:30.688287,6.110506,10.526997,17.763337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6141,7 +6141,7 @@ expel worms, if used in the food in a
 moderate degree, and aids digestion,  
 but salt meat ia injurious if used meet?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1885031101%2F0253.jp2/pct:29.529512,7.732733,10.761334,16.066066/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1885031101%2F0253.jp2/pct:29.529512,7.732733,10.761334,16.066066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6199,7 +6199,7 @@ In swelled neck, wash the part
 with brine and drink it twice a day,  
 als:, until cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_ivory_ver01%2Fdata%2Fsn94060041%2F0017503397A%2F1885062701%2F0093.jp2/pct:86.203718,49.125432,12.126799,25.044112/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_ivory_ver01%2Fdata%2Fsn94060041%2F0017503397A%2F1885062701%2F0093.jp2/pct:86.203718,49.125432,12.126799,25.044112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6224,7 +6224,7 @@ otner remedies fail, Dr. Rush
 tound two teaspoonfuls of talt  
 completely stayed ihe blood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_echo_ver01%2Fdata%2Fsn85038119%2F00237282656%2F1885102901%2F0385.jp2/pct:71.550719,66.494165,9.275813,5.601218/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_echo_ver01%2Fdata%2Fsn85038119%2F00237282656%2F1885102901%2F0385.jp2/pct:71.550719,66.494165,9.275813,5.601218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6243,7 +6243,7 @@ one of the speediest remedies known
 The same will revive a person who seems  
 almost dead from a heavy fal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/uuml_fisher_ver01%2Fdata%2Fsn85058130%2F00206535118%2F1886022101%2F0382.jp2/pct:34.926228,23.089479,14.225941,2.908443/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/uuml_fisher_ver01%2Fdata%2Fsn85058130%2F00206535118%2F1886022101%2F0382.jp2/pct:34.926228,23.089479,14.225941,2.908443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6265,7 +6265,7 @@ remedies known. The same will re­
 vive a person wheo almost dead from  
 a heavy full.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291104%2F1886052101%2F0576.jp2/pct:71.383922,41.808180,10.725589,4.816431/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291104%2F1886052101%2F0576.jp2/pct:71.383922,41.808180,10.725589,4.816431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6285,7 +6285,7 @@ est remedies known. The same will
 revive a person who seems almost  
 dead from a heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020552%2F1886071501%2F0756.jp2/pct:25.634249,81.538637,9.408034,3.303612/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020552%2F1886071501%2F0756.jp2/pct:25.634249,81.538637,9.408034,3.303612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6308,7 +6308,7 @@ remedies known. The same will re
 vive a person who seems almost dead  
 from a heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020515%2F1886103001%2F0343.jp2/pct:41.929002,80.419397,15.941058,6.657929/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020515%2F1886103001%2F0343.jp2/pct:41.929002,80.419397,15.941058,6.657929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6333,7 +6333,7 @@ venu&#x27;dics known. The same will
 revive a person who seems almost  
 dead from a heavy fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020515%2F1887021901%2F0475.jp2/pct:8.948989,89.653836,15.677221,4.262464/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020515%2F1887021901%2F0475.jp2/pct:8.948989,89.653836,15.677221,4.262464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6355,7 +6355,7 @@ one of the speediest remedies known It
 will revive a person who seems almost dead  
 from a heavy fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_mustang_ver01%2Fdata%2Fsn99067997%2F00415625078%2F1888042001%2F0565.jp2/pct:70.100011,84.804049,14.218937,3.948789/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_mustang_ver01%2Fdata%2Fsn99067997%2F00415625078%2F1888042001%2F0565.jp2/pct:70.100011,84.804049,14.218937,3.948789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6377,7 +6377,7 @@ one of the speediest remedies known. It
 will revive a person who seems almost dead  
 from a heavy fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_mustang_ver01%2Fdata%2Fsn99067997%2F00415625078%2F1888042001%2F0566.jp2/pct:70.326217,84.985542,14.224558,4.003856/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_mustang_ver01%2Fdata%2Fsn99067997%2F00415625078%2F1888042001%2F0566.jp2/pct:70.326217,84.985542,14.224558,4.003856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6433,7 +6433,7 @@ the food in a moderate degree, and
 aids digestion, but salt meat is in­  
 jurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_emerald_ver02%2Fdata%2Fsn87065614%2F00383343793%2F1890051501%2F0860.jp2/pct:72.010381,48.058109,20.048912,44.459680/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_emerald_ver02%2Fdata%2Fsn87065614%2F00383343793%2F1890051501%2F0860.jp2/pct:72.010381,48.058109,20.048912,44.459680/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

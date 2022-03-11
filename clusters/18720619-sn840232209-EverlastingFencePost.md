@@ -67,7 +67,7 @@ pain. Put a coat over the timber, and there
 is not a man that will live long enough to  
 see it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1872061901%2F0441.jp2/pct:28.968199,51.476562,11.276212,10.725656/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1872061901%2F0441.jp2/pct:28.968199,51.476562,11.276212,10.725656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ paint. - Pot a coat of this over the
 umber, and tiler i riot a man, that  
 will live long enough, to se it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872062601%2F0208.jp2/pct:54.515470,37.860935,9.596356,8.261038/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872062601%2F0208.jp2/pct:54.515470,37.860935,9.596356,8.261038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ jusis call uu jjri&#x27;jjaiuu iui luas ulij.ii i*yu uuiiis
 l piece.  
 &quot; For tlic benefit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F0029586235A%2F1872082901%2F0277.jp2/pct:50.452701,16.673724,16.187949,12.954337/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F0029586235A%2F1872082901%2F0277.jp2/pct:50.452701,16.673724,16.187949,12.954337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ into the ground. Time and weather seemed to have
 no effect on them. The posts can be prepared for less  
 than two cents apiece.” We believe that this is a goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11$19/pct:39.244186,9.539943,27.378436,11.626248/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11$19/pct:39.244186,9.539943,27.378436,11.626248/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ of this over the timber; and there is
 not a man that will live to see it r  
 rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555146%2F1872092501%2F0046.jp2/pct:43.233408,56.366624,13.602495,23.354066/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555146%2F1872092501%2F0046.jp2/pct:43.233408,56.366624,13.602495,23.354066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ to the consistency of paint. Put a coat
 over the timber, and there is not a man that  
 will live long enough to see it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1872101101%2F0367.jp2/pct:72.305485,72.881978,11.084981,16.837047/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1872101101%2F0367.jp2/pct:72.305485,72.881978,11.084981,16.837047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ sistency of paint. Put a coat ever
 that wiil live long enough to see it  
 rotten.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028721%2F1872101101%2F0365.jp2/pct:4.288172,72.209188,9.668817,14.828794/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028721%2F1872101101%2F0365.jp2/pct:4.288172,72.209188,9.668817,14.828794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ and charcoal are applic d.”
   
 A Woman Inventor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4$2/pct:59.312749,38.907164,25.124502,8.077485/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4$2/pct:59.312749,38.907164,25.124502,8.077485/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ it in pulverized charcoal to the consistency
 of paint. Put a coat of this over the tim-  
 ber, and there is not a man that will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18$0/pct:37.975823,82.308307,9.323560,9.724441/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18$0/pct:37.975823,82.308307,9.323560,9.724441/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ oil and stir In It pulverized charcoal to the
 consistency or paint. Put a coat or this  
 over Iho timber, and there Is not 11 m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777377%2F1873022101%2F0227.jp2/pct:16.367792,75.358852,10.917722,9.316071/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777377%2F1873022101%2F0227.jp2/pct:16.367792,75.358852,10.917722,9.316071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ consistency of paint. Put n coal of tLis
 over tho timber, and thero is not a man  
 that will live to *oo it rot.&#x27;—Curretpondcn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873022101%2F0592.jp2/pct:83.703519,33.456441,12.981449,13.136360/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873022101%2F0592.jp2/pct:83.703519,33.456441,12.981449,13.136360/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ cents apiece.
   
 For the benefit of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85033526%2F00212472566%2F1873022701%2F0035.jp2/pct:14.032358,26.813448,9.886434,8.916499/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85033526%2F00212472566%2F1873022701%2F0035.jp2/pct:14.032358,26.813448,9.886434,8.916499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ coal to the consistency of paint. Put n
 coat of this over the tinilier, and there iu  
 not a mau that w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776051%2F1873030101%2F0230.jp2/pct:81.955157,49.978870,12.538117,9.142133/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776051%2F1873030101%2F0230.jp2/pct:81.955157,49.978870,12.538117,9.142133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ cc i be prepared for less than two cents
 apiece.  
 “ For the benefit of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873030801%2F0472.jp2/pct:32.041667,59.105708,12.115741,13.189249/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873030801%2F0472.jp2/pct:32.041667,59.105708,12.115741,13.189249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ pulverized charcoal to the consistency of
 paint. Put a coat of thi* ov.u&#x27; the timber,  
 und there i? uot a man that wi&#x27;l live to see i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742046%2F1873031201%2F0256.jp2/pct:15.717675,65.673489,13.906378,11.954356/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742046%2F1873031201%2F0256.jp2/pct:15.717675,65.673489,13.906378,11.954356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ charcoal to the consistency of paint. Pul
 a coat, of this over the timber, and there  
 not s man that will live to see it rot.—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623744%2F1873031501%2F0055.jp2/pct:17.143246,85.602481,11.519608,10.720614/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623744%2F1873031501%2F0055.jp2/pct:17.143246,85.602481,11.519608,10.720614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ to the consistency of paint. Put a
 coat of this ever the timber, and  
 there is not a man that will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873031501%2F0252.jp2/pct:14.298169,73.222222,9.909910,12.255556/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873031501%2F0252.jp2/pct:14.298169,73.222222,9.909910,12.255556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ m pulverized charcoal to the consistency of
 paint. Put a coat of this over the timber,  
 and there is not a man that will live to see i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861277%2F1873032001%2F0097.jp2/pct:5.539773,71.701529,17.061237,13.093323/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861277%2F1873032001%2F0097.jp2/pct:5.539773,71.701529,17.061237,13.093323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ basswood or quaking ash. as any ether &#x27; &#x27; .
 kinds of timber for fence posts. I have &quot;  
 taken out, basswood posts r after having s 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1873032001%2F0434.jp2/pct:81.385123,65.759608,14.657384,6.048491/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1873032001%2F0434.jp2/pct:81.385123,65.759608,14.657384,6.048491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ coal to the consistency of paint. Put a
 coat of this over the timber and there is  
 not a man that will live to see it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn85033386%2F00296020709%2F1873040401%2F0061.jp2/pct:56.330275,72.018096,9.737877,12.722057/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn85033386%2F00296020709%2F1873040401%2F0061.jp2/pct:56.330275,72.018096,9.737877,12.722057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ in it pulverized charcoal to the consistency
 of paint. Put a coat of this over the Um­  
 ber, and there is not a mu that will Uv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873041001%2F0060.jp2/pct:62.829404,83.257566,11.238731,12.108715/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873041001%2F0060.jp2/pct:62.829404,83.257566,11.238731,12.108715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ coal to the consistency of paint. Put
 a coat of this over the timber, and there  
 is not a man that will live to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291062%2F1873041201%2F0843.jp2/pct:77.904504,56.179736,14.203557,15.818876/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291062%2F1873041201%2F0843.jp2/pct:77.904504,56.179736,14.203557,15.818876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ timber, and there is not a
 man that will live to see it  
 rot.&quot; fCor. Western
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1873041701%2F0255.jp2/pct:15.943536,34.075749,9.762259,22.295082/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1873041701%2F0255.jp2/pct:15.943536,34.075749,9.762259,22.295082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ coal to the consistency of paint. Put a
 coat of this over the timber, and there  
 is not a man that will live to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023416%2F00202197498%2F1873041901%2F0061.jp2/pct:8.133380,49.746259,12.155963,9.733247/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023416%2F00202197498%2F1873041901%2F0061.jp2/pct:8.133380,49.746259,12.155963,9.733247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -970,7 +970,7 @@ coal, to the consistency of paint. Put a I
 coat of this on the timber, and there is 1  
 not a man who will live to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84027008%2F00294551499%2F1873042501%2F0642.jp2/pct:1.809955,29.115922,16.475229,13.103293/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84027008%2F00294551499%2F1873042501%2F0642.jp2/pct:1.809955,29.115922,16.475229,13.103293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1002,7 +1002,7 @@ to the consistency of paint. Put a coat of
 this on the timber, and there is not a man J  
 who will live to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1873050101%2F0296.jp2/pct:2.664042,78.334078,14.422572,9.512740/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1873050101%2F0296.jp2/pct:2.664042,78.334078,14.422572,9.512740/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ tency of paint. Put a coat of this over
 the timber, and there is not a man that  
 will lire to see it rotten.—Cm. Wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623744%2F1873050301%2F0085.jp2/pct:5.898630,70.555967,10.940136,9.552755/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623744%2F1873050301%2F0085.jp2/pct:5.898630,70.555967,10.940136,9.552755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ coal to the cothidtency o paint. Put
 coat of this over the timber, and  
 there is not a raan that will live to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1873051601%2F0142.jp2/pct:23.968785,70.616763,8.681717,6.157090/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1873051601%2F0142.jp2/pct:23.968785,70.616763,8.681717,6.157090/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ For the bo&#x27;iefit of others I will give
 the recipe; Take boiled linseed oil an 1  
 it- in it pulverized charo al to the e&lt;?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_heddalettuce_ver01%2Fdata%2Fsn84026920%2F00294558731%2F1873051701%2F0238.jp2/pct:3.114237,34.486520,13.313241,13.214898/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_heddalettuce_ver01%2Fdata%2Fsn84026920%2F00294558731%2F1873051701%2F0238.jp2/pct:3.114237,34.486520,13.313241,13.214898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1120,7 +1120,7 @@ prepared for lew than twoceuts apiece. For
 the benefit oi others, I will rjVe the rec  
 Take boiled lin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022986%2F1873052001%2F0295.jp2/pct:7.097946,83.758186,14.922454,8.010076/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022986%2F1873052001%2F0295.jp2/pct:7.097946,83.758186,14.922454,8.010076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ to the consistency of paint. Put a
 coat of this over the timber, and  
 tbaro ia not a man that will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84038485%2F00279528955%2F1873052901%2F0113.jp2/pct:33.715571,40.200096,12.338392,14.243812/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84038485%2F00279528955%2F1873052901%2F0113.jp2/pct:33.715571,40.200096,12.338392,14.243812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ verized charcoal to the consistency of
 paint. Put a coat of this over the timber,  
 and there is not a man that will live to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1873052901%2F1032.jp2/pct:45.542770,29.175409,12.422016,8.938313/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1873052901%2F1032.jp2/pct:45.542770,29.175409,12.422016,8.938313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ it in pulverized charcoal to the consistency
 of a paint. Put a coat of this over the  
 timber and there is not a niari that wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1873060301%2F0619.jp2/pct:6.421300,44.301501,17.332289,17.664523/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1873060301%2F0619.jp2/pct:6.421300,44.301501,17.332289,17.664523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1257,7 +1257,7 @@ verized charcoal to the consistency of
 paint. Put a coat of this over the timber,  
 and there is not a man that will live to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016739%2F00295877509%2F1873060701%2F0271.jp2/pct:51.619323,20.933373,11.235752,8.043217/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016739%2F00295877509%2F1873060701%2F0271.jp2/pct:51.619323,20.933373,11.235752,8.043217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1289,7 +1289,7 @@ verized charcoal to the consistency of
 paint. Put a coat of this over the timber,  
 and there is not a man that will live to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768746%2F1873061101%2F0002.jp2/pct:77.695312,65.690220,13.572049,9.149899/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768746%2F1873061101%2F0002.jp2/pct:77.695312,65.690220,13.572049,9.149899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1321,7 +1321,7 @@ verized charcoal to the consistency of
 paint. Put a coat of this over the timber,  
 and there is not a man that will live to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271768527%2F1873061201%2F0637.jp2/pct:77.089133,44.493513,13.592186,8.962377/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271768527%2F1873061201%2F0637.jp2/pct:77.089133,44.493513,13.592186,8.962377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1354,7 +1354,7 @@ consistent 06 paint. Put a coat of *hi
 over the timber, and there is not a man  
 that will live to see it . it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769726%2F1873061201%2F0507.jp2/pct:14.605258,55.858433,9.648797,10.341857/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769726%2F1873061201%2F0507.jp2/pct:14.605258,55.858433,9.648797,10.341857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1388,7 +1388,7 @@ pulvcrizod charcoal to iho consistency
 of paint, put a coat of this over the  
 timbor and there is not a ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873061801%2F1099.jp2/pct:15.065990,58.479783,11.553299,10.358623/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873061801%2F1099.jp2/pct:15.065990,58.479783,11.553299,10.358623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1430,7 +1430,7 @@ poplar, basswood or quaking, ash
 as anvaSthec kinds of -timber -for  
 fence posts after having bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1873061901%2F0111.jp2/pct:5.185185,77.127450,19.517657,17.440484/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1873061901%2F0111.jp2/pct:5.185185,77.127450,19.517657,17.440484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1469,7 +1469,7 @@ sistency of paint. Put a coat ol
 this over the limber, and there  
 is not a man who will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85038222%2F00280774911%2F1873061901%2F0527.jp2/pct:57.461929,13.989777,11.979695,19.948884/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85038222%2F00280774911%2F1873061901%2F0527.jp2/pct:57.461929,13.989777,11.979695,19.948884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1503,7 +1503,7 @@ ized charcoal to tln
 Put a coat of this over the timber, and  
 mere is not a man that will live to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873061901%2F0095.jp2/pct:5.665567,65.379253,12.247891,9.774122/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873061901%2F0095.jp2/pct:5.665567,65.379253,12.247891,9.774122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1535,7 +1535,7 @@ to the consistency of paint. P.it a coat of
 this over the timber, and there is not a man  
 that w ill live to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1873062101%2F0127.jp2/pct:20.240637,43.643617,15.078595,9.401596/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1873062101%2F0127.jp2/pct:20.240637,43.643617,15.078595,9.401596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ stir it in pulverized charcoal to the&#x27; consis­
 tency of paint. Put a coat of this over the  
 timber, and there is no man that wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105495%2F1873062801%2F0536.jp2/pct:5.709241,76.607870,14.989209,9.850746/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105495%2F1873062801%2F0536.jp2/pct:5.709241,76.607870,14.989209,9.850746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1613,7 +1613,7 @@ the consistent-&#x27; of paint. Put a coat
 of this on the timber, and there is  
 not a mau who will live to seo&quot; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873070901%2F0237.jp2/pct:19.796954,4.126984,17.089679,93.151927/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873070901%2F0237.jp2/pct:19.796954,4.126984,17.089679,93.151927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1651,7 +1651,7 @@ ized charcoal to the consistency of
   
 paint, rut a ooai ot tbM over iae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F0019991991A%2F1873071001%2F0032.jp2/pct:27.332120,83.446232,10.647536,11.066241/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F0019991991A%2F1873071001%2F0032.jp2/pct:27.332120,83.446232,10.647536,11.066241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1683,7 +1683,7 @@ timber, and there is not a man that will
 live to see it rot  
 TempcevKce Lector
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1873071801%2F0303.jp2/pct:74.520767,34.991397,11.242013,12.310339/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1873071801%2F0303.jp2/pct:74.520767,34.991397,11.242013,12.310339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1713,7 +1713,7 @@ charcoal to tbe coosistency of paiot. Put a coat
 of this over the timber, and there is not a man  
 Ithat w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762490%2F1873072201%2F0510.jp2/pct:68.510711,90.150630,12.495209,8.404753/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762490%2F1873072201%2F0510.jp2/pct:68.510711,90.150630,12.495209,8.404753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1746,7 +1746,7 @@ charcoal to the consistency of paint.
 Put a coat of this over the timber, and  
 there is not a msn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776348%2F1873072301%2F0528.jp2/pct:8.776402,69.145861,12.053897,12.286465/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776348%2F1873072301%2F0528.jp2/pct:8.776402,69.145861,12.053897,12.286465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1787,7 +1787,7 @@ consisteucy of paint. Put a coat of
 this over the timber, and there is not  
 a man that will live to see it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286972%2F1873073001%2F0242.jp2/pct:3.296256,54.698416,12.032013,16.799501/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286972%2F1873073001%2F0242.jp2/pct:3.296256,54.698416,12.032013,16.799501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1823,7 +1823,7 @@ and stir in it pulverized charcoal, to the con
 gister.cy of paint. Put a coat of this on tin  
 timber, and there is not a man who will liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F004141867006%2F1873080201%2F0124.jp2/pct:69.148936,79.695540,12.123826,15.162236/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F004141867006%2F1873080201%2F0124.jp2/pct:69.148936,79.695540,12.123826,15.162236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ ized charcoal to to tho consistency of
 paint. Put a coat of this on the timber,  
 and there is not a man who will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873080701%2F0118.jp2/pct:30.157866,49.882255,12.048630,15.874775/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873080701%2F0118.jp2/pct:30.157866,49.882255,12.048630,15.874775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1903,7 +1903,7 @@ consistency of paint. Put a coat of
 this on the timber, and there is not a  
 man that will live to sec it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn86053067%2F00415620184%2F1873090401%2F0117.jp2/pct:18.838192,52.828918,17.888322,17.804221/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn86053067%2F00415620184%2F1873090401%2F0117.jp2/pct:18.838192,52.828918,17.888322,17.804221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1940,7 +1940,7 @@ man that will live to see it rot.
   
 NEW U8B F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479718%2F1873110601%2F0431.jp2/pct:24.438623,70.386547,9.779192,11.391390/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479718%2F1873110601%2F0431.jp2/pct:24.438623,70.386547,9.779192,11.391390/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1971,7 +1971,7 @@ foct on them. The posts can be!
 prepared for less than two cents I  
 apiece. For the benefit of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151246%2F1874022601%2F0051.jp2/pct:37.886111,75.304638,14.832205,15.490697/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151246%2F1874022601%2F0051.jp2/pct:37.886111,75.304638,14.832205,15.490697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2007,7 +2007,7 @@ cent* apiece. For the benefit of
 will give the recipe : Take -boiled  
 oil, aod stir in pulverised 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192348%2F1874061601%2F0099.jp2/pct:83.535945,57.077138,13.455484,13.425585/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192348%2F1874061601%2F0099.jp2/pct:83.535945,57.077138,13.455484,13.425585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2035,7 +2035,7 @@ timber for fence posts. I have taken out bass-
 wood posts after having been set seven years,  
 which were as sound when taken out as whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2$61/pct:20.049917,59.382284,34.359401,21.066434/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2$61/pct:20.049917,59.382284,34.359401,21.066434/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2060,7 +2060,7 @@ were as sound when taken out as when
 they were first put in the ground.  
 Time and weather seem to have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1874090301%2F0342.jp2/pct:6.343420,60.778402,12.067080,5.700973/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1874090301%2F0342.jp2/pct:6.343420,60.778402,12.067080,5.700973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ ter having been set seven j-cars,
 the ground. Time and weather  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472979%2F1874091101%2F0239.jp2/pct:3.821320,48.039216,9.289761,6.036572/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472979%2F1874091101%2F0239.jp2/pct:3.821320,48.039216,9.289761,6.036572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2115,7 +2115,7 @@ out as when they wero first put in the
 Time and weather seem to  
 have no effect on them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776117%2F1874101401%2F0911.jp2/pct:50.158014,65.762039,14.830700,8.803574/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776117%2F1874101401%2F0911.jp2/pct:50.158014,65.762039,14.830700,8.803574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2136,7 +2136,7 @@ sive that it wa3 not worth while
 making any stir about it. I would  
 as soon have poplar, basswood, or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874101401%2F0480.jp2/pct:14.641699,85.308269,10.173990,3.815598/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874101401%2F0480.jp2/pct:14.641699,85.308269,10.173990,3.815598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2186,7 +2186,7 @@ charcoal to a consistency of rtaint
 Put a coat of this over the timber.  
 and there is not a man who will lir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874112001%2F0307.jp2/pct:35.144209,82.560167,9.888601,13.300779/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874112001%2F0307.jp2/pct:35.144209,82.560167,9.888601,13.300779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ sound they,were taken out,as when they
 were first put in the ground. Time and  
 weather seem to have no effect 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1874122401%2F0115.jp2/pct:18.659901,66.225819,14.230842,8.445245/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1874122401%2F0115.jp2/pct:18.659901,66.225819,14.230842,8.445245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2261,7 +2261,7 @@ ing been set for seven years, which were as sound
 when taken out as when they were put in the ground.  
 Time and weather seem to have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474289%2F1875013001%2F0564.jp2/pct:55.667090,31.067753,12.376112,3.773585/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474289%2F1875013001%2F0564.jp2/pct:55.667090,31.067753,12.376112,3.773585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2294,7 +2294,7 @@ were as sound when taken out as when
 tin y were first in the ground. Time an.l  
 w eather seem to have no effec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1875042101%2F0484.jp2/pct:29.296375,58.889862,10.817342,5.879133/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1875042101%2F0484.jp2/pct:29.296375,58.889862,10.817342,5.879133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2332,7 +2332,7 @@ en out as when they were first put
 in the ground. Time and weather  
 seem to have no 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1875061701%2F0044.jp2/pct:20.753434,59.160973,14.261753,11.773443/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1875061701%2F0044.jp2/pct:20.753434,59.160973,14.261753,11.773443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2359,7 +2359,7 @@ when they werefirBt put in the ground
 Time and weather Ecemed to have no  
 effect o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1875062301%2F0753.jp2/pct:14.343143,27.018006,9.993174,7.903601/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1875062301%2F0753.jp2/pct:14.343143,27.018006,9.993174,7.903601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2385,7 +2385,7 @@ when they were taken out as when they
 &quot; ere first put in the ground. Time and  
 weather st em to have no effec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875062401%2F0497.jp2/pct:5.464699,29.303513,11.979790,6.138760/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875062401%2F0497.jp2/pct:5.464699,29.303513,11.979790,6.138760/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2416,7 +2416,7 @@ they were first put in the ground.
 Time and weather seem to have no  
 effec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1875070801%2F0740.jp2/pct:60.337748,84.146519,11.076891,8.150004/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1875070801%2F0740.jp2/pct:60.337748,84.146519,11.076891,8.150004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2455,7 +2455,7 @@ stir in it pulverized charcoal to tbe con?
 sistency ef paint Put a coat of this over  
 the timber, and there is not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1875121601%2F0027.jp2/pct:62.061276,83.345610,12.177623,13.441369/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1875121601%2F0027.jp2/pct:62.061276,83.345610,12.177623,13.441369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2490,7 +2490,7 @@ the consistency of paint. I&#x27;ut a coat ofI
 this over the timber, and there is not a  
 ..inn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn84026853%2F00202194023%2F1875122201%2F0290.jp2/pct:3.426011,77.330439,12.307287,9.759226/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn84026853%2F00202194023%2F1875122201%2F0290.jp2/pct:3.426011,77.330439,12.307287,9.759226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2514,7 +2514,7 @@ were as souud wheu they were taken out as
 when they were tirst put in the ground. Time  
 aud weather seem to have no iff c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663766%2F1876042601%2F0399.jp2/pct:2.458305,62.904202,15.179347,6.801746/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663766%2F1876042601%2F0399.jp2/pct:2.458305,62.904202,15.179347,6.801746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2545,7 +2545,7 @@ pared for less than two cents apiece.
 or 1110 bencut ot others 1 win give  
 you the rec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/kyu_kryptonite_ver01%2Fdata%2Fsn84037890%2F00280763585%2F1876051701%2F0102.jp2/pct:18.708038,42.875070,11.758302,12.172337/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_kryptonite_ver01%2Fdata%2Fsn84037890%2F00280763585%2F1876051701%2F0102.jp2/pct:18.708038,42.875070,11.758302,12.172337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2586,7 +2586,7 @@ sistency of paint. Put a coat of this
 over the timber, and there is not the  
 man that will live to see it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919921%2F1876051801%2F0276.jp2/pct:82.487918,31.230694,10.695524,14.836612/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919921%2F1876051801%2F0276.jp2/pct:82.487918,31.230694,10.695524,14.836612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2627,7 +2627,7 @@ charcoal to the consistency of paint.
 Put a coat of this over the timber, and  
 there is not a man to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_brockovich_ver02%2Fdata%2Fsn85032573%2F00237281871%2F1876052501%2F0255.jp2/pct:15.173913,46.335432,9.579710,14.871853/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brockovich_ver02%2Fdata%2Fsn85032573%2F00237281871%2F1876052501%2F0255.jp2/pct:15.173913,46.335432,9.579710,14.871853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2764,7 +2764,7 @@ consistency of paint. But a coat of
 this over the timber, ami there is not a  
 man that wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1877032901%2F0248.jp2/pct:29.267863,52.752999,10.726857,10.171229/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1877032901%2F0248.jp2/pct:29.267863,52.752999,10.726857,10.171229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2807,7 +2807,7 @@ consistency of paint. Put a coat of
 this over the timber, and there is not a  
 man th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877040401%2F0131.jp2/pct:49.820223,28.813559,14.070859,16.475798/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877040401%2F0131.jp2/pct:49.820223,28.813559,14.070859,16.475798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2843,7 +2843,7 @@ the consUteney of paint. Put a coal
 of this over the timber, and there ia n*  
 man that wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919933%2F1877042601%2F0065.jp2/pct:28.041868,74.711403,10.400894,11.707381/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919933%2F1877042601%2F0065.jp2/pct:28.041868,74.711403,10.400894,11.707381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2884,7 +2884,7 @@ coat of
   
 timber, and there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479731%2F1877042601%2F0289.jp2/pct:29.979366,8.858371,10.648541,8.134608/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479731%2F1877042601%2F0289.jp2/pct:29.979366,8.858371,10.648541,8.134608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2908,7 +2908,7 @@ after having been set seven years, that were as
 sonnd wheu taken up as when tbey were first  
 put in tbe ground. Time and w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555663%2F1877051001%2F0117.jp2/pct:2.430178,51.785464,12.549873,4.551183/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555663%2F1877051001%2F0117.jp2/pct:2.430178,51.785464,12.549873,4.551183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2943,7 +2943,7 @@ as sound when taken up as when put
 in the ground. Time and weather  
 seems to have no effeot upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285190%2F1877052401%2F0196.jp2/pct:72.581287,69.300029,11.187790,13.534708/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285190%2F1877052401%2F0196.jp2/pct:72.581287,69.300029,11.187790,13.534708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2983,7 +2983,7 @@ coal to the consistency ot paint. Put a
 coat of this over the timber, and there  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152639%2F1877070601%2F0599.jp2/pct:32.574103,35.211268,11.840874,15.479795/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152639%2F1877070601%2F0599.jp2/pct:32.574103,35.211268,11.840874,15.479795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3020,7 +3020,7 @@ Time and w&#x27;dath^r sfeVmed to have s
   
 io effect on them. The posts can 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F00295862361%2F1878090501%2F0004.jp2/pct:18.009358,4.969937,27.174245,92.593751/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F00295862361%2F1878090501%2F0004.jp2/pct:18.009358,4.969937,27.174245,92.593751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3054,7 +3054,7 @@ tency of paint, l&#x27;ut a coat of this over
 ι the timber and there is not a man who  
 will live long enough to see it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524056%2F1879111801%2F0431.jp2/pct:31.843325,82.845011,13.041312,12.200991/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524056%2F1879111801%2F0431.jp2/pct:31.843325,82.845011,13.041312,12.200991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3087,7 +3087,7 @@ were as sound when taken out as
 when they were first put in the  
 ground. Time and weather 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876232%2F1880121801%2F0207.jp2/pct:4.774194,51.347449,12.274194,12.403754/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876232%2F1880121801%2F0207.jp2/pct:4.774194,51.347449,12.274194,12.403754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3129,7 +3129,7 @@ itency of paint Put a coat of this
 over the timber, and there is  
 [&#x27;not a uen that will live to see i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_emmet_ver01%2Fdata%2Fsn88064005%2F00200299036%2F1881021201%2F0648.jp2/pct:41.360601,70.079787,14.649416,23.311170/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_emmet_ver01%2Fdata%2Fsn88064005%2F00200299036%2F1881021201%2F0648.jp2/pct:41.360601,70.079787,14.649416,23.311170/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3167,7 +3167,7 @@ ency of paint. Put a coat of this over the
 timber, and there is not a man that will  
 live long enough to see it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024653%2F00393349554%2F1882071401%2F0323.jp2/pct:73.377894,81.147541,11.383274,12.752207/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024653%2F00393349554%2F1882071401%2F0323.jp2/pct:73.377894,81.147541,11.383274,12.752207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3194,7 +3194,7 @@ to have no effect on them. The posts
 can be prepared for less than 2 cents  
 a piece. They should be well sea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_pearsoll_ver01%2Fdata%2Fsn84022650%2F00295868752%2F1882090101%2F0136.jp2/pct:57.451514,22.270446,11.585573,8.409060/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_pearsoll_ver01%2Fdata%2Fsn84022650%2F00295868752%2F1882090101%2F0136.jp2/pct:57.451514,22.270446,11.585573,8.409060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3230,7 +3230,7 @@ Put a coat of this ovgr^tho timber*
 and there is not a man that will live  
 long enough to see it &quot;otten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_agate_ver01%2Fdata%2F2018270504%2F00383343562%2F1882102801%2F0336.jp2/pct:61.961647,76.621455,10.425181,13.825524/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_agate_ver01%2Fdata%2F2018270504%2F00383343562%2F1882102801%2F0336.jp2/pct:61.961647,76.621455,10.425181,13.825524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3275,7 +3275,7 @@ can be prepared ,for les.: than two
 cents.. Take poliphsd &#x27;,linseed oil,  
 sid st:r iii pulverixied chro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555171%2F1884082101%2F0328.jp2/pct:57.894737,60.537756,19.148373,31.154403/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555171%2F1884082101%2F0328.jp2/pct:57.894737,60.537756,19.148373,31.154403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3326,7 +3326,7 @@ of this over the timber, and there is
 uot a man that will live long enough  
 to see it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020503%2F1884101101%2F0958.jp2/pct:26.696529,19.111692,16.550952,26.178968/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020503%2F1884101101%2F0958.jp2/pct:26.696529,19.111692,16.550952,26.178968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3367,7 +3367,7 @@ of this over the timber, and there is not a
 man that will live long enough to see it  
 rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44$0/pct:82.337884,81.762080,12.337884,12.867647/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44$0/pct:82.337884,81.762080,12.337884,12.867647/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3388,7 +3388,7 @@ a man that will live long enough to
 Koe it rolton.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn86063662%2F00200292406%2F1884110601%2F1136.jp2/pct:4.938050,64.564693,9.983839,3.763670/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn86063662%2F00200292406%2F1884110601%2F1136.jp2/pct:4.938050,64.564693,9.983839,3.763670/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3437,7 +3437,7 @@ this over the timber, and there is
 not a man that will live Ion;  
 enough to sse it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020552%2F1884111301%2F0401.jp2/pct:85.222193,52.214809,9.781751,16.296620/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020552%2F1884111301%2F0401.jp2/pct:85.222193,52.214809,9.781751,16.296620/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3475,7 +3475,7 @@ over the timber, and there is not a
 man that will live long enough to see  
 it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297672%2F1884111301%2F0017.jp2/pct:65.286951,22.395349,9.848818,10.209302/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297672%2F1884111301%2F0017.jp2/pct:65.286951,22.395349,9.848818,10.209302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3513,7 +3513,7 @@ of this over the timber and there is not a
 man that will live long enough to see it  
 rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/gu_ace_ver02%2Fdata%2Fsn82015137%2F00383342132%2F1884112301%2F0107.jp2/pct:36.535106,72.830789,10.694582,9.154466/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_ace_ver02%2Fdata%2Fsn82015137%2F00383342132%2F1884112301%2F0107.jp2/pct:36.535106,72.830789,10.694582,9.154466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3549,7 +3549,7 @@ consistency of paint. Put a coat of this
 over the timber, and there is not a man  
 that will live long enough to see it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023024%2F1884120501%2F0192.jp2/pct:4.897245,50.284123,12.884419,12.657382/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023024%2F1884120501%2F0192.jp2/pct:4.897245,50.284123,12.884419,12.657382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3586,7 +3586,7 @@ sistency ot paint. Tut a coat ot this over
 the timber, and there is not a man that  
 will live long enough to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895126%2F1885032601%2F0295.jp2/pct:17.429577,51.598630,13.111307,12.621325/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895126%2F1885032601%2F0295.jp2/pct:17.429577,51.598630,13.111307,12.621325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

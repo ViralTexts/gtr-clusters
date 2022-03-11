@@ -45,7 +45,7 @@ contains the following singular summary:
 the world?587 in Europe, 937 in Asia, 276  
 in Africa, and 1264 in America. The numbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn93067976%2F00202193985%2F1851111101%2F0251.jp2/pct:2.015957,21.810992,18.655217,2.744168/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn93067976%2F00202193985%2F1851111101%2F0251.jp2/pct:2.015957,21.810992,18.655217,2.744168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ reath Ihe age of fifi, nnd not more than
 are on the rarlh 1 ,000,000,000 inhabit­  
 nuts, and of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84022366%2F0020029015A%2F1853051401%2F0076.jp2/pct:41.798942,52.175891,10.934744,13.070508/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84022366%2F0020029015A%2F1853051401%2F0076.jp2/pct:41.798942,52.175891,10.934744,13.070508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ December are brought about, in a &#x27;I&#x27;gree, hy mixing
 ?lain tsathematica with the market value of flannel tin­  
 ier garment* M&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_chimera_ver01%2Fdata%2Fsn82003410%2F00415661216%2F1853071001%2F0799.jp2/pct:36.451613,60.159429,15.940860,24.505979/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_chimera_ver01%2Fdata%2Fsn82003410%2F00415661216%2F1853071001%2F0799.jp2/pct:36.451613,60.159429,15.940860,24.505979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ ase
   
 IIS pot oi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1853071501%2F0577.jp2/pct:52.225638,22.940889,46.477744,21.631656/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1853071501%2F0577.jp2/pct:52.225638,22.940889,46.477744,21.631656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ in December are brought about, r.i a degree, by
 mixing plain mathematics with t he market value of  
 flannel under-garments. N. Y. Dutchman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1853071501%2F0577.jp2/pct:68.212806,31.704934,15.933699,19.882755/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1853071501%2F0577.jp2/pct:68.212806,31.704934,15.933699,19.882755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ December are brought about, in a degree,
 by mixing plain mathematics with the val­  
 ue of flannel under-garments. A&quot;. Yor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00415667280%2F1853071601%2F0468.jp2/pct:19.680556,8.032129,14.930556,33.266399/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00415667280%2F1853071601%2F0468.jp2/pct:19.680556,8.032129,14.930556,33.266399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ gree- by mixing plain mathematics
 with the market value of flannel un­  
 dergarments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288476%2F1853071901%2F0369.jp2/pct:43.176535,24.446203,13.617253,46.405967/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288476%2F1853071901%2F0369.jp2/pct:43.176535,24.446203,13.617253,46.405967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ which happen in December are brought about,
 in a degree, by mixing plain mathematics with  
 the market value of flannel undcr-garments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853072301%2F0336.jp2/pct:4.626270,34.593649,14.695210,34.297632/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853072301%2F0336.jp2/pct:4.626270,34.593649,14.695210,34.297632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ easy solution. That marriages tike pbee more
 frequently in June and December, than  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853072701%2F0418.jp2/pct:2.487501,6.129729,11.259865,15.310241/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853072701%2F0418.jp2/pct:2.487501,6.129729,11.259865,15.310241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ more than one in 500 lives lo 80 years of agtv
   
 any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853072701%2F0418.jp2/pct:2.665179,10.457148,22.304863,11.139272/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853072701%2F0418.jp2/pct:2.665179,10.457148,22.304863,11.139272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ marry in June do so because they can&#x27;t help it The Directors in their turn,
 while those who connubiaiize in December do to furnish the rigfct ol&quot; way, and to pay the con­  
 so doubtless to guard against the chilly pillows tractors from time to time, &amp; in accordance wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853072701%2F0418.jp2/pct:2.479236,21.565130,22.280071,1.961889/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853072701%2F0418.jp2/pct:2.479236,21.565130,22.280071,1.961889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ which happen in December are brought about,
 in a degree, by mixing plain mathematics with  
 the market value of flannel under-garments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853072701%2F0418.jp2/pct:2.437916,23.598986,22.300731,3.003849/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853072701%2F0418.jp2/pct:2.437916,23.598986,22.300731,3.003849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ pen in December are brought about in a
 degree, by mixing plain mathematics with  
 .the market value of tlannel under-gar­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn85059716%2F00202193018%2F1853080301%2F0376.jp2/pct:3.263730,3.083894,13.712932,33.718211/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn85059716%2F00202193018%2F1853080301%2F0376.jp2/pct:3.263730,3.083894,13.712932,33.718211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ happen in December are brought about, in a de­
 gree, by mixing plain mathematics with the  
 market value of flannel under-garments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1853080601%2F0038.jp2/pct:31.621916,49.137931,14.332366,26.785714/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1853080601%2F0038.jp2/pct:31.621916,49.137931,14.332366,26.785714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ while those which happen in December are
 . mathematics with the market value of flan,  
 nel under garments.?JV. Y. Dutchman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862634%2F1853081001%2F0321.jp2/pct:13.502110,6.796851,29.746835,93.392371/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862634%2F1853081001%2F0321.jp2/pct:13.502110,6.796851,29.746835,93.392371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ lar, and yet many of them are susceptii
 casv solution. mm y6er than  
 tadr frequently in Jane and we 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn87065674%2F00295878460%2F1853082301%2F0605.jp2/pct:17.731130,69.208125,15.453327,22.078304/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn87065674%2F00295878460%2F1853082301%2F0605.jp2/pct:17.731130,69.208125,15.453327,22.078304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ are brought about, in a degree, by mixing
 p&#x27;ain mathematics with the market value  
 of flannel under-garments.—N. Y. Dutch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn93052117%2F00279557943%2F1853082701%2F0205.jp2/pct:61.894429,5.267211,17.763423,39.247924/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn93052117%2F00279557943%2F1853082701%2F0205.jp2/pct:61.894429,5.267211,17.763423,39.247924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1087,7 +1087,7 @@ about, in a greut degree, by mixing plain
 mamemaricB with the market value ot  
 flanuel under-garmeuto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022165%2F00296025148%2F1853091001%2F0183.jp2/pct:56.925676,16.094094,32.601351,79.573532/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022165%2F00296025148%2F1853091001%2F0183.jp2/pct:56.925676,16.094094,32.601351,79.573532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ December are brought about in a degree,
 by mixing plain mathematics with the  
 market value of flannel under garment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086768%2F00271769763%2F1853091501%2F0001.jp2/pct:54.960616,10.779051,26.089332,82.674452/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086768%2F00271769763%2F1853091501%2F0001.jp2/pct:54.960616,10.779051,26.089332,82.674452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ reached 100 years of life; to every 100 only 0 reach
 the age of 00, and uot more than one in 5,000 live  
 to SO years of age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_chet_ver01%2Fdata%2Fsn85038518%2F00200293162%2F1853091701%2F0271.jp2/pct:5.183213,23.904382,12.605700,7.992273/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_chet_ver01%2Fdata%2Fsn85038518%2F00200293162%2F1853091701%2F0271.jp2/pct:5.183213,23.904382,12.605700,7.992273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1226,7 +1226,7 @@ life; to every 100 only 6 roach the age of 66,
 and not niuro than one in 500 live to B0 years  
 of age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779209%2F1853092301%2F0143.jp2/pct:19.530376,58.999856,11.871040,10.332901/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779209%2F1853092301%2F0143.jp2/pct:19.530376,58.999856,11.871040,10.332901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,7 +1280,7 @@ pable of bearing arm i calculated at one
 fourth of the population. .  
 Yellow Fever. The latest accounts t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775940%2F1853092401%2F0150.jp2/pct:83.471074,55.906069,13.149679,22.506719/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775940%2F1853092401%2F0150.jp2/pct:83.471074,55.906069,13.149679,22.506719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ months of June and December. Thosy born w
 the Hpriug are generally more robust than others.  
 Births and deaths an more freqlicwt by n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_firedrake_ver01%2Fdata%2Fsn84020104%2F00415661526%2F1853092801%2F0030.jp2/pct:70.335751,68.212111,13.532366,17.190821/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_firedrake_ver01%2Fdata%2Fsn84020104%2F00415661526%2F1853092801%2F0030.jp2/pct:70.335751,68.212111,13.532366,17.190821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ SDacies To every 1000 persons only one reaches
 OOjeirsin life; .o every 100 T.fA. tb.  
 of 66, and not more mu uuc 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016866%2F00295877625%2F1853100101%2F0194.jp2/pct:33.288631,81.226533,14.945612,10.524519/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016866%2F00295877625%2F1853100101%2F0194.jp2/pct:33.288631,81.226533,14.945612,10.524519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1388,7 +1388,7 @@ ty refused to one-half the human species. To every
 every 100 only 7 reach the age of 66, and not more  
 than one in 5000 live to 80 years of age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F0029602272A%2F1853100801%2F0327.jp2/pct:64.693541,38.399238,15.015735,7.753692/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F0029602272A%2F1853100801%2F0327.jp2/pct:64.693541,38.399238,15.015735,7.753692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1417,7 +1417,7 @@ reaches 10(1 years in life; to every 100 only seven
 reach the age of fin&quot;, aud not more than one in 500  
 live to it) years of age.&quot; 4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_manowar_ver01%2Fdata%2Fsn84024738%2F00202190935%2F1853100801%2F0346.jp2/pct:8.092148,25.619376,14.143717,6.461331/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_manowar_ver01%2Fdata%2Fsn84024738%2F00202190935%2F1853100801%2F0346.jp2/pct:8.092148,25.619376,14.143717,6.461331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ ppeeita To every 1000 persons, only one
 reaches 100 years id lit*; to every lOu, only 7  
 reach the age ot 60, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215907%2F1853101001%2F0344.jp2/pct:5.492745,46.434076,12.656240,7.876792/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215907%2F1853101001%2F0344.jp2/pct:5.492745,46.434076,12.656240,7.876792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ reaches 100 ye„r.-&lt; in life; to every 100 only seven
 reach the age of »*&gt;, and not more than one in 500  
 live to i 0 years of age.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_manowar_ver01%2Fdata%2Fsn84024738%2F00202190935%2F1853101001%2F0350.jp2/pct:7.372976,26.836326,14.447758,6.611963/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_manowar_ver01%2Fdata%2Fsn84024738%2F00202190935%2F1853101001%2F0350.jp2/pct:7.372976,26.836326,14.447758,6.611963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ ty reiuscd to one-nail the numan species. &#x27;To every
 A every. J00 ov&amp;j . j-oach. the.-age-pf &quot;6 and not more  
 than one in 50
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022639%2F1853101201%2F0160.jp2/pct:64.467510,76.677249,16.024456,7.724868/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022639%2F1853101201%2F0160.jp2/pct:64.467510,76.677249,16.024456,7.724868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ one readies 100 years in life tQ
   
 y |(K) only 7 reach the age of 66, and not&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853101901%2F0465.jp2/pct:51.525096,87.390455,22.605074,6.604249/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853101901%2F0465.jp2/pct:51.525096,87.390455,22.605074,6.604249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ every 10,0* M ? persons only one reaches
 reach the age of GO. and not more than  
 one in 500 live to 90 years of age.?Ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045461%2F00280654024%2F1853102101%2F0383.jp2/pct:2.544733,19.678134,16.082883,11.955041/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045461%2F00280654024%2F1853102101%2F0383.jp2/pct:2.544733,19.678134,16.082883,11.955041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1623,7 +1623,7 @@ only one reaches 100 years in life, to every
 more than one in 500 live to 80 years of  
 age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F00296028873%2F1853102701%2F0700.jp2/pct:68.901252,42.281377,12.420028,12.785974/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F00296028873%2F1853102701%2F0700.jp2/pct:68.901252,42.281377,12.420028,12.785974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1658,7 +1658,7 @@ the
   
 To day, after forty years o* wedt-d life, persons only one reaches 10
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn88059754%2F00279528505%2F1853102801%2F0106.jp2/pct:68.094409,76.443347,24.753491,7.536620/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn88059754%2F00279528505%2F1853102801%2F0106.jp2/pct:68.094409,76.443347,24.753491,7.536620/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1685,7 +1685,7 @@ is about equal to the number of women.
 The average of human life is about 33  
 year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn86081965%2F00279528554%2F1853110301%2F0855.jp2/pct:43.704229,85.602333,12.567919,7.271733/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn86081965%2F00279528554%2F1853110301%2F0855.jp2/pct:43.704229,85.602333,12.567919,7.271733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,7 +1706,7 @@ persons, only one reaches 100 years in
 life) to every 100, only seven reaeh the over forty families from the Muskingum  
 age of 66 and not more thao one in river, all fully equipped for seUlsnsoct i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn86081965%2F00279528554%2F1853110301%2F0855.jp2/pct:43.642807,93.012575,25.409875,3.936577/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn86081965%2F00279528554%2F1853110301%2F0855.jp2/pct:43.642807,93.012575,25.409875,3.936577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1749,7 +1749,7 @@ months of June and December. Those born in the
 spring, are generally more robust than others. Births  
 and deaths are more frequent by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83025241%2F00383347221%2F1853110301%2F0346.jp2/pct:57.497963,58.129465,12.668659,13.635708/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83025241%2F00383347221%2F1853110301%2F0346.jp2/pct:57.497963,58.129465,12.668659,13.635708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1773,7 +1773,7 @@ of women. The uvcrnga of human life is about &#x27;i&#x27;J,
 vears. Cne tjunrter part die previous to the age of  
 fused lo one-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1853110501%2F0801.jp2/pct:76.614114,71.053391,13.757508,5.786436/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1853110501%2F0801.jp2/pct:76.614114,71.053391,13.757508,5.786436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1803,7 +1803,7 @@ lit} onty 7 reach the age of 66, and net more than
 one in 500 live to dU years uf age,”’—Newarh Lu.  
 if
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-11-05_9_12$0/pct:75.620767,71.476793,13.628668,7.415612/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-11-05_9_12$0/pct:75.620767,71.476793,13.628668,7.415612/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1852,7 +1852,7 @@ quent by night than by day. The number of
 capable of bearing arms is calculated at  
 one-fourth of the population.— English Quar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_jacard_ver01%2Fdata%2Fsn87090152%2F00199917407%2F1853113001%2F0438.jp2/pct:40.974676,69.284428,12.912250,19.408191/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_jacard_ver01%2Fdata%2Fsn87090152%2F00199917407%2F1853113001%2F0438.jp2/pct:40.974676,69.284428,12.912250,19.408191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1883,7 +1883,7 @@ rope, 936 in Asia, 27C in Africa, ,6i ia&#x27; &quot; &quot;
 America. ! The iiihabitants&#x27;&#x27; of our globe&#x27;1&#x27;&quot;  
 profess more than 1,000 different religion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1853120701%2F0685.jp2/pct:83.462719,60.893781,13.630619,4.813685/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1853120701%2F0685.jp2/pct:83.462719,60.893781,13.630619,4.813685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1936,7 +1936,7 @@ ber of men capable of working or bearing
 arms, is calculated at one-lburth of the  
 population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn93052998%2F00279557347%2F1853121001%2F0020.jp2/pct:76.298538,43.589637,17.511346,28.532156/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn93052998%2F00279557347%2F1853121001%2F0020.jp2/pct:76.298538,43.589637,17.511346,28.532156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1988,7 +1988,7 @@ frequent bv night than by day—the num­
 ber of men capable of carry.ng arms is cal  
 culated at one-fourth the population.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040305%2F00514151350%2F1853122301%2F0619.jp2/pct:3.715423,52.214815,13.001582,21.537037/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040305%2F00514151350%2F1853122301%2F0619.jp2/pct:3.715423,52.214815,13.001582,21.537037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ appear almost incredible. If any mm, years, one h ill bi-rore reaching 17 years 
 said they, purchase letters of Indulgence, age. and those who pats that age enjoy a  
 his soul miy rest secure with respect to felicity refused to one hilf the human
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn87056241%2F00200295638%2F1854011901%2F0202.jp2/pct:50.452457,87.126981,28.804121,3.611854/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn87056241%2F00200295638%2F1854011901%2F0202.jp2/pct:50.452457,87.126981,28.804121,3.611854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2048,7 +2048,7 @@ second. These losses re abjut balanced
 by an equp.l number of births. rI I.- mi r-  
 rie I are lonr l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn87056241%2F00200295638%2F1854011901%2F0202.jp2/pct:64.917166,15.085409,29.472365,77.495369/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn87056241%2F00200295638%2F1854011901%2F0202.jp2/pct:64.917166,15.085409,29.472365,77.495369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2078,7 +2078,7 @@ years of life; to every 100 only six reach the age of
 76, and not more than one in 6,000 live to 90 years  
 of age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F0021247504A%2F1854012102%2F0234.jp2/pct:23.444056,43.291506,14.213287,7.323842/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F0021247504A%2F1854012102%2F0234.jp2/pct:23.444056,43.291506,14.213287,7.323842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2152,7 +2152,7 @@ wards, The number of marriages is in proportion
 a 76 to every 1,000 individuals. Marriages are  
 more frequent after the equinoxes: that is during
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1854-02-18_10_48$14/pct:9.496124,42.912621,75.891473,28.859223/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1854-02-18_10_48$14/pct:9.496124,42.912621,75.891473,28.859223/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2214,7 +2214,7 @@ about balanced by an egual number of
 births. Ihe.married are Ion gpr lived  
 thru the single, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775514%2F1854030901%2F0259.jp2/pct:80.853063,54.503597,12.288613,13.985612/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775514%2F1854030901%2F0259.jp2/pct:80.853063,54.503597,12.288613,13.985612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2322,7 +2322,7 @@ ber of men capable of working or bearing
 arms, is calcu ated at one-fourth of the  
 population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn93052117%2F00279557955%2F1854042201%2F0069.jp2/pct:43.185028,4.828441,17.660412,25.201045/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn93052117%2F00279557955%2F1854042201%2F0069.jp2/pct:43.185028,4.828441,17.660412,25.201045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2377,7 +2377,7 @@ one-fourth of the population. i
 sAPVY S W e e e  
 £~ Harman Blannerhasset, son o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021532%2F00514153115%2F1854042701%2F0199.jp2/pct:4.519677,52.771468,15.913387,27.316198/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021532%2F00514153115%2F1854042701%2F0199.jp2/pct:4.519677,52.771468,15.913387,27.316198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2425,7 +2425,7 @@ of bearing arms is calculated at one-fourth of the
   
 population.— English Quarterly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5$19/pct:54.384615,55.721898,36.884615,36.056838/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5$19/pct:54.384615,55.721898,36.884615,36.056838/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2442,7 +2442,7 @@ The whole number of languages spoken in the world amounts
 to 3054—587 in Enrope, 386 in Asia, 276 in Africa, and 1264 in  
 America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18$14/pct:35.589094,12.917781,27.555988,1.854947/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18$14/pct:35.589094,12.917781,27.555988,1.854947/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2537,7 +2537,7 @@ C than by day. The number of men
 i&#x27; capable of bearing arms i~s caibulat&#x27;ed  
 t at one-fourth of the popu-lation; though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288464%2F1854051701%2F0115.jp2/pct:82.041363,51.547934,14.596042,25.223463/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288464%2F1854051701%2F0115.jp2/pct:82.041363,51.547934,14.596042,25.223463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2570,7 +2570,7 @@ every day ; 3,780 every hour; and 60 everv
 minute, or one every second. These  
 losses are about balanced by a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024718%2F0041418375A%2F1854052401%2F0079.jp2/pct:56.624606,75.693860,12.451805,10.170389/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024718%2F0041418375A%2F1854052401%2F0079.jp2/pct:56.624606,75.693860,12.451805,10.170389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2616,7 +2616,7 @@ Inore frequout by uiglit than by day. The
 number of men capable of bearing arms is  
 of ca i cu latcd at one-fourtl, of the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_jacard_ver01%2Fdata%2Fsn87090152%2F00199917407%2F1854053101%2F0538.jp2/pct:53.969894,12.218468,14.344746,18.918919/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_jacard_ver01%2Fdata%2Fsn87090152%2F00199917407%2F1854053101%2F0538.jp2/pct:53.969894,12.218468,14.344746,18.918919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2652,7 +2652,7 @@ is in proportion of 75 to every 1000 individ­
 uals. Marriages arc more frequent after tbe  
 equinoxes; that is, during tho months of Juno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349013%2F1854053101%2F0087.jp2/pct:82.133951,41.587564,13.061097,15.961618/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349013%2F1854053101%2F0087.jp2/pct:82.133951,41.587564,13.061097,15.961618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2753,7 +2753,7 @@ day. The number of men capable of bearing
 arms is calculated at one fourth of the popula­  
 tion.—English Review.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1854061001%2F0588.jp2/pct:83.057566,52.802319,12.541652,16.164166/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1854061001%2F0588.jp2/pct:83.057566,52.802319,12.541652,16.164166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2794,7 +2794,7 @@ to every 1000 iidividutlr. Marriagee are more
 frequent after the equinoxes ; that ia, during the  
 months of Jun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1854061001%2F0929.jp2/pct:52.005322,69.515874,13.913705,12.771154/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1854061001%2F0929.jp2/pct:52.005322,69.515874,13.913705,12.771154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2887,7 +2887,7 @@ portion of 75 to every 1000 individuals.
 Mariiages are more frequent after the equi  
 noxes; thj is, during the months of Jun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_minuette_ver01%2Fdata%2Fsn87065704%2F00415662038%2F1854062101%2F0561.jp2/pct:67.683616,52.276160,14.985876,24.422869/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_minuette_ver01%2Fdata%2Fsn87065704%2F00415662038%2F1854062101%2F0561.jp2/pct:67.683616,52.276160,14.985876,24.422869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2987,7 +2987,7 @@ deaths are generally more frequent by night than by
 day. The number of men capable of bearing arms  
 is calculated at one-fourth of the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022639%2F1854070501%2F0319.jp2/pct:36.335722,52.446162,15.426232,15.472115/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022639%2F1854070501%2F0319.jp2/pct:36.335722,52.446162,15.426232,15.472115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3027,7 +3027,7 @@ every 1000 individuals. Marriages are more fre
 quent after the equinoxes; that is during the months  
 of June a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022731%2F1854070501%2F0218.jp2/pct:36.232316,52.427184,15.353686,13.042461/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022731%2F1854070501%2F0218.jp2/pct:36.232316,52.427184,15.353686,13.042461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3068,7 +3068,7 @@ quent by night than by day. The number of
 men capable of hearing arms is calculated at  
 one-fourth of the population.—English Quar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624475%2F1854071501%2F0102.jp2/pct:84.356610,38.316626,12.578462,17.567619/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624475%2F1854071501%2F0102.jp2/pct:84.356610,38.316626,12.578462,17.567619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3100,7 +3100,7 @@ r of marriages is in proportion of 75 to every j,000
 luals. \lnrriage9 are more frequent after the equitbat  
 is, during the months of June an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_basilisk_ver03%2Fdata%2Fsn82003410%2F0041566123A%2F1854072201%2F0079.jp2/pct:18.737864,82.151640,15.490831,10.070443/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_basilisk_ver03%2Fdata%2Fsn82003410%2F0041566123A%2F1854072201%2F0079.jp2/pct:18.737864,82.151640,15.490831,10.070443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3203,7 +3203,7 @@ culated at one-fourth of the population.
 Sensible Kate .—When Kate and Ellen Bate­  
 man were in London, they were invited by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1854082601%2F0250.jp2/pct:52.543290,67.541302,14.538240,17.176871/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1854082601%2F0250.jp2/pct:52.543290,67.541302,14.538240,17.176871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3226,7 +3226,7 @@ only sii reach&quot; the ssrf 5 ; and not more than
 one in 600 lives trflb bars of age. There are  
 on earth 1,000.000,000 inhabitants ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1854091401%2F0282.jp2/pct:4.476835,87.461696,13.066111,4.328396/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1854091401%2F0282.jp2/pct:4.476835,87.461696,13.066111,4.328396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3275,7 +3275,7 @@ the spring are more robust than others.
 Births and deaths are more freq neat by  
 nigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040305%2F00514151350%2F1854092901%2F0769.jp2/pct:84.698449,55.907960,11.321733,17.475124/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040305%2F00514151350%2F1854092901%2F0769.jp2/pct:84.698449,55.907960,11.321733,17.475124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3307,7 +3307,7 @@ personsonly one reaches onehuri-
   
 dred Vf:ns nf nrro f n pvwrv 1 Of) nri.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1854101201%2F0749.jp2/pct:18.507172,21.880610,11.683610,13.801616/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1854101201%2F0749.jp2/pct:18.507172,21.880610,11.683610,13.801616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3336,7 +3336,7 @@ i . . ... t n lull iti tiiif hl f v- I:i I mril . Iirii
 .... . , ieu is the nam-; of a new .Mt&#x27;he p it whiie hope who COnnu-1 mmnw. 35 ! l&#x27;V ! , A,,,,QS,) ,l  
 post-ollioe in Liau County, Iowa.- b;aHze inDecemberdo so, doubtless, w. ojhl -James Sum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1854101201%2F0749.jp2/pct:5.848768,58.157540,35.677482,5.846050/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1854101201%2F0749.jp2/pct:5.848768,58.157540,35.677482,5.846050/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3375,7 +3375,7 @@ tion of 75 to every 100 individuals. Marriages
 are more frequent afte r ihe t qiiiuuxcs : that is  
 diii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1854110401%2F0671.jp2/pct:82.403261,24.068113,12.613388,12.367623/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1854110401%2F0671.jp2/pct:82.403261,24.068113,12.613388,12.367623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3412,7 +3412,7 @@ years of age than men have, but fewer afterwards. The number of marriages is in
 proportion of 75 to every 1,C00 individuals. Marriages are more frequent after the  
 equinoxes—that is, during the months of June an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1854-12_31_6$98/pct:15.125000,66.384832,68.125000,18.985396/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1854-12_31_6$98/pct:15.125000,66.384832,68.125000,18.985396/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3538,7 +3538,7 @@ about, in a great degree, by mixing plain
 mathematics with the market value of flannel  
 nnder garments.?National Monitor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_firedrake_ver01%2Fdata%2Fsn84020104%2F00415661551%2F1855020401%2F0132.jp2/pct:58.097581,58.869124,13.411690,28.886269/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_firedrake_ver01%2Fdata%2Fsn84020104%2F00415661551%2F1855020401%2F0132.jp2/pct:58.097581,58.869124,13.411690,28.886269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3583,7 +3583,7 @@ quent after the equinoxes; that is. during
 the months of June aad December. Those  
 born in the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn85059716%2F0020129302A%2F1855020701%2F0229.jp2/pct:29.162267,12.811839,27.587117,85.038760/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn85059716%2F0020129302A%2F1855020701%2F0229.jp2/pct:29.162267,12.811839,27.587117,85.038760/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3650,7 +3650,7 @@ happen in December are brought about, in a great
 degree, by mixing plain mathematics with the  
 maikel value of flannel under garments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879166%2F1855021601%2F0201.jp2/pct:64.144599,17.291003,15.244500,29.671537/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879166%2F1855021601%2F0201.jp2/pct:64.144599,17.291003,15.244500,29.671537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3674,7 +3674,7 @@ brne reaches one hundred years of life;
 years vf age. There uroon earth 1,000,000,- !  
 000 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1855031601%2F0162.jp2/pct:66.563400,50.029043,16.756345,7.605178/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1855031601%2F0162.jp2/pct:66.563400,50.029043,16.756345,7.605178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3759,7 +3759,7 @@ night than by day. : The number of men
 capable of bearing arms is calculated at  
 one etghth the population &#x27; &#x27; a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1855041801%2F0602.jp2/pct:70.715350,18.627804,12.473920,18.867698/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1855041801%2F0602.jp2/pct:70.715350,18.627804,12.473920,18.867698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3837,7 +3837,7 @@ brought about, iu a great degree, by
 mixing plain mathematics with the mar­  
 ket value of flannel under garments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn86092163%2F00202192464%2F1855050501%2F0661.jp2/pct:69.980418,16.503118,14.543081,39.609318/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn86092163%2F00202192464%2F1855050501%2F0661.jp2/pct:69.980418,16.503118,14.543081,39.609318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4135,7 +4135,7 @@ A Fearful Thought.—There are on the earth
 3,780 every hour, and sixty every minute, or  
 one for every second
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556641%2F1855060901%2F0470.jp2/pct:10.800368,66.397784,16.320147,2.471691/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556641%2F1855060901%2F0470.jp2/pct:10.800368,66.397784,16.320147,2.471691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4170,7 +4170,7 @@ that is, during the months of June and December. Those born in the
 spring are the most robust. Births and deaths are most frequent by night.  
 The number o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26$9/pct:41.324477,70.398429,26.046699,11.630191/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26$9/pct:41.324477,70.398429,26.046699,11.630191/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4195,7 +4195,7 @@ age of 7 years; one-half before reaching 17; and those who thi
 age enjoy a facility refused to one-bait ihe’ human species et “  
 pred gee br Ag progres 100 years of life: to every 100, only p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23$7/pct:11.432376,80.093071,26.498003,5.442089/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23$7/pct:11.432376,80.093071,26.498003,5.442089/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4285,7 +4285,7 @@ age than men have, bat fewer afterwards. The
 number of marriages is in the proportion of 75  
 to every 1000 individuals. Those born in sprin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn85025594%2F0038334735A%2F1856022301%2F0033.jp2/pct:57.522746,36.500609,12.311828,10.418670/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn85025594%2F0038334735A%2F1856022301%2F0033.jp2/pct:57.522746,36.500609,12.311828,10.418670/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4328,7 +4328,7 @@ Marriages are more frequent after the equinoxes, that is, during the months of J
 and December. Those born in the spring are the most robust. Births and deaths are  
 most frequent by night. The number o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2$42/pct:8.695652,79.545455,74.378882,8.292383/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2$42/pct:8.695652,79.545455,74.378882,8.292383/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4362,7 +4362,7 @@ about balanced by an equal number of births.
 The married are longer lived than the single,  
 and above all those w ho observe a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182987%2F1856042401%2F0279.jp2/pct:64.644714,47.259180,14.822357,12.297100/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182987%2F1856042401%2F0279.jp2/pct:64.644714,47.259180,14.822357,12.297100/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4391,7 +4391,7 @@ one-half before reaching 17. Ofeverv &#x27;
   
 1,000 persons, 1 reaches 100 ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470697%2F1856071201%2F0022.jp2/pct:67.643641,16.875658,25.900581,75.830382/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470697%2F1856071201%2F0022.jp2/pct:67.643641,16.875658,25.900581,75.830382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4431,7 +4431,7 @@ gic , ami uuoe aiiiuusu niai uu-viu Suwr muus-
 mous conduct, lall men live lomrer tnan snort ones,  
 Women
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474228%2F1856080701%2F0022.jp2/pct:6.670807,80.597451,16.869565,9.963997/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474228%2F1856080701%2F0022.jp2/pct:6.670807,80.597451,16.869565,9.963997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4478,7 +4478,7 @@ day. The number of men capable of bearing
 arms Is calculated at one fourth of the popu  
 lation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_archie_ver01%2Fdata%2Fsn83045160%2F00200290008%2F1857032201%2F0269.jp2/pct:62.459133,77.867455,10.902630,13.550074/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_archie_ver01%2Fdata%2Fsn83045160%2F00200290008%2F1857032201%2F0269.jp2/pct:62.459133,77.867455,10.902630,13.550074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4519,7 +4519,7 @@ riages is in proportion to 75 to every 100
 individuals. Marriages are most frequent  
 after Iho equinoxes—that is during the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557967%2F1857050201%2F0073.jp2/pct:64.297674,17.108434,14.679070,16.127845/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557967%2F1857050201%2F0073.jp2/pct:64.297674,17.108434,14.679070,16.127845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4558,7 +4558,7 @@ quant after the equinoxes ; that is durii
 the mouths of June and December. The  
 born in the spring are 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1857050701%2F0566.jp2/pct:64.768778,65.537378,14.915798,17.003736/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1857050701%2F0566.jp2/pct:64.768778,65.537378,14.915798,17.003736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4627,7 +4627,7 @@ hnorc frequent by night than by day. The &#x27;
 number of men capable of bearing arms is !&#x27;  
 calculated at one fourth of the population, j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624293%2F1857090301%2F0114.jp2/pct:50.012157,9.747711,14.821298,21.703406/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624293%2F1857090301%2F0114.jp2/pct:50.012157,9.747711,14.821298,21.703406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4707,7 +4707,7 @@ day. The number of men capable of
 bearing arms is calculated at one-  
 burth of the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F0021247034A%2F1857091001%2F0556.jp2/pct:56.337028,20.726814,12.091503,28.304482/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F0021247034A%2F1857091001%2F0556.jp2/pct:56.337028,20.726814,12.091503,28.304482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4766,7 +4766,7 @@ are longer lived than the single; and
 above all, those who observe a sober  
 and industrious 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1858060201%2F0058.jp2/pct:42.744479,80.010091,12.605152,8.153380/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1858060201%2F0058.jp2/pct:42.744479,80.010091,12.605152,8.153380/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4791,7 +4791,7 @@ the single ; and above all, those who observe
 a sober and industrious conduct. Tall men  
 live longer than s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1858121501%2F0314.jp2/pct:5.868139,40.941886,14.394201,6.414797/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1858121501%2F0314.jp2/pct:5.868139,40.941886,14.394201,6.414797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4858,7 +4858,7 @@ ed arc longer lived than the single, nnd above
 all, those who observe a sober and industrious  
 conduct. Tall men live long
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860080201%2F0447.jp2/pct:31.577817,75.808523,15.268159,6.230784/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860080201%2F0447.jp2/pct:31.577817,75.808523,15.268159,6.230784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4929,7 +4929,7 @@ From the Paris Kentuckian.
 TWICE MARRIED.  
 Our neighboring little city of Cynthian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879208%2F1866112001%2F0186.jp2/pct:33.954858,21.507808,14.860508,18.352181/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879208%2F1866112001%2F0186.jp2/pct:33.954858,21.507808,14.860508,18.352181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4951,7 +4951,7 @@ human species. To every one hundred
 persons only one reaches one hundred  
 years of lire; to everyone hundred onl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190789%2F1866112401%2F0498.jp2/pct:1.827470,82.324919,13.150411,4.291531/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190789%2F1866112401%2F0498.jp2/pct:1.827470,82.324919,13.150411,4.291531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4980,7 +4980,7 @@ ind deaths are more frequent by night than
 leariDg arms is calculated at one-fourth of  
 &gt;he population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862713%2F1866112901%2F0429.jp2/pct:84.187973,24.982589,14.926439,10.111763/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862713%2F1866112901%2F0429.jp2/pct:84.187973,24.982589,14.926439,10.111763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5033,7 +5033,7 @@ llomc Journal.
 Debt.?With what facility can you enter  
 a store and examine all the pretty articles ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192312%2F1867011501%2F0318.jp2/pct:29.105903,66.236135,13.715278,18.195417/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192312%2F1867011501%2F0318.jp2/pct:29.105903,66.236135,13.715278,18.195417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5077,7 +5077,7 @@ number of men capable of bearing anus is
 calculated at one-fourth of the population.  
 Home Journal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042146%2F00296022834%2F1867021901%2F0090.jp2/pct:58.346118,39.990602,12.703283,14.673402/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042146%2F00296022834%2F1867021901%2F0090.jp2/pct:58.346118,39.990602,12.703283,14.673402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5106,7 +5106,7 @@ robust than others. Births aad deaths
 are more frequeat by night than by day  
 The number of men is about equal t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279554140%2F1867082401%2F0192.jp2/pct:9.961046,82.433969,11.560935,7.054846/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279554140%2F1867082401%2F0192.jp2/pct:9.961046,82.433969,11.560935,7.054846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5233,7 +5233,7 @@ by night than by day. The number
 of clen capable of bearing arua is cal­  
 culated at one fourth of the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023140%2F1871052501%2F0085.jp2/pct:73.125637,72.193934,11.282574,18.684968/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023140%2F1871052501%2F0085.jp2/pct:73.125637,72.193934,11.282574,18.684968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5275,7 +5275,7 @@ in spring are generally more robust than
 others. Births and deaths are more fre­  
 quent by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00294554828%2F1871052601%2F0405.jp2/pct:40.328253,33.649503,12.441383,17.524842/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00294554828%2F1871052601%2F0405.jp2/pct:40.328253,33.649503,12.441383,17.524842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5318,7 +5318,7 @@ more rolmst than others. Jiirth
   
 and deaths are more frequentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_goldfield_ver01%2Fdata%2Fsn84020345%2F00416150461%2F1871071101%2F0432.jp2/pct:21.811154,36.054913,17.117615,10.838150/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_goldfield_ver01%2Fdata%2Fsn84020345%2F00416150461%2F1871071101%2F0432.jp2/pct:21.811154,36.054913,17.117615,10.838150/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5363,7 +5363,7 @@ hundred individuals. Marriages
 most frequent after the equinox  
 that is, duriug the months o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775484%2F1871071301%2F0274.jp2/pct:84.610088,77.007938,9.812360,15.444639/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775484%2F1871071301%2F0274.jp2/pct:84.610088,77.007938,9.812360,15.444639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5403,7 +5403,7 @@ number of men capable of bearing
 arms is calculated at one fourth of the  
 population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/oru_neahkahnie_ver01%2Fdata%2Fsn93051636%2F00295868387%2F1871081901%2F0260.jp2/pct:4.208955,48.980289,14.940299,13.227754/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_neahkahnie_ver01%2Fdata%2Fsn93051636%2F00295868387%2F1871081901%2F0260.jp2/pct:4.208955,48.980289,14.940299,13.227754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5458,7 +5458,7 @@ lated at one-fourth of the population.
 Co ___  
 How the Factory Helps the Farm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184418%2F1871101801%2F0134.jp2/pct:44.449710,29.264503,12.075978,18.329880/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184418%2F1871101801%2F0134.jp2/pct:44.449710,29.264503,12.075978,18.329880/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5490,7 +5490,7 @@ die every year, 91,824 every day,
 3,730 every hour, and 60 : ory  
 minute, or one every second. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871101901%2F0365.jp2/pct:68.426883,17.988107,13.497046,13.032706/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871101901%2F0365.jp2/pct:68.426883,17.988107,13.497046,13.032706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5528,7 +5528,7 @@ e than others. Births and deaths are more
 ber of men capable of bearing arms is cal­  
 e culated at one-fourth of the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871102102%2F0541.jp2/pct:56.225992,53.757225,13.524328,11.644990/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871102102%2F0541.jp2/pct:56.225992,53.757225,13.524328,11.644990/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5556,7 +5556,7 @@ to every 100, only 6 reach the
 of 65; and not more than 1 in  
 live3 to 80 years of age. Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775800%2F1871111001%2F0185.jp2/pct:86.274208,73.568905,9.790962,7.102473/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775800%2F1871111001%2F0185.jp2/pct:86.274208,73.568905,9.790962,7.102473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5599,7 +5599,7 @@ individuals. Marriages are more
 frequent after the equinoxes, that is,  
 during tlie months of June and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775125%2F1871111601%2F0288.jp2/pct:68.115536,64.296407,8.959619,10.265184/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775125%2F1871111601%2F0288.jp2/pct:68.115536,64.296407,8.959619,10.265184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5628,7 +5628,7 @@ year, 91,821 every day, 3,700 every
 hour, and CO every minute, or 1 every  
 second. The married are longer-live
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F0027955520A%2F1871112701%2F0512.jp2/pct:45.231712,48.654881,11.666986,7.587112/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F0027955520A%2F1871112701%2F0512.jp2/pct:45.231712,48.654881,11.666986,7.587112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5649,7 +5649,7 @@ of the human species. To every 1,000 persons
 only one reaches one hundred years of life; to  
 every one hundred, only six reach the age o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101$10/pct:69.769155,58.884298,18.467583,6.141998/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101$10/pct:69.769155,58.884298,18.467583,6.141998/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5672,7 +5672,7 @@ day. The number of men capable of bearing
 arras b calculated at oue-fourtli of the popula¬  
 tion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101$10/pct:69.769155,72.464313,18.516699,6.705485/600,/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101$10/pct:69.769155,72.464313,18.516699,6.705485/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5696,7 +5696,7 @@ one reaches one hundred years of life;
 to every oue hundred, only six reach  
 the age of sixty-five; and not mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1871122701%2F0098.jp2/pct:44.709626,72.715388,9.578361,4.588835/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1871122701%2F0098.jp2/pct:44.709626,72.715388,9.578361,4.588835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5725,7 +5725,7 @@ day ; 3780 every hour: and 00 every
 minute, or one every second. These  
 losses are about balanced by an equ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623458%2F1872021701%2F0196.jp2/pct:60.541859,38.702491,13.437339,10.115476/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623458%2F1872021701%2F0196.jp2/pct:60.541859,38.702491,13.437339,10.115476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5748,7 +5748,7 @@ sons only one reaches one hundred
 years of life: to every one hundred  
 onlv six reaches the age of sixty fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn84027352%2F0027952875A%2F1872040401%2F0080.jp2/pct:55.586447,77.600583,9.886566,4.609329/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn84027352%2F0027952875A%2F1872040401%2F0080.jp2/pct:55.586447,77.600583,9.886566,4.609329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5777,7 +5777,7 @@ ery year, 91,824 every day, 3,730 every hour,
 and 60 every minute,or one every second. The  
 married are longer lived than th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869586%2F1873032001%2F0097.jp2/pct:76.030405,62.342172,18.243243,8.733165/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869586%2F1873032001%2F0097.jp2/pct:76.030405,62.342172,18.243243,8.733165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5806,7 +5806,7 @@ year, 91,824 every day, 8,730 every hour,
 and sixty every minute, or one every sec­  
 ond. The married are longer. lived tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1873062402%2F0648.jp2/pct:28.700097,41.428571,20.569620,14.003527/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1873062402%2F0648.jp2/pct:28.700097,41.428571,20.569620,14.003527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5859,7 +5859,7 @@ of men capable of bearing arms is calculn- 1
 ted at one fourth of the population.  
 ■ The average depth of the ocean is about 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F0041562380A%2F1879042601%2F0082.jp2/pct:26.328406,11.345219,22.559595,84.671676/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F0041562380A%2F1879042601%2F0082.jp2/pct:26.328406,11.345219,22.559595,84.671676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5885,7 +5885,7 @@ The inhabitants of the globe jsrofess
 more than 1,000 different religions.  
 “With all your false I love the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_arrowhead_ver01%2Fdata%2Fsn84022060%2F0027955470A%2F1879062501%2F0598.jp2/pct:57.659208,48.453909,16.334983,12.007730/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_arrowhead_ver01%2Fdata%2Fsn84022060%2F0027955470A%2F1879062501%2F0598.jp2/pct:57.659208,48.453909,16.334983,12.007730/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5939,7 +5939,7 @@ om*s and women have more chances of life in
 their favor, previous to being fifty years of age.  
 than men have, but fewer afterward. Person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_newfoundland_ver04%2Fdata%2Fsn83045462%2F00280654590%2F1883010301%2F0145.jp2/pct:29.377671,41.893341,15.470794,7.243833/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_newfoundland_ver04%2Fdata%2Fsn83045462%2F00280654590%2F1883010301%2F0145.jp2/pct:29.377671,41.893341,15.470794,7.243833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5962,7 +5962,7 @@ yond the nineties ; in every 1&lt;&gt;0 only six
 reach the age of sixty-five, and not more  
 thun ono in OOO lives to eighty years. O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_gnomiemoore_ver01%2Fdata%2Fsn84026965%2F00294551190%2F1883011801%2F0118.jp2/pct:2.490916,36.750910,12.459361,4.907479/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_gnomiemoore_ver01%2Fdata%2Fsn84026965%2F00294551190%2F1883011801%2F0118.jp2/pct:2.490916,36.750910,12.459361,4.907479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6002,7 +6002,7 @@ chances of life in their favor previous to
 being fifty years of age than men have,  
 but fewer afterward. Persons who are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/msar_eiffel_ver02%2Fdata%2Fsn83016925%2F00295878769%2F1883012401%2F0322.jp2/pct:28.664495,20.372171,14.352606,8.970976/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eiffel_ver02%2Fdata%2Fsn83016925%2F00295878769%2F1883012401%2F0322.jp2/pct:28.664495,20.372171,14.352606,8.970976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6043,7 +6043,7 @@ deaths are more frequent by night than by day.
 The number of men capable of bearing arms is  
 calculated at one-fourth of the population.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6$76/pct:45.360429,35.252366,35.506135,35.804416/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6$76/pct:45.360429,35.252366,35.506135,35.804416/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6130,7 +6130,7 @@ of a mere robust constitution than
 others. Births are more frequent by  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588307%2F1888122901%2F1156.jp2/pct:78.838739,73.103207,13.823996,16.195542/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588307%2F1888122901%2F1156.jp2/pct:78.838739,73.103207,13.823996,16.195542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6179,7 +6179,7 @@ Those born in spring are generally of more ro­
 bust constitution than others. Births are more  
 frequent by ni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/dlc_rottweiler_ver01%2Fdata%2Fsn83045462%2F00280654711%2F1889011701%2F0270.jp2/pct:43.455808,83.201263,13.981544,8.195305/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_rottweiler_ver01%2Fdata%2Fsn83045462%2F00280654711%2F1889011701%2F0270.jp2/pct:43.455808,83.201263,13.981544,8.195305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6219,7 +6219,7 @@ Those born in spring are generally of a
 more robust constitution than others.  
 Births are more frequent by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://iiif.archivelab.org/iiif/sim_new-outlook_1889-01-17_39_3$30/pct:5.865779,9.197787,40.138320,82.676349/,600/0/default.jpg)
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1889-01-17_39_3$30/pct:5.865779,9.197787,40.138320,82.676349/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6252,7 +6252,7 @@ December. Those born in the spring are
 generally of a more robust constitution  
 than others. Births are more frequent 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mthi_leopardfrog_ver01%2Fdata%2Fsn84036143%2F00295861368%2F1889013101%2F0474.jp2/pct:45.248538,74.827437,12.280702,9.771355/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_leopardfrog_ver01%2Fdata%2Fsn84036143%2F00295861368%2F1889013101%2F0474.jp2/pct:45.248538,74.827437,12.280702,9.771355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6289,7 +6289,7 @@ after equinoxes that is, during the
 months of June and December. Chris­  
 tian Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/khi_earhart_ver01%2Fdata%2Fsn85032814%2F00237283259%2F1889030701%2F0482.jp2/pct:65.696181,75.072254,13.992122,14.077553/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_earhart_ver01%2Fdata%2Fsn85032814%2F00237283259%2F1889030701%2F0482.jp2/pct:65.696181,75.072254,13.992122,14.077553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6326,7 +6326,7 @@ after equinoxes—that is, during the
 months of June and December.— Chris­  
 tfan Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869239%2F1889032901%2F0634.jp2/pct:68.005952,47.235872,12.967687,12.853194/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869239%2F1889032901%2F0634.jp2/pct:68.005952,47.235872,12.967687,12.853194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6367,7 +6367,7 @@ every second.
 The married are longer lived than  
 the single, mid, above nil, those wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F00332890372%2F1889052901%2F0088.jp2/pct:18.778487,68.029860,15.662033,7.972249/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F00332890372%2F1889052901%2F0088.jp2/pct:18.778487,68.029860,15.662033,7.972249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6447,7 +6447,7 @@ Those born in spring are generally
 of a more robust constitution than oth­  
 ers. Births are more frequent by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85040310%2F00514152123%2F1891012901%2F0511.jp2/pct:50.414751,49.723704,14.245785,14.027566/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85040310%2F00514152123%2F1891012901%2F0511.jp2/pct:50.414751,49.723704,14.245785,14.027566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6484,7 +6484,7 @@ The number of marriages is in proportion Of
 more frequently after the equinoxes; that is,  
 during the months of June
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/mdu_easton_ver01%2Fdata%2Fsn85025407%2F00279522126%2F1891032001%2F0235.jp2/pct:27.601219,25.847047,10.922943,12.457856/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_easton_ver01%2Fdata%2Fsn85025407%2F00279522126%2F1891032001%2F0235.jp2/pct:27.601219,25.847047,10.922943,12.457856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6575,7 +6575,7 @@ world at other times in the year. Births
 and deaths are much more frequent by  
 night than by day. The number of me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/whi_dorothy_ver01%2Fdata%2Fsn85033295%2F00271769830%2F1896120201%2F0212.jp2/pct:50.970335,27.337650,14.434895,6.265473/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dorothy_ver01%2Fdata%2Fsn85033295%2F00271769830%2F1896120201%2F0212.jp2/pct:50.970335,27.337650,14.434895,6.265473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6600,7 +6600,7 @@ According to recent statistics, there are
 world—687 in Europe, 937 in Asia, 276 in  
 Africa and 1,264 in America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529686%2F1897072201%2F0658.jp2/pct:79.504060,63.569906,14.510643,1.983704/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529686%2F1897072201%2F0658.jp2/pct:79.504060,63.569906,14.510643,1.983704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6624,7 +6624,7 @@ and not more than one in f&gt;00 Uvea to
 SO years. There are on earth 1,000,000.000  
 Inhabitants, and of these 8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/vi_orange_ver01%2Fdata%2Fsn85025715%2F00175031571%2F1897100301%2F0280.jp2/pct:35.653409,87.248387,16.186418,6.077242/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_orange_ver01%2Fdata%2Fsn85025715%2F00175031571%2F1897100301%2F0280.jp2/pct:35.653409,87.248387,16.186418,6.077242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6672,7 +6672,7 @@ six reach the ago of 63, and not more than
 one in fivo hundred lives to 80 years.  
 Thero are on earth 1,000,000,000 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_evadeestruction_ver01%2Fdata%2Fsn84026965%2F00294550859%2F1897102701%2F0017.jp2/pct:84.550357,82.020939,13.875528,5.234830/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_evadeestruction_ver01%2Fdata%2Fsn84026965%2F00294550859%2F1897102701%2F0017.jp2/pct:84.550357,82.020939,13.875528,5.234830/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6697,7 +6697,7 @@ tants, and of these 333,333,333 die every
 year, 91,624 every day, 3,730 every hour,  
 and 60 every minute, or 1 every second
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/scu_gnomiemoore_ver01%2Fdata%2Fsn84026965%2F00294551189%2F1897102702%2F0421.jp2/pct:83.724545,81.157872,13.503290,6.950082/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_gnomiemoore_ver01%2Fdata%2Fsn84026965%2F00294551189%2F1897102702%2F0421.jp2/pct:83.724545,81.157872,13.503290,6.950082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6809,7 +6809,7 @@ year, 91,824 every day, 3,730 every hour,
 and sixty every minute, or one ever*  
 second.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/sdhi_honeydew_ver01%2Fdata%2Fsn99068086%2F0033289996A%2F1898011301%2F0439.jp2/pct:71.056493,78.055240,14.668929,9.131038/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_honeydew_ver01%2Fdata%2Fsn99068086%2F0033289996A%2F1898011301%2F0439.jp2/pct:71.056493,78.055240,14.668929,9.131038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6849,7 +6849,7 @@ year, 91,824 every day, 3,730 every hour, 1
 ! and sixty every minute, or one every  
 ! second. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_elephanttree_ver01%2Fdata%2Fsn94051692%2F00211106153%2F1898021901%2F0284.jp2/pct:55.292588,80.155367,12.743823,8.464487/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_elephanttree_ver01%2Fdata%2Fsn94051692%2F00211106153%2F1898021901%2F0284.jp2/pct:55.292588,80.155367,12.743823,8.464487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6878,7 +6878,7 @@ itants, and of these 33,333,333 die every
 and sixty every minute, or one every  
 second
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-![Page image](https://chroniclingamerica.loc.gov/iiif/2/az_arguingmatch_ver02%2Fdata%2Fsn96060765%2F0038334184A%2F1898031901%2F0238.jp2/pct:30.587316,79.599805,12.581843,8.582048/!600,600/0/default.jpg)
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_arguingmatch_ver02%2Fdata%2Fsn96060765%2F0038334184A%2F1898031901%2F0238.jp2/pct:30.587316,79.599805,12.581843,8.582048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
