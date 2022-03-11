@@ -9,7 +9,8 @@
 
 ## [From _Harper's Bazaar (1867-1912)_](https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3?page=6)
 #### 1871-01-21 &middot; New York
-<table style="width: 100%;"><tr><td style="width: 50%">ickens the circulation a draught of  
+<table style="width: 100%;"><tr><td style="width: 50%">
+ickens the circulation a draught of  
 air upon the person is almost sure to cause a  
 chill and produce a cold. Outside garments  
 should never be hastily removed when one is  
