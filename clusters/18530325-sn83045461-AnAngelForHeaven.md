@@ -84,7 +84,7 @@ thy footsteps, cherub forms bend to listen! Keep
 thy spirit free from earth taint ; so shalt thou “ go to  
 them,” though “ they may not return to thee.”—(i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1853-01-27_34_4$0/pct:81.432127,72.002618,11.752428,10.503927/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1853-01-27_34_4&#0036;0/pct:81.432127,72.002618,11.752428,10.503927/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ forins bend to listen! Keep thy spirit free
 from taint; so shalt thou ‘ go to them,’ though  
 ‘they may not return to thee.—[ Olive Branch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1853-02-17_26_43$3/pct:53.185745,30.080117,21.436285,18.317553/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1853-02-17_26_43&#0036;3/pct:53.185745,30.080117,21.436285,18.317553/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ look up? Can you bear the splender of that
 sight! Ten thousand celestial beings, sad  
 your own radiant child-angel in their mids
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-02_32_1653$0/pct:72.616598,62.962413,8.590535,11.825880/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-02_32_1653&#0036;0/pct:72.616598,62.962413,8.590535,11.825880/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ earth!
   
 Can you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1853-04-07_26_50$3/pct:29.346652,57.319738,21.760259,24.544792/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1853-04-07_26_50&#0036;3/pct:29.346652,57.319738,21.760259,24.544792/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ listen! Keep thy spirit free from earth-taint;
 so shalt thy soul go to them, though they may  
 not return to thee.— Fanny Fern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-16_32_1655$3/pct:60.648148,51.819938,8.624829,10.889912/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-16_32_1655&#0036;3/pct:60.648148,51.819938,8.624829,10.889912/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ though they may not &quot;return to thee,
 ” , not come streaming in on his w.astcd form, as if according to the directions,  
 there were no grief in the world ! &#x27; , The.Restorer used ■with the Xy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27$3/pct:48.323522,37.183099,19.529050,1.568075/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27&#0036;3/pct:48.323522,37.183099,19.529050,1.568075/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ lucate How sweetly he sleeps, that precious little an- glossy and natural appear
 could ■ How lightly curl the flaxen locks on his When applying this prcp-cration,  
 , , white forehead ! You could weep your very Xylobals.-.mum can bo used wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27$3/pct:48.323522,38.788732,19.529050,1.201878/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27&#0036;3/pct:48.323522,38.788732,19.529050,1.201878/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1223,7 +1223,7 @@ On hi.s brow a glory crown.”
 Oh! cling not too closely to your beautiful  
 tressure.s. children of earth .—Lutheran Olks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27$3/pct:50.217558,49.633803,10.724341,1.446009/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27&#0036;3/pct:50.217558,49.633803,10.724341,1.446009/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ The strength of the Syrian Mission has l^n ‘hTo^gh wreathed ^ -
   
 painting, to his heart’s content Yonder away successful and persevering of any modem expositor, much weakened by the partial loss of health in world knocks at your doo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1854-09-21_25_38$3/pct:2.697520,34.125809,55.804142,1.054579/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1854-09-21_25_38&#0036;3/pct:2.697520,34.125809,55.804142,1.054579/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ listen! Keep thy spirit free from earth’s taint,
 so shalt thou “‘go to them,’ though “they  
 msy not return to thee.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-06_7_6$43/pct:57.258065,18.682213,35.908319,33.242950/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-06_7_6&#0036;43/pct:57.258065,18.682213,35.908319,33.242950/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2924,7 +2924,7 @@ room from whence you have borne your dead.—
 But it comes never in the hush of night to wipe  
 uway your tear! In the solemn silence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32$5/pct:64.277344,58.275862,16.816406,11.681034/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32&#0036;5/pct:64.277344,58.275862,16.816406,11.681034/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2944,7 +2944,7 @@ angel in the midst of thea—
 In her eyes a glory bright,  
 On her brow ¢ glory crown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32$5/pct:64.687500,72.557471,16.464844,3.577586/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32&#0036;5/pct:64.687500,72.557471,16.464844,3.577586/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

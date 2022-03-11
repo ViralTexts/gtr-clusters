@@ -427,7 +427,7 @@ such cases, medical advice should al-
 ways be sought as soon as possible.—  
 London Garden.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5$6/pct:71.237374,9.985041,20.909091,52.991773/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5&#0036;6/pct:71.237374,9.985041,20.909091,52.991773/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ the pain:
 crease the local irritation,  
 The poison of stings being acid, common-sense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25$5/pct:71.767001,35.231587,21.544036,9.206530/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:71.767001,35.231587,21.544036,9.206530/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ The poison of stings being acid, common-sense
 mong the most easily-procured remedies  
 may be mentioned soft soap, liquor of ammonia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25$5/pct:72.547380,45.690964,20.875139,1.252847/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:72.547380,45.690964,20.875139,1.252847/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ sometimes lead to serious consequences; in such
 cases, medical advice should always be sought  
 as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25$5/pct:72.157191,48.215642,21.599777,12.433561/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:72.157191,48.215642,21.599777,12.433561/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2310,7 +2310,7 @@ advice should always be sought as soon as pos-
   
 sible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1881-09_49_9$21/pct:57.621951,46.865443,35.175305,42.533129/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1881-09_49_9&#0036;21/pct:57.621951,46.865443,35.175305,42.533129/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

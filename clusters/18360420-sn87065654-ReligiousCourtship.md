@@ -49,7 +49,7 @@ be full. 2 Epist. John, ver. 12.
 M B. Upon the above interview, the  
 marriage took filace the week following.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57$6/pct:33.752677,32.651391,26.820128,17.982815/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57&#0036;6/pct:33.752677,32.651391,26.820128,17.982815/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ and violent passion, and was de-
 sirous of entering into a courtship  
 onthe spot. In order to effec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25$11/pct:27.517361,36.010467,29.050926,29.790660/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25&#0036;11/pct:27.517361,36.010467,29.050926,29.790660/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ Upon the above interview, the
 marriage took place the week fol-  
 lowing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25$11/pct:59.085648,17.109501,28.993056,33.393720/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25&#0036;11/pct:59.085648,17.109501,28.993056,33.393720/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ speak face to face.”
   
 From the above interview the marriage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_circular_1823-07-11_2_66$2/pct:7.208872,64.492946,20.476484,26.443971/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_circular_1823-07-11_2_66&#0036;2/pct:7.208872,64.492946,20.476484,26.443971/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ ink; but I trust to come unto you and speak face to
 face.” From the above interview, the marriage  
 look place the ensuing week. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43$7/pct:40.227396,62.995211,26.529507,22.094036/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43&#0036;7/pct:40.227396,62.995211,26.529507,22.094036/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ into you and speak face to face.” From the a-
 bove interview the marriage took place the en-  
 suing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1826-11-22_1_25$4/pct:61.718750,41.914683,27.140625,33.705357/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1826-11-22_1_25&#0036;4/pct:61.718750,41.914683,27.140625,33.705357/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ with paper and ink; butI trust to come unto you
 and speak face to face.” Fromthe above inter-  
 view, the marriage took place the ensuing week.--
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-telescope_1826-11-25_3_26$3/pct:53.588645,46.623981,20.889127,16.395033/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-telescope_1826-11-25_3_26&#0036;3/pct:53.588645,46.623981,20.889127,16.395033/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ entering into a courtship on the spot; but the
 gency of the case suggested the following  
 lan: Me politely handed his fair neighbor 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49$0/pct:49.733232,45.213987,14.386433,7.101391/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49&#0036;0/pct:49.733232,45.213987,14.386433,7.101391/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ church ina pew adjoining one in which sat a
 you for whom he conceived « most  
 Sudden and violent passion, was desirous 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49_0$0/pct:45.937962,45.590433,13.663220,5.150156/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49_0&#0036;0/pct:45.937962,45.590433,13.663220,5.150156/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ I impressing the other. When their editions were a most sudden and violent passi
   
 I intended to be curious, they omitted to print the entering into a courtship on the spot ; but the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51$3/pct:68.954573,84.435386,26.284467,2.173913/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51&#0036;3/pct:68.954573,84.435386,26.284467,2.173913/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ to the abilities of the corrector. ihou shouldst take knowledge of me, seeing I 
   
 To let their fame stranger ?** He returned the book, pointing to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51$4/pct:33.525437,24.138955,56.915739,6.398456/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51&#0036;4/pct:33.525437,24.138955,56.915739,6.398456/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ paper and ink ; but I trust to come unto yon and
 speak face to face.’*—From the above interview,  
 the marriage took place the ensuing week,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51$4/pct:63.056439,32.615796,27.424483,3.132423/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51&#0036;4/pct:63.056439,32.615796,27.424483,3.132423/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ face.”—From the above interview |
 the marriage took place the ensuing  
 week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-news-letter-and-city-record_1826-12-16_2_24$2/pct:2.591241,21.128501,36.751825,57.701812/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-news-letter-and-city-record_1826-12-16_2_24&#0036;2/pct:2.591241,21.128501,36.751825,57.701812/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ to come unto you and speak face to face.” )
 From the above interview, the marriage took  
 place the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9$7/pct:66.161928,29.953198,28.893696,23.673947/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9&#0036;7/pct:66.161928,29.953198,28.893696,23.673947/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ ink: but I trust to come unto you, and speak face to
 face.” From the above interview, the marriage took  
 place the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal_1834-12-06_3_149$7/pct:37.949640,68.036437,26.019185,8.299595/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal_1834-12-06_3_149&#0036;7/pct:37.949640,68.036437,26.019185,8.299595/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ am a stranger?” He returned the book, pointing to the twelfth
 verse of the Third Epistle of John. ‘Having many things to write  
 unto you, I would not write with paper and ink, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46$7/pct:67.755102,62.462064,26.989796,11.779211/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46&#0036;7/pct:67.755102,62.462064,26.989796,11.779211/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2610,7 +2610,7 @@ trust to come unto you, and speak face to face.”
 From the above iuterview the marriage took place  
 the following week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-police-gazette_1880-11-27_37_166$9/pct:73.597233,11.649485,20.042275,10.837629/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-police-gazette_1880-11-27_37_166&#0036;9/pct:73.597233,11.649485,20.042275,10.837629/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2650,7 +2650,7 @@ verse of the the Third Kpistle of John—
 ‘Having many things to write unto you,  
 I would not write with pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-magazine_1886-02_3_5$38/pct:48.162939,22.318436,34.704473,34.245810/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-magazine_1886-02_3_5&#0036;38/pct:48.162939,22.318436,34.704473,34.245810/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3207,7 +3207,7 @@ pointing to the thirteenth verse of the Third
 Epistle of John—* Having many things to  
 write unto you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-home-journal_1891-01_8_2$1/pct:30.367293,11.911232,20.616528,54.468599/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-home-journal_1891-01_8_2&#0036;1/pct:30.367293,11.911232,20.616528,54.468599/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3606,7 +3606,7 @@ to come unto you and speak face to face.”
 From the above interview the marriage took  
 place the coming week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1895-09-21_8_44$8/pct:6.714313,14.060338,48.899756,78.245226/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1895-09-21_8_44&#0036;8/pct:6.714313,14.060338,48.899756,78.245226/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

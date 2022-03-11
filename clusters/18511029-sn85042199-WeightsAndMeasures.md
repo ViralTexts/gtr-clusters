@@ -557,7 +557,7 @@ Of dried peaches, thirty-three pounds,
   
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1851-11-15_7_9$3/pct:47.643554,7.981272,13.447996,14.144164/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1851-11-15_7_9&#0036;3/pct:47.643554,7.981272,13.447996,14.144164/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ Of onions, fifty-seven pounds.
   
 Of salt, tifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1852-01_4_1$17/pct:6.608696,28.749293,37.347826,25.778155/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1852-01_4_1&#0036;17/pct:6.608696,28.749293,37.347826,25.778155/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ Of barley, forty-eight pounds. mated and exciting chase, we captured them
 Of potatoes, sixty pounds. both, containing filty-six slaves, and manned  
 Of beans, sixty pounds. with nineteen Mandigo men. I, and two me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1852-01-17_25_18$2/pct:33.461085,54.100652,50.117925,6.873253/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1852-01-17_25_18&#0036;2/pct:33.461085,54.100652,50.117925,6.873253/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ Of onions, fifty-seven pounds.
   
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1852-01-22_33_4$3/pct:44.600077,66.298379,7.952545,7.603295/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1852-01-22_33_4&#0036;3/pct:44.600077,66.298379,7.952545,7.603295/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ Of dried apples, twenty-five pounds.
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-02-05_20_6$0/pct:54.952331,69.351774,11.811441,13.893581/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-02-05_20_6&#0036;0/pct:54.952331,69.351774,11.811441,13.893581/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1362,7 +1362,7 @@ Of ried Apples, twenty-four pounds.
 Of Onions, litty. -seven pounds.  
 Of Salt, fifty pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1852-04_4_4$2/pct:53.622560,12.903226,31.062907,27.136389/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1852-04_4_4&#0036;2/pct:53.622560,12.903226,31.062907,27.136389/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1421,7 +1421,7 @@ seed, forty-five — of timothy-seed, fifty-six pounds of flax-seed, forty-four 
 of hemp-seed, fifty-two pounds of buckwheat, fourteen pounds of blue-grass-seed,  
 fifty pounds of cornmeal, fifty-seven pounds of onions, and fifty-six pounds of sal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1852-08_27_2$95/pct:24.641720,75.104603,64.848726,7.374477/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1852-08_27_2&#0036;95/pct:24.641720,75.104603,64.848726,7.374477/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2750,7 +2750,7 @@ Of onions, fifty-seven pounds.
   
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-12_53_6$83/pct:55.642633,10.858325,35.031348,24.638056/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-12_53_6&#0036;83/pct:55.642633,10.858325,35.031348,24.638056/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3014,7 +3014,7 @@ pounds; Irish potatoes, sixty pounds; sweet
 potatoes, fifty pounds; onions, fifty-seven  
 pound
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1857-05_10_5$85/pct:17.244259,28.707124,32.567850,10.527704/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1857-05_10_5&#0036;85/pct:17.244259,28.707124,32.567850,10.527704/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3866,7 +3866,7 @@ Of onions, fifty-seven pounds,
   
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1860-10_43_4$127/pct:13.805970,76.140873,64.800995,11.656746/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1860-10_43_4&#0036;127/pct:13.805970,76.140873,64.800995,11.656746/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4368,7 +4368,7 @@ to some of our readers:
   
 Corn, shélle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_schermerhorns-monthly-for-parents-and-teachers_1864-02_1_2$31/pct:15.798923,13.533203,33.348294,8.573830/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_schermerhorns-monthly-for-parents-and-teachers_1864-02_1_2&#0036;31/pct:15.798923,13.533203,33.348294,8.573830/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4520,7 +4520,7 @@ a ea seventy pounds.
 ye, x pounds.  
 pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1865-03-25_2278$7/pct:61.705310,11.139274,15.314136,4.362327/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1865-03-25_2278&#0036;7/pct:61.705310,11.139274,15.314136,4.362327/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4616,7 +4616,7 @@ e, unds.
 Oats, 36 pc unds.  
 Barley, 46 pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-06-15_17_12$1/pct:5.984288,78.196565,21.372458,6.361323/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-06-15_17_12&#0036;1/pct:5.984288,78.196565,21.372458,6.361323/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4636,7 +4636,7 @@ may be of interest toour readers :—Wheat, 60 lbs.;
 corn, shelled, 56lbs.; corn, on the cob, 70Ibs.; rye,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1865-11-11_6_131$30/pct:8.229814,68.092692,25.621118,4.991087/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1865-11-11_6_131&#0036;30/pct:8.229814,68.092692,25.621118,4.991087/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4820,7 +4820,7 @@ table of the number of pounds of various arti-
 cles t» a bushel, may be of interest to our  
 readers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-03-01_19_5$2/pct:58.333333,71.977330,25.055188,3.463476/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-03-01_19_5&#0036;2/pct:58.333333,71.977330,25.055188,3.463476/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

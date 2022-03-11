@@ -413,7 +413,7 @@ The Life and _——- of Fant
   
 fore the , and the wor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3$19/pct:51.610905,11.521526,19.237918,9.858121/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3&#0036;19/pct:51.610905,11.521526,19.237918,9.858121/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

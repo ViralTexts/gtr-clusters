@@ -295,7 +295,7 @@ SSEET SS Srmes; 8 Pope; 4. Prior; 6 Sewell ; 6. coaching vil festival. .
 Spencer ; ’ Daniel ; 8. Sir Walter ; low ; 10. PP Mister, her busband ; “ why do you call him Mis-  
 Southwell; 11. Congreve ; 12 13. ter; 14 ter, if you please? He is no more a gentieman than | am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13$2/pct:7.594563,20.096463,54.639480,44.393087/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13&#0036;2/pct:7.594563,20.096463,54.639480,44.393087/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ il—Her sensual snares let faithless pleasures lay,
 %—0 then renounce that impious self-esteem ;  
 4—Riches have w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4$12/pct:4.595588,43.252595,33.014706,30.947232/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4&#0036;12/pct:4.595588,43.252595,33.014706,30.947232/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ den, 32 Francis Quarles, 33 Watkins. 34 H. rrick,
 35 William Mason, 36 Hill, 37 Dana, 33 Shak-  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4$12/pct:5.257353,15.895329,67.867647,67.301038/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4&#0036;12/pct:5.257353,15.895329,67.867647,67.301038/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ dumb,
   
 hastenea up among the rioters. But now cries of | 14—And throw a cruel sunshine on a fool
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34$3/pct:18.921053,69.769576,23.434211,7.320555/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34&#0036;3/pct:18.921053,69.769576,23.434211,7.320555/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ the door-way, and in a few moments more the 54 we masters grow ot ail Geek we de
 33—How long we live, not years, but actions, tell ;  
 34—That man lives twice who lives the first life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34$3/pct:18.815789,76.957586,23.421053,9.543230/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34&#0036;3/pct:18.815789,76.957586,23.421053,9.543230/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ Davenant, 28 Grey, 29 Willis, 30 Addison, 51
   
 Dryden, 32 Francis Quarles, 33 Watkins, 34 Her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34$3/pct:18.789474,86.531403,35.342105,7.493883/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34&#0036;3/pct:18.789474,86.531403,35.342105,7.493883/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1076,7 +1076,7 @@ Davenant; 28, Gray; 29, Willis; 30, Addison ;
 34, Herrick; 35, William Mason; 36, Hill; 37,  
 Dana; 38, Shakspere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2$12/pct:29.364608,15.353626,25.296912,53.379588/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2&#0036;12/pct:29.364608,15.353626,25.296912,53.379588/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ fellow; 10. Southwell; 11, Congreve; 12, Churchill;
 Francis Quarles ; 33. Watkins ; 34, Herrick: 35, William  
 Mason ; 36, Hill; 37. Dana; 38. Shakspere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39$4/pct:7.605178,15.171756,34.830097,71.087786/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39&#0036;4/pct:7.605178,15.171756,34.830097,71.087786/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1964,7 +1964,7 @@ ard authors of England and America. This is the
 result of a year’s laborious search among the leading  
 poets of the past and present time :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468$56/pct:50.741030,11.242455,35.530421,7.092555/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468&#0036;56/pct:50.741030,11.242455,35.530421,7.092555/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1993,7 +1993,7 @@ Dana,
   
 For, live we how we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468$56/pct:50.468019,57.771630,44.617785,12.399396/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468&#0036;56/pct:50.468019,57.771630,44.617785,12.399396/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2331,7 +2331,7 @@ America. This is the result of a year’s laborious
 search among the voluminous writings of thirty-eight  
 leading poets of the past and present :—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19$11/pct:68.389225,41.137124,24.683892,5.518395/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19&#0036;11/pct:68.389225,41.137124,24.683892,5.518395/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2568,7 +2568,7 @@ Think n« ambition wise because ’tis brave :**
 The ps aoe of glory lead but to the grave.*%  
 Wh at is ambition ? ’Tis a glorious ch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1872-06-01_9_231$12/pct:46.250000,43.558673,33.064516,24.457908/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1872-06-01_9_231&#0036;12/pct:46.250000,43.558673,33.064516,24.457908/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2679,7 +2679,7 @@ Walter Davenant; 28 G 29 Willis; 30 Addison; 31
 Dryden; 32 Francis Quarles; 33 Watkins; 34 Herrick; 35  
 Wiliam Mason; 36 Hill; 37 Dana; 38 Shakespeare,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22$5/pct:9.264381,28.266616,20.907080,20.015106/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22&#0036;5/pct:9.264381,28.266616,20.907080,20.015106/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3167,7 +3167,7 @@ Francis Quarles. 33, Watkins. 34. Herrick.
 35, Wm. Mason. 36, Hill. 37, Dana. 38,  
 Shakspeare. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278$9/pct:7.329843,9.682300,42.068063,83.755673/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278&#0036;9/pct:7.329843,9.682300,42.068063,83.755673/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3479,7 +3479,7 @@ Addison ; 31, Dryden ; 82, Francis Quarles ; 33, Watkins; 84,
 Herrick; 35, William Mason; 36, Hill; 37, Dana; 38,  
 Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350$5/pct:63.705972,29.740894,27.309852,44.442358/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350&#0036;5/pct:63.705972,29.740894,27.309852,44.442358/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4772,7 +4772,7 @@ the result of a year’s laborious search among the voluminous
 writings of thirty-eight leading poets of ‘the past and present.  
 We would be glad to hear from any person who can tell th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391$6/pct:34.352900,22.356021,28.076379,5.863874/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391&#0036;6/pct:34.352900,22.356021,28.076379,5.863874/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4845,7 +4845,7 @@ What is ambition ? ’tis a glorious cheat!
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391$6/pct:34.989392,35.680628,25.795615,23.952880/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391&#0036;6/pct:34.989392,35.680628,25.795615,23.952880/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6392,7 +6392,7 @@ of the standard authors of England ana America.
   
 Why all this toil for triumphs of an hour?—[Young
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1885-11-26_77_48$1/pct:9.969325,8.437730,26.738241,3.850405/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1885-11-26_77_48&#0036;1/pct:9.969325,8.437730,26.738241,3.850405/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6694,7 +6694,7 @@ Dryden ; 82, Francis Quarles: 33, Watkins; 34,
 Herrick ; 35, William Mason ; 36, Hill ; 87, Dana»  
 33, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-02-17_35_7$30/pct:31.505771,11.800574,20.304302,46.682209/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-02-17_35_7&#0036;30/pct:31.505771,11.800574,20.304302,46.682209/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8238,7 +8238,7 @@ Watkins ; 34, Herrick; 35, William Mason; 36, Hill; 37, Dana;
   
 38, Shakespear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8$39/pct:10.341495,15.471869,38.176546,55.739564/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8&#0036;39/pct:10.341495,15.471869,38.176546,55.739564/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8924,7 +8924,7 @@ Beattie; 26, Cowper; 27, Sir Walter Devanant;
 85, William Mason; 86, Pill; 87, Dana; 38,  
 Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1889-01_69_1$81/pct:19.332797,17.016575,74.196141,77.679558/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1889-01_69_1&#0036;81/pct:19.332797,17.016575,74.196141,77.679558/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9063,7 +9063,7 @@ Walter Davenant; 22, Gray; 23, Willis; 24,
 Addison; 25, Dryden; 26, Francis Charles;  
 27, Watkins; 28, Herrick ; 29, Wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19$2/pct:23.497554,22.628032,15.234102,18.746631/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19&#0036;2/pct:23.497554,22.628032,15.234102,18.746631/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10021,7 +10021,7 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 88—For, live we how we can, yet die we must.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11$9/pct:38.018535,19.370651,23.300971,25.189753/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11&#0036;9/pct:38.018535,19.370651,23.300971,25.189753/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11096,7 +11096,7 @@ The trust that’s given guard, and to your-
 self be just, —Dana.  
 For live we how ‘we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1$1/pct:66.346407,23.933599,11.621479,11.798697/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1&#0036;1/pct:66.346407,23.933599,11.621479,11.798697/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

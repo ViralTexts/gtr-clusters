@@ -287,7 +287,7 @@ The boy said: “‘I don’t want your money, old fellow;
 you take it and have your hair cut.””? Saying which he  
 scampered off.—Augusta (Ga.) Chronicle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_central-law-journal_1887-03-11_24$23/pct:48.694030,38.414634,34.925373,34.679878/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_central-law-journal_1887-03-11_24&#0036;23/pct:48.694030,38.414634,34.925373,34.679878/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,7 +1346,7 @@ The boy said:
 old fellow; you take it and have your hair  
 cut.’’ Saying which he scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-05-30_18_22$6/pct:54.950350,22.696208,11.813668,12.742504/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-05-30_18_22&#0036;6/pct:54.950350,22.696208,11.813668,12.742504/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1391,7 +1391,7 @@ money, old fellow ; you take {t and have
 your hair cut.” Saying which he scam  
 pered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-06-16_35_24$30/pct:50.288562,40.598138,20.304302,22.564470/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-06-16_35_24&#0036;30/pct:50.288562,40.598138,20.304302,22.564470/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,7 +2116,7 @@ ing, he held out his hand for the money.
 “Well, my lad,” said the professor,  
 ‘vou’ ve earned your money ; here it is.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2$22/pct:28.144989,13.533058,21.082090,16.590909/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2&#0036;22/pct:28.144989,13.533058,21.082090,16.590909/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2173,7 +2173,7 @@ his hand for the money.
 ‘* Well, my lad,” said the professor, ‘* you’ve  
 earned your money; here it is.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1$34/pct:12.360939,31.556373,24.721879,12.132353/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1&#0036;34/pct:12.360939,31.556373,24.721879,12.132353/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -255,7 +255,7 @@ At home, I:ke neighbour Jim,
 I&#x27;m very sure this accident  
 Had not befallen him!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28$7/pct:36.951754,48.669579,56.359649,44.360604/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28&#0036;7/pct:36.951754,48.669579,56.359649,44.360604/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ At home like neighbor Jim
 } TH bet « cent the accudent  
 Would not have happened hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1844-08-31_25_1205$3/pct:45.692568,23.884286,8.530405,7.283035/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1844-08-31_25_1205&#0036;3/pct:45.692568,23.884286,8.530405,7.283035/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ W hile strofling through the wood,
 A tree fell dawa apon his crown,  
 “And killed tim-—as it eh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-cultivator_1844-10-05_6_40$6/pct:70.642857,92.442761,16.071429,1.136168/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-cultivator_1844-10-05_6_40&#0036;6/pct:70.642857,92.442761,16.071429,1.136168/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ At home like neighbor Jim,
 I&#x27;ll) bet a cent the accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1844-10-24_12_43$1/pct:52.528302,30.123385,9.283019,7.653750/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1844-10-24_12_43&#0036;1/pct:52.528302,30.123385,9.283019,7.653750/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would never have happened hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-cultivator_1845-07-26_7_30$3/pct:82.862524,20.065281,10.098870,6.132967/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-cultivator_1845-07-26_7_30&#0036;3/pct:82.862524,20.065281,10.098870,6.132967/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would never have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7$7/pct:16.056485,73.991597,18.017782,11.974790/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7&#0036;7/pct:16.056485,73.991597,18.017782,11.974790/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ crown and killed him—as it should. Had he been
 reading the news, at home, like neighbor Jim, I&#x27;ll beta  
 cent that accident would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1867-05-23_40_21$2/pct:24.777228,27.058030,21.163366,4.537787/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1867-05-23_40_21&#0036;2/pct:24.777228,27.058030,21.163366,4.537787/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1749,7 +1749,7 @@ At home, like Neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would never have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1871-10-12_44_41$7/pct:31.214848,38.313388,14.820022,6.899776/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1871-10-12_44_41&#0036;7/pct:31.214848,38.313388,14.820022,6.899776/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2039,7 +2039,7 @@ At home, like neighbor Jim,
 I&#x27;d bet a cent, this accident  
 Had not befallen him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9$8/pct:48.887344,71.286031,48.296245,16.491131/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9&#0036;8/pct:48.887344,71.286031,48.296245,16.491131/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

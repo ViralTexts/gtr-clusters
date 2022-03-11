@@ -198,7 +198,7 @@ meet thine eye, that thou mavest understand it
 mediately for it, and pay in advance, and it shall be well with thee  
 and thy little one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13$7/pct:64.190628,70.325834,27.582535,17.513576/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13&#0036;7/pct:64.190628,70.325834,27.582535,17.513576/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ eyes of the printer.
   
 Neither peep over the outside while it is be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1844-04-19_25_16$3/pct:40.713802,14.576547,12.077131,8.740499/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1844-04-19_25_16&#0036;3/pct:40.713802,14.576547,12.077131,8.740499/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ him to keep such things to himself.
 When thou dost enter into a printing cffice,  
 have a care. to thyself that thou dost not touch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7$3/pct:55.320755,20.803063,15.761006,5.605733/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7&#0036;3/pct:55.320755,20.803063,15.761006,5.605733/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ of the printer.
   
 Neither peep over the outside while it is bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7$3/pct:55.245283,26.448066,15.723270,3.730611/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7&#0036;3/pct:55.245283,26.448066,15.723270,3.730611/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ other — subscribe immediately for it and pay
 in advance, nnd it shall be well with thee and  
 thy little ones, — Exeter News Letter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-09-10_28_37$3/pct:33.032194,74.309979,11.842970,13.972930/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-09-10_28_37&#0036;3/pct:33.032194,74.309979,11.842970,13.972930/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1902,7 @@ sight of the printer.
 is not ready to meet thine eye, that thou may- |  
 est read it clearly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50$3/pct:9.149146,47.072193,12.302891,5.481283/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50&#0036;3/pct:9.149146,47.072193,12.302891,5.481283/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1926,7 @@ often requires him to keep such things to him-
 self.  
 7. Never say to the publisher that thou wilt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50$3/pct:9.067017,55.494652,12.385020,4.893048/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50&#0036;3/pct:9.067017,55.494652,12.385020,4.893048/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2119,7 +2119,7 @@ and pay in advance, and it shall be well with
   
 ‘hee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1849-03-17_4_26$5/pct:67.705167,74.092742,19.554205,16.061828/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1849-03-17_4_26&#0036;5/pct:67.705167,74.092742,19.554205,16.061828/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2181,7 +2181,7 @@ and L&#x27;au&#x27;iffl C&#x27;rist an exnerience which no reader Overcome evil 
   
 capable of appreciati.ig the noblest traits ot character, whp God called himself a Father, he chose a name dm requires him to keep such tilings to liim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1849-03-29_20_13$3/pct:17.008143,47.672658,38.008931,1.759697/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1849-03-29_20_13&#0036;3/pct:17.008143,47.672658,38.008931,1.759697/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2327,7 +2327,7 @@ for his duty requires hint to keep such things to himself.
 When thou dost enter into his office, have a care unto thyselfthat thou  
 dost not look at what gay be lying open, for that is not meet in the sigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25$4/pct:68.699597,85.211268,27.032930,4.412412/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25&#0036;4/pct:68.699597,85.211268,27.032930,4.412412/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3631,7 +3631,7 @@ reading a proof. Prefer the town paper to any
 other ; subscribe immediately for it, and pay in  
 advance,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974$6/pct:46.717172,54.599567,35.563973,16.423160/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974&#0036;6/pct:46.717172,54.599567,35.563973,16.423160/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3713,7 +3713,7 @@ requires him to keep such things to himself. When thou dost enter into l
 his office, have care to thyself that thou dost not look at what may be ly- |  
 ing open, for that is not meet in the sight of good breeding. Neithe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28$9/pct:15.945406,74.864499,37.300266,4.076332/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28&#0036;9/pct:15.945406,74.864499,37.300266,4.076332/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

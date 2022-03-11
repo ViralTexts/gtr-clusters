@@ -1009,7 +1009,7 @@ when compared with those who have not, are
   
 the proceedings is, and must be, that «the denomi- j Tun iHariHATioR or xun Soriptorbs, and other and emphasis, and consequently read more under
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1852-11-11_23_46$3/pct:3.122509,12.829980,38.320489,2.953664/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1852-11-11_23_46&#0036;3/pct:3.122509,12.829980,38.320489,2.953664/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1910,7 +1910,7 @@ them familiar with the location of the im-
   
 portant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35$2/pct:5.777538,5.535324,21.004320,11.744355/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35&#0036;2/pct:5.777538,5.535324,21.004320,11.744355/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1941,7 +1941,7 @@ their use of language.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35$2/pct:6.074514,21.176256,21.625270,12.381646/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35&#0036;2/pct:6.074514,21.176256,21.625270,12.381646/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2279,7 +2279,7 @@ Bhan ases, and consequently ‘read more understand:
 ingly.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15$3/pct:24.203314,57.634576,11.687380,5.065994/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15&#0036;3/pct:24.203314,57.634576,11.687380,5.065994/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3128,7 +3128,7 @@ doings, on the globe.
 so familiar with every variety of style, in the news-  
 paper, from the common place advertisemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10$20/pct:49.044586,19.354839,37.685775,24.608295/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10&#0036;20/pct:49.044586,19.354839,37.685775,24.608295/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3256,7 +3256,7 @@ greater variety of snbjects, and expressing their
 views with greater fluency, clearness and cor-  
 rectness in the use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48$3/pct:40.828947,41.558704,11.842105,14.311741/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48&#0036;3/pct:40.828947,41.558704,11.842105,14.311741/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3945,7 +3945,7 @@ a greater variety of subjects, and expressing their views
 with greater fluency, clearness, and correctness, in their  
 use of language, than those whoare unfamiliar wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-11-14_8_194$2/pct:5.810724,21.654040,55.586413,70.596591/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-11-14_8_194&#0036;2/pct:5.810724,21.654040,55.586413,70.596591/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

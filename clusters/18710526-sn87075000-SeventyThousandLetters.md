@@ -47,7 +47,7 @@ four hundred unstamped, misdirected, unaddress-
 ed, or unsealed letters and packages daily accu-  
 mulate in the New York Post-oflice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3$6/pct:51.206716,64.324818,19.543547,13.357664/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3&#0036;6/pct:51.206716,64.324818,19.543547,13.357664/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ the space of two days.
   
 A Paris correspondent writes: “All the ani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5$2/pct:59.654472,44.530303,15.853659,7.606061/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5&#0036;2/pct:59.654472,44.530303,15.853659,7.606061/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

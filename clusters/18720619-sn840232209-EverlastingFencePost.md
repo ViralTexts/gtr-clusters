@@ -164,7 +164,7 @@ into the ground. Time and weather seemed to have
 no effect on them. The posts can be prepared for less  
 than two cents apiece.” We believe that this is a goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11$19/pct:39.244186,9.539943,27.378436,11.626248/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11&#0036;19/pct:39.244186,9.539943,27.378436,11.626248/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ and charcoal are applic d.”
   
 A Woman Inventor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4$2/pct:59.312749,38.907164,25.124502,8.077485/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4&#0036;2/pct:59.312749,38.907164,25.124502,8.077485/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ it in pulverized charcoal to the consistency
 of paint. Put a coat of this over the tim-  
 ber, and there is not a man that will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18$0/pct:37.975823,82.308307,9.323560,9.724441/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18&#0036;0/pct:37.975823,82.308307,9.323560,9.724441/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2035,7 +2035,7 @@ timber for fence posts. I have taken out bass-
 wood posts after having been set seven years,  
 which were as sound when taken out as whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2$61/pct:20.049917,59.382284,34.359401,21.066434/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2&#0036;61/pct:20.049917,59.382284,34.359401,21.066434/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3367,7 +3367,7 @@ of this over the timber, and there is not a
 man that will live long enough to see it  
 rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44$0/pct:82.337884,81.762080,12.337884,12.867647/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44&#0036;0/pct:82.337884,81.762080,12.337884,12.867647/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

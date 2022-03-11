@@ -881,7 +881,7 @@ the heel, where they both turned upward to the
 toes. One of these roots formed a slight crook at  
 the knee, which made the whole bear a very clos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8$3/pct:30.657895,29.311741,11.671053,3.289474/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8&#0036;3/pct:30.657895,29.311741,11.671053,3.289474/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ semblance to the human form. There were the graves, but the oc-
 cupants had disappeared; the very bones had vanished. There  
 stood the thief — t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_monthly-religious-magazine-and-theological-review_1868-12_40_6$75/pct:20.759369,21.693735,66.074951,16.415313/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_monthly-religious-magazine-and-theological-review_1868-12_40_6&#0036;75/pct:20.759369,21.693735,66.074951,16.415313/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1442,7 +1442,7 @@ branches, sending one along each leg to the heel, |
 where they both turned, upward, to the toes.  
 One of these roots formed a slight crook at the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_historical-magazine-biography-of-america_1870-07_8_1$57/pct:21.685304,69.483568,35.862620,8.274648/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_historical-magazine-biography-of-america_1870-07_8_1&#0036;57/pct:21.685304,69.483568,35.862620,8.274648/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1582,7 +1582,7 @@ the heel, ‘where they both turned upw yard
 to the toes. One of these roots formed  
 a slight crook at the knee, which make
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_wellmans-miscellany_1871-12_4_6$10/pct:9.355828,31.320028,34.304703,11.379552/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_wellmans-miscellany_1871-12_4_6&#0036;10/pct:9.355828,31.320028,34.304703,11.379552/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

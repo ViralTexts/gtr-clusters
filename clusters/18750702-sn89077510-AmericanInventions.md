@@ -185,7 +185,7 @@ a the power-ehuttle, whic h permits an unlim-
 breadth of the The  
 American. Navigation by stea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889$6/pct:72.077603,84.126181,19.646365,3.340081/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889&#0036;6/pct:72.077603,84.126181,19.646365,3.340081/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ which we have not largely contributed. The
 cotton-gin, without which the machine-spin-  
 ner and the power-loom would be helpless
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2$54/pct:4.250000,38.211634,37.400000,3.496287/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2&#0036;54/pct:4.250000,38.211634,37.400000,3.496287/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ ean. The sand-biast is American. The
 gauge-lathe is American. The only successful  
 composing-machine for printers is American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326$28/pct:33.013699,8.879648,54.075342,82.852250/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326&#0036;28/pct:33.013699,8.879648,54.075342,82.852250/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ The electro-magnet, and its practical applica-
 tion, by Henry and Morse. 15. The only suc-  
 cessful composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15$4/pct:72.556685,82.470011,16.399531,9.923664/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15&#0036;4/pct:72.556685,82.470011,16.399531,9.923664/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ practical application, by Henry and Mors,
 15. the only successful composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234$5/pct:77.292111,32.503771,19.189765,16.063348/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234&#0036;5/pct:77.292111,32.503771,19.189765,16.063348/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -853,7 +853,7 @@ practical application, by Henry and Morse.
 15. the only successful composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47$5/pct:75.311791,65.620357,20.011338,14.171620/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47&#0036;5/pct:75.311791,65.620357,20.011338,14.171620/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1132,7 +1132,7 @@ large scale. 14. The electro-magnet, and its
 practical application, by Henry and Morse.  
 15. The only successful composing machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244$0/pct:70.314136,76.134644,20.837696,14.353253/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244&#0036;0/pct:70.314136,76.134644,20.837696,14.353253/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ large scale; fourteenth, the electro-magnet
 and its practical application; fifteenth, the  
 composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17$2/pct:8.616928,11.606042,19.633508,13.008631/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17&#0036;2/pct:8.616928,11.606042,19.633508,13.008631/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1921,7 +1921,7 @@ fourteenth, the electro-magnet and its practical
 application ; fifteenth, the composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25$6/pct:48.244048,55.671098,13.735119,6.668096/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25&#0036;6/pct:48.244048,55.671098,13.735119,6.668096/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2013,7 +2013,7 @@ sand-blast for carving; . 11. The gauge lathe;
 ing on a large scale; 14. The electric magnet  
 and its practical application. 15. The compos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4$6/pct:22.419725,33.565609,13.274083,4.438250/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4&#0036;6/pct:22.419725,33.565609,13.274083,4.438250/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2554,7 +2554,7 @@ The grain elevator. 13. Artificial ice making on a
 large scale. 14. The electro-magnet and its prac-  
 tical application. 15. The telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5$3/pct:65.758048,75.461538,27.829699,9.980769/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5&#0036;3/pct:65.758048,75.461538,27.829699,9.980769/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2584,7 +2584,7 @@ teenth, the electro-magnet and its practical
 application ; fifteenth, the composing ma-  
 chine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3$50/pct:46.961806,70.766129,34.201389,18.490783/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3&#0036;50/pct:46.961806,70.766129,34.201389,18.490783/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2727,7 +2727,7 @@ ing ; 11, the gauge lathe ; 12, the grain elevator ;
 13, artificial ice-making on a large scale ; 14, the  
 electric magnet and its practical application ; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1887-08-13_64_1665$10/pct:45.629529,53.902116,19.338768,5.208333/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1887-08-13_64_1665&#0036;10/pct:45.629529,53.902116,19.338768,5.208333/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2862,7 +2862,7 @@ vator; 13, artificial ice-making on a
 its practical application; 15, the tele-  
 phone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1887-09-07_64_36$6/pct:20.443645,38.112446,12.185252,5.547880/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1887-09-07_64_36&#0036;6/pct:20.443645,38.112446,12.185252,5.547880/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2889,7 +2889,7 @@ facture of horseshoes; 10, the sand-blast for carving; 11, the gauge lathe:
 12, the grain elevator; 13, artificial ice-making on a large scale ; 14 the  
 electric magnet and its practical application ; and 15, the telephone. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370$14/pct:47.204301,43.315832,36.102151,4.826333/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370&#0036;14/pct:47.204301,43.315832,36.102151,4.826333/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2957,7 +2957,7 @@ grain elevator; 13, artificial ice-making on a large
 scale; 14, the electric magnet and its practical ap¬  
 plication ; and 15, the telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1887-09-15_58_37$6/pct:36.001816,79.522110,14.058717,3.676073/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1887-09-15_58_37&#0036;6/pct:36.001816,79.522110,14.058717,3.676073/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4080,7 +4080,7 @@ the grain elevator; 13, artificial ice making on a large
 scale; 14, the electric magnet and its practical applica-  
 tion; 15, the telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_industry-week_1888-05-03_21_19$10/pct:61.542056,52.845528,25.911215,8.451897/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_industry-week_1888-05-03_21_19&#0036;10/pct:61.542056,52.845528,25.911215,8.451897/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4211,7 +4211,7 @@ grain elevator; 13, Artifictal ice-making on a large
 scale; 14, The electric magnet and its practical  
 application; 16, The telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1888-10-04_59_40$7/pct:23.967890,76.495267,13.331422,4.948365/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1888-10-04_59_40&#0036;7/pct:23.967890,76.495267,13.331422,4.948365/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

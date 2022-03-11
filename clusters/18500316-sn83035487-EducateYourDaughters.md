@@ -162,7 +162,7 @@ in the Union.
   
 Mr. Seward gave notice that be wopM, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_frederick-douglass-paper_1850-02-08_3_7$2/pct:22.401909,36.632231,45.241251,8.605372/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_frederick-douglass-paper_1850-02-08_3_7&#0036;2/pct:22.401909,36.632231,45.241251,8.605372/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ sons.” This on ¢ b , would educ ate their
 sons. This is to the point, and it js true  
 So nation can become fully and pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27$3/pct:52.113063,79.058160,13.474204,10.123698/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27&#0036;3/pct:52.113063,79.058160,13.474204,10.123698/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ the mothers are not to a good degree qualified
 to discharge the duties of the “ home work of  
 education.”—Rev. S. Dyer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1850-03-21_23_47$3/pct:54.825462,27.940141,20.636550,14.806338/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1850-03-21_23_47&#0036;3/pct:54.825462,27.940141,20.636550,14.806338/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ fully and permanently civilized and enlightened,
 when the mothers are not, to a good degree, quali-  
 fied to discharge the duties of home education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9$15/pct:19.796380,45.513460,35.180995,22.308076/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9&#0036;15/pct:19.796380,45.513460,35.180995,22.308076/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ lized and enlightened, when the mothers are not,
 to a good degree, qualified to discharge the du-  
 ties of home education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1851-06_3_6$30/pct:48.823925,67.041522,36.626344,21.561419/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1851-06_3_6&#0036;30/pct:48.823925,67.041522,36.626344,21.561419/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ were all like the mother, and soon the father lost
 his interest in both wife and children. ‘  
 | now,’ said he, ‘if we could educate only one class
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-01-06_10_1$1/pct:61.003717,79.613466,12.788104,5.782419/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-01-06_10_1&#0036;1/pct:61.003717,79.613466,12.788104,5.782419/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ enlightened where the mothers are not, toa
 good degree, qualified to discharge the duties  
 of the home work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1855-06-14_29_8$3/pct:53.128286,11.170213,20.846477,14.574468/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1855-06-14_29_8&#0036;3/pct:53.128286,11.170213,20.846477,14.574468/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2269,7 +2269,7 @@ mothers are not in a good degree qualified to discharge
   
 the duties of the home-work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1859-07-30_1_5$2/pct:34.431940,75.082992,26.580922,15.602421/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1859-07-30_1_5&#0036;2/pct:34.431940,75.082992,26.580922,15.602421/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2465,7 +2465,7 @@ can become fully enlightened, when mothers are
 not in a good degree qualified to discharge the  
 duties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1859-09_14$40/pct:11.565836,61.293008,36.610320,21.642619/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1859-09_14&#0036;40/pct:11.565836,61.293008,36.610320,21.642619/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2565,7 +2565,7 @@ true. No nation can become fully enlightened,
   
 celebrated in physics for the invention of the! when mothers are not in a good degree quali
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1859-09-24_16_28$13/pct:16.757812,16.721082,75.273438,22.294776/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1859-09-24_16_28&#0036;13/pct:16.757812,16.721082,75.273438,22.294776/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2789,7 +2789,7 @@ gence.
 in a good degree qualified to discharge the duties of %  
 homework of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31$7/pct:41.964286,15.183718,51.926692,18.858069/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31&#0036;7/pct:41.964286,15.183718,51.926692,18.858069/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3138,7 +3138,7 @@ he, ‘if we would educate but one class of our children,
 we would choose the girls; for when they become mothers,  
 they educate their sons.’ This is the point, and it is true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31$7/pct:39.702309,56.495205,27.430134,7.802964/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31&#0036;7/pct:39.702309,56.495205,27.430134,7.802964/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3372,7 +3372,7 @@ choose the girls, for when they become mothers,
 they educate their sons. This is the point, and it  
 is true. No nation can become fully enlightene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1864-12_40_6$9/pct:67.419738,49.787335,23.900119,17.367675/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1864-12_40_6&#0036;9/pct:67.419738,49.787335,23.900119,17.367675/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3853,7 +3853,7 @@ j^er things he informed me that at their
 Jitart they made a great mistake—they only  
 vent their boys to school.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34$0/pct:6.645161,83.264652,13.661290,4.544414/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34&#0036;0/pct:6.645161,83.264652,13.661290,4.544414/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3873,7 +3873,7 @@ jjrle, for when they become mothers, they
 httneate their sons. This is the point, and  
 It is true. No nation can become folly en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34$0/pct:7.354839,89.102564,13.064516,4.475733/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34&#0036;0/pct:7.354839,89.102564,13.064516,4.475733/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3917,7 +3917,7 @@ had landed with their equally wretched pa-¢choose the girls;
   
 rents on the wharf, thrown by hundreds at aSthers they educate their sons.” This is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1865-09_26$33/pct:25.740132,64.563365,68.256579,18.929712/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1865-09_26&#0036;33/pct:25.740132,64.563365,68.256579,18.929712/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4015,7 +4015,7 @@ lean become fully enlightened where mothers
 are not in a good degree qualified to discharge  
 |the duties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2$26/pct:42.254174,65.969037,41.141002,22.391055/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2&#0036;26/pct:42.254174,65.969037,41.141002,22.391055/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

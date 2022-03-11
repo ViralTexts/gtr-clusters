@@ -1803,7 +1803,7 @@ lit} onty 7 reach the age of 66, and net more than
 one in 500 live to dU years uf age,”’—Newarh Lu.  
 if
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-11-05_9_12$0/pct:75.620767,71.476793,13.628668,7.415612/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-11-05_9_12&#0036;0/pct:75.620767,71.476793,13.628668,7.415612/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2152,7 +2152,7 @@ wards, The number of marriages is in proportion
 a 76 to every 1,000 individuals. Marriages are  
 more frequent after the equinoxes: that is during
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1854-02-18_10_48$14/pct:9.496124,42.912621,75.891473,28.859223/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1854-02-18_10_48&#0036;14/pct:9.496124,42.912621,75.891473,28.859223/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2425,7 +2425,7 @@ of bearing arms is calculated at one-fourth of the
   
 population.— English Quarterly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5$19/pct:54.384615,55.721898,36.884615,36.056838/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5&#0036;19/pct:54.384615,55.721898,36.884615,36.056838/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2442,7 +2442,7 @@ The whole number of languages spoken in the world amounts
 to 3054—587 in Enrope, 386 in Asia, 276 in Africa, and 1264 in  
 America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18$14/pct:35.589094,12.917781,27.555988,1.854947/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18&#0036;14/pct:35.589094,12.917781,27.555988,1.854947/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3412,7 +3412,7 @@ years of age than men have, but fewer afterwards. The number of marriages is in
 proportion of 75 to every 1,C00 individuals. Marriages are more frequent after the  
 equinoxes—that is, during the months of June an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1854-12_31_6$98/pct:15.125000,66.384832,68.125000,18.985396/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1854-12_31_6&#0036;98/pct:15.125000,66.384832,68.125000,18.985396/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4170,7 +4170,7 @@ that is, during the months of June and December. Those born in the
 spring are the most robust. Births and deaths are most frequent by night.  
 The number o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26$9/pct:41.324477,70.398429,26.046699,11.630191/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26&#0036;9/pct:41.324477,70.398429,26.046699,11.630191/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4195,7 +4195,7 @@ age of 7 years; one-half before reaching 17; and those who thi
 age enjoy a facility refused to one-bait ihe’ human species et “  
 pred gee br Ag progres 100 years of life: to every 100, only p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23$7/pct:11.432376,80.093071,26.498003,5.442089/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23&#0036;7/pct:11.432376,80.093071,26.498003,5.442089/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4328,7 +4328,7 @@ Marriages are more frequent after the equinoxes, that is, during the months of J
 and December. Those born in the spring are the most robust. Births and deaths are  
 most frequent by night. The number o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2$42/pct:8.695652,79.545455,74.378882,8.292383/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2&#0036;42/pct:8.695652,79.545455,74.378882,8.292383/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5649,7 +5649,7 @@ of the human species. To every 1,000 persons
 only one reaches one hundred years of life; to  
 every one hundred, only six reach the age o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101$10/pct:69.769155,58.884298,18.467583,6.141998/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101&#0036;10/pct:69.769155,58.884298,18.467583,6.141998/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5672,7 +5672,7 @@ day. The number of men capable of bearing
 arras b calculated at oue-fourtli of the popula¬  
 tion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101$10/pct:69.769155,72.464313,18.516699,6.705485/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101&#0036;10/pct:69.769155,72.464313,18.516699,6.705485/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6043,7 +6043,7 @@ deaths are more frequent by night than by day.
 The number of men capable of bearing arms is  
 calculated at one-fourth of the population.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6$76/pct:45.360429,35.252366,35.506135,35.804416/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6&#0036;76/pct:45.360429,35.252366,35.506135,35.804416/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6219,7 +6219,7 @@ Those born in spring are generally of a
 more robust constitution than others.  
 Births are more frequent by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1889-01-17_39_3$30/pct:5.865779,9.197787,40.138320,82.676349/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1889-01-17_39_3&#0036;30/pct:5.865779,9.197787,40.138320,82.676349/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

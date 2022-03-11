@@ -97,7 +97,7 @@ from the surface, and from here we commence the exploring of the
 “bottomless pit.” After dropping a rope down, we found that it was  
 only 6 feet deep, though it looked black enough for anything. Climb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4$248/pct:11.610672,41.997519,66.304348,44.323821/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4&#0036;248/pct:11.610672,41.997519,66.304348,44.323821/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ can be seen that one course in the Haram wall, near the bottom, is
 quite smooth all over, the stone being finely dressed, all other courses  
 being only half-dressed round the drafts. One also sees two stou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64$65/pct:16.119097,23.512748,68.891170,71.033994/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64&#0036;65/pct:16.119097,23.512748,68.891170,71.033994/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ here we commence the exploring of the ‘ bottomless pit.’ After
 dropping a rope down, we found that it was only six feet deep, though it  
 looked black enough for anything. Climbing down, we found ourselve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64$66/pct:18.377823,11.366856,67.248460,9.985836/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64&#0036;66/pct:18.377823,11.366856,67.248460,9.985836/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ dropped a rope down into it, I&gt; discover that it
 really is only six feet deep, though certainly it  
 looked black enough for anything. On.climbin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144$9/pct:14.025357,13.434829,76.743265,76.308761/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144&#0036;9/pct:14.025357,13.434829,76.743265,76.308761/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ told the sergeant”—Sergeant Birtles—“that
 they had found a bottomless pit. I went down  
 to the spot and examined it.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80$9/pct:70.914346,29.954355,21.702575,7.208064/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80&#0036;9/pct:70.914346,29.954355,21.702575,7.208064/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ sw od a oo cots Weigle auousaal took place in the bold that day. We up in her fi
 ‘ ; row -/ could play at dominoes or dice in the hold, | went of the fishery question very much. The  
 7 PA gg: deagrad geek The following description of his explorations at My peters nt on board the fishing junk was | question which are f arises now is, if th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25$0/pct:14.705882,67.003833,78.676471,2.597956/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25&#0036;0/pct:14.705882,67.003833,78.676471,2.597956/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ have experienced the pe-| which were probably used for the storage ot
 culiar effect of the rattling | food, and others as aqueduets and cisterns.  
 of the débris upon the} And the whole result more than confirms th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:29.995608,33.400693,55.906895,9.844111/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:29.995608,33.400693,55.906895,9.844111/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ frames, with the prospect at | ideas of Jewish architectural grandeur which
 any moment of the boards | the books of the Bible and the pages of Jose-  
 being crushed in by a large | phus combine to give, but which have hithert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.039526,43.331409,55.950812,3.752887/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.039526,43.331409,55.950812,3.752887/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ being crushed in by a large | phus combine to give, but which have hithert
 upon the workmen. The Along the southern wall his discoveries were  
 non-commissioned officers | scarcely less interesting. Here he found 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.215195,49.653580,55.862978,2.453811/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.215195,49.653580,55.862978,2.453811/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ commenced on the western | The following description of his explorations at
 wall, at a point near what is | this point, taken from one of his letters written  
 known as Wilson’s Arch. | at the time, will afford the reader a mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.215195,53.262125,55.994730,7.476905/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.215195,53.262125,55.994730,7.476905/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ known as Wilson’s Arch. | at the time, will afford the reader a mor
 covered by Captain Wilson, | given by any general description :  
 who had not the means,| ‘On Friday, having arrived at a depth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$39/pct:30.346948,63.048499,55.775143,2.742494/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.346948,63.048499,55.775143,2.742494/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ descent.
 ‘The shaft mouth is on the south side of the  
 Sanctuary wall, near the southwest angle, among | serving also, at the same time, that two side
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$40/pct:12.214411,6.553118,70.694200,44.688222/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;40/pct:12.214411,6.553118,70.694200,44.688222/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ in the most disagreeable manner.
 Here five more frames have been  
 fixed to keep these stones steady.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$40/pct:12.302285,52.540416,26.801406,38.394919/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;40/pct:12.302285,52.540416,26.801406,38.394919/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ On peering down from this ledge one sees the
 Sanctuary wall, with its projecting courses,  
 until they are lost in the darkness below; ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$40/pct:48.198594,46.304850,34.666081,3.493072/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;40/pct:48.198594,46.304850,34.666081,3.493072/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ difficulty of his position is indicated by the fact
 that he had to back out 200 feet before he could  
 get to a point where he could turn his head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254$41/pct:52.213542,8.965517,35.677083,48.247126/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;41/pct:52.213542,8.965517,35.677083,48.247126/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

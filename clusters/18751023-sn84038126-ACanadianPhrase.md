@@ -58,7 +58,7 @@ ing thump on the back by a stalwart young emigrant, who cried
 out, ‘ Right you are, Sir! That’s what I’ve been telling Emily.’”  
 In every line Lord Dufferin gives proof of the long-transmitte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413$0/pct:46.251673,65.980285,38.688086,11.215772/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413&#0036;0/pct:46.251673,65.980285,38.688086,11.215772/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ anecdote made familiar ‘by going the round of
 the papers, and one hears every where, ‘‘ That&#x27;s  
 what I&#x27;ve been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295$148/pct:11.430678,10.614669,66.297935,70.041322/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295&#0036;148/pct:11.430678,10.614669,66.297935,70.041322/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ people a new by-word, which has spread with | who labored under the delusion tha
 electric rapidity from one end of Canada to the | sessed by a devil applied to him to take away the  
 other. On his voyage out, being called upon | evil spirit which tormented her. ‘The doctor at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295$148/pct:11.430678,77.195248,66.666667,7.076446/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295&#0036;148/pct:11.430678,77.195248,66.666667,7.076446/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ other. On his voyage out, being called upon | evil spirit which tormented her. �
 perhaps no better idea could be given of the dif- | consider her case. On the morrow the unhappy  
 ferences between the old country and their new | woman was punctual in her attendance. Hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295$148/pct:11.467552,88.533058,66.703540,2.505165/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295&#0036;148/pct:11.467552,88.533058,66.703540,2.505165/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ This is what gave rise to the phrase, and
 now one hears it everywhere. ‘‘That’s what  
 I’ve been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207$13/pct:7.809168,43.118401,21.295309,3.582202/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207&#0036;13/pct:7.809168,43.118401,21.295309,3.582202/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

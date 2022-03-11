@@ -271,7 +271,7 @@ Beautiful hands are those that do
   
 Work that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47$5/pct:12.226313,33.021077,12.885100,6.615925/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47&#0036;5/pct:12.226313,33.021077,12.885100,6.615925/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ Where brown leaves fall, where drifts lie deep,
   
 Over worn-out hands—Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47$5/pct:12.245689,44.306206,14.047665,5.459602/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47&#0036;5/pct:12.245689,44.306206,14.047665,5.459602/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—Oh, beautiful sleep !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18$3/pct:25.868421,56.474359,10.000000,3.814103/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18&#0036;3/pct:25.868421,56.474359,10.000000,3.814103/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn-out hands—Oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8$1/pct:46.879433,49.834872,16.737589,7.037006/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8&#0036;1/pct:46.879433,49.834872,16.737589,7.037006/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ Beautiful graves, where grasses creep,
   
 Over worn-out hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33$3/pct:28.513158,14.262821,9.407895,3.685897/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33&#0036;3/pct:28.513158,14.262821,9.407895,3.685897/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn out hands — Oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11$7/pct:17.857143,72.114625,21.371429,7.588933/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11&#0036;7/pct:17.857143,72.114625,21.371429,7.588933/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands,—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169$2/pct:6.780402,36.847134,20.691164,6.910828/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169&#0036;2/pct:6.780402,36.847134,20.691164,6.910828/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn-out hands, — oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1878-05-23_55_21$5/pct:77.399289,24.490248,11.329976,4.421543/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1878-05-23_55_21&#0036;5/pct:77.399289,24.490248,11.329976,4.421543/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ Where fern leaves fall, where drifts lie deep
   
 Over worn-out hands; O beautiful sleep!’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16$4/pct:42.883361,49.569477,13.580750,1.543943/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16&#0036;4/pct:42.883361,49.569477,13.580750,1.543943/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1126,7 +1126,7 @@ Where leaves fall and drifts lie deep
   
 Over worn-out hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1882-01-24_13_4$5/pct:8.443510,44.824132,10.336538,4.619323/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1882-01-24_13_4&#0036;5/pct:8.443510,44.824132,10.336538,4.619323/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ Where brown leaves fall, where drifts lie
 deep,  
 Over worn out hands—Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1886-12_83_6$21/pct:50.645439,69.069767,33.433735,16.308140/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1886-12_83_6&#0036;21/pct:50.645439,69.069767,33.433735,16.308140/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1540,7 @@ Over worn-out hands? oh. beautiful sleep
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands,—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7$22/pct:54.820766,87.301216,23.856613,1.777362/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7&#0036;22/pct:54.820766,87.301216,23.856613,1.777362/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1757,7 +1757,7 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn out hands—oh, beautiful sleep.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1893-09-23_50_38$15/pct:61.607143,22.082954,24.353448,9.389243/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1893-09-23_50_38&#0036;15/pct:61.607143,22.082954,24.353448,9.389243/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1780,7 +1780,7 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, and drifts lie deep  
 Over worn-out hands—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4$82/pct:15.586420,13.095238,32.253086,14.064230/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4&#0036;82/pct:15.586420,13.095238,32.253086,14.064230/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1803,7 +1803,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn-out hands —oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1894-12-01_51_48$13/pct:61.188369,31.618962,25.758534,9.279964/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1894-12-01_51_48&#0036;13/pct:61.188369,31.618962,25.758534,9.279964/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2009,7 +2009,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over wornout hands—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12$17/pct:66.080692,14.308553,23.083573,3.357314/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12&#0036;17/pct:66.080692,14.308553,23.083573,3.357314/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

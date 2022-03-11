@@ -86,7 +86,7 @@ healthy article of the Materia Alimentaria, &amp;c.
   
 Expenses or Wars.—Since the year 100
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1834-08-22_14_54$3/pct:6.309650,8.127934,58.377519,87.402191/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1834-08-22_14_54&#0036;3/pct:6.309650,8.127934,58.377519,87.402191/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ which almost all unacclimated persons are liable.
 or in the form ofa catsup, with their daily food, as it is the most healthy arti-  
 cle of the Materia Alimentary, &amp;ec. &amp;c.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cultivator_1835-03_1$93/pct:50.813449,59.236948,38.259219,13.313253/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cultivator_1835-03_1&#0036;93/pct:50.813449,59.236948,38.259219,13.313253/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ sup, With their daily food, as it is the mest healt!)
 article of the Materia Alimentaria, &amp;c. &amp;ce,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1835-08-21_3_29$2/pct:55.297757,65.497789,24.400619,21.405702/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1835-08-21_3_29&#0036;2/pct:55.297757,65.497789,24.400619,21.405702/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ either raw, cooker, or in form of a catsup with -
 their daily food, as it is the opost healthy article _  
 of the Materia Alimentaria, &amp;e.—[M. Y. Times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18$5/pct:66.047297,49.202128,28.659910,22.582205/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18&#0036;5/pct:66.047297,49.202128,28.659910,22.582205/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ taria, &amp;c.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-09-02_14_8$5/pct:67.370644,40.144231,26.979937,23.076923/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-09-02_14_8&#0036;5/pct:67.370644,40.144231,26.979937,23.076923/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ use of it, either raw, watt or in the form of a
 catsup, with their daily food, as it is the most  
 healthy article of the materia alimentaria, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1835-09-19_5_38$7/pct:12.937385,55.276639,26.634438,21.465164/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1835-09-19_5_38&#0036;7/pct:12.937385,55.276639,26.634438,21.465164/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ unacclimated persons are liable.
 in the form of a catsup, with their daily food, as it is the most healthy article of  
 the materia alimentaria, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1835-10_8_10$62/pct:14.871017,38.131313,63.808801,16.850321/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1835-10_8_10&#0036;62/pct:14.871017,38.131313,63.808801,16.850321/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ use of it, either raw, cooked, or in form of a cat-
 sup, with their daily food, as it 1s the most healthy  
 article af the Materia Alimentaria, §c. &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_tennessee-farmer-containing-original-and-selected-essays_1835-10_1_11$11/pct:15.458333,43.721198,37.791667,32.949309/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_tennessee-farmer-containing-original-and-selected-essays_1835-10_1_11&#0036;11/pct:15.458333,43.721198,37.791667,32.949309/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ diarnheea with this alticle alone.
 it is almost a sovereign remedy for dyspepsia, or  
 indigestion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1835-10-09_16_41$3/pct:24.950916,37.659709,13.743455,7.463631/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1835-10-09_16_41&#0036;3/pct:24.950916,37.659709,13.743455,7.463631/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ use of it, either raw, cooked, or in form of a cat-
 sup. with their daily food, as it is the most healthy  
 article of the Materia Alimentaria, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_farmers-register-a-monthly-publication_1835-11_3_7$9/pct:53.080808,56.284744,39.898990,28.011118/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_farmers-register-a-monthly-publication_1835-11_3_7&#0036;9/pct:53.080808,56.284744,39.898990,28.011118/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ ria Alimentaria, &amp;c.
   
 Now if these positions be true, it is o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mechanics-magazine_1835-12_6_6$37/pct:18.006135,13.720000,72.300613,74.220000/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mechanics-magazine_1835-12_6_6&#0036;37/pct:18.006135,13.720000,72.300613,74.220000/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ use of it, either raw, cooked, or in form of catchup,
 with their daily food, as it is one of the most healthy  
 articles of the Materia Alimentaria, etc. etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12$112/pct:59.687500,66.639209,26.750000,21.087315/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12&#0036;112/pct:59.687500,66.639209,26.750000,21.087315/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ the whole, it may be looked upon as one of the
 most wholesome gnd valuable esculents, that be- |  
 long to the vegetable kingdom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12$113/pct:11.875000,24.855848,27.062500,2.697694/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12&#0036;113/pct:11.875000,24.855848,27.062500,2.697694/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ versity of Maryland, says,—‘‘ It may be looked
 upon as one of the most wholesome and valuable  
 esculents that belong te the vegetable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1836-12-17_6_51$1/pct:14.456722,35.399590,26.035912,2.851776/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1836-12-17_6_51&#0036;1/pct:14.456722,35.399590,26.035912,2.851776/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ Virginia, and now of the University of Maryland, says,—‘“ It may
 be looked upon as one of the most wholesome and valuable escu-  
 lents that belong to the vegetable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3$37/pct:32.203947,18.981481,59.375000,15.319865/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3&#0036;37/pct:32.203947,18.981481,59.375000,15.319865/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ land, says,—*‘ Jt may be looked upon as one of the most
 wholesome and valuable esculents that belong to the ve-  
 getable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1837-04_10_4$21/pct:20.776256,58.859196,64.383562,14.349876/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1837-04_10_4&#0036;21/pct:20.776256,58.859196,64.383562,14.349876/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ of Maryland, says,—* It may be looked upon as
 one of the most whoiesome and valuable esculents  
 that belorg to the vegetable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42$0/pct:5.868421,54.686476,26.947368,11.208215/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42&#0036;0/pct:5.868421,54.686476,26.947368,11.208215/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ that belorg to the vegetable kingdom.”
 ber. The terms misanthropic, miserly, narrow-minded and selfish, con-| Prof. Dunglinson says—‘‘ It may be looked upon as one of the most  
 vey reproach, and are classed by moralists among the vices of humanity.) wholesome and valuable eculents that belong to the vegetable kingdom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4$1/pct:10.941043,25.296443,80.385488,1.837945/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4&#0036;1/pct:10.941043,25.296443,80.385488,1.837945/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ success. They were afflicted, says he, with chronic cough, the primary||ly requi
 cause of which, in one case, was supposed to be diseased liver—in ano-|| deficiency.  
 ther, diseased lungs. It mitigates, and sometimes effectually checks, a Nos. 9 to 13 are adapted to the Indian corn crop, always, however, re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4$1/pct:10.515873,78.478261,80.640590,4.525692/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4&#0036;1/pct:10.515873,78.478261,80.640590,4.525692/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ ther, diseased lungs. It mitigates, and sometimes effectually checks, a Nos. 9 t
 success. They were afflicted, says he; with chronic cot ,:  
 the primary cause of which, in one. case, was supposed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22$3/pct:78.875546,31.029971,17.612809,1.248811/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22&#0036;3/pct:78.875546,31.029971,17.612809,1.248811/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ the primary cause of which, in one. case, was supposed to
 be diseased liver—in another diseased lun t mitigates,  
 and sometimes effectually checks, a fit of thaghime I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22$3/pct:78.875546,32.052807,17.449054,1.225024/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22&#0036;3/pct:78.875546,32.052807,17.449054,1.225024/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ and sometimes effectually checks, a fit of thaghime I
 jas one of the most wholesome and valuable esculents that  
 belong to the vegetable kingdom.” — Cultivator.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22$3/pct:78.675400,44.802569,17.449054,1.082303/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22&#0036;3/pct:78.675400,44.802569,17.449054,1.082303/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ Professor Dunglinson says—&quot; It may be looked upon
 as one of the most wholesuime and valuable esculents  
 that belong to the vegetable hingdom.&quot;—Cudtirato:.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10$8/pct:44.617092,14.239598,38.596004,3.192253/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10&#0036;8/pct:44.617092,14.239598,38.596004,3.192253/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ it has been tried by several persons to his knowledge, that town, had been laid 
 with decid.d success. They were alHicted, says he, The rise appears to have been chiefly confined to the  
 with chronic cough, the primary cause of which, in one | Missouri river; and so great ani rapid was the swell fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10$8/pct:5.271920,62.733142,77.691454,5.864419/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10&#0036;8/pct:5.271920,62.733142,77.691454,5.864419/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ with chronic cough, the primary cause of which, in one | Missouri river; and so 
 diseased lungs, It mitigates, and sometimes ef-  
 fectually cheeks a fit of It was use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5$2/pct:7.041139,18.217391,26.661392,2.043478/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5&#0036;2/pct:7.041139,18.217391,26.661392,2.043478/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ Prof. Duglison says—*“ ht may be looked upon
 as one of the most wholesome and valuable escu-  
 lents that belong to the vegetable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5$2/pct:6.777426,41.521739,27.452532,8.891304/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5&#0036;2/pct:6.777426,41.521739,27.452532,8.891304/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ one case, Was supposed to be diseased liver—
 in another diseased lungs. Ir mitigates, and  
 sometimes effectually Phecks, a fit of coughing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35$3/pct:38.717105,76.544039,13.437500,4.095059/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35&#0036;3/pct:38.717105,76.544039,13.437500,4.095059/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1313,7 +1313,7 @@ looked upon as one of the most wholesome and
 valuable esculents that belong to the vegetable  
 kingdom.” —Cultivater.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35$3/pct:38.651316,88.292159,13.174342,6.592374/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35&#0036;3/pct:38.651316,88.292159,13.174342,6.592374/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ one case, was supposed to be diseased liver—
 in another diseased longs. It mitigates, and  
 sometimes effectually checks, a fit of coughing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36$3/pct:52.034884,9.124365,13.388243,3.540609/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36&#0036;3/pct:52.034884,9.124365,13.388243,3.540609/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1363,7 +1363,7 @@ valuable esculents that belong to the vegetable
 kingdom.”—Culltivator.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36$3/pct:52.067183,21.065990,13.404393,5.964467/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36&#0036;3/pct:52.067183,21.065990,13.404393,5.964467/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ eased liver—in another diseased lungs. = It
 mitigates, a sometimes effectually el  
 fit of coughing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-10-13_22_41$3/pct:49.721494,83.122986,14.728047,4.390440/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-10-13_22_41&#0036;3/pct:49.721494,83.122986,14.728047,4.390440/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1451,7 +1451,7 @@ fit of coughing
 upon as one of the most wholesome and. valuable  
 esculents that belong to the végetable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1838-07-31_6_25$0/pct:54.673913,34.752852,27.108696,2.996198/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1838-07-31_6_25&#0036;0/pct:54.673913,34.752852,27.108696,2.996198/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,7 +1492,7 @@ it either raw, cooked, or in the form of catsup in their
 daily food, as it is the most healthy article of the Ma-  
 teria Alimentaria.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1838-09-12_9_37$0/pct:74.195824,66.052880,14.221219,11.118980/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1838-09-12_9_37&#0036;0/pct:74.195824,66.052880,14.221219,11.118980/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1528,7 +1528,7 @@ bilious attacks to which almost all unacclimated persons are liable.
 cooked, or in the form of catsup in their daily food, as it is the most  
 healthy article of the Materia Alimeotaria.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_graham-journal-of-health-and-longevity_1838-09-15_2_19$13/pct:19.252336,25.088652,70.794393,26.950355/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_graham-journal-of-health-and-longevity_1838-09-15_2_19&#0036;13/pct:19.252336,25.088652,70.794393,26.950355/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ healthy article of the Materia Alimeotaria.
 learned M. D.’s to be “one of the most wholesome and  
 valuable esculents that belong to the vegetable kingdom.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1838-10-10_17_14$5/pct:68.465293,71.504425,27.440347,1.991150/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1838-10-10_17_14&#0036;5/pct:68.465293,71.504425,27.440347,1.991150/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ medica, and that. in all those affections of the
 liver and other organs where calomel is indi-  
 cated, it is probably the most effective, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34$1/pct:64.331551,22.302464,25.614973,5.522515/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34&#0036;1/pct:64.331551,22.302464,25.614973,5.522515/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ alimentaria.”
   
 Now, if these positions be true, it is of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34$1/pct:64.385027,30.055225,25.935829,24.596432/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34&#0036;1/pct:64.385027,30.055225,25.935829,24.596432/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ case, supposed to be diseased liver—in another, dis-
 eased lung. It pt og and sometimes effectually  
 checks, a fit of coughing. It was used ina drie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-08-15_1_50$2/pct:37.817522,20.181969,25.920166,7.423490/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-08-15_1_50&#0036;2/pct:37.817522,20.181969,25.920166,7.423490/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1753,7 +1753,7 @@ indicated, it is probably the most effective, and least | “1 °
 harmful remedial agent known to the profession.  
 2. That a chemical extract will probably be obtained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39$2/pct:49.388948,26.488095,19.420829,2.044931/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.388948,26.488095,19.420829,2.044931/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1785,7 +1785,7 @@ Sih. ‘That persons removing from the east or north, to
 the west or south, should by all means make use of it as  
 analiment; as it would in that event, save them from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39$2/pct:49.362380,28.552227,29.250797,3.715438/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.362380,28.552227,29.250797,3.715438/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1805,7 +1805,7 @@ Which alinost all unacclimated persons are liable.
   
 either raw, cooked, or in the form of a catsup, with their 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39$2/pct:49.349097,32.344470,14.519129,1.651306/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.349097,32.344470,14.519129,1.651306/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ alimentaria.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39$2/pct:49.362380,34.014977,14.505845,0.700845/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.362380,34.014977,14.505845,0.700845/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1901,7 +1901,7 @@ posed to be diseased Jiver—in another, diseased
 lungs. It mitigates, and sometimes effectually  
 checks, a fit of cough. It was used in a dry state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13$3/pct:40.608604,10.702128,53.384050,81.127660/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13&#0036;3/pct:40.608604,10.702128,53.384050,81.127660/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1924,7 +1924,7 @@ without water; stew them slow, and when done
 put in asmall lump of butter, and eat as you do  
 apple sauce. If you choose, a little crumb of brea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13$3/pct:66.920252,50.234043,26.678909,37.000000/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13&#0036;3/pct:66.920252,50.234043,26.678909,37.000000/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1970,7 +1970,7 @@ it as an aliment, as it would in that event save them
   
 than from fever and consumption, and their conse-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40$4/pct:35.810811,68.271462,51.510334,19.881090/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40&#0036;4/pct:35.810811,68.271462,51.510334,19.881090/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2097,7 +2097,7 @@ ffom the danger attendant upon those. violent billigus
 liable * ; | a rrrceretes . | by blows inflicted by J. C. Colt. A  
 “Gth. That the citizens in ordinary should make| &lt;. - Se | y watch known nenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40$4/pct:61.784579,87.833527,25.516693,0.957077/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40&#0036;4/pct:61.784579,87.833527,25.516693,0.957077/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2221,7 +2221,7 @@ case, was supposed tv be diseased liver—in an-
 other, diseased lungs. It mitigates, and some-  
 times effectually checks, a fitof cough. It wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15$3/pct:37.020421,36.474868,15.083540,30.092593/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15&#0036;3/pct:37.020421,36.474868,15.083540,30.092593/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2243,7 +2243,7 @@ done put in asmall lump of butter, and eat as
 you do apple sauce. If you choose, a little  
 crumb of bread or pulverized crackers may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15$3/pct:36.912129,72.916667,14.619431,5.103616/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15&#0036;3/pct:36.912129,72.916667,14.619431,5.103616/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2309,7 +2309,7 @@ another, diseased lungs. It iticntak aid sometimes effectually
 checks, a fit of coughing. It was used in a dry state, with a little  
 «
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6$52/pct:13.063660,25.885296,61.405836,49.191686/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6&#0036;52/pct:13.063660,25.885296,61.405836,49.191686/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2328,7 +2328,7 @@ slice up, put in the pot over the fire without water; stew them
 slow, and when done put in a small lump.of butter, and eat as you  
 do apple sauce. If you chose, a little crumb of bread or pulverize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6$53/pct:28.647215,23.633564,60.046419,7.775212/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6&#0036;53/pct:28.647215,23.633564,60.046419,7.775212/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2446,7 +2446,7 @@ of the liver, in another from the lungs. It
 mitigates and sometimes effectually checks a  
 fit of coughing. It was used&#x27;after havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1843-10-15_1_17$5/pct:11.338583,66.055626,26.692913,7.058576/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1843-10-15_1_17&#0036;5/pct:11.338583,66.055626,26.692913,7.058576/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2511,7 +2511,7 @@ sauce. Some add a little flour bread, finely
 crumbed, or a couple of crackers pulverized.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1852-07-31_7_46$1/pct:49.245473,70.690834,19.642857,21.614227/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1852-07-31_7_46&#0036;1/pct:49.245473,70.690834,19.642857,21.614227/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2744,7 +2744,7 @@ catsup, with their daily food, as it is the most
 healthy article in the &quot;materia aUmentaria.&quot;  
 Just at this season this piece of information i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1852-08-28_3_9$14/pct:10.936734,72.215690,20.524767,3.947589/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1852-08-28_3_9&#0036;14/pct:10.936734,72.215690,20.524767,3.947589/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2776,7 +2776,7 @@ where calomel is indicated, it is probably the most
 effective and least harmful remedial agent known  
 in the profession,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36$0/pct:40.810381,30.769231,12.102754,8.590448/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36&#0036;0/pct:40.810381,30.769231,12.102754,8.590448/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2861,7 +2861,7 @@ provided with a trellis, or tied to stakes fixed in
 the soil, to keep the fruit from being injured in  
 coming in contact with the dirt,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36$0/pct:40.863347,19.273035,11.983581,49.746407/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36&#0036;0/pct:40.863347,19.273035,11.983581,49.746407/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3433,7 +3433,7 @@ lean, they should be provided with a trellis, or tied to
 stakes fixed in the soil, to keep the fruit from being in-  
 jured in coming in contact with the dirt.— Maine Far
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1852-11_10_11$24/pct:10.524226,7.847534,77.998411,80.916791/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1852-11_10_11&#0036;24/pct:10.524226,7.847534,77.998411,80.916791/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3461,7 +3461,7 @@ omel is indicated, it is probably the most effective
 and least harmful agent known in the profession.  
 A chemical extract may be obtained from it, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1853-09_5_9$5/pct:50.769231,56.852792,36.076923,14.010152/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1853-09_5_9&#0036;5/pct:50.769231,56.852792,36.076923,14.010152/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3490,7 +3490,7 @@ _NEW ENGLAND FARMER.
 stew them slow, and when done, put in a piece of|  
 good butter, and eat them like apple sauce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1853-09_5_9$5/pct:14.538462,81.548223,72.730769,7.817259/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1853-09_5_9&#0036;5/pct:14.538462,81.548223,72.730769,7.817259/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3564,7 +3564,7 @@ dog. He also has a theory relative to hreed-
 n ing and training animals. which he tna lately  
 hoks to whieh almost all unacclimated per- published in a volume. buthe will only sell th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8$30/pct:9.168081,26.821192,72.325976,22.958057/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:9.168081,26.821192,72.325976,22.958057/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3615,7 +3615,7 @@ stove or fire without water, Stew them elow- blended with it. and sometimes the 
 Ps and when done put « smail piece of . good of the nitre will he perceived, whigh totally  
 utter and eat them as you do apple si uce. distppears afterwards.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8$30/pct:8.828523,42.025386,72.920204,43.460265/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:8.828523,42.025386,72.920204,43.460265/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3757,7 +3757,7 @@ the materia alimentaria.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-08_7_8$34/pct:10.016978,10.234716,36.629881,55.840611/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-08_7_8&#0036;34/pct:10.016978,10.234716,36.629881,55.840611/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3923,7 +3923,7 @@ healthy article in the materia c imentaria.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-03_25_37$0/pct:68.960084,64.726721,12.171744,18.663968/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-03_25_37&#0036;0/pct:68.960084,64.726721,12.171744,18.663968/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4021,7 +4021,7 @@ most healthy article in the materia a imenearia.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1858-03_10_3$25/pct:55.621742,62.089552,33.804914,24.900498/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1858-03_10_3&#0036;25/pct:55.621742,62.089552,33.804914,24.900498/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4150,7 +4150,7 @@ make use of it, either raw, cooked, or in
 the form of a catsup, with their daily  
 food, as it is a most healthy article,—Ze
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-farmers-magazine_1858-09_11_9$46/pct:46.711367,42.959770,33.844189,31.752874/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-farmers-magazine_1858-09_11_9&#0036;46/pct:46.711367,42.959770,33.844189,31.752874/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4906,7 +4906,7 @@ erful aperients of the liver and other organs ;
 where calomel is indicated, it is probably one  
 of the most effeetive and the least har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1859-10_11_10$25/pct:54.616530,27.705113,33.655994,8.180737/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1859-10_11_10&#0036;25/pct:54.616530,27.705113,33.655994,8.180737/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5206,7 +5206,7 @@ powerful aperients of the liver and other organs ;
 where calomel is indicated, it is probably one of  
 the most effective and least h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1862-08-21_30_36$0/pct:67.117814,85.383085,12.064965,2.965174/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1862-08-21_30_36&#0036;0/pct:67.117814,85.383085,12.064965,2.965174/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5228,7 +5228,7 @@ erful aperients of the liver and other organs;
 where calomel is indicated, it is probably one of  
 the most effective and least h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1862-09_14_9$16/pct:47.939778,70.841889,36.965135,8.932238/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1862-09_14_9&#0036;16/pct:47.939778,70.841889,36.965135,8.932238/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

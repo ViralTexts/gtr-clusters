@@ -452,7 +452,7 @@ Whose vipress is the spirit’s deathiess page ;
 Worn out, the type is thrown to pi again,  
 The unpression lives through an everual age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-17_12_42$7/pct:59.699454,28.132952,12.509758,5.820611/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-17_12_42&#0036;7/pct:59.699454,28.132952,12.509758,5.820611/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ Whose tpress is the spirit’s deathiess page ;
 Worn out, the type is thrown to pi again,  
 The wnpression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-24_12_43$0/pct:3.239657,29.564249,10.050742,3.546438/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-24_12_43&#0036;0/pct:3.239657,29.564249,10.050742,3.546438/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ Whose impress is the spirit’s deathless page ;
 Worn out, the type is thrown to pi again,  
 The impression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1858-11_17_102$83/pct:53.248588,25.691937,30.696798,7.490975/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1858-11_17_102&#0036;83/pct:53.248588,25.691937,30.696798,7.490975/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ Worn out, the type is thrown to f/ again,
   
 The émfpression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12$57/pct:10.381078,62.859066,38.173456,12.365350/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12&#0036;57/pct:10.381078,62.859066,38.173456,12.365350/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -93,7 +93,7 @@ harp, sackbut,
   
 faithful Paula, with her beautiful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19$92/pct:11.925795,11.745940,62.367491,74.361949/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19&#0036;92/pct:11.925795,11.745940,62.367491,74.361949/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ t hnd evi ! n l
 1  
 } ct] cate] : And i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19$92/pct:44.125442,35.092807,30.388693,28.509281/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19&#0036;92/pct:44.125442,35.092807,30.388693,28.509281/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ those who have turned away from the pr
 themeelves at the feet of a genuine hero who never wooed them except by  
 heroic deeds and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_illustrated-london-news_1859-11-05_35_1001$2/pct:4.802124,76.055858,26.616795,15.633515/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_illustrated-london-news_1859-11-05_35_1001&#0036;2/pct:4.802124,76.055858,26.616795,15.633515/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

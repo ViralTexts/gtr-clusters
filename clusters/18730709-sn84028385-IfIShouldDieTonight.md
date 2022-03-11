@@ -74,7 +74,7 @@ Forgive, oh, hearts estranged, forgive, I plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night. ae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1873-06-18_7_25$0/pct:64.693446,32.364766,22.436575,17.068713/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1873-06-18_7_25&#0036;0/pct:64.693446,32.364766,22.436575,17.068713/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ When dreamless rest is mine I shall not need
   
 The tenderness for which I loug to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1873-06-28_51_26$9/pct:10.055556,16.698546,22.472222,16.258607/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1873-06-28_51_26&#0036;9/pct:10.055556,16.698546,22.472222,16.258607/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ Forgive, oh, hearts estranged, forgive, I plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_living-age_1873-07-05_118_1517$1/pct:15.344168,24.878788,38.288719,31.787879/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_living-age_1873-07-05_118_1517&#0036;1/pct:15.344168,24.878788,38.288719,31.787879/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ When dreamless rest is mine I shall not need
 The tenderness for which I long to-night.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1876-09-16_43_1094$5/pct:14.630298,12.500000,17.831380,13.808140/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1876-09-16_43_1094&#0036;5/pct:14.630298,12.500000,17.831380,13.808140/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ Forgive, oh hearts estranged ; forgive, I plead !
 When dreamless rest is mine, I shall not need |  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-11-28_59_17$4/pct:33.734940,18.150685,28.584337,20.936073/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-11-28_59_17&#0036;4/pct:33.734940,18.150685,28.584337,20.936073/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1588,7 +1588,7 @@ Think gently of me; I am travel-worn,
 My faltering feet are pierced with many a thorn:  
 Forg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-05-19_35_20$11/pct:69.123820,32.496439,24.213012,16.898148/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-05-19_35_20&#0036;11/pct:69.123820,32.496439,24.213012,16.898148/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ When dreamless rest is mine i shall not need
   
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_smalleys-magazine_1887-07_5_7$22/pct:63.593993,77.529183,23.226308,15.116732/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_smalleys-magazine_1887-07_5_7&#0036;22/pct:63.593993,77.529183,23.226308,15.116732/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ Forgive, oh, hearts estranged forgive, I plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-musical-visitor-a-magazine-of-musical-literature_1891-01_20_1$0/pct:14.972067,33.153078,26.173184,21.027454/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-musical-visitor-a-magazine-of-musical-literature_1891-01_20_1&#0036;0/pct:14.972067,33.153078,26.173184,21.027454/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2348,7 +2348,7 @@ When dreamless rest is mine I shall not need
 The tenderness for which I long to-night.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_midland-monthly-magazine_1897-03_7_3$63/pct:54.646018,46.201413,32.920354,16.224971/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_midland-monthly-magazine_1897-03_7_3&#0036;63/pct:54.646018,46.201413,32.920354,16.224971/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

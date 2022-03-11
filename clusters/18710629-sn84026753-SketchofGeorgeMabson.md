@@ -235,7 +235,7 @@ moderate Republican views, ag % is be — five years, and that all accounts to t
 known that they tested young Mabson average seca agile tac pice are pure inventions.  
 fore. they said yes. Many of his friends | frome, Burned at Sea —“ Raise your right arm,” sharply urged th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25$0/pct:14.558824,16.088160,78.596257,9.231261/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25&#0036;0/pct:14.558824,16.088160,78.596257,9.231261/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ day the march of progress adds another star to
 her galaxy—a colored men of respectability  
 and standing has a law office in the city “down
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25$0/pct:14.799465,28.683986,10.802139,1.639693/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25&#0036;0/pct:14.799465,28.683986,10.802139,1.639693/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ this State, Gen. Joseph C. Abbott secured Mr. - Just efter ; bee caused is tee B
 Mabson.a position in Washington, with the hy dene a pet Cue en than the population of the city of London, as  
 anderstanding that he was to devote his leisure be your ‘the best means of. pacifying bim,.and it was pon the sanounced by the recent British census
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25$0/pct:14.759358,30.579216,78.395722,2.406303/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25&#0036;0/pct:14.759358,30.579216,78.395722,2.406303/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ that have come under our observation.”’
   
 Mr: Mabsou’s certificate of moral cherecter | 79%.” _ Is it wise to disease the he persecuted under the Commune, who jank that passed in the evening of the same | and Newfoundland in concerting measures t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25$0/pct:15.147059,66.205281,78.235294,1.235094/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25&#0036;0/pct:15.147059,66.205281,78.235294,1.235094/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

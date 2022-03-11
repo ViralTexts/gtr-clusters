@@ -38,7 +38,7 @@ Medical Uses of Sait.
 In many cases of disordered stomach, a tea-  
 spoonful of salt taken three times a day is a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.306991,8.355886,19.250253,2.148173/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.306991,8.355886,19.250253,2.148173/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ the order of nature, placing the greatest va-
 lue on those things that are difficult to obtain  
 We burrow in the earth to obtain gold from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.306991,10.673207,19.630193,31.630582/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.306991,10.673207,19.630193,31.630582/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ for every thing with sailors,—our landsmen
 would rather seek medicines that come from  
 the Persian Gulf or the wilds of Hindostan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.585613,42.506766,19.807497,11.857240/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.585613,42.506766,19.807497,11.857240/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ the Persian Gulf or the wilds of Hindostan.
 As it was with the Philistine |  
 warrior, so it is with men atthe present day, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41$2/pct:31.686930,48.832882,19.858156,1.556157/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.686930,48.832882,19.858156,1.556157/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ Salt will expel worms, if used in the food in a
 moderate degree, and aids digestion; but salt meat is  
 injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5$10/pct:8.785822,54.162512,36.764706,36.266201/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5&#0036;10/pct:8.785822,54.162512,36.764706,36.266201/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ Salt will expel worms, if used in the food
 in a moderate degree, and aids digestion; but  
 salt meat is injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1850-03-16_5_26$1/pct:68.794326,10.890233,19.655522,31.495246/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1850-03-16_5_26&#0036;1/pct:68.794326,10.890233,19.655522,31.495246/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ In swelled neck, wash the part with brine, and drink it also twice a
 day until cured. Salt expels worms, if usedin the food ina moderate de-  
 gree, and aids digestion ; but salt meat is injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-03_20_24$9/pct:9.443681,28.788610,26.802885,12.620656/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-03_20_24&#0036;9/pct:9.443681,28.788610,26.802885,12.620656/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ jent from the
   
 two teaspoonfuls of sal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1851-02-01_30_1540$3/pct:75.914229,29.977461,8.194814,3.140496/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1851-02-01_30_1540&#0036;3/pct:75.914229,29.977461,8.194814,3.140496/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ Salt will expel worms, if used in food at a moderate
 degree, and aids digestion: but salt meat is injurious  
 if used much.— Scientific American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51$3/pct:36.670145,12.447781,11.904953,4.438642/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51&#0036;3/pct:36.670145,12.447781,11.904953,4.438642/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ go to bed—it is one of the speediest remedies known.
 Tbe same will revive ® person almost dead from receiv-  
 me a very beavy fall, A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51$3/pct:23.858072,92.369452,11.800594,3.302872/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51&#0036;3/pct:23.858072,92.369452,11.800594,3.302872/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,7 +1434,7 @@ lethargy. In cases of severe bleeding at the lungs, and
 when other remedies have failed, it has been found that  
 two teaspoonfuls of salt completely stayed the blood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1855-03_50_3$69/pct:11.677368,40.469905,36.115570,17.106653/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1855-03_50_3&#0036;69/pct:11.677368,40.469905,36.115570,17.106653/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1946,7 +1946,7 @@ Salt will expel worms, if used in food ina
 moderate degree, and aids digestion, but salt  
 meat is injurious, if used much. [Ex.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1856-07-17_24_30$0/pct:81.520563,67.291847,12.242965,20.771899/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1856-07-17_24_30&#0036;0/pct:81.520563,67.291847,12.242965,20.771899/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1979,7 +1979,7 @@ In a fit, the feet should be placed in warm water.
 with mustard added, and the legs briskly rubbed,  
 all bandages removed from the neck, and a cool
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8$12/pct:12.653846,36.345178,35.961538,19.898477/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8&#0036;12/pct:12.653846,36.345178,35.961538,19.898477/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2009,7 +2009,7 @@ tartar, wash them twice a day with salt and water.
 In swelled neck, wash the part with brine, and  
 drink it, also, twice a day, until cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8$12/pct:13.038462,57.335025,35.730769,14.720812/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8&#0036;12/pct:13.038462,57.335025,35.730769,14.720812/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2028,7 +2028,7 @@ have visited is that of Major FRENCH, a few rods
 Salt will expel worms, if used in food in a mod- east of the capitol, on soil that I once knew as un-  
 erate degree, and aids digestion, but salt meat is kindly and perverse as that of any cold spring land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8$12/pct:13.346154,66.649746,72.153846,8.020305/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8&#0036;12/pct:13.346154,66.649746,72.153846,8.020305/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2122,7 +2122,7 @@ most cases. If the gnms are affected, wash the month with brine.
 If the teeth be covered with tartar, wash them twice a day with  
 salt and water .—Mtdiad Joormd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6$6/pct:34.762371,64.472801,27.609015,14.674278/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6&#0036;6/pct:34.762371,64.472801,27.609015,14.674278/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2339,7 +2339,7 @@ Salt will expel worms, if used in food in a moderate
 degree, and aids digestion, but salt meat is injurious if  
 used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-10_53_4$69/pct:52.468652,75.646329,35.227273,12.125129/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-10_53_4&#0036;69/pct:52.468652,75.646329,35.227273,12.125129/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2746,7 +2746,7 @@ In many cases of severe bleeding at the lungs, and when
 other remedies fail, Dr. Rush found that two teagpoonsful  
 of salt completely stayed the blood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-06_12_23$6/pct:76.778955,69.462435,12.282362,1.975389/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-06_12_23&#0036;6/pct:76.778955,69.462435,12.282362,1.975389/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2775,7 +2775,7 @@ water; drink it down and go to bed; it is one of the
 speediest remedies known. The same will revive a person  
 who seems almost dead from a heavy fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-13_12_24$6/pct:76.310790,58.516839,12.234043,3.448834/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-13_12_24&#0036;6/pct:76.310790,58.516839,12.234043,3.448834/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2896,7 +2896,7 @@ of salt completely stayed the blood.
   
 Drop Biaouit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-08_6_2$86/pct:11.139456,81.434024,34.863946,5.179935/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-08_6_2&#0036;86/pct:11.139456,81.434024,34.863946,5.179935/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2951,7 +2951,7 @@ Salt will expel worms, if used in food ina
 moderate degree, and aids digestiun, but salt meat  
 is injurious, if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-17_25_39$0/pct:41.951155,40.513029,12.145483,19.503257/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-17_25_39&#0036;0/pct:41.951155,40.513029,12.145483,19.503257/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3049,7 +3049,7 @@ not, the head must be sponged well with cold
 water until the senses return, when salt will  
 completely restore the patient from lethargy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1857-11-07_1893$3/pct:24.697802,83.294574,13.228022,5.813953/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1857-11-07_1893&#0036;3/pct:24.697802,83.294574,13.228022,5.813953/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4006,7 +4006,7 @@ procured, if possible. In case of severe bleeding at
   
 lungs, when other remedies failed, Dr. Rush found
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1865-09-13_36_37$3/pct:46.490281,88.518371,12.486501,5.281550/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1865-09-13_36_37&#0036;3/pct:46.490281,88.518371,12.486501,5.281550/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4188,7 +4188,7 @@ mustard added, and the legs briskly rubbed, all bandages
 from the neck, and a cool apartment procared, if possi-  
 ble. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744$23/pct:13.616625,62.500000,26.116625,10.614901/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744&#0036;23/pct:13.616625,62.500000,26.116625,10.614901/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4425,7 +4425,7 @@ until cured. Salt will expel worms, if used
 in the food in a moderate degree, and sids  
 digestion, but salt is injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-06-28_58_49$9/pct:57.707355,60.482955,18.603286,22.798295/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-06-28_58_49&#0036;9/pct:57.707355,60.482955,18.603286,22.798295/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5726,7 +5726,7 @@ mouth with brine. If the teeth be
 covered with tartar wash them twice a  
 day with salt and water.—From th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1881-11-17_34_46$6/pct:40.166667,57.911850,13.750000,17.991329/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1881-11-17_34_46&#0036;6/pct:40.166667,57.911850,13.750000,17.991329/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5800,7 +5800,7 @@ a day with salt and water.—
 effect a speedy cure. Salt will expel worms, if used in  
 a moderate degree, and aids digestion; but the daily us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973$23/pct:11.810777,35.470480,26.284461,1.360701/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973&#0036;23/pct:11.810777,35.470480,26.284461,1.360701/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

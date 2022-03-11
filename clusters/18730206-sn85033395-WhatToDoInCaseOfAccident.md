@@ -2565,7 +2565,7 @@ white of egg is good in most cases; in cases of opium poison-
 ing, give strong coffee, and keep moving. If in water, float  
 on the back, with the nose and meuth projecting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_peterson-magazine_1873-05_63_5$70/pct:6.530214,35.481998,38.157895,28.513357/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_peterson-magazine_1873-05_63_5&#0036;70/pct:6.530214,35.481998,38.157895,28.513357/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3530,7 +3530,7 @@ the throat, or by warm mu: °
 For acid poisons give alkalies; for alkaline poisons  
 give acids; white of an egg is good in most cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-07-03_46_27$4/pct:28.512168,71.695619,20.907080,11.083837/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-07-03_46_27&#0036;4/pct:28.512168,71.695619,20.907080,11.083837/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3773,7 +3773,7 @@ For acid poisons, give alkalies ; for alkaline
 poisons, give acids ; white of an egg is good  
 in most cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10$3/pct:66.647662,14.166017,23.090080,18.978956/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10&#0036;3/pct:66.647662,14.166017,23.090080,18.978956/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5158,7 +5158,7 @@ throat, or by water or mustard. For acid poisons give acids; in
 case of opium poisoning, give strong coffee and keep moving. If in  
 water float on the back, with the nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1$2/pct:48.951468,65.155616,35.530258,18.448354/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1&#0036;2/pct:48.951468,65.155616,35.530258,18.448354/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5271,7 +5271,7 @@ poisons, give acids. In case of opium{poisoning, give strong
 coffee, and keep moving. If in water, float on the back,  
 with the nose and mouth projecting. For apoplexy, rais
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_peterson-magazine_1875-02_67_2$55/pct:55.856643,66.923516,35.402098,18.978311/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_peterson-magazine_1875-02_67_2&#0036;55/pct:55.856643,66.923516,35.402098,18.978311/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5704,7 +5704,7 @@ acids; in case of opium poisoning give
 strong coffee and keep moving. If in  
 water, float on the back with the nose an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48$6/pct:49.863239,36.236999,19.037199,19.056464/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48&#0036;6/pct:49.863239,36.236999,19.037199,19.056464/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5948,7 +5948,7 @@ give acids; in case of opium poisoning give strong
 Coffee and kee p moving. If in water, float on the  
 back with the nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1876-12-21_49_51$7/pct:7.975113,71.806912,21.464932,14.124718/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1876-12-21_49_51&#0036;7/pct:7.975113,71.806912,21.464932,14.124718/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6083,7 +6083,7 @@ of acigar. In case of poisoning excite vomiting by tick-
 ling the throat or by water or mustard. For acid poisons  
 give acids; in case of opium poison give strong coffee an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1879-05-24_40_21$11/pct:37.209877,7.059829,55.407407,87.521368/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1879-05-24_40_21&#0036;11/pct:37.209877,7.059829,55.407407,87.521368/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6251,7 +6251,7 @@ back, with the nose and mouth projecting. For
 apoplexy, raise the head and body; for fainting, lay  
 the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34$7/pct:31.570156,11.056604,21.241648,6.792453/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34&#0036;7/pct:31.570156,11.056604,21.241648,6.792453/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6290,7 +6290,7 @@ cigar. In case of poisoning ¢xcite yomi&#x27;ing
 by tickling the throat or by hot water or mus  
 tard, In case of opium ison give stron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-08-30_59_6$6/pct:68.809663,45.213068,18.702513,9.090909/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-08-30_59_6&#0036;6/pct:68.809663,45.213068,18.702513,9.090909/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6766,7 +6766,7 @@ or Dy mastard and water. For scid poisons,
 give acide; in case of Opium poisoning, giva  
 strong coffee and keep movsnal if in the wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1881-07-16_60_52$6/pct:68.700632,38.184732,18.957346,9.600816/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1881-07-16_60_52&#0036;6/pct:68.700632,38.184732,18.957346,9.600816/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

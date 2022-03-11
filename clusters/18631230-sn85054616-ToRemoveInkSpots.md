@@ -295,7 +295,7 @@ squeeze afew drops of lemon juice on it, and
 the spot will disappear at, once. Wash imme-  
 diately in cold water. That’s one way. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25$6/pct:44.414894,66.575758,15.875614,6.439394/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25&#0036;6/pct:44.414894,66.575758,15.875614,6.439394/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

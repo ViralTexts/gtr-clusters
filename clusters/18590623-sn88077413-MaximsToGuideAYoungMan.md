@@ -217,7 +217,7 @@ and mothers in the Truth, which we are now
   
 when
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-12-26_14_41$6/pct:49.238782,56.997012,39.302885,32.395418/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-12-26_14_41&#0036;6/pct:49.238782,56.997012,39.302885,32.395418/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ are young that you may spend when you are
 old. Read over the above maxims at least  
 once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-08-19_22_24$6/pct:47.023810,71.547085,52.343750,14.461883/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-08-19_22_24&#0036;6/pct:47.023810,71.547085,52.343750,14.461883/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ would be happy. Save when you are young to spend
 when yon are old. Read over the above maxims at  
 least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1866-05-10_39_19$2/pct:7.064128,43.377276,21.793587,15.065913/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1866-05-10_39_19&#0036;2/pct:7.064128,43.377276,21.793587,15.065913/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ Never speak evil of any
 one. Be just before you are  
 generous. Save when yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1894-12-08_71_23$8/pct:77.831094,76.461892,13.171785,14.668200/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1894-12-08_71_23&#0036;8/pct:77.831094,76.461892,13.171785,14.668200/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

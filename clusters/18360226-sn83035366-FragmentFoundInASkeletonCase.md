@@ -92,7 +92,7 @@ If social love that eye emjiloy&#x27;d.
 If wifli no I iwless fire it jrleani&#x27;d  
 B&#x27;li tliro* the d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_european-magazine-and-london-review_1815-11_68$60/pct:11.439114,10.590278,61.900369,81.732253/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_european-magazine-and-london-review_1815-11_68&#0036;60/pct:11.439114,10.590278,61.900369,81.732253/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ And home to mercy’s lap return’d,
 Those feet with angel-wings shall vie  
 And tread t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7$37/pct:19.417767,5.169242,72.539016,86.644592/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7&#0036;37/pct:19.417767,5.169242,72.539016,86.644592/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ These feet with Angel wings shall vie,
   
 And tread the palace of the sky 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_gentlemans-magazine_1817-07_88$66/pct:10.629921,15.184758,34.448819,47.344111/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_gentlemans-magazine_1817-07_88&#0036;66/pct:10.629921,15.184758,34.448819,47.344111/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ And home to vi: tue’s lap returned ;
 These feet with angel wings shall vie,  
 And tread the palace of the sky?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57$19/pct:33.620690,28.396226,40.193966,50.880503/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57&#0036;19/pct:33.620690,28.396226,40.193966,50.880503/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ And home to Virtue’s lap returu’d ;
 These feet with Angel wings shall vie,  
 Aud tread the palace of the sky 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11$37/pct:53.151261,33.498896,35.654262,45.290655/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11&#0036;37/pct:53.151261,33.498896,35.654262,45.290655/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ And home to Virtue’s lap return’d ;
 These feet with Angel’s wings shall we,  
 And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20$15/pct:53.998050,28.820698,36.835690,60.694946/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20&#0036;15/pct:53.998050,28.820698,36.835690,60.694946/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ And home to virtue’s lap return’d,
 These feet with angel’s wings shal] vie,  
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_universalist_1820-03-18_1_38$3/pct:11.198547,10.022166,52.138822,84.357188/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_universalist_1820-03-18_1_38&#0036;3/pct:11.198547,10.022166,52.138822,84.357188/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ And home to virtue’s lap return’d ?
 These feet with angels’ wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register_1821-03_1_7$38/pct:5.130168,6.672520,83.805513,84.043020/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register_1821-03_1_7&#0036;38/pct:5.130168,6.672520,83.805513,84.043020/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ And home to virtue’s lap returned;
 These feet with angel’s wings shall vie,  
 And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-magazine_1822-02-10_5_6$9/pct:9.972067,31.360544,34.916201,47.227891/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-magazine_1822-02-10_5_6&#0036;9/pct:9.972067,31.360544,34.916201,47.227891/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ And home to virtue’s lap retarn’d---
 These! feet with angel-wings shail vie,  
 And tread tlie palace of the&#x27;sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89$7/pct:18.658981,19.133499,26.395631,35.447761/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89&#0036;7/pct:18.658981,19.133499,26.395631,35.447761/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ And home to virtue’s lap return’d—
 These feet with angel’s wings shall vie,  
 And reach the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173$3/pct:40.263819,27.431907,20.634422,36.186770/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173&#0036;3/pct:40.263819,27.431907,20.634422,36.186770/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1165,7 +1165,7 @@ And home to Virtue’s lap return’d ;
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1825-06-11_10_2$15/pct:18.551689,16.241935,29.580348,39.096774/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1825-06-11_10_2&#0036;15/pct:18.551689,16.241935,29.580348,39.096774/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1251,7 +1251,7 @@ These feet with angels’ wings shall vie,
   
 . ^ And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_east-anglian-or-notes-and-queries_1825-07_2_7$39/pct:22.540046,21.011606,55.205950,67.209423/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_east-anglian-or-notes-and-queries_1825-07_2_7&#0036;39/pct:22.540046,21.011606,55.205950,67.209423/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ And home to Virtue’s lap returned;
 These feet with angel’s wings sLall vie,  
 Aod tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1826-02-01_2_30$15/pct:16.305276,19.485960,37.681407,58.446558/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1826-02-01_2_30&#0036;15/pct:16.305276,19.485960,37.681407,58.446558/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ These feet, with angel&#x27;s wings shall vie.
   
 And tread the Palace of tbe 3ky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1827-12-21_10_532$2/pct:24.099379,12.717181,12.810559,16.602317/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1827-12-21_10_532&#0036;2/pct:24.099379,12.717181,12.810559,16.602317/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ Tliese feel with sngel wings shall fly.
   
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1833-03-02_16_9$0/pct:4.968679,33.832133,12.044419,21.050855/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1833-03-02_16_9&#0036;0/pct:4.968679,33.832133,12.044419,21.050855/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ These feet with angels’ wings shall vie,
   
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_liberator_1833-03-30_3_13$3/pct:12.361111,43.095238,15.503472,26.952381/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_liberator_1833-03-30_3_13&#0036;3/pct:12.361111,43.095238,15.503472,26.952381/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1716,7 +1716,7 @@ And home to virtue’s lap returned—
 These feet with*angel’s wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_jesuit-or-catholic-sentinel_1833-08-31_4_35$3/pct:42.604582,56.234059,23.331673,36.189047/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_jesuit-or-catholic-sentinel_1833-08-31_4_35&#0036;3/pct:42.604582,56.234059,23.331673,36.189047/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ Thi-se leet with angels’ wings Hhull vie.
   
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1836-04-23_14_4$3/pct:9.236527,15.137987,13.443114,19.581981/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1836-04-23_14_4&#0036;3/pct:9.236527,15.137987,13.443114,19.581981/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1995,7 +1995,7 @@ And home to virtue’s lap return’d,—
 Those feet with angels’ wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1836-05-28_9_34$4/pct:36.818182,23.640612,24.037433,38.338997/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1836-05-28_9_34&#0036;4/pct:36.818182,23.640612,24.037433,38.338997/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2042,7 +2042,7 @@ The eye shall be forever bright,
 When stars and suns have lost their light.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25$3/pct:8.528037,9.438776,10.881175,7.787325/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25&#0036;3/pct:8.528037,9.438776,10.881175,7.787325/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2389,7 +2389,7 @@ That soul with angels then shall vie, ^
   
 And tread the palai&#x27;e of the sky. ANONYMOUS. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44$7/pct:17.558711,11.618082,23.457127,39.438107/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44&#0036;7/pct:17.558711,11.618082,23.457127,39.438107/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2531,7 +2531,7 @@ And home to Virtue’s lap return’d ;
 These fect with angel’s wings shall vie;  
 And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1846-02_27_2$87/pct:42.653203,39.245930,28.864903,40.895458/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1846-02_27_2&#0036;87/pct:42.653203,39.245930,28.864903,40.895458/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2550,7 +2550,7 @@ Nor love, nor joy, nor hope, nor fear, -
   
 wht&#x27;s mysterious sea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27$3/pct:10.612624,12.235322,8.694307,1.948989/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27&#0036;3/pct:10.612624,12.235322,8.694307,1.948989/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2593,7 +2593,7 @@ If bold in Virtue’s cause it spoke,
 sweet.  
 would his hand once more stri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27$3/pct:10.628094,8.421559,19.863861,13.510587/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27&#0036;3/pct:10.628094,8.421559,19.863861,13.510587/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2641,7 +2641,7 @@ hese feet with angel&#x27;s wings shall vie,
   
 Aul tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27$3/pct:10.767327,22.100577,9.359530,10.093840/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27&#0036;3/pct:10.767327,22.100577,9.359530,10.093840/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2771,7 +2771,7 @@ And home to Virtue’s lap returne |,
 These feet with Angel&#x27;s wings shal! vie,  
 And tread the Palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1849-02-03_5_45$6/pct:62.009298,49.926145,20.738636,35.432053/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1849-02-03_5_45&#0036;6/pct:62.009298,49.926145,20.738636,35.432053/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2967,7 +2967,7 @@ That eye shall be forever bright
   
 When suns and stars have lost their light.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-journal-of-medicine_1852-12-29_47_22$7/pct:46.528926,64.536082,28.925620,8.015464/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-journal-of-medicine_1852-12-29_47_22&#0036;7/pct:46.528926,64.536082,28.925620,8.015464/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2997,7 +2997,7 @@ That eye shall be forever bright
   
 When suns and stars have lost their light.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4$64/pct:46.701954,26.552632,31.066775,10.105263/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4&#0036;64/pct:46.701954,26.552632,31.066775,10.105263/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3014,7 +3014,7 @@ This narrow cell was life&#x27;s retreat, The eye shall be forever bright,
 This space was thought’s mysterious seat. When stars and suns have lost their light.  
 What bea uteons pictures filled this spot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_medical-and-surgical-reporter_1856-12_9_12$37/pct:25.535019,28.896882,64.007782,3.657074/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_medical-and-surgical-reporter_1856-12_9_12&#0036;37/pct:25.535019,28.896882,64.007782,3.657074/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3041,7 +3041,7 @@ To soothe (?) affliction’s humble bed,
 Beneath this mould&#x27;ring canopy If grandeur&#x27;s guilty bribe they spurned,  
 Once shone the bright and busy eye; And home to virtue’s lap returned 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_medical-and-surgical-reporter_1856-12_9_12$37/pct:25.486381,35.131894,62.840467,10.851319/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_medical-and-surgical-reporter_1856-12_9_12&#0036;37/pct:25.486381,35.131894,62.840467,10.851319/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3390,7 +3390,7 @@ These feet with angel’s wings shall vie,
   
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1861-12-14_35_15$4/pct:67.227662,46.978558,20.257038,13.230994/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1861-12-14_35_15&#0036;4/pct:67.227662,46.978558,20.257038,13.230994/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3479,7 +3479,7 @@ And home to Virtue’s cot returned,
 These feet with angels’ wings shall vie,  
 And tread the palace 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1864-02-27_17_26$13/pct:19.259819,67.107843,30.853474,22.230392/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1864-02-27_17_26&#0036;13/pct:19.259819,67.107843,30.853474,22.230392/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4203,7 +4203,7 @@ And home to virtue’s cot returned—
 These feet with angels’ wings shall rise,  
 And tread the pala
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1878-03_96_573$67/pct:16.526074,43.225971,28.949387,30.853783/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1878-03_96_573&#0036;67/pct:16.526074,43.225971,28.949387,30.853783/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4460,7 +4460,7 @@ And home to Virtue’s cot returned,
 These feet with angel’s wings shall vie  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1881-06-30_14_326$7/pct:11.620017,47.538860,19.571671,15.382124/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1881-06-30_14_326&#0036;7/pct:11.620017,47.538860,19.571671,15.382124/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4571,7 +4571,7 @@ And home to Virtue’s cot returned,
 These feet with angels’ wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1882-09-30_56_8$3/pct:40.773810,52.516779,23.511905,20.973154/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1882-09-30_56_8&#0036;3/pct:40.773810,52.516779,23.511905,20.973154/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4717,7 +4717,7 @@ These feet with angel’s wings shall vie,
   
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_physicians-and-surgeons-investigator_1884-11-15_5_11$24/pct:6.448763,31.635938,85.644876,38.337723/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_physicians-and-surgeons-investigator_1884-11-15_5_11&#0036;24/pct:6.448763,31.635938,85.644876,38.337723/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5103,7 +5103,7 @@ These feet with ange) wings shall vie
   
 To tread the palace of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1891-01-31_4_10$0/pct:76.931818,71.027657,11.666667,20.376898/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1891-01-31_4_10&#0036;0/pct:76.931818,71.027657,11.666667,20.376898/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5180,7 +5180,7 @@ And home to virtue’s lap return’d ;—
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1891-12-19_12_312$0/pct:52.456897,72.597403,29.008621,18.538961/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1891-12-19_12_312&#0036;0/pct:52.456897,72.597403,29.008621,18.538961/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5223,7 +5223,7 @@ And home to virtue’s cot returned,
 These feet with angels wings shall vie  
 And tread the palace of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_music-magazine-and-musical-courier_1893-01-18_26_672$15/pct:68.874869,78.125000,18.349106,13.244913/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_music-magazine-and-musical-courier_1893-01-18_26_672&#0036;15/pct:68.874869,78.125000,18.349106,13.244913/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5647,7 +5647,7 @@ And home to virtue’s cot returned,
 Those feet with angel’s wings shall vie  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1897-03_21_3$12/pct:55.715159,10.000000,22.799511,22.719298/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1897-03_21_3&#0036;12/pct:55.715159,10.000000,22.799511,22.719298/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

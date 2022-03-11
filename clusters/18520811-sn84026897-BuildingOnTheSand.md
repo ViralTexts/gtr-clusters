@@ -178,7 +178,7 @@ Must lend a helping hand,
 For those who talk, yet fil to do,  
 But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-07-22_20_30$0/pct:66.300318,20.352024,9.692797,18.665683/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-07-22_20_30&#0036;0/pct:66.300318,20.352024,9.692797,18.665683/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ Must lend a helping hand,
 For those who talk, yet failto do,  
 But build upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-01-22_8_18$3/pct:41.264630,6.455216,13.531259,25.597498/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-01-22_8_18&#0036;3/pct:41.264630,6.455216,13.531259,25.597498/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1748,7 +1748,7 @@ Must lend a helping hand;
 For those who talk, yet fail to do,  
 But ‘* build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-02-21_13_49$11/pct:57.846715,22.383985,30.729927,39.763421/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-02-21_13_49&#0036;11/pct:57.846715,22.383985,30.729927,39.763421/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3168,7 +3168,7 @@ Must lend a helping hand,
 For those who talk yet fail to do,  
 But “ build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1865-01-14_18_20$13/pct:23.878327,10.004978,64.866920,80.736685/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1865-01-14_18_20&#0036;13/pct:23.878327,10.004978,64.866920,80.736685/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3282,7 +3282,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do‘  
 But “ build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-07-08_22_18$13/pct:23.439716,34.955556,29.361702,35.511111/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-07-08_22_18&#0036;13/pct:23.439716,34.955556,29.361702,35.511111/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3388,7 +3388,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do,  
 But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1865-10-04_36_40$3/pct:21.908602,27.863128,9.744624,13.417797/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1865-10-04_36_40&#0036;3/pct:21.908602,27.863128,9.744624,13.417797/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3521,7 +3521,7 @@ As trell as hand for hand,
 You’ll find you’ve played the unwise part  
 And built upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45$5/pct:11.709677,14.388736,11.370968,5.254121/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45&#0036;5/pct:11.709677,14.388736,11.370968,5.254121/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3575,7 +3575,7 @@ For those who talk, yet fail to do,
   
 But build upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45$5/pct:11.774194,20.032051,11.532258,10.748626/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45&#0036;5/pct:11.774194,20.032051,11.532258,10.748626/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4205,7 +4205,7 @@ Should scatter crumbs as well.
   
 The mercy that is wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-09-01_18_17$10/pct:34.948097,53.612589,19.723183,27.327128/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-09-01_18_17&#0036;10/pct:34.948097,53.612589,19.723183,27.327128/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5309,7 +5309,7 @@ Must lend a helping hand ;
 For those who talk, yet fail to do,  
 But * build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1869-06-05_2497$4/pct:9.742063,11.515317,15.238095,22.428884/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1869-06-05_2497&#0036;4/pct:9.742063,11.515317,15.238095,22.428884/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5685,7 +5685,7 @@ Should scatter crumbs as well.
   
 The mercy that is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652$3/pct:36.742424,32.508834,21.212121,27.782686/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652&#0036;3/pct:36.742424,32.508834,21.212121,27.782686/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5853,7 +5853,7 @@ You&#x27;ll find you&#x27;ve played the unwise part,
 And ‘+built upon the sand  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1875-12-11_41_1054$5/pct:15.238313,20.676813,15.123740,6.622409/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1875-12-11_41_1054&#0036;5/pct:15.238313,20.676813,15.123740,6.622409/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6523,7 +6523,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do,  
 But ‘* build upon the sands.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_silent-world_1876-02-01_6_3$0/pct:19.622528,28.371673,28.040743,33.784393/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_silent-world_1876-02-01_6_3&#0036;0/pct:19.622528,28.371673,28.040743,33.784393/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6651,7 +6651,7 @@ Let deeds with language dwell;
 The one who pities starving birds, |  
 Should scatter crumbs 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8$9/pct:9.183673,12.722883,81.547619,20.226597/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8&#0036;9/pct:9.183673,12.722883,81.547619,20.226597/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7013,7 +7013,7 @@ The one who pities starving birds
 Should seatter crumbs as well;  
 The mercy that is warm 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1876-06-08_49_23$3/pct:32.748869,34.316304,15.158371,4.883546/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1876-06-08_49_23&#0036;3/pct:32.748869,34.316304,15.158371,4.883546/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8001,7 +8001,7 @@ And love /ink man to man.
   
 2. Parse the words in italics,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_practical-teacher-teachers-art-monthly_1885-08_5_6$36/pct:48.878205,43.479284,27.243590,5.367232/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_practical-teacher-teachers-art-monthly_1885-08_5_6&#0036;36/pct:48.878205,43.479284,27.243590,5.367232/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8121,7 +8121,7 @@ The one who pities starving birds
 Should scatter crumbs as well;  
 The mercy that is warm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13$3/pct:42.771084,45.266005,23.734940,41.884581/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13&#0036;3/pct:42.771084,45.266005,23.734940,41.884581/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9092,7 +9092,7 @@ And morniug brought the sun.
   
 But have an eye,” etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_progressive-farmer_1898-11-15_13_41$4/pct:63.275480,77.723167,12.832349,2.616897/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_progressive-farmer_1898-11-15_13_41&#0036;4/pct:63.275480,77.723167,12.832349,2.616897/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

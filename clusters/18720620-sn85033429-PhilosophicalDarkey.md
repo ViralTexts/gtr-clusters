@@ -770,7 +770,7 @@ fleld of
 Whatever, sa—I regard dem as  
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-04-05_2123$7/pct:8.144217,38.326902,14.000732,26.529768/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-04-05_2123&#0036;7/pct:8.144217,38.326902,14.000732,26.529768/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2171,7 +2171,7 @@ him? £el:-preserbeshun :m de fust law wid me.’ 4
   
 ** Nuflin, whatever, sa; I regard dem as amoung de vanities.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1862-05-31_14_346-347$10/pct:37.760181,19.768519,26.742081,10.000000/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1862-05-31_14_346-347&#0036;10/pct:37.760181,19.768519,26.742081,10.000000/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2209,7 +2209,7 @@ as my memory serves me.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6$17/pct:42.896010,76.039741,51.692866,12.915896/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6&#0036;17/pct:42.896010,76.039741,51.692866,12.915896/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2283,7 +2283,7 @@ It is safe to say that the dusky corpse of that
 African will never darken the field of car-  
 nage,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6$18/pct:6.318017,11.991682,25.453446,58.271719/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6&#0036;18/pct:6.318017,11.991682,25.453446,58.271719/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3864,7 +3864,7 @@ I’d missed myself, and dat was the pint wid me.’’
 It is safe to say that the dusky corpse of that  
 African will never darken the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_living-age_1863-12-26_79_1021$26/pct:12.008929,47.822398,75.178571,42.929864/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_living-age_1863-12-26_79_1021&#0036;26/pct:12.008929,47.822398,75.178571,42.929864/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4950,7 +4950,7 @@ myself, and dat was de _ wid me.”
 It is safe to say that the dufky corpse of that Afri-  
 can will never darken the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1865-04-05_36_14$0/pct:79.211957,34.372478,12.540761,22.931800/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1865-04-05_36_14&#0036;0/pct:79.211957,34.372478,12.540761,22.931800/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5315,7 +5315,7 @@ for your country.’
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4$49/pct:19.313910,48.555957,64.379699,37.725632/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4&#0036;49/pct:19.313910,48.555957,64.379699,37.725632/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5348,7 +5348,7 @@ e
 ‘“*é May be not, sa’_—a dead white man ain’t much to dese sojers—let alone a  
 dead nigga—but I’d a missed myself, and dat was de pint wid me.’”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4$50/pct:17.246241,13.237064,64.426692,13.989170/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4&#0036;50/pct:17.246241,13.237064,64.426692,13.989170/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5915,7 +5915,7 @@ nothing to me by the side ob life.” “ Do you
 consider your life worth more than other peo-  
 ple’s?’’ **1t’s worth more to me, sah.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1870-07-28_1_29$3/pct:43.502674,58.010000,12.179144,5.240000/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1870-07-28_1_29&#0036;3/pct:43.502674,58.010000,12.179144,5.240000/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7746,7 +7746,7 @@ alone a dead nigga; but I’d ha’ missed myself, and
 dat was de pint wid me!’ Mr Planché’s Irish  
 coachman took much the same view of things
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal_1873-10-18_10_512$1/pct:51.235585,22.489083,36.573311,13.509825/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal_1873-10-18_10_512&#0036;1/pct:51.235585,22.489083,36.573311,13.509825/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8042,7 +8042,7 @@ rule from other men?”
 ues upon their lives; mine is not in de mark-  
 et.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1875-03-27_43_17$3/pct:38.629202,58.781898,10.425420,16.347687/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1875-03-27_43_17&#0036;3/pct:38.629202,58.781898,10.425420,16.347687/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8227,7 +8227,7 @@ me.”
 Tt is safe to say that the corpse of that African  
 will never darken the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1875-05-20_48_20$5/pct:54.657688,30.172414,21.380471,32.533733/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1875-05-20_48_20&#0036;5/pct:54.657688,30.172414,21.380471,32.533733/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9656,7 +9656,7 @@ dem as among de vanilies.”
   
 I regard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1879-02-06_56_6$0/pct:43.106618,53.181042,11.841299,16.951324/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1879-02-06_56_6&#0036;0/pct:43.106618,53.181042,11.841299,16.951324/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12581,7 +12581,7 @@ myself, and dat was de pint wid me.”
   
 A Good Shot.—A good story is told of the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1898-10_24_4$81/pct:50.249377,23.556430,36.315461,55.708661/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1898-10_24_4&#0036;81/pct:50.249377,23.556430,36.315461,55.708661/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

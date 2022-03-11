@@ -38,7 +38,7 @@ to lose; for lawyers’ houses are built on fools’ heads.” “ Beware
 of no man more than of yourself; we carry our worst enemies  
 within us.” In a word, asin all these bundles of conceits, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-review_1869-06-12_27_711$14/pct:9.771574,47.434853,36.421320,5.903909/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-review_1869-06-12_27_711&#0036;14/pct:9.771574,47.434853,36.421320,5.903909/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2074,7 +2074,7 @@ to blacken you.-SrintaBaif
 © inte Do not choose your friend by his looks.  
 ‘‘ Handsome shoes often pinch the feet.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153$11/pct:51.081081,84.578652,36.846847,2.977528/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153&#0036;11/pct:51.081081,84.578652,36.846847,2.977528/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2228,7 +2228,7 @@ we carry onr worst enemies within u?
 —— Beware of no man more than yourself:  
 we carry our worst enemies with us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157$16/pct:47.340426,84.375000,36.258865,2.399554/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157&#0036;16/pct:47.340426,84.375000,36.258865,2.399554/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2297,7 +2297,7 @@ very small Block of it within
 most, for ‘‘ mewing cats are very seldom good  
 mousers.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162$12/pct:11.944938,82.977528,36.234458,3.398876/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162&#0036;12/pct:11.944938,82.977528,36.234458,3.398876/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2493,7 +2493,7 @@ suro to blacken you. I HOLLOWAY&#x27;
 Do not choose your friend by his looks.  
 “Handsome shoes often pinch the feet.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1870-03-17_43_11$7/pct:51.496674,89.221891,20.620843,1.247208/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1870-03-17_43_11&#0036;7/pct:51.496674,89.221891,20.620843,1.247208/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3678,7 +3678,7 @@ Sce the sack opened before you buy what is
 in it, for he who trades im the dark aeka to be  
 Cc’ eated,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1871-01-28_2583$5/pct:77.280065,56.819414,15.052462,3.294469/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1871-01-28_2583&#0036;5/pct:77.280065,56.819414,15.052462,3.294469/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6048,7 +6048,7 @@ and never fight with a coal heaver, or contend with
 a base character, for they will be sure to blacken  
 you.—Spurgeon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1872-11-14_45_46$7/pct:29.369469,61.990181,20.713496,2.133686/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1872-11-14_45_46&#0036;7/pct:29.369469,61.990181,20.713496,2.133686/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

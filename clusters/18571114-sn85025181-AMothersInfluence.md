@@ -49,7 +49,7 @@ formed. 1 was an abstinent society when I was
 the sole constituent member of my own body ; and  
 | that | have adhered to it through all time, I ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_liberator_1857-01-02_27_1$0/pct:6.017905,55.280172,26.442308,6.357759/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_liberator_1857-01-02_27_1&#0036;0/pct:6.017905,55.280172,26.442308,6.357759/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ any game that can be played. She admonished |
 me against hard drink; and whatever capacity  
 for endurance | may have at present, and what
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17$12/pct:9.367494,14.588467,75.860689,8.501725/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17&#0036;12/pct:9.367494,14.588467,75.860689,8.501725/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ that | have adhered to it through all my time, I
   
 owe to my mother. * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17$12/pct:9.447558,23.040907,75.860689,12.173484/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17&#0036;12/pct:9.447558,23.040907,75.860689,12.173484/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ when I was the sole constituent of my own
 body ; and that { have adhered to it through  
 all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1857-05-07_31_19$3/pct:26.264489,19.885630,16.701791,10.514665/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1857-05-07_31_19&#0036;3/pct:26.264489,19.885630,16.701791,10.514665/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ she asked me not to drink, and I made then
 total abstinence society at a time when I was  
 the sole constituent member of my own body;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-02-12_1_7$5/pct:25.696056,76.077586,16.531323,16.925287/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-02-12_1_7&#0036;5/pct:25.696056,76.077586,16.531323,16.925287/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ constituent member of my own body, and that I
 have adhered to it through all time, I owe it to my  
 mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1859-11-30_30_47$0/pct:78.272827,78.903620,10.863586,7.523148/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1859-11-30_30_47&#0036;0/pct:78.272827,78.903620,10.863586,7.523148/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ resolution of total abstinence, at a time when I
 was sole constituent member of my own body,  
 and that I have adhered to it through all time, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24$15/pct:72.789784,80.262715,20.088409,9.632873/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24&#0036;15/pct:72.789784,80.262715,20.088409,9.632873/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1586,7 +1586,7 @@ ent member of my own body ; and that I have
 sient it through all time, I owe it to my  
 mother.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1860-11-29_34_48$3/pct:46.090535,11.036364,32.073045,82.200000/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1860-11-29_34_48&#0036;3/pct:46.090535,11.036364,32.073045,82.200000/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1683,7 +1683,7 @@ to drink, and I made a resolution of total abstinence, at the
 time when I was sole constituent member of my own body, and  
 that I have adhered to it through all time, I owe it to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-teacher_1861-05_2_10$19/pct:20.209581,16.097122,67.415170,23.291367/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-teacher_1861-05_2_10&#0036;19/pct:20.209581,16.097122,67.415170,23.291367/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2207,7 +2207,7 @@ not to drink, and thenI made a resolution of
 total abstinence; and that I have adhered to it  
 tbrough all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_revolution_1868-10-29_2_17$10/pct:7.057416,15.386285,24.551435,14.539931/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_revolution_1868-10-29_2_17&#0036;10/pct:7.057416,15.386285,24.551435,14.539931/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2497,7 +2497,7 @@ nence, at a time when I was sole constituent of my
 own body; and that I have adhered to it through all  
 time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1870-02-26_25_8$13/pct:57.419479,77.503272,16.449387,11.305628/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1870-02-26_25_8&#0036;13/pct:57.419479,77.503272,16.449387,11.305628/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2703,7 +2703,7 @@ resolution of total abstinence ; and that I have
 adhered to it throagh all time, I owe to my  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_revolution_1870-08-18_6_7$11/pct:38.331354,63.171577,24.406176,17.807626/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_revolution_1870-08-18_6_7&#0036;11/pct:38.331354,63.171577,24.406176,17.807626/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2820,7 +2820,7 @@ age she asked me not to drink, ard then I made a res-
 olution of total abstinence ; and that I have adhered  
 to it through all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_galaxy_1870-12_10_6$137/pct:57.094595,17.309753,32.263514,13.397642/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_galaxy_1870-12_10_6&#0036;137/pct:57.094595,17.309753,32.263514,13.397642/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2851,7 +2851,7 @@ made a resolution of total abstinence; and that
 I have adhered to it through all time, I owe to  
 my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1870-12-29_43_52$7/pct:50.665188,37.397617,20.898004,10.889799/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1870-12-29_43_52&#0036;7/pct:50.665188,37.397617,20.898004,10.889799/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2946,7 +2946,7 @@ to drink, and then I made a resolution of total ab-
 stinence; and that I have adhered to it through all  
 time, I owe to my mother.” — Thos. H. Benton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1872-12_55_6$63/pct:15.172414,35.590278,35.517241,16.059028/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1872-12_55_6&#0036;63/pct:15.172414,35.590278,35.517241,16.059028/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3122,7 +3122,7 @@ asked me not to drink, and then ] made a resolution
 of total abstinence; and that I have adhered to it  
 through all time, I owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1874-06-04_47_23$7/pct:28.451178,33.676912,21.408530,7.908546/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1874-06-04_47_23&#0036;7/pct:28.451178,33.676912,21.408530,7.908546/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3232,7 +3232,7 @@ nut to drink, and then I made a resolu-
 tion of total abstinence, and that I have  
 adhered to it through all time, I owe t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1877-03-22_54_12$2/pct:19.023723,8.687555,23.251217,84.969325/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1877-03-22_54_12&#0036;2/pct:19.023723,8.687555,23.251217,84.969325/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3439,7 +3439,7 @@ and correct wishes. When I was seven years
 of age she asked me not to drink, and then I  
 made a resolution of total abstinence, at 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34$3/pct:40.371926,73.739209,27.924415,15.992731/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34&#0036;3/pct:40.371926,73.739209,27.924415,15.992731/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4068,7 +4068,7 @@ constituent member of my own body, and
 that I have adhered to i: through all the  
 time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1879-05-03_47_23$3/pct:27.861320,75.066205,10.582011,7.669586/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1879-05-03_47_23&#0036;3/pct:27.861320,75.066205,10.582011,7.669586/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4290,7 +4290,7 @@ time when I was sole constituent member of
 my own body, and that I have adhered to it  
 through all the time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11$1/pct:10.391566,15.560072,28.373494,19.037940/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11&#0036;1/pct:10.391566,15.560072,28.373494,19.037940/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

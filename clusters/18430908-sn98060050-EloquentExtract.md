@@ -71,7 +71,7 @@ come—to use the touching language
 of the Psatmist— “forgotten and  
 clean out of mind.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_university-magazine_1842-05_19_113$73/pct:16.649950,9.589867,69.157472,77.503016/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_university-magazine_1842-05_19_113&#0036;73/pct:16.649950,9.589867,69.157472,77.503016/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ and will not remember to lisp our name; and then
 we have become—to use the touching language* of  
 the Psalmist—“ forgotten and clean out of mind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1842-06-16_13_24$3/pct:29.382127,13.741020,12.529833,7.367839/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1842-06-16_13_24&#0036;3/pct:29.382127,13.741020,12.529833,7.367839/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ dried, and will glisten again with joy ; and even our children will cease to thi
 remember to lisp our name.’ Then shall we have become, in the touching language of the Psalmist,  
 ‘
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1842-07_20_1$105/pct:19.736842,15.471780,73.926593,68.838527/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1842-07_20_1&#0036;105/pct:19.736842,15.471780,73.926593,68.838527/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ shall we have become, in the touching
 language of the Psalmist, “forgotten and  
 clean out of mind.” —Knickerbucker
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7$2/pct:31.026558,22.200072,27.119510,37.640449/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7&#0036;2/pct:31.026558,22.200072,27.119510,37.640449/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ the rocks were rent,&#x27;when the Man of sorrows will not remember to lisp our 
 yielded up the ghost I For us. His creatures, it is we have become—to use the touching language of  
 only in our individual eyes that the change is the Psalmist forgotten and cleanout of mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24$2/pct:43.593544,16.209928,31.653491,4.343330/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24&#0036;2/pct:43.593544,16.209928,31.653491,4.343330/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ rors as unceasingly as ever; the world will have cats, birds and beasts, quarrel
 the same attraction for an offspring, yet unborn, things, and on all manner of occasions. If there is  
 that she bad once for ourselves, and that she has anything in the world that will make a man fee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24$2/pct:43.478261,80.455016,31.604084,6.023785/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24&#0036;2/pct:43.478261,80.455016,31.604084,6.023785/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ the House from Va., now a U. S.S. Heis|and our friends will all return and we
 shall be left behind to darkness and the  
 good natuied face would disarm a Nero.| worm. And it may be for some shor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_huntress_1846-01-24_9_50$1/pct:54.960067,79.698408,41.614124,4.775202/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_huntress_1846-01-24_9_50&#0036;1/pct:54.960067,79.698408,41.614124,4.775202/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ while nature wore the same aspect of beauty as when
 her Creator commanded her to be. The heavens shall  
 I be as bright over our graves as they are now around
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1846-04-23_17_17$3/pct:18.291090,65.448822,12.437941,2.489745/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1846-04-23_17_17&#0036;3/pct:18.291090,65.448822,12.437941,2.489745/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ funeral will wind on its way, and our friends | tism, Hemorrhoids, Piles, Worms,
 will Yetarn; and we shall be left to darkness, | 8%! Kidneys, and-miany others too numerovs  
 And it may be for a short time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-05-15_9_10$3/pct:64.876576,74.682368,25.892857,11.362463/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-05-15_9_10&#0036;3/pct:64.876576,74.682368,25.892857,11.362463/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ Our funeral will wind on its way, and the prayers will
 be said, and our friends will all return, and we shall be left to  
 darkness, And it may be for a short time that we shail be sp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6$1/pct:67.764523,71.063588,27.878631,11.809235/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6&#0036;1/pct:67.764523,71.063588,27.878631,11.809235/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ _  taaaton; ae Rear branch Mil preemie A. Easier a member of A. B. M. U. . Rel? 
 ee eee. Sylvia Katty, per Rev. aly concert, per Rev.Mr. Howard, ==! Sn egigg] «&gt;it wa duke nol note, &quot;30 48| friends will return, and we shall be Jeft to darkness. And it) Conspicuous and foremost among the pv adndy wre Mente Bow Ail 4  
 ~~ er by Gowriemen. oie Tolland he » Bt Coe ee “ aa] rite vst 10 00 «“ Balance to new aect..19 23) may be for a short time that we shall be spoken of, but the lights of our moral firmament is the Tem- are the cause of it. You alow 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-07-17_9_19$0/pct:0.000000,87.668067,98.490021,3.592437/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-07-17_9_19&#0036;0/pct:0.000000,87.668067,98.490021,3.592437/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ same aspect of beauty as when the Creator
 commanded her to be. The heavens shall be  
 as bright over our graves as they now ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12$25/pct:20.226537,75.712106,32.969256,8.697864/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12&#0036;25/pct:20.226537,75.712106,32.969256,8.697864/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ continue to move on, and laughter and song
 will be heard in the place in which we died ;  
 and the eye that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12$25/pct:17.920712,71.948118,71.116505,16.480163/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12&#0036;25/pct:17.920712,71.948118,71.116505,16.480163/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3506,7 +3506,7 @@ mourned for us will be dried and will glistem with
 joy ; and even our children will cease to think of us,  
 and will not remember to lisp our name.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239$22/pct:60.368098,13.120567,25.276074,13.497340/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239&#0036;22/pct:60.368098,13.120567,25.276074,13.497340/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4329,7 +4329,7 @@ the very chamber in which we died; and the
 eyes will glisten again with joy; and even our  
 children will cease to think of us, and will no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-08_79_470$26/pct:50.039185,58.080937,35.854232,30.593026/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-08_79_470&#0036;26/pct:50.039185,58.080937,35.854232,30.593026/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5551,7 +5551,7 @@ Days will lo move and
 laughter will be heard in the very «hasm-  
 ber in which we died; and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16$2/pct:77.682737,67.786885,13.802488,12.691257/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16&#0036;2/pct:77.682737,67.786885,13.802488,12.691257/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5587,7 +5587,7 @@ Days will
 laughter will be heard in the very cham-  
 ber in which we died; and the eyes wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16$4/pct:72.672614,68.633880,18.231187,11.775956/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16&#0036;4/pct:72.672614,68.633880,18.231187,11.775956/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5853,7 +5853,7 @@ around our path; the world has the same attraction for off-
 spring yet unborn that she once had for ourselves, and that  
 she now has for our children.--The Telegram.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1875-06-05_10_1$5/pct:36.905953,63.409264,27.463732,8.671352/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1875-06-05_10_1&#0036;5/pct:36.905953,63.409264,27.463732,8.671352/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

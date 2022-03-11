@@ -71,7 +71,7 @@ spend in reducing to a readable condition,
 manuscripts that the writers themselves would  
 be puzzled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7$303/pct:41.244939,36.368313,38.081984,54.183813/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7&#0036;303/pct:41.244939,36.368313,38.081984,54.183813/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ pal ATR ee is wi Mestre Cheek as manners, often apparently harsh,—but under
   
 ischolars, sent to the printer in their own hand- : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42$5/pct:16.864669,43.458647,77.246901,8.515038/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42&#0036;5/pct:16.864669,43.458647,77.246901,8.515038/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ It will the lines of care erase,
   
 Moluccas; and is cultivated, for the sake of atitely out of place. I have seen the sermons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42$5/pct:16.967975,36.729323,77.169421,19.718045/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42&#0036;5/pct:16.967975,36.729323,77.169421,19.718045/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ or no points, and those few, if there are any, entirely out of place. I
 have seen the sermons of divines sent to the press without points or capi-  
 tals to designate the division of sentences ; sermons which, if publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45$0/pct:62.113575,73.041373,26.864919,12.599032/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45&#0036;0/pct:62.113575,73.041373,26.864919,12.599032/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ but the practical printer knows how many hours the compositors, and
 after him the proof-reader, is compelled to spend in reducing to a reada-  
 ble condition manuscripts that the writer himself would{be puzzled to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45$0/pct:62.214382,85.409331,26.881720,4.962588/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45&#0036;0/pct:62.214382,85.409331,26.881720,4.962588/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

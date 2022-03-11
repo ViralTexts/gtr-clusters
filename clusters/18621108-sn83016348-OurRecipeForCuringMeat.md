@@ -235,7 +235,7 @@ never be abandoned. There is none that
 surpasses it, if so good.—Germantown Tele-  
 graph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-11-22_2156$9/pct:67.180617,70.686329,13.913363,8.599779/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-11-22_2156&#0036;9/pct:67.180617,70.686329,13.913363,8.599779/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ tried, it will never be abandoned. There is none that
   
 surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_genesee-farmer_1863-12_24_12$16/pct:51.270492,19.320310,38.360656,32.004282/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_genesee-farmer_1863-12_24_12&#0036;16/pct:51.270492,19.320310,38.360656,32.004282/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ be abandoned.
 There 1s none that surpasses  
 it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1$8/pct:46.463142,33.291203,34.214445,15.444894/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1&#0036;8/pct:46.463142,33.291203,34.214445,15.444894/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ ways to be found in salt and sugar.
 f this receipt is properly tried, it, will never  
 be abandoned, @fhere is none that surpasses it,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-11-01_17_21$8/pct:52.131603,81.552163,20.991659,8.333333/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-11-01_17_21&#0036;8/pct:52.131603,81.552163,20.991659,8.333333/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ ing off the dirt always to be found in saltand’suger. (snd it Se ee on
 If this recipe is properly tried, it will never be aban- tried three times without a therefore think  
 doned. There is none
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-01-04_34_4$0/pct:66.756896,93.025309,25.032225,3.649205/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-01-04_34_4&#0036;0/pct:66.756896,93.025309,25.032225,3.649205/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ always to ‘be found in galt and pe hPa gah
 is properly tried, it will never be ; There  
 is none that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141$30/pct:6.055901,60.984848,25.652174,8.890374/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141&#0036;30/pct:6.055901,60.984848,25.652174,8.890374/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ omit boiling the pickle, and find it toanswer well,
 though the operation of boiling purifies the pickle  
 by throwing off the dirt always to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20$2/pct:63.954172,59.900000,27.203290,15.920000/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20&#0036;2/pct:63.954172,59.900000,27.203290,15.920000/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ the dirt. If this recipe is properly tried, it
 will never be abandoned. There is none that  
 surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-11-15_18_22$4/pct:60.236448,53.441385,24.798155,10.990231/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-11-15_18_22&#0036;4/pct:60.236448,53.441385,24.798155,10.990231/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1251,7 +1251,7 @@ sugar. If this receipt is properly tried, it will
 never be abandoned. There is none that sur-  
 passes it, if so good.—[ Germantown Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-01-01_19_1$3/pct:43.901766,17.688081,25.027594,25.021133/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-01-01_19_1&#0036;3/pct:43.901766,17.688081,25.027594,25.021133/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ time it should be slightly sprinkled with pow-
 dered saltpetre, which removes all the surface  
 blood, &amp;c., leaving the meat fresh and clean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1868-01_2_1$18/pct:44.522241,72.857537,34.925865,17.690824/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1868-01_2_1&#0036;18/pct:44.522241,72.857537,34.925865,17.690824/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1472,7 +1472,7 @@ If this receipt is properly tried, it will never
 be abandoned. ere is none that surpasses  
 it, if so good.— Germantown Tdegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1868-12-19_2473$7/pct:60.367011,66.784104,15.671799,6.947576/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1868-12-19_2473&#0036;7/pct:60.367011,66.784104,15.671799,6.947576/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1691,7 +1691,7 @@ never be abandoned. There is none that
 surpass it, if so good.—Germantown Tele-  
 graph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1870-10-29_2570$7/pct:60.375881,46.621991,15.387627,13.799234/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1870-10-29_2570&#0036;7/pct:60.375881,46.621991,15.387627,13.799234/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1773,7 +1773,7 @@ find it to answer well ;though the operation of
 boiling purifies the pickle by throwing off the  
 dirt always to be found in salt and sugar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45$0/pct:81.427402,86.881590,10.030022,7.045823/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45&#0036;0/pct:81.427402,86.881590,10.030022,7.045823/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2011,7 +2011,7 @@ find it to answer well ; though the operation of
 boiling purifies the pickle by throwing off the  
 dirt always to be found in salt and sugar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12$27/pct:51.578073,75.712719,35.132890,14.062500/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12&#0036;27/pct:51.578073,75.712719,35.132890,14.062500/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3116,7 +3116,7 @@ the pickle, and find it to answer well, though
 the operation of boiling purifies the pickle  
 by throwing off the d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2$23/pct:52.079482,23.092968,35.998152,28.784267/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2&#0036;23/pct:52.079482,23.092968,35.998152,28.784267/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

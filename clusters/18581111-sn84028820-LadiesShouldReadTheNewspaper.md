@@ -223,7 +223,7 @@ part of the time covered with weekly and daily
 journals. Let the whole family, man, woman  
 and children, read the newspaper. And if any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-05-23_12_21$4/pct:49.518861,40.705959,12.413395,12.079016/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-05-23_12_21&#0036;4/pct:49.518861,40.705959,12.413395,12.079016/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ part of the time covered with weekly and daily
 journals. Let the whole family, man, woman  
 and children, read the newspaper. And if any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-07_6_1$92/pct:11.042693,17.899250,34.277504,26.339764/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-07_6_1&#0036;92/pct:11.042693,17.899250,34.277504,26.339764/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1457,7 +1457,7 @@ poems on the centre-table be kept part of the time covered
 with weekly and daily journals. Let the whole family—  
 men, women, and children—read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1858-11_57_5$81/pct:16.365777,74.740664,34.929356,11.177386/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1858-11_57_5&#0036;81/pct:16.365777,74.740664,34.929356,11.177386/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,7 +1706,7 @@ cation with this actual world and its transpiring
 events. Urge her to read newspapers and become  
 familiar with the present character and improve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17$3/pct:44.921371,84.107199,12.000516,4.414667/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17&#0036;3/pct:44.921371,84.107199,12.000516,4.414667/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1727,7 +1727,7 @@ her have an intelligent opinion, and be able to
 sustain an intelligent conversation concerning the  
 mental, moral, political and religious improve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17$3/pct:44.972931,88.615353,12.013406,4.466604/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17&#0036;3/pct:44.972931,88.615353,12.013406,4.466604/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ time covered with weekly and daily journals.—
 Let the family—men, women, and children—read  
 the newspaper.— Exchange.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17$3/pct:45.037381,93.030020,12.013406,2.887712/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17&#0036;3/pct:45.037381,93.030020,12.013406,2.887712/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1783,7 +1783,7 @@ covered with weekly and daily journals. Lat
 ithe family—men women sf children—read  
 the newspaper.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-05-21_1_21$5/pct:9.270893,64.094828,16.428707,15.732759/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-05-21_1_21&#0036;5/pct:9.270893,64.094828,16.428707,15.732759/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2462,7 +2462,7 @@ time covered with weekly and daily journals. Let the
 whole family—men, women and children—read the  
 newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1862-01_64$74/pct:50.990491,43.446356,35.499208,22.115385/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1862-01_64&#0036;74/pct:50.990491,43.446356,35.499208,22.115385/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2553,7 +2553,7 @@ Our thoughts and our concerns should be for
   
 | the present world, to kuow what it is, and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127$3/pct:68.519939,21.336538,12.730061,6.759615/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127&#0036;3/pct:68.519939,21.336538,12.730061,6.759615/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2575,7 +2575,7 @@ covered with weekly and daily journals. Let
 the whole family—men, women, and children  
 —read the heWspapers.- Lady&#x27;s Book
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127$3/pct:68.877812,28.115385,12.078221,4.375000/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127&#0036;3/pct:68.877812,28.115385,12.078221,4.375000/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3791,7 +3791,7 @@ ligious improvements of our times.
   
 See that each hour’s feelings and thoughts an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-12-20_35_2$3/pct:44.839811,28.450315,12.250525,6.851341/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-12-20_35_2&#0036;3/pct:44.839811,28.450315,12.250525,6.851341/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4061,7 +4061,7 @@ tre-table be kept part of the time covered with
 weekly and daily journals. Let the whole family,  
 men, women, and children, read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1868-03_76_453$60/pct:11.471037,65.537149,34.832317,16.516064/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1868-03_76_453&#0036;60/pct:11.471037,65.537149,34.832317,16.516064/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4382,7 +4382,7 @@ and daily journals. Let the whole family, men,
   
 women and children, read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-01-09_22_2$10/pct:58.217993,77.332242,26.268743,11.497545/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-01-09_22_2&#0036;10/pct:58.217993,77.332242,26.268743,11.497545/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4789,7 +4789,7 @@ part of the time covered with weekly and daily
 journals. Let the whole family, men, women,  
 and children, read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47$0/pct:28.807314,36.763519,10.030022,4.933414/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47&#0036;0/pct:28.807314,36.763519,10.030022,4.933414/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4806,7 +4806,7 @@ tion with this actual world and its transpiring | t#¢ most peasant and erjoyall
 and our concerns should be for the present] fine display of cattle at their fair October 26, on  
 world, to know what it is, and improve the} which occasion there were some eighteen hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47$0/pct:28.820961,36.289346,20.442140,2.350686/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47&#0036;0/pct:28.820961,36.289346,20.442140,2.350686/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4835,7 +4835,7 @@ improvements of our times. Let the gilded
 annuals and poems on the centre table be kt  
 part of the time covered with weekly and da&quot; -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12$2/pct:49.044850,70.240700,34.925249,19.912473/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12&#0036;2/pct:49.044850,70.240700,34.925249,19.912473/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

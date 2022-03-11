@@ -726,7 +726,7 @@ The faults of others go.
   
 Then let us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210$1/pct:18.390192,15.969080,15.458422,19.023379/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210&#0036;1/pct:18.390192,15.969080,15.458422,19.023379/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2063,7 +2063,7 @@ Be sure your own defects you cure
   
 Before of others’ tell.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8$4/pct:30.353535,64.489267,20.656566,14.452258/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8&#0036;4/pct:30.353535,64.489267,20.656566,14.452258/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2262,7 +2262,7 @@ My own short-comings bid me let
 The faults of others go.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10$16/pct:47.559853,53.829916,32.550645,36.761158/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10&#0036;16/pct:47.559853,53.829916,32.550645,36.761158/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3144,7 +3144,7 @@ The faults of others go.
   
 Now l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-02-14_18_7$5/pct:11.828271,10.372575,9.959112,12.081129/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-02-14_18_7&#0036;5/pct:11.828271,10.372575,9.959112,12.081129/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
