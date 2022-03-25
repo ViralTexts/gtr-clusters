@@ -1,7 +1,7 @@
 
 # Eloquent Extract
 
-### 216 reprints from 1843-09-08 to 1898-07-23 [cl14]
+### 216 reprints from 1842-05-01 to 1898-07-23
 
 ## [Eloquent Extract](https://chroniclingamerica.loc.gov/lccn/sn98060050/1843-09-08/ed-1/seq-1/)
 
@@ -14,7 +14,7 @@
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The University Magazine 1833-1880_](https://iiif.archivelab.org/iiif/sim_university-magazine_1842-05_19_113?page=73)
 
@@ -75,7 +75,7 @@ clean out of mind.”
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1842-06-16_13_24?page=3)
 
@@ -106,7 +106,7 @@ the Psalmist—“ forgotten and clean out of mind.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Knickerbocker; or New York Monthly Magazine (1833-1862)_](https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1842-07_20_1?page=105)
 
@@ -144,7 +144,7 @@ remember to lisp our name.’ Then shall we have become, in the touching languag
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bloomington herald._](https://chroniclingamerica.loc.gov/lccn/sn85050801/1842-11-18/ed-1/seq-4)
 
@@ -192,7 +192,7 @@ and clean out of mind!&#x27;Knickerbock
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Varieties
 
@@ -200,7 +200,7 @@ and clean out of mind!&#x27;Knickerbock
 
 #### 1842-11-26 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## "Generation after generation," says an eloquent modern writer, "have felt as we feel, and their fellows were as active in life as ours are now
 
@@ -208,7 +208,7 @@ and clean out of mind!&#x27;Knickerbock
 
 #### 1842-12-30 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Yazoo City Whig and political register._](https://chroniclingamerica.loc.gov/lccn/sn87065696/1843-02-03/ed-1/seq-1)
 
@@ -252,7 +252,7 @@ clean out of minde.&#x27;&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Baton-Rouge gazette._](https://chroniclingamerica.loc.gov/lccn/sn82003383/1843-02-18/ed-1/seq-1)
 
@@ -295,7 +295,7 @@ Psrdmist, &#x27; forgotten and clean out of rnind!&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## "Generation after generation," says an eloquent modern writer, "have felt as we feel, and their lives were as active asours are now
 
@@ -303,7 +303,7 @@ Psrdmist, &#x27; forgotten and clean out of rnind!&#x27;
 
 #### 1843-03-09 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Common Lot
 
@@ -311,7 +311,7 @@ Psrdmist, &#x27; forgotten and clean out of rnind!&#x27;
 
 #### 1843-03-22 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7?page=2)
 
@@ -359,7 +359,7 @@ clean out of mind.” —Knickerbucker
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24?page=2)
 
@@ -381,7 +381,7 @@ only in our individual eyes that the change is the Psalmist forgotten and cleano
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24?page=2)
 
@@ -404,7 +404,7 @@ that she bad once for ourselves, and that she has anything in the world that wil
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbia Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025180/1843-06-17/ed-1/seq-4)
 
@@ -454,7 +454,7 @@ mind I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holly Springs gazette._](https://chroniclingamerica.loc.gov/lccn/sn87090028/1843-06-30/ed-1/seq-1)
 
@@ -483,7 +483,7 @@ very chamber where we died; and soon w
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1843-09-08/ed-1/seq-1)
 
@@ -532,7 +532,7 @@ mind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The guard._](https://chroniclingamerica.loc.gov/lccn/sn83016785/1843-12-27/ed-1/seq-1)
 
@@ -573,7 +573,7 @@ ihe (hing .of file will creep in, aud ou
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Port-Gibson herald._](https://chroniclingamerica.loc.gov/lccn/sn87090149/1844-01-18/ed-1/seq-1)
 
@@ -628,7 +628,7 @@ out of mind
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Port-Gibson correspondent._](https://chroniclingamerica.loc.gov/lccn/sn83016954/1844-01-20/ed-1/seq-3)
 
@@ -677,7 +677,7 @@ and clean out of mind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1844-03-14/ed-1/seq-1)
 
@@ -721,7 +721,7 @@ Psalmist, “ forgotten and clean out of mind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ripley advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020048/1846-01-24/ed-1/seq-1)
 
@@ -770,7 +770,7 @@ ed, and the eye t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Huntress._](https://iiif.archivelab.org/iiif/sim_huntress_1846-01-24_9_50?page=1)
 
@@ -788,7 +788,7 @@ good natuied face would disarm a Nero.| worm. And it may be for some shor
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cadiz sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84028793/1846-03-11/ed-1/seq-3)
 
@@ -823,7 +823,7 @@ in tho place in which wt died, and tho e
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald of the times, and Rhode Islander._](https://chroniclingamerica.loc.gov/lccn/sn83021168/1846-04-09/ed-1/seq-4)
 
@@ -870,7 +870,7 @@ Cforgotten and clean out of mind.””&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1846-04-09/ed-1/seq-4)
 
@@ -904,7 +904,7 @@ the eye that
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Yazoo City Whig._](https://chroniclingamerica.loc.gov/lccn/sn84020019/1846-04-10/ed-1/seq-1)
 
@@ -927,7 +927,7 @@ around our paths. -The world Will have
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Yazoo City Whig._](https://chroniclingamerica.loc.gov/lccn/sn84020019/1846-04-10/ed-1/seq-1)
 
@@ -963,7 +963,7 @@ and the ey
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Eloquent Extract
 
@@ -971,7 +971,7 @@ and the ey
 
 #### 1846-04-13 &middot; Cleveland, Ohio
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1846-04-23_17_17?page=3)
 
@@ -990,7 +990,7 @@ I be as bright over our graves as they are now around
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Baton-Rouge gazette._](https://chroniclingamerica.loc.gov/lccn/sn82003383/1846-04-25/ed-1/seq-2)
 
@@ -1027,7 +1027,7 @@ died, nnd the eyes that mo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wheeling times and advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84038585/1846-05-11/ed-1/seq-2)
 
@@ -1061,7 +1061,7 @@ i*ar I hi the place in which we died; and th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-05-15_9_10?page=3)
 
@@ -1108,7 +1108,7 @@ And it may be for a short time
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Casket. Devoted to Literature, Science, the Arts, News, &c. (1846-1846)_](https://iiif.archivelab.org/iiif/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6?page=1)
 
@@ -1137,7 +1137,7 @@ darkness, And it may be for a short time that we shail be sp
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1846-06-18/ed-1/seq-2)
 
@@ -1176,7 +1176,7 @@ and the eye that mourned fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-07-17_9_19?page=0)
 
@@ -1192,7 +1192,7 @@ ee eee. Sylvia Katty, per Rev. aly concert, per Rev.Mr. Howard, ==! Sn egigg] «
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Parlor Magazine (1844-1855)_](https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12?page=25)
 
@@ -1212,7 +1212,7 @@ as bright over our graves as they now ar
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Parlor Magazine (1844-1855)_](https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12?page=25)
 
@@ -1237,7 +1237,7 @@ and the eye that
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Burlington hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn82014327/1846-12-24/ed-1/seq-1)
 
@@ -1275,7 +1275,7 @@ eye that mourned for
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Baton-Rouge gazette._](https://chroniclingamerica.loc.gov/lccn/sn82003383/1847-01-23/ed-1/seq-1)
 
@@ -1321,7 +1321,7 @@ clean out of mind Knickerbocker
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Variety
 
@@ -1329,7 +1329,7 @@ clean out of mind Knickerbocker
 
 #### 1847-12-03 &middot; Greenville, S.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1848-12-20/ed-1/seq-2)
 
@@ -1365,7 +1365,7 @@ moaned fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1849-09-06/ed-1/seq-4)
 
@@ -1413,7 +1413,7 @@ no ciean gone out or mind,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Mississippi Creole._](https://chroniclingamerica.loc.gov/lccn/sn83016872/1849-09-08/ed-1/seq-1)
 
@@ -1443,7 +1443,7 @@ and clean gone out of mind.&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1850-09-26/ed-1/seq-4)
 
@@ -1485,7 +1485,7 @@ and the eye tha
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the times._](https://chroniclingamerica.loc.gov/lccn/sn84028880/1854-10-17/ed-1/seq-1)
 
@@ -1515,7 +1515,7 @@ on m way, and the prayers will be aaid
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026192/1856-03-08/ed-1/seq-3)
 
@@ -1551,7 +1551,7 @@ I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1856-12-25/ed-1/seq-1)
 
@@ -1598,7 +1598,7 @@ clean out of mind.&#x27;&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1858-04-30/ed-1/seq-4)
 
@@ -1643,7 +1643,7 @@ the touching language of the Psalmist,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1858-06-17/ed-1/seq-1)
 
@@ -1686,7 +1686,7 @@ yforgotton and clean gone out of mind.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1858-07-16/ed-1/seq-1)
 
@@ -1727,7 +1727,7 @@ gotten and out of mind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1858-07-24/ed-1/seq-1)
 
@@ -1761,7 +1761,7 @@ mind/ &quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1858-08-18/ed-1/seq-1)
 
@@ -1802,7 +1802,7 @@ out of mind.’
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Marshall County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056247/1858-08-19/ed-1/seq-1)
 
@@ -1834,7 +1834,7 @@ gotten.jDays will move on,aud laughter and
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1858-08-19/ed-1/seq-1)
 
@@ -1876,7 +1876,7 @@ Psalmist, ‘forgotten and out of mind.’
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kansas herald of freedom._](https://chroniclingamerica.loc.gov/lccn/sn82006863/1858-09-04/ed-1/seq-1)
 
@@ -1915,7 +1915,7 @@ and clean gone out of mind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saint Paul weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn90059500/1858-09-18/ed-1/seq-1)
 
@@ -1956,7 +1956,7 @@ mind.”
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1858-09-30/ed-1/seq-1)
 
@@ -1995,7 +1995,7 @@ followed. Sally was heiress to the, ... .... ..
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1858-09-30/ed-1/seq-1)
 
@@ -2028,7 +2028,7 @@ dencc in &quot;Virginia. It was in the ffuagc of the Psalmist, forgotten and
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Newbern weekly progress._](https://chroniclingamerica.loc.gov/lccn/sn84026547/1858-10-28/ed-1/seq-4)
 
@@ -2051,7 +2051,7 @@ laughter and song will be heard in; the otH in
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1858-11-17/ed-1/seq-1)
 
@@ -2085,7 +2085,7 @@ song will be beard in tbvro
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Nevada journal._](https://chroniclingamerica.loc.gov/lccn/sn84026884/1858-12-10/ed-1/seq-1)
 
@@ -2112,7 +2112,7 @@ we died ; and the that mourned
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1858-12-18/ed-1/seq-1)
 
@@ -2145,7 +2145,7 @@ song will be heard in the room
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1859-01-01/ed-1/seq-1)
 
@@ -2172,7 +2172,7 @@ we died, and the e\e that m
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1859-02-22/ed-1/seq-2)
 
@@ -2215,7 +2215,7 @@ mind.&#x27;&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jeffersonian Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028083/1859-03-04/ed-1/seq-1)
 
@@ -2245,7 +2245,7 @@ gotten and clean gone out of tuiud.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035102/1859-03-10/ed-1/seq-1)
 
@@ -2295,7 +2295,7 @@ touching language of the Psalmist, &quot;Forgot
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1859-04-06/ed-1/seq-1)
 
@@ -2326,7 +2326,7 @@ gotten and clean gone cut cf mind.&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1859-04-07/ed-1/seq-1)
 
@@ -2369,7 +2369,7 @@ clean gone out of mind.’
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clarksville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061076/1859-04-08/ed-1/seq-1)
 
@@ -2401,7 +2401,7 @@ out of mind.&quot; V&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1859-05-07/ed-1/seq-1)
 
@@ -2431,7 +2431,7 @@ mist. “forgotten and clean gone out of mind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Arkansas true Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014282/1859-05-11/ed-1/seq-3)
 
@@ -2466,7 +2466,7 @@ ter and song will be heard in the r
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The south-western._](https://chroniclingamerica.loc.gov/lccn/sn83016483/1859-05-11/ed-1/seq-1)
 
@@ -2490,7 +2490,7 @@ will be heard in the roo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1859-05-25/ed-1/seq-1)
 
@@ -2516,7 +2516,7 @@ pened. Roll back thc billowy tide of time!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1859-05-25/ed-1/seq-1)
 
@@ -2542,7 +2542,7 @@ for a short time we shall be spoken of
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1859-05-31/ed-1/seq-1)
 
@@ -2565,7 +2565,7 @@ be said, and we shall be left in the dark
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kanzas news._](https://chroniclingamerica.loc.gov/lccn/sn85030219/1859-06-25/ed-1/seq-1)
 
@@ -2591,7 +2591,7 @@ mourn
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026192/1859-07-28/ed-1/seq-1)
 
@@ -2615,7 +2615,7 @@ happened. The throbbing heart will be still
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1859-08-11/ed-1/seq-1)
 
@@ -2660,7 +2660,7 @@ and clean gone out of mind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1859-12-15/ed-1/seq-1)
 
@@ -2693,7 +2693,7 @@ gotten and clean gone out of mind.&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## ALL IS VANITY
 
@@ -2701,7 +2701,7 @@ gotten and clean gone out of mind.&#x27;
 
 #### 1859-12-28 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1860-01-07/ed-1/seq-1)
 
@@ -2746,7 +2746,7 @@ clean gone out of mind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1861-04-17/ed-1/seq-1)
 
@@ -2778,7 +2778,7 @@ in the room i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1861-05-18/ed-1/seq-1)
 
@@ -2810,7 +2810,7 @@ be for a short time, we shall be spoke
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## FORGOTTEN.
 
@@ -2818,7 +2818,7 @@ be for a short time, we shall be spoke
 
 #### 1861-09-26 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1861-10-12/ed-1/seq-2)
 
@@ -2863,7 +2863,7 @@ clean out of mind,&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Delaware gazette._](https://chroniclingamerica.loc.gov/lccn/sn83035595/1861-11-01/ed-1/seq-1)
 
@@ -2907,7 +2907,7 @@ ist, &#x27;forgotten and clean out of mind.&#x27;&quot;,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1862-01-31/ed-1/seq-4)
 
@@ -2954,7 +2954,7 @@ gotten and clean out of mind.&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Butte record._](https://chroniclingamerica.loc.gov/lccn/sn86058108/1863-05-16/ed-1/seq-1)
 
@@ -2995,7 +2995,7 @@ and gone on: of mind/
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1863-09-10/ed-1/seq-1)
 
@@ -3037,7 +3037,7 @@ gone out of mind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1863-11-14/ed-1/seq-1)
 
@@ -3081,7 +3081,7 @@ mind.”
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1864-06-24/ed-1/seq-1)
 
@@ -3119,7 +3119,7 @@ eye that
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1867-04-07/ed-1/seq-4)
 
@@ -3157,7 +3157,7 @@ mourned for us will be dried and wil
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _North Branch democrat._](https://chroniclingamerica.loc.gov/lccn/sn86081912/1867-04-10/ed-1/seq-1)
 
@@ -3202,7 +3202,7 @@ out of mind.&#x27;&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The national Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053571/1867-04-11/ed-1/seq-1)
 
@@ -3234,7 +3234,7 @@ will not remember to lisp our name
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1867-05-10/ed-1/seq-1)
 
@@ -3267,7 +3267,7 @@ remember to lisp our name.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1867-05-18/ed-1/seq-1)
 
@@ -3307,7 +3307,7 @@ memo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1867-05-25/ed-1/seq-1)
 
@@ -3340,7 +3340,7 @@ w iil not remember to lisp our name
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1867-05-31/ed-1/seq-1)
 
@@ -3373,7 +3373,7 @@ us, and will not remember to lisp our name
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn86053370/1867-06-12/ed-1/seq-1)
 
@@ -3406,7 +3406,7 @@ remember to lisf our naoee.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1867-08-14/ed-1/seq-1)
 
@@ -3443,7 +3443,7 @@ Hospitality Among Lions. &quot;I hav
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1867-08-18/ed-1/seq-1)
 
@@ -3480,7 +3480,7 @@ dried and will glisten
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239?page=22)
 
@@ -3510,7 +3510,7 @@ and will not remember to lisp our name.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## STRAY THOUGHTS
 
@@ -3518,7 +3518,7 @@ and will not remember to lisp our name.
 
 #### 1868-01-01 &middot; Cincinnati
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1868-04-09/ed-1/seq-1)
 
@@ -3546,7 +3546,7 @@ penedt Days will continue
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1868-04-16/ed-1/seq-4)
 
@@ -3577,7 +3577,7 @@ In which w died;, and the eye tha
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tiffin weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076793/1868-04-23/ed-1/seq-1)
 
@@ -3606,7 +3606,7 @@ while and all this will have happoncd
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1868-05-24/ed-1/seq-6)
 
@@ -3631,7 +3631,7 @@ to SUpfor onrelves, and that shewe know rytinog
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1868-05-26/ed-1/seq-1)
 
@@ -3664,7 +3664,7 @@ and will not remember to lisp our name
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1868-05-26/ed-1/seq-2)
 
@@ -3697,7 +3697,7 @@ and will not remember to lisp our name
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-05-30/ed-1/seq-1)
 
@@ -3723,7 +3723,7 @@ thai she lis* now for our children. \ et
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn84024207/1868-06-04/ed-1/seq-1)
 
@@ -3756,7 +3756,7 @@ song will be he
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## We Fade as a Leaf
 
@@ -3764,7 +3764,7 @@ song will be he
 
 #### 1868-06-12 &middot; Raymond, Miss.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1868-06-20/ed-1/seq-1)
 
@@ -3800,7 +3800,7 @@ name.-Littl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1868-07-01/ed-1/seq-1)
 
@@ -3837,7 +3837,7 @@ A New lork letter jjresents the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1868-07-02/ed-1/seq-4)
 
@@ -3872,7 +3872,7 @@ lisp out names. ,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1868-07-08/ed-1/seq-1)
 
@@ -3908,7 +3908,7 @@ The Language of the Eyes.—lt ha
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Panola star._](https://chroniclingamerica.loc.gov/lccn/sn83016951/1868-07-11/ed-1/seq-1)
 
@@ -3939,7 +3939,7 @@ tef and song will be hear I in th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1868-07-17/ed-1/seq-1)
 
@@ -3973,7 +3973,7 @@ Robbers are the most ingeni
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1868-07-18/ed-1/seq-2)
 
@@ -4011,7 +4011,7 @@ The Vaujk of o.ns Vo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1868-08-19/ed-1/seq-4)
 
@@ -4047,7 +4047,7 @@ will O&#x27;jt remember to lisp our name
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1868-10-16/ed-1/seq-2)
 
@@ -4081,7 +4081,7 @@ isp our name.’
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## We Fade
 
@@ -4089,7 +4089,7 @@ isp our name.’
 
 #### 1868-10-16 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Grenada sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034375/1868-12-05/ed-1/seq-1)
 
@@ -4128,7 +4128,7 @@ The Pie Boy who Be
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Des Arc weekly citizen._](https://chroniclingamerica.loc.gov/lccn/sn84027696/1868-12-15/ed-1/seq-1)
 
@@ -4165,7 +4165,7 @@ lisp our name
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1869-03-06/ed-1/seq-4)
 
@@ -4205,7 +4205,7 @@ out of mind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1869-05-20/ed-1/seq-1)
 
@@ -4249,7 +4249,7 @@ come, in the language of the Psalmist,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1869-06-16/ed-1/seq-1)
 
@@ -4295,7 +4295,7 @@ ten and clean out of in.ml.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-08_79_470?page=26)
 
@@ -4333,7 +4333,7 @@ children will cease to think of us, and will no
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1869-09-29/ed-1/seq-1)
 
@@ -4353,7 +4353,7 @@ be. And so likewise shall it be when we are
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1869-09-29/ed-1/seq-1)
 
@@ -4383,7 +4383,7 @@ which wc died ; aud the eyes will glisten agai
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1869-11-20/ed-1/seq-1)
 
@@ -4412,7 +4412,7 @@ tinue
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Literary Selections.
 
@@ -4420,7 +4420,7 @@ tinue
 
 #### 1869-11-20 &middot; Preston, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1869-12-02/ed-1/seq-1)
 
@@ -4456,7 +4456,7 @@ in which we died ; and the eyes will agai
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1869-12-18/ed-1/seq-1)
 
@@ -4487,7 +4487,7 @@ remember to lisp our name
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1870-02-01/ed-1/seq-1)
 
@@ -4512,7 +4512,7 @@ The Aim or Life.?The great controllin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1870-02-09/ed-1/seq-1)
 
@@ -4538,7 +4538,7 @@ now for our children.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1870-02-17/ed-1/seq-1)
 
@@ -4564,7 +4564,7 @@ that the has now for our children.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1870-02-17/ed-1/seq-2)
 
@@ -4612,7 +4612,7 @@ which we died; and the eyes wil
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1870-03-23/ed-1/seq-3)
 
@@ -4639,7 +4639,7 @@ en shebras now foE our children
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-04-16/ed-1/seq-1)
 
@@ -4665,7 +4665,7 @@ bas now for our children
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1870-09-22/ed-1/seq-2)
 
@@ -4693,7 +4693,7 @@ that ste haB now for our children
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-01-17/ed-1/seq-2)
 
@@ -4719,7 +4719,7 @@ she has now for our children.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Greenville enterprise._](https://chroniclingamerica.loc.gov/lccn/sn83025799/1871-10-11/ed-1/seq-1)
 
@@ -4771,7 +4771,7 @@ touching language of the psalmist,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1871-12-09/ed-1/seq-1)
 
@@ -4813,7 +4813,7 @@ mind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053941/1872-01-20/ed-1/seq-3)
 
@@ -4859,7 +4859,7 @@ mind
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alpena weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn85033549/1872-02-27/ed-1/seq-4)
 
@@ -4902,7 +4902,7 @@ the mind.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1872-03-08/ed-1/seq-4)
 
@@ -4931,7 +4931,7 @@ A health journal savs that, b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1872-03-30/ed-1/seq-1)
 
@@ -4979,7 +4979,7 @@ touching language of the psalmist,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1872-04-17/ed-1/seq-1)
 
@@ -5008,7 +5008,7 @@ warmer his heart and more sensitiv
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## How We Fade
 
@@ -5016,7 +5016,7 @@ warmer his heart and more sensitiv
 
 #### 1872-06-01 &middot; Ruby City, I.T. [Idaho]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1872-06-13/ed-1/seq-1)
 
@@ -5048,7 +5048,7 @@ behind to dm kne-s an i the worm. An
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Sentiment and Humor
 
@@ -5056,7 +5056,7 @@ behind to dm kne-s an i the worm. An
 
 #### 1872-08-07 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1872-10-13/ed-1/seq-7)
 
@@ -5077,7 +5077,7 @@ that she has now for our children.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1872-10-31/ed-1/seq-1)
 
@@ -5102,7 +5102,7 @@ and that it has now for our children.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1872-12-19/ed-1/seq-1)
 
@@ -5128,7 +5128,7 @@ j that it has now for our children.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1873-01-27/ed-1/seq-1)
 
@@ -5156,7 +5156,7 @@ with the death of Napoleon III, and th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## How We Fade
 
@@ -5164,7 +5164,7 @@ with the death of Napoleon III, and th
 
 #### 1873-02-01 &middot; Ruby City, I.T. [Idaho]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1873-02-11/ed-1/seq-1)
 
@@ -5190,7 +5190,7 @@ j for ourselves, aud that she has now for
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Whig and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033435/1873-02-15/ed-1/seq-1)
 
@@ -5218,7 +5218,7 @@ now for our children.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1873-03-13/ed-1/seq-4)
 
@@ -5259,7 +5259,7 @@ the touching language of the psalmist,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1873-03-28/ed-1/seq-1)
 
@@ -5287,7 +5287,7 @@ cares for him, and that he is alone in
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## How we Fade
 
@@ -5295,7 +5295,7 @@ cares for him, and that he is alone in
 
 #### 1873-04-05 &middot; Lewiston, North Idaho
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1873-05-09/ed-1/seq-6)
 
@@ -5321,7 +5321,7 @@ now for our children
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## ECHOES OF THE PAST.
 
@@ -5329,7 +5329,7 @@ now for our children
 
 #### 1873-08-27 &middot; Philadelphia, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1873-09-11/ed-1/seq-4)
 
@@ -5356,7 +5356,7 @@ The country will tender its thank
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1873-10-30/ed-1/seq-3)
 
@@ -5383,7 +5383,7 @@ bills which alarm travelers upon thei
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-12-10/ed-1/seq-3)
 
@@ -5405,7 +5405,7 @@ The Litti.u Cokpoiial comes to us thi
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1874-02-26/ed-1/seq-4)
 
@@ -5426,7 +5426,7 @@ tor commanded her to be.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1874-04-23/ed-1/seq-4)
 
@@ -5457,7 +5457,7 @@ mat sno nas now lor our children.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1874-09-30/ed-1/seq-1)
 
@@ -5483,7 +5483,7 @@ our children
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The enquirer southerner._](https://chroniclingamerica.loc.gov/lccn/sn92073987/1874-10-30/ed-1/seq-1)
 
@@ -5511,7 +5511,7 @@ our children
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16?page=2)
 
@@ -5555,7 +5555,7 @@ ber in which we died; and the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16?page=4)
 
@@ -5591,7 +5591,7 @@ ber in which we died; and the eyes wil
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The People's vindicator._](https://chroniclingamerica.loc.gov/lccn/sn85038558/1874-11-28/ed-1/seq-1)
 
@@ -5635,7 +5635,7 @@ cease tothi k ofa uas, and.will not re
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1874-12-24/ed-1/seq-1)
 
@@ -5676,7 +5676,7 @@ will cease to think of us. and will no
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1875-01-28/ed-1/seq-1)
 
@@ -5719,7 +5719,7 @@ ing language of the Psalmist,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [The £. s. d. of Literature.](http://trove.nla.gov.au/ndp/del/article/135868012)
 
@@ -5757,7 +5757,7 @@ in the: very chamber in! which we died;
 and- the eyes &#x27;will glisten again wit
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1875-03-24/ed-1/seq-1)
 
@@ -5789,7 +5789,7 @@ will continue to
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-05-08/ed-1/seq-1)
 
@@ -5832,7 +5832,7 @@ us, and will not remember to lisp ou
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Woodhull and Claflin's Weekly 1870-1876_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1875-06-05_10_1?page=5)
 
@@ -5857,7 +5857,7 @@ she now has for our children.--The Telegram.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1875-06-25/ed-1/seq-1)
 
@@ -5896,7 +5896,7 @@ of Blind.&#x27;&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1875-11-28/ed-1/seq-2)
 
@@ -5944,7 +5944,7 @@ touching language of the Psalmist,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1875-12-10/ed-1/seq-1)
 
@@ -5969,7 +5969,7 @@ our children
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1877-07-05/ed-1/seq-1)
 
@@ -5994,7 +5994,7 @@ unborn that she had once for our children
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Beaufort tribune and Port Royal commercial._](https://chroniclingamerica.loc.gov/lccn/sn92065401/1877-07-12/ed-1/seq-1)
 
@@ -6022,7 +6022,7 @@ pened. Days will continue to move on,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1877-07-21/ed-1/seq-1)
 
@@ -6049,7 +6049,7 @@ died ; and the eye that mourned for
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1877-07-26/ed-1/seq-1)
 
@@ -6078,7 +6078,7 @@ while, and all this will have happened
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1877-08-30/ed-1/seq-4)
 
@@ -6112,7 +6112,7 @@ will not remember to lisp our names.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1877-09-05/ed-1/seq-1)
 
@@ -6133,7 +6133,7 @@ tomb. And it may be but a short time
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Individual Insignificance
 
@@ -6141,7 +6141,7 @@ tomb. And it may be but a short time
 
 #### 1877-09-05 &middot; Philadelphia, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1877-09-06/ed-1/seq-1)
 
@@ -6176,7 +6176,7 @@ to lisp our names—Ooodrich
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn86053402/1877-09-06/ed-1/seq-4)
 
@@ -6197,7 +6197,7 @@ tninb. And it may be but a short time
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Arizona citizen._](https://chroniclingamerica.loc.gov/lccn/sn82014896/1877-09-08/ed-1/seq-4)
 
@@ -6227,7 +6227,7 @@ tinue
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1877-09-20/ed-1/seq-4)
 
@@ -6258,7 +6258,7 @@ lisp our names. [Goodrich
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1877-10-03/ed-1/seq-4)
 
@@ -6284,7 +6284,7 @@ gone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1877-10-03/ed-1/seq-4)
 
@@ -6321,7 +6321,7 @@ nam
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1877-10-04/ed-1/seq-1)
 
@@ -6356,7 +6356,7 @@ lisp our name (?
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1877-10-13/ed-1/seq-2)
 
@@ -6393,7 +6393,7 @@ I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Claiborne guardian._](https://chroniclingamerica.loc.gov/lccn/sn88064118/1877-10-24/ed-1/seq-1)
 
@@ -6421,7 +6421,7 @@ for our abildlme, Tet
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026526/1877-10-25/ed-1/seq-1)
 
@@ -6449,7 +6449,7 @@ mourned for
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1877-11-10/ed-1/seq-2)
 
@@ -6485,7 +6485,7 @@ THE PAYING OF
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1878-07-04/ed-1/seq-4)
 
@@ -6510,7 +6510,7 @@ j et a . wuile an 1 ail this will have happened
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1878-09-18/ed-1/seq-1)
 
@@ -6545,7 +6545,7 @@ names. Ooodrich
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1878-10-02/ed-1/seq-1)
 
@@ -6574,7 +6574,7 @@ niovo on and lauuliter and gong will b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Sedalia weekly bazoo._](https://chroniclingamerica.loc.gov/lccn/sn90061066/1879-05-27/ed-1/seq-1)
 
@@ -6602,7 +6602,7 @@ that she h
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Sedalia weekly bazoo._](https://chroniclingamerica.loc.gov/lccn/sn90061066/1879-05-27/ed-1/seq-3)
 
@@ -6642,7 +6642,7 @@ To all who
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1879-12-13/ed-1/seq-4)
 
@@ -6667,7 +6667,7 @@ she now has for our children
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1880-04-16/ed-1/seq-4)
 
@@ -6689,7 +6689,7 @@ touching language of iho IVamlist,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1880-05-01/ed-1/seq-1)
 
@@ -6726,7 +6726,7 @@ of mind.&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026526/1880-09-23/ed-1/seq-1)
 
@@ -6760,7 +6760,7 @@ and will glisten with joy, and eve
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Democratic Northwest._](https://chroniclingamerica.loc.gov/lccn/sn84028296/1883-08-16/ed-1/seq-6)
 
@@ -6798,7 +6798,7 @@ Mary Stuart Fac
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Durham recorder._](https://chroniclingamerica.loc.gov/lccn/sn84020731/1891-11-18/ed-1/seq-4)
 
@@ -6833,7 +6833,7 @@ she has now for our children.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mesa free press._](https://chroniclingamerica.loc.gov/lccn/sn95060636/1893-12-14/ed-1/seq-1)
 
@@ -6872,7 +6872,7 @@ quickly will pass the memo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mohave County miner._](https://chroniclingamerica.loc.gov/lccn/sn84024828/1893-12-30/ed-1/seq-6)
 
@@ -6907,7 +6907,7 @@ name. Thun quickly will pass he
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1898-07-23/ed-1/seq-4)
 
@@ -6933,5 +6933,5 @@ she has now for our children
 </td>
 </tr></table>
 
-<hr />
+---
 

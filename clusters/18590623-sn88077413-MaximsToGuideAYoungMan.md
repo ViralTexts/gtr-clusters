@@ -1,7 +1,7 @@
 
 # None (Sometimes "Maxims to Guide a Young Man")
 
-### 50 reprints from 1859-06-23 to 1895-12-26 [cl105]
+### 50 reprints from 1852-08-25 to 1895-12-26
 
 ## [None (Sometimes "Maxims to Guide a Young Man")](https://chroniclingamerica.loc.gov/lccn/sn88077413/1859-06-23/ed-1/seq-2/)
 
@@ -16,7 +16,7 @@ The following has been handed to us by a friend who has carried it in his purse 
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Semi-weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024518/1852-08-25/ed-1/seq-3)
 
@@ -40,7 +40,7 @@ maxims at least once a week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1857-10-06/ed-1/seq-2)
 
@@ -78,7 +78,7 @@ keep a wif
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily Nashville patriot._](https://chroniclingamerica.loc.gov/lccn/sn96091000/1857-10-16/ed-1/seq-2)
 
@@ -112,7 +112,7 @@ week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1857-12-23/ed-1/seq-4)
 
@@ -155,7 +155,7 @@ week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-12-26_14_41?page=6)
 
@@ -221,7 +221,7 @@ when
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1858-01-02/ed-1/seq-1)
 
@@ -252,7 +252,7 @@ week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Moral and Religious
 
@@ -260,7 +260,7 @@ week
 
 #### 1858-01-02 &middot; Concord [N.H.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1858-01-06/ed-1/seq-1)
 
@@ -296,7 +296,7 @@ i least once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1858-01-12/ed-1/seq-1)
 
@@ -322,7 +322,7 @@ once a&#x27;fteek
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1858-01-14/ed-1/seq-1)
 
@@ -369,7 +369,7 @@ ims at least once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Muscatine weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027253/1858-01-16/ed-1/seq-4)
 
@@ -414,7 +414,7 @@ y
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mariposa Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026978/1858-04-01/ed-1/seq-1)
 
@@ -468,7 +468,7 @@ least once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1859-04-27/ed-1/seq-1)
 
@@ -504,7 +504,7 @@ maxims once a week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1859-05-18/ed-1/seq-4)
 
@@ -559,7 +559,7 @@ once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1859-05-20/ed-1/seq-1)
 
@@ -593,7 +593,7 @@ week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily press._](https://chroniclingamerica.loc.gov/lccn/sn88077413/1859-06-23/ed-1/seq-2)
 
@@ -645,7 +645,7 @@ over the above maxims at least ence a week.&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Pointe Coupee Democrat._](https://chroniclingamerica.loc.gov/lccn/sn86053686/1859-08-27/ed-1/seq-2)
 
@@ -666,7 +666,7 @@ are young, that you may spend when
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1859-10-13/ed-1/seq-1)
 
@@ -691,7 +691,7 @@ above maxims once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1865-07-08/ed-1/seq-1)
 
@@ -721,7 +721,7 @@ out of it. Do not marry until you are abl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1865-07-14/ed-1/seq-1)
 
@@ -757,7 +757,7 @@ maxims at least once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1865-07-21/ed-1/seq-1)
 
@@ -825,7 +825,7 @@ once a wee^
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1865-07-22/ed-1/seq-1)
 
@@ -856,7 +856,7 @@ until you are able to support a wife.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-08-19_22_24?page=6)
 
@@ -905,7 +905,7 @@ once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1866-05-10_39_19?page=2)
 
@@ -948,7 +948,7 @@ least once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1866-12-21/ed-1/seq-1)
 
@@ -977,7 +977,7 @@ over the above maxims at least one a wee k
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Delaware State journal and statesman._](https://chroniclingamerica.loc.gov/lccn/sn84038112/1867-07-30/ed-1/seq-1)
 
@@ -1018,7 +1018,7 @@ bappy. Save when yo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1867-08-17/ed-1/seq-1)
 
@@ -1047,7 +1047,7 @@ once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1867-11-01/ed-1/seq-1)
 
@@ -1099,7 +1099,7 @@ pace a week.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1873-10-02/ed-1/seq-4)
 
@@ -1134,7 +1134,7 @@ would be happy. Hea
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## To Be Carried in Your Pocket
 
@@ -1142,7 +1142,7 @@ would be happy. Hea
 
 #### 1873-12-03 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1873-12-18/ed-1/seq-1)
 
@@ -1172,7 +1172,7 @@ above maxims at least oucc a week —L&#x27;x
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1874-01-02/ed-1/seq-3)
 
@@ -1211,7 +1211,7 @@ above maxims at least once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1874-01-08/ed-1/seq-1)
 
@@ -1238,7 +1238,7 @@ be usefully
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1874-01-08/ed-1/seq-1)
 
@@ -1281,7 +1281,7 @@ week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1874-04-09/ed-1/seq-1)
 
@@ -1322,7 +1322,7 @@ once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1874-04-29/ed-1/seq-1)
 
@@ -1362,7 +1362,7 @@ mtTima at least once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1881-02-03/ed-1/seq-2)
 
@@ -1403,7 +1403,7 @@ over tae above maxims at least once
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1881-05-28/ed-1/seq-1)
 
@@ -1429,7 +1429,7 @@ above maxIms at least once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1881-06-02/ed-1/seq-1)
 
@@ -1466,7 +1466,7 @@ above maxims at least once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1881-06-09/ed-1/seq-4)
 
@@ -1502,7 +1502,7 @@ above maxims at least once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1887-01-13/ed-1/seq-3)
 
@@ -1543,7 +1543,7 @@ once a week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1894-12-08_71_23?page=8)
 
@@ -1574,7 +1574,7 @@ generous. Save when yo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn91068247/1894-12-14/ed-1/seq-1)
 
@@ -1600,7 +1600,7 @@ erous. Save when you are young an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New South._](https://chroniclingamerica.loc.gov/lccn/sn87065071/1895-06-01/ed-1/seq-4)
 
@@ -1630,7 +1630,7 @@ when you are youi g and enjoy you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [WHEN HE LOST HIS SAND.](http://trove.nla.gov.au/ndp/del/article/88899363)
 
@@ -1651,7 +1651,7 @@ speak evil of! any one. Bo just before-
 yon are generous. -J Small and stead
 </td></tr></table>
 
-<hr />
+---
 
 ## [Maxims of Life.](http://trove.nla.gov.au/ndp/del/article/162671833)
 
@@ -1673,7 +1673,7 @@ possibly avoid it j Never speak evil of
 any one. Be just before you ar
 </td></tr></table>
 
-<hr />
+---
 
 ## [ONE CAUSE FOR LAME HORSES.](http://trove.nla.gov.au/ndp/del/article/109155498)
 
@@ -1694,7 +1694,7 @@ sure way to get out of it. Never borrow
 if you can possibly avoid it. : Neve
 </td></tr></table>
 
-<hr />
+---
 
 ## [Good Maxims.](http://trove.nla.gov.au/ndp/del/article/148209045)
 
@@ -1714,7 +1714,7 @@ way to get out of it, Never borrow&#x27; if
 you, can possibly avoid it. Never spea
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Audubon Republican._](https://chroniclingamerica.loc.gov/lccn/sn87057928/1895-12-26/ed-1/seq-7)
 
@@ -1741,5 +1741,5 @@ joy your savings when you
 </td>
 </tr></table>
 
-<hr />
+---
 

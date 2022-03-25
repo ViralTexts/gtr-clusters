@@ -1,7 +1,7 @@
 
 # Be Careful What You Say
 
-### 135 reprints from 1873-10-10 to 1899-04-01 [cl8589934656]
+### 135 reprints from 1873-10-10 to 1899-04-01
 
 ## [Be Careful What You Say](http://chroniclingamerica.loc.gov/lccn/sn83032041/1873-10-10/ed-1/seq-1/)
 
@@ -50,7 +50,7 @@ We have none of our own.
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1873-10-10/ed-1/seq-1)
 
@@ -89,7 +89,7 @@ We have non of our own.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Volcano lubricator._](https://chroniclingamerica.loc.gov/lccn/sn86092474/1874-02-26/ed-1/seq-3)
 
@@ -118,7 +118,7 @@ Think of the ha
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [SELECT POETRY. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/111336269)
 
@@ -142,7 +142,7 @@ whon wo commence To slandor friend or
 foe, , Think of 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-03-20/ed-1/seq-1)
 
@@ -182,7 +182,7 @@ lhiuk of the h
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Selected Poetry. BE CAREFUL WHAT YOU SAY. DEDICATED TO](http://trove.nla.gov.au/ndp/del/article/128491277)
 
@@ -215,7 +215,7 @@ let us all when we commence To slander
 friend or foe, Think of the harm o
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1874-05-22/ed-1/seq-1)
 
@@ -245,7 +245,7 @@ Think of the barm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## BE CAREFUL WHAT YOU SAY.
 
@@ -253,7 +253,7 @@ Think of the barm
 
 #### 1874-09-09 &middot; Cincinnati
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Vermont farmer._](https://chroniclingamerica.loc.gov/lccn/sn84023255/1874-09-11/ed-1/seq-1)
 
@@ -283,7 +283,7 @@ Think of
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Selected Poetry
 
@@ -291,7 +291,7 @@ Think of
 
 #### 1874-09-16 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1874-10-31/ed-1/seq-1)
 
@@ -331,7 +331,7 @@ i To slander friend or l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1874-11-05/ed-1/seq-1)
 
@@ -369,7 +369,7 @@ Then let ns a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The enquirer southerner._](https://chroniclingamerica.loc.gov/lccn/sn92073987/1874-11-06/ed-1/seq-4)
 
@@ -409,7 +409,7 @@ Think of the harm o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-11-06/ed-1/seq-1)
 
@@ -438,7 +438,7 @@ To slander friend or foe,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Huntington advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026801/1874-12-03/ed-1/seq-1)
 
@@ -477,7 +477,7 @@ To slander friend or
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1875-01-14/ed-1/seq-4)
 
@@ -522,7 +522,7 @@ We hare none of onr own
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1875-01-21/ed-1/seq-4)
 
@@ -562,7 +562,7 @@ Think of the harm one
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1875-02-04/ed-1/seq-1)
 
@@ -600,7 +600,7 @@ Then let us al
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1875-02-05/ed-1/seq-4)
 
@@ -640,7 +640,7 @@ Think of the harm one wo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1875-02-06/ed-1/seq-1)
 
@@ -678,7 +678,7 @@ Then let us all
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210?page=1)
 
@@ -730,7 +730,7 @@ Then let us
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-03-24/ed-1/seq-1)
 
@@ -760,7 +760,7 @@ Think of the harm o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1875-04-08/ed-1/seq-1)
 
@@ -802,7 +802,7 @@ To slander friend or foe,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1875-05-20/ed-1/seq-1)
 
@@ -841,7 +841,7 @@ We have none of our own.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Poetry. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/130909090)
 
@@ -875,7 +875,7 @@ commence IVslander friend or foe,
 Think.,
 </td></tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY. C.C.C.](http://trove.nla.gov.au/ndp/del/article/101875445)
 
@@ -908,7 +908,7 @@ when wo commence To slander friend or
 foe, Think of the harm o
 </td></tr></table>
 
-<hr />
+---
 
 ## [THE FAULTS OF OTHERS.](http://trove.nla.gov.au/ndp/del/article/30598455)
 
@@ -941,7 +941,7 @@ shotcomtings bid me let The faults of
 Think of the har
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Orangeburg news and times._](https://chroniclingamerica.loc.gov/lccn/sn86053227/1875-07-03/ed-1/seq-1)
 
@@ -979,7 +979,7 @@ h&#x27;hjen letjv^l?wlH&#x27;?we cni?frieuc
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1875-12-17/ed-1/seq-5)
 
@@ -1013,7 +1013,7 @@ Think of the harm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-01-06/ed-1/seq-1)
 
@@ -1055,7 +1055,7 @@ Think of the harm on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1876-01-17/ed-1/seq-1)
 
@@ -1095,7 +1095,7 @@ Think of the harm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1876-03-02/ed-1/seq-1)
 
@@ -1135,7 +1135,7 @@ Think of the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1876-03-03/ed-1/seq-1)
 
@@ -1175,7 +1175,7 @@ Think of the barm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [SELECTED POETRY. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/97420798)
 
@@ -1199,7 +1199,7 @@ when we commence To slander friend or
 foe, Think of the harm 
 </td></tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/61913529)
 
@@ -1234,7 +1234,7 @@ tisall, when we commence To slander
 friend or foe, Th
 </td></tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/170433114)
 
@@ -1265,7 +1265,7 @@ shortcomings bid me let The faults of
 others 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1876-09-27/ed-1/seq-1)
 
@@ -1304,7 +1304,7 @@ To slander friend or foe,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1876-10-13/ed-1/seq-1)
 
@@ -1349,7 +1349,7 @@ We have none of oar own.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Port Royal standard and commercial._](https://chroniclingamerica.loc.gov/lccn/sn85026954/1876-10-26/ed-1/seq-1)
 
@@ -1384,7 +1384,7 @@ And
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1876-11-01/ed-1/seq-4)
 
@@ -1424,7 +1424,7 @@ We have none of our own
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-11-09/ed-1/seq-4)
 
@@ -1463,7 +1463,7 @@ To slander frie
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-11-09/ed-2/seq-4)
 
@@ -1501,7 +1501,7 @@ Wo have none of our own
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1877-01-11/ed-1/seq-1)
 
@@ -1540,7 +1540,7 @@ We have none of our own
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1877-01-25/ed-1/seq-1)
 
@@ -1585,7 +1585,7 @@ We have none of our own
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/141200691)
 
@@ -1618,7 +1618,7 @@ all, when we commence To censure friend
 or foe. Think of the
 </td></tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/37147143)
 
@@ -1647,7 +1647,7 @@ commonco To slander friend or foe, Tlink
 of thie harm one word may do To those
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1877-03-15/ed-1/seq-4)
 
@@ -1681,7 +1681,7 @@ Think of the harm o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1877-03-18/ed-1/seq-6)
 
@@ -1727,7 +1727,7 @@ Think of the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1877-03-21/ed-1/seq-7)
 
@@ -1759,7 +1759,7 @@ Then let us all wh
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lincoln County advocate._](https://chroniclingamerica.loc.gov/lccn/sn2001063144/1877-03-28/ed-1/seq-2)
 
@@ -1804,7 +1804,7 @@ Tbink of the harm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1877-04-06/ed-1/seq-4)
 
@@ -1843,7 +1843,7 @@ W o have none of our own.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1877-04-13/ed-1/seq-1)
 
@@ -1877,7 +1877,7 @@ We have none of our own.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/62076747)
 
@@ -1903,7 +1903,7 @@ Think of the harm ono word may do To
 those
 </td></tr></table>
 
-<hr />
+---
 
 ## [Select Poetry. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/71726953)
 
@@ -1938,7 +1938,7 @@ when we commence To slander friend or
 foe, Think of the harm ono word may do
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Union times._](https://chroniclingamerica.loc.gov/lccn/sn84026918/1877-05-25/ed-1/seq-4)
 
@@ -1973,7 +1973,7 @@ Think of the h
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOD SAY.](http://trove.nla.gov.au/ndp/del/article/103372102)
 
@@ -1997,7 +1997,7 @@ commence To slander friend or foe, Think
 of the harm one word may do
 </td></tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/130883403)
 
@@ -2025,7 +2025,7 @@ ohickons, &#x27; roOBt at home Don&#x27;t speak oi
 others&#x27; faults until We have none of ou
 </td></tr></table>
 
-<hr />
+---
 
 ## Poetic Sermon--"Judge Not."
 
@@ -2033,7 +2033,7 @@ others&#x27; faults until We have none of ou
 
 #### 1877-08-01 &middot; Shakers
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8?page=4)
 
@@ -2067,7 +2067,7 @@ Before of others’ tell.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [POETRY. Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/114187588)
 
@@ -2100,7 +2100,7 @@ commence To slander friend or foe, Think
 of the harm one word may do To those
 </td></tr></table>
 
-<hr />
+---
 
 ## [POETRY. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/143908404)
 
@@ -2134,7 +2134,7 @@ or foe, Think of the harm one word may
 do , To those
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1878-01-31/ed-1/seq-1)
 
@@ -2174,7 +2174,7 @@ Thinlrof the har
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Union times._](https://chroniclingamerica.loc.gov/lccn/sn84026918/1878-05-17/ed-2/seq-4)
 
@@ -2215,7 +2215,7 @@ Then let us,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Selected.
 
@@ -2223,7 +2223,7 @@ Then let us,
 
 #### 1878-10-01 &middot; Shakers
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10?page=16)
 
@@ -2266,7 +2266,7 @@ The faults of others go.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1878-11-29/ed-1/seq-5)
 
@@ -2305,7 +2305,7 @@ I No
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1879-02-05/ed-1/seq-1)
 
@@ -2335,7 +2335,7 @@ Think of the harm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-03-20/ed-1/seq-1)
 
@@ -2376,7 +2376,7 @@ Think of the harm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1879-06-12/ed-1/seq-3)
 
@@ -2413,7 +2413,7 @@ The fsults of others go
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1879-06-25/ed-1/seq-1)
 
@@ -2443,7 +2443,7 @@ Think oi the harm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-07-24/ed-1/seq-4)
 
@@ -2484,7 +2484,7 @@ Think of the harm on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Rocky Mountain husbandman._](https://chroniclingamerica.loc.gov/lccn/sn83025309/1879-08-21/ed-1/seq-5)
 
@@ -2522,7 +2522,7 @@ Now let us
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _St. Tammany farmer._](https://chroniclingamerica.loc.gov/lccn/sn82015387/1880-02-07/ed-1/seq-4)
 
@@ -2556,7 +2556,7 @@ We have none of our own.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1880-02-19/ed-1/seq-2)
 
@@ -2596,7 +2596,7 @@ Think of the har
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1880-03-11/ed-1/seq-1)
 
@@ -2636,7 +2636,7 @@ Think of the harm o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/141034482)
 
@@ -2665,7 +2665,7 @@ commence &#x27; To slander friend or foe,
 Think o| the
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1880-09-09/ed-1/seq-1)
 
@@ -2695,7 +2695,7 @@ Think of Hie ha
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1880-09-24/ed-1/seq-1)
 
@@ -2726,7 +2726,7 @@ ilinik of the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1880-11-13/ed-1/seq-1)
 
@@ -2756,7 +2756,7 @@ Think of ti c harm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [SELECTED POETRY. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/101911761)
 
@@ -2780,7 +2780,7 @@ to be , i .O :L&#x27;.No worse than&#x27; some I
 know, • - ■ &#x27; ^&#x27; My o&gt;vn shortcoming
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Easley messenger._](https://chroniclingamerica.loc.gov/lccn/sn93067656/1884-02-15/ed-1/seq-8)
 
@@ -2810,7 +2810,7 @@ Thiik of the ha
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1884-02-22/ed-1/seq-4)
 
@@ -2840,7 +2840,7 @@ Think of the harm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Dillon tribune._](https://chroniclingamerica.loc.gov/lccn/sn85053040/1884-04-05/ed-1/seq-2)
 
@@ -2878,7 +2878,7 @@ We have none of our own.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Press and daily Dakotaian._](https://chroniclingamerica.loc.gov/lccn/sn91099608/1884-04-19/ed-1/seq-4)
 
@@ -2913,7 +2913,7 @@ Think of the haim
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wahpeton times._](https://chroniclingamerica.loc.gov/lccn/sn84024779/1884-05-02/ed-1/seq-1)
 
@@ -2957,7 +2957,7 @@ Think of th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Iowa County democrat._](https://chroniclingamerica.loc.gov/lccn/sn86086852/1885-02-13/ed-1/seq-2)
 
@@ -2997,7 +2997,7 @@ Think of th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Charlotte home and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020714/1886-01-29/ed-1/seq-1)
 
@@ -3037,7 +3037,7 @@ To slander friend or foe,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Delaware ledger._](https://chroniclingamerica.loc.gov/lccn/sn88053022/1886-05-15/ed-1/seq-4)
 
@@ -3104,7 +3104,7 @@ Think of
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-02-14_18_7?page=5)
 
@@ -3148,7 +3148,7 @@ Now l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Delta independent._](https://chroniclingamerica.loc.gov/lccn/sn86063206/1888-01-10/ed-1/seq-3)
 
@@ -3188,7 +3188,7 @@ Think of the ha
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Look within
 
@@ -3196,7 +3196,7 @@ Think of the ha
 
 #### 1888-11-29 &middot; New Orleans, La.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Fisherman & farmer._](https://chroniclingamerica.loc.gov/lccn/sn91068084/1889-04-19/ed-1/seq-1)
 
@@ -3236,7 +3236,7 @@ Think of the harm o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Miscellaneous
 
@@ -3244,7 +3244,7 @@ Think of the harm o
 
 #### 1889-06-12 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1889-09-26/ed-1/seq-1)
 
@@ -3289,7 +3289,7 @@ We have none of our own
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1889-10-17/ed-1/seq-3)
 
@@ -3318,7 +3318,7 @@ Think of the harm one
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Irish standard._](https://chroniclingamerica.loc.gov/lccn/sn90059959/1889-11-02/ed-1/seq-3)
 
@@ -3364,7 +3364,7 @@ We have none of our own.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1890-02-20/ed-1/seq-7)
 
@@ -3399,7 +3399,7 @@ We have none of our own. Si
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/65679130)
 
@@ -3427,7 +3427,7 @@ clhickens &quot;roost at home;&quot; Don&#x27;t speak
 of others&#x27; faults until TWe bave none o
 </td></tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/66177195)
 
@@ -3452,7 +3452,7 @@ or foe, Think of the harm one word may
 do &#x27; To
 </td></tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/87729402)
 
@@ -3480,7 +3480,7 @@ curses, sometimnes, like Our chickens
 faults until We have none of oun o .w
 </td></tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/145923692)
 
@@ -3505,7 +3505,7 @@ or foe, Think of the harm one word may
 do To those
 </td></tr></table>
 
-<hr />
+---
 
 ## [Miscellaneous. Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/72867044)
 
@@ -3529,7 +3529,7 @@ or foe, Think of the harm one word may
 do To those
 </td></tr></table>
 
-<hr />
+---
 
 ## [Miscellaneous. Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/140466209)
 
@@ -3554,7 +3554,7 @@ or foe, Think of the harm ono word may
 do
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1890-11-20/ed-1/seq-1)
 
@@ -3586,7 +3586,7 @@ Then let us nil, wh
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Miscellaneous. Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/77492306)
 
@@ -3611,7 +3611,7 @@ or foe, Think of the harm one word may
 do To those
 </td></tr></table>
 
-<hr />
+---
 
 ## [Miscellaneous. Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/108355049)
 
@@ -3635,7 +3635,7 @@ oommeno3 To slander friend or foe, Think
 of the harm one word tnay do To those
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1890-12-24/ed-1/seq-8)
 
@@ -3671,7 +3671,7 @@ We bave none of our own
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1891-01-01/ed-1/seq-1)
 
@@ -3714,7 +3714,7 @@ Think of the harm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1891-02-04/ed-1/seq-4)
 
@@ -3747,7 +3747,7 @@ We have none of our own
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1891-05-14/ed-1/seq-2)
 
@@ -3778,7 +3778,7 @@ We have none of our own
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1891-05-21/ed-1/seq-1)
 
@@ -3821,7 +3821,7 @@ Think of the harm on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/73762155)
 
@@ -3850,7 +3850,7 @@ home&#x27;; &quot; Don&#x27;t speak of others&#x27; faults
 until: We have none of our own. Landlad
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1892-02-10/ed-1/seq-1)
 
@@ -3880,7 +3880,7 @@ Think of the harm on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Freeland tribune._](https://chroniclingamerica.loc.gov/lccn/sn87080287/1892-09-05/ed-1/seq-3)
 
@@ -3920,7 +3920,7 @@ Think of tho harm o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/132290608)
 
@@ -3945,7 +3945,7 @@ all, when we commenco To; slander friend
 and foe, Think .of the 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Roanoke times._](https://chroniclingamerica.loc.gov/lccn/sn86071868/1892-10-02/ed-1/seq-7)
 
@@ -3975,7 +3975,7 @@ Think of tho harm o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1893-01-30/ed-1/seq-6)
 
@@ -4013,7 +4013,7 @@ Then let us all, whe
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/58879682)
 
@@ -4045,7 +4045,7 @@ when we commence To slander friend or
 foe, Think of the harm one 
 </td></tr></table>
 
-<hr />
+---
 
 ## [[?] [?] BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/88921339)
 
@@ -4070,7 +4070,7 @@ all, when we commence To slander friend
 or foe, Think cl tha harm on
 </td></tr></table>
 
-<hr />
+---
 
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/18609023)
 
@@ -4102,7 +4102,7 @@ wben we commence To tlander friend or
 foe. Thin
 </td></tr></table>
 
-<hr />
+---
 
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/66876005)
 
@@ -4127,7 +4127,7 @@ commence To slander friend or foe, Think
 of the harm o
 </td></tr></table>
 
-<hr />
+---
 
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/74272858)
 
@@ -4159,7 +4159,7 @@ all; when we commence To slander friend
 or foe, Think of the harm 
 </td></tr></table>
 
-<hr />
+---
 
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/110247997)
 
@@ -4191,7 +4191,7 @@ all, when we commence To slandler friend
 or foe. Think of the harm
 </td></tr></table>
 
-<hr />
+---
 
 ## [SELECTED POETRY. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/97322935)
 
@@ -4225,7 +4225,7 @@ commence To slander friend or foe, Think
 of the harm o
 </td></tr></table>
 
-<hr />
+---
 
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/92802496)
 
@@ -4258,7 +4258,7 @@ oommanoe -&#x27; To dander friend or foe,
 Think of the har
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1894-02-28/ed-1/seq-1)
 
@@ -4296,7 +4296,7 @@ Then let us all when
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hartford republican._](https://chroniclingamerica.loc.gov/lccn/sn86069313/1894-03-16/ed-1/seq-1)
 
@@ -4337,7 +4337,7 @@ Think of the harm one
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Santa Fe daily New Mexican._](https://chroniclingamerica.loc.gov/lccn/sn84020631/1895-01-08/ed-1/seq-3)
 
@@ -4377,7 +4377,7 @@ Think of the harm o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/60460499)
 
@@ -4409,7 +4409,7 @@ all, when we commence. To slander friend
 or foe, Think of the harm
 </td></tr></table>
 
-<hr />
+---
 
 ## [POETRY. "BE CAREFUL OF WHAT YOU SAY."](http://trove.nla.gov.au/ndp/del/article/162317543)
 
@@ -4442,7 +4442,7 @@ all, when we commence , To slander
 friend or f
 </td></tr></table>
 
-<hr />
+---
 
 ## [POETRY BE CAREFUL OF WHAT YOU SAY](http://trove.nla.gov.au/ndp/del/article/39636137)
 
@@ -4475,7 +4475,7 @@ all, when we commence To slander friend
 or f
 </td></tr></table>
 
-<hr />
+---
 
 ## [YOUNG FOLKS. "Be Careful of What You Say."](http://trove.nla.gov.au/ndp/del/article/163785129)
 
@@ -4499,7 +4499,7 @@ others go. Then let us all, when we
 commence, To slander friend or foe
 </td></tr></table>
 
-<hr />
+---
 
 ## ["BE CAREFUL OF WHAT YOU SAY."](http://trove.nla.gov.au/ndp/del/article/88434998)
 
@@ -4524,7 +4524,7 @@ all, when we commence, To slander
 friend-or fo
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Greenbrier independent._](https://chroniclingamerica.loc.gov/lccn/sn84037217/1897-06-17/ed-1/seq-1)
 
@@ -4557,7 +4557,7 @@ Kre others&#x27; faitlts you tell.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Indian advocate._](https://chroniclingamerica.loc.gov/lccn/45043535/1899-04-01/ed-1/seq-10)
 
@@ -4599,5 +4599,5 @@ To those
 </td>
 </tr></table>
 
-<hr />
+---
 

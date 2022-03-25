@@ -1,7 +1,7 @@
 
 # Medical Uses of Salt
 
-### 199 reprints from 1848-07-01 to 1897-07-15 [cl15]
+### 199 reprints from 1848-05-16 to 1897-07-15
 
 ## [Medical Uses of Salt](http://collections.library.cornell.edu/moa_new/index.html)
 
@@ -18,7 +18,7 @@ It is reasonable to suppose that what is most plentiful on earth, is most essent
 
 </td></tr></table>
 
-<hr />
+---
 
 ## HOUSEWIFE'S CORNER.
 
@@ -26,7 +26,7 @@ It is reasonable to suppose that what is most plentiful on earth, is most essent
 
 #### 1848-05-16 &middot; Liverpool, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
@@ -42,7 +42,7 @@ spoonful of salt taken three times a day is a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
@@ -96,7 +96,7 @@ We burrow in the earth to obtain gold from
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
@@ -125,7 +125,7 @@ the Persian Gulf or the wilds of Hindostan.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
@@ -141,7 +141,7 @@ warrior, so it is with men atthe present day,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015378/1848-07-12/ed-1/seq-1)
 
@@ -190,7 +190,7 @@ water. In swelled riert, wash the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Medical Uses of Salt
 
@@ -198,7 +198,7 @@ water. In swelled riert, wash the
 
 #### 1848-07-15 &middot; [Pensacola, Fla.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Medical Uses of Salt
 
@@ -206,7 +206,7 @@ water. In swelled riert, wash the
 
 #### 1848-07-15 &middot; [Pensacola, Fla.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1850-02-21/ed-1/seq-1)
 
@@ -256,7 +256,7 @@ moderate degree, and aids digestion, but &quot;alt meat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5?page=10)
 
@@ -310,7 +310,7 @@ injurious if used much.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1850-03-16_5_26?page=1)
 
@@ -367,7 +367,7 @@ salt meat is injurious if used much.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1850-03-28/ed-1/seq-4)
 
@@ -419,7 +419,7 @@ S. 1 . Amir
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1850-04-11/ed-1/seq-1)
 
@@ -469,7 +469,7 @@ is injurious if used much. Scientific American
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1850-05-08/ed-1/seq-1)
 
@@ -514,7 +514,7 @@ jurious if used much.—Scientific American
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Medical Use of Salt
 
@@ -522,7 +522,7 @@ jurious if used much.—Scientific American
 
 #### 1850-05-25 &middot; [Pensacola, Fla.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Madisonian._](https://chroniclingamerica.loc.gov/lccn/sn86074079/1850-05-30/ed-1/seq-1)
 
@@ -573,7 +573,7 @@ gestion; but salt meat is injurious i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Medical Use of Salt
 
@@ -581,7 +581,7 @@ gestion; but salt meat is injurious i
 
 #### 1850-05-31 &middot; Greenville, S.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Spirit of the Times; A Chronicle of the Turf, Agriculture, Field Sports, Literature and the Stage (1835-1861)_](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-03_20_24?page=9)
 
@@ -621,7 +621,7 @@ gree, and aids digestion ; but salt meat is injurious if used much.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Medical Use of Salt
 
@@ -629,7 +629,7 @@ gree, and aids digestion ; but salt meat is injurious if used much.
 
 #### 1850-08-07 &middot; Columbus [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035101/1850-08-19/ed-1/seq-1)
 
@@ -678,7 +678,7 @@ salt meat is injurious if used much. Sci
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn85042796/1850-08-23/ed-1/seq-1)
 
@@ -720,7 +720,7 @@ salt water.?[Scicntiiiic American.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1850-09-04/ed-1/seq-2)
 
@@ -763,7 +763,7 @@ Wah litem twice a day with salt water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1850-12-18/ed-1/seq-1)
 
@@ -810,7 +810,7 @@ salt meat in injurious if used much.— Scien
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1851-01-25/ed-1/seq-2)
 
@@ -829,7 +829,7 @@ in a pint of cold water, taken as soon as pos
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1851-01-25/ed-1/seq-2)
 
@@ -856,7 +856,7 @@ ed the blood. New York Courier.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1851-01-31/ed-1/seq-3)
 
@@ -892,7 +892,7 @@ staved the blood
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1851-02-01/ed-1/seq-1)
 
@@ -925,7 +925,7 @@ A MODEL EDITOR
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1851-02-01_30_1540?page=3)
 
@@ -955,7 +955,7 @@ two teaspoonfuls of sal
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn87070038/1851-03-06/ed-1/seq-2)
 
@@ -980,7 +980,7 @@ ofaaltcompletly stayed the blood. . A le
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1851-03-07/ed-1/seq-2)
 
@@ -1009,7 +1009,7 @@ the blood.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1851-03-15/ed-1/seq-4)
 
@@ -1056,7 +1056,7 @@ much salt meat is Injurious
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1851-06-21/ed-1/seq-1)
 
@@ -1075,7 +1075,7 @@ soon as possible, with a short nap immedi
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Domestic News.
 
@@ -1083,7 +1083,7 @@ soon as possible, with a short nap immedi
 
 #### 1851-09-17 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1851-10-07/ed-1/seq-4)
 
@@ -1101,7 +1101,7 @@ used much.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## HOUSEWIFE'S CORNER.
 
@@ -1109,7 +1109,7 @@ used much.
 
 #### 1851-11-11 &middot; Liverpool, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## HOUSEWIFE'S CORNER.
 
@@ -1117,7 +1117,7 @@ used much.
 
 #### 1851-11-11 &middot; Liverpool, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## HOUSEWIFE'S CORNER.
 
@@ -1125,7 +1125,7 @@ used much.
 
 #### 1851-11-11 &middot; Liverpool, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Advertisements & Notices
 
@@ -1133,7 +1133,7 @@ used much.
 
 #### 1851-11-26 &middot; Dublin, Ireland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Advertisements & Notices
 
@@ -1141,7 +1141,7 @@ used much.
 
 #### 1851-11-26 &middot; Dublin, Ireland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Advertisements & Notices
 
@@ -1149,7 +1149,7 @@ used much.
 
 #### 1851-11-26 &middot; Dublin, Ireland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Semi-weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024518/1852-02-14/ed-1/seq-2)
 
@@ -1190,7 +1190,7 @@ tartar, wash them twice a day with salt water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Valuable Receipts
 
@@ -1198,7 +1198,7 @@ tartar, wash them twice a day with salt water
 
 #### 1854-04-28 &middot; Montpelier [Vt.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Demoine courier._](https://chroniclingamerica.loc.gov/lccn/sn88059762/1854-11-23/ed-1/seq-1)
 
@@ -1255,7 +1255,7 @@ but salt meal is injurious, if used mu elk
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Georgetown weekly news._](https://chroniclingamerica.loc.gov/lccn/sn93052971/1854-11-30/ed-1/seq-1)
 
@@ -1308,7 +1308,7 @@ Here is a very beautiful thought of tha
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51?page=3)
 
@@ -1334,7 +1334,7 @@ if used much.— Scientific American
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51?page=3)
 
@@ -1354,7 +1354,7 @@ me a very beavy fall, A
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1855-01-06/ed-1/seq-1)
 
@@ -1402,7 +1402,7 @@ injurious il used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## MEDICAL USE OF SALT
 
@@ -1410,7 +1410,7 @@ injurious il used much
 
 #### 1855-03-01 &middot; Atlanta
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1855-03_50_3?page=69)
 
@@ -1438,7 +1438,7 @@ two teaspoonfuls of salt completely stayed the blood.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1855-04-07/ed-1/seq-3)
 
@@ -1493,7 +1493,7 @@ meats is injurious if used mueli
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The south-western._](https://chroniclingamerica.loc.gov/lccn/sn83016483/1855-04-11/ed-1/seq-1)
 
@@ -1543,7 +1543,7 @@ meats is injurious if used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1855-04-26/ed-1/seq-1)
 
@@ -1602,7 +1602,7 @@ if used much. : &#x27;. .
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Demoine courier._](https://chroniclingamerica.loc.gov/lccn/sn88059762/1855-10-18/ed-1/seq-4)
 
@@ -1665,7 +1665,7 @@ gpstion bu salt meat is injurious if use
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1855-10-20/ed-1/seq-1)
 
@@ -1714,7 +1714,7 @@ but salt meat is injurious if used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1855-10-25/ed-1/seq-1)
 
@@ -1735,7 +1735,7 @@ She Is living with a family who love her the JxM wTthi strong brine for an, .hou
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1855-10-25/ed-1/seq-1)
 
@@ -1778,7 +1778,7 @@ saltiueAti8rursJi,use vpp
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [MEDICAL USE OF SALT.](http://trove.nla.gov.au/ndp/del/article/118311844)
 
@@ -1827,7 +1827,7 @@ and aids digestion ; but too much salt
 meat is injurious.
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Panola star._](https://chroniclingamerica.loc.gov/lccn/sn87065521/1856-06-21/ed-1/seq-4)
 
@@ -1896,7 +1896,7 @@ meat is injurious
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1856-07-17_24_30?page=0)
 
@@ -1950,7 +1950,7 @@ meat is injurious, if used much. [Ex.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8?page=12)
 
@@ -1983,7 +1983,7 @@ all bandages removed from the neck, and a cool
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8?page=12)
 
@@ -2013,7 +2013,7 @@ drink it, also, twice a day, until cured
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8?page=12)
 
@@ -2032,7 +2032,7 @@ erate degree, and aids digestion, but salt meat is kindly and perverse as that o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Farm and Garden
 
@@ -2040,7 +2040,7 @@ erate degree, and aids digestion, but salt meat is kindly and perverse as that o
 
 #### 1856-08-06 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1856-08-09/ed-1/seq-2)
 
@@ -2090,7 +2090,7 @@ A very flue young mare, belonging to Dr
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6?page=6)
 
@@ -2126,7 +2126,7 @@ salt and water .—Mtdiad Joormd.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The independent press._](https://chroniclingamerica.loc.gov/lccn/sn93067882/1856-08-15/ed-1/seq-2)
 
@@ -2179,7 +2179,7 @@ salt meat is injurious, if used much.?Kx
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Houma Ceres._](https://chroniclingamerica.loc.gov/lccn/sn83026391/1856-08-23/ed-1/seq-3)
 
@@ -2230,7 +2230,7 @@ salt meat i; injurious, if used much.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1856-09-18/ed-1/seq-1)
 
@@ -2284,7 +2284,7 @@ meat is injurious, if used much.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-10_53_4?page=69)
 
@@ -2343,7 +2343,7 @@ used much.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1856-10-08/ed-1/seq-4)
 
@@ -2400,7 +2400,7 @@ meat is injurious, if used much.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1856-11-06/ed-1/seq-4)
 
@@ -2425,7 +2425,7 @@ vatcr. if suflicient sensibility remain;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1856-11-06/ed-1/seq-4)
 
@@ -2467,7 +2467,7 @@ if used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-03-20/ed-1/seq-1)
 
@@ -2511,7 +2511,7 @@ Mit and water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065087/1857-03-27/ed-1/seq-1)
 
@@ -2557,7 +2557,7 @@ salt and water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1857-04-01/ed-1/seq-2)
 
@@ -2596,7 +2596,7 @@ wash them twice a day with salt and water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1857-04-01/ed-1/seq-2)
 
@@ -2635,7 +2635,7 @@ wash them twice a day with salt and water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly hawk-eye and telegraph._](https://chroniclingamerica.loc.gov/lccn/sn84037930/1857-05-27/ed-1/seq-3)
 
@@ -2687,7 +2687,7 @@ and water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1857-06-02/ed-1/seq-1)
 
@@ -2732,7 +2732,7 @@ them twice a day with sail an! water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-06_12_23?page=6)
 
@@ -2750,7 +2750,7 @@ of salt completely stayed the blood.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Medical Use of Salt
 
@@ -2758,7 +2758,7 @@ of salt completely stayed the blood.
 
 #### 1857-06-08 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-13_12_24?page=6)
 
@@ -2779,7 +2779,7 @@ who seems almost dead from a heavy fall.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1857-06-25/ed-1/seq-1)
 
@@ -2827,7 +2827,7 @@ meat is injurious, when used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1857-06-25/ed-1/seq-4)
 
@@ -2848,7 +2848,7 @@ meat is injurious, when used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1857-06-25/ed-1/seq-4)
 
@@ -2864,7 +2864,7 @@ fciad on some salt with a rag.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Medical Use of Salt
 
@@ -2872,7 +2872,7 @@ fciad on some salt with a rag.
 
 #### 1857-07-01 &middot; City of Jackson [Miss.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Medical Use of Salt
 
@@ -2880,7 +2880,7 @@ fciad on some salt with a rag.
 
 #### 1857-07-15 &middot; Raymond, Miss.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-08_6_2?page=86)
 
@@ -2900,7 +2900,7 @@ Drop Biaouit
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-17_25_39?page=0)
 
@@ -2955,7 +2955,7 @@ is injurious, if used much.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1857-10-02/ed-1/seq-1)
 
@@ -2995,7 +2995,7 @@ oalt uivut it injurious, if used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly Clarksville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033372/1857-10-02/ed-1/seq-1)
 
@@ -3028,7 +3028,7 @@ In swelled neck, wasn tho. part with brine
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1857-11-07_1893?page=3)
 
@@ -3053,7 +3053,7 @@ completely restore the patient from lethargy
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Emigrant aid journal of Minnesota._](https://chroniclingamerica.loc.gov/lccn/sn84024825/1857-12-05/ed-1/seq-1)
 
@@ -3095,7 +3095,7 @@ it also twice ■a day, until cured
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Emigrant aid journal of Minnesota._](https://chroniclingamerica.loc.gov/lccn/sn84024825/1857-12-05/ed-1/seq-2)
 
@@ -3137,7 +3137,7 @@ it also twice u day, until cured
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Emigrant aid journal of Minnesota._](https://chroniclingamerica.loc.gov/lccn/sn84024825/1857-12-05/ed-1/seq-3)
 
@@ -3180,7 +3180,7 @@ it also twice n day, until cured
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1858-01-02/ed-1/seq-1)
 
@@ -3203,7 +3203,7 @@ tient from lethargy. Salt wille xpel worms, i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1858-01-16/ed-1/seq-6)
 
@@ -3261,7 +3261,7 @@ with salt and water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1858-01-16/ed-1/seq-7)
 
@@ -3313,7 +3313,7 @@ with salt and water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Muscatine weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027253/1858-01-30/ed-1/seq-2)
 
@@ -3342,7 +3342,7 @@ lethargy. Salt will expel worms, i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1858-07-03/ed-1/seq-1)
 
@@ -3398,7 +3398,7 @@ much. ? Scientific Jitntricoix
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1859-12-01/ed-1/seq-1)
 
@@ -3445,7 +3445,7 @@ salt meat is injurious if used too much.— .Sa
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028820/1860-02-02/ed-1/seq-1)
 
@@ -3498,7 +3498,7 @@ tion ; but salt meat is injurious if used to
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1860-02-14/ed-1/seq-1)
 
@@ -3550,7 +3550,7 @@ gestion; but salt meat is injurious&#x27; ifusc
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Medical Uses of Salt
 
@@ -3558,7 +3558,7 @@ gestion; but salt meat is injurious&#x27; ifusc
 
 #### 1860-02-28 &middot; Chillicothe, Ohio
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1860-05-01/ed-1/seq-1)
 
@@ -3602,7 +3602,7 @@ In swelled neck, wash the part in brine twic
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1860-05-30/ed-1/seq-1)
 
@@ -3652,7 +3652,7 @@ brine twice a day until cured
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Alleghanian._](https://chroniclingamerica.loc.gov/lccn/sn85054845/1860-07-19/ed-1/seq-1)
 
@@ -3707,7 +3707,7 @@ tion ; but salt meat is injurious if use
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1863-04-11/ed-1/seq-1)
 
@@ -3744,7 +3744,7 @@ blood
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Butte record._](https://chroniclingamerica.loc.gov/lccn/sn86058108/1863-05-16/ed-1/seq-1)
 
@@ -3780,7 +3780,7 @@ blood.— [Medical World
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1863-05-16/ed-1/seq-1)
 
@@ -3816,7 +3816,7 @@ teasnoonfolls of salt completely stayed th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1864-01-20/ed-1/seq-2)
 
@@ -3848,7 +3848,7 @@ at the l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1864-01-20/ed-1/seq-2)
 
@@ -3871,7 +3871,7 @@ moats arie injurious to tal lunch.- Scientifi
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Weekly Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026193/1864-05-25/ed-1/seq-4)
 
@@ -3908,7 +3908,7 @@ completely stayed the blood.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Farmers' Department
 
@@ -3916,7 +3916,7 @@ completely stayed the blood.
 
 #### 1865-01-21 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1865-03-10/ed-1/seq-1)
 
@@ -3948,7 +3948,7 @@ pletely stayed tho blood.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1865-04-11/ed-1/seq-1)
 
@@ -3981,7 +3981,7 @@ j spoonfuls if salt completely slayed ih
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1865-09-13_36_37?page=3)
 
@@ -4010,7 +4010,7 @@ lungs, when other remedies failed, Dr. Rush found
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Baltimore daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn83009569/1866-04-05/ed-1/seq-4)
 
@@ -4039,7 +4039,7 @@ remedies failed, Dr. Rush found that twa
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Medical Use of Salt
 
@@ -4047,7 +4047,7 @@ remedies failed, Dr. Rush found that twa
 
 #### 1866-05-26 &middot; Honolulu [Oahu, Hawaii]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1866-05-30/ed-1/seq-2)
 
@@ -4081,7 +4081,7 @@ two toaspoonfuls of salt stayed th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1866-07-07/ed-1/seq-1)
 
@@ -4111,7 +4111,7 @@ lablespoonful of salt stayed the blood
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1867-10-24/ed-1/seq-4)
 
@@ -4164,7 +4164,7 @@ tior ; but salt mei.t is injurious if use
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744?page=23)
 
@@ -4192,7 +4192,7 @@ ble.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1878-08-10/ed-1/seq-4)
 
@@ -4242,7 +4242,7 @@ Reader
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The farmer and mechanic._](https://chroniclingamerica.loc.gov/lccn/sn85042098/1878-09-05/ed-1/seq-7)
 
@@ -4303,7 +4303,7 @@ The London World states tha
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1878-09-27/ed-1/seq-1)
 
@@ -4341,7 +4341,7 @@ stayed the blood.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026526/1878-10-10/ed-1/seq-1)
 
@@ -4381,7 +4381,7 @@ pletely stayed lt&quot;S btooM
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-06-28_58_49?page=9)
 
@@ -4429,7 +4429,7 @@ digestion, but salt is injurious if used much.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1879-08-28/ed-1/seq-4)
 
@@ -4487,7 +4487,7 @@ used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1879-12-18/ed-1/seq-4)
 
@@ -4539,7 +4539,7 @@ injurious if used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1880-02-18/ed-1/seq-4)
 
@@ -4591,7 +4591,7 @@ meat is injurious if u-ed much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1880-03-09/ed-1/seq-4)
 
@@ -4642,7 +4642,7 @@ me1Cat is ijtiriotis
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New Bloomfield, Pa. times._](https://chroniclingamerica.loc.gov/lccn/sn90069164/1880-05-04/ed-1/seq-6)
 
@@ -4693,7 +4693,7 @@ if used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1880-05-07/ed-1/seq-4)
 
@@ -4733,7 +4733,7 @@ but salt meat is injurious u used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West Virginia argus._](https://chroniclingamerica.loc.gov/lccn/sn86092245/1880-05-08/ed-1/seq-4)
 
@@ -4782,7 +4782,7 @@ If used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1880-05-22/ed-1/seq-4)
 
@@ -4833,7 +4833,7 @@ aid digestion, but salt meat Is Injurious
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1880-05-29/ed-1/seq-4)
 
@@ -4875,7 +4875,7 @@ it injurious if used mneh.—feeiunye
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1880-06-05/ed-1/seq-3)
 
@@ -4922,7 +4922,7 @@ used too much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1880-07-01/ed-1/seq-4)
 
@@ -4968,7 +4968,7 @@ used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1880-08-06/ed-1/seq-4)
 
@@ -5013,7 +5013,7 @@ ate degree, and aid digestion.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1881-01-12/ed-1/seq-4)
 
@@ -5057,7 +5057,7 @@ wash twice a day with salt and wate
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1881-01-19/ed-1/seq-1)
 
@@ -5104,7 +5104,7 @@ salt meat is injurious it used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84023296/1881-01-26/ed-1/seq-1)
 
@@ -5146,7 +5146,7 @@ jurous if used much
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1881-01-27/ed-1/seq-4)
 
@@ -5189,7 +5189,7 @@ wash twice a day with salt and water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1881-01-28/ed-1/seq-1)
 
@@ -5230,7 +5230,7 @@ and water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1881-02-01/ed-1/seq-1)
 
@@ -5253,7 +5253,7 @@ salt and water.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1881-03-31/ed-1/seq-4)
 
@@ -5276,7 +5276,7 @@ fall, etc
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1881-06-08/ed-1/seq-3)
 
@@ -5296,7 +5296,7 @@ seems almost dead from a heavy fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1881-06-24/ed-1/seq-2)
 
@@ -5316,7 +5316,7 @@ almost dead from a heavy fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gloucester County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87068079/1881-06-30/ed-1/seq-1)
 
@@ -5334,7 +5334,7 @@ until cured
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gloucester County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87068079/1881-06-30/ed-1/seq-1)
 
@@ -5354,7 +5354,7 @@ dead from a heavy fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1881-07-09/ed-1/seq-7)
 
@@ -5382,7 +5382,7 @@ twice a day until cured
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1881-07-09/ed-1/seq-7)
 
@@ -5404,7 +5404,7 @@ dead from a heavy fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1881-07-20/ed-1/seq-4)
 
@@ -5424,7 +5424,7 @@ heavy fal
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1881-07-20/ed-1/seq-4)
 
@@ -5440,7 +5440,7 @@ cured
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1881-07-20/ed-1/seq-4)
 
@@ -5460,7 +5460,7 @@ dead from a heavy fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1881-08-04/ed-1/seq-4)
 
@@ -5480,7 +5480,7 @@ heavy fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1881-08-11/ed-1/seq-4)
 
@@ -5497,7 +5497,7 @@ cured
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1881-08-11/ed-1/seq-4)
 
@@ -5517,7 +5517,7 @@ heavy fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1881-08-24/ed-1/seq-2)
 
@@ -5537,7 +5537,7 @@ almost dead from a heavy fall.—Ex.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1881-08-24/ed-1/seq-4)
 
@@ -5558,7 +5558,7 @@ from a heavy fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1881-08-24/ed-2/seq-4)
 
@@ -5579,7 +5579,7 @@ from a heavy fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1881-09-01/ed-1/seq-4)
 
@@ -5598,7 +5598,7 @@ seems almost dead from a heavy fall.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1881-09-28/ed-1/seq-2)
 
@@ -5645,7 +5645,7 @@ day with salt and water.—Medica
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1881-10-13/ed-1/seq-4)
 
@@ -5665,7 +5665,7 @@ heavy fall.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1881-10-13/ed-1/seq-4)
 
@@ -5681,7 +5681,7 @@ cured
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1881-11-17_34_46?page=6)
 
@@ -5730,7 +5730,7 @@ day with salt and water.—From th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Copiahan._](https://chroniclingamerica.loc.gov/lccn/2018270504/1881-12-03/ed-1/seq-1)
 
@@ -5789,7 +5789,7 @@ a day with salt and water.—
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973?page=23)
 
@@ -5804,7 +5804,7 @@ a moderate degree, and aids digestion; but the daily us
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Semi-weekly interior journal._](https://chroniclingamerica.loc.gov/lccn/sn85052020/1881-12-30/ed-1/seq-1)
 
@@ -5853,7 +5853,7 @@ them twice a day with salt aud water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1882-01-29/ed-1/seq-4)
 
@@ -5899,7 +5899,7 @@ salt and water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1882-02-03/ed-1/seq-3)
 
@@ -5944,7 +5944,7 @@ salt and water
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sacramento daily record-union._](https://chroniclingamerica.loc.gov/lccn/sn82014381/1882-04-15/ed-1/seq-6)
 
@@ -5963,7 +5963,7 @@ who seems almost dead from a heavy fail.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1884-05-29/ed-1/seq-4)
 
@@ -5984,7 +5984,7 @@ fall.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## RANDOM READINGS.
 
@@ -5992,7 +5992,7 @@ fall.
 
 #### 1884-08-22 &middot; Hull, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1884-08-28/ed-1/seq-4)
 
@@ -6042,7 +6042,7 @@ twice a day with salt and wate
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1885-03-07/ed-1/seq-4)
 
@@ -6095,7 +6095,7 @@ but salt meat is iujurioua if used mrch
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1885-03-11/ed-1/seq-4)
 
@@ -6145,7 +6145,7 @@ but salt meat ia injurious if used meet?
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Peninsula enterprise._](https://chroniclingamerica.loc.gov/lccn/sn94060041/1885-06-27/ed-1/seq-1)
 
@@ -6203,7 +6203,7 @@ als:, until cured
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hocking sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85038119/1885-10-29/ed-1/seq-1)
 
@@ -6228,7 +6228,7 @@ completely stayed ihe blood
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Salt Lake herald._](https://chroniclingamerica.loc.gov/lccn/sn85058130/1886-02-21/ed-1/seq-5)
 
@@ -6247,7 +6247,7 @@ almost dead from a heavy fal
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1886-05-21/ed-1/seq-1)
 
@@ -6269,7 +6269,7 @@ a heavy full.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1886-07-15/ed-1/seq-4)
 
@@ -6289,7 +6289,7 @@ dead from a heavy fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1886-10-30/ed-1/seq-3)
 
@@ -6312,7 +6312,7 @@ from a heavy fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1887-02-19/ed-1/seq-7)
 
@@ -6337,7 +6337,7 @@ dead from a heavy fall.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-04-20/ed-1/seq-2)
 
@@ -6359,7 +6359,7 @@ from a heavy fall.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-04-20/ed-1/seq-3)
 
@@ -6381,7 +6381,7 @@ from a heavy fall.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Southern live-stock journal._](https://chroniclingamerica.loc.gov/lccn/sn87065614/1890-05-15/ed-1/seq-1)
 
@@ -6437,7 +6437,7 @@ jurious if used much.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Use of Salt.](http://trove.nla.gov.au/ndp/del/article/66896761)
 
@@ -6484,7 +6484,7 @@ and aids di. gestion, but salt meat is
 injurious if used much.
 </td></tr></table>
 
-<hr />
+---
 
 ## [Use of Salt.](http://trove.nla.gov.au/ndp/del/article/71184391)
 
@@ -6531,7 +6531,7 @@ is injurious if used much. Of the
 Various Breeds of cattle, the Durham or
 </td></tr></table>
 
-<hr />
+---
 
 ## [Use of Salt.](http://trove.nla.gov.au/ndp/del/article/113747158)
 
@@ -6570,7 +6570,7 @@ times will relieve In mortfliBeB. H&amp;-
 gums bBaJfe^ed wash the ^motttii
 </td></tr></table>
 
-<hr />
+---
 
 ## [The Value of Salt.](http://trove.nla.gov.au/ndp/del/article/127726873)
 
@@ -6616,7 +6616,7 @@ moderate degree, and aid digestion, but
 salt meat&#x27; is injurious if used much.
 </td></tr></table>
 
-<hr />
+---
 
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/61235399)
 
@@ -6659,7 +6659,7 @@ a moderate degreo, and aid digestion,
 but Bait moat ls injurions if used much
 </td></tr></table>
 
-<hr />
+---
 
 ## [The Value of Salt.](http://trove.nla.gov.au/ndp/del/article/135353931)
 
@@ -6697,7 +6697,7 @@ britio? If the I tooth bo covprodiwith
 and water. Kl-In swellod
 </td></tr></table>
 
-<hr />
+---
 
 ## [USE OF SALT](http://trove.nla.gov.au/ndp/del/article/118284622)
 
@@ -6742,7 +6742,7 @@ a moderate degree, and aid digestion,
 but salt moat is injurious if used much
 </td></tr></table>
 
-<hr />
+---
 
 ## [Use of Salt.](http://trove.nla.gov.au/ndp/del/article/172545677)
 
@@ -6788,7 +6788,7 @@ digestion, but salt meat is injurious if
 used much
 </td></tr></table>
 
-<hr />
+---
 
 ## [Use of Salt.](http://trove.nla.gov.au/ndp/del/article/134311520)
 
@@ -6834,7 +6834,7 @@ aids digestion, but aalt meal ia
 injurio&#x27;da fl uted&#x27; muob
 </td></tr></table>
 
-<hr />
+---
 
 ## [Health Notes.](http://trove.nla.gov.au/ndp/del/article/132405953)
 
@@ -6873,7 +6873,7 @@ ninny cases of bleeding at tho lungs,
 when other remedies, fail tw
 </td></tr></table>
 
-<hr />
+---
 
 ## [Use of Salt.](http://trove.nla.gov.au/ndp/del/article/65695584)
 
@@ -6920,5 +6920,5 @@ aide di. gaetion, but salt meat is
 injurious it used much
 </td></tr></table>
 
-<hr />
+---
 

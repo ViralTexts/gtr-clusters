@@ -1,7 +1,7 @@
 
 # A Parody Parodied
 
-### 20 reprints from 1857-06-23 to 1890-12-20 [cl42949673006]
+### 20 reprints from 1857-04-24 to 1890-12-20
 
 ## [A Parody Parodied](https://chroniclingamerica.loc.gov/lccn/sn83045462/1857-06-23/ed-1/seq-4/)
 
@@ -60,7 +60,7 @@ Waved their bright wings and answered &quot;Yes, in Heaven.&quot;
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1857-04-24/ed-1/seq-4)
 
@@ -120,7 +120,7 @@ Heaven.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1857-05-12/ed-1/seq-1)
 
@@ -165,7 +165,7 @@ Heaven/’
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1857-05-15/ed-1/seq-1)
 
@@ -216,7 +216,7 @@ Waved their bright wingsand whimpered, &quot;Unly Heaven:
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1857-05-19/ed-1/seq-1)
 
@@ -248,7 +248,7 @@ ears a.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The people's journal._](https://chroniclingamerica.loc.gov/lccn/sn83032194/1857-05-21/ed-1/seq-3)
 
@@ -277,7 +277,7 @@ given—
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1857-06-06/ed-1/seq-1)
 
@@ -318,7 +318,7 @@ murmuring, &quot;not while brandy
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1857-06-06/ed-1/seq-6)
 
@@ -378,7 +378,7 @@ heaven.&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1857-06-11/ed-1/seq-4)
 
@@ -440,7 +440,7 @@ m Waved their bright wings and answered
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bedford inquirer and chronicle._](https://chroniclingamerica.loc.gov/lccn/sn86083444/1857-06-12/ed-1/seq-1)
 
@@ -496,7 +496,7 @@ iu litavc
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1857-06-23/ed-1/seq-4)
 
@@ -555,7 +555,7 @@ Heaven.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028820/1857-07-02/ed-1/seq-1)
 
@@ -609,7 +609,7 @@ ffemat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1857-07-02/ed-1/seq-4)
 
@@ -656,7 +656,7 @@ Heaven!&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1857-07-09/ed-1/seq-1)
 
@@ -713,7 +713,7 @@ in Haven!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1857-08-12/ed-1/seq-5)
 
@@ -770,7 +770,7 @@ Waved their, bright wlugs and answered &quot;Yes, in
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035102/1857-08-13/ed-1/seq-1)
 
@@ -823,7 +823,7 @@ Waved their wing und answered, &#x27; Ves, in Iteuocn!&#x27;&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1858-03-03/ed-1/seq-4)
 
@@ -878,7 +878,7 @@ in Heaven 1”
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1867-04-18/ed-1/seq-1)
 
@@ -938,7 +938,7 @@ navti tneir ongm wings ana answerem
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1867-12-24/ed-1/seq-4)
 
@@ -993,7 +993,7 @@ in heaven.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1890-12-20/ed-1/seq-2)
 
@@ -1018,5 +1018,5 @@ yes, in Heaven.” Refoktkr
 </td>
 </tr></table>
 
-<hr />
+---
 

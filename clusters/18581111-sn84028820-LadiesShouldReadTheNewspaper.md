@@ -1,7 +1,7 @@
 
 # Ladies Should Read the Newspaper
 
-### 190 reprints from 1858-11-11 to 1884-06-21 [cl8589934607]
+### 190 reprints from 1846-10-21 to 1884-06-21
 
 ## [Ladies Should Read the Newspaper](https://chroniclingamerica.loc.gov/lccn/sn84028820/1858-11-11/ed-1/seq-4/)
 
@@ -16,7 +16,7 @@ Let the whole family—men, woman, and children—read the newspapers.
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The banner._](https://chroniclingamerica.loc.gov/lccn/sn85026944/1846-10-21/ed-1/seq-3)
 
@@ -60,7 +60,7 @@ children?read the newspapers. An
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Variety
 
@@ -68,7 +68,7 @@ children?read the newspapers. An
 
 #### 1846-10-23 &middot; Greenville, S.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Newspaper
 
@@ -76,7 +76,7 @@ children?read the newspapers. An
 
 #### 1846-10-24 &middot; Cleveland, Ohio
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The New era._](https://chroniclingamerica.loc.gov/lccn/sn86071753/1846-11-07/ed-1/seq-2)
 
@@ -110,7 +110,7 @@ weekly and daily journals. Or, if they are lef
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New era._](https://chroniclingamerica.loc.gov/lccn/sn86071753/1846-11-07/ed-1/seq-2)
 
@@ -125,7 +125,7 @@ women and children—read the newspapers. And
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald of the times, and Rhode Islander._](https://chroniclingamerica.loc.gov/lccn/sn83021168/1846-12-24/ed-1/seq-4)
 
@@ -155,7 +155,7 @@ the table 1s well supphied with newspa
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald of the times, and Rhode Islander._](https://chroniclingamerica.loc.gov/lccn/sn83021168/1846-12-24/ed-1/seq-4)
 
@@ -171,7 +171,7 @@ the newspaper. And if anybody has
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Newspaper
 
@@ -179,7 +179,7 @@ the newspaper. And if anybody has
 
 #### 1847-01-01 &middot; Raymond, Miss.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Newspaper
 
@@ -187,7 +187,7 @@ the newspaper. And if anybody has
 
 #### 1847-02-05 &middot; Greenville, S.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Newspaper
 
@@ -195,7 +195,7 @@ the newspaper. And if anybody has
 
 #### 1847-02-05 &middot; Greenville, S.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-05-23_12_21?page=4)
 
@@ -227,7 +227,7 @@ and children, read the newspaper. And if any
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-07_6_1?page=92)
 
@@ -259,7 +259,7 @@ and children, read the newspaper. And if any
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1857-12-01/ed-1/seq-4)
 
@@ -286,7 +286,7 @@ nieu, women and children read the news
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn88064150/1858-02-03/ed-1/seq-2)
 
@@ -323,7 +323,7 @@ children—read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1858-02-18/ed-1/seq-1)
 
@@ -351,7 +351,7 @@ women and child re arDad the Dt&#x27;ws-&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Potter journal._](https://chroniclingamerica.loc.gov/lccn/sn86081096/1858-03-04/ed-1/seq-4)
 
@@ -384,7 +384,7 @@ and children—read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1858-03-13/ed-1/seq-1)
 
@@ -420,7 +420,7 @@ read the r vspaper
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Meigs County telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038183/1858-04-06/ed-1/seq-1)
 
@@ -459,7 +459,7 @@ men, women and children read the. news
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1858-04-07/ed-1/seq-1)
 
@@ -491,7 +491,7 @@ read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1858-04-20/ed-1/seq-2)
 
@@ -518,7 +518,7 @@ newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1858-05-16/ed-1/seq-3)
 
@@ -551,7 +551,7 @@ men, weawoand children read the newspaper
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Ladies Should Read Newspapers
 
@@ -559,7 +559,7 @@ men, weawoand children read the newspaper
 
 #### 1858-05-17 &middot; Milwaukee, [Wis.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1858-05-19/ed-1/seq-2)
 
@@ -595,7 +595,7 @@ and children?read tbe newspaper&gt;!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Winchester home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065088/1858-05-20/ed-1/seq-4)
 
@@ -636,7 +636,7 @@ read the newpaper. Ex
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1858-05-25/ed-1/seq-4)
 
@@ -669,7 +669,7 @@ men and children -read the newspaper
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Muscatine weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027253/1858-06-12/ed-1/seq-2)
 
@@ -709,7 +709,7 @@ women and children—re
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Muscatine weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027253/1858-06-12/ed-1/seq-3)
 
@@ -750,7 +750,7 @@ per.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kanzas news._](https://chroniclingamerica.loc.gov/lccn/sn85030219/1858-06-12/ed-1/seq-1)
 
@@ -785,7 +785,7 @@ the newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Meigs County telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038183/1858-06-22/ed-1/seq-1)
 
@@ -821,7 +821,7 @@ children rend the newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The independent press._](https://chroniclingamerica.loc.gov/lccn/sn93067882/1858-06-25/ed-1/seq-4)
 
@@ -841,7 +841,7 @@ aily journals. Let the-whole family?mei
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Preble County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85026031/1858-07-01/ed-1/seq-4)
 
@@ -879,7 +879,7 @@ en and children read the newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1858-07-08/ed-1/seq-4)
 
@@ -916,7 +916,7 @@ newspaper.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1858-07-14/ed-1/seq-3)
 
@@ -952,7 +952,7 @@ newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1858-08-04/ed-1/seq-1)
 
@@ -980,7 +980,7 @@ read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1858-08-11/ed-1/seq-2)
 
@@ -1010,7 +1010,7 @@ the whole familyj man, woman and children read th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1858-08-11/ed-1/seq-2)
 
@@ -1040,7 +1040,7 @@ the whole family, man, woman and children read th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cadiz Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84028794/1858-08-11/ed-1/seq-1)
 
@@ -1065,7 +1065,7 @@ children read the ncwspipers.; -r - . . , ,;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1858-08-18/ed-1/seq-3)
 
@@ -1089,7 +1089,7 @@ lamily, man, woman, and child, read th&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014488/1858-09-04/ed-1/seq-1)
 
@@ -1122,7 +1122,7 @@ read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Buchanan County guardian._](https://chroniclingamerica.loc.gov/lccn/sn87058348/1858-09-16/ed-1/seq-1)
 
@@ -1150,7 +1150,7 @@ the newspapers. ,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1858-09-16/ed-1/seq-1)
 
@@ -1177,7 +1177,7 @@ inou and children read the newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [POLICE OFFICE.—THIS DAY. (Before Mr. Tarleton.)](http://trove.nla.gov.au/ndp/del/article/2464257)
 
@@ -1215,7 +1215,7 @@ Let the family-men, women, and children-
 read tho newspapers.-¿Te« York Tablet
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Daily national Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84038814/1858-10-12/ed-1/seq-1)
 
@@ -1253,7 +1253,7 @@ newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [MISCELLANEOUS EXTRACTS. A GLORIOUS EPISODE IN THE INDIAN WAR.—](http://trove.nla.gov.au/ndp/del/article/784263)
 
@@ -1291,7 +1291,7 @@ with weekly and daily journals. Let the
 family-men, women, and children-read th
 </td></tr></table>
 
-<hr />
+---
 
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/136445055)
 
@@ -1330,7 +1330,7 @@ family — men, women, and children — read
 tho newspaper. — New York Tablet
 </td></tr></table>
 
-<hr />
+---
 
 ## Miscellaneous Articles
 
@@ -1338,7 +1338,7 @@ tho newspaper. — New York Tablet
 
 #### 1858-10-20 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1858-10-21/ed-1/seq-2)
 
@@ -1364,7 +1364,7 @@ and poems on the centre-table be kep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Ladies Should Read the Newspapers
 
@@ -1372,7 +1372,7 @@ and poems on the centre-table be kep
 
 #### 1858-10-27 &middot; Newark [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1858-10-29/ed-1/seq-1)
 
@@ -1400,7 +1400,7 @@ newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1858-10-29/ed-1/seq-1)
 
@@ -1438,7 +1438,7 @@ read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1858-11_57_5?page=81)
 
@@ -1461,7 +1461,7 @@ men, women, and children—read the newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Ladies Should Read Newspapers
 
@@ -1469,7 +1469,7 @@ men, women, and children—read the newspapers.
 
 #### 1858-11-03 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1858-11-10/ed-1/seq-1)
 
@@ -1507,7 +1507,7 @@ thonewspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028820/1858-11-11/ed-1/seq-4)
 
@@ -1548,7 +1548,7 @@ children read the newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The hydraulic press._](https://chroniclingamerica.loc.gov/lccn/sn93051083/1858-12-11/ed-1/seq-4)
 
@@ -1588,7 +1588,7 @@ children, read newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1858-12-22/ed-1/seq-1)
 
@@ -1623,7 +1623,7 @@ all read tbe newspapers. &#x27; &#x27;&quot;.&#x27;!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1859-02-09/ed-1/seq-1)
 
@@ -1650,7 +1650,7 @@ children read the newspapers,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1859-03-30/ed-1/seq-1)
 
@@ -1689,7 +1689,7 @@ read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17?page=3)
 
@@ -1710,7 +1710,7 @@ familiar with the present character and improve
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17?page=3)
 
@@ -1731,7 +1731,7 @@ mental, moral, political and religious improve
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17?page=3)
 
@@ -1749,7 +1749,7 @@ the newspaper.— Exchange.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-05-21_1_21?page=5)
 
@@ -1787,7 +1787,7 @@ the newspaper.”
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/66053189)
 
@@ -1824,7 +1824,7 @@ with weekly and daily journals. Let the
 family-men, women, and children -read
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Columbia weekly news._](https://chroniclingamerica.loc.gov/lccn/sn92068455/1859-08-18/ed-1/seq-1)
 
@@ -1865,7 +1865,7 @@ read ib a newspaper Exchange.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1859-12-09/ed-1/seq-4)
 
@@ -1900,7 +1900,7 @@ and children read the newspaper.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1859-12-10/ed-1/seq-1)
 
@@ -1918,7 +1918,7 @@ children—read tbe newspaper.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1859-12-15/ed-1/seq-1)
 
@@ -1959,7 +1959,7 @@ children read tbc newspaper
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Randolph County journal._](https://chroniclingamerica.loc.gov/lccn/sn86058541/1859-12-29/ed-1/seq-1)
 
@@ -1987,7 +1987,7 @@ men and children read tns ne.vs
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1859-12-31/ed-1/seq-2)
 
@@ -2023,7 +2023,7 @@ and cnuarea rrau me newspaper
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Newbern weekly progress._](https://chroniclingamerica.loc.gov/lccn/sn84026547/1860-01-10/ed-1/seq-1)
 
@@ -2048,7 +2048,7 @@ i men, women, and children, read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1860-01-12/ed-1/seq-1)
 
@@ -2072,7 +2072,7 @@ the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Arkansas true Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014282/1860-01-25/ed-1/seq-1)
 
@@ -2108,7 +2108,7 @@ and children—read the newspaper
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## LADIES SHOULD READ NEWSPAPERS.
 
@@ -2116,7 +2116,7 @@ and children—read the newspaper
 
 #### 1860-02-02 &middot; Louisville
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1860-03-22/ed-1/seq-1)
 
@@ -2136,7 +2136,7 @@ part of the time covered with journals. Le
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1860-08-16/ed-1/seq-1)
 
@@ -2169,7 +2169,7 @@ read the newspaper.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1860-10-11/ed-1/seq-2)
 
@@ -2193,7 +2193,7 @@ tbe whole familv—men, women end children
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Newbern weekly progress._](https://chroniclingamerica.loc.gov/lccn/sn84026547/1860-12-25/ed-1/seq-1)
 
@@ -2227,7 +2227,7 @@ newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The south-western._](https://chroniclingamerica.loc.gov/lccn/sn83016483/1861-01-09/ed-1/seq-1)
 
@@ -2256,7 +2256,7 @@ eet&#x27; e. table be kept a part of the iti
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1861-04-11/ed-1/seq-1)
 
@@ -2281,7 +2281,7 @@ the time coveied with papers. Le
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1861-06-07/ed-1/seq-1)
 
@@ -2318,7 +2318,7 @@ newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lansing state Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016318/1861-06-19/ed-1/seq-1)
 
@@ -2339,7 +2339,7 @@ children read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1861-06-27/ed-1/seq-1)
 
@@ -2364,7 +2364,7 @@ with journals. Let the family men w
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Ladies Should Read Newspapers
 
@@ -2372,7 +2372,7 @@ with journals. Let the family men w
 
 #### 1861-08-22 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1861-09-11/ed-1/seq-4)
 
@@ -2397,7 +2397,7 @@ and children read the newspapers. .
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1861-12-28/ed-1/seq-1)
 
@@ -2433,7 +2433,7 @@ men, womeu and children read tbe news
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1862-01_64?page=74)
 
@@ -2466,7 +2466,7 @@ newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Cincinnati daily press._](https://chroniclingamerica.loc.gov/lccn/sn84028745/1862-02-11/ed-1/seq-1)
 
@@ -2504,7 +2504,7 @@ read the newspapers Godey.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juliet signal._](https://chroniclingamerica.loc.gov/lccn/sn84024082/1862-02-25/ed-1/seq-1)
 
@@ -2524,7 +2524,7 @@ of if. Let her bave an intelligent opinion
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _National Principia 1858-1866_](https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127?page=3)
 
@@ -2557,7 +2557,7 @@ Our thoughts and our concerns should be for
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _National Principia 1858-1866_](https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127?page=3)
 
@@ -2579,7 +2579,7 @@ the whole family—men, women, and children
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Cedar Falls gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025161/1862-06-27/ed-1/seq-1)
 
@@ -2614,7 +2614,7 @@ tho newspapers.— Lady&#x27;s liook
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Memphis union appeal._](https://chroniclingamerica.loc.gov/lccn/sn86053503/1862-07-03/ed-1/seq-4)
 
@@ -2638,7 +2638,7 @@ men, women and children read the news
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1862-07-09/ed-1/seq-1)
 
@@ -2677,7 +2677,7 @@ Irua read the newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1862-08-22/ed-1/seq-4)
 
@@ -2715,7 +2715,7 @@ read the newspapers. Godey.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Xenia sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85038244/1865-01-27/ed-1/seq-1)
 
@@ -2754,7 +2754,7 @@ men and children yead the newspctpfej-s.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1865-02-14/ed-1/seq-1)
 
@@ -2792,7 +2792,7 @@ arid ohildren-rqad the newsnpcrs.-j-
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1865-02-17/ed-1/seq-4)
 
@@ -2826,7 +2826,7 @@ the newspapers. (Axley
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1865-02-23/ed-1/seq-1)
 
@@ -2864,7 +2864,7 @@ read the newspapers. Godoy
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1865-02-23/ed-1/seq-1)
 
@@ -2907,7 +2907,7 @@ read the newspapers Gxhy.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Ladies Should Read Newspapers
 
@@ -2915,7 +2915,7 @@ read the newspapers Gxhy.
 
 #### 1865-02-23 &middot; Ripley [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1865-03-02/ed-1/seq-3)
 
@@ -2951,7 +2951,7 @@ ebildren—read the newapapera.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1865-03-03/ed-1/seq-1)
 
@@ -2990,7 +2990,7 @@ read tho nowspapcrs. Godcy
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1865-03-09/ed-1/seq-1)
 
@@ -3025,7 +3025,7 @@ tbe newspapers. Gidey
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1865-03-30/ed-1/seq-1)
 
@@ -3059,7 +3059,7 @@ per
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1865-03-30/ed-1/seq-1)
 
@@ -3094,7 +3094,7 @@ papers. Godey
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Charles City intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84038074/1865-04-13/ed-1/seq-1)
 
@@ -3115,7 +3115,7 @@ ment for life in the Institution. The of the time covered with weekly an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1865-04-21/ed-1/seq-4)
 
@@ -3148,7 +3148,7 @@ paper*.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1865-05-27/ed-1/seq-4)
 
@@ -3182,7 +3182,7 @@ chddrtn-read the newspapiw
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holmes County farmer._](https://chroniclingamerica.loc.gov/lccn/sn84028822/1865-06-01/ed-1/seq-1)
 
@@ -3217,7 +3217,7 @@ men, wo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1865-06-17/ed-1/seq-1)
 
@@ -3253,7 +3253,7 @@ women and children, read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn84026399/1865-10-05/ed-1/seq-1)
 
@@ -3273,7 +3273,7 @@ men, and children, read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cadiz sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034406/1865-12-06/ed-1/seq-1)
 
@@ -3310,7 +3310,7 @@ dren, read tho newspapers. CJohev.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1866-03-10/ed-1/seq-1)
 
@@ -3351,7 +3351,7 @@ children lead the newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051370/1866-06-30/ed-1/seq-1)
 
@@ -3385,7 +3385,7 @@ read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _North Branch democrat._](https://chroniclingamerica.loc.gov/lccn/sn86081912/1866-07-18/ed-1/seq-1)
 
@@ -3423,7 +3423,7 @@ newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Union and journal._](https://chroniclingamerica.loc.gov/lccn/sn83009571/1866-08-03/ed-1/seq-1)
 
@@ -3460,7 +3460,7 @@ ren, read the new*pa|&gt;eni.&quot;GWry
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Columbia democrat and star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85054828/1866-08-08/ed-1/seq-1)
 
@@ -3497,7 +3497,7 @@ dren, read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1866-08-18/ed-1/seq-1)
 
@@ -3531,7 +3531,7 @@ children, read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Reading Newspapers
 
@@ -3539,7 +3539,7 @@ children, read the newspapers
 
 #### 1866-09-01 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1866-09-07/ed-1/seq-2)
 
@@ -3569,7 +3569,7 @@ Let her have an intelligent opinion, and b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1866-11-01/ed-1/seq-2)
 
@@ -3588,7 +3588,7 @@ Let her have an intelligent opinion, an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1866-11-09/ed-1/seq-4)
 
@@ -3613,7 +3613,7 @@ improvements of our race.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1866-11-09/ed-1/seq-4)
 
@@ -3646,7 +3646,7 @@ Somber of several hundreds, adopted th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1866-11-17/ed-1/seq-3)
 
@@ -3679,7 +3679,7 @@ ments of our times
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033371/1866-11-30/ed-1/seq-1)
 
@@ -3707,7 +3707,7 @@ lel her have an Intelliircut oniulou aud b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1866-11-30/ed-1/seq-1)
 
@@ -3735,7 +3735,7 @@ Let the young lady have an intelligent opin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1866-12-06/ed-1/seq-4)
 
@@ -3766,7 +3766,7 @@ prove the condition of it. Let her
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-12-20_35_2?page=3)
 
@@ -3795,7 +3795,7 @@ See that each hour’s feelings and thoughts an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Ladies Should Read Newspapers
 
@@ -3803,7 +3803,7 @@ See that each hour’s feelings and thoughts an
 
 #### 1866-12-21 &middot; Great Salt Lake City, Utah
 [This text is not available under an open license.]
-<hr />
+---
 
 ## ROYAL CHRISTMAS GIFTS.
 
@@ -3811,7 +3811,7 @@ See that each hour’s feelings and thoughts an
 
 #### 1866-12-21 &middot; Liverpool, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1866-12-22/ed-1/seq-2)
 
@@ -3837,7 +3837,7 @@ Let. her have an ir:tt-higeitt opinion, and b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Columbia democrat and star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85054828/1866-12-26/ed-1/seq-1)
 
@@ -3870,7 +3870,7 @@ retiring late, the other night, walked inde
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## LATEST AND TELEGRAPHIC NEWS
 
@@ -3878,7 +3878,7 @@ retiring late, the other night, walked inde
 
 #### 1866-12-26 &middot; Liverpool, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## COURT AND FASHION.
 
@@ -3886,7 +3886,7 @@ retiring late, the other night, walked inde
 
 #### 1866-12-29 &middot; Belfast, Ireland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1867-01-04/ed-1/seq-3)
 
@@ -3915,7 +3915,7 @@ Let her have an intelligent opinion an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Maryland free press._](https://chroniclingamerica.loc.gov/lccn/sn84026707/1867-01-10/ed-1/seq-4)
 
@@ -3943,7 +3943,7 @@ her have an intelligent opinion and b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1867-01-17/ed-1/seq-3)
 
@@ -3971,7 +3971,7 @@ political and religious improvements of our times
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1867-01-24/ed-1/seq-1)
 
@@ -3992,7 +3992,7 @@ women tnd children, road the new*
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Ladies Should Read Newspapers
 
@@ -4000,7 +4000,7 @@ women tnd children, road the new*
 
 #### 1867-01-26 &middot; Savannah, Ga.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Dadies Should Read Newspapers
 
@@ -4008,7 +4008,7 @@ women tnd children, road the new*
 
 #### 1867-03-05 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Ladies Should Read the Newspapers
 
@@ -4016,7 +4016,7 @@ women tnd children, road the new*
 
 #### 1867-05-11 &middot; Ruby City, I.T. [Idaho]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Ladies Should Read Newspapers
 
@@ -4024,7 +4024,7 @@ women tnd children, road the new*
 
 #### 1867-09-01 &middot; Lafayette, Ind.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Gossip for the Ladies
 
@@ -4032,7 +4032,7 @@ women tnd children, road the new*
 
 #### 1867-11-09 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1868-03_76_453?page=60)
 
@@ -4065,7 +4065,7 @@ men, women, and children, read the newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1868-05-05/ed-1/seq-2)
 
@@ -4095,7 +4095,7 @@ times. See that each others feelings an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Ladies Should Read Newspapers
 
@@ -4103,7 +4103,7 @@ times. See that each others feelings an
 
 #### 1868-07-15 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1868-08-01/ed-1/seq-1)
 
@@ -4135,7 +4135,7 @@ and thoughts and actions are pure and true :
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1868-08-08/ed-1/seq-2)
 
@@ -4166,7 +4166,7 @@ religious improvements of our times
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Grenada sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034375/1868-11-07/ed-1/seq-4)
 
@@ -4196,7 +4196,7 @@ pers. _
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1868-11-14/ed-1/seq-2)
 
@@ -4219,7 +4219,7 @@ newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1868-12-26/ed-1/seq-1)
 
@@ -4240,7 +4240,7 @@ journals. Let the family, men, wo­
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1868-12-30/ed-1/seq-3)
 
@@ -4268,7 +4268,7 @@ children? read newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Plymouth weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056248/1868-12-31/ed-1/seq-4)
 
@@ -4298,7 +4298,7 @@ papers Exchange
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1869-01-01/ed-1/seq-4)
 
@@ -4326,7 +4326,7 @@ papers.— Exchange
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-01-07/ed-1/seq-2)
 
@@ -4352,7 +4352,7 @@ women and children—read newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-01-09_22_2?page=10)
 
@@ -4386,7 +4386,7 @@ women and children, read newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1869-01-14/ed-1/seq-3)
 
@@ -4414,7 +4414,7 @@ and children read the newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Charleston daily news._](https://chroniclingamerica.loc.gov/lccn/sn84026994/1869-01-18/ed-1/seq-3)
 
@@ -4439,7 +4439,7 @@ pers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Charleston daily news._](https://chroniclingamerica.loc.gov/lccn/sn84026994/1869-01-18/ed-2/seq-3)
 
@@ -4464,7 +4464,7 @@ pers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Des Arc weekly citizen._](https://chroniclingamerica.loc.gov/lccn/sn84027696/1869-01-19/ed-1/seq-1)
 
@@ -4492,7 +4492,7 @@ men and children—read newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1869-01-23/ed-1/seq-1)
 
@@ -4519,7 +4519,7 @@ pers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple News Items
 
@@ -4527,7 +4527,7 @@ pers
 
 #### 1869-01-23 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1869-01-27/ed-1/seq-1)
 
@@ -4547,7 +4547,7 @@ it. Let her have an intelbtgent opinion
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1869-01-29/ed-1/seq-4)
 
@@ -4584,7 +4584,7 @@ papers.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1869-02-05/ed-1/seq-1)
 
@@ -4607,7 +4607,7 @@ read newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1869-03-18/ed-1/seq-4)
 
@@ -4636,7 +4636,7 @@ ne wspapers..?Exchange
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1869-04-24/ed-1/seq-1)
 
@@ -4665,7 +4665,7 @@ newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1870-01-06/ed-1/seq-1)
 
@@ -4688,7 +4688,7 @@ men and children, read newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1870-03-03/ed-1/seq-4)
 
@@ -4710,7 +4710,7 @@ nals.; Let the whole family, men, wo­
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1870-03-09/ed-1/seq-4)
 
@@ -4731,7 +4731,7 @@ men and children, read newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Caucasian._](https://chroniclingamerica.loc.gov/lccn/sn85033995/1870-09-10/ed-1/seq-1)
 
@@ -4767,7 +4767,7 @@ ren, read newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47?page=0)
 
@@ -4793,7 +4793,7 @@ and children, read newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47?page=0)
 
@@ -4810,7 +4810,7 @@ world, to know what it is, and improve the} which occasion there were some eight
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12?page=2)
 
@@ -4839,7 +4839,7 @@ part of the time covered with weekly and da&quot; -
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1870-12-15/ed-1/seq-1)
 
@@ -4871,7 +4871,7 @@ men, women and children?read the newspaper
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Miscellany
 
@@ -4879,7 +4879,7 @@ men, women and children?read the newspaper
 
 #### 1871-03-11 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The weekly echo._](https://chroniclingamerica.loc.gov/lccn/sn85034325/1871-04-20/ed-1/seq-3)
 
@@ -4904,7 +4904,7 @@ and children, read newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Ladies Should Read Newspapers
 
@@ -4912,7 +4912,7 @@ and children, read newspapers
 
 #### 1871-07-08 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-12-06/ed-1/seq-4)
 
@@ -4953,7 +4953,7 @@ c hildren, read the newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Richland beacon._](https://chroniclingamerica.loc.gov/lccn/sn86079088/1874-10-17/ed-1/seq-1)
 
@@ -4993,7 +4993,7 @@ d4dail gtMs. Let the whole fatily,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1874-11-17/ed-1/seq-3)
 
@@ -5026,7 +5026,7 @@ and childien, read newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1874-12-16/ed-1/seq-1)
 
@@ -5050,7 +5050,7 @@ and children read newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1879-02-20/ed-1/seq-3)
 
@@ -5073,7 +5073,7 @@ and children read newspapers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1879-03-06/ed-1/seq-3)
 
@@ -5104,7 +5104,7 @@ and children read newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1879-04-10/ed-1/seq-3)
 
@@ -5135,7 +5135,7 @@ and children read newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1879-04-17/ed-1/seq-7)
 
@@ -5158,7 +5158,7 @@ and children read newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1879-04-24/ed-1/seq-3)
 
@@ -5189,7 +5189,7 @@ and children read newspapers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1881-01-19/ed-1/seq-1)
 
@@ -5228,7 +5228,7 @@ pers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1884-06-21/ed-1/seq-1)
 
@@ -5267,5 +5267,5 @@ and children, read the newspaper
 </td>
 </tr></table>
 
-<hr />
+---
 

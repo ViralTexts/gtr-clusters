@@ -1,7 +1,7 @@
 
 # Nasby on the New Departure
 
-### 27 reprints from 1871-06-29 to 1884-08-02 [cl42949673035]
+### 27 reprints from 1871-06-06 to 1884-08-02
 
 ## [Nasby on the New Departure](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
 
@@ -69,7 +69,7 @@ It wuz enuff. I guess the cuss found out all that he wanted to. Uv cours this &#
 Petroleum V. Nasby, (wich wuz Postmaster.)
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-06/ed-1/seq-3)
 
@@ -104,7 +104,7 @@ who Lev bin lacg
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-06/ed-1/seq-3)
 
@@ -300,7 +300,7 @@ Prreoi.Em V.Nxssr.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-06-08/ed-1/seq-4)
 
@@ -570,7 +570,7 @@ PETROLEUM V. NASBY,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-06-11/ed-1/seq-6)
 
@@ -753,7 +753,7 @@ witli difficulty that Pollock and Buffer r
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-06-11/ed-1/seq-6)
 
@@ -801,7 +801,7 @@ PETROLEUM Y. NASBT.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1871-06-14/ed-1/seq-1)
 
@@ -1045,7 +1045,7 @@ Ff.trolefm V. Nasbt,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1871-06-15/ed-1/seq-1)
 
@@ -1285,7 +1285,7 @@ Petrolic V. Nasbt,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1871-06-22/ed-1/seq-2)
 
@@ -1423,7 +1423,7 @@ laff.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-1)
 
@@ -1509,7 +1509,7 @@ tz the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-4)
 
@@ -1656,7 +1656,7 @@ laudyguni&#x27;s
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Hasby "Departs"
 
@@ -1664,7 +1664,7 @@ laudyguni&#x27;s
 
 #### 1871-06-27 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Hasby "Departs"
 
@@ -1672,7 +1672,7 @@ laudyguni&#x27;s
 
 #### 1871-06-27 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1871-06-28/ed-1/seq-1)
 
@@ -1726,7 +1726,7 @@ said Dcekin Pugra
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1871-06-28/ed-1/seq-1)
 
@@ -1749,7 +1749,7 @@ rained em 1 1 urn takin DV em out and u
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1871-06-28/ed-1/seq-1)
 
@@ -1773,7 +1773,7 @@ ut abjoorin evrytbing that is Dimo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1871-06-28/ed-1/seq-3)
 
@@ -2018,7 +2018,7 @@ is my evil genius. 1
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
@@ -2251,7 +2251,7 @@ lives. Prtbolkim V. N a?by, ! i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1871-06-30/ed-1/seq-4)
 
@@ -2458,7 +2458,7 @@ Peteolecm V. Napbt.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1871-07-01/ed-1/seq-1)
 
@@ -2533,7 +2533,7 @@ rhv
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1871-07-01/ed-1/seq-2)
 
@@ -2629,7 +2629,7 @@ n, auu WUZ a cxccuuil wui uiiueen uv
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1871-07-07/ed-1/seq-1)
 
@@ -2690,7 +2690,7 @@ jickshuns on the part uv a few to wa
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1871-07-07/ed-1/seq-1)
 
@@ -2886,7 +2886,7 @@ able two run
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1871-07-19/ed-1/seq-1)
 
@@ -3127,7 +3127,7 @@ ji&quot;t how preeaWe yood be to 3e higg
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1871-08-05/ed-1/seq-1)
 
@@ -3256,7 +3256,7 @@ twenty-two uv our fellow-citizens of Afri
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1871-08-05/ed-1/seq-1)
 
@@ -3377,7 +3377,7 @@ Petroleum V. Nasby,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1884-08-02/ed-1/seq-4)
 
@@ -3398,5 +3398,5 @@ gratilood uv the nominashen uv tha
 </td>
 </tr></table>
 
-<hr />
+---
 

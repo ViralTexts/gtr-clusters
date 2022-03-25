@@ -1,7 +1,7 @@
 
 # A Printer's Epitaph
 
-### 38 reprints from 1858-05-06 to 1894-03-15 [cl34359738380]
+### 38 reprints from 1854-10-12 to 1894-03-15
 
 ## [A Printer's Epitaph](http://chroniclingamerica.loc.gov/lccn/sn97065088/1858-05-06/ed-1/seq-1/)
 
@@ -23,7 +23,7 @@ The *impression* lives through an eternal age.
 *Winchester H
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1854-10-12/ed-1/seq-3)
 
@@ -44,7 +44,7 @@ The imprefaion lives through an eternal age. [
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1854-10-25/ed-1/seq-4)
 
@@ -66,7 +66,7 @@ The impression lives through an eternal ,a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1854-11-02/ed-1/seq-1)
 
@@ -88,7 +88,7 @@ Worn out, the type is thrown to pi again, &#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Belmont chronicle, and farmers, mechanics and manufacturers advocate._](https://chroniclingamerica.loc.gov/lccn/sn84028479/1854-11-03/ed-1/seq-1)
 
@@ -110,7 +110,7 @@ The impression lives through an eternal age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1854-11-10/ed-1/seq-3)
 
@@ -131,7 +131,7 @@ The impression lives thro&#x27; an eternal age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1854-11-23/ed-1/seq-4)
 
@@ -153,7 +153,7 @@ The impression lives through an eternal age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1854-11-25/ed-1/seq-1)
 
@@ -175,7 +175,7 @@ The lmpron:tion lives to4&quot; etcrnil age.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1854-11-30/ed-1/seq-1)
 
@@ -197,7 +197,7 @@ The impression lives to an eternal age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1854-12-06/ed-1/seq-1)
 
@@ -219,7 +219,7 @@ I The impression lives through an eternal age.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Nevada journal._](https://chroniclingamerica.loc.gov/lccn/sn84026884/1855-02-16/ed-1/seq-1)
 
@@ -241,7 +241,7 @@ The impression lives to an eternal ago.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Squatter sovereign._](https://chroniclingamerica.loc.gov/lccn/sn82015827/1855-05-15/ed-1/seq-1)
 
@@ -264,7 +264,7 @@ A Frist Eate Hit
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1855-06-26/ed-1/seq-1)
 
@@ -286,7 +286,7 @@ The impression live through an eternal age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## On a Printer
 
@@ -294,7 +294,7 @@ The impression live through an eternal age
 
 #### 1855-11-17 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1855-12-08/ed-1/seq-4)
 
@@ -316,7 +316,7 @@ The impression lives through an eternal age.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1856-04-23/ed-1/seq-4)
 
@@ -339,7 +339,7 @@ he impress-on lives to an eternal aire.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New Orleans daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015753/1856-12-08/ed-1/seq-4)
 
@@ -361,7 +361,7 @@ The impression lives through an eternal age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1857-01-13/ed-1/seq-1)
 
@@ -383,7 +383,7 @@ The impression lives through an eternal ape
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1857-03-26/ed-1/seq-1)
 
@@ -405,7 +405,7 @@ The impression lives through an eternal age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1857-09-16/ed-1/seq-1)
 
@@ -427,7 +427,7 @@ The impression lives through an eternal age.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-17_12_42?page=7)
 
@@ -456,7 +456,7 @@ The unpression lives through an everual age.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-24_12_43?page=0)
 
@@ -478,7 +478,7 @@ The wnpression lives through an eternal age.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Winchester home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065088/1858-05-06/ed-1/seq-1)
 
@@ -507,7 +507,7 @@ age.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## EPITAPH ON A PRINTER.
 
@@ -515,7 +515,7 @@ age.
 
 #### 1858-08-05 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn88064150/1858-08-25/ed-1/seq-1)
 
@@ -537,7 +537,7 @@ The ; .pression lives through an eternal age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1858-11_17_102?page=83)
 
@@ -559,7 +559,7 @@ The impression lives through an eternal age.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1858-11-11/ed-1/seq-4)
 
@@ -581,7 +581,7 @@ The impression lives through an eternal age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1874-03-27/ed-1/seq-7)
 
@@ -608,7 +608,7 @@ The impression lives through an eternal age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## A Printer's Epitaph
 
@@ -616,7 +616,7 @@ The impression lives through an eternal age
 
 #### 1874-05-03 &middot; Denver, Jefferson [Colo.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1875-09-24/ed-1/seq-1)
 
@@ -640,7 +640,7 @@ Items of Interest
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple News Items
 
@@ -648,7 +648,7 @@ Items of Interest
 
 #### 1875-10-13 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Odds and Ends.
 
@@ -656,7 +656,7 @@ Items of Interest
 
 #### 1875-10-14 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## A Printer's Epitaph
 
@@ -664,7 +664,7 @@ Items of Interest
 
 #### 1875-10-15 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## All Sorts of Items
 
@@ -672,7 +672,7 @@ Items of Interest
 
 #### 1875-10-16 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Light and Shade
 
@@ -680,7 +680,7 @@ Items of Interest
 
 #### 1875-10-24 &middot; Houston [Tex.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1875-11-11/ed-1/seq-2)
 
@@ -709,7 +709,7 @@ Ihe impression bves through an eteanaJag
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American Printer 1883-2015_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12?page=57)
 
@@ -740,7 +740,7 @@ The émfpression lives through an eternal age.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1894-03-15/ed-1/seq-1)
 
@@ -776,5 +776,5 @@ rial age
 </td>
 </tr></table>
 
-<hr />
+---
 

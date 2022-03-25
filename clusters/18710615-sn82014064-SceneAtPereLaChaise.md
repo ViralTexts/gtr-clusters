@@ -1,7 +1,7 @@
 
 # The Scene at Pere la Chaise
 
-### 40 reprints from 1871-06-15 to 1871-08-19 [cl108]
+### 40 reprints from 1871-06-01 to 1871-08-19
 
 ## [The Scene at Pere la Chaise](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-15/ed-1/seq-1/)
 
@@ -16,7 +16,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 </td></tr></table>
 
-<hr />
+---
 
 ## LATEST TELEGRAMS.
 
@@ -24,7 +24,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### 1871-06-01 &middot; London, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## This Evening's News.
 
@@ -32,7 +32,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### 1871-06-01 &middot; London, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## A VISIT TO BELLEVILLE AND PERE LA CHAISE.
 
@@ -40,7 +40,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### 1871-06-02 &middot; London, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## LATEST NEWS.
 
@@ -48,7 +48,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### 1871-06-02 &middot; Dublin, Ireland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## PARIS AFTER THE REVOLT.
 
@@ -56,7 +56,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### 1871-06-03 &middot; Bristol, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## THE CIVIL WAR IN PARIS.
 
@@ -64,7 +64,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### 1871-06-03 &middot; Portsmouth, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## FOREIGN INTELLIGENCE.
 
@@ -72,7 +72,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### 1871-06-03 &middot; Ipswich, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## THE FIGHTING IN PARIS.
 
@@ -80,7 +80,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### 1871-06-03 &middot; Manchester, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## THE HORRORS OF BELLEVILLE AND PERE LA CHAISE.
 
@@ -88,7 +88,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### 1871-06-03 &middot; Manchester, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## INCIDENTS IN PARIS.
 
@@ -96,7 +96,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### 1871-06-07 &middot; Exeter, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## THE STATE OF PARIS.
 
@@ -104,7 +104,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### 1871-06-09 &middot; Newcastle-upon-Tyne, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-15/ed-1/seq-1)
 
@@ -126,7 +126,7 @@ males cue aid to lock upon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The evening telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83025925/1871-06-15/ed-1/seq-1)
 
@@ -150,7 +150,7 @@ to look npon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-06-17/ed-1/seq-2)
 
@@ -174,7 +174,7 @@ makes one sick to&#x27;look upon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1871-06-18/ed-1/seq-2)
 
@@ -198,7 +198,7 @@ upon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1871-06-21/ed-1/seq-8)
 
@@ -221,7 +221,7 @@ I UIUKVH UUI HICK HI IOOK UpUIl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1871-06-21/ed-1/seq-1)
 
@@ -247,7 +247,7 @@ city of which makes ona sick to look
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Horrors of Paris
 
@@ -255,7 +255,7 @@ city of which makes ona sick to look
 
 #### 1871-06-22 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Horrors of Paris
 
@@ -263,7 +263,7 @@ city of which makes ona sick to look
 
 #### 1871-06-22 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Living and the Dead
 
@@ -271,7 +271,7 @@ city of which makes ona sick to look
 
 #### 1871-06-26 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1871-06-27/ed-1/seq-2)
 
@@ -296,7 +296,7 @@ of which makes one sick to look upon.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Living and the Dead
 
@@ -304,7 +304,7 @@ of which makes one sick to look upon.
 
 #### 1871-06-27 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1871-06-28/ed-1/seq-1)
 
@@ -330,7 +330,7 @@ one sick to look uponms
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
@@ -354,7 +354,7 @@ to look upon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1871-07-06/ed-1/seq-2)
 
@@ -378,7 +378,7 @@ look upon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [THE EFFECTS OF THE LATE FIGHT.](http://trove.nla.gov.au/ndp/del/article/124526978)
 
@@ -400,7 +400,7 @@ many women among them, and faces the
 ferocity of which makes one sick to loo
 </td></tr></table>
 
-<hr />
+---
 
 ## [OUR LONDON LETTER. June 9, 1871.](http://trove.nla.gov.au/ndp/del/article/120724714)
 
@@ -418,7 +418,7 @@ among them with faces the ferocity of
 which makes one sick to look upon. I
 </td></tr></table>
 
-<hr />
+---
 
 ## [A VISIT TO BELLEVILLE AND PERE LA CHAISE. (From the Special Correspondent of the Daily News.)](http://trove.nla.gov.au/ndp/del/article/13242806)
 
@@ -437,7 +437,7 @@ coating of chloride of lime-a hundred
 and fifty of them patent to the eye
 </td></tr></table>
 
-<hr />
+---
 
 ## [ENGLISH EXTRACTS. THE SUPPRESSION OF THE RED REVOLUTION. A NEW REIGN OF TERROR. THE MASSACRE AT LA ROQUETTE. THE END OF THE LEADING INSURGENTS.](http://trove.nla.gov.au/ndp/del/article/111143503)
 
@@ -461,7 +461,7 @@ women among them, and fiicea the
 ferocity of which makes one sick- to
 </td></tr></table>
 
-<hr />
+---
 
 ## [THE EFFECTS OF THE LATE FIGHT.](http://trove.nla.gov.au/ndp/del/article/30582038)
 
@@ -483,7 +483,7 @@ among :them, and faces the ferocity: of
 which makes.one sick to look upon.. I
 </td></tr></table>
 
-<hr />
+---
 
 ## [A VISIT TO BELLEVILLE AND PERE LA CHAISE. (From the Special Correspondent of the Daily News.)](http://trove.nla.gov.au/ndp/del/article/103919769)
 
@@ -501,7 +501,7 @@ over with a. coating of chloride of
 lime—a hundred and fifty of them paten
 </td></tr></table>
 
-<hr />
+---
 
 ## [NEWS BY THE MAIL.](http://trove.nla.gov.au/ndp/del/article/168851820)
 
@@ -523,7 +523,7 @@ wotnen among thorn, and faces tho
 ferocity of which makes ono Bick to loo
 </td></tr></table>
 
-<hr />
+---
 
 ## [THE HORRORS OF PERE LA CHAISE.](http://trove.nla.gov.au/ndp/del/article/39683082)
 
@@ -541,7 +541,7 @@ chloride of lime-a hundred and fifty of
 them patent to the eye, besides wha
 </td></tr></table>
 
-<hr />
+---
 
 ## [THE DEVASTATION IN PARIS.](http://trove.nla.gov.au/ndp/del/article/82101240)
 
@@ -563,7 +563,7 @@ women among them, and Faces the ferocity
 ot which makes one sick to look upon. I
 </td></tr></table>
 
-<hr />
+---
 
 ## [A VISIT TO BELLEVILLE AND PERE LA CHAISE.](http://trove.nla.gov.au/ndp/del/article/168853423)
 
@@ -581,7 +581,7 @@ over with a coating of chloride of lime
 — a hundred and fifty of them patent t
 </td></tr></table>
 
-<hr />
+---
 
 ## [A VISIT TO BELLEVILLE AND PERE LA CHAISE.](http://trove.nla.gov.au/ndp/del/article/75466863)
 
@@ -600,7 +600,7 @@ coating of chloride of lime- a hundred
 and fiftv of them natentto the eye
 </td></tr></table>
 
-<hr />
+---
 
 ## [A VISIT TO BELLEVILLE AND PERE LA CHAISE.](http://trove.nla.gov.au/ndp/del/article/30582076)
 
@@ -618,7 +618,7 @@ p&#x27;owdered over with &#x27;a coating of.
 chloride of l]imea hundred&#x27; and fift
 </td></tr></table>
 
-<hr />
+---
 
 ## [BELLEVILLE AND PERE LA CHAISE.](http://trove.nla.gov.au/ndp/del/article/148534734)
 
@@ -644,7 +644,7 @@ the grass, powdered over with a coating
 of chloride of lime — a hundred an
 </td></tr></table>
 
-<hr />
+---
 
 ## [BELLEVILLE AND PERE LA CHAISE.](http://trove.nla.gov.au/ndp/del/article/27267193)
 
@@ -663,5 +663,5 @@ coating of chloride of lime—a hundred
 and fifty of them patent to the eye
 </td></tr></table>
 
-<hr />
+---
 

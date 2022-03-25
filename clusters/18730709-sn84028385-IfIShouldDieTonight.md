@@ -1,7 +1,7 @@
 
 # If I Should Die To-night
 
-### 83 reprints from 1873-07-09 to 1899-09-30 [cl17179869219]
+### 83 reprints from 1873-06-18 to 1899-09-30
 
 ## [If I Should Die To-night](http://chroniclingamerica.loc.gov/lccn/sn84028385/1873-07-09/ed-1/seq-1/)
 
@@ -41,7 +41,7 @@ The tenderness for which I long to-night.
 &amp;mdash;*B.S., in Christian Union
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1873-06-18_7_25?page=0)
 
@@ -78,7 +78,7 @@ The tenderness for which I long to-night. ae
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1873-06-28_51_26?page=9)
 
@@ -122,7 +122,7 @@ The tenderness for which I loug to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Littell's living age_](https://iiif.archivelab.org/iiif/sim_living-age_1873-07-05_118_1517?page=1)
 
@@ -163,7 +163,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## If I Should Die To-Night
 
@@ -171,7 +171,7 @@ The tenderness for which I long to-night.
 
 #### 1873-07-13 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1873-08-01/ed-1/seq-1)
 
@@ -204,7 +204,7 @@ Forgive,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn85025132/1873-09-27/ed-1/seq-1)
 
@@ -230,7 +230,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Daily state journal._](https://chroniclingamerica.loc.gov/lccn/sn84024670/1873-12-08/ed-1/seq-4)
 
@@ -257,7 +257,7 @@ The tenderness for which I long to night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [POETRY. IF I SHOULD DIE TO-NIGHT. If I should die to-night.](http://trove.nla.gov.au/ndp/del/article/138633858)
 
@@ -293,7 +293,7 @@ mine I shall not need The tenderness for
 which I long to-nigh
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The daily Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053942/1874-01-22/ed-1/seq-3)
 
@@ -328,7 +328,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [SELECT POETRY. IF I SHOULD DIB TO-NIGHT. If I should die to-night.](http://trove.nla.gov.au/ndp/del/article/111332755)
 
@@ -355,7 +355,7 @@ is mine I shall not need The tenderness
 for which I long to-night. 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1874-03-07/ed-1/seq-1)
 
@@ -381,7 +381,7 @@ The tenderness tor which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1874-03-20/ed-1/seq-2)
 
@@ -420,7 +420,7 @@ The tenderness fjr which 1 long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1875-01-29/ed-1/seq-1)
 
@@ -453,7 +453,7 @@ Forgive, 0 hearts e
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1875-02-11/ed-1/seq-1)
 
@@ -489,7 +489,7 @@ Forgive,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1875-04-08/ed-1/seq-1)
 
@@ -519,7 +519,7 @@ Keep not your kisses from ray dead, cold brow
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Family Reading.
 
@@ -527,7 +527,7 @@ Keep not your kisses from ray dead, cold brow
 
 #### 1876-04-05 &middot; Philadelphia, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Poet's Corner
 
@@ -535,7 +535,7 @@ Keep not your kisses from ray dead, cold brow
 
 #### 1876-05-19 &middot; Norwich, Conn.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Rocky Mountain husbandman._](https://chroniclingamerica.loc.gov/lccn/sn83025309/1876-05-25/ed-1/seq-5)
 
@@ -570,7 +570,7 @@ The tenderness for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1876-06-02/ed-1/seq-1)
 
@@ -604,7 +604,7 @@ Forgive
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1876-08-10/ed-1/seq-1)
 
@@ -637,7 +637,7 @@ The tenderness for which I long to-nigh
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The tribune._](https://chroniclingamerica.loc.gov/lccn/sn85042623/1876-09-13/ed-1/seq-1)
 
@@ -666,7 +666,7 @@ The ton.l .lnesd for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1876-09-16_43_1094?page=5)
 
@@ -704,7 +704,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1876-09-21/ed-1/seq-7)
 
@@ -734,7 +734,7 @@ The tendernes for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [IF I SHOULD DIE TO NIGHT.](http://trove.nla.gov.au/ndp/del/article/162677457)
 
@@ -770,7 +770,7 @@ need The tenderness for which I long to-
 night
 </td></tr></table>
 
-<hr />
+---
 
 ## [IF I SHOULD DIE TO-NIGHT.](http://trove.nla.gov.au/ndp/del/article/121926175)
 
@@ -806,7 +806,7 @@ need The tenderness for which I long to-
 night. -Publie Opinion
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1877-05-17/ed-1/seq-1)
 
@@ -841,7 +841,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [The Poet. IF I SHOULD DIE TO-NIGHT.](http://trove.nla.gov.au/ndp/del/article/71727985)
 
@@ -875,7 +875,7 @@ travel worn ; My; faltering feet are
 pierced with many a thorn. ? j.
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Bristol news._](https://chroniclingamerica.loc.gov/lccn/sn85026955/1877-10-09/ed-1/seq-1)
 
@@ -905,7 +905,7 @@ The tenderness for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1877-10-27/ed-1/seq-1)
 
@@ -931,7 +931,7 @@ The tenderness for which I long to night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Gone to His Death
 
@@ -939,7 +939,7 @@ The tenderness for which I long to night
 
 #### 1878-04-08 &middot; Chicago, Ill.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Young Powers' Suicide
 
@@ -947,7 +947,7 @@ The tenderness for which I long to night
 
 #### 1878-04-09 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1879-01-16/ed-1/seq-1)
 
@@ -982,7 +982,7 @@ The tenderness for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Stark County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028490/1879-02-13/ed-1/seq-7)
 
@@ -1010,7 +1010,7 @@ The tenderness lor which I long to-tilgliL
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1879-08-07/ed-1/seq-1)
 
@@ -1045,7 +1045,7 @@ The tenderness fur which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [POETRY. If I should die to-night.](http://trove.nla.gov.au/ndp/del/article/110470480)
 
@@ -1081,7 +1081,7 @@ rests-imine-Isha!l-not need The
 tenderness for which I long to-night
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1880-02-25/ed-1/seq-3)
 
@@ -1107,7 +1107,7 @@ The tenderness for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Northern tribune._](https://chroniclingamerica.loc.gov/lccn/sn85026455/1881-02-26/ed-1/seq-3)
 
@@ -1134,7 +1134,7 @@ When dreamless rest is mine I shall not need
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## If I Should Die To-Night
 
@@ -1142,7 +1142,7 @@ When dreamless rest is mine I shall not need
 
 #### 1881-04-24 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1881-05-12/ed-1/seq-1)
 
@@ -1176,7 +1176,7 @@ The tenderness for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## LITERATURE.
 
@@ -1184,7 +1184,7 @@ The tenderness for which I long to-night
 
 #### 1881-05-20 &middot; Hull, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Wellington enterprise._](https://chroniclingamerica.loc.gov/lccn/sn84028271/1882-05-31/ed-1/seq-3)
 
@@ -1219,7 +1219,7 @@ The tenderness for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Evening bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86069125/1882-06-03/ed-1/seq-1)
 
@@ -1247,7 +1247,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily globe._](https://chroniclingamerica.loc.gov/lccn/sn83025287/1882-07-09/ed-1/seq-4)
 
@@ -1276,7 +1276,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1884-07-26/ed-1/seq-7)
 
@@ -1303,7 +1303,7 @@ The tenderness for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily morning Astorian._](https://chroniclingamerica.loc.gov/lccn/sn96061150/1885-11-24/ed-1/seq-3)
 
@@ -1337,7 +1337,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-11-28_59_17?page=4)
 
@@ -1373,7 +1373,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1886-01-02/ed-1/seq-6)
 
@@ -1408,7 +1408,7 @@ The tenderuess for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## If I Should Die To-Night
 
@@ -1416,7 +1416,7 @@ The tenderuess for which I long to-night
 
 #### 1887-03-11 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1887-03-12/ed-1/seq-4)
 
@@ -1452,7 +1452,7 @@ night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## If I Should Die To-Night
 
@@ -1460,7 +1460,7 @@ night.
 
 #### 1887-03-20 &middot; New Orleans, La.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1887-03-25/ed-1/seq-1)
 
@@ -1499,7 +1499,7 @@ The tenderness for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1887-03-29/ed-1/seq-4)
 
@@ -1528,7 +1528,7 @@ The tenderness for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Union times._](https://chroniclingamerica.loc.gov/lccn/sn84026918/1887-05-13/ed-2/seq-4)
 
@@ -1557,7 +1557,7 @@ The tenderness for which 1 long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-05-19_35_20?page=11)
 
@@ -1592,7 +1592,7 @@ Forg
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Smalley's Magazine 1883-1903_](https://iiif.archivelab.org/iiif/sim_smalleys-magazine_1887-07_5_7?page=22)
 
@@ -1637,7 +1637,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Poetry and Trifles. IF I SHOULD DIE TONIGHT. It I should dis tonight.](http://trove.nla.gov.au/ndp/del/article/65744400)
 
@@ -1664,7 +1664,7 @@ need The tenderness for which I Ion? to-
 night
 </td></tr></table>
 
-<hr />
+---
 
 ## [Poetry and Trifles. IF I SHOULD DIE TO-NIGHT. If I should die to-night.](http://trove.nla.gov.au/ndp/del/article/52008876)
 
@@ -1690,7 +1690,7 @@ mine 1 shall not neod The tenderness for
 which I tong to-night. &quot;Twenty year
 </td></tr></table>
 
-<hr />
+---
 
 ## [IF I SHOULD DIE TO-NIGHT. If I should die, to-night,](http://trove.nla.gov.au/ndp/del/article/98471806)
 
@@ -1726,7 +1726,7 @@ is mine I shall not need The tenderness
 for which I long to-night
 </td></tr></table>
 
-<hr />
+---
 
 ## If I Should Die To-Night
 
@@ -1734,7 +1734,7 @@ for which I long to-night
 
 #### 1888-12-01 &middot; Atchison City, Kan.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1888-12-13/ed-1/seq-3)
 
@@ -1757,7 +1757,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbus journal._](https://chroniclingamerica.loc.gov/lccn/sn95073194/1889-01-02/ed-1/seq-4)
 
@@ -1791,7 +1791,7 @@ Forgive. O
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## If I Should Die To-Night
 
@@ -1799,7 +1799,7 @@ Forgive. O
 
 #### 1889-01-06 &middot; Denver, Colo.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1889-02-21/ed-1/seq-6)
 
@@ -1839,7 +1839,7 @@ Forgi
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85047084/1889-10-26/ed-1/seq-1)
 
@@ -1886,7 +1886,7 @@ Forg
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1890-09-29/ed-1/seq-2)
 
@@ -1912,7 +1912,7 @@ The tenderness for which I long to-night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Musical Visitor, a Magazine of Musical Literature and Music (1883-1897)_](https://iiif.archivelab.org/iiif/sim_the-musical-visitor-a-magazine-of-musical-literature_1891-01_20_1?page=0)
 
@@ -1949,7 +1949,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1892-02-03/ed-1/seq-1)
 
@@ -1989,7 +1989,7 @@ B. S
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Semi-weekly interior journal._](https://chroniclingamerica.loc.gov/lccn/sn85052020/1892-05-24/ed-1/seq-4)
 
@@ -2017,7 +2017,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [If I Should Die To-night.](http://trove.nla.gov.au/ndp/del/article/66173074)
 
@@ -2044,7 +2044,7 @@ is mine I shall not need The tenderness
 for which I long to-night. --&quot;Publi
 </td></tr></table>
 
-<hr />
+---
 
 ## [If I Should Die Tonight.](http://trove.nla.gov.au/ndp/del/article/71741185)
 
@@ -2071,7 +2071,7 @@ need The tenderness for which I long
 tonight. &#x27; , . _. -Belle E. Smith
 </td></tr></table>
 
-<hr />
+---
 
 ## ["IFI SHOULD DIE TO-NIGHT."](http://trove.nla.gov.au/ndp/del/article/59755533)
 
@@ -2108,7 +2108,7 @@ The tenderness for which I long to-
 night
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Indian advocate._](https://chroniclingamerica.loc.gov/lccn/45043535/1893-07-01/ed-1/seq-14)
 
@@ -2134,7 +2134,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _News-observer-chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84042105/1893-11-26/ed-1/seq-3)
 
@@ -2183,7 +2183,7 @@ night
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## "If I Should Die Tonight"
 
@@ -2191,7 +2191,7 @@ night
 
 #### 1893-11-26 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Santa Fe daily New Mexican._](https://chroniclingamerica.loc.gov/lccn/sn84020631/1894-11-24/ed-1/seq-3)
 
@@ -2225,7 +2225,7 @@ The tenderness for which I long tonight
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## If I Should Die To-Night
 
@@ -2233,7 +2233,7 @@ The tenderness for which I long tonight
 
 #### 1895-01-06 &middot; Houston [Tex.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Kansas City daily journal._](https://chroniclingamerica.loc.gov/lccn/sn86063624/1895-12-22/ed-1/seq-11)
 
@@ -2269,7 +2269,7 @@ brow
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Salt Lake herald._](https://chroniclingamerica.loc.gov/lccn/sn85058130/1896-01-05/ed-1/seq-12)
 
@@ -2316,7 +2316,7 @@ The tenderness for which I long tonigh
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## If I Should Die To-Night?
 
@@ -2324,7 +2324,7 @@ The tenderness for which I long tonigh
 
 #### 1896-08-15 &middot; New York [N.Y.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Midland Monthly Magazine 1894-1899_](https://iiif.archivelab.org/iiif/sim_midland-monthly-magazine_1897-03_7_3?page=63)
 
@@ -2352,7 +2352,7 @@ The tenderness for which I long to-night.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Scranton tribune._](https://chroniclingamerica.loc.gov/lccn/sn84026355/1897-05-22/ed-1/seq-13)
 
@@ -2384,7 +2384,7 @@ The tenderness for which I Ions tonight.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _El Paso daily herald._](https://chroniclingamerica.loc.gov/lccn/sn86064199/1899-09-30/ed-1/seq-11)
 
@@ -2425,5 +2425,5 @@ Forgive, O
 </td>
 </tr></table>
 
-<hr />
+---
 

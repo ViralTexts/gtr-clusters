@@ -1,7 +1,7 @@
 
 # Educate Your Daughters
 
-### 149 reprints from 1850-03-16 to 1870-06-15 [cl117]
+### 149 reprints from 1849-07-28 to 1870-06-15
 
 ## [Educate Your Daughters](http://chroniclingamerica.loc.gov/lccn/sn83035487/1850-03-16/ed-1/seq-4/)
 
@@ -16,7 +16,7 @@ EDUCATE YOUR DAUGHTERS.—When I lived among the Choctaw Indians, I held a consu
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The examiner._](https://chroniclingamerica.loc.gov/lccn/sn82015050/1849-07-28/ed-1/seq-4)
 
@@ -52,7 +52,7 @@ education.&quot; Rev. 8. Dyer
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## TABLE TALK.
 
@@ -60,7 +60,7 @@ education.&quot; Rev. 8. Dyer
 
 #### 1849-09-15 &middot; Preston, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Duty of Mothers to their Children.
 
@@ -68,7 +68,7 @@ education.&quot; Rev. 8. Dyer
 
 #### 1849-09-27 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The freeman._](https://chroniclingamerica.loc.gov/lccn/sn90068958/1849-10-20/ed-1/seq-2)
 
@@ -114,7 +114,7 @@ Rev. S. Dyer.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Variety
 
@@ -122,7 +122,7 @@ Rev. S. Dyer.
 
 #### 1849-11-30 &middot; Greenville, S.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## AN INDIAN'S IDEA OF A MOTHER'S INFLUENCE.
 
@@ -130,7 +130,7 @@ Rev. S. Dyer.
 
 #### 1850-02-07 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The North star._](https://iiif.archivelab.org/iiif/sim_frederick-douglass-paper_1850-02-08_3_7?page=2)
 
@@ -166,7 +166,7 @@ Mr. Seward gave notice that be wopM, a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Variety
 
@@ -174,7 +174,7 @@ Mr. Seward gave notice that be wopM, a
 
 #### 1850-02-27 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1850-03-16/ed-1/seq-4)
 
@@ -211,7 +211,7 @@ ol educution. IUv. S. Dyer
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27?page=3)
 
@@ -244,7 +244,7 @@ So nation can become fully and pe
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Educate Your Daughters
 
@@ -252,7 +252,7 @@ So nation can become fully and pe
 
 #### 1850-03-20 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1850-03-21_23_47?page=3)
 
@@ -286,7 +286,7 @@ education.”—Rev. S. Dyer.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1851-02-21/ed-1/seq-2)
 
@@ -331,7 +331,7 @@ ties of the homework of education.&#x27; Rev.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lynchburg Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024649/1851-03-13/ed-1/seq-3)
 
@@ -366,7 +366,7 @@ ucation.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1851-04-10/ed-1/seq-1)
 
@@ -405,7 +405,7 @@ ktaism
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9?page=15)
 
@@ -440,7 +440,7 @@ fied to discharge the duties of home education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple News Items
 
@@ -448,7 +448,7 @@ fied to discharge the duties of home education.
 
 #### 1851-05-14 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Educate Your Daughters
 
@@ -456,7 +456,7 @@ fied to discharge the duties of home education.
 
 #### 1851-05-28 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Valley Farmer (1849-1864)_](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1851-06_3_6?page=30)
 
@@ -490,7 +490,7 @@ ties of home education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1851-07-02/ed-1/seq-1)
 
@@ -533,7 +533,7 @@ home work of education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1851-07-03/ed-1/seq-1)
 
@@ -566,7 +566,7 @@ ly civilized and enlightened, when the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1851-07-10/ed-1/seq-1)
 
@@ -603,7 +603,7 @@ discharge the duties of home education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1851-07-18/ed-1/seq-3)
 
@@ -643,7 +643,7 @@ of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Educate your Daughters.
 
@@ -651,7 +651,7 @@ of education
 
 #### 1851-07-24 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1851-08-06/ed-1/seq-3)
 
@@ -683,7 +683,7 @@ education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024517/1851-08-06/ed-1/seq-3)
 
@@ -709,7 +709,7 @@ of oil, t!fi ,f we cou,d educate only one class
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1851-08-06/ed-1/seq-1)
 
@@ -744,7 +744,7 @@ i ties of the home work of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic sentinel and Harrison County farmer._](https://chroniclingamerica.loc.gov/lccn/sn85042199/1851-08-27/ed-1/seq-4)
 
@@ -781,7 +781,7 @@ ties oihome education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021169/1851-11-13/ed-1/seq-2)
 
@@ -819,7 +819,7 @@ work ol educution
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1851-12-02/ed-1/seq-1)
 
@@ -868,7 +868,7 @@ tlio homework; tducatk n; siucu th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1851-12-04/ed-1/seq-1)
 
@@ -905,7 +905,7 @@ of the home work of education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple News Items
 
@@ -913,7 +913,7 @@ of the home work of education.
 
 #### 1854-05-31 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-01-06_10_1?page=1)
 
@@ -938,7 +938,7 @@ his interest in both wife and children. ‘
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1855-06-14_29_8?page=3)
 
@@ -972,7 +972,7 @@ of the home work of education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1855-09-01/ed-1/seq-2)
 
@@ -1005,7 +1005,7 @@ education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-09-07/ed-1/seq-1)
 
@@ -1040,7 +1040,7 @@ education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1856-02-09/ed-1/seq-1)
 
@@ -1072,7 +1072,7 @@ and it is true.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1856-02-09/ed-1/seq-2)
 
@@ -1103,7 +1103,7 @@ and it is true.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Washington sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82014835/1856-03-27/ed-1/seq-2)
 
@@ -1133,7 +1133,7 @@ It is stated American priuted muslin d
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly pioneer and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016751/1856-04-03/ed-1/seq-1)
 
@@ -1159,7 +1159,7 @@ woald edoeatc
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1856-04-08/ed-1/seq-1)
 
@@ -1188,7 +1188,7 @@ ers, they would educate the sons.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The morning comet._](https://chroniclingamerica.loc.gov/lccn/sn88064473/1856-04-17/ed-1/seq-2)
 
@@ -1222,7 +1222,7 @@ said a grave, tall slab-sided Yankee t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Educate Your Daughters
 
@@ -1230,7 +1230,7 @@ said a grave, tall slab-sided Yankee t
 
 #### 1856-04-30 &middot; Omaha City, N.T. [i.e. Neb.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Borrowed Cristes.
 
@@ -1238,7 +1238,7 @@ said a grave, tall slab-sided Yankee t
 
 #### 1856-07-05 &middot; Preston, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1856-07-10/ed-1/seq-4)
 
@@ -1268,7 +1268,7 @@ jvhite beaver, bluo coat and buff vest&#x27; ?
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [IRELAND REGENERATED. (From the Times.)](http://trove.nla.gov.au/ndp/del/article/7140948)
 
@@ -1299,7 +1299,7 @@ girls for whon they become mothers they
 would educato their son-«.&#x27; 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1857-03-05/ed-1/seq-2)
 
@@ -1332,7 +1332,7 @@ of the home work of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Davenport daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn87058152/1857-03-07/ed-1/seq-1)
 
@@ -1369,7 +1369,7 @@ home work of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1857-03-21/ed-1/seq-4)
 
@@ -1404,7 +1404,7 @@ work ofeduca&#x27;ion
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Borrowed Cristies.
 
@@ -1412,7 +1412,7 @@ work ofeduca&#x27;ion
 
 #### 1857-04-04 &middot; Preston, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-04-17/ed-1/seq-1)
 
@@ -1437,7 +1437,7 @@ the girls, for. when they become moth
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Educate Your Daughters
 
@@ -1445,7 +1445,7 @@ the girls, for. when they become moth
 
 #### 1857-04-22 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Marshall County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056247/1857-04-23/ed-1/seq-1)
 
@@ -1477,7 +1477,7 @@ become fully enlightened whon tho moth
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily Nashville patriot._](https://chroniclingamerica.loc.gov/lccn/sn96091000/1857-05-29/ed-1/seq-2)
 
@@ -1505,7 +1505,7 @@ And this reminds me that there is one most im
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1857-07-01/ed-1/seq-3)
 
@@ -1543,7 +1543,7 @@ when thev become mothers they would edu- a pleasant evening in batning in tne su
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1857-07-01/ed-1/seq-3)
 
@@ -1563,7 +1563,7 @@ of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Mother Moulds the Man
 
@@ -1571,7 +1571,7 @@ of education
 
 #### 1857-08-26 &middot; Charleston, S.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Abbeville banner._](https://chroniclingamerica.loc.gov/lccn/sn85026945/1857-09-03/ed-1/seq-2)
 
@@ -1604,7 +1604,7 @@ education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1857-09-09/ed-1/seq-1)
 
@@ -1636,7 +1636,7 @@ of the home-work of education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1857-09-12/ed-1/seq-4)
 
@@ -1670,7 +1670,7 @@ homework of education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1857-09-16/ed-1/seq-1)
 
@@ -1715,7 +1715,7 @@ education.&#x27; ,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1857-09-16/ed-1/seq-4)
 
@@ -1751,7 +1751,7 @@ education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1857-09-26/ed-2/seq-2)
 
@@ -1781,7 +1781,7 @@ and it is traie No nation can become fall
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Columbia Democrat and Bloomsburg general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85025181/1857-12-12/ed-1/seq-1)
 
@@ -1812,7 +1812,7 @@ work of education,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Article 3 -- No Title
 
@@ -1820,7 +1820,7 @@ work of education,
 
 #### 1858-03-06 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Mother Moulds the Man
 
@@ -1828,7 +1828,7 @@ work of education,
 
 #### 1858-03-29 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Mother Moulds the Man
 
@@ -1836,7 +1836,7 @@ work of education,
 
 #### 1858-03-29 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1858-04-03/ed-1/seq-2)
 
@@ -1867,7 +1867,7 @@ the duties of the home work of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1858-04-14/ed-1/seq-1)
 
@@ -1901,7 +1901,7 @@ work of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1858-04-15/ed-1/seq-1)
 
@@ -1936,7 +1936,7 @@ work of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The independent press._](https://chroniclingamerica.loc.gov/lccn/sn93067882/1858-04-30/ed-1/seq-4)
 
@@ -1972,7 +1972,7 @@ cation
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1858-05-14/ed-1/seq-1)
 
@@ -2004,7 +2004,7 @@ education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1858-05-19/ed-1/seq-1)
 
@@ -2042,7 +2042,7 @@ the home work of edscation
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Mother Moulds the Man
 
@@ -2050,7 +2050,7 @@ the home work of edscation
 
 #### 1858-05-26 &middot; Newark [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1858-05-27/ed-1/seq-1)
 
@@ -2069,7 +2069,7 @@ wives, and the uniform resoit was that the ... -.., ihnnuht and . will, which ke
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1858-05-27/ed-1/seq-1)
 
@@ -2094,7 +2094,7 @@ can-become fully &#x27;enlightened when l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## ART. XV.
 
@@ -2102,7 +2102,7 @@ can-become fully &#x27;enlightened when l
 
 #### 1858-07-01 &middot; Boston
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1858-10-02/ed-1/seq-1)
 
@@ -2137,7 +2137,7 @@ charge the duties of the home work of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Miscellaneous Articles
 
@@ -2145,7 +2145,7 @@ charge the duties of the home work of education
 
 #### 1859-06-01 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## THE MOTHER MOULDS THE MAN.
 
@@ -2153,7 +2153,7 @@ charge the duties of the home work of education
 
 #### 1859-06-01 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Family Circle.
 
@@ -2161,7 +2161,7 @@ charge the duties of the home work of education
 
 #### 1859-06-09 &middot; Louisville
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Mother Molds the Man
 
@@ -2169,7 +2169,7 @@ charge the duties of the home work of education
 
 #### 1859-06-21 &middot; Jackson, Miss.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1859-07-14/ed-1/seq-4)
 
@@ -2202,7 +2202,7 @@ charge the duties of the home work ofeducation
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1859-07-29/ed-1/seq-4)
 
@@ -2239,7 +2239,7 @@ education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1859-07-30_1_5?page=2)
 
@@ -2273,7 +2273,7 @@ the duties of the home-work of education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1859-08-04/ed-1/seq-1)
 
@@ -2308,7 +2308,7 @@ the duties of the home work ofeducation,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Delaware gazette._](https://chroniclingamerica.loc.gov/lccn/sn83035595/1859-08-05/ed-1/seq-1)
 
@@ -2341,7 +2341,7 @@ the duties of the home ww qi eaucauon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1859-08-06/ed-1/seq-4)
 
@@ -2374,7 +2374,7 @@ t&#x27; are not iu a good degree qualified to
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jeffersonian Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028083/1859-08-12/ed-1/seq-1)
 
@@ -2402,7 +2402,7 @@ become fully enlightened, whon mother
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1859-08-14/ed-1/seq-1)
 
@@ -2438,7 +2438,7 @@ ties of the bom work of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lady's Home Magazine (1857-1860)_](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1859-09_14?page=40)
 
@@ -2469,7 +2469,7 @@ duties of the home work of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1859-09-07/ed-1/seq-1)
 
@@ -2501,7 +2501,7 @@ can become fully enlightened, whe
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1859-09-22/ed-1/seq-1)
 
@@ -2535,7 +2535,7 @@ the bouse work of education.&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1859-09-24_16_28?page=13)
 
@@ -2569,7 +2569,7 @@ celebrated in physics for the invention of the! when mothers are not in a good d
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1859-12-03/ed-1/seq-1)
 
@@ -2609,7 +2609,7 @@ home work of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Family Circle.
 
@@ -2617,7 +2617,7 @@ home work of education
 
 #### 1860-02-02 &middot; Louisville
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Arkansas true Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014282/1860-03-07/ed-1/seq-1)
 
@@ -2647,7 +2647,7 @@ eoni ■ fully enlightened w ;i mothers ar
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023252/1860-03-30/ed-1/seq-1)
 
@@ -2678,7 +2678,7 @@ j educatio
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Mother Moulds the Man
 
@@ -2686,7 +2686,7 @@ j educatio
 
 #### 1860-04-21 &middot; Omaha City, N.T. [i.e. Neb.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1860-05-12/ed-1/seq-2)
 
@@ -2724,7 +2724,7 @@ education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The gazette and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn88078725/1860-05-17/ed-1/seq-1)
 
@@ -2751,7 +2751,7 @@ raihcr settling reply. - This is the point, and it is true. N
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _National Principia 1858-1866_](https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31?page=7)
 
@@ -2793,7 +2793,7 @@ homework of education.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1860-07-19/ed-1/seq-1)
 
@@ -2825,7 +2825,7 @@ tion
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1860-07-27/ed-1/seq-1)
 
@@ -2849,7 +2849,7 @@ This is the true principle of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051343/1860-08-29/ed-1/seq-1)
 
@@ -2882,7 +2882,7 @@ gree qualified to discharge the duties of
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn85029094/1860-09-05/ed-1/seq-4)
 
@@ -2916,7 +2916,7 @@ cduca&#x27;ian
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1860-09-25/ed-1/seq-4)
 
@@ -2956,7 +2956,7 @@ Long Sermons ?Rev. Wm Taylor, i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1861-03-23/ed-1/seq-1)
 
@@ -2988,7 +2988,7 @@ tion
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1861-06-08/ed-1/seq-2)
 
@@ -3018,7 +3018,7 @@ education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [THE OPENING OF PARLIAMENT. BY PLERSMANA A 90, Poet Laureate to the N. S. W. G. P. P. (From the Sydney Mail, May 31st.)](http://trove.nla.gov.au/ndp/del/article/13229604)
 
@@ -3053,7 +3053,7 @@ discharge the duties of the home-work ol
 education. biMiucm oi Uni1-0 -1 cmal
 </td></tr></table>
 
-<hr />
+---
 
 ## [THE POSTAL QUESTION.—PROPOSED NEW SYSTEM. (From the S. A. Adveriiter, June 23.)](http://trove.nla.gov.au/ndp/del/article/28623740)
 
@@ -3084,7 +3084,7 @@ their sons.&#x27; This is the point, and it
 is true. I nation can become full
 </td></tr></table>
 
-<hr />
+---
 
 ## [UNDER THE VIOLETS.](http://trove.nla.gov.au/ndp/del/article/166693719)
 
@@ -3117,7 +3117,7 @@ true. No nation can become fully
 enlightened when mothers are no
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Twice a Week. An Illustrated London Journal of Entertaining Literature and Useful Information 1862_](https://iiif.archivelab.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31?page=7)
 
@@ -3142,7 +3142,7 @@ they educate their sons.’ This is the point, and it is true
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## OF WOMEN.
 
@@ -3150,7 +3150,7 @@ they educate their sons.’ This is the point, and it is true
 
 #### 1863-02-05 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Morgantown monitor._](https://chroniclingamerica.loc.gov/lccn/sn86092176/1863-03-14/ed-1/seq-1)
 
@@ -3189,7 +3189,7 @@ cation
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1863-05-12/ed-1/seq-2)
 
@@ -3220,7 +3220,7 @@ fully enlightened when mothers aro not in
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Mother Moulds the Man
 
@@ -3228,7 +3228,7 @@ fully enlightened when mothers aro not in
 
 #### 1863-06-05 &middot; Dover, N.H.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1863-09-10/ed-1/seq-4)
 
@@ -3260,7 +3260,7 @@ the duties of the home-work of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1863-09-17/ed-1/seq-1)
 
@@ -3297,7 +3297,7 @@ homework of education
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## A TELEGRAM from Copenhagen states that Denmark will entirely evacuate Holstein, and will make im
 
@@ -3305,7 +3305,7 @@ homework of education
 
 #### 1863-12-21 &middot; Glasgow, Scotland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [NOTES AND NEWS.](http://trove.nla.gov.au/ndp/del/article/66905223)
 
@@ -3338,7 +3338,7 @@ imothims; they educate thelthasons&#x27;
 tr
 </td></tr></table>
 
-<hr />
+---
 
 ## MRS. FUDGE EXPLAINS MATTERS.
 
@@ -3346,7 +3346,7 @@ tr
 
 #### 1864-11-26 &middot; Chicago
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1864-12_40_6?page=9)
 
@@ -3376,7 +3376,7 @@ is true. No nation can become fully enlightene
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Cedar Falls gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025161/1864-12-09/ed-1/seq-1)
 
@@ -3402,7 +3402,7 @@ lighti&#x27;ned whrn mothers are not qualified toj the snow storm to the church,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Union and journal._](https://chroniclingamerica.loc.gov/lccn/sn83009571/1864-12-09/ed-1/seq-4)
 
@@ -3433,7 +3433,7 @@ No nation can become fully enlightene
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _St. Cloud Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016836/1864-12-15/ed-1/seq-1)
 
@@ -3464,7 +3464,7 @@ when they become mothers, they edu
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [CROWN LANDS SOLD BY PRIVATE CONTRACT.](http://trove.nla.gov.au/ndp/del/article/159492660)
 
@@ -3496,7 +3496,7 @@ This is the point, and it is true. No
 nation can become fully enlightened whe
 </td></tr></table>
 
-<hr />
+---
 
 ## [MISCELLANEA.](http://trove.nla.gov.au/ndp/del/article/64633127)
 
@@ -3528,7 +3528,7 @@ sons. This is the point, and it is true.
 No nation can become fully enlightene
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _St. Mary's gazette._](https://chroniclingamerica.loc.gov/lccn/sn89060120/1865-01-19/ed-1/seq-1)
 
@@ -3560,7 +3560,7 @@ lion can become fully enlightened whe
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014487/1865-01-21/ed-1/seq-1)
 
@@ -3592,7 +3592,7 @@ true. No nation can become fully en
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Don't Forget Your Girls
 
@@ -3600,7 +3600,7 @@ true. No nation can become fully en
 
 #### 1865-02-04 &middot; [Milwaukee, Wis.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn86059181/1865-02-10/ed-1/seq-4)
 
@@ -3634,7 +3634,7 @@ it is true No nation can become fully
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1865-02-10/ed-1/seq-4)
 
@@ -3663,7 +3663,7 @@ fully enlightened when mothers are not qualified t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly union record._](https://chroniclingamerica.loc.gov/lccn/sn86076422/1865-02-11/ed-1/seq-1)
 
@@ -3693,7 +3693,7 @@ and it is true. No nation can become full
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [ELECTION MEETINGS. DISTRICT OF LIGHT. MEETINGS AT SHEAOAK LOG.](http://trove.nla.gov.au/ndp/del/article/39125381)
 
@@ -3726,7 +3726,7 @@ point, and it is uue.&#x27;;N*o nation can
 become fully enlij-h*cij£tj xhen motlie
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1865-03-01/ed-1/seq-1)
 
@@ -3757,7 +3757,7 @@ and it is true. No nation can become full
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1865-03-08/ed-1/seq-1)
 
@@ -3792,7 +3792,7 @@ true. No nation can become fully eulight
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Article 1 -- No Title
 
@@ -3800,7 +3800,7 @@ true. No nation can become fully eulight
 
 #### 1865-06-15 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1865-08-24/ed-1/seq-1)
 
@@ -3836,7 +3836,7 @@ Tin-: Pi?avers or Joux Knox.—Dur
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34?page=0)
 
@@ -3857,7 +3857,7 @@ vent their boys to school.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34?page=0)
 
@@ -3877,7 +3877,7 @@ It is true. No nation can become folly en
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Arthur's Home Magazine (1861-1870)_](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1865-09_26?page=33)
 
@@ -3921,7 +3921,7 @@ rents on the wharf, thrown by hundreds at aSthers they educate their sons.” Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1865-09-07/ed-1/seq-2)
 
@@ -3952,7 +3952,7 @@ i degree qualified to discharge the duties of the home
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1865-09-20/ed-1/seq-1)
 
@@ -3979,7 +3979,7 @@ nation can become luily enlightene
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American Freedmen's Bulletin 1864-1866_](https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2?page=26)
 
@@ -4019,7 +4019,7 @@ are not in a good degree qualified to discharge
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Influence of Heathen Mothers
 
@@ -4027,7 +4027,7 @@ are not in a good degree qualified to discharge
 
 #### 1866-03-03 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Semi-weekly Natchitoches times._](https://chroniclingamerica.loc.gov/lccn/sn86053712/1867-05-15/ed-1/seq-3)
 
@@ -4059,7 +4059,7 @@ QM on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## MISCELLANEA.
 
@@ -4067,5 +4067,5 @@ QM on
 
 #### 1870-06-15 &middot; Exeter, England
 [This text is not available under an open license.]
-<hr />
+---
 

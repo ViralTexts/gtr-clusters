@@ -1,7 +1,7 @@
 
 # Our Recipe for Curing Meat
 
-### 112 reprints from 1862-11-08 to 1884-01-04 [cl25769803804]
+### 112 reprints from 1856-12-03 to 1884-01-04
 
 ## [Our Recipe for Curing Meat](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-11-08/ed-1/seq-1/)
 
@@ -30,7 +30,7 @@ If this receipt is properly tried, it will never be abandoned. There is none tha
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1856-12-03/ed-1/seq-4)
 
@@ -61,7 +61,7 @@ slightly sprinkled wit
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1856-12-12/ed-1/seq-2)
 
@@ -81,7 +81,7 @@ sugar, .which will not he a little,) rise t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-01-02/ed-1/seq-4)
 
@@ -103,7 +103,7 @@ gar, (which will be not a little) ri
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1860-12-13/ed-1/seq-4)
 
@@ -125,7 +125,7 @@ to the top and is skimmed
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [No title](http://trove.nla.gov.au/ndp/del/article/150314742)
 
@@ -155,7 +155,7 @@ blood, &amp;c, lea ving the meat fresh and
 clean.&#x27; Remkdv for Garget (o
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-11-08/ed-1/seq-1)
 
@@ -181,7 +181,7 @@ surpasses it, if so good.—O&#x27;er. Telegraph
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Columbia Democrat and Bloomsburg general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85025181/1862-11-22/ed-1/seq-4)
 
@@ -209,7 +209,7 @@ Gamanloivn &#x27;Jtlegraph
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-11-22_2156?page=9)
 
@@ -239,7 +239,7 @@ graph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1862-12-03/ed-1/seq-2)
 
@@ -275,7 +275,7 @@ Telegraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1862-12-03/ed-1/seq-4)
 
@@ -297,7 +297,7 @@ egraph. -
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1862-12-05/ed-1/seq-1)
 
@@ -336,7 +336,7 @@ Tdtpraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1862-12-11/ed-1/seq-4)
 
@@ -371,7 +371,7 @@ ses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1862-12-25/ed-1/seq-1)
 
@@ -401,7 +401,7 @@ town Telegraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1863-01-15/ed-1/seq-4)
 
@@ -442,7 +442,7 @@ low Telegraph
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cass County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85033611/1863-11-05/ed-1/seq-1)
 
@@ -472,7 +472,7 @@ none that surpasses it, it so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Genesee Farmer (1845-1865)_](https://iiif.archivelab.org/iiif/sim_genesee-farmer_1863-12_24_12?page=16)
 
@@ -513,7 +513,7 @@ surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The dollar weekly bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86069123/1863-12-10/ed-1/seq-1)
 
@@ -539,7 +539,7 @@ surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Weekly Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026193/1863-12-30/ed-1/seq-4)
 
@@ -576,7 +576,7 @@ surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Valley Farmer (1849-1864)_](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1?page=8)
 
@@ -606,7 +606,7 @@ it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southern aegis, and Harford County intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn88065733/1864-01-08/ed-1/seq-4)
 
@@ -634,7 +634,7 @@ surpasses if, if so good.— O&#x27;er. Telegraph
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Rural Affairs
 
@@ -642,7 +642,7 @@ surpasses if, if so good.— O&#x27;er. Telegraph
 
 #### 1864-11-24 &middot; Woonsocket, R.I.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1864-12-16/ed-1/seq-4)
 
@@ -663,7 +663,7 @@ Telegraph
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cadiz sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034406/1864-12-21/ed-1/seq-1)
 
@@ -685,7 +685,7 @@ graph. - &quot;1
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1864-12-29/ed-1/seq-4)
 
@@ -707,7 +707,7 @@ mautowu Telegraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1865-10-07/ed-1/seq-4)
 
@@ -749,7 +749,7 @@ XI th dirt sdeaj
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-11-01_17_21?page=8)
 
@@ -775,7 +775,7 @@ be abandoned, @fhere is none that surpasses it,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## KILLING HOGS.
 
@@ -783,7 +783,7 @@ be abandoned, @fhere is none that surpasses it,
 
 #### 1865-11-15 &middot; St. Louis, Mo.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1865-12-05/ed-1/seq-1)
 
@@ -808,7 +808,7 @@ passes it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Receipt for Curing Meat
 
@@ -816,7 +816,7 @@ passes it, if so good
 
 #### 1865-12-09 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-12-13/ed-1/seq-1)
 
@@ -850,7 +850,7 @@ The
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1865-12-21/ed-1/seq-1)
 
@@ -871,7 +871,7 @@ surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1866-01-03/ed-1/seq-4)
 
@@ -896,7 +896,7 @@ to the , top and is skimm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1866-01-03/ed-1/seq-4)
 
@@ -914,7 +914,7 @@ that surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-01-04_34_4?page=0)
 
@@ -941,7 +941,7 @@ doned. There is none
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Farmers' Department
 
@@ -949,7 +949,7 @@ doned. There is none
 
 #### 1866-01-06 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Farmers' Department
 
@@ -957,7 +957,7 @@ doned. There is none
 
 #### 1866-01-06 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141?page=30)
 
@@ -980,7 +980,7 @@ is none that surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20?page=2)
 
@@ -1011,7 +1011,7 @@ by throwing off the dirt always to
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Elk advocate._](https://chroniclingamerica.loc.gov/lccn/sn87079926/1866-11-15/ed-1/seq-3)
 
@@ -1039,7 +1039,7 @@ it, if any so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-11-15_18_22?page=4)
 
@@ -1063,7 +1063,7 @@ surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Article 2 -- No Title
 
@@ -1071,7 +1071,7 @@ surpasses it, if so good
 
 #### 1866-11-17 &middot; Chicago
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1866-11-21/ed-1/seq-1)
 
@@ -1116,7 +1116,7 @@ none that surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1866-11-24/ed-1/seq-1)
 
@@ -1152,7 +1152,7 @@ any so good. —Scientific American
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1866-11-29/ed-1/seq-3)
 
@@ -1189,7 +1189,7 @@ Telegraph
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Cedar Falls gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025161/1866-11-30/ed-1/seq-4)
 
@@ -1218,7 +1218,7 @@ manlouti Telegraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-01-01_19_1?page=3)
 
@@ -1255,7 +1255,7 @@ passes it, if so good.—[ Germantown Telegraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1867-11-16/ed-1/seq-1)
 
@@ -1294,7 +1294,7 @@ surpasses it, if so good. Gcrmantotcn To&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1867-12-01/ed-1/seq-4)
 
@@ -1314,7 +1314,7 @@ bo good.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1867-12-05/ed-1/seq-4)
 
@@ -1336,7 +1336,7 @@ Telegraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1868-01_2_1?page=18)
 
@@ -1364,7 +1364,7 @@ blood, &amp;c., leaving the meat fresh and clean
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1868-11-28/ed-1/seq-1)
 
@@ -1385,7 +1385,7 @@ passes it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ebensburg Alleghanian._](https://chroniclingamerica.loc.gov/lccn/sn85054846/1868-12-03/ed-1/seq-4)
 
@@ -1429,7 +1429,7 @@ Telegraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1868-12-11/ed-1/seq-3)
 
@@ -1450,7 +1450,7 @@ none ihat surpasses it, if so good.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1868-12-19_2473?page=7)
 
@@ -1476,7 +1476,7 @@ it, if so good.— Germantown Tdegraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1869-01-27/ed-1/seq-4)
 
@@ -1496,7 +1496,7 @@ none that surpass it, if so good.-- German
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1869-04-17/ed-1/seq-4)
 
@@ -1516,7 +1516,7 @@ none that t urpasses it, if any so goo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1869-11-04/ed-1/seq-1)
 
@@ -1539,7 +1539,7 @@ relegraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1869-11-05/ed-1/seq-4)
 
@@ -1567,7 +1567,7 @@ town Telegraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1869-11-25/ed-1/seq-4)
 
@@ -1594,7 +1594,7 @@ own Teiegraph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1870-01-28/ed-1/seq-4)
 
@@ -1615,7 +1615,7 @@ it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1870-04-28/ed-1/seq-4)
 
@@ -1651,7 +1651,7 @@ is none that surpasses it. If auy as good.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1870-10-29_2570?page=7)
 
@@ -1695,7 +1695,7 @@ graph.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Curing Meat
 
@@ -1703,7 +1703,7 @@ graph.
 
 #### 1870-10-31 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1870-11-04/ed-1/seq-4)
 
@@ -1745,7 +1745,7 @@ Tdtgraph
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45?page=0)
 
@@ -1777,7 +1777,7 @@ dirt always to be found in salt and sugar.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1870-11-11/ed-1/seq-3)
 
@@ -1794,7 +1794,7 @@ none that surpass it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1870-11-11/ed-1/seq-1)
 
@@ -1828,7 +1828,7 @@ the dirt always to be found in salt
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1870-11-17/ed-1/seq-6)
 
@@ -1855,7 +1855,7 @@ surpass it, it so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-11-18/ed-1/seq-1)
 
@@ -1876,7 +1876,7 @@ uone that surpass it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1870-11-18/ed-1/seq-4)
 
@@ -1903,7 +1903,7 @@ none that surpass it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1870-11-24/ed-1/seq-1)
 
@@ -1931,7 +1931,7 @@ surpasses it, or is so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1870-11-25/ed-1/seq-1)
 
@@ -1966,7 +1966,7 @@ in salt and sugar.—Germant
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12?page=27)
 
@@ -2015,7 +2015,7 @@ dirt always to be found in salt and sugar.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1870-12-12/ed-1/seq-2)
 
@@ -2037,7 +2037,7 @@ is none that surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1871-01-19/ed-1/seq-4)
 
@@ -2064,7 +2064,7 @@ so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1871-01-21/ed-1/seq-4)
 
@@ -2090,7 +2090,7 @@ good.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1871-01-26/ed-1/seq-1)
 
@@ -2133,7 +2133,7 @@ none that surpass it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Oregon Republican._](https://chroniclingamerica.loc.gov/lccn/sn93051636/1871-03-04/ed-1/seq-2)
 
@@ -2154,7 +2154,7 @@ that surpass it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [The House](http://trove.nla.gov.au/ndp/del/article/92275270)
 
@@ -2191,7 +2191,7 @@ never be abandoned. There is none that
 surpasses it, if theie is any as &#x27;gdod.
 </td></tr></table>
 
-<hr />
+---
 
 ## [The House.](http://trove.nla.gov.au/ndp/del/article/92271325)
 
@@ -2225,7 +2225,7 @@ by throwing off the dirt always to be
 found in salt and sugar. Cleaning
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1872-12-03/ed-1/seq-6)
 
@@ -2247,7 +2247,7 @@ graph
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1872-12-04/ed-1/seq-4)
 
@@ -2276,7 +2276,7 @@ none that surpass it, if so pood
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1872-12-19/ed-1/seq-1)
 
@@ -2302,7 +2302,7 @@ surpasses it. if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1873-01-01/ed-1/seq-4)
 
@@ -2323,7 +2323,7 @@ There is none that surpasses it, if ever so
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1873-02-15/ed-1/seq-3)
 
@@ -2365,7 +2365,7 @@ if so good.--ernnantown Telegraph
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1873-03-13/ed-1/seq-3)
 
@@ -2393,7 +2393,7 @@ surpasses it, if as good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1873-03-14/ed-1/seq-3)
 
@@ -2421,7 +2421,7 @@ surpasses it, if as good.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1873-03-20/ed-1/seq-4)
 
@@ -2452,7 +2452,7 @@ is none that surpasses it if as good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1873-11-06/ed-1/seq-1)
 
@@ -2480,7 +2480,7 @@ that surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Essex County herald._](https://chroniclingamerica.loc.gov/lccn/sn84023416/1873-11-22/ed-1/seq-4)
 
@@ -2539,7 +2539,7 @@ on tne dirt always to be tound in salt
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1873-12-04/ed-1/seq-4)
 
@@ -2577,7 +2577,7 @@ There is none that surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1873-12-04/ed-1/seq-1)
 
@@ -2616,7 +2616,7 @@ by throwing off tbe dirt alway
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1873-12-05/ed-1/seq-4)
 
@@ -2636,7 +2636,7 @@ is none that surpasses it, if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1873-12-25/ed-1/seq-1)
 
@@ -2664,7 +2664,7 @@ that surpasses it if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1873-12-25/ed-1/seq-2)
 
@@ -2701,7 +2701,7 @@ that surpasses it if so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1874-01-07/ed-1/seq-7)
 
@@ -2722,7 +2722,7 @@ good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1874-10-31/ed-1/seq-4)
 
@@ -2761,7 +2761,7 @@ quire only a single trial to prove it
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1874-11-07/ed-1/seq-7)
 
@@ -2785,7 +2785,7 @@ will reqnire only a single trial to x&gt;rove its supe
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1874-11-28/ed-1/seq-2)
 
@@ -2820,7 +2820,7 @@ saft and sugar. If tni
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1875-11-04/ed-1/seq-4)
 
@@ -2847,7 +2847,7 @@ is none that surpasses it, if »o good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1876-12-07/ed-1/seq-3)
 
@@ -2886,7 +2886,7 @@ throwing off the d
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1877-02-05/ed-1/seq-4)
 
@@ -2922,7 +2922,7 @@ salt and sugar.—Germantow
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Troy herald._](https://chroniclingamerica.loc.gov/lccn/sn86063984/1878-05-08/ed-1/seq-6)
 
@@ -2957,7 +2957,7 @@ ly followed, it will require only a singl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1878-12-12/ed-1/seq-1)
 
@@ -2993,7 +2993,7 @@ pickle by throwing off
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Florida agriculturist._](https://chroniclingamerica.loc.gov/lccn/sn96027724/1878-12-25/ed-1/seq-6)
 
@@ -3020,7 +3020,7 @@ pour it over your beef and pork
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-12-11/ed-1/seq-1)
 
@@ -3044,7 +3044,7 @@ lowed, it will require only a single trial t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1880-05-26/ed-1/seq-4)
 
@@ -3079,7 +3079,7 @@ lies the pickle by throwing off t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Home Topics.
 
@@ -3087,7 +3087,7 @@ lies the pickle by throwing off t
 
 #### 1881-02-01 &middot; Shakers
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2?page=23)
 
@@ -3120,7 +3120,7 @@ by throwing off the d
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1881-11-17/ed-1/seq-2)
 
@@ -3152,7 +3152,7 @@ followed, it will require only a singl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The herald._](https://chroniclingamerica.loc.gov/lccn/sn00065152/1884-01-04/ed-1/seq-1)
 
@@ -3192,5 +3192,5 @@ quire only a single trial to prove it
 </td>
 </tr></table>
 
-<hr />
+---
 

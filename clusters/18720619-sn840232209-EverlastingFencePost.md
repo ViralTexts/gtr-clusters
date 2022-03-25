@@ -1,7 +1,7 @@
 
 # Everlasting Fence Posts
 
-### 111 reprints from 1872-06-19 to 1885-03-26 [cl10]
+### 111 reprints from 1872-06-12 to 1885-03-26
 
 ## [Everlasting Fence Posts](https://chroniclingamerica.loc.gov/lccn/sn84023209/1872-06-19/ed-1/seq-4/)
 
@@ -16,7 +16,7 @@ For the benefit of others, I will give the recipe. Take boiled linseed oil, and 
 
 </td></tr></table>
 
-<hr />
+---
 
 ## Farm and Home
 
@@ -24,7 +24,7 @@ For the benefit of others, I will give the recipe. Take boiled linseed oil, and 
 
 #### 1872-06-12 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Farm and Home
 
@@ -32,7 +32,7 @@ For the benefit of others, I will give the recipe. Take boiled linseed oil, and 
 
 #### 1872-06-18 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1872-06-19/ed-1/seq-4)
 
@@ -71,7 +71,7 @@ see it rotten.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1872-06-26/ed-1/seq-4)
 
@@ -103,7 +103,7 @@ will live long enough, to se it rot
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1872-08-29/ed-1/seq-1)
 
@@ -140,7 +140,7 @@ l piece.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11?page=19)
 
@@ -168,7 +168,7 @@ than two cents apiece.” We believe that this is a goo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1872-09-25/ed-1/seq-3)
 
@@ -217,7 +217,7 @@ rotten.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1872-10-11/ed-1/seq-1)
 
@@ -261,7 +261,7 @@ will live long enough to see it rotten.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1872-10-11/ed-1/seq-3)
 
@@ -306,7 +306,7 @@ rotten.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Agriculture.
 
@@ -314,7 +314,7 @@ rotten.&quot;
 
 #### 1872-11-16 &middot; Preston, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Preserving Fence Posts
 
@@ -322,7 +322,7 @@ rotten.&quot;
 
 #### 1872-12-10 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Railway Age 1870-2016_](https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4?page=2)
 
@@ -350,7 +350,7 @@ A Woman Inventor.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18?page=0)
 
@@ -389,7 +389,7 @@ ber, and there is not a man that will live t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1873-02-21/ed-1/seq-4)
 
@@ -420,7 +420,7 @@ over Iho timber, and there Is not 11 m
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1873-02-21/ed-1/seq-1)
 
@@ -453,7 +453,7 @@ that will live to *oo it rot.&#x27;—Curretpondcn
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The St. Cloud journal._](https://chroniclingamerica.loc.gov/lccn/sn85033526/1873-02-27/ed-1/seq-4)
 
@@ -485,7 +485,7 @@ For the benefit of
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1873-03-01/ed-1/seq-1)
 
@@ -516,7 +516,7 @@ not a mau that w
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn85025132/1873-03-08/ed-1/seq-4)
 
@@ -552,7 +552,7 @@ apiece.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1873-03-12/ed-1/seq-4)
 
@@ -591,7 +591,7 @@ und there i? uot a man that wi&#x27;l live to see i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-03-15/ed-1/seq-4)
 
@@ -624,7 +624,7 @@ not s man that will live to see it rot.—
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-03-15/ed-1/seq-4)
 
@@ -665,7 +665,7 @@ there is not a man that will live t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Everlasting Fence Posts
 
@@ -673,7 +673,7 @@ there is not a man that will live t
 
 #### 1873-03-19 &middot; Yankton, Dakota Territory [S.D.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1873-03-20/ed-1/seq-1)
 
@@ -713,7 +713,7 @@ and there is not a man that will live to see i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1873-03-20/ed-1/seq-1)
 
@@ -735,7 +735,7 @@ taken out, basswood posts r after having s
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1873-04-04/ed-1/seq-4)
 
@@ -776,7 +776,7 @@ not a man that will live to see it rotten
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1873-04-10/ed-1/seq-1)
 
@@ -814,7 +814,7 @@ ber, and there is not a mu that will Uv
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1873-04-12/ed-1/seq-1)
 
@@ -854,7 +854,7 @@ is not a man that will live to see it rot
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1873-04-17/ed-1/seq-4)
 
@@ -907,7 +907,7 @@ rot.&quot; fCor. Western
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Essex County herald._](https://chroniclingamerica.loc.gov/lccn/sn84023416/1873-04-19/ed-1/seq-4)
 
@@ -940,7 +940,7 @@ is not a man that will live to see it rot
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1873-04-25/ed-1/seq-1)
 
@@ -974,7 +974,7 @@ not a man who will live to see it rot
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1873-05-01/ed-1/seq-2)
 
@@ -1006,7 +1006,7 @@ who will live to see it rot
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-05-03/ed-1/seq-4)
 
@@ -1039,7 +1039,7 @@ will lire to see it rotten.—Cm. Wate
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1873-05-16/ed-1/seq-1)
 
@@ -1064,7 +1064,7 @@ there is not a raan that will live to se
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Orangeburg news._](https://chroniclingamerica.loc.gov/lccn/sn84026920/1873-05-17/ed-1/seq-5)
 
@@ -1095,7 +1095,7 @@ it- in it pulverized charo al to the e&lt;?
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1873-05-20/ed-1/seq-4)
 
@@ -1124,7 +1124,7 @@ Take boiled lin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Toledo chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84038485/1873-05-29/ed-1/seq-4)
 
@@ -1159,7 +1159,7 @@ tbaro ia not a man that will live t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1873-05-29/ed-1/seq-4)
 
@@ -1191,7 +1191,7 @@ and there is not a man that will live to se
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1873-06-03/ed-1/seq-6)
 
@@ -1229,7 +1229,7 @@ timber and there is not a niari that wil
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1873-06-07/ed-1/seq-4)
 
@@ -1261,7 +1261,7 @@ and there is not a man that will live to se
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1873-06-11/ed-1/seq-2)
 
@@ -1293,7 +1293,7 @@ and there is not a man that will live to se
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1873-06-12/ed-1/seq-6)
 
@@ -1325,7 +1325,7 @@ and there is not a man that will live to se
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1873-06-12/ed-1/seq-3)
 
@@ -1358,7 +1358,7 @@ that will live to see it . it.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1873-06-18/ed-1/seq-6)
 
@@ -1392,7 +1392,7 @@ timbor and there is not a ma
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1873-06-19/ed-1/seq-4)
 
@@ -1434,7 +1434,7 @@ fence posts after having bee
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Vinton record._](https://chroniclingamerica.loc.gov/lccn/sn85038222/1873-06-19/ed-1/seq-1)
 
@@ -1473,7 +1473,7 @@ is not a man who will live t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-06-19/ed-1/seq-4)
 
@@ -1507,7 +1507,7 @@ mere is not a man that will live to se
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1873-06-21/ed-1/seq-4)
 
@@ -1539,7 +1539,7 @@ that w ill live to see it rot
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1873-06-28/ed-1/seq-4)
 
@@ -1570,7 +1570,7 @@ timber, and there is no man that wi
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Agricultural
 
@@ -1578,7 +1578,7 @@ timber, and there is no man that wi
 
 #### 1873-07-03 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-07-09/ed-1/seq-4)
 
@@ -1617,7 +1617,7 @@ not a mau who will live to seo&quot; i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1873-07-10/ed-1/seq-1)
 
@@ -1655,7 +1655,7 @@ paint, rut a ooai ot tbM over iae
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1873-07-18/ed-1/seq-1)
 
@@ -1687,7 +1687,7 @@ TempcevKce Lector
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1873-07-22/ed-1/seq-1)
 
@@ -1717,7 +1717,7 @@ Ithat w
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1873-07-23/ed-1/seq-4)
 
@@ -1750,7 +1750,7 @@ there is not a msn
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1873-07-30/ed-1/seq-4)
 
@@ -1791,7 +1791,7 @@ a man that will live to see it rotten.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1873-08-02/ed-1/seq-1)
 
@@ -1827,7 +1827,7 @@ timber, and there is not a man who will liv
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-08-07/ed-1/seq-3)
 
@@ -1867,7 +1867,7 @@ and there is not a man who will live t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1873-09-04/ed-1/seq-4)
 
@@ -1907,7 +1907,7 @@ man that will live to sec it rot
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1873-11-06/ed-1/seq-4)
 
@@ -1944,7 +1944,7 @@ NEW U8B F
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1874-02-26/ed-1/seq-3)
 
@@ -1975,7 +1975,7 @@ apiece. For the benefit of
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1874-06-16/ed-1/seq-1)
 
@@ -2011,7 +2011,7 @@ oil, aod stir in pulverised
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2?page=61)
 
@@ -2039,7 +2039,7 @@ which were as sound when taken out as whe
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1874-09-03/ed-1/seq-4)
 
@@ -2064,7 +2064,7 @@ Time and weather seem to have
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1874-09-11/ed-1/seq-4)
 
@@ -2091,7 +2091,7 @@ the ground. Time and weather
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1874-10-14/ed-1/seq-1)
 
@@ -2119,7 +2119,7 @@ have no effect on them
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-10-14/ed-1/seq-4)
 
@@ -2140,7 +2140,7 @@ as soon have poplar, basswood, or
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## To Preserve Fence Posts
 
@@ -2148,7 +2148,7 @@ as soon have poplar, basswood, or
 
 #### 1874-10-27 &middot; Macon, Ga.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1874-11-20/ed-1/seq-4)
 
@@ -2190,7 +2190,7 @@ and there is not a man who will lir
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1874-12-24/ed-1/seq-3)
 
@@ -2216,7 +2216,7 @@ weather seem to have no effect
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [MR. GLADSTONE'S "EXPOSTULATION."](http://trove.nla.gov.au/ndp/del/article/122070456)
 
@@ -2243,7 +2243,7 @@ prepared for less thlan two conts
 apiece. This is the recipe: Take bottle
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1875-01-30/ed-1/seq-2)
 
@@ -2265,7 +2265,7 @@ Time and weather seem to have
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Agricultural
 
@@ -2273,7 +2273,7 @@ Time and weather seem to have
 
 #### 1875-03-10 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1875-04-21/ed-1/seq-4)
 
@@ -2298,7 +2298,7 @@ w eather seem to have no effec
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Preservation of Timber
 
@@ -2306,7 +2306,7 @@ w eather seem to have no effec
 
 #### 1875-04-29 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1875-06-17/ed-1/seq-5)
 
@@ -2336,7 +2336,7 @@ seem to have no
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1875-06-23/ed-1/seq-2)
 
@@ -2363,7 +2363,7 @@ effect o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1875-06-24/ed-1/seq-3)
 
@@ -2389,7 +2389,7 @@ weather st em to have no effec
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1875-07-08/ed-1/seq-1)
 
@@ -2420,7 +2420,7 @@ effec
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1875-12-16/ed-1/seq-1)
 
@@ -2459,7 +2459,7 @@ the timber, and there is not
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1875-12-22/ed-1/seq-2)
 
@@ -2494,7 +2494,7 @@ this over the timber, and there is not a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1876-04-26/ed-1/seq-1)
 
@@ -2518,7 +2518,7 @@ aud weather seem to have no iff c
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hartford herald._](https://chroniclingamerica.loc.gov/lccn/sn84037890/1876-05-17/ed-1/seq-4)
 
@@ -2549,7 +2549,7 @@ you the rec
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1876-05-18/ed-1/seq-1)
 
@@ -2590,7 +2590,7 @@ man that will live to see it rot.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita city eagle._](https://chroniclingamerica.loc.gov/lccn/sn85032573/1876-05-25/ed-1/seq-4)
 
@@ -2631,7 +2631,7 @@ there is not a man to
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/77486808)
 
@@ -2660,7 +2660,7 @@ they were first put&quot; in the ground,.
 Time and: weather 
 </td></tr></table>
 
-<hr />
+---
 
 ## [TOWN TALK.](http://trove.nla.gov.au/ndp/del/article/150635594)
 
@@ -2696,7 +2696,7 @@ they were first put in the ground. Time
 and weather seem to have n
 </td></tr></table>
 
-<hr />
+---
 
 ## [THE DAVENPORT BROTHERS.](http://trove.nla.gov.au/ndp/del/article/88347706)
 
@@ -2732,7 +2732,7 @@ were first put in the grofind.i Time and
 wvear.her se
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1877-03-29/ed-1/seq-4)
 
@@ -2768,7 +2768,7 @@ man that wil
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1877-04-04/ed-1/seq-3)
 
@@ -2811,7 +2811,7 @@ man th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1877-04-26/ed-1/seq-1)
 
@@ -2847,7 +2847,7 @@ man that wi
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1877-04-26/ed-1/seq-2)
 
@@ -2888,7 +2888,7 @@ timber, and there
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1877-05-10/ed-1/seq-4)
 
@@ -2912,7 +2912,7 @@ put in tbe ground. Time and w
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1877-05-24/ed-1/seq-1)
 
@@ -2947,7 +2947,7 @@ seems to have no effeot upon them
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1877-07-06/ed-1/seq-2)
 
@@ -2987,7 +2987,7 @@ i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1878-09-05/ed-1/seq-4)
 
@@ -3024,7 +3024,7 @@ io effect on them. The posts can
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1879-11-18/ed-1/seq-4)
 
@@ -3058,7 +3058,7 @@ will live long enough to see it rotten
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _St. Landry democrat._](https://chroniclingamerica.loc.gov/lccn/sn88064537/1880-12-18/ed-1/seq-4)
 
@@ -3091,7 +3091,7 @@ ground. Time and weather
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Meridional._](https://chroniclingamerica.loc.gov/lccn/sn88064005/1881-02-12/ed-1/seq-2)
 
@@ -3133,7 +3133,7 @@ over the timber, and there is
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1882-07-14/ed-1/seq-1)
 
@@ -3171,7 +3171,7 @@ live long enough to see it rotten
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Corvallis gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022650/1882-09-01/ed-1/seq-4)
 
@@ -3198,7 +3198,7 @@ a piece. They should be well sea
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Copiahan._](https://chroniclingamerica.loc.gov/lccn/2018270504/1882-10-28/ed-1/seq-3)
 
@@ -3234,7 +3234,7 @@ long enough to see it &quot;otten
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1884-08-21/ed-1/seq-1)
 
@@ -3279,7 +3279,7 @@ sid st:r iii pulverixied chro
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1884-10-11/ed-1/seq-6)
 
@@ -3330,7 +3330,7 @@ to see it rotten.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44?page=0)
 
@@ -3371,7 +3371,7 @@ rotten.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Richmond democrat._](https://chroniclingamerica.loc.gov/lccn/sn86063662/1884-11-06/ed-1/seq-2)
 
@@ -3392,7 +3392,7 @@ Koe it rolton.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1884-11-13/ed-1/seq-1)
 
@@ -3441,7 +3441,7 @@ enough to sse it rotten.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Austin weekly statesman._](https://chroniclingamerica.loc.gov/lccn/sn86088296/1884-11-13/ed-1/seq-2)
 
@@ -3479,7 +3479,7 @@ it rotten
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1884-11-23/ed-1/seq-7)
 
@@ -3517,7 +3517,7 @@ rotten.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Charlotte home and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020714/1884-12-05/ed-1/seq-4)
 
@@ -3553,7 +3553,7 @@ that will live long enough to see it rotten
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1885-03-26/ed-1/seq-4)
 
@@ -3590,5 +3590,5 @@ will live long enough to see it rot
 </td>
 </tr></table>
 
-<hr />
+---
 

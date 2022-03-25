@@ -1,7 +1,7 @@
 
 # Household Economy
 
-### 116 reprints from 1852-02-05 to 1878-11-14 [cl8589934644]
+### 116 reprints from 1852-01-20 to 1878-11-14
 
 ## [Household Economy](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-02-05/ed-1/seq-4/)
 
@@ -30,7 +30,7 @@ To the poor, the weekly newspaper is a precious boon. They cannot afford books, 
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1852-01-20/ed-1/seq-1)
 
@@ -82,7 +82,7 @@ rectness in the use of language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-02-05/ed-1/seq-4)
 
@@ -171,7 +171,7 @@ fccnlo of humanity.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1852-02-11/ed-1/seq-3)
 
@@ -220,7 +220,7 @@ Origin or Cbrtain Words. The bayonet tell
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Semi-weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024518/1852-02-11/ed-1/seq-3)
 
@@ -269,7 +269,7 @@ Origin or Certain Words. The bayonet tell
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1852-03-02/ed-1/seq-1)
 
@@ -314,7 +314,7 @@ rectness, in the use of language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1852-03-04/ed-1/seq-4)
 
@@ -346,7 +346,7 @@ words with greater esse and accuracy.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1852-03-04/ed-1/seq-4)
 
@@ -368,7 +368,7 @@ in the use of languag
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Monongalia mirror._](https://chroniclingamerica.loc.gov/lccn/sn86092163/1852-05-13/ed-1/seq-1)
 
@@ -419,7 +419,7 @@ eoirectness in the u&amp;o of language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## A Newspaper in a Family
 
@@ -427,7 +427,7 @@ eoirectness in the u&amp;o of language
 
 #### 1852-05-20 &middot; Raymond, Miss.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1852-07-28/ed-1/seq-1)
 
@@ -479,7 +479,7 @@ and correctness in the use of language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The organ of the temperance reform._](https://chroniclingamerica.loc.gov/lccn/sn90068762/1852-08-06/ed-1/seq-3)
 
@@ -530,7 +530,7 @@ ueo of language. - . w -, . ..,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## BY ELECTRIC TELEGRAPH.
 
@@ -538,7 +538,7 @@ ueo of language. - . w -, . ..,
 
 #### 1852-09-10 &middot; Newcastle-upon-Tyne, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Literary Extracts.
 
@@ -546,7 +546,7 @@ ueo of language. - . w -, . ..,
 
 #### 1852-09-24 &middot; Bangor, Wales
 [This text is not available under an open license.]
-<hr />
+---
 
 ## A Newspaper in a Family
 
@@ -554,7 +554,7 @@ ueo of language. - . w -, . ..,
 
 #### 1852-09-25 &middot; Ripley [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1852-10-09/ed-1/seq-1)
 
@@ -602,7 +602,7 @@ rectness in the use of the language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn93067980/1852-10-12/ed-1/seq-2)
 
@@ -654,7 +654,7 @@ language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1852-10-14/ed-1/seq-1)
 
@@ -688,7 +688,7 @@ I nortantnLices.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1852-10-14/ed-1/seq-1)
 
@@ -718,7 +718,7 @@ i , , ? , .
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1852-11-04/ed-1/seq-4)
 
@@ -758,7 +758,7 @@ comonplace advertisemen
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Influence of a Newspaper
 
@@ -766,7 +766,7 @@ comonplace advertisemen
 
 #### 1852-11-04 &middot; Philadelphia, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1852-11-06/ed-1/seq-2)
 
@@ -801,7 +801,7 @@ clearness and correctness in their uje of language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1852-11-06/ed-1/seq-1)
 
@@ -833,7 +833,7 @@ of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1852-11-06/ed-1/seq-4)
 
@@ -889,7 +889,7 @@ rectness in their use of languages.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Influence of a Newspaper
 
@@ -897,7 +897,7 @@ rectness in their use of languages.
 
 #### 1852-11-08 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1852-11-10/ed-1/seq-4)
 
@@ -923,7 +923,7 @@ rectness in their use of languages._i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1852-11-11/ed-1/seq-2)
 
@@ -974,7 +974,7 @@ guage
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Influence of a Newspaper
 
@@ -982,7 +982,7 @@ guage
 
 #### 1852-11-11 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Influence of a Newspaper
 
@@ -990,7 +990,7 @@ guage
 
 #### 1852-11-11 &middot; Columbus [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1852-11-11_23_46?page=3)
 
@@ -1013,7 +1013,7 @@ the proceedings is, and must be, that «the denomi- j Tun iHariHATioR or xun Sor
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1852-11-12/ed-1/seq-3)
 
@@ -1038,7 +1038,7 @@ The Consecration of Bish
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The organ of the temperance reform._](https://chroniclingamerica.loc.gov/lccn/sn90068762/1852-11-12/ed-1/seq-1)
 
@@ -1066,7 +1066,7 @@ in almost half the time it require
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The organ of the temperance reform._](https://chroniclingamerica.loc.gov/lccn/sn90068762/1852-11-12/ed-1/seq-1)
 
@@ -1091,7 +1091,7 @@ rectness ia their use ol language. -
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1852-11-13/ed-1/seq-1)
 
@@ -1148,7 +1148,7 @@ ness in their use of languag
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1852-11-16/ed-1/seq-2)
 
@@ -1192,7 +1192,7 @@ rectness in their use of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1852-11-17/ed-1/seq-1)
 
@@ -1244,7 +1244,7 @@ I correctness iu the use of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Selections
 
@@ -1252,7 +1252,7 @@ I correctness iu the use of language.
 
 #### 1852-11-17 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82015677/1852-11-18/ed-1/seq-4)
 
@@ -1302,7 +1302,7 @@ t7
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Minnesota pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83025241/1852-11-18/ed-1/seq-2)
 
@@ -1332,7 +1332,7 @@ j of language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Influence of a Newspaper
 
@@ -1340,7 +1340,7 @@ j of language
 
 #### 1852-11-20 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Influence of a Newspaper
 
@@ -1348,7 +1348,7 @@ j of language
 
 #### 1852-11-20 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1852-11-24/ed-1/seq-1)
 
@@ -1379,7 +1379,7 @@ clearly and connectedly expressed. 6th. The
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-11-25/ed-1/seq-1)
 
@@ -1433,7 +1433,7 @@ A circular has been issued by lh
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1852-11-26/ed-1/seq-1)
 
@@ -1465,7 +1465,7 @@ ography, in almost half the time it requires
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1852-11-26/ed-1/seq-1)
 
@@ -1491,7 +1491,7 @@ general use of language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1852-11-26/ed-1/seq-3)
 
@@ -1544,7 +1544,7 @@ uud correctness in their use of languag
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Burlington free press._](https://chroniclingamerica.loc.gov/lccn/sn84023127/1852-11-26/ed-1/seq-2)
 
@@ -1588,7 +1588,7 @@ in their tue of language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1852-11-27/ed-1/seq-2)
 
@@ -1638,7 +1638,7 @@ their use of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southerner._](https://chroniclingamerica.loc.gov/lccn/sn90052434/1852-11-27/ed-1/seq-1)
 
@@ -1671,7 +1671,7 @@ their governments and doings on the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southerner._](https://chroniclingamerica.loc.gov/lccn/sn90052434/1852-11-27/ed-1/seq-1)
 
@@ -1709,7 +1709,7 @@ with greater fluency, clearness and cor
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Influence of a Newspaper
 
@@ -1717,7 +1717,7 @@ with greater fluency, clearness and cor
 
 #### 1852-11-27 &middot; Ripley [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1852-12-01/ed-1/seq-1)
 
@@ -1771,7 +1771,7 @@ language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1852-12-08/ed-1/seq-1)
 
@@ -1806,7 +1806,7 @@ portent places an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1852-12-08/ed-1/seq-1)
 
@@ -1835,7 +1835,7 @@ edge Upon a greater variety of subjecisl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1852-12-11/ed-1/seq-1)
 
@@ -1880,7 +1880,7 @@ clearness and correctness in their use of lanjrua
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35?page=2)
 
@@ -1914,7 +1914,7 @@ portant
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35?page=2)
 
@@ -1945,7 +1945,7 @@ their use of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## PROMOTIONS IN THE ARMY.
 
@@ -1953,7 +1953,7 @@ their use of language.
 
 #### 1853-01-21 &middot; Bangor, Wales
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1853-01-26/ed-1/seq-2)
 
@@ -2002,7 +2002,7 @@ use of language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1853-02-09/ed-1/seq-3)
 
@@ -2039,7 +2039,7 @@ place adver
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1853-02-25/ed-1/seq-1)
 
@@ -2066,7 +2066,7 @@ guage. Exchange
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [LOCAL.](http://trove.nla.gov.au/ndp/del/article/2239426)
 
@@ -2094,7 +2094,7 @@ places, nations, \their governments aud
 doings, on the globe.&quot;-New York Tribune
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1853-10-22/ed-1/seq-2)
 
@@ -2118,7 +2118,7 @@ and elevate faun in the scale of humanity. IC i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1853-10-26/ed-1/seq-1)
 
@@ -2144,7 +2144,7 @@ elevate him in tbo scale of humanity. It i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1853-11-16/ed-1/seq-4)
 
@@ -2171,7 +2171,7 @@ le of humanity. It is an undenii.b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1854-03-08/ed-1/seq-1)
 
@@ -2216,7 +2216,7 @@ uso of their language.&#x27; ; -:, r..,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Union and eastern journal._](https://chroniclingamerica.loc.gov/lccn/sn83021380/1854-03-24/ed-1/seq-1)
 
@@ -2255,7 +2255,7 @@ man-place adverti
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15?page=3)
 
@@ -2283,7 +2283,7 @@ ingly.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1854-06-24/ed-1/seq-1)
 
@@ -2311,7 +2311,7 @@ of Ihe meeting of the next Congress, it will I ,,on and emphasis, and consequent
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1854-06-24/ed-1/seq-1)
 
@@ -2344,7 +2344,7 @@ ness in then use of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1854-12-14/ed-1/seq-1)
 
@@ -2369,7 +2369,7 @@ wiser and better, and elevate him in theacal
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Miscellaneous Articles
 
@@ -2377,7 +2377,7 @@ wiser and better, and elevate him in theacal
 
 #### 1855-01-31 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Miscellaneous Articles
 
@@ -2385,7 +2385,7 @@ wiser and better, and elevate him in theacal
 
 #### 1855-01-31 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Influence of Newspapers
 
@@ -2393,7 +2393,7 @@ wiser and better, and elevate him in theacal
 
 #### 1855-02-02 &middot; Rochester, N.Y.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1855-03-28/ed-1/seq-1)
 
@@ -2426,7 +2426,7 @@ requires
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1855-03-28/ed-1/seq-1)
 
@@ -2452,7 +2452,7 @@ use oflangusge. ; ;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1855-11-02/ed-1/seq-1)
 
@@ -2506,7 +2506,7 @@ rectness in their use of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1855-12-05/ed-1/seq-1)
 
@@ -2552,7 +2552,7 @@ Three things that never become
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1856-02-06/ed-1/seq-1)
 
@@ -2580,7 +2580,7 @@ quires oth
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1856-02-06/ed-1/seq-1)
 
@@ -2606,7 +2606,7 @@ and correctness in their use of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Squatter sovereign._](https://chroniclingamerica.loc.gov/lccn/sn82015827/1856-02-26/ed-1/seq-2)
 
@@ -2655,7 +2655,7 @@ In-view; of these facts, who jvill be s
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Varieties.](http://trove.nla.gov.au/ndp/del/article/118308699)
 
@@ -2686,7 +2686,7 @@ thie finishied and classical oration of
 tie statesman, theyl m
 </td></tr></table>
 
-<hr />
+---
 
 ## [THE NEWSPAPER IN A FAMILY.](http://trove.nla.gov.au/ndp/del/article/91867625)
 
@@ -2733,7 +2733,7 @@ with greater fluency, clearness and
 correctness in the use of language
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1856-04-12/ed-1/seq-1)
 
@@ -2771,7 +2771,7 @@ vertisement
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Winchester appeal._](https://chroniclingamerica.loc.gov/lccn/sn97065089/1856-04-12/ed-1/seq-4)
 
@@ -2817,7 +2817,7 @@ the common place adverti
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1856-06-11/ed-1/seq-1)
 
@@ -2849,7 +2849,7 @@ quires others,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1856-11-29/ed-1/seq-1)
 
@@ -2877,7 +2877,7 @@ standingly. .
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _San Andreas independent._](https://chroniclingamerica.loc.gov/lccn/sn85025090/1856-12-13/ed-1/seq-4)
 
@@ -2932,7 +2932,7 @@ great correctness in their use of languages.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1857-02-12/ed-1/seq-6)
 
@@ -2957,7 +2957,7 @@ consequently read more understandingry.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Influence of Newspapers
 
@@ -2965,7 +2965,7 @@ consequently read more understandingry.
 
 #### 1857-02-25 &middot; Newark [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Influence of a Newspaper
 
@@ -2973,7 +2973,7 @@ consequently read more understandingry.
 
 #### 1857-03-10 &middot; Savannah, Ga.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## MISCELLANEA.
 
@@ -2981,7 +2981,7 @@ consequently read more understandingry.
 
 #### 1857-03-12 &middot; Exeter, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1857-03-21/ed-1/seq-4)
 
@@ -3005,7 +3005,7 @@ pared with those who have not, are
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1857-10-24/ed-1/seq-2)
 
@@ -3054,7 +3054,7 @@ THE DUTCHMAN A.D THE PAMC.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _San Andreas independent._](https://chroniclingamerica.loc.gov/lccn/sn85025090/1858-01-02/ed-1/seq-4)
 
@@ -3091,7 +3091,7 @@ more readily comprehend
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Pennsylvania School Journal 1852-1980_](https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10?page=20)
 
@@ -3132,7 +3132,7 @@ paper, from the common place advertisemen
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1863-11-14/ed-1/seq-1)
 
@@ -3183,7 +3183,7 @@ use of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1865-06-22/ed-1/seq-1)
 
@@ -3210,7 +3210,7 @@ What a Goo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48?page=3)
 
@@ -3260,7 +3260,7 @@ rectness in the use of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _North Branch democrat._](https://chroniclingamerica.loc.gov/lccn/sn86081912/1865-08-02/ed-1/seq-1)
 
@@ -3302,7 +3302,7 @@ A NEW WAT T
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1865-10-06/ed-1/seq-1)
 
@@ -3327,7 +3327,7 @@ rectness in the use of language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1865-12-02/ed-1/seq-1)
 
@@ -3367,7 +3367,7 @@ A
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1866-01-12/ed-1/seq-4)
 
@@ -3418,7 +3418,7 @@ Oa a fence
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1868-04-16/ed-1/seq-1)
 
@@ -3444,7 +3444,7 @@ edge of geography iu almost halt th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1868-04-17/ed-1/seq-4)
 
@@ -3495,7 +3495,7 @@ use of language
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1868-07-21/ed-1/seq-4)
 
@@ -3533,7 +3533,7 @@ the use of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1868-12-24/ed-1/seq-1)
 
@@ -3571,7 +3571,7 @@ correctness in the use of language.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [MINING CALLS, DIVIDENDS AND MEETINGS. CALLS.](http://trove.nla.gov.au/ndp/del/article/150434376)
 
@@ -3615,7 +3615,7 @@ with greater fluency, clearness, and |
 correctness. &#x27; .Josephine.—We are gla
 </td></tr></table>
 
-<hr />
+---
 
 ## [INFLUENCE OF A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/66837784)
 
@@ -3661,7 +3661,7 @@ fuency, clearness, &amp;nbsp; and
 correctness.&quot; &amp;nbsp
 </td></tr></table>
 
-<hr />
+---
 
 ## [NEW PLAN FOR PRESERVING MEAT AND FISH.](http://trove.nla.gov.au/ndp/del/article/92777189)
 
@@ -3697,7 +3697,7 @@ with greater fluency, clearness, and
 correctness. Printed by the proprietors
 </td></tr></table>
 
-<hr />
+---
 
 ## [SAD DEATH OF A YOUNG LADY.](http://trove.nla.gov.au/ndp/del/article/101473078)
 
@@ -3739,7 +3739,7 @@ expressing their views with greater
 fluency, clearness, and correctness. 
 </td></tr></table>
 
-<hr />
+---
 
 ## [LAND OFFICE AT SALE. W. T. Dawson, Esq., Land Officer. AGRICULTURAL ARHAS.](http://trove.nla.gov.au/ndp/del/article/61344483)
 
@@ -3783,7 +3783,7 @@ with a greater fluency, clearness, and
 correct. ness. The debate on the repor
 </td></tr></table>
 
-<hr />
+---
 
 ## [PRESBYTERY OF THE HUNTER.](http://trove.nla.gov.au/ndp/del/article/111161900)
 
@@ -3827,7 +3827,7 @@ expressing their views with greater
 fluency, clearness, and correctness
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1874-05-05/ed-1/seq-1)
 
@@ -3873,7 +3873,7 @@ and correctness.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1876-04-06/ed-1/seq-3)
 
@@ -3915,7 +3915,7 @@ prehend the meaning of t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-11-14_8_194?page=2)
 
@@ -3949,5 +3949,5 @@ use of language, than those whoare unfamiliar wit
 </td>
 </tr></table>
 
-<hr />
+---
 

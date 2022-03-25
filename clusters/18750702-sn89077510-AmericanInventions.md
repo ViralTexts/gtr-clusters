@@ -1,7 +1,7 @@
 
 # American Inventions
 
-### 183 reprints from 1875-08-21 to 1891-01-22 [cl4]
+### 183 reprints from 1872-10-24 to 1891-01-22
 
 ## [American Inventions](https://chroniclingamerica.loc.gov/lccn/sn89077510/1875-08-21/ed-1/seq-1/)
 
@@ -14,7 +14,7 @@ The great American inventions, which have been adopted all over the world, are t
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1872-10-24/ed-1/seq-7)
 
@@ -41,7 +41,7 @@ cessful composing machine for printers. Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1872-11-02/ed-1/seq-1)
 
@@ -57,7 +57,7 @@ loom would he helpless, is American
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Essex County herald._](https://chroniclingamerica.loc.gov/lccn/sn84023416/1873-08-16/ed-1/seq-1)
 
@@ -81,7 +81,7 @@ would be helpless, is American. Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## American Inventions
 
@@ -89,7 +89,7 @@ would be helpless, is American. Th
 
 #### 1873-08-20 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-09-24/ed-1/seq-4)
 
@@ -111,7 +111,7 @@ would be helpless, is American. Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-10-04/ed-1/seq-4)
 
@@ -127,7 +127,7 @@ loom would be helpless, is American. Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1873-10-18/ed-1/seq-1)
 
@@ -146,7 +146,7 @@ Would be heltiless is Ativrrici.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-11-01/ed-1/seq-1)
 
@@ -163,7 +163,7 @@ be helpless, is American. The powe
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Harper's weekly journal of civilization._](https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889?page=6)
 
@@ -189,7 +189,7 @@ American. Navigation by stea
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1874-03-14/ed-1/seq-1)
 
@@ -207,7 +207,7 @@ power loom would 1h helpless, i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly democratic statesman._](https://chroniclingamerica.loc.gov/lccn/sn83021327/1874-04-09/ed-1/seq-3)
 
@@ -228,7 +228,7 @@ helpless, is American. , Tbe power shuttle
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [RHYNIE. [From our own Correspondent] April 27.](http://trove.nla.gov.au/ndp/del/article/92766077)
 
@@ -243,7 +243,7 @@ without which the ? machine-spinner and
 the pow6r4oom would • be helpless, i
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1874-06-04/ed-1/seq-1)
 
@@ -265,7 +265,7 @@ less, is American. The power shuttle, whic
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Republic; A Monthly Magazine Devoted to the Dissemination of Political Information 1873-1877_](https://iiif.archivelab.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2?page=54)
 
@@ -281,7 +281,7 @@ ner and the power-loom would be helpless
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Appletons' Journal of Literature, Science and Art (1869-1876)_](https://iiif.archivelab.org/iiif/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326?page=28)
 
@@ -315,7 +315,7 @@ composing-machine for printers is American
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1875-07-02/ed-1/seq-2)
 
@@ -348,7 +348,7 @@ cessful composing machine for printing
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The anti-monopolist._](https://chroniclingamerica.loc.gov/lccn/sn85025587/1875-07-12/ed-1/seq-3)
 
@@ -364,7 +364,7 @@ would be helpless, is American. The power
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The workingman's advocate._](https://chroniclingamerica.loc.gov/lccn/sn89077510/1875-08-21/ed-1/seq-1)
 
@@ -394,7 +394,7 @@ plication, by Hear Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## American Inventions Abroad
 
@@ -402,7 +402,7 @@ plication, by Hear Th
 
 #### 1875-08-27 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1875-08-31/ed-1/seq-8)
 
@@ -431,7 +431,7 @@ successtul composing machine for printers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1875-09-03/ed-1/seq-1)
 
@@ -462,7 +462,7 @@ composing-machine for printers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1875-09-04/ed-1/seq-1)
 
@@ -493,7 +493,7 @@ composing-machine for printers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Northern Ohio journal._](https://chroniclingamerica.loc.gov/lccn/sn84028194/1875-09-04/ed-1/seq-1)
 
@@ -524,7 +524,7 @@ composing-machine for printers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Facts of Science and Art
 
@@ -532,7 +532,7 @@ composing-machine for printers
 
 #### 1875-09-08 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Wilmington daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn84020594/1875-09-13/ed-1/seq-2)
 
@@ -559,7 +559,7 @@ practical application, by Henry and Morse
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1875-09-17/ed-1/seq-2)
 
@@ -593,7 +593,7 @@ cessful composing machine for printers i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## YANKEE ingenuity promises to revelutionize the world
 
@@ -601,7 +601,7 @@ cessful composing machine for printers i
 
 #### 1875-09-19 &middot; Houston [Tex.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1875-09-23/ed-1/seq-4)
 
@@ -635,7 +635,7 @@ application, by Henry and Morse
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1875-09-28/ed-1/seq-1)
 
@@ -668,7 +668,7 @@ tor printer
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Leavenworth weekly times._](https://chroniclingamerica.loc.gov/lccn/sn84027691/1875-10-07/ed-1/seq-1)
 
@@ -699,7 +699,7 @@ for printers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Chilton's Iron Age 1873-1983_](https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15?page=4)
 
@@ -728,7 +728,7 @@ cessful composing machine for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234?page=5)
 
@@ -759,7 +759,7 @@ for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1875-10-22/ed-1/seq-1)
 
@@ -792,7 +792,7 @@ printers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-11-13/ed-1/seq-1)
 
@@ -824,7 +824,7 @@ ican. The gpage lathe is American.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47?page=5)
 
@@ -857,7 +857,7 @@ for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1875-11-25/ed-1/seq-4)
 
@@ -893,7 +893,7 @@ t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-12-01/ed-1/seq-1)
 
@@ -910,7 +910,7 @@ threw the goblet on the floor. The ufacture of ice on a large scale. 14 Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-12-01/ed-1/seq-1)
 
@@ -937,7 +937,7 @@ printers,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-12-09/ed-1/seq-1)
 
@@ -970,7 +970,7 @@ printer*.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1875-12-13/ed-1/seq-3)
 
@@ -997,7 +997,7 @@ steam. 6, The hot air (caloric) engine.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1875-12-13/ed-1/seq-3)
 
@@ -1018,7 +1018,7 @@ A meeting of the directors of the nn eleVator. 13, The artificial
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1875-12-13/ed-1/seq-3)
 
@@ -1040,7 +1040,7 @@ inecouinon party at tue rronuer The only successful composing machine
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1876-01-13/ed-1/seq-1)
 
@@ -1070,7 +1070,7 @@ successful
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053942/1876-01-20/ed-1/seq-2)
 
@@ -1107,7 +1107,7 @@ machine for prihters
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244?page=0)
 
@@ -1136,7 +1136,7 @@ practical application, by Henry and Morse.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## General and Personal
 
@@ -1144,7 +1144,7 @@ practical application, by Henry and Morse.
 
 #### 1879-05-28 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1879-05-30/ed-1/seq-1)
 
@@ -1175,7 +1175,7 @@ fifteenth, the composing machine fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Silver state._](https://chroniclingamerica.loc.gov/lccn/sn84022060/1879-05-31/ed-1/seq-2)
 
@@ -1207,7 +1207,7 @@ chine for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Morning appeal._](https://chroniclingamerica.loc.gov/lccn/sn86076999/1879-06-04/ed-1/seq-2)
 
@@ -1237,7 +1237,7 @@ the composing machine for printers. It i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1879-06-19/ed-1/seq-1)
 
@@ -1268,7 +1268,7 @@ chine for printers. It is not rtea tna
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-06-26/ed-1/seq-3)
 
@@ -1301,7 +1301,7 @@ posing machine for printers. It i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1879-07-31/ed-1/seq-4)
 
@@ -1333,7 +1333,7 @@ machine for printers. It is not ofte
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American Machinist 1877-2009_](https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17?page=2)
 
@@ -1362,7 +1362,7 @@ composing machine for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cincinnati daily star._](https://chroniclingamerica.loc.gov/lccn/sn85025759/1879-09-02/ed-1/seq-6)
 
@@ -1392,7 +1392,7 @@ the composing machine for printers. I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## American Inventions
 
@@ -1400,7 +1400,7 @@ the composing machine for printers. I
 
 #### 1879-09-04 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-1)
 
@@ -1431,7 +1431,7 @@ ers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-2)
 
@@ -1462,7 +1462,7 @@ composing machine for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-09-11/ed-1/seq-1)
 
@@ -1486,7 +1486,7 @@ ninth, the machine for manufacture
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-09-11/ed-1/seq-1)
 
@@ -1504,7 +1504,7 @@ composing machine for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1879-09-13/ed-1/seq-2)
 
@@ -1535,7 +1535,7 @@ composing machine for printers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-10-02/ed-1/seq-2)
 
@@ -1561,7 +1561,7 @@ for printers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1879-10-23/ed-1/seq-1)
 
@@ -1589,7 +1589,7 @@ tbe composing machine for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple News Items
 
@@ -1597,7 +1597,7 @@ tbe composing machine for printers.
 
 #### 1879-11-29 &middot; Portage, Columbia County, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1880-04-14/ed-1/seq-2)
 
@@ -1623,7 +1623,7 @@ nosing machine tor printers. A sixteenll
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1880-04-16/ed-1/seq-2)
 
@@ -1647,7 +1647,7 @@ plication. 15. The composing machin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1880-04-21/ed-1/seq-1)
 
@@ -1673,7 +1673,7 @@ The telephone
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1880-04-22/ed-1/seq-7)
 
@@ -1698,7 +1698,7 @@ e composing machine for printers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1880-04-23/ed-1/seq-3)
 
@@ -1723,7 +1723,7 @@ The composing machine for printers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn93061632/1880-04-23/ed-1/seq-3)
 
@@ -1749,7 +1749,7 @@ magnet and its practical application.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Northern Ohio journal._](https://chroniclingamerica.loc.gov/lccn/sn84028194/1880-05-01/ed-1/seq-4)
 
@@ -1774,7 +1774,7 @@ The composing machine for printers. .
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1880-05-05/ed-1/seq-1)
 
@@ -1799,7 +1799,7 @@ lag on a large scale. 14. Th** electric
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1880-05-13/ed-1/seq-6)
 
@@ -1824,7 +1824,7 @@ The composing machine for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1880-05-20/ed-1/seq-4)
 
@@ -1849,7 +1849,7 @@ The composing machine for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1880-05-20/ed-1/seq-4)
 
@@ -1889,7 +1889,7 @@ tiou. la. Ihe composing machin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## THE fifteen great American inventions of world-wide adoption are:
 
@@ -1897,7 +1897,7 @@ tiou. la. Ihe composing machin
 
 #### 1880-05-23 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25?page=6)
 
@@ -1925,7 +1925,7 @@ for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1880-06-24/ed-1/seq-1)
 
@@ -1956,7 +1956,7 @@ fifteenth, the composing machine fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Facts of Science and Art
 
@@ -1964,7 +1964,7 @@ fifteenth, the composing machine fo
 
 #### 1880-07-14 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1880-11-06/ed-1/seq-3)
 
@@ -1994,7 +1994,7 @@ the composing machine for printers. I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4?page=6)
 
@@ -2017,7 +2017,7 @@ and its practical application. 15. The compos
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1881-04-21/ed-1/seq-1)
 
@@ -2047,7 +2047,7 @@ Artificial ice making on a large
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1881-04-26/ed-1/seq-1)
 
@@ -2072,7 +2072,7 @@ The composing machine for printerst&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple News Items
 
@@ -2080,7 +2080,7 @@ The composing machine for printerst&#x27;
 
 #### 1881-06-03 &middot; Macon, Ga.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The daily Cairo bulletin._](https://chroniclingamerica.loc.gov/lccn/sn87082573/1881-06-10/ed-1/seq-1)
 
@@ -2108,7 +2108,7 @@ tical application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1881-06-11/ed-1/seq-1)
 
@@ -2144,7 +2144,7 @@ tica.l aplication
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1881-06-15/ed-1/seq-1)
 
@@ -2172,7 +2172,7 @@ machine for printers. A sixteent
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1881-06-23/ed-1/seq-4)
 
@@ -2201,7 +2201,7 @@ tical application. ,- . i - , f
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Our Great Inventions
 
@@ -2209,7 +2209,7 @@ tical application. ,- . i - , f
 
 #### 1881-06-25 &middot; Portage, Columbia County, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1881-07-15/ed-1/seq-2)
 
@@ -2233,7 +2233,7 @@ a large scale ; 1 4, the electric mag
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1881-07-15/ed-1/seq-4)
 
@@ -2260,7 +2260,7 @@ tical application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly miner._](https://chroniclingamerica.loc.gov/lccn/sn84036032/1881-08-09/ed-1/seq-6)
 
@@ -2288,7 +2288,7 @@ application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1881-08-25/ed-1/seq-4)
 
@@ -2311,7 +2311,7 @@ net and its practical application ; 15, th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Stark County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028490/1881-08-25/ed-1/seq-7)
 
@@ -2338,7 +2338,7 @@ plication.15, The telephone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1881-08-29/ed-1/seq-4)
 
@@ -2364,7 +2364,7 @@ pons of tho world wide adoption, are:
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1881-09-07/ed-1/seq-1)
 
@@ -2389,7 +2389,7 @@ its practical application. 15. The com
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## FROM BOMBAY TO CAWNPORE BY TROOP TRAIN
 
@@ -2397,7 +2397,7 @@ its practical application. 15. The com
 
 #### 1881-09-24 &middot; London, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## American Ideas
 
@@ -2405,7 +2405,7 @@ its practical application. 15. The com
 
 #### 1881-10-08 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Union County courier._](https://chroniclingamerica.loc.gov/lccn/sn84022137/1881-11-16/ed-1/seq-1)
 
@@ -2440,7 +2440,7 @@ practical application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Canton advocate._](https://chroniclingamerica.loc.gov/lccn/sn83025440/1882-01-05/ed-1/seq-5)
 
@@ -2473,7 +2473,7 @@ shoes.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1882-10-12/ed-1/seq-4)
 
@@ -2500,7 +2500,7 @@ plication.I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1882-10-26/ed-1/seq-1)
 
@@ -2535,7 +2535,7 @@ practical application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5?page=3)
 
@@ -2558,7 +2558,7 @@ tical application. 15. The telephone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3?page=50)
 
@@ -2588,7 +2588,7 @@ chine for printers.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1885-04-23/ed-1/seq-4)
 
@@ -2624,7 +2624,7 @@ cal application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1885-04-23/ed-2/seq-4)
 
@@ -2653,7 +2653,7 @@ lal application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1886-04-13/ed-1/seq-1)
 
@@ -2678,7 +2678,7 @@ cation 15 The telephone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1887-07-26/ed-1/seq-4)
 
@@ -2701,7 +2701,7 @@ A Jackson. Mich., man owns the highes
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Popular Science
 
@@ -2709,7 +2709,7 @@ A Jackson. Mich., man owns the highes
 
 #### 1887-08-13 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1887-08-13_64_1665?page=10)
 
@@ -2731,7 +2731,7 @@ electric magnet and its practical application ; and
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1887-08-20/ed-1/seq-7)
 
@@ -2755,7 +2755,7 @@ its practical application; 15, the tele
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1887-08-24/ed-1/seq-1)
 
@@ -2779,7 +2779,7 @@ its practical application; 15, the tele
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1887-08-27/ed-1/seq-4)
 
@@ -2803,7 +2803,7 @@ its practical application; 15, the tele
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Bits of Science
 
@@ -2811,7 +2811,7 @@ its practical application; 15, the tele
 
 #### 1887-08-28 &middot; New Orleans, La.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Indianapolis journal._](https://chroniclingamerica.loc.gov/lccn/sn82015679/1887-08-29/ed-1/seq-4)
 
@@ -2833,7 +2833,7 @@ tical application; and, 15, the telephone
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## NATURE AND SCIENCE.
 
@@ -2841,7 +2841,7 @@ tical application; and, 15, the telephone
 
 #### 1887-09-03 &middot; Portsmouth, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1887-09-07_64_36?page=6)
 
@@ -2866,7 +2866,7 @@ phone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple News Items
 
@@ -2874,7 +2874,7 @@ phone.
 
 #### 1887-09-10 &middot; Atchison, Kan.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _American: A National Journal 1880-1900_](https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370?page=14)
 
@@ -2893,7 +2893,7 @@ electric magnet and its practical application ; and 15, the telephone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Atlanta constitution._](https://chroniclingamerica.loc.gov/lccn/sn89053706/1887-09-13/ed-1/seq-6)
 
@@ -2915,7 +2915,7 @@ magnet and its practical application; and,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1887-09-15/ed-1/seq-4)
 
@@ -2939,7 +2939,7 @@ its practical application; 15, the tele
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1887-09-15_58_37?page=6)
 
@@ -2961,7 +2961,7 @@ plication ; and 15, the telephone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1887-09-21/ed-1/seq-7)
 
@@ -2986,7 +2986,7 @@ its practical application, and 13, the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fort Worth daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn86064205/1887-09-22/ed-1/seq-3)
 
@@ -3020,7 +3020,7 @@ shoes
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1887-09-23/ed-1/seq-2)
 
@@ -3043,7 +3043,7 @@ net and Its practical application ; 15, lli
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1887-09-23/ed-1/seq-2)
 
@@ -3067,7 +3067,7 @@ electric magnet and ltspracticalapplieation
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Iowa County democrat._](https://chroniclingamerica.loc.gov/lccn/sn86086852/1887-09-23/ed-1/seq-4)
 
@@ -3096,7 +3096,7 @@ tical application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1887-09-24/ed-1/seq-6)
 
@@ -3118,7 +3118,7 @@ electric iiiugnet and its practical application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1887-09-29/ed-1/seq-4)
 
@@ -3147,7 +3147,7 @@ electric magnet au&#x27;d its practical application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1887-10-01/ed-1/seq-6)
 
@@ -3184,7 +3184,7 @@ practical application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1887-10-05/ed-1/seq-6)
 
@@ -3211,7 +3211,7 @@ its practical application, (15) the telephone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Savannah courier._](https://chroniclingamerica.loc.gov/lccn/sn89058248/1887-10-06/ed-1/seq-2)
 
@@ -3237,7 +3237,7 @@ its practical application; (lo) th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1887-10-07/ed-1/seq-2)
 
@@ -3273,7 +3273,7 @@ practical application.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ouachita telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85034336/1887-10-08/ed-1/seq-2)
 
@@ -3298,7 +3298,7 @@ t and its practical application; (15) th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple News Items
 
@@ -3306,7 +3306,7 @@ t and its practical application; (15) th
 
 #### 1887-10-08 &middot; Portage, Columbia County, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Bits of Science
 
@@ -3314,7 +3314,7 @@ t and its practical application; (15) th
 
 #### 1887-10-09 &middot; New Orleans, La.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1887-10-13/ed-1/seq-7)
 
@@ -3338,7 +3338,7 @@ net and its practical application; 15
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1887-10-13/ed-1/seq-1)
 
@@ -3363,7 +3363,7 @@ practical application, (15) the tele
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [N.S.W. Penny Postage.](http://trove.nla.gov.au/ndp/del/article/71090157)
 
@@ -3387,7 +3387,7 @@ olectrio magnet and its practical
 applicat
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1887-10-19/ed-1/seq-1)
 
@@ -3411,7 +3411,7 @@ net and its practical application; 1ft
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lebanon express._](https://chroniclingamerica.loc.gov/lccn/sn97071028/1887-10-21/ed-1/seq-1)
 
@@ -3435,7 +3435,7 @@ its practical application; 15, the tele
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Iowa plain dealer._](https://chroniclingamerica.loc.gov/lccn/sn83025167/1887-10-27/ed-1/seq-1)
 
@@ -3459,7 +3459,7 @@ not and Its practical application 15
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kimball graphic._](https://chroniclingamerica.loc.gov/lccn/sn99068076/1887-10-28/ed-1/seq-4)
 
@@ -3489,7 +3489,7 @@ FARM AND HOUSEHOLD.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1887-10-29/ed-1/seq-4)
 
@@ -3513,7 +3513,7 @@ net and its practical application; 15
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1887-10-30/ed-1/seq-15)
 
@@ -3541,7 +3541,7 @@ THE POPE&#x27;S SECLUSION
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Custer chronicle._](https://chroniclingamerica.loc.gov/lccn/sn97065762/1887-11-05/ed-1/seq-3)
 
@@ -3567,7 +3567,7 @@ phone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Clifton clarion._](https://chroniclingamerica.loc.gov/lccn/sn94050557/1887-11-09/ed-1/seq-1)
 
@@ -3593,7 +3593,7 @@ it3 practical application; 15, th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Scientific Items.](http://trove.nla.gov.au/ndp/del/article/165222803)
 
@@ -3616,7 +3616,7 @@ artificial icemakinp on a large scale ;_
 practical application; 15, th
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-11-30/ed-1/seq-1)
 
@@ -3640,7 +3640,7 @@ net and its plait i Ml application: l&quot;t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1887-12-08/ed-1/seq-1)
 
@@ -3660,7 +3660,7 @@ net anid its&#x27; practical&#x27; application; 1
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Semi-weekly interior journal._](https://chroniclingamerica.loc.gov/lccn/sn85052020/1887-12-13/ed-1/seq-4)
 
@@ -3686,7 +3686,7 @@ and its practical applictUon, and 15
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Morris tribune._](https://chroniclingamerica.loc.gov/lccn/sn91059394/1887-12-14/ed-1/seq-3)
 
@@ -3711,7 +3711,7 @@ magnet aud its practical application-
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Morris tribune._](https://chroniclingamerica.loc.gov/lccn/sn91059394/1887-12-14/ed-1/seq-4)
 
@@ -3736,7 +3736,7 @@ magnet and its practical application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1887-12-16/ed-1/seq-1)
 
@@ -3763,7 +3763,7 @@ Tiik Central Committee of the pro
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Needles. "Short Sharp, Shiny."](http://trove.nla.gov.au/ndp/del/article/92866555)
 
@@ -3786,7 +3786,7 @@ scale ; 14. The e&#x27;eciiic msgntt aiid its
 practical application; 15. Th
 </td></tr></table>
 
-<hr />
+---
 
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/36424010)
 
@@ -3811,7 +3811,7 @@ electric magnet and its practical
 application; 15. He telephone
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-01-13/ed-1/seq-6)
 
@@ -3842,7 +3842,7 @@ application 15, the teleplaone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lake Charles commercial._](https://chroniclingamerica.loc.gov/lccn/2013271051/1888-01-14/ed-1/seq-3)
 
@@ -3868,7 +3868,7 @@ net and its practical application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Pastoral News, Stock Movements, and Markets.](http://trove.nla.gov.au/ndp/del/article/18959533)
 
@@ -3892,7 +3892,7 @@ artifical ice-making on a large scale ;
 practical application; 15, th
 </td></tr></table>
 
-<hr />
+---
 
 ## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/72882356)
 
@@ -3916,7 +3916,7 @@ artificial ice-making on a large scale;
 p&#x27;ra?tical appli?ition; and 5ll th
 </td></tr></table>
 
-<hr />
+---
 
 ## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/140554537)
 
@@ -3940,7 +3940,7 @@ clccrtic magnet and its practical
 application; and 15, the telephone. Th
 </td></tr></table>
 
-<hr />
+---
 
 ## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/167930706)
 
@@ -3964,7 +3964,7 @@ scaie;.14, tho elecrtio magnet and its
 practical application; and 13, tli
 </td></tr></table>
 
-<hr />
+---
 
 ## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/108343802)
 
@@ -3987,7 +3987,7 @@ large scale; 14, the eleertic magnet and
 its practical application : and 13, th
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1888-03-30/ed-1/seq-3)
 
@@ -4011,7 +4011,7 @@ j not and its practical application; 15
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Magnolia gazette._](https://chroniclingamerica.loc.gov/lccn/sn85034447/1888-04-28/ed-1/seq-1)
 
@@ -4038,7 +4038,7 @@ net and its practical application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/77500303)
 
@@ -4062,7 +4062,7 @@ elecrtic magnet and its practical
 application ; and 15, the telephone. Th
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Industry Week 1880-2016_](https://iiif.archivelab.org/iiif/sim_industry-week_1888-05-03_21_19?page=10)
 
@@ -4084,7 +4084,7 @@ tion; 15, the telephone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [SCIENCE AND INVENTION.](http://trove.nla.gov.au/ndp/del/article/88550068)
 
@@ -4109,7 +4109,7 @@ application; 1.1, the telephone. So
 pleased is the lvnpcror Francis Josep
 </td></tr></table>
 
-<hr />
+---
 
 ## [PROPOSED UNION OF TASMANIA TO VICTORIA.](http://trove.nla.gov.au/ndp/del/article/58464749)
 
@@ -4134,7 +4134,7 @@ electric, magnet and its
 practical&#x27;application ; and, 15, th
 </td></tr></table>
 
-<hr />
+---
 
 ## General Intelligence
 
@@ -4142,7 +4142,7 @@ practical&#x27;application ; and, 15, th
 
 #### 1888-08-29 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Arizona silver belt._](https://chroniclingamerica.loc.gov/lccn/sn84021913/1888-09-29/ed-1/seq-4)
 
@@ -4167,7 +4167,7 @@ Tho gauge lathe 12 Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Omaha daily bee._](https://chroniclingamerica.loc.gov/lccn/sn99021999/1888-09-30/ed-1/seq-12)
 
@@ -4192,7 +4192,7 @@ cation. 15. The telephone
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1888-10-04_59_40?page=7)
 
@@ -4215,7 +4215,7 @@ application; 16, The telephone.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1888-10-31/ed-1/seq-3)
 
@@ -4238,7 +4238,7 @@ electric magnet and its
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Fairfield news and herald._](https://chroniclingamerica.loc.gov/lccn/2012218613/1888-10-31/ed-1/seq-4)
 
@@ -4267,7 +4267,7 @@ application
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1888-11-14/ed-1/seq-2)
 
@@ -4292,7 +4292,7 @@ practical application 15, The tele
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1888-11-30/ed-1/seq-4)
 
@@ -4317,7 +4317,7 @@ and its practical application; 15, Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democrat._](https://chroniclingamerica.loc.gov/lccn/sn92073907/1889-01-03/ed-1/seq-4)
 
@@ -4341,7 +4341,7 @@ net and its practical application ; 15
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wheeling Sunday register._](https://chroniclingamerica.loc.gov/lccn/sn86092523/1889-01-06/ed-1/seq-3)
 
@@ -4366,7 +4366,7 @@ Congressman Ford says of the work o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Great American Inventions
 
@@ -4374,7 +4374,7 @@ Congressman Ford says of the work o
 
 #### 1889-01-06 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [POPULAR SCIENCE.](http://trove.nla.gov.au/ndp/del/article/109493060)
 
@@ -4398,7 +4398,7 @@ Artificial icemaking on a large scale ;
 practical application; 15. Th
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Baxter Springs news._](https://chroniclingamerica.loc.gov/lccn/sn83040592/1891-01-17/ed-1/seq-7)
 
@@ -4424,7 +4424,7 @@ The Sterling, (TUee county, KaasaB
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Indian chieftain._](https://chroniclingamerica.loc.gov/lccn/sn83025010/1891-01-22/ed-1/seq-4)
 
@@ -4449,5 +4449,5 @@ net and its practical application; IS, th
 </td>
 </tr></table>
 
-<hr />
+---
 

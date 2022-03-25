@@ -1,7 +1,7 @@
 
 # Hawthorne Truly Says
 
-### 90 reprints from 1897-04-09 to 1898-07-21 [cl16]
+### 90 reprints from 1897-04-08 to 1898-07-21
 
 ## [Hawthorne Truly Says](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-09/ed-1/seq-8/)
 
@@ -15,7 +15,7 @@ These railroads are positively the greatest blessings that the ages have wrought
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-08/ed-1/seq-2)
 
@@ -47,7 +47,7 @@ P. A., A. T. &amp;. S. F. Ry., Topeka, Kan.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-09/ed-1/seq-8)
 
@@ -89,7 +89,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Topeka state journal._](https://chroniclingamerica.loc.gov/lccn/sn82016014/1897-04-10/ed-1/seq-8)
 
@@ -128,7 +128,7 @@ P. A., A. T. &amp; S. F. Ry Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-10/ed-1/seq-8)
 
@@ -166,7 +166,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Ivan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-13/ed-1/seq-8)
 
@@ -198,7 +198,7 @@ flesenptive literature. W. J. Black, G.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-14/ed-1/seq-8)
 
@@ -230,7 +230,7 @@ P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Topeka state journal._](https://chroniclingamerica.loc.gov/lccn/sn82016014/1897-04-15/ed-1/seq-1)
 
@@ -268,7 +268,7 @@ P. A. T. &amp; S. F. Ry., Topeka, Kan.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-15/ed-1/seq-8)
 
@@ -300,7 +300,7 @@ P. A. A. T. &amp; S. F. Ry.. Topka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-16/ed-1/seq-8)
 
@@ -332,7 +332,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-17/ed-1/seq-8)
 
@@ -364,7 +364,7 @@ P A., A. T. Sz S. F. Ry.. Topek. Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Topeka state journal._](https://chroniclingamerica.loc.gov/lccn/sn82016014/1897-04-20/ed-1/seq-8)
 
@@ -402,7 +402,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-20/ed-1/seq-8)
 
@@ -434,7 +434,7 @@ P. A.. A. T. &amp; S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-21/ed-1/seq-8)
 
@@ -466,7 +466,7 @@ P. A., A. T. &amp; S. F. Ry.. Topeka. Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-04-22/ed-1/seq-8)
 
@@ -505,7 +505,7 @@ P.-A., A. T. &amp; S. F. Ky., Tppeja Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-22/ed-1/seq-8)
 
@@ -537,7 +537,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-23/ed-1/seq-8)
 
@@ -569,7 +569,7 @@ P. A.. A. T. &amp; S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-24/ed-1/seq-8)
 
@@ -601,7 +601,7 @@ P. -V. A. T. &amp; S. F. Ry.. Topeka. Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-25/ed-1/seq-10)
 
@@ -633,7 +633,7 @@ P. A., A.;y. &amp; S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-27/ed-1/seq-8)
 
@@ -666,7 +666,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-28/ed-1/seq-8)
 
@@ -698,7 +698,7 @@ P. A., A. T. &amp; S. F. Ry Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-04-29/ed-1/seq-8)
 
@@ -747,7 +747,7 @@ P. A.. A. T. &amp; S. F. Ky.. Topeka. Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-29/ed-1/seq-8)
 
@@ -779,7 +779,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-30/ed-1/seq-8)
 
@@ -811,7 +811,7 @@ P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-01/ed-1/seq-8)
 
@@ -843,7 +843,7 @@ P. A, A. T. &amp;. S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-04/ed-1/seq-8)
 
@@ -875,7 +875,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-05/ed-1/seq-8)
 
@@ -907,7 +907,7 @@ P. A, A. T. &amp;. S. F. Ry.. Topeka. Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-05-06/ed-1/seq-1)
 
@@ -942,7 +942,7 @@ atw1m. Arises, and California. Fre
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-05-06/ed-1/seq-6)
 
@@ -991,7 +991,7 @@ Topeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-06/ed-1/seq-8)
 
@@ -1023,7 +1023,7 @@ P. A, A. T. &amp;S. F. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-07/ed-1/seq-8)
 
@@ -1055,7 +1055,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-08/ed-1/seq-8)
 
@@ -1087,7 +1087,7 @@ P. A, A. T. &amp; S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-09/ed-1/seq-10)
 
@@ -1130,7 +1130,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-11/ed-1/seq-8)
 
@@ -1162,7 +1162,7 @@ P. A, A T. &amp; S. P. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-12/ed-1/seq-8)
 
@@ -1194,7 +1194,7 @@ P- A-, A. T. ft S. F. Ry., Topeka. Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-05-13/ed-1/seq-1)
 
@@ -1224,7 +1224,7 @@ Maxtoes Arhwha, and Caltforaia.&#x27; Trs
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-05-13/ed-1/seq-6)
 
@@ -1265,7 +1265,7 @@ Tupeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-13/ed-1/seq-8)
 
@@ -1297,7 +1297,7 @@ P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-14/ed-1/seq-8)
 
@@ -1329,7 +1329,7 @@ P. A, A T. &amp; S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-15/ed-1/seq-8)
 
@@ -1361,7 +1361,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-18/ed-1/seq-8)
 
@@ -1393,7 +1393,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-19/ed-1/seq-8)
 
@@ -1425,7 +1425,7 @@ P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-05-20/ed-1/seq-1)
 
@@ -1458,7 +1458,7 @@ A
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-05-20/ed-1/seq-6)
 
@@ -1503,7 +1503,7 @@ Topeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-20/ed-1/seq-8)
 
@@ -1535,7 +1535,7 @@ P. A., A. T. &amp; S. F. Ry Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-21/ed-1/seq-8)
 
@@ -1568,7 +1568,7 @@ P. A., A. T. &amp; S. F. Ry.. Topeka, Xan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-22/ed-1/seq-8)
 
@@ -1600,7 +1600,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-25/ed-1/seq-8)
 
@@ -1632,7 +1632,7 @@ P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-26/ed-1/seq-8)
 
@@ -1670,7 +1670,7 @@ P. A., A. T. &amp; S. F. By., Topeka. Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-05-27/ed-1/seq-1)
 
@@ -1707,7 +1707,7 @@ P. A., A. T. &amp; S. F. Ky., Topeka, Kas,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-05-27/ed-1/seq-6)
 
@@ -1759,7 +1759,7 @@ Topeka, KaS
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-27/ed-1/seq-8)
 
@@ -1791,7 +1791,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-28/ed-1/seq-8)
 
@@ -1823,7 +1823,7 @@ P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-06-03/ed-1/seq-1)
 
@@ -1855,7 +1855,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-06-03/ed-1/seq-6)
 
@@ -1902,7 +1902,7 @@ Topeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-06-10/ed-1/seq-1)
 
@@ -1939,7 +1939,7 @@ P. A., A. T. ft S. F. Ry., Topeka, Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-06-10/ed-1/seq-6)
 
@@ -1992,7 +1992,7 @@ Topeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1897-06-11/ed-1/seq-3)
 
@@ -2026,7 +2026,7 @@ Topeka, Ka
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-06-17/ed-1/seq-1)
 
@@ -2058,7 +2058,7 @@ F. A., A. T. &amp; S. F. By., Topeka. Kas,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-06-17/ed-1/seq-3)
 
@@ -2092,7 +2092,7 @@ Topeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1897-06-18/ed-1/seq-3)
 
@@ -2126,7 +2126,7 @@ Topeka, Ka
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-06-24/ed-1/seq-1)
 
@@ -2164,7 +2164,7 @@ P. A., A. T. &amp; S. F. By., Topeka, Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-07-01/ed-1/seq-6)
 
@@ -2198,7 +2198,7 @@ Topeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-07-08/ed-1/seq-3)
 
@@ -2238,7 +2238,7 @@ Topeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-07-15/ed-1/seq-1)
 
@@ -2275,7 +2275,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-07-15/ed-1/seq-3)
 
@@ -2309,7 +2309,7 @@ Topeka, Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-07-22/ed-1/seq-1)
 
@@ -2346,7 +2346,7 @@ P. A.,-A. T. &amp; S. F. By., Topeka, Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-07-22/ed-1/seq-3)
 
@@ -2386,7 +2386,7 @@ Topeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-07-29/ed-1/seq-6)
 
@@ -2426,7 +2426,7 @@ Topeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-08-26/ed-1/seq-4)
 
@@ -2467,7 +2467,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-09-02/ed-1/seq-4)
 
@@ -2508,7 +2508,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-09-09/ed-1/seq-4)
 
@@ -2546,7 +2546,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-09-16/ed-1/seq-4)
 
@@ -2584,7 +2584,7 @@ P. A., A. T. 4 S. F. By., Tofeka, Kan.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-09-23/ed-1/seq-4)
 
@@ -2620,7 +2620,7 @@ P. A., A. T. &amp; S. F. Ry. , Topeka, Km.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-09-30/ed-1/seq-4)
 
@@ -2658,7 +2658,7 @@ P. A., A. T. &amp; S. F. By., Topeka, Ma
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-10-28/ed-1/seq-1)
 
@@ -2690,7 +2690,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-11-04/ed-1/seq-8)
 
@@ -2722,7 +2722,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-11-25/ed-1/seq-4)
 
@@ -2761,7 +2761,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-12-23/ed-1/seq-1)
 
@@ -2793,7 +2793,7 @@ P. A., A. T. &amp; S. F. Ky., Topeka. Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-12-30/ed-1/seq-1)
 
@@ -2835,7 +2835,7 @@ P. A., A. T. &amp; S. F. By., Topeka. Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-02-03/ed-1/seq-4)
 
@@ -2878,7 +2878,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-02-10/ed-1/seq-4)
 
@@ -2915,7 +2915,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-02-17/ed-1/seq-4)
 
@@ -2952,7 +2952,7 @@ P.&#x27;A., A. T. &amp; S. F. Ry., Topeka. Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-02-24/ed-1/seq-4)
 
@@ -2989,7 +2989,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-06-16/ed-1/seq-4)
 
@@ -3027,7 +3027,7 @@ P. A., A. T. it S. F. Ky., Topeka. Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-06-23/ed-1/seq-4)
 
@@ -3071,7 +3071,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-06-30/ed-1/seq-1)
 
@@ -3104,7 +3104,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-07-07/ed-1/seq-1)
 
@@ -3142,7 +3142,7 @@ P. A., A. T. &amp; S. F. Ky., Topeka. Kas
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-07-14/ed-1/seq-1)
 
@@ -3184,7 +3184,7 @@ T. &amp; S. F. Ry., Topeka. Kas.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-07-21/ed-1/seq-1)
 
@@ -3216,5 +3216,5 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas
 </td>
 </tr></table>
 
-<hr />
+---
 

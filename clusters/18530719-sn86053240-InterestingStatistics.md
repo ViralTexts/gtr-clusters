@@ -1,7 +1,7 @@
 
 # Interesting Statistics
 
-### 209 reprints from 1853-07-19 to 1898-03-19 [cl19]
+### 209 reprints from 1851-10-18 to 1898-03-19
 
 ## [Interesting Statistics](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-07-19/ed-1/seq-1/)
 
@@ -24,7 +24,7 @@ Some of these statements are rather singular, and yet many of them are susceptib
 
 </td></tr></table>
 
-<hr />
+---
 
 ## VARIETIES.
 
@@ -32,7 +32,7 @@ Some of these statements are rather singular, and yet many of them are susceptib
 
 #### 1851-10-18 &middot; Oxford, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Semi-weekly Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn93067976/1851-11-11/ed-1/seq-3)
 
@@ -49,7 +49,7 @@ in Africa, and 1264 in America. The numbe
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## WEEKLY COMPENDIUM.
 
@@ -57,7 +57,7 @@ in Africa, and 1264 in America. The numbe
 
 #### 1851-11-12 &middot; Aberdeen, Scotland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## THE GOSPEL HAS NOTHING TO DO WITH INFANTS.
 
@@ -65,7 +65,7 @@ in Africa, and 1264 in America. The numbe
 
 #### 1851-12-03 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [No Title](http://trove.nla.gov.au/ndp/del/article/36262587)
 
@@ -84,7 +84,7 @@ world 587 in Europe, 937 in Asia, 276 in
 Africa, and 1,264 in America. AUSTRALIA
 </td></tr></table>
 
-<hr />
+---
 
 ## [DOMESTIC INTELLIGENCE.](http://trove.nla.gov.au/ndp/del/article/4783660)
 
@@ -102,7 +102,7 @@ through-out tho world,-637 in Europe,
 America. The number of ma&#x27;cs is nearl
 </td></tr></table>
 
-<hr />
+---
 
 ## [British Extracts.](http://trove.nla.gov.au/ndp/del/article/670382)
 
@@ -119,7 +119,7 @@ in Asia, 276 in Africa, and 1264 in
 America. The number of males is nearl
 </td></tr></table>
 
-<hr />
+---
 
 ## Curious Statistics
 
@@ -127,7 +127,7 @@ America. The number of males is nearl
 
 #### 1853-03-01 &middot; San Francisco, Calif.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Rutland County herald._](https://chroniclingamerica.loc.gov/lccn/sn84022366/1853-05-14/ed-1/seq-1)
 
@@ -163,7 +163,7 @@ nuts, and of
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Selections
 
@@ -171,7 +171,7 @@ nuts, and of
 
 #### 1853-07-06 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1853-07-10/ed-1/seq-2)
 
@@ -231,7 +231,7 @@ ier garment* M&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1853-07-15/ed-1/seq-2)
 
@@ -257,7 +257,7 @@ IIS pot oi
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1853-07-15/ed-1/seq-2)
 
@@ -319,7 +319,7 @@ flannel under-garments. N. Y. Dutchman
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1853-07-16/ed-1/seq-2)
 
@@ -394,7 +394,7 @@ ue of flannel under-garments. A&quot;. Yor
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-07-19/ed-1/seq-1)
 
@@ -480,7 +480,7 @@ dergarments
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1853-07-23/ed-1/seq-3)
 
@@ -554,7 +554,7 @@ the market value of flannel undcr-garments.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-07-27/ed-1/seq-3)
 
@@ -604,7 +604,7 @@ frequently in June and December, than
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-07-27/ed-1/seq-3)
 
@@ -623,7 +623,7 @@ any
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-07-27/ed-1/seq-3)
 
@@ -642,7 +642,7 @@ so doubtless to guard against the chilly pillows tractors from time to time, &am
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-07-27/ed-1/seq-3)
 
@@ -663,7 +663,7 @@ the market value of flannel under-garments.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1853-08-03/ed-1/seq-5)
 
@@ -733,7 +733,7 @@ degree, by mixing plain mathematics with
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1853-08-06/ed-1/seq-1)
 
@@ -802,7 +802,7 @@ market value of flannel under-garments
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1853-08-10/ed-1/seq-2)
 
@@ -880,7 +880,7 @@ nel under garments.?JV. Y. Dutchman
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Woodville Republican, and Wilkinson advertiser._](https://chroniclingamerica.loc.gov/lccn/sn87065674/1853-08-23/ed-1/seq-1)
 
@@ -935,7 +935,7 @@ tadr frequently in Jane and we
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Weekly Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn93052117/1853-08-27/ed-1/seq-2)
 
@@ -1012,7 +1012,7 @@ of flannel under-garments.—N. Y. Dutch
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022165/1853-09-10/ed-1/seq-1)
 
@@ -1091,7 +1091,7 @@ flanuel under-garmeuto
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wisconsin tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086768/1853-09-15/ed-1/seq-1)
 
@@ -1168,7 +1168,7 @@ market value of flannel under garment
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1853-09-17/ed-1/seq-3)
 
@@ -1198,7 +1198,7 @@ to SO years of age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1853-09-23/ed-1/seq-1)
 
@@ -1230,7 +1230,7 @@ of age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1853-09-24/ed-1/seq-1)
 
@@ -1284,7 +1284,7 @@ Yellow Fever. The latest accounts t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Washington sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84020104/1853-09-28/ed-1/seq-2)
 
@@ -1331,7 +1331,7 @@ Births and deaths an more freqlicwt by n
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn83016866/1853-10-01/ed-1/seq-2)
 
@@ -1363,7 +1363,7 @@ of 66, and not more mu uuc
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1853-10-08/ed-1/seq-3)
 
@@ -1392,7 +1392,7 @@ than one in 5000 live to 80 years of age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1853-10-08/ed-1/seq-8)
 
@@ -1421,7 +1421,7 @@ live to it) years of age.&quot; 4
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1853-10-10/ed-1/seq-2)
 
@@ -1451,7 +1451,7 @@ reach the age ot 60, a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1853-10-10/ed-1/seq-4)
 
@@ -1480,7 +1480,7 @@ live to i 0 years of age.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1853-10-12/ed-1/seq-1)
 
@@ -1509,7 +1509,7 @@ than one in 50
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-10-19/ed-1/seq-3)
 
@@ -1561,7 +1561,7 @@ y |(K) only 7 reach the age of 66, and not&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-10-21/ed-1/seq-4)
 
@@ -1594,7 +1594,7 @@ one in 500 live to 90 years of age.?Ex
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1853-10-27/ed-1/seq-2)
 
@@ -1627,7 +1627,7 @@ age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Muscatine journal._](https://chroniclingamerica.loc.gov/lccn/sn88059754/1853-10-28/ed-1/seq-1)
 
@@ -1662,7 +1662,7 @@ To day, after forty years o* wedt-d life, persons only one reaches 10
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1853-11-03/ed-1/seq-2)
 
@@ -1689,7 +1689,7 @@ year
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1853-11-03/ed-1/seq-2)
 
@@ -1710,7 +1710,7 @@ age of 66 and not more thao one in river, all fully equipped for seUlsnsoct i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Minnesota pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83025241/1853-11-03/ed-1/seq-1)
 
@@ -1753,7 +1753,7 @@ and deaths are more frequent by
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1853-11-05/ed-1/seq-1)
 
@@ -1777,7 +1777,7 @@ fused lo one-
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-11-05_9_12?page=0)
 
@@ -1807,7 +1807,7 @@ if
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Port Gibson reveille._](https://chroniclingamerica.loc.gov/lccn/sn87090152/1853-11-30/ed-1/seq-1)
 
@@ -1856,7 +1856,7 @@ one-fourth of the population.— English Quar
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## General Summary
 
@@ -1864,7 +1864,7 @@ one-fourth of the population.— English Quar
 
 #### 1853-12-01 &middot; G.S.L. City, Deseret [i.e. Salt Lake City, Utah]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1853-12-07/ed-1/seq-1)
 
@@ -1887,7 +1887,7 @@ profess more than 1,000 different religion
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Butte record._](https://chroniclingamerica.loc.gov/lccn/sn93052998/1853-12-10/ed-1/seq-1)
 
@@ -1940,7 +1940,7 @@ population
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040305/1853-12-23/ed-1/seq-3)
 
@@ -1992,7 +1992,7 @@ culated at one-fourth the population.’
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Facts in Human Life
 
@@ -2000,7 +2000,7 @@ culated at one-fourth the population.’
 
 #### 1853-12-30 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Plymouth banner._](https://chroniclingamerica.loc.gov/lccn/sn87056241/1854-01-19/ed-1/seq-1)
 
@@ -2019,7 +2019,7 @@ his soul miy rest secure with respect to felicity refused to one hilf the human
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Plymouth banner._](https://chroniclingamerica.loc.gov/lccn/sn87056241/1854-01-19/ed-1/seq-1)
 
@@ -2052,7 +2052,7 @@ rie I are lonr l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1854-01-21/ed-2/seq-2)
 
@@ -2082,7 +2082,7 @@ of age
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Facts in Human Life
 
@@ -2090,7 +2090,7 @@ of age
 
 #### 1854-01-25 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## HOME INTELLIGENCE.
 
@@ -2098,7 +2098,7 @@ of age
 
 #### 1854-02-11 &middot; Ipswich, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1854-02-18_10_48?page=14)
 
@@ -2156,7 +2156,7 @@ more frequent after the equinoxes: that is during
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Miscellaneous.
 
@@ -2164,7 +2164,7 @@ more frequent after the equinoxes: that is during
 
 #### 1854-02-25 &middot; Bangor, Wales
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Miscellaneous.
 
@@ -2172,7 +2172,7 @@ more frequent after the equinoxes: that is during
 
 #### 1854-02-25 &middot; Bangor, Wales
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Miscellany
 
@@ -2180,7 +2180,7 @@ more frequent after the equinoxes: that is during
 
 #### 1854-02-28 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1854-03-09/ed-1/seq-1)
 
@@ -2218,7 +2218,7 @@ thru the single, and
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [LIST OF DONATION TO OUR MUSEUM. [?].](http://trove.nla.gov.au/ndp/del/article/59758381)
 
@@ -2271,7 +2271,7 @@ those b m in the spring nr generally
 more robust than others. Births 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Weekly Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn93052117/1854-04-22/ed-1/seq-4)
 
@@ -2326,7 +2326,7 @@ population
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Literary echo, and Pawcatuck advertiser._](https://chroniclingamerica.loc.gov/lccn/sn83021532/1854-04-27/ed-1/seq-2)
 
@@ -2381,7 +2381,7 @@ sAPVY S W e e e
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5?page=19)
 
@@ -2429,7 +2429,7 @@ population.— English Quarterly.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18?page=14)
 
@@ -2446,7 +2446,7 @@ America
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [DESTRUCTION OF A RHINOCEROS IN THE SOONDERBUNDS. (From an East Indian Correspondent.)](http://trove.nla.gov.au/ndp/del/article/12952038)
 
@@ -2486,7 +2486,7 @@ that is, during tho months of June and
 December. Those horn in sprin
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1854-05-17/ed-1/seq-1)
 
@@ -2541,7 +2541,7 @@ t at one-fourth of the popu-lation; though
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1854-05-24/ed-1/seq-1)
 
@@ -2574,7 +2574,7 @@ losses are about balanced by a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Port Gibson reveille._](https://chroniclingamerica.loc.gov/lccn/sn87090152/1854-05-31/ed-1/seq-1)
 
@@ -2620,7 +2620,7 @@ of ca i cu latcd at one-fourtl, of the population
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1854-05-31/ed-1/seq-1)
 
@@ -2656,7 +2656,7 @@ equinoxes; that is, during tho months of Juno
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## INGENUITY OF SCIENCE.
 
@@ -2664,7 +2664,7 @@ equinoxes; that is, during tho months of Juno
 
 #### 1854-05-31 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [COURT OF COMMON PLEAS.—FEBRUARY 22.](http://trove.nla.gov.au/ndp/del/article/12953755)
 
@@ -2710,7 +2710,7 @@ capable of bearing arms is calculated at
 one-fourth the population.-Englis
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1854-06-10/ed-1/seq-1)
 
@@ -2757,7 +2757,7 @@ tion.—English Review.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1854-06-10/ed-1/seq-4)
 
@@ -2798,7 +2798,7 @@ months of Jun
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [ENGLISH EXTRACTS. WHAT ATROCITY NEXT? From the Daily News, March 8.](http://trove.nla.gov.au/ndp/del/article/2248553)
 
@@ -2845,7 +2845,7 @@ calculated at one-fourth tho population.
 Society.-The papers of 23rd February 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Yazoo Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87065704/1854-06-21/ed-1/seq-3)
 
@@ -2891,7 +2891,7 @@ noxes; thj is, during the months of Jun
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [LOCAL INTELLIGENCE.](http://trove.nla.gov.au/ndp/del/article/65715254)
 
@@ -2946,7 +2946,7 @@ capable of bearing arms is calculated at
 one-fourth of the population. — Englis
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1854-07-05/ed-1/seq-2)
 
@@ -2991,7 +2991,7 @@ is calculated at one-fourth of the population
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1854-07-05/ed-1/seq-2)
 
@@ -3031,7 +3031,7 @@ of June a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1854-07-15/ed-1/seq-1)
 
@@ -3072,7 +3072,7 @@ one-fourth of the population.—English Quar
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1854-07-22/ed-1/seq-3)
 
@@ -3104,7 +3104,7 @@ is, during the months of June an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Facts in Human Life
 
@@ -3112,7 +3112,7 @@ is, during the months of June an
 
 #### 1854-07-27 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [Miscellaneous.](http://trove.nla.gov.au/ndp/del/article/3175426)
 
@@ -3158,7 +3158,7 @@ capable of bearing arms is calculated at
 one-fourth the population.Englis
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1854-08-26/ed-1/seq-2)
 
@@ -3207,7 +3207,7 @@ man were in London, they were invited by th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1854-09-14/ed-1/seq-1)
 
@@ -3230,7 +3230,7 @@ on earth 1,000.000,000 inhabitants ; an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040305/1854-09-29/ed-1/seq-1)
 
@@ -3279,7 +3279,7 @@ nigh
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1854-10-12/ed-1/seq-1)
 
@@ -3311,7 +3311,7 @@ dred Vf:ns nf nrro f n pvwrv 1 Of) nri.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1854-10-12/ed-1/seq-1)
 
@@ -3340,7 +3340,7 @@ post-ollioe in Liau County, Iowa.- b;aHze inDecemberdo so, doubtless, w. ojhl -J
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1854-11-04/ed-1/seq-4)
 
@@ -3379,7 +3379,7 @@ diii
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Fashion and Varieties.
 
@@ -3387,7 +3387,7 @@ diii
 
 #### 1854-11-29 &middot; Belfast, Ireland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1854-12_31_6?page=98)
 
@@ -3416,7 +3416,7 @@ equinoxes—that is, during the months of June an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [WHY NO NEW MATERIALS ARE USED IN PAPER MAKING IN ENGLAND. [To the Editor of the Daily News.]](http://trove.nla.gov.au/ndp/del/article/49306502)
 
@@ -3464,7 +3464,7 @@ number of men capable of bearing arms is
 calculated at one fourth the population
 </td></tr></table>
 
-<hr />
+---
 
 ## MISCELLANEOUS.
 
@@ -3472,7 +3472,7 @@ calculated at one fourth the population
 
 #### 1855-01-15 &middot; Glasgow, Scotland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Washington sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84020104/1855-02-04/ed-1/seq-2)
 
@@ -3542,7 +3542,7 @@ nnder garments.?National Monitor
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1855-02-07/ed-1/seq-1)
 
@@ -3587,7 +3587,7 @@ born in the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1855-02-16/ed-1/seq-1)
 
@@ -3654,7 +3654,7 @@ maikel value of flannel under garments
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1855-03-16/ed-1/seq-2)
 
@@ -3678,7 +3678,7 @@ years vf age. There uroon earth 1,000,000,- !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [THE DEFINITION OF THE IMMACULATE CONCEPTION.](http://trove.nla.gov.au/ndp/del/article/115554359)
 
@@ -3705,7 +3705,7 @@ as;e. There are on the earth
 1,000,000,000 inhabitants
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1855-04-18/ed-1/seq-1)
 
@@ -3763,7 +3763,7 @@ one etghth the population &#x27; &#x27; a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Monongalia mirror._](https://chroniclingamerica.loc.gov/lccn/sn86092163/1855-05-05/ed-1/seq-1)
 
@@ -3841,7 +3841,7 @@ ket value of flannel under garments.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [British Extracts. LETTERS FROM THE CRIMEA.](http://trove.nla.gov.au/ndp/del/article/701218)
 
@@ -3891,7 +3891,7 @@ Births and deaths are most frequent by
 night. The number o
 </td></tr></table>
 
-<hr />
+---
 
 ## [No Title](http://trove.nla.gov.au/ndp/del/article/36292639)
 
@@ -3935,7 +3935,7 @@ duringtht hglth o Jii Ihui D??-Q-&quot; bar.
 ThosoU born in the spri
 </td></tr></table>
 
-<hr />
+---
 
 ## [Miscellaneous Extracts.](http://trove.nla.gov.au/ndp/del/article/59760254)
 
@@ -3973,7 +3973,7 @@ most frequent after tho equinoxes; that,
 i?,diiringtheincntltsof.Junfcn
 </td></tr></table>
 
-<hr />
+---
 
 ## [UNITED STATES. COMMERCIAL INTELLIGENCE.](http://trove.nla.gov.au/ndp/del/article/158103844)
 
@@ -4022,7 +4022,7 @@ tire most robust. Births and deaths are
 most frequent by night. The number o
 </td></tr></table>
 
-<hr />
+---
 
 ## [SCAB IN SHEEP. TO THE EDITOR OF THE REGISTER.](http://trove.nla.gov.au/ndp/del/article/49308631)
 
@@ -4067,7 +4067,7 @@ is more frequent after the equinoxes—
 that is, during the months of Jane an
 </td></tr></table>
 
-<hr />
+---
 
 ## MISCELLANEA.
 
@@ -4075,7 +4075,7 @@ that is, during the months of Jane an
 
 #### 1855-06-07 &middot; Exeter, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [BRANDY AND BITTERS.](http://trove.nla.gov.au/ndp/del/article/91870894)
 
@@ -4121,7 +4121,7 @@ capable of bearing arms is calculated
 `at ones fourth of the population. :
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1855-06-09/ed-1/seq-4)
 
@@ -4139,7 +4139,7 @@ one for every second
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26?page=9)
 
@@ -4174,7 +4174,7 @@ The number o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the Times; A Chronicle of the Turf, Agriculture, Field Sports, Literature and the Stage (1835-1861)_](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23?page=7)
 
@@ -4199,7 +4199,7 @@ pred gee br Ag progres 100 years of life: to every 100, only p
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Facts in human Life.](http://trove.nla.gov.au/ndp/del/article/66005609)
 
@@ -4244,7 +4244,7 @@ bearing arms is calculated at one-fourth
 of the population
 </td></tr></table>
 
-<hr />
+---
 
 ## FACTS WORTH NOTING.
 
@@ -4252,7 +4252,7 @@ of the population
 
 #### 1856-02-07 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Minnesota weekly times._](https://chroniclingamerica.loc.gov/lccn/sn85025594/1856-02-23/ed-1/seq-2)
 
@@ -4289,7 +4289,7 @@ to every 1000 individuals. Those born in sprin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Metropolitan; A Monthly Magazine Devoted to Religion, Education, Literature, and General Information 1853-1859_](https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2?page=42)
 
@@ -4332,7 +4332,7 @@ most frequent by night. The number o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1856-04-24/ed-1/seq-1)
 
@@ -4366,7 +4366,7 @@ and above all those w ho observe a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1856-07-12/ed-1/seq-1)
 
@@ -4395,7 +4395,7 @@ one-half before reaching 17. Ofeverv &#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1856-08-07/ed-1/seq-1)
 
@@ -4435,7 +4435,7 @@ Women
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1857-03-22/ed-1/seq-2)
 
@@ -4482,7 +4482,7 @@ lation
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1857-05-02/ed-1/seq-1)
 
@@ -4523,7 +4523,7 @@ after Iho equinoxes—that is during the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1857-05-07/ed-1/seq-1)
 
@@ -4562,7 +4562,7 @@ born in the spring are
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [HOME AND FOREIGN EXTRACTS. EXTRAORDINARY EXPERIMENT ON A CHILD.](http://trove.nla.gov.au/ndp/del/article/128760833)
 
@@ -4582,7 +4582,7 @@ half ol tbe huaiau species. Of 1 every
 10D0 person&#x27;, only one person reache
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1857-09-03/ed-1/seq-2)
 
@@ -4631,7 +4631,7 @@ calculated at one fourth of the population, j
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [SELECT PICKINGS.](http://trove.nla.gov.au/ndp/del/article/59867230)
 
@@ -4656,7 +4656,7 @@ months of .lune and Decemhor. Those born
 in 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1857-09-10/ed-1/seq-1)
 
@@ -4711,7 +4711,7 @@ burth of the population
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [[?] AND THE LAW [?] LIBEL.](http://trove.nla.gov.au/ndp/del/article/128762208)
 
@@ -4735,7 +4735,7 @@ lives to eiphty yeifrs of nge. There are
 on earth 1,000.000,000 
 </td></tr></table>
 
-<hr />
+---
 
 ## News of the Week.
 
@@ -4743,7 +4743,7 @@ on earth 1,000.000,000
 
 #### 1858-03-31 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1858-06-02/ed-1/seq-2)
 
@@ -4770,7 +4770,7 @@ and industrious
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1858-12-15/ed-1/seq-4)
 
@@ -4795,7 +4795,7 @@ live longer than s
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Many Facts in Small Compass
 
@@ -4803,7 +4803,7 @@ live longer than s
 
 #### 1859-04-15 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [THE WAR. (From the Times.)](http://trove.nla.gov.au/ndp/del/article/13027804)
 
@@ -4830,7 +4830,7 @@ die every day, 3805 every hour, and 63
 per minute, which is more than one ever
 </td></tr></table>
 
-<hr />
+---
 
 ## FAMILY BIBLE CLASS.
 
@@ -4838,7 +4838,7 @@ per minute, which is more than one ever
 
 #### 1859-11-17 &middot; Louisville
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1860-08-02/ed-1/seq-1)
 
@@ -4862,7 +4862,7 @@ conduct. Tall men live long
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Miscellaneous Articles
 
@@ -4870,7 +4870,7 @@ conduct. Tall men live long
 
 #### 1860-08-08 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Many Facts in a Small Compass
 
@@ -4878,7 +4878,7 @@ conduct. Tall men live long
 
 #### 1860-09-10 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Many Facts in Small Compass
 
@@ -4886,7 +4886,7 @@ conduct. Tall men live long
 
 #### 1862-11-22 &middot; Atchison City [i.e. Atchison] Kan.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1866-11-20/ed-1/seq-1)
 
@@ -4933,7 +4933,7 @@ Our neighboring little city of Cynthian
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1866-11-24/ed-1/seq-4)
 
@@ -4955,7 +4955,7 @@ years of lire; to everyone hundred onl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1866-11-29/ed-1/seq-1)
 
@@ -4984,7 +4984,7 @@ leariDg arms is calculated at one-fourth of
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## FACTS IN HUMAN LIFE.
 
@@ -4992,7 +4992,7 @@ leariDg arms is calculated at one-fourth of
 
 #### 1866-12-01 &middot; Cleveland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1867-01-15/ed-1/seq-1)
 
@@ -5037,7 +5037,7 @@ a store and examine all the pretty articles ex
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The tri-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn85042146/1867-02-19/ed-1/seq-2)
 
@@ -5081,7 +5081,7 @@ Home Journal
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1867-08-24/ed-1/seq-2)
 
@@ -5110,7 +5110,7 @@ The number of men is about equal t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## LITERARY MISCELLANEA.
 
@@ -5118,7 +5118,7 @@ The number of men is about equal t
 
 #### 1869-03-07 &middot; London, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## THE FARMER'S JOURNAL.
 
@@ -5126,7 +5126,7 @@ The number of men is about equal t
 
 #### 1871-02-01 &middot; Exeter, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [THE MOUNT MUIRHEAD AREA.](http://trove.nla.gov.au/ndp/del/article/39250256)
 
@@ -5157,7 +5157,7 @@ of births. The married are longer lived
 than the single, and, above 
 </td></tr></table>
 
-<hr />
+---
 
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/159530405)
 
@@ -5189,7 +5189,7 @@ married are longer lived than the
 single, and, above 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1871-05-25/ed-1/seq-1)
 
@@ -5237,7 +5237,7 @@ culated at one fourth of the population
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1871-05-26/ed-1/seq-1)
 
@@ -5279,7 +5279,7 @@ quent by
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Daily state register._](https://chroniclingamerica.loc.gov/lccn/sn84020345/1871-07-11/ed-1/seq-1)
 
@@ -5322,7 +5322,7 @@ and deaths are more frequentl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1871-07-13/ed-1/seq-1)
 
@@ -5367,7 +5367,7 @@ that is, duriug the months o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## IMPERIAL PARLIAMENT.
 
@@ -5375,7 +5375,7 @@ that is, duriug the months o
 
 #### 1871-07-29 &middot; Ipswich, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Oregon Republican._](https://chroniclingamerica.loc.gov/lccn/sn93051636/1871-08-19/ed-1/seq-4)
 
@@ -5407,7 +5407,7 @@ population
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Facts in Human Life
 
@@ -5415,7 +5415,7 @@ population
 
 #### 1871-08-23 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1871-10-18/ed-1/seq-4)
 
@@ -5462,7 +5462,7 @@ How the Factory Helps the Farm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Semi-weekly Louisianian._](https://chroniclingamerica.loc.gov/lccn/sn83016631/1871-10-19/ed-1/seq-1)
 
@@ -5494,7 +5494,7 @@ minute, or one every second. Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1871-10-21/ed-2/seq-2)
 
@@ -5532,7 +5532,7 @@ e culated at one-fourth of the population
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1871-11-10/ed-1/seq-1)
 
@@ -5560,7 +5560,7 @@ live3 to 80 years of age. Ther
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-11-16/ed-1/seq-1)
 
@@ -5603,7 +5603,7 @@ during tlie months of June and
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1871-11-27/ed-1/seq-2)
 
@@ -5632,7 +5632,7 @@ second. The married are longer-live
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Every Saturday: A Journal of Choice Reading (1866-1874)_](https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101?page=10)
 
@@ -5653,7 +5653,7 @@ every one hundred, only six reach the age o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Every Saturday: A Journal of Choice Reading (1866-1874)_](https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101?page=10)
 
@@ -5676,7 +5676,7 @@ tion.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1871-12-27/ed-1/seq-1)
 
@@ -5700,7 +5700,7 @@ the age of sixty-five; and not mor
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1872-02-17/ed-1/seq-1)
 
@@ -5729,7 +5729,7 @@ losses are about balanced by an equ
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1872-04-04/ed-1/seq-2)
 
@@ -5752,7 +5752,7 @@ onlv six reaches the age of sixty fiv
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1873-03-20/ed-1/seq-1)
 
@@ -5781,7 +5781,7 @@ married are longer lived than th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1873-06-24/ed-2/seq-3)
 
@@ -5810,7 +5810,7 @@ ond. The married are longer. lived tha
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1879-04-26/ed-1/seq-1)
 
@@ -5863,7 +5863,7 @@ ted at one fourth of the population.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Silver state._](https://chroniclingamerica.loc.gov/lccn/sn84022060/1879-06-25/ed-1/seq-3)
 
@@ -5889,7 +5889,7 @@ more than 1,000 different religions.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/110377222)
 
@@ -5914,7 +5914,7 @@ all, those who observe sober and
 industrious conduct
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1883-01-03/ed-1/seq-3)
 
@@ -5943,7 +5943,7 @@ than men have, but fewer afterward. Person
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1883-01-18/ed-1/seq-6)
 
@@ -5966,7 +5966,7 @@ thun ono in OOO lives to eighty years. O
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The clarion._](https://chroniclingamerica.loc.gov/lccn/sn83016925/1883-01-24/ed-1/seq-3)
 
@@ -6006,7 +6006,7 @@ but fewer afterward. Persons who are
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ballou's Monthly Magazine (1866-1893)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6?page=76)
 
@@ -6047,7 +6047,7 @@ calculated at one-fourth of the population.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [No title](http://trove.nla.gov.au/ndp/del/article/149496576)
 
@@ -6095,7 +6095,7 @@ capable of bearing arms is calculated at
 one-fourth of the population. Tk
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1888-12-29/ed-1/seq-1)
 
@@ -6134,7 +6134,7 @@ others. Births are more frequent by
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The World's Population
 
@@ -6142,7 +6142,7 @@ others. Births are more frequent by
 
 #### 1888-12-29 &middot; Portage, Columbia County, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Facts in Human Life
 
@@ -6150,7 +6150,7 @@ others. Births are more frequent by
 
 #### 1889-01-08 &middot; Portland, Or.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1889-01-17/ed-1/seq-8)
 
@@ -6183,7 +6183,7 @@ frequent by ni
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1889-01-17_39_3?page=30)
 
@@ -6223,7 +6223,7 @@ Births are more frequent by
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1889-01-31/ed-1/seq-2)
 
@@ -6256,7 +6256,7 @@ than others. Births are more frequent
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Thomas County cat._](https://chroniclingamerica.loc.gov/lccn/sn85032814/1889-03-07/ed-1/seq-6)
 
@@ -6293,7 +6293,7 @@ tian Union
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1889-03-29/ed-1/seq-3)
 
@@ -6330,7 +6330,7 @@ tfan Union
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Longevity
 
@@ -6338,7 +6338,7 @@ tfan Union
 
 #### 1889-04-17 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## One Dies Every Second
 
@@ -6346,7 +6346,7 @@ tfan Union
 
 #### 1889-05-23 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1889-05-29/ed-1/seq-1)
 
@@ -6371,7 +6371,7 @@ the single, mid, above nil, those wh
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [MOTHER EARTH.](http://trove.nla.gov.au/ndp/del/article/58466856)
 
@@ -6393,7 +6393,7 @@ every hour, and 60 every minute, or 1
 every second. The married are longe
 </td></tr></table>
 
-<hr />
+---
 
 ## [FACTS ABOUT HUMAN LIFE.](http://trove.nla.gov.au/ndp/del/article/132638357)
 
@@ -6412,7 +6412,7 @@ day, .3,730 every hour, 60 every minute;
 or 1 every second. The married ar
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Telegraph-courier._](https://chroniclingamerica.loc.gov/lccn/sn85040310/1891-01-29/ed-1/seq-3)
 
@@ -6451,7 +6451,7 @@ ers. Births are more frequent by
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Maryland independent._](https://chroniclingamerica.loc.gov/lccn/sn85025407/1891-03-20/ed-1/seq-3)
 
@@ -6488,7 +6488,7 @@ during the months of June
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [CONCENTRATES.](http://trove.nla.gov.au/ndp/del/article/44067664)
 
@@ -6507,7 +6507,7 @@ enjoy a felicity refused to one half of
 the human species, and cannot be to
 </td></tr></table>
 
-<hr />
+---
 
 ## [Football.](http://trove.nla.gov.au/ndp/del/article/44067722)
 
@@ -6526,7 +6526,7 @@ refused to one half of the human
 species, and cannot be too careful o
 </td></tr></table>
 
-<hr />
+---
 
 ## [FACTS IN HUMAN LIFE.](http://trove.nla.gov.au/ndp/del/article/77074176)
 
@@ -6552,7 +6552,7 @@ Births and deaths are more frequent at
 n
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1896-12-02/ed-1/seq-6)
 
@@ -6579,7 +6579,7 @@ night than by day. The number of me
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Gleanings
 
@@ -6587,7 +6587,7 @@ night than by day. The number of me
 
 #### 1897-06-14 &middot; Atchison, Kan.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Bridgeton pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87068192/1897-07-22/ed-1/seq-4)
 
@@ -6604,7 +6604,7 @@ Africa and 1,264 in America
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Norfolk Virginian._](https://chroniclingamerica.loc.gov/lccn/sn85025715/1897-10-03/ed-1/seq-12)
 
@@ -6628,7 +6628,7 @@ Inhabitants, and of these 8
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/61320396)
 
@@ -6654,7 +6654,7 @@ every day, 3730 every hour, and CO every
 minute, or on« «very second. THE TE
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1897-10-27/ed-1/seq-1)
 
@@ -6676,7 +6676,7 @@ Thero are on earth 1,000,000,000 i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1897-10-27/ed-2/seq-1)
 
@@ -6701,7 +6701,7 @@ and 60 every minute, or 1 every second
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [THE LATE JUDGE WINDEYER.](http://trove.nla.gov.au/ndp/del/article/44200295)
 
@@ -6728,7 +6728,7 @@ hour, and GO every minute, or 1 every
 second. Scenes from Shakespeare a
 </td></tr></table>
 
-<hr />
+---
 
 ## [Smoke-Ho.](http://trove.nla.gov.au/ndp/del/article/70931433)
 
@@ -6755,7 +6755,7 @@ day, 3730 every hour, and GO every
 minute, or 1 every second
 </td></tr></table>
 
-<hr />
+---
 
 ## [Needles. "Short, Sharp, Shiny."](http://trove.nla.gov.au/ndp/del/article/87764851)
 
@@ -6782,7 +6782,7 @@ every hour, and 60 every minute, or 1
 every second. Tho railway revenue fo
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Dakota chief._](https://chroniclingamerica.loc.gov/lccn/sn99068086/1898-01-13/ed-1/seq-5)
 
@@ -6813,7 +6813,7 @@ second.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple News Items
 
@@ -6821,7 +6821,7 @@ second.
 
 #### 1898-02-04 &middot; Ruby City, I.T. [Idaho]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The St. Johns herald._](https://chroniclingamerica.loc.gov/lccn/sn94051692/1898-02-19/ed-1/seq-2)
 
@@ -6853,7 +6853,7 @@ year, 91,824 every day, 3,730 every hour, 1
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Winslow mail._](https://chroniclingamerica.loc.gov/lccn/sn96060765/1898-03-19/ed-1/seq-2)
 
@@ -6882,5 +6882,5 @@ second
 </td>
 </tr></table>
 
-<hr />
+---
 

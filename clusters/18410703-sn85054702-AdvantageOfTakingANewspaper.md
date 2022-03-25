@@ -1,7 +1,7 @@
 
 # Advantage of Taking a Newspaper
 
-### 101 reprints from 1841-07-03 to 1894-03-22 [cl13]
+### 101 reprints from 1839-09-26 to 1894-03-22
 
 ## [Advantage of Taking a Newspaper](http://chroniclingamerica.loc.gov/lccn/sn85054702/1841-07-03/ed-1/seq-1/)
 
@@ -34,7 +34,7 @@ Would not befallen him!
 
 </td></tr></table>
 
-<hr />
+---
 
 ## "Why Don't You Take the Papers?"
 
@@ -42,7 +42,7 @@ Would not befallen him!
 
 #### 1839-09-26 &middot; Chillicothe, Ohio
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1839-10-03/ed-1/seq-4)
 
@@ -65,7 +65,7 @@ Would not hj v* Penc,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1839-12-20/ed-1/seq-4)
 
@@ -91,7 +91,7 @@ Would not have h
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poetry
 
@@ -99,7 +99,7 @@ Would not have h
 
 #### 1841-03-10 &middot; Norwich, Conn.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Advantage of Taking a Newspaper
 
@@ -107,7 +107,7 @@ Would not have h
 
 #### 1841-03-17 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Advantage of Taking a Newspaper
 
@@ -115,7 +115,7 @@ Would not have h
 
 #### 1841-04-17 &middot; Hartford [Conn.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042147/1841-05-12/ed-1/seq-4)
 
@@ -144,7 +144,7 @@ Would not have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## ADVANTAGE OF TAKING A NEWSPAPER.
 
@@ -152,7 +152,7 @@ Would not have happened him
 
 #### 1841-05-15 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The following, which we have cut from a country newspaper, is a beautiful and louching specimen of poetical ability
 
@@ -160,7 +160,7 @@ Would not have happened him
 
 #### 1841-05-25 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1841-06-09/ed-1/seq-1)
 
@@ -193,7 +193,7 @@ Would not have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American and Shamokin journal._](https://chroniclingamerica.loc.gov/lccn/sn85054702/1841-07-03/ed-1/seq-1)
 
@@ -212,7 +212,7 @@ Vruntrrlpt
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28?page=7)
 
@@ -259,7 +259,7 @@ Had not befallen him!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The moral of the following, which we cut from an exchange paper, is too obvious
 
@@ -267,7 +267,7 @@ Had not befallen him!
 
 #### 1841-07-23 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The following, which we have cut from a country newspaper, is a beautiful and touching specimen of poetical ability
 
@@ -275,7 +275,7 @@ Had not befallen him!
 
 #### 1841-07-24 &middot; Tallahassee [Fla.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Take the Papers
 
@@ -283,7 +283,7 @@ Had not befallen him!
 
 #### 1841-08-07 &middot; [Pensacola, Fla.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [JONATHANISMS: OR SCRAPS FROM AMERICAN PAPERS.](http://trove.nla.gov.au/ndp/del/article/8752539)
 
@@ -308,7 +308,7 @@ the news At home, like neighbour Jim,
 I&#x27;ll
 </td></tr></table>
 
-<hr />
+---
 
 ## [SELECT POETRY. THE PRINCE OF WALES THE MUSIC BY NELSON—THE WORDS BY JEFFERYS.](http://trove.nla.gov.au/ndp/del/article/37114692)
 
@@ -335,7 +335,7 @@ of the news - At home, like neighbour
 -. . Had: not befallen hitnl ?—America
 </td></tr></table>
 
-<hr />
+---
 
 ## Foreign Varieties.
 
@@ -343,7 +343,7 @@ of the news - At home, like neighbour
 
 #### 1842-06-17 &middot; Hull, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Companion.
 
@@ -351,7 +351,7 @@ of the news - At home, like neighbour
 
 #### 1842-06-25 &middot; Manchester, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [SELECT POETRY. ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/2557007)
 
@@ -373,7 +373,7 @@ through the wool, .&#x27;A tree fell down
 upon bis crown. And hurt lum as it
 </td></tr></table>
 
-<hr />
+---
 
 ## [POETRY. THE JOYS OF THE WILDERNESS.](http://trove.nla.gov.au/ndp/del/article/2557596)
 
@@ -396,7 +396,7 @@ tree&#x27;fell down upon h&#x27;s crown. And hurt
 him is it
 </td></tr></table>
 
-<hr />
+---
 
 ## [[?]RACT[?] ADVANTAGES OF SMALL HOLDINGS AND OF RENTING IN AUSTRALIA.](http://trove.nla.gov.au/ndp/del/article/12419818)
 
@@ -421,7 +421,7 @@ reading of the news At home, like
 neighbour Jim, I&#x27;ll
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1844-08-31_25_1205?page=3)
 
@@ -455,7 +455,7 @@ Would not have happened hu
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Boston Cultivator (1839-1850)_](https://iiif.archivelab.org/iiif/sim_american-cultivator_1844-10-05_6_40?page=6)
 
@@ -554,7 +554,7 @@ A tree fell dawa apon his crown,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1844-10-24_12_43?page=1)
 
@@ -590,7 +590,7 @@ Would not have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Boon's Lick times._](https://chroniclingamerica.loc.gov/lccn/sn83016957/1845-02-22/ed-1/seq-1)
 
@@ -618,7 +618,7 @@ Had he been reading of the&quot;nc.TJ,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cadiz sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84028793/1845-05-14/ed-1/seq-1)
 
@@ -648,7 +648,7 @@ VVou
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Evansville journal._](https://chroniclingamerica.loc.gov/lccn/sn84023914/1845-07-10/ed-1/seq-2)
 
@@ -677,7 +677,7 @@ Would not have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Let Justice Be Done
 
@@ -685,7 +685,7 @@ Would not have happened him
 
 #### 1845-07-16 &middot; Columbus, Ohio
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1845-07-24/ed-1/seq-1)
 
@@ -710,7 +710,7 @@ Would not have happened him.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Boston Cultivator (1839-1850)_](https://iiif.archivelab.org/iiif/sim_american-cultivator_1845-07-26_7_30?page=3)
 
@@ -736,7 +736,7 @@ Would never have happened hi
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82014301/1845-07-30/ed-1/seq-1)
 
@@ -761,7 +761,7 @@ Would nut have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple News Items
 
@@ -769,7 +769,7 @@ Would nut have happened him
 
 #### 1845-07-31 &middot; Columbia, S.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1845-08-07/ed-1/seq-1)
 
@@ -792,7 +792,7 @@ And killed him as it
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbia Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025180/1845-08-09/ed-1/seq-2)
 
@@ -820,7 +820,7 @@ Would not have happend him.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7?page=7)
 
@@ -851,7 +851,7 @@ Would never have happened him.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1845-08-15/ed-1/seq-2)
 
@@ -874,7 +874,7 @@ Would not have happened him,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Burlington hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn82014327/1845-09-11/ed-1/seq-1)
 
@@ -905,7 +905,7 @@ Would not have happened him.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042147/1845-11-12/ed-1/seq-1)
 
@@ -931,7 +931,7 @@ Would not have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Selections.
 
@@ -939,7 +939,7 @@ Would not have happened him
 
 #### 1846-01-09 &middot; Liverpool, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [VARIETIES.](http://trove.nla.gov.au/ndp/del/article/59764830)
 
@@ -964,7 +964,7 @@ like neighbour Tim, I&#x27;ll bet a cent this
 accident, Had not befallen lum ! 
 </td></tr></table>
 
-<hr />
+---
 
 ## Truth and Poetry
 
@@ -972,7 +972,7 @@ accident, Had not befallen lum !
 
 #### 1848-05-12 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1849-07-21/ed-1/seq-1)
 
@@ -998,7 +998,7 @@ Had hs been reading o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1849-07-21/ed-1/seq-4)
 
@@ -1031,7 +1031,7 @@ W
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poetry
 
@@ -1039,7 +1039,7 @@ W
 
 #### 1852-03-20 &middot; Concord [N.H.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1857-01-22/ed-1/seq-1)
 
@@ -1068,7 +1068,7 @@ Would not have happened him.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1857-02-20/ed-1/seq-1)
 
@@ -1103,7 +1103,7 @@ Would not befallen him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1857-12-31/ed-1/seq-1)
 
@@ -1129,7 +1129,7 @@ llud he boon rending of t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1865-01-11/ed-1/seq-4)
 
@@ -1158,7 +1158,7 @@ Woald not have befalien him.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Advertisements & Notices
 
@@ -1166,7 +1166,7 @@ Woald not have befalien him.
 
 #### 1867-04-26 &middot; Hull, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1867-05-23_40_21?page=2)
 
@@ -1189,7 +1189,7 @@ cent that accident would not have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1867-08-21/ed-1/seq-2)
 
@@ -1211,7 +1211,7 @@ we&#x27;ll bet a cent that accident would no
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1867-09-14/ed-1/seq-1)
 
@@ -1232,7 +1232,7 @@ cent that accident would not have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1867-09-21/ed-1/seq-1)
 
@@ -1254,7 +1254,7 @@ dent would not have happened him.—Lyon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1867-09-27/ed-1/seq-1)
 
@@ -1276,7 +1276,7 @@ accident would not have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1867-10-06/ed-1/seq-4)
 
@@ -1298,7 +1298,7 @@ cent that accident would not have happene
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1867-10-30/ed-1/seq-2)
 
@@ -1319,7 +1319,7 @@ cent that accident would not have happened him.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1868-01-01/ed-1/seq-1)
 
@@ -1345,7 +1345,7 @@ accident would not have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1868-12-03/ed-1/seq-2)
 
@@ -1379,7 +1379,7 @@ Had not befallen hint
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1870-01-19/ed-1/seq-3)
 
@@ -1409,7 +1409,7 @@ Would not befallen him.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## VARIETIES.
 
@@ -1417,7 +1417,7 @@ Would not befallen him.
 
 #### 1870-06-08 &middot; Exeter, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [VITAL ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/166813642)
 
@@ -1442,7 +1442,7 @@ neighbour Jim, FU bet a ccnt this
 accident Had not befallen h
 </td></tr></table>
 
-<hr />
+---
 
 ## [VITAL ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/123549533)
 
@@ -1467,7 +1467,7 @@ neigbour Jim, I&#x27;ll bet a cent this
 accident Had not befallen him ! 
 </td></tr></table>
 
-<hr />
+---
 
 ## [VITAL ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/82100136)
 
@@ -1492,7 +1492,7 @@ like neighbor Jim, I&#x27;ll bet a cout this
 accident Bad not befallen hi
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1871-01-19/ed-1/seq-2)
 
@@ -1516,7 +1516,7 @@ bet a cent this accident had not befallen him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1871-01-24/ed-1/seq-4)
 
@@ -1551,7 +1551,7 @@ Had not befallen him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1871-01-27/ed-1/seq-3)
 
@@ -1604,7 +1604,7 @@ Usd not befallen him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Tal Advantage of Taking a Paper
 
@@ -1612,7 +1612,7 @@ Usd not befallen him
 
 #### 1871-02-22 &middot; Raymond, Miss.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1871-03-02/ed-1/seq-4)
 
@@ -1641,7 +1641,7 @@ Had not befallen him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [VITAL ADVANTAGE OF TAKING A PAPER.](http://trove.nla.gov.au/ndp/del/article/120722640)
 
@@ -1671,7 +1671,7 @@ news ? ?&#x27;&#x27;&#x27; . &#x27; | At home like neighbour
 Jim; &#x27;&#x27;?&#x27;?&#x27;? . ; &#x27; ! ; &#x27;?&#x27;&#x27;&#x27;? -I&#x27;ll be
 </td></tr></table>
 
-<hr />
+---
 
 ## [SELECT POETRY. THE ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/111142611)
 
@@ -1696,7 +1696,7 @@ reading of the news &#x27; ?? At home, like
 neighbour Jim, &#x27; I&#x27;ll
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-09-28/ed-1/seq-4)
 
@@ -1722,7 +1722,7 @@ Would never have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1871-10-12_44_41?page=7)
 
@@ -1753,7 +1753,7 @@ Would never have happened him.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1872-02-24/ed-1/seq-2)
 
@@ -1787,7 +1787,7 @@ Had not 1 efallcn him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1872-07-27/ed-1/seq-1)
 
@@ -1816,7 +1816,7 @@ Had not befallen 1dm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Facts and Fancies. ONE RESULT OF TAKING A PAPER.](http://trove.nla.gov.au/ndp/del/article/27272267)
 
@@ -1841,7 +1841,7 @@ neighbor Jim, I bet two-pence this
 accident Had not beUlloa bim. A QUOD
 </td></tr></table>
 
-<hr />
+---
 
 ## [VITAL ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/113592124)
 
@@ -1863,7 +1863,7 @@ it 6hould! Had he been reading of the
 news At home, like neighbor
 </td></tr></table>
 
-<hr />
+---
 
 ## [VITAL ADVANTAGE OP TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/128493368)
 
@@ -1887,7 +1887,7 @@ he been reading of the news . : ; At
 home, like neighbor Jim, ? . I&#x27;ll 
 </td></tr></table>
 
-<hr />
+---
 
 ## [SELECTED POETRY. VITAL ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/108270105)
 
@@ -1911,7 +1911,7 @@ he been reading of the news At home,
 like neighboui Jim, TJ]
 </td></tr></table>
 
-<hr />
+---
 
 ## [IMPROMPTU SHOTS AT FLYING GAME.](http://trove.nla.gov.au/ndp/del/article/77127677)
 
@@ -1938,7 +1938,7 @@ Bad he b^e&#x27;n reading of the news /,! &quot;?
 TH bet a cent this accident &#x27; ; -, : Ha
 </td></tr></table>
 
-<hr />
+---
 
 ## [IMPOUNDING NOTICES.](http://trove.nla.gov.au/ndp/del/article/92766534)
 
@@ -1962,7 +1962,7 @@ reading of the news, at home, like
 neighbor .Tim, Id
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1874-07-02/ed-1/seq-2)
 
@@ -1988,7 +1988,7 @@ Had he
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Printers' Circular and Stationers' and Publishers' Gazette 1866-1890_](https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9?page=8)
 
@@ -2043,7 +2043,7 @@ Had not befallen him.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1878-12-19/ed-1/seq-4)
 
@@ -2072,7 +2072,7 @@ Had not befallen him.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1879-01-04/ed-1/seq-3)
 
@@ -2098,7 +2098,7 @@ had not befallen him. The moral of this i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1879-01-10/ed-1/seq-1)
 
@@ -2127,7 +2127,7 @@ Had not befallen him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1879-01-27/ed-1/seq-1)
 
@@ -2162,7 +2162,7 @@ Had not befallen him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Louisiana capitolian._](https://chroniclingamerica.loc.gov/lccn/sn88064592/1879-02-08/ed-1/seq-4)
 
@@ -2193,7 +2193,7 @@ And killed him-as it shou&#x27;d
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Pebbles.
 
@@ -2201,7 +2201,7 @@ And killed him-as it shou&#x27;d
 
 #### 1879-04-03 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1879-04-10/ed-1/seq-11)
 
@@ -2235,7 +2235,7 @@ Ami killed him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Flotsam and Jetsam. A Warning.](http://trove.nla.gov.au/ndp/del/article/19780126)
 
@@ -2260,7 +2260,7 @@ neighbor Jim, I&#x27;d bet a cent this
 accident Had not befallen him.
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1879-04-26/ed-1/seq-1)
 
@@ -2295,7 +2295,7 @@ I&#x27;d het a cent this sad, sa
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [D. D. Gazette. FRIDAY, MAY 1, 1879.](http://trove.nla.gov.au/ndp/del/article/76052055)
 
@@ -2320,7 +2320,7 @@ like neighbor Jim, I&#x27;d bet a cent this
 accident had not befallen him. — [Mora
 </td></tr></table>
 
-<hr />
+---
 
 ## [No title](http://trove.nla.gov.au/ndp/del/article/117579705)
 
@@ -2340,7 +2340,7 @@ reading of the mows At home, like
 neighbour Jim, I&#x27;d 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-06-19/ed-1/seq-1)
 
@@ -2376,7 +2376,7 @@ Had not befallen him
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lexington weekly intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn87052143/1879-06-28/ed-1/seq-3)
 
@@ -2409,7 +2409,7 @@ bad not befallen blm.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [COUNTRY NEWS. LONGFORD.](http://trove.nla.gov.au/ndp/del/article/90221982)
 
@@ -2434,7 +2434,7 @@ like neighbour Jim, I&#x27;ll bet a cent.
 this aooident Had not befallen him 1 S
 </td></tr></table>
 
-<hr />
+---
 
 ## Multiple Classified Advertisements
 
@@ -2442,7 +2442,7 @@ this aooident Had not befallen him 1 S
 
 #### 1893-07-21 &middot; Houston [Tex.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [He Took a Paper. Published in the Herald 50 years ago.](http://trove.nla.gov.au/ndp/del/article/164368829)
 
@@ -2466,7 +2466,7 @@ news At home, like neighbour Jim, I&#x27;ll
 bet a cent this accident Had not
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1894-03-22/ed-1/seq-5)
 
@@ -2495,5 +2495,5 @@ Would ne&#x27;er have happened him
 </td>
 </tr></table>
 
-<hr />
+---
 

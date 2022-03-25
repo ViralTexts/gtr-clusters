@@ -1,7 +1,7 @@
 
 # The Longshoremen of Baltimore
 
-### 2 reprints from 1871-06-29 to 1871-06-29 [cl1571958030406]
+### 2 reprints from 1871-06-29 to 1871-06-29
 
 ## [The Longshoremen of Baltimore](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
 
@@ -45,7 +45,7 @@ Remarks of Mr. R. B. Sorrell.
 Mr. R. B. Sorrell was next introduced and said, fifteen years ago the stevedores got three cents a barrel, now they get two to one and a half cents; then they paid the men one dollar and twenty five cents in gold, and according to the price of the necessaries of life at that time the laborer could get a decent living; now it was impossible for laborers to live at less than thirty cents an hour. The stevedores should go to the merchants and ask for an advance in the prices, so that they may be able to pay the men better wages. He believed the merchants would pay living wages.
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
@@ -231,5 +231,5 @@ merchants would pay living wages
 </td>
 </tr></table>
 
-<hr />
+---
 

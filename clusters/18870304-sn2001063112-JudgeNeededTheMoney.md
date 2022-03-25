@@ -1,7 +1,7 @@
 
 # The Judge Needed the Money
 
-### 66 reprints from 1887-03-04 to 1897-08-14 [cl17179869282]
+### 66 reprints from 1887-02-11 to 1897-08-14
 
 ## [The Judge Needed the Money](https://chroniclingamerica.loc.gov/lccn/sn2001063112/1887-03-04/ed-1/seq-7/)
 
@@ -27,7 +27,7 @@ The Judge said, &quot;Well, sir, you&#x27;ve earned your money; here it is.&quot
 The boy said, &quot;I don&#x27;t want your money, old fellow; you take it an have your hair cut.&quot; Saying which he scampered off.—*Augusta (Ga.) Chronicle*.
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1887-02-11/ed-1/seq-4)
 
@@ -64,7 +64,7 @@ ered off. The Judge thought it so good
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Judge Needed the Money
 
@@ -72,7 +72,7 @@ ered off. The Judge thought it so good
 
 #### 1887-02-18 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Springfield daily republic._](https://chroniclingamerica.loc.gov/lccn/sn87076917/1887-02-26/ed-1/seq-3)
 
@@ -111,7 +111,7 @@ Saying which he scampered off. Augusta
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Judge Needed the Money
 
@@ -119,7 +119,7 @@ Saying which he scampered off. Augusta
 
 #### 1887-02-28 &middot; Atchison, Kan.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Mitchell capital._](https://chroniclingamerica.loc.gov/lccn/sn2001063112/1887-03-04/ed-1/seq-7)
 
@@ -167,7 +167,7 @@ Auf/vsta [Ga.) Chronicle.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Daily times._](https://chroniclingamerica.loc.gov/lccn/sn86071854/1887-03-06/ed-1/seq-1)
 
@@ -203,7 +203,7 @@ _- which he scsunpsred off.?Augv
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1887-03-07/ed-1/seq-4)
 
@@ -240,7 +240,7 @@ off. The judge thought it so good a stor
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Central Law Journal (1874-1927)_](https://iiif.archivelab.org/iiif/sim_central-law-journal_1887-03-11_24?page=23)
 
@@ -291,7 +291,7 @@ scampered off.—Augusta (Ga.) Chronicle.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Judge Needed the Money
 
@@ -299,7 +299,7 @@ scampered off.—Augusta (Ga.) Chronicle.
 
 #### 1887-03-12 &middot; Detroit, Mich.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Fort Worth daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn86064205/1887-03-14/ed-1/seq-4)
 
@@ -343,7 +343,7 @@ scampered off The Judge thought ii s
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _News and citizen._](https://chroniclingamerica.loc.gov/lccn/sn97067613/1887-03-17/ed-1/seq-4)
 
@@ -385,7 +385,7 @@ ered off. Augusta (Ja.) Chronic&#x27;.&#x27;:
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1887-03-17/ed-1/seq-4)
 
@@ -402,7 +402,7 @@ story on Chief Justice Bleckley. Nobod
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1887-03-17/ed-1/seq-4)
 
@@ -440,7 +440,7 @@ ing which he scampered off
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1887-03-18/ed-1/seq-2)
 
@@ -479,7 +479,7 @@ jx’red otT. —| Augusta (Hi.) Chronicle
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1887-03-19/ed-1/seq-1)
 
@@ -518,7 +518,7 @@ scampered off
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Boy's Face and the Judge's Hair
 
@@ -526,7 +526,7 @@ scampered off
 
 #### 1887-03-22 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Alpena weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn85033549/1887-03-23/ed-1/seq-1)
 
@@ -574,7 +574,7 @@ he scampered off. Augusta Chronicle
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1887-03-24/ed-1/seq-1)
 
@@ -620,7 +620,7 @@ pered off
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## NOTES.
 
@@ -628,7 +628,7 @@ pered off
 
 #### 1887-03-26 &middot; Albany
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Closing Hours
 
@@ -636,7 +636,7 @@ pered off
 
 #### 1887-04-05 &middot; Denver, Colo.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1887-04-07/ed-1/seq-7)
 
@@ -671,7 +671,7 @@ saying which he scampered oft. Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1887-04-07/ed-1/seq-1)
 
@@ -711,7 +711,7 @@ pered off. The Judge thought it s
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _St. Johnsbury Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023253/1887-04-07/ed-1/seq-2)
 
@@ -751,7 +751,7 @@ dou&#x27;t want you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Madison times._](https://chroniclingamerica.loc.gov/lccn/sn88064405/1887-04-09/ed-1/seq-1)
 
@@ -784,7 +784,7 @@ want your nmey. old fellow; yop take
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Milan exchange._](https://chroniclingamerica.loc.gov/lccn/sn86053488/1887-04-09/ed-1/seq-7)
 
@@ -835,7 +835,7 @@ saying which he scampered off. Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Dallas daily herald._](https://chroniclingamerica.loc.gov/lccn/sn83025733/1887-04-11/ed-1/seq-3)
 
@@ -870,7 +870,7 @@ which he scampered oil&#x27;. The jml l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Warner sun._](https://chroniclingamerica.loc.gov/lccn/sn2001063565/1887-04-15/ed-1/seq-3)
 
@@ -906,7 +906,7 @@ which he scampered off. The judg
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _St. Landry democrat._](https://chroniclingamerica.loc.gov/lccn/sn88064537/1887-04-16/ed-1/seq-7)
 
@@ -941,7 +941,7 @@ Baying which he scampered off. Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1887-04-16/ed-1/seq-2)
 
@@ -986,7 +986,7 @@ pered off.-[Augusta (G:.) Chronicle
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Grenada gazette._](https://chroniclingamerica.loc.gov/lccn/sn88067090/1887-04-16/ed-1/seq-7)
 
@@ -1020,7 +1020,7 @@ wving which ho scampered off. Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wahpeton times._](https://chroniclingamerica.loc.gov/lccn/sn84024779/1887-04-21/ed-1/seq-7)
 
@@ -1056,7 +1056,7 @@ which be scampered off. The judg
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1887-04-26/ed-1/seq-2)
 
@@ -1092,7 +1092,7 @@ which lie scampered oil&#x27;. The judg
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bridgeton pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87068192/1887-04-28/ed-1/seq-7)
 
@@ -1127,7 +1127,7 @@ saving which he scampered off. Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1887-05-13/ed-1/seq-4)
 
@@ -1166,7 +1166,7 @@ pered eff, The judge thought it so gjo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Savannah courier._](https://chroniclingamerica.loc.gov/lccn/sn89058248/1887-05-19/ed-1/seq-4)
 
@@ -1202,7 +1202,7 @@ laying which he scampered off. Th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Mitchell capital._](https://chroniclingamerica.loc.gov/lccn/sn2001063112/1887-05-20/ed-1/seq-8)
 
@@ -1250,7 +1250,7 @@ cle.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85047084/1887-05-21/ed-1/seq-1)
 
@@ -1304,7 +1304,7 @@ wg which tf &amp;-Aeus
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-05-30_18_22?page=6)
 
@@ -1350,7 +1350,7 @@ cut.’’ Saying which he scampered off
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-06-16_35_24?page=30)
 
@@ -1395,7 +1395,7 @@ pered off
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [THE HUMOURIST.](http://trove.nla.gov.au/ndp/del/article/165223060)
 
@@ -1431,7 +1431,7 @@ take it and have your hair cut.&#x27; Saying
 which, he scampered off. The picturesqu
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1887-09-12/ed-1/seq-2)
 
@@ -1473,7 +1473,7 @@ he scampered ofl.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1887-09-17/ed-1/seq-4)
 
@@ -1509,7 +1509,7 @@ hair cut- Saying which he scampered off
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1887-10-26/ed-1/seq-1)
 
@@ -1548,7 +1548,7 @@ your hair cut.&quot; Saying which he kuu­
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [A POWERFUL PLASTER.](http://trove.nla.gov.au/ndp/del/article/97332335)
 
@@ -1585,7 +1585,7 @@ hair cut.&#x27; Saying which, he scampered
 off
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1888-01-06/ed-1/seq-4)
 
@@ -1630,7 +1630,7 @@ be scampered olT
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1888-02-24/ed-1/seq-4)
 
@@ -1677,7 +1677,7 @@ scampered off
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## TRAVELLERS' TALES.
 
@@ -1685,7 +1685,7 @@ scampered off
 
 #### 1893-04-29 &middot; Portsmouth, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Wood River times._](https://chroniclingamerica.loc.gov/lccn/sn86091172/1893-08-04/ed-1/seq-3)
 
@@ -1721,7 +1721,7 @@ hair cut.&quot; and forthwith scampere
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Kansas world._](https://chroniclingamerica.loc.gov/lccn/sn82015485/1893-08-05/ed-1/seq-1)
 
@@ -1758,7 +1758,7 @@ off
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [THE HUMOURIST.](http://trove.nla.gov.au/ndp/del/article/164367151)
 
@@ -1789,7 +1789,7 @@ want your money, old Bg chappie : you
 tak&#x27; it an&#x27; get yer hair cooed &#x27; (cut)
 </td></tr></table>
 
-<hr />
+---
 
 ## [One for His Nob.](http://trove.nla.gov.au/ndp/del/article/20346200)
 
@@ -1818,7 +1818,7 @@ money, old chappie,&quot; said the boy. &quot;
 Keep it yersel&#x27; an&#x27; get yer hair out.
 </td></tr></table>
 
-<hr />
+---
 
 ## [ONE FOR HIS NOB.](http://trove.nla.gov.au/ndp/del/article/160816319)
 
@@ -1848,7 +1848,7 @@ money, old obappie,&quot; said the boy. &quot;
 Keep it yersel&#x27; an&#x27; get yer haircut.
 </td></tr></table>
 
-<hr />
+---
 
 ## [ONE FOR HIS MOB.](http://trove.nla.gov.au/ndp/del/article/133322127)
 
@@ -1877,7 +1877,7 @@ money, old chappio,&#x27; said the boy. &#x27;Keep
 if yersel&#x27; an&#x27;. get her hair cut.
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1894-09-12/ed-1/seq-4)
 
@@ -1909,7 +1909,7 @@ cut,&quot; and forthwith scampered oil&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [The Riverine Herald PUBLISHED DAILY. ECHUCA: FRIDAY, MARCH 20, 1896.](http://trove.nla.gov.au/ndp/del/article/114989456)
 
@@ -1936,7 +1936,7 @@ Professor, * you&#x27;ve earned your money ;
 here it is.&#x27; * I dinna want ii, aul
 </td></tr></table>
 
-<hr />
+---
 
 ## [Electric Power from Waterfalls.](http://trove.nla.gov.au/ndp/del/article/98565112)
 
@@ -1963,7 +1963,7 @@ said the Professor, &quot; you&#x27;ve earned your
 money; here it is.&quot; &quot; I dinna want it
 </td></tr></table>
 
-<hr />
+---
 
 ## [PERSONALITIES](http://trove.nla.gov.au/ndp/del/article/109452855)
 
@@ -1993,7 +1993,7 @@ lordly air. s Yon can keep it aud yet
 youk knit tut.&#x27; —--v 
 </td></tr></table>
 
-<hr />
+---
 
 ## [ROUGH ON THE PROFESSOR.](http://trove.nla.gov.au/ndp/del/article/39631582)
 
@@ -2023,7 +2023,7 @@ lordly air; &#x27;ye can keep and git yer air
 cut-
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1896-09-05/ed-1/seq-16)
 
@@ -2055,7 +2055,7 @@ tt and git yer hair cut.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Roanoke daily times._](https://chroniclingamerica.loc.gov/lccn/sn95079481/1896-09-10/ed-1/seq-3)
 
@@ -2087,7 +2087,7 @@ it and git yer hair cut.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Instructor 1996-1998_](https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2?page=22)
 
@@ -2120,7 +2120,7 @@ ing, he held out his hand for the money.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [A BLACKIE ANECDOTE](http://trove.nla.gov.au/ndp/del/article/65525781)
 
@@ -2147,7 +2147,7 @@ my lad,&quot; said the professor, &quot; you&#x27;ve
 earned your money; -here it is.&quot; &quot;
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Congregationalist._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1?page=34)
 
@@ -2177,7 +2177,7 @@ earned your money; here it is.”
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1897-02-08/ed-1/seq-2)
 
@@ -2211,7 +2211,7 @@ turned the gamin, with a lordiy air.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Blackie and the Urchin.](http://trove.nla.gov.au/ndp/del/article/171535585)
 
@@ -2239,5 +2239,5 @@ lad,&#x27; said the professor, &#x27; you&#x27;veearned
 your money ; -here it is.&#x27; ? &#x27; I dinna
 </td></tr></table>
 
-<hr />
+---
 

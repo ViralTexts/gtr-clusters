@@ -1,7 +1,7 @@
 
 # Have We a Fanny Fern Among Us
 
-### 24 reprints from 1855-02-22 to 1855-03-01 [cl42949672966]
+### 24 reprints from 1855-02-16 to 1855-03-01
 
 ## [Have We a Fanny Fern Among Us](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-22/ed-1/seq-3/)
 
@@ -19,7 +19,7 @@ GEO F., FRENCH.
 feb 21   [Pied. Whig &amp; Rockingham Reg.
 </td></tr></table>
 
-<hr />
+---
 
 ## Multiple Classified Advertisements
 
@@ -27,7 +27,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### 1855-02-16 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Multiple Classified Advertisements
 
@@ -35,7 +35,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### 1855-02-16 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Multiple Classified Advertisements
 
@@ -43,7 +43,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### 1855-02-17 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Multiple Classified Advertisements
 
@@ -51,7 +51,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### 1855-02-17 &middot; Boston [Mass.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Multiple Classified Advertisements
 
@@ -59,7 +59,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### 1855-02-17 &middot; Boston [Mass.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Multiple Classified Advertisements
 
@@ -67,7 +67,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### 1855-02-19 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Daily American organ._](https://chroniclingamerica.loc.gov/lccn/sn85042002/1855-02-21/ed-1/seq-3)
 
@@ -85,7 +85,7 @@ and Ruth Hall; and the reader will find that the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-21/ed-1/seq-3)
 
@@ -117,7 +117,7 @@ cure a copy. GEO. e. y ren&lt; h.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The national era._](https://chroniclingamerica.loc.gov/lccn/sn84026752/1855-02-22/ed-1/seq-3)
 
@@ -137,7 +137,7 @@ Fanny Fern
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-02-22/ed-1/seq-3)
 
@@ -155,7 +155,7 @@ ny is not Ruth Hall, who is Fanny Fern ? The life an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-02-22/ed-1/seq-3)
 
@@ -172,7 +172,7 @@ AUTHOR OF FERN LEAVES AND RUTH HALL
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-02-22/ed-1/seq-2)
 
@@ -193,7 +193,7 @@ THE LIFE and BEAUTIES ofFANJi Y FER
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-02-22/ed-1/seq-2)
 
@@ -211,7 +211,7 @@ Author or Fern I.enes and Ruth Hal
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-22/ed-1/seq-3)
 
@@ -238,7 +238,7 @@ j teh VI [Pied W hig \ Rockingham Reg
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple Classified Advertisements
 
@@ -246,7 +246,7 @@ j teh VI [Pied W hig \ Rockingham Reg
 
 #### 1855-02-23 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-26/ed-1/seq-4)
 
@@ -277,7 +277,7 @@ teb v.&#x27; 1 [Pied. Whig A Rockingham Reg
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple Classified Advertisements
 
@@ -285,7 +285,7 @@ teb v.&#x27; 1 [Pied. Whig A Rockingham Reg
 
 #### 1855-02-26 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-27/ed-1/seq-4)
 
@@ -313,7 +313,7 @@ lures oi the chat miiig and brilliant
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-03-01/ed-1/seq-3)
 
@@ -332,7 +332,7 @@ ny is not Ruth Hall, who is Fanny Fern ? The life an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-03-01/ed-1/seq-3)
 
@@ -351,7 +351,7 @@ AUTHOR OF PERN LEAVES AND RUTII HALL
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-03-01/ed-1/seq-4)
 
@@ -378,7 +378,7 @@ teh 21 [ Pied. Whig &amp; Rockingham Reg
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple Classified Advertisements
 
@@ -386,7 +386,7 @@ teh 21 [ Pied. Whig &amp; Rockingham Reg
 
 #### 1855-03-01 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3?page=19)
 
@@ -417,5 +417,5 @@ fore the , and the wor
 </td>
 </tr></table>
 
-<hr />
+---
 

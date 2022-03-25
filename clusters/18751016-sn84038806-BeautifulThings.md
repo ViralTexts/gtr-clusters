@@ -1,7 +1,7 @@
 
 # Beautiful Things
 
-### 97 reprints from 1875-10-16 to 1899-08-02 [cl28]
+### 97 reprints from 1875-08-20 to 1899-08-02
 
 ## [Beautiful Things](http://chroniclingamerica.loc.gov/lccn/sn84038806/1875-10-16/ed-1/seq-3/)
 
@@ -50,7 +50,7 @@ Over worn-out hands—Oh, beautiful sleep!
 
 </td></tr></table>
 
-<hr />
+---
 
 ## Beautiful Things
 
@@ -58,7 +58,7 @@ Over worn-out hands—Oh, beautiful sleep!
 
 #### 1875-08-20 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1875-09-16/ed-1/seq-3)
 
@@ -79,7 +79,7 @@ Over worn-out hands—Oh! beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1875-09-17/ed-1/seq-1)
 
@@ -100,7 +100,7 @@ Over worn-out hands--Oh! beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1875-09-17/ed-1/seq-1)
 
@@ -123,7 +123,7 @@ sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1875-10-02/ed-1/seq-1)
 
@@ -145,7 +145,7 @@ sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Los Angeles daily herald._](https://chroniclingamerica.loc.gov/lccn/sn84038806/1875-10-16/ed-1/seq-3)
 
@@ -177,7 +177,7 @@ Over worn-nut hands—Oh, beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1875-11-04/ed-1/seq-4)
 
@@ -199,7 +199,7 @@ Over worn-out hands?Oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-11-06/ed-1/seq-1)
 
@@ -219,7 +219,7 @@ Over worn-out hands-Oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-11-10/ed-1/seq-1)
 
@@ -241,7 +241,7 @@ Over worn-out hands! O beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47?page=5)
 
@@ -275,7 +275,7 @@ Work that
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47?page=5)
 
@@ -304,7 +304,7 @@ Over worn-out hands—Oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1875-12-04/ed-1/seq-1)
 
@@ -326,7 +326,7 @@ Over worn-out hands Oh,-beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18?page=3)
 
@@ -350,7 +350,7 @@ Over worn-out hands—Oh, beautiful sleep !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Woodhull and Claflin's Weekly 1870-1876_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8?page=1)
 
@@ -373,7 +373,7 @@ Over worn-out hands—Oh, beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The anti-monopolist._](https://chroniclingamerica.loc.gov/lccn/sn85025587/1876-02-03/ed-1/seq-2)
 
@@ -396,7 +396,7 @@ Over worn-out hands—Oh, beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1876-04-06/ed-1/seq-1)
 
@@ -420,7 +420,7 @@ Over woru-out hands. Oh I beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33?page=3)
 
@@ -443,7 +443,7 @@ Over worn-out hands—oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## HOUSEHOLD
 
@@ -451,7 +451,7 @@ Over worn-out hands—oh, beautiful sleep
 
 #### 1876-04-22 &middot; Chicago
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Bristol news._](https://chroniclingamerica.loc.gov/lccn/sn85026955/1876-06-27/ed-1/seq-1)
 
@@ -472,7 +472,7 @@ Over worn-out hands oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [BEAUTIFUL THINGS.](http://trove.nla.gov.au/ndp/del/article/63333897)
 
@@ -492,7 +492,7 @@ Where brown leaves fall, where drifts
 lie
 </td></tr></table>
 
-<hr />
+---
 
 ## [POETRY. BEAUTIFUL THINGS.](http://trove.nla.gov.au/ndp/del/article/18811180)
 
@@ -512,7 +512,7 @@ Wh»re brown leaves fall, where drifts
 lie
 </td></tr></table>
 
-<hr />
+---
 
 ## BEAUTIFUL THINGS.
 
@@ -520,7 +520,7 @@ lie
 
 #### 1876-11-01 &middot; Shakers
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11?page=7)
 
@@ -543,7 +543,7 @@ Over worn out hands — Oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1877-01-24/ed-1/seq-1)
 
@@ -564,7 +564,7 @@ ver wornout hands-Oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1877-07-12/ed-1/seq-2)
 
@@ -589,7 +589,7 @@ O&#x27;er worn-out hands—oh,beautiful sleep!.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Beautiful Things
 
@@ -597,7 +597,7 @@ O&#x27;er worn-out hands—oh,beautiful sleep!.
 
 #### 1878-02-13 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1878-04-13/ed-1/seq-1)
 
@@ -637,7 +637,7 @@ Over worn-out hands—O, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Littell's living age
 
@@ -659,7 +659,7 @@ Where brown leaves fall, where drifts lie deep
 Over worn-out handsoh, beautiful slee
 </td></tr></table>
 
-<hr />
+---
 
 ## Miscellaneous.
 
@@ -667,7 +667,7 @@ Over worn-out handsoh, beautiful slee
 
 #### 1878-05-08 &middot; Philadelphia, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1878-05-09/ed-1/seq-4)
 
@@ -688,7 +688,7 @@ Over worn-out hands oh, beautiful Bleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1878-05-09/ed-1/seq-4)
 
@@ -709,7 +709,7 @@ Over worn-out hands—oh, beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169?page=2)
 
@@ -732,7 +732,7 @@ Over worn-out hands,—oh, beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1878-05-15/ed-1/seq-6)
 
@@ -753,7 +753,7 @@ Over worn-out hands oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1878-05-23/ed-1/seq-1)
 
@@ -777,7 +777,7 @@ sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1878-05-23_55_21?page=5)
 
@@ -803,7 +803,7 @@ Over worn-out hands, — oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1878-05-29/ed-1/seq-1)
 
@@ -825,7 +825,7 @@ worn out hands—Oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1878-05-31/ed-1/seq-1)
 
@@ -848,7 +848,7 @@ Over worn-out hands oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Canton advocate._](https://chroniclingamerica.loc.gov/lccn/sn83025440/1878-06-04/ed-1/seq-2)
 
@@ -871,7 +871,7 @@ Ovor worn-out hands—oh, beautiful sleep I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1878-06-08/ed-1/seq-1)
 
@@ -892,7 +892,7 @@ Over worn-out hands—oh beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83045610/1878-07-12/ed-1/seq-1)
 
@@ -919,7 +919,7 @@ bleep !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1878-07-16/ed-1/seq-1)
 
@@ -940,7 +940,7 @@ Over worn-out hands?oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1878-07-26/ed-1/seq-4)
 
@@ -963,7 +963,7 @@ Over worn out hands oh beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Select Poetry. Beautiful Things.](http://trove.nla.gov.au/ndp/del/article/30674350)
 
@@ -983,7 +983,7 @@ Beautiful graves, where grasses creep;
 drifts lie deep Over worn-out
 </td></tr></table>
 
-<hr />
+---
 
 ## [BEAUTIFUL THINGS.](http://trove.nla.gov.au/ndp/del/article/47791685)
 
@@ -1002,7 +1002,7 @@ graves, where grasses creep, Where brown
 leaves fall and drifts lie
 </td></tr></table>
 
-<hr />
+---
 
 ## [SELECTED POETRY. BEAUTIFUL THINGS.](http://trove.nla.gov.au/ndp/del/article/106561058)
 
@@ -1021,7 +1021,7 @@ grasses creep, Where brown leaves fail,
 and drifts lie deep, Over&#x27;worn-out
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1879-01-31/ed-1/seq-1)
 
@@ -1044,7 +1044,7 @@ Over worn-out hands oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1879-08-14/ed-1/seq-4)
 
@@ -1065,7 +1065,7 @@ Ove.- worn-out hands oh. beautiful sleep I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1879-08-18/ed-1/seq-1)
 
@@ -1086,7 +1086,7 @@ Over worn out hands oh, beautiful sleep !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16?page=4)
 
@@ -1105,7 +1105,7 @@ Over worn-out hands; O beautiful sleep!’’
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1882-01-24_13_4?page=5)
 
@@ -1130,7 +1130,7 @@ Over worn-out hands—oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Pulpit
 
@@ -1138,7 +1138,7 @@ Over worn-out hands—oh, beautiful sleep
 
 #### 1882-02-27 &middot; Chicago, Ill.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1882-03-12/ed-1/seq-3)
 
@@ -1160,7 +1160,7 @@ Over worn-out hands Oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The National tribune._](https://chroniclingamerica.loc.gov/lccn/sn82016187/1882-04-08/ed-1/seq-7)
 
@@ -1181,7 +1181,7 @@ Over worn-out hands oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1882-05-13/ed-1/seq-1)
 
@@ -1203,7 +1203,7 @@ Over worn out-hands—oh, beautiful sleep.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily Los Angeles herald._](https://chroniclingamerica.loc.gov/lccn/sn85042459/1882-05-26/ed-1/seq-4)
 
@@ -1224,7 +1224,7 @@ Over worn-out hands oh, beautifui sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The post._](https://chroniclingamerica.loc.gov/lccn/sn84026106/1882-07-20/ed-1/seq-1)
 
@@ -1247,7 +1247,7 @@ leep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1882-07-22/ed-1/seq-4)
 
@@ -1269,7 +1269,7 @@ Over worn-out hands; oh beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1882-08-17/ed-1/seq-4)
 
@@ -1292,7 +1292,7 @@ sleep. Unknown Ej
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1883-01-27/ed-1/seq-1)
 
@@ -1318,7 +1318,7 @@ Over worn out handsoh, beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Rocky Mountain husbandman._](https://chroniclingamerica.loc.gov/lccn/sn83025309/1883-03-15/ed-1/seq-5)
 
@@ -1339,7 +1339,7 @@ Over worn-out hands-oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Essex County herald._](https://chroniclingamerica.loc.gov/lccn/sn84023416/1885-09-11/ed-1/seq-1)
 
@@ -1359,7 +1359,7 @@ Over worn-out hands oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1885-10-01/ed-1/seq-3)
 
@@ -1380,7 +1380,7 @@ Over worn-out hands—oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1885-10-01/ed-1/seq-3)
 
@@ -1401,7 +1401,7 @@ Over worn-out hands—oh, beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1885-10-14/ed-1/seq-1)
 
@@ -1423,7 +1423,7 @@ Over worn-out hands oh, beautiful sloop
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [The Beautiful in Life and Death](http://trove.nla.gov.au/ndp/del/article/162822121)
 
@@ -1444,7 +1444,7 @@ where drifts lie deep Over worn-out
 hands — oh, beautiful sleep. ,S. F
 </td></tr></table>
 
-<hr />
+---
 
 ## [THE BEAUTIFUL IN LIFE AND DEATH.](http://trove.nla.gov.au/ndp/del/article/139987124)
 
@@ -1464,7 +1464,7 @@ Where brown leaves fall, where drifts
 lie deep Over worn-out hands— .oh
 </td></tr></table>
 
-<hr />
+---
 
 ## [Select Poetry. THE BEAUTIFUL IN LIFE AND DEATH.](http://trove.nla.gov.au/ndp/del/article/65487968)
 
@@ -1485,7 +1485,7 @@ lie deep Over worn-out hands-oh,
 beautiful sleep. - r. S.F. Weekl
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1886-12_83_6?page=21)
 
@@ -1509,7 +1509,7 @@ Over worn out hands—Oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1888-06-22/ed-1/seq-1)
 
@@ -1528,7 +1528,7 @@ Over worn-out hands? oh. beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Good Housekeeping 1885-2016_](https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7?page=22)
 
@@ -1544,7 +1544,7 @@ Over worn-out hands,—oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [THE BEAUTIFUL.](http://trove.nla.gov.au/ndp/del/article/150459637)
 
@@ -1562,7 +1562,7 @@ Where brown leaves fall, where drifts
 lie deep Over worn-out
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Barton County democrat._](https://chroniclingamerica.loc.gov/lccn/sn83040198/1889-09-19/ed-1/seq-10)
 
@@ -1581,7 +1581,7 @@ Where brown leaves fall where, drifts lie deep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alpena weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn85033549/1891-03-04/ed-1/seq-4)
 
@@ -1602,7 +1602,7 @@ Over worn our hands Oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Beautiful Things
 
@@ -1610,7 +1610,7 @@ Over worn our hands Oh, beautiful sleep
 
 #### 1891-07-06 &middot; Atchison, Kan.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Beautiful Things
 
@@ -1618,7 +1618,7 @@ Over worn our hands Oh, beautiful sleep
 
 #### 1892-12-10 &middot; Atchison, Kan.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Freeland tribune._](https://chroniclingamerica.loc.gov/lccn/sn87080287/1892-12-15/ed-1/seq-3)
 
@@ -1640,7 +1640,7 @@ Over wornout hands—oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1892-12-20/ed-1/seq-1)
 
@@ -1662,7 +1662,7 @@ Over wornout hands-oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The National tribune._](https://chroniclingamerica.loc.gov/lccn/sn82016187/1893-02-02/ed-1/seq-11)
 
@@ -1684,7 +1684,7 @@ Over worn-out hands oh. beautiful bleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Beautiful Things
 
@@ -1692,7 +1692,7 @@ Over worn-out hands oh. beautiful bleep
 
 #### 1893-06-04 &middot; New Orleans, La.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Democrat._](https://chroniclingamerica.loc.gov/lccn/sn92073907/1893-06-08/ed-1/seq-1)
 
@@ -1716,7 +1716,7 @@ sletp
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Goodland republic._](https://chroniclingamerica.loc.gov/lccn/sn85030821/1893-09-08/ed-1/seq-2)
 
@@ -1737,7 +1737,7 @@ Over worn out hands oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1893-09-23_50_38?page=15)
 
@@ -1761,7 +1761,7 @@ Over worn out hands—oh, beautiful sleep.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4?page=82)
 
@@ -1784,7 +1784,7 @@ Over worn-out hands—oh, beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1894-12-01_51_48?page=13)
 
@@ -1807,7 +1807,7 @@ Over worn-out hands —oh, beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Santa Fe daily New Mexican._](https://chroniclingamerica.loc.gov/lccn/sn84020631/1894-12-10/ed-1/seq-3)
 
@@ -1829,7 +1829,7 @@ Over wornout hands oh, beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Goodland republic._](https://chroniclingamerica.loc.gov/lccn/sn85030821/1895-01-11/ed-1/seq-4)
 
@@ -1846,7 +1846,7 @@ Over worn out hands, oh beautiful sleep.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Prince George's enquirer and southern Maryland advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060124/1895-05-17/ed-1/seq-1)
 
@@ -1867,7 +1867,7 @@ Over worn out hands—Oh! beautiful sleep
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [The Beautiful.](http://trove.nla.gov.au/ndp/del/article/67444950)
 
@@ -1883,7 +1883,7 @@ mhere brown leaveafall; where drifts lie
 deep Over worn-out
 </td></tr></table>
 
-<hr />
+---
 
 ## [The Beautiful.](http://trove.nla.gov.au/ndp/del/article/66220459)
 
@@ -1899,7 +1899,7 @@ Where brown leaves fall, where drifts
 lie deep Over worn-out
 </td></tr></table>
 
-<hr />
+---
 
 ## [The Beautiful.](http://trove.nla.gov.au/ndp/del/article/66851350)
 
@@ -1914,7 +1914,7 @@ Where brown leaves fall, where drifts
 lie deep Over worn-out
 </td></tr></table>
 
-<hr />
+---
 
 ## [BEAUTIFUL THINGS.](http://trove.nla.gov.au/ndp/del/article/144630908)
 
@@ -1934,7 +1934,7 @@ and drifts lie deep Over wom-out hands—
 oh, beautiful sleep ! The carat, used i
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1897-08-20/ed-1/seq-1)
 
@@ -1955,7 +1955,7 @@ Overwornout hands oh. beautiful sleep!&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Young People. BEAUTIFUL THINGS.](http://trove.nla.gov.au/ndp/del/article/87764141)
 
@@ -1975,7 +1975,7 @@ Where brown leaves fall, where drifts
 lie
 </td></tr></table>
 
-<hr />
+---
 
 ## [Beautiful Things.](http://trove.nla.gov.au/ndp/del/article/121637883)
 
@@ -1995,7 +1995,7 @@ leaves fall, where drifts lie deep, Over
 worn-out hands— oh, beautiful sleep. 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Farm Journal 1877-2015_](https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12?page=17)
 
@@ -2013,7 +2013,7 @@ Over wornout hands—oh, beautiful sleep!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Beautiful.
 
@@ -2021,5 +2021,5 @@ Over wornout hands—oh, beautiful sleep!
 
 #### 1899-08-02 &middot; Louisville
 [This text is not available under an open license.]
-<hr />
+---
 

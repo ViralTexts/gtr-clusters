@@ -1,7 +1,7 @@
 
 # A Canadian Phrase
 
-### 52 reprints from 1875-10-23 to 1882-03-10 [cl58]
+### 52 reprints from 1874-09-24 to 1882-03-10
 
 ## [A Canadian Phrase](https://chroniclingamerica.loc.gov/lccn/sn84038126/1875-10-23/ed-1/seq-2/)
 
@@ -14,7 +14,7 @@ A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Du
 
 </td></tr></table>
 
-<hr />
+---
 
 ## EPITOME OF OPINION IN THE MORNING JOURNALS.
 
@@ -22,7 +22,7 @@ A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Du
 
 #### 1874-09-24 &middot; London, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## THE GOVERNOR-GENERAL OF CANADA ON THE DOMINION.
 
@@ -30,7 +30,7 @@ A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Du
 
 #### 1874-09-25 &middot; Belfast, Ireland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## LORD DUFFERIN ON CANADA.
 
@@ -38,7 +38,7 @@ A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Du
 
 #### 1874-09-25 &middot; London, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413?page=0)
 
@@ -62,7 +62,7 @@ In every line Lord Dufferin gives proof of the long-transmitte
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84023296/1874-11-18/ed-1/seq-1)
 
@@ -96,7 +96,7 @@ too many children. Hero I was ap
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## A Canadian Phrase
 
@@ -104,7 +104,7 @@ too many children. Hero I was ap
 
 #### 1874-11-20 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The herald and mail._](https://chroniclingamerica.loc.gov/lccn/sn86053406/1874-11-27/ed-1/seq-1)
 
@@ -155,7 +155,7 @@ been telling Emily.&quot; Harper&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295?page=148)
 
@@ -185,7 +185,7 @@ what I&#x27;ve been telling Emily.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295?page=148)
 
@@ -205,7 +205,7 @@ other. On his voyage out, being called upon | evil spirit which tormented her. �
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295?page=148)
 
@@ -220,7 +220,7 @@ ferences between the old country and their new | woman was punctual in her atten
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-12-02/ed-1/seq-1)
 
@@ -263,7 +263,7 @@ had the anecdote made familiar b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1874-12-02/ed-1/seq-1)
 
@@ -321,7 +321,7 @@ the papers, an I one hear- every where.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [LORD DUFFERIN ON CANADA.](http://trove.nla.gov.au/ndp/del/article/169514225)
 
@@ -348,7 +348,7 @@ oried put, &#x27; Right you are, sir,
 -&#x27;that&#x27;s what I&#x27;ve beon tolling Emily.
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1874-12-03/ed-1/seq-1)
 
@@ -400,7 +400,7 @@ telling Emily.&quot;— Hurptn Ifogwfnyo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1874-12-03/ed-1/seq-4)
 
@@ -448,7 +448,7 @@ oftentimes irrelevant exclamation:
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1874-12-04/ed-1/seq-1)
 
@@ -490,7 +490,7 @@ back, exclaiming in triumphant tones
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1874-12-04/ed-1/seq-5)
 
@@ -509,7 +509,7 @@ Airm with the onion juice and half a nian could scarcely have too many chil
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1874-12-04/ed-1/seq-5)
 
@@ -536,7 +536,7 @@ paters, and now one bears rvrrywhere,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1874-12-05/ed-1/seq-1)
 
@@ -580,7 +580,7 @@ hears everywhere:
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1874-12-06/ed-1/seq-1)
 
@@ -620,7 +620,7 @@ everywhere, &quot;That&#x27;s what I&#x27;ve been tellin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## A Canadian Phrase
 
@@ -628,7 +628,7 @@ everywhere, &quot;That&#x27;s what I&#x27;ve been tellin
 
 #### 1874-12-07 &middot; Cleveland [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-12-09/ed-1/seq-1)
 
@@ -679,7 +679,7 @@ I&#x27;ve been telling Emily.1
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1874-12-12/ed-1/seq-2)
 
@@ -730,7 +730,7 @@ I&#x27;ve here telling Emily.&quot;—Harper&#x27; Mag
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1874-12-17/ed-1/seq-1)
 
@@ -776,7 +776,7 @@ telling Emily,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1874-12-18/ed-1/seq-2)
 
@@ -817,7 +817,7 @@ cuerywhoro, “TJmt’n what I’vo boon tollin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1874-12-18/ed-1/seq-1)
 
@@ -856,7 +856,7 @@ appreng hmp , +ito e by º
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## That's What I've Been Telling Emily
 
@@ -864,7 +864,7 @@ appreng hmp , +ito e by º
 
 #### 1874-12-19 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1874-12-25/ed-1/seq-1)
 
@@ -911,7 +911,7 @@ Emily.&quot; Harper&#x27;a Mmjazine
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## That's What I've Been Telling Emily
 
@@ -919,7 +919,7 @@ Emily.&quot; Harper&#x27;a Mmjazine
 
 #### 1874-12-27 &middot; Chicago, Ill.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [The Cornwall Chronicle WITH WHICH IS INCORPORATED THE LAUNCESTON TIMES. MONDAY, DECEMBER 28, 1874.](http://trove.nla.gov.au/ndp/del/article/66077830)
 
@@ -956,7 +956,7 @@ papers, and one hears everywhere &#x27;
 That&#x27;ll what I&#x27;ve been Idling Kmlly.&#x27; 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1875-01-09/ed-1/seq-7)
 
@@ -972,7 +972,7 @@ foruive nn-: I saw that them was uo mercvl new home, than by the fact that when 
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1875-01-09/ed-1/seq-7)
 
@@ -990,7 +990,7 @@ al io, when I was further greeted with an im-! his ear. a bloody shirt bosom, a 
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1875-01-18/ed-1/seq-2)
 
@@ -1036,7 +1036,7 @@ telling L.raily. Harper i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207?page=13)
 
@@ -1055,7 +1055,7 @@ I’ve been telling Emily.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [THE VICTORIAN INEBIATES' ASYLUM.](http://trove.nla.gov.au/ndp/del/article/100847067)
 
@@ -1093,7 +1093,7 @@ papers, and one hears everywhere,
 &quot;that&#x27;s what I&#x27;ve been telling Emily.&quot; 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1875-02-14/ed-1/seq-5)
 
@@ -1142,7 +1142,7 @@ l ing Emily.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [TOPICS OF THE DAY](http://trove.nla.gov.au/ndp/del/article/28738587)
 
@@ -1186,7 +1186,7 @@ heart everywhere, &#x27; Tbafs what IVe
 btentelling Emily.&#x27;&quot; &quot; His Excellenc
 </td></tr></table>
 
-<hr />
+---
 
 ## [VICTORIAN NOTES.](http://trove.nla.gov.au/ndp/del/article/77175317)
 
@@ -1221,7 +1221,7 @@ papers, and one hears everywhere/1
 .&quot;ThatV wnat I&#x27;ve&#x27; been teliin&#x27; Emily.
 </td></tr></table>
 
-<hr />
+---
 
 ## [AN INTERVIEW WITH MARK TWAIN ABOUT HIS AGE.](http://trove.nla.gov.au/ndp/del/article/96883869)
 
@@ -1269,7 +1269,7 @@ papers, and one hears everywhere, &#x27;
 That&#x27;s what I&#x27;ve been tellin&#x27; Emily.
 </td></tr></table>
 
-<hr />
+---
 
 ## [THE MINISTER OF LANDS AND THE RESIDENCE CLAUSE.](http://trove.nla.gov.au/ndp/del/article/115186945)
 
@@ -1309,7 +1309,7 @@ Eight you are fair; . that&#x27;s what I&#x27;vo
 been telling Emily.
 </td></tr></table>
 
-<hr />
+---
 
 ## [NEWS OF THE WEEK](http://trove.nla.gov.au/ndp/del/article/93962030)
 
@@ -1353,7 +1353,7 @@ now one hears everywhere, &#x27; That&#x27;s what
 IVe been telling Emily.&#x27; &#x27; The Unite
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1875-03-05/ed-1/seq-2)
 
@@ -1398,7 +1398,7 @@ Emily.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Dallas daily herald._](https://chroniclingamerica.loc.gov/lccn/sn83025733/1875-03-05/ed-1/seq-2)
 
@@ -1450,7 +1450,7 @@ I&#x27;ve Iteen telling Emily.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [HOW TO JUDGE WOOL.](http://trove.nla.gov.au/ndp/del/article/108368361)
 
@@ -1493,7 +1493,7 @@ hears everywhere, &quot; That&#x27;s what I&#x27;ve
 beeu tellin &#x27; Emily.
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Arizona citizen._](https://chroniclingamerica.loc.gov/lccn/sn82014896/1875-03-06/ed-1/seq-4)
 
@@ -1527,7 +1527,7 @@ improving thump on the back by a stal-jwell selected stock of DRY GOODb
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Arizona citizen._](https://chroniclingamerica.loc.gov/lccn/sn82014896/1875-03-06/ed-1/seq-4)
 
@@ -1543,7 +1543,7 @@ been telling Emily,&quot; having had the anee- we wn sell at the VERY LOWEST pri
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/92768808)
 
@@ -1586,7 +1586,7 @@ hears everywhere, &quot; That&#x27;s what I&#x27;ve
 been tellin&#x27; Emily.&quot; We (Register) hav
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Dallas weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022279/1875-03-13/ed-1/seq-4)
 
@@ -1635,7 +1635,7 @@ I&#x27;ve been telling Emily.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [WHAT I'VE BEEN TELLING EMILY.](http://trove.nla.gov.au/ndp/del/article/71557069)
 
@@ -1680,7 +1680,7 @@ in&quot;&#x27;hoarS?erywhere, &quot;&#x27;That&#x27;se :wlatI&#x27;ve
 been telling Emly.;,e&#x27;.,.:a, ,,, t .::&#x27;A
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Benton record._](https://chroniclingamerica.loc.gov/lccn/sn84038126/1875-10-23/ed-1/seq-2)
 
@@ -1722,7 +1722,7 @@ p esand one hears everywhere, &quot;That&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Lord Dufferin's Speeches And Addresses.*
 
@@ -1730,5 +1730,5 @@ p esand one hears everywhere, &quot;That&#x27;
 
 #### 1882-03-10 &middot; London, England
 [This text is not available under an open license.]
-<hr />
+---
 

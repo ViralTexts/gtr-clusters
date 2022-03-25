@@ -1,7 +1,7 @@
 
 # Religious Courtship
 
-### 137 reprints from 1836-04-20 to 1899-12-15 [cl114]
+### 137 reprints from 1803-12-31 to 1899-12-15
 
 ## [Religious Courtship](https://chroniclingamerica.loc.gov/lccn/sn87065654/1839-04-20/ed-1/seq-4/)
 
@@ -24,7 +24,7 @@ From the above interview the marriage took place the ensuing week.
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Weekly Visitor, or Ladies' Miscellany (1802-1806)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57?page=6)
 
@@ -53,7 +53,7 @@ marriage took filace the week following.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lady's Weekly Miscellany (1806-1810)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25?page=11)
 
@@ -85,7 +85,7 @@ onthe spot. In order to effec
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lady's Weekly Miscellany (1806-1810)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25?page=11)
 
@@ -121,7 +121,7 @@ lowing.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Portland gazette._](https://chroniclingamerica.loc.gov/lccn/sn83016083/1823-07-08/ed-1/seq-1)
 
@@ -166,7 +166,7 @@ place tlic week following
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Repository (1821-1824)_](https://iiif.archivelab.org/iiif/sim_circular_1823-07-11_2_66?page=2)
 
@@ -217,7 +217,7 @@ From the above interview the marriage
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Phenix gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025006/1826-10-31/ed-1/seq-3)
 
@@ -261,7 +261,7 @@ the marriage took place the ensuing week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Religious Courtship
 
@@ -269,7 +269,7 @@ the marriage took place the ensuing week
 
 #### 1826-11-04 &middot; Philadelphia, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Martinsburg gazette and public advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85059526/1826-11-09/ed-1/seq-4)
 
@@ -311,7 +311,7 @@ and speak face !o taco ”
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Escritoir : or Masonic and miscellaneous album._](https://iiif.archivelab.org/iiif/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43?page=7)
 
@@ -349,7 +349,7 @@ look place the ensuing week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Album and Ladies' Weekly Gazette (1826-1827)_](https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1826-11-22_1_25?page=4)
 
@@ -398,7 +398,7 @@ suing week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1826-11-25_3_26?page=3)
 
@@ -436,7 +436,7 @@ view, the marriage took place the ensuing week.--
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Gariep
 
@@ -444,7 +444,7 @@ view, the marriage took place the ensuing week.--
 
 #### 1826-11-30 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Saturday evening post._](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49?page=0)
 
@@ -475,7 +475,7 @@ lan: Me politely handed his fair neighbor
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Saturday evening post._](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49_0?page=0)
 
@@ -498,7 +498,7 @@ Sudden and violent passion, was desirous
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Masonic Mirror: and Mechanics' Intelligencer (1824-1827)_](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=3)
 
@@ -530,7 +530,7 @@ I intended to be curious, they omitted to print the entering into a courtship on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Masonic Mirror: and Mechanics' Intelligencer (1824-1827)_](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=4)
 
@@ -550,7 +550,7 @@ To let their fame stranger ?** He returned the book, pointing to the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Masonic Mirror: and Mechanics' Intelligencer (1824-1827)_](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=4)
 
@@ -567,7 +567,7 @@ the marriage took place the ensuing week,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bowen's Boston News - Letter, and City Record (1825-1827)_](https://iiif.archivelab.org/iiif/sim_boston-news-letter-and-city-record_1826-12-16_2_24?page=2)
 
@@ -622,7 +622,7 @@ week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [POLICY OF FRANCE AND ENGLAND. MR. CANNING V. M. CHATEAUBRIAND.](http://trove.nla.gov.au/ndp/del/article/37073878)
 
@@ -669,7 +669,7 @@ iace/&#x27; From the above interview, the
 marriage took place the ensuing week. 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Delaware journal._](https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-07-31/ed-1/seq-3)
 
@@ -704,7 +704,7 @@ marriage took place the ensuing week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Universalist Watchman, Repository and Chronicle (1831-1847)_](https://iiif.archivelab.org/iiif/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9?page=7)
 
@@ -743,7 +743,7 @@ place the ensuing week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wilmington expositor._](https://chroniclingamerica.loc.gov/lccn/sn88053122/1832-07-06/ed-1/seq-2)
 
@@ -777,7 +777,7 @@ ting to the 12th epistle of Joh
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Religious Courtship
 
@@ -785,7 +785,7 @@ ting to the 12th epistle of Joh
 
 #### 1832-07-16 &middot; Montpelier, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1834-12-06_3_149?page=7)
 
@@ -808,7 +808,7 @@ place the ensuing week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1835-01-15/ed-1/seq-4)
 
@@ -848,7 +848,7 @@ week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46?page=7)
 
@@ -877,7 +877,7 @@ unto you, I would not write with paper and ink,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Religious Courtship
 
@@ -885,7 +885,7 @@ unto you, I would not write with paper and ink,
 
 #### 1835-05-21 &middot; City of Washington [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Religious Courtship
 
@@ -893,7 +893,7 @@ unto you, I would not write with paper and ink,
 
 #### 1836-01-14 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The President of the United States, by and with the advice and consent of the Senate, has conferred the Broyet of Colonel on Lieut. Colonel Williams S. Foster, of the 4th regiment U. S.
 
@@ -901,7 +901,7 @@ unto you, I would not write with paper and ink,
 
 #### 1838-06-20 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Piney Woods planter._](https://chroniclingamerica.loc.gov/lccn/sn87065654/1839-04-20/ed-1/seq-4)
 
@@ -956,7 +956,7 @@ ge took place thn ensuing week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holly Springs banner._](https://chroniclingamerica.loc.gov/lccn/sn87065188/1839-06-08/ed-1/seq-1)
 
@@ -1000,7 +1000,7 @@ took place the ensjing week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Miscellaneous
 
@@ -1008,7 +1008,7 @@ took place the ensjing week.
 
 #### 1842-04-26 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82015677/1845-06-19/ed-1/seq-1)
 
@@ -1028,7 +1028,7 @@ the following pi in : lie marked a text and handed th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## For the Girls
 
@@ -1036,7 +1036,7 @@ the following pi in : lie marked a text and handed th
 
 #### 1845-08-15 &middot; Raymond, Miss.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Kosciusko chronicle._](https://chroniclingamerica.loc.gov/lccn/sn83016940/1846-05-21/ed-1/seq-1)
 
@@ -1057,7 +1057,7 @@ week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Religious Courtship
 
@@ -1065,7 +1065,7 @@ week
 
 #### 1846-05-23 &middot; [Pensacola, Fla.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Columbian fountain._](https://chroniclingamerica.loc.gov/lccn/sn82014769/1846-06-25/ed-1/seq-4)
 
@@ -1103,7 +1103,7 @@ suing Week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Burlington hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn82014327/1846-07-23/ed-1/seq-1)
 
@@ -1143,7 +1143,7 @@ suing week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [EXTRACTS.](http://trove.nla.gov.au/ndp/del/article/3715315)
 
@@ -1183,7 +1183,7 @@ to face.&quot; From the above interview the
 mar-riage took place the ensuing week. 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1849-02-03/ed-1/seq-4)
 
@@ -1229,7 +1229,7 @@ week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1858-07-31/ed-1/seq-1)
 
@@ -1251,7 +1251,7 @@ of years, with a faco radiant with smiles, exigency of the case suggested the fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1858-07-31/ed-1/seq-1)
 
@@ -1278,7 +1278,7 @@ took place the following week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1859-04-29/ed-1/seq-1)
 
@@ -1303,7 +1303,7 @@ now 1 beseech the, lady, not as t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1859-07-06/ed-1/seq-1)
 
@@ -1339,7 +1339,7 @@ speak face to face that our joy may be full.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1859-10-18/ed-1/seq-4)
 
@@ -1374,7 +1374,7 @@ not write with paper and ink, b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The penny press._](https://chroniclingamerica.loc.gov/lccn/sn85025750/1859-10-18/ed-1/seq-4)
 
@@ -1407,7 +1407,7 @@ would not write with paper and in
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1859-11-02/ed-1/seq-1)
 
@@ -1435,7 +1435,7 @@ that we love one another.&quot; She returned
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Miscellany
 
@@ -1443,7 +1443,7 @@ that we love one another.&quot; She returned
 
 #### 1860-08-18 &middot; Montpelier [Vt.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1863-10-23/ed-1/seq-1)
 
@@ -1496,7 +1496,7 @@ I would not write with pape
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## A YOUNG GENTLEMAN happening to sit at church in a pew adjoining one in which sat a young lady for whom he conceived a sudden and violent passion, was desirous of entering into courtship on the spot
 
@@ -1504,7 +1504,7 @@ I would not write with pape
 
 #### 1863-10-29 &middot; [Milwaukee, Wis.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1863-11-06/ed-1/seq-1)
 
@@ -1549,7 +1549,7 @@ a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1863-11-14/ed-1/seq-4)
 
@@ -1597,7 +1597,7 @@ would not write with paper an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1863-11-25/ed-1/seq-3)
 
@@ -1625,7 +1625,7 @@ She returned it, pointing to the secon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1863-11-26/ed-1/seq-3)
 
@@ -1654,7 +1654,7 @@ chapter of Ruth, verse tent
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-12-24/ed-1/seq-3)
 
@@ -1688,7 +1688,7 @@ had from the beginning, that we love one an*
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1864-01-20/ed-1/seq-4)
 
@@ -1714,7 +1714,7 @@ ond chapter of Ru
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Cleveland morning leader._](https://chroniclingamerica.loc.gov/lccn/sn83035143/1864-03-05/ed-1/seq-3)
 
@@ -1743,7 +1743,7 @@ to the second chapter of Rath,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1866-04-12/ed-1/seq-1)
 
@@ -1773,7 +1773,7 @@ She returned it, pointing to the secon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1866-09-18/ed-1/seq-1)
 
@@ -1814,7 +1814,7 @@ paper and i
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1868-09-23/ed-1/seq-1)
 
@@ -1846,7 +1846,7 @@ eyes, seeing 1 am a stranger?&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1868-11-19/ed-1/seq-1)
 
@@ -1887,7 +1887,7 @@ unto
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Courting in Church
 
@@ -1895,7 +1895,7 @@ unto
 
 #### 1868-11-27 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1868-12-14/ed-1/seq-4)
 
@@ -1920,7 +1920,7 @@ Jilhn : &quot;Huirlncr mnnv tliinirjl tn mrit„ mit
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## How to Court in Church
 
@@ -1928,7 +1928,7 @@ Jilhn : &quot;Huirlncr mnnv tliinirjl tn mrit„ mit
 
 #### 1868-12-26 &middot; Portage, Columbia County, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1869-03-04/ed-1/seq-4)
 
@@ -1958,7 +1958,7 @@ but I trust shortly to come un
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-10-29/ed-1/seq-4)
 
@@ -1984,7 +1984,7 @@ John-.—&quot;Having many things to write unto
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1870-03-02/ed-1/seq-4)
 
@@ -2014,7 +2014,7 @@ I had many things to write unt
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1870-04-09/ed-1/seq-1)
 
@@ -2040,7 +2040,7 @@ He returned the book point
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1871-03-17/ed-1/seq-4)
 
@@ -2077,7 +2077,7 @@ not write with paper and in
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Courting in Church
 
@@ -2085,7 +2085,7 @@ not write with paper and in
 
 #### 1871-04-10 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1871-04-15/ed-1/seq-3)
 
@@ -2116,7 +2116,7 @@ took place the following week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1871-04-19/ed-1/seq-1)
 
@@ -2148,7 +2148,7 @@ ing wees
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1871-05-11/ed-1/seq-4)
 
@@ -2181,7 +2181,7 @@ place the following week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1871-05-25/ed-1/seq-1)
 
@@ -2206,7 +2206,7 @@ place the following week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1872-10-05/ed-1/seq-1)
 
@@ -2237,7 +2237,7 @@ to the second chapter of Butb, v
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Brookhaven ledger._](https://chroniclingamerica.loc.gov/lccn/sn86053968/1879-07-17/ed-1/seq-1)
 
@@ -2270,7 +2270,7 @@ following week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1879-07-30/ed-1/seq-8)
 
@@ -2300,7 +2300,7 @@ following week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## In General
 
@@ -2308,7 +2308,7 @@ following week
 
 #### 1879-08-29 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Novel Courtship
 
@@ -2316,7 +2316,7 @@ following week
 
 #### 1879-09-01 &middot; Milwaukee, Wis.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1879-09-25/ed-1/seq-4)
 
@@ -2355,7 +2355,7 @@ riage took place
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1879-10-24/ed-1/seq-1)
 
@@ -2393,7 +2393,7 @@ riage took place
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Canton advocate._](https://chroniclingamerica.loc.gov/lccn/sn83025440/1879-12-04/ed-1/seq-2)
 
@@ -2436,7 +2436,7 @@ The Male and the Small Boy.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Northern Pacific farmer._](https://chroniclingamerica.loc.gov/lccn/sn90059028/1879-12-11/ed-1/seq-3)
 
@@ -2477,7 +2477,7 @@ interview a marriage took nlace.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbus journal._](https://chroniclingamerica.loc.gov/lccn/sn95073194/1880-01-28/ed-1/seq-4)
 
@@ -2508,7 +2508,7 @@ ond chapter of lluth, vers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1880-01-29/ed-1/seq-1)
 
@@ -2552,7 +2552,7 @@ marriage took place.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [A Scriptural Courtship.](http://trove.nla.gov.au/ndp/del/article/110469359)
 
@@ -2581,7 +2581,7 @@ speak face to face.&quot; From this interview
 a marriage took place
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The National Police Gazette (1845-1906)_](https://iiif.archivelab.org/iiif/sim_national-police-gazette_1880-11-27_37_166?page=9)
 
@@ -2614,7 +2614,7 @@ the following week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The American Magazine 1884-1888_](https://iiif.archivelab.org/iiif/sim_american-magazine_1886-02_3_5?page=38)
 
@@ -2654,7 +2654,7 @@ I would not write with pa
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1886-06-10/ed-1/seq-5)
 
@@ -2691,7 +2691,7 @@ would not wrltewitti paper and ink, b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1886-07-03/ed-1/seq-6)
 
@@ -2735,7 +2735,7 @@ and
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1887-07-13/ed-1/seq-3)
 
@@ -2778,7 +2778,7 @@ I trust I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Hand County press._](https://chroniclingamerica.loc.gov/lccn/sn98062948/1887-07-14/ed-1/seq-3)
 
@@ -2819,7 +2819,7 @@ and ink write unto thee, but 1 trust
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Griggs courier._](https://chroniclingamerica.loc.gov/lccn/sn88076998/1887-07-15/ed-1/seq-8)
 
@@ -2861,7 +2861,7 @@ and ink write unto thee, but I trust
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1887-07-21/ed-1/seq-2)
 
@@ -2902,7 +2902,7 @@ pen and ink write unto thee, but
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1887-07-22/ed-1/seq-3)
 
@@ -2943,7 +2943,7 @@ many tilings to write. I will not with
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1887-07-28/ed-1/seq-2)
 
@@ -2984,7 +2984,7 @@ I will not with pen and ink write unt
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Courtship in Church.](http://trove.nla.gov.au/ndp/del/article/100894218)
 
@@ -3022,7 +3022,7 @@ had many things to write, I will not
 with pen and ink write unto thee, but I
 </td></tr></table>
 
-<hr />
+---
 
 ## [MISCELLNEOUS.](http://trove.nla.gov.au/ndp/del/article/128763986)
 
@@ -3061,7 +3061,7 @@ had many things to write. I will not
 with pen and ink write unto thee, but 
 </td></tr></table>
 
-<hr />
+---
 
 ## [A Courtship in Church.](http://trove.nla.gov.au/ndp/del/article/98451322)
 
@@ -3100,7 +3100,7 @@ with ink and pen write unt) thee; but I
 trust I shall shortly see thee,
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1889-03-06/ed-1/seq-6)
 
@@ -3147,7 +3147,7 @@ speak face to face, that our joy ma
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ladies' Home Journal (1889-1907)_](https://iiif.archivelab.org/iiif/sim_ladies-home-journal_1891-01_8_2?page=1)
 
@@ -3211,7 +3211,7 @@ write unto you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1891-02-06/ed-1/seq-8)
 
@@ -3248,7 +3248,7 @@ paper a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nevada County picayune._](https://chroniclingamerica.loc.gov/lccn/sn87091048/1891-02-12/ed-1/seq-1)
 
@@ -3282,7 +3282,7 @@ ond chapter of Uuth,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Durham recorder._](https://chroniclingamerica.loc.gov/lccn/sn84020731/1892-03-23/ed-1/seq-1)
 
@@ -3339,7 +3339,7 @@ with paper and ink,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [CURIOUS COURTSHIP.](http://trove.nla.gov.au/ndp/del/article/77532961)
 
@@ -3359,7 +3359,7 @@ write with paper and ink, but I trust to
 come unto you and speak face to
 </td></tr></table>
 
-<hr />
+---
 
 ## [No title](http://trove.nla.gov.au/ndp/del/article/144503786)
 
@@ -3380,7 +3380,7 @@ not write with paper and ink, bat I
 trust to come unto you and speak face t
 </td></tr></table>
 
-<hr />
+---
 
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/88967312)
 
@@ -3422,7 +3422,7 @@ to faee.&#x27; From the above interview the
 marriage took place tho coming week. 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1895-08-18/ed-1/seq-11)
 
@@ -3464,7 +3464,7 @@ ing week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jersey City news._](https://chroniclingamerica.loc.gov/lccn/sn87068097/1895-08-21/ed-1/seq-4)
 
@@ -3505,7 +3505,7 @@ place the com-itg wee*;.’&#x27;—Scottish Am
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1895-09-06/ed-1/seq-5)
 
@@ -3537,7 +3537,7 @@ coming week. Scottish American
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1895-09-21_8_44?page=8)
 
@@ -3610,7 +3610,7 @@ place the coming week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Pine Bluff daily graphic._](https://chroniclingamerica.loc.gov/lccn/sn89051168/1895-09-24/ed-1/seq-3)
 
@@ -3642,7 +3642,7 @@ riage took place the coming week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1895-09-25/ed-1/seq-4)
 
@@ -3674,7 +3674,7 @@ took place the coming week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Roanoke daily times._](https://chroniclingamerica.loc.gov/lccn/sn95079481/1895-09-28/ed-1/seq-2)
 
@@ -3718,7 +3718,7 @@ riage took plnco the coming week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Waterbury Democrat._](https://chroniclingamerica.loc.gov/lccn/2016270502/1895-09-30/ed-1/seq-7)
 
@@ -3752,7 +3752,7 @@ riage took place the coming week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Pine Bluff daily graphic._](https://chroniclingamerica.loc.gov/lccn/sn89051168/1895-10-03/ed-1/seq-3)
 
@@ -3795,7 +3795,7 @@ riage took place the coming week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1895-10-03/ed-1/seq-3)
 
@@ -3843,7 +3843,7 @@ riage took place the coming week.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The New Woman
 
@@ -3851,7 +3851,7 @@ riage took place the coming week.
 
 #### 1895-10-06 &middot; New Orleans, La.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## A Bible Courtship
 
@@ -3859,7 +3859,7 @@ riage took place the coming week.
 
 #### 1895-10-08 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1895-11-08/ed-1/seq-4)
 
@@ -3905,7 +3905,7 @@ riaic took place the coining vcek
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _News and citizen._](https://chroniclingamerica.loc.gov/lccn/sn97067613/1895-11-21/ed-1/seq-2)
 
@@ -3949,7 +3949,7 @@ took place the coming week. Scot
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [A BIBLE COURTSHIP.](http://trove.nla.gov.au/ndp/del/article/62739565)
 
@@ -3989,7 +3989,7 @@ face.&#x27; From the above interview the
 marriage took place the following month.
 </td></tr></table>
 
-<hr />
+---
 
 ## [A Bible Courtship.](http://trove.nla.gov.au/ndp/del/article/146905633)
 
@@ -4018,7 +4018,7 @@ I trost to come unto you, and speak face
 to face.11 From the
 </td></tr></table>
 
-<hr />
+---
 
 ## [A Bible Courtship.](http://trove.nla.gov.au/ndp/del/article/61276001)
 
@@ -4057,7 +4057,7 @@ write with paper and ink ; but I trust
 face.&quot; Trom the 
 </td></tr></table>
 
-<hr />
+---
 
 ## [A BIBLE COURTSHIP.](http://trove.nla.gov.au/ndp/del/article/70632245)
 
@@ -4095,7 +4095,7 @@ I will not with ink and pen write unto
 thee ; but I trust I shal
 </td></tr></table>
 
-<hr />
+---
 
 ## [A BIBLE COURTSHIP.](http://trove.nla.gov.au/ndp/del/article/52508471)
 
@@ -4134,7 +4134,7 @@ shall shortly see thee, and wo shall
 speak face to face.&quot; From the 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Cape Girardeau Democrat._](https://chroniclingamerica.loc.gov/lccn/sn89066818/1896-01-18/ed-1/seq-5)
 
@@ -4173,7 +4173,7 @@ wee k
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Indian chieftain._](https://chroniclingamerica.loc.gov/lccn/sn83025010/1896-02-20/ed-1/seq-2)
 
@@ -4235,7 +4235,7 @@ place the following week
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Established August 1842. The Portland Guardian, With which is incorporated The Portland Mirror. Published at Portland Every Monday, Wednesday, and Friday Evening. WEDNESDAY, APRIL 1, 1896.](http://trove.nla.gov.au/ndp/del/article/63635059)
 
@@ -4277,7 +4277,7 @@ From the above interview the marriage
 took place the coming week. DREADFUL
 </td></tr></table>
 
-<hr />
+---
 
 ## [SCRAPS AND CLEANINGS.](http://trove.nla.gov.au/ndp/del/article/64157770)
 
@@ -4305,7 +4305,7 @@ I will not with ink and pen write unto
 thee; but I trust I shall shortly se
 </td></tr></table>
 
-<hr />
+---
 
 ## [SCRAPS AND GLEANINGS.](http://trove.nla.gov.au/ndp/del/article/66910397)
 
@@ -4344,7 +4344,7 @@ to write, but I will not with ink and
 pen write unto thee ; but I trus
 </td></tr></table>
 
-<hr />
+---
 
 ## [HERE AND THERE.](http://trove.nla.gov.au/ndp/del/article/68585515)
 
@@ -4372,7 +4372,7 @@ things to write, but I will not with ink
 and pen write unto th
 </td></tr></table>
 
-<hr />
+---
 
 ## [CURRENT TOPICS](http://trove.nla.gov.au/ndp/del/article/36058352)
 
@@ -4396,7 +4396,7 @@ hut I trust to come unto you, and speak
 face to face. From the
 </td></tr></table>
 
-<hr />
+---
 
 ## [Courtship in Church.](http://trove.nla.gov.au/ndp/del/article/126303864)
 
@@ -4420,7 +4420,7 @@ to come unto, you and speak -face to
 face.&#x27; From the
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1897-06-23/ed-1/seq-4)
 
@@ -4462,7 +4462,7 @@ ing week?Church Paper
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [COURTSHIP IN CHURCH.](http://trove.nla.gov.au/ndp/del/article/59564215)
 
@@ -4501,5 +4501,5 @@ things to write unto you, I would not
 write with paper and) 
 </td></tr></table>
 
-<hr />
+---
 

@@ -1,7 +1,7 @@
 
 # Keeping One's Eyes Open
 
-### 293 reprints from 1869-07-15 to 1896-06-18 [cl47]
+### 293 reprints from 1869-06-12 to 1896-06-18
 
 ## [Keeping One's Eyes Open](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
 
@@ -22,7 +22,7 @@ You&#x27;ll have peace to your end,
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Review 1973-1986_](https://iiif.archivelab.org/iiif/sim_saturday-review_1869-06-12_27_711?page=14)
 
@@ -42,7 +42,7 @@ within us.” In a word, asin all these bundles of conceits, th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## KEEPING ONE'S EYES OPEN.
 
@@ -50,7 +50,7 @@ within us.” In a word, asin all these bundles of conceits, th
 
 #### 1869-06-24 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
 
@@ -119,7 +119,7 @@ hearer,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1869-08-03/ed-1/seq-4)
 
@@ -154,7 +154,7 @@ l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1869-08-03/ed-1/seq-4)
 
@@ -186,7 +186,7 @@ tfl)pVu)ftftiei.t. Alwayagiveup the road
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1869-08-21/ed-1/seq-1)
 
@@ -221,7 +221,7 @@ label of a bsg. and cout m
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1869-08-21/ed-1/seq-1)
 
@@ -252,7 +252,7 @@ Yeull have peae t ysaieaJ
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1869-08-27/ed-1/seq-4)
 
@@ -301,7 +301,7 @@ never fight with a coal-heaver, or contend wit
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022168/1869-08-28/ed-1/seq-4)
 
@@ -334,7 +334,7 @@ means no more than it says. Don&#x27;t tj&quot; to duciu to be,t muiued in tint 
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022168/1869-08-28/ed-1/seq-4)
 
@@ -356,7 +356,7 @@ with a ba character, for they will bo sure , the brain. The ido 1 ni-.li.- to Ho
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1869-09-02/ed-1/seq-1)
 
@@ -433,7 +433,7 @@ wiil be sure to blacken von. Her. C
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1869-09-05/ed-1/seq-8)
 
@@ -497,7 +497,7 @@ will be sure to blacken you.- -
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1869-09-08/ed-1/seq-2)
 
@@ -561,7 +561,7 @@ for they will be sure to blacken yon, Ikv
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1869-09-08/ed-1/seq-1)
 
@@ -630,7 +630,7 @@ for they will be sure to blacken you.—Rev
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Spurgeon's Advice Gratis
 
@@ -638,7 +638,7 @@ for they will be sure to blacken you.—Rev
 
 #### 1869-09-08 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1869-09-09/ed-1/seq-1)
 
@@ -704,7 +704,7 @@ for they w ill be sure to blacken you.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1869-09-09/ed-1/seq-2)
 
@@ -769,7 +769,7 @@ for they will be sure to blacken you.—Rev
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1869-09-09/ed-1/seq-1)
 
@@ -822,7 +822,7 @@ en you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Conservative._](https://chroniclingamerica.loc.gov/lccn/sn87075001/1869-09-10/ed-1/seq-2)
 
@@ -886,7 +886,7 @@ Tor I hey will be sure to blacken you.-- Ur
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1869-09-10/ed-1/seq-1)
 
@@ -925,7 +925,7 @@ Corn
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1869-09-17/ed-1/seq-4)
 
@@ -1008,7 +1008,7 @@ to blacken vou.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1869-09-18/ed-1/seq-1)
 
@@ -1094,7 +1094,7 @@ blackeu you.— [C. H. Spurgeon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1869-09-21/ed-1/seq-1)
 
@@ -1120,7 +1120,7 @@ self ; we cai ry our worst enemies with us
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1869-09-21/ed-1/seq-1)
 
@@ -1141,7 +1141,7 @@ or they will be sure to blacken you.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1869-09-24/ed-1/seq-1)
 
@@ -1185,7 +1185,7 @@ be cheated.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1869-09-24/ed-1/seq-1)
 
@@ -1264,7 +1264,7 @@ ter, for they will be sure to blacken you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-2)
 
@@ -1284,7 +1284,7 @@ Do not choose your friends by thei
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-6)
 
@@ -1304,7 +1304,7 @@ sure that it means no more than it says.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-7)
 
@@ -1342,7 +1342,7 @@ New Advertisements
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Choice Miscellany
 
@@ -1350,7 +1350,7 @@ New Advertisements
 
 #### 1869-10-09 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1869-10-12/ed-1/seq-4)
 
@@ -1371,7 +1371,7 @@ man than a thorough rogue
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1869-10-12/ed-1/seq-1)
 
@@ -1390,7 +1390,7 @@ employment
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-2)
 
@@ -1411,7 +1411,7 @@ gilt on l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-2)
 
@@ -1430,7 +1430,7 @@ DIM).
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-3)
 
@@ -1452,7 +1452,7 @@ they will be sure to blacken you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1869-10-14/ed-1/seq-1)
 
@@ -1519,7 +1519,7 @@ ir they will be sure to blacken you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
 
@@ -1551,7 +1551,7 @@ water where you cannot see the bottom
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
 
@@ -1570,7 +1570,7 @@ kin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
 
@@ -1592,7 +1592,7 @@ between two grinders, they are opt to bite
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1869-10-20/ed-1/seq-3)
 
@@ -1657,7 +1657,7 @@ ter for they will be sure to blacken yon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1869-11-02/ed-1/seq-1)
 
@@ -1720,7 +1720,7 @@ be sure to blacken you.&quot; .
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-11-05/ed-1/seq-1)
 
@@ -1766,7 +1766,7 @@ they are caught in the net
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-11-05/ed-1/seq-1)
 
@@ -1789,7 +1789,7 @@ may depend upon it he keeps a very small
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1869-11-05/ed-1/seq-4)
 
@@ -1858,7 +1858,7 @@ The man who, on last Wednesda
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Multiple News Items
 
@@ -1866,7 +1866,7 @@ The man who, on last Wednesda
 
 #### 1869-11-06 &middot; Ruby City, I.T. [Idaho]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1869-11-11/ed-1/seq-4)
 
@@ -1948,7 +1948,7 @@ blacken you.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1869-11-27/ed-1/seq-1)
 
@@ -1998,7 +1998,7 @@ no hones
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [COLONIAL EXTRACTS.](http://trove.nla.gov.au/ndp/del/article/1303016)
 
@@ -2063,7 +2063,7 @@ a hue character, far they will be sure
 to blacken you.-SrintaBaif
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153?page=11)
 
@@ -2078,7 +2078,7 @@ to blacken you.-SrintaBaif
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## All Sorts and Sizes
 
@@ -2086,7 +2086,7 @@ to blacken you.-SrintaBaif
 
 #### 1869-12-06 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1869-12-15/ed-1/seq-1)
 
@@ -2145,7 +2145,7 @@ geon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1869-12-16/ed-1/seq-4)
 
@@ -2164,7 +2164,7 @@ Beware of no uiau more than yourself ,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026840/1869-12-20/ed-1/seq-1)
 
@@ -2217,7 +2217,7 @@ we carry onr worst enemies within u?
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157?page=16)
 
@@ -2232,7 +2232,7 @@ we carry our worst enemies with us.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1870-01-06/ed-1/seq-1)
 
@@ -2250,7 +2250,7 @@ because of tho gilt on it
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## All Sorts and Sizes
 
@@ -2258,7 +2258,7 @@ because of tho gilt on it
 
 #### 1870-01-25 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1870-02-03/ed-1/seq-1)
 
@@ -2276,7 +2276,7 @@ very small Block of it within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Good Advice
 
@@ -2284,7 +2284,7 @@ very small Block of it within
 
 #### 1870-02-05 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162?page=12)
 
@@ -2301,7 +2301,7 @@ mousers.”
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Beware
 
@@ -2309,7 +2309,7 @@ mousers.”
 
 #### 1870-02-12 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1870-02-27/ed-1/seq-4)
 
@@ -2349,7 +2349,7 @@ to be cheated. I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1870-03-01/ed-1/seq-1)
 
@@ -2418,7 +2418,7 @@ ter, for they will be sure to blacken you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Advertising](http://trove.nla.gov.au/ndp/del/article/65471753)
 
@@ -2481,7 +2481,7 @@ with a base chis tor. for they will bc
 suro to blacken you. I HOLLOWAY&#x27;
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1870-03-17_43_11?page=7)
 
@@ -2497,7 +2497,7 @@ Do not choose your friend by his looks.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1870-05-13/ed-1/seq-1)
 
@@ -2514,7 +2514,7 @@ the feet
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-05-13/ed-1/seq-4)
 
@@ -2538,7 +2538,7 @@ It, r &#x27; -
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-05-13/ed-1/seq-4)
 
@@ -2581,7 +2581,7 @@ tom. - -
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1870-05-14/ed-1/seq-1)
 
@@ -2631,7 +2631,7 @@ for they will be sure to blacken you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1870-06-02/ed-1/seq-4)
 
@@ -2682,7 +2682,7 @@ sure to blacken you.?Rev. G. H. Spurgeon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1870-10-13/ed-1/seq-1)
 
@@ -2757,7 +2757,7 @@ You&#x27;ll have peace to your end
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Sumter watchman._](https://chroniclingamerica.loc.gov/lccn/sn84026917/1870-11-09/ed-1/seq-1)
 
@@ -2823,7 +2823,7 @@ ter, for thoy will bo sure to blackcu you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Plymouth Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84038005/1870-11-10/ed-1/seq-1)
 
@@ -2862,7 +2862,7 @@ and count money after your ow n kin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Iowa voter._](https://chroniclingamerica.loc.gov/lccn/sn84027183/1870-11-17/ed-1/seq-6)
 
@@ -2920,7 +2920,7 @@ Orchard and Nursery.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1870-12-02/ed-1/seq-2)
 
@@ -2979,7 +2979,7 @@ his own character
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn84022149/1870-12-08/ed-1/seq-3)
 
@@ -3018,7 +3018,7 @@ built on fool’s heads.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Good Advice
 
@@ -3026,7 +3026,7 @@ built on fool’s heads.
 
 #### 1870-12-17 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Good Advice
 
@@ -3034,7 +3034,7 @@ built on fool’s heads.
 
 #### 1870-12-17 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1870-12-21/ed-1/seq-4)
 
@@ -3084,7 +3084,7 @@ value his own character.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1870-12-21/ed-1/seq-1)
 
@@ -3144,7 +3144,7 @@ The Tariff on Plows.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-12-24/ed-1/seq-1)
 
@@ -3166,7 +3166,7 @@ geon.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-01-05/ed-1/seq-2)
 
@@ -3233,7 +3233,7 @@ not value his own character.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Centre Hall reporter._](https://chroniclingamerica.loc.gov/lccn/sn85054524/1871-01-06/ed-1/seq-1)
 
@@ -3286,7 +3286,7 @@ kind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Centre Hall reporter._](https://chroniclingamerica.loc.gov/lccn/sn85054524/1871-01-06/ed-1/seq-1)
 
@@ -3307,7 +3307,7 @@ value his own character.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Spurgeon's Advice, Gratis
 
@@ -3315,7 +3315,7 @@ value his own character.
 
 #### 1871-01-06 &middot; Little Rock, Ark.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Essays in Brief
 
@@ -3323,7 +3323,7 @@ value his own character.
 
 #### 1871-01-07 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Wise and Witty
 
@@ -3331,7 +3331,7 @@ value his own character.
 
 #### 1871-01-14 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Facetious
 
@@ -3339,7 +3339,7 @@ value his own character.
 
 #### 1871-01-14 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Good Advice
 
@@ -3347,7 +3347,7 @@ value his own character.
 
 #### 1871-01-15 &middot; Central City, Colo.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn84022149/1871-01-18/ed-1/seq-3)
 
@@ -3397,7 +3397,7 @@ value ids own character
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1871-01-19/ed-1/seq-4)
 
@@ -3456,7 +3456,7 @@ value his own character.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
 
@@ -3475,7 +3475,7 @@ small stock of It within.. . : -&#x27;. .... , , : ;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
 
@@ -3508,7 +3508,7 @@ and count money after your own kind.&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
 
@@ -3528,7 +3528,7 @@ his own character. ., , ,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1871-01-20/ed-1/seq-1)
 
@@ -3582,7 +3582,7 @@ value his own character
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1871-01-25/ed-1/seq-1)
 
@@ -3602,7 +3602,7 @@ dark askt to be cheated.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## SPURGEON sententiously expresses a number of thoughts "worth remembering" which he publishes as "advice gratis"
 
@@ -3610,7 +3610,7 @@ dark askt to be cheated.
 
 #### 1871-01-25 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Iowa voter._](https://chroniclingamerica.loc.gov/lccn/sn84027183/1871-01-26/ed-1/seq-3)
 
@@ -3662,7 +3662,7 @@ Bee the sack open before you buy w
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1871-01-28_2583?page=5)
 
@@ -3682,7 +3682,7 @@ Cc’ eated,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1871-02-08/ed-1/seq-1)
 
@@ -3704,7 +3704,7 @@ cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1871-02-09/ed-1/seq-1)
 
@@ -3726,7 +3726,7 @@ cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [FIRE AND LOSS OF LIFE AT URANA.](http://trove.nla.gov.au/ndp/del/article/70056015)
 
@@ -3744,7 +3744,7 @@ the humblest oflice is better than being
 out of e-aploy., ment: A New .York pape
 </td></tr></table>
 
-<hr />
+---
 
 ## [FIRE AND LOSS OF LIFE AT URANA.](http://trove.nla.gov.au/ndp/del/article/70056015)
 
@@ -3766,7 +3766,7 @@ depend upon it he keeps a very small
 stock of it within. Always give up th
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1871-02-10/ed-1/seq-1)
 
@@ -3783,7 +3783,7 @@ water where you cannot see the bottom
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1871-02-15/ed-1/seq-4)
 
@@ -3812,7 +3812,7 @@ own aiiiu
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1871-02-17/ed-1/seq-6)
 
@@ -3829,7 +3829,7 @@ cies of fortune
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1871-02-18/ed-1/seq-2)
 
@@ -3851,7 +3851,7 @@ j cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly echo._](https://chroniclingamerica.loc.gov/lccn/sn85034325/1871-02-23/ed-1/seq-4)
 
@@ -3881,7 +3881,7 @@ the&#x27;feet
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1871-02-23/ed-1/seq-4)
 
@@ -3896,7 +3896,7 @@ an honest man than a thorough rogue.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Quips and Cranks
 
@@ -3904,7 +3904,7 @@ an honest man than a thorough rogue.
 
 #### 1871-03-04 &middot; Cleveland, Ohio
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Daily telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88064499/1871-03-08/ed-1/seq-2)
 
@@ -3928,7 +3928,7 @@ keeps a very small stock of it within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1871-03-09/ed-1/seq-1)
 
@@ -3980,7 +3980,7 @@ Keen clear of a man t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
 
@@ -4003,7 +4003,7 @@ Ho not c .ooso your menu .., f impropriety in the use of suc
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
 
@@ -4022,7 +4022,7 @@ dom good monsors. , . . ,i.iil .i.;, -,,v ,nJ ... v,. &#x27; .
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
 
@@ -4046,7 +4046,7 @@ valuo his own rlinrnctcr
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1871-03-16/ed-1/seq-1)
 
@@ -4090,7 +4090,7 @@ a iacttr. for thev will be aiie i-j jb
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Stark County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028490/1871-03-16/ed-1/seq-4)
 
@@ -4105,7 +4105,7 @@ handsome shoes often pinch the feet.-
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1871-03-23/ed-1/seq-1)
 
@@ -4121,7 +4121,7 @@ dark asks to be cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Daily state journal._](https://chroniclingamerica.loc.gov/lccn/sn84024670/1871-03-25/ed-1/seq-3)
 
@@ -4169,7 +4169,7 @@ his own character
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1871-03-30/ed-1/seq-4)
 
@@ -4193,7 +4193,7 @@ sure that it means no more than it says
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1871-03-31/ed-1/seq-4)
 
@@ -4229,7 +4229,7 @@ ue his own character. The Aje
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-04-16/ed-1/seq-3)
 
@@ -4271,7 +4271,7 @@ his own character. - &#x27; ;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1871-04-20/ed-1/seq-4)
 
@@ -4289,7 +4289,7 @@ The Directors of the Washington Lif
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84023296/1871-04-20/ed-1/seq-4)
 
@@ -4311,7 +4311,7 @@ asks to bc chcated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1871-04-22/ed-1/seq-1)
 
@@ -4343,7 +4343,7 @@ th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-04-22/ed-1/seq-1)
 
@@ -4380,7 +4380,7 @@ and count money after your own kind
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-04-22/ed-1/seq-1)
 
@@ -4400,7 +4400,7 @@ If farmers would look at the theory of roll
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026840/1871-04-24/ed-1/seq-1)
 
@@ -4440,7 +4440,7 @@ own kin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The herald._](https://chroniclingamerica.loc.gov/lccn/sn88053095/1871-04-29/ed-1/seq-1)
 
@@ -4493,7 +4493,7 @@ ue his own character
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1871-05-05/ed-1/seq-1)
 
@@ -4545,7 +4545,7 @@ ue bis own character,—The Age. &#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/3752893)
 
@@ -4562,7 +4562,7 @@ apt to bite. IN any business never wade
 water where you cannot see the bottom
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1871-05-06/ed-2/seq-3)
 
@@ -4583,7 +4583,7 @@ lbandsomuehoes often pinch the feet
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1871-05-06/ed-2/seq-3)
 
@@ -4607,7 +4607,7 @@ Hold on to your tongue when you ae jus
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1871-05-24/ed-1/seq-1)
 
@@ -4661,7 +4661,7 @@ ey after youi own kind
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1871-05-24/ed-1/seq-1)
 
@@ -4685,7 +4685,7 @@ A CRADLE SONG.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1871-05-25/ed-1/seq-4)
 
@@ -4703,7 +4703,7 @@ keeps a very small stock within.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1871-06-08/ed-1/seq-6)
 
@@ -4721,7 +4721,7 @@ bile
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-06-20/ed-1/seq-3)
 
@@ -4748,7 +4748,7 @@ it gays. ... ,.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## LITERARY MISCELLANEA.
 
@@ -4756,7 +4756,7 @@ it gays. ... ,.
 
 #### 1871-06-25 &middot; London, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1871-07-13/ed-1/seq-1)
 
@@ -4778,7 +4778,7 @@ they are very apt to bite
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1871-07-13/ed-1/seq-1)
 
@@ -4794,7 +4794,7 @@ the feet.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-07-18/ed-1/seq-2)
 
@@ -4811,7 +4811,7 @@ small stock within.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1871-07-21/ed-1/seq-4)
 
@@ -4856,7 +4856,7 @@ uo his own charnctor.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [GENERAL NEWS.](http://trove.nla.gov.au/ndp/del/article/18755913)
 
@@ -4874,7 +4874,7 @@ Guinea have sent a pc tition to the Kiog
 of Holland against the transfer to ou
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1871-09-14/ed-1/seq-4)
 
@@ -4893,7 +4893,7 @@ keeps a very small stock of it within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-09-16/ed-1/seq-1)
 
@@ -4911,7 +4911,7 @@ keeps a very small stock of it within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Condensed Wisdom
 
@@ -4919,7 +4919,7 @@ keeps a very small stock of it within
 
 #### 1871-09-23 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Condensed Wisdom
 
@@ -4927,7 +4927,7 @@ keeps a very small stock of it within
 
 #### 1871-09-23 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [AN INTERESTING DISCOVERY](http://trove.nla.gov.au/ndp/del/article/123549199)
 
@@ -4943,7 +4943,7 @@ he who trades in the dark asks to be
 cheated. — . -? . -?. It is easier t
 </td></tr></table>
 
-<hr />
+---
 
 ## MISCELLANEA.
 
@@ -4951,7 +4951,7 @@ cheated. — . -? . -?. It is easier t
 
 #### 1871-09-27 &middot; Exeter, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1871-09-30/ed-1/seq-1)
 
@@ -5007,7 +5007,7 @@ Keep clear of a man who does not
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1871-10-01/ed-1/seq-2)
 
@@ -5025,7 +5025,7 @@ keeps a very small stock of it within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1871-10-05/ed-1/seq-2)
 
@@ -5043,7 +5043,7 @@ keeps a ven small stock of it within.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-07/ed-1/seq-1)
 
@@ -5066,7 +5066,7 @@ they are very apt to bite,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-07/ed-1/seq-5)
 
@@ -5088,7 +5088,7 @@ mouscrs.—[Spur^eon,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Macon beacon._](https://chroniclingamerica.loc.gov/lccn/sn83016943/1871-10-07/ed-1/seq-1)
 
@@ -5108,7 +5108,7 @@ The poverty of the poor man is th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-14/ed-1/seq-1)
 
@@ -5132,7 +5132,7 @@ your own kind
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1871-10-14/ed-1/seq-2)
 
@@ -5152,7 +5152,7 @@ within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-11-18/ed-1/seq-1)
 
@@ -5167,7 +5167,7 @@ Handsome shoes often pinch the feet.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1871-11-26/ed-1/seq-3)
 
@@ -5184,7 +5184,7 @@ keeps a very small stock of it within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1871-11-30/ed-1/seq-4)
 
@@ -5203,7 +5203,7 @@ A
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1871-11-30/ed-1/seq-3)
 
@@ -5222,7 +5222,7 @@ dark asks to be cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-12-07/ed-1/seq-4)
 
@@ -5293,7 +5293,7 @@ will lie sure to blacken you.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Iowa plain dealer._](https://chroniclingamerica.loc.gov/lccn/sn83025167/1871-12-08/ed-1/seq-4)
 
@@ -5312,7 +5312,7 @@ in*
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1871-12-09/ed-1/seq-8)
 
@@ -5337,7 +5337,7 @@ kind.&quot;; :-:. --&quot; - -&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1871-12-13/ed-1/seq-1)
 
@@ -5389,7 +5389,7 @@ his own character
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1871-12-29/ed-1/seq-1)
 
@@ -5408,7 +5408,7 @@ within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1872-01-06/ed-1/seq-1)
 
@@ -5427,7 +5427,7 @@ within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Grains of Gold
 
@@ -5435,7 +5435,7 @@ within
 
 #### 1872-02-03 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Sense and Sentiment
 
@@ -5443,7 +5443,7 @@ within
 
 #### 1872-02-13 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1872-02-17/ed-1/seq-1)
 
@@ -5524,7 +5524,7 @@ you.-Exchanle.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1872-02-17/ed-1/seq-1)
 
@@ -5542,7 +5542,7 @@ rWHOLE NO. 588;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1872-03-01/ed-1/seq-1)
 
@@ -5560,7 +5560,7 @@ small stock of it within.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1872-03-07/ed-1/seq-1)
 
@@ -5604,7 +5604,7 @@ his own character
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1872-04-27/ed-1/seq-2)
 
@@ -5622,7 +5622,7 @@ keep· «very small stock of it within.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1872-06-19/ed-1/seq-4)
 
@@ -5643,7 +5643,7 @@ In conversation, a wise man ma
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1872-06-20/ed-1/seq-1)
 
@@ -5684,7 +5684,7 @@ bag, and count monev after vour ow
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1872-06-20/ed-1/seq-1)
 
@@ -5705,7 +5705,7 @@ value his character.-&#x27; &quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1872-07-31/ed-1/seq-1)
 
@@ -5722,7 +5722,7 @@ sure te&quot;&#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1872-08-16/ed-1/seq-1)
 
@@ -5746,7 +5746,7 @@ E. Dwight, of Hudson, Michigan, ha
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Charleston daily news._](https://chroniclingamerica.loc.gov/lccn/sn84026994/1872-08-20/ed-1/seq-3)
 
@@ -5785,7 +5785,7 @@ Chested.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1872-08-28/ed-1/seq-1)
 
@@ -5818,7 +5818,7 @@ fools&#x27; heads.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1872-08-28/ed-1/seq-1)
 
@@ -5839,7 +5839,7 @@ tan) Presidency aro consideriag. the expe
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1872-08-29/ed-1/seq-3)
 
@@ -5860,7 +5860,7 @@ Sadly contemplating the result o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1872-08-29/ed-1/seq-4)
 
@@ -5878,7 +5878,7 @@ blacken yow-SpurgooT
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Sayings of Spurgeon
 
@@ -5886,7 +5886,7 @@ blacken yow-SpurgooT
 
 #### 1872-09-03 &middot; Macon, Ga.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Odds and Ends.
 
@@ -5894,7 +5894,7 @@ blacken yow-SpurgooT
 
 #### 1872-09-05 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Vinton record._](https://chroniclingamerica.loc.gov/lccn/sn85038222/1872-09-19/ed-1/seq-4)
 
@@ -5916,7 +5916,7 @@ cheated.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1872-09-19/ed-1/seq-1)
 
@@ -5935,7 +5935,7 @@ A gentleman advertised for
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## All Sorts of Items
 
@@ -5943,7 +5943,7 @@ A gentleman advertised for
 
 #### 1872-09-21 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1872-09-25/ed-1/seq-1)
 
@@ -5961,7 +5961,7 @@ for they will bo snre lo blaeken yon
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1872-10-05/ed-1/seq-4)
 
@@ -5984,7 +5984,7 @@ to bit
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1872-10-10/ed-1/seq-4)
 
@@ -6003,7 +6003,7 @@ The mother of the Worrell sisters turned
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1872-10-12/ed-1/seq-1)
 
@@ -6034,7 +6034,7 @@ means no more than it. says
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1872-11-14_45_46?page=7)
 
@@ -6052,7 +6052,7 @@ you.—Spurgeon.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## When you see a man with a great deal of religion displayed in his shop window, you may depend upon it he keeps a very small stock of it within
 
@@ -6060,7 +6060,7 @@ you.—Spurgeon.
 
 #### 1872-11-21 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1873-01-04/ed-1/seq-2)
 
@@ -6083,7 +6083,7 @@ good mousers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-01-09/ed-1/seq-2)
 
@@ -6100,7 +6100,7 @@ f wo grinders they are very opt to bite.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1873-04-12/ed-1/seq-4)
 
@@ -6172,7 +6172,7 @@ tor they will be sure to blacken you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-04-12/ed-1/seq-1)
 
@@ -6244,7 +6244,7 @@ A Fearful Vistou.—The Paris Sob- r
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1873-06-13/ed-1/seq-1)
 
@@ -6264,7 +6264,7 @@ A dbdnkex Toledo man wrote on th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1873-06-13/ed-1/seq-1)
 
@@ -6280,7 +6280,7 @@ dark asks to be cheate
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1873-06-14/ed-1/seq-1)
 
@@ -6300,7 +6300,7 @@ dark asks to be cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1873-06-14/ed-1/seq-1)
 
@@ -6315,7 +6315,7 @@ handsome shoes often pinch the feet.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1874-03-26/ed-1/seq-4)
 
@@ -6332,7 +6332,7 @@ dark asks to be cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1874-10-29/ed-1/seq-3)
 
@@ -6351,7 +6351,7 @@ own character. Bo virtuous and yo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1874-11-25/ed-1/seq-3)
 
@@ -6367,7 +6367,7 @@ pinch the feet
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-12-04/ed-1/seq-3)
 
@@ -6382,7 +6382,7 @@ handsome shoes often pinch the feet
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1874-12-17/ed-1/seq-4)
 
@@ -6397,7 +6397,7 @@ handsome shoes often pinch the feet..
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-05-27/ed-1/seq-4)
 
@@ -6421,7 +6421,7 @@ kind
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1875-07-08/ed-1/seq-4)
 
@@ -6439,7 +6439,7 @@ small stock of it within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
 
@@ -6460,7 +6460,7 @@ than a thorough rogue
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
 
@@ -6479,7 +6479,7 @@ own kind.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
 
@@ -6513,7 +6513,7 @@ keeps a very small stock of it within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [GOOD ADVICE.](http://trove.nla.gov.au/ndp/del/article/68582609)
 
@@ -6545,7 +6545,7 @@ readting&#x27; it, and make sure that it
 means no more than it says
 </td></tr></table>
 
-<hr />
+---
 
 ## [GOOD ADVICE](http://trove.nla.gov.au/ndp/del/article/63316813)
 
@@ -6562,7 +6562,7 @@ of a bag, and count money after yo&#x27;ur
 own kind. Don&#x27;t go to law, unless yo
 </td></tr></table>
 
-<hr />
+---
 
 ## [GOOD ADVICE](http://trove.nla.gov.au/ndp/del/article/63316813)
 
@@ -6588,7 +6588,7 @@ reading it, and make sure that it means
 no more than it says. &amp;nbsp
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1876-08-03/ed-1/seq-4)
 
@@ -6604,7 +6604,7 @@ than a thorough rogue.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1876-08-09/ed-1/seq-4)
 
@@ -6625,7 +6625,7 @@ than a thorough rogue.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Port Royal standard and commercial._](https://chroniclingamerica.loc.gov/lccn/sn85026954/1876-08-10/ed-1/seq-1)
 
@@ -6647,7 +6647,7 @@ than a thorough rogue
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [GOOD ADVICE.](http://trove.nla.gov.au/ndp/del/article/96881833)
 
@@ -6664,7 +6664,7 @@ of a bag, and count money after your own
 kind. Don&#x27;t go to law, unless you hav
 </td></tr></table>
 
-<hr />
+---
 
 ## [GOOD ADVICE.](http://trove.nla.gov.au/ndp/del/article/96881833)
 
@@ -6688,7 +6688,7 @@ reading it, and make sure that it means
 no more than it says. 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1877-08-08/ed-1/seq-6)
 
@@ -6763,7 +6763,7 @@ will be sure to blacken you.—Rev. C. If
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1877-08-09/ed-1/seq-4)
 
@@ -6838,7 +6838,7 @@ will be sure to blacken you.—Rev. C. H
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [GEMS FOR THE THOUGHTFUL.](http://trove.nla.gov.au/ndp/del/article/130883581)
 
@@ -6852,7 +6852,7 @@ cry. Nobody is more like an honest man
 than a thorough rogue. A teetotaler ca
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1877-09-19/ed-1/seq-1)
 
@@ -6921,7 +6921,7 @@ base character; for they will b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Alpena weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn85033549/1878-04-03/ed-1/seq-4)
 
@@ -6975,7 +6975,7 @@ the dark asks to be cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1878-05-10/ed-1/seq-4)
 
@@ -7034,7 +7034,7 @@ his own character.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1878-05-24/ed-1/seq-1)
 
@@ -7074,7 +7074,7 @@ kind
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1878-05-24/ed-1/seq-1)
 
@@ -7094,7 +7094,7 @@ value his own character.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Troy herald._](https://chroniclingamerica.loc.gov/lccn/sn86063984/1878-05-29/ed-1/seq-3)
 
@@ -7146,7 +7146,7 @@ Keep clear
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1878-11-28/ed-1/seq-1)
 
@@ -7196,7 +7196,7 @@ kind
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1878-11-28/ed-1/seq-1)
 
@@ -7216,7 +7216,7 @@ value his own character
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Something Worth Reading](http://trove.nla.gov.au/ndp/del/article/78834405)
 
@@ -7284,7 +7284,7 @@ contend, Nor lay wager*, nor lend ; And
 you may depend You&#x27;ll have pence to you
 </td></tr></table>
 
-<hr />
+---
 
 ## [ON KEEPING ONE'S EYES OPEN.](http://trove.nla.gov.au/ndp/del/article/101447530)
 
@@ -7351,7 +7351,7 @@ employmenit: &#x27;Alwayis givouip.th)oi road
 t?b bullsj,and; madmen ; iand .nov?
 </td></tr></table>
 
-<hr />
+---
 
 ## [Something Worth Reading. ON KEEPING ONE'S EYES OPEN.](http://trove.nla.gov.au/ndp/del/article/132979049)
 
@@ -7422,7 +7422,7 @@ wagss, ;uor lend, . c ? And you may
 dopond e You&#x27;ll havo pcaco to your end.
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-08-06/ed-1/seq-4)
 
@@ -7464,7 +7464,7 @@ kind
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-08-06/ed-1/seq-4)
 
@@ -7484,7 +7484,7 @@ value bis character
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1879-09-10/ed-1/seq-1)
 
@@ -7501,7 +7501,7 @@ for they will be sure to blackeu you
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1879-09-10/ed-1/seq-1)
 
@@ -7523,7 +7523,7 @@ Horatio Seymour walks through th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1879-10-18/ed-1/seq-1)
 
@@ -7589,7 +7589,7 @@ You&#x27;ll hare peace to your rial.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [SOMETHING WORTH READING. ON KEEPING ONE'S EYES OPEN.](http://trove.nla.gov.au/ndp/del/article/127638875)
 
@@ -7657,7 +7657,7 @@ contend, Nor l»y wngtn, Bcr lend, And
 you may depend You&#x27;ll bare peace to you
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1881-06-30/ed-1/seq-1)
 
@@ -7723,7 +7723,7 @@ he keeps a very small stock of it within
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1881-09-24/ed-1/seq-1)
 
@@ -7770,7 +7770,7 @@ Largest Land Owxeh on tiir Con-
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1881-09-26/ed-1/seq-3)
 
@@ -7805,7 +7805,7 @@ own kin.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1881-09-26/ed-1/seq-3)
 
@@ -7823,7 +7823,7 @@ A New Firm
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1884-04-07/ed-1/seq-1)
 
@@ -7895,7 +7895,7 @@ WONDERFUL PHENOMENA I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## SCRAPS.
 
@@ -7903,7 +7903,7 @@ WONDERFUL PHENOMENA I
 
 #### 1884-11-08 &middot; Bangor, Wales
 [This text is not available under an open license.]
-<hr />
+---
 
 ## SCRAPS.
 
@@ -7911,7 +7911,7 @@ WONDERFUL PHENOMENA I
 
 #### 1884-11-08 &middot; Bangor, Wales
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1887-02-05/ed-1/seq-4)
 
@@ -7930,7 +7930,7 @@ to bite
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-02-09/ed-1/seq-4)
 
@@ -7951,7 +7951,7 @@ to bite.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## WELSH QUESTIONS IN PARLIAMENT.
 
@@ -7959,7 +7959,7 @@ to bite.
 
 #### 1888-07-21 &middot; Bangor, Wales
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1888-09-06/ed-1/seq-4)
 
@@ -7977,7 +7977,7 @@ keeps a very small stock of it within.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1889-04-11/ed-1/seq-4)
 
@@ -7998,7 +7998,7 @@ We can only know ourselves throtur
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1889-10-28/ed-1/seq-4)
 
@@ -8069,7 +8069,7 @@ fish till they are caught in the net
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Chariton courier._](https://chroniclingamerica.loc.gov/lccn/sn88068010/1889-12-05/ed-1/seq-4)
 
@@ -8095,7 +8095,7 @@ tn the dark asks to be cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Union County courier._](https://chroniclingamerica.loc.gov/lccn/sn84022137/1889-12-11/ed-1/seq-3)
 
@@ -8126,7 +8126,7 @@ At a regular meeting of Stephe
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1889-12-12/ed-1/seq-1)
 
@@ -8159,7 +8159,7 @@ to the W. C. T. U. of this city fro
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1890-01-10/ed-1/seq-1)
 
@@ -8209,7 +8209,7 @@ in the net
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1890-02-20/ed-1/seq-4)
 
@@ -8277,7 +8277,7 @@ caught in the net
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1890-03-20/ed-1/seq-4)
 
@@ -8292,7 +8292,7 @@ Handsome shoes often pinch the feet
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1890-03-21/ed-1/seq-1)
 
@@ -8338,7 +8338,7 @@ fi?ti till they are caught in the net
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1890-04-04/ed-1/seq-3)
 
@@ -8364,7 +8364,7 @@ In tbo head, as well as of all bronchial
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1890-04-11/ed-1/seq-4)
 
@@ -8410,7 +8410,7 @@ ftab till they sre caught in the net
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Barton County democrat._](https://chroniclingamerica.loc.gov/lccn/sn83040198/1890-04-24/ed-1/seq-1)
 
@@ -8435,7 +8435,7 @@ I no alls, according to the papers
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1890-04-24/ed-1/seq-3)
 
@@ -8460,7 +8460,7 @@ cheats or asks to be cheated.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The gold leaf._](https://chroniclingamerica.loc.gov/lccn/sn91068402/1890-05-29/ed-1/seq-3)
 
@@ -8488,7 +8488,7 @@ The call for an election to vote o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1890-08-21/ed-1/seq-4)
 
@@ -8506,7 +8506,7 @@ of God and of men is the only certificat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1891-08-21/ed-1/seq-3)
 
@@ -8527,7 +8527,7 @@ who trade? in the dark asks to be cheated.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1891-09-29/ed-1/seq-2)
 
@@ -8553,7 +8553,7 @@ asks to be cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1891-10-02/ed-1/seq-1)
 
@@ -8578,7 +8578,7 @@ ly see some work that tome othe
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fair play._](https://chroniclingamerica.loc.gov/lccn/sn87052181/1891-12-12/ed-1/seq-2)
 
@@ -8603,7 +8603,7 @@ asks to be cheated. Never r
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Blackfoot news._](https://chroniclingamerica.loc.gov/lccn/sn88056017/1892-01-23/ed-1/seq-1)
 
@@ -8631,7 +8631,7 @@ Never put confidence in a man wh
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1892-03-09/ed-1/seq-3)
 
@@ -8656,7 +8656,7 @@ cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Butler weekly times._](https://chroniclingamerica.loc.gov/lccn/sn89066489/1892-05-04/ed-1/seq-7)
 
@@ -8680,7 +8680,7 @@ sack before you buy what is in it, &#x27; u t was ma-elous. I could hardl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Warren sheaf._](https://chroniclingamerica.loc.gov/lccn/sn90059228/1892-05-12/ed-1/seq-5)
 
@@ -8708,7 +8708,7 @@ The May term of dis
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/87681519)
 
@@ -8725,7 +8725,7 @@ depend upon it he keeps a very small
 stock of it within
 </td></tr></table>
 
-<hr />
+---
 
 ## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/65404339)
 
@@ -8741,7 +8741,7 @@ window, you may depend upon it he keeps
 a very small stock of it within
 </td></tr></table>
 
-<hr />
+---
 
 ## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/65533972)
 
@@ -8758,7 +8758,7 @@ he&#x27; keeps &#x27;a very small stock of it
 within
 </td></tr></table>
 
-<hr />
+---
 
 ## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/72943090)
 
@@ -8779,7 +8779,7 @@ you may depend upon it he keeps a very
 small stock of it within
 </td></tr></table>
 
-<hr />
+---
 
 ## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/18609848)
 
@@ -8796,7 +8796,7 @@ depend upon it he keeps a very small
 stock of it within. ;&#x27; •&quot; &#x27; ■;&#x27; -&#x27;■&quot;■
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Mohave County miner._](https://chroniclingamerica.loc.gov/lccn/sn84024828/1894-04-07/ed-1/seq-3)
 
@@ -8819,7 +8819,7 @@ trades in the dark auks to be cheated &quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Brookings register._](https://chroniclingamerica.loc.gov/lccn/sn2001063544/1894-05-25/ed-1/seq-5)
 
@@ -8845,7 +8845,7 @@ asks to be cheated.—Ex
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Reporter and farmer._](https://chroniclingamerica.loc.gov/lccn/sn99068116/1894-06-14/ed-1/seq-5)
 
@@ -8870,7 +8870,7 @@ be cheated.— Plankinton Herald.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Kansas world._](https://chroniclingamerica.loc.gov/lccn/sn82015485/1894-06-16/ed-1/seq-3)
 
@@ -8898,7 +8898,7 @@ Wheat in the eastert part of th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Union County courier._](https://chroniclingamerica.loc.gov/lccn/sn84022137/1894-06-21/ed-1/seq-2)
 
@@ -8927,7 +8927,7 @@ All the calculations of both bime
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Local News
 
@@ -8935,7 +8935,7 @@ All the calculations of both bime
 
 #### 1894-11-30 &middot; Council Grove, Kan.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1895-05-17/ed-1/seq-3)
 
@@ -8962,7 +8962,7 @@ cheated.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Chariton courier._](https://chroniclingamerica.loc.gov/lccn/sn88068010/1895-05-24/ed-1/seq-3)
 
@@ -8995,7 +8995,7 @@ Dry Goods Co.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1895-06-05/ed-1/seq-4)
 
@@ -9022,7 +9022,7 @@ in the dark aides to be cheated.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1896-03-04/ed-1/seq-2)
 
@@ -9047,7 +9047,7 @@ The total vote of the Populist party o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1896-03-20/ed-1/seq-3)
 
@@ -9071,7 +9071,7 @@ cheated
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1896-06-18/ed-1/seq-8)
 
@@ -9099,5 +9099,5 @@ The timely clothing is serg
 </td>
 </tr></table>
 
-<hr />
+---
 

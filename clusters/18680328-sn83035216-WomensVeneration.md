@@ -1,7 +1,7 @@
 
 # Women's Veneration
 
-### 31 reprints from 1868-03-28 to 1893-08-18 [cl94489280548]
+### 31 reprints from 1859-05-01 to 1893-08-18
 
 ## [Women's Veneration](https://chroniclingamerica.loc.gov/lccn/sn83035216/1868-03-28/ed-1/seq-1/)
 
@@ -17,7 +17,7 @@ If women have one weakness more marked than another, it is towards veneration. T
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Atlantic Monthly_](https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19?page=92)
 
@@ -97,7 +97,7 @@ faithful Paula, with her beautiful
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Atlantic Monthly_](https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19?page=92)
 
@@ -150,7 +150,7 @@ t hnd evi ! n l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New-York daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn83030213/1859-10-15/ed-1/seq-5)
 
@@ -173,7 +173,7 @@ by heroic deeds and the rhetoric ot a noble lue
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Portage County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83035045/1859-10-26/ed-1/seq-1)
 
@@ -204,7 +204,7 @@ life.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Illustrated London News 1842-2003_](https://iiif.archivelab.org/iiif/sim_illustrated-london-news_1859-11-05_35_1001?page=2)
 
@@ -256,7 +256,7 @@ heroic deeds and the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1859-11-24/ed-1/seq-1)
 
@@ -283,7 +283,7 @@ icof a noble life- Mrs. il- B. Stowe.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1860-01-14/ed-1/seq-1)
 
@@ -360,7 +360,7 @@ woman&#x27;^eternsl powar af
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1860-01-14/ed-1/seq-1)
 
@@ -383,7 +383,7 @@ ina hero whe never wooed Ihein aieept b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly north Iowa times._](https://chroniclingamerica.loc.gov/lccn/sn84027238/1860-01-18/ed-1/seq-4)
 
@@ -455,7 +455,7 @@ iieroic deeds and tho rhetoric of a noble
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1860-01-26/ed-1/seq-1)
 
@@ -482,7 +482,7 @@ life.&quot; . . i ,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [REVIEW. MRS. STOWE'S NEW NOVEL. [Abridged from the New York Tribune.]](http://trove.nla.gov.au/ndp/del/article/49895189)
 
@@ -509,7 +509,7 @@ who never wooed them, except by heroio
 deeds and the rhetoric of a noble life
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1860-02-04/ed-1/seq-3)
 
@@ -543,7 +543,7 @@ lierrrio deeds and the rhetoric of a noble life*. -7Vi
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Abbeville banner._](https://chroniclingamerica.loc.gov/lccn/sn85026945/1860-02-16/ed-1/seq-1)
 
@@ -600,7 +600,7 @@ and the rhetoric ef a*noble life
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1860-03-22/ed-1/seq-1)
 
@@ -650,7 +650,7 @@ heroic deeds and the rhetoric of a noble life.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1860-05-17/ed-1/seq-1)
 
@@ -678,7 +678,7 @@ of a noblo lif&#x27;o. f J.I. B. Stowo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Camden weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027851/1860-05-22/ed-1/seq-1)
 
@@ -743,7 +743,7 @@ a genuine hero who never woo tbetn except hy
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1860-08-02/ed-1/seq-1)
 
@@ -814,7 +814,7 @@ ept by heroic deeds and the rhetoric o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014140/1861-11-28/ed-1/seq-1)
 
@@ -902,7 +902,7 @@ roic deeds and the rhetoric Aobl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Woman's Veneration
 
@@ -910,7 +910,7 @@ roic deeds and the rhetoric Aobl
 
 #### 1861-12-04 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Plymouth weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056248/1861-12-26/ed-1/seq-1)
 
@@ -984,7 +984,7 @@ oiic of noble life
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Family Reading.
 
@@ -992,7 +992,7 @@ oiic of noble life
 
 #### 1867-01-26 &middot; Cleveland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
 
@@ -1010,7 +1010,7 @@ think fell straight down from heaven.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
 
@@ -1030,7 +1030,7 @@ harp, sackbut, and so forth,&quot; where th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
 
@@ -1049,7 +1049,7 @@ the rhetoric of a noble life&quot; a mos
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
 
@@ -1070,7 +1070,7 @@ climh by.&quot;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1868-01-26/ed-1/seq-1)
 
@@ -1141,7 +1141,7 @@ rhetoric ot noble lire. 2U Jfcafir
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1868-03-28/ed-1/seq-1)
 
@@ -1213,7 +1213,7 @@ the rhetoric ot noble lite.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Hancock Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85042591/1868-04-24/ed-1/seq-4)
 
@@ -1287,7 +1287,7 @@ rhetoric of noble life.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1868-07-17/ed-1/seq-1)
 
@@ -1332,7 +1332,7 @@ hlest in nun! Does not old Rio
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [THE BANK SUSPENSIONS.](http://trove.nla.gov.au/ndp/del/article/60306088)
 
@@ -1359,5 +1359,5 @@ except by her:aic deeds and the rhetoric
 of a noble life. Anour IIt Tnxs.-Hat
 </td></tr></table>
 
-<hr />
+---
 

@@ -1,7 +1,7 @@
 
 # The Footsteps of Decay
 
-### 256 reprints from 1864-01-17 to 1899-07-13 [cl18]
+### 256 reprints from 1824-01-01 to 1899-07-13
 
 ## [The Footsteps of Decay](http://chroniclingamerica.loc.gov/lccn/sn82015407/1864-12-17/ed-1/seq-1/)
 
@@ -77,7 +77,7 @@ When age comes on!
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Edinburgh Review: Critical Journal 1802-1910_](https://iiif.archivelab.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78?page=151)
 
@@ -129,7 +129,7 @@ Where are
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Museum of Foreign Literature, Science, and Art (1822-1842)_](https://iiif.archivelab.org/iiif/sim_museum-of-foreign-literature-science-and-art_1824_4_23?page=16)
 
@@ -205,7 +205,7 @@ Where ar
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
 
@@ -221,7 +221,7 @@ odes of Luis de Leon. The flow of the verse, and the fine an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
 
@@ -318,7 +318,7 @@ And where are they?
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poem 1 -- No Title
 
@@ -326,7 +326,7 @@ And where are they?
 
 #### 1824-05-01 &middot; Philadelphia
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41?page=3)
 
@@ -416,7 +416,7 @@ Youth smiled,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347?page=3)
 
@@ -445,7 +445,7 @@ Comet stealing
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347?page=3)
 
@@ -486,7 +486,7 @@ Death levels
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The ladies' garland._](https://iiif.archivelab.org/iiif/sim_ladies-garland_1824-06-12_1_18?page=3)
 
@@ -588,7 +588,7 @@ Where are th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poetry
 
@@ -596,7 +596,7 @@ Where are th
 
 #### 1824-06-17 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Constitutional Whig._](https://chroniclingamerica.loc.gov/lccn/sn83045110/1825-01-14/ed-1/seq-4)
 
@@ -621,7 +621,7 @@ Mow ple
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Constitutional Whig._](https://chroniclingamerica.loc.gov/lccn/sn83045110/1825-01-14/ed-1/seq-4)
 
@@ -662,7 +662,7 @@ Youthsinil ti and a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Phenix gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025006/1825-02-05/ed-1/seq-4)
 
@@ -741,7 +741,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburgh gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038455/1825-02-24/ed-1/seq-4)
 
@@ -765,7 +765,7 @@ Conies stealing on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1?page=38)
 
@@ -789,7 +789,7 @@ Comes stealing on :
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1?page=39)
 
@@ -852,7 +852,7 @@ And where
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1825-03-26_1_43?page=3)
 
@@ -924,7 +924,7 @@ Youth smiled, and all was
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
 
@@ -943,7 +943,7 @@ cept the ode of Luis de Lean. 1
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
 
@@ -977,7 +977,7 @@ Alike the humble riv’lets glide
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
 
@@ -1024,7 +1024,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## LITERARY RECREATIONS
 
@@ -1032,7 +1032,7 @@ When age comes on.
 
 #### 1825-05-01 &middot; Baltimore
 [This text is not available under an open license.]
-<hr />
+---
 
 ## LITERARY RECREATIONS
 
@@ -1040,7 +1040,7 @@ When age comes on.
 
 #### 1825-05-01 &middot; Baltimore
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19?page=0)
 
@@ -1130,7 +1130,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poetry
 
@@ -1138,7 +1138,7 @@ When age comes on.
 
 #### 1825-05-30 &middot; Concord, N.H.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Cincinnati Literary Gazette (1824-1825)_](https://iiif.archivelab.org/iiif/sim_cincinnati-literary-gazette_1825-06-18_3_25?page=7)
 
@@ -1243,7 +1243,7 @@ Where ar
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The American Athenaeum:  A Repository of Belles Lettres, Science, and the Arts (1825-1825)_](https://iiif.archivelab.org/iiif/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11?page=1)
 
@@ -1332,7 +1332,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poetical
 
@@ -1340,7 +1340,7 @@ When age comes on.
 
 #### 1825-10-31 &middot; St. Louis, Mo.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35?page=3)
 
@@ -1367,7 +1367,7 @@ Come stealing on:
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35?page=3)
 
@@ -1438,7 +1438,7 @@ And w here arc they
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199?page=3)
 
@@ -1454,7 +1454,7 @@ fs surpassed by nothing which we are acquainted
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199?page=3)
 
@@ -1557,7 +1557,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Columbian star._](https://iiif.archivelab.org/iiif/sim_columbian-star_1825-12-10_4_50?page=3)
 
@@ -1654,7 +1654,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4?page=3)
 
@@ -1699,7 +1699,7 @@ ims of yore were bright
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4?page=3)
 
@@ -1735,7 +1735,7 @@ When age comes o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Select Poetry. TRANSLATED FROM THE SPANISH OF JORGE MANRIQUE.](http://trove.nla.gov.au/ndp/del/article/31757487)
 
@@ -1776,7 +1776,7 @@ lure us here; Dreams of a sleep that
 death must break, &amp;nbsp; &amp;nbsp; &amp;nbsp
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Washington Theological Repertory (1819-1828)_](https://iiif.archivelab.org/iiif/sim_theological-repertory-and-churchmans-guide_1826-09_8_2?page=17)
 
@@ -1860,7 +1860,7 @@ Where are
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian telescope and Universalist miscellany._](https://iiif.archivelab.org/iiif/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9?page=6)
 
@@ -1966,7 +1966,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The following is a translation from an ancient Spanish Poem which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish Language, except the Odes of Lewis de Leon
 
@@ -1974,7 +1974,7 @@ When age comes on.
 
 #### 1826-11-01 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The following is a translation from an ancient Spanish Poem which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish Language, except the Odes of Lewis de Leon
 
@@ -1982,7 +1982,7 @@ When age comes on.
 
 #### 1826-11-01 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Poetry
 
@@ -1990,7 +1990,7 @@ When age comes on.
 
 #### 1826-11-03 &middot; Bellows Falls, Vt.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Wilmingtonian, and Delaware advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85042523/1826-11-09/ed-1/seq-1)
 
@@ -2031,7 +2031,7 @@ m
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wilmingtonian, and Delaware advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85042523/1826-11-09/ed-1/seq-1)
 
@@ -2061,7 +2061,7 @@ When age cornea on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Litchfield County post._](https://chroniclingamerica.loc.gov/lccn/sn82014309/1826-11-14/ed-1/seq-1)
 
@@ -2133,7 +2133,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Casket (1826-1830)_](https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12?page=30)
 
@@ -2218,7 +2218,7 @@ Death
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Casket (1826-1830)_](https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12?page=31)
 
@@ -2253,7 +2253,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Phenix gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025006/1826-12-12/ed-1/seq-2)
 
@@ -2328,7 +2328,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The following is a translation from an ancient Spanish Poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish Language, except the Odes of Lew's de Leon
 
@@ -2336,7 +2336,7 @@ When age comes on.
 
 #### 1827-01-20 &middot; Natchez, Miss.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Composed by Brother John H. Sheppard, Master of Lincoln Lodge
 
@@ -2344,7 +2344,7 @@ When age comes on.
 
 #### 1827-02-10 &middot; Natchez, Miss.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## POETRY.
 
@@ -2352,7 +2352,7 @@ When age comes on.
 
 #### 1827-03-10 &middot; Charleston
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1827-06-16_4_3?page=2)
 
@@ -2450,7 +2450,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gospel Advocate and Impartial Investigator (1823-1829)_](https://iiif.archivelab.org/iiif/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30?page=7)
 
@@ -2535,7 +2535,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _North American. Or, Weekly Journal of Politics, Science and Literature (1827-1827)_](https://iiif.archivelab.org/iiif/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11?page=4)
 
@@ -2633,7 +2633,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37?page=7)
 
@@ -2703,7 +2703,7 @@ When age comes on. Flowarp.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Selected
 
@@ -2711,7 +2711,7 @@ When age comes on. Flowarp.
 
 #### 1830-03-17 &middot; Louisville, Ky.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The following is a translation from an ancient Spanish Poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish language, except the Odes of Lewis de Leon
 
@@ -2719,7 +2719,7 @@ When age comes on. Flowarp.
 
 #### 1830-10-13 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1830-10-19/ed-1/seq-4)
 
@@ -2754,7 +2754,7 @@ Our live* li
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1830-10-19/ed-1/seq-4)
 
@@ -2794,7 +2794,7 @@ Whsu ago cornea on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburg gazette and public advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85059526/1830-10-21/ed-1/seq-1)
 
@@ -2857,7 +2857,7 @@ And
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Philadelphia Album and Ladies' Literary Portfolio (1830-1834)_](https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1830-10-23_4_43?page=0)
 
@@ -2946,7 +2946,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The following is a translation from an ancient Spanish Poem which, says the Edinburgh Review, is surpossed by nothing with which we are acquainted in the Spanish language, except the Odes of Lewis de Loon
 
@@ -2954,7 +2954,7 @@ When age comes on.
 
 #### 1830-11-10 &middot; Providence, R.I.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## From the Spanish
 
@@ -2962,7 +2962,7 @@ When age comes on.
 
 #### 1830-11-19 &middot; Louisville, Ky.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Poem 1 -- No Title
 
@@ -2970,7 +2970,7 @@ When age comes on.
 
 #### 1830-12-03 &middot; Chicago
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1830-12-04_15_27?page=15)
 
@@ -3060,7 +3060,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The following is a Translation from an ancient Spanish Poem
 
@@ -3068,7 +3068,7 @@ When age comes on.
 
 #### 1830-12-11 &middot; Columbia, S.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## POETRY.
 
@@ -3076,7 +3076,7 @@ When age comes on.
 
 #### 1830-12-18 &middot; Boston
 [This text is not available under an open license.]
-<hr />
+---
 
 ## POETRY.
 
@@ -3084,7 +3084,7 @@ When age comes on.
 
 #### 1830-12-18 &middot; Boston
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38?page=3)
 
@@ -3197,7 +3197,7 @@ Wlien age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The western luminary._](https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26?page=3)
 
@@ -3281,7 +3281,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poetry
 
@@ -3289,7 +3289,7 @@ When age comes on.
 
 #### 1830-12-30 &middot; Hudson, Portage County, Ohio
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Episcopal watchman._](https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34?page=2)
 
@@ -3331,7 +3331,7 @@ Oiir lives like hasting streams must be
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Episcopal watchman._](https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34?page=2)
 
@@ -3394,7 +3394,7 @@ I When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51?page=3)
 
@@ -3409,7 +3409,7 @@ which, says the Euinburgh Review, is surpassed by nothing | talent to be able cl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51?page=3)
 
@@ -3487,7 +3487,7 @@ And joy grows wearisome and wo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Olio
 
@@ -3495,7 +3495,7 @@ And joy grows wearisome and wo
 
 #### 1831-06-01 &middot; Arkansas Post, Ark. Ter.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The following is a translation from an ancient Spanish poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquanited in the Spanish language, excent the odes of Louis de Leon
 
@@ -3503,7 +3503,7 @@ And joy grows wearisome and wo
 
 #### 1831-06-28 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The following is a translation from an ancient Spanish poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish language, except the Odes, of Louis de Leon
 
@@ -3511,7 +3511,7 @@ And joy grows wearisome and wo
 
 #### 1831-07-27 &middot; City of Washington [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1831-08-04/ed-1/seq-4)
 
@@ -3600,7 +3600,7 @@ When age come on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian Intelligencer 1821-1836_](https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36?page=3)
 
@@ -3659,7 +3659,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## TRANSLATION FROM THE SPANISH.
 
@@ -3667,7 +3667,7 @@ When age comes on
 
 #### 1832-03-24 &middot; Cincinnati
 [This text is not available under an open license.]
-<hr />
+---
 
 ## TRANSLATION FROM THE SPANISH.
 
@@ -3675,7 +3675,7 @@ When age comes on
 
 #### 1832-03-24 &middot; Cincinnati
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14?page=3)
 
@@ -3745,7 +3745,7 @@ Long ere the lamp of death can blight,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14?page=3)
 
@@ -3773,7 +3773,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poem 1 -- No Title
 
@@ -3781,7 +3781,7 @@ When age comes on.
 
 #### 1832-06-09 &middot; Charleston
 [This text is not available under an open license.]
-<hr />
+---
 
 ## POETRY.
 
@@ -3789,7 +3789,7 @@ When age comes on.
 
 #### 1833-06-01 &middot; Boston
 [This text is not available under an open license.]
-<hr />
+---
 
 ## POETRY.
 
@@ -3797,7 +3797,7 @@ When age comes on.
 
 #### 1833-06-01 &middot; Boston
 [This text is not available under an open license.]
-<hr />
+---
 
 ## POETRY.
 
@@ -3805,7 +3805,7 @@ When age comes on.
 
 #### 1833-06-01 &middot; Boston
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19?page=7)
 
@@ -3890,7 +3890,7 @@ When age comes on,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1836-02-06_5_210?page=7)
 
@@ -3934,7 +3934,7 @@ Death level
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poetry
 
@@ -3942,7 +3942,7 @@ Death level
 
 #### 1836-02-13 &middot; Concord [N.H.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42?page=7)
 
@@ -4018,7 +4018,7 @@ Wher
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42?page=7)
 
@@ -4040,7 +4040,7 @@ ness and dignity, and the conclusions arrived
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## LIFE.
 
@@ -4048,7 +4048,7 @@ ness and dignity, and the conclusions arrived
 
 #### 1839-02-16 &middot; Charleston
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34?page=3)
 
@@ -4136,7 +4136,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _American Masonic Register and Literary Companion (1839-1847)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47?page=7)
 
@@ -4224,7 +4224,7 @@ hen age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poetry
 
@@ -4232,7 +4232,7 @@ hen age comes on.
 
 #### 1840-10-28 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [Select Poetry](http://trove.nla.gov.au/ndp/del/article/31729713)
 
@@ -4264,7 +4264,7 @@ pres.ent shall delightLike them decay.
 (nor lives like Ih
 </td></tr></table>
 
-<hr />
+---
 
 ## [Select Poetry](http://trove.nla.gov.au/ndp/del/article/31729713)
 
@@ -4298,7 +4298,7 @@ strength is gone, the Step is blow, And
 joy grows wearisome and wo When ag
 </td></tr></table>
 
-<hr />
+---
 
 ## Poetry
 
@@ -4306,7 +4306,7 @@ joy grows wearisome and wo When ag
 
 #### 1841-04-09 &middot; Raleigh, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Poetry
 
@@ -4314,7 +4314,7 @@ joy grows wearisome and wo When ag
 
 #### 1841-04-15 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Course of Time
 
@@ -4322,7 +4322,7 @@ joy grows wearisome and wo When ag
 
 #### 1842-01-01 &middot; New York [N.Y.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Course of Time
 
@@ -4330,7 +4330,7 @@ joy grows wearisome and wo When ag
 
 #### 1842-03-05 &middot; New York [N.Y.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Poetry
 
@@ -4338,7 +4338,7 @@ joy grows wearisome and wo When ag
 
 #### 1842-06-02 &middot; Hudson [Ohio]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Poetry
 
@@ -4346,7 +4346,7 @@ joy grows wearisome and wo When ag
 
 #### 1842-08-12 &middot; Concord [N.H.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Moral Stanzas
 
@@ -4354,7 +4354,7 @@ joy grows wearisome and wo When ag
 
 #### 1843-06-09 &middot; Philadelphia [Pa.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Cincinnati weekly herald and philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39?page=1)
 
@@ -4421,7 +4421,7 @@ We disappear.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1844-08-15/ed-1/seq-4)
 
@@ -4455,7 +4455,7 @@ Let no vain hope deceive the mind-
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1844-08-15/ed-1/seq-4)
 
@@ -4487,7 +4487,7 @@ Wihen age chines on,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1847-08-18/ed-1/seq-1)
 
@@ -4528,7 +4528,7 @@ There all
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Course of Time
 
@@ -4536,7 +4536,7 @@ There all
 
 #### 1847-08-21 &middot; [Pensacola, Fla.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _School Friend and Ohio School Journal 1846-1851_](https://iiif.archivelab.org/iiif/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1?page=11)
 
@@ -4629,7 +4629,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The American Quarterly Register and Magazine (1848-1849)_](https://iiif.archivelab.org/iiif/sim_strykers-american-register-and-magazine_1849-06_2_2?page=173)
 
@@ -4658,7 +4658,7 @@ Teath levels
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lower Sandusky freeman._](https://chroniclingamerica.loc.gov/lccn/sn90068957/1849-09-01/ed-1/seq-1)
 
@@ -4715,7 +4715,7 @@ When age comes ou
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poetry.
 
@@ -4723,7 +4723,7 @@ When age comes ou
 
 #### 1852-11-03 &middot; Chambersburg, Pa.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1856-06-04/ed-1/seq-1)
 
@@ -4766,7 +4766,7 @@ grave
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Winchester weekly appeal._](https://chroniclingamerica.loc.gov/lccn/sn97065090/1856-07-05/ed-1/seq-1)
 
@@ -4820,7 +4820,7 @@ That path alone
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Winchester weekly appeal._](https://chroniclingamerica.loc.gov/lccn/sn97065090/1856-07-26/ed-1/seq-4)
 
@@ -4867,7 +4867,7 @@ Thero all o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [SELECT POETRY. REVERIES AND OUTPOURINGS.](http://trove.nla.gov.au/ndp/del/article/78850782)
 
@@ -4890,7 +4890,7 @@ past. Our lives like hastening streams
 must bo. That into one engulphiug se
 </td></tr></table>
 
-<hr />
+---
 
 ## [SELECT POETRY. REVERIES AND OUTPOURINGS.](http://trove.nla.gov.au/ndp/del/article/78850782)
 
@@ -4923,7 +4923,7 @@ The strength Is gone, the step is s!ow,
 And joy
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Leisure Hour, an Illustrated Magazine for Home Reading 1852-1905_](https://iiif.archivelab.org/iiif/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1857-12-10_6_311?page=14)
 
@@ -4943,7 +4943,7 @@ And swallow all.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1860-03-31/ed-1/seq-1)
 
@@ -5001,7 +5001,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Courts and Gen. E. D. Baker
 
@@ -5009,7 +5009,7 @@ When age comes on
 
 #### 1861-10-26 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1863-10-21/ed-1/seq-2)
 
@@ -5034,7 +5034,7 @@ And swallow all. &#x27; :
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1863-10-21/ed-1/seq-2)
 
@@ -5063,7 +5063,7 @@ Wher
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16?page=3)
 
@@ -5156,7 +5156,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Poet's Corner
 
@@ -5164,7 +5164,7 @@ When age comes on.
 
 #### 1864-01-15 &middot; Concord [N.H.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -5172,7 +5172,7 @@ When age comes on.
 
 #### 1864-05-12 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1864-05-13/ed-1/seq-1)
 
@@ -5225,7 +5225,7 @@ DrcaniB of a sleep that death must b
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1864-11-14/ed-1/seq-1)
 
@@ -5297,7 +5297,7 @@ When nge comes on t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1864-11-30/ed-1/seq-1)
 
@@ -5369,7 +5369,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1864-12-01/ed-1/seq-1)
 
@@ -5433,7 +5433,7 @@ lsc
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1864-12-03/ed-1/seq-1)
 
@@ -5481,7 +5481,7 @@ a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1864-12-10/ed-1/seq-4)
 
@@ -5554,7 +5554,7 @@ VV&#x27; hen age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1864-12-15/ed-1/seq-1)
 
@@ -5626,7 +5626,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1864-12-17/ed-1/seq-1)
 
@@ -5698,7 +5698,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1864-12-17/ed-1/seq-1)
 
@@ -5769,7 +5769,7 @@ When age comes on !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1865-01-07/ed-1/seq-1)
 
@@ -5838,7 +5838,7 @@ The heart
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -5846,7 +5846,7 @@ The heart
 
 #### 1865-01-31 &middot; [Milwaukee, Wis.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014487/1865-02-04/ed-1/seq-4)
 
@@ -5909,7 +5909,7 @@ When age comes on !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Potter journal._](https://chroniclingamerica.loc.gov/lccn/sn86081096/1865-02-22/ed-1/seq-1)
 
@@ -5976,7 +5976,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1865-03-08/ed-1/seq-1)
 
@@ -6049,7 +6049,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1865-04-04/ed-1/seq-1)
 
@@ -6088,7 +6088,7 @@ Ou
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1865-07-29/ed-1/seq-1)
 
@@ -6159,7 +6159,7 @@ Where
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-09-30/ed-1/seq-4)
 
@@ -6203,7 +6203,7 @@ Alike tho ham ole ri
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-09-30/ed-1/seq-4)
 
@@ -6225,7 +6225,7 @@ The cheek’s pure glow of rod and wnit
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -6233,7 +6233,7 @@ The cheek’s pure glow of rod and wnit
 
 #### 1865-10-12 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1866-01-26/ed-1/seq-1)
 
@@ -6305,7 +6305,7 @@ And joy grows wearisome and wo !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -6313,7 +6313,7 @@ And joy grows wearisome and wo !
 
 #### 1866-04-14 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -6321,7 +6321,7 @@ And joy grows wearisome and wo !
 
 #### 1866-04-14 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1866-04-18/ed-1/seq-1)
 
@@ -6358,7 +6358,7 @@ Our Uvea like
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1866-04-18/ed-1/seq-1)
 
@@ -6398,7 +6398,7 @@ When age oouiaa a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-05-01_18_9?page=10)
 
@@ -6485,7 +6485,7 @@ When age comes on!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1866-05-19/ed-1/seq-4)
 
@@ -6591,7 +6591,7 @@ When age comes on 1
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -6599,7 +6599,7 @@ When age comes on 1
 
 #### 1866-06-13 &middot; Central City, Colo.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Delaware gazette._](https://chroniclingamerica.loc.gov/lccn/sn83035595/1866-06-15/ed-1/seq-1)
 
@@ -6668,7 +6668,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -6676,7 +6676,7 @@ When age comes on
 
 #### 1866-06-22 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Weekly Calaveras chronicle._](https://chroniclingamerica.loc.gov/lccn/sn93052977/1866-06-23/ed-1/seq-4)
 
@@ -6746,7 +6746,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1866-07-29/ed-1/seq-4)
 
@@ -6819,7 +6819,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1866-09-18/ed-1/seq-1)
 
@@ -6891,7 +6891,7 @@ When age comes 011
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1866-12-26_37_52?page=3)
 
@@ -6976,7 +6976,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -6984,7 +6984,7 @@ When age comes on
 
 #### 1866-12-29 &middot; Bangor, Me.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1867-01-24/ed-1/seq-1)
 
@@ -7034,7 +7034,7 @@ r ; &#x27; is found of all. , . . .....
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Poetry
 
@@ -7042,7 +7042,7 @@ r ; &#x27; is found of all. , . . .....
 
 #### 1867-03-20 &middot; Honolulu [Oahu, Hawaii]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## THE FOOTSTEPS OF DECAY
 
@@ -7050,7 +7050,7 @@ r ; &#x27; is found of all. , . . .....
 
 #### 1867-05-01 &middot; Cincinnati
 [This text is not available under an open license.]
-<hr />
+---
 
 ## THE FOOTSTEPS OF DECAY
 
@@ -7058,7 +7058,7 @@ r ; &#x27; is found of all. , . . .....
 
 #### 1867-05-01 &middot; Cincinnati
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Union and journal._](https://chroniclingamerica.loc.gov/lccn/sn83009571/1867-09-20/ed-1/seq-1)
 
@@ -7099,7 +7099,7 @@ When age comes on !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1867-09-25/ed-1/seq-1)
 
@@ -7181,7 +7181,7 @@ And joys grow wearisome aad wool
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1867-10-05/ed-1/seq-1)
 
@@ -7259,7 +7259,7 @@ When age comes on. . .
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1868-11-03/ed-1/seq-1)
 
@@ -7331,7 +7331,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1868-11-05/ed-1/seq-1)
 
@@ -7406,7 +7406,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1868-11-08/ed-1/seq-3)
 
@@ -7473,7 +7473,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -7481,7 +7481,7 @@ When age comes on
 
 #### 1868-11-10 &middot; Washington City [D.C.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -7489,7 +7489,7 @@ When age comes on
 
 #### 1868-11-12 &middot; Charleston, S.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-11-21/ed-1/seq-1)
 
@@ -7562,7 +7562,7 @@ W hi n age comes on !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1868-11-25/ed-1/seq-1)
 
@@ -7634,7 +7634,7 @@ When age comes on !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## LITERATURE.
 
@@ -7642,7 +7642,7 @@ When age comes on !
 
 #### 1868-11-28 &middot; Chicago
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042148/1868-12-02/ed-1/seq-2)
 
@@ -7669,7 +7669,7 @@ M .Our golJen dreams ol yore were bright,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042148/1868-12-02/ed-1/seq-2)
 
@@ -7704,7 +7704,7 @@ grows wearisome, and woe! &#x27;&quot;&#x27;.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Sweetwater forerunner._](https://chroniclingamerica.loc.gov/lccn/sn97065409/1868-12-17/ed-1/seq-4)
 
@@ -7736,7 +7736,7 @@ No
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Sweetwater forerunner._](https://chroniclingamerica.loc.gov/lccn/sn97065409/1868-12-17/ed-1/seq-4)
 
@@ -7774,7 +7774,7 @@ Whea age conies on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1868-12-26/ed-1/seq-4)
 
@@ -7849,7 +7849,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1869-01-28/ed-1/seq-1)
 
@@ -7881,7 +7881,7 @@ Oar
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1869-02-05/ed-1/seq-1)
 
@@ -7941,7 +7941,7 @@ Long&#x27;ere the dump of denth con bli
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Fottsteps of Decay
 
@@ -7949,7 +7949,7 @@ Long&#x27;ere the dump of denth con bli
 
 #### 1869-02-20 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1869-02-27/ed-1/seq-1)
 
@@ -8017,7 +8017,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-04-03_22_14?page=9)
 
@@ -8100,7 +8100,7 @@ When age comes on !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Proof Sheet 1867-1880_](https://iiif.archivelab.org/iiif/sim_proof-sheet_1869-09_3_14?page=4)
 
@@ -8183,7 +8183,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1869-10-15/ed-1/seq-1)
 
@@ -8212,7 +8212,7 @@ To morrow than t?? day.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1869-10-30/ed-1/seq-1)
 
@@ -8282,7 +8282,7 @@ When age come on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1869-11-24/ed-1/seq-1)
 
@@ -8355,7 +8355,7 @@ Vi hen age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1869-12-09/ed-1/seq-1)
 
@@ -8386,7 +8386,7 @@ Like them decay.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1869-12-09/ed-1/seq-1)
 
@@ -8416,7 +8416,7 @@ I The strength is gone, the step is slow
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1870-01-28/ed-1/seq-1)
 
@@ -8485,7 +8485,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-02-05/ed-1/seq-1)
 
@@ -8546,7 +8546,7 @@ Our l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-02-05/ed-1/seq-1)
 
@@ -8587,7 +8587,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1870-06-05/ed-1/seq-4)
 
@@ -8621,7 +8621,7 @@ Our lives liko
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1870-06-05/ed-1/seq-4)
 
@@ -8662,7 +8662,7 @@ When ago comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1870-06-15/ed-1/seq-1)
 
@@ -8703,7 +8703,7 @@ Yt lien age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Greenville enterprise._](https://chroniclingamerica.loc.gov/lccn/sn83025799/1870-09-21/ed-1/seq-1)
 
@@ -8774,7 +8774,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1870-11-24/ed-1/seq-1)
 
@@ -8806,7 +8806,7 @@ No happier li t u hope
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1870-11-24/ed-1/seq-1)
 
@@ -8836,7 +8836,7 @@ Ixnig ere the (lumps of dentil can bl
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1870-12-31/ed-1/seq-1)
 
@@ -8909,7 +8909,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-01-07/ed-1/seq-1)
 
@@ -8981,7 +8981,7 @@ When ace comas on !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-01-31/ed-1/seq-1)
 
@@ -9018,7 +9018,7 @@ Our livee like
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-01-31/ed-1/seq-1)
 
@@ -9059,7 +9059,7 @@ When age routes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1871-11-04/ed-1/seq-2)
 
@@ -9106,7 +9106,7 @@ When age routes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [THE COURSE OF LIFE.](http://trove.nla.gov.au/ndp/del/article/89700870)
 
@@ -9136,7 +9136,7 @@ tide, Alike the humble riv&#x27;lets glide To
 that sad wave ; Death levels pove
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-11-21/ed-1/seq-1)
 
@@ -9205,7 +9205,7 @@ When?lyiu ?&quot;&quot;.roes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1871-11-30/ed-1/seq-1)
 
@@ -9273,7 +9273,7 @@ When age comes on!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-12-09/ed-1/seq-1)
 
@@ -9343,7 +9343,7 @@ When age comes on 1
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1872-03-14/ed-1/seq-1)
 
@@ -9414,7 +9414,7 @@ And jor grows wearisome and wo,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Delaware Republican._](https://chroniclingamerica.loc.gov/lccn/sn87062253/1873-02-24/ed-1/seq-1)
 
@@ -9461,7 +9461,7 @@ glitt
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1874-02-10/ed-1/seq-1)
 
@@ -9481,7 +9481,7 @@ Come stealing on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1874-08-27/ed-1/seq-4)
 
@@ -9558,7 +9558,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## LITERARY MISCELLANEA.
 
@@ -9566,7 +9566,7 @@ When age comes on.
 
 #### 1874-11-08 &middot; London, England
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1874-11-12/ed-1/seq-2)
 
@@ -9639,7 +9639,7 @@ When age comes on I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1874-11-13/ed-1/seq-6)
 
@@ -9693,7 +9693,7 @@ Oreaiua of a sleep that death niu
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1874-11-19/ed-1/seq-2)
 
@@ -9765,7 +9765,7 @@ When age comes on !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1874-12-04/ed-1/seq-6)
 
@@ -9837,7 +9837,7 @@ When age somes on I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -9845,7 +9845,7 @@ When age somes on I
 
 #### 1874-12-20 &middot; Chicago, Ill.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1875-01-30/ed-1/seq-4)
 
@@ -9918,7 +9918,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1875-02-10/ed-1/seq-1)
 
@@ -9977,7 +9977,7 @@ Youth smiled a
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburg weekly independent._](https://chroniclingamerica.loc.gov/lccn/sn84026810/1875-03-13/ed-1/seq-1)
 
@@ -10056,7 +10056,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-05-05/ed-1/seq-1)
 
@@ -10128,7 +10128,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1875-05-06/ed-1/seq-4)
 
@@ -10167,7 +10167,7 @@ And joy grows wearisome and woe,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1875-05-13/ed-1/seq-6)
 
@@ -10237,7 +10237,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1875-05-23/ed-1/seq-3)
 
@@ -10305,7 +10305,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1875-08-27/ed-1/seq-1)
 
@@ -10358,7 +10358,7 @@ Where is the strength that spumed decay
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1875-09-23/ed-1/seq-1)
 
@@ -10431,7 +10431,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1876-03-23/ed-1/seq-4)
 
@@ -10493,7 +10493,7 @@ We disappear
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## A Psalm of Life
 
@@ -10501,7 +10501,7 @@ We disappear
 
 #### 1876-04-27 &middot; Hartford [Conn.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## A Spanish Poem
 
@@ -10509,7 +10509,7 @@ We disappear
 
 #### 1876-06-25 &middot; St. Louis [Mo.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## A SPANISH POEM.
 
@@ -10517,7 +10517,7 @@ We disappear
 
 #### 1876-06-29 &middot; New York
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1876-07-21/ed-1/seq-1)
 
@@ -10560,7 +10560,7 @@ Ye disappear
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## A SPANISH POEM
 
@@ -10568,7 +10568,7 @@ Ye disappear
 
 #### 1876-07-22 &middot; Chicago
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-08-03/ed-1/seq-1)
 
@@ -10623,7 +10623,7 @@ Ye disappear !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The tribune._](https://chroniclingamerica.loc.gov/lccn/sn85042623/1876-08-16/ed-1/seq-1)
 
@@ -10678,7 +10678,7 @@ Dreams of a bleep that death
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## A Spanish Poem
 
@@ -10686,7 +10686,7 @@ Dreams of a bleep that death
 
 #### 1876-08-17 &middot; New Orleans, La.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [POETRY. A SPANISH POEM.](http://trove.nla.gov.au/ndp/del/article/162678362)
 
@@ -10719,7 +10719,7 @@ humble riv&#x27;let&#x27;e glide, To that sad wave
 ; Death levels pr
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1876-09-15/ed-1/seq-1)
 
@@ -10782,7 +10782,7 @@ of the old Stedhurst farmhouse looke
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1876-09-28/ed-1/seq-2)
 
@@ -10836,7 +10836,7 @@ Alas !
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1876-11-18/ed-1/seq-1)
 
@@ -10892,7 +10892,7 @@ Ye disappear
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _National Repository, Devoted to General and Religious Literature, Criticism, and Art (1877-1880)_](https://iiif.archivelab.org/iiif/sim_national-repository_1880-04_7?page=67)
 
@@ -10947,7 +10947,7 @@ Death levels poverty and pride,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -10955,7 +10955,7 @@ Death levels poverty and pride,
 
 #### 1880-07-01 &middot; New Orleans, La.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -10963,7 +10963,7 @@ Death levels poverty and pride,
 
 #### 1880-07-01 &middot; New Orleans, La.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The post._](https://chroniclingamerica.loc.gov/lccn/sn84026106/1882-06-22/ed-1/seq-1)
 
@@ -11033,7 +11033,7 @@ When ago comes ou
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1882-09-28/ed-1/seq-1)
 
@@ -11105,7 +11105,7 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1882-10-12/ed-1/seq-6)
 
@@ -11177,7 +11177,7 @@ When age comeson.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1882-10-27/ed-1/seq-2)
 
@@ -11213,7 +11213,7 @@ The heart&#x27;s blithe tone
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1883-03-24/ed-1/seq-1)
 
@@ -11287,7 +11287,7 @@ When age comes on
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -11295,7 +11295,7 @@ When age comes on
 
 #### 1885-05-07 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## The Footsteps of Decay
 
@@ -11303,7 +11303,7 @@ When age comes on
 
 #### 1885-05-07 &middot; Fayetteville, N.C.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1885-11_20_5?page=46)
 
@@ -11392,7 +11392,7 @@ When age comes on!
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1887-08-12/ed-1/seq-1)
 
@@ -11447,7 +11447,7 @@ Vo disappear
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1893-06-15_61_32?page=1)
 
@@ -11477,7 +11477,7 @@ And swallow all.”
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Reedy's Mirror 1899-1920_](https://iiif.archivelab.org/iiif/sim_reedys-mirror_1899-07-13_9_22?page=8)
 
@@ -11583,5 +11583,5 @@ When age comes on.
 </td>
 </tr></table>
 
-<hr />
+---
 

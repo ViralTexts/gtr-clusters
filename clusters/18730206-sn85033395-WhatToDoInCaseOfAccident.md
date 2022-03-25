@@ -1,7 +1,7 @@
 
 # What to Do in Case of Accident
 
-### 209 reprints from 1873-02-06 to 1896-01-29 [cl8589934606]
+### 209 reprints from 1872-09-11 to 1896-01-29
 
 ## [What to Do in Case of Accident](https://chroniclingamerica.loc.gov/lccn/sn85033395/1873-02-06/ed-1/seq-4/)
 
@@ -36,7 +36,7 @@ For apoplexy, raise the head and body; for fainting, lay the person flat.
 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Wilmington daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn84020594/1872-09-11/ed-1/seq-4)
 
@@ -109,7 +109,7 @@ fainting, lay Mat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Panola star._](https://chroniclingamerica.loc.gov/lccn/sn83016951/1872-10-26/ed-1/seq-3)
 
@@ -165,7 +165,7 @@ of an egg is good in most cases.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1872-11-09/ed-1/seq-1)
 
@@ -216,7 +216,7 @@ home to a hot cml. or m I nf
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wilmington daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn84026837/1872-11-16/ed-1/seq-4)
 
@@ -254,7 +254,7 @@ long as can be borne to a hot coal
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1872-12-14/ed-1/seq-2)
 
@@ -307,7 +307,7 @@ Ior tainting, lay tbe person II it
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1872-12-14/ed-1/seq-3)
 
@@ -356,7 +356,7 @@ good in moat cases; in a ease ol opium
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1872-12-18/ed-1/seq-1)
 
@@ -408,7 +408,7 @@ for fainting lay the person flat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1872-12-25/ed-1/seq-2)
 
@@ -461,7 +461,7 @@ for fainting lay tho person llat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1873-01-02/ed-1/seq-3)
 
@@ -521,7 +521,7 @@ for fainting, lay the person flat.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1873-01-03/ed-1/seq-7)
 
@@ -577,7 +577,7 @@ for fainting, lay the person tlat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1873-01-03/ed-1/seq-1)
 
@@ -635,7 +635,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn85025132/1873-01-04/ed-1/seq-1)
 
@@ -686,7 +686,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1873-01-04/ed-1/seq-3)
 
@@ -726,7 +726,7 @@ F
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1873-01-07/ed-1/seq-1)
 
@@ -764,7 +764,7 @@ for fainting, lay fiat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1873-01-09/ed-1/seq-4)
 
@@ -822,7 +822,7 @@ body ; for fainting, lay Jibe person flat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1873-01-24/ed-1/seq-3)
 
@@ -866,7 +866,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1873-01-24/ed-1/seq-1)
 
@@ -954,7 +954,7 @@ body; for fainting, lay tha perwon flat.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1873-01-25/ed-1/seq-3)
 
@@ -1005,7 +1005,7 @@ for fainting, lay the person flat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1873-01-29/ed-1/seq-1)
 
@@ -1057,7 +1057,7 @@ body ; for fainting, lay the person flat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1873-01-29/ed-1/seq-2)
 
@@ -1112,7 +1112,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The St. Cloud journal._](https://chroniclingamerica.loc.gov/lccn/sn85033526/1873-01-30/ed-1/seq-4)
 
@@ -1155,7 +1155,7 @@ body for fainting, lay the parson fiat.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1873-02-01/ed-1/seq-4)
 
@@ -1205,7 +1205,7 @@ on the back, with th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## What to Do in Case of Accident
 
@@ -1213,7 +1213,7 @@ on the back, with th
 
 #### 1873-02-01 &middot; Ruby City, I.T. [Idaho]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1873-02-05/ed-1/seq-4)
 
@@ -1270,7 +1270,7 @@ the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1873-02-06/ed-1/seq-4)
 
@@ -1334,7 +1334,7 @@ I person fiat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1873-02-07/ed-1/seq-4)
 
@@ -1426,7 +1426,7 @@ moving.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Magnolia gazette._](https://chroniclingamerica.loc.gov/lccn/sn85034447/1873-02-07/ed-1/seq-1)
 
@@ -1469,7 +1469,7 @@ good iu most cases
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1873-02-08/ed-1/seq-4)
 
@@ -1503,7 +1503,7 @@ moingl give strorg oe amnl keep movinlg
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1873-02-21/ed-1/seq-4)
 
@@ -1552,7 +1552,7 @@ lug
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1873-02-26/ed-1/seq-1)
 
@@ -1598,7 +1598,7 @@ the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1873-02-27/ed-1/seq-3)
 
@@ -1654,7 +1654,7 @@ the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _National opinion._](https://chroniclingamerica.loc.gov/lccn/sn84022552/1873-02-28/ed-1/seq-4)
 
@@ -1678,7 +1678,7 @@ Remove insects from the ear by tepid
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _National opinion._](https://chroniclingamerica.loc.gov/lccn/sn84022552/1873-02-28/ed-1/seq-4)
 
@@ -1699,7 +1699,7 @@ an egg is pood in most cases.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1873-03-06/ed-1/seq-4)
 
@@ -1751,7 +1751,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1873-03-07/ed-1/seq-4)
 
@@ -1795,7 +1795,7 @@ an egg is good in most cases
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1873-03-07/ed-1/seq-4)
 
@@ -1849,7 +1849,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1873-03-08/ed-1/seq-4)
 
@@ -1901,7 +1901,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wilmington daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn84026837/1873-03-11/ed-1/seq-3)
 
@@ -1923,7 +1923,7 @@ strong cofie© and keep moving
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1873-03-13/ed-1/seq-4)
 
@@ -1969,7 +1969,7 @@ an egg is good in most cases
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ouachita telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85034336/1873-03-15/ed-1/seq-4)
 
@@ -2025,7 +2025,7 @@ body; for fainting, lay the person fiat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1873-03-27/ed-1/seq-1)
 
@@ -2069,7 +2069,7 @@ egg is good in most eases
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1873-04-02/ed-1/seq-4)
 
@@ -2095,7 +2095,7 @@ If an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1873-04-02/ed-1/seq-4)
 
@@ -2118,7 +2118,7 @@ an egg is good in most cases
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1873-04-06/ed-1/seq-3)
 
@@ -2164,7 +2164,7 @@ for fainting, lay the person flat
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1873-04-09/ed-1/seq-3)
 
@@ -2200,7 +2200,7 @@ and mouth projecting. -
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-04-10/ed-1/seq-1)
 
@@ -2245,7 +2245,7 @@ fee and keep moving
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1873-04-11/ed-1/seq-1)
 
@@ -2275,7 +2275,7 @@ fee nnd keep moving.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The workingman's advocate._](https://chroniclingamerica.loc.gov/lccn/sn89077510/1873-04-12/ed-1/seq-1)
 
@@ -2305,7 +2305,7 @@ keep mo \ m
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## What to Do in Case of Accident
 
@@ -2313,7 +2313,7 @@ keep mo \ m
 
 #### 1873-04-17 &middot; [Little Rock, Ark.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## What to do in Case of Accident
 
@@ -2321,7 +2321,7 @@ keep mo \ m
 
 #### 1873-04-19 &middot; Cleveland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## What to do in Case of Accident
 
@@ -2329,7 +2329,7 @@ keep mo \ m
 
 #### 1873-04-19 &middot; Cleveland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1873-04-25/ed-1/seq-4)
 
@@ -2395,7 +2395,7 @@ with the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1873-04-26/ed-1/seq-4)
 
@@ -2443,7 +2443,7 @@ pose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-04-26/ed-1/seq-4)
 
@@ -2468,7 +2468,7 @@ wound; if a vein is cut,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-04-26/ed-1/seq-4)
 
@@ -2496,7 +2496,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1873-05-01/ed-1/seq-4)
 
@@ -2521,7 +2521,7 @@ and month projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Peterson's Magazine (1849-1892)_](https://iiif.archivelab.org/iiif/sim_peterson-magazine_1873-05_63_5?page=70)
 
@@ -2569,7 +2569,7 @@ on the back, with the nose and meuth projecting.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1873-05-08/ed-1/seq-8)
 
@@ -2618,7 +2618,7 @@ and month projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1873-05-15/ed-1/seq-1)
 
@@ -2661,7 +2661,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly clarion._](https://chroniclingamerica.loc.gov/lccn/sn83016926/1873-05-15/ed-1/seq-2)
 
@@ -2707,7 +2707,7 @@ keep moving. &#x27;
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1873-05-16/ed-1/seq-4)
 
@@ -2761,7 +2761,7 @@ the nosj and ruouib projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1873-05-17/ed-1/seq-3)
 
@@ -2806,7 +2806,7 @@ and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Eureka daily sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84022044/1873-05-17/ed-1/seq-4)
 
@@ -2859,7 +2859,7 @@ ing
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Laws of the United States Passed at the Third Session of the Forty-Second Congress
 
@@ -2867,7 +2867,7 @@ ing
 
 #### 1873-05-17 &middot; Lewiston, North Idaho
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-05-22/ed-1/seq-1)
 
@@ -2912,7 +2912,7 @@ better, cut out the part without dela
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-05-22/ed-1/seq-1)
 
@@ -2932,7 +2932,7 @@ good in most cases ; in case of opium fate called him away to the West wher
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1873-05-24/ed-1/seq-4)
 
@@ -2963,7 +2963,7 @@ no?e and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1873-05-29/ed-1/seq-1)
 
@@ -3016,7 +3016,7 @@ the noose and mouth projecting.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1873-06-04/ed-1/seq-4)
 
@@ -3046,7 +3046,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1873-06-05/ed-1/seq-1)
 
@@ -3098,7 +3098,7 @@ egg is good in most ca-es in a ca-e of
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1873-06-10/ed-1/seq-1)
 
@@ -3137,7 +3137,7 @@ and mouth projectin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1873-06-13/ed-1/seq-4)
 
@@ -3186,7 +3186,7 @@ the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1873-06-13/ed-1/seq-1)
 
@@ -3233,7 +3233,7 @@ moving
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## What to do in Case of Accidents
 
@@ -3241,7 +3241,7 @@ moving
 
 #### 1873-06-16 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1873-06-19/ed-1/seq-2)
 
@@ -3294,7 +3294,7 @@ the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1873-06-19/ed-1/seq-4)
 
@@ -3322,7 +3322,7 @@ the noso and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1873-06-19/ed-1/seq-4)
 
@@ -3368,7 +3368,7 @@ tho nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1873-06-20/ed-1/seq-4)
 
@@ -3399,7 +3399,7 @@ with the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1873-06-26/ed-1/seq-1)
 
@@ -3430,7 +3430,7 @@ with thu nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1873-06-26/ed-1/seq-4)
 
@@ -3462,7 +3462,7 @@ with tho nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The McArthur enquirer._](https://chroniclingamerica.loc.gov/lccn/sn87075167/1873-07-02/ed-1/seq-1)
 
@@ -3493,7 +3493,7 @@ and keep moving. nt-iiiyr. a h
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1873-07-03_46_27?page=4)
 
@@ -3534,7 +3534,7 @@ give acids; white of an egg is good in most cases.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-07-05/ed-1/seq-4)
 
@@ -3583,7 +3583,7 @@ the nose and mouth projecting.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1873-07-31/ed-1/seq-4)
 
@@ -3623,7 +3623,7 @@ the nose aud mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1873-07-31/ed-1/seq-4)
 
@@ -3672,7 +3672,7 @@ ncrso
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Society and Personal. IDLE LADY'S COMPLAINT.](http://trove.nla.gov.au/ndp/del/article/162656463)
 
@@ -3720,7 +3720,7 @@ keep moving. If in water, float on the
 back, with the nose and mout
 </td></tr></table>
 
-<hr />
+---
 
 ## GOOD RULES FOR EMERGENCIES.
 
@@ -3728,7 +3728,7 @@ back, with the nose and mout
 
 #### 1873-10-01 &middot; Shakers
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10?page=3)
 
@@ -3777,7 +3777,7 @@ in most cases.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-10-04/ed-1/seq-4)
 
@@ -3820,7 +3820,7 @@ mustard
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Pioche daily record._](https://chroniclingamerica.loc.gov/lccn/sn84022048/1873-10-14/ed-1/seq-1)
 
@@ -3869,7 +3869,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [MISCELLANEOUS EXTRACTS.](http://trove.nla.gov.au/ndp/del/article/169702650)
 
@@ -3907,7 +3907,7 @@ poisoning givo strong coffee; and ittSep
 moving. If in water, lloat on the buck
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1873-12-27/ed-1/seq-3)
 
@@ -3958,7 +3958,7 @@ the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1874-01-22/ed-1/seq-7)
 
@@ -4007,7 +4007,7 @@ the nose and month projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1874-01-23/ed-1/seq-4)
 
@@ -4033,7 +4033,7 @@ Never put a hard &#x27; ins
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1874-01-31/ed-1/seq-2)
 
@@ -4075,7 +4075,7 @@ give strong coifee, and keep moving
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1874-01-31/ed-1/seq-1)
 
@@ -4124,7 +4124,7 @@ the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1874-02-03/ed-1/seq-2)
 
@@ -4158,7 +4158,7 @@ and mustard, if in water float on th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1874-03-30/ed-1/seq-4)
 
@@ -4203,7 +4203,7 @@ the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [BONE DUST AS A MANURE.](http://trove.nla.gov.au/ndp/del/article/100842526)
 
@@ -4247,7 +4247,7 @@ water, flo?at on the back, with the nose
 and mouth projecting. For apoplexy
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1874-05-06/ed-1/seq-2)
 
@@ -4296,7 +4296,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1874-06-19/ed-1/seq-5)
 
@@ -4344,7 +4344,7 @@ with nose and mouth projecting. Fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1874-06-26/ed-1/seq-2)
 
@@ -4387,7 +4387,7 @@ water float on the back, with nose an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly clarion._](https://chroniclingamerica.loc.gov/lccn/sn83016926/1874-09-03/ed-1/seq-4)
 
@@ -4431,7 +4431,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1874-11-05/ed-1/seq-1)
 
@@ -4466,7 +4466,7 @@ with the nose and mouth projecting. Fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1874-11-05/ed-1/seq-1)
 
@@ -4503,7 +4503,7 @@ and mouth projectiag. For apoplexy, rais
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1874-11-06/ed-1/seq-2)
 
@@ -4545,7 +4545,7 @@ nose and mou&#x27;h projecting. For aponlexy
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1874-11-11/ed-1/seq-1)
 
@@ -4584,7 +4584,7 @@ on the back, with tho nose and mout
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1874-11-18/ed-1/seq-1)
 
@@ -4618,7 +4618,7 @@ ing, give strong coffee and keep moving. I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1874-11-25/ed-1/seq-4)
 
@@ -4662,7 +4662,7 @@ back, with the nose and month pr
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1874-11-25/ed-1/seq-6)
 
@@ -4699,7 +4699,7 @@ back, wiih the nose and mouth project
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Milan exchange._](https://chroniclingamerica.loc.gov/lccn/sn86053488/1874-11-26/ed-1/seq-1)
 
@@ -4736,7 +4736,7 @@ back, with the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1874-11-26/ed-1/seq-6)
 
@@ -4774,7 +4774,7 @@ w itli the nose and mouth projecting. Fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1874-11-27/ed-1/seq-2)
 
@@ -4819,7 +4819,7 @@ with the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Presence of Mind
 
@@ -4827,7 +4827,7 @@ with the nose and mouth projecting
 
 #### 1874-11-28 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Knoxville journal._](https://chroniclingamerica.loc.gov/lccn/sn82015854/1874-12-03/ed-1/seq-1)
 
@@ -4874,7 +4874,7 @@ the nose and mouth projecting. Fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1874-12-03/ed-1/seq-4)
 
@@ -4908,7 +4908,7 @@ float on the back, with the nose an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Martinsburg weekly independent._](https://chroniclingamerica.loc.gov/lccn/sn84026810/1874-12-05/ed-1/seq-1)
 
@@ -4942,7 +4942,7 @@ with the uese and mouth projecting. Eo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1874-12-10/ed-1/seq-1)
 
@@ -4974,7 +4974,7 @@ case of opiam poisoning, give stron
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1874-12-10/ed-1/seq-1)
 
@@ -5012,7 +5012,7 @@ float on the back w ith the nose pro
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1874-12-12/ed-1/seq-1)
 
@@ -5050,7 +5050,7 @@ back, with the nose and mouth projec
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1874-12-18/ed-1/seq-1)
 
@@ -5086,7 +5086,7 @@ give strong c.ffee andkeep moving. I
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Presence of Mind
 
@@ -5094,7 +5094,7 @@ give strong c.ffee andkeep moving. I
 
 #### 1874-12-23 &middot; San Francisco [Calif.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1874-12-25/ed-1/seq-1)
 
@@ -5131,7 +5131,7 @@ with the nose and mouth projectin
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Silent World 1871-1876_](https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1?page=2)
 
@@ -5162,7 +5162,7 @@ water float on the back, with the nose and mouth projecting. Fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1875-01-09/ed-1/seq-1)
 
@@ -5200,7 +5200,7 @@ with the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Presence of Mind
 
@@ -5208,7 +5208,7 @@ with the nose and mouth projecting
 
 #### 1875-01-11 &middot; Lowell, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1875-01-13/ed-1/seq-3)
 
@@ -5245,7 +5245,7 @@ strong coffee and keep moving. If yo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Peterson's Magazine (1849-1892)_](https://iiif.archivelab.org/iiif/sim_peterson-magazine_1875-02_67_2?page=55)
 
@@ -5275,7 +5275,7 @@ with the nose and mouth projecting. For apoplexy, rais
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1875-03-05/ed-1/seq-1)
 
@@ -5310,7 +5310,7 @@ give strong coffee and keep moving
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1875-03-18/ed-1/seq-1)
 
@@ -5357,7 +5357,7 @@ the nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1875-04-02/ed-1/seq-1)
 
@@ -5393,7 +5393,7 @@ I! give strong coliee and keep moving.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Home Items
 
@@ -5401,7 +5401,7 @@ I! give strong coliee and keep moving.
 
 #### 1875-05-06 &middot; New Orleans, La.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1875-05-12/ed-1/seq-3)
 
@@ -5439,7 +5439,7 @@ and mouth projecting. For apoplexy
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-05-20/ed-1/seq-1)
 
@@ -5472,7 +5472,7 @@ In can
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1875-05-28/ed-1/seq-1)
 
@@ -5509,7 +5509,7 @@ with the nose and mouth projecting. Fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The St. Cloud journal._](https://chroniclingamerica.loc.gov/lccn/sn85033526/1875-09-02/ed-1/seq-1)
 
@@ -5549,7 +5549,7 @@ cover with varnish.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1875-09-03/ed-1/seq-1)
 
@@ -5583,7 +5583,7 @@ with varnish
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Knoxville Whig and chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85042534/1875-09-08/ed-1/seq-4)
 
@@ -5612,7 +5612,7 @@ varnish
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1875-09-22/ed-1/seq-1)
 
@@ -5643,7 +5643,7 @@ acids ; in csm of opium poisoning, giv
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1875-10-02/ed-1/seq-1)
 
@@ -5672,7 +5672,7 @@ tbe wound: if a ve
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48?page=6)
 
@@ -5708,7 +5708,7 @@ water, float on the back with the nose an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1875-12-02/ed-1/seq-3)
 
@@ -5739,7 +5739,7 @@ with varnish.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-12-23/ed-1/seq-4)
 
@@ -5768,7 +5768,7 @@ fee and keep moving. It you fall int
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1876-02-24/ed-1/seq-4)
 
@@ -5802,7 +5802,7 @@ For apoplexy, raise the head an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1876-04-17/ed-1/seq-1)
 
@@ -5833,7 +5833,7 @@ For acid poisons, eive strong . coffee an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-09-07/ed-1/seq-1)
 
@@ -5874,7 +5874,7 @@ coffee and keep moving. If you fall int
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-09-07/ed-1/seq-2)
 
@@ -5910,7 +5910,7 @@ coffee and keep moving. If you fall int
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1876-12-21_49_51?page=7)
 
@@ -5952,7 +5952,7 @@ back with the nose and mouth projecting. Fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Claiborne guardian._](https://chroniclingamerica.loc.gov/lccn/sn88064118/1878-08-21/ed-1/seq-1)
 
@@ -6007,7 +6007,7 @@ In a e
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Facts of Science and Art
 
@@ -6015,7 +6015,7 @@ In a e
 
 #### 1879-03-26 &middot; Boston, Mass.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The farmer and mechanic._](https://chroniclingamerica.loc.gov/lccn/sn85042098/1879-05-22/ed-1/seq-5)
 
@@ -6052,7 +6052,7 @@ ing. If in water float on the back,
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1879-05-24_40_21?page=11)
 
@@ -6087,7 +6087,7 @@ give acids; in case of opium poison give strong coffee an
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1879-06-06/ed-1/seq-3)
 
@@ -6120,7 +6120,7 @@ For acid poisons give acids; in case o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1879-06-12/ed-1/seq-1)
 
@@ -6140,7 +6140,7 @@ ing about
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1879-07-05/ed-1/seq-1)
 
@@ -6171,7 +6171,7 @@ I can be Isirne to a hot coal, or end of a cigar.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1879-07-24/ed-1/seq-1)
 
@@ -6203,7 +6203,7 @@ nose and mouth projecting
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn86053402/1879-08-07/ed-1/seq-4)
 
@@ -6227,7 +6227,7 @@ FiFn Frittebs. Take the remains o
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34?page=7)
 
@@ -6255,7 +6255,7 @@ the
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## "PRESENCE OF MIND."
 
@@ -6263,7 +6263,7 @@ the
 
 #### 1879-08-25 &middot; Aberdeen, Scotland
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-08-30_59_6?page=6)
 
@@ -6294,7 +6294,7 @@ tard, In case of opium ison give stron
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [RULES IN CASE OF ACCIDENT.](http://trove.nla.gov.au/ndp/del/article/135964519)
 
@@ -6327,7 +6327,7 @@ opium poisons, give otreng coffee, and
 keep mov;ng I, in water float on th
 </td></tr></table>
 
-<hr />
+---
 
 ## [Local and General News.](http://trove.nla.gov.au/ndp/del/article/71732579)
 
@@ -6361,7 +6361,7 @@ poisons, give acid! in case of opium
 poisons, givo strong coffee al keo
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _West Virginia argus._](https://chroniclingamerica.loc.gov/lccn/sn86092245/1879-09-27/ed-1/seq-4)
 
@@ -6393,7 +6393,7 @@ and body; lor fainting, l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-10-23/ed-1/seq-1)
 
@@ -6427,7 +6427,7 @@ l
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [The Morning Bulletin, ROCKHAMPTON. FRIDAY, OCTOBER 24, 1879.](http://trove.nla.gov.au/ndp/del/article/51982190)
 
@@ -6459,7 +6459,7 @@ water or mustard. In case of opium
 poisining give strong coffee and ,kee
 </td></tr></table>
 
-<hr />
+---
 
 ## [Useful Hints.](http://trove.nla.gov.au/ndp/del/article/161873949)
 
@@ -6492,7 +6492,7 @@ coffee and keep moving. If in the water,
 float on the back, with the nose an
 </td></tr></table>
 
-<hr />
+---
 
 ## [WANTABADGERY STATION STUCK UP BY BUSHRANGERS. WAGGA WAGGA, 18th November.](http://trove.nla.gov.au/ndp/del/article/141030981)
 
@@ -6517,7 +6517,7 @@ mustard. In caso.of_opium,_ poisoning,
 give strong coffee and keep moving. I
 </td></tr></table>
 
-<hr />
+---
 
 ## [PRESENCE OF MIND.](http://trove.nla.gov.au/ndp/del/article/62088347)
 
@@ -6551,7 +6551,7 @@ water lloat on tho buck, with tho HOBO
 and mouth projecting. For apoplexy rnis
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The Eaton Democrat._](https://chroniclingamerica.loc.gov/lccn/sn88077272/1879-12-25/ed-1/seq-4)
 
@@ -6588,7 +6588,7 @@ keep moving. If in water, float on th
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Daily globe._](https://chroniclingamerica.loc.gov/lccn/sn83025287/1880-01-04/ed-1/seq-2)
 
@@ -6628,7 +6628,7 @@ body; fcr fainting, lay t
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1880-01-08/ed-1/seq-1)
 
@@ -6663,7 +6663,7 @@ ing. or apoplexy, raise he ad
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn00065151/1880-01-10/ed-1/seq-6)
 
@@ -6700,7 +6700,7 @@ keep moving, [f in water, float on t!.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1880-11-11/ed-1/seq-1)
 
@@ -6738,7 +6738,7 @@ opium poison give Btrong coffee
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1881-07-16_60_52?page=6)
 
@@ -6770,7 +6770,7 @@ strong coffee and keep movsnal if in the wa
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Medical Remedies
 
@@ -6778,7 +6778,7 @@ strong coffee and keep movsnal if in the wa
 
 #### 1881-12-09 &middot; Tahlequah, Cherokee Nation [Okla.]
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1882-08-10/ed-1/seq-4)
 
@@ -6835,7 +6835,7 @@ strong coffee, and keep moving
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [Scientific and Useful.](http://trove.nla.gov.au/ndp/del/article/70983900)
 
@@ -6879,7 +6879,7 @@ keep moving. If in water, float on the
 baok, with the noae and mouth project
 </td></tr></table>
 
-<hr />
+---
 
 ## [USEFUL RECIPES.](http://trove.nla.gov.au/ndp/del/article/128495133)
 
@@ -6920,7 +6920,7 @@ poisons give acids; white of an egg is
 good in most cases. For apoplexy, rais
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _Nevada County picayune._](https://chroniclingamerica.loc.gov/lccn/sn87091048/1886-09-15/ed-1/seq-4)
 
@@ -6973,7 +6973,7 @@ j water float on the back with the]
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Macon beacon._](https://chroniclingamerica.loc.gov/lccn/sn83016943/1886-09-25/ed-1/seq-4)
 
@@ -7012,7 +7012,7 @@ poisons, give alkalies; for alka
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The weekly Thibodaux sentinel and journal of the 8th Senatorial District._](https://chroniclingamerica.loc.gov/lccn/sn88064492/1888-01-21/ed-1/seq-1)
 
@@ -7065,7 +7065,7 @@ and keep moving
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Silver state._](https://chroniclingamerica.loc.gov/lccn/sn84022060/1892-03-30/ed-1/seq-2)
 
@@ -7111,7 +7111,7 @@ of a cigar
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1892-04-05/ed-1/seq-3)
 
@@ -7156,7 +7156,7 @@ mustard
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1892-04-12/ed-1/seq-4)
 
@@ -7200,7 +7200,7 @@ be borne to a hot coal or end of a cigar
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Emergency Notes
 
@@ -7208,7 +7208,7 @@ be borne to a hot coal or end of a cigar
 
 #### 1892-04-20 &middot; Atchison, Kan.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## Emergency Notes
 
@@ -7216,7 +7216,7 @@ be borne to a hot coal or end of a cigar
 
 #### 1892-04-20 &middot; Atchison, Kan.
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _Fisherman & farmer._](https://chroniclingamerica.loc.gov/lccn/sn91068084/1892-04-22/ed-1/seq-3)
 
@@ -7262,7 +7262,7 @@ and mustard
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1892-04-25/ed-1/seq-2)
 
@@ -7310,7 +7310,7 @@ water and mustard
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gloucester County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87068079/1892-04-28/ed-1/seq-1)
 
@@ -7331,7 +7331,7 @@ to a hot coal or end of a cigar
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Gloucester County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87068079/1892-04-28/ed-1/seq-1)
 
@@ -7349,7 +7349,7 @@ if carbonic acid gas is suspected walk erect
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1892-04-30/ed-1/seq-1)
 
@@ -7394,7 +7394,7 @@ cigar
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1892-04-30/ed-1/seq-1)
 
@@ -7413,7 +7413,7 @@ is suspected walk erect.—From a Boo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## Emergency Notes.
 
@@ -7421,7 +7421,7 @@ is suspected walk erect.—From a Boo
 
 #### 1892-05-01 &middot; Atlanta
 [This text is not available under an open license.]
-<hr />
+---
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1892-05-04/ed-1/seq-1)
 
@@ -7467,7 +7467,7 @@ and mustard
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1892-05-04/ed-1/seq-2)
 
@@ -7513,7 +7513,7 @@ and mustard
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1892-05-04/ed-1/seq-3)
 
@@ -7559,7 +7559,7 @@ and mustard
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Salt Lake herald._](https://chroniclingamerica.loc.gov/lccn/sn85058130/1892-05-08/ed-1/seq-5)
 
@@ -7580,7 +7580,7 @@ to a hot coal or end of ciga
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Roanoke times._](https://chroniclingamerica.loc.gov/lccn/sn86071868/1892-05-13/ed-1/seq-6)
 
@@ -7622,7 +7622,7 @@ ter and mustard
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1892-05-25/ed-1/seq-1)
 
@@ -7666,7 +7666,7 @@ j If iu water, Moat on the hack, wit
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [What to do in Case of Accident.](http://trove.nla.gov.au/ndp/del/article/19013058)
 
@@ -7699,7 +7699,7 @@ excite vomiting by tickling Che throat
 by warm water and mu« I ard. If i
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The midland journal._](https://chroniclingamerica.loc.gov/lccn/sn89060136/1892-08-12/ed-1/seq-4)
 
@@ -7718,7 +7718,7 @@ then sloop low, but if carbonic acid
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [What to do in Case of Accident.](http://trove.nla.gov.au/ndp/del/article/61246249)
 
@@ -7749,7 +7749,7 @@ cigar.. ..« ? Jn case of ; poisoning
 throut,by¡,warm water and mus-tard., 
 </td></tr></table>
 
-<hr />
+---
 
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1893-02-17/ed-1/seq-4)
 
@@ -7798,7 +7798,7 @@ mustard.
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Capital journal._](https://chroniclingamerica.loc.gov/lccn/sn99063954/1894-01-29/ed-1/seq-3)
 
@@ -7829,7 +7829,7 @@ For slight burns, dip the part in col
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Telegraph-courier._](https://chroniclingamerica.loc.gov/lccn/sn85040310/1895-12-05/ed-1/seq-6)
 
@@ -7874,7 +7874,7 @@ with nose and mouth projecting. Fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _Semi-weekly independent._](https://chroniclingamerica.loc.gov/lccn/sn87056250/1896-01-04/ed-1/seq-5)
 
@@ -7897,7 +7897,7 @@ with nose and mouth projecting. Fo
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Guthrie daily leader._](https://chroniclingamerica.loc.gov/lccn/sn86063952/1896-01-18/ed-1/seq-4)
 
@@ -7929,7 +7929,7 @@ with nose and &#x27;mouth projecting. Co
 </td>
 </tr></table>
 
-<hr />
+---
 
 ## [From _The Guthrie daily leader._](https://chroniclingamerica.loc.gov/lccn/sn86063952/1896-01-29/ed-1/seq-3)
 
@@ -7953,5 +7953,5 @@ with nose and mouth projecting. Fo
 </td>
 </tr></table>
 
-<hr />
+---
 
