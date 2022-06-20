@@ -1,7 +1,7 @@
 
 # The Explorations at Jerusalem
 
-### 32 reprints from 1867-11-14 to 1871-08-11
+### 27 reprints from 1867-11-14 to 1871-08-11
 
 ## [The Explorations at Jerusalem](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
 
@@ -10,6 +10,7 @@
 #### From _New National Era_
 
 #### 1871-06-29
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 *The Explorations at Jerusalem.**  
@@ -32,12 +33,15 @@ Further explorations disclosed a subterranean passage, perhaps orginally constru
 #### From _The Times_
 
 #### 1867-11-14 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Journal of Sacred Literature 1848-1868_](https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4?page=248)
 
 #### 1868-01-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -106,6 +110,7 @@ only 6 feet deep, though it looked black enough for anything. Climb
 ## [From _British and Foreign Evangelical Review 1852-1888_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64?page=65)
 
 #### 1868-04-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -152,20 +157,56 @@ Just on reaching the bottom, one recollects there is still a pit of un-
 known depth to be explored, and cautiously straddles across it. Then  
 can be seen that one course in the Haram wall, near the bottom, is  
 quite smooth all over, the stone being finely dressed, all other courses  
-being only half-dressed round the drafts. One also sees two stou
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64&#0036;65/pct:16.119097,23.512748,68.891170,71.033994/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _British and Foreign Evangelical Review 1852-1888_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64?page=66)
-
-#### 1868-04-01
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+being only half-dressed round the drafts. One also sees two stout  
   
+  
+  
+  
+  
+  
+  
+  
+  
+™ -*=  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+295  
   
 boards lying against the Haram wall, under which the men retire  
 whenever an accidental shower of stones renders their position dan-  
@@ -174,7 +215,7 @@ here we commence the exploring of the ‘ bottomless pit.’ After
 dropping a rope down, we found that it was only six feet deep, though it  
 looked black enough for anything. Climbing down, we found ourselve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64&#0036;66/pct:18.377823,11.366856,67.248460,9.985836/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64&#0036;65/pct:16.119097,23.512748,68.891170,71.033994/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,6 +224,7 @@ looked black enough for anything. Climbing down, we found ourselve
 ## [From _Quiver 1861-1926_](https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144?page=9)
 
 #### 1868-06-20
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -274,6 +316,7 @@ looked black enough for anything. On.climbin
 ## [From _The Art-Journal 1839-1912_](https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80?page=9)
 
 #### 1868-08-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -296,48 +339,7 @@ to the spot and examined it.”’
 ## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
 
 #### 1871-06-27 &middot; Middlebury, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-wall, is a largo mass of rubbish that has  
-bccn brought up ; whilo over tho moutli  
-itself is a triangolar gin, with iron whccl  
-attachcd, with guy, for running up thn  
-  
-cxcavatcil soil. JiOOktng down tho shall,  
-one sccs that it is lincd for tho first twen­  
-ty foet with framcs four fcct six inchcs iu  
-tho clcar ; furthcr down tho Sanctuary  
-wall und soil cut through aro sccn, and a  
-man standing at what appcars to bc the  
-bottoiu. An ordcr is givcn to this man,  
-who rcpcats it, and thcn, faintly, ishcard  
-a pcpulchral voico answcring, as it wcre  
-from anothcr world, llcaching down tu  
-thc inati who is visihlo is athirty-four-fcct  
-ropo-ladder j and on dcscending by  
-it, ono fiuds ho is stand ing on a lcdge  
-which thc ladder docs not touch by four  
-fcct. This ledgo is tho top of a wall run­  
-ning north and south, and abutting on  
-tho Sanctuary wall ; its east faco just  
-cuts tho centro of the shaft, which harf to  
-ho cantcd off about two fect toward tho  
-  
-east, just whcro somo largo looso stoncs  
-  
-not count : that his liiflucnco is nothinir. &#x27;.Utt out i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:50.521691,11.189502,22.332052,12.656978/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
-
-#### 1871-06-27 &middot; Middlebury, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -380,33 +382,10 @@ Nor is this all. A pcrfect nct-work of
 ## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
 
 #### 1871-06-27 &middot; Middlebury, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rcd distanco, and ono has to &#x27;  
-rcach it by climhing down over hand for ,  
-about twclvc fcct. On passing olong one &#x27;  
-uotes tho marvolous joints of tho Sanctu- j  
-ary wall stoncs, and also, probably, gcts  
-a few blows on skull and knuckles from &#x27;  
-falling pcbblcs. Just on rcaching the  
-bottom one rccollccts thcro is still a pit  
-of unknown dcpth to bc cxplorcd, and  
-cautiously straddles across it. Thou can  
-bc sccn that ono courso in tho Sanctuary &#x27;  
-wall, near thc bottom, is quito smooth all  
-over, thu stonc bcing fincly drtssod, nll  
-othor courses bcing only wcll-drcsscd  
-around the drafts; one also sccs two stout  
-boards lying agaiiint tho Sanctuary wall,  
-under which tho men rctire wheuover an  
-accidcntal showcr of stoncs rendcrs thcir  
-position dangcrous, Ono is now at a  
-dcpth of seventy-nino fect from tho .sur­  
-faco. and from hcre wo commcncc tho cx-  
-  
-ploring of tho &quot;bottomlcss &#x27; pit.&quot; Aftcr .  
-dropping a ropc down, wo found that it  
-was only six fect dccp, though it lookcd &#x27;  
+six fect dccp, though it lookcd &#x27;  
 black cnough for any thing.&quot; m I  
 Furthcr o.ploration3 discloscd a sub-&#x27;  
   
@@ -425,36 +404,7 @@ he could tiirn his hcad. From &quot;The He­
 covery of Jcrusalcm,&quot; by Lymax AnnorT,  
 in Warner&#x27;s Mayazinc fur Juhj.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:61.907377,30.929872,11.422295,20.502328/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
-
-#### 1871-06-27 &middot; Middlebury, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-han confirms tho ideas of .Icwish archi­  
-toctural grandeur which (ho hooks of the  
-Iiiblo and tho pagcs of .loeplius oouibin­  
-cd to give, but wliich havo hilhcrto been  
-regardcd by many skeptical ininds as  
-  
-apocryphal.  
-  
-Along the southcrn wall his discoveriea  
-wcro scarccly lcss intcroting. Hcre ho  
-found a doublo pavenicut, ouo twenty­  
-three, tho other forty-thrco feet bolow the  
-present surfaco of tho ground. Hcre also  
-  
-ho found somo eurious reniains both of  
-  
-Ilobrow and of Christian origin. Tho his knccs and fect, Urigham Young
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:51.125755,76.873148,22.386967,6.758854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:62.053817,42.627346,11.275856,8.804854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +415,9 @@ Ilobrow and of Christian origin. Tho his knccs and fect, Urigham Young
 #### From _The Yankton press._
 
 #### 1871-06-28 &middot; Yankton, Dakota Territory [S.D.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## The Explorations at Jerusalem
@@ -473,12 +425,15 @@ Ilobrow and of Christian origin. Tho his knccs and fect, Urigham Young
 #### From _The Yankton press._
 
 #### 1871-06-28 &middot; Yankton, Dakota Territory [S.D.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
 #### 1871-06-29 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -595,6 +550,7 @@ straddle across it. Then can be seen that one
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
 #### 1871-06-29 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -632,33 +588,13 @@ July
 
 ---
 
-## [From _New National Era 1870-1874_](https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25?page=0)
-
-#### 1871-06-29
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-~ (which the Jaw requires be signed by three mem- eb tte patios he ; fear the republic gnd bate the empire, will| ube pavement, one twenty-three, the other | day the fire occurred. There was no fighting | defeat the treaty ; but, to their great dismay,  
-  
-feet below the present surface of! 54° board on the day of the fire. Nothing Newfoundland, whose whole welfare is bound  
-sw od a oo cots Weigle auousaal took place in the bold that day. We up in her fisheries, likes the proposed adjust-  
-‘ ; row -/ could play at dominoes or dice in the hold, | went of the fishery question very much. The  
-7 PA gg: deagrad geek The following description of his explorations at My peters nt on board the fishing junk was | question which are f arises now is, if th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25&#0036;0/pct:14.705882,67.003833,78.676471,2.597956/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
 
 #### 1871-07-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-cult place, as the constant | of the ancient road in the valley itself is now  
-danger caused the nerves | forty-five feet below the present surface formed  
 to become unstrung after a| by the ruins of the ancient walls and houses.  
 time. ‘Only those,” says | Nor is this all. A perfect net-work of sub-  
 Captain Warren, ‘‘ who|terranean chambers was also disclosed, some of  
@@ -666,7 +602,7 @@ have experienced the pe-| which were probably used for the storage ot
 culiar effect of the rattling | food, and others as aqueduets and cisterns.  
 of the débris upon the} And the whole result more than confirms th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:29.995608,33.400693,55.906895,9.844111/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:29.995608,35.998845,55.906895,7.245958/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,14 +611,14 @@ of the débris upon the} And the whole result more than confirms th
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
 
 #### 1871-07-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-frames, with the prospect at | ideas of Jewish architectural grandeur which  
 any moment of the boards | the books of the Bible and the pages of Jose-  
 being crushed in by a large | phus combine to give, but which have hithert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.039526,43.331409,55.950812,3.752887/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.039526,44.572748,55.950812,2.511547/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,32 +627,17 @@ being crushed in by a large | phus combine to give, but which have hithert
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
 
 #### 1871-07-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-upon the workmen. The Along the southern wall his discoveries were  
-non-commissioned officers | scarcely less interesting. Here he found 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.215195,49.653580,55.862978,2.453811/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
-
-#### 1871-07-01 &middot; New York
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+have to keep continually to | double pavement, one twenty-three, the other  
 the front, or the men will | forty-three feet below the present surface of  
 not venture up.” the ground. Here also he found some curious  
 ‘The first operations were | remains both of Hebrew and of Christian origin.  
-commenced on the western | The following description of his explorations at  
-wall, at a point near what is | this point, taken from one of his letters written  
-known as Wilson’s Arch. | at the time, will afford the reader a mor
+commenced on the western | The following description of his explorations a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.215195,53.262125,55.994730,7.476905/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.215195,51.991917,55.906895,6.322171/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,13 +646,29 @@ known as Wilson’s Arch. | at the time, will afford the reader a mor
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
 
 #### 1871-07-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+It receives this name from | graphic picture of the difficulties and dangers  
+the fact that it was first dis- | which attended his investigations than can be  
 covered by Captain Wilson, | given by any general description :  
-who had not the means,| ‘On Friday, having arrived at a depth o
+who had not the means,| ‘On Friday, having arrived at a depth of  
+however, to prosecute any | seventy-nine feet, the men were breaking up a  
+  
+SOROS  
+  
+  
+  
+mining operations,  
+  
+SHAFT SUNK.  
+  
+]  
+  
+Captain Warren’s explora- | stone at the bottom of the shaft. Suddenly the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.346948,63.048499,55.775143,2.742494/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:15.810277,60.681293,70.663153,22.632794/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,6 +677,7 @@ who had not the means,| ‘On Friday, having arrived at a depth o
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=40)
 
 #### 1871-07-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -763,6 +701,7 @@ Sanctuary wall, near the southwest angle, among | serving also, at the same time
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=40)
 
 #### 1871-07-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -808,6 +747,7 @@ fixed to keep these stones steady.
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=40)
 
 #### 1871-07-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -825,6 +765,7 @@ until they are lost in the darkness below; ob
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=41)
 
 #### 1871-07-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -883,6 +824,7 @@ get to a point where he could turn his head
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-07-02/ed-1/seq-4)
 
 #### 1871-07-02 &middot; New Orleans, La
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -944,6 +886,7 @@ The investigations for the eastern an
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-07-02/ed-1/seq-4)
 
 #### 1871-07-02 &middot; New Orleans, La
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -967,6 +910,7 @@ stated in his very interesting report, an
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-07-06/ed-1/seq-1)
 
 #### 1871-07-06 &middot; Eaton, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ct that, u? was nrs  
@@ -986,18 +930,9 @@ discovered. &#x27;Part of this bridge has lal­
 leni and &#x27; broken and burird the. aqut­  
 duct An its lal i and. the origiuaT. pave  
 ment &quot; or the ancient roaa -in ine vaney  
-itself&#x27; Is now. rort-five teet. be.ow - the  
-nresent surface formed? bv the rums of  
-the aucieui walla and houses. &#x27; Nor is this  
-all... A verier net worn oi u&#x27;bterraueau  
-. i. -. . . i .i : i . L..,. ,-r -... ..i &#x27;  
-lUallluC19i ttvno HUM uiouuacu, evuu; jm  
-htcfc Wrte nrbuabiy need lor fcbx Btory  
-age er ood3nd others as aqueducts and  
-eistei-ns. And the. whole results &#x27;more  
-Fthari - cDufirnls&#x27; Uit5 idea9 of iMjliitectunt
+itself&#x27; Is now. rort-five teet. be.ow - th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.395303,13.908014,12.067841,11.539521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.656230,13.908014,11.806915,8.014321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,10 +941,10 @@ Fthari - cDufirnls&#x27; Uit5 idea9 of iMjliitectunt
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-07-06/ed-1/seq-1)
 
 #### 1871-07-06 &middot; Eaton, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-trtind some curious rtfnittina tiota  
-ot Hebrew tmd Of Jhritin origin?, Tbe  
+?, Tbe  
 followiha&#x27;deoCi&#x27;iDtioh of his explorations  
 atxhis, point-takenfrom ne oi his let  
 ters written, at. tne pime,,wiii. auoru ?iue  
@@ -1100,7 +1035,7 @@ pit. After dropping a &quot;rope down, we
 tou nd.- tltatr-. ft w as i only six feet deep,  
 chough it looked black enough: for an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.395303,29.991738,12.230920,40.925365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.395303,30.418617,12.230920,40.498485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,6 +1044,7 @@ chough it looked black enough: for an
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-07-06/ed-1/seq-1)
 
 #### 1871-07-06 &middot; Eaton, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1139,6 +1075,7 @@ jorjuiy, .. f -
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1871-07-20/ed-1/seq-1)
 
 #### 1871-07-20 &middot; Point Pleasant, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1294,6 +1231,7 @@ in Harper&#x27;s Magazine fur July.
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1871-08-11/ed-1/seq-1)
 
 #### 1871-08-11 &middot; Oregon, Missouri.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 nll his discov­  
@@ -1368,37 +1306,9 @@ man nt tho bottom to got undor cover,
 it Is loworod to tho lodgo, from whouco  
 It is found that it doos not roach to  
 tho bottom by sovoral foot. It Is thcro­  
-foro loworod to tho required dislanco,  
-nud ono lias to roach it by climbing down  
-hand ovor linnd for nbout twelvo foot.  
-On passing nlong ono notes tho mnrvol­  
-oils Joints of tho Sanctuary wnll stonos,  
-and also, probably, gots a fow blows on  
-skull nnd knuckles from falling pobblos.  
-Just on reaching tho bottom ono rocol­  
-loots thoro is still a pit of uiikown depth  
-to bo oxplorod, and cautiously straddles  
-across it. Then can bo soon that ono  
-courso In tho Sanctuary wall, noar tho  
-bottom, is qui to smooth all ovor, tho  
-stono bolng flnoly drossod, all othor  
-coursos bolng only woll-drossod around  
-tho drafts ; ono also soos two stout  
-bonrds lying against tho Sanctuary wall,  
-undor which tho mon rollro whonovor  
-an accldontal sltowpr of stonos rondors  
-tholr nosltlon dancorous. Ono Is now at a  
-depth of sovoiity-nlno foot from tho sur-  
-taco, nnu irom noro wo commouco tno  
-oxnlorlng of tho &quot;bottomless pit.&quot;  
-After dronnlng a ropo down, wo found  
-thnt it was only six foot doop. though It  
-looivOd uiacic onotigu lornny tiling,&quot;  
-Furthor oxnloratlons disclosod a sub  
-torrnnoan pnssngo, porlmps originally  
-construct
+foro loworod to tho requi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871081101%2F0131.jp2/pct:42.124212,44.234173,12.061206,45.187202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871081101%2F0131.jp2/pct:42.124212,44.234173,12.007201,32.756978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1,13 +1,14 @@
 
 # A Philosophical Darkey
 
-### 240 reprints from 1862-03-21 to 1898-10-01
+### 248 reprints from 1862-03-21 to 1898-10-01
 
 ## [A Philosophical Darkey](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-06-20/ed-1/seq-1/)
 
 #### From _Herald and Tribune_
 
 #### 1872-06-20
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 **A Philosophical Darkey**  
@@ -64,50 +65,18 @@ It is safe to say that the darkey corpse of that African will never darken the f
 #### From _Daily national intelligencer._
 
 #### 1862-03-21 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
----
 
-## A Philosophic Negro
-
-#### From _Daily national intelligencer._
-
-#### 1862-03-21 &middot; Washington City [D.C.]
-[This text is not available under an open license.]
 ---
 
 ## [From _Cleveland morning leader._](https://chroniclingamerica.loc.gov/lccn/sn83035143/1862-03-22/ed-1/seq-1)
 
 #### 1862-03-22 &middot; Cleveland [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, ncniiBf tnrongn um air.  
-f  
-  
-. i-U -.&#x27;0..,.&#x27; p..,.., .  
-(BY  
-E. Cobles &amp; Co., Pafclisiicrs. Offlce So. 112 Superior Street. Terms:  
-: VOL. XVI. CLEVELAND, , SATITUOAY MORNING, MARCH 22, 1862 -,. NO. .69  
-  
-A Philosophical Darkey.  
-  
-[Correspondence of the Cincinnati Gazette.  
-  
-I noticed upea lh hurricane deck to day  
-an elderly darkey witn a very pniiosopni  
-eal and retrospective east oi countenance,  
-squatted upon hi bundle, toasting his shins  
-against tn enimney, ana apparently  
-plunged into a tat of profound medita  
-lion. Finding noon inquiry that he be  
-Ion red to th Ninth Illinois, one of the  
-most gallantly behaved and heavily losing  
-regiments at in Jon uocetson oaiue, ana  
-part of which was aboard, I began to In­  
-terrogate him upon the subject. Ills phil  
-osophy was so muoh is the Falslanian  
-vein that I will civ hi view ia hi own  
-words as near as my memory servee me  
-Were you In the fight ?&quot; .  
+ht ?&quot; .  
 &quot; Had a htUe taste or it, .  
 &quot; Stood your ground, did yo T&quot; -  
 - No, sa, I runs.&#x27;  
@@ -164,7 +133,7 @@ It isafe to say that the dusky corpse of
 that African will never darken the field of  
 oarnage. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035143%2F00280775642%2F1862032201%2F0596.jp2/pct:2.711629,4.223807,77.855032,92.814043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035143%2F00280775642%2F1862032201%2F0596.jp2/pct:13.888406,20.419638,11.159395,25.863961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,9 +142,12 @@ oarnage.
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1862-03-26/ed-1/seq-4)
 
 #### 1862-03-26 &middot; Warren, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+day an elderly darkic with a very philo  
+sophical and retrospective cast of counte  
 nance, squatted opon Lis bundle toasting  
 Lis shins against the chimney, and appa­  
 rently plunged into a state of profound  
@@ -246,7 +218,7 @@ It is safe to say that the dusky corpse of
 that African will never darken the field of  
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237283508%2F1862032601%2F0536.jp2/pct:8.290797,30.428954,11.044084,33.633926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237283508%2F1862032601%2F0536.jp2/pct:8.290797,29.514989,11.044084,34.547892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,6 +227,7 @@ carnage
 ## [From _Daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026845/1862-03-26/ed-1/seq-1)
 
 #### 1862-03-26 &middot; Wheeling, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ocrat.  
@@ -302,9 +275,13 @@ highly?&quot; &#x27; &#x27;
 ?mere dan a million ob dallors, sa ; for  
 what would dat be worth to.rman wid de  
 bref out ob him? Self prescrbashun am  
-de fust law wid me.
+de fust law wid me.&quot;  
+&#x27;Then patriotism and honor are:nothlbg  
+to you&#x27;?&quot; . i :  
+fNjiftm whatever,.sa?I regard d$m as  
+aiqpng de vanities.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn84026845%2F00202190698%2F1862032601%2F0277.jp2/pct:55.841530,58.422001,14.289617,24.776901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn84026845%2F00202190698%2F1862032601%2F0277.jp2/pct:55.841530,58.422001,14.289617,26.982152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,6 +290,7 @@ de fust law wid me.
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1862-03-28/ed-1/seq-1)
 
 #### 1862-03-28 &middot; Upper Sandusky, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -397,6 +375,7 @@ field of carnage. J. G
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-03-29/ed-1/seq-1)
 
 #### 1862-03-29 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 orrespondent of the Cincinnati Gazette,  
@@ -455,6 +434,7 @@ among de vanities.
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-03-29/ed-1/seq-1)
 
 #### 1862-03-29 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -468,9 +448,89 @@ carnage
 
 ---
 
+## [From _Sunday dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026213/1862-03-30/ed-1/seq-6)
+
+#### 1862-03-30 &middot; New York [N.Y.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+elderly darkey, wfth a very philosophical and  
+retrospective cast of countenance, squatted  
+upon his bundle, toasting his shins against the  
+chimney, and apparently plunged into a state  
+of profound meditation. Finding upon in­  
+quiry that he belonged to the Ninth Illinois,  
+one of the most gallantly behaved and heavy  
+losing regiments at the Fort Donelson battle,  
+and part of which was aboard, I began to in­  
+terrogate him upon the subject. His philos­  
+ophy was so much in the Falstaffian vein that  
+I will give his views in his own words, as near  
+as my memory serves me :  
+“ Were you in the fight?”  
+‘ ‘ Had a little taste of it, sa. ’ ’  
+“ Stood your ground, did you ?”  
+“ No, sa, I runs.”  
+“ Run at the first fire, did you ?”  
+“ Yes, sa, and would hab run soona, had I  
+knowd it war comin. ’ ’  
+“Why, that wasn’t very creditable&#x27; to your  
+courage.”  
+“ Dat isn’t in my line, sa—cookin’s my per­  
+feshun.”  
+“Well, but have you- no regard for your  
+reputation ?’ ’  
+“Reputation’s nuffin to me by de side ob  
+life.’ ’  
+‘ ■ Do you consider your life worth more than  
+other people’s ?”  
+“ It’s worth more to me, sa.”  
+“ Then you must value it very highly ?”  
+“Yes, sa, I does—more dan all dis wuld—  
+more dan a million ob dollars, sa ; for what  
+would dat be wuth to a man wid de bref ?out  
+ob him ? Self-preserbashun am de fust law  
+wid me.”  
+“ But why should you act upon a different  
+rule from other men ?’ ’  
+“ Because different men set different values  
+upon their lives—mine is not in de market. ’ ’  
+■ ‘ But if you lost it. you would have the sat­  
+isfaction of knowing that you died for your  
+country.”  
+“What satifaction would dat be to mewhen  
+de power of feelin’ was gone ?”  
+‘ * Then patriotism and honor are nothing to  
+you ?’ ’  
+“Nuffin whatever, sa—l regard dem as  
+among de vanities.”  
+“If our soldiers were like you, traitors  
+might have broken up the Government with­  
+out resistance.”  
+“ Yes, sa, dar would hab been no help for it.  
+I wouldn’t put my life in de scale ’ginst any  
+Gobernment dat eber existed, for no Gobern­  
+ment could replace de loss to me.”  
+‘ ‘ Do you think any of your company would  
+have missed you if you had been killed ?’ ’  
+“Maybe not, sa—a dead white man ain’t  
+much to dese sogers, let alone a dead nigga—  
+but I’d a missed myself, and dat was de pint  
+wid me.”  
+It is safe to say that the dusky corpse of that  
+African will never darken the field of carnage
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_frost_ver02%2Fdata%2Fsn85026213%2Fprint00211110090%2F1862033001%2F0006.jp2/pct:69.028029,53.286100,12.029837,27.526991/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1862-04-01/ed-1/seq-3)
 
 #### 1862-04-01 &middot; Chicago, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -561,6 +621,7 @@ nage.
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1862-04-03/ed-1/seq-1)
 
 #### 1862-04-03 &middot; Cumberland, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -607,9 +668,17 @@ than other people&#x27;s V
 wuld—more dan a million eb dollars, sa;  
 for what would dat bo worth to a man  
 wid de bref out ob him ? Self-preser­  
-bashun am do first law wid me.&#x27;
+bashun am do first law wid me.&#x27;  
+  
+&#x27;Then patriotism and honor are noth­  
+ing to yon V  
+&#x27;Nnffin whatever, sa—l regard dem  
+as among do vanities.&#x27;  
+It is safe to say that the dusky corpse  
+of that Afrioan will never darken the  
+field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026190%2F1862040301%2F0113.jp2/pct:83.642319,35.653253,12.909406,26.745907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026190%2F1862040301%2F0113.jp2/pct:83.555803,35.653253,12.995921,31.686477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,6 +687,7 @@ bashun am do first law wid me.&#x27;
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1862-04-03/ed-1/seq-1)
 
 #### 1862-04-03 &middot; Rutland, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -704,26 +774,18 @@ field of carnage.
 #### From _The Times_
 
 #### 1862-04-05 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-04-05_2123?page=7)
 
 #### 1862-04-05 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-an eolerly darkey, with a very philosophical  
-oo | retrospective cast of countenance, ejuat  
-t ypen his bundle toasting himaelf agalneat  
-he chimney, and apparently plunged into a  
-eot profound meditation. Fiading upon  
-uiry tbat he belonged to the Ninth Illinois,  
-ne of the most gallantly behaved and heavy  
-g regiments at the Fort Donelson battle  
-part of which was aboard, I began to in  
-crrogate him upen the subject. His philoso  
-phy waa eo much in the Faletaffian vein that |  
+n the Faletaffian vein that |  
 will give hie views In his own words, as near  
 my InemMory serves ine  
 Were you in the fight!&quot;  
@@ -754,23 +816,9 @@ Yes, sa, 1 does—more dan all die wuld
 more daa a million ob dollars, aa; for what  
 w ul dat be worth to a man wid de bref out  
   
-him’ Self preecrbashun am de fust law  
-  
-“  
-1 me  
-  
-Then patriotiew and honor are nothing to  
-  
-* Nuffin  
-ww de vanities  
-  
-ea) that the dusky corpse of  
-fleld of  
-  
-Whatever, sa—I regard dem as  
-a
+him’ Self preecrbashun am de fust law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-04-05_2123&#0036;7/pct:8.144217,38.326902,14.000732,26.529768/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-04-05_2123&#0036;7/pct:8.180820,44.542448,13.890922,16.028115/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,15 +829,31 @@ a
 #### From _Leeds Mercury_
 
 #### 1862-04-07 &middot; Leeds, England
+
 [This text is not available under an open license.]
+
+---
+
+## THE INTERNATIONAL EXHIBITION.
+
+#### From _Aberdeen Journal_
+
+#### 1862-04-09 &middot; Aberdeen, Scotland
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _The Grand Haven news._](https://chroniclingamerica.loc.gov/lccn/sn85033622/1862-04-09/ed-1/seq-1)
 
 #### 1862-04-09 &middot; Grand Haven, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+i noticed upon tho hurricane deck to­  
+day an elderly darkey wiih a very philo  
+sophical and retrospective cast of counte  
 nance, squatted upon his bundle toasting  
 his shins against tho chimney, and appa-  
 icuuj puiigoo. mto a stato of profound  
@@ -859,26 +923,97 @@ It is safe to say lhat the dusky corps
 of that African will never darken the field  
 of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85033622%2F00296026462%2F1862040901%2F0591.jp2/pct:76.848875,19.608306,13.910983,41.328457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85033622%2F00296026462%2F1862040901%2F0591.jp2/pct:76.781181,17.815007,13.978677,43.121756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## THE INTERNATIONAL EXHIBITION.
+## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1862-04-09/ed-1/seq-2)
 
-#### From _Aberdeen Journal_
+#### 1862-04-09 &middot; Prescott, Wis.
 
-#### 1862-04-09 &middot; Aberdeen, Scotland
-[This text is not available under an open license.]
----
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-## THE INTERNATIONAL EXHIBITION.
+  
+day, an elderly darkie with a very philo­  
+sophical and retrospective cast of coun­  
+tenance, squatted upon his bundle toast­  
+ing his shins against the chimney, and  
+apparently plunged into a state of pro­  
+found meditation. Finding, upon in­  
+quiry, that he belonged to the 9th Illi­  
+nois, one of the most gallantly behaved  
+and heavily losing regiments at the For!  
+Donolson battle, anti part of which was  
+aboard, I began to interrogate him on  
+the subject. His phi’ospphy was so  
+much in the Falstnffian vein, that I will  
+give his views in his own words as near  
+as my memory serves me:—  
+“ Were you in the fight ?”  
+“ Had a little taste of it, sa.”  
+“Stood your ground, did you?”  
+“ No, sa, 1 runs.”  
+“ Run at the first fire, did you ?”  
+“Yes, sa, and would hab run soon a,  
+hab I knowd it war comin.&quot;  
+“ Why, that wasn’t very creditable to  
+your courage.”  
+“ Dat isn’t in my line, sa—cookin’s  
+mv perfeslinn.”  
+‘ Well, but Lave*you no regard for  
+your reputation  
+“ Reputation’s nufiin to iiij by the side  
+ob life.&quot;  
+“Do you consider your life worth  
+more than other people’s?”  
+“ It’s worth more to me, sa.”  
+“ Then, I suppose, you must value it  
+very highly  
+“Yes. sa, I does—more than nil the  
+world—-more than a mihion ob dollars,  
+sa. for what would dat be wuth to a man  
+wid de href out ob him? Self presurba­  
+sliun is de fu -t law wid me.”  
+“ But why sin add you act on a differ­  
+ent rule from other men ?”  
+“ Because different men sets difierent  
+values upon dar lives—mine is not in de  
+market.”  
+“But if you lost it, you would have  
+the satisfaction of knowing that you lust  
+it f&lt; r vour country.”  
+“ What satisfaction would dat be to  
+me when de power ob feelin’ was  
+gone?”  
+“1 ben patriotism and honor are noth­  
+ing to you ?”  
+“Nufiin whatever, sa—l regard dem  
+as nn&gt;ong de vanities.”  
+“If our soldiers were like you,traitors  
+might have broken up the government  
+without resistance.”  
+“Yes, sa, dar would hab bin no help  
+for it. I wouldn’t put my life in de  
+scale ’gainst any government dat eber  
+existed, for no gobernment could replace  
+de loss to me.”  
+“Do-you think nny of your company  
+would have missed you if you had been  
+killed ?”  
+“ May be not. sa—a dead white man  
+ain’t much to dese sojers, let alone a dead  
+nigga—but I’d a missed myself, and dat  
+was de pint wid me.”  
+It is safe to say that the dusky corpse  
+of that African will never darken the  
+field of carnage
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033221%2F00514152342%2F1862040901%2F0188.jp2/pct:6.727645,46.134504,12.635578,41.278241/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
-#### From _Aberdeen Journal_
-
-#### 1862-04-09 &middot; Aberdeen, Scotland
-[This text is not available under an open license.]
 ---
 
 ## SPEECHIFYING AT THE GENERAL ASSEMBLIES.
@@ -886,7 +1021,9 @@ of carnage
 #### From _Caledonian Mercury_
 
 #### 1862-04-10 &middot; Edinburgh, Scotland
+
 [This text is not available under an open license.]
+
 ---
 
 ## PRUSSIA.
@@ -894,37 +1031,18 @@ of carnage
 #### From _Liverpool Mercury_
 
 #### 1862-04-10 &middot; Liverpool, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1862-04-11/ed-1/seq-1)
 
 #### 1862-04-11 &middot; Ellsworth, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-will p *•* h - vicv*  
-o hi- &quot;An words us ii or us my memory  
-»er\ me:  
-•• Were ymi in the fight ?”  
-•• II i i a litt.e tu-te of :t, &gt;.i.&quot;  
-  
-•• St iod v-mr ground, did you?”  
-N . -.t, 1 run-.  
-“ lion at tli ■ first fire, did you?”  
-■■ Yes, sa, and would hail run so Oil a I&#x27;  
-had 1 Luu.&#x27;ii it war coming.”  
-••Win that wasn&#x27;t very creditable t  
-your eourag •.”  
-•■ l&gt;at i-n’t in my line, sa—cookie&#x27;s tnv  
-pcrft-huti.&quot;  
-■■ Well, but have you no re&#x27;gard for  
-your reputation  
-■• Deputation&#x27;s uuffin to me by de side  
-ol» life.”  
-•• Do tou consider your life worth  
-more than other pe &gt;j&gt;U- -  
-■• [t&#x27;- worth more to me, sa.&quot;  
-•• Tliei \ jU must value it very highly  
+very highly  
 ••Ye* sa, 1 does—more dau all di.­  
 world—more dau a million oh dollars, -a.  
 for what would dat fie wutb to a m m with  
@@ -963,28 +1081,7 @@ It is safe to say that the dusty corpse
 of that African will never darken the  
 field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895035%2F1862041101%2F0480.jp2/pct:16.810778,65.819660,13.115825,32.499637/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023252/1862-04-11/ed-1/seq-1)
-
-#### 1862-04-11 &middot; St. Johnsbury, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-anv Gobeniuient dat eber existed, for no of sandel rubbcK, too large by inche-s for uiv  
-  
-Gobcrament could r&#x27;eplace de loss to me.&#x27; ( ,iakt;i1 ai5tl while 1 -huilled along the  
-- , . i hall, thev ldaved up and down on mv feet.  
-&#x27;Uo you think anv of your companv would ... - - 1 ,- .r 1 . . . , - ,  
-J. , , 1&#x27;irst, one shot olt: that secured. the other  
-have nnssed you if you had been killed? droppcd on the stairs; peopk that 1 me
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296242%2F1862041101%2F0058.jp2/pct:66.254905,59.849563,25.693940,2.439520/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895035%2F1862041101%2F0480.jp2/pct:16.810778,77.450269,13.115825,20.869029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,9 +1090,11 @@ have nnssed you if you had been killed? droppcd on the stairs; peopk that 1 me
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1862-04-11/ed-1/seq-4)
 
 #### 1862-04-11 &middot; Watertown, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+an elderly darkle with a very philosophical  
 and retrospective cast of countenance,  
 fquatted upon his bundle toasting his  
 shins against the chimney, and apparantly  
@@ -1067,18 +1166,39 @@ It is safe to say that the dusky corpse
 of thet African will never darken the field  
 of courage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768710%2F1862041101%2F0384.jp2/pct:2.835201,20.820299,13.244963,45.977677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768710%2F1862041101%2F0384.jp2/pct:2.835201,20.125130,13.244963,46.672846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## FRANCE.
+
+#### From _Jackson's Oxford Journal_
+
+#### 1862-04-12 &middot; Oxford, England
+
+[This text is not available under an open license.]
 
 ---
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1862-04-12/ed-1/seq-1)
 
 #### 1862-04-12 &middot; Ottawa, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+d.iy an eldorlv oarkey, with a very philo­  
+sophical and retrospective cast of counte­  
+nance, squat t d u, on his buudle toa-ting  
+hims&#x27;elj&#x27; against the chimney, and appa­  
+rently plunged into a state of profound  
+meditation. Finding upon inquiry that he  
+belonged to the Ninth Illinois, one of the  
+most gallantly behaved and heavy losing  
+regiments at the Fort Donelson battleand  
+part of which was aboard. I began to in­  
 terrogate him upon the subject. His phi­  
 losophy was so much in the Falstaflian  
 vein that I will give his views in his own  
@@ -1106,13 +1226,9 @@ It&#x27;s worth more to me, sa.&quot;
 wuld more dan a million ob dollars, sa;  
 for what would dat be worth to a man  
 wid de href out ob him? Self preserbashun  
-um de fust law wid me.&quot;  
-&quot; Then patriotism aud honor are nothing  
-to you?&quot; :  
-u Nuffin whatever, sa I reward dem as  
-among de vaneties.
+um de fust law wid me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472086%2F1862041201%2F0123.jp2/pct:51.908502,65.265733,10.817142,14.131643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472086%2F1862041201%2F0123.jp2/pct:51.908502,60.929509,10.830922,16.666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,6 +1237,7 @@ among de vaneties.
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1862-04-12/ed-1/seq-1)
 
 #### 1862-04-12 &middot; Ottawa, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1134,12 +1251,14 @@ field of carnage
 
 ---
 
-## FRANCE.
+## A PHILOSOPHIC NEGRO.
 
-#### From _Jackson's Oxford Journal_
+#### From _Reynolds's  Newspaper_
 
-#### 1862-04-12 &middot; Oxford, England
+#### 1862-04-13 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## A PHILOSOPHIC NEGRO.
@@ -1147,15 +1266,28 @@ field of carnage
 #### From _Reynolds's  Newspaper_
 
 #### 1862-04-13 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Goodhue volunteer._](https://chroniclingamerica.loc.gov/lccn/sn89064562/1862-04-16/ed-1/seq-1)
 
 #### 1862-04-16 &middot; Red Wing, Goodhue County, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+to-day an elderly darkie with a very,  
+philosophical and retrospective cast of  
+countenance, squatted upon his bundle  
+toasting his shliis against the chininey  
+and apparently plunging into a state  
+($f profound meditation, finding upon  
+inquiry that he belonged to the Ninth  
+Illinois, one of the most gallantly be­  
+haved and heavily losing regiments at  
+the Fort Donelson battle, and part of  
 which was aboard, I began to inter­  
 rogate him on the subject. Hi phil­  
 osophy was so much in the Fallstaffian  
@@ -1218,7 +1350,7 @@ It is safe to say that the dusky corpse
 of that African will never darken the  
 field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn89064562%2F00212472591%2F1862041601%2F0037.jp2/pct:56.184115,24.403856,12.663577,35.102317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn89064562%2F00212472591%2F1862041601%2F0037.jp2/pct:56.115958,18.934551,12.731734,40.571622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1227,9 +1359,13 @@ field of carnage.
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1862-04-17/ed-1/seq-4)
 
 #### 1862-04-17 &middot; Gallipolis, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+upon the nnrrieaao deek to-day an el­  
+derly darkie with a very philosophical  
+and retrospective east of countenance,  
 squatted upon his bundle toasting his  
 shins against the chimney, and appa­  
 rently plunged into 4 state of profound  
@@ -1300,7 +1436,7 @@ dead nigger but I&#x27;d a missed myself,
 aDd dst WM d P!nl wiJ roe&quot;  
 Il is 8afe to that tfce dustJ corps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775526%2F1862041701%2F0233.jp2/pct:46.231156,8.750872,12.190583,38.408932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775526%2F1862041701%2F0233.jp2/pct:46.231156,7.090021,12.190583,40.069784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1309,9 +1445,12 @@ Il is 8afe to that tfce dustJ corps
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1862-04-19/ed-1/seq-4)
 
 #### 1862-04-19 &middot; Sunbury, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+an elderly darkie with a very philosophical  
+and restrospectivecii&quot;t of countenance, squat­  
 ted upon his bundle, toasting his shins  
 against the chimney, and apparently plunged  
 into a state of profound meditation. Find­  
@@ -1379,23 +1518,26 @@ pint w id me.&quot;
 It is safe to say that the dusky corpse of  
 that African will never darken the field of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776038%2F1862041901%2F1047.jp2/pct:4.707170,25.837853,13.081554,31.010986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776038%2F1862041901%2F1047.jp2/pct:4.707170,24.878320,13.081554,31.970519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## MISCELLANEOUS.
+## Local and Maine Items
 
-#### From _Bristol Mercury_
+#### From _Bangor daily Whig & courier._
 
-#### 1862-04-19 &middot; Bristol, England
+#### 1862-04-22 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Juliet signal._](https://chroniclingamerica.loc.gov/lccn/sn84024082/1862-04-22/ed-1/seq-1)
 
 #### 1862-04-22 &middot; Juliet [i.e. Joliet], Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1458,28 +1600,13 @@ carnage
 
 ---
 
-## Local and Maine Items
-
-#### From _Bangor daily Whig & courier._
-
-#### 1862-04-22 &middot; Bangor, Me.
-[This text is not available under an open license.]
----
-
 ## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1862-04-23/ed-1/seq-1)
 
 #### 1862-04-23 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-nance, squatted upon Ills bundle, toasting  
-bis shins against the chimnov, and appa  
-rently plunged into a stati of profound  
-meditation. Finding upon inquiry that  
-he belonged to the ‘.&#x27;th Illinois, one of the  
-must gallantly behaved and hiur ilv losing  
-regiments at the Fort Donelson battle,  
-and part ol which was aboard, 1 began  
 to interrogate him upon the subject. His  
 ! philosophy was so much in the Falstaifian  
 vein that 1 will give his views in his own  
@@ -1542,7 +1669,7 @@ It is safe to say that the dusky corpse1
 of that African will never darken the  
 li Id of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769775%2F1862042301%2F0868.jp2/pct:66.732765,38.339055,12.483283,33.711928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769775%2F1862042301%2F0868.jp2/pct:66.732765,42.221167,12.483283,29.829815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,12 +1680,25 @@ li Id of carnage
 #### From _Newark advocate._
 
 #### 1862-04-25 &middot; Newark [Ohio]
+
 [This text is not available under an open license.]
+
+---
+
+## A Philosophic Negro
+
+#### From _Newark advocate._
+
+#### 1862-04-25 &middot; Newark [Ohio]
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _The Cadiz Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84028794/1862-04-30/ed-1/seq-4)
 
 #### 1862-04-30 &middot; Cadiz, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1637,9 +1777,19 @@ carnage
 ## [From _The Union and journal._](https://chroniclingamerica.loc.gov/lccn/sn83009571/1862-05-02/ed-1/seq-1)
 
 #### 1862-05-02 &middot; Biddeford, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+an elderly darkle with a very philosophical  
+and retrospective cast of countenance, squat­  
+ted on hia bundle, toaating hia abina againat  
+the chimney, and apparently in a atate of  
+profound meditation. Finding upon inqui­  
+ry that he belonged to the 9th Illinois, one  
+of the moat gallantly behaved and heavily  
+loelng regiment* at the Fort Dunelaon battle,  
+and part of which waa on board, I began to  
 interrogate him upon the subject. Ilia phil­  
 osophy waa ao much in the Falataffinn vein  
 that I will gire his views in his own words,  
@@ -1700,7 +1850,7 @@ It is rafe to say that the dusky corpse of
 that African will nover darken the field of  
 carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83009571%2F00279523891%2F1862050201%2F0491.jp2/pct:69.246597,29.211729,12.699166,35.514922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83009571%2F00279523891%2F1862050201%2F0491.jp2/pct:69.167458,23.703869,12.778305,41.022782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1709,6 +1859,7 @@ carnage.
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1862-05-06/ed-1/seq-4)
 
 #### 1862-05-06 &middot; Hillsdale, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1731,7 +1882,7 @@ as my memory serves me:
 &#x27;&#x27;Yes, 6a, nnd would haL run sooner, bad 1 1  
 inow it war com in.&quot; &#x27;  
 &quot;Why, that wasn&#x27;t veiy creditable to your  
-Cou
+C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668156%2F1862050601%2F1067.jp2/pct:5.178257,55.665286,12.674529,10.385473/!600,600/0/default.jpg"/>
 </td>
@@ -1742,13 +1893,10 @@ Cou
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1862-05-08/ed-1/seq-1)
 
 #### 1862-05-08 &middot; Brownville, Nemaha County, N.T. [Neb.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-day, an elderly darkey with a very rhib- ,  
-  
-sophical and retrospective cast cf coun­  
 tenance, squatted upon his bundle, toast-  
   
 ing his shins&#x27; against the chimcey, and  
@@ -1804,7 +1952,7 @@ wurldmore&quot; dan a million cb dollars,
 sab; fcr-what &quot;would dat be wuth to a.  
 man wid de brcf out cb him? Self-pres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470594%2F1862050801%2F0591.jp2/pct:79.609396,49.087845,13.671128,21.088638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470594%2F1862050801%2F0591.jp2/pct:79.609396,50.188380,13.671128,19.988102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1813,8 +1961,10 @@ man wid de brcf out cb him? Self-pres
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1862-05-08/ed-1/seq-1)
 
 #### 1862-05-08 &middot; Brownville, Nemaha County, N.T. [Neb.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ould you act upon  
   
 ent rule from &#x27;other men.&quot;  
 &quot; &quot;Case different men set dLTerent val­  
@@ -1853,15 +2003,36 @@ of that American will ever darken the
   
 field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470594%2F1862050801%2F0591.jp2/pct:79.418192,71.366250,13.316034,17.132659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470594%2F1862050801%2F0591.jp2/pct:79.418192,70.830855,13.316034,17.668055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## Thoughts of Many Hearts Revealed
+
+#### From _New Hampshire statesman._
+
+#### 1862-05-17 &middot; Concord [N.H.]
+
+[This text is not available under an open license.]
+
+---
+
+## Thoughts of Many Hearts Revealed
+
+#### From _New Hampshire statesman._
+
+#### 1862-05-17 &middot; Concord [N.H.]
+
+[This text is not available under an open license.]
 
 ---
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1862-05-17/ed-1/seq-1)
 
 #### 1862-05-17 &middot; Auburn, Placer County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 t Cardiff, nobody being willing to  
@@ -1945,28 +2116,22 @@ carnage
 
 ---
 
-## Thoughts of Many Hearts Revealed
-
-#### From _New Hampshire statesman._
-
-#### 1862-05-17 &middot; Concord [N.H.]
-[This text is not available under an open license.]
----
-
-## Thoughts of Many Hearts Revealed
-
-#### From _New Hampshire statesman._
-
-#### 1862-05-17 &middot; Concord [N.H.]
-[This text is not available under an open license.]
----
-
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1862-05-23/ed-1/seq-1)
 
 #### 1862-05-23 &middot; Bellows Falls, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+an elderly negro with a very philosophical  
+and rjtrospective cast of countenance, squat  
+ted upon his bundle, toasting his shin  
+against the chimney, and apparently pluajr  
+id into a slate of deep meditation. Finding .  
+by inquiry that he belonged to the Ninth !!  
+linois one of the most gallantly behaved and  
+icavily loosing regiments at the Fort Don  
+dson battle, and part of which was now on &#x27;  
 board, I began to interogate him upon the  
 subject. His philosophy was so much in  
 the Falstnffian vein that I give hi view  
@@ -2030,7 +2195,7 @@ It is safe to say that the dusky corpse of
 that African will never darken the field of  
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628407%2F1862052301%2F0750.jp2/pct:82.044088,15.959154,13.527054,39.620715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628407%2F1862052301%2F0750.jp2/pct:82.024048,10.182349,13.547094,45.397520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2039,6 +2204,7 @@ carnage
 ## [From _The weekly mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014489/1862-05-24/ed-1/seq-4)
 
 #### 1862-05-24 &middot; Placerville, El Dorado County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2119,17 +2285,58 @@ of that African will never darken the Hel
 
 ---
 
-## A PHILOSOPHIC NEGRO.
-
-#### From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1862-05-29_14_704?page=5)
 
 #### 1862-05-29 &middot; New York
-[This text is not available under an open license.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+I noticed upon the hurricane deck to- an  
+elderly darkey, with a very phil i and  
+retrospective cast of countenance, u  
+his bundle, toasting himself against 4  
+and apparently plunged into « state of profound  
+meditation. Finding, upon inquiry, that he be-  
+longed to the 9th Illinois, one of the most g  
+behaved and heavy-losing regiments at the  
+Donelson battle, and part of which was 7  
+began to interrogate him upon the subjeet., His.  
+philosophy was so much in the Falstaffian veins,  
+that I will give his views in his own words, as  
+near a8 my memory ferves me:  
+* Were you in the fight?”  
+“ Had a little taste of it, sa.”  
+“ Stood your ground, did you ?”  
+* No, sa, I runs.” ‘  
+* Run at the first fire, did you?”  
+“ Yes, sa, and would hab run soona, had I knowd  
+it war coming.”  
+“Why, that was not very creditable te your  
+coursge.”” . . . d  
+  
+Abe ae in my line, se—cookin’s my per-  
+feshun.” - Se  
+‘ BA ade hema you no regard for your reputa-  
+“ Reputation’s nuffin tome by de side ob life.”  
+*Do you consider your life worth more than  
+  
+a one a to gs  
+  
+8w more to Me, sa. be  
+  
+eae nine s
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1862-05-29_14_704&#0036;5/pct:74.790576,75.643382,13.180628,13.888889/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1862-05-31_14_346-347?page=10)
 
 #### 1862-05-31 &middot; New York, N.Y.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2180,6 +2387,7 @@ him? £el:-preserbeshun :m de fust law wid me.’ 4
 ## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6?page=17)
 
 #### 1862-06-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2218,6 +2426,7 @@ as my memory serves me.
 ## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6?page=18)
 
 #### 1862-06-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2292,6 +2501,7 @@ nage,
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1862-06-14/ed-1/seq-4)
 
 #### 1862-06-14 &middot; Emporia, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 RO.  
@@ -2354,21 +2564,10 @@ among de vanities.
 #### From _The South Australian Advertiser (Adelaide, SA : 1858 - 1889)_
 
 #### 1862-06-14 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-hurricane deck to-day an elderly darkey,  
-with a phi- j losophical and  
-retrospective cast of countenance,  
-squatted upon his bundle, toasting  
-himself against the chimney, and  
-apparently plunged into a state of  
-profound meditation. jFmding upon  
-inquiry that he J belonged to the 9th  
-Illinois, one of the most gallantly  
-behaved and heavy losing regiments at  
-the Fort&#x27; Donnelson battle, and part of  
-which was aboard, I began to interrogate  
 him on tbe subject. His philosophy was  
 so much ia the Falst-flian. vein that I  
 will give his -views in his own words,  
@@ -2403,18 +2602,10 @@ nothing to you?&#x27; *N_t_u whatever,
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
 
 #### 1862-06-17 &middot; Wollongong, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-to-day an elderly darkey, with a  
-philosophical and retrospective cast of  
-countenance, squated upon his bundle,  
-toasting himself against the chimney,  
-and aparently plunged into profound  
-meditation. Finding upon inquiry that he  
-belonged to the 9th Illinois, one of tho  
-most gallautly behaved and heavy losing  
-regiraonts at the Fort Donnelson battlo,  
 and part of which was abroad, 1 began to  
 interrogate him on the subject. His  
 philosophy was somuoh in the  
@@ -2443,6 +2634,7 @@ dollar, fla- for wha
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1862-06-19/ed-1/seq-1)
 
 #### 1862-06-19 &middot; Smyrna, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2479,6 +2671,7 @@ e9
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1862-06-19/ed-1/seq-1)
 
 #### 1862-06-19 &middot; Smyrna, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 , sa, 1 does—more dan all dis wu!d—  
@@ -2528,25 +2721,10 @@ wid me.&quot;
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
 #### 1862-06-21 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ro.—A  
-correspondent of the Cincinnati Gazcitc,  
-writing from the Cumberland Biver, gives  
-a humorous account of a colloquy with a  
-philosophic African. He says:— &quot;I  
-noticed upon the hurricaue deck to-day  
-an elderly darkey, with a philosophical  
-and retrospective cast of countenance,  
-squatted upon his bundle, toasting  
-himself against the chimney, and  
-apparently plunged into a state of  
-profound meditation. Finding upon  
-enquiry thai he belonged to the Pth  
-Illinois, one of the most gallantly-  
-behaved aud heavy-iosmg regiments at the  
-Fort Donnclson battle, and part of which  
-was aboard, I began to interrogate liim  
+  
 on the subject. His philosophy was so  
 much in the Falstailian vein that I will  
 give his views in his own words as near  
@@ -2578,6 +2756,7 @@ prcserhashum am de fust law wid me.
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
 #### 1862-06-21 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2593,21 +2772,10 @@ African ■ will never darken the field o
 #### From _The Courier (Brisbane, Qld. : 1861 - 1864)_
 
 #### 1862-06-27 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-the hurricane deck to-day an elderly  
-darkey, with a philosophical and  
-retrospec-tive cast of countenance,  
-squatted upon bib bundle,  
-tonstinghimself against the chimney, and  
-apparently plunged into a stale of pro-  
-found meditation. Finding upon inquiry  
-that he belonged to the 9th Illinois,  
-one of the most gallantly behaved and  
-heavy losing regiments at the Fort  
-Donnolson battle, and part of which was  
-aboard, I began to interrogate him on  
 the subject. His philosophy was so much  
 in the FalstJaffian vein that I will  
 give his views in his own words, as near  
@@ -2643,20 +2811,10 @@ of that African will never darken th
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn85029094/1862-06-28/ed-1/seq-2)
 
 #### 1862-06-28 &middot; Oskaloosa, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-to-day an elderly darkey, with a verv  
-philosophic and retrospective cast of  
-countenance, squatted upon his bundle,  
-toasting himself against the chimney,  
-and apparently plunged into a state of  
-profound meditation, rinding, upon  
-inquiry, that he belonged to the 9th  
-Illinois, one of the most gallantly be­  
-haved and heavy-losing regiments at  
-the Fort Donelsou battle, and part of  
-which was aboard. I began to interro­  
 gate him upon the subject. His phil­  
 osophy was so much in the Fallstaffinn  
 vein, ithat I will give his views in his  
@@ -2688,7 +2846,7 @@ for what would dat he worth to a man
 wid de bref oul ob him? Self preser­  
 bashun am de firs&#x27;, law wid me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn85029094%2F00237281858%2F1862062801%2F0302.jp2/pct:72.509415,28.291172,12.598425,23.786784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn85029094%2F00237281858%2F1862062801%2F0302.jp2/pct:72.509415,34.692824,12.512838,17.385132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2697,6 +2855,7 @@ bashun am de firs&#x27;, law wid me.
 ## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1862-07-01/ed-1/seq-4)
 
 #### 1862-07-01 &middot; Nevada, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2781,19 +2940,10 @@ carnage
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
 
 #### 1862-07-01 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-hurricane deck to-day an elderly darkey,  
-with a philosophical and retrospective  
-cast of countenance, squatted upon his  
-bundle, toasting himself against the  
-chimney, and upparently plunged into a  
-state of profound meditation. Finding  
-upon enquiry that he belonged tn the 9th  
-Illinois, one of the most gallantly-  
-bennvcit and heavy-losing regiments at  
-the Fort DonneUon battle, and part of  
 which was aboard, I liegan to  
 interrogate him on the subject. His  
 philosophy was so much in the  
@@ -2817,9 +2967,20 @@ Yes, Sa, I (Ioch —more dan all dis wuld—
 more dan a million of dollar*. Sa; for  
 what would dat be worth to a man will do  
 href out of him! Self-preserbashum am dc  
-fust law wid me.&#x27; &#x27;Then patriotism aud  
-honour are nothing to you?&#x27; &#x27;Nullin  
-whatever, Sa-I regard dem ns among de  
+fust law wid me.&#x27; &#x27;Then patrioti
+</td></tr></table>
+
+---
+
+## [MISCELLANEOUS EXTRACTS.](http://trove.nla.gov.au/ndp/del/article/50159932)
+
+#### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
+
+#### 1862-07-01 &middot; Adelaide, South Australia
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
 vanities.&#x27; It la safe to say that the  
 dusky corpse of that African will never  
 darken the field of carnage.
@@ -2832,20 +2993,10 @@ darken the field of carnage.
 #### From _North Australian and Queensland General Advertiser  (Ipswich, Qld. : 1862 - 1863)_
 
 #### 1862-07-01 &middot; Ipswich, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-£km hurricane deck to-day an elderly  
-darkey, with a philosophical and  
-retrospective cast of countenance,  
-squatted upon his bundle, toasting  
-himself against die chimney, and  
-apparently plunged into a state of  
-profound meditation. Finding upon  
-inquiry that he belonged to the 9th  
-Illinois, one of the most gallantly  
-behaved and heavy losing regiments at  
-the Fort Donnelson battle, and part of  
 which was aboard, I began to inter,  
 rogate him on the subject. His  
 philosophy was so much in die Falstaman  
@@ -2863,13 +3014,7 @@ Well, but you have no regard for your
 reputation?&#x27; &#x27;Reputation&#x27;s nuffin to me  
 by tiie side ob life.&#x27; &#x27;Do yon consider  
 your life worth more than other  
-people&#x27;s?1 &#x27; It&#x27;a worth more to me, Sa,&#x27;  
-&#x27; Then you mnst value it very highly?&#x27;  
-&#x27;Tcs, 8a, I does — more than all dis  
-wuld— -more dan a millian of dollars,  
-Sa; for what would dot be worth to a  
-manwid dc bref out of him?  
-Selfprcserbashum am de lust law wid me.
+people&#x27;s?1 &#x27; It&#x27;a worth
 </td></tr></table>
 
 ---
@@ -2879,20 +3024,10 @@ Selfprcserbashum am de lust law wid me.
 #### From _Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)_
 
 #### 1862-07-03 &middot; Maryborough, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-hurricane deck to-day an elderly darkey,  
-with a philosophical and retrospective  
-cast of countenance, squatted upon his  
-bundle, toasting himself against the  
-chimney) and apparently plunged into a  
-state of profound meditation. Finding,  
-upon inquiry, that he belonged to the  
-9th Illinois, one of the most gallantly  
-/ behaved Bnd heavy losing regiments at  
-T the Fort Donelson battle, and part of  
-which was abroad, 1 began to interrogate  
 him on the subject. His philosophy was  
 so much in the Falstaffian vein that ,1  
 will give his views in his . own words,  
@@ -2919,7 +3054,8 @@ him P Self-preBerbashum am1 de fust law
 wid me.&#x27; &#x27;Then patriotism and honour,  
 are nothing to you &#x27;Nuffin whatever, Sa—  
 I, regard dem -as among de .vanities;&#x27;  
-It is safe io say that the duBky 
+It is safe io say that the duBky -  
+corpse of that African will
 </td></tr></table>
 
 ---
@@ -2929,25 +3065,10 @@ It is safe io say that the duBky
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
 
 #### 1862-07-04 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-The  
-correspondent of the Cincinnati Gazette,  
-writing from the Cumberland River, gives  
-a humorous ac-count of a colloquy with a  
-philosophic African. He say s -&quot; I  
-noticed upon the hurricane deck to day  
-an elderly darkey, with a philosophical  
-andretioBpectivc cast of countenance,  
-squatted upon ins bundle, toast-ing  
-himself agninbt the chimney, ind  
-apparently plunged into a state of  
-profound meditation Find-ing -upon  
-inquiry that he belonged to the 9th  
-Illinois, one of the most gallantly  
-behaved and heavy losing regiments at  
-the lort Donnelson battle, and part of  
-which was aboard, I began to interrogate  
+  
 him on the subisct His philosophy was so  
 much va. the Talstsffian vein, that 1  
 will give his views in his own words, as  
@@ -2984,20 +3105,10 @@ ol that African will never darken th
 #### From _Sydney Mail (NSW : 1860 - 1871)_
 
 #### 1862-07-05 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-hurricane deck to-day an elderly darkey,  
-with a philosophical and retrospective  
-cast of countenance, equatted upon his  
-bundle, toasting himself againEt the  
-chimney, and apparently plunged into a  
-state of profound meditation. Finding  
-upon inquiry that he belonged to the  
-9th. Illinois, one of the most gallantly  
-behaved and heavy losing regiments at  
-the Fort DonnelEon battle, and part of  
-which was aboard, I began to interrogate  
 him on the mbject. His philosophy was to  
 much, in the FalstBffian vein, that 1&#x27;  
 will give his views in his own words, as  
@@ -3033,20 +3144,10 @@ I regard dem as among de vanitieB.&#x27; I
 #### From _Bathurst Free Press and Mining Journal (NSW : 1851 - 1904)_
 
 #### 1862-07-16 &middot; Bathurst, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-deck to-day an elderly darkey, with a  
-philosophical and retrospective cast of  
-countenance, squatted upon his bundle,  
-roasting himself against the chimnoy,  
-and apparently plunged into a state of  
-profound meditation. Finding upon  
-inquiry that he belonged to the 9th  
-Illinois, one of the most gallantly  
-behaved and heavy losing regiments at  
-tho Fort Donnelsnn battle, and part of  
-whioh was aboard, I began to interrogate  
 him on tho subject. His philosophy was  
 so much in the Falstaffian vein that I  
 will give his views in his own words, as  
@@ -3084,6 +3185,7 @@ darken the field of carnage.&#x27; A Ne
 #### From _The Inquirer and Commercial News (Perth, WA : 1855 - 1901)_
 
 #### 1862-07-16 &middot; Perth, Western Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3111,9 +3213,7 @@ dat be worth to a man wid the bret out
 of him? Selfpreserbashum am be fust law  
 wid me.&#x27; Then patriotism and honour are  
 nothing to you?&#x27; &#x27;Nuffin whatever, Sa —  
-I regard dem as among the vanities.&#x27; It  
-is safe to say that the dusky corpse of  
-that African will never daiken the fiel
+I regard dem as among the vanities.&#x27; I
 </td></tr></table>
 
 ---
@@ -3123,6 +3223,7 @@ that African will never daiken the fiel
 #### From _Clarence and Richmond Examiner and New England Advertiser (Grafton, NSW : 1859 - 1889)_
 
 #### 1862-08-05 &middot; Grafton, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 longed to thoOth  
@@ -3165,6 +3266,7 @@ him ?&quot;&#x27; &#x27;&#x27;^Se^preserbashunam defustlaw
 #### From _The Age (Melbourne, Vic. : 1854 - 1954)_
 
 #### 1862-08-15 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3202,9 +3304,13 @@ that African will never darken the fiel
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1862-08-23/ed-1/seq-4)
 
 #### 1862-08-23 &middot; Honolulu [Oahu], Hawaii
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+I noticed anon the hurricane deck to-daj an el­  
+derly dark ej with a very philosophical and retro­  
+spective cast of countenance, squatted upon his  
 bundle, toasting his shins against the chimney, and  
 apparently plunged into a state of profound medi­  
 tation, finding, upon inquiry, that he belonged  
@@ -3261,7 +3367,7 @@ missed myself, and dat was de pint wid me.&quot;
 It is safe to say thai the dusky corpse of that  
 African will never darken the field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00212471379%2F1862082301%2F0489.jp2/pct:6.225741,30.869711,15.013197,28.346545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00212471379%2F1862082301%2F0489.jp2/pct:6.225741,29.407168,15.013197,29.809088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3270,6 +3376,7 @@ African will never darken the field of carnage
 ## [From _The daily register._](https://chroniclingamerica.loc.gov/lccn/sn86092517/1863-11-07/ed-1/seq-1)
 
 #### 1863-11-07 &middot; Wheeling, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 phic Darkey.  
@@ -3361,6 +3468,7 @@ carnage.
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-11-21/ed-1/seq-3)
 
 #### 1863-11-21 &middot; Chicago, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3381,7 +3489,7 @@ v ords as near as my me mory serves mo:
 “ Q&amp;d a little taste of it, ea,”  
 “Stood your ground. did you?”  
 “Nora, Irons.”  
-“ Runat the drat fire, did yo
+“ Runat the drat fire, did
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_edgewater_ver02%2Fdata%2Fsn84031490%2Fno_reel%2F1863112101%2F0003.jp2/pct:33.517053,29.463893,9.859619,6.174015/!600,600/0/default.jpg"/>
 </td>
@@ -3392,6 +3500,7 @@ v ords as near as my me mory serves mo:
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-11-21/ed-1/seq-3)
 
 #### 1863-11-21 &middot; Chicago, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ea, I does, mere than all dl» world,  
@@ -3432,10 +3541,9 @@ bat I’d mlfsed my&amp;elf, and dnt wna the pint
 wid me.”  
   
 It is safe to say ttat the dueky corpse of  
-tl-at African still reter darken the lieid of  
-carnage.
+tl-at African still rete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_edgewater_ver02%2Fdata%2Fsn84031490%2Fno_reel%2F1863112101%2F0003.jp2/pct:33.361598,40.343489,9.949124,11.956203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_edgewater_ver02%2Fdata%2Fsn84031490%2Fno_reel%2F1863112101%2F0003.jp2/pct:33.361598,40.343489,9.949124,11.560715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3444,6 +3552,7 @@ carnage.
 ## [From _Holmes County farmer._](https://chroniclingamerica.loc.gov/lccn/sn84028822/1863-11-26/ed-1/seq-4)
 
 #### 1863-11-26 &middot; Millersburg, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 shoultl you sot upon a differ­  
@@ -3471,13 +3580,10 @@ might havo
 ## [From _Juliet signal._](https://chroniclingamerica.loc.gov/lccn/sn84024082/1863-12-01/ed-1/seq-1)
 
 #### 1863-12-01 &middot; Juliet [i.e. Joliet], Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-terrogate bim upon tbe subject. Hie phi­  
-losophy was so mach io the FalatsSea in  
-ihst I will give hia wiwvrs in bis own words  
-as near as my memory eervee me :  
+ :  
 Where you io the fight?  
 Had a little tatte ol it, aa.  
 Stood your grouod, did you ?  
@@ -3532,7 +3638,7 @@ iut wiu toe.
 It is safe to sav that tha ttn.L. r  
 tbat African will never darken tha fui.t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84024082%2F00212471628%2F1863120101%2F0190.jp2/pct:38.104197,49.964846,10.824891,25.826107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84024082%2F00212471628%2F1863120101%2F0190.jp2/pct:38.104197,51.335833,10.795948,24.455121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3541,6 +3647,7 @@ tbat African will never darken tha fui.t
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1863-12-03/ed-1/seq-1)
 
 #### 1863-12-03 &middot; White Cloud, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 gro PIiileMopEaer.  
@@ -3575,21 +3682,21 @@ Why, that wasn&#x27;t very creditaDiff so
 yonr courage.  
 &quot;Dat isn t my line, sa cook m ;  
 perfession.&quot;  
-&quot;Well, but haTO yoa no regard for  
-yonr reputation ?&quot;  
-&quot;Reputation&#x27;s noinm- to me, oy mo  
-side ob life.&quot;  
-&quot;Do yoa consider your life worth  
-more than other people&#x27;s ?&quot;  
-&quot;It is worth more to me, sa.&quot;  
-&quot;Then yoa mast value your life high­  
-ly.&quot;&quot;Yes, sa, I does, more than all die  
-world, moro thai a million oh dollars,  
-es, for what dat wonld he worth to a  
-man wid de href ont oa him? Self pre­  
-serbashnm am do fust law wid me.&quot;  
-&quot;Bnt why should yon est npon a dif­  
-terent rale from other men ?&quot;  
+&quot;Well, but haTO yoa no regard 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F00294555626%2F1863120301%2F0037.jp2/pct:53.507774,44.231282,13.026166,17.852385/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1863-12-03/ed-1/seq-1)
+
+#### 1863-12-03 &middot; White Cloud, Kan.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+t rale from other men ?&quot;  
 &quot;Because . different men aet different  
 values npoa der lives; miao is not in do  
 market.&quot;  
@@ -3622,7 +3729,7 @@ It is safe to say that tho dnsky corpse
 of that African will never darken the  
 field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F00294555626%2F1863120301%2F0037.jp2/pct:53.507774,44.231282,13.329541,42.166267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F00294555626%2F1863120301%2F0037.jp2/pct:53.678422,69.597655,13.158893,16.799893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3631,9 +3738,19 @@ field of carnage
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1863-12-09/ed-1/seq-1)
 
 #### 1863-12-09 &middot; Woodsfield, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+day an elderly, with a very philosophical  
+and retrospective cast of countenance,  
+squatted upon his bunc&#x27;lc, toasting his  
+shius against the chimney, apparently  
+piungea into a state of profound medita­  
+tion. Findiug, upon inquiry, that he  
+belonged to the most gallantly behaved  
+and heavy losing regiments at Fort Don­  
+aldson battle, and a part of which was  
 aboard, I began to iuterogate him upon  
 the subject His philosophy was so much  
 in the Falstafian vein that I will give his  
@@ -3704,7 +3821,7 @@ It is sale to say that the dusky corps
 of that African will never darken the  
 field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027467%2F1863120901%2F0101.jp2/pct:68.104478,50.892322,25.014925,32.854234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027467%2F1863120901%2F0101.jp2/pct:68.104478,46.041442,25.014925,37.705114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3713,19 +3830,10 @@ field of carnage
 ## [From _Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn86059181/1863-12-24/ed-1/seq-4)
 
 #### 1863-12-24 &middot; Evansville, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-day, an elderly darkey, with a philosophic  
-and retrospective cast of countenance,  
-squatted upon his bundle, toasting him­  
-self against the chimney, and apparently  
-plunged into a state of profound medi­  
-tation. Finding, npon inquiry, that he  
-belonged to the 9th Illinois, one of the  
-most gallantly behaving and heavy loos­  
-ing regiments at the Fort DoheTson bat­  
-tie, and part ot which was aboard, I be­  
 gan to interrogate him on the subject.  
 His philosophy was so much in the Fall­  
 staffian vein, that I will give his views in  
@@ -3763,15 +3871,16 @@ It is safe to predict that the dusky
 corpse of that African will never darken  
 the field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn86059181%2F00296022020%2F1863122401%2F0407.jp2/pct:5.528918,52.137643,11.057836,21.063608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn86059181%2F00296022020%2F1863122401%2F0407.jp2/pct:5.618819,56.714170,10.967935,16.487081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Littell's living age_](https://iiif.archivelab.org/iiif/sim_living-age_1863-12-26_79_1021?page=26)
+## [From _Littell's Living Age (1844-1896)_](https://iiif.archivelab.org/iiif/sim_living-age_1863-12-26_79_1021?page=26)
 
 #### 1863-12-26 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3870,97 +3979,10 @@ African will never darken the field of carnage.
 
 ---
 
-## [From _Cedar Falls gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025161/1864-01-01/ed-1/seq-1)
-
-#### 1864-01-01 &middot; Cedar Falls, Iowa
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-iosophy was so much in tha Kilrt-flVan  
-that I will give his views in bit ews  
-as near as my ntcmory serves ma  
-  
-Were you in the fight? ..  
-Had a little taate or it, nft ,t  
-Stood your ground,did yottf  
-  
-No sa, I mns.&quot;  
-Run at the flrst Arc, did jou  
-Yes, and would have run sooner, fcs44r  
-know&#x27;d it war a comin&#x27;.&quot;  
-  
-Why, that wasn&#x27;t very creditable  
-courage.&quot;  
-  
-I hat isn&#x27;t ray line, «a—cook&#x27;n&#x27;a my p«f«  
-ssion.&quot; 1  
-Well, ^ut hsvt yraio regird for jMfc  
-ptitationf&quot; .... -ir*  
-  
-reputation -.•-** *!
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025161%2F00279529327%2F1864010101%2F0779.jp2/pct:82.961804,13.134820,11.810716,7.116302/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Cedar Falls gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025161/1864-01-01/ed-1/seq-1)
-
-#### 1864-01-01 &middot; Cedar Falls, Iowa
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-of knowing yott dM  
-  
-your country.n  
-What satisfaction would (lit bt in  
-when de power ol feel in&#x27; was gone?&quot;  
-  
-Then patiiotism and honor are noAih^  
-to you  
-Nuflin whatever, sa I regard dsn |s  
-among do vanities.&quot;  
-  
-&quot;I  
-  
-surely staid  
-  
-somewhere. Sam stuttered, sputtered, stain  
-mered. Sam said  
-  
-*&#x27;Sho  
-  
-I&quot;  
-  
-Seo  
-  
-Shasperian shades!  
-  
-Seraphina starting suddenlv, standing  
-  
-scornfully, scanning Sam&#x27;s sprawling syne  
-try. She sibilated.  
-  
-our soldiers were like you, teaitols  
-might have hrokea up the Qovcrnraent wftlt  
-out resistance.&quot;  
-  
-Yea, aft dar woiild have bc«it no&#x27;  
-for it wouldn&#x27;t put twy life in, the  
-&#x27;gainst any government that ever Mistei_  
-for no gover
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025161%2F00279529327%2F1864010101%2F0779.jp2/pct:72.120106,27.809343,21.861557,7.982604/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1864-01-15/ed-1/seq-1)
 
 #### 1864-01-15 &middot; New Oregon, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3980,29 +4002,7 @@ a state of profound meditation Fin
 ## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1864-01-15/ed-1/seq-1)
 
 #### 1864-01-15 &middot; New Oregon, Iowa
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-!Do  
-  
-you -consider your life worth more  
-than other people?&#x27;  
-&#x27;It.s worth more to me,sa,&#x27;  
-•Then you valua your life highly.&#x27;  
-&#x27;Yes, sa, I docs—more den all dis  
-wuld-^more den a million ob dollars  
-sa for what would be worth to
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn87058042%2F00279529340%2F1864011501%2F0893.jp2/pct:67.541714,83.412226,14.321431,5.320225/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1864-01-15/ed-1/seq-1)
-
-#### 1864-01-15 &middot; New Oregon, Iowa
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4094,29 +4094,15 @@ field of «onwge.
 #### From _The Wisconsin state register._
 
 #### 1864-01-16 &middot; Portage, Columbia County, Wis.
+
 [This text is not available under an open license.]
----
-
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1864-01-20/ed-1/seq-2)
-
-#### 1864-01-20 &middot; Clearfield, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-dtiy an elderly darkey w ith a very piiihs-1 nurance or falshood, l.y teckin every op­  
-ephical ai:d retrospective cast of cour.te- portupily to lay before his readers the  
-nance, equalled upon his b&#x27;.ndle, toasting . ilespatches thowiiij! that a few rebels here  
-hii shins against the chimney, aud appa- and there along the coast, and at other
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477837%2F1864012001%2F1085.jp2/pct:8.936170,42.300661,30.957447,2.657854/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1864-01-20/ed-1/seq-2)
 
 #### 1864-01-20 &middot; Clearfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4138,9 +4124,58 @@ I. mi, ih , Xnvcui&#x27;uer, for lb, mm of four.
 
 ---
 
+## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1864-01-29/ed-1/seq-1)
+
+#### 1864-01-29 &middot; Staunton, Va.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+t value it. highly?”  
+“Yea, sa. I does — tfiorfe chirr all dis world  
+— more UHti a million of dollars, sa ; for  
+tviiat. would dafc be worth to a mau wid de  
+bmf eur o him ? Self-prescrbation am de  
+firs? law wid me, sa ”  
+* “But why should you act upon a differ­  
+ent rule from others ?”  
+  
+! “became different tnen sets (linen Dt  
+| values on da lives; luiue is not iu de mar­  
+i ket, fit.”  
+“But if you lost it, you would have the  
+satisfaction of knowiug you died for your  
+j country,”  
+! “What satisfaction would uat bo to ivc.  
+j sa, when de power of feel in was pone V  
+“Then patriotism aud honor are nothing  
+j to you ?”  
+j * Nuffin whatever sa, I regard dem as  
+i anions de iu j&lt; it its.”  
+j “If our soldiers were like you, traitors  
+i mi a lit have broken up the government with­  
+i &lt;&gt;ut resistance 7”  
+j “Yes, sa, there would hab bei.-n no help  
+| for it : I wouid’nt put my life In de &#x27;scale  
+| »gin#r any gubbernient dat ever existed, for  
+! no gubbernient could ref lace de loss to me ’’  
+I “Do you think any of your company  
+i would have missed you if you had been  
+killed ?”  
+“May be not, sa. A dead white man  
+ain t much to dese sogers : let alone a dead  
+i &quot;igger, but I’d a missed myself, sa, aud  
+jckts de pint wid me.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349475%2F1864012901%2F0088.jp2/pct:67.910751,29.674294,12.607618,18.308940/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1864-02-05/ed-1/seq-1)
 
 #### 1864-02-05 &middot; Richmond [Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4160,17 +4195,9 @@ v tnities.&quot;
 &quot;(four soldi, I- Mere like you, traitors might  
 hare broken up the Government with &gt;vi re-is  
 lancp.&quot;  
-**V&#x27;( s, sa, there would ii *t&gt; been no in ip for it. I  
-wouldn&#x27;t inn m&gt; Hi&#x27;- in .{.- -scale ag-iasl any CoU  
-berment dat . v.a existed, for in. iiul.hr rut.-nt .-otild  
-replace .!&lt;■ loss to me.&quot;  
-• Do you taink any of your company would bavi  
-in.- , I M.ii ii &gt;.-i. bad lie, ii k; led : &quot;  
-&quot;May &#x27; ■&lt;■ not, -a. A dead white man ain&#x27;i much  
-i-1.1.--.* soger., let alone a dead nigger; bat Via  
-missed myself, -a, and dot s de i.i.ii wi.
+**V&#x27;( s, sa,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_johnhenry_ver01%2Fdata%2Fsn84024738%2F00280778011%2F1864020501%2F0065.jp2/pct:41.824847,54.373162,12.714673,9.211052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_johnhenry_ver01%2Fdata%2Fsn84024738%2F00280778011%2F1864020501%2F0065.jp2/pct:41.824847,54.373162,12.694587,6.226627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4179,6 +4206,7 @@ missed myself, -a, and dot s de i.i.ii wi.
 ## [From _The weekly intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn91068137/1864-02-10/ed-1/seq-1)
 
 #### 1864-02-10 &middot; Fayetteville, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4193,7 +4221,7 @@ I knowed it war cumi:&quot;
 courage.  
 &quot;Dafc. aint jn my line, sa; cooking&#x27;s my  
 perfe-hun.&#x27;&#x27;  
-&quot;&quot;Well, but h.avc you no re
+&quot;&quot;Well, but h.avc you no reg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn91068137%2F00415667310%2F1864021001%2F0009.jp2/pct:68.990060,43.953352,12.750031,5.801646/!600,600/0/default.jpg"/>
 </td>
@@ -4204,6 +4232,7 @@ perfe-hun.&#x27;&#x27;
 ## [From _The weekly intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn91068137/1864-02-10/ed-1/seq-1)
 
 #### 1864-02-10 &middot; Fayetteville, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4226,18 +4255,9 @@ without resist&amp;ucer&quot;
 &quot;Yes sa, there would hab been no help  
 ibr it: I would&#x27;nt put my life in de scale  
 a2,inst anv 2,&#x27;ubln&#x27;rment dat ever existed for  
-no guhberment could replace dc loss tome.&quot;  
-&quot;Do you tj..k any of your company  
-wouid havS mussed you it you had been  
-1-11 VJ&#x27;3 -  
-w 1 , . , . , .. . ,  
-&quot;May be not,.sa. A dead white man am t  
-V C5V71V-1., II. L lllVIII. b .ll.l&#x27;C I i I ..... . A  
-but L&#x27;u a missed myscil, sa, and uats de  
-pint wid me.&quot;  
-A SniPMisu NEAit S:rrf hfiet.iv
+no guhberment could replace dc loss tome.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn91068137%2F00415667310%2F1864021001%2F0009.jp2/pct:69.014603,53.106625,12.848202,16.993336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn91068137%2F00415667310%2F1864021001%2F0009.jp2/pct:69.014603,53.106625,12.762302,12.475500/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4246,12 +4266,10 @@ A SniPMisu NEAit S:rrf hfiet.iv
 ## [From _The Abingdon Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84025980/1864-02-19/ed-1/seq-4)
 
 #### 1864-02-19 &middot; Abingdon [Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Observing him toasting bis shins against  
-the chimney, I broke in upon his protonnd  
-meditations thus: ■-  
 &quot;Where yen in the fight of Fort DauelsoD?&quot;  
 &quot;Had a little taste of it, ea.&quot;  
 &quot;Stood- your ground, did&#x27; you ?&quot;  
@@ -4296,7 +4314,7 @@ have missed you&#x27;if you had been killed ?&quot;
 much to dese Soger*, let alone a dead nigger;  
 but I&#x27;d a .missed myself, sa, awl data de pin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_barbaro_ver01%2Fdata%2Fsn84025980%2F00280762210%2F1864021901%2F0292.jp2/pct:10.377079,35.660820,16.219736,27.657990/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_barbaro_ver01%2Fdata%2Fsn84025980%2F00280762210%2F1864021901%2F0292.jp2/pct:10.377079,37.247235,16.219736,26.071575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4305,6 +4323,7 @@ but I&#x27;d a .missed myself, sa, awl data de pin
 ## [From _Boise news._](https://chroniclingamerica.loc.gov/lccn/sn89055016/1864-03-05/ed-1/seq-3)
 
 #### 1864-03-05 &middot; Bannock City, I.T. [Idaho City, Idaho]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4386,6 +4405,7 @@ carnage
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1864-05-04/ed-1/seq-1)
 
 #### 1864-05-04 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4441,6 +4461,7 @@ data de pint wid me.&quot; 4
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1864-11-24/ed-1/seq-4)
 
 #### 1864-11-24 &middot; Litchfield, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4513,12 +4534,10 @@ Amcau will never darken the field ot carnage.
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1865-02-17/ed-1/seq-2)
 
 #### 1865-02-17 &middot; Raleigh, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Observing him toasrtng hrs shins against  
-the chimney, I broke in upon his profound  
-Lined itations thus:  
 Were you in the battle of Fort Donel­  
 son ?  
 Had a little taste of it sa.  
@@ -4574,7 +4593,7 @@ ain&#x27;t much to dese sogers: let alone a
 dead nigger, but I&#x27;d missed myself, sa, and  
 dats depint with me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022810%2F1865021701%2F0443.jp2/pct:52.212248,48.091873,14.571978,31.684335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022810%2F1865021701%2F0443.jp2/pct:52.452709,49.729093,14.331517,30.047114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4583,6 +4602,7 @@ dats depint with me
 ## [From _Weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045706/1865-02-22/ed-1/seq-4)
 
 #### 1865-02-22 &middot; Raleigh, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4641,9 +4661,10 @@ killed ? &#x27; -&#x27; , . , ; .
 &#x27; Maybe not, . sa. A dead white man  
 ain&#x27;t much to dese&#x27; Bogers: let alons a  
 dead nigger, but I&#x27;d missed myself, sa, and  
-dats depint with me
+dats depint with me.  
+. -. - &#x27; &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045706%2F00296022664%2F1865022201%2F0616.jp2/pct:51.311628,46.972030,15.646512,33.205030/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045706%2F00296022664%2F1865022201%2F0616.jp2/pct:51.311628,46.972030,15.646512,33.512959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4652,6 +4673,7 @@ dats depint with me
 ## [From _Daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026845/1865-03-17/ed-1/seq-4)
 
 #### 1865-03-17 &middot; Wheeling, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4734,22 +4756,10 @@ carnage
 ## [From _Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn86059181/1865-04-01/ed-1/seq-4)
 
 #### 1865-04-01 &middot; Evansville, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-9rfeh inoie to me, sa.&#x27;  
-&quot;Then yon mnat value it fery highly?&quot;  
-. &quot;Yea,&quot; sa,t does more dan all this  
-world more dan a millionjdollars, sa,  
-L i IJ .1.  
-t. for what would that be wutn sto a man  
-Ct with the bfef -out of him? Self preser-  
-baslmn am the tust law wid me.  
-&#x27;&#x27;But why should yon act upon a dif  
-ferent rule trorn other men  
-&quot;Because different men set different  
-. C &quot;P 4 ijcai itjyi. rouw lave  
-tiie satisfaction of knowing that you died  
+iie satisfaction of knowing that you died  
 for jour country.&quot;  
 &quot;What saiisfaction would dat be to me  
 when da nower of fee in was iron e 7  
@@ -4771,7 +4781,7 @@ JIt is safe to fay that the dusky corpse of I
 that African will never darken the held  
 of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn86059181%2F00296022056%2F1865040101%2F0062.jp2/pct:7.457729,48.463040,11.533816,17.699439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn86059181%2F00296022056%2F1865040101%2F0062.jp2/pct:7.684179,54.293730,11.307367,11.868748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4780,6 +4790,7 @@ of carnage
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn86053370/1865-04-05/ed-1/seq-1)
 
 #### 1865-04-05 &middot; Butler, Butler County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4864,6 +4875,7 @@ field of carnage.
 ## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1865-04-05_36_14?page=0)
 
 #### 1865-04-05 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4959,12 +4971,10 @@ can will never darken the field of carnage.
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1865-04-20/ed-1/seq-1)
 
 #### 1865-04-20 &middot; Smyrna, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-j in the Fort Doncisun battle&#x27;, and part ..f which  
-? was on board, i began to interrora!** bun upou  
-! the subject.  
 j Hi- philosophy was so much in tin Fal taffi­  
 ; an vein, that l will give his views in his own  
 j words as near as my memory w.il -, r\e no­  
@@ -5000,7 +5010,7 @@ try. &quot;
 1  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894924%2F1865042001%2F0093.jp2/pct:76.630073,23.403496,14.254824,17.968843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894924%2F1865042001%2F0093.jp2/pct:76.646707,24.818647,14.238190,16.553692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5009,6 +5019,7 @@ try. &quot;
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1865-04-20/ed-1/seq-1)
 
 #### 1865-04-20 &middot; Smyrna, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5047,6 +5058,7 @@ j that African will never dark et ti
 ## [From _The Burlington weekly hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn84027060/1865-06-03/ed-1/seq-1)
 
 #### 1865-06-03 &middot; Burlington [Iowa]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 pon­  
@@ -5140,6 +5152,7 @@ carnage.
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1865-06-13/ed-1/seq-1)
 
 #### 1865-06-13 &middot; Manchester, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5223,44 +5236,10 @@ en the field uf carnag
 
 ---
 
-## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1865-09-27/ed-1/seq-1)
-
-#### 1865-09-27 &middot; Wheeling, W. Va.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-profound meditation. &#x27;Were you in the  
-fight?&#x27; &#x27;Had a llUIo taste of it sn.&#x27;?  
-&#x27;Stood your ground, did you? 4No sn, I  
-runs.&#x27; &#x27;Run at the first fire, did you ?&#x27;  
-4 Yes, sa, and would hub run soonn, had  
-I knowd it war coming.&#x27; &#x27;Why, that  
-was not very creditable to yonr cour­  
-age.* *Dat isn&#x27;t in my ltiic.sn.cookin&#x27;*  
-my pcrfesliun.&#x27; Well, but have you no  
-regard for your reputation ?&#x27; ?Reputa­  
-tion&#x27;s liulUr to me by the side ob life.&#x27;  
-4Do you consider your lift? worth mote  
-tlinn other people&#x27;s?&#x27; &#x27;It&#x27;s worth more  
-to me, sn.&#x27; &#x27;Then you must value it  
-vory highly?* &#x27;Yob; sa, I does^-more  
-than all dis wuld?more dan a million  
-ob dollars, sa; for what would dat be  
-worth to a man wid tho href out of  
-him? Kelf-prcscrbashun am de first law  
-wid me.&#x27; &#x27;Then patriotism and honor  
-are nothing to you ?&#x27; 4Nuflln whatever,  
-i sa?I regard dem us among do vanities.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_austria_ver01%2Fdata%2Fsn84026844%2F00202190765%2F1865092701%2F0293.jp2/pct:73.781227,20.675005,12.551540,9.370823/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The United States Service Magazine (1864-1866)_](https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4?page=49)
 
 #### 1865-10-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ore charac-  
@@ -5324,6 +5303,7 @@ for your country.’
 ## [From _The United States Service Magazine (1864-1866)_](https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4?page=50)
 
 #### 1865-10-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5357,6 +5337,7 @@ dead nigga—but I’d a missed myself, and dat was de pint wid me.’”
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-10-13/ed-1/seq-1)
 
 #### 1865-10-13 &middot; Portland, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5399,40 +5380,10 @@ among de vanities.
 ## [From _The Orangeburg news._](https://chroniclingamerica.loc.gov/lccn/sn84026920/1868-01-18/ed-1/seq-1)
 
 #### 1868-01-18 &middot; Orangeburg, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-&quot;Run at the first fire, did you ?&#x27;&#x27; bylui&#x27;J  
-&quot;Yea, aa, and wquld have run soona had I  
-knoad it war coming.&quot; ..&#x27;..- ii liiiaooO w?i?  
-&quot;Why, that wasn&#x27;t very creditable io your  
-courage.&quot; ? ?? -.Jv-.; i. r) ?n-..jhk?  
-MjDat isn&#x27;t in my lino, ?a?cookin&#x27;? mypro­  
-feshunl&quot; . v biam ruis  
-&quot;Well, but have you no regard for.your&gt;rep­  
-utation ?&quot; f bus  
-&quot;Reputation&#x27;s nofio by the side of,MTq.&#x27;I  
-&quot;Do yon consider your life worth more than  
-other people&#x27;s!&quot; vj&#x27;jujq iiorfl rri tnodlo  
-&quot;It&#x27;s worth more to me, ?a:&quot; . .&#x27;nmPotm  
-Then you must value it very highly.&quot;&#x27; -  
-&quot;Yes, sa, I doss, more &#x27;.dan. all dia .world?  
-more dan&#x27;a: million ob d?Ha3, ea; for what  
-would be wutb to a man wid the brcf out of  
-him? Self prcserbaslmn^am the fir?t law wid  
-me.&quot; ry: &#x27;.&lt;, t i&#x27;.\-f(rv\ s?\&amp;$  
-&quot;Bat why abound you act upon a different  
-rulo from other men ?&quot; i. v.uit-iiiY 1B4  
-&quot;Because different, men set different values  
-upon dar lives? mino is not in the market.&quot;  
-&quot;But if you lost it, von would have the sat­  
-isfaction of knowing tlint you died: for your  
-country.&quot; .. \, &gt;\vA d Ilc^Ca  
-&quot;What satisfaction would dat lie (Oi flafMg&amp;en -  
-de power of feelin&#x27; was gene?&quot; lud ?dT  
-&quot;Then patriotism eddy honor are nothing to  
-you?&quot;:. &#x27; ? !&gt;:&gt;&lt; i / *?? ? ? tlT­  
-&quot;Nuffin whatever, ?o.; I iegari? them: aa  
 among de vanities-1&quot;* \ ) .&lt;&gt;{&lt;? o4 f&gt;?  
 If our soldiers were like you, tapftpffsimight  
 have broken up the government without .re­  
@@ -5452,7 +5403,7 @@ me- .-J.f.-.fefcp
 It is safo to say that the duskycorpse of that  
 African will never darkenthe ^$elotajf^ra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_heddalettuce_ver01%2Fdata%2Fsn84026920%2F00294558706%2F1868011801%2F0252.jp2/pct:81.308140,23.203714,16.283915,34.405107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_heddalettuce_ver01%2Fdata%2Fsn84026920%2F00294558706%2F1868011801%2F0252.jp2/pct:81.308140,45.563939,16.138566,12.044883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5461,6 +5412,7 @@ African will never darkenthe ^$elotajf^ra
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1868-01-30/ed-1/seq-4)
 
 #### 1868-01-30 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5530,12 +5482,10 @@ carnage.?The Gray Jackets
 ## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1868-02-23/ed-1/seq-4)
 
 #### 1868-02-23 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-white feather in battle :  
-&quot;Were you in the fight?  
-&#x27; Had a little taste of it. a.&quot;  
+little taste of it. a.&quot;  
 &#x27; Stood your ground, did you V  
 &quot;No,Ba,Irun8l&quot;  
 Run at the first fire, did you ?&quot;  
@@ -5557,26 +5507,21 @@ mor dan a million ob dollars, a ; for what
 would dat be wuth t6 a man&#x27; will de href  
 out of him? Self preserhashmn am (be  
 first Jaw Wld me.&quot; ;  
-&quot;. But w&#x27;ty shonljl you act. upon a.difier­  
-ent .rule from other men?&#x27;&#x27; , -  
-&quot; Because diflrent-men set dtiTerent val­  
-iien upon.lar; livrt .mine ip uot- in Ibe  
-market.&quot; -  
-&quot; But ifyou Iftt, it. you would hava died  
-for your country.&quot; , .  
-&quot; What aatisfdclion would dat be to me  
-when de poorer of.feeliu&#x27; was gone?&quot; ,  
-&quot;Xlien patriot issivand honor are nothing  
-to you . ,  
+&quot;. But w&#x27;ty shon
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85038521%2F0020029337A%2F1868022301%2F0190.jp2/pct:18.130480,9.077762,10.803983,9.912115/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1868-02-23/ed-1/seq-4)
+
+#### 1868-02-23 &middot; Nashville, Tenn.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
   
-Kufiin whatever, sa ; I regard themias  
-among dem vanities?&quot; , -. -  
-. &quot; If our foldiew were Jike you, traitors  
-plight have broken up Ibe government  
-without resislance.&quot;  
-&quot; Yes, sa, dar,would havebt-en no help  
-for it, I woulden&#x27;t put my head in de scale  
-&#x27;gainst nogobermentdatber existed.; for  
 no goberment could replace dfrlbsa to.me.&quot;  
 &quot; Do you think any of your cotnyany  
 would have minted you if you had, been  
@@ -5590,7 +5535,7 @@ It is safe, tossy that thediiskv cornsn of
 that African will never darken the field of  
 carnage. 1 e (irtq Jaelets
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85038521%2F0020029337A%2F1868022301%2F0190.jp2/pct:18.085897,8.165536,10.848566,23.239515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85038521%2F0020029337A%2F1868022301%2F0190.jp2/pct:18.100758,26.654800,10.744539,4.750250/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5599,9 +5544,10 @@ carnage. 1 e (irtq Jaelets
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1868-02-29/ed-1/seq-1)
 
 #### 1868-02-29 &middot; Bolivar, Hardeman County, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-u in the ht?&quot;  
+re vou in the ht?&quot;  
 &quot; Hal ahttle taste cf it, &#x27;tt  
 &quot;Stood your gn.und, did you?&quot;  
   
@@ -5668,6 +5614,7 @@ carnage. The-Gref Jackets
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1868-05-21/ed-1/seq-1)
 
 #### 1868-05-21 &middot; Upper Sandusky, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5763,6 +5710,7 @@ darken the field of carnage
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-06-27/ed-1/seq-1)
 
 #### 1868-06-27 &middot; Shepherdstown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5820,10 +5768,9 @@ killed?&quot; &#x27; .
 isn&#x27;t much to dese sogar*, lei slone a dead  
 nigga. Hut I&#x27;d miss my self, and dat  
 ?as de pint wid rn?.&quot;  
-It is s ue to say that the dueky corpse  
-of tlat negro will 
+It is s ue to say that the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1868062701%2F0315.jp2/pct:55.574324,50.086910,13.368056,30.822971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1868062701%2F0315.jp2/pct:55.574324,50.086910,13.368056,30.261399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5832,6 +5779,7 @@ of tlat negro will
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1868-07-01/ed-1/seq-3)
 
 #### 1868-07-01 &middot; Alexandria, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5897,9 +5845,66 @@ carnage
 
 ---
 
-## [From _New National Era 1870-1874_](https://iiif.archivelab.org/iiif/sim_new-national-era_1870-07-28_1_29?page=3)
+## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1870-06-25_14_704?page=8)
 
-#### 1870-07-28
+#### 1870-06-25 &middot; New York
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+negro on a steamer after taking a fort. “Had a little  
+taste of it, sah.&quot; “Stood your ground, did you?” “No,  
+sah;Iruns.” “Run at the first fire, did you?” “Yes,  
+sah; would hab ran soouer if I had known it was  
+comin’.” ‘Why, that’s not very creditable to your  
+courage.&quot; “Dat isn&#x27;t my line, sah—cookin’ my per-  
+feshion.” ‘Well, but have you no regard for your  
+reputation?” “ Reputation’s nothing to me by the  
+side ob life.” ‘Do you consider your life worth more  
+than other people&#x27;s?” “It’s worth more to me, sah.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1870-06-25_14_704&#0036;8/pct:69.789628,51.868207,19.006849,5.078125/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1870-07-28/ed-1/seq-3)
+
+#### 1870-07-28 &middot; Prescott, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+‘Had a little taste of it, eah.’  
+‘Stood your ground, did you?’  
+‘No sah, I runs.’  
+‘Run at the first fire, did you?’  
+‘Yes sah; would have run sooner if I  
+bad known it was coinin’.’  
+‘Why, that is not very creditable to  
+your courage.’  
+Dat isn’t in my line, sah—cookin’ is  
+my perfession.’  
+‘Well, but have you no regard for  
+your reputation ?’  
+‘Reputation’s nuffin to ma by de side  
+ob life.’  
+‘Do you consider your life worth more  
+than other people’s?’  
+‘lt’s worth more to mo, eah.’  
+A Chinese maxim says: “We re
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033221%2F00514152378%2F1870072801%2F0489.jp2/pct:28.211856,36.249266,12.419825,10.501027/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _New national era._](https://iiif.archivelab.org/iiif/sim_new-national-era_1870-07-28_1_29?page=3)
+
+#### 1870-07-28 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5926,12 +5931,15 @@ ple’s?’’ **1t’s worth more to me, sah.”
 #### From _The Wisconsin state register._
 
 #### 1870-11-19 &middot; Portage, Columbia County, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1871-06-15/ed-1/seq-1)
 
 #### 1871-06-15 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5962,6 +5970,7 @@ more than other people&#x27;s ?&quot;
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1871-07-11/ed-1/seq-1)
 
 #### 1871-07-11 &middot; Woodsfield, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5994,6 +6003,7 @@ more than other people&#x27;s ?&quot;
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1871-10-14/ed-1/seq-1)
 
 #### 1871-10-14 &middot; Auburn, Placer County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6025,6 +6035,7 @@ than other people’s?”
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1872-01-09/ed-1/seq-3)
 
 #### 1872-01-09 &middot; New Bloomfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6091,9 +6102,101 @@ de pint wid me.&quot;
 
 ---
 
+## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1872-06-09/ed-1/seq-3)
+
+#### 1872-06-09 &middot; New York [N.Y.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+employer; understands caring  
+for horses. Address (for a week) or call, from 10 to 1  
+o’clock daily, to A. MECHLER,  
+No. 2 Second street, near Bowery.  
+A PHILOSOPHICAL DARKEY.  
+A. FALSTATHAN VIEW OF XVA.R.  
+An elderly darkey, with a very philosophical  
+and retrospective cast of countenance, was  
+squatting upon his bundle on the hurricane  
+deck of one of the Western river steamers,  
+toasting his shins against the chimney, and  
+apparently plunged in a state of profound  
+meditation. His dress and appearance indi­  
+cated familiarity with camp life, and it being  
+soon after the siege and capturs of Fort Don­  
+elson, I was inclined to disturb his reveries,  
+and on interrogation found that he had been  
+with the Union forces at that place, when I  
+questioned him further. His philosophy was  
+so much in tho Falstaffian vein that I will give  
+his views in his own words as near as my  
+memory serves me.  
+“Were you in the fight?”  
+“ I had a little taste of it, sah.”  
+“Stood your ground, did you?”  
+“ No, sail, I runs.”  
+“Run at the first fire, did you?”  
+“Yes, sah, and would have run soonah had I  
+know’d it was cornin’.”  
+“Why, that wasn’t very creditable to your  
+courage.”  
+“Dat isn&#x27;t in my line, sah—cookin’s my pro­  
+fession.”  
+“ Well, but have you no regard for your rep­  
+utation ?”  
+“ Reputation 1 Nuffin to me by de side ob  
+life 1”  
+“ Do you consider yonr life worth more than  
+other people’s ?”  
+“It’s wuth more tome, sah.”  
+“Then you must value it very highly?”  
+“Yes, sah, I does; more dan ad dis world ;  
+more dan a million dollahs, sah; for what  
+would dat be wuth to a man wid de href out of  
+him ? Self-preservation am de fust law wid  
+me, sah.”  
+“But why should you act on a different rule  
+from other men ?”  
+“ ’Cause, sah, different men sets different  
+value upon der selves; my life is not in de  
+market.”  
+“ But if you lost it you would have the satis­  
+faction of knowing that you died for your  
+country.”  
+“ What satisfaction would dat be to me, when  
+the power of feelin’ was gone ?”  
+“ Then patriotism and honor are nothing to  
+you?”  
+“ Nuffin’ whatever, sah—l regard dem as  
+anseng de varieties.”  
+“If. our soldiers were like you, traitors  
+might have broken up the Government with­  
+out resistance.”  
+“Yes, sah ; der would hab been no help for  
+it. I wouldn’t put my life in de scales ginst  
+any guberment dat eber existed, for no guber­  
+ment could replace de loss to me. ’Speot,  
+dough, dat de guberment safe, if da all like  
+me.”  
+“Do you think any of your company would  
+have missed you if you had been killed ?”  
+“ May be not, sah. A dead white man ain’t  
+much to dese sogers, let alone a dead nigga ;  
+but I’d a missed myself, and dat was de pint  
+wid me.”  
+It is safe to say that the darkey corpse of  
+that African will never darken the field of  
+carnage. . ... 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_dunbar_ver01%2Fdata%2Fsn85026214%2Fprint0021111020A%2F1872060901%2F0003.jp2/pct:57.235750,23.347452,12.331673,29.303042/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-06-20/ed-1/seq-1)
 
 #### 1872-06-20 &middot; Jonesborough, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  next receive attention.  
@@ -6194,6 +6297,7 @@ field of carungc
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1872-06-25/ed-1/seq-1)
 
 #### 1872-06-25 &middot; Tionesta, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Well, I don&#x27;t know,&quot; replied the  
@@ -6294,6 +6398,7 @@ darken the field of carnage
 ## [From _Whig and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033435/1872-07-06/ed-1/seq-1)
 
 #### 1872-07-06 &middot; Jackson, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6398,6 +6503,7 @@ darken the field of carnage
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1872-07-20/ed-1/seq-2)
 
 #### 1872-07-20 &middot; Shasta, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6487,6 +6593,7 @@ carnage.
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1872-07-27/ed-1/seq-1)
 
 #### 1872-07-27 &middot; Prescott, Ariz.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6574,9 +6681,10 @@ carnage
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1872-08-01/ed-1/seq-4)
 
 #### 1872-08-01 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-^wmurousi Department.  
+  
 A PHILOSOPHICAL DARKEY.  
 An elderly darkey, with a very philosophical  
 and retrospective cast of countenance, was  
@@ -6644,9 +6752,9 @@ have missed you if you had been killed ?&quot;
 &quot;May be nc\ sa. A dead white man ain&#x27;t  
 much wid dese sogers, let alone a dead nigga;  
 but I&#x27;d a missed myself, and dat was de piut  
-wid me.&quot;
+wid me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1872080101%2F0146.jp2/pct:1.301301,3.803071,16.921269,35.266486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1872080101%2F0146.jp2/pct:1.301301,5.612767,16.921269,33.456790/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6655,6 +6763,7 @@ wid me.&quot;
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1872-08-02/ed-1/seq-4)
 
 #### 1872-08-02 &middot; Brattleboro, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6676,19 +6785,21 @@ Iho l-&#x27;aMafllnn vein that I wlllglvohisown
 wouls ns near ns my memory will servo  
 me.  
 Wei o you III Iho light?  
-I had a Utile taste of If, sa.  
-Slood your ground, did you ?  
-No, sa, I inns.  
-Hun at (ho Jrsl lire, did you ?  
-W&quot;, sa, an&#x27; would Imb run soona had I  
-know.&#x27;d It was coniln&#x27;.  
-Why, that wasn&#x27;t very crodltablo lo your  
-courage.  
-D.il Isn&#x27;t in my line, sa cookln&#x27;s my  
-pi-oicssioi.  
-Well, but have you no regard for your  
-repiiiaiion 7  
-Itcpulallon I iiufiln to mo by do sldo of  
+I had a Utile taste of I
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777377%2F1872080201%2F0106.jp2/pct:50.394292,34.145241,10.720991,9.171553/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1872-08-02/ed-1/seq-4)
+
+#### 1872-08-02 &middot; Brattleboro, Vt.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+lallon I iiufiln to mo by do sldo of  
 inc.  
 Do you consider your llfo worth moro  
 than other peoplo&#x27;s ?  
@@ -6732,7 +6843,7 @@ It is safe to say that tho darkey corpte of
 that African will never darken tho Held of  
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777377%2F1872080201%2F0106.jp2/pct:50.394292,34.145241,10.814870,35.408209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777377%2F1872080201%2F0106.jp2/pct:50.469395,48.699444,10.739767,20.854007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6743,12 +6854,15 @@ carnage
 #### From _Hampshire/Portsmouth Telegraph_
 
 #### 1872-08-03 &middot; Portsmouth, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1872-08-05/ed-1/seq-5)
 
 #### 1872-08-05 &middot; Chicago, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6837,6 +6951,7 @@ age*
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1872-08-15/ed-1/seq-4)
 
 #### 1872-08-15 &middot; Idaho City, Idaho Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6867,28 +6982,21 @@ No, sa, I runs.
 sa,  
 Run at the first fire, did you?  
 Yes, sa, an&#x27; would hab run soona had  
-to  
-Ivo, Oil. till WUUlll IlciU 1 (ill MJUIM i  
-U L ., t „„ , „ „ • .  
-wi,,. *!.«»♦ ...jvil  
-i v ; , J  
-; * rw • &#x27; «. % , ... ,,,  
-I I&#x27;iit t m nu une. b3i* , **cuukii) s m\
-| pr ,f oss j un  
-1 \v 0 n,&quot; but you have no regard for  
-_ üllr reputat j&#x27; n »  
-- K oputa,i..u! uuffiu to me by do side  
-.. lfl . , •. .........*,• ...  
-, . . , .  
-i f *.  
-..... .. .. ..... . .. . . V , • , ,  
-then you must value it verv highly,  
-Vll&gt;1 * . | ... , ,, ,* b  
-les, sa, ldoes, more dan a dis world;  
-&#x27;inure dan a nullum dollars, sa; tut* what  
-...... M » , , ., . \ ,  
-would dat l»e wuth wid de brd out ob  
-c \r ......, ,* , . ,  
+t
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869471%2F1872081501%2F0549.jp2/pct:27.315436,4.576731,18.624161,19.047123/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1872-08-15/ed-1/seq-4)
+
+#### 1872-08-15 &middot; Idaho City, Idaho Territory
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
 bun: beU-preserbatton am de lust law  
 witJ ||Rt s&gt;| *  
 -  
@@ -6911,23 +7019,9 @@ as among «le varieties, sa.
 It our soldiers were like vou, traitors  
 might have broken up the tioVernmenti  
 without resistance.  
-^ es, sa; «1er would hab !&gt;een no help!  
-for it. I wouldn&#x27;t put inv life indes  
-f™ 1 a!: - v £ aU?n &quot; c,,t g ■  
-gf \&#x27;&quot; r S&quot;**™&#x27;«&#x27;« c &quot; |M  
-g, rC i, &#x27;&quot;&#x27;r à&#x27;V&quot;&quot; * d *&#x27;  
-&#x27; &#x27;,7Yv ! T v&quot;&quot;&#x27; &#x27;  
-haxc ,u,ss&lt;h1 J ou ll J 011 h;ul ,w ««»  
-\\ * i . . , , ..  
-\. V&quot;-&#x27; &#x27;&quot;i g A d - îa &#x27; l V&#x27;&quot; 1 &quot;;  
-1 l &quot;&quot;&#x27;&quot; l &#x27;.&#x27; g. ,&#x27; s r &quot;&#x27; &#x27; &#x27; 1,1 &#x27;*j  
-&#x27; - &#x27; ,&#x27; 1 ,&#x27; &#x27;l&quot;* .&#x27; &#x27;&#x27; a &quot;&#x27;- V &#x27; v  
-7V &#x27;&quot;&#x27;o &quot;&#x27;&#x27;&#x27;&quot;&quot;i .  
-H ls safe to say that the dark corpse  
-2 r ,&#x27;, I,at , Afri,u &quot; w »ll never darken the!  
-* &#x27; carnag« . 
+^ es, sa; «1er would hab !&gt;een
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869471%2F1872081501%2F0549.jp2/pct:25.788591,4.576731,20.151007,54.295246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869471%2F1872081501%2F0549.jp2/pct:26.359060,33.726022,18.724832,13.949124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6936,6 +7030,7 @@ H ls safe to say that the dark corpse
 ## [From _Bozeman avant courier._](https://chroniclingamerica.loc.gov/lccn/sn84038123/1872-08-29/ed-1/seq-4)
 
 #### 1872-08-29 &middot; Bozeman, Mont.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7023,6 +7118,7 @@ carnage
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1872-08-30/ed-1/seq-1)
 
 #### 1872-08-30 &middot; Albany, Linn County, Oregon
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7120,6 +7216,7 @@ field of carnage.
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
 #### 1872-10-21 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7163,6 +7260,7 @@ and dat was de pint wid me.
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
 #### 1872-11-06 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7202,11 +7300,108 @@ me.&quot;
 
 ---
 
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1872-11-26/ed-1/seq-1)
+
+#### 1872-11-26 &middot; Lancaster, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A Darkey’s View of War.  
+An elderly darkey, with a very  
+philosophical and retrospective cast  
+of coantanance, was sitting upon his  
+bundleon the hurricane deck of one  
+of the Western river steamers, toast­  
+ing his shins against the chimney,  
+and apparently plunged in a state of  
+profound meditation. His dress and  
+appearance indicated familiarity  
+with camp life, and it being soon  
+after the siege and capture of Fort  
+Donelson, I was inclined to disturb  
+his reveries, and on interrogation, 1  
+found he bad been with the Union  
+forces at that place, when I ques­  
+tioned him further. His philosophy  
+was so much in the FaislafHiau vein,  
+that I will give his views tc his own  
+words, as near as my memory  
+serves me :  
+‘Were you in the fight?&#x27;  
+‘I had a litcle taste of it. sah.’  
+‘Stood your ground, uid you ?’  
+‘.No, sah, I runs.’  
+‘Hud at the first fire, did you ?&#x27;  
+‘I os, sab,; and would have run  
+soonah, had I knowed it was com­  
+in.&#x27;  
+‘Why, that wasn’t very creditable  
+to your courage !’  
+‘Dat isn’t in my line, sail; cookin’s  
+my profession.’  
+‘Well, but havo you no regard for  
+your reputation ?’  
+“■Reputation&#x27;s nuftin to me by de  
+side of life.’  
+‘Doyou consider your life worth  
+more than other people’s?&#x27;  
+‘lt’s wuth more to me, sah.’  
+1 ‘Then you must value it very higb­  
+‘Ycs, sah, I does ; more dan all dis  
+world; more dan a million of dol­  
+lars, sah ; for what would dat be  
+wuth to a man wid do bref out of  
+him ? Self-preservation am de fust  
+law wid me, sah.’ -  
+‘But why should you act on a dif­  
+ferent principle from other men ?’  
+‘Causo, sah, different men sets  
+different value on deirselves ; my life  
+is not in d« market.’  
+‘But if you lost it you would have  
+the satisfaction of kuewing that you  
+died four your country.’  
+‘What satisfaction would dat bo to  
+me when de power of feelin’ was  
+go no ?’  
+‘Then patriotism and honor are  
+nothing to you ?’  
+‘NufHn whatever, sal.—l regard  
+dem among the vanities.’  
+‘lf iur soldiers were like you, the  
+government might havo been broken  
+up without resistance.’  
+•Yes, sah, dar would havo boon no  
+help for it. I wouldn’t put my life  
+in tho scales against any guhsrment  
+dat ebor existed, for no gubermont  
+could eber replace the loss to me.  
+Spect dough, dat be gnberraent safe  
+if da all Uke me.&#x27;  
+‘Do you think any of your com­  
+pany would have missed you if you  
+bad been killed ?’  
+‘May bo not, sah. A dead white  
+man ain’t much to deso sogers, let  
+alone a dead nigga; but I’d misH  
+myself, and dat was do pint wid me.’  
+It is safe to say that tho corpse  
+of that African will never darken  
+the field of carnage.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159373%2F1872112601%2F0590.jp2/pct:71.438074,15.524456,10.580462,41.321946/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [MARRIAGE OF PRIESTS.](http://trove.nla.gov.au/ndp/del/article/92763679)
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
 #### 1872-12-20 &middot; Clare, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7221,36 +7416,10 @@ profound meditation, iindin&quot;-. upo
 
 ---
 
-## [MARRIAGE OF PRIESTS.](http://trove.nla.gov.au/ndp/del/article/92763679)
-
-#### From _Northern Argus (Clare, SA : 1869 - 1954)_
-
-#### 1872-12-20 &middot; Clare, South Australia
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-had I knowd itcnminV &quot; If our soldiers  
-were like you. -tcei^ora might have  
-broken up tbe government without  
-resistance.&quot; &quot; Yes, sa; dar would bab  
-been no help for it. 1 would »ot pnt my  
-life in de scale &#x27;gainst any government  
-dat eber existed, for no goberoznent  
-could replace the loss to me.&quot; &quot; Dc yon  
-think iany xjf your company would havt  
-juissedyou if you had been killed fM  
-Maybs no^ sa? a dead white man ein&quot;;  
-much lodtso sogers, let alone a dead  
-nigger &#x27; Imi Td.d &quot;aisscd myself, and  
-dat trse d» pint wid inc.&quot; FOTSOXEDBV  
-CHEWING ENDS of THREAD. -One homel
-</td></tr></table>
-
----
-
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1872-12-30/ed-1/seq-1)
 
 #### 1872-12-30 &middot; Barton, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 eatment than  
@@ -7346,12 +7515,14 @@ field of carnage
 
 ---
 
-## LATEST AND TELEGRAPHIC NEWS.
+## MISCELLANEOUS.
 
-#### From _Liverpool Mercury_
+#### From _Bristol Mercury_
 
-#### 1873-01-03 &middot; Liverpool, England
+#### 1873-02-22 &middot; Bristol, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## MISCELLANEOUS.
@@ -7359,15 +7530,9 @@ field of carnage
 #### From _Bristol Mercury_
 
 #### 1873-02-22 &middot; Bristol, England
+
 [This text is not available under an open license.]
----
 
-## MISCELLANEOUS.
-
-#### From _Bristol Mercury_
-
-#### 1873-02-22 &middot; Bristol, England
-[This text is not available under an open license.]
 ---
 
 ## WIT AND HUMOUR.
@@ -7375,28 +7540,15 @@ field of carnage
 #### From _Newcastle Courant_
 
 #### 1873-03-21 &middot; Newcastle-upon-Tyne, England
+
 [This text is not available under an open license.]
----
 
-## VARIETIES.
-
-#### From _Trewman's Exeter Flying Post_
-
-#### 1873-04-02 &middot; Exeter, England
-[This text is not available under an open license.]
----
-
-## VARIETIES.
-
-#### From _Trewman's Exeter Flying Post_
-
-#### 1873-04-02 &middot; Exeter, England
-[This text is not available under an open license.]
 ---
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1873-04-04/ed-1/seq-1)
 
 #### 1873-04-04 &middot; Bel Air, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7466,6 +7618,7 @@ among the varieties
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-04-05/ed-1/seq-1)
 
 #### 1873-04-05 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7554,6 +7707,7 @@ carnage.— Chicago Tribune
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
 
 #### 1873-05-03 &middot; Maitland, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7597,6 +7751,7 @@ wid me.&quot;
 #### From _South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)_
 
 #### 1873-06-07 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7639,6 +7794,7 @@ Caution.— One day at Blair Athol th
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1873-07-17/ed-1/seq-1)
 
 #### 1873-07-17 &middot; Ravenna, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7730,6 +7886,7 @@ Colored men iu tbe Southern State
 ## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1873-10-18_10_512?page=1)
 
 #### 1873-10-18
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7757,12 +7914,15 @@ coachman took much the same view of things
 #### From _Milwaukee daily sentinel._
 
 #### 1873-12-05 &middot; Milwaukee, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1873-12-10/ed-1/seq-8)
 
 #### 1873-12-10 &middot; Knoxville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7785,6 +7945,7 @@ ed myself, and dat was dc pint wid mo !&quot; Mr
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1873-12-11/ed-1/seq-4)
 
 #### 1873-12-11 &middot; Tipton, Cedar Co., Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7810,9 +7971,97 @@ self, aad dat was de pint wid me.
 
 ---
 
+## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1874-03-11/ed-1/seq-1)
+
+#### 1874-03-11 &middot; Lambertville, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A PBILOSOPliri&#x27;AZ VAltKKT.  
+An elderly darkey, with a very philosophical  
+and retrospective cast of countenance, was  
+squatting upon his bundle on the hurricane  
+deck of one of our Western river steamers,  
+toasting his shins against the chimney, ant  
+apparently plunged in a state of profount  
+meditation. Ills appearance and dress iudi  
+; cated a familiarity with camp life, and i  
+being soon after the siege and capture of Ftu  
+Donelaon, 1 was inclined to disturb hi  
+reveries, and, on interrogation, found he bn  
+been with tile Union forces at that place, wlu  
+r I I questioned him further. ITis phffoaopl  
+| I was so much in the Falstaflian vein, that  
+will give his views in his own words, as ne:  
+as nty memory will serve me.  
+“ Were you in the figlit ? ”  
+“ Hail a little taste of It, sa.”  
+“ Stood your ground, did you ?.”  
+“No, sa, I runs.”  
+“Run at the first fire, did you ?”  
+“ Yes, sa. and would hah run soonft had  
+know’d It was cornin’.”  
+“Why, that isn’t very creditable to you  
+courage.”  
+“Dat isn&#x27;t in my line, Si—toikiu&#x27;s m;  
+profession.”  
+“ Well, hut liavo you no regard for you  
+reputation?”  
+“Reputation&#x27;s nuffin to me by do side ol  
+life.”  
+“Do yem consider your life worth piort  
+than other peoplo’s? ”  
+“It&#x27;s worth more to me, sa.”  
+“Thou you must value ft very highly ? ”  
+“Yes, sa, I does—more dan all dis world—  
+snore dan a million oh dollars, as, for what  
+would that lie wuth to a man wld de href out  
+ob him ? Selfprescrbaslmm am do fust law  
+wld me, sa.”  
+&quot; Rut why should you act upon a different  
+rule from other men ? ”  
+“Cause, sa, different men set different  
+value upon darcsclves. My life in not in de  
+market.”  
+“Rut if you lost it, yen would Imvo the  
+satisfaction of knowing that you died for  
+your country.”  
+“ What satisfaction would dat he to me,  
+when de power oh feelin’ was gone ?”  
+“Then patriotism and honor arc nothing to  
+you?”  
+“Nuffln whatever, sa—I regard dem as  
+among the vanities.”  
+“ If our soldiers were like you, traitors might  
+have broken up the government without re­  
+sistance.”  
+“Yes, sa, dare would have been no help  
+for it. I wouldn’t put my life in de scalo  
+’gainst any gobernrtent dat ever existed, for  
+no gobernment could replace de loss to mo.  
+’flpeet, dough, dat de gobernment tuft If dey  
+all like me.”  
+“ Do you think any of your company would  
+have missed you If you had been killed ? ”  
+“ May l&gt;o not, sa. A dead white man ain’t  
+much to dose sogers, let alone a dead nigger,  
+but I’d a missed myself, and dat was de pint  
+wid me.”  
+It is safe to say that the dusky corpse of  
+that African will never darken the field of  
+carnage.*
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1874031101%2F0310.jp2/pct:67.279537,42.271293,12.465952,41.863256/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1875-02-05/ed-1/seq-3)
 
 #### 1875-02-05 &middot; Wheeling, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7900,9 +8149,91 @@ of that African will never darken th
 
 ---
 
+## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1875-02-07/ed-1/seq-6)
+
+#### 1875-02-07 &middot; New York [N.Y.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A PHILOSOPHICAL DAB KEY.  
+An elderly darkey, with a very philosophical  
+and retrospective cast of countenance, was  
+squatting upon his bundle on the hurricane  
+1 deck of the steamer, toasting his shins against  
+the chimney, and apparently plunged in a state  
+of profound meditation. His uress and appear­  
+ance indicated familiarity with camp life, and it  
+being soon after the siege and capture of Fort  
+Donelson, I was inclined to disturb his reveries,  
+and on interrogation found that ha had been  
+with the Union forces at that place, when I  
+questioned him further. His philosophy was so  
+much in the Falstaffian vein that I will give his  
+views in his own words as near as my memory  
+will serve ma :  
+“Were you in the fight ?”  
+“I had a little taste of it, sa.”  
+** Rtqod your ground, did you ?”  
+“No, sa ; I runs,”  
+“ Run at the first fire, did you ?”  
+“Yes, sa, an’ would hah run soona had I  
+know’d it was cornin’.”  
+“Why, that wasn’t very creditable to your  
+courage.” .  
+“Dat isn’t my line, sa—cookin’s my profes­  
+sion.”  
+“Well, but have you no regard for your rep­  
+utation ?”  
+“Reputation nuffin to me by de side ob life.”  
+“Do you consider your life worth more taan  
+other people’s?”  
+“ It’s worth more to me, so.”  
+&#x27; “ Then you must value it very highly.”  
+“ Yes, sa, I does; more dan all dis world; more  
+dan a million dollars, sa; for what would dar be  
+t wuth to a man war de bref out ob him ? Self­  
+preserbation is de fust law wid me sa.”  
+“But why should you act upon a different  
+rule from other mon ?”  
+, “ ’Cause, sa, different men sets different value  
+upon derselves; my life is not in de market.”  
+t “ But if you lost it, you would have the sat­  
+isfaction of knowing that you died fox your  
+country.”  
+“What satisfaction would dat be to me when  
+I de power ob feelin’ was gone ?”  
+; “ Then patriotism and honor are nothing to  
+’ you?”  
+&#x27; “ Nuffin whatever, sa—l regard dem as among  
+r de varieties.”  
+“If our soldiers were like you, traitors might  
+1 have broken up the Government without resust­  
+&#x27; ance.”  
+&#x27; “Yes, sa; der would hab been no help for it.  
+&#x27; I wouldn’t put my life in de scales ginst any  
+guberment dat eber existed, for no gubermont  
+i could replace de loss to me. ‘Spect, dough dat  
+do guberment’s safe, if da all like me.”  
+“Do you think any of your company would  
+have missed you if you had been killed?”  
+“May be not, sa. A dead white man ain’t  
+much to dese sogers, let alone a dead nigga; but  
+. I’d a missed myself, and dat was de pint wid  
+me.”  
+It is safe to say that the darkey corpse of that  
+African will never darken the field of carnage
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_eliot_ver01%2Fdata%2Fsn85026214%2Fprint00211110223%2F1875020701%2F0006.jp2/pct:56.929323,59.301490,12.663776,24.728829/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-02-13/ed-1/seq-1)
 
 #### 1875-02-13 &middot; Shepherdstown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7989,9 +8320,10 @@ of that African will never darken th
 
 ---
 
-## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1875-03-27_43_17?page=3)
+## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1875-03-27_43_17?page=3)
 
-#### 1875-03-27 &middot; Augusta
+#### 1875-03-27 &middot; Augusta, Maine
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8051,6 +8383,7 @@ et.”
 ## [From _Huntington advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026801/1875-04-15/ed-1/seq-4)
 
 #### 1875-04-15 &middot; Huntington, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8099,14 +8432,21 @@ world, more dan a million da! las, si:
 tor what would dar be wurth t&gt; a  
 man wid de href out ob him ! Sell  
 fre&#x27;frbii&#x27;bun i&#x27; de first iaw wid me.&quot;  
-“Rut why sh &gt;uM y&gt;&gt;u act pposi a  
-diiferci.t ride fi&lt;m o‘htr .’m n ’  
-’ Cause, ii, ditl’rer.t nun set dif­  
-i’rer.t value upon deraolvi-s ; my lile  
-! n&lt; t in de iu.trk&lt; t.”  
-“Rat i! you !«• t it. you would !.*’  
-■»satisfaction t f knowing that y u  
-• I r vour country. ’  
+“Rut why sh &gt;uM y&gt;&gt;u
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_neely_ver01%2Fdata%2Fsn84026801%2F00340582123%2F1875041501%2F0261.jp2/pct:6.726778,6.104892,11.368732,24.702875/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Huntington advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026801/1875-04-15/ed-1/seq-4)
+
+#### 1875-04-15 &middot; Huntington, W. Va.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ ’  
 Wi»;il satis;- ction wotlld dnt be t •  
 n s when de jMiwi-r ob tcelin was  
 were?*  
@@ -8136,7 +8476,86 @@ It is -ato to say that the corpse of
 that African will never darken the&#x27;  
 held ot carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_neely_ver01%2Fdata%2Fsn84026801%2F00340582123%2F1875041501%2F0261.jp2/pct:6.726778,6.104892,11.497543,42.841349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_neely_ver01%2Fdata%2Fsn84026801%2F00340582123%2F1875041501%2F0261.jp2/pct:6.826964,33.975954,11.397357,14.970287/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1875-05-05/ed-1/seq-1)
+
+#### 1875-05-05 &middot; Lambertville, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The elderly colored man, with a very philo­  
+sophical and retruapeetlve oast of countenance,  
+waa squatterlug upon his bundle on the Uurri-;  
+cane deck of one of the western river steam­  
+ers, toasting hie shins against the chimney,  
+and apparently plunged la a state ot profound  
+meditation. His dress and appearance indi­  
+cated familiarity with camp lift, and it being  
+soon after the siege and captor* of Fort Don­  
+elson, I waa inclined to disturb hit reveries,  
+and on interrogation found that lie had been  
+with the Union forces at. that place, when  
+I questioned farther. His philosophy was so  
+peculiar, that I will gtve his views in his own !  
+words as near as my memory will serve me:  
+•* Were you in the light?”  
+“ I had a little taste of it, sa.”  
+&quot;Stood your ground, did you.”  
+” No, sa, I runs.”  
+&quot; Run at the first Arc, did you ? ”  
+“ Yes, sa, an&#x27; would have run soona, had I  
+knowd it was cornin’.”  
+“ Why, that wasn&#x27;t very creditable to your  
+courage.”  
+&quot; Dat isn’t in my line, sa ; cookin&#x27;, my pro- ;  
+fessliun.”  
+&quot; Well l.but havo you no regard for your  
+reputation?”  
+“ Reputation’s nuffln to me by de side of  
+life.”  
+“ Do you consider your life more than oth­  
+er people’s ? ”  
+“ It’s worth more to me, sa.”  
+“Then you must value it very highly?”  
+“ Yes, sa, I docs ; more dan all dis world,  
+more dan a million dollars, sn ; for what  
+would dat be wnth to a man wid the href out  
+of him ? Self-prescrbashun is the Arst law wid  
+me.”  
+&quot;But why should you act upon a different  
+rule from other men ? ”  
+&quot;Cause, sa, dlff rent men sets dlA&#x27;rent val­  
+ue upon dorselvcs ; my life is not in do mark­  
+et.”  
+&quot; But if you lost it, you would have the  
+satisfaction of knowing that you died for  
+your country.”  
+“ What satisfaction would dat be to me,  
+when der power of foelin’ was gone ? &quot;  
+&quot; Then patriotism ami honor are nothing  
+to you ? ”  
+&quot; Nullin&#x27; whatever, sa.”  
+“If our soldiurs were like you, traitors  
+might have broken up the Government with­  
+out resistance.”  
+&quot; Yes, sa ; dor would have been no help for  
+it. 1 wouldn&#x27;t put my life in de scales &#x27;ginst  
+any guborment dat ever existed, for no gub­  
+erment could replace do loss to me. &#x27;Sped  
+dougli dat de gubernraent safe if da all like  
+mo-” &#x27; [  
+“ Do you think any of your cotepany i  
+would have missed yon, if jfbu had been kill­  
+ed ? ”  
+“ Maybe ilot, sa. X dead
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1875050501%2F0548.jp2/pct:68.823429,14.669393,12.672399,37.072256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8145,6 +8564,7 @@ held ot carnage
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1875-05-20_48_20?page=5)
 
 #### 1875-05-20 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8233,9 +8653,20 @@ will never darken the field of carnage.
 
 ---
 
+## A PHILOSOPHICAL COLORED MAN.
+
+#### From _Advocate of Peace (1847-1906)_
+
+#### 1875-06-01 &middot; Washington
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1875-06-01/ed-1/seq-1)
 
 #### 1875-06-01 &middot; Woodsfield, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8306,25 +8737,20 @@ of carnage.
 
 ---
 
-## A PHILOSOPHICAL COLORED MAN.
-
-#### From _Advocate of Peace (1847-1906)_
-
-#### 1875-06-01 &middot; Washington
-[This text is not available under an open license.]
----
-
 ## A Philosophical Colored Man
 
 #### From _Daily evening bulletin._
 
 #### 1875-06-05 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1875-06-10/ed-1/seq-6)
 
 #### 1875-06-10 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8396,6 +8822,7 @@ of carnage.
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1875-06-11/ed-1/seq-2)
 
 #### 1875-06-11 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 44 Well, but have JTOQ DO r gard l or  
@@ -8456,6 +8883,7 @@ of carnage
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1875-06-19/ed-1/seq-7)
 
 #### 1875-06-19 &middot; Ottawa, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8520,6 +8948,7 @@ a aire
 ## [From _The Morristown gazette._](https://chroniclingamerica.loc.gov/lccn/sn85033681/1875-06-23/ed-1/seq-1)
 
 #### 1875-06-23 &middot; Morristown, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8595,6 +9024,7 @@ field of carnage
 ## [From _Fair play._](https://chroniclingamerica.loc.gov/lccn/sn87052181/1875-06-24/ed-1/seq-6)
 
 #### 1875-06-24 &middot; Ste. Genevieve [Mo.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8678,9 +9108,95 @@ dat was de pint wid me.&quot;
 
 ---
 
+## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1875-06-25/ed-1/seq-4)
+
+#### 1875-06-25 &middot; Rockville, Md.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A Philosophical Negro.  
+An elderly colored man, with a very  
+philosophical and retrospective cast of  
+countenance, was squatting upon his  
+bundle on,the hurricane deck of one of  
+the Western river steamers, toasting his  
+shins against the chimney, and apparent­  
+ly plunged in a state of profound medita­  
+tion. llis dress and appearance indica­  
+ted familiarity with camp life, and being  
+soon after the seige and capture ef Port  
+Donaldson, I inclined to disturb bis  
+reveries, and on interrogation found that  
+lie bad been with the Union forces at  
+that place, when 1 questioned further,  
+llis philosophy was so pccular, that I  
+will give his own words, as near as  
+memory will serve me :  
+&quot;Were you in the fight ?”  
+&quot;1 had a little taste of it,sa.”  
+&quot;Stood your ground, did you ?”  
+&quot;No, sa, T runs.”  
+&quot;Hun at the first, fire, did you?’’  
+&quot;Yes, sa, an’ would have run soona,  
+had I know’d it wife coinin’.”  
+“Why, that wasn’t very creditable to  
+your courage.”  
+&quot;Dat isn’t my line, sa ; cookin’s my  
+professliun.”  
+Well I but have you no regard for  
+\r. •, reputation?”  
+‘ imputation&#x27;s mi flit) to me by do side  
+ol h:  
+&quot;Do you consider your life more than  
+other people s ?”  
+“It’s wortli more to me, sa.”  
+•‘Then you must value it very highly ?”  
+‘‘Yes, sa, I does; more dan all Uis  
+world, more dan a million dollars, sa, for  
+what would that he truth to a man wul de  
+bret out of him? Self-preserbrashun is  
+de first law with me.” &quot;Hut why  
+should you act upon a different rule from  
+other men ?”  
+&quot;’Cause, sa, dilFrent men sets different  
+value upon dersclvcs, my life is not in  
+de market.”  
+“Hut if you lost it you would have  
+the satisfaction of knowing that you died  
+for your country.”  
+“What satisfaction would dat be to me,  
+when do power of foolin’ was gone ?”  
+“Then patriotism and honor arc noth­  
+ing to you ?”  
+&quot;Nuffm’ whatever, sa.”  
+&quot;If our soldiers were like you, trai­  
+tors might have broken up the govern­  
+ment without resistance.”  
+&quot;Yes, sa, dor would have been no  
+help for it. I wouldn’t put my life in  
+lc scales &#x27;gainst no guberment dat ever  
+oxisted, for uo guberment could replace  
+* de loss to me. Sped dough dat de gub­  
+ermeut safe, da all like me.”  
+&quot;Do you think any of your company  
+would have missed you, if you had been  
+killed?”  
+“Maybe not, sa. A dead white man  
+ain’t much wid dose sojers, let alone a  
+dead nigga: but I&#x27;d a missed myself,  
+aud dat was de pint wid me.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1875062501%2F0929.jp2/pct:7.503431,22.690771,12.644579,38.596423/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1875-06-25/ed-1/seq-6)
 
 #### 1875-06-25 &middot; Savannah, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8773,12 +9289,15 @@ an
 #### From _Milwaukee daily sentinel._
 
 #### 1875-07-01 &middot; Milwaukee, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The star of Pascagoula._](https://chroniclingamerica.loc.gov/lccn/sn85034469/1875-07-03/ed-1/seq-1)
 
 #### 1875-07-03 &middot; Pascagoula, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 umd that h  
@@ -8853,6 +9372,7 @@ and dat was da pint wid me.
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1875-07-08/ed-1/seq-1)
 
 #### 1875-07-08 &middot; Manitowoc, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8938,6 +9458,7 @@ and dat was de pint wid me.”
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1875-07-15/ed-1/seq-4)
 
 #### 1875-07-15 &middot; Ravenna, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8969,6 +9490,7 @@ place, when I questioned further. Hi
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1875-07-15/ed-1/seq-4)
 
 #### 1875-07-15 &middot; Ravenna, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9015,12 +9537,15 @@ TBI ICEBKBGS L9f TUE SOUTH
 #### From _Inter ocean._
 
 #### 1875-07-23 &middot; Chicago, Ill.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1875-08-26/ed-1/seq-1)
 
 #### 1875-08-26 &middot; Helena, Mont.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9105,6 +9630,7 @@ the TVbr
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1875-09-03/ed-1/seq-4)
 
 #### 1875-09-03 &middot; Bloomsburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9186,6 +9712,7 @@ wld mo.&quot;
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1876-12-24/ed-1/seq-3)
 
 #### 1876-12-24 &middot; New Orleans [La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9211,13 +9738,20 @@ dil you &quot; &quot;No sa, I runs.&quot; &quot;Yes! at P
 first fire, did yout&quot; &quot;Yea, as, an&#x27; would  
 b have run soons had I know&#x27;dit was corn­  
 in&#x27;.&quot; &quot;Why, that wasn&#x27;t very creditable to Thu  
-1 onr courago.&quot; &quot;&#x27;Dat isn&#x27;t in my line sa; ;I  
-,c okln&#x27;s my perfeslnu.&quot; &#x27;&#x27;Well, but have 8  
-yoiu no i , &#x27;grd for 3&#x27;o&#x27;ur reputatioa,?&quot; &quot;Rdo pi  
-pntatiou&#x27;e nuffin&#x27; to me by deside oh lilfe.&quot; XO  
-&quot;Do Jou consider tour life w,rth morre  
-than othl.er people&#x27;ea&#x27; &quot;It&#x27;e wut more to  
-me, ea.&quot; &quot;Then you must value it very 1ni  
+1 onr coura
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762027%2F1876122401%2F0992.jp2/pct:15.707134,42.380630,18.523154,13.342364/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1876-12-24/ed-1/seq-3)
+
+#### 1876-12-24 &middot; New Orleans [La.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
 highly.&quot; &quot;Yes, sa, I does; more dan all GAr  
 dis world-mote dan a million dllars, an; re  
 for what would that he wuf to a man wid moo  
@@ -9247,7 +9781,7 @@ A dead white man ain&#x27;t much wid dese so­
 jers, let alone a dead nigga, but I&#x27;d a miss­  
 ed myself, and dat was de nint wid me &quot; M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762027%2F1876122401%2F0992.jp2/pct:15.707134,42.380630,18.523154,33.084998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762027%2F1876122401%2F0992.jp2/pct:15.894869,59.261768,18.335419,16.203860/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9258,6 +9792,7 @@ ed myself, and dat was de nint wid me &quot; M
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
 
 #### 1876-12-26 &middot; Portland, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 A1&#x27;PILOSOPIso CAL COLOURED MAN. :&#x27;AV  
@@ -9290,34 +9825,7 @@ cuokiu&#x27;e say protes. shun.&#x27;.&#x27; Well I hut
 have you no regrrd for. your rep.utotlos  
 ?&#x27; tIeputatioun&#x27;s anffin to ms t.y de  
 side of Isle.l&#x27; Do you consider sour  
-life worth n mire than other peoile&#x27;&#x27;a?  
-&#x27; It&#x27;s worth more to tme, a.&#x27; &#x27;&#x27;l&#x27;hen  
-you niust value it very high ?&#x27; Yes, ia,  
-I does; moredan all die world, nmore  
-dIan a mlsliuos dollars, esa fur what  
-would dat bli&#x27;wrtls tu a man wid de brel  
-out of him 1 Self.preserbaohun is the  
-first law wid me 1&#x27; &#x27; But why should you  
-act upon a ,ifflerent rule frolu other  
-men I&#x27; &#x27;Cause. as, sditl&#x27;reut men  
-aoetifl&#x27;rent valte upou deselves ; liy  
-life is not in do maiarket. &#x27; lIjst if  
-you lout it, you would have the  
-atirfaction of knowinsg that you diod  
-for your country.&#x27; &#x27; What sallefaotiou  
-would dat be to Iue whell de pow,.r of  
-feelinsg was gone I&#x27; &#x27;Thoe pettliotim  
-arfl honour are us thlug to youi 2&#x27; &#x27; N  
-utiu&#x27; whatever, as &#x27;*11 our seldiIr~  
-were like you, traitoss nilght have  
-brokens up the Goveruoieit withouo  
-reeietasce.&#x27; &#x27;Yes, sa; der aould have  
-been no help for it. I&#x27; wouldns&#x27;t pat ly  
-life in the scales &#x27;galuat any Ouberwout  
-dslt heer existed, for ?5o Cobluineust  
-could replnace dIe lo, to me. &#x27;bpect,  
-dough, slt do (dubermeunt siae;lf da oil  
-like Ile.&quot; &#x27;ho yuo t
+life worth n mire than oth
 </td></tr></table>
 
 ---
@@ -9327,6 +9835,7 @@ like Ile.&quot; &#x27;ho yuo t
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
 #### 1877-02-17 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 A PHILOSOPHER IN BLACK. AN elderly  
@@ -9399,6 +9908,7 @@ and dat was the pint wid me.&quot;
 #### From _Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954)_
 
 #### 1877-04-03 &middot; Echuca, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 A PHILOSOPHER IX BLACK. \ An elderly  
@@ -9473,6 +9983,7 @@ myself, and dat was de piutwid me.&#x27;
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
 #### 1877-05-05 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9534,11 +10045,7 @@ could replace de loss to me. de :
 guberinent safe if da AtLakej^rv; --&quot;  
 Do,you think any of .your ;(^&gt;mpaay ,  
 would have missed you if . you had been.  
-killed?&quot; :,. ..^v.^:...^-.; ; &quot; Maybe  
-not, sah. Aidead white man ain&#x27;t much  
-wid the Bojfflrs, let alone a dead  
-nigga&gt;; but rd&quot;a miesed my8elJ^ end dat  
-wab de pint wid me.
+killed?&quot; :,. ..^v.^:...^-.; ; &quot; Mayb
 </td></tr></table>
 
 ---
@@ -9546,6 +10053,7 @@ wab de pint wid me.
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1878-06-20/ed-1/seq-1)
 
 #### 1878-06-20 &middot; Newtown, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9591,12 +10099,9 @@ j world, more than a million dollars, sa,
 t for what would that c wuth to a man  
 wid dc brA out of liim.  
 Sclf-preserba-  
-Uon Is tie first law wld me.  
-&quot; But why shouM T u act  
-on a differ-  
-ent rule from&#x27; other1 juon
+Uon Is tie first law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763189%2F1878062001%2F0211.jp2/pct:66.431171,63.661037,12.395633,26.930036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763189%2F1878062001%2F0211.jp2/pct:66.431171,63.661037,12.395633,25.784077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9607,12 +10112,15 @@ ent rule from&#x27; other1 juon
 #### From _Trewman's Exeter Flying Post_
 
 #### 1878-07-24 &middot; Exeter, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1879-02-06_56_6?page=0)
 
 #### 1879-02-06 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9665,6 +10173,7 @@ I regard
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1879-03-26/ed-1/seq-4)
 
 #### 1879-03-26 &middot; Point Pleasant, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9695,52 +10204,21 @@ more than other people&#x27;s?&quot;
 ## [From _The Hickman courier._](https://chroniclingamerica.loc.gov/lccn/sn85052141/1879-07-11/ed-1/seq-1)
 
 #### 1879-07-11 &middot; Hickman, Ky.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
--I had a little taste oi it , a.&quot;  
-&quot;Stool your ground, did yuu?&quot;  
-&quot;No. st, I runs &quot;  
-&#x27;Ruoat tho first fire, did youV&quot;  
-&quot;l&#x27;cs, fa, an&#x27; would have ruri sooua,  
-had I kuow&#x27;d it was cornin&#x27;.&quot;  
-&quot;Why, that wa-u&#x27;t very creditable to  
-your courage.&quot;  
-Pit i-n t in toy  
-oOfcia s  
-regard far  
-! m V prr.fa-hun  
-Well! but l-Hv;  
-you no  
-! rftnr rentitatitkn.&#x27;  
-Ilcputation&#x27;a  
-to mc br dt  
-&quot;ido of Ilii  
-&#x27;D you consider your iifo more  
-than oiher people&#x27;?&quot;  
-&quot;It&#x27;s worth nnr.&quot; rv.e, sh.&quot;  
-TUeu  
-iu-t value it very  
-&quot;Vs, a, I th&#x27;C&#x27;i  
-world, more tlan h  
-; more dan a!!  
-million dollar.  
-i  
-dis;  
-(a  
-for what  
-W&#x27;1&#x27;jLl  
-thst  
-he wurtl: to  
-man  
-Selfi re -  
-crba-hnn i  
-dc first law wid me.&quot;  
-&quot; But why should you set upon a;  
-&#x27; di Jcrcnt rule from other iucij&#x27;.;&quot; &#x27;  
-&quot;Caus-r, fa, diiY&#x27;reut m
+  
+An elderly colored man, with a very  
+philosophical and retrospective fast of  
+countenance, was vjuatting upoti his  
+bmdl on tue hurncme deck of one  
+of the western river steamers, testing  
+i his shins agsinst f bo chimney, a nd  
+j parcntly plunged in a t tate of prufoi  
+meditation. Ilisdrc-ss and appe  
+aoce indicated fmi iaruy with c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_cardinal_ver01%2Fdata%2Fsn85052141%2F00202195052%2F1879071101%2F0084.jp2/pct:38.702371,41.494559,10.724754,13.180102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_cardinal_ver01%2Fdata%2Fsn85052141%2F00202195052%2F1879071101%2F0084.jp2/pct:38.808953,32.089718,10.564881,4.330446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9749,6 +10227,7 @@ dc first law wid me.&quot;
 ## [From _The Hickman courier._](https://chroniclingamerica.loc.gov/lccn/sn85052141/1879-07-11/ed-1/seq-1)
 
 #### 1879-07-11 &middot; Hickman, Ky.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9784,9 +10263,10 @@ and dat was do piut wid roe.&quot; F
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1879-07-18/ed-1/seq-4)
 
 #### 1879-07-18 &middot; Stanford, Ky.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ctroopectl re cast of  
+d rctroopectl re cast of  
 countenance, was fqttttlhf Bfoa &#x27;  
 bumlle on tho hurricane deck of obc  
 of tho Western rlTer atcaraers, toast­  
@@ -9880,19 +10360,10 @@ myself, nnd dat was de pint wid me.
 ## [From _The Hickman courier._](https://chroniclingamerica.loc.gov/lccn/sn85052141/1880-06-04/ed-1/seq-1)
 
 #### 1880-06-04 &middot; Hickman, Ky.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-his bundle toasting himself against the  
-chimney and apparently plunged in a  
-profound state of meditation Findine  
-upon inquiry that he belonged to the  
-Ninth Illinois one of the mot heavy  
-losing regiments at Fort Dooelson and  
-part of which was aboard the corres­  
-pondent interrogated him somewhat oa  
-the subject That the Eihiop philos­  
-ophy was much in thcjFalstaffian vein  
 the following will show Were jou  
 in the fight Had a little taste of  
 it sa Stood your ground did you  
@@ -9919,7 +10390,7 @@ sa I regard dem as mong do vanities
 It is safe to say that the dusky corpse  
 of that African will never darken 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_casablanca_ver01%2Fdata%2Fsn85052141%2F00206533638%2F1880060401%2F0063.jp2/pct:80.116041,32.222729,10.319661,17.112620/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_casablanca_ver01%2Fdata%2Fsn85052141%2F00206533638%2F1880060401%2F0063.jp2/pct:80.116041,37.117754,10.319661,12.217595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9928,6 +10399,7 @@ of that African will never darken
 ## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn84022149/1880-11-14/ed-1/seq-2)
 
 #### 1880-11-14 &middot; Cheyenne, Wyo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9939,16 +10411,7 @@ try.” •• What satis/action would dal be
 tome, ash, wl**n de poWtf Obfeeiln&#x27; It  
 was gon*?’’ Then patriotism and  
 honor are nothing to you, ham.” “Nuf­  
-flu whatever sab.” If our luldieti&#x27;  
-were ail like you, traitors might have  
-brukta up the governmrul wiUiout re­  
-sistance/&#x27; “Yea, sail, dal’s so; dere  
-would have been no lielp for it. I  
-would ’nt put my life into the scales  
-gainst any gubernm**nt dat ever exist  
-ed, for no guberument could replace de  
-loas to me. I ’spect though that de  
-guberument would be safe null if all d
+flu whatever sab.” If our luldieti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wyu_baggs_ver01%2Fdata%2Fsn84022149%2F00393349955%2F1880111401%2F0876.jp2/pct:16.245389,2.504046,22.889998,91.435893/!600,600/0/default.jpg"/>
 </td>
@@ -9961,7 +10424,9 @@ guberument would be safe null if all d
 #### From _Daily evening bulletin._
 
 #### 1880-11-29 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## JOTTINGS.
@@ -9969,12 +10434,15 @@ guberument would be safe null if all d
 #### From _Aberdeen Journal_
 
 #### 1880-12-04 &middot; Aberdeen, Scotland
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1880-12-11/ed-1/seq-3)
 
 #### 1880-12-11 &middot; Wheeling, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10003,6 +10471,7 @@ ment could replace de lo&lt;« to uie. I
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1881-01-07/ed-1/seq-3)
 
 #### 1881-01-07 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10013,18 +10482,9 @@ country&#x27; &quot;What satisfaction would
 dat be to me, sah, when do power of  
 feelin&#x27; it was gone?&quot; &quot;Then patriot­  
 ism and honor aro nothing to vou, Sam.&quot;  
-&quot; Nulliu whatelKT, sah,&quot; if our sol­  
-diers were all like you, traitors might  
-have broken up tho Government without  
-resistance.&quot; &quot;Yes, sah, data so; dexe  
-would hub been no hehp for it, I  
-wouldn&#x27;t put my life into do scales  
-&#x27;gainst any Oubernment dat elcr exist­  
-ed, for no Gnbernmeut could replaoo de  
-loss to mo. I &#x27;s)Oct, though, dat do  
-Gulornniont would bo safo &#x27;null if all d
+&quot; Nulliu whatelKT, sah,&quot; if our sol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023760%2F1881010701%2F0764.jp2/pct:80.241773,74.154883,13.834788,8.774230/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023760%2F1881010701%2F0764.jp2/pct:80.241773,74.154883,13.781061,4.148328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10033,6 +10493,7 @@ Gulornniont would bo safo &#x27;null if all d
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1881-01-14/ed-1/seq-1)
 
 #### 1881-01-14 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10063,6 +10524,7 @@ Gubernment would be safe ’null if ail fi
 ## [From _Daily globe._](https://chroniclingamerica.loc.gov/lccn/sn83025287/1881-01-23/ed-1/seq-5)
 
 #### 1881-01-23 &middot; St. Paul, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10093,6 +10555,7 @@ Gubernment would be safe &#x27;nuff if all d
 ## [From _The Iowa plain dealer._](https://chroniclingamerica.loc.gov/lccn/sn83025167/1881-04-28/ed-1/seq-5)
 
 #### 1881-04-28 &middot; New Oregon, Howard County, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10125,17 +10588,10 @@ and dat was de p&#x27;int wid m
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1881-04-29/ed-1/seq-6)
 
 #### 1881-04-29 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-&quot; If our soldiers wero all liko you  
-traitors might havo broken up tho Gov­  
-ernment without resistance.&quot;  
-&quot; Yes, sa; dar would hab been no help  
-for it. 1 wouldn&#x27;t put my life in do scale  
-gainst any Gobcrnmout dat ever exist­  
-ed, for no Gobernment could mako up  
-do loss.&quot;  
 &quot; Do you think your company would  
 have missed you if jou had bcen killed?&quot;  
 &quot;Maybe not, sa; a dead white man  
@@ -10143,7 +10599,7 @@ ain&#x27;t much to theso sogers, let alono a
 dead uigga; but I&#x27;d ha missed myself,  
 aud dat was do p&#x27;int wid mo I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023760%2F1881042901%2F0895.jp2/pct:65.597196,73.675197,13.885144,7.354200/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023760%2F1881042901%2F0895.jp2/pct:65.597196,77.861288,13.858183,3.168110/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10152,6 +10608,7 @@ aud dat was do p&#x27;int wid mo I
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1881-05-06/ed-1/seq-4)
 
 #### 1881-05-06 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10176,37 +10633,20 @@ and dat was de p’int wid me !
 
 ---
 
-## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1881-06-02/ed-1/seq-4)
+## [THE POINT WITH HIM.](http://trove.nla.gov.au/ndp/del/article/97285429)
 
-#### 1881-06-02 &middot; Troy, Kan.
+#### From _Northern Argus (Clare, SA : 1869 - 1954)_
+
+#### 1881-08-05 &middot; Clare, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-&quot;It nnr soldiers were all like yon, traitors  
-migbt hare broken up tbe government without  
-any resistance.&quot;  
-&quot;Yes, sah; dar would hab liccn no help for it.  
-I wouldn&#x27;t pat my life in de scale gainst any  
-gobernment dat&quot; existed; for no gobernmeut  
-conld make up de loss.&quot;  
-&quot;Do jrou think yourcomiiany would have miss.  
-ed you if you had been killed V  
-&quot;May be not, sah ; a dead white man ain&#x27;t  
-much to these sogers, let alone a dead uigga; but  
-I&#x27;d a missed mrself, an&#x27; dat was de pint wid me.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555675%2F1881060201%2F0273.jp2/pct:3.212924,25.654020,11.036486,4.245994/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+gunboats, an elderly darkey, with a very  
+philosophical and retrospective cast of  
+countenance, squatted upon his bundle
+</td></tr></table>
 
----
-
-## The Negro Philosopher
-
-#### From _The Wisconsin state register._
-
-#### 1881-07-16 &middot; Portage, Columbia County, Wis.
-[This text is not available under an open license.]
 ---
 
 ## [THE POINT WITH HIM.](http://trove.nla.gov.au/ndp/del/article/97285429)
@@ -10214,6 +10654,7 @@ I&#x27;d a missed mrself, an&#x27; dat was de pint wid me.
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
 #### 1881-08-05 &middot; Clare, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10269,6 +10710,7 @@ and dat was de pint wid me.&#x27; _ &#x27;Got an
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1881-08-06/ed-1/seq-1)
 
 #### 1881-08-06 &middot; Clarksville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10302,39 +10744,9 @@ scales &#x27;gainst any government dat
   
 eber existed, for no government  
 could replace de loss to me. I &#x27;sped  
-though, that de government would  
-  
-be safe &#x27;nulf If all de soldiers were
+though, that de government would
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn88061082%2F00296020618%2F1881080601%2F0543.jp2/pct:75.509638,66.236100,9.638053,7.941143/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Louisiana capitolian._](https://chroniclingamerica.loc.gov/lccn/sn88064592/1881-08-25/ed-1/seq-1)
-
-#### 1881-08-25 &middot; Baton Rouge, La.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&quot;If our soldiers were all like you,  
-traitors might have broken up the gov­  
-e ornment without resistance.&quot;  
-S&quot;Yes sabh; dar would hlab been no helpl)  
-n for it. I wouldn&#x27;t put my life ,n de  
-n scale &#x27;gainst any goberment dat eber  
-u &#x27;zisted, for no goberment could make  
-Sup do loss.&quot;  
-&quot;Do you think your company would  
-have missed you if you had been killed?&quot;  
-S&quot;Maybe not, sah; a dead white man  
-ain&#x27;t much to these sogers, let alone a  
-I- nigga, but Id hab missed myse&#x27;f an dat  
-- was de p&#x27;int wid me!&quot;  
-d&#x27;s Gilt Ed Toni res D esia
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gambit_ver01%2Fdata%2Fsn88064592%2F00280761850%2F1881082501%2F0061.jp2/pct:18.831169,86.429608,15.938607,9.917755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn88061082%2F00296020618%2F1881080601%2F0543.jp2/pct:75.509638,66.236100,9.638053,7.581714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10343,6 +10755,7 @@ d&#x27;s Gilt Ed Toni res D esia
 ## [From _The Brookhaven ledger._](https://chroniclingamerica.loc.gov/lccn/sn86053968/1881-09-01/ed-1/seq-4)
 
 #### 1881-09-01 &middot; Brookhaven, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10372,6 +10785,7 @@ A Wager in the Pulpit.
 ## [From _The Morehouse clarion._](https://chroniclingamerica.loc.gov/lccn/sn86053659/1881-09-02/ed-1/seq-1)
 
 #### 1881-09-02 &middot; Bastrop, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10404,6 +10818,7 @@ de pint wid me !&quot;
 ## [From _Sacramento daily record-union._](https://chroniclingamerica.loc.gov/lccn/sn82014381/1882-08-26/ed-1/seq-4)
 
 #### 1882-08-26 &middot; Sacramento [Calif.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  to be injuri­  
@@ -10499,6 +10914,7 @@ carnage.
 ## [From _The Phoenix herald._](https://chroniclingamerica.loc.gov/lccn/sn87062082/1882-09-08/ed-1/seq-4)
 
 #### 1882-09-08 &middot; Phoenix, Maricopa County, A.T. [Ariz.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10622,6 +11038,7 @@ ened the field of carnage.
 ## [From _Arizona silver belt._](https://chroniclingamerica.loc.gov/lccn/sn84021913/1883-06-16/ed-1/seq-1)
 
 #### 1883-06-16 &middot; Globe City, Pinal County, Ariz.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10668,12 +11085,9 @@ world; moie dan a million dollars, sah
 ror-whatVould d.it bo w&#x27;id.&#x27;&#x27;de bief  
 out obhim? Self preservation am do  
 first lawob nature?&quot;  
-&quot;Lift v,hv should yoiuact on a  
-dif-  
-feieut rule fiom other med?&quot;.  
-Caufjc, sail, different men sets 
+&quot;Lift v,hv should yoiuact
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_falcon_ver01%2Fdata%2Fsn84021913%2F00211106293%2F1883061601%2F0148.jp2/pct:29.982500,13.608885,12.424655,29.340644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_falcon_ver01%2Fdata%2Fsn84021913%2F00211106293%2F1883061601%2F0148.jp2/pct:30.021388,13.608885,12.385767,28.033179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10682,17 +11096,10 @@ Caufjc, sail, different men sets
 ## [From _Arizona silver belt._](https://chroniclingamerica.loc.gov/lccn/sn84021913/1883-06-16/ed-1/seq-1)
 
 #### 1883-06-16 &middot; Globe City, Pinal County, Ariz.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-dem ,  
-&quot;If oiirLso&#x27;ldicr5,s-gKtrTdu? J.trai­  
-&#x27;tors might, have brolreti&#x27;upAour Uov-  
-einment withoutx&#x27;ii?cei&#x27;X&#x27;f r  
-&quot;Yes, sah; der woiSHIiab, been no  
-help for it.  
-I wouldrTl.&#x27;iHtt my.itfeT&#x27;Tn  
-n&#x27;l.&#x27;nut my.  
 de scales Vinst any nlbeiment dat  
 eber existed for-no guber;nent could  
 leplace do loss to me. tipecrVdough,,  
@@ -10709,7 +11116,7 @@ It is siifo-to&quot;E.iy thatfthe-dink corpse
 of that&#x27; African never &#x27;darkened Hhe  
 field ot callage.&quot; &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_falcon_ver01%2Fdata%2Fsn84021913%2F00211106293%2F1883061601%2F0148.jp2/pct:29.807505,50.161676,12.580206,13.313651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_falcon_ver01%2Fdata%2Fsn84021913%2F00211106293%2F1883061601%2F0148.jp2/pct:30.021388,53.859131,12.366323,9.616196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10720,6 +11127,7 @@ field ot callage.&quot; &quot;
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
 
 #### 1885-11-21 &middot; Launceston, Tasmania
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10760,9 +11168,7 @@ scales &#x27;gainst any Gobernment dat ever
 existed, for no Gobernment could replace  
 de loss to me.&quot; &quot;Do you think any of  
 your company would have missed you if  
-you had been killed ?&quot; &quot;May be not, sa ;  
-but I&#x27;d a missed myself, and that was  
-the p&#x27;int wid me.&quot; &quot;Then patriotism an
+you had been killed ?&quot; &quot;May be not, sa 
 </td></tr></table>
 
 ---
@@ -10770,6 +11176,7 @@ the p&#x27;int wid me.&quot; &quot;Then patriotism an
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1885-12-19/ed-1/seq-8)
 
 #### 1885-12-19 &middot; Oakland, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10849,6 +11256,7 @@ tiettiug a Wife •‘on Tick.
 ## [From _The Bad Lands cow boy._](https://chroniclingamerica.loc.gov/lccn/sn84024777/1886-10-21/ed-1/seq-3)
 
 #### 1886-10-21 &middot; Little Missouri, Dakota [i.e. N.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10892,9 +11300,18 @@ my profession.&quot;&#x27;&#x27;
 ## [From _The Bad Lands cow boy._](https://chroniclingamerica.loc.gov/lccn/sn84024777/1886-10-21/ed-1/seq-3)
 
 #### 1886-10-21 &middot; Little Missouri, Dakota [i.e. N.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+r...  
+  
+/&#x27;ell, but have you no regard for  
+your reputation?&quot;  
+&quot;Reputation&#x27;s nuffin to me by the  
+side of liie.&quot; i: .­  
+&quot;Do you consider your life worth  
+more than other people&#x27;s?&quot;  
 &quot;It&#x27;s worth more to me, sah.&quot;  
 ,&quot;But why shonldv^ou act upon&#x27;a  
 different rule from^otner men?&quot;  
@@ -10932,7 +11349,7 @@ dead niggah but I&#x27;d a missed myself,
 and dat was de p&#x27;int .wid me.&quot;—l?rom  
 Eli Perkins&#x27; &quot;Wit and Humor of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_jessie_ver01%2Fdata%2Fsn84024777%2F00295863912%2F1886102101%2F0508.jp2/pct:42.328494,24.402695,11.984059,15.540399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_jessie_ver01%2Fdata%2Fsn84024777%2F00295863912%2F1886102101%2F0508.jp2/pct:42.328494,6.343362,13.247936,33.599732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10941,6 +11358,7 @@ Eli Perkins&#x27; &quot;Wit and Humor of the
 ## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1886-10-22/ed-1/seq-7)
 
 #### 1886-10-22 &middot; Little Falls, Morrison County, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11026,6 +11444,7 @@ Eli Perkins&#x27; &quot;Wit and Humor of the
 ## [From _Emmons County record._](https://chroniclingamerica.loc.gov/lccn/sn87096040/1886-10-22/ed-1/seq-3)
 
 #### 1886-10-22 &middot; Williamsport, D.T. [i.e. N.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11107,6 +11526,7 @@ Eli Perkins&#x27; &quot;Wit and Humor of the
 ## [From _The Wahpeton times._](https://chroniclingamerica.loc.gov/lccn/sn84024779/1886-10-28/ed-1/seq-7)
 
 #### 1886-10-28 &middot; Wahpeton, Richland County, Dakota [N.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11192,6 +11612,7 @@ Eli Perkins&#x27; &quot;Wit and Humor of th
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
 #### 1886-10-30 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11242,6 +11663,7 @@ killed? &#x27; &#x27; May be not, sa ; but I&#x27;d
 ## [From _Jamestown weekly alert._](https://chroniclingamerica.loc.gov/lccn/sn85042405/1886-11-04/ed-1/seq-3)
 
 #### 1886-11-04 &middot; Jamestown, Stutsman County, D.T. [N.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11328,6 +11750,7 @@ Eli Perkins&#x27; &quot;Wit and Humor of th
 #### From _Euroa Advertiser (Vic. : 1884 - 1920)_
 
 #### 1886-12-03 &middot; Euroa, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11340,19 +11763,20 @@ was comli.&quot; &quot; Why that was not very
 creditable to your colluraze.&quot; .&#x27; i).t  
 isn&#x27;t imiy line, sa; cookin &#x27; imy  
 perfesluun.&quot; &quot; Well, but have you no  
-regard for your reputation ?&quot; .&quot;  
-Repuutationu&#x27;s noulin to ime by de side  
-of life.&quot; &quot; Do you conisider your life  
-wo:tlh ow:e than other people&#x27;s?&quot; &quot; It&#x27;s  
-wiif ulmore to mle, sa. &quot;Then you iunst  
-value it very highly ?&quot;l &quot;Yes, so I doss  
-: hiore dun all this world, more than a  
-million lollars, so ; for what would dat  
-be wuff to Ia man-wid de bref out of him  
-? Self-lpreerbashnn is de first law wid  
-ute.&quot; &quot;&#x27;But why should you act uponu I  
-dilfferent rule to other men ?&quot; &quot; Cause,  
-sa, difl&#x27;rentimen sets dilre::t value on  
+
+</td></tr></table>
+
+---
+
+## [The Advertiser "Let all the ends thou aim'st at be thy Country's, Thy God's and Truth's" FRIDAY, 3rd DECEMBER, 1886.](http://trove.nla.gov.au/ndp/del/article/65489001)
+
+#### From _Euroa Advertiser (Vic. : 1884 - 1920)_
+
+#### 1886-12-03 &middot; Euroa, Victoria
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ value on  
 deimselves. imy life is not in de  
 market.&quot; &quot; Iut if you lost it you woidd  
 have the satisfaction of kriowing that  
@@ -11380,12 +11804,15 @@ omised you if you had lieen killed?&#x27;
 #### From _Ipswich Journal_
 
 #### 1887-08-12 &middot; Ipswich, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Turner County herald._](https://chroniclingamerica.loc.gov/lccn/sn2001063133/1888-08-09/ed-1/seq-3)
 
 #### 1888-08-09 &middot; Hurley, Dakota [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11488,6 +11915,7 @@ field of&quot; carnage.&quot;—Ohiaago Ledger
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-08-17/ed-1/seq-6)
 
 #### 1888-08-17 &middot; Wessington Springs, Aurora County, Dakota [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11506,6 +11934,7 @@ field of carnage.&quot;—Chicago Ledger
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-08-17/ed-1/seq-6)
 
 #### 1888-08-17 &middot; Wessington Springs, Aurora County, Dakota [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11604,6 +12033,7 @@ and dat was de pint wid me, sah.&quot;
 ## [From _The state republican._](https://chroniclingamerica.loc.gov/lccn/sn90061576/1891-12-31/ed-1/seq-4)
 
 #### 1891-12-31 &middot; Jefferson City, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11620,17 +12050,17 @@ plunged In a state of meditation. Fin
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1892-01-02/ed-1/seq-7)
 
 #### 1892-01-02 &middot; Perrysburg, Wood Co., O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-after tho battle of Shlloh, an elderly  
 darkey, with a philosophical east of  
 countenance. Ho was squatted upon  
 his bundle and toasting his shins  
 against tho chimney, nnd apparently  
 plunged in a state of meditation. Find
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_foxtrot_ver01%2Fdata%2Fsn87076843%2F00237282796%2F1892010201%2F0377.jp2/pct:17.988639,16.426513,13.949085,3.245867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_foxtrot_ver01%2Fdata%2Fsn87076843%2F00237282796%2F1892010201%2F0377.jp2/pct:17.988639,16.972547,13.949085,2.699833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11639,9 +12069,10 @@ plunged in a state of meditation. Find
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1892-01-02/ed-1/seq-7)
 
 #### 1892-01-02 &middot; Perrysburg, Wood Co., O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, sab!&quot;  
+ It, sab!&quot;  
 &quot;Stood your ground, did you?&quot;  
   
 &quot;No, sahl I runs!&quot;  
@@ -11710,6 +12141,7 @@ carnage. American Tribune
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1892-02-10/ed-1/seq-4)
 
 #### 1892-02-10 &middot; Savannah, Ga.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11719,7 +12151,21 @@ was squatting with his bundle upon the hurri
 cane deck of one of the western river steamers,  
 casting his sains against the chimney and  
 apparently plunged In a state of profound medi­  
-tation, says Eli Perkins’ &quot;Wit and Humor of  
+tation, says Eli Perkins’ &quot;Wit and Humor o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_columbo_ver02%2Fdata%2Fsn86063034%2F00414182069%2F1892021001%2F0894.jp2/pct:58.058868,6.370265,12.455044,2.973502/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1892-02-10/ed-1/seq-4)
+
+#### 1892-02-10 &middot; Savannah, Ga.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
 the Age. ’ His dress and appearance indicated  
 familanty with camp life, and. it 1 eing soon  
 after th * selge and capture of Fort Donaldson. I  
@@ -11774,7 +12220,7 @@ But I’d a missed myself, and dat was de D&#x27;int
 wid me.”  
 Hie Curiosity was Satisfied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_columbo_ver02%2Fdata%2Fsn86063034%2F00414182069%2F1892021001%2F0894.jp2/pct:57.902707,6.370265,12.611206,23.507025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_columbo_ver02%2Fdata%2Fsn86063034%2F00414182069%2F1892021001%2F0894.jp2/pct:57.902707,9.276187,12.544956,20.601103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11783,10 +12229,10 @@ Hie Curiosity was Satisfied
 ## [From _Herald and news._](https://chroniclingamerica.loc.gov/lccn/sn86082061/1892-02-18/ed-1/seq-6)
 
 #### 1892-02-18 &middot; West Randolph, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-after the battle of Bhiloh, an elderly  
 darkey, with a philosophical cast of  
 countenance. He was squatted upon  
 his bundle and toasting his shins  
@@ -11853,7 +12299,7 @@ It is safe to say the dusky corpse of
 that African never darkened the field of  
 carnage. American Tribune
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_kohlrabi_ver01%2Fdata%2Fsn86082061%2F00415629266%2F1892021801%2F0493.jp2/pct:19.829827,16.488598,14.819192,38.271408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_kohlrabi_ver01%2Fdata%2Fsn86082061%2F00415629266%2F1892021801%2F0493.jp2/pct:19.829827,17.030777,14.819192,37.729230/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11862,11 +12308,10 @@ carnage. American Tribune
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1892-04-13/ed-1/seq-10)
 
 #### 1892-04-13 &middot; Indianapolis
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-gunboats, an elderly darkey, with a verv  
-philosophical and retrospective cast of  
 countenance, squatted on his bundle toast­  
 ing his shins against the chimney and  
 apparently plunged into a state of pro­  
@@ -11927,7 +12372,7 @@ ain&#x27;t much use, yer know, let alone a dead
 nigga, but I&#x27;d miss myself, and dat was de  
 pint wid me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn87056600%2F00202191551%2F1892041301%2F0191.jp2/pct:42.404976,45.654912,12.494817,29.229639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn87056600%2F00202191551%2F1892041301%2F0191.jp2/pct:42.418798,46.735936,12.480995,28.148615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11936,6 +12381,7 @@ pint wid me
 ## [From _The Ketchum keystone._](https://chroniclingamerica.loc.gov/lccn/sn86091095/1893-07-22/ed-1/seq-4)
 
 #### 1893-07-22 &middot; Ketchum, Idaho
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ry of tho War.  
@@ -12027,12 +12473,15 @@ of carnage.
 #### From _The Atchison daily globe._
 
 #### 1893-09-15 &middot; Atchison, Kan.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Kootenai herald._](https://chroniclingamerica.loc.gov/lccn/sn86091083/1893-10-07/ed-1/seq-6)
 
 #### 1893-10-07 &middot; Kootenai, Idaho
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -12077,9 +12526,9 @@ man ain&#x27;t much &#x27;count, let alone a dead
 niggah, but I&#x27;d miss mysolf awfully, an&#x27;  
 dat was de pint wid ole Pete.&quot;  
 Some Apt Replie*.  
-Tne stories told of the ready wit o
+Tne stories told of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_kellerman_ver01%2Fdata%2Fsn86091083%2F00415669070%2F1893100701%2F0740.jp2/pct:57.436131,26.696429,17.791971,29.211310/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_kellerman_ver01%2Fdata%2Fsn86091083%2F00415669070%2F1893100701%2F0740.jp2/pct:57.436131,26.696429,17.791971,29.077381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12088,6 +12537,7 @@ Tne stories told of the ready wit o
 ## [From _Saturday morning courier._](https://chroniclingamerica.loc.gov/lccn/2010270512/1893-10-07/ed-1/seq-4)
 
 #### 1893-10-07 &middot; Lincoln, Nebraska
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -12108,22 +12558,9 @@ wld do power of feulln gouof&quot;
 &quot;Then patriotism nnd honor nro nothing  
 to you?&quot;  
 &quot;Nuflln whatever, sah, Ntiffln whatever.  
-I &#x27;gards &#x27;em as &#x27;inotig da vanities.&quot;  
-&quot;But If our soldiers hnd all been llko  
-you traitors might have broken up the  
-government without resistance.&quot;  
-&quot;Vans, salt, dnr wud been no help fur  
-It.&quot;  
-&quot;Do you think any of your company  
-would havo missed you If you hnd been  
-kltledf&quot;  
-&quot;Mebbe not, massnh. A dead white man  
-ain&#x27;t much nccoiiut, lot ulotien dead ulggah,  
-but I&#x27;d miss myself awfully, and dat wns  
-do pint wld olu Pete.&quot; Philadelphia Times.  
-A felt Hut.
+I &#x27;gards &#x27;em as &#x27;inotig da vani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_bryan_ver01%2Fdata%2F2010270512%2F00237280465%2F1893100701%2F1132.jp2/pct:63.658438,23.759828,14.265480,15.611151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_bryan_ver01%2Fdata%2F2010270512%2F00237280465%2F1893100701%2F1132.jp2/pct:63.658438,23.759828,14.144071,8.577555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12132,6 +12569,7 @@ A felt Hut.
 ## [From _The Hawaiian star._](https://chroniclingamerica.loc.gov/lccn/sn82015415/1893-10-18/ed-1/seq-6)
 
 #### 1893-10-18 &middot; Honolulu [Oahu]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ad you no regard for your  
@@ -12183,20 +12621,10 @@ Truth
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1893-10-20/ed-1/seq-4)
 
 #### 1893-10-20 &middot; Pascagoula, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-&quot;Stood yitii&#x27;.&#x27;gr(inJ. did you?&quot;  
-&quot;No, sah ; nniiietf.&#x27;&#x27;  
-&quot;Han at the first lire, did you?&quot;  
-&quot;Vans, sail ; would li;ib run soonali  
-if I&#x27;d knoweci It was comin&#x27;.&quot;  
-&quot;Why, that was not very creditable  
-to your courage,&quot;  
-&quot;Massah, with wasn&#x27;t In my line  
-c.ookiii&#x27; were my perfeshin.&quot;  
-&quot;Well, but had you no regard fr  
-your reputation ?&quot;&#x27;  
 &quot;Yes, sab; but reputal ion&#x27;s nufliii&#x27;  
 whatever to me by de side of life.&quot;  
 &quot;1&#x27;oyou consider your life worth  
@@ -12234,7 +12662,7 @@ dead nigger; but I&#x27;d miss myself a
 fully, an&#x27;dat was do p&#x27;itu &#x27;i(!o1&quot;  
 Pete.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878836%2F1893102001%2F0384.jp2/pct:86.876972,52.812109,11.735016,27.398972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878836%2F1893102001%2F0384.jp2/pct:86.876972,59.186224,11.735016,21.024858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12243,22 +12671,10 @@ Pete.
 ## [From _Capital journal._](https://chroniclingamerica.loc.gov/lccn/sn99063954/1893-11-14/ed-1/seq-3)
 
 #### 1893-11-14 &middot; Salem, Or.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-&quot;Yes, sah. I had a Jeetlo taate ob  
-it at Fo&#x27;t Donolson.&quot;  
-&quot;Stood your ground, did you!&quot;  
-&quot;Not sab. Runned.&quot;  
-&quot;Ran at the first fire, did you?&quot;  
-&quot;Yaa8, sah. Would hab runned  
-soonah if I&#x27;d knowed it was comin.&quot;  
-&quot;Why, that was not very credit­  
-ablo to your courage.&quot;  
-&quot;Massah, wah wasn&#x27;t in my line.  
-Cookinwere,niy perfoshin.&quot;  
-&quot;Well, but had you no regard for  
-your reputation?&quot;  
 &#x27;&#x27;Yaas, sah. But reputation&#x27;s nuf­  
 fin whatever to me by do sido pb  
 life.&quot;  
@@ -12288,16 +12704,9 @@ gone?&quot;
 nothing to you 1&quot;  
 &quot;ifuffiu whatever, sah; nuflln  
 whatever. I &#x27;gards &#x27;em as &#x27;mong de  
-vanities.&quot;  
-&quot;Do you think any of your com­  
-pany would havo misbed you if you  
-had been killed r&quot;  
-&quot;Mobbo not, massah. A dpad  
-white man ain&#x27;t much account ,let  
-alonoadead uiggah. But I&#x27;d miss  
-myself awfully, and that was do pin
+vanities.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063954%2F0028076033A%2F1893111401%2F0479.jp2/pct:43.390920,19.352487,12.936922,29.356862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063954%2F0028076033A%2F1893111401%2F0479.jp2/pct:43.390920,26.906811,12.916834,17.587866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12306,15 +12715,10 @@ myself awfully, and that was do pin
 ## [From _Santa Fe daily New Mexican._](https://chroniclingamerica.loc.gov/lccn/sn84020631/1893-11-29/ed-1/seq-3)
 
 #### 1893-11-29 &middot; Santa Fe, N.M.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-&quot;Yes, sir; but reputation&#x27;s nuffln what  
-ever to me by de side of life.&quot;  
-&quot;Do you consider your life worth more  
-than other people&#x27;s?&quot;  
-&quot;Wuth more to me, sah.&quot;  
-&quot;Then you must value it very hlirblv.&quot;  
 &quot;I does, sah, more dan all dis world.  
 mo&#x27;ah dan 11,000,000, for what am dat to a  
 man wid de bref out&#x27;n himself? Preserva  
@@ -12347,7 +12751,7 @@ de pint wid ole Pete.&quot; Philadelphia Times.
 A Felt Hat.  
 Truth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F00415628948%2F1893112901%2F1148.jp2/pct:54.810789,20.000000,12.258454,31.397695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F00415628948%2F1893112901%2F1148.jp2/pct:54.810789,22.780980,12.258454,28.616715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12356,6 +12760,7 @@ Truth
 ## [From _The old Abe eagle._](https://chroniclingamerica.loc.gov/lccn/sn93061407/1893-12-14/ed-1/seq-2)
 
 #### 1893-12-14 &middot; White Oaks, Lincoln County, N.M.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -12409,33 +12814,10 @@ but I&#x27;d miss myself awfully, and dut wa
 ## [From _The Mt. Sterling advocate._](https://chroniclingamerica.loc.gov/lccn/sn86069675/1894-01-30/ed-1/seq-6)
 
 #### 1894-01-30 &middot; Mt. Sterling, Ky.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tho war  
-for you look liko a soldier  
-Yes sah I had a leetlo tasto ob  
-it at Fot Donelsonv  
-Stood your ground did you  
-No bah Runned  
-Ran ab therst fire did you  
-Yaas sah Would hab runned  
-soonah if Id knowod it was comin  
-Why that was not very credit­  
-able to your courage  
-Mossali wah wasnt in my lino  
-Cookin wero my porfeshin  
-Well but had you no regard for  
-your reputation  
-Yaas sah But reputations nuf  
-fin whatever to mo py do side bb  
-life  
-JDo you consider your life worth  
-more than other pboplos  
-WvtU moah to mo sah  
-Theu you must valuo it very  
-highly  
-I does salvinoah dan all dis  
-world moah dan 1000000 for  
+  
 what am dat to a man wid do href  
 outn himself Preservation am do  
 fust law sah  
@@ -12479,7 +12861,7 @@ alono a dead nlggah But Id miss
 myself awfully and that was do pint  
 wid old Pete Philadelphia Time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_casablanca_ver01%2Fdata%2Fsn86069675%2F00206534187%2F1894013001%2F0047.jp2/pct:64.946798,13.684635,29.612528,31.439038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_casablanca_ver01%2Fdata%2Fsn86069675%2F00206534187%2F1894013001%2F0047.jp2/pct:64.946798,28.525339,29.572375,16.598333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12488,6 +12870,7 @@ wid old Pete Philadelphia Time
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1894-02-28/ed-1/seq-6)
 
 #### 1894-02-28 &middot; Wheeling, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 t oh him? ?elt,  
@@ -12509,21 +12892,45 @@ doin as among do vanities.&quot;
 &quot;If our soldiers wero all liko y?u.  
 traitors might have broken up tbe gov­  
 ernment without resistance.&#x27;  
-&quot;Yo!?, sah, dar wonld^iuvo boon no  
-help for it. I wouldn&#x27;t put my bead hi  
-do acolo against nogoburninontdat eber  
-oxiated, for no gobornniont could ro­  
-plnco do loss to me.&quot;  
-&quot;Do you ti,ink any of your company  
-would havo missed vou if y?n had boon  
-killed?&quot;  
-&quot;Maybo not, aah. A doad white man  
-ain&#x27;t much to dose aojorfl, lot nlono a  
-doad niggah, but I&#x27;d a iniaa Uiysol*? and  
-dat was do pint wid mo.&quot;  
-?Ton T* M3T()S?
+&quot;Yo!?, s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_eritrea_ver01%2Fdata%2Fsn84026844%2F00202193614%2F1894022801%2F0406.jp2/pct:18.255889,19.438346,16.069700,15.605562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_eritrea_ver01%2Fdata%2Fsn84026844%2F00202193614%2F1894022801%2F0406.jp2/pct:18.272023,19.438346,16.053566,9.851811/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Life (1883-1936)_](https://iiif.archivelab.org/iiif/sim_life_1894-10-25_24_617?page=13)
+
+#### 1894-10-25 &middot; New York
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+‘* Had a little taste of it, sah.”  
+  
+‘* Stood your ground, did you ?”  
+  
+‘* No, sah, I runs.”  
+  
+‘* Run at the first fire, did you ?”  
+  
+‘* Yes, sah ; would have run sooner if I had known it was comin’.”  
+  
+‘* Why, that is not very creditable to your courage.”  
+  
+‘* Dat isn’t my line, sah—cookin’ my perfeshun.”  
+  
+‘* Well, but have you no regard for your reputation ?”  
+  
+‘* Reputation’s nothin’ to me by the side of life.”  
+  
+‘* Do you consider your life worth more than other peoples ?”  
+  
+‘It’s worth more to me, sah.”—A xchange. 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_life_1894-10-25_24_617&#0036;13/pct:7.289157,33.733826,33.313253,9.149723/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12532,6 +12939,7 @@ dat was do pint wid mo.&quot;
 ## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1898-10_24_4?page=81)
 
 #### 1898-10-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   

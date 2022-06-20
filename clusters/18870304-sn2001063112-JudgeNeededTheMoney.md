@@ -1,13 +1,14 @@
 
 # The Judge Needed the Money
 
-### 66 reprints from 1887-02-11 to 1897-08-14
+### 60 reprints from 1887-02-11 to 1897-08-14
 
 ## [The Judge Needed the Money](https://chroniclingamerica.loc.gov/lccn/sn2001063112/1887-03-04/ed-1/seq-7/)
 
 #### From _Mitchell Capital_
 
 #### 1887-03-04
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 **The Judge Needed the Money**  
@@ -32,6 +33,7 @@ The boy said, &quot;I don&#x27;t want your money, old fellow; you take it an hav
 ## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1887-02-11/ed-1/seq-4)
 
 #### 1887-02-11 &middot; Savannah
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -71,12 +73,15 @@ ered off. The Judge thought it so good
 #### From _Boston daily advertiser._
 
 #### 1887-02-18 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Springfield daily republic._](https://chroniclingamerica.loc.gov/lccn/sn87076917/1887-02-26/ed-1/seq-3)
 
 #### 1887-02-26 &middot; Springfield, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -118,20 +123,17 @@ Saying which he scampered off. Augusta
 #### From _The Atchison daily globe._
 
 #### 1887-02-28 &middot; Atchison, Kan.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Mitchell capital._](https://chroniclingamerica.loc.gov/lccn/sn2001063112/1887-03-04/ed-1/seq-7)
 
 #### 1887-03-04 &middot; Mitchell, Dakota [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-thoir  
-preparation is unprecedented Unless they  
-Know it has merit, und will do precisely what  
-thoy state, thoy would not dare give Buch ad­  
-vica to the public.  
-tiuch confidence ought to be infectious.  
   
 The Judge Needed the Money.  
 I hnve just heard tho following good  
@@ -163,43 +165,7 @@ old fellow you take it and have your hair
 cut.&quot; Saying which ho scampered off.—  
 Auf/vsta [Ga.) Chronicle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_goshawk_ver03%2Fdata%2Fsn2001063112%2F00415623409%2F1887030401%2F0572.jp2/pct:28.686445,17.486427,12.137421,13.915142/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Daily times._](https://chroniclingamerica.loc.gov/lccn/sn86071854/1887-03-06/ed-1/seq-1)
-
-#### 1887-03-06 &middot; Richmond, Va.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- Chief Ji iti ?? Dleckley. AU who ano  
-Judge Blsckloy atul recall his long wavii  
-bair und beard will spprsciate tbs stor  
-Judgs i ii kl : was on his nay to the *  
-prime court ons ns ming, whan he was s  
-i by a little street gamin, with un i  
-csedingly dirtj taos, with tbs cuatotna  
-. s-ir;&quot;  
-Bi was quite importunate, and the |ed|  
-I Impressed with the oppressive unti.  
-t Hit- boy&#x27;s face, said: &quot;1 don&#x27;t i ai I  
-shins, but ii you will go wash your face  
-t;ivs you udims.&quot;  
-?&#x27;All right, dr.&#x27;&#x27;  
-&#x27;?\V,il, let me st-e you do it.&quot;  
-Tb* t...y wentoTsr to au artesian bydri  
-and mule hi* ablution. Returning,bsh  
-out bbl band for lbw dims.  
-Th . lid: -&#x27;.Veil, sir. you&#x27;ve euri  
-your m..:as . hero it la.&quot;  
-Tbs boy said: -I don&#x27;t want your mon  
-old fellow; take it sad have jr&lt; ur hair ca  
-_- which he scsunpsred off.?Augv  
-(Qa.) Chronicle
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_pinkfloyd_ver01%2Fdata%2Fsn86071854%2F00175048170%2F1887030601%2F0221.jp2/pct:47.745980,29.515960,14.995912,13.400571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_goshawk_ver03%2Fdata%2Fsn2001063112%2F00415623409%2F1887030401%2F0572.jp2/pct:28.686445,20.100543,12.137421,11.301026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,6 +174,7 @@ _- which he scsunpsred off.?Augv
 ## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1887-03-07/ed-1/seq-4)
 
 #### 1887-03-07 &middot; Saint Paul, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -245,6 +212,7 @@ off. The judge thought it so good a stor
 ## [From _The Central Law Journal (1874-1927)_](https://iiif.archivelab.org/iiif/sim_central-law-journal_1887-03-11_24?page=23)
 
 #### 1887-03-11 &middot; St. Louis
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 l worthy the attention of  
@@ -298,12 +266,15 @@ scampered off.—Augusta (Ga.) Chronicle.
 #### From _The Weekly Detroit free press._
 
 #### 1887-03-12 &middot; Detroit, Mich.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Fort Worth daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn86064205/1887-03-14/ed-1/seq-4)
 
 #### 1887-03-14 &middot; Fort Worth, Tex.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -348,6 +319,7 @@ scampered off The Judge thought ii s
 ## [From _News and citizen._](https://chroniclingamerica.loc.gov/lccn/sn97067613/1887-03-17/ed-1/seq-4)
 
 #### 1887-03-17 &middot; Morrisville, Vt. ;
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -390,6 +362,7 @@ ered off. Augusta (Ja.) Chronic&#x27;.&#x27;:
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1887-03-17/ed-1/seq-4)
 
 #### 1887-03-17 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -407,6 +380,7 @@ story on Chief Justice Bleckley. Nobod
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1887-03-17/ed-1/seq-4)
 
 #### 1887-03-17 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -445,6 +419,7 @@ ing which he scampered off
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1887-03-18/ed-1/seq-2)
 
 #### 1887-03-18 &middot; Romney, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -484,6 +459,7 @@ jx’red otT. —| Augusta (Hi.) Chronicle
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1887-03-19/ed-1/seq-1)
 
 #### 1887-03-19 &middot; Superior, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -525,12 +501,15 @@ scampered off
 #### From _Milwaukee daily journal._
 
 #### 1887-03-22 &middot; Milwaukee, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Alpena weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn85033549/1887-03-23/ed-1/seq-1)
 
 #### 1887-03-23 &middot; Alpena, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ault. If you&#x27;d  
@@ -579,6 +558,7 @@ he scampered off. Augusta Chronicle
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1887-03-24/ed-1/seq-1)
 
 #### 1887-03-24 &middot; Millheim, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ords are strong, and may  
@@ -627,7 +607,9 @@ pered off
 #### From _The Albany Law Journal; A Weekly Record of the Law and the Lawyers (1870-1908)_
 
 #### 1887-03-26 &middot; Albany
+
 [This text is not available under an open license.]
+
 ---
 
 ## Closing Hours
@@ -635,12 +617,15 @@ pered off
 #### From _Rocky Mountain news._
 
 #### 1887-04-05 &middot; Denver, Colo.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1887-04-07/ed-1/seq-7)
 
 #### 1887-04-07 &middot; Ironton, Iron County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -676,6 +661,7 @@ saying which he scampered oft. Th
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1887-04-07/ed-1/seq-1)
 
 #### 1887-04-07 &middot; Ravenna, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -716,6 +702,7 @@ pered off. The Judge thought it s
 ## [From _St. Johnsbury Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023253/1887-04-07/ed-1/seq-2)
 
 #### 1887-04-07 &middot; St. Johnsbury, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -756,6 +743,7 @@ dou&#x27;t want you
 ## [From _Madison times._](https://chroniclingamerica.loc.gov/lccn/sn88064405/1887-04-09/ed-1/seq-1)
 
 #### 1887-04-09 &middot; Tallulah, Madison Parish, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -789,6 +777,7 @@ want your nmey. old fellow; yop take
 ## [From _The Milan exchange._](https://chroniclingamerica.loc.gov/lccn/sn86053488/1887-04-09/ed-1/seq-7)
 
 #### 1887-04-09 &middot; Milan, Gibson County, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -840,6 +829,7 @@ saying which he scampered off. Th
 ## [From _The Dallas daily herald._](https://chroniclingamerica.loc.gov/lccn/sn83025733/1887-04-11/ed-1/seq-3)
 
 #### 1887-04-11 &middot; Dallas, Tex.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -875,6 +865,7 @@ which he scampered oil&#x27;. The jml l
 ## [From _The Warner sun._](https://chroniclingamerica.loc.gov/lccn/sn2001063565/1887-04-15/ed-1/seq-3)
 
 #### 1887-04-15 &middot; Warner, Brown Co., Dakota [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -911,6 +902,7 @@ which he scampered off. The judg
 ## [From _St. Landry democrat._](https://chroniclingamerica.loc.gov/lccn/sn88064537/1887-04-16/ed-1/seq-7)
 
 #### 1887-04-16 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -946,6 +938,7 @@ Baying which he scampered off. Th
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1887-04-16/ed-1/seq-2)
 
 #### 1887-04-16 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 hey  
@@ -991,6 +984,7 @@ pered off.-[Augusta (G:.) Chronicle
 ## [From _The Grenada gazette._](https://chroniclingamerica.loc.gov/lccn/sn88067090/1887-04-16/ed-1/seq-7)
 
 #### 1887-04-16 &middot; Grenada, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1025,6 +1019,7 @@ wving which ho scampered off. Th
 ## [From _The Wahpeton times._](https://chroniclingamerica.loc.gov/lccn/sn84024779/1887-04-21/ed-1/seq-7)
 
 #### 1887-04-21 &middot; Wahpeton, Richland County, Dakota [N.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1061,10 +1056,10 @@ which be scampered off. The judg
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1887-04-26/ed-1/seq-2)
 
 #### 1887-04-26 &middot; Idaho City, Idaho Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Score Oae For The Gamin.  
 All who know Judge Bleckley am  
 recall his long, waving hair and bean  
 will appreciate this story. He was on  
@@ -1088,7 +1083,7 @@ want your money, old fellow; you takt
 it ami have your hair cut.&quot; s ix in;  
 which lie scampered oil&#x27;. The judg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869227%2F1887042601%2F0436.jp2/pct:46.179966,65.674847,12.903226,13.619632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869227%2F1887042601%2F0436.jp2/pct:46.179966,66.303681,12.903226,12.990798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,6 +1092,7 @@ which lie scampered oil&#x27;. The judg
 ## [From _Bridgeton pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87068192/1887-04-28/ed-1/seq-7)
 
 #### 1887-04-28 &middot; Bridgeton, N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1132,6 +1128,7 @@ saving which he scampered off. Th
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1887-05-13/ed-1/seq-4)
 
 #### 1887-05-13 &middot; Ebensburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1159,10 +1156,9 @@ you&#x27;ve earned the money : here it is.&quot;&#x27;
 saia tne noy, you lake it ana Lave  
 . . .  
 i your nair cur &#x27;  
-saying which he scam  
-pered eff, The judge thought it so gjo
+saying 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1887051301%2F0701.jp2/pct:86.894025,57.254161,11.189402,12.985480/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1887051301%2F0701.jp2/pct:86.894025,57.254161,11.189402,12.430646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,6 +1167,7 @@ pered eff, The judge thought it so gjo
 ## [From _Savannah courier._](https://chroniclingamerica.loc.gov/lccn/sn89058248/1887-05-19/ed-1/seq-4)
 
 #### 1887-05-19 &middot; Savannah, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1207,6 +1204,7 @@ laying which he scampered off. Th
 ## [From _The Mitchell capital._](https://chroniclingamerica.loc.gov/lccn/sn2001063112/1887-05-20/ed-1/seq-8)
 
 #### 1887-05-20 &middot; Mitchell, Dakota [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1255,6 +1253,7 @@ cle.
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85047084/1887-05-21/ed-1/seq-1)
 
 #### 1887-05-21 &middot; Honolulu, Hawaiian Islands
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ans Spreckels  
@@ -1309,6 +1308,7 @@ wg which tf &amp;-Aeus
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-05-30_18_22?page=6)
 
 #### 1887-05-30 &middot; Lansing
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1355,6 +1355,7 @@ cut.’’ Saying which he scampered off
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-06-16_35_24?page=30)
 
 #### 1887-06-16 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1402,6 +1403,7 @@ pered off
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
 #### 1887-08-13 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1436,6 +1438,7 @@ which, he scampered off. The picturesqu
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1887-09-12/ed-1/seq-2)
 
 #### 1887-09-12 &middot; [Wilmington, Del.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1478,9 +1481,12 @@ he scampered ofl.
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1887-09-17/ed-1/seq-4)
 
 #### 1887-09-17 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+I have just beard the following good  
+story on Chief Justice Bleckly, says a  
 writer in the Augusta (Ga.) Chronicle:  
 All who know Judge Bleckly and recall  
 his long, waving hair and beard will appre­  
@@ -1505,7 +1511,7 @@ The boy said: I don’t want your
 money, old fellow, you take it and get your  
 hair cut- Saying which he scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623884%2F1887091701%2F0187.jp2/pct:17.618447,84.183042,10.466583,10.737025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623884%2F1887091701%2F0187.jp2/pct:17.618447,83.253172,10.466583,11.666896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,6 +1520,7 @@ hair cut- Saying which he scampered off
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1887-10-26/ed-1/seq-1)
 
 #### 1887-10-26 &middot; Somerset, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1555,6 +1562,7 @@ your hair cut.&quot; Saying which he kuu­
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
 #### 1887-11-15 &middot; Clare, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1590,6 +1598,7 @@ off
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1888-01-06/ed-1/seq-4)
 
 #### 1888-01-06 &middot; Romney, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1635,6 +1644,7 @@ be scampered olT
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1888-02-24/ed-1/seq-4)
 
 #### 1888-02-24 &middot; Shepherdstown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 le. The thrifty Oriental  
@@ -1684,12 +1694,15 @@ scampered off
 #### From _Hampshire/Portsmouth Telegraph_
 
 #### 1893-04-29 &middot; Portsmouth, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Wood River times._](https://chroniclingamerica.loc.gov/lccn/sn86091172/1893-08-04/ed-1/seq-3)
 
 #### 1893-08-04 &middot; Hailey, Idaho
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1726,6 +1739,7 @@ hair cut.&quot; and forthwith scampere
 ## [From _Western Kansas world._](https://chroniclingamerica.loc.gov/lccn/sn82015485/1893-08-05/ed-1/seq-1)
 
 #### 1893-08-05 &middot; WaKeeney, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1765,6 +1779,7 @@ off
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
 #### 1893-10-14 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1796,6 +1811,7 @@ tak&#x27; it an&#x27; get yer hair cooed &#x27; (cut)
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
 #### 1893-10-28 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1825,6 +1841,7 @@ Keep it yersel&#x27; an&#x27; get yer hair out.
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
 #### 1893-12-09 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1850,38 +1867,10 @@ Keep it yersel&#x27; an&#x27; get yer haircut.
 
 ---
 
-## [ONE FOR HIS MOB.](http://trove.nla.gov.au/ndp/del/article/133322127)
-
-#### From _Newcastle Morning Herald and Miners' Advocate (NSW : 1876 - 1954) _
-
-#### 1893-12-16 &middot; Newcastle, New South Wales
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-he was accosted one day by a little  
-street gamin with a very dirty face with  
-&#x27; Shine your boo0ts, sir ?&#x27; The little  
-follow wae voery importunate, and Dr.  
-Jeffrey,. being impressed .with the  
-unwashed.stato of the bdy&#x27;s .face, said,  
-&#x27; I don&#x27;t want a slhine,: ba-ut if you  
-&#x27;go and miash, your faco I&#x27;ll give you a  
-fourpenny-piece&#x27;.&#x27; &#x27;A&#x27; riclht, sir,&#x27; was  
-the boy&#x27;s reply. : &#x27;Will you let me see  
-you do it?&#x27;. . Thi boy jwent to one of  
-,he drinking fountains and made his  
-ablutions. On his ieturn the minister  
-said, .&#x27; Well, sir, you&#x27;ve earned your  
-money; hero it is.&#x27; &#x27;I dinna want your  
-money, old chappio,&#x27; said the boy. &#x27;Keep  
-if yersel&#x27; an&#x27;. get her hair cut.
-</td></tr></table>
-
----
-
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1894-09-12/ed-1/seq-4)
 
 #### 1894-09-12 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1916,15 +1905,10 @@ cut,&quot; and forthwith scampered oil&#x27;
 #### From _Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954)_
 
 #### 1896-03-20 &middot; Echuca, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-streets, he was accosted one day by a  
-very dirty little street gamin with &#x27;  
-Shine your boots, Sir.&#x27; The urchin was  
-veryimportunate, and the Professor,  
-being impressed with the extreme  
-filthineasof the boy&#x27;a faco, remarked —4  
+o, remarked —4  
 I don&#x27;t want a shine, my lad, but if you  
 go and wash your face I&#x27;ll give you a  
 sixpence.* 1 A&#x27; richt, sir,1 was the  
@@ -1943,15 +1927,10 @@ here it is.&#x27; * I dinna want ii, aul
 #### From _Goulburn Evening Penny Post (NSW : 1881 - 1940)_
 
 #### 1896-04-11 &middot; Goulburn, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-streets, he was accosted one day by a  
-very dirty little street gamin with  
-&quot;Shine your boots, sir.&quot; The urchin was  
-very importunate, and the professor,  
-being impressed with the extreme  
-fiitbiness of the boy&#x27;s face, remarked,  
+y&#x27;s face, remarked,  
 &quot; I don&#x27;t want a shine, my lad, but if  
 you go and wash your face I&#x27;ll give you  
 sixpence.&quot; &quot; A richt, sir,&quot; was the  
@@ -1965,143 +1944,13 @@ money; here it is.&quot; &quot; I dinna want it
 
 ---
 
-## [PERSONALITIES](http://trove.nla.gov.au/ndp/del/article/109452855)
-
-#### From _Petersburg Times (SA : 1887 - 1919)_
-
-#### 1896-04-17 &middot; Peterborough, South Australia
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Edinburgh streets, he was accosted one  
-day by a very dirty little street gamin  
-with &#x27;Shine your boots, Sir.&#x27; The urchin  
-was very importunate, and the Professor,  
-boing impressed with the extreme  
-filthinese of th6 boy&#x27;s face, remarked—&#x27;  
-I don&#x27;t want a shine, ruy lad, but if  
-you go and wash your face I&#x27;ll give you  
-a sixpenee.* &#x27; A&#x27; ric!;&gt;t, sir.&#x27; Tras  
-the 3ad&#x27;s reply, and, going ov»&gt;r to an  
-r;c] drinking fountain, he mad!&#x27; Lis  
-ablution. Returning, he held out his  
-hand t&#x27;-.r +he money. &#x27; Well, my lad,&#x27;  
-said the S&#x27;lo&#x27;Vz&#x27;Sj.jr, &#x27; you&#x27;ve earned  
-your money ; hero it is.&#x27; &#x27; I dinua wont  
-it, auld chap,&#x27; returned the with a  
-lordly air. s Yon can keep it aud yet  
-youk knit tut.&#x27; —--v 
-</td></tr></table>
-
----
-
-## [ROUGH ON THE PROFESSOR.](http://trove.nla.gov.au/ndp/del/article/39631582)
-
-#### From _Launceston Examiner (Tas. : 1842 - 1899)_
-
-#### 1896-04-18 &middot; Launceston, Tasmania
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-the principal Edinburgh streets, he was  
-accosted one day by a very dirty little  
-street gamin with : &#x27;Shine your boots,  
-sir ?&#x27; The urchin was very importunate,  
-and the professor, being impressed with  
-the extreme filthiness of the boy&#x27;s  
-face, roenarked : &#x27;I don&#x27;t want a shine,  
-my lad, but if you go and wash your face  
-1&#x27;ll give you a sixpence.&#x27; &#x27;A&#x27; richt,  
-sir,&#x27; was the lad&#x27;d reply ; and going  
-over to an adjacent drinking fountain he  
-made his ablution. Returning, he hold  
-out his hand for the money. &#x27; Well, my  
-lad,&#x27; said the professor, &#x27;you&#x27;ve earned  
-your money ; here it is.&#x27; &#x27; I dinna want  
-it, auld chaps&#x27; returned he gamin with a  
-lordly air; &#x27;ye can keep and git yer air  
-cut-
-</td></tr></table>
-
----
-
-## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1896-09-05/ed-1/seq-16)
-
-#### 1896-09-05 &middot; Savannah, Ga.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-pal Kdlnburgh streets, he was accosted  
-one day by a very dirty little street gamin  
-with: &quot;Shine your boots, sir?”  
-The urchin was very Importunate, and  
-the professor, being impressed with the  
-extreme flllthiness of the boy&#x27;s face, re­  
-marked ;  
-&quot;I don&#x27;t want a slhtne, my lad, but If vou  
-go and wash your face I&#x27;ll give you a Six­  
-pence.”  
-“A’ richt, sir,” was the lad&#x27;s reply, and,  
-going over to an adjacent drinking foun­  
-tain, he made his ablution. Returning,  
-he held out his hand for the money.  
-&quot;Well, my lad,” said the professor,  
-“you&#x27;ve earned your money; h”re it is.”  
-&quot;I dinna want it, auid chap,&quot; returned  
-the gamin, with a lordly air; &quot;ye can keep  
-tt and git yer hair cut.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_endeavour_ver01%2Fdata%2Fsn86063034%2F00414182197%2F1896090501%2F0048.jp2/pct:58.950515,82.916169,12.421123,8.364465/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Roanoke daily times._](https://chroniclingamerica.loc.gov/lccn/sn95079481/1896-09-10/ed-1/seq-3)
-
-#### 1896-09-10 &middot; Roanoke, Va.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-cipal Ediuburg streets, he was accosted  
-one day by a very dirty little street gam?  
-in with: &quot;Shin your boots, sir?&quot;  
-*? The urchin was very importunate and  
-the professor, being impressed, with the  
-extreme filthiness of the boy&#x27;s face, re?  
-marked:  
-&quot;I don&#x27;t want a shiue, my lad, but if  
-you will go and wash your face I&#x27;ll give  
-you a sixpence.&quot;  
-&quot;A&#x27; rieht, sir,&quot; was the lad&#x27;s reply,  
-and, going over to nn adjacent drinking  
-fountain, he marie his ablution. Return?  
-ing, he held out his hand for the money.  
-&quot;Well, my hid,&quot; said the professor,  
-&quot;you&#x27;ve earned your money; bereit is.&quot;  
-&quot;I dinun want It, auld chap,&quot; returned  
-the gamin, with a lordly air; &quot;ye cau keep  
-it and git yer hair cut.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn95079481%2F00175031790%2F1896091001%2F0043.jp2/pct:33.434824,78.531385,16.200444,10.394265/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Instructor 1996-1998_](https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2?page=22)
 
 #### 1896-12-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Edinburgh streets, was accosted one  
-day by a very dirty little street gamin  
-with : ‘Shine your boots, sir?”  
-  
-The urchin was very importune, and |  
-the professor, being impressed with the  
-extreme filthiness of the boy’s face, re-  
+-  
 marked :  
   
 “T don’t want a shine, my lad, but if  
@@ -2116,7 +1965,7 @@ ing, he held out his hand for the money.
 “Well, my lad,” said the professor,  
 ‘vou’ ve earned your money ; here it is.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2&#0036;22/pct:28.144989,13.533058,21.082090,16.590909/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2&#0036;22/pct:28.144989,19.793388,21.002132,10.330579/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2127,15 +1976,10 @@ ing, he held out his hand for the money.
 #### From _Euroa Advertiser (Vic. : 1884 - 1920)_
 
 #### 1896-12-11 &middot; Euroa, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Edinburgh streets, he was accosted one  
-day by a very dirty little street gamin  
-with: &quot; Shino your boots, sir!&quot; The  
-urchin was very importunate, and the  
-professor, being impressed with the  
-extreme filthiness of the boy&#x27;s face  
+face  
 remarked :&quot;I &quot;I don&#x27;t want a shine, my  
 lad, but if you go and wash your face  
 I&#x27;ll give you a sixpence.&quot; &quot; A&#x27; richt,  
@@ -2152,16 +1996,10 @@ earned your money; -here it is.&quot; &quot;
 ## [From _The Congregationalist._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1?page=34)
 
 #### 1897-01-07 &middot; Boston, Mass.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-streets he was accosted one day by a very  
-dirty little street gamin with: ‘‘Shine your  
-boots, sir?”  
-  
-The urchin was importunate, and the pro-  
-fessor, impressed with the extreme filthiness  
-of the boy’s face, remarked: “I don’t want a  
+face, remarked: “I don’t want a  
 shine, my lad, but if you go and wash your  
 face I’ll give you a sixpence.”’  
   
@@ -2173,7 +2011,7 @@ his hand for the money.
 ‘* Well, my lad,” said the professor, ‘* you’ve  
 earned your money; here it is.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1&#0036;34/pct:12.360939,31.556373,24.721879,12.132353/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1&#0036;34/pct:12.360939,35.947712,24.660074,7.741013/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2182,16 +2020,10 @@ earned your money; here it is.”
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1897-02-08/ed-1/seq-2)
 
 #### 1897-02-08 &middot; Barton, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-burgh streets, he was accosted one  
-day by a very dirty little street gam­  
-in with, &quot;Shine your boots, sir?&quot;  
-The urchin was very importunate;  
-and the professor, being impressed  
-with the extreme filthiness of the  
-boy&#x27;s face, remarked,  
+e, remarked,  
 &quot;I don&#x27;t want a shine, my lad; but,  
 if you go and wash your face, I&#x27;ll give )  
 you a sixpence.&quot;  
@@ -2207,7 +2039,7 @@ is.
 turned the gamin, with a lordiy air.  
 &#x27;Ye can keep it and gic yer hair cut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196445%2F1897020801%2F0473.jp2/pct:67.913327,56.931134,14.796676,13.561400/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196445%2F1897020801%2F0473.jp2/pct:67.913327,60.898150,14.796676,9.594384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2218,15 +2050,10 @@ turned the gamin, with a lordiy air.
 #### From _Gympie Times and Mary River Mining Gazette (Qld. : 1868 - 1919)_
 
 #### 1897-08-14 &middot; Gympie, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-was. accosted one day- by a very dirty  
-little street gamin.with &#x27;Shine your  
-boots, sir ?&#x27; : ; : ? -The urchin was .  
-very; importunate, and the professor,  
-:being impressed with-the extreme.  
-filthiness of the- boy&#x27;s face,-  
+,-  
 remarked, &#x27;I don&#x27;t want a shine, my lad  
 ; but if you go and wash&#x27; your facel&#x27;ll  
 give you a sixpence.&#x27; . &#x27; &#x27;A&#x27; richt,  

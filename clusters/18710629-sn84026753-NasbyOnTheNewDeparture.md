@@ -1,7 +1,7 @@
 
 # Nasby on the New Departure
 
-### 27 reprints from 1871-06-06 to 1884-08-02
+### 30 reprints from 1871-06-06 to 1871-08-05
 
 ## [Nasby on the New Departure](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
 
@@ -10,6 +10,7 @@
 #### From _New National Era_
 
 #### 1871-06-29
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Nasby on the New Departure.**  
@@ -74,6 +75,7 @@ Petroleum V. Nasby, (wich wuz Postmaster.)
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-06/ed-1/seq-3)
 
 #### 1871-06-06 &middot; Chicago, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -98,7 +100,7 @@ haypiacfs of kickin that nigger Lan­
 tech cut QT the pr&gt;a’.ofiie at (he  
 Corners, and uv puttixr myeoif hi liis place,  
 and Kernel McPcltct and Elder Teunihaoker  
-who Lev bin lacg
+who Lev bin 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1871060601%2F0003.jp2/pct:22.931908,34.178916,8.975802,7.041252/!600,600/0/default.jpg"/>
 </td>
@@ -109,6 +111,7 @@ who Lev bin lacg
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-06/ed-1/seq-3)
 
 #### 1871-06-06 &middot; Chicago, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -293,8 +296,7 @@ gum’e aaserthan will explode itself withon.
 hurt In anybody. Joe Bigler la tay evil genius.  
 1 ebcl sever be able two run things ez 1 want  
 to to long ei be livee.  
-Prreoi.Em V.Nxssr.  
-(wtcb wax Postmaster*}
+Prreoi.Em V.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1871060601%2F0003.jp2/pct:22.931908,0.782361,38.172951,96.996997/!600,600/0/default.jpg"/>
 </td>
@@ -305,6 +307,7 @@ Prreoi.Em V.Nxssr.
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-06-08/ed-1/seq-4)
 
 #### 1871-06-08 &middot; Tiffin, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -488,19 +491,21 @@ publikin party, and the fact that the
 niggers ain&#x27;t now eot no nertecktpni.  
 its really generous that voo  
 xne Kepulikin party is p-me, in  
-pieces! ner it T&#x27; easDed my twenty.  
-i herit?&quot; ganred mv twenty-  
-iww wuite irienus in lonous.  
-&quot;it nei !&quot; respond id Bigler.  
-&quot;Then,&quot; sed Deekin Pogram. his  
-eyes flaahin with unwontid fir.  
-WHAT WE&#x27;VE DONE AXD lEDDOST  
-cowxt! Take that, too black  
-CC88 1&quot;  
-And with a strength and awivltr?  
-wich I hed n&#x27;t lookt tor In one an ao-ta  
-ins uectin recht the darkey whose  
-nana ne nea bin erasnin. a mr.i  
+pieces! ner it T&#x27; easDed my twenty
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775125%2F1871060801%2F0197.jp2/pct:39.947310,16.816785,9.248475,61.915863/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-06-08/ed-1/seq-4)
+
+#### 1871-06-08 &middot; Tiffin, Ohio
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ bin erasnin. a mr.i  
 powerful blowatweeu the eyes which  
 bisted him elan off the niafforrr.  
 me otners roiiered soot, and in their  
@@ -575,9 +580,19 @@ PETROLEUM V. NASBY,
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-06-11/ed-1/seq-6)
 
 #### 1871-06-11 &middot; New Orleans, La
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ose useful  
   
+HI8BT.  
+Mr. Nasby and tfls Friends Second the  
+Msveaieatsf VaHaadJgham—A Merlin*  
+iu which .Mr. Joseph Bigler Takes a  
+p ar r  
+[From the Toledd 1  
+CovrsnniT X Roads. X  
+(Wicli is in the SUte of %  
 A calm and comprehensive survey nv the  
 politikle field satisfied me, some months ago,  
 that without some shift in the position uv  
@@ -749,7 +764,7 @@ a executm war dances uv the must frantic
 desermshen onto prostrate bodies. It wuz  
 witli difficulty that Pollock and Buffer r 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871061101%2F0287.jp2/pct:71.194904,10.316487,13.584711,71.749264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871061101%2F0287.jp2/pct:66.563361,6.317468,18.216253,90.309127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,6 +773,7 @@ witli difficulty that Pollock and Buffer r
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-06-11/ed-1/seq-6)
 
 #### 1871-06-11 &middot; New Orleans, La
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  passed.  
@@ -806,6 +822,7 @@ PETROLEUM Y. NASBT.
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1871-06-14/ed-1/seq-1)
 
 #### 1871-06-14 &middot; Augusta, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1050,6 +1067,7 @@ Ff.trolefm V. Nasbt,
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1871-06-15/ed-1/seq-1)
 
 #### 1871-06-15 &middot; White Cloud, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1290,6 +1308,7 @@ Petrolic V. Nasbt,
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1871-06-22/ed-1/seq-2)
 
 #### 1871-06-22 &middot; Ottumwa, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1428,6 +1447,7 @@ laff.
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-1)
 
 #### 1871-06-24 &middot; Sunbury, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1496,16 +1516,9 @@ ILr with him ou that questiou, kit him make
 himself kuowu. Nosichwau shood ever  
 til a drop at his tar, never; such a ono  
 wuz uot dcscrviuuv even the coiuiuoues,  
-necessaries uv lit&#x27;&quot;. Several who had riz to  
-their ut to object dropt as UiomjU they  
-bod Uh!U shot, ....  
-It wuz doU&#x27;riuinea to nom a puuuo pieci-  
-iu the next iu t 1,40 l.Uu.rJ;Ul, Jak ,  
-public eudorseuiDut of Vallaudyc.uiu&#x27;a  
-IlliH&#x27;JIe  
-tz the
+necessaries uv lit&#x27;&quot;. Several 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0954.jp2/pct:82.582369,53.085376,12.573464,34.643562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0954.jp2/pct:82.582369,53.085376,12.555654,31.248239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,6 +1527,7 @@ tz the
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-4)
 
 #### 1871-06-24 &middot; Sunbury, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1562,29 +1576,21 @@ by tho hand, and J, was about to wave,
 when Joe. lJigler riz. Ho begged mo to  
 wait a minit tul ho had made his remark.  
 Tho silo beforo him almost moved him to  
-ters. Ef ho hod ever harbored a suspishcu  
-that there wuzn&#x27;t any tiling generous in tho  
-Kentucky breast ho took it all back, l&#x27;ho  
-ncksliun uv to-nite wuz not OBly just tmt  
-it was generous.  
-&quot;licucrous 1&quot; sed I, &quot;why generous ?&quot;  
-&quot;llccoz,&quot; sed ho, &quot;tho niters wood be  
-in a dcvlish bad way ef yw nedn&#x27;t decided  
-on given cm their rites, uv yoor own ak­  
-koru, for there ain&#x27;t no power now tuat kin  
-compel voo&#x27;to do it. I .list cot a northern  
+ters. Ef ho hod ever harbored a suspishcu
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0957.jp2/pct:5.770258,5.694697,12.466607,22.107178/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-4)
+
+#### 1871-06-24 &middot; Sunbury, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
   
-paper alas I tho Ilcpubliklu party is split  
-iuw iiuiueuia ruiutuauuiy buiiui irug-  
-nicnts. Uraut assaulted Sumner In tho  
-Capital last Monday, Logan hes bin stoned  
-by tho Itcpublikins uv l&#x27;hiladelfy on his  
-way home, tho Central Committees uy  
-Ohio, Injeany and lllinoy hev divided, and  
-each frackshen hes called a convensliun,  
-and tho Noo York IViboon throws un the  
-Bpongo andscz that nothin under hcviukiu  
-movent tuc success uv tho Democratic can  
 ilidatc for tho Presidency, no matter who  
 ho may be or wat platiorm ho is put onto.  
 In view of the dissolooshen uv the Kc-  
@@ -1637,22 +1643,9 @@ Kcpublikiu party North wuz ouo uv his in
 ternal lies 1&quot;  
 &quot;Dat&#x27;s about do correct state ob de caso!&quot;  
 replied tho nigger, showiu all his ivories.  
-&quot;Biglcr wanted to see of yoor pentance  
-wuz irenooiue dat&#x27;s about all dali wuz ob  
-it. Ho &#x27;sorest a desire to assertano jist  
-how peccable yood bo to do nigger aud do  
-Northern people down hcah, ef dali wuzn&#x27;t  
-no &#x27;I&#x27;ublikm party up North to hold yoo  
-rial wins all.&quot;  
-Aud tho nigger laded a feendish laff.  
-&quot;Dat wuz all 1&quot; ho repeated.  
-It wuz cnulf. I guess the euss found out  
-an that no wanted to. Uv course this  
-&quot;outrage,&quot; as they will call it, will get into  
-(icJNortncru papers, and uv courso Val­  
-laudyguni&#x27;s
+&quot;Biglcr want
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0957.jp2/pct:5.770258,5.694697,12.520036,63.313278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0957.jp2/pct:5.859305,37.708129,12.430988,25.101441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1663,20 +1656,15 @@ laudyguni&#x27;s
 #### From _Bangor daily Whig & courier._
 
 #### 1871-06-27 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
----
 
-## Hasby "Departs"
-
-#### From _Bangor daily Whig & courier._
-
-#### 1871-06-27 &middot; Bangor, Me.
-[This text is not available under an open license.]
 ---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1871-06-28/ed-1/seq-1)
 
 #### 1871-06-28 &middot; Montpelier, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1706,23 +1694,9 @@ Triboon throws up the sponge and sez that
 nothing under hevin km prevent the Meet s­  
 iiv the Democratic candidate lor the Presi­  
 dency, no matter who lie may be or wat  
-platform he is nut onto. In view of the  
-  
-T  
-  
-arty, and  
-  
-the tact tfiat the niggers am t now got no  
-perteckters, its reallj generous that you -&quot;  
-The Republikin party is on- to ie.-es I  
-he, it ? &quot; ast erf my twi nty-two white friends  
-in koriouit  
-  
-responded Bigler.  
-  
-said Dcekin Pugra
+platform he is nut onto. In view of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1871062801%2F0229.jp2/pct:25.886574,12.056197,11.342625,13.972991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1871062801%2F0229.jp2/pct:25.900373,12.056197,11.328826,10.531475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1731,29 +1705,7 @@ said Dcekin Pugra
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1871-06-28/ed-1/seq-1)
 
 #### 1871-06-28 &middot; Montpelier, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-ln t lookt lor in one so acid, the doekiu  
-t tlic darkey, whose hand he bad bin  
-I in, a most powerful blow atween the  
-rich histed 1 1 1 111 clean ofl&#x27; tho platform  
-others follered soot, and in their aeal  
-n off the platform niter em. ami wuz a  
-utiu war dances 1 the most frantic dc­  
-pshun onto their prostrate bodies, ft  
-with difficulty tfiat Pollock and Bigler  
-rained em 1 1 urn takin DV em out and u
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1871062801%2F0229.jp2/pct:26.797295,27.771727,10.224921,4.073187/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1871-06-28/ed-1/seq-1)
-
-#### 1871-06-28 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1767,7 +1719,7 @@ The re .li :i- introd , t by Vallandjgum
 into the convet ihun u the Dimocrisy uv  
 nr imery county, Ohio, wuz to me a n n  
 lite. Troo, tie -. 1 1 : the dite diaadrantage  
-ut abjoorin evrytbing that is Dimo
+ut a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197590%2F1871062801%2F0229.jp2/pct:13.840210,41.995208,11.328826,4.617730/!600,600/0/default.jpg"/>
 </td>
@@ -1778,22 +1730,10 @@ ut abjoorin evrytbing that is Dimo
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1871-06-28/ed-1/seq-3)
 
 #### 1871-06-28 &middot; Wheeling, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iHy, our hope uv  
-success was exceed inly thin. The resoloosheas  
-interdoost by Vullandyguin into  
-the convenshun of the iliiii(&gt;?&gt;riay uv Mont  
-Honiery county, (&gt;hlo, wuz to me a new  
-life. Troo, they hav the slitedisadvantage  
   
-uv anjoorin&#x27; cvcrylhintf that is diuiocntic,  
-and uv putting the diwocralic parly on  
-purely republican ground, hut wat uv !  
-ili?tv I kin stand t vfii so mu?I.leu it  
-change ez that. Wat I want in the soooiemc  
-happiuesa uv kickin&#x27; that nigger,  
-hubhack, out uv Hip |xwt-iiflls at the Cor- 1  
 utTH, ami uv putting myself iu his place,  
 ami Kernel Alel&#x27;elter ami Elder Peimi- 1  
 hacker, who iiev bin liui^iiiwhin* outride  
@@ -1857,27 +1797,21 @@ South really ncceptld the nituaslicii, and &#x27;
 nii&#x27;iiiil, in dcml earnest, to recognizo the ^  
 meat principle uv equality, I arranged to  
 hev nil the niggers uv the Corners prcs  
-ill, nml saved for them the bent Rents in &#x27;  
-tlti* house. don Higler and Pollock come, I  
-ul cotirso, wlclt I coodeut help*  
-I opened tlic ejterciseH Ity making n &#x27;  
-short speech cz I took the chair. I re- &#x27;  
-joist I hut the time hail llimlly arriv when J  
-llit1 lion and tile iiimh hed layed down to  
-gel her, mid n small eliild wan leadin uv  
-i-fii. I luiowd that our colored Icllow&lt;  
-itizens had been ilispitefully yoosed, mid ,  
-that the reaped; hnd not bin nlluz paid In 1  
-our fellow-flitl/ens uv the North, hut that  
-time hed now passed and 1 hoped forever. I  
-The denioerisy uv the North, through  
-Viillandygum, hod npoke; thry had tie*  
-rented the situation, halleloogy, mid I&#x27;roni i  
-this time heneelorth and forever there wu/, i  
-tithe iiothin&#x27; hut peeee. I then offered  
-the following resolution: 1  
-&quot;Itesohnl,That Alio.duinocrisy of the 1  
-Voonited Htates recogui/.e the legality uv 1  
+ill, nml save
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190868%2F1871062801%2F0610.jp2/pct:1.200582,16.314575,14.928450,29.926327/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1871-06-28/ed-1/seq-3)
+
+#### 1871-06-28 &middot; Wheeling, W. Va.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+oonited Htates recogui/.e the legality uv 1  
 all the ameudmentH made to tUecousti  
 tooshen dottrln and Hiuee the late unpleiiH (  
 unmix, and that they reiognizo ami most ,  
@@ -1929,22 +1863,21 @@ northern paper?alas! thorepublikin par­
 ty is split into fragments?remarkably  
 small fragments. Grant assaulted Hum- ]  
 hit in the capital last Monday, Logan has i  
-bin stoned by the republikiiis ot l&#x27;liila- i  
-l. ir. .... I.U i?nif III.III.&lt; tlinni.nti.il nun.  
-  
-miticeol Ohio, Injeany anil Illinoy have i  
-divided, nnd each frackslien he/, culled ft ?  
-convenshen, nnd the Ncvr York Tril&gt;oon  
-throws up the stwuige, and says tliftt  
-nothiu under limn kin prevent ihe success  
-uv tiio democratic candidate lor tlw  
-presidency, no mutter who lie may he or  
-wat tdatlorm lie is put onto. In view uv  
-the dissolooshen of the republican party,  
-and the tnct that tlie niggers ain&#x27;t now &#x27;  
-gut no peNccklers, its really generous that ,  
-Mill &quot; I  
-&quot;The reptihlikiu party is gone to pieces!  
+bin stoned by the republikiiis ot l&#x27;liila- 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190868%2F1871062801%2F0610.jp2/pct:1.267281,55.063909,12.739510,24.596130/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1871-06-28/ed-1/seq-3)
+
+#### 1871-06-28 &middot; Wheeling, W. Va.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+rty is gone to pieces!  
 In7 it?&quot; gasped my twenty-two white ,  
 rriends in Uoflous.  
 It lie/,&quot; responded Higler.  
@@ -2007,14 +1940,9 @@ And the nigger lalled a fiendish lull&#x27;.
 &quot;Dat wu/. all!&quot; he repeated.  
   
 It wua enulf. I guess the cuss ft mud  
-[&gt;ut all that he wanted to. Uv courat!  
-this &quot;outrage,&quot; e/. they will call it, will gel  
-into the northern imperii, ami uv courat  
-Vallandygum&#x27;s asaershun will cxplodt  
-itself without hnrtiu anybody. Joe Bigler  
-is my evil genius. 1 
+[&gt;ut all that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190868%2F1871062801%2F0610.jp2/pct:1.200582,3.128883,25.145525,95.193503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190868%2F1871062801%2F0610.jp2/pct:1.594713,3.128883,24.751395,95.193503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,6 +1951,7 @@ is my evil genius. 1
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
 #### 1871-06-29 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2256,20 +2185,10 @@ lives. Prtbolkim V. N a?by, ! i
 ## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1871-06-30/ed-1/seq-4)
 
 #### 1871-06-30 &middot; Burlington, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-tbiagthatis Diajocratic, and ut puttin the  
-Duaocmtk prtj on parely Kepnblikia groand,  
-bar wa: ut thtf I kin stand even so tailen a  
-chan-V ei that. W at I want it the eoopretne  
-happtiiws ut ktclin that nigger Lubbock out ut  
-the puitofns at the Corecrf, and ur put tin mj­  
-self in his place, and Kernel Mcl&#x27;eUer and Uder  
-Pennibirker w bo her bin Unguis bin outride the  
-offices ut asswor aad collector are artooated  
-by the !tw high and holy imrra&#x27;He. Ef to do  
-this rt-..uirt the okkepyic ut Republican  
+kkepyic ut Republican  
 CTooode, the war cry ut us three it &quot; okkepy &#x27;  
 Kcntceky is thoor to go lHmocntic anjbow,  
 ani if we kin by to simple m process pam  
@@ -2311,17 +2230,21 @@ It vac determined to hold a public meeting the
 next niie at the church to make a public indorse­  
 ment uv Vallandygam idea  
 Ei the principle object of the meetin wui tn  
-oonTins the Repnblikine ut the doubtful states  
-I hit the Dimoensy ut the South really acceptid  
-the fttuaeben, and meat, in dead earnest, to re­  
-oognipe the great prinsiple ut equality, I ar­  
-ranged to hev al! the niggers ut the Corner!  
-present, and pared for cm the best seats in the  
-bouse Joe Btgler and Pollock come, ut ooorte,  
-wich I coodent help.  
-I opeaed the exercises by making a thort  
-epeech ez I took the chair. 1 rejoipt that the  
-time bed 5 n ally ami when the boo and the  
+oonTins the
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F00280777031%2F1871063001%2F0108.jp2/pct:4.592382,14.884561,9.807761,15.142525/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1871-06-30/ed-1/seq-4)
+
+#### 1871-06-30 &middot; Burlington, Vt.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+he boo and the  
 lamb bed layed down together and a email child  
 wuz a lea in ut em. I knowd that our colored  
 feUow-cit. ece bed bin difpilefally yoosed, and  
@@ -2454,7 +2377,7 @@ two run things ez I want to so long as be lives.
 Peteolecm V. Napbt.  
 (wich was Postmatter 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F00280777031%2F1871063001%2F0108.jp2/pct:4.325383,11.376241,10.323959,67.922095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F00280777031%2F1871063001%2F0108.jp2/pct:4.325383,33.290339,10.323959,46.007997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2463,6 +2386,7 @@ Peteolecm V. Napbt.
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1871-07-01/ed-1/seq-1)
 
 #### 1871-07-01 &middot; Ashtabula, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2492,15 +2416,21 @@ pulses. Ef to do this requires tbe okkypyinjf &#x27;
 uv Republikin pround, the war cry.uv us tbro  
 ii &#x27;okkvpy.&#x27; Kentucky ir. shoor to ge Ditno- &#x27;  
 cratic anyhow, and if we ken by so simple a i  
-process ez passin resoloosbuns unloose enua  
-disatistied Itepublkins in tbe close .Northern  
-Stales to vote with us .to electa Ditnocratio&#x27;  
-President wbo will give us these boons, M  
-tbre are forpasbin tliese rvsolusbuns no niaU .  
-tcr wat tlicy are This be&#x27;m my understanding , .  
-uy Vallandygum&#x27;s movement, I uolid onto it  
-at wpnst. &#x27; , J  
-I got tbe letdin Dlnncracy uv tbe. Corners  
+process ez passin resoloosbuns unl
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775186%2F1871070101%2F0542.jp2/pct:81.911447,62.851033,13.264939,14.012830/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1871-07-01/ed-1/seq-1)
+
+#### 1871-07-01 &middot; Ashtabula, Ohio
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+lnncracy uv tbe. Corners  
 together oue nite at Bascoui&#x27;a. That I mite  
 get em sll at one lime, I waited till tbe reglcr  
 evenin for tbe raid on the niggcra and north-  
@@ -2522,14 +2452,9 @@ in the fullest freedom uv thought and scksken, ,
 snd that every one should expresse ntsselX  
 free and untrsmeled, bin he coodent abide a ?  
 idiot Ef there wuz toy one lo that aasem- ,  
-blsge so stoopid ez to differ witn Ida o this  
-Question, let him, make htaself kLown. ,-$0:Ut  
-ion man should ever git a drop at bis bar, -a  
-aever.tiolkafinematsaoiQeawria ur .ow -j  
-tbeomiDonst eeeeassries at. if- Baversij i .  
-rhv
+blsge so stoopid ez to differ witn Ida o this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775186%2F1871070101%2F0542.jp2/pct:81.875450,62.851033,14.056875,33.114754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775186%2F1871070101%2F0542.jp2/pct:81.875450,80.741269,14.056875,12.900927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2538,6 +2463,7 @@ rhv
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1871-07-01/ed-1/seq-2)
 
 #### 1871-07-01 &middot; Ashtabula, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 uoghen :  
@@ -2634,6 +2560,7 @@ n, auu WUZ a cxccuuil wui uiiueen uv
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1871-07-07/ed-1/seq-1)
 
 #### 1871-07-07 &middot; Bellows Falls, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2695,6 +2622,7 @@ jickshuns on the part uv a few to wa
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1871-07-07/ed-1/seq-1)
 
 #### 1871-07-07 &middot; Bellows Falls, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2878,9 +2806,7 @@ out all he wanted to. Uv course this
 &quot;outrage,&quot; as they will call it, will get  
 into the Northern papers, and course  
 Vallandygum&#x27;s asserchun will explode  
-itself without hurtin anybody. Joe Big.  
-ler is an avil genius. I shel never be  
-able two run
+itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1871070701%2F1191.jp2/pct:67.877368,5.071292,26.127709,90.577686/!600,600/0/default.jpg"/>
 </td>
@@ -2891,6 +2817,7 @@ able two run
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1871-07-19/ed-1/seq-1)
 
 #### 1871-07-19 &middot; Mifflintown, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3121,7 +3048,7 @@ ivories.
 Bigler wanted to see ef yoor fter.fancer  
 wnz genboine dat&#x27;s about all Hah wuz  
 ob it. He &#x27;snrest a desire to ascertain  
-ji&quot;t how preeaWe yood be to 3e higg
+ji&quot;t how preeaWe yood be to 3e h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776348%2F1871071901%2F0117.jp2/pct:67.803721,13.927540,24.443634,81.202415/!600,600/0/default.jpg"/>
 </td>
@@ -3132,6 +3059,7 @@ ji&quot;t how preeaWe yood be to 3e higg
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1871-08-05/ed-1/seq-1)
 
 #### 1871-08-05 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3261,6 +3189,7 @@ twenty-two uv our fellow-citizens of Afri
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1871-08-05/ed-1/seq-1)
 
 #### 1871-08-05 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3374,27 +3303,6 @@ Petroleum V. Nasby,
 (which wuz Postmaster.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624530%2F1871080501%2F0216.jp2/pct:84.128480,11.651838,10.946467,54.269702/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1884-08-02/ed-1/seq-4)
-
-#### 1884-08-02 &middot; Oakland, Md.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-and, uv course, 1 can’t be president!  
-and sekretary uv the same meetin.  
-The follerin resolooshuu wuz to  
-wunst submitted :  
-Resolved, That the Dimocrisy uv  
-Confederit X Roads hev heerd with \
-mingled emoshuns uv pleasure and  
-gratilood uv the nominashen uv tha
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588290%2F1884080201%2F0657.jp2/pct:63.658578,21.968261,13.962607,4.701563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

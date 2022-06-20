@@ -1,7 +1,7 @@
 
 # Printers and Printing
 
-### 157 reprints from 1849-01-01 to 1898-11-26
+### 145 reprints from 1849-01-01 to 1898-11-26
 
 ## [Printers and Printing](https://chroniclingamerica.loc.gov/lccn/sn84026472/1851-01-15/ed-1/seq-2/)
 
@@ -10,6 +10,7 @@
 #### From _Hillsborough Recorder_
 
 #### 1851-01-15
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 **Printers and Printing**.—J. T. Buckingham, in his series of reminiscences, in course of publication in the Boston Courier, speaks of the importance of the printer to authors, as follows:   
@@ -23,6 +24,7 @@
 ## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7?page=303)
 
 #### 1849-01-01 &middot; Bradford
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -80,6 +82,7 @@ be puzzled to read.
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1849-10-31/ed-1/seq-2)
 
 #### 1849-10-31 &middot; Washington [D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -113,6 +116,7 @@ sermons, which, if published with the iinDerfe
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1849-10-31/ed-1/seq-2)
 
 #### 1849-10-31 &middot; Washington [D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -141,12 +145,15 @@ would be puzzled to read.
 #### From _Daily national intelligencer._
 
 #### 1849-11-01 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1849-11-02/ed-1/seq-2)
 
 #### 1849-11-02 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -196,6 +203,7 @@ i writers themselves would be puzzled to read &quot;
 ## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1849-11-03/ed-1/seq-3)
 
 #### 1849-11-03 &middot; Washington [D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -223,11 +231,9 @@ Wloar belter fitted to be a wood sawyer than a printer. Nobody
 would have hollered that such gross end pel [side  
 salts were owing to the ignoraaoe or oareieseneae of the  
 author. And no one bat the practical prioter knows bow  
-many hours a oomnosilor, and alter biin s proof-reader, it  
-compelled so spend In reducing lo e readable condition  
-minusoripta that the writers themselves wou
+many hours a oomnosilor, and alter biin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82003410%2F00415661174%2F1849110301%2F0430.jp2/pct:0.769357,57.834433,16.249250,11.415525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82003410%2F00415661174%2F1849110301%2F0430.jp2/pct:0.769357,57.834433,16.249250,10.603754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,48 +242,49 @@ minusoripta that the writers themselves wou
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1849-11-07/ed-1/seq-2)
 
 #### 1849-11-07 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ns at the Capitol to ad­  
 vocate their claims, fight their battles against its  
 own country, and do whatever fidelity to them and  
 hatred to the American Government may seem to  
-exact.—JYew Y&#x27;ork Courier.  
+exact.—JYew York Courier.  
+  
 Printers and Printing.—J. T. Buckingham,  
-Esq., in his series of reminiscences in course of pub­  
-lication in the Bcslon Courier, speaks of the im­  
+Rs«|.,in his series of reminiscences in course of pub­  
+lication in the Boston Courier, speaks of the im­  
 portance of the printer to the author as follows:  
-“Many who condesceud to illuminate the dark  
+“Many who condescend to illuminate the dark  
 world with the fire of their genius through the col­  
 umns of a newspaper, little think of the lot of the  
 printer, who, almost suffocated by the smoke of a  
 lamp, sits up till midnight to correct his false gram­  
-mar, had authography, and worse punctuation._  
-I Itavo seen the arguments of lawyers, in high re­  
+mar, bad authograpby, and worse punctuation._  
+I liavo seen the arguments of lawyers, in high re­  
 pute as scholars, sent to the printer in their hand­  
 writing—many words, and especially technical and  
-toreigh terms,abbreviated, words misspelled, and  
+•Weigh terms, abbreviated, words misspelled, and  
 few or no points, and those few, if there were any,  
 entirely out of place. I have seen the sermons of  
-  
-eiiuiirm -divines seni to me press without points  
-nr capitals to designate the division of the sentences  
+eminent ‘divines’ sent to the press without points  
+or capitals to designate the division of the sentences  
 —sermons which, if published with the imperfec­  
 tions of the manuscript, would have disgraced the  
-printer’s devil if lie were the author. Suppose they  
+printer’s devil if he were the author. Suppose they  
 had been so printed. The printer would have been  
 treated with scorn and contempt as an illiterate  
-blockhead—as a fellow heller fitted to he a wood­  
+block head—as a fellow heller fitted to he a wood­  
 sawyer than a printer. Nobody would have believ­  
-ed that such gross and palpable faults wern owing  
+ed that such gross and palpable faults were owing  
 to the ignorance or carelessness of the author. And  
-no one but the practical printer knows how many  
-hours a compositor, and after him a proof reader, is  
-•compelled to spend in reducing to a readable condi­  
-tion manuscripts that the writers would bo puzzled  
-to read.
+no one hut the practical printer knows how many  
+i hours a compositor, and after him a proof reader, is  
+|.compelled to spend in reducing to a readable condi­  
+i lion manuscripts that the writers would bo puzzled  
+j to read.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024719%2F00414183724%2F1849110701%2F0378.jp2/pct:20.809503,51.741687,14.728455,18.902209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver02%2Fdata%2Fsn84024719%2F00414183724%2F1849110701%2F0378.jp2/pct:20.633060,51.741687,14.878859,19.218880/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,6 +293,7 @@ to read.
 ## [From _The Charlotte journal._](https://chroniclingamerica.loc.gov/lccn/sn84020716/1849-11-09/ed-1/seq-3)
 
 #### 1849-11-09 &middot; Charlotte, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 iin  
@@ -342,6 +350,7 @@ he puzzled lo read.&quot;
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1849-11-10/ed-1/seq-4)
 
 #### 1849-11-10 &middot; Pickens Court House, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -405,6 +414,7 @@ that th?- w&quot;iters tbfimselve woul
 ## [From _Hillsdale Whig standard._](https://chroniclingamerica.loc.gov/lccn/sn89080032/1849-11-13/ed-1/seq-1)
 
 #### 1849-11-13 &middot; Hillsdale, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -447,7 +457,7 @@ al punter knows how unny hours the com
   
 posttor. and alter hi in s proot re.vjer, is com­  
 pelled to spend io reducing to teadabl  
-condition, manusctipts that the
+condition, manusctipts that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn89080032%2F00415668132%2F1849111301%2F0684.jp2/pct:83.531409,76.237091,12.524487,19.255594/!600,600/0/default.jpg"/>
 </td>
@@ -458,6 +468,7 @@ condition, manusctipts that the
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1849-11-14/ed-1/seq-2)
 
 #### 1849-11-14 &middot; Edgefield, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -512,7 +523,9 @@ would be puzzled to read.&quot;
 #### From _Greenville mountaineer._
 
 #### 1849-11-16 &middot; Greenville, S.C.
+
 [This text is not available under an open license.]
+
 ---
 
 ## Printers and Printing
@@ -520,56 +533,8 @@ would be puzzled to read.&quot;
 #### From _Western commercial._
 
 #### 1849-11-17 &middot; Aurora, Ind.
+
 [This text is not available under an open license.]
----
-
-## [From _The Planters' banner._](https://chroniclingamerica.loc.gov/lccn/sn86053688/1849-11-22/ed-1/seq-4)
-
-#### 1849-11-22 &middot; Franklin, Attakapas Co., Lou.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-. s o e importi s of the pria to the  
-*tthorp, as fol s:  
-any who condspcend to illminate the dark  
-, Id wih the ire of their gpamis. through the  
-eols of a aewIpaper. ltlade think of the lot  
-t Pe r, who, almost suffocated by the smoke  
-rg . sit up till miig t tocorcthis  
-p- . r, had utho play, sd worse  
-p td. I have the argumens of law.  
-purs, in hbiL repte as scholars, sent to the prip.  
-ter is their o de handwriti mrany words­  
-pad especilly technical apd foren terms-ab­  
-wreviated, words misspeed, a ew or no  
-Inrtse, sad thope Lew, il there were any, entire­  
-y ouat oplace. I h
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gonne_ver01%2Fdata%2Fsn86053688%2F00202190194%2F1849112201%2F0195.jp2/pct:8.735679,8.838798,17.532733,9.631148/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Planters' banner._](https://chroniclingamerica.loc.gov/lccn/sn86053688/1849-11-22/ed-1/seq-4)
-
-#### 1849-11-22 &middot; Franklin, Attakapas Co., Lou.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ackhead-a fellow bet­  
-er Mited to be a woo-pawyer than a4printer.  
-Nobod would have beaoevd that auth gross  
-d p le faults were owlgto the ignorence  
-or iirlesseo. the atthor. And no one bt  
-the preotical printer knows how many hocre a  
-comYpositr, and a.fer him a proosreader, is  
-oopeled to sped is redeing to a readable  
-condition mnuscripts that the writers hem­  
-lves wropd be puzzled o read.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gonne_ver01%2Fdata%2Fsn86053688%2F00202190194%2F1849112201%2F0195.jp2/pct:9.124386,22.636612,17.328151,6.516393/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -578,12 +543,15 @@ lves wropd be puzzled o read.
 #### From _Arkansas State Democrat._
 
 #### 1849-11-23 &middot; Little Rock, Ark.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1849-11-28/ed-1/seq-1)
 
 #### 1849-11-28 &middot; Hillsborough, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -618,6 +586,7 @@ few, if there were any, entity our of
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1849-11-29/ed-1/seq-1)
 
 #### 1849-11-29 &middot; Litchfield, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -669,9 +638,20 @@ ter himself would be puzzled to read,”
 
 ---
 
+## Printers and Printing
+
+#### From _Dover gazette & Strafford advertiser._
+
+#### 1849-12-01 &middot; Dover, N.H.
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1849-12-01/ed-1/seq-1)
 
 #### 1849-12-01 &middot; Woodsfield, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -722,17 +702,10 @@ to read.
 
 ---
 
-## Printers and Printing
-
-#### From _Dover gazette & Strafford advertiser._
-
-#### 1849-12-01 &middot; Dover, N.H.
-[This text is not available under an open license.]
----
-
 ## [From _The Minnesota pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83025241/1849-12-05/ed-1/seq-2)
 
 #### 1849-12-05 &middot; St. Paul, Minn. Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 like ignorant uud un­  
@@ -794,12 +767,15 @@ themselves would be puzzled to read
 #### From _Home Journal (1846-1856)_
 
 #### 1849-12-08 &middot; New York
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Democratic banner._](https://chroniclingamerica.loc.gov/lccn/sn89066057/1849-12-31/ed-1/seq-1)
 
 #### 1849-12-31 &middot; Bowling Green, Pike County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -838,7 +814,7 @@ a nrluier. LN&#x27;-ibouv wruhV have-believed
 that sikI. t:r) and paluabia faults -were  
 owini1i.rl-sjiiorilce ? careles of the  
 utlior.&#x27;;Ani &#x27;lit&#x27; one bnt!fh practical p&#x27;rin.&#x27;  
-(er&#x27;TtHowV
+(er&#x27;TtHo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_jerome_ver01%2Fdata%2Fsn89066057%2F00200292121%2F1849123101%2F0709.jp2/pct:40.097367,16.755570,35.118389,79.918419/!600,600/0/default.jpg"/>
 </td>
@@ -849,6 +825,7 @@ utlior.&#x27;;Ani &#x27;lit&#x27; one bnt!fh practical p&#x27;rin.&#x27;
 ## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1850-01-11/ed-1/seq-1)
 
 #### 1850-01-11 &middot; [Ottumwa] Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -903,6 +880,7 @@ himself would be puzzled to read.&quot;
 ## [From _Friends' Weekly Intelligencer (1844-1853)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42?page=5)
 
 #### 1850-01-12 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -927,45 +905,14 @@ ischolars, sent to the printer in their own hand- :
 
 ---
 
-## [From _Friends' Weekly Intelligencer (1844-1853)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42?page=5)
-
-#### 1850-01-12 &middot; Philadelphia
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-stitutes a genus of itself. It is a native of the|20d foreign terms, abbreviated, mispelled, and|  
-which there should be a difference of opinion  
-between them, Ais voice should be the rule.  
-  
-It will the lines of care erase,  
-  
-—— ——  
-  
-  
-  
-Moluccas; and is cultivated, for the sake of atitely out of place. I have seen the sermons
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42&#0036;5/pct:16.967975,36.729323,77.169421,19.718045/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## THIRD EDITION.
 
 #### From _Manchester Times_
 
 #### 1850-02-23 &middot; Manchester, England
+
 [This text is not available under an open license.]
----
 
-## THIRD EDITION.
-
-#### From _Manchester Times_
-
-#### 1850-02-23 &middot; Manchester, England
-[This text is not available under an open license.]
 ---
 
 ## MOST INTERESTING SCENE AT THE SLATE QUARRIES.
@@ -973,7 +920,9 @@ Moluccas; and is cultivated, for the sake of atitely out of place. I have seen t
 #### From _North Wales Chronicle_
 
 #### 1850-04-30 &middot; Bangor, Wales
+
 [This text is not available under an open license.]
+
 ---
 
 ## MISCELLANEOUS.
@@ -981,15 +930,9 @@ Moluccas; and is cultivated, for the sake of atitely out of place. I have seen t
 #### From _North Wales Chronicle_
 
 #### 1850-04-30 &middot; Bangor, Wales
+
 [This text is not available under an open license.]
----
 
-## MISCELLANEOUS.
-
-#### From _North Wales Chronicle_
-
-#### 1850-04-30 &middot; Bangor, Wales
-[This text is not available under an open license.]
 ---
 
 ## TABLE TALK.
@@ -997,12 +940,15 @@ Moluccas; and is cultivated, for the sake of atitely out of place. I have seen t
 #### From _Preston Chronicle_
 
 #### 1850-05-18 &middot; Preston, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1850-10-24/ed-1/seq-1)
 
 #### 1850-10-24 &middot; Litchfield, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ext room to watch him, but during  
@@ -1058,9 +1004,10 @@ be puzzled to read.”
 
 ---
 
-## [From _Spirit of the Times; A Chronicle of the Turf, Agriculture, Field Sports, Literature and the Stage (1835-1861)_](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45?page=0)
+## [From _The spirit of the times._](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45?page=0)
 
-#### 1850-12-28 &middot; New York
+#### 1850-12-28 &middot; New-York [N.Y.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 reasurer, Mr. R. W.  
@@ -1089,20 +1036,7 @@ sent to the printer in their own handwriting, many words—and especial -
 ly technical and foreign terms—abbreviated, words mis-spelled, and a few  
 or no points, and those few, if there are any, entirely out of place. I  
 have seen the sermons of divines sent to the press without points or capi-  
-tals to designate the division of sentences ; sermons which, if publishe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45&#0036;0/pct:62.113575,73.041373,26.864919,12.599032/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Spirit of the Times; A Chronicle of the Turf, Agriculture, Field Sports, Literature and the Stage (1835-1861)_](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45?page=0)
-
-#### 1850-12-28 &middot; New York
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+tals to designate the division of sentences ; sermons which, if published  
 with the imperfections of the manuscript, would disgrace the printer’s  
 Suppose they had been so printed. |  
   
@@ -1114,7 +1048,7 @@ but the practical printer knows how many hours the compositors, and
 after him the proof-reader, is compelled to spend in reducing to a reada-  
 ble condition manuscripts that the writer himself would{be puzzled to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45&#0036;0/pct:62.214382,85.409331,26.881720,4.962588/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45&#0036;0/pct:62.113575,73.041373,26.982527,17.330546/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,6 +1057,7 @@ ble condition manuscripts that the writer himself would{be puzzled to
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1851-01-01/ed-1/seq-4)
 
 #### 1851-01-01 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1157,6 +1092,7 @@ sentences; sermons which, if published wit
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1851-01-01/ed-1/seq-4)
 
 #### 1851-01-01 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1186,7 +1122,9 @@ himself would be puzzled to read.
 #### From _Daily national intelligencer._
 
 #### 1851-01-08 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Printers and Printing
@@ -1194,12 +1132,15 @@ himself would be puzzled to read.
 #### From _Daily national intelligencer._
 
 #### 1851-01-08 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The southern press._](https://chroniclingamerica.loc.gov/lccn/sn82014764/1851-01-11/ed-1/seq-2)
 
 #### 1851-01-11 &middot; Washington [D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1247,14 +1188,10 @@ limself would be puz/.led to read.
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1851-01-15/ed-1/seq-2)
 
 #### 1851-01-15 &middot; Hillsborough, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ceeding from labor, and thus ,  
-to remove from them the temptation to  
-get at the goods of others by violent or  
-fraudulent means, and to keep from  
-f-.eir minds all inducements to hypocri­  
-sy and deceit.  
+  
 Printers and Printing. J. T. Brking-  
 ham, in his series of reminiscences, in  
 course of publication in the Boston Cour­  
@@ -1292,9 +1229,9 @@ practical printer knows how many hours
 the compositors, and aftci him the proof­  
 reader, is compelled lo spend, in redm ii&#x27;2  
 to a readable condition manuscripts that  
-the writer himself
+the writer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156360%2F1851011501%2F0424.jp2/pct:83.202901,65.012216,14.754724,26.989842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156360%2F1851011501%2F0424.jp2/pct:83.202901,69.216922,14.372972,22.772277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,6 +1240,7 @@ the writer himself
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn87070038/1851-01-16/ed-1/seq-2)
 
 #### 1851-01-16 &middot; Lancaster, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1357,6 +1295,7 @@ t-i himself would be puzzled to read.
 ## [From _Lynchburg Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024649/1851-01-16/ed-1/seq-1)
 
 #### 1851-01-16 &middot; Lynchburg [Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1379,6 +1318,7 @@ which, if published with tlm imp-rfectons uf tiiann
 ## [From _Lynchburg Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024649/1851-01-16/ed-1/seq-1)
 
 #### 1851-01-16 &middot; Lynchburg [Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1387,7 +1327,7 @@ author. Suppose they had been so pritt ed Tin- plin­
 er would have been milled well scorn and r ail nip&#x27;,  
 as an illMeiatH hlockheail as a fell ,w aener lilted to be  
 a wo- d sawyer than a punter. Nob,sly would hive be­  
-lt. ved t
+lt. ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn84024649%2F00393347934%2F1851011601%2F0584.jp2/pct:48.164436,89.672771,14.842256,2.930802/!600,600/0/default.jpg"/>
 </td>
@@ -1398,6 +1338,7 @@ lt. ved t
 ## [From _The daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015378/1851-01-17/ed-1/seq-1)
 
 #### 1851-01-17 &middot; [New Orleans, La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 th all the more cheerfulness, as we  
@@ -1442,6 +1383,7 @@ inn script s that the wnter himself would be puzzle
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1851-01-18/ed-1/seq-1)
 
 #### 1851-01-18 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1492,9 +1434,30 @@ be puzzled to read.
 
 ---
 
+## Printers and Printing
+
+#### From _The Daily Scioto gazette._
+
+#### 1851-01-23 &middot; Chillicothe, Ohio
+
+[This text is not available under an open license.]
+
+---
+
+## Printers and Printing
+
+#### From _The Daily Scioto gazette._
+
+#### 1851-01-23 &middot; Chillicothe, Ohio
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021169/1851-01-23/ed-1/seq-2)
 
 #### 1851-01-23 &middot; Newport, R.I.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1546,25 +1509,10 @@ read.”
 
 ---
 
-## Printers and Printing
-
-#### From _The Daily Scioto gazette._
-
-#### 1851-01-23 &middot; Chillicothe, Ohio
-[This text is not available under an open license.]
----
-
-## Printers and Printing
-
-#### From _The Daily Scioto gazette._
-
-#### 1851-01-23 &middot; Chillicothe, Ohio
-[This text is not available under an open license.]
----
-
 ## [From _North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024517/1851-01-25/ed-1/seq-3)
 
 #### 1851-01-25 &middot; Raleigh, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1596,6 +1544,7 @@ division of sentences; sermons which, if publishe
 ## [From _North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024517/1851-01-25/ed-1/seq-3)
 
 #### 1851-01-25 &middot; Raleigh, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1622,6 +1571,7 @@ puzzled to read.
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1851-01-31/ed-1/seq-4)
 
 #### 1851-01-31 &middot; Wilmington, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1666,6 +1616,7 @@ self would be puzzled to read.
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1851-01-31/ed-1/seq-1)
 
 #### 1851-01-31 &middot; Athens, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1725,12 +1676,15 @@ be puzzled to read
 #### From _Trewman's Exeter Flying Post_
 
 #### 1851-02-06 &middot; Exeter, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Iowa capitol reporter._](https://chroniclingamerica.loc.gov/lccn/sn82014116/1851-02-12/ed-1/seq-1)
 
 #### 1851-02-12 &middot; Iowa City, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 dwelt there. But this would not  
@@ -1773,6 +1727,7 @@ tences sermons which, if published wit
 ## [From _Iowa capitol reporter._](https://chroniclingamerica.loc.gov/lccn/sn82014116/1851-02-12/ed-1/seq-1)
 
 #### 1851-02-12 &middot; Iowa City, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1804,12 +1759,15 @@ puzzled to read.&quot;
 #### From _North Wales Chronicle_
 
 #### 1851-02-15 &middot; Bangor, Wales
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1851-02-20/ed-1/seq-1)
 
 #### 1851-02-20 &middot; Litchfield, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 r­  
@@ -1870,7 +1828,9 @@ puszled to read.&quot;
 #### From _Jackson's Oxford Journal_
 
 #### 1851-03-01 &middot; Oxford, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## Local and Provincial News.
@@ -1878,7 +1838,9 @@ puszled to read.&quot;
 #### From _Manchester Times_
 
 #### 1851-03-01 &middot; Manchester, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## NEWS PAPER EDITING IN LONDON.
@@ -1886,15 +1848,9 @@ puszled to read.&quot;
 #### From _New York Observer and Chronicle (1833-1912)_
 
 #### 1851-04-17 &middot; New York
+
 [This text is not available under an open license.]
----
 
-## NEWS PAPER EDITING IN LONDON.
-
-#### From _New York Observer and Chronicle (1833-1912)_
-
-#### 1851-04-17 &middot; New York
-[This text is not available under an open license.]
 ---
 
 ## Printers and Printing
@@ -1902,7 +1858,9 @@ puszled to read.&quot;
 #### From _Pensacola gazette._
 
 #### 1851-06-21 &middot; [Pensacola, Fla.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [Miscellaneous Extracts.](http://trove.nla.gov.au/ndp/del/article/59772712)
@@ -1910,6 +1868,7 @@ puszled to read.&quot;
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
 
 #### 1851-06-21 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1928,22 +1887,7 @@ foreign terms, abbreviated, words
 mi»-speileil, «nd few ur no points, and  
 those few, if tin io «ere any, certainly  
 out of their place. I have sci il the  
-set mons of eminent &quot; divine»&quot; »eiit to  
-the pris» «iihuui | oin k or capital, lo  
-de. sig lille the divi.ions of the  
-sentence ; also Ihe letters uf political  
-ami kcientifio correspondents. Suppose  
-all those had teen so printed, the  
-[irinter would have been treated with  
-scum and contempt. Nobody wuilld have  
-believed that such gr- ss or palpable  
-faults were un ¡og to the ig HOI ance ol  
-caf» Iraníes» of the auihir ; and no one  
-but the practical piilit, r knows ho»  
-rosny bouts a compositor, and after him  
-a proaf-rea b r, is comp, lied io spend  
-in reducing t« readable condition manu-  
-cripi iliat often the writers themselve
+set mons of eminent &quot; divine»&quot; »eiit t
 </td></tr></table>
 
 ---
@@ -1953,6 +1897,7 @@ cripi iliat often the writers themselve
 #### From _Geelong Advertiser (Vic. : 1847 - 1851)_
 
 #### 1851-07-05 &middot; Geelong, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 VARIETIES. PRINTERS AND PRINTINC.-Many  
@@ -1996,6 +1941,7 @@ themselves would be puzzled to read.-A
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
 
 #### 1851-08-07 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2041,6 +1987,7 @@ themaoWes would be puzzled to read.-
 #### From _Bathurst Free Press and Mining Journal (NSW : 1851 - 1904)_
 
 #### 1851-08-13 &middot; Bathurst, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2085,6 +2032,7 @@ themselves would be puzzled to read —
 ## [From _The primitive Republican._](https://chroniclingamerica.loc.gov/lccn/sn87065038/1851-09-04/ed-1/seq-1)
 
 #### 1851-09-04 &middot; Columbus, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2140,6 +2088,7 @@ published with the imperfections, of man
 ## [From _The primitive Republican._](https://chroniclingamerica.loc.gov/lccn/sn87065038/1851-09-04/ed-1/seq-1)
 
 #### 1851-09-04 &middot; Columbus, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2170,6 +2119,7 @@ ter himself would bo puzzied to read.&quot; ;&#x27;-&#x27; v;:
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1851-09-10/ed-1/seq-1)
 
 #### 1851-09-10 &middot; Grand Haven, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ollars in one  
@@ -2221,6 +2171,7 @@ ter himself would be puzzled to read.
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1852-08-25/ed-1/seq-4)
 
 #### 1852-08-25 &middot; Lancaster, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2274,6 +2225,7 @@ author himself would be pouted to read.&#x27;
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1852-09-23/ed-1/seq-2)
 
 #### 1852-09-23 &middot; Washington [D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2310,23 +2262,7 @@ brnie ix f o?sermons which, 11 puunsncu wiin in
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1852-09-23/ed-1/seq-2)
 
 #### 1852-09-23 &middot; Washington [D.C.]
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-they were written?the disgrace would have  
-fallen upon the printer. II&quot;. would have been  
-called an illiterate blockhead, better fitted for a  
-woodsawyer than a printer, and the author woul
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82014434%2F00415661423%2F1852092301%2F0312.jp2/pct:84.919103,73.290365,12.980327,1.809774/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1852-09-23/ed-1/seq-2)
-
-#### 1852-09-23 &middot; Washington [D.C.]
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2345,26 +2281,13 @@ would be puzzled to read with propriety
 
 ---
 
-## [From _New Orleans daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015753/1852-09-29/ed-1/seq-1)
+## VARIETIES.
 
-#### 1852-09-29 &middot; [New Orleans, La.]
-<table style="width: 100%;"><tr><td style="width: 50%">
+#### From _Preston Chronicle_
 
-  
-found a friend iu the outhler of this pleasant book:  
-Many persolnsl who condescend to illumine the dark  
-world with the sparklings of their genius through the  
-columns of a newspaper. lnd others who publish sermons  
-and tracts. religious. moral and political.little think of the  
-lhbor of tile printer. who sits up till midnight. or till day­  
-light. to correct his false grammar. bad orthogrpJhy, and  
-worse punctuation.  
-I otce eaw tih manuscript of a sermon in the haends of  
-a printer, which was entirely without points, and ever
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_pearse_ver01%2Fdata%2Fsn82015753%2F0020219039A%2F1852092901%2F1016.jp2/pct:68.667763,77.388150,12.993421,3.461306/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+#### 1852-10-23 &middot; Preston, England
+
+[This text is not available under an open license.]
 
 ---
 
@@ -2373,20 +2296,15 @@ a printer, which was entirely without points, and ever
 #### From _Preston Chronicle_
 
 #### 1852-10-23 &middot; Preston, England
+
 [This text is not available under an open license.]
----
 
-## VARIETIES.
-
-#### From _Preston Chronicle_
-
-#### 1852-10-23 &middot; Preston, England
-[This text is not available under an open license.]
 ---
 
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1852-11-05/ed-1/seq-1)
 
 #### 1852-11-05 &middot; Wheeling, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2409,20 +2327,7 @@ cal and foreign terras abbreviated, words misspell­
 ed, and few or no points.  
 &#x27;I have seen the sermons of divines sent to the  
 printer without points or capitals to designate the  
-division of sentences?sermons which, if publishe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190522%2F1852110501%2F0258.jp2/pct:84.248642,69.811912,13.850332,8.808777/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1852-11-05/ed-1/seq-1)
-
-#### 1852-11-05 &middot; Wheeling, Va. [W. Va.]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+division of sentences?sermons which, if published  
 with the imperfections of the manuscript, would  
 disgrace the printer&#x27;s devil if he were the author:  
 Suppose they had been printed; the printer would  
@@ -2438,7 +2343,7 @@ compelled to spend in reducing to a readable con­
 dition, manuscripts that the author himself would  
 be puzzled to iead.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190522%2F1852110501%2F0258.jp2/pct:84.268759,78.350313,13.860390,6.594828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190522%2F1852110501%2F0258.jp2/pct:84.248642,69.811912,13.880507,15.133229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2447,23 +2352,16 @@ be puzzled to iead.
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1852-12-04/ed-1/seq-1)
 
 #### 1852-12-04 &middot; Saint Paul, Minn. Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
 the author of this pleasant book :  
 “ Many persons who condescend to illumi­  
 nate the dark world with the sparkling of their  
-genius through the columns of a newspaper,  
-and others who publish sermons and tracts, re­  
-ligions. moral, and political, little think of the  
-labor of the printer, who sits up until mid­  
-night. or till day-light, to correct his false  
-grammar, had orthography, and worse punctu­  
-ation. I once saw the manuscript of a sermon  
-in the hands of a printer, which was entirely  
-without points, and every line liegnn with 
+genius through the columns of a newspaper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1852120401%2F0265.jp2/pct:70.400697,59.838452,12.485482,5.682352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1852120401%2F0265.jp2/pct:70.429733,59.838452,12.427410,1.930121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2472,6 +2370,7 @@ without points, and every line liegnn with
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1852-12-08/ed-1/seq-4)
 
 #### 1852-12-08 &middot; Cadiz, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2500,6 +2399,7 @@ graphy which would defy the sagacity of the
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1852-12-08/ed-1/seq-4)
 
 #### 1852-12-08 &middot; Cadiz, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2521,29 +2421,19 @@ published with the imperfections of the man
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1852-12-08/ed-1/seq-4)
 
 #### 1852-12-08 &middot; Cadiz, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ductions had been printed as they were writ­  
-ten the disgrace would have fallen on the  
-printer. He would have been called an il­  
-literate blockhead, better titled for a wood-  
-sawyer than .i punter, and the authoi would ;  
-still enjoy his reputation as a scholar, nnd  
-receive the simpathy of his readers as a man  
-injured by, the printer s ignorance. Aobotly  
--. , i I,,,  
-w,im ,i in invn uir. Kiien irrr4 uni ii; nn t  
 . , .  
 (aulls were owing to the carelessness ol the  
 au&#x27;hor; and no one but a particulur printer  
 knows how many hours a compositor and  
 after him, proof readr is compelled to  
 spend in reducing, to a readable condition,  
-manuscript, which the wi iters themselves,  
-would be puzzled to read with propriety
+manuscript, which the wi iters themselves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1852120801%2F0468.jp2/pct:55.130529,34.026112,12.781001,8.313349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1852120801%2F0468.jp2/pct:55.239304,38.662403,12.527194,3.157474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2554,12 +2444,25 @@ would be puzzled to read with propriety
 #### From _German reformed messenger._
 
 #### 1853-02-09 &middot; Chambersburg, Pa.
+
 [This text is not available under an open license.]
+
+---
+
+## PRINTERS AND WRITERS.
+
+#### From _Christian Observer (1840-1910)_
+
+#### 1853-02-26 &middot; Louisville
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1853-02-26/ed-1/seq-1)
 
 #### 1853-02-26 &middot; Loudon, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2588,6 +2491,7 @@ printer in their own hand-writing, chiropraph
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1853-02-26/ed-1/seq-1)
 
 #### 1853-02-26 &middot; Loudon, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2608,23 +2512,7 @@ which, if published with the imperfections o
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1853-02-26/ed-1/seq-1)
 
 #### 1853-02-26 &middot; Loudon, Tenn.
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-been printed as they were written, the dis­  
-grace would have fallen on the printer. He  
-would have been cahed an illiterate blockhead,  
-better fitted for a wood-sawyer than a printer
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1853022601%2F0038.jp2/pct:34.294823,54.551303,13.268559,2.251528/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1853-02-26/ed-1/seq-1)
-
-#### 1853-02-26 &middot; Loudon, Tenn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2644,17 +2532,10 @@ puzzled to read with propriet
 
 ---
 
-## PRINTERS AND WRITERS.
-
-#### From _Christian Observer (1840-1910)_
-
-#### 1853-02-26 &middot; Louisville
-[This text is not available under an open license.]
----
-
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1853-04-02/ed-1/seq-1)
 
 #### 1853-04-02 &middot; Plaquemine, Parish of Iberville [La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2704,12 +2585,15 @@ thor himself would be puzzled to read
 #### From _Boston investigator._
 
 #### 1853-04-27 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1853-06-07/ed-1/seq-1)
 
 #### 1853-06-07 &middot; Hillsdale, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2762,12 +2646,15 @@ rad.
 #### From _The Flag of '98._
 
 #### 1853-08-27 &middot; Warrenton, Va.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1853-10-20/ed-1/seq-2)
 
 #### 1853-10-20 &middot; Montpelier, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 on was agreed to, yeas 04i  
@@ -2794,20 +2681,7 @@ jpcllud, and few or no oiiits, and those few, if
 there wero any, entirely out of place. I havo  
 seen tho sermons of divines sent to the press with­  
 out points or capitals to desiguulethe sentences ;  
-sermons which if published with the unperfecno
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1853102001%2F0590.jp2/pct:46.274218,58.639111,12.965723,12.638830/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1853-10-20/ed-1/seq-2)
-
-#### 1853-10-20 &middot; Montpelier, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+sermons which if published with the unperfecnon  
 of manuscript, would disgrace the printer&#x27;s devil  
 if he were the author. Suppose thuy had been so  
 printed. The printer would havo beon treated  
@@ -2822,7 +2696,7 @@ proof reader, is compelled to speuJ in reducing
 to a readable condition minmcripts that tho wri­  
 ter himself would bo puzzlod to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1853102001%2F0590.jp2/pct:46.479136,71.263883,12.704918,5.932799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1853102001%2F0590.jp2/pct:46.274218,58.639111,12.965723,18.557571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2833,6 +2707,7 @@ ter himself would bo puzzlod to read
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
 
 #### 1855-08-25 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2876,9 +2751,14 @@ Unselves would be puzzled to read..—
 #### From _The Goulburn Herald and County of Argyle Advertiser (NSW : 1848 - 1859)_
 
 #### 1855-09-01 &middot; Goulburn, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+rrt~llT:rs AND PrIlNTwO.-Moany who  
+condescend to illunllate the d(lark  
+world with the lire of tlleir genius  
+throogh the columns of a newspaper,  
+little tlhinkl of tile lot of the  
 printer, who sits up till midnight to  
 correct thecir false gramlntr, bad  
 orthlography, and worse punctuStioln. I  
@@ -2906,7 +2786,7 @@ compositor, and after himi a proof-
 renader, is compelled to spend in  
 reducing to readable condition  
 manuscript that ofRl tite writers  
-themseles would be puzzled to read.-
+themseles would be puzzled to read.-A
 </td></tr></table>
 
 ---
@@ -2916,6 +2796,7 @@ themseles would be puzzled to read.-
 #### From _Geelong Advertiser and Intelligencer (Vic. : 1851 - 1856)_
 
 #### 1855-09-10 &middot; Geelong, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2960,12 +2841,15 @@ themselves would be puzzled to read.-
 #### From _German reformed messenger._
 
 #### 1859-08-17 &middot; Chambersburg, Pa.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1859-08-27/ed-1/seq-2)
 
 #### 1859-08-27 &middot; Brattleboro, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2993,11 +2877,10 @@ which the writers themselves would be puzzled t
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1860-03-17/ed-1/seq-4)
 
 #### 1860-03-17 &middot; Pickens Court House, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Plty?$K8 AND, 1&#x27;KINTJNy. .J. T. i)?cHinghani,  
-esq. in his Scries of reiuituseonses in  
-coumo of-pilblieation to the Boston Courier,  
+on Courier,  
 kncaks^f the importanuo of the printer to  
 the twthoi7 as fulloCvs :  
 &quot; Many who condescend to illuuijnate the  
@@ -3035,7 +2918,7 @@ dor, is compelled to spend in reducing to a
 readable condition manuscripts that the wri- 1  
 tors themselves would be puzzled to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1860031701%2F1023.jp2/pct:64.910124,3.251938,19.193937,20.992248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1860031701%2F1023.jp2/pct:64.910124,4.531008,18.133866,19.713178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3046,7 +2929,9 @@ tors themselves would be puzzled to read.&quot;
 #### From _Jackson's Oxford Journal_
 
 #### 1861-11-09 &middot; Oxford, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## LAW COURTS—YESTERDAY.
@@ -3054,7 +2939,51 @@ tors themselves would be puzzled to read.&quot;
 #### From _Freeman's Journal_
 
 #### 1861-11-12 &middot; Dublin, Ireland
+
 [This text is not available under an open license.]
+
+---
+
+## [From _Sunday dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026213/1861-12-01/ed-1/seq-6)
+
+#### 1861-12-01 &middot; New York [N.Y.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ers to make him especially unclean ? Who can  
+answer ?  
+Printers and Printing.—Many who con­  
+descend to illuminate the dark world with the fire  
+of their genius through the columns of a news­  
+paper, little think of the lot of the printer, who  
+sits up till midnight to correct their false gram­  
+mar. bud orthoffranhv. and wnrsA nnn/»tno«Av. t  
+have seen the arguments of lawyers in high re­  
+pute as scholars, sent to the printer in their own  
+handwriting—many words, especially technical  
+and foreign terms, abbreviated, words mis-spell­  
+ed, and few or.no points, and those few, if there  
+were any, certainly out of place. I have seen  
+the sermons of eminent “ divines” sent to the  
+press without points or capitals to designate the  
+division of the sentences; also the letters of the  
+political and scientific correspondents. Suppose  
+all these had been so printed, the printer would  
+have been treated with scorn and contempt. No­  
+body would have believed that such gross and  
+palpable faults were owing to the ignorance or  
+carelessness of the author ; and no one but the  
+practical printer knows how many hours a com­  
+positor, and after him a proof-reader, is compell­  
+ed to spend in reducing to readable condition  
+manuscript that often the writers themselves  
+would be puzzled to read
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_frost_ver02%2Fdata%2Fsn85026213%2Fprint00211110090%2F1861120101%2F0006.jp2/pct:57.134612,47.767521,12.275795,12.518839/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [PRINTERS AND PRINTING.](http://trove.nla.gov.au/ndp/del/article/30632208)
@@ -3062,6 +2991,7 @@ tors themselves would be puzzled to read.&quot;
 #### From _Queanbeyan Age and General Advertiser (NSW : 1860 - 1867)_
 
 #### 1862-02-06 &middot; Queanbeyan, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 PRINTERS AND PRINTING. MANY who  
@@ -3105,6 +3035,7 @@ themselves would be puzzled to readl.--A
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
 
 #### 1862-04-05 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3149,6 +3080,7 @@ manuscript; that often writers
 #### From _The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)_
 
 #### 1862-04-17 &middot; Toowoomba, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3193,57 +3125,15 @@ Would be puzzled to real. — A Proof
 #### From _Bangor daily Whig & courier._
 
 #### 1865-09-01 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
----
-
-## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1865-11-29/ed-1/seq-1)
-
-#### 1865-11-29 &middot; Smyrna, Del.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-the following from the &quot; Remini-eenee»&quot; of  
-1 . J. Buckingham : &quot; Many who condescend  
-U&gt; illuminai«,- tin* il.uk w.nM wiih ill,- li*. ,,(*  
-genius through the eolnmns of a newspaper  
-little think of the lot of the printer, who ah  
-most suffer: ited by ; lie stnoki of a lamp,&#x27;sit»  
-up till midnight to eonvet bad ortho-raphy  
-aii.l worse pam-umii,,,,. 1 have se n the ar­  
-eimients of biwy.-r... i„ bbd, ,vpnte U s seh .! 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894924%2F1865112901%2F0230.jp2/pct:47.091128,21.750182,14.175390,4.381506/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1865-11-29/ed-1/seq-1)
-
-#### 1865-11-29 &middot; Smyrna, Del.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ld have ... to ite.l with scorn and eon  
-i tempt—as an i ! lpe-:,o. b&#x27;o Ahead—I fellow bet  
-r . tçr fitted to be a woe I sawyer than a printer,  
-j • N, |b&quot;dy 1 hive ben. such gross and  
-is palpable lauits were owing to the ignorance o­  
-&#x27; «•areles-m -s ol an anther. And no one but a  
-! pfa-tical ptint-r kn-ovs how many hours th ■  
-conipo-it.»r. an 1 after him tic- proi.f reader, i  
-j compelled to sji.-nl in reducing to a readable  
-| condition manu ripts that the writer himsell  
-- would be pu /./.led to ivn 1. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894924%2F1865112901%2F0230.jp2/pct:46.078600,31.251513,15.084949,5.265069/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
 ## [From _Charles City intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84038074/1865-11-30/ed-1/seq-1)
 
 #### 1865-11-30 &middot; Charles City, Floyd County, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 kc  
@@ -3304,6 +3194,7 @@ be puzzled to read.&quot;
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1866-01-11/ed-1/seq-1)
 
 #### 1866-01-11 &middot; Richmond, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3345,6 +3236,7 @@ to read.
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1866-03-10/ed-1/seq-1)
 
 #### 1866-03-10 &middot; Towsontown, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3391,6 +3283,7 @@ would be puzzled to read.”
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1866-03-10/ed-2/seq-1)
 
 #### 1866-03-10 &middot; Towsontown, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3437,6 +3330,7 @@ dition manuscript that the writer himiAlf
 ## [From _Maryland free press._](https://chroniclingamerica.loc.gov/lccn/sn84026707/1866-05-03/ed-1/seq-1)
 
 #### 1866-05-03 &middot; Hagerstown [Md.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3483,6 +3377,7 @@ puzzled to read.
 ## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051370/1866-05-12/ed-1/seq-1)
 
 #### 1866-05-12 &middot; Des Arc, Ark.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3519,6 +3414,7 @@ puzzled to re»*I
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1866-05-16/ed-1/seq-3)
 
 #### 1866-05-16 &middot; Alexandria, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3555,6 +3451,7 @@ tion, manuscripts that thein&quot; repliader himselfrman
 ## [From _The weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn87090179/1866-05-26/ed-1/seq-1)
 
 #### 1866-05-26 &middot; Port Gibson, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3613,6 +3510,7 @@ himself would be puzzled to rea
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1866-06-16/ed-1/seq-4)
 
 #### 1866-06-16 &middot; Canton, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3642,15 +3540,26 @@ ducing to a readable condition, manu­
 scripts that tbe author himself would be  
 puziled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eiffel_ver02%2Fdata%2Fsn83016739%2F00295877534%2F1866061601%2F0484.jp2/pct:15.054888,71.757392,15.708312,15.070565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016739%2F00295877534%2F1866061601%2F0484.jp2/pct:15.054888,71.757392,15.708312,15.070565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## Authors and Printers
+
+#### From _The Hinds County gazette._
+
+#### 1866-06-22 &middot; Raymond, Miss.
+
+[This text is not available under an open license.]
 
 ---
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033371/1866-06-22/ed-1/seq-1)
 
 #### 1866-06-22 &middot; Clarksville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3684,17 +3593,10 @@ himself would be puzzled to read
 
 ---
 
-## Authors and Printers
-
-#### From _The Hinds County gazette._
-
-#### 1866-06-22 &middot; Raymond, Miss.
-[This text is not available under an open license.]
----
-
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1867-01-15/ed-1/seq-2)
 
 #### 1867-01-15 &middot; Wheeling, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3733,6 +3635,7 @@ self would l?e puzzled to read. Th
 ## [From _The Dallas daily herald._](https://chroniclingamerica.loc.gov/lccn/sn83025733/1873-10-05/ed-1/seq-1)
 
 #### 1873-10-05 &middot; Dallas, Tex.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3785,6 +3688,7 @@ read.
 ## [From _The Dallas weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022279/1873-10-11/ed-1/seq-1)
 
 #### 1873-10-11 &middot; Dallas, Tex.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3840,6 +3744,7 @@ read.
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-10-25/ed-1/seq-1)
 
 #### 1873-10-25 &middot; Clarksville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ers and Printing.  
@@ -3878,6 +3783,7 @@ sentences sermons which, if publishe
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-10-25/ed-1/seq-1)
 
 #### 1873-10-25 &middot; Clarksville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3909,6 +3815,7 @@ read.&quot;- . : ,
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1879-04-15/ed-1/seq-1)
 
 #### 1879-04-15 &middot; Newtown, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 he roller skate was the re­  
@@ -3957,12 +3864,10 @@ ers themselves would be puzzled to read
 ## [From _The People's vindicator._](https://chroniclingamerica.loc.gov/lccn/sn85038558/1879-04-19/ed-1/seq-4)
 
 #### 1879-04-19 &middot; Natchitoches, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-tie thik of thet of the printer, who  
-sit ap at anidnight to correct their false  
-puumar and orthography, and worse  
 pStulatlen. We have seen the argo­  
 MN of lawyers, in high repute as ac4l­  
 Isr..mto the printer in their. own  
@@ -3988,7 +3893,7 @@ to spend in reducing to readable condi.
 tioneasseript that often writers them­  
 selveweoald be pualed to read.-W.od
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_forge_ver01%2Fdata%2Fsn85038558%2F00280761540%2F1879041901%2F0069.jp2/pct:6.508876,6.386277,12.697905,15.852020/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_forge_ver01%2Fdata%2Fsn85038558%2F00280761540%2F1879041901%2F0069.jp2/pct:6.508876,8.298026,12.617943,13.940271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3997,6 +3902,7 @@ selveweoald be pualed to read.-W.od
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1879-04-30/ed-1/seq-3)
 
 #### 1879-04-30 &middot; Alexandria, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4025,15 +3931,9 @@ with scorn and contempt. No one
 weaold hare believed that such gross  
 and palpable faults were owing to the  
 ignorance or careleeeness of the au­  
-thor; and no one bat the practical  
-printer knows how nsy hours the  
-compositor, and after am a proof*  
-reader, is eompelled to spend in re­  
-dueing to readable condition mann­  
-script that often writers themselves  
-would be pnzzled to read.--[Wood
+thor; and no one bat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555158%2F1879043001%2F0567.jp2/pct:16.195373,79.415888,12.853470,17.056075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555158%2F1879043001%2F0567.jp2/pct:16.195373,79.415888,12.853470,14.053738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4042,6 +3942,7 @@ would be pnzzled to read.--[Wood
 ## [From _Louisiana capitolian._](https://chroniclingamerica.loc.gov/lccn/sn88064592/1879-05-10/ed-1/seq-1)
 
 #### 1879-05-10 &middot; Baton Rouge, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 }death. Never speak of it again.&quot; F  
@@ -4094,15 +3995,10 @@ puzzled to read
 ## [From _Maryland independent._](https://chroniclingamerica.loc.gov/lccn/sn85025407/1879-05-22/ed-1/seq-4)
 
 #### 1879-05-22 &middot; Port Tobacco, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-on of tho j  
-bead, and all the while swallowing, he ]  
-drew it from the neck and swallowed the j  
-whole. The opi ration seemed an agree­  
-able one, and occupied but a short  
-l *&#x27;mo,   
-Printers ami Printing.  
+  
 Many who condescend to ilinminate  
 ] this dark world with the fire of their  
 ■ genius through the columns of a news­  
@@ -4135,7 +4031,7 @@ d spend in reducing to readable condition
 t manuscript that often writers themselves  
 g would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_easton_ver01%2Fdata%2Fsn85025407%2F00279522230%2F1879052201%2F0076.jp2/pct:31.796788,61.535685,12.746858,18.757446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_easton_ver01%2Fdata%2Fsn85025407%2F00279522230%2F1879052201%2F0076.jp2/pct:31.796788,65.560810,12.746858,14.732320/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4144,6 +4040,7 @@ g would be puzzled to read
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1879-05-30/ed-1/seq-1)
 
 #### 1879-05-30 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4188,6 +4085,7 @@ i read
 ## [From _The weekly Thibodaux sentinel and journal of the 8th Senatorial District._](https://chroniclingamerica.loc.gov/lccn/sn88064492/1879-06-07/ed-1/seq-1)
 
 #### 1879-06-07 &middot; Thibodaux, Lna. [i.e. La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  habit ot wear­  
@@ -4247,6 +4145,7 @@ read
 ## [From _The Meridional._](https://chroniclingamerica.loc.gov/lccn/sn88064005/1879-06-14/ed-1/seq-2)
 
 #### 1879-06-14 &middot; Abbeville, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4297,6 +4196,7 @@ would be ozzled to read.
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1879-06-21/ed-1/seq-3)
 
 #### 1879-06-21 &middot; Gold Hill, N.T. [Nev.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4338,6 +4238,7 @@ wonld be puxxled to read.
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1879-07-05/ed-1/seq-1)
 
 #### 1879-07-05 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4380,6 +4281,7 @@ i be puzzled to read
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1879-07-17/ed-1/seq-1)
 
 #### 1879-07-17 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4414,6 +4316,7 @@ find it puzzling to read.
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-07-17/ed-1/seq-1)
 
 #### 1879-07-17 &middot; Pulaski, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 f to guide.  
@@ -4470,12 +4373,15 @@ would be puzzled to read
 #### From _Boston investigator._
 
 #### 1879-08-13 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1879-08-15/ed-1/seq-2)
 
 #### 1879-08-15 &middot; Albany, Linn County, Oregon
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 va n tha ser­  
@@ -4504,6 +4410,7 @@ puzzling to read
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1879-08-20/ed-1/seq-1)
 
 #### 1879-08-20 &middot; Montpelier, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4548,6 +4455,7 @@ puzzled to read
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1879-09-26/ed-1/seq-1)
 
 #### 1879-09-26 &middot; Ebensburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4584,6 +4492,7 @@ puzzled to read
 ## [From _Butler citizen._](https://chroniclingamerica.loc.gov/lccn/sn86071045/1879-10-08/ed-1/seq-1)
 
 #### 1879-10-08 &middot; Butler, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4629,6 +4538,7 @@ selves would be puzzled to read
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1880-01-09/ed-1/seq-1)
 
 #### 1880-01-09 &middot; Pascagoula, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4658,6 +4568,7 @@ reader, ia compelled to spend in
 ## [From _Maryland independent._](https://chroniclingamerica.loc.gov/lccn/sn85025407/1881-04-15/ed-1/seq-2)
 
 #### 1881-04-15 &middot; Port Tobacco, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 is remedy that can be applied to a boil, i  
@@ -4707,6 +4618,7 @@ puzzled to read.
 ## [From _The Grenada sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034375/1886-01-09/ed-1/seq-1)
 
 #### 1886-01-09 &middot; Grenada, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4747,6 +4659,7 @@ that often the writers themselves
 ## [From _Weekly expositor._](https://chroniclingamerica.loc.gov/lccn/sn2006060001/1886-05-20/ed-1/seq-4)
 
 #### 1886-05-20 &middot; Brockway Centre, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4792,11 +4705,10 @@ read.&quot;
 ## [From _Daily independent._](https://chroniclingamerica.loc.gov/lccn/sn84020355/1888-09-01/ed-1/seq-2)
 
 #### 1888-09-01 &middot; Elko, Nev.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Many who write tor newspapers little  
-think of the lot of lLo printer, wLo  
+ wLo  
 spends hours of toil over their false  
 grammar, had orthography and poor  
 pnnctuntion. IIow often are the argu­  
@@ -4828,7 +4740,8 @@ kuows how many hour* a compositor,
 and, after him a proof reader, is oonr­  
 pelled to spend in reducing to a reads­  
 J bio condition manuscript that the writ*  
-ers themselves would be puzzled t
+ers themselves would be puzzled to  
+re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_lasvegas_ver01%2Fdata%2Fsn84020355%2F00279554991%2F1888090101%2F0826.jp2/pct:4.744918,7.423253,36.845192,83.393207/!600,600/0/default.jpg"/>
 </td>
@@ -4839,11 +4752,10 @@ ers themselves would be puzzled t
 ## [From _Weekly independent._](https://chroniclingamerica.loc.gov/lccn/sn86076366/1888-09-09/ed-1/seq-4)
 
 #### 1888-09-09 &middot; Elko, Nev.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Many who write for newspaper* little  
-think dI the lot of the printer, who  
+ dI the lot of the printer, who  
 spends hour* of to 1 over their false  
 grammar, hat orthography ?&gt;&#x27;?&lt;! poor  
 I unci nation. llow uftuu ure the nrgu*  
@@ -4873,7 +4785,7 @@ known how many hours it compositor,
 mul, alter him a proof reader, is co?? -  
 pellfil t&#x27;i spend in lednring 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_keystone_ver03%2Fdata%2Fsn86076366%2F0027176263A%2F1888090901%2F0154.jp2/pct:20.633791,50.023604,12.227897,18.225654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_keystone_ver03%2Fdata%2Fsn86076366%2F0027176263A%2F1888090901%2F0154.jp2/pct:20.633791,50.664284,12.227897,17.584974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4882,14 +4794,10 @@ pellfil t&#x27;i spend in lednring
 ## [From _Delaware gazette and state journal._](https://chroniclingamerica.loc.gov/lccn/sn88053046/1888-10-04/ed-1/seq-7)
 
 #### 1888-10-04 &middot; Wilmington, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Many who write for nowspapers llttla  
-thiuk of the lot of the printer, wh*&#x27;  
-«pends hours cf toil ov* r thtl? false  
-grammar, bud orthography and poor  
-punctuation How cftc-n are the argu­  
+w cftc-n are the argu­  
 ments of lawyers lu high repute as  
 scholars given &lt;0 the printer in their  
 handwriting—mmy words, and espeoluT*  
@@ -4909,16 +4817,9 @@ as an illiterate blockhead-as a fellow
 better fitted to be a wood-sawyer than »  
 printer. Nobody won d bavebtlmvcd tba  
 snob groRf and p dpabi» faults  
-to tho carelessness of tbe author. And  
-ne but the pracdoal printer knows bow  
-many houra a compositor, and,  
-a proof reader, is compelled to pp-ud in  
-r&gt;idnoing to a readable conditir-n mann  
-scrip» that the writers themulvus woul­  
-be puzzled to read.  
-
+to tho carelessness of tbe author. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_horcrux_ver01%2Fdata%2Fsn88053046%2F00271741741%2F1888100401%2F0021.jp2/pct:59.539474,55.362595,10.902256,14.389313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_horcrux_ver01%2Fdata%2Fsn88053046%2F00271741741%2F1888100401%2F0021.jp2/pct:59.586466,57.251908,10.831767,9.618321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4927,6 +4828,7 @@ be puzzled to read.
 ## [From _The St. Johns herald._](https://chroniclingamerica.loc.gov/lccn/sn94051692/1891-02-19/ed-1/seq-1)
 
 #### 1891-02-19 &middot; St. Johns, Apache County, Arizona Territory [Ariz.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4979,6 +4881,7 @@ be puzzled to read. Exchange
 ## [From _Sierra County advocate._](https://chroniclingamerica.loc.gov/lccn/sn94057006/1891-02-27/ed-1/seq-2)
 
 #### 1891-02-27 &middot; Kingston, N.M.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5028,6 +4931,7 @@ be puzzled to read
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1892-09-28/ed-1/seq-2)
 
 #### 1892-09-28 &middot; Mifflintown, Juniata County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5053,10 +4957,10 @@ Been &quot;the sormona of soain of ou
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1892-09-28/ed-1/seq-2)
 
 #### 1892-09-28 &middot; Mifflintown, Juniata County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-gruities WGre other than tbe fault of  
 the printer, and not owing to tas lg­  
 norauco or heedlessness of the au­  
 thor ; and no one but a practical  
@@ -5067,7 +4971,7 @@ reducing to a readable condition
 that 6ven the writers themselves  
 would have hard puzzling to disciph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_mateer_ver01%2Fdata%2Fsn86053634%2F00212478039%2F1892092801%2F0362.jp2/pct:52.214973,28.397189,11.298077,5.196871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_mateer_ver01%2Fdata%2Fsn86053634%2F00212478039%2F1892092801%2F0362.jp2/pct:52.214973,29.007026,11.263736,4.587034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5076,12 +4980,10 @@ would have hard puzzling to disciph
 ## [From _Las Vegas daily optic._](https://chroniclingamerica.loc.gov/lccn/sn86063592/1898-11-19/ed-1/seq-1)
 
 #### 1898-11-19 &middot; Las Vegas, N.M.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Many who write for newspapers little  
-think of the lot of the tdiM and  
-printer, who spend hours of toil, over  
 their false grammar, bad autbography  
 and poor punctuation. How often are  
 the arguments of lawyers, iu , high  
@@ -5094,8 +4996,21 @@ any, entirely out of place. ;Tlie .­
 mops of eminent divines are frequency  
 sent to the press without points or cap­  
 itals to designate the division of sen­  
-tencessermons which, if published  
-with the imperfections of the manu­  
+tencessermons which, if publishe
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_bronte_ver01%2Fdata%2Fsn86063592%2F00415626721%2F1898111901%2F0238.jp2/pct:40.281786,45.750765,10.864030,7.075409/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Las Vegas daily optic._](https://chroniclingamerica.loc.gov/lccn/sn86063592/1898-11-19/ed-1/seq-1)
+
+#### 1898-11-19 &middot; Las Vegas, N.M.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
 script, would disgrace the printer&#x27;s  
 devil it he were the author. Suppose  
 they had been so printed? . The printer  
@@ -5112,7 +5027,7 @@ pelled to spend iu reducing to a reada­
 ble condition manuicript that the writ­  
 ers themselves would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_bronte_ver01%2Fdata%2Fsn86063592%2F00415626721%2F1898111901%2F0238.jp2/pct:40.264811,44.075010,10.881005,17.635324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_bronte_ver01%2Fdata%2Fsn86063592%2F00415626721%2F1898111901%2F0238.jp2/pct:40.264811,53.464556,10.830080,8.245777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5121,12 +5036,10 @@ ers themselves would be puzzled to read
 ## [From _The Las Vegas weekly optic and stock grower._](https://chroniclingamerica.loc.gov/lccn/sn92070422/1898-11-26/ed-1/seq-9)
 
 #### 1898-11-26 &middot; Las Vegas, N.M.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Many who write for newspapers little  
-think of the lot or the editor and  
-printer, who spend hours of toil over  
 their false grammar, bad authngraphy  
 and poor punctuation. How often are  
 tha arguments of lawyers, in high  
@@ -5141,7 +5054,7 @@ sent to the presa wltheut points or cap­
 itals ta designate the division of sen  
 tences sermons which, If publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_juniper_ver02%2Fdata%2Fsn92070422%2F00200290203%2F1898112601%2F0471.jp2/pct:28.065486,65.481331,21.282994,16.205232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_juniper_ver02%2Fdata%2Fsn92070422%2F00200290203%2F1898112601%2F0471.jp2/pct:28.065486,68.580137,21.249582,13.106426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5150,6 +5063,7 @@ tences sermons which, If publishe
 ## [From _The Las Vegas weekly optic and stock grower._](https://chroniclingamerica.loc.gov/lccn/sn92070422/1898-11-26/ed-1/seq-9)
 
 #### 1898-11-26 &middot; Las Vegas, N.M.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   

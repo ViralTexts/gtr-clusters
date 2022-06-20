@@ -1,13 +1,14 @@
 
 # None (Sometimes "Maxims to Guide a Young Man")
 
-### 50 reprints from 1852-08-25 to 1895-12-26
+### 65 reprints from 1852-02-20 to 1899-01-27
 
 ## [None (Sometimes "Maxims to Guide a Young Man")](https://chroniclingamerica.loc.gov/lccn/sn88077413/1859-06-23/ed-1/seq-2/)
 
 #### From _Daily Press_
 
 #### 1859-06-23
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 The following has been handed to us by a friend who has carried it in his purse for many years, as a sort of *talisman* and who regards much of his success in life as the result of a strict adherence to the advice it contains. We do not often see more sound advice in the same space. We commend it to all young men just starting out in life. CUT IT OUT and put it in your purse:  
@@ -18,12 +19,50 @@ The following has been handed to us by a friend who has carried it in his purse 
 
 ---
 
+## A Short Lectue to Young Men
+
+#### From _Daily national intelligencer._
+
+#### 1852-02-20 &middot; Washington City [D.C.]
+
+[This text is not available under an open license.]
+
+---
+
+## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1852-08-14/ed-1/seq-1)
+
+#### 1852-08-14 &middot; Sunbury, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+gains give competency with tranquillity of  
+mind. Never play at any kind of game ot  
+chance. Avoid temptation ; through fear  
+you may not withstand it. Earn money be­  
+fore you spend it. Never run in debt unless  
+you see a way to get out ogaiu. Never bor­  
+row, if you can possibly avoid it. Do not  
+marry until you are able to support a wife.  
+Never speak evil of any one. Be just be­  
+fore you are generous. Keep yourself inno­  
+cent, if you would bo happy. Save w hen  
+you are young lo spend when you are old.  
+Read over the above maxims al least once a  
+week.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1852081401%2F0543.jp2/pct:81.045637,33.130867,12.327330,8.255108/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Semi-weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024518/1852-08-25/ed-1/seq-3)
 
 #### 1852-08-25 &middot; Raleigh, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- give competency  
+y gains give competency  
 with tranquility of mind. Never play at any kind of  
 game of chance. Avoid temptation, through fear you  
 may not withstand it. Earn money before you spend  
@@ -42,9 +81,90 @@ maxims at least once a week.
 
 ---
 
+## [BREAKERS AHEAD !" WHAT WILL ENGLAND DO ?](http://trove.nla.gov.au/ndp/del/article/114832552)
+
+#### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
+
+#### 1852-11-04 &middot; Sydney, New South Wales
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+give  
+competency with tranquillity of mind.  
+Never play at any kind of game of  
+chance. Avoid temptation, through fear  
+you may not withstand it. Earn money  
+before you spend it. Never run in debt,  
+ftnless you see a way to get out of it.  
+Never borrow, if you can possibly avoid  
+it. Do not marry until you are able to  
+support a wife. Never speak evil of any  
+one.&#x27; Fxtinction of &#x27; Jumperism.&#x27; — I
+</td></tr></table>
+
+---
+
+## Improved Clover Thresher
+
+#### From _The Ripley bee._
+
+#### 1853-01-08 &middot; Ripley [Ohio]
+
+[This text is not available under an open license.]
+
+---
+
+## [From _Daily evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-01-21/ed-1/seq-4)
+
+#### 1853-01-21 &middot; Washington [D.C.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Never run in debt unless you see a way to  
+get out of it.  
+Never borrow if you can possibly avoid it.  
+Do not marry until you are able to sup­  
+port a wife.  
+Never speak evil of any one.  
+Be just before you are generous.  
+Keep yourself innocent if you would be  
+happy
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ibizanhound_ver01%2Fdata%2Fsn83045461%2F00280654000%2F1853012101%2F0102.jp2/pct:1.580739,44.082100,19.799773,8.306418/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1857-07-18_30_45?page=3)
+
+#### 1857-07-18 &middot; Philadelphia
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+with tranquillity of mind. Never play at any kind  
+of game of chance. Avoid temptation, through fear  
+that you may not be able to withstand it. Earn  
+money before you spend it. Never run in debt,  
+unless you see a way to get out of it. Never bor-  
+row if you can possibly avoid it. Do not marry  
+until you are able to support a wife. Never speak  
+evil of any one. Be just before you are generous.  
+Keep yourself innocent, if you would be happy.  
+Save when youar
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1857-07-18_30_45&#0036;3/pct:66.992665,34.450338,28.270171,11.427194/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1857-10-06/ed-1/seq-2)
 
 #### 1857-10-06 &middot; Wheeling, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -72,7 +192,7 @@ not stand it. turn money before you spend it.
 .Never run into dent unless you sec a way to get.  
 out again. Never borrow if yon can possibly  
 avoid it. Do not marry until you are able to  
-keep a wif
+kee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190601%2F1857100601%2F0337.jp2/pct:29.994147,31.337594,14.104565,11.970584/!600,600/0/default.jpg"/>
 </td>
@@ -83,9 +203,10 @@ keep a wif
 ## [From _Daily Nashville patriot._](https://chroniclingamerica.loc.gov/lccn/sn96091000/1857-10-16/ed-1/seq-2)
 
 #### 1857-10-16 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-company and conversation are the very  
+ce. Good company and conversation are the very  
 sinews of virtue. Good character is above all  
 things eke. Your character cannot be essentially  
 injured except by your own acts. If any one speaks  
@@ -114,12 +235,46 @@ week
 
 ---
 
+## [From _Republican vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024652/1857-10-17/ed-1/seq-3)
+
+#### 1857-10-17 &middot; Staunton, Va.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+mpany and good conversa­  
+tion are the very sinews of virtue. Good  
+character- is above all things else. Your  
+character cannot bo essentially injured ex­  
+cept by your own acts. If any one speaks  
+evil of you, let your life be so that no one  
+will believe him. Drink no kind of infox­  
+icating liquors. Ever live (misfortune ex­  
+cepted) within your income. AVlicn you re­  
+tire to bed think over what you have been  
+doing during the day. Make no haste to ho  
+rich, if you would prosper. Small and stea­  
+dy gains give competency with tranquility  
+of mind. Never play at a game of chance  
+Avoid temptation; though you fear you may  
+not withstand it. Earn money before you  
+spend it. Never run into debt unless you  
+see a way to get oat again. Never borrow&#x27;  
+if you can possibly avoid if. l)o not marry  
+until yon arc able to support a wifo. Nc
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024652%2F00393348781%2F1857101701%2F0376.jp2/pct:29.041046,12.306460,12.917726,10.481180/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1857-12-23/ed-1/seq-4)
 
 #### 1857-12-23 &middot; Nevada, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n are  
+sation are  
 the very sinews of virtue.  
 Good character is above all things else; yonr  
 character cannot be materially injured except  
@@ -146,12 +301,9 @@ wife.
 Never speak evil of any one.  
 Be just befere you are generous.  
 Keep yourself innocent, if you would be  
-Hare when yon are young that yon may  
-spend when you are old.  
-Head over the above maxims at least once a  
-week
+Hare when yon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1857122301%2F0296.jp2/pct:36.721734,14.227230,14.954163,15.408039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1857122301%2F0296.jp2/pct:36.721734,14.129111,14.935065,14.115577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,6 +312,7 @@ week
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-12-26_14_41?page=6)
 
 #### 1857-12-26 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -223,12 +376,23 @@ when
 
 ---
 
+## Moral and Religious
+
+#### From _New Hampshire statesman._
+
+#### 1858-01-02 &middot; Concord [N.H.]
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1858-01-02/ed-1/seq-1)
 
 #### 1858-01-02 &middot; Shasta, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-give competency,  
+ gains give competency,  
 with tranquility of mind.  
 Never play at any game of chance.  
 Avoid temptations, for fear you may not be  
@@ -248,26 +412,19 @@ spend when you are old.
 Read over the above maxims at least once a  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556653%2F1858010201%2F0005.jp2/pct:62.712406,42.042176,12.602777,8.387141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556653%2F1858010201%2F0005.jp2/pct:62.712406,42.025003,12.602777,8.404314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## Moral and Religious
-
-#### From _New Hampshire statesman._
-
-#### 1858-01-02 &middot; Concord [N.H.]
-[This text is not available under an open license.]
----
-
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1858-01-06/ed-1/seq-1)
 
 #### 1858-01-06 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d con­  
+any and good con­  
 versation are the very sinews of virtue. Good  
 character is above all things else. Your char­  
 ; acter cannot be essentially injured, except by  
@@ -292,7 +449,7 @@ when you are young that you may spend when
 you are old. Read over the above maxims at  
 i least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_loons_ver01%2Fdata%2Fsn84024718%2F00414183773%2F1858010601%2F0007.jp2/pct:56.863780,66.114180,12.794791,10.546347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_loons_ver01%2Fdata%2Fsn84024718%2F00414183773%2F1858010601%2F0007.jp2/pct:56.863780,65.994475,12.794791,10.666053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,6 +458,7 @@ i least once a week
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1858-01-12/ed-1/seq-1)
 
 #### 1858-01-12 &middot; Charles Town, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  doing during the day. Make do haste to  
@@ -327,6 +485,7 @@ once a&#x27;fteek
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1858-01-14/ed-1/seq-1)
 
 #### 1858-01-14 &middot; Ottumwa, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -374,6 +533,7 @@ ims at least once a week
 ## [From _Muscatine weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027253/1858-01-16/ed-1/seq-4)
 
 #### 1858-01-16 &middot; Muscatine, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -408,7 +568,7 @@ kind of intoxicating liquors. Ever live
 come. When you retire to bed think  
 over what you have been doing during  
 the day. Make no haste to be rich if  
-y
+you wo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1858011601%2F0098.jp2/pct:50.428332,15.526650,22.857143,20.669806/!600,600/0/default.jpg"/>
 </td>
@@ -419,6 +579,7 @@ y
 ## [From _Mariposa Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026978/1858-04-01/ed-1/seq-1)
 
 #### 1858-04-01 &middot; Mariposa, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -470,37 +631,50 @@ least once a week
 
 ---
 
-## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1859-04-27/ed-1/seq-1)
+## [From _San Andreas independent._](https://chroniclingamerica.loc.gov/lccn/sn85025090/1858-06-19/ed-1/seq-1)
 
-#### 1859-04-27 &middot; Edgefield, S.C.
+#### 1858-06-19 &middot; San Andreas, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- are the very  
-sinews of of virture. Good character is above  
-al thingrs. Your charaeter cannot be essen­  
-tially injured except by your own acts. If  
-any one speaks evil of you, let your life be  
-nch that no one will believe him. Drink no  
-kind of intoxicagng liquors. Ever live, mis.  
-fortune excepted, within your ineome, When  
-you retire to bed thinkt what you have been  
-doing during the day. Make to haste to be  
-rich, if you would prosper. ,8mall and steady  
-gains give competency, with tranqmttlity of  
-mind. Never play at any game of chance.  
-Avoid temptation, through fear you may not  
-wvithstand it. Npever run into debt untill you  
-see a way to get out again. Earn money be.  
-fore you spend it. Never borrow, if you cani  
-possibly avoid it. Do not mtarry until you  
-are .able to support a wife. Never speak  
-evil of any one. Be just before you are genier.  
-ous. Keep yourself innocent, if you would be  
-happy. Save when you are young to spend  
-when you are old. Read over the above  
-maxims once a week.
+  
+the face. Good company and good char­  
+acter is above all things else. Your char­  
+acter cannot be essentially injured except  
+by your own acts. If any one speaks  
+evil of you, let your life be so that no  
+one will believe him. Drink no intoxi­  
+cating liquors. Ever live (misfortune  
+excepted) within your income. When  
+you retire to bed, think over what you have  
+been doing during the day. Make no  
+haste to be rich, if you would
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288257%2F1859042701%2F0409.jp2/pct:39.300123,72.751174,11.156411,10.810642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025090%2F00279557463%2F1858061901%2F0377.jp2/pct:70.114304,76.165470,12.351335,6.280141/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1858-08-05/ed-1/seq-4)
+
+#### 1858-08-05 &middot; Montpelier, Vt.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+in tho face. Good company and good char­  
+acter is above all else. Your character can­  
+not be essentially injured except by your  
+own acts. If any one speaks evil of you,  
+let your life be so that no one will believe  
+him. Drink no intoxicating liquors. Evir  
+live (misfortunes excepted) within your iu&quot;  
+come. When you retire to bed, think over  
+what you have been doing through the day.  
+Make no hasto to be rich it you woul
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1858080501%2F0937.jp2/pct:32.041111,51.454453,12.152903,5.192651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,9 +683,10 @@ maxims once a week.
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1859-05-18/ed-1/seq-4)
 
 #### 1859-05-18 &middot; Raleigh, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- good con­  
+mpany and good con­  
 versation are the very sinews of virtue.  
   
 Good character is above anything else.  
@@ -564,6 +739,7 @@ once a week
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1859-05-20/ed-1/seq-1)
 
 #### 1859-05-20 &middot; Bedford, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  what you  
@@ -598,6 +774,7 @@ week
 ## [From _The daily press._](https://chroniclingamerica.loc.gov/lccn/sn88077413/1859-06-23/ed-1/seq-2)
 
 #### 1859-06-23 &middot; Cincinnati [Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -650,9 +827,10 @@ over the above maxims at least ence a week.&#x27;
 ## [From _Pointe Coupee Democrat._](https://chroniclingamerica.loc.gov/lccn/sn86053686/1859-08-27/ed-1/seq-2)
 
 #### 1859-08-27 &middot; False River [i.e. New Roads], Parish of Pointe Coupee [La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+s you see a way to got  
 ^ out of it. Do not marry until you are  
 able to support a wi£p. Never speak  
 r evil of any one. Be just before you are  
@@ -662,7 +840,7 @@ are young, that you may spend when
 &#x27; you are old. Read over the above max­  
 ■ ims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn86053686%2F00295874405%2F1859082701%2F0345.jp2/pct:50.833333,52.645005,15.388889,4.752954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn86053686%2F00295874405%2F1859082701%2F0345.jp2/pct:50.833333,52.134801,15.388889,5.263158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,6 +849,7 @@ are young, that you may spend when
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1859-10-13/ed-1/seq-1)
 
 #### 1859-10-13 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  tranquility of mind. Never play at  
@@ -693,12 +872,40 @@ above maxims once a week
 
 ---
 
+## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1860-08-02/ed-1/seq-1)
+
+#### 1860-08-02 &middot; Cumberland, Md.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+the face.  
+flood character is above all things else.  
+•Your character cannot he essentially in­  
+jured except by your own arts.  
+If any one speaks evil of you, let your life  
+be so that no one will believe him.  
+Driuk no intoxicating liquors.  
+Ever live (misfortunes excepted) within  
+yonr income.  
+When you retire to bed think over what  
+you have been doing during the day.  
+Make no haste to be rich, if ytu wo
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026189%2F1860080201%2F0311.jp2/pct:49.066522,64.106532,11.135279,5.298448/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1865-07-08/ed-1/seq-1)
 
 #### 1865-07-08 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ami good conversation are the very j  
+d  
+company ami good conversation are the very j  
 sinews of virtue. Good character is above  
 anything else. Your character cannot be  
 essentially injured, except by your own acts.  
@@ -715,9 +922,15 @@ any game of chance. Avoid temptation,
 though you fear you may not withstand it.—  
 Earn money before you spend it. Never  
 run into debt unless you see away to get  
-out of it. Do not marry until you are abl
+out of it. Do not marry until you are able  
+to support a wife. Never speak evil of any  
+one. He just, before you arc generous.  
+Keep yourself innocent, if you would be  
+happy. Save when you areyounar, that you  
+irtay spend when you arc old. Read over  
+the above maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624517%2F1865070801%2F0413.jp2/pct:5.784962,73.091903,12.637766,8.437570/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624517%2F1865070801%2F0413.jp2/pct:5.784962,73.091903,12.637766,11.074077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,9 +939,11 @@ out of it. Do not marry until you are abl
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1865-07-14/ed-1/seq-1)
 
 #### 1865-07-14 &middot; Bedford, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-and good conversation are the very sinews  
+ompa­  
+ny and good conversation are the very sinews  
 of virtue. Good character is above any­  
 thing eke. Your character cannot be essen­  
 tially injured, except by your own acts. If  
@@ -753,7 +968,7 @@ when you are young, that you may spend
 when you are old. Read over the above  
 maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1865071401%2F0538.jp2/pct:80.519343,76.720240,12.739799,11.094646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1865071401%2F0538.jp2/pct:80.519343,76.378282,12.739799,11.436605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,6 +977,7 @@ maxims at least once a week
 ## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1865-07-21/ed-1/seq-1)
 
 #### 1865-07-21 &middot; New Oregon, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -830,6 +1046,7 @@ once a wee^
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1865-07-22/ed-1/seq-1)
 
 #### 1865-07-22 &middot; Sioux City, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 od conversation are the very sinews ot*  
@@ -861,6 +1078,7 @@ until you are able to support a wife.
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-08-19_22_24?page=6)
 
 #### 1865-08-19 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -910,6 +1128,7 @@ once a week
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1866-05-10_39_19?page=2)
 
 #### 1866-05-10 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -950,12 +1169,23 @@ least once a week
 
 ---
 
+## A Good Pocket Piece
+
+#### From _Bangor daily Whig & courier._
+
+#### 1866-08-17 &middot; Bangor, Me.
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1866-12-21/ed-1/seq-1)
 
 #### 1866-12-21 &middot; Romney, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hink over what  
+to bed think over what  
 you have been doing during the day. .&#x27;lake  
 no haste to be rich, if you would prosper.  
 Small and steady gains give competency,  
@@ -982,19 +1212,10 @@ over the above maxims at least one a wee k
 ## [From _Delaware State journal and statesman._](https://chroniclingamerica.loc.gov/lccn/sn84038112/1867-07-30/ed-1/seq-1)
 
 #### 1867-07-30 &middot; Wilmington, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ersation  
-&quot; ■&gt; i.  
-the very  
-sinews of virtue. Good character is above  
-all things else. Your character cannot be  
-essentially Injured, except by your own acts.  
-If any one speaks evil of you, let your life  
-one will believe him. Drink  
-kind of intoxicating liquors. Ever live  
-(misfortune excepted) within your income.  
-When you retire to bed think over what you  
+tire to bed think over what you  
 have been doing during the day. Make  
 haste to be rich, if you would prosper.  
 Small and steady gains give competency,  
@@ -1012,9 +1233,10 @@ I hat
 avoid It.  
 generous.  
 Keep yourself innocent, if you would be  
-bappy. Save when yo
+bappy. Save when you  
+you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741145%2F1867073001%2F0260.jp2/pct:80.608108,72.201767,10.900901,13.365243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741145%2F1867073001%2F0260.jp2/pct:80.630631,76.122975,10.878378,9.885862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,9 +1245,11 @@ bappy. Save when yo
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1867-08-17/ed-1/seq-1)
 
 #### 1867-08-17 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- think over what you have been doing  
+e to  
+bed think over what you have been doing  
 during the day. Make no haste to be rich,  
 if vou would prosper. Small and steady  
 gains give competency, with tranquility of  
@@ -1043,7 +1267,7 @@ young, that you may spend when you are
 old. Head over the above maxims at least  
 once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1867081701%2F0129.jp2/pct:44.038679,62.126308,12.403672,7.716741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1867081701%2F0129.jp2/pct:44.038679,61.775037,12.403672,8.068012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,9 +1276,10 @@ once a week
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1867-11-01/ed-1/seq-1)
 
 #### 1867-11-01 &middot; Pulaski, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e tbe very sinews of  
+on are tbe very sinews of  
   
 virtue. Good character is above all things  
 else. Your character cannot be essentially  
@@ -1101,12 +1326,47 @@ pace a week.&quot;
 
 ---
 
+## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1870-06-02/ed-1/seq-3)
+
+#### 1870-06-02 &middot; Manitowoc, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+“Keep good company, or none. Never  
+be idle, if your hands can’t be usefully  
+employed, attend to the cultivation of  
+your mind. Always speak the truth.  
+.Make few promises. Live up to your  
+engagements. Keep your own secrets if  
+you have any. When you speak to a  
+person, look him in the face. Good com­  
+pany and good conversation are the very  
+sinews of virtue. Good character is  
+above all things else, lour character  
+cannot be t essentially injured except by  
+your own acts. If any one speaks evil of  
+you, let your life be such that no one  
+will believe him. Drink no kind of in­  
+toxicating liquor. Kver live (misfor­  
+tunes excepted J within your income.  
+W hen you retire to bed, think over  
+what you have been doing during the  
+day Make no haste to be rich, if y
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769714%2F1870060201%2F0671.jp2/pct:15.773183,42.840245,10.882753,9.131772/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1873-10-02/ed-1/seq-4)
 
 #### 1873-10-02 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-are the very sinews  
+ion, are the very sinews  
 of virtue. Good character is above all things  
 else. Your character cannot be essentially  
 injured, except by your own acts. If any  
@@ -1128,9 +1388,9 @@ you can possibly avoid it. Do not marry j
 until you arc able to support a wife. Never 1  
 speak evil of any one. Be just before you j  
 are generous. Keep yourself innoceut, if you &#x27;  
-would be happy. Hea
+would be happy. Head ove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1873100201%2F0386.jp2/pct:28.320244,77.491611,17.617801,11.009341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1873100201%2F0386.jp2/pct:28.320244,77.482543,17.617801,11.018409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1141,15 +1401,18 @@ would be happy. Hea
 #### From _Boston investigator._
 
 #### 1873-12-03 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1873-12-18/ed-1/seq-1)
 
 #### 1873-12-18 &middot; Leonard Town, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- think over what  
+ to bed, think over what  
 you have been doing during the day.  
 Make no haste to be rich, if you would  
 prosper. Small and steady gains give  
@@ -1177,9 +1440,10 @@ above maxims at least oucc a week —L&#x27;x
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1874-01-02/ed-1/seq-3)
 
 #### 1874-01-02 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ery sinews of virtue, (iood  
+the very sinews of virtue, (iood  
 t character is above all things else. Your  
 I character cauuot be essentially injured,  
 except by your own acts. If any ono  
@@ -1216,6 +1480,7 @@ above maxims at least once a week
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1874-01-08/ed-1/seq-1)
 
 #### 1874-01-08 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1232,7 +1497,7 @@ men just starting&#x27; out in lif. Cut it
 out and paste it in your hatr )&#x27;  
 &quot;Keep good .company&quot; &#x27;or .none.  
 Never be, idle.; ; If your Jiania can&#x27;t  
-be usefully
+be usef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874010801%2F0411.jp2/pct:55.385757,28.460726,9.703264,8.007514/!600,600/0/default.jpg"/>
 </td>
@@ -1243,9 +1508,11 @@ be usefully
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1874-01-08/ed-1/seq-1)
 
 #### 1874-01-08 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-onversation, are the very sin  
+nd  
+good conversation, are the very sin  
 ews of vurtua . fcrood character as  
 above all . things-else. Your charac­  
 ter, cannot be essentially injured, ex  
@@ -1277,7 +1544,7 @@ may spend when you are old. Read
 over the above maxims at least once  
 week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874010801%2F0411.jp2/pct:55.148368,40.131502,9.807122,17.247857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874010801%2F0411.jp2/pct:55.148368,39.579664,9.821958,17.799695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,9 +1553,10 @@ week.
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1874-04-09/ed-1/seq-1)
 
 #### 1874-04-09 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ion &#x27;  
 are the very sinews of virtue. Good  
 character is above all things else. Your  
 character cannot be essentially injured,-except  
@@ -1313,12 +1581,9 @@ Do not marry until you are able to sup
 port a wife. Never speak evil of any  
 one. lie just before you are generous.  
 Keep yourself innocent, if you would -  
-be happy. Save when you are young.  
-hat you may spend when you are eld.  
-Head over the above maxims at least  
-once a week
+be happy. Save when y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775435%2F1874040901%2F0281.jp2/pct:84.172078,49.256029,11.347403,12.403797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775435%2F1874040901%2F0281.jp2/pct:84.204545,48.858389,11.314935,11.557209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,9 +1592,10 @@ once a week
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1874-04-29/ed-1/seq-1)
 
 #### 1874-04-29 &middot; Mifflintown, Juniata County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-are the  
+tion are the  
 very sinews of virtue. Good character  
 is above all things else. Your character  
 cannot be essentially injured, except by  
@@ -1364,12 +1630,41 @@ mtTima at least once a week
 
 ---
 
+## [From _Bismarck weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn84022129/1875-12-29/ed-1/seq-3)
+
+#### 1875-12-29 &middot; Bismarck, D.T. [N.D.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ gains give  
+competency with tranquility of  
+mind.  
+  
+Never play at any kind of game.  
+Avoid Temptation through fear  
+that you may not withstand it.  
+  
+Earn your money ^before you  
+spend it.  
+Never run in: debt unless you  
+see away to get out of it.  
+  
+Never borrow if you can posi­  
+bly avoid i
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_alamo_ver01%2Fdata%2Fsn84022129%2F00212470806%2F1875122901%2F0440.jp2/pct:57.949652,30.991212,16.423761,9.197200/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1881-02-03/ed-1/seq-2)
 
 #### 1881-02-03 &middot; Memphis, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n are the very sinews of vir­  
+sation are the very sinews of vir­  
 tue. Good character is above all  
 things else. Your character cannot  
 be essentially injured, except by your  
@@ -1408,6 +1703,7 @@ over tae above maxims at least once
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1881-05-28/ed-1/seq-1)
 
 #### 1881-05-28 &middot; Winnsboro, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  gains.  
@@ -1434,9 +1730,10 @@ above maxIms at least once a week
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1881-06-02/ed-1/seq-1)
 
 #### 1881-06-02 &middot; Millheim, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-are the very sinews  
+tion are the very sinews  
 of virtue. Good character is above all  
 things else. Your character cannot be  
 essentially injured, except by your own  
@@ -1471,9 +1768,10 @@ above maxims at least once a week
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1881-06-09/ed-1/seq-4)
 
 #### 1881-06-09 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- are  
+ation are  
 the very sinews of virtue. Good character is  
 above all things else. Your character caunot  
 be essentially injured except by your own  
@@ -1498,7 +1796,7 @@ Save when you are young, that you may
 spend when you are old. Read over the  
 above maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861915%2F1881060901%2F0248.jp2/pct:55.338001,27.283661,15.335408,11.912923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861915%2F1881060901%2F0248.jp2/pct:55.338001,27.121294,15.335408,12.075290/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1507,6 +1805,7 @@ above maxims at least once a week
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1887-01-13/ed-1/seq-3)
 
 #### 1887-01-13 &middot; [Wilmington, Del.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  Never play at any game of chance,  
@@ -1545,9 +1844,54 @@ once a week
 
 ---
 
+## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1891-09-17/ed-1/seq-4)
+
+#### 1891-09-17 &middot; Stillwater, Minn.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+if anyone speaks evil of you, let your life  
+be so that no one will believe him. Drink  
+no kind of intoxicating liquors. Ever live  
+(adversity excepted) within your income.  
+When you retire to bed, think over what  
+you have been doing during the day. Make  
+no haste to be rich, if you wou
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1891091701%2F0154.jp2/pct:30.972758,25.024795,14.879454,4.025787/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1893-04-01_46_13?page=22)
+
+#### 1893-04-01
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Your character cannot be essentially injured except by your own  
+acts.  
+  
+If anyone speaks evil of you, let your life be so that no one will  
+believe him.  
+  
+Drink no kind of intoxicating liquors.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1893-04-01_46_13&#0036;22/pct:12.437811,10.286678,36.722637,4.068297/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1894-12-08_71_23?page=8)
 
 #### 1894-12-08 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1579,6 +1923,7 @@ generous. Save when yo
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn91068247/1894-12-14/ed-1/seq-1)
 
 #### 1894-12-14 &middot; Charlotte, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1605,6 +1950,7 @@ erous. Save when you are young an
 ## [From _The New South._](https://chroniclingamerica.loc.gov/lccn/sn87065071/1895-06-01/ed-1/seq-4)
 
 #### 1895-06-01 &middot; Ellisville, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1637,6 +1983,7 @@ when you are youi g and enjoy you
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
 
 #### 1895-10-19 &middot; Bendigo, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1658,6 +2005,7 @@ yon are generous. -J Small and stead
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
 #### 1895-11-23 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1680,6 +2028,7 @@ any one. Be just before you ar
 #### From _The Kadina and Wallaroo Times (SA : 1888 - 1954)_
 
 #### 1895-11-30 &middot; Kadina, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1701,6 +2050,7 @@ if you can possibly avoid it. : Neve
 #### From _The Mount Barker Courier and Onkaparinga and Gumeracha Advertiser (SA : 1880 - 1954)_
 
 #### 1895-12-06 &middot; Mount Barker, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1719,6 +2069,7 @@ you, can possibly avoid it. Never spea
 ## [From _Audubon Republican._](https://chroniclingamerica.loc.gov/lccn/sn87057928/1895-12-26/ed-1/seq-7)
 
 #### 1895-12-26 &middot; Audubon, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1735,11 +2086,36 @@ it. Do no! marry until you are able to
 support a wife. Never speak evil of  
 anyone. Be just before you are gener­  
 ous. Save when you are young and en­  
-joy your savings when you 
+joy your savings when you are o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gardevoir_ver02%2Fdata%2Fsn87057928%2F00340584405%2F1895122601%2F0443.jp2/pct:65.646503,17.716451,13.782479,8.761707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [Advice to Young Men.](http://trove.nla.gov.au/ndp/del/article/137529251)
+
+#### From _Dungog Chronicle : Durham and Gloucester Advertiser (NSW : 1894 - 1954)_
+
+#### 1899-01-27 &middot; Dungog, New South Wales
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+company and good conversation are the  
+very sinews of virtue. Good character is  
+above all things else/ Your character  
+cannot be essentially injured except by  
+your own acts. If one speaks evil of y  
+od, let your life be so that no one will  
+believe him. Drink no kind of  
+intoxicating liquors. Ever live,  
+misfortune excepted, within your income.  
+When you retire to bed, think of what  
+you have done during ? the day. Make no  
+haste to be rich; if you would pr
+</td></tr></table>
 
 ---
 

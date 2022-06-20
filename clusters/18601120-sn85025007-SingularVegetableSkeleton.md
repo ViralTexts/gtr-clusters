@@ -1,13 +1,14 @@
 
 # A Singular Vegetable Skeleton
 
-### 110 reprints from 1860-11-20 to 1893-03-21
+### 79 reprints from 1860-11-17 to 1877-09-23
 
 ## [A Singular Vegetable Skeleton](http://chroniclingamerica.loc.gov/lccn/sn85025007/1860-11-20/ed-1/seq-4/)
 
 #### From _Alexandria Gazette_
 
 #### 1860-11-20
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 A SINGULAR VEGETABLE SKELETON.—A singular story is told of an apple tree planted over the grave of Roger Williams. This tree had pushed downward one of its main roots in a sloping direction, and nearly straight course, toward the precise spot that had been occupied by the skull of Roger Williams. There making a turn conforming with the circumference, the root followed the direction of the back-bone to the hips, and thence divided into two branches, each one following the leg bone to the heel, where they both turned upwards to the extremities of the toes of the skeleton. One of the roots formed a slight crook at the part occupied by the knee joint, thus producing an increased resemblance to the outlines of the skeleton of Roger Williams, as if, indeed, moulded thereto by the powers of vegetable life.  
@@ -16,9 +17,37 @@ A SINGULAR VEGETABLE SKELETON.—A singular story is told of an apple tree plant
 
 ---
 
+## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1860-11-17/ed-1/seq-4)
+
+#### 1860-11-17 &middot; New York [N.Y.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A curious story is told of an apple tree  
+planted over the grave of Roger Williams. This tree- had  
+pushed downward one of its main roots in a sloping direction*  
+and nearly straight course, toward the precise spot that had  
+been occupied by the skull of Roger Williams. There making  
+a turn conforming with its circumference, the root followed the  
+direction of the back bone to the hips, and thence divided into  
+two branches, each one following a leg bone to the heel, where  
+they both turned upward to the extremities of the toes of the  
+skeleton. One of the roots formed a slight crook at the part  
+occupied by the knee joint, thus producing an increased resem­  
+blance to the outlines of the skeleton of Roger Williams, as if,  
+indeed, molted thereto by the powers of vegetable life. Thi
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_collins_ver01%2Fdata%2Fsn83030364%2Fprint00211110107%2F1860111701%2F0004.jp2/pct:81.089405,12.818341,12.262408,4.739054/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Daily Nashville patriot._](https://chroniclingamerica.loc.gov/lccn/sn83025725/1860-11-20/ed-1/seq-2)
 
 #### 1860-11-20 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -49,6 +78,7 @@ moulded thereto by the powers of vegetabl
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1860-11-20/ed-1/seq-4)
 
 #### 1860-11-20 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 to stake off gold claims. Cal­  
@@ -83,32 +113,19 @@ to by the powers of vegetable life
 
 ---
 
-## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1860-11-23/ed-1/seq-3)
+## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1860-11-29/ed-1/seq-1)
 
-#### 1860-11-23 &middot; Keokuk, Iowa
+#### 1860-11-29 &middot; Plymouth, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-(pgrA singular story is told oi an apple  
-tree planted over tbe grave of Roger VVii­  
-liams. This tree bad pushed downward one  
-gf ite main route in a noting direction, and  
-lieorly straight course, toward the precitie  
-•pot that bnd bean occupied by tba skull of  
-Roger Williams. There making a tarn oon- I  
-forming wab us oircumferencs, the root fol-!  
-lowed the direotion of the backbone to the  
-kips, and tbenoe divided into two branches,  
-•acb one following a leg bona to tba beal,  
-Where tbev totb turned upward to tba ax­  
-trciuity of the toes of tbe skeletoo. Una of  
-the roota formed a slight orook at tba part  
-Ouaupiad by tbe knee joint, thua producing  
-•n increased resemblance to to tbe outlines  
-of tbe skeleton of Roger VI illiams, as if, in­  
-deed, modeled thereto by tbe powera of veg
+  
+tlw &#x27;y!??0 &quot;ften charged Williams. This tree had pushed down­  
+mM aaanredbT tZl S imuAlon ward one cf its main root: in a sloping tff  
+SSlfc -d nearly straight course, toward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ivysaur_ver01%2Fdata%2Fsn83025182%2F00279528682%2F1860112301%2F0020.jp2/pct:4.856260,65.381608,15.138988,9.450960/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200294567%2F1860112901%2F0069.jp2/pct:6.082019,84.034987,25.059937,1.787774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,6 +134,7 @@ deed, modeled thereto by tbe powera of veg
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1860-11-29/ed-1/seq-1)
 
 #### 1860-11-29 &middot; Plymouth, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -161,12 +179,25 @@ thereto by the powers of vegetable lif
 #### From _The Dover gazette._
 
 #### 1860-12-01 &middot; Dover, N.H.
+
 [This text is not available under an open license.]
+
+---
+
+## Local and Maine Items
+
+#### From _Bangor daily Whig & courier._
+
+#### 1860-12-06 &middot; Bangor, Me.
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1860-12-06/ed-1/seq-1)
 
 #### 1860-12-06 &middot; Towanda, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -186,7 +217,7 @@ j both turned upward to tlie extremities of the
 i a slight crook at the part occupied by the  
 knee joint thus producing an increased resem­  
 blance to the outlines of the skeleton of Roger  
-Williams, as if indeed, molded thereto by the
+Williams, as if indeed, molded thereto by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860120601%2F0515.jp2/pct:45.856264,63.834448,15.603755,9.850174/!600,600/0/default.jpg"/>
 </td>
@@ -194,17 +225,10 @@ Williams, as if indeed, molded thereto by the
 
 ---
 
-## Local and Maine Items
-
-#### From _Bangor daily Whig & courier._
-
-#### 1860-12-06 &middot; Bangor, Me.
-[This text is not available under an open license.]
----
-
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
 
 #### 1860-12-22 &middot; Sioux City, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -220,11 +244,9 @@ out, .. i i- mn i«v.r
 e  
   
 favor resistance in some rnuiner.  
-Montgomery Admrtiser yesterd iy pun- tion and nearly straight course toward the  
-lisbed a presentment of the grand jury of precise spot that had been occupied by  
-the Federal District Coutt, declaring th
+Montgomery Admrtiser yesterd iy pun- tion and nearly straight course toward th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:44.838855,62.621133,27.383367,3.914350/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:44.838855,62.621133,27.383367,2.856417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,6 +255,7 @@ the Federal District Coutt, declaring th
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
 
 #### 1860-12-22 &middot; Sioux City, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -259,6 +282,7 @@ sr out of the lattefs lei&#x27;.isal to surrender I ties of lb# toes of the skel
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
 
 #### 1860-12-22 &middot; Sioux City, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -268,11 +292,9 @@ tncdiat Iy taken.
 tljp roots formed a slight crook at tho fia.rt  
   
 occupied by the knee joint, thus producing  
-an increased resemblance to ihe outlines  
-  
-Much dissatisfaction is expressed at the of the skeleton of Roger Ui liams, as i
+an increased resemblance to ihe outlines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:44.861393,71.012653,23.833671,2.221658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:44.861393,71.012653,23.833671,1.586899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,6 +303,7 @@ Much dissatisfaction is expressed at the of the skeleton of Roger Ui liams, as i
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
 
 #### 1860-12-22 &middot; Sioux City, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -302,6 +325,7 @@ thence divided into two branches each one
 ## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1860-12-27/ed-1/seq-2)
 
 #### 1860-12-27 &middot; St. Charles City [Charles City], Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -326,6 +350,7 @@ ishment from the phosphates of th
 ## [From _The weekly pioneer and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016751/1860-12-28/ed-1/seq-6)
 
 #### 1860-12-28 &middot; Saint Paul, Minn. Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -347,9 +372,14 @@ cupied by the knee joint, and the entir
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1860-12-29/ed-1/seq-1)
 
 #### 1860-12-29 &middot; Auburn, Placer County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+e ot the unexpired term and until  
+his or their successor or successors arc elected  
+and qualified, and such person or persons so ap­  
+pointed shall in all cases comply with the provi­  
+sions of this act.  
 A singular story is told of an apple treo  
 planted over the grave of Roger Williams.  
 This ire.- had pushed downward one of its  
@@ -369,7 +399,7 @@ bianco to the outlines of the skelet n of
 Roger Williams, as if, indeed, molded there­  
 to by the powers of vegetable life. &#x27;This si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557979%2F1860122901%2F0426.jp2/pct:47.236504,55.073961,14.831987,10.591018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557979%2F1860122901%2F0426.jp2/pct:47.236504,52.302106,14.831987,13.362873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,6 +408,7 @@ to by the powers of vegetable life. &#x27;This si
 ## [From _The Jeffersonian Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028083/1861-01-04/ed-1/seq-4)
 
 #### 1861-01-04 &middot; Chardon, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -414,6 +445,7 @@ thereto by tho powers of vegetable life
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1861-02-14/ed-1/seq-1)
 
 #### 1861-02-14 &middot; Cumberland, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -447,6 +479,7 @@ ded I hereto Ly tiio powers of vcgitable.
 ## [From _The hydraulic press._](https://chroniclingamerica.loc.gov/lccn/sn93051083/1861-03-23/ed-1/seq-1)
 
 #### 1861-03-23 &middot; North San Juan, Nev. Co., Cal.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -479,6 +512,7 @@ power of vegetable life. This singularl
 ## [From _The Texas Republican._](https://chroniclingamerica.loc.gov/lccn/sn83025730/1861-04-13/ed-1/seq-1)
 
 #### 1861-04-13 &middot; Marshall, Tex.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -512,6 +546,7 @@ moulded thereto by the powers of vege
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1862-09-27/ed-1/seq-1)
 
 #### 1862-09-27 &middot; Shasta, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -543,12 +578,10 @@ ed thereto liy the powers of vegetable life.
 ## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1864-03-18/ed-1/seq-1)
 
 #### 1864-03-18 &middot; St. Albans, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-FniMc or N.VTttni: A stoiy is told  
-of an apple froo planted over the grave  
-of Boger Williams to this effect : Tho  
 tree had publied dowiiAarel one of its  
 main loots in a sloping direction, m,.l  
 iiearh straight course, toAiHrel the pre­  
@@ -570,7 +603,7 @@ joint, uius producing an uiere?ed re-
 blacks, and tho ignorance of mental  
 slavery of six millions of white men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1864031801%2F0002.jp2/pct:40.547264,66.639709,51.403696,18.142607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1864031801%2F0002.jp2/pct:40.547264,68.311093,51.403696,16.471223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,6 +612,7 @@ slavery of six millions of white men
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1864-04-15/ed-1/seq-4)
 
 #### 1864-04-15 &middot; Irasburgh, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -608,6 +642,7 @@ if, indeed, molded thereto by the power
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1865-09-14/ed-1/seq-1)
 
 #### 1865-09-14 &middot; Towanda, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -637,12 +672,26 @@ by the powers of vegetable life. This sin
 
 ---
 
-## ROGER WILLIAMS
-
-#### From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37?page=19)
 
 #### 1866-10-01 &middot; Cincinnati
-[This text is not available under an open license.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+it reached the precise spot occupied by the  
+skull of Roger Williams. There making a turn  
+as if going round the skull, it followed the  
+direction of the backbone to the hips. Here  
+it divided into two branches, sending one along  
+each leg to the heel, where they both turned  
+upward to the toes. One of these roots formed  
+a slight crook at the knee, which makes th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37&#0036;19/pct:53.306686,20.559846,33.648256,9.869691/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## Reger Williams—Search for His Remains—His Body Absorbed by the Roots of a Tree—A Curious Incident
@@ -650,12 +699,15 @@ by the powers of vegetable life. This sin
 #### From _The daily Cleveland herald._
 
 #### 1866-10-04 &middot; Cleveland [Ohio]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1866-10-14/ed-1/seq-3)
 
 #### 1866-10-14 &middot; Chicago, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -678,6 +730,7 @@ a slight crook at the knee, which makes th
 ## [From _The tri-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn85042146/1866-10-16/ed-1/seq-3)
 
 #### 1866-10-16 &middot; Raleigh, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -700,6 +753,7 @@ crook at the knee, which makes the whol
 ## [From _The weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042148/1866-10-17/ed-1/seq-2)
 
 #### 1866-10-17 &middot; Raleigh, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -722,6 +776,7 @@ crook at the knee, which makes the whol
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1866-10-17/ed-1/seq-1)
 
 #### 1866-10-17 &middot; Mifflintown, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -745,9 +800,11 @@ slight crook at the knee, which make
 ## [From _The Weekly Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026193/1866-10-19/ed-1/seq-1)
 
 #### 1866-10-19 &middot; Perrysburg, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+larger root had pushed its way through the  
 earth till it reached th precise spot occu­  
 pied by the skull of Roger Williams. There  
 making a turn a if going round tho skull,  
@@ -758,7 +815,7 @@ where they both turusd upward to the tosa.
 On of these roots formed a slight crook at  
 ti e kneo, which makes the whole bear 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026193%2F00280775757%2F1866101901%2F0568.jp2/pct:56.325301,39.451365,12.349398,4.108137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026193%2F00280775757%2F1866101901%2F0568.jp2/pct:56.325301,38.961039,12.349398,4.598463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,6 +824,7 @@ ti e kneo, which makes the whole bear
 ## [From _The day book._](https://chroniclingamerica.loc.gov/lccn/sn85025697/1866-10-20/ed-1/seq-1)
 
 #### 1866-10-20 &middot; Norfolk, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -788,6 +846,7 @@ formed a slight crook at the knee, which mad
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1866-10-23/ed-1/seq-1)
 
 #### 1866-10-23 &middot; Memphis, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -811,6 +870,7 @@ slight crook at the knee, which make
 ## [From _The south-western._](https://chroniclingamerica.loc.gov/lccn/sn83016483/1866-10-24/ed-1/seq-6)
 
 #### 1866-10-24 &middot; Shreveport, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -829,17 +889,20 @@ One of these roots formed a slight crook at th
 
 ---
 
-## Roger Williams
+## ROGER WILLIAMS.-Ninety years after his death
 
-#### From _Milwaukee daily sentinel._
+#### From _The Times_
 
-#### 1866-10-25 &middot; [Milwaukee, Wis.]
+#### 1866-10-26 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1866-10-26/ed-1/seq-1)
 
 #### 1866-10-26 &middot; Portland, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -858,17 +921,10 @@ crook at the knee, which makes the whole l&gt;e.i
 
 ---
 
-## ROGER WILLIAMS.-Ninety years after his death
-
-#### From _The Times_
-
-#### 1866-10-26 &middot; London, England
-[This text is not available under an open license.]
----
-
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8?page=3)
 
 #### 1866-10-27
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -887,38 +943,30 @@ the knee, which made the whole bear a very clos
 
 ---
 
-## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1866-10-30/ed-1/seq-2)
-
-#### 1866-10-30 &middot; Davenport, Iowa
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-way through the earlb till it reached the  
-precise tpot occupied by the skull of Roger  
-Williams. Tbeie makun turn as it eoing  
-around the skull, it lollnwcd &#x27;he directii n  
-of thM backbone to the hip*. Hi ru it divid­  
-ed into two branches, sending one slon^  
-each leg to the heel, where they both tinned  
-upward lo the toe* O-eof these ro-i»f rt
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528608%2F1866103001%2F0249.jp2/pct:15.833449,28.235860,9.800120,3.236785/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## Who Ate Roger Williams?
 
 #### From _Bangor daily Whig & courier._
 
 #### 1866-10-31 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
+
+---
+
+## Roger Wiliams—Search for His Remains—His Body Absorbed by the Roots of a Tree—A Curious Incident
+
+#### From _Daily evening bulletin._
+
+#### 1866-11-02 &middot; San Francisco [Calif.]
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _The Conservative._](https://chroniclingamerica.loc.gov/lccn/sn87075001/1866-11-02/ed-1/seq-4)
 
 #### 1866-11-02 &middot; M'connelsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 o skull of  
@@ -937,25 +985,20 @@ formed a slight crook at . the knee
 
 ---
 
-## Roger Wiliams—Search for His Remains—His Body Absorbed by the Roots of a Tree—A Curious Incident
-
-#### From _Daily evening bulletin._
-
-#### 1866-11-02 &middot; San Francisco [Calif.]
-[This text is not available under an open license.]
----
-
 ## ROGER WILLIAMS.
 
 #### From _Glasgow Herald_
 
 #### 1866-11-03 &middot; Glasgow, Scotland
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1866-11-07/ed-1/seq-1)
 
 #### 1866-11-07 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -972,9 +1015,34 @@ the whole bear a very close resem­
 blance to the human form. This sin­  
 gular root is preserved w ith great care,  
 not only as an illustration of a great  
-principle of vegeta
+principle of veget
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769799%2F1866110701%2F0037.jp2/pct:66.737509,49.546717,12.296149,7.459940/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1866-11-13/ed-1/seq-4)
+
+#### 1866-11-13 &middot; Lancaster, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+h&gt;,(1 pushed its way through the  
+earth till it reached the precise spot  
+by ttie skull of Roger Wil­  
+liams. There making a turn as it  
+going round the skull, it followed  
+the direction ofthe back bone to the  
+hips. Here it divided into two  
+branches, sending one along each  
+leg to the heel, where they both turn­  
+ed upward to the toes. Ono of these  
+formed a slight crook at th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159361%2F1866111301%2F0104.jp2/pct:5.876279,48.479040,12.085797,5.970255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,6 +1051,7 @@ principle of vegeta
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1866-11-22/ed-1/seq-1)
 
 #### 1866-11-22 &middot; Towanda, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1003,9 +1072,20 @@ ed a slight crook at the knee, which mad
 
 ---
 
+## CONSECRATION OF ST. PAUL'S CHURCH., CHOPPINGTON.
+
+#### From _Newcastle Courant_
+
+#### 1866-11-23 &middot; Newcastle-upon-Tyne, England
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1866-11-23/ed-1/seq-1)
 
 #### 1866-11-23 &middot; Bellows Falls, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1028,17 +1108,10 @@ formed a slight crook at the knee, whic
 
 ---
 
-## CONSECRATION OF ST. PAUL'S CHURCH., CHOPPINGTON.
-
-#### From _Newcastle Courant_
-
-#### 1866-11-23 &middot; Newcastle-upon-Tyne, England
-[This text is not available under an open license.]
----
-
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1866-11-29/ed-1/seq-1)
 
 #### 1866-11-29 &middot; Richmond, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1061,6 +1134,7 @@ these roots formed a slight crook at th
 ## [From _The Montana post._](https://chroniclingamerica.loc.gov/lccn/sn83025293/1866-12-01/ed-1/seq-1)
 
 #### 1866-12-01 &middot; Virginia City, Montana Territory [i.e. Mont.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1086,7 +1160,9 @@ at the knee, which made the whole bea
 #### From _Pall Mall Gazette_
 
 #### 1866-12-03 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## GENERAL NEWS.
@@ -1094,12 +1170,25 @@ at the knee, which made the whole bea
 #### From _Glasgow Herald_
 
 #### 1866-12-05 &middot; Glasgow, Scotland
+
 [This text is not available under an open license.]
+
+---
+
+## GENERAL NEWS.
+
+#### From _Bristol Mercury_
+
+#### 1866-12-08 &middot; Bristol, England
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1866-12-08/ed-1/seq-1)
 
 #### 1866-12-08 &middot; Shasta, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1118,19 +1207,12 @@ ward to the toes. One of these roots had
 
 ---
 
-## GENERAL NEWS.
-
-#### From _Bristol Mercury_
-
-#### 1866-12-08 &middot; Bristol, England
-[This text is not available under an open license.]
----
-
 ## [POLICE.](http://trove.nla.gov.au/ndp/del/article/112860461)
 
 #### From _The Ballarat Star (Vic. : 1865 - 1924)_
 
 #### 1867-01-02 &middot; Ballarat, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1153,6 +1235,7 @@ crook at the knee, which makes the whol
 #### From _Empire (Sydney, NSW : 1850 - 1875)_
 
 #### 1867-01-19 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1175,12 +1258,10 @@ formed a slight crook at the knee, wblo
 #### From _South Australian Weekly Chronicle (Adelaide, SA : 1858 - 1867)_
 
 #### 1867-01-19 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-reached the precise spot occupied by the  
-skull of Koger Williams. There making a  
-turn as if going round the skull, it  
 followed the direction of the backbone  
 to the hips. Here it divided into two  
 branches, sending one along each leg to  
@@ -1194,6 +1275,7 @@ slight crook at the knee, which make
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1867-01-31/ed-1/seq-1)
 
 #### 1867-01-31 &middot; Fayetteville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1216,35 +1298,14 @@ slight crook at the knee, whic
 
 ---
 
-## [AN APPLE TREE ROBBING A GRAVE !](http://trove.nla.gov.au/ndp/del/article/90361043)
-
-#### From _The McIvor Times and Rodney Advertiser (Heathcote, Vic. : 1863 - 1918)_
-
-#### 1867-02-01 &middot; McIvor, Victoria
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-spot ocq~pied by the skull of Roger  
-Williams. There malking a turn as if  
-going round the skull it followed the  
-direction of the back bone to the hips.  
-Here it divided into two branches  
-sending one along each leg to the heel,  
-where both turned upwards to the toe.  
-One of these roots formed a slight crook  
-at the knee, which makes the whole bear  
-a very close resemblance to the human  
-form. The graves were emptied of ever
-</td></tr></table>
-
----
-
 ## A Curious Incident
 
 #### From _The Hawaiian gazette._
 
 #### 1867-04-24 &middot; Honolulu [Oahu, Hawaii]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [Miscellaneous.](http://trove.nla.gov.au/ndp/del/article/110068970)
@@ -1252,6 +1313,7 @@ form. The graves were emptied of ever
 #### From _The Herald (Fremantle, WA : 1867 - 1886)_
 
 #### 1867-07-13 &middot; Fremantle, Western Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1284,6 +1346,7 @@ crook at the knee, which makes the whol
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
 #### 1868-05-23 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1303,134 +1366,10 @@ form. The graves were emptied of ever
 
 ---
 
-## Who Ate Roger Williams?
-
-#### From _Lowell daily citizen and news._
-
-#### 1868-10-24 &middot; Lowell, Mass.
-[This text is not available under an open license.]
----
-
-## [From _The Monthly Religious Magazine (1861-1869)_](https://iiif.archivelab.org/iiif/sim_monthly-religious-magazine-and-theological-review_1868-12_40_6?page=75)
-
-#### 1868-12-01 &middot; Boston
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-down two main roots into the very presence of the coffined dead.  
-The large root, pushing its way to the precise spot occupied by the  
-skull of Roger Williams, had made a turn, as if passing around it,  
-and followed the direction of the back bone to the hips. Here it di-  
-vided into two branches, sending one along each leg to the heels,  
-when both turned upward to the toes. One of these roots formed a  
-slight crook at the knee, which made the whole bear a striking re-  
-semblance to the human form. There were the graves, but the oc-  
-cupants had disappeared; the very bones had vanished. There  
-stood the thief — t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_monthly-religious-magazine-and-theological-review_1868-12_40_6&#0036;75/pct:20.759369,21.693735,66.074951,16.415313/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Who Are Roger Williams?
-
-#### From _Daily evening bulletin._
-
-#### 1868-12-02 &middot; San Francisco [Calif.]
-[This text is not available under an open license.]
----
-
-## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1868-12-07/ed-1/seq-1)
-
-#### 1868-12-07 &middot; Wheeling, W. Va.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-two main roots iuto the very presence of  
-the confined dead. The larger root,  
-pushing its way to the precise spot oc­  
-cupied by the skull of Roger Williams,  
-had made a turn as it passed around it,  
-and followed the direction of the back­  
-bone to tho hips. Here it divided into  
-two branches, sending one along each  
-leg to the heels, when both turned up­  
-ward to the toes. One of these roots  
-formed a slight crook at the knee
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_chekhov_ver01%2Fdata%2Fsn84026847%2F00415665076%2F1868120701%2F0547.jp2/pct:49.015252,56.204033,11.984797,4.941535/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## The Cannibal Apple Ttree
-
-#### From _Daily Arkansas gazette._
-
-#### 1868-12-10 &middot; Little Rock, Ark.
-[This text is not available under an open license.]
----
-
-## Who Ate Roger Williams?
-
-#### From _Milwaukee daily sentinel._
-
-#### 1869-01-07 &middot; [Milwaukee, Wis.]
-[This text is not available under an open license.]
----
-
-## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1869-01-21/ed-1/seq-1)
-
-#### 1869-01-21 &middot; Belfast, Me.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-an apple tree. This had sent down two  
-main roots into the very presence of the  
-coiiined dead. The large root, pushing its  
-way to the precise spot occupied by the  
-skull of Roger Williams, had made a turn  
-as if passing round it, and followed the di­  
-rection of the backbone to the hips. Here  
-it divided into two branches, sending one  
-along each leg to the heels, when both turn­  
-ed upward to the toes. One of these roots  
-formed a slight crook at the knee, whic
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524652%2F1869012101%2F0015.jp2/pct:69.107833,22.010077,12.842466,5.916866/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1869-05-20/ed-1/seq-1)
-
-#### 1869-05-20 &middot; Tipton, Cedar Co., Iowa
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-way to the precise spot occupied by the  
-skull of Roger Williams, hud made a  
-turn as if passing around it, and follow­  
-ed the direction of the backbone to the  
-hips. Here it divided into two branches,  
-sending one along each leg to the heels,  
-when both turned upwards to the toes.  
-  
-complaiut, lie applied to t^oy, landlady ue of these roots formed a slight crook Jjaiu. Saui is a dissatisfied sort of a
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027398%2F00279529418%2F1869052001%2F0705.jp2/pct:43.196044,79.720864,39.414023,3.825202/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Historical Magazine, and Notes and Queries Concerning the Antiquities, History, and Biography of America (1857-1875)_](https://iiif.archivelab.org/iiif/sim_historical-magazine-biography-of-america_1870-07_8_1?page=57)
 
 #### 1870-07-01 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1453,12 +1392,15 @@ One of these roots formed a slight crook at the
 #### From _The Milwaukee sentinel._
 
 #### 1871-06-15 &middot; Milwaukee, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1871-09-13/ed-1/seq-1)
 
 #### 1871-09-13 &middot; Urbana, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1479,30 +1421,10 @@ at the knee, which made the whole bea
 
 ---
 
-## [From _The union Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025134/1871-09-23/ed-1/seq-1)
-
-#### 1871-09-23 &middot; Sonora, Calif.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-earth till it reached the precise spot occupied  
-by the skr.ll of Roger Williams. There mak­  
-ing a turn, as if going round the skull, it follow­  
-ed the direction of the back-bone to the hips;  
-there it divided into two branches, sending  
-one along each leg to the heel, whore they  
-both turned upward to the toes. One of these  
-roots formed a slight crook at the knee, whic
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025134%2F00279556720%2F1871092301%2F0564.jp2/pct:64.696624,35.476726,13.937548,3.950988/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1871-09-29/ed-1/seq-1)
 
 #### 1871-09-29 &middot; Bridgeton, N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1524,30 +1446,10 @@ a close resemblance to the human form
 
 ---
 
-## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1871-10-07/ed-1/seq-1)
-
-#### 1871-10-07 &middot; Olympia, Wash. Territory
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-the earth till il reached the precise spot  
-occupied by the skull of lloger Williams.  
-There, making n turn as it&#x27; going around  
-the skull, it fdlowe 1 the direction of the  
-back bone to the hips. Here it divided  
-into two branches, sending one along each  
-leg to thi) heel, where they both turned  
-upward to the toes. One of these root
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291062%2F1871100701%2F0513.jp2/pct:21.906869,46.933073,14.046565,4.621350/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Hawaiian gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025121/1871-11-15/ed-1/seq-3)
 
 #### 1871-11-15 &middot; Honolulu [Oahu, Hawaii]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1569,6 +1471,7 @@ formed a slight crook at the knee, which made t
 ## [From _Wellman's Miscellany (1870-1873)_](https://iiif.archivelab.org/iiif/sim_wellmans-miscellany_1871-12_4_6?page=10)
 
 #### 1871-12-01 &middot; Detroit
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1588,31 +1491,10 @@ a slight crook at the knee, which make
 
 ---
 
-## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1872-05-30/ed-1/seq-1)
-
-#### 1872-05-30 &middot; Manchester, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-through the earth till it reached the pre­  
-cise spot occupied by the skull ol Hoger  
-Williams. There making a turn a if go­  
-ing around the skull, it followed the di­  
-rection of the backbone to tho hips. Hero  
-divided into two tranches, Il sunt oim  
-along each leg to lhe heel, where they  
-both turned upward to tho toe. One of  
-these roots formed a slight crook al th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1872053001%2F0865.jp2/pct:81.784093,73.730298,12.689955,4.944093/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1872-09-27/ed-1/seq-2)
 
 #### 1872-09-27 &middot; Jasper, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1636,10 +1518,9 @@ roots formed a slight crook at the part
 occupied by the kneejoint, thus pro­  
 ducing an increased resemblance to the  
 outlines of a skeleton of Roger Wil­  
-liame, as if, indeed, molded thereto by  
-the
+liame, as if, indeed, molded thereto b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_bird_ver02%2Fdata%2Fsn84023963%2F00200295924%2F1872092701%2F1264.jp2/pct:82.220350,67.390139,16.810617,12.687567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_bird_ver02%2Fdata%2Fsn84023963%2F00200295924%2F1872092701%2F1264.jp2/pct:82.220350,67.390139,16.810617,12.258842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,36 +1531,15 @@ the
 #### From _Boston daily advertiser._
 
 #### 1874-03-05 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
----
-
-## [From _New-York tribune._](https://chroniclingamerica.loc.gov/lccn/sn83030214/1874-03-23/ed-1/seq-6)
-
-#### 1874-03-23 &middot; New York [N.Y.]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-downward in a sloping direction aud nearly straight  
-course toward th?) pssetss ?pot that l_d been oceii­  
-pitid by tho skull of Roger Williams. Thence it fol­  
-lowed tho direction of tin? back-lsme to tho hips,  
-and thence divided into two bran? lies, each one fol?  
-lowing a leg-l)ouo to tho heel, II li? le they both  
-turned upward to the extremity ot the t.s-s of the  
-skeldon. One of tho roots formed a slight crook at  
-tim part occupied by tho knee-joints, thus producing  
-at. laeieaaad resemblance to tin. outline?? of Hie skel?  
-eton : but not a fragment ?if Roger&#x27;s remains re
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_hugo_ver01%2Fdata%2Fsn83030214%2F00206531162%2F1874032301%2F0648.jp2/pct:67.006915,63.816876,16.189222,6.041403/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1874-04-01/ed-1/seq-4)
 
 #### 1874-04-01 &middot; New Orleans, La
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1706,6 +1566,7 @@ blance to the outlines of the skeleton; bu
 ## [From _The Grange advance._](https://chroniclingamerica.loc.gov/lccn/sn85025567/1874-04-08/ed-1/seq-10)
 
 #### 1874-04-08 &middot; Red Wing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1732,6 +1593,7 @@ resemblance to the outlines of the skele
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1874-04-16/ed-1/seq-3)
 
 #### 1874-04-16 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1761,6 +1623,7 @@ blance to the outlines of the skeleton
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
 #### 1874-06-20 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1788,6 +1651,7 @@ of the skeleton ; and not a fragment o
 #### From _The Brisbane Courier (Qld. : 1864 - 1933)_
 
 #### 1874-06-29 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1814,6 +1678,7 @@ skeloton ; but not a fragment of Roger&#x27;
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
 #### 1874-06-30 &middot; Clare, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1840,6 +1705,7 @@ the outlines of tie skeleton; and not
 #### From _Portland Guardian and Normanby General Advertiser (Vic. : 1842 - 1876)_
 
 #### 1874-07-03 &middot; Portland, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1867,6 +1733,7 @@ skeleton ; and not a fragiment o
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
 #### 1874-07-04 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1894,6 +1761,7 @@ skeleton : but not a fragment of Roger&#x27;
 #### From _Clarence and Richmond Examiner and New England Advertiser (Grafton, NSW : 1859 - 1889)_
 
 #### 1874-07-14 &middot; Grafton, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1920,7 +1788,9 @@ to thc outlines of the skeleton j bu
 #### From _Derby Mercury_
 
 #### 1874-07-22 &middot; Derby, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## THE FARMER'S JOURNAL.
@@ -1928,61 +1798,8 @@ to thc outlines of the skeleton j bu
 #### From _Trewman's Exeter Flying Post_
 
 #### 1874-07-22 &middot; Exeter, England
+
 [This text is not available under an open license.]
----
-
-## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1877-06-21/ed-1/seq-4)
-
-#### 1877-06-21 &middot; Manitowoc, Wis.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-tree, the larger root of which had pushed  
-its way to the precise spot occupied by  
-the skull of Roger Williams, and, turn­  
-ing. passed around it and followed the  
-direction of the backbone to the hips.  
-Here it divided into two branches, send­  
-ing one along each leg to the heel, when  
-the roots turned upward to the toes, the  
-whole bearing a striking resemblance to  
-the human form. These roots ar
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1877062101%2F0720.jp2/pct:28.879589,89.471990,10.781311,5.390999/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Who Ate Roger Williams!
-
-#### From _Daily Arkansas gazette._
-
-#### 1877-06-24 &middot; Little Rock, Ark.
-[This text is not available under an open license.]
----
-
-## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1877-08-02/ed-1/seq-2)
-
-#### 1877-08-02 &middot; Hillsborough [Hillsboro], Highland County, Ohio
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-grave stood an apple tree, the larger  
-root of which pushed its way to the  
-precise spot occupied by the skull of  
-Roger Williams, and turning passed  
-around it and followed the direction of  
-the backbone to the hips. Here it di  
-vided into two branches, sending one  
-along each leg to the heel, when the  
-roots turned upward to the toes, the  
-whole bearing a striking resemblance to  
-the human form. These roots are
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283600%2F1877080201%2F0076.jp2/pct:75.754294,43.407683,9.840631,4.659232/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -1991,348 +1808,8 @@ the human form. These roots are
 #### From _St. Louis globe-Democrat._
 
 #### 1877-09-23 &middot; St. Louis [Mo.]
+
 [This text is not available under an open license.]
----
-
-## [WHO ATE ROGER WILLIAMS](http://trove.nla.gov.au/ndp/del/article/135688119)
-
-#### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
-
-#### 1877-11-23 &middot; Wollongong, New South Wales
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-an apple tree, the larger root of which  
-pushed its way to the precise spot  
-occupied by the skull of Roger Williams,  
-and turning passed around it and  
-followed the direction of the back bone  
-to the hips. Here it divided into two  
-urancnes, sending one along each leg to  
-the heel, when the roots turned upwards  
-to the toes, the whole bearing a  
-striking resemblance to the human form.  
-These roots ar
-</td></tr></table>
-
----
-
-## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1892-11-03/ed-1/seq-3)
-
-#### 1892-11-03 &middot; Worthington, Minn.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-way down to the precise spot occupied by  
-the skull of Roger Williams had made a  
-turn around it and followed the direction  
-of the back bone to the hips. Here it di­  
-vided into two branches sending one along  
-each leg to the heel where both timed up­  
-ward to the toes. One of these formed 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_honda_ver01%2Fdata%2Fsn85025620%2F00212479366%2F1892110301%2F0307.jp2/pct:73.285396,85.362391,10.701821,3.074129/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Hand County press._](https://chroniclingamerica.loc.gov/lccn/sn98062948/1892-11-03/ed-1/seq-3)
-
-#### 1892-11-03 &middot; Miller, Dakota [S.D.]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-way down to the precise spot occupied by  
-the skull of Roger Williams; had made a  
-turnaround it and followed the direction  
-of the back bone to the hips. Here it di­  
-vided into two branches sending one along  
-each leg to the heel where both turned up­  
-ward to the toes. One of these formed 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_imbe_ver01%2Fdata%2Fsn98062948%2F00340581076%2F1892110301%2F1088.jp2/pct:69.378518,83.449327,10.638217,2.812608/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Hope pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87096037/1892-11-04/ed-1/seq-3)
-
-#### 1892-11-04 &middot; Hope, N.D.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-I way down to the precise spot occupied by  
-the skull of Roger Williams had made a  
-turn around it and followed the direction  
-of the back bone to the hips. Here it di­  
-vided into two branches sending one along  
-each le.o to the heel where both turned up­  
-ward to the toes. One of these formed a  
-sligth crook at the knee which made the  
-whole bear a w
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740840%2F1892110401%2F0886.jp2/pct:68.178439,83.084492,12.197955,4.117930/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Hope pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87096037/1892-11-04/ed-2/seq-3)
-
-#### 1892-11-04 &middot; Hope, N.D.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-way down to the precise spot occupied by  
-the skull of Roger Williams had made a  
-turn around it and followed the direction  
-of the back bone to the hips. Here it di­  
-vided into two branches sending one along  
-each leg to the heel where both turned up­  
-ward to the toes. One of these formed 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740840%2F1892110402%2F0890.jp2/pct:67.730464,83.239388,11.823388,3.173278/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Griggs courier._](https://chroniclingamerica.loc.gov/lccn/sn88076998/1892-11-04/ed-1/seq-7)
-
-#### 1892-11-04 &middot; Cooperstown, Griggs Co., Dak. [N.D.]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-way down to the precise spot occupied by  
-the skull of Roger Williams: had made a  
-turn around it and followed the direction  
-of the back bone to the hips. Here it di­  
-vided into two branches sending one along  
-each leg to the heel where both turned up­  
-ward to the toes. One of these formed 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_dysprosium_ver01%2Fdata%2Fsn88076998%2F0019991814A%2F1892110401%2F1251.jp2/pct:63.571429,82.609497,13.861284,3.620410/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Los Angeles herald._](https://chroniclingamerica.loc.gov/lccn/sn84025968/1892-11-19/ed-1/seq-10)
-
-#### 1892-11-19 &middot; Los Angeles [Calif.]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-| down two main roots into the very pres­  
-j ence of the coffined dead. Tho larger  
-&#x27; root, pushing its way to the precise spot  
-occupied by the skull of Roger Wil­  
-liams, had made a turn aa if passing  
-around it, and f oilswed the direction of  
-the backbone to the hips. Here it di­  
-vided into two branches, sending one  
-along each leg to the heel, where both  
-turned upward toward the loes. One of  
-these roots formed a slight crook at the  
-knee.i, which made the whole bear 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_nicasio_ver01%2Fdata%2Fsn84025968%2F00280769472%2F1892111901%2F0192.jp2/pct:21.300631,62.553782,13.917159,6.363636/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Peninsula enterprise._](https://chroniclingamerica.loc.gov/lccn/sn94060041/1892-11-19/ed-1/seq-1)
-
-#### 1892-11-19 &middot; Accomac, Va.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-down two main roots into the very pres?  
-ence of the coffined dead. The larger  
-root, pushing its way to the precise spot  
-occupied by the skull of Roger Wil?  
-liams, had made a turn as if passing&quot;  
-around it, and followed the direction of  
-the backbone to the hips. Here it di?  
-vided into two branches, sending one  
-along each leg to the heel, where both  
-turned upward toward the toes. One of  
-these roots formed a slight crook at th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_ivory_ver01%2Fdata%2Fsn94060041%2F00175033993%2F1892111901%2F0325.jp2/pct:86.345687,62.326736,11.846902,5.651916/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1892-11-25/ed-1/seq-7)
-
-#### 1892-11-25 &middot; Bloomsburg, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-down two main roots into the very prus­  
-ence of tho coflined dead. The larger  
-root, pushing its way to the precise epot  
-occupied by the skull of Roger Wil­  
-liams, bad made a turn us if passing  
-around it, und followed the direction of  
-tlio backbone to tho hips. Here it di­  
-vided iuto two branches, sending ono  
-along each leg to tho heel, whero both  
-turned upward toward the toes. One of  
-these roots formed a slight crook at th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_irvin_ver01%2Fdata%2Fsn83032011%2F00280776853%2F1892112501%2F0860.jp2/pct:17.618415,64.386439,14.519699,6.150615/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Evening capital._](https://chroniclingamerica.loc.gov/lccn/sn88065721/1892-11-26/ed-1/seq-1)
-
-#### 1892-11-26 &middot; Annapolis, Md.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-down two main roots into the very pres­  
-ence of the coffined dead. The larger  
-root, pushing ita way to the precise sj*ot  
-occupied by the skull of Roger Wil­  
-liams, had made a turn as if passing  
-around it, and followed the direction of  
-the backbone to the hips. Here it di­  
-vided into two branches, sending one  
-along each leg to the heel, where lx&gt;tit  
-turned upward toward the toes. One of  
-these roots formed a slight crook at th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kensington_ver02%2Fdata%2Fsn88065721%2F00279521705%2F1892112601%2F0660.jp2/pct:69.209175,81.776199,12.584216,5.577265/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Evening journal._](https://chroniclingamerica.loc.gov/lccn/sn85042354/1892-12-07/ed-1/seq-4)
-
-#### 1892-12-07 &middot; Wilmington, Del.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-down two main roots into the very pres­  
-ence of the coffined dead. Tho larger  
-root, pushing its way to the precise spot  
-occupied by the skull of Roger Wil­  
-liams, had made a turn as if passing  
-around it, atid followed the direction o£  
-the backbone to the hips. Here it di­  
-vided into two branches, sending one  
-along each leg to the heel, where both  
-turned upward toward the toes. One of  
-these roots formed a slight crook at th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_arden_ver01%2Fdata%2Fsn85042354%2F00383343343%2F1892120701%2F0079.jp2/pct:32.583841,61.976744,12.423780,5.915698/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Freeland tribune._](https://chroniclingamerica.loc.gov/lccn/sn87080287/1892-12-12/ed-1/seq-2)
-
-#### 1892-12-12 &middot; Freeland, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-down two main roots into the very pres­  
-ence of the coffined dead. Tho larger  
-root, pushing its way to the precise spot  
-occupied by the skull of Roger Wil­  
-liams, had made a turn as if passing  
-around it, and followed the direction o 1  
-the backbone to tho hips. Hero it di­  
-vided into two branches, sending one  
-along each leg to the lieel, where both  
-turned upward toward the toes. One of  
-these roots formed a slight crook at th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892121201%2F0884.jp2/pct:45.607290,63.739086,12.345152,6.146208/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Durham daily globe._](https://chroniclingamerica.loc.gov/lccn/sn91068305/1892-12-27/ed-1/seq-4)
-
-#### 1892-12-27 &middot; Durham, N.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-down two main roots into the ver;r pres­  
-ence of the coflined dead. The larger  
-root, pushing its way to the precise spot  
-occupied by the skull of Roger Wil-  
-liaius, had made a turn r. i if passing  
-atouud it, and followed the direction oi  
-the backbone to the hips. Here it di­  
-vide d into two branches, sending one  
-along each leg to the heel, where both  
-turned upward toward the toes. One of  
-thci-e roots formed a slight crook at di
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_fisher_ver01%2Fdata%2Fsn91068305%2F0029602420A%2F1892122701%2F0641.jp2/pct:23.637692,64.393110,14.346238,5.944439/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Madison daily leader._](https://chroniclingamerica.loc.gov/lccn/sn99062034/1893-02-06/ed-1/seq-2)
-
-#### 1893-02-06 &middot; Madison, S.D.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-down two main roots into the very pre*  
-ence of the coffined dead. The larger  
-root, pushing its way to the precise spot  
-occupied by the skull of Roger Wil­  
-liams, had made a turn as if passing  
-around it, and followed the direction of  
-the backbone to the hipe. Here it di­  
-vided into two branches, sending one  
-along each leg to the heel, where both  
-turned upward toward the toes. One of  
-these roota formed a slight crook at th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_faroe_ver01%2Fdata%2Fsn99062034%2F00279523301%2F1893020601%2F1097.jp2/pct:50.324588,74.948423,14.362358,6.196581/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1893-03-21/ed-1/seq-3)
-
-#### 1893-03-21 &middot; Idaho City, Idaho Territory
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-down two main roots into the very pres­  
-ence of the coffined dead. The larger  
-root, pushing its way to the precise spot  
-occupied by the skull of Roger Wil­  
-liams, had made a turn as if passing  
-around it, and followed the direction of  
-the backbone to the hips. Here it di­  
-vided into two branches, sending one  
-along each leg to the heel, where both  
-turned upward toward the toes. One of  
-these root3 formed a slight crook at th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869252%2F1893032101%2F0680.jp2/pct:69.225779,57.437888,12.651384,5.590062/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 

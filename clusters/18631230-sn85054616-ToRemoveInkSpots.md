@@ -1,13 +1,14 @@
 
 # To Remove Ink Spots
 
-### 30 reprints from 1863-10-03 to 1871-09-16
+### 26 reprints from 1863-10-03 to 1871-09-16
 
 ## [To Remove Ink Spots](https://chroniclingamerica.loc.gov/lccn/sn85054616/1863-12-30/ed-1/seq-3/)
 
 #### From _Raftsman's Journal_
 
 #### 1863-12-30
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 TO REMOVE INK SPOTS.—Put the article stained over a warm flat-iron, streach it well, then squeeze a few drops of lemon juice on it, and the spots will disappear at once. Wash immediately in water. This is a complete remedy, and will satisfy all who may try it.  
@@ -19,6 +20,7 @@ TO REMOVE INK SPOTS.—Put the article stained over a warm flat-iron, streach it
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1863-10-03/ed-1/seq-4)
 
 #### 1863-10-03 &middot; Auburn, Placer County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -39,6 +41,7 @@ may try it
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1863-12-30/ed-1/seq-3)
 
 #### 1863-12-30 &middot; Clearfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -59,6 +62,7 @@ try it. &quot;
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1871-01-20/ed-1/seq-3)
 
 #### 1871-01-20 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -80,12 +84,15 @@ ately in cold water
 #### From _Boston daily advertiser._
 
 #### 1871-06-07 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1871-06-09/ed-1/seq-2)
 
 #### 1871-06-09 &middot; Bellows Falls, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ary Walker being  
@@ -111,6 +118,7 @@ and will satisfy all who may try it
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1871-06-10/ed-1/seq-3)
 
 #### 1871-06-10 &middot; Richmond [Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 eration. To meet the require­  
@@ -131,20 +139,25 @@ That&#x27;s one way. Another method, whic
 
 ---
 
-## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1871-06-11/ed-1/seq-2)
+## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1871-06-11/ed-1/seq-6)
 
-#### 1871-06-11 &middot; Columbia, S.C.
+#### 1871-06-11 &middot; New York [N.Y.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-To remove ink apote, pdt the article  
-I stained over a warm flat iron, stretoh it  
-well, then squeeze a f/*w drops of lemon  
-juice on lt, and the-Spot will disappear  
-at once. .Wash immediately in cold  
-water. ..
+tness, and, more unfortunately, poor, was sent to  
+the county jail until the day of trial, so that she may  
+be present to testify! And this all done “ according  
+to law.”  
+Easy Way to Remove Ink Stots.-4&#x27;  
+To remove ink spots, put the article stained over a  
+warm flat-iron, stretch it well, then squeeze a few  
+drops of lemon juice on it, and the s. oc will disapi  
+pear at once. Wash immediately in co d waler. This  
+is a complete remedy, and will satisfy all who may  
+try it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551554%2F1871061101%2F0246.jp2/pct:82.373956,67.325555,16.392970,3.829787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_dunbar_ver01%2Fdata%2Fsn85026214%2Fprint00211110181%2F1871061101%2F0006.jp2/pct:82.670768,84.465831,12.252112,4.027257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,6 +166,7 @@ water. ..
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1871-06-13/ed-1/seq-1)
 
 #### 1871-06-13 &middot; Memphis, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 le. The  
@@ -176,9 +190,20 @@ water.
 
 ---
 
+## All Sorts of Items
+
+#### From _Daily evening bulletin._
+
+#### 1871-06-14 &middot; San Francisco [Calif.]
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-06-14/ed-1/seq-1)
 
 #### 1871-06-14 &middot; New Orleans, La
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ociated Press at Louisville, and more re­  
@@ -200,35 +225,10 @@ all who may try it.,
 
 ---
 
-## All Sorts of Items
-
-#### From _Daily evening bulletin._
-
-#### 1871-06-14 &middot; San Francisco [Calif.]
-[This text is not available under an open license.]
----
-
-## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1871-06-16/ed-1/seq-3)
-
-#### 1871-06-16 &middot; Romney, Va. [W. Va.]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-£4T&#x27;Vo remove ink spot* put tho article  
-Plnircd over a warm flat-iron, stretch it well  
-then squeeze a few drops of lemon juice on it,  
-nod (he spot w ill disappear ut on* &lt;• Wash i i  
-! mediately in cold water
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1871061601%2F0274.jp2/pct:30.042194,73.052764,12.722524,3.008096/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The weekly Caucasian._](https://chroniclingamerica.loc.gov/lccn/sn85033995/1871-06-17/ed-1/seq-4)
 
 #### 1871-06-17 &middot; Lexington, Lafayette County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -255,15 +255,10 @@ will satisfy all who may try it.
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1871-06-23/ed-1/seq-4)
 
 #### 1871-06-23 &middot; Columbia, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r hS degrees l  
-low zero.  
-London is swarming with visitors.  
-There are about sn.nuo Germans now  
-there, aUiut 150,000 French, aliout  
-.-jO.oiki of other continental countries,  
-and alsiut M,ihji Ameiicaus.  
+  
 To remove ink spots, put tho article  
 stained over a warm flat iron, stretch  
 it well, then squeeze a few drops of  
@@ -271,7 +266,7 @@ lemon juice on it. and the spot will
 disappear at once. Wash immediate­  
 ly in cold wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1871062301%2F0361.jp2/pct:46.275618,35.708854,9.413428,5.225421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1871062301%2F0361.jp2/pct:46.275618,38.620315,9.413428,2.313960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,6 +275,7 @@ ly in cold wate
 ## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25?page=6)
 
 #### 1871-06-24
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 into a  
@@ -304,6 +300,7 @@ diately in cold water. That’s one way. An
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1871-06-28/ed-1/seq-2)
 
 #### 1871-06-28 &middot; Newberry, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 will be s,t, rather than removed, by  
@@ -326,6 +323,7 @@ mediately in cold water
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1871-06-29/ed-1/seq-3)
 
 #### 1871-06-29 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ine bushels of wheat to the acre,  
@@ -352,15 +350,10 @@ edy, and will satisfy all who may try it
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1871-06-30/ed-1/seq-1)
 
 #### 1871-06-30 &middot; Bolivar, Hardeman County, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s. .  
-No plant yields anything like ai  
-much nutriment from the same extent  
-of soil as the banana. Humboldt esti  
-mated that It returns twenty times as  
-much as the potato, and 113 times as  
-much as wheat.  
+  
 To remove Ink spots, put tho article  
 stained over a warm fiat iron, stretch  
 it well, then squeeze a few drops of  
@@ -368,32 +361,7 @@ lemon juice on it, and the spot w ill
 disappear at once. Wash immediate  
 ly in cold wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1871063001%2F0339.jp2/pct:84.377095,46.130887,10.567252,5.759452/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Macon beacon._](https://chroniclingamerica.loc.gov/lccn/sn83016943/1871-07-01/ed-1/seq-1)
-
-#### 1871-07-01 &middot; Macon, Miss.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ns.  
-No plant yields anything like  
-much nutriment from the same extent  
-of soil as the banana. Humboldt esti­  
-mated that it returns twenty times as  
-much as the potato, and ll.ititiiei ;i­  
-much as wheat.  
-To remove ink spots, put tho ai lirh.  
-stained over a warm flat iron, stretch  
-it well, then squeeze a few drops i.f  
-lemon juice ou it, and the spot, will  
-disappear at once. Wash immediate­  
-ly in cold wate
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877820%2F1871070101%2F0422.jp2/pct:82.106956,46.543025,11.158022,5.850266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1871063001%2F0339.jp2/pct:84.390506,49.303560,10.553842,2.586779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,6 +370,7 @@ ly in cold wate
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-07-04/ed-1/seq-6)
 
 #### 1871-07-04 &middot; New Bloomfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ses. II. Poison from bees, hornets,  
@@ -424,6 +393,7 @@ once. Wash immediately in cold water.
 ## [From _The Daily state journal._](https://chroniclingamerica.loc.gov/lccn/sn84024670/1871-07-05/ed-1/seq-3)
 
 #### 1871-07-05 &middot; Alexandria, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -448,6 +418,7 @@ That&#x27;s oneway. Another method whic
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1871-07-06/ed-1/seq-4)
 
 #### 1871-07-06 &middot; Plymouth, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -466,36 +437,20 @@ fcatisfy all who mav tr i
 
 ---
 
-## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1871-07-06/ed-1/seq-1)
-
-#### 1871-07-06 &middot; Pulaski, Tenn.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-To remove ink hpots put the af- .  
-tick; stained over a w arm Gut-iron,  
-stretch it well, then m.uccic a few .  
-drops of lemon juice on if, and .th  
-spot will disappear at once. Wash  
-immediately in cold water
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470193%2F1871070601%2F0414.jp2/pct:80.839967,73.932055,10.801537,3.498150/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## Multiple News Items
 
 #### From _Lowell daily citizen and news._
 
 #### 1871-07-08 &middot; Lowell, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1871-07-15/ed-1/seq-1)
 
 #### 1871-07-15 &middot; Weaverville, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -511,26 +466,10 @@ diately in cold water.
 
 ---
 
-## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1871-07-22/ed-1/seq-1)
-
-#### 1871-07-22 &middot; Auburn, Placer County, Calif.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-To remove ink stains, put the article  
-stained ov®r a warm -flat-iron, stretch it well,  
-then squeeze a few drops of lemon Juice ou  
-It, ana the spots will disappear at opeg.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558030%2F1871072201%2F0119.jp2/pct:78.701374,89.969403,14.539385,2.294798/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1871-07-27/ed-1/seq-4)
 
 #### 1871-07-27 &middot; Ravenna, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 a. Baron Humboldt  
@@ -555,15 +494,9 @@ ly in cold;water. . ... . ;
 ## [From _The weekly democratic statesman._](https://chroniclingamerica.loc.gov/lccn/sn83021327/1871-08-31/ed-1/seq-3)
 
 #### 1871-08-31 &middot; Austin, Tex.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-etermination of  
-every man to see the laws enforced  
-Ihere baa not been a Bingle arrest  
-made by the police yet for a crime  
-committed in our county, nor do we  
-believe there will be any occasion  
-for one.  
   
 To remove ink spots, put tho arti­  
 cle stained over a warm flat-iron,  
@@ -573,7 +506,7 @@ spot will disappear at once. Wash
 immediately in cold water.  
 Mbals and Health. Take the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn83021327%2F00200297106%2F1871083101%2F0018.jp2/pct:50.471204,5.612881,20.972326,90.180293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn83021327%2F00200297106%2F1871083101%2F0018.jp2/pct:60.822737,5.612881,10.620793,3.912008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,6 +515,7 @@ Mbals and Health. Take the
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1871-09-14/ed-1/seq-8)
 
 #### 1871-09-14 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  at the present writing.   
@@ -605,6 +539,7 @@ at once. Wash immediately in cold water.”
 ## [From _Painesville journal._](https://chroniclingamerica.loc.gov/lccn/sn84028193/1871-09-16/ed-1/seq-4)
 
 #### 1871-09-16 &middot; Painesville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ble and veil  

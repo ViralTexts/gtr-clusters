@@ -1,13 +1,14 @@
 
 # The Scene at Pere la Chaise
 
-### 40 reprints from 1871-06-01 to 1871-08-19
+### 37 reprints from 1871-06-01 to 1871-08-19
 
 ## [The Scene at Pere la Chaise](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-15/ed-1/seq-1/)
 
 #### From _Chicago Tribune_
 
 #### 1871-06-15
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 THE SCENE AT PERE LA CHAISE  
@@ -23,7 +24,9 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### From _Daily News_
 
 #### 1871-06-01 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## This Evening's News.
@@ -31,7 +34,9 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### From _Pall Mall Gazette_
 
 #### 1871-06-01 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## A VISIT TO BELLEVILLE AND PERE LA CHAISE.
@@ -39,7 +44,9 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### From _Daily News_
 
 #### 1871-06-02 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## LATEST NEWS.
@@ -47,15 +54,9 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### From _Freeman's Journal_
 
 #### 1871-06-02 &middot; Dublin, Ireland
+
 [This text is not available under an open license.]
----
 
-## PARIS AFTER THE REVOLT.
-
-#### From _Bristol Mercury_
-
-#### 1871-06-03 &middot; Bristol, England
-[This text is not available under an open license.]
 ---
 
 ## THE CIVIL WAR IN PARIS.
@@ -63,7 +64,9 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### From _Hampshire/Portsmouth Telegraph_
 
 #### 1871-06-03 &middot; Portsmouth, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## FOREIGN INTELLIGENCE.
@@ -71,7 +74,9 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### From _Ipswich Journal_
 
 #### 1871-06-03 &middot; Ipswich, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## THE FIGHTING IN PARIS.
@@ -79,7 +84,9 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### From _Manchester Times_
 
 #### 1871-06-03 &middot; Manchester, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## THE HORRORS OF BELLEVILLE AND PERE LA CHAISE.
@@ -87,7 +94,9 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### From _Manchester Times_
 
 #### 1871-06-03 &middot; Manchester, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## INCIDENTS IN PARIS.
@@ -95,7 +104,9 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### From _Trewman's Exeter Flying Post_
 
 #### 1871-06-07 &middot; Exeter, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## THE STATE OF PARIS.
@@ -103,12 +114,15 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### From _Newcastle Courant_
 
 #### 1871-06-09 &middot; Newcastle-upon-Tyne, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-15/ed-1/seq-1)
 
 #### 1871-06-15 &middot; Chicago, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 er say*: “The crmeiery at Pare  
@@ -131,6 +145,7 @@ males cue aid to lock upon
 ## [From _The evening telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83025925/1871-06-15/ed-1/seq-1)
 
 #### 1871-06-15 &middot; Philadelphia [Pa.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -155,6 +170,7 @@ to look npon
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-06-17/ed-1/seq-2)
 
 #### 1871-06-17 &middot; Knoxville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -179,6 +195,7 @@ makes one sick to&#x27;look upon
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1871-06-18/ed-1/seq-2)
 
 #### 1871-06-18 &middot; Columbia, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -203,6 +220,7 @@ upon
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1871-06-21/ed-1/seq-8)
 
 #### 1871-06-21 &middot; Knoxville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -226,6 +244,7 @@ I UIUKVH UUI HICK HI IOOK UpUIl
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1871-06-21/ed-1/seq-1)
 
 #### 1871-06-21 &middot; Memphis, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -254,7 +273,9 @@ city of which makes ona sick to look
 #### From _Daily evening bulletin._
 
 #### 1871-06-22 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Horrors of Paris
@@ -262,7 +283,9 @@ city of which makes ona sick to look
 #### From _Daily evening bulletin._
 
 #### 1871-06-22 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## The Living and the Dead
@@ -270,12 +293,25 @@ city of which makes ona sick to look
 #### From _The Milwaukee sentinel._
 
 #### 1871-06-26 &middot; Milwaukee, Wis.
+
 [This text is not available under an open license.]
+
+---
+
+## The Living and the Dead
+
+#### From _Milwaukee weekly sentinel._
+
+#### 1871-06-27 &middot; Milwaukee, Wis.
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1871-06-27/ed-1/seq-2)
 
 #### 1871-06-27 &middot; Charlotte, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -298,23 +334,13 @@ of which makes one sick to look upon.
 
 ---
 
-## The Living and the Dead
-
-#### From _Milwaukee weekly sentinel._
-
-#### 1871-06-27 &middot; Milwaukee, Wis.
-[This text is not available under an open license.]
----
-
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1871-06-28/ed-1/seq-1)
 
 #### 1871-06-28 &middot; Newberry, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-resting laces of the deadl are  
-munch dlefi;ed ; the mniumnents­  
-have been greatly injred by the  
+ave been greatly injred by the  
 fi. j:n: coffins have becn brokeun,  
 arid the remarins lie sctteredP  
 over the ground. You nmay mean­  
@@ -326,7 +352,7 @@ manry women among them, andi
 faces, the ferocity of which makes&#x27;  
 one sick to look uponms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286984%2F1871062801%2F0531.jp2/pct:86.047567,75.595478,11.905410,7.670569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286984%2F1871062801%2F0531.jp2/pct:86.047567,76.779707,11.905410,6.486341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,6 +361,7 @@ one sick to look uponms
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
 #### 1871-06-29 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -359,6 +386,7 @@ to look upon
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1871-07-06/ed-1/seq-2)
 
 #### 1871-07-06 &middot; Gold Hill, N.T. [Nev.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -385,6 +413,7 @@ look upon
 #### From _The Wallaroo Times and Mining Journal (Port Wallaroo, SA : 1865 - 1881)_
 
 #### 1871-08-02 &middot; Port Wallaroo, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -407,6 +436,7 @@ ferocity of which makes one sick to loo
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
 
 #### 1871-08-05 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -425,10 +455,10 @@ which makes one sick to look upon. I
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
 
 #### 1871-08-07 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-boundary wall, is a natural hollow. It  
 is full of dead. You may measure the  
 dead, not hy the head, but by the yard  
 and rood. There they lie in a double  
@@ -444,6 +474,7 @@ and fifty of them patent to the eye
 #### From _The Newcastle Chronicle (NSW : 1866 - 1876)_
 
 #### 1871-08-08 &middot; Newcastle, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -468,6 +499,7 @@ ferocity of which makes one sick- to
 #### From _Queanbeyan Age (NSW : 1867 - 1904)_
 
 #### 1871-08-10 &middot; Queanbeyan, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -490,6 +522,7 @@ which makes.one sick to look upon.. I
 #### From _Wagga Wagga Advertiser and Riverine Reporter (NSW : 1868 - 1875)_
 
 #### 1871-08-12 &middot; Wagga Wagga, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -508,6 +541,7 @@ lime—a hundred and fifty of them paten
 #### From _Gympie Times and Mary River Mining Gazette (Qld. : 1868 - 1919)_
 
 #### 1871-08-12 &middot; Gympie, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -530,6 +564,7 @@ ferocity of which makes ono Bick to loo
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
 
 #### 1871-08-12 &middot; Launceston, Tasmania
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -548,6 +583,7 @@ them patent to the eye, besides wha
 #### From _Warwick Examiner and Times (Qld. : 1867 - 1919)_
 
 #### 1871-08-12 &middot; Warwick, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -570,6 +606,7 @@ ot which makes one sick to look upon. I
 #### From _Gympie Times and Mary River Mining Gazette (Qld. : 1868 - 1919)_
 
 #### 1871-08-16 &middot; Gympie, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -588,6 +625,7 @@ over with a coating of chloride of lime
 #### From _The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)_
 
 #### 1871-08-16 &middot; Toowoomba, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -602,55 +640,12 @@ and fiftv of them natentto the eye
 
 ---
 
-## [A VISIT TO BELLEVILLE AND PERE LA CHAISE.](http://trove.nla.gov.au/ndp/del/article/30582076)
-
-#### From _Queanbeyan Age (NSW : 1867 - 1904)_
-
-#### 1871-08-17 &middot; Queanbeyan, New South Wales
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-national hollow. It is full of deadl You  
-may measure the dead riot lby tlie head,  
-but-:by the&#x27; yard and rodd. &quot; There they  
-lie in a doubie tier on the grass,  
-p&#x27;owdered over with &#x27;a coating of.  
-chloride of l]imea hundred&#x27; and fift
-</td></tr></table>
-
----
-
-## [BELLEVILLE AND PERE LA CHAISE.](http://trove.nla.gov.au/ndp/del/article/148534734)
-
-#### From _Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)_
-
-#### 1871-08-19 &middot; Maryborough, Queensland
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-result not unfrequently is very ghastly.  
-Coffins have been broken in, and the  
-decomposing remains spattered against  
-the walls of the vaults. But the sight  
-of Pere la Chaise in ghastliness is  
-reserved to the last.  
-Wemaketbecircuitandcome down on the  
-south-eastern corner. Here, close to the  
-boundary wall is a natural hollow. It iB  
-full -of dead. You may measure *he dead,  
-not by tbe head, but by the yard and  
-rod. There they lie in a doable tier on  
-the grass, powdered over with a coating  
-of chloride of lime — a hundred an
-</td></tr></table>
-
----
-
 ## [BELLEVILLE AND PERE LA CHAISE.](http://trove.nla.gov.au/ndp/del/article/27267193)
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
 #### 1871-08-19 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   

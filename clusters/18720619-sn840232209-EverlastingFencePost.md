@@ -1,13 +1,14 @@
 
 # Everlasting Fence Posts
 
-### 111 reprints from 1872-06-12 to 1885-03-26
+### 126 reprints from 1872-06-12 to 1890-09-04
 
 ## [Everlasting Fence Posts](https://chroniclingamerica.loc.gov/lccn/sn84023209/1872-06-19/ed-1/seq-4/)
 
 #### From _Green-Mountain Freeman_
 
 #### 1872-06-19
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 EVERLASTING FENCE POSTS.—There is a peculiar satisfaction in listening to the conversation, or in reading the writings of positive men,—as those who deal only with facts, and with such facts as have but one side and no exceptions. Such a man tells us, in the _Western Rural_, how to preserve posts for fences &amp;c. He says:—&quot;I discovered many years ago that wood could be made to last longer than iron in the ground, but thought the process so simple and inexpensive that it was not worth while making any stir about it. I would as soon have poplar, basswood, or quaking ash as any other kind of timber for fence posts. I have taken out basswood after having been set seven years, that were as sound when taken up as when first set in the ground. Time and weather seemed to have no effect on them. The posts can be prepared for less than two cents apiece.   
@@ -23,7 +24,9 @@ For the benefit of others, I will give the recipe. Take boiled linseed oil, and 
 #### From _The Milwaukee sentinel._
 
 #### 1872-06-12 &middot; Milwaukee, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## Farm and Home
@@ -31,12 +34,15 @@ For the benefit of others, I will give the recipe. Take boiled linseed oil, and 
 #### From _Milwaukee weekly sentinel._
 
 #### 1872-06-18 &middot; Milwaukee, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1872-06-19/ed-1/seq-4)
 
 #### 1872-06-19 &middot; Montpelier, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -76,6 +82,7 @@ see it rotten.
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1872-06-26/ed-1/seq-4)
 
 #### 1872-06-26 &middot; Warren, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 od could be made to last longer  
@@ -105,9 +112,56 @@ will live long enough, to se it rot
 
 ---
 
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1872-07-02/ed-1/seq-4)
+
+#### 1872-07-02 &middot; Lancaster, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Evarlasting Fouco Posts.  
+There is a peculiar satisfaction in  
+listening to the conversation, or in  
+reading the writing of positive men  
+—ot those who deal only’ with facts,  
+and with such facts as have but ono  
+side and uo exceptions. Such a man  
+tolls us, in the Western Rural,  
+how to preserve posts tor fences, etc.  
+He says: *• I discovered many years  
+ago that wnod could be made to last  
+longer than iron in the ground, but  
+thought the process so simple and  
+inexpensive that it was not worth  
+while making any stir about it. 1  
+would as soon have p&lt;q lar,basswood  
+or quaking ash as any other kind of  
+timber for fence posts. I hare ta­  
+ken out basswood posts uftor having  
+been set seven years that were as  
+sound when taken up us when first  
+put iu the ground. Time and  
+w eat her seemed to have no effect up­  
+on thorn. Ihe posts can be prepared  
+for less than two cents apiece.  
+For the bouetii of others 1 will  
+give the receipe. Take boiled linseed  
+oil, and stir iu pulverized charcoal to  
+the consistency of paint. Put a  
+coat of this over the timber, and  
+there is not a man that will live long  
+enough to see it rotten.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159373%2F1872070201%2F0509.jp2/pct:7.345384,69.620036,10.654794,16.037962/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1872-08-29/ed-1/seq-1)
 
 #### 1872-08-29 &middot; Camden, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -134,9 +188,14 @@ ecuicd to have &quot;no effect on them. Tho
   
 jusis call uu jjri&#x27;jjaiuu iui luas ulij.ii i*yu uuiiis  
 l piece.  
-&quot; For tlic benefit
+&quot; For tlic benefit of others. I will give the  
+ecipo: Take boiled linseed oil and pulverzed  
+charcoal to the consistency of paint.?  
+r&#x27;ut a coat of this. over, the timber, -and  
+here is not a man that will live to see it rotea.  
+Secret Corr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F0029586235A%2F1872082901%2F0277.jp2/pct:50.452701,16.673724,16.187949,12.954337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F0029586235A%2F1872082901%2F0277.jp2/pct:50.452701,16.673724,16.187949,17.100713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,6 +204,7 @@ l piece.
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11?page=19)
 
 #### 1872-09-04 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -161,10 +221,9 @@ other kind of timber for fence posts. I have taken
 out basswood posts after having been set seven years,  
 that were as ccund when taken up as when first put  
 into the ground. Time and weather seemed to have  
-no effect on them. The posts can be prepared for less  
-than two cents apiece.” We believe that this is a goo
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11&#0036;19/pct:39.244186,9.539943,27.378436,11.626248/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11&#0036;19/pct:39.244186,9.539943,27.378436,10.627675/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,6 +232,7 @@ than two cents apiece.” We believe that this is a goo
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1872-09-25/ed-1/seq-3)
 
 #### 1872-09-25 &middot; Alexandria, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ing the legs &amp;c., as it does not  
@@ -222,6 +282,7 @@ rotten.
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1872-10-11/ed-1/seq-1)
 
 #### 1872-10-11 &middot; Bridgeton, N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 A pint of dour, two  
@@ -266,6 +327,7 @@ will live long enough to see it rotten.
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1872-10-11/ed-1/seq-3)
 
 #### 1872-10-11 &middot; Centre Hall, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -313,7 +375,9 @@ rotten.&quot;
 #### From _Preston Chronicle_
 
 #### 1872-11-16 &middot; Preston, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## Preserving Fence Posts
@@ -321,12 +385,15 @@ rotten.&quot;
 #### From _Bangor daily Whig & courier._
 
 #### 1872-12-10 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Railway Age 1870-2016_](https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4?page=2)
 
 #### 1872-12-14
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -355,15 +422,9 @@ A Woman Inventor.
 ## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18?page=0)
 
 #### 1873-02-01 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ep are fed on corn, they are too hot and  
-feverish, and the wool becomes harsh and  
-brittle, while a proper supply of roots and  
-oil cake with other food would produce soft,  
-sound and elastic wool.— Ez.  
-  
-EVERLASTING FENCE POSTS.  
   
 “| discovered many years ago that wood  
 could be made to last longer than iron in the  
@@ -385,38 +446,36 @@ it in pulverized charcoal to the consistency
 of paint. Put a coat of this over the tim-  
 ber, and there is not a man that will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18&#0036;0/pct:37.975823,82.308307,9.323560,9.724441/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18&#0036;0/pct:38.052984,85.323482,9.246399,6.709265/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1873-02-21/ed-1/seq-4)
+## EVERLASTING FENCE POSTS.
 
-#### 1873-02-21 &middot; Brattleboro, Vt.
+#### From _New York Observer and Chronicle (1833-1912)_
+
+#### 1873-02-13 &middot; New York
+
+[This text is not available under an open license.]
+
+---
+
+## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-02-15/ed-1/seq-4)
+
+#### 1873-02-15 &middot; Auburn, Placer County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-STINQ FENCE POSTS. &quot;I (HscOV  
-ored many years ago that wood could be  
-made to lust longer than iron In tho ground  
-but thought the procoss so simple and In  
-expensive that it was not worth while snak­  
-ing any stirabout it. I would as soon have  
-poplar, basswood or quaking ali as any  
-oilier kinds of tlmbor for fence po-ls.  
-havo taken out basswood posts after hav  
-nig noon bet sovcsi years, that wero as  
-sound when taken up as when they wero  
-first put In Iho ground. Time uud wealhcr  
-soeined to havo no effect on tliom. Tho  
-posts can bo prepared for less than two  
-cents apiece. For tho benefit of others. I  
-will glvo the recelpo; TaKe boiled Unseed  
-oil and stir In It pulverized charcoal to the  
-consistency or paint. Put a coat or this  
-over Iho timber, and there Is not 11 m
+  
+IPcs/ern Rural says: “Take boiled linseed  
+■oil and stir in pulverized charcoal to the con­  
+e’stency of paint. Put a coat of this over  
+the timber, and there is not a man who w ill  
+live long enough to see it rotten. 1 discov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777377%2F1873022101%2F0227.jp2/pct:16.367792,75.358852,10.917722,9.316071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873021501%2F0031.jp2/pct:7.518870,55.519962,14.742597,2.835851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,9 +484,10 @@ over Iho timber, and there Is not 11 m
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1873-02-21/ed-1/seq-1)
 
 #### 1873-02-21 &middot; Romney, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-previous.  
+ght previous.  
 I&#x27;.VFttr.AsTiNo Fence Ports. — ‘I dis­  
 covered many years ago that wood could  
 bo made to last longer thin iron in the  
@@ -449,7 +509,7 @@ consistency of paint. Put n coal of tLis
 over tho timber, and thero is not a man  
 that will live to *oo it rot.&#x27;—Curretpondcn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873022101%2F0592.jp2/pct:83.703519,33.456441,12.981449,13.136360/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873022101%2F0592.jp2/pct:83.703519,33.434716,12.981449,13.158085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,6 +518,7 @@ that will live to *oo it rot.&#x27;—Curretpondcn
 ## [From _The St. Cloud journal._](https://chroniclingamerica.loc.gov/lccn/sn85033526/1873-02-27/ed-1/seq-4)
 
 #### 1873-02-27 &middot; St. Cloud, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -479,7 +540,7 @@ seemed to have no effect on them. The
 posts can be prepared for less than two  
 cents apiece.  
   
-For the benefit of
+For the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85033526%2F00212472566%2F1873022701%2F0035.jp2/pct:14.032358,26.813448,9.886434,8.916499/!600,600/0/default.jpg"/>
 </td>
@@ -487,9 +548,20 @@ For the benefit of
 
 ---
 
+## WHAT WORK WILL DO.
+
+#### From _Southern Cultivator (1843-1906)_
+
+#### 1873-03-01 &middot; Atlanta
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1873-03-01/ed-1/seq-1)
 
 #### 1873-03-01 &middot; Sunbury, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 wood could  
@@ -510,9 +582,9 @@ of others I will give recipe : &quot;Take boiled
 linseed oil and stir it la pulverized char­  
 coal to the consistency of paint. Put n  
 coat of this over the tinilier, and there iu  
-not a mau that w
+not a mau that will live to eee it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776051%2F1873030101%2F0230.jp2/pct:81.955157,49.978870,12.538117,9.142133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776051%2F1873030101%2F0230.jp2/pct:81.955157,49.978870,12.538117,9.170306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,14 +593,10 @@ not a mau that w
 ## [From _The weekly Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn85025132/1873-03-08/ed-1/seq-4)
 
 #### 1873-03-08 &middot; Shasta, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-or work. The  
-furnishers of these shoes are immensely  
-wealthy, and no one has manifested any  
-: disposition, until very recently, to re­  
-lieve them of a portion of their scan­  
-dalously earned fortunes.  
+  
   
 Everlasting Fence Posts.—“l dis­  
 covered many years ago that wood could  
@@ -546,9 +614,9 @@ the ground. Time and weather seem­
 ed o have no effect on them. The posts  
 cc i be prepared for less than two cents  
 apiece.  
-“ For the benefit of
+“ For the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873030801%2F0472.jp2/pct:32.041667,59.105708,12.115741,13.189249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873030801%2F0472.jp2/pct:32.106481,63.029925,12.050926,9.265032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,15 +625,10 @@ apiece.
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1873-03-12/ed-1/seq-4)
 
 #### 1873-03-12 &middot; Richmond [Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-some eahi.on-m&#x27;.uiilcuU t-&#x27;iie  
-?jiiall ovvnooji this bay.  
-r.  
-Btoop. ftujr.&#x27;ls. hither from tli9 ski&#x27;1* !  
-Theiv is no holier spot ofprouir-J  
-Ihni whore deAi tied vai &lt;rllw,  
-liv mourning t y crown od !  
+  
   
 Everlasting Fence Posts.? I discovered  
 many years tb :t wood could be made lo  
@@ -587,7 +650,7 @@ pulverized charcoal to the consistency of
 paint. Put a coat of thi* ov.u&#x27; the timber,  
 und there i? uot a man that wi&#x27;l live to see i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742046%2F1873031201%2F0256.jp2/pct:15.717675,65.673489,13.906378,11.954356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742046%2F1873031201%2F0256.jp2/pct:15.717675,68.942824,13.906378,8.685021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,6 +659,7 @@ und there i? uot a man that wi&#x27;l live to see i
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-03-15/ed-1/seq-4)
 
 #### 1873-03-15 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ry.  
@@ -629,16 +693,10 @@ not s man that will live to see it rot.—
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-03-15/ed-1/seq-4)
 
 #### 1873-03-15 &middot; Clarksville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-corn, at 50c ..$36 00  
-Costof manure, cultivation, etc 19 25  
-I think had the planting been one  
-month earlier, and had not so much  
-rain fallen during July and August,  
-the yield would have been greater.&quot;  
-Everlasting Fence Posts. &quot;I  
-discovered many years ago that wood  
+t wood  
 could be made to last longer than iron  
 in the ground, but thought the pro­  
 cess so simple aud inexpensive that it  
@@ -661,7 +719,7 @@ to the consistency of paint. Put a
 coat of this ever the timber, and  
 there is not a man that will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873031501%2F0252.jp2/pct:14.298169,73.222222,9.909910,12.255556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873031501%2F0252.jp2/pct:14.298169,76.700000,9.822726,8.777778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,24 +730,18 @@ there is not a man that will live t
 #### From _The Yankton press._
 
 #### 1873-03-19 &middot; Yankton, Dakota Territory [S.D.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1873-03-20/ed-1/seq-1)
 
 #### 1873-03-20 &middot; Helena, Mont.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ere the Furies i  
-And a delicate map  
-u&gt;,  
-Were the Furies aud Fates,  
-Of the Dorian Slates,  
-nd we found in his  
-What are frequent i  
-And we found in his palms, which were hollow,  
-: in palms—that is dates.&quot;  
-Everlasting Fence Posts.  
+  
 I discovered many years ago, that wood  
 could be made to last longer than iron in the  
 ground, but thought the process so simple  
@@ -709,7 +761,7 @@ m pulverized charcoal to the consistency of
 paint. Put a coat of this over the timber,  
 and there is not a man that will live to see i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861277%2F1873032001%2F0097.jp2/pct:5.539773,71.701529,17.061237,13.093323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861277%2F1873032001%2F0097.jp2/pct:5.539773,75.130732,17.061237,9.664119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,6 +770,7 @@ and there is not a man that will live to see i
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1873-03-20/ed-1/seq-1)
 
 #### 1873-03-20 &middot; Jonesborough, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -729,9 +782,21 @@ it was not worth while making any stir
 about it. &#x27; I would as soon have poplar,  
 basswood or quaking ash. as any ether &#x27; &#x27; .  
 kinds of timber for fence posts. I have &quot;  
-taken out, basswood posts r after having s 
+taken out, basswood posts r after having s &#x27;  
+been set-sevon years that were&#x27; aa .aonrid  
+whoi&quot; taken np aV thaa they wart firstI ,  
+put in the ground. Time and Weaiajr  
+seemed to have no effect on them. Tbe  
+posts can bo prepared for less than two  
+cents apiece. &#x27; - ,J &#x27; ,: -f&#x27;  
+&quot; For the benefit of others I will give &#x27;  
+tho recipe : Take boiled linseed oil and - .  
+stir it in pulverixed charcoal to tho con ,  
+sistency of paint. Pnt a coat of thia  
+over the timber and there is not a man.  
+that will live to see it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1873032001%2F0434.jp2/pct:81.385123,65.759608,14.657384,6.048491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1873032001%2F0434.jp2/pct:81.385123,65.759608,15.298644,14.070157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,17 +805,10 @@ taken out, basswood posts r after having s
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1873-04-04/ed-1/seq-4)
 
 #### 1873-04-04 &middot; Columbia, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ucted their busines with suc­  
-cess, and comfort to their mules and  
-ho-ses.  
-5. The ox-bow and yoke are proof to  
-the pain. Iron bows are in common  
-use.  
-6. Hard rubber has found a place in  
-horse collars.  
-Everlasting Fence Posts.  
+  
 I discovered many years ago that  
 wood could be made to last longer than  
 iron in the ground, but though the pro­  
@@ -772,7 +830,7 @@ coal to the consistency of paint. Put a
 coat of this over the timber and there is  
 not a man that will live to see it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn85033386%2F00296020709%2F1873040401%2F0061.jp2/pct:56.330275,72.018096,9.737877,12.722057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn85033386%2F00296020709%2F1873040401%2F0061.jp2/pct:56.330275,76.398544,9.724771,8.341609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,13 +839,10 @@ not a man that will live to see it rotten
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1873-04-10/ed-1/seq-1)
 
 #### 1873-04-10 &middot; Ellsworth, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- utter her waking yell.  
-A week afterwards Mr. Joseph Ver­  
-ley took the 12 :30 return train with  
-wife and niece, the happiest of reclaim­  
-ed old bachelors, and it was all the un­  
+  
 conscious baby’s work.  
 Everlasting Fence Posts.— “I dis­  
 covered many years ago that wood could  
@@ -810,7 +865,7 @@ in it pulverized charcoal to the consistency
 of paint. Put a coat of this over the Um­  
 ber, and there is not a mu that will Uv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873041001%2F0060.jp2/pct:62.829404,83.257566,11.238731,12.108715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873041001%2F0060.jp2/pct:62.829404,85.764385,11.238731,9.601896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,14 +874,10 @@ ber, and there is not a mu that will Uv
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1873-04-12/ed-1/seq-1)
 
 #### 1873-04-12 &middot; Olympia, Wash. Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f you feel in­  
-clined to draw the cap, retire to a safe  
-distance and at once blow out your  
-brains, if you have any, before you  
-maim other people by your stupidity  
-and carelessness.—American Sporlman.  
+  
   
 EVERLASTING FENCE POSTS.—&quot;I dis­  
 covered many years ago that wood  
@@ -848,9 +899,10 @@ I will give the receipt: Take boiled lin­
 seed oil and stir it in pulverized char­  
 coal to the consistency of paint. Put  
 a coat of this over the timber, and there  
-is not a man that will live to see it rot
+is not a man that will live to see it rot­  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291062%2F1873041201%2F0843.jp2/pct:77.904504,56.179736,14.203557,15.818876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291062%2F1873041201%2F0843.jp2/pct:77.904504,60.097155,14.179393,12.460097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,18 +911,9 @@ is not a man that will live to see it rot
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1873-04-17/ed-1/seq-4)
 
 #### 1873-04-17 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sorts,  
-in all stages. and nr. :air pe  
-riods p their? existence, , and  
-it may; readily &quot;.beJlihiagiried  
-what an amount of destruc-  
-ion would follow the passage  
-of a heavy roller over the sur  
-face.&#x27; &#x27;  
-  
-Everlasting Fence Posts.  
   
 &quot;I discovered many &#x27;years  
 ago that wood could be made  
@@ -901,9 +944,9 @@ stir in it pulverized charcoal
 uta coat of this over the  
 timber, and there is not a  
 man that will live to see it  
-rot.&quot; fCor. Western
+rot.&quot; fCor. Western R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1873041701%2F0255.jp2/pct:15.943536,34.075749,9.762259,22.295082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1873041701%2F0255.jp2/pct:15.943536,39.615602,9.762259,16.755229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,6 +955,7 @@ rot.&quot; fCor. Western
 ## [From _Essex County herald._](https://chroniclingamerica.loc.gov/lccn/sn84023416/1873-04-19/ed-1/seq-4)
 
 #### 1873-04-19 &middot; Guildhall, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -945,6 +989,7 @@ is not a man that will live to see it rot
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1873-04-25/ed-1/seq-1)
 
 #### 1873-04-25 &middot; Columbia, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -979,6 +1024,7 @@ not a man who will live to see it rot
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1873-05-01/ed-1/seq-2)
 
 #### 1873-05-01 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1008,9 +1054,42 @@ who will live to see it rot
 
 ---
 
+## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1873-05-02/ed-1/seq-4)
+
+#### 1873-05-02 &middot; Rockville, Md.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+pendent farmer.  
+Everlasting Fence Post.— I discovered ma­  
+ny years ago that wood could be made to last  
+longer than iron in the ground, but thought  
+the process was so simple and inexpensive that  
+it was not worth while making any stir about  
+it. I would as soon have poplar, basswood or  
+quaking ash as any other kinds of timber for  
+fence posts. I have taken out basswood posts  
+after having been set for eleven years that  
+were as sound when taken up as when they  
+were first put in the ground. Time and weath­  
+er seemed to have no effect on them. The posts  
+can be prepared for less than two cents apiece.  
+For the benefit of others I will give the re­  
+cipe : Take boiled linseed oil and stir it in  
+pulverized charcoal to the consistency of paint.  
+Put a coal of this over the timber, nnd there is  
+not a man will live to see it rotten. Carres
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1873050201%2F0485.jp2/pct:7.718204,47.965240,11.555027,10.668425/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-05-03/ed-1/seq-4)
 
 #### 1873-05-03 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1044,9 +1123,10 @@ will lire to see it rotten.—Cm. Wate
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1873-05-16/ed-1/seq-1)
 
 #### 1873-05-16 &middot; Findlay, Hancock County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ter  
+la after  
 having been set seven years, that  
 as sound when they were taken  
 out as when they were first pat in the  
@@ -1069,6 +1149,7 @@ there is not a raan that will live to se
 ## [From _The Orangeburg news._](https://chroniclingamerica.loc.gov/lccn/sn84026920/1873-05-17/ed-1/seq-5)
 
 #### 1873-05-17 &middot; Orangeburg, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1100,6 +1181,7 @@ it- in it pulverized charo al to the e&lt;?
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1873-05-20/ed-1/seq-4)
 
 #### 1873-05-20 &middot; Charlotte, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1114,13 +1196,9 @@ posts. 1 have taken out basswood posts
 after having been set seven years that were  
 as oiiul when taken up as when first put  
 in thejir un 1. Time and weather seemed to  
-hav e no effect on them. The posts can be  
-prepared for lew than twoceuts apiece. For  
-  
-the benefit oi others, I will rjVe the rec  
-Take boiled lin
+hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022986%2F1873052001%2F0295.jp2/pct:7.097946,83.758186,14.922454,8.010076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022986%2F1873052001%2F0295.jp2/pct:7.125891,83.758186,14.894509,6.337531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1129,6 +1207,7 @@ Take boiled lin
 ## [From _The Toledo chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84038485/1873-05-29/ed-1/seq-4)
 
 #### 1873-05-29 &middot; Toledo, Tama County, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1164,6 +1243,7 @@ tbaro ia not a man that will live t
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1873-05-29/ed-1/seq-4)
 
 #### 1873-05-29 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1196,15 +1276,10 @@ and there is not a man that will live to se
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1873-06-03/ed-1/seq-6)
 
 #### 1873-06-03 &middot; New Bloomfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- is given. Almost all  
-other crops have to be reset and otherwise  
-cared for every year, while we are sure  
-there is nothing which will give one so  
-much pleasure and satisfaction as a good  
-asparagus bed.  
-Everlasting Fence Posts.  
+  
 &quot; I discovered many years ago that wood  
 could be made to last longer than iron in  
 the ground, but thought the process was so  
@@ -1225,7 +1300,7 @@ it in pulverized charcoal to the consistency
 of a paint. Put a coat of this over the  
 timber and there is not a niari that wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1873060301%2F0619.jp2/pct:6.421300,44.301501,17.332289,17.664523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1873060301%2F0619.jp2/pct:6.525711,49.562923,17.227878,12.403101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,6 +1309,7 @@ timber and there is not a niari that wil
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1873-06-07/ed-1/seq-4)
 
 #### 1873-06-07 &middot; Canton, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1266,6 +1342,7 @@ and there is not a man that will live to se
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1873-06-11/ed-1/seq-2)
 
 #### 1873-06-11 &middot; Watertown, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1298,6 +1375,7 @@ and there is not a man that will live to se
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1873-06-12/ed-1/seq-6)
 
 #### 1873-06-12 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1330,6 +1408,7 @@ and there is not a man that will live to se
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1873-06-12/ed-1/seq-3)
 
 #### 1873-06-12 &middot; Manitowoc, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1360,9 +1439,45 @@ that will live to see it . it.
 
 ---
 
+## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1873-06-13/ed-1/seq-10)
+
+#### 1873-06-13 &middot; River Falls, Pierce County, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+“1 discovered many years ago that  
+wood could be made to last longer than  
+iron in ground, but thought the process  
+so simple and inexpensive, that it was  
+not worth while making any stir about  
+it. I would as soon have bass, poplar,  
+or quaking ash as any other kind of  
+timber for posts. I have taken out  
+bass wood timber for posts after having  
+been set for seven years, that were as  
+sound when taken up as when they  
+were first put into the ground. Time  
+and weather seem te have no effect up­  
+on them. The posts can be prepared for  
+less than two cents apiece. For the  
+benefit of others, I will give the rcceip:   
+‘Take boiled linseed oil and stir in it  
+pulverized charcoal to the consistency  
+of paint. Put a coat of this over the  
+timber, and there is not a man that  
+will live to see it rot.’ ”
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033255%2F0051415238A%2F1873061301%2F0335.jp2/pct:81.532893,63.931356,11.876541,13.418677/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1873-06-18/ed-1/seq-6)
 
 #### 1873-06-18 &middot; Clearfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1388,7 +1503,7 @@ pulvcrizod charcoal to iho consistency
 of paint, put a coat of this over the  
 timbor and there is not a ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873061801%2F1099.jp2/pct:15.065990,58.479783,11.553299,10.358623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873061801%2F0404.jp2/pct:15.065990,58.479783,11.553299,10.358623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,28 +1512,10 @@ timbor and there is not a ma
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1873-06-19/ed-1/seq-4)
 
 #### 1873-06-19 &middot; Millersburg, Holmes Co., O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ucia ju utiicr  
-parts of the state been troubled  
-with them, . and what is. their  
-name? We have to stand &#x27; guard  
-with a shot-gun, or my hives  
-would bs depleted in afewday  
-siuas.iob utterly IruimxL ii U  
   
-Everlasting Fence Posts.  
-  
-by  
-lit­  
-tle the  
-and  
-one  
-in  
-the  
-in  
-if  
-a  
 &quot;I discovered many years ago  
 that wood could be made&#x27; to last  
 longer than iron jn . the . ground,  
@@ -1430,7 +1527,7 @@ poplar, basswood or quaking, ash
 as anvaSthec kinds of -timber -for  
 fence posts after having bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1873061901%2F0111.jp2/pct:5.185185,77.127450,19.517657,17.440484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1873061901%2F0111.jp2/pct:15.107666,81.967644,9.595177,4.971722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,9 +1536,11 @@ fence posts after having bee
 ## [From _The Vinton record._](https://chroniclingamerica.loc.gov/lccn/sn85038222/1873-06-19/ed-1/seq-1)
 
 #### 1873-06-19 &middot; M'arthur, Vinton County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-orrespondent of the Wes­  
+  
+A correspondent of the Wes­  
 tern Rural says: I discovered  
 many years ago that wood  
 could be made to last longer  
@@ -1469,7 +1568,7 @@ sistency of paint. Put a coat ol
 this over the limber, and there  
 is not a man who will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85038222%2F00280774911%2F1873061901%2F0527.jp2/pct:57.461929,13.989777,11.979695,19.948884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85038222%2F00280774911%2F1873061901%2F0527.jp2/pct:57.461929,13.976325,11.979695,19.962335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1478,6 +1577,7 @@ is not a man who will live t
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-06-19/ed-1/seq-4)
 
 #### 1873-06-19 &middot; Ridgway, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1512,6 +1612,7 @@ mere is not a man that will live to se
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1873-06-21/ed-1/seq-4)
 
 #### 1873-06-21 &middot; Ottawa, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1544,9 +1645,10 @@ that w ill live to see it rot
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1873-06-28/ed-1/seq-4)
 
 #### 1873-06-28 &middot; Prescott, Ariz.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Western Ru­  
+dent of the Western Ru­  
 ral says:  
 I discovered many years ago that wood  
 could bo made to last longer than Iron, in tho  
@@ -1564,9 +1666,9 @@ cents apiece. For the benefit of others I will
 give tbe recipe: Take trailed linseed oil and  
 stir it in pulverized charcoal to the&#x27; consis­  
 tency of paint. Put a coat of this over the  
-timber, and there is no man that wi
+timber, and there is no man that will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105495%2F1873062801%2F0536.jp2/pct:5.709241,76.607870,14.989209,9.850746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105495%2F1873062801%2F0536.jp2/pct:5.709241,76.580733,15.008829,9.877883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1577,20 +1679,18 @@ timber, and there is no man that wi
 #### From _The Congregationalist._
 
 #### 1873-07-03 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-07-09/ed-1/seq-4)
 
 #### 1873-07-09 &middot; Somerset, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o permit the operations.  
-  
-rrtrlnitln? Felice Pol.  
-  
-The correspondent of the Western  
-Rural says : I discovered, many years  
+ered, many years  
 ago, thut wood could lie made to  
 last longer than irou in the , ground,  
 though the process so simple and  
@@ -1613,7 +1713,7 @@ the consistent-&#x27; of paint. Put a coat
 of this on the timber, and there is  
 not a mau who will live to seo&quot; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873070901%2F0237.jp2/pct:19.796954,4.126984,17.089679,93.151927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873070901%2F0237.jp2/pct:26.303646,5.385488,10.582987,10.442177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1622,6 +1722,7 @@ not a mau who will live to seo&quot; i
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1873-07-10/ed-1/seq-1)
 
 #### 1873-07-10 &middot; Redwood Falls, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1660,6 +1761,7 @@ paint, rut a ooai ot tbM over iae
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1873-07-18/ed-1/seq-1)
 
 #### 1873-07-18 &middot; Stanford, Ky.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 could be made to last longer than  
@@ -1692,6 +1794,7 @@ TempcevKce Lector
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1873-07-22/ed-1/seq-1)
 
 #### 1873-07-22 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1711,7 +1814,7 @@ the benefit of others I will give tbe recipe.—
 Take boiled linseed oil aod stir ia it pulverized  
 charcoal to tbe coosistency of paiot. Put a coat  
 of this over the timber, and there is not a man  
-Ithat w
+Ithat will live to see it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762490%2F1873072201%2F0510.jp2/pct:68.510711,90.150630,12.495209,8.404753/!600,600/0/default.jpg"/>
 </td>
@@ -1722,6 +1825,7 @@ Ithat w
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1873-07-23/ed-1/seq-4)
 
 #### 1873-07-23 &middot; Mifflintown, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1755,14 +1859,10 @@ there is not a msn
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1873-07-30/ed-1/seq-4)
 
 #### 1873-07-30 &middot; Newberry, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lar  
-treatment, when the cow was dry, a  
-silver tube remaining in the teat till  
-healing was well along, that was said  
-to work well. The plan looks feasible,  
-but I have never experimented at that  
+  
 season.  
 EVERLASTING FENCE PosTs.-&quot;I  
 discovered many years ago that wood  
@@ -1787,7 +1887,7 @@ consisteucy of paint. Put a coat of
 this over the timber, and there is not  
 a man that will live to see it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286972%2F1873073001%2F0242.jp2/pct:3.296256,54.698416,12.032013,16.799501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286972%2F1873073001%2F0242.jp2/pct:3.296256,58.217718,11.986797,13.280199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,15 +1896,10 @@ a man that will live to see it rotten.
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1873-08-02/ed-1/seq-1)
 
 #### 1873-08-02 &middot; Charlestown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hed, as with us, by a thmn]  
-of boys with shot guns pouring into the cmn  
-try and slaying out of mere wantonness th  
-feathery tribe, which is regarded hero as nr  
-efficient cohiborer to the agriculturist.  
-Everlasting Fence Posts.,  
-The correspondent of the Western 7  
+  
 says: I discovered, many years ago, that w • &gt;  
 cuild be mado to last longer than iron in th  
 ground, but I thought the process ro rimpl  
@@ -1823,7 +1918,7 @@ and stir in it pulverized charcoal, to the con
 gister.cy of paint. Put a coat of this on tin  
 timber, and there is not a man who will liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F004141867006%2F1873080201%2F0124.jp2/pct:69.148936,79.695540,12.123826,15.162236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F004141867006%2F1873080201%2F0124.jp2/pct:69.148936,84.734134,12.123826,10.123642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,15 +1927,10 @@ timber, and there is not a man who will liv
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-08-07/ed-1/seq-3)
 
 #### 1873-08-07 &middot; Ridgway, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ic or antidote  
-has hitherto been discovered against  
-that terrible disease. If, upon experi­  
-ment, the gall of tho rabit dog should  
-prove an antidote to the virus, it would  
-be a great boon to humanity.  
-Everlasting Fence Posts. The  
+  
 correspondent ot the Western Rural  
 says, I discovered, many years ago,  
 that wood could be made to last longer  
@@ -1861,9 +1951,9 @@ others, I will give the receipt: Take
 boiled linseed oil and stir in it pulver­  
 ized charcoal to to tho consistency of  
 paint. Put a coat of this on the timber,  
-and there is not a man who will live t
+and there is not a man 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873080701%2F0118.jp2/pct:30.157866,49.882255,12.048630,15.874775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873080701%2F0118.jp2/pct:30.157866,54.315002,12.048630,11.428176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1872,15 +1962,10 @@ and there is not a man who will live t
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1873-09-04/ed-1/seq-4)
 
 #### 1873-09-04 &middot; Camden, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, except the  
-words, &quot;God not yet forsaken His Church.  
   
-ropes have been banished trorn Koine,  
-have been imprisoned by their enitnies,  
-but the Church was finally triumphant.  
-And she will again triumph.&quot;  
 Everlasting Fence Posts.?I discovered  
 many years ago that wood could  
 be made to last longer than iron * in the  
@@ -1903,7 +1988,7 @@ consistency of paint. Put a coat of
 this on the timber, and there is not a  
 man that will live to sec it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn86053067%2F00415620184%2F1873090401%2F0117.jp2/pct:18.838192,52.828918,17.888322,17.804221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn86053067%2F00415620184%2F1873090401%2F0117.jp2/pct:18.838192,57.173327,17.888322,13.459811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1912,6 +1997,7 @@ man that will live to sec it rot
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1873-11-06/ed-1/seq-4)
 
 #### 1873-11-06 &middot; Lansing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1938,7 +2024,7 @@ consistency of paint. Put a coat of
 this over the timber, and there is not a  
 man that will live to see it rot.  
   
-NEW U8B F
+NEW
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479718%2F1873110601%2F0431.jp2/pct:24.438623,70.386547,9.779192,11.391390/!600,600/0/default.jpg"/>
 </td>
@@ -1949,9 +2035,10 @@ NEW U8B F
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1874-02-26/ed-1/seq-3)
 
 #### 1874-02-26 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-espondent of the IFestem  
+correspondent of the IFestem  
 Rural says :   
 I discovered many years ago that  
 wood could be made to last, longer  
@@ -1969,9 +2056,16 @@ ware first put in the ground. Times
 and weather seemed to have no ef-|  
 foct on them. The posts can be!  
 prepared for less than two cents I  
-apiece. For the benefit of
+apiece. For the benefit of others I  
+will give the receipt: Take boiled  
+linseed oil and stir in ifi pulverized  
+charcoal to the consistency of paint. ;  
+Pat a coatfof this over the timber,!  
+and there is not a man that will live1   
+i  
+to see it r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151246%2F1874022601%2F0051.jp2/pct:37.886111,75.304638,14.832205,15.490697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151246%2F1874022601%2F0051.jp2/pct:37.886111,75.304638,14.832205,20.178197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,6 +2074,7 @@ apiece. For the benefit of
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1874-06-16/ed-1/seq-1)
 
 #### 1874-06-16 &middot; Charles Town, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2016,13 +2111,10 @@ oil, aod stir in pulverised
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2?page=61)
 
 #### 1874-08-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-living, as are superfluous.” This  
-resolution, rigidly enforced throughout the  
-South, would be worth millions to the agricul-  
-turists of that section, and the North, too,  
-could copy it with advantage.  
+  
   
 Everlasting Fence Posts.—I discov-  
 ered many years ago that wood could be made  
@@ -2035,7 +2127,7 @@ timber for fence posts. I have taken out bass-
 wood posts after having been set seven years,  
 which were as sound when taken out as whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2&#0036;61/pct:20.049917,59.382284,34.359401,21.066434/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2&#0036;61/pct:20.049917,66.695804,34.359401,13.752914/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2044,6 +2136,7 @@ which were as sound when taken out as whe
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1874-09-03/ed-1/seq-4)
 
 #### 1874-09-03 &middot; Ridgway, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2058,9 +2151,9 @@ kind of timber for fence posts after
 having been set seven years, which  
 were as sound when taken out as when  
 they were first put in the ground.  
-Time and weather seem to have
+Time and weather seem to have no e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1874090301%2F0342.jp2/pct:6.343420,60.778402,12.067080,5.700973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1874090301%2F0342.jp2/pct:6.343420,60.778402,12.067080,5.714677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2069,6 +2162,7 @@ Time and weather seem to have
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1874-09-11/ed-1/seq-4)
 
 #### 1874-09-11 &middot; Emporia, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2085,9 +2179,39 @@ ter having been set seven j-cars,
 , they were as sound when taking  
 &#x27; out as when they were first put in  
 the ground. Time and weather  
-
+seem 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472979%2F1874091101%2F0239.jp2/pct:3.821320,48.039216,9.289761,6.036572/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1874-09-24/ed-1/seq-4)
+
+#### 1874-09-24 &middot; Troy, Kan.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+I discovered many years ago that wood can be  
+made to last longer than iron in the ground, but  
+thought the process so simple aud inexpensive  
+that it was not worth making any stirabout it.  
+I would as soon have poplar, basswood, or quak­  
+ing osli hs nnvother kind of wood for fence -Mists.  
+1 have taken out basswood poets after having  
+set seven years, that were as sound as wheu first  
+pnt iu the ground. Time aud weather seemed to  
+have no etlect on them. The posts can be pre­  
+pared for less than two cents apieee.  
+For the benefit of others, I will give the re­  
+ripe: Take boiled linseed oil and stir in It piil­  
+erizwl charcoal to a consistency of paiuU I at  
+H coat of this over the timber, aud there isi not a  
+mau that will live to see it rotteu
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555651%2F1874092401%2F0252.jp2/pct:2.861891,84.933240,12.887740,6.647927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2096,6 +2220,7 @@ the ground. Time and weather
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1874-10-14/ed-1/seq-1)
 
 #### 1874-10-14 &middot; Tionesta, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2113,7 +2238,7 @@ vears, they were as sound when taken
 out as when they wero first put in the  
 1 1 round.  
 Time and weather seem to  
-have no effect on them
+have no effect on them. 1 l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776117%2F1874101401%2F0911.jp2/pct:50.158014,65.762039,14.830700,8.803574/!600,600/0/default.jpg"/>
 </td>
@@ -2124,9 +2249,10 @@ have no effect on them
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-10-14/ed-1/seq-4)
 
 #### 1874-10-14 &middot; Somerset, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-one who has tried it says:  
+  
 I discovered inanv years ago that  
 wood could be made to last longer  
 . , 11. at &#x27;  
@@ -2136,7 +2262,7 @@ sive that it wa3 not worth while
 making any stir about it. I would  
 as soon have poplar, basswood, or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874101401%2F0480.jp2/pct:14.641699,85.308269,10.173990,3.815598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874101401%2F0480.jp2/pct:14.641699,85.755846,10.173990,3.368021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2147,22 +2273,63 @@ as soon have poplar, basswood, or
 #### From _Georgia weekly telegraph and Georgia journal & messenger._
 
 #### 1874-10-27 &middot; Macon, Ga.
+
 [This text is not available under an open license.]
+
+---
+
+## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1874-10-30/ed-1/seq-1)
+
+#### 1874-10-30 &middot; Staunton, Va.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+that it was not worth &quot;while making any stir  
+about it. I would as soon have poplar,  
+basswood or quaking asp as any other kind  
+of timber for fence posts. After having been  
+set seven years, they were as sound when  
+they were taken outas when they were first  
+put in the ground. Time and weather seem  
+to h
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349517%2F1874103001%2F0370.jp2/pct:84.916113,60.442600,10.877651,3.901044/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Hawaiian gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025121/1874-11-04/ed-1/seq-2)
+
+#### 1874-11-04 &middot; Honolulu [Oahu, Hawaii]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+&quot; I discovered many years ago that wood could be  
+I made lo lilt longer than iron in the ground, bat  
+thought tbe process so simple and inexpensive  
+tbat it was not worth while making any stir about  
+it. I wonld os soon have poplar, basswood, or  
+quaking asp as any other kind of timber for fence  
+posts after baring been&#x27; set for seven years,  
+which were as sound when taken oat as when  
+they were first jput in the ground. Time and  
+weather seem to bav
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_azure_ver01%2Fdata%2Fsn83025121%2F00211108861%2F1874110401%2F0139.jp2/pct:59.097198,3.262551,12.054652,5.639151/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1874-11-20/ed-1/seq-4)
 
 #### 1874-11-20 &middot; Fremont, Sandusky County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t up a considerable number of  
-the poisonous reptiles, to whose  
-bites he intended to submit all ani  
-mals in the neighborhood which  
-should happen hereafter to be bitten  
-by mad dogs. jVcio 1 uric limes.  
-  
-Everlasting Fence Post.  
   
 I discovered many years ago that  
 wood can be made to last longer  
@@ -2179,22 +2346,79 @@ the ground. Time and weather
 seem to have no effect on them. The  
 posts can be prepared for less than  
 two cents apiece.  
-i or the benefit of others, I will  
-give the receipt; Take boiled lin­  
-seed oil and stir in it pulverized  
-charcoal to a consistency of rtaint  
-Put a coat of this over the timber.  
-and there is not a man who will lir
+i or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874112001%2F0307.jp2/pct:35.144209,82.560167,9.888601,13.300779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874112001%2F0307.jp2/pct:35.174729,86.176026,9.812300,7.324730/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [SPECIAL ADVERTISEMENTS.](http://trove.nla.gov.au/ndp/del/article/18789753)
+
+#### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
+
+#### 1874-11-26 &middot; Maitland, New South Wales
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+nal, a plan which is held  
+in high,esteem hy those who have tried  
+it. The discoverer of it says:-&quot;I  
+discovered many years ago that wood  
+could be made to last longer than iron  
+in (be ground, but thought the process  
+so simple and inexpensive that it was  
+not worth while making any Stir about  
+it. I would as soo« have poplar,  
+basswoqd, or quaking asp, or any other  
+kind of timber for fencerposts after  
+having been set for seven years, Which  
+were as sound when taken out as whe
+</td></tr></table>
+
+---
+
+## AGRICULTURAL ITEMS.
+
+#### From _Prairie Farmer (1843-1877)_
+
+#### 1874-11-28 &middot; Chicago
+
+[This text is not available under an open license.]
+
+---
+
+## [LOSS OF HUME'S EXPLORING EXPEDITION.](http://trove.nla.gov.au/ndp/del/article/93139984)
+
+#### From _The Bacchus Marsh Express (Vic. : 1866 - 1918)_
+
+#### 1874-12-12 &middot; Bacchus Marsh, Victoria
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+discoverer of it says:-I discovered many  
+years ago that wood could be made to  
+last longer than iron in the ground, but  
+thouarht the procebs so simple and  
+inexpensive that it was not worth while  
+making any stir about it. I would as  
+soon have poplar, basswood, or quaking  
+asp, or any other kind of timber for  
+fence posts after having been set for  
+seven years, which were as sound when  
+taken out as when they were first put in  
+the ground. Time and weather seem to  
+have
+</td></tr></table>
 
 ---
 
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1874-12-24/ed-1/seq-3)
 
 #### 1874-12-24 &middot; Manitowoc, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2210,9 +2434,10 @@ of timber for fence posts. After having
 been set when seven years, tL j were as  
 sound they,were taken out,as when they  
 were first put in the ground. Time and  
-weather seem to have no effect 
+weather seem to have no effect upon  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1874122401%2F0115.jp2/pct:18.659901,66.225819,14.230842,8.445245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1874122401%2F0115.jp2/pct:18.659901,66.225819,14.230842,9.074219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2223,6 +2448,7 @@ weather seem to have no effect
 #### From _Queensland Times, Ipswich Herald and General Advertiser (Qld. : 1861 - 1908)_
 
 #### 1875-01-26 &middot; Ipswich, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2248,6 +2474,7 @@ apiece. This is the recipe: Take bottle
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1875-01-30/ed-1/seq-2)
 
 #### 1875-01-30 &middot; Honolulu, Hawaiian Islands
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2259,9 +2486,34 @@ would as soon have poplar, basswood, or quaking asp
 or any other kind of timber for fence-posts after hav­  
 ing been set for seven years, which were as sound  
 when taken out as when they were put in the ground.  
-Time and weather seem to have
+Time and weather seem to have no e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474289%2F1875013001%2F0564.jp2/pct:55.667090,31.067753,12.376112,3.773585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474289%2F1875013001%2F0564.jp2/pct:55.667090,31.067753,12.376112,3.784305/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1875-02-11/ed-1/seq-4)
+
+#### 1875-02-11 &middot; Troy, Kan.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+To PitESEiivE Fencs Posts. Some one who  
+has tried it says : &quot;I discovered many years ago  
+thai wood could be made to last&#x27;louger than irun  
+in the gronnd, bnt thought the process so simple  
+and inexpensive that it was not worth while  
+making any stir about it. I wonld as soon have  
+poplar, basswood or quacking asp as any other  
+kind of -timber for fence, posts. After having  
+been act seven yean they were as eonud when  
+they were taken out as when tbey were first pnt  
+in the ground. Time and weath
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555651%2F1875021101%2F0338.jp2/pct:3.734517,79.213641,12.627103,4.439121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2272,15 +2524,18 @@ Time and weather seem to have
 #### From _Milwaukee daily sentinel._
 
 #### 1875-03-10 &middot; Milwaukee, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1875-04-21/ed-1/seq-4)
 
 #### 1875-04-21 &middot; Montpelier, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r­  
+  
 phosis.Some one who has tried it sirs; I dis­  
 covered many years ago wood could be  
 made to last longer l han iron in t he ground.  
@@ -2292,7 +2547,7 @@ anv other kind of timber for f. nceposts.
 After having been set seven years, thev  
 were as sound when taken out as when  
 tin y were first in the ground. Time an.l  
-w eather seem to have no effec
+w eather seem to have no ef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1875042101%2F0484.jp2/pct:29.296375,58.889862,10.817342,5.879133/!600,600/0/default.jpg"/>
 </td>
@@ -2305,12 +2560,15 @@ w eather seem to have no effec
 #### From _Lowell daily citizen and news._
 
 #### 1875-04-29 &middot; Lowell, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1875-06-17/ed-1/seq-5)
 
 #### 1875-06-17 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2330,7 +2588,7 @@ having been set seven years they
 were as sound when they were tak­  
 en out as when they were first put  
 in the ground. Time and weather  
-seem to have no 
+seem to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1875061701%2F0044.jp2/pct:20.753434,59.160973,14.261753,11.773443/!600,600/0/default.jpg"/>
 </td>
@@ -2341,9 +2599,10 @@ seem to have no
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1875-06-23/ed-1/seq-2)
 
 #### 1875-06-23 &middot; Ottumwa, Wapello County, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;cnce Posts,  
+ve t&#x27;cnce Posts,  
 Some one who has tried it says:  
 discovered many years ago that wood  
 could be made to last longer than iron  
@@ -2357,7 +2616,7 @@ having been set Beven years they were
 as sound when they were taken out as  
 when they werefirBt put in the ground  
 Time and weather Ecemed to have no  
-effect o
+effect on the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1875062301%2F0753.jp2/pct:14.343143,27.018006,9.993174,7.903601/!600,600/0/default.jpg"/>
 </td>
@@ -2368,9 +2627,10 @@ effect o
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1875-06-24/ed-1/seq-3)
 
 #### 1875-06-24 &middot; Superior, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ve Fence Pi-,.  
 Someone who has tried it says: “J  
 discovered many years ago that wood  
 could be made to last longer than iron  
@@ -2383,9 +2643,34 @@ of timl&gt;er tor fence posts. After having
 been set seven years they were as sound  
 when they were taken out as when they  
 &quot; ere first put in the ground. Time and  
-weather st em to have no effec
+weather st em to have no effect on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875062401%2F0497.jp2/pct:5.464699,29.303513,11.979790,6.138760/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875062401%2F0497.jp2/pct:5.464699,28.813218,11.979790,6.662637/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1875-06-30_11_26?page=19)
+
+#### 1875-06-30 &middot; New York
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+EVERLASTING FENCE Posts.—I discovered,  
+many years ago, that wood could be made to last  
+longer than iron in the ground, but thought the pro-  
+cess 80 simple and inexpensive that it was not worth  
+while making any stir about it. 1 would as soon have  
+poplar, bass-wood, or quaking asp as any other kind  
+of timber for fence poste. I have taken out bass-wood  
+posts after having been set seven years, which were as  
+sound when taken out as when they were first put in  
+the ground.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1875-06-30_11_26&#0036;19/pct:41.834038,20.940332,26.242072,7.873867/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2394,6 +2679,7 @@ weather st em to have no effec
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1875-07-08/ed-1/seq-1)
 
 #### 1875-07-08 &middot; Tipton, Cedar Co., Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2414,7 +2700,7 @@ set seven years they were as sound
 when they were taken out as when  
 they were first put in the ground.  
 Time and weather seem to have no  
-effec
+effect on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1875070801%2F0740.jp2/pct:60.337748,84.146519,11.076891,8.150004/!600,600/0/default.jpg"/>
 </td>
@@ -2425,15 +2711,10 @@ effec
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1875-12-16/ed-1/seq-1)
 
 #### 1875-12-16 &middot; Anderson Court House, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-in Congress was made by John  
-Adams seconded by Bichard Henry Lee,  
-the.t tbe United Colonies were, and of  
-right ought to be, free and independent  
-Thus we see that Friday is not so bad a  
-day, after all.  
-Everlasting. Fence Posts.?A cor?  
+  
 respondent of the Western Rural says:  
 I discovered many years ago that wood  
 could be made to last longer than iron in  
@@ -2455,7 +2736,7 @@ stir in it pulverized charcoal to tbe con?
 sistency ef paint Put a coat of this over  
 the timber, and there is not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1875121601%2F0027.jp2/pct:62.061276,83.345610,12.177623,13.441369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1875121601%2F0027.jp2/pct:62.061276,87.032165,12.177623,9.754814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2464,6 +2745,7 @@ the timber, and there is not
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1875-12-22/ed-1/seq-2)
 
 #### 1875-12-22 &middot; Abbeville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 e Posts.?a cor­  
@@ -2488,9 +2770,9 @@ give you the recipe: Take boiled linseed
 oil and stir in it pulverized charcoal to  
 the consistency of paint. I&#x27;ut a coat ofI  
 this over the timber, and there is not a  
-..inn
+..inn fh-it will liv&lt;&gt; Io sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn84026853%2F00202194023%2F1875122201%2F0290.jp2/pct:3.426011,77.330439,12.307287,9.759226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn84026853%2F00202194023%2F1875122201%2F0290.jp2/pct:3.426011,77.330439,12.307287,9.798697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2499,6 +2781,7 @@ this over the timber, and there is not a
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1876-04-26/ed-1/seq-1)
 
 #### 1876-04-26 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 sts.?Some one  
@@ -2512,7 +2795,7 @@ ing ash as any other kind of timber for fence
 posts. Alter having b.-en wet seven years they  
 were as souud wheu they were taken out as  
 when they were tirst put in the ground. Time  
-aud weather seem to have no iff c
+aud weather seem to have no iff ct on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663766%2F1876042601%2F0399.jp2/pct:2.458305,62.904202,15.179347,6.801746/!600,600/0/default.jpg"/>
 </td>
@@ -2523,6 +2806,7 @@ aud weather seem to have no iff c
 ## [From _The Hartford herald._](https://chroniclingamerica.loc.gov/lccn/sn84037890/1876-05-17/ed-1/seq-4)
 
 #### 1876-05-17 &middot; Hartford, Ky.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2543,7 +2827,7 @@ Time and weather seem to have no ef
 feet on them. Tho posts can be pre  
 pared for less than two cents apiece.  
 or 1110 bencut ot others 1 win give  
-you the rec
+you the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_kryptonite_ver01%2Fdata%2Fsn84037890%2F00280763585%2F1876051701%2F0102.jp2/pct:18.708038,42.875070,11.758302,12.172337/!600,600/0/default.jpg"/>
 </td>
@@ -2554,14 +2838,10 @@ you the rec
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1876-05-18/ed-1/seq-1)
 
 #### 1876-05-18 &middot; Redwood Falls, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-and dncks&#x27;  
-might devour them, so it is veil for  
-the farmers to be on their guard yet  
-there is no evidence showing that the  
-dead bugs are poisonous, although kill­  
-ed by poison.—[Columbia Republican&quot;.  
+  
   
 EVERLASTING FENCE POSTS.—I dis­  
 covered many years ago that wood  
@@ -2586,7 +2866,7 @@ sistency of paint. Put a coat of this
 over the timber, and there is not the  
 man that will live to see it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919921%2F1876051801%2F0276.jp2/pct:82.487918,31.230694,10.695524,14.836612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919921%2F1876051801%2F0276.jp2/pct:82.487918,34.752073,10.607270,11.315233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2595,15 +2875,10 @@ man that will live to see it rot.
 ## [From _The Wichita city eagle._](https://chroniclingamerica.loc.gov/lccn/sn85032573/1876-05-25/ed-1/seq-4)
 
 #### 1876-05-25 &middot; Wichita, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- would appear that insect­  
-ivorous birds have been almost exter­  
-minated iu some parts of France, and  
-injurious insects have increased pro­  
-portionately, so that they have become  
-a formidable scourge.  
-Everlasting Fence Posts.  
+  
 A correspondent of the Western llu­  
 ral says :  
 &quot;I discovered many years ago that  
@@ -2625,9 +2900,10 @@ will give you the receipt: Take boiled
 linseed oil and stir in it pulverized  
 charcoal to the consistency of paint.  
 Put a coat of this over the timber, and  
-there is not a man to 
+there is not a man to live to sec it rot,&quot;  
+Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brockovich_ver02%2Fdata%2Fsn85032573%2F00237281871%2F1876052501%2F0255.jp2/pct:15.173913,46.335432,9.579710,14.871853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brockovich_ver02%2Fdata%2Fsn85032573%2F00237281871%2F1876052501%2F0255.jp2/pct:15.173913,50.472122,9.579710,11.701888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2638,14 +2914,10 @@ there is not a man to
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
 #### 1876-09-27 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hild.a few spoonfuls! ofreal beef tea  
-every, day. -1 know &quot;-&#x27;that they ? will  
-be glad that I have written against what  
-often seems to be baby&#x27;s only comfort  
-and mother&#x27;s only rest.-MABT KYLE  
-DALLAS. . EVERLASTING FENCE-POSTS.- I  
+  
 discovered many years ago that wood  
 could be made to last Iqnger than iron  
 in the. ground, but thought,the process  
@@ -2657,7 +2929,7 @@ kind of timber , for fence-posts after-
 having been set for Seven years, which  
 were, as&#x27;sound when taken out as when-  
 they were first put&quot; in the ground,.  
-Time and: weather 
+Time and: weather seem 
 </td></tr></table>
 
 ---
@@ -2667,20 +2939,10 @@ Time and: weather
 #### From _Geelong Advertiser (Vic. : 1859 - 1924)_
 
 #### 1876-10-17 &middot; Geelong, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-should  
-observe great caution in dealing with  
-affairs in Perak, and we look forward  
-with much interest to the meeting of the  
-Legislative Council. The following  
-paragraph from an American paper headed  
-&quot; everlasting Fence-posts,&#x27; deals with  
-kinds of fencing timber different to  
-those of Australia, but no doubt the  
-plan •null be found equally adapted to  
-Australian timber. If the plan is even  
-half so good as represented it cannot  
+  
 fail to prove very valuable. This is the  
 paragraph :—&quot;I discovered many years ago  
 that wood could be made to last longer  
@@ -2693,7 +2955,32 @@ kind of timber for fence-posts after
 having been set for seven years, whioli  
 were as sound when taken out as when  
 they were first put in the ground. Time  
-and weather seem to have n
+and weather seem to hav
+</td></tr></table>
+
+---
+
+## [AGRICULTURAL.](http://trove.nla.gov.au/ndp/del/article/88243125)
+
+#### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
+
+#### 1876-10-21 &middot; Bendigo, Victoria
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+paragraph:-&quot; -I&#x27;discovered many years  
+ago that wood could be made to last  
+longer &#x27;than iron in the ground, but  
+thought the process sO simple aud&#x27;  
+inexpensive&#x27;that it was&#x27;not-worth while  
+making any stir about it: I would as  
+soori have poplar.-basswood, or quaking  
+asp; or any other kind&#x27;&quot;&#x27;of timber for  
+fence posts, after having beeu&#x27;set; for  
+seven years, which wore&#x27;as sound when  
+taken1 out as they were when first&#x27;put  
+in the ground. - Time and weather see
 </td></tr></table>
 
 ---
@@ -2703,21 +2990,10 @@ and weather seem to have n
 #### From _The Bacchus Marsh Express (Vic. : 1866 - 1918)_
 
 #### 1876-10-21 &middot; Bacchus Marsh, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Thie entertainment is well  
-worth seeing; it is certainly  
-mistifying, and what is done, be it  
-managed how it may, is very cleverly got  
-through. The following paragraph from an  
-American paper, headed &quot;Everlasting  
-Fence-Posts,&quot; deals with kinds of  
-fencing timber different to those of  
-Australia, but no doubt the plan will be  
-found adapted to Australian timber. If  
-the plan is even half so good as  
-represented, it cannot fail to prove  
-very valuable. This is the paragraph :-&quot;  
+  
 I discovered, many years ago, that wood  
 could be&#x27; made tolast longer than iron  
 in the ground, but thought. the process  
@@ -2737,6 +3013,7 @@ wvear.her se
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1877-03-29/ed-1/seq-4)
 
 #### 1877-03-29 &middot; Manitowoc, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2756,15 +3033,9 @@ were as sound when taken up as when
 they were first put iu the ground. Time  
 aud weather seems to have no e Meet on  
 them. The posts can be prepared for  
-less than two cents apiece. For the  
-benefit of others, I will give you the  
-reepie: boiled linseed oil aud  
-stir it iu pulverized charcoal to the  
-consistency of paint. But a coat of  
-this over the timber, ami there is not a  
-man that wil
+less than two cents apiece. For
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1877032901%2F0248.jp2/pct:29.267863,52.752999,10.726857,10.171229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1877032901%2F0248.jp2/pct:29.267863,52.752999,10.726857,7.556649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2773,16 +3044,10 @@ man that wil
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1877-04-04/ed-1/seq-3)
 
 #### 1877-04-04 &middot; Watertown, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to breed grades,  
-and to have grades of different breeds  
-in the same dairy. The Ayreshire,  
-Holstein, or the Short Horns crossed,  
-make good dairy cows; and a cross on  
-Jerseys makes cows of great value.  
   
-Everlasting Fence Posts.  
 A correspondept of the Western Ru­  
 ral says:  
 “ I discovered many years ago that  
@@ -2805,9 +3070,9 @@ reepie: Take; boiled linseed oil and
 stir it in pulverized charcoal to the  
 consistency of paint. Put a coat of  
 this over the timber, and there is not a  
-man th
+man that will live to see it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877040401%2F0131.jp2/pct:49.820223,28.813559,14.070859,16.475798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877040401%2F0131.jp2/pct:49.820223,33.183692,14.070859,12.120934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2816,6 +3081,7 @@ man th
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1877-04-26/ed-1/seq-1)
 
 #### 1877-04-26 &middot; Redwood Falls, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2841,7 +3107,7 @@ you the recipe: Take boiled linseed
 oil and stir it in pulveriiei!charcoal to  
 the consUteney of paint. Put a coal  
 of this over the timber, and there ia n*  
-man that wi
+man that will live to see it rotte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919933%2F1877042601%2F0065.jp2/pct:28.041868,74.711403,10.400894,11.707381/!600,600/0/default.jpg"/>
 </td>
@@ -2852,6 +3118,7 @@ man that wi
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1877-04-26/ed-1/seq-2)
 
 #### 1877-04-26 &middot; Lansing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2893,6 +3160,7 @@ timber, and there
 ## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1877-05-10/ed-1/seq-4)
 
 #### 1877-05-10 &middot; Troy, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2906,7 +3174,7 @@ wood or quaking ash as any kind of timber, for
 fence posts. I have taken out basswood posts  
 after having been set seven years, that were as  
 sonnd wheu taken up as when tbey were first  
-put in tbe ground. Time and w
+put in tbe ground. Time and weathe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555663%2F1877051001%2F0117.jp2/pct:2.430178,51.785464,12.549873,4.551183/!600,600/0/default.jpg"/>
 </td>
@@ -2917,17 +3185,10 @@ put in tbe ground. Time and w
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1877-05-24/ed-1/seq-1)
 
 #### 1877-05-24 &middot; Brownville, Nemaha County, N.T. [Neb.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ook exclaim­  
-ing that he &#x27;never thought a $10 note  
-would go so far.&#x27;  
-Thus a $10 greenback wad made to  
-pay $90 indebtedness inside of five  
-minutes. Who saj&#x27;S greenbacks are  
-worthless. Laramie Sentinel.  
-Everlasting Fence Posts.  
-A correspondent of tho Vcstcrn liu­  
+  
 ral eays :  
 &#x27;I discovered many years ago that  
 wood could be made to last longer than  
@@ -2943,7 +3204,7 @@ as sound when taken up as when put
 in the ground. Time and weather  
 seems to have no effeot upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285190%2F1877052401%2F0196.jp2/pct:72.581287,69.300029,11.187790,13.534708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285190%2F1877052401%2F0196.jp2/pct:72.581287,75.360635,11.187790,7.474102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2952,15 +3213,10 @@ seems to have no effeot upon them
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1877-07-06/ed-1/seq-2)
 
 #### 1877-07-06 &middot; Albany, Or.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Court stands adjourned for the  
-term.&quot; Then the Sherift and Clerk and  
-Indian sit down in the sagebrush and  
-play Indian poker, and the Judge bids  
-them a pleasant good-bye and drives  
-on. Austin, Rectilk.  
-Everlasting Fence Posts. A cor­  
+  
 respondent of the TVestcrn Rural says :  
 I discovered many years ago that wood  
 could be made to last longer than iron  
@@ -2973,54 +3229,9 @@ of timber, for fence posts. I have tak­
 en out basswood posts after having been  
 set seven years, that were aw sound when  
 taken up as when they were first put in  
-the ground. Time and weather seems  
-to have no effect on them. The posts  
-can le prepared ,for less than two cents  
-a piece. Foi the benefit ot others &#x27; I  
-will give you the receipt : Take boiled  
-linseed oil and stir in it pulverized char­  
-coal to the consistency ot paint. Put a  
-coat of this over the timber, and there  
-i
+the ground. Time and weather seem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152639%2F1877070601%2F0599.jp2/pct:32.574103,35.211268,11.840874,15.479795/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1878-09-05/ed-1/seq-4)
-
-#### 1878-09-05 &middot; Camden, S.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, puts it into 1  
-a barrel and pours water over it, lets  
-it stand about twenty four hours, 1  
-and then pours the water on the j  
-cabbage, which will kill or drive the i  
-worms awav.?Cleveland Banner.  
-&#x27; 1  
-  
-Everlasting Fence Posts. i  
-&#x27;I discovered many vears ago that  
-wood could be made to last longer  
-than iron in the ground, but thought j  
-the process was so simple and inex- j  
-pensive that it was not worth while I  
-making any stir about it. I would &#x27;  
-as soon have poplar, bass-wood or j  
-quaking ash as any other kinds of I  
-limber for fence posts. I have ta- n  
-ken out bass-wood posts after hav- j  
-ling been set seven years that were r.  
-as sound when taken up as when ft  
-they were first put in the ground. ^  
-Time and w&#x27;dath^r sfeVmed to have s  
-  
-io effect on them. The posts can 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F00295862361%2F1878090501%2F0004.jp2/pct:18.009358,4.969937,27.174245,92.593751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152639%2F1877070601%2F0599.jp2/pct:32.589704,39.515598,11.809672,6.963275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3029,9 +3240,10 @@ io effect on them. The posts can
 ## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1879-11-18/ed-1/seq-4)
 
 #### 1879-11-18 &middot; Paris, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ethod  
+  
 for preserving fence j&gt;osts. He says: 1  
 discovered many years ago that wood  
 could be made to last longer than iron in  
@@ -3054,7 +3266,7 @@ tency of paint, l&#x27;ut a coat of this over
 ι the timber and there is not a man who  
 will live long enough to see it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524056%2F1879111801%2F0431.jp2/pct:31.843325,82.845011,13.041312,12.200991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524056%2F1879111801%2F0431.jp2/pct:31.843325,83.386412,13.026362,11.659590/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3063,15 +3275,10 @@ will live long enough to see it rotten
 ## [From _St. Landry democrat._](https://chroniclingamerica.loc.gov/lccn/sn88064537/1880-12-18/ed-1/seq-4)
 
 #### 1880-12-18 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ath-bones on dining  
-tables had the same origin as that  
-of introducing skeletons at festivals  
-to remind the guests that all were  
-mortal and that it was best to enjoy  
-life whilst they could.—| The Hour.  
-Everlasting Fence Post.—  
+  
 &quot; I discovered many years ago that  
 •wood could be made to last longer  
 than iron iu the grouud but; though  
@@ -3085,9 +3292,42 @@ taken out basswood posts after
 having been set seven years, which  
 were as sound when taken out as  
 when they were first put in the  
-ground. Time and weather 
+ground. Time and weather seeme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876232%2F1880121801%2F0207.jp2/pct:4.774194,51.347449,12.274194,12.403754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876232%2F1880121801%2F0207.jp2/pct:4.822581,55.798845,12.225806,7.952358/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _St. Landry democrat._](https://chroniclingamerica.loc.gov/lccn/sn88064537/1881-01-29/ed-1/seq-1)
+
+#### 1881-01-29 &middot; Opelousas, La.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+the principal so simple and inexpen  
+sive that it was not worth while ma­  
+king any stir about it. I would as  
+soon have poplar, basswood, or qua­  
+»UUil littVt; puuial, uaöOVYUUU. ui u ua&gt;­  
+king ash as any other kind of timber i  
+for fence posts, I have taken out !  
+basswood posts after having been j  
+set seven/ears, which were* sound |  
+as when tW were first put in the 1  
+ground. Time and weather seemed j  
+to have no effect on them. The  
+posts can be prepared for less than |  
+two cents apiece, This is the re­  
+ceipt ;—Take boiled linseed oil and  
+stir in pulverized charcoal to the  
+consistency of paint. Put;a coat of  
+this over Ae timber, and there is  
+not a man that will live to see i
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876232%2F1881012901%2F0228.jp2/pct:69.246795,79.920977,12.483974,10.656130/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3096,16 +3336,10 @@ ground. Time and weather
 ## [From _The Meridional._](https://chroniclingamerica.loc.gov/lccn/sn88064005/1881-02-12/ed-1/seq-2)
 
 #### 1881-02-12 &middot; Abbeville, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hat State actually applauded  
-and approved him, asserting that,  
-while it was true that he was a  
-bitter partisan, it could say this  
-much in his favor, that he was a  
-poor man.-1. 0. Democrat.i  
---- -----­  
-EVERLASTING FENCE POST.-I  
+  
 discovered maly years ago that  
 wood cotull b.e made to last longer  
 than ,ron i ; the ground but  
@@ -3129,7 +3363,7 @@ itency of paint Put a coat of this
 over the timber, and there is  
 [&#x27;not a uen that will live to see i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_emmet_ver01%2Fdata%2Fsn88064005%2F00200299036%2F1881021201%2F0648.jp2/pct:41.360601,70.079787,14.649416,23.311170/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_emmet_ver01%2Fdata%2Fsn88064005%2F00200299036%2F1881021201%2F0648.jp2/pct:41.360601,76.183511,14.649416,17.207447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3138,6 +3372,7 @@ over the timber, and there is
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1882-07-14/ed-1/seq-1)
 
 #### 1882-07-14 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3176,6 +3411,7 @@ live long enough to see it rotten
 ## [From _The Corvallis gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022650/1882-09-01/ed-1/seq-4)
 
 #### 1882-09-01 &middot; Corvallis, Or.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3194,7 +3430,7 @@ to have no effect on them. The posts
 can be prepared for less than 2 cents  
 a piece. They should be well sea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_pearsoll_ver01%2Fdata%2Fsn84022650%2F00295868752%2F1882090101%2F0136.jp2/pct:57.451514,22.270446,11.585573,8.409060/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022650%2F00295868752%2F1882090101%2F0136.jp2/pct:57.451514,22.270446,11.585573,8.409060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3203,6 +3439,7 @@ a piece. They should be well sea
 ## [From _The weekly Copiahan._](https://chroniclingamerica.loc.gov/lccn/2018270504/1882-10-28/ed-1/seq-3)
 
 #### 1882-10-28 &middot; Hazlehurst, Copiah County, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3239,6 +3476,7 @@ long enough to see it &quot;otten
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1884-08-21/ed-1/seq-1)
 
 #### 1884-08-21 &middot; Alexandria, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ho can clear­  
@@ -3273,7 +3511,7 @@ Time and weather seemed to have tl
 o0 effect upon them, The, pests  
 can be prepared ,for les.: than two  
 cents.. Take poliphsd &#x27;,linseed oil,  
-sid st:r iii pulverixied chro
+sid st:r iii pulverixied 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555171%2F1884082101%2F0328.jp2/pct:57.894737,60.537756,19.148373,31.154403/!600,600/0/default.jpg"/>
 </td>
@@ -3284,6 +3522,7 @@ sid st:r iii pulverixied chro
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1884-10-11/ed-1/seq-6)
 
 #### 1884-10-11 &middot; McMinnville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 up to die  
@@ -3335,14 +3574,9 @@ to see it rotten.
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44?page=0)
 
 #### 1884-10-30 &middot; St. Louis, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- oul has  
-given more, but never less than two tons  
-per acre ever since. As to the value of  
-ashes generally, nature of soil must be  
-considered.  
-  
   
   
 —A correspondent gives the Western  
@@ -3367,7 +3601,7 @@ of this over the timber, and there is not a
 man that will live long enough to see it  
 rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44&#0036;0/pct:82.337884,81.762080,12.337884,12.867647/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44&#0036;0/pct:82.406143,84.926471,12.269625,9.703256/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3376,9 +3610,19 @@ rotten.
 ## [From _Richmond democrat._](https://chroniclingamerica.loc.gov/lccn/sn86063662/1884-11-06/ed-1/seq-2)
 
 #### 1884-11-06 &middot; Richmond, Ray County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A correspondent gives the Weatcrn  
+i Jural hia receipt for everlasting fence  
+posts. He says: &quot;I discovered many  
+years ago that wood can be made to  
+last longer than iron in the ground,  
+but thought the prpcesa so simple and  
+inexpensive that it was not worth  
+wliilo to make any stir about it. The  
+posts can be prepared for less than  
 two cent. Take boiled linseed oil  
 and stir in pulverized charcoal to the  
 ennsistcnev of oaiut. Put a coat of  
@@ -3388,7 +3632,7 @@ a man that will live long enough to
 Koe it rolton.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn86063662%2F00200292406%2F1884110601%2F1136.jp2/pct:4.938050,64.564693,9.983839,3.763670/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn86063662%2F00200292406%2F1884110601%2F1136.jp2/pct:4.920093,59.338162,10.001796,8.990200/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3397,6 +3641,7 @@ Koe it rolton.&quot;
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1884-11-13/ed-1/seq-1)
 
 #### 1884-11-13 &middot; Pulaski, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  the future.  
@@ -3446,6 +3691,7 @@ enough to sse it rotten.
 ## [From _The Austin weekly statesman._](https://chroniclingamerica.loc.gov/lccn/sn86088296/1884-11-13/ed-1/seq-2)
 
 #### 1884-11-13 &middot; Austin, Tex.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3484,13 +3730,10 @@ it rotten
 ## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1884-11-23/ed-1/seq-7)
 
 #### 1884-11-23 &middot; Savannah
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o fatten, and  
-knows the value of the manure produced  
-by his stock and what he has received, he  
-can tell whether farming is profitable to  
-him.  
+  
   
 A correspondent gives the Western llu­  
 ral his receipt of everlasting fence posts.  
@@ -3513,7 +3756,7 @@ of this over the timber and there is not a
 man that will live long enough to see it  
 rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_ace_ver02%2Fdata%2Fsn82015137%2F00383342132%2F1884112301%2F0107.jp2/pct:36.535106,72.830789,10.694582,9.154466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_ace_ver02%2Fdata%2Fsn82015137%2F00383342132%2F1884112301%2F0107.jp2/pct:36.535106,74.710137,10.694582,7.275119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3522,11 +3765,10 @@ rotten.
 ## [From _Charlotte home and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020714/1884-12-05/ed-1/seq-4)
 
 #### 1884-12-05 &middot; Charlotte, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o be renewed. And when tools  
-and implements are housed they should be  
-placed just where they can readily be  
+  
 found when again sought for.  
 EdgT&quot; A correspondent gives the West­  
 ern Rural his receipt for everlasting fence  
@@ -3549,7 +3791,7 @@ consistency of paint. Put a coat of this
 over the timber, and there is not a man  
 that will live long enough to see it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023024%2F1884120501%2F0192.jp2/pct:4.897245,50.284123,12.884419,12.657382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023024%2F1884120501%2F0192.jp2/pct:4.926396,51.799443,12.855269,11.142061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3558,13 +3800,9 @@ that will live long enough to see it rotten
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1885-03-26/ed-1/seq-4)
 
 #### 1885-03-26 &middot; Augusta, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-ei-ed in sending loos to mill or market  
-where there is liability to danger of the  
-kind spoken of.—People and Patriot.  
-Kverlnsting Fence.  
 A correspondent gives the Western Ku­  
 ril his method of making everlasting  
 fence posts He says he discovered mam  
@@ -3586,7 +3824,35 @@ sistency ot paint. Tut a coat ot this over
 the timber, and there is not a man that  
 will live long enough to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895126%2F1885032601%2F0295.jp2/pct:17.429577,51.598630,13.111307,12.621325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895126%2F1885032601%2F0295.jp2/pct:17.449139,54.324864,13.091745,9.895090/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1890-09-04/ed-1/seq-5)
+
+#### 1890-09-04 &middot; Lancaster, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+next meeting  
+Some one who has tried it says. “I  
+discovered many years ago that wood  
+could be made to last longer than iron  
+in the ground, but thought the process  
+so simple and inexpensive that it was  
+not worth while making any stir about  
+it. I would as soon have poplar, bass­  
+wood or quaking asp as any other kind  
+of timber for fence posts. After hav­  
+ing been set for seven years they were  
+as sound when they were taken out as  
+when they were first put in the ground.  
+Time and weather s
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159221%2F1890090401%2F0870.jp2/pct:35.835933,29.123477,14.287572,9.278960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

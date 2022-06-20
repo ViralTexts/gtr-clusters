@@ -1,13 +1,14 @@
 
 # Our Recipe for Curing Meat
 
-### 112 reprints from 1856-12-03 to 1884-01-04
+### 132 reprints from 1856-12-03 to 1884-11-20
 
 ## [Our Recipe for Curing Meat](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-11-08/ed-1/seq-1/)
 
 #### From _Cecil Whig_
 
 #### 1862-11-08
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Our Recipe for Curing Meat.  
@@ -35,6 +36,7 @@ If this receipt is properly tried, it will never be abandoned. There is none tha
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1856-12-03/ed-1/seq-4)
 
 #### 1856-12-03 &middot; Ashland, Ashland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -55,7 +57,7 @@ to six weeks. The meat must bo well
 covered with pickle, aud should not be  
 put down for at least two days after  
 killing, during which time it shoutd be  
-slightly sprinkled wit
+slightly sprinkled with pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027285%2F1856120301%2F0096.jp2/pct:27.193771,33.093525,10.916442,10.881295/!600,600/0/default.jpg"/>
 </td>
@@ -63,21 +65,23 @@ slightly sprinkled wit
 
 ---
 
-## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1856-12-12/ed-1/seq-2)
+## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1856-12-06_1845?page=1)
 
-#### 1856-12-12 &middot; Ellsworth, Me.
+#### 1856-12-06 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-T &gt; one gallon of water—take ] 1-2 lbs.  
-salt. 1-2 lb. of sugar, 1-2 oz. of saltpetre,  
-1-2 oz. of potash.  
-In this ratio the pickle to be increased  
-: to any quantity desired. Let these be  
-boiled together, until all the dirt from the  
-sugar, .which will not he a little,) rise t
+be a little) rises to the top and is skimmed off. —  
+Then throw it into a tab to cool, and when cold,  
+pour it over your beef and pork, to remain the  
+usual time, say four to six weeks. The meat  
+must be well covered with pickle, and should not  
+be put down for at least two days after killing,  
+during which time It should be slightly sprinkled  
+with pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895047%2F1856121201%2F0407.jp2/pct:17.614224,75.955940,12.761009,3.922109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1856-12-06_1845&#0036;1/pct:36.244658,57.488654,14.049145,4.406203/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,9 +90,11 @@ sugar, .which will not he a little,) rise t
 ## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-01-02/ed-1/seq-4)
 
 #### 1857-01-02 &middot; Brookville, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+It is this:  
 To one gallon of water, take  
 1 1-2 lbs of salt, 1-2 lb of sug  
 ar, 1-2 oz of saltpetre, 1-2 oz of  
@@ -97,9 +103,11 @@ In this ratio the piokle to be
 increased to any quantity desir­  
 ed. Let these be boiled togeth­  
 er, until all tho dirt from the su­  
-gar, (which will be not a little) ri
+gar, (which will be not a little) ri­  
+ses to the top and is skimmed off.  
+Then 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857010201%2F0246.jp2/pct:14.235222,12.709525,9.884217,5.590613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857010201%2F0246.jp2/pct:14.235222,12.117925,9.884217,7.286531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,9 +116,14 @@ gar, (which will be not a little) ri
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1860-12-13/ed-1/seq-4)
 
 #### 1860-12-13 &middot; Towanda, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ will add, that after using it fur  
+about twenty yea s ami comparing tlie hems  
+so cured with others cured by adoz-n different  
+processes, we are more tliau ever convinced of  
+its superiority. It is this;  
 To one gallon of water,  
 Take 1 1-2 lbs of salt,  
 1-2 lb. of sugar,  
@@ -119,9 +132,9 @@ Take 1 1-2 lbs of salt,
 jfn this ratio the pickle is to be increased to  
 any quantity desired. Let these be boiled to­  
 gether, until all the dirt trom the sugar rises  
-to the top and is skimmed 
+to the top and is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860121301%2F0522.jp2/pct:7.573565,75.460893,14.605778,5.205146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860121301%2F0522.jp2/pct:7.546765,72.530792,14.637938,8.135248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,6 +145,7 @@ to the top and is skimmed
 #### From _Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)_
 
 #### 1861-07-11 &middot; Maryborough, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -160,6 +174,7 @@ clean.&#x27; Remkdv for Garget (o
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-11-08/ed-1/seq-1)
 
 #### 1862-11-08 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 the usual lime,say four or live weeks. The  
@@ -186,6 +201,7 @@ surpasses it, if so good.—O&#x27;er. Telegraph
 ## [From _Columbia Democrat and Bloomsburg general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85025181/1862-11-22/ed-1/seq-4)
 
 #### 1862-11-22 &middot; Bloomsburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 eat must be  
@@ -211,9 +227,31 @@ Gamanloivn &#x27;Jtlegraph
 
 ---
 
+## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1862-11-22/ed-1/seq-3)
+
+#### 1862-11-22 &middot; Sunbury, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+Some omit boiling the pickle, and find it I  
+to an-wcr well; though the operation of&#x27;  
+t.oi!&#x27;.ig pitriiir the pickle by throwing offl  
+i he dirt always to be found in salt and I  
+-agar. &quot; j  
+if this rt ipt is properly tried, it will  
+never be abandoned. There is none thatsur-pa.-i.ic-s  
+it, if .,(., g.iod
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776038%2F1862112201%2F1133.jp2/pct:4.118287,49.069374,12.790276,3.905809/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-11-22_2156?page=9)
 
 #### 1862-11-22 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -244,6 +282,7 @@ graph.
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1862-12-03/ed-1/seq-2)
 
 #### 1862-12-03 &middot; Keokuk, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 he meat must  
@@ -280,9 +319,11 @@ Telegraph.
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1862-12-03/ed-1/seq-4)
 
 #### 1862-12-03 &middot; Warren, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eaving the meat fresh and clean,  
+blood, Ac,  
+leaving the meat fresh and clean,  
 Some omit boiling the pickle, and find  
 it to answer well; though the operation  
 of boilirjz nurifies the pickle by throw  
@@ -293,7 +334,7 @@ never be abandoned. There is none that
 surpasses it, if &quot; c 1. Oermantow Tel­  
 egraph. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286881%2F1862120301%2F0125.jp2/pct:17.129412,32.526419,10.698039,4.399115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286881%2F1862120301%2F0125.jp2/pct:17.129412,32.059474,10.698039,4.866060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,6 +343,7 @@ egraph. -
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1862-12-05/ed-1/seq-1)
 
 #### 1862-12-05 &middot; Manitowoc, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -341,18 +383,10 @@ Tdtpraph.
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1862-12-11/ed-1/seq-4)
 
 #### 1862-12-11 &middot; Towanda, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-following receipt for cur&#x27;ng meat : To one  
-gallon of water, 1 12 lbs. of salt, 1 2 lb. of su­  
-guar, 12 oz. of saltpeter, 1-2 oz. potash. In  
-this ratio the pickle to he increused to any  
-quantity desired. Let these he boiled tftgetli­  
-er, till the dirt from the sugar rises to the top  
-and is skimmed off. Then throw it into a lnl  
-to cool, and wheu cold, pour it over your beef  
-or pork, to remain usual time, say four or five  
+remain usual time, say four or five  
 weeks. The meat must he weil covered with  
 pickle, and should not be put. down for at least  
 two days after killing, during which time it  
@@ -367,7 +401,7 @@ if this receipt is properly tried, ic will nev­
 er be abandoned. There is none that surpas­  
 ses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028654%2F1862121101%2F0103.jp2/pct:7.403994,46.148028,14.925755,12.079957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028654%2F1862121101%2F0103.jp2/pct:7.450077,50.502431,14.879672,7.725554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,6 +410,7 @@ ses it, if so good
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1862-12-25/ed-1/seq-1)
 
 #### 1862-12-25 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 in the usual time, say four  
@@ -406,6 +441,7 @@ town Telegraph.
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1863-01-15/ed-1/seq-4)
 
 #### 1863-01-15 &middot; Gallipolis, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -447,6 +483,7 @@ low Telegraph
 ## [From _The Cass County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85033611/1863-11-05/ed-1/seq-1)
 
 #### 1863-11-05 &middot; Dowagiac, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  The meat must be well covered  
@@ -477,6 +514,7 @@ none that surpasses it, it so good
 ## [From _The Genesee Farmer (1845-1865)_](https://iiif.archivelab.org/iiif/sim_genesee-farmer_1863-12_24_12?page=16)
 
 #### 1863-12-01 &middot; Rochester
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 s.—Madame  
@@ -518,6 +556,7 @@ surpasses it, if so good
 ## [From _The dollar weekly bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86069123/1863-12-10/ed-1/seq-1)
 
 #### 1863-12-10 &middot; Maysville, Ky.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ll covered with pickle,  
@@ -544,21 +583,10 @@ surpasses it, if so good
 ## [From _The Weekly Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026193/1863-12-30/ed-1/seq-4)
 
 #### 1863-12-30 &middot; Perrysburg, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-Rkcmct foi; I&#x27;l iiiMi Mi:t. -To ono gal­  
-lon of water, take 1 &#x27;J lbs. of salt, &#x27;..&#x27;lb. of  
-Riiar, ..&#x27; oi. of saltpetre, und &#x27;c oz. of pot­  
-ash.In this ratio, tlio pickle, to be iucreasod  
-to any quantity desired. Let these be  
-lejilod together until all tho dirt from the  
-sugar rises to the top and is skimmed off.  
-Then throw it into a tub to cool, and when  
-oold, pour it over your beef or pork, to re­  
-wain the ubuaI time --say four or live weeks.  
-The meat must be well covered with pickle.  
+must be well covered with pickle.  
 and should not be put down for at least two  
 davt after killing, during which time  
 should be slightly sprinkled with powdered  
@@ -572,24 +600,39 @@ gar.If this receipt&#x27; is properly tried, it will
 never be ahanricned. There is nouo lli.il  
 surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026193%2F00280775769%2F1863123001%2F1238.jp2/pct:6.250000,63.643502,12.588778,11.385944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026193%2F00280775769%2F1863123001%2F1238.jp2/pct:6.427557,68.669022,12.411222,6.360424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Valley Farmer (1849-1864)_](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1?page=8)
+## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1863-12-31/ed-1/seq-1)
 
-#### 1864-01-01 &middot; St. Louis
+#### 1863-12-31 &middot; Gallipolis, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eks.  
-The meat must be well covered with pickle,  
-and should not be put down for at least two  
-days after killing, during which time it should  
-be slightly sprinkled with powdered saltpetre,  
-which removes all the surface blood, &amp;c. leay-  
-ing the meat fresh and clean.  
+  
+the  
+.Do  
+found in salt and sugar.  
+II this receipt is properly tried, i  
+will never be abandoned. There is  
+none that surpasses, if so good
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775526%2F1863123101%2F0558.jp2/pct:66.561922,59.382889,11.866913,3.856942/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1?page=8)
+
+#### 1864-01-01 &middot; St. Louis, Mo.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+clean.  
   
 | on omit boiling the pickle and find it to  
 answer well; though the operation of boiling  
@@ -602,7 +645,7 @@ be abandoned.
 There 1s none that surpasses  
 it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1&#0036;8/pct:46.463142,33.291203,34.214445,15.444894/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1&#0036;8/pct:46.500372,39.939333,34.177215,8.796764/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,6 +654,7 @@ it, if so good
 ## [From _The southern aegis, and Harford County intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn88065733/1864-01-08/ed-1/seq-4)
 
 #### 1864-01-08 &middot; Bel Air, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  four or five j  
@@ -641,15 +685,19 @@ surpasses if, if so good.— O&#x27;er. Telegraph
 #### From _Woonsocket patriot and Rhode-Island State register._
 
 #### 1864-11-24 &middot; Woonsocket, R.I.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1864-12-16/ed-1/seq-4)
 
 #### 1864-12-16 &middot; Bel Air, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- meat fresh and clear. Some omit j ]  
+eav­  
+ing the meat fresh and clear. Some omit j ]  
 boiling tire pickle, and find it to answer j  
 well; though the operation of boiling pu-1  
 rifies the pickle by throwing off the dirt j  
@@ -659,7 +707,7 @@ never be abandoned. There is none that!
 surpasses it, it so good.— Germantown!  
 Telegraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625479%2F1864121601%2F0178.jp2/pct:6.451613,66.489402,14.553763,5.239308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625479%2F1864121601%2F0178.jp2/pct:6.451613,65.976331,14.553763,5.752378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,6 +716,7 @@ Telegraph
 ## [From _The Cadiz sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034406/1864-12-21/ed-1/seq-1)
 
 #### 1864-12-21 &middot; Cadiz, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 g the meat  
@@ -690,6 +739,7 @@ graph. - &quot;1
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1864-12-29/ed-1/seq-4)
 
 #### 1864-12-29 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 the meat fresh nnd  
@@ -709,51 +759,10 @@ mautowu Telegraph.
 
 ---
 
-## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1865-10-07/ed-1/seq-4)
-
-#### 1865-10-07 &middot; Ashtabula, Ohio
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-hereupon. M. Beautaet  
-iromediate&#x27;y repaired the wrong by again  
-transporting ber, with the same precaetion.  
-to the very spot where be first met ber.  
-nd lock bia leave with a profound salata-  
-lion.  
-v ,  
-  
-Our Recipe for Curing Meat.  
-  
-Til one trallon at aratar. Ink ana and  
-one half pounds of salt, one third pound el  
-agar, oiM-aai. ounce 01 poiasn. t ram Iftja  
-ne puiie to oe increased tirany ; qnautity  
-desired. Let lhee be boiled together, no  
-til all the dirt from the sngar rises to the  
-top and ia skimmed off. Then throw into  
-tab to cool; when cold, poor Jt over  
-yoor beef or pork, to remain the usual  
-lime, say four or Ave sreeki. . .The meat  
-must be well covered , with pickle, and  
-. ahoukl not be dowa for at least&quot; two day  
-after killiog, daring, which time it shoald  
-te slightly sprinkled with powdered salt  
-peter which removes all sarface blood,  
-&amp;e , leaviug the meat frub and clear-  
-Bom omit boiling ibe pickle, and find It  
-to answer well; though the operation  
-of boiling purifies the pickle by throwing  
-XI th dirt sdeaj
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775162%2F1865100701%2F0558.jp2/pct:5.580923,79.997366,12.869948,14.682644/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-11-01_17_21?page=8)
 
 #### 1865-11-01 &middot; St. Louis, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 eks. The meat must be well covered  
@@ -782,12 +791,25 @@ be abandoned, @fhere is none that surpasses it,
 #### From _Colman's rural world._
 
 #### 1865-11-15 &middot; St. Louis, Mo.
+
 [This text is not available under an open license.]
+
+---
+
+## ODDS AND ENDS.
+
+#### From _Prairie Farmer (1843-1877)_
+
+#### 1865-12-02 &middot; Chicago
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1865-12-05/ed-1/seq-1)
 
 #### 1865-12-05 &middot; Charles Town, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 r five weeks. The meat must bo well  
@@ -815,12 +837,15 @@ passes it, if so good
 #### From _Vermont chronicle._
 
 #### 1865-12-09 &middot; Bellows Falls, Vt.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-12-13/ed-1/seq-1)
 
 #### 1865-12-13 &middot; Portland, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -844,7 +869,7 @@ ing the pickle, and find it to answer well;
 though the operation of boiling purities the  
 pickle by throwing off the dirt always to be  
 found in salt and sugar.  
-The 
+The Time 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525218%2F1865121301%2F0115.jp2/pct:3.196642,66.474351,11.079270,9.171579/!600,600/0/default.jpg"/>
 </td>
@@ -855,9 +880,10 @@ The
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1865-12-21/ed-1/seq-1)
 
 #### 1865-12-21 &middot; White Cloud, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ing tha meat fresh and clean. &#x27;  
+d, fc., leaving tha meat fresh and clean. &#x27;  
 Some omit boiling tha pickle, and  
 find it to answer well; though the opera­  
 tion of boiling purifies the pickle by.  
@@ -876,6 +902,7 @@ surpasses it, if so good
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1866-01-03/ed-1/seq-4)
 
 #### 1866-01-03 &middot; Hyde Park, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 se evils must be avoided, while a lit­  
@@ -890,7 +917,7 @@ petre, 1-2 oz. of potash. Iu this ratio,
 the pickle to bo increased to any quan­  
 tity desired. Let these be boiled togeth­  
 er, until all the dirt from the sunar rises  
-to the , top and is skimm
+to the , top and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197425%2F1866010301%2F0270.jp2/pct:7.608008,63.611783,14.815595,8.751957/!600,600/0/default.jpg"/>
 </td>
@@ -901,6 +928,7 @@ to the , top and is skimm
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1866-01-03/ed-1/seq-4)
 
 #### 1866-01-03 &middot; Hyde Park, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -916,9 +944,10 @@ that surpasses it, if so good
 
 ---
 
-## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-01-04_34_4?page=0)
+## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-01-04_34_4?page=0)
 
-#### 1866-01-04 &middot; Augusta
+#### 1866-01-04 &middot; Augusta, Maine
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -935,7 +964,7 @@ the operation of boiling purifies the pickle by throw- —, after we
 ing off the dirt always to be found in saltand’suger. (snd it Se ee on  
   
 If this recipe is properly tried, it will never be aban- tried three times without a therefore think  
-doned. There is none
+doned. There is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-01-04_34_4&#0036;0/pct:66.756896,93.025309,25.032225,3.649205/600,/0/default.jpg"/>
 </td>
@@ -948,7 +977,9 @@ doned. There is none
 #### From _Vermont chronicle._
 
 #### 1866-01-06 &middot; Bellows Falls, Vt.
+
 [This text is not available under an open license.]
+
 ---
 
 ## Farmers' Department
@@ -956,12 +987,15 @@ doned. There is none
 #### From _Vermont chronicle._
 
 #### 1866-01-06 &middot; Bellows Falls, Vt.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141?page=30)
 
 #### 1866-01-20
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 t must be well  
@@ -985,6 +1019,7 @@ is none that surpasses it, if so good
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20?page=2)
 
 #### 1866-11-10 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1005,7 +1040,7 @@ powdered saltpeter, which removes all the
 blood, ete., leaving the meat fresh and clean.  
 omit boiling the pickle, and find it toanswer well,  
 though the operation of boiling purifies the pickle  
-by throwing off the dirt always to 
+by throwing off the dirt always to be fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20&#0036;2/pct:63.954172,59.900000,27.203290,15.920000/600,/0/default.jpg"/>
 </td>
@@ -1016,6 +1051,7 @@ by throwing off the dirt always to
 ## [From _The Elk advocate._](https://chroniclingamerica.loc.gov/lccn/sn87079926/1866-11-15/ed-1/seq-3)
 
 #### 1866-11-15 &middot; Ridgway, Elk Co., Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ain the usual time,  
@@ -1041,9 +1077,31 @@ it, if any so good
 
 ---
 
+## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1866-11-15/ed-1/seq-1)
+
+#### 1866-11-15 &middot; Charlestown, Va. [W. Va.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+blood, &amp;c.f lea­  
+ving the meat fresh and clear. Some omit  
+boiling the pickle and find it to answer well;  
+though the operation of boiling purifies tho  
+pickle by throwing off the dirt always to bo  
+found in salt and sugar. If this receipt ia  
+properly tried, it will never bo abandoned.­  
+There is none that surpasses it, if so good
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186968%2F1866111501%2F0269.jp2/pct:80.373979,42.608603,14.587262,4.080834/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-11-15_18_22?page=4)
 
 #### 1866-11-15 &middot; St. Louis, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 s. The meat must  
@@ -1065,17 +1123,10 @@ surpasses it, if so good
 
 ---
 
-## Article 2 -- No Title
-
-#### From _Prairie Farmer (1843-1877)_
-
-#### 1866-11-17 &middot; Chicago
-[This text is not available under an open license.]
----
-
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1866-11-21/ed-1/seq-1)
 
 #### 1866-11-21 &middot; Lewistown, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 nce of time between the  
@@ -1121,6 +1172,7 @@ none that surpasses it, if so good
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1866-11-24/ed-1/seq-1)
 
 #### 1866-11-24 &middot; Portland, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1157,6 +1209,7 @@ any so good. —Scientific American
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1866-11-29/ed-1/seq-3)
 
 #### 1866-11-29 &middot; Dodgeville, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1194,6 +1247,7 @@ Telegraph
 ## [From _Cedar Falls gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025161/1866-11-30/ed-1/seq-4)
 
 #### 1866-11-30 &middot; Cedar Falls, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Alwt be well covered with pickle, and  
@@ -1220,9 +1274,32 @@ manlouti Telegraph.
 
 ---
 
+## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn84024207/1866-12-06/ed-1/seq-1)
+
+#### 1866-12-06 &middot; Lancaster, Ohio
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+nd clean. Some omit boiling  
+tho piokle, and find it to answer Well,  
+though the operation of boiling puri­  
+fies tbe pickle by throwing off tho dirt  
+alwaj b to be found in salt and sugar.  
+If this recipe is properly tried, It will  
+never be abandoned. There is none  
+that Burpasses it, il bo good; German­  
+tWa JeUfra&amp;Li ..&#x27;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84024207%2F00296028022%2F1866120601%2F0409.jp2/pct:68.294965,90.224004,11.791129,4.908739/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-01-01_19_1?page=3)
 
 #### 1867-01-01 &middot; St. Louis, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1260,28 +1337,10 @@ passes it, if so good.—[ Germantown Telegraph.
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1867-11-16/ed-1/seq-1)
 
 #### 1867-11-16 &middot; Sunbury, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Our If ecelpf for Curing; Meat.  
-To ono gallon of water,  
-Take 1 lbs. of salt,  
-J lb. of sugar,  
-i oz. of saltpetre,  
-i oz. of potash.  
-In this ratio the pickle to be increased to  
-auy quantity desired. Let these be boiled  
-together, until all tho dirt from tho sugar  
-rises to the top and is skimmed off. Then  
-throw it into a tub to cool, and when cold,  
-pour it over your beef or pork, to remain  
-tho usual time, say four or five weeks. The  
-meat must be well covered with pickle, and  
-6hould not be put down for at least two  
-days after killing, during which timo it  
-should be slightly sprinkled with powdered  
-salt petre, which removes all tho surface  
-blood, &amp;c, leaving tile meat fresh and clean.  
+ clean.  
 Some omit boiling tho pickle, and find it tu  
 answer well ; though the operation of boil­  
 ing purities the pickle by throwing off the,  
@@ -1290,7 +1349,29 @@ It this leceipt is properly tried, it will
 never bo ubaudoncd. Thero is none that  
 surpasses it, if so good. Gcrmantotcn To&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1867111601%2F0531.jp2/pct:79.599719,62.032598,12.306882,12.573620/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1867111601%2F0531.jp2/pct:79.634831,70.839611,12.271770,3.766607/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1867-11-30/ed-1/seq-2)
+
+#### 1867-11-30 &middot; Shepherdstown, Va. [W. Va.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+face blood, &lt;tc., leaving the  
+meat fresh and clean. Some omit boil­  
+ing the pickle, and find it to answer; tho&#x27;  
+tKe operation of boiling purifies the pickle  
+by throwing eff the dirt alaays to be  
+found in salt and sugar.  
+If this receipt is properly tried, it will  
+never bp abandoned. There is none thst &#x27;  
+supasses it, if so good
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1867113001%2F0196.jp2/pct:70.835082,88.424530,13.526367,5.593853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,9 +1380,11 @@ surpasses it, if so good. Gcrmantotcn To&#x27;
 ## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1867-12-01/ed-1/seq-4)
 
 #### 1867-12-01 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-clean. Some omit boil­  
+ood, etc., leaving  
+the meat fresh and clean. Some omit boil­  
 ing the pickle, and find it to answer well;  
 though the operation of boiling purifies the  
 pickle by throwing off the dirt always to  
@@ -1310,7 +1393,7 @@ ia properly tried, it will never be aban­
 doned. There is none that surpasses it, if  
 bo good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85038521%2F00200293368%2F1867120101%2F0526.jp2/pct:7.946644,35.866393,10.401589,3.480705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85038521%2F00200293368%2F1867120101%2F0526.jp2/pct:7.946644,35.455626,10.401589,3.891471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,9 +1402,11 @@ bo good.
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1867-12-05/ed-1/seq-4)
 
 #### 1867-12-05 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aving the meat fresh anil clean.  
+d,  
+Ait., leaving the meat fresh anil clean.  
 Home omit uolting the pickle, and - find  
 it to answer well ; (hough the operation  
 of boiling purifies the pickle by throwing  
@@ -1332,7 +1417,7 @@ never lie abandoned. There Is none that
 surpasses it, if so good. (Jermau town  
 Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F0028077540A%2F1867120501%2F0814.jp2/pct:6.953224,55.272109,12.154596,4.634354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F0028077540A%2F1867120501%2F0814.jp2/pct:6.953224,54.846939,12.154596,5.059524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,6 +1426,7 @@ Telegraph.
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1868-01_2_1?page=18)
 
 #### 1868-01-01 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1366,12 +1452,36 @@ blood, &amp;c., leaving the meat fresh and clean
 
 ---
 
+## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1868-10-09/ed-1/seq-1)
+
+#### 1868-10-09 &middot; Staunton, Va.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+(which will not bo a little) rises to the top  
+and is skimmed off. Then throw it into .a  
+tub to cool, and, when cold,&#x27;pour it over  
+your beef and pork, to remain the usual  
+time—say, four to sis weeks. Tbc meat  
+must be well covered with pickle, and should  
+not be put down for at least two days after  
+killing, during which time it should bo  
+slightly sprinkled with pow
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349499%2F1868100901%2F0032.jp2/pct:80.617131,22.135120,12.205178,5.006414/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1868-11-28/ed-1/seq-1)
 
 #### 1868-11-28 &middot; Sunbury, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eaving  
+lood, itc. leaving  
 &#x27;be meat fresh and clean. Some omit boil­  
 ing the pickle, nnd find it to answer well j  
 though tho operation of boiling purities the  
@@ -1390,30 +1500,10 @@ passes it, if so good
 ## [From _The Ebensburg Alleghanian._](https://chroniclingamerica.loc.gov/lccn/sn85054846/1868-12-03/ed-1/seq-4)
 
 #### 1868-12-03 &middot; Ebensburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Our Receipt for Curing Meat.  
-To one gallon of water,  
-Take H lbs. of salt,  
-J lb. of sunar,  
-i oz. of saltpetre,  
-J oz of potash.  
-T. this&quot;ratio tho picklo to be increased  
-  
-to any &#x27;quantity desired. .Let these be  
-boiledI together, until all the dirt from the  
-war rises to the top and 6 skimmed off.  
-Then throw it- into a tub to cool, and when  
-cold, pour it over your beef or pork, to  
-remain the usual time, say lour or live  
-weeks. The meat must be well covered  
-ivith nir!rli an d should not be put down  
-  
-for at least two daya after killing, during  
-which time it should be slightly sprinkled  
-with powdered saltpetre, which removes  
-all the surface blood, &amp;c., leavir.g the meat  
+ blood, &amp;c., leavir.g the meat  
 fresh and clean. Some omit boiling the  
 pickle, and Cud it to answer well; thou-h  
 iunnrt;nn of boiling purifies tho picklo  
@@ -1425,7 +1515,7 @@ never bo abandoned. There is none that
 surpasses it, if so good. Germantotcn  
 Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054846%2F00212477679%2F1868120301%2F0512.jp2/pct:11.712102,9.864688,14.524737,16.477521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054846%2F00212477679%2F1868120301%2F0512.jp2/pct:12.043848,20.340463,14.192990,6.001746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,9 +1524,11 @@ Telegraph.
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1868-12-11/ed-1/seq-3)
 
 #### 1868-12-11 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eaving the meat &quot;fresh and  
+ood,  
+etc., leaving the meat &quot;fresh and  
 clean. Some omitboiling the pickle,  
 and find it to answer well; though  
 the operation of boiling purifies the  
@@ -1446,7 +1538,7 @@ If this receipt is properly tried, it
 will never be abandoned.&quot; There is  
 none ihat surpasses it, if so good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293381%2F1868121101%2F0379.jp2/pct:4.468458,30.625425,9.886098,4.407433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293381%2F1868121101%2F0379.jp2/pct:4.468458,30.228869,9.886098,4.803988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,6 +1547,7 @@ none ihat surpasses it, if so good.
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1868-12-19_2473?page=7)
 
 #### 1868-12-19 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 our or five weeka.  
@@ -1481,9 +1574,11 @@ it, if so good.— Germantown Tdegraph.
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1869-01-27/ed-1/seq-4)
 
 #### 1869-01-27 &middot; Watertown, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- leaving the meat fresh and clean.  
+e blood  
+Ac., leaving the meat fresh and clean.  
 Some omit boiling the pickle, and find it  
 to answer well; though the operation of  
 boiling purifies the pickle by throwing off  
@@ -1492,7 +1587,29 @@ sugar. If this receipt is properly tried,
 it will never be abandoned- There is  
 none that surpass it, if so good.-- German
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768722%2F1869012701%2F0364.jp2/pct:7.704785,39.299570,11.732901,4.295551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768722%2F1869012701%2F0364.jp2/pct:7.704785,38.771801,11.732901,4.823320/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1869-02-06/ed-1/seq-1)
+
+#### 1869-02-06 &middot; Opelousas, La.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, /Sçè., iiâving tlie ïnéftt freÀ and  
+clean, Some omit .boiling&#x27; the pickle,  
+and find it to answefc well &gt; though the  
+operation of boiling purifies the pickle by  
+throwing off the. dirt always be found  
+in salt and sugar If this receipt is pro­  
+perly tried, it will nôver be abandoned.  
+There is none that siirpjUseffSit, if so  
+goqdj— &lt;3*HÄä®ß»c*. 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876153%2F1869020601%2F0185.jp2/pct:19.046763,70.160878,13.687050,5.490296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1501,9 +1618,11 @@ none that surpass it, if so good.-- German
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1869-04-17/ed-1/seq-4)
 
 #### 1869-04-17 &middot; Albany, Linn County, Oregon
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eaving the meat fresh and clean.  
+blood,  
+tc., leaving the meat fresh and clean.  
 Some omit boil lag the pickle, and find it  
 to answer well ; though the operation of  
 boiling purines the pickle by throwing  
@@ -1512,7 +1631,7 @@ off the dirt always to be found in salt and
 it will never be abandoned. There is  
 none that t urpasses it, if any so goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_ireland_ver01%2Fdata%2Fsn84022644%2F0029586753A%2F1869041701%2F0651.jp2/pct:5.219985,38.391431,12.242108,4.152964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_ireland_ver01%2Fdata%2Fsn84022644%2F0029586753A%2F1869041701%2F0651.jp2/pct:5.219985,37.902847,12.242108,4.641548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,9 +1640,11 @@ none that t urpasses it, if any so goo
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1869-11-04/ed-1/seq-1)
 
 #### 1869-11-04 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-od, leaving the meat fresh  
+  
+surface blood, leaving the meat fresh  
 md cleau. Some omit boiling the pickle,  
 ind find it to answer well; though the  
 iperatiou of boiling purifies the pickle  
@@ -1541,45 +1662,13 @@ relegraph.
 
 ---
 
-## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1869-11-05/ed-1/seq-4)
-
-#### 1869-11-05 &middot; Bloomsburg, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-nd clean. Some  
-omit boiling tho plcklo, and find It to  
-answer well ; though tho operation, of  
-  
-Doiung purines tho plcklo by throwing  
-ff tho dirt always to bo found In salt  
-  
-and sugar.  
-  
-If this rocelpt Is properly tried It will  
-  
-never uu auantioncu. Tliero Is nono  
-  
-that surpasses It, If so good. German-  
-  
-town Telegraph.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237287976%2F1869110501%2F0313.jp2/pct:4.687500,72.619718,11.708861,5.070423/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1869-11-25/ed-1/seq-4)
 
 #### 1869-11-25 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-with pickle, and should not be -  
-nit down for at least two days after kill- J  
-ng. during which time it should be 8  
-lightly sprinkled with powdered salt­  
-letre, which removes all the surface ti  
-ilood, &amp;c, leaving the meat fresh and D  
+od, &amp;c, leaving the meat fresh and D  
 lean. Some omit boiling the pickle, a  
 nd find it to answer well; though the o  
 Deration of boiling purifies the pickle J  
@@ -1590,7 +1679,28 @@ lever be abandoned. There is none
 hat surpasses it, if so&#x27;good. German­  
 own Teiegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1869112501%2F0254.jp2/pct:37.939615,35.794938,11.529529,6.424400/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1869112501%2F0254.jp2/pct:37.939615,37.936405,11.529529,4.282933/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1869-12-10/ed-1/seq-4)
+
+#### 1869-12-10 &middot; Alexandria, D.C.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ean. Some j  
+omit boiling the pickle, and fiud it to answer i  
+weil; though tho operation of boiling purifies j  
+the pickle by throwing off the dirt always to he ,  
+found in salt and sugar.  
+It this recipe is properly tried it will never  
+be abandoned There is none that surpass it,  
+if so good. — (.Wmcmtown (7‘t.) Idtgruph
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_connemara_ver01%2Fdata%2Fsn85025007%2F00414184807%2F1869121001%2F0350.jp2/pct:7.009788,15.343743,14.830018,3.961541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,9 +1709,10 @@ own Teiegraph.
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1870-01-28/ed-1/seq-4)
 
 #### 1870-01-28 &middot; Augusta, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ving the  
+ leaving the  
 meat fresh and clean. Some omit boiling  
 the pickle, and find it to answer well; though  
 the operation of boiling purifies the piekie by .  
@@ -1620,6 +1731,7 @@ it, if so good
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1870-04-28/ed-1/seq-4)
 
 #### 1870-04-28 &middot; Ellsworth, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1656,6 +1768,7 @@ is none that surpasses it. If auy as good.
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1870-10-29_2570?page=7)
 
 #### 1870-10-29 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1702,46 +1815,32 @@ graph.
 #### From _Bangor daily Whig & courier._
 
 #### 1870-10-31 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
+
 ---
 
-## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1870-11-04/ed-1/seq-4)
+## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1870-11-03/ed-1/seq-1)
 
-#### 1870-11-04 &middot; Bloomsburg, Pa.
+#### 1870-11-03 &middot; Woodstock, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Our Kccclnt for Curing Meat.  
-To ono gallon of water,  
-Takeli lbs. of salt,  
-J lib. of sugar,  
-J oz. of saltpeter.  
-i oz. of potash.  
-In this ratio tho picklo to bo increased  
-. to any quantity desired. Lot these bo  
-boiled together until all tho dirt from  
-the sugar rises to tho top nd is skim-  
-mpd oT. Then throw it Into a tub to  
-cool, and when cold, pour it over your  
-bee or pork, to remain tho usual time,  
-say four or five weeks. Tho meat must  
-bo well covered with picklo. and should  
-not bo put down for at least two days  
-after killing, during , which tlmo It  
-should bo slightly sprlnlijed with pow­  
-dered saltpeter, which removes all Urn  
-surfaco blood, &amp;c, leaving tho meat  
-fresh and clean. Somo omit boiling tho  
-pickle, and find It to answer well;  
-though the operation of boiling purl­  
-flea tho pickle by throwing off the dirt  
-u. ..rays to be found In salt and sugar.  
-If this receipt la properly tried it will  
-never ho abandoned. Thero is none  
-that surpaa-j It, if so good. dermantown  
-Tdtgraph
+Our Receipt fur Curia&quot; Meat.  
+To one gallon of water,  
+Take l|lbs. of salt;  
+-Jib. of sugar.  
+^ oz. of saltpetre.  
+-g oz. of potash.  
+In this ratio the pickle to be increased  
+to any quantity desired. Let these be  
+boiled together until all the uirt from the  
+sugar rises to the top and is skimmed oil.  
+Then throw it iuto a tub to cool, and  
+when 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237287976%2F1870110401%2F0534.jp2/pct:4.990476,63.948740,11.847619,14.969723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348446%2F1870110301%2F0374.jp2/pct:81.801300,59.473081,11.890024,6.132111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,6 +1849,7 @@ Tdtgraph
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45?page=0)
 
 #### 1870-11-05 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1782,6 +1882,7 @@ dirt always to be found in salt and sugar.
 ## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1870-11-11/ed-1/seq-3)
 
 #### 1870-11-11 &middot; Independence, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1799,6 +1900,7 @@ none that surpass it, if so good
 ## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1870-11-11/ed-1/seq-1)
 
 #### 1870-11-11 &middot; Paris, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1822,9 +1924,32 @@ ing the meal ftcsh and clean. Soino
 omit boiling thu pickle, and find it to  
 answer well; though tho operation of  
 boiling purilies the pickle by throwing off  
-the dirt always to be found in salt 
+the dirt always to be found in salt and  
+s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524019%2F1870111101%2F0627.jp2/pct:70.019896,82.939701,12.351820,12.417452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524019%2F1870111101%2F0627.jp2/pct:70.019896,82.939701,12.351820,12.962482/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1870-11-11/ed-1/seq-1)
+
+#### 1870-11-11 &middot; Staunton, Va.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+lood, etc., leaving the meat fresh and  
+clean. Some omit boiling the pickle, and  
+find it to answer well; though the operation  
+ot boilin &#x27; purifies the pickle by throwing off  
+the din a, ways to be found in salt and su­  
+gar.  
+If this receipt is properly tried it will  
+never be abandoned. There is none that  
+surpasses it, if so good
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349499%2F1870111101%2F0450.jp2/pct:84.253350,28.935684,10.916560,4.417734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1833,6 +1958,7 @@ the dirt always to be found in salt
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1870-11-17/ed-1/seq-6)
 
 #### 1870-11-17 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 remain the maul lime, say lour or five  
@@ -1860,9 +1986,10 @@ surpass it, it so good
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-11-18/ed-1/seq-1)
 
 #### 1870-11-18 &middot; Columbia, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- least two dnvs after  
+  
 and clean. Some omit boiling the  
 pickle, and find it to answer well ;  
 though the openil on of boiling puri­  
@@ -1872,7 +1999,7 @@ If this receipt is properly tried it
 will never be abandoned. There is  
 uone that surpass it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1870111801%2F0274.jp2/pct:67.603149,81.442971,9.554832,5.549072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1870111801%2F0274.jp2/pct:67.603149,83.575597,9.541260,3.416446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,6 +2008,7 @@ uone that surpass it, if so good
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1870-11-18/ed-1/seq-4)
 
 #### 1870-11-18 &middot; Pulaski, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1905,9 +2033,32 @@ none that surpass it, if so good
 
 ---
 
+## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1870-11-19_38_50?page=0)
+
+#### 1870-11-19 &middot; Augusta, Maine
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+e blood, etc., leaving the meat fresh and clean.  
+Some omit boiling the pickle, and find it to ausw  
+well; though the opera:ion of boiling purifies the -  
+le by throughing off the dirt always to be found in  
+salt and sugar.  
+  
+If this receipt is propeerly tried it will never be  
+abandoned. There is none that surpass it, if so  
+good
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1870-11-19_38_50&#0036;0/pct:79.362990,80.515647,12.134772,3.267073/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1870-11-24/ed-1/seq-1)
 
 #### 1870-11-24 &middot; White Cloud, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 .  
@@ -1933,9 +2084,32 @@ surpasses it, or is so good
 
 ---
 
+## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1870-11-24/ed-1/seq-1)
+
+#### 1870-11-24 &middot; Leonard Town, Md.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+loo£p raving the meat  
+fre*h and clean. Some&#x27;omit boiling the  
+• pickle, and find it tnamwor well: though  
+lh operation of boiling parities the picklj  
+by throwing off the dirt always to be found  
+iti s-df and sugar.  
+If this receipt is properly tried, it will  
+never he abandon-|. There is none that  
+,1 surpasses it. if so go.(J
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623513%2F1870112401%2F0151.jp2/pct:43.173311,50.428076,12.137376,4.712375/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1870-11-25/ed-1/seq-1)
 
 #### 1870-11-25 &middot; Port Tobacco, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1960,7 +2134,7 @@ aud clean. Some omit boiling the pickle
 and find it to answer well; though the j  
 operation of boiling purifies the pickle by  
 throwing off the dirt always to be found  
-in salt and sugar.—Germant
+in salt and sugar.—Germ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624335%2F1870112501%2F0106.jp2/pct:55.540024,75.898528,12.393999,12.102182/!600,600/0/default.jpg"/>
 </td>
@@ -1971,6 +2145,7 @@ in salt and sugar.—Germant
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12?page=27)
 
 #### 1870-12-01 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2020,6 +2195,7 @@ dirt always to be found in salt and sugar.
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1870-12-12/ed-1/seq-2)
 
 #### 1870-12-12 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 he meat fresh  
@@ -2042,6 +2218,7 @@ is none that surpasses it, if so good
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1871-01-19/ed-1/seq-4)
 
 #### 1871-01-19 &middot; Upper Sandusky, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ain the usual time, say four or five  
@@ -2069,6 +2246,7 @@ so good
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1871-01-21/ed-1/seq-4)
 
 #### 1871-01-21 &middot; Auburn, Placer County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 e, say four or five  
@@ -2095,6 +2273,7 @@ good.
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1871-01-26/ed-1/seq-1)
 
 #### 1871-01-26 &middot; Millersburg, Holmes Co., O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2135,12 +2314,46 @@ none that surpass it, if so good
 
 ---
 
+## Agricultural and Domestic.
+
+#### From _Christian Advocate (1866-1905)_
+
+#### 1871-02-09 &middot; Chicago
+
+[This text is not available under an open license.]
+
+---
+
+## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1871-02-25/ed-1/seq-3)
+
+#### 1871-02-25 &middot; Ottawa, Ill.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+eaving the  
+meat fresh ami clean. Some omit boiling the  
+-pickle and find it to answer well: though the  
+operation of boiling purifies the pickle by  
+throwing oil&#x27; the dirt always to be found iii  
+salt ami sugar.  
+If this receipt is properly tried it will never  
+bo abandoned. There is ntiiie that surpasses it,  
+it so good
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212471513%2F1871022501%2F0499.jp2/pct:3.560467,60.150178,17.863720,5.098143/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Oregon Republican._](https://chroniclingamerica.loc.gov/lccn/sn93051636/1871-03-04/ed-1/seq-2)
 
 #### 1871-03-04 &middot; Dallas, Or.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aving the meat fresh and clean.  
+od,  
+etc,, leaving the meat fresh and clean.  
 Some omit boiling the pickle, and find  
 it to answer well ; though the operation  
 of boiling purifies the pickle by throw­  
@@ -2150,7 +2363,27 @@ If this receipt is properly tried, it
 will never be abandoned. There is none  
 that surpass it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_neahkahnie_ver01%2Fdata%2Fsn93051636%2F00295868387%2F1871030401%2F0185.jp2/pct:51.256482,76.269894,12.777556,5.537025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_neahkahnie_ver01%2Fdata%2Fsn93051636%2F00295868387%2F1871030401%2F0185.jp2/pct:51.256482,75.717145,12.777556,6.089774/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409?page=22)
+
+#### 1871-03-04
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+sh and clean. Some  
+omit boiling the pickle, and find it to answer well;  
+though the operation of boiling purifies the pickle  
+by throwing off the dirt always tobe found in salt  
+and sugar, If this recipe is properly tried it will  
+never be abandoned. Thereis nono that surpass it,  
+if any 80 good
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409&#0036;22/pct:60.732165,16.407638,26.157697,5.328597/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2161,20 +2394,10 @@ that surpass it, if so good
 #### From _South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)_
 
 #### 1871-06-17 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Cubing Meat.— To one gallon of water add  
-1£ lbs. of sugar, half an ounce of  
-saltpetre, half an ounce of potash. In  
-this ratio the pickle to be increased to  
-any quantity desiied. Let these be  
-boiled together until all the dirt from  
-the sugar rises to the top and is  
-skimmed off ; then throw it into a tub  
-to cool, and, when cold, pour it over  
-your beef or pork, to remain the usual&#x27;  
-time — say four or five weeks. The meat  
+ks. The meat  
 must be well covered with, pickle, and  
 should not be put down for at least two  
 days after killing, during which time it  
@@ -2193,11 +2416,57 @@ surpasses it, if theie is any as &#x27;gdod.
 
 ---
 
+## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1871-09-14/ed-1/seq-4)
+
+#### 1871-09-14 &middot; Ellsworth, Me.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+eaving j  
+the meat fresh and clean. Some omit bo*;- j  
+lug t.V* pi-kit*, an l find it to answer  
+w*.. though the operation of boiling j»uri- I  
+li* * the pickle by throwing off the d rt  
+aiwav* to be lound in salt and sugar.  
+If this receipt is properly tried it will |  
+nev. r In* abandoned Hu r is none t hat !  
+surpass it. if so goo
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F0033289500a%2F1871091401%2F0149.jp2/pct:16.678165,53.088854,11.301311,3.617902/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1871-09-14/ed-1/seq-1)
+
+#### 1871-09-14 &middot; Belfast, Me.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+e surface  
+■1 en leaving the meat fresh and  
+i a:i Son»e omit boiling the pickle, and  
+b ! it to answer well; though the opera­  
+-&quot;•dug purifies the pickle by throvv­  
+■ l tj&#x27;.t the dirt always to be found in salt  
+and sugar  
+if this receipt is properly tried it will  
+•V&#x27; be abandoned. There is none that  
+surpass it, if so goo
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524652%2F1871091401%2F0563.jp2/pct:3.180275,68.764015,11.028229,3.881414/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [The House.](http://trove.nla.gov.au/ndp/del/article/92271325)
 
 #### From _South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)_
 
 #### 1872-03-30 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2222,7 +2491,8 @@ clean. Some omit boiling the pickle, and
 find it to answer well, though the  
 operation of boiling purifies the pickle  
 by throwing off the dirt always to be  
-found in salt and sugar. Cleaning
+found in salt and sugar. Cleaning Kid  
+
 </td></tr></table>
 
 ---
@@ -2230,9 +2500,11 @@ found in salt and sugar. Cleaning
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1872-12-03/ed-1/seq-6)
 
 #### 1872-12-03 &middot; New Bloomfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- loaving tbe meat fresh and  
+-  
+blood, Ac, loaving tbe meat fresh and  
 clean. Borne omit boiling the picklo, and  
 And it to answer well, though the operation  
 of boiling purifies the pickle by throwing  
@@ -2243,7 +2515,7 @@ never be abandoned. Thore is none that
 surpass it, if so good. Qtrmanlown Tele  
 graph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1872120301%2F0412.jp2/pct:5.894519,34.651318,17.140641,6.623290/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1872120301%2F0412.jp2/pct:5.894519,34.634635,17.140641,6.639973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2252,6 +2524,7 @@ graph
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1872-12-04/ed-1/seq-4)
 
 #### 1872-12-04 &middot; Somerset, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 me, nay four or five  
@@ -2278,9 +2551,98 @@ none that surpass it, if so pood
 
 ---
 
+## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1872-12-13/ed-1/seq-5)
+
+#### 1872-12-13 &middot; Port Tobacco, Md.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Our Receipt for Curing Heat.  
+To one gallon of water, take li lbs. of  
+salt; i lb. of sugary \ oz. of saltpetre; i oz.  
+of potash,.  
+In this ratio the pickle can be increased  
+to any quantity desired. Let these be  
+boilSd together until all the dirt from the  
+sugar rises to the top and is skimmed off.  
+Then throw it into a tub to cooßand when  
+odfd, pour it over your beef or pork, to re­  
+main the usual time, say four or five weeks.  
+The meat must be well covered with pick­  
+le, and should not be put down for at least  
+two days after killing, during which time  
+It should be slightly sprinkled with pow­  
+dered saltpetre, which removes all the sur­  
+fhce-blood, &amp;c., leaving the meat fresh and  
+Some omit boiling the pickle, and  
+find it to answer well, though the opera­  
+tion of boiling purifies the pickle by throw­  
+ing off the dirt always to be found in salt  
+and sugar.  
+If t.hJa. rftTftipt is properly tried, it will  
+never be abandoned. There is nonedhat  
+surpass it, if so good.—Ed-. Gevmaniown  
+Telegraph- •
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624347%2F1872121301%2F0176.jp2/pct:6.381806,79.567882,12.437399,12.807728/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1872-12-13/ed-1/seq-1)
+
+#### 1872-12-13 &middot; Staunton, Va.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+eks The  
+meat must be well covered with pickle, and  
+should uot be put down for at least two days  
+after killing, during which time it should bo  
+slightly sprinkled with pi wdored saltpetre,  
+wbieh removes all the surface-blood, &amp;c.,  
+leaving the meat fresh and clean. Some  
+omit boiling the pickle, and find it to an­  
+swer well, though tho operation of boiling  
+purifies the pickle by throwing off the dirt  
+always to be found in salt and sugar.  
+If this receipt is properly tried, it will  
+never be abandoned. There is none that  
+surpass it, if so good.—Ed. Germantown  
+Telegraph
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349505%2F1872121301%2F0398.jp2/pct:86.334694,31.292869,11.269388,7.535266/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The weekly Caucasian._](https://chroniclingamerica.loc.gov/lccn/sn85033995/1872-12-14/ed-1/seq-1)
+
+#### 1872-12-14 &middot; Lexington, Lafayette County, Mo.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+cleao. dome  
+omit boiling tbe pickle, and nnd It to answer  
+it&#x27;ell, thougii the operation of boiling purifies  
+ilie pickle, by throwing off tbe dirt always to  
+Oe lound iu salt and sugar. If this recipe  
+i properly tried, it will never be abandoned,  
+there is none that surpassea it, If so good
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dagwood_ver01%2Fdata%2Fsn85033995%2F00294556527%2F1872121401%2F0203.jp2/pct:85.597015,56.287637,10.164179,2.019129/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1872-12-19/ed-1/seq-1)
 
 #### 1872-12-19 &middot; Belfast, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  must, be Well cov­  
@@ -2307,9 +2669,10 @@ surpasses it. if so good
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1873-01-01/ed-1/seq-4)
 
 #### 1873-01-01 &middot; Montpelier, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aving  
+lood, 4c, leaving  
 the meat fresh and clean. Some omit boil­  
 ing the pickle, and find it to answer well,  
 th ugh toe operation of boiling purines the  
@@ -2319,7 +2682,7 @@ properly tried, it will never be abandoned.
 There is none that surpasses it, if ever so  
 &quot;ood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1873010101%2F0005.jp2/pct:18.229836,87.759405,10.920771,3.717678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1873010101%2F0005.jp2/pct:18.229836,87.737210,10.920771,3.739873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2328,6 +2691,7 @@ There is none that surpasses it, if ever so
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1873-02-15/ed-1/seq-3)
 
 #### 1873-02-15 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ot fat-­  
@@ -2370,6 +2734,7 @@ if so good.--ernnantown Telegraph
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1873-03-13/ed-1/seq-3)
 
 #### 1873-03-13 &middot; Plymouth, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ain the usual  
@@ -2395,37 +2760,10 @@ surpasses it, if as good
 
 ---
 
-## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1873-03-14/ed-1/seq-3)
-
-#### 1873-03-14 &middot; Paw Paw, Mich.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, say four or live weeks. The meat  
-must be well covered with pickle, and  
-should not be put down for at h ast two  
-davs after killing, during which time it  
-.should bt  
-slightlv sprinkled with l&#x27;&quot;v-  
-dered saltpeter, which removes all th  
-surface blood, etc., h-aving the meat j  
-fresh and clean. Some omit boiling the !  
-pickle, and tind it to answer well, though j  
-the operation of boiling purities the j  
-pickle by throwing olF the dirt always to &#x27;  
-be found in salt and sugar. j  
-If this recipe is properly tried it (  
-will not ho abandoned. There is none that !  
-surpasses it, if as good. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1873031401%2F1195.jp2/pct:7.242571,43.188766,14.457498,7.804738/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1873-03-20/ed-1/seq-4)
 
 #### 1873-03-20 &middot; Millersburg, Holmes Co., O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 usual  
@@ -2457,6 +2795,7 @@ is none that surpasses it if as good
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1873-11-06/ed-1/seq-1)
 
 #### 1873-11-06 &middot; Woodstock, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 r pork, to remain the  
@@ -2482,68 +2821,10 @@ that surpasses it, if so good
 
 ---
 
-## [From _Essex County herald._](https://chroniclingamerica.loc.gov/lccn/sn84023416/1873-11-22/ed-1/seq-4)
-
-#### 1873-11-22 &middot; Guildhall, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- covering  
-  
-wmcn can ce used, and they are also  
-  
-generally tne easiest to procure. Agri  
-  
-cuiturist. &#x27;  
-Recipe for Curing Meat.  
-  
-The editor of the Germantown Tele­  
-graph gives the following as his recipe  
-for curing meat: To one gallon of water  
-  
-take 1 lbs. of salt, i lb. of sugar, 1 oz,  
-  
-of saltpetre, j oz. potash. In this ratio  
-  
-the pickle can be increased to any  
-quantity desired. Let these be boiled  
-  
-together until all the dirt from the sugar  
-  
-rises to tne top and is skimmed off.  
-  
-Then throw into a tub to cool, and when  
-cool pour it over your beef or pork, to  
-remain the usual time say four or five  
-weeks. The meat must be well covered  
-  
-with pickle, and should not be put down  
-  
-lor at least two days after killing, during  
-  
-wmcn time it snouid be slightly sprint  
-led with powdered saltpetre, whioh re  
-  
-moves all the surface blood, &amp;c, leaV&#x27;  
-  
-mgthe meat fresh and clean. Some  
-  
-omit boiling the pickle, and find it to  
-  
-answer well, though the operation  
-  
-boiling purifies the pickle by throwing  
-  
-on tne dirt always to be tound in salt
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023416%2F00202197498%2F1873112201%2F0186.jp2/pct:7.374579,33.688450,12.125510,13.888528/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1873-12-04/ed-1/seq-4)
 
 #### 1873-12-04 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2579,48 +2860,10 @@ There is none that surpasses it, if so good
 
 ---
 
-## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1873-12-04/ed-1/seq-1)
-
-#### 1873-12-04 &middot; Gallipolis, Ohio
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Recipe for Curing Meat.  
-  
-The Germantown Telegraph gives  
-the following: - To one gallon of wa­  
-ter take 1 J pounds of salt, lb. of  
-sugar, $ oz. of saltpeter, oz. of  
-potash; in this ratio the pickle can be  
-increased to any quantity desired  
-Let these be boiled together nntil all  
-the dirt from the - sugar rises to tbe  
-top and is skimmed off. Then throw  
-into a tub to cool, and, when cold,  
-pour it over your beef or pork, to- re­  
-main the usual time say four or five  
-weeks. The meal must be well cov­  
-ered with pickle and should not be  
-put down for at least two days after  
-killing, daring which time slightly  
-sprinkle with powdered - saltpeter,  
-which removes all the surface blood  
-leaving the meat fresh and clean  
-Some omit boiling the pickle, and  
-find U antwers well, though the ope­  
-ration of boiling purifies the pickle  
-by throwing off tbe dirt alway
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775356%2F1873120401%2F0186.jp2/pct:72.333560,81.839318,10.784647,12.180315/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1873-12-05/ed-1/seq-4)
 
 #### 1873-12-05 &middot; Columbia, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 h and clean. Some  
@@ -2641,6 +2884,7 @@ is none that surpasses it, if so good
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1873-12-25/ed-1/seq-1)
 
 #### 1873-12-25 &middot; Redwood Falls, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 or pork, to  
@@ -2669,6 +2913,7 @@ that surpasses it if so good
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1873-12-25/ed-1/seq-2)
 
 #### 1873-12-25 &middot; Redwood Falls, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2706,6 +2951,7 @@ that surpasses it if so good
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1874-01-07/ed-1/seq-7)
 
 #### 1874-01-07 &middot; Watertown, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 h and clean. Some  
@@ -2727,6 +2973,7 @@ good
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1874-10-31/ed-1/seq-4)
 
 #### 1874-10-31 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2763,33 +3010,10 @@ quire only a single trial to prove it
 
 ---
 
-## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1874-11-07/ed-1/seq-7)
-
-#### 1874-11-07 &middot; Washington, D.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ork.  
-The meat must be well-covered with pickla,  
-and should not be put down for at least two  
-dajs after killing, during which time It should  
-be&quot;slightlv sprinkled with powdered saltpetre,  
-which removes all the surface blood, &amp;c., leav­  
-ing the meat fresh and clean. Some omit boil­  
-ing the pickle, and tlnd it to answer well, though  
-the operation of boiling purities the plck.e by  
-throwing ofl&#x27;the dirt alwavi to be found in salt  
-ao&lt;l sugar. If this receipt is strictly followed, it  
-will reqnire only a single trial to x&gt;rove its supe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654012%2F1874110701%2F0254.jp2/pct:57.040447,55.011866,13.639451,4.788677/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1874-11-28/ed-1/seq-2)
 
 #### 1874-11-28 &middot; Shepherdstown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2814,9 +3038,37 @@ Some omit boiling the pickle, and find
 it to answer well, though the operation  
 of boiling purifies the pickle by throw­  
 ing oft the dirt always to be found in  
-saft and sugar. If tni
+saft and sugar. If tnis rec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1874112801%2F0400.jp2/pct:57.893011,4.190665,13.322091,12.562066/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Weekly Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn84027329/1874-12-17/ed-1/seq-4)
+
+#### 1874-12-17 &middot; Oskaloosa, Iowa
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+pour it over your beef or pork. The meat  
+must he well covered with pickle, and  
+should not be put down for at least two  
+days after killing, during which time it  
+should be slightly sprinkled with powder­  
+ed salt peter, which removes all the sur­  
+face blood, etc., leaving the meat fresh  
+and clean. Some omit boiling the pickle,  
+and find it to answer well, though the  
+operation of boiling purifies the pickle by  
+throwing off the dirt always to he found in  
+salt and sugar. If this receipt is strictly  
+followed, it will require only a single trial  
+to prove its superiority over the commo
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_celebi_ver01%2Fdata%2Fsn84027329%2F00279528876%2F1874121701%2F0557.jp2/pct:56.384941,40.252570,9.381216,6.367107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2825,6 +3077,7 @@ saft and sugar. If tni
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1875-11-04/ed-1/seq-4)
 
 #### 1875-11-04 &middot; Ellsworth, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 o remain  
@@ -2852,6 +3105,7 @@ is none that surpasses it, if »o good
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1876-12-07/ed-1/seq-3)
 
 #### 1876-12-07 &middot; Redwood Falls, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Window plants should not be kept  
@@ -2880,7 +3134,7 @@ surface blood, etc., leaving the meat fresh
 and clean. Some omit boiling the pickle,  
 and find it to answer well, though the  
 operation of boiling purifies the pickle by  
-throwing off the d
+throwing off the dirt a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919921%2F1876120701%2F0389.jp2/pct:49.905735,14.736533,10.683313,17.029826/!600,600/0/default.jpg"/>
 </td>
@@ -2891,6 +3145,7 @@ throwing off the d
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1877-02-05/ed-1/seq-4)
 
 #### 1877-02-05 &middot; Portland, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Let it regain“7 M n  
@@ -2916,17 +3171,28 @@ meat fresh and clean. Some omit boilingthe
 pickle, and find it to answer well, though the  
 operation of boiling purifies the pickle by  
 throwing off the dirt always to be found in  
-salt and sugar.—Germantow
+salt and sugar.—Germantown Tel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_farmington_ver01%2Fdata%2Fsn83016025%2F00279525425%2F1877020501%2F0102.jp2/pct:4.861789,85.142583,10.995935,10.307333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_farmington_ver01%2Fdata%2Fsn83016025%2F00279525425%2F1877020501%2F0102.jp2/pct:4.861789,85.142583,10.995935,10.403187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## The Home
+
+#### From _Inter ocean._
+
+#### 1877-11-24 &middot; Chicago, Ill.
+
+[This text is not available under an open license.]
 
 ---
 
 ## [From _The Troy herald._](https://chroniclingamerica.loc.gov/lccn/sn86063984/1878-05-08/ed-1/seq-6)
 
 #### 1878-05-08 &middot; Troy, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2959,9 +3225,53 @@ ly followed, it will require only a singl
 
 ---
 
+## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1878-10-31/ed-1/seq-4)
+
+#### 1878-10-31 &middot; Brownville, Nemaha County, N.T. [Neb.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Receipt for Curing Meat.  
+  
+To one gallon of water take 1J  
+pounds of salt, half pound of sugar,  
+half ounce of saltpetre, ha&#x27;f ounce of  
+potash. In this ration tlie pickle can  
+be iucreased to any quantity desired.  
+Let these be boiled together until all  
+the dirt from the sugar rises to the top  
+and is skimmed off. Then throw it  
+Into a tub to cool, and when cold,  
+pour it over your beef or pork. The  
+meat must be well covered with pick­  
+le, and shoul 1 not he put down for at  
+least two days after killing, during  
+which time it should be slightly  
+  
+spriukled with powdered saltpetre.  
+  
+whioh removes ail the surface blood.  
+  
+&amp;c, leaving the meat fresh and clean.  
+Some omit boiling the pickle, ami find  
+  
+it to answer well, tiiough the opera­  
+tion of boiling purifies the pickle by  
+throwing of! tlie dirt always to be  
+found in a ill and suuer. If this 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285190%2F1878103101%2F0502.jp2/pct:50.078596,24.965243,10.924810,12.651440/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1878-12-12/ed-1/seq-1)
 
 #### 1878-12-12 &middot; Redwood Falls, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2987,7 +3297,7 @@ etc., leaving the meat fresh and
 clean. Some omit boiling the pick­  
 le, and find it to answer well, though  
 the operation of tuH&#x27;.iiJX p&#x27;irifies the  
-pickle by throwing off 
+pickle by throwing off the d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919933%2F1878121201%2F0403.jp2/pct:7.398405,23.426814,10.924907,11.993193/!600,600/0/default.jpg"/>
 </td>
@@ -2998,6 +3308,7 @@ pickle by throwing off
 ## [From _The Florida agriculturist._](https://chroniclingamerica.loc.gov/lccn/sn96027724/1878-12-25/ed-1/seq-6)
 
 #### 1878-12-25 &middot; DeLand, Fla.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3022,9 +3333,36 @@ pour it over your beef and pork
 
 ---
 
+## [From _Farm Journal 1877-2015_](https://iiif.archivelab.org/iiif/sim_farm-journal_1879-12_4_3?page=1)
+
+#### 1879-12-01
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. The meat must be  
+weil covered with pickle, and should not be put  
+down for at least two days after killing, during  
+which time it should be slightly sprinkled with  
+powdered saltpetre, which removesall thesurface-  
+blood, &amp;c., leaving the meat fresh and clean.”  
+  
+“Some omit,’”’ says Major Freas “‘ boiling the  
+pickle, and find it to answer well, though the  
+operation of boiling purifies the pickle by throw-  
+ing off the dirt always to be found in salt and  
+sugar. Ifthisreceiptis strickly followed, it will  
+require only a single trial to prove its superiorit
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_farm-journal_1879-12_4_3&#0036;1/pct:38.516865,75.273865,22.495040,11.424100/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-12-11/ed-1/seq-1)
 
 #### 1879-12-11 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 eat must be 1  
@@ -3049,6 +3387,7 @@ lowed, it will require only a single trial t
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1880-05-26/ed-1/seq-4)
 
 #### 1880-05-26 &middot; Alexandria, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3073,9 +3412,36 @@ face blood, ac., leaving the meat
 fresh and clean. Some omit boiling  
 the pickle, andi find it to answer well,  
 though the operation of boiling puni­  
-lies the pickle by throwing off t
+lies the pickle by throwing off the  
+di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555158%2F1880052601%2F0791.jp2/pct:4.949821,48.101117,13.420650,14.873604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555158%2F1880052601%2F0791.jp2/pct:4.949821,48.101117,13.420650,15.555556/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1881-01-27/ed-1/seq-4)
+
+#### 1881-01-27 &middot; Bridgeton, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ork. The meat  
+must be well covered with pickle, and should  
+not be put down for at least two days after  
+killing, duriDg which time it should be  
+slightly sprinkled with powdered saltpetre,  
+which removes all the surface blood, [&amp;c.,  
+leaving the meat fresh and clean. Some  
+omit boiling the pickle, and find it to answer  
+well, though the operation of boiling puri­  
+fies the pickle by throwing off the dirt  
+always to be found in salt and sugar. If  
+this receipt s strictly followed, it will require  
+only a single trial to prove its superiorit
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529601%2F1881012701%2F0022.jp2/pct:6.112431,63.053885,10.914489,6.643550/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3086,12 +3452,15 @@ lies the pickle by throwing off t
 #### From _Shaker Manifesto (1878-1883)_
 
 #### 1881-02-01 &middot; Shakers
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2?page=23)
 
 #### 1881-02-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3114,9 +3483,9 @@ removes all the surface-blood, etc., leaving
 the meat fresh and clean. Some omit boiling  
 the pickle, and find it to answer well, though  
 the operation of boiling purifies the pickle  
-by throwing off the d
+by throwing off the dirt a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2&#0036;23/pct:52.079482,23.092968,35.998152,28.784267/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2&#0036;23/pct:52.079482,23.092968,35.998152,28.843862/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3125,6 +3494,7 @@ by throwing off the d
 ## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1881-11-17/ed-1/seq-2)
 
 #### 1881-11-17 &middot; Chase, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 k. Tbe meat  
@@ -3154,9 +3524,37 @@ followed, it will require only a singl
 
 ---
 
+## [From _Lancaster daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83032300/1882-11-16/ed-1/seq-4)
+
+#### 1882-11-16 &middot; Lancaster, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+eat  
+must be well covered with piekle, and  
+should not be put down for at least two  
+days after killing, during which time it  
+should bo slightly sprinkled with powder­  
+ed saltpetre, which removes all tho surface  
+blood. &amp;c., leaving the meat fresh and  
+clean. Some omit boiling the pickle, and  
+find it to answer well, though tho opera­  
+tion of boiling purifies tho pickle by throw­  
+ing off the dirt always to bo found in salt  
+and sugar. If this receipt is strictly fol­  
+lowed, it will require only a single trial to  
+nrove its suDcrioritv over the common wa
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_joepa_ver01%2Fdata%2Fsn83032300%2F00237282292%2F1882111601%2F0471.jp2/pct:5.448463,15.073788,12.426318,6.312954/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The herald._](https://chroniclingamerica.loc.gov/lccn/sn00065152/1884-01-04/ed-1/seq-1)
 
 #### 1884-01-04 &middot; Big Stone City, Dak. [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3189,6 +3587,35 @@ ceipt is strictly followed it will re­
 quire only a single trial to prove it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065152%2F00279523350%2F1884010401%2F1634.jp2/pct:38.706868,35.568082,17.675042,15.319421/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1884-11-20/ed-1/seq-4)
+
+#### 1884-11-20 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ when  
+cold pour it over your beef or pork.  
+The meat must be well covered with  
+pickle and should not be put down  
+for at least two days after killing,  
+during which time it should be slight­  
+ly sprinkled with powdered saltpeter,  
+which removes all the surface blood,  
+etc., leaving the meat fresh and clear,  
+Some omit boiling the pickle and find  
+it to answer well, though the opera­  
+tion of boiling purifies the pickle by  
+throwing off the diit always to be  
+found in salt and sugar. If this re  
+ceipt is str’dly followed it will require  
+only a single trial to prove its super
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769489%2F1884112001%2F0112.jp2/pct:37.173269,11.116418,14.218989,8.728187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

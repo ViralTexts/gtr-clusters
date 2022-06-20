@@ -1,13 +1,14 @@
 
 # How to Treat Insect Stings
 
-### 66 reprints from 1874-10-09 to 1898-04-23
+### 63 reprints from 1874-10-09 to 1898-04-23
 
 ## [How to Treat Insect Stings](https://chroniclingamerica.loc.gov/lccn/sn82014805/1877-02-12/ed-1/seq-4/)
 
 #### From _The Daily Gazette_
 
 #### 1877-02-12
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 HOW TO TREAT INSECT STINGS.  
@@ -23,6 +24,7 @@ If the sting be severe, rest the coolness (sic) should be added to the other rem
 ## [From _The herald and mail._](https://chroniclingamerica.loc.gov/lccn/sn86053406/1874-10-09/ed-1/seq-4)
 
 #### 1874-10-09 &middot; Columbia, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -45,6 +47,7 @@ aweuing
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1877-01-06/ed-1/seq-11)
 
 #### 1877-01-06 &middot; Chicago, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -95,12 +98,15 @@ ble.”
 #### From _Daily evening bulletin._
 
 #### 1877-01-20 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Puget Sound weekly Argus._](https://chroniclingamerica.loc.gov/lccn/sn84022761/1877-02-02/ed-1/seq-3)
 
 #### 1877-02-02 &middot; Port Townsend, W.T. [Wash.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -133,19 +139,10 @@ as soon as possible.
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1877-02-02/ed-1/seq-7)
 
 #### 1877-02-02 &middot; Vancouver, W.T. [Wash.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mself the came  
-success in sheep husbandry, dairying,  
-fruitgrowing, or stock farming, though  
-more capital in cash and brains will be  
-required in special farming than in  
-mixed husbandry .—Main* hanner.  
   
-How to Treat Insect Stings.  
-  
-A writer in the London Gar-den gives  
-the following hints on this subject:  
 The pain caused by the 6ting of a  
 plant or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -188,7 +185,7 @@ serious consequences; in such cases
 medical advice should always bo sought  
 as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290975%2F1877020201%2F0034.jp2/pct:5.036473,4.655707,33.561687,89.163587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290975%2F1877020201%2F0034.jp2/pct:22.175706,6.843380,16.422455,23.864747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,6 +194,7 @@ as soon as possible.
 ## [From _The daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014805/1877-02-12/ed-1/seq-4)
 
 #### 1877-02-12 &middot; Wilmington, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -249,11 +247,10 @@ den
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1877-02-22/ed-1/seq-4)
 
 #### 1877-02-22 &middot; Ellsworth, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-ui&#x27;-- -lionl&#x27;l be added to the other reme­  
-died. more especially in the c.i-c ot ner- .  
+ ner- .  
 v- - sub&#x27;ll nl-. \ thing i- to  
 make the poison active a- beat, and no- j  
 thing favors i s activity b -s than eolti.  
@@ -271,7 +268,7 @@ such rases, medical advice should a&gt;­
 vvays be -ought a- de.ot k« pr-*ible.—  
 Ismilon (Jarilrn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895382%2F1877022201%2F0449.jp2/pct:15.699896,19.719578,11.258249,9.393491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895382%2F1877022201%2F0449.jp2/pct:15.717263,20.375611,11.240882,8.737458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,6 +277,7 @@ Ismilon (Jarilrn
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1877-03-22/ed-1/seq-4)
 
 #### 1877-03-22 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -318,12 +316,15 @@ of soda
 #### From _Christian Advocate (1866-1905)_
 
 #### 1877-03-29 &middot; Chicago
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1877-04-13/ed-1/seq-3)
 
 #### 1877-04-13 &middot; Jasper, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -363,12 +364,15 @@ Baklna Meats. Baking is a mor
 #### From _Shaker (1876-1877)_
 
 #### 1877-05-01 &middot; Shakers
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5?page=6)
 
 #### 1877-05-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 he poor fellows talk ; there  
@@ -436,6 +440,7 @@ London Garden.
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1877-06-05/ed-1/seq-4)
 
 #### 1877-06-05 &middot; Charles Town, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ls, as well as beys,  
@@ -493,6 +498,7 @@ as soon as possiblo.?London Garden
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1877-06-21/ed-1/seq-1)
 
 #### 1877-06-21 &middot; Pulaski, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -551,9 +557,16 @@ ways be sought as soon as possible
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1877-06-29/ed-1/seq-4)
 
 #### 1877-06-29 &middot; Portland, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ll  
+Flower as if drought were precisely the thing  
+needed, grew luxuriantly until long after  
+frosts.  
+flow 10 Treat Insect Mtings.  
+A writer in the London garden gives the  
+following hints on this subject:  
 The pain caused by the sting of a plantor  
 insect is the result of a certain amount of acid  
 poison injected into the blood. The first thing  
@@ -592,7 +605,7 @@ times lead to serious consequences; in such
 cases medical advice should always be sought  
 as soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_farmington_ver01%2Fdata%2Fsn83016025%2F00279525425%2F1877062901%2F0594.jp2/pct:5.719378,27.327617,10.956740,14.035141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_farmington_ver01%2Fdata%2Fsn83016025%2F00279525425%2F1877062901%2F0594.jp2/pct:5.719378,24.163748,10.956740,17.199010/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,6 +614,7 @@ as soon as possible
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1877-06-29/ed-1/seq-4)
 
 #### 1877-06-29 &middot; Brattleboro, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -653,6 +667,7 @@ soon as possible. London Qardcn
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1877-08-11/ed-1/seq-1)
 
 #### 1877-08-11 &middot; Charlestown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -702,6 +717,7 @@ is sooo as possible
 ## [From _Puget Sound weekly Argus._](https://chroniclingamerica.loc.gov/lccn/sn84022761/1878-05-17/ed-1/seq-6)
 
 #### 1878-05-17 &middot; Port Townsend, W.T. [Wash.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -756,6 +772,7 @@ soon as possible.- -—Gorrlen
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1878-06-06/ed-1/seq-6)
 
 #### 1878-06-06 &middot; Vancouver, W.T. [Wash.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -809,6 +826,7 @@ soon as possible. Uanlen
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
 
 #### 1878-06-20 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -835,13 +853,16 @@ The poison of stings being acid, common-sense
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
 
 #### 1878-06-20 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
 mong the most easily-procured remedies  
-may be mentioned soft soap, liquor of ammonia
+may be mentioned soft soap, liquor of ammonia  
+  
+In one of the frontier counties of Texas, re- (spirits of hartshorn), smelling salts, washin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:72.547380,45.690964,20.875139,1.252847/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:51.755853,45.690964,41.666667,2.069096/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,6 +871,7 @@ may be mentioned soft soap, liquor of ammonia
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
 
 #### 1878-06-20 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -890,7 +912,9 @@ as soon as possible.
 #### From _Boston daily advertiser._
 
 #### 1878-11-05 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## A Chapter on Stings
@@ -898,7 +922,9 @@ as soon as possible.
 #### From _Daily evening bulletin._
 
 #### 1878-11-09 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## A Chapter on Stings
@@ -906,7 +932,9 @@ as soon as possible.
 #### From _The Galveston daily news._
 
 #### 1878-11-15 &middot; Houston [Tex.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## A Chapter on Stings
@@ -914,12 +942,15 @@ as soon as possible.
 #### From _Lowell daily citizen._
 
 #### 1878-11-19 &middot; Lowell, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1878-11-21/ed-1/seq-4)
 
 #### 1878-11-21 &middot; Ridgway, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -973,6 +1004,7 @@ always be sought as soon as possible
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1878-12-05/ed-1/seq-1)
 
 #### 1878-12-05 &middot; Centre Hall, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1025,6 +1057,7 @@ always be sought as soon as possible
 ## [From _San Marcos free press._](https://chroniclingamerica.loc.gov/lccn/sn86088181/1878-12-14/ed-1/seq-7)
 
 #### 1878-12-14 &middot; San Marcos, Tex.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1079,6 +1112,7 @@ for as soon as poasible. Grophu&#x27;
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1878-12-26/ed-1/seq-6)
 
 #### 1878-12-26 &middot; Vancouver, W.T. [Wash.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1132,6 +1166,7 @@ soon as possible. Partis*.
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1879-01-02/ed-1/seq-6)
 
 #### 1879-01-02 &middot; Vancouver, W.T. [Wash.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1185,6 +1220,7 @@ j soon as possible. Garden.
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
 
 #### 1879-01-16 &middot; Lansing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1200,42 +1236,7 @@ mon sharks.- Prairie Farmer. press the tube of a small key firmly on
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
 
 #### 1879-01-16 &middot; Lansing, Minn.
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-of soda If the gtine 9evere) regt and  
-  
-cooiu68g  
-  
-Sugar of milk, when dried into a gum, remedies, more especially in the case of.  
-is very difficult to dissolve and can only  
-  
-should be added to the othn  
-  
-np„nna  
-  
-York Graphic.  
-  
-0886  
-  
-Vnthincr  
-  
-ant  
-  
-tbe active  
-  
-scalding. The of stagnant slops, nothing favors its activity iess than coid
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.221387,46.430980,21.896190,8.557300/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
-
-#### 1879-01-16 &middot; Lansing, Minn.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1258,6 +1259,7 @@ crude carbolic acid. Mix this into the I K^tly. increase the local irritation.
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
 
 #### 1879-01-16 &middot; Lansing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1272,46 +1274,13 @@ salt dissolved instead of boiled rice, and I Pr°P*r means of cure. Among the mo
 dispense with carbolic acid. No other&#x27; procured remedies may be men­  
 preparation of whitewash equals this for&#x27; tioned soft soap, liquor of ammonia  
 poultry houses. ((spirits of hartshorn), smelling salts,  
-washing soda, quick-lime made into a
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.225496,40.596603,28.253812,4.116495/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
-
-#### 1879-01-16 &middot; Lansing, Minn.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+washing soda, quick-lime made into a  
   
 points to the alkalies as the  
   
-paate with water,  
-  
-lime-water, the juice  
-  
-onioD) tob&#x27;acco juice  
-  
-rn the handling of milk. Wooden pails bacco bruised dock leaves, tomato juice,  
-are unfit for use in the dairy, because it  
-  
-is next to impossible to keep them clean,  
-  
-wood ash tobacc0 ash  
-  
-I  
-  
-Let th| body be kept at reBt  
-  
-and  
-  
-readily multiply and destroy it. reduced to a minimum. Any active!  
-ONE of our readers sends us the fol- exertion whereby the circulation i
+paate with water,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.233716,41.986963,21.957835,8.987573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.225496,40.596603,28.253812,4.472915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1320,6 +1289,7 @@ ONE of our readers sends us the fol- exertion whereby the circulation i
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
 
 #### 1879-01-16 &middot; Lansing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1342,6 +1312,7 @@ sought for as soon as possible.—New,ten
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
 
 #### 1879-01-16 &middot; Lansing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1370,6 +1341,7 @@ that high and low grades of sugar be ad- *ou^try houses- (spirits of hartshorn),
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
 
 #### 1879-01-16 &middot; Lansing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1407,31 +1379,9 @@ lowing, clipped from a local paper, and quickened will increase both pain and ch
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
 
 #### 1879-01-16 &middot; Lansing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-mon sense points to the alkalies as the A MAX in this town froze the bottom  
-proper means of cure. Among the most of his feet lately, and as he held them t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:72.271929,41.778631,21.489562,0.953295/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
-
-#### 1879-01-16 &middot; Lansing, Minn.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-,er, lime-water, the juice ing dav that a great many wicked young  
-  
-)ui^ chrd-t0-  
-  
-rr  
-  
-bruised dock leaves, tomato juice, ladies bad in their stockings.—Boston  
   
 ood ashes, tobacco ash and carbonate Commercial Bulutin.  
   
@@ -1455,7 +1405,7 @@ exertion
 to a minimum. Any active  
 whereby the circulation i-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:72.292356,44.443378,21.489562,6.394754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:72.292356,45.831734,21.489562,5.006398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,6 +1414,7 @@ whereby the circulation i-
 ## [From _The Red Cloud chief._](https://chroniclingamerica.loc.gov/lccn/sn84022835/1879-01-23/ed-1/seq-2)
 
 #### 1879-01-23 &middot; Red Cloud, Webster Co., Neb.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1520,9 +1471,15 @@ for as soon as possible
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
 #### 1879-02-28 &middot; Clare, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+t fire at Pera in  
+1870, and he never re-wrote his  
+reminiscences. A large sperm whale, over  
+60 feet in length, has been found on the  
+&#x27; shore about 20 miles west of  
+Macdonnell Bay. It was broken in two.  
 The pain caused by the sting of a plant  
 or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -1572,6 +1529,7 @@ for as soon as possible. Melbourn
 #### From _Cootamundra Herald (NSW : 1877 - 1954)_
 
 #### 1879-03-15 &middot; Cootamundra, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ral  
@@ -1629,6 +1587,7 @@ sought for as soon as possible.  Robber
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
 #### 1879-03-15 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1683,6 +1642,7 @@ for as&#x27; soon as possible. THE Londo
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
 
 #### 1879-03-29 &middot; Goulburn, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 lting of;, a  
@@ -1719,11 +1679,7 @@ nothing ltiVoulrs its .ctivity icss
 thiini cold. Let the lbody be kol)t cool  
 inid at rest,c and the activity of thle  
 poison will be reduced to a  
-mieilieueeee. eAny active exertioen  
-chereby the circulalion is quickcned  
-will isrease bhite pain and swelling.  
-Ii&#x27; the swelling be severc thle par may  
-eb rlcubbed withl l s\eet oic, or ctel 
+mieilieueeee. eAny active exertio
 </td></tr></table>
 
 ---
@@ -1731,9 +1687,11 @@ eb rlcubbed withl l s\eet oic, or ctel
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1879-05-30/ed-1/seq-1)
 
 #### 1879-05-30 &middot; Oregon, Missouri.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ ghmds oi  
+tho neck aro swollen.  
 A Chapter on Stings.  
 The psin caused by tho sting of n  
 plant or insect is Uio result of a certain  
@@ -1775,7 +1733,7 @@ sometimes lead to serious consequences;
 in such ca?cs medical advico should al  
 ways bo sought for as soon us fJotwible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559942%2F1879053001%2F0099.jp2/pct:71.109993,34.391534,10.798122,16.301335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559942%2F1879053001%2F0099.jp2/pct:71.109993,32.703452,10.798122,17.989418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1784,6 +1742,7 @@ ways bo sought for as soon us fJotwible
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1879-10-09/ed-1/seq-4)
 
 #### 1879-10-09 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1837,6 +1796,7 @@ ways be sought for as soon as possible,
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1879-10-17/ed-1/seq-1)
 
 #### 1879-10-17 &middot; Ashtabula, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1894,7 +1854,9 @@ ways be sought for as soon as possible.
 #### From _St. Louis globe-Democrat._
 
 #### 1880-02-03 &middot; St. Louis [Mo.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Sparks of Science
@@ -1902,12 +1864,15 @@ ways be sought for as soon as possible.
 #### From _St. Louis globe-Democrat._
 
 #### 1880-02-08 &middot; St. Louis [Mo.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1880-02-13/ed-1/seq-2)
 
 #### 1880-02-13 &middot; Little Falls, Morrison County, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1963,6 +1928,7 @@ sought as soon as possible.
 ## [From _The Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn00065151/1880-02-14/ed-1/seq-1)
 
 #### 1880-02-14 &middot; Big Stone City, Grant County, Dakota [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1984,6 +1950,7 @@ the activity of the poison will be re
 ## [From _The Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn00065151/1880-02-14/ed-1/seq-1)
 
 #### 1880-02-14 &middot; Big Stone City, Grant County, Dakota [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2047,9 +2014,11 @@ sought as soon as possible.
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1880-02-19/ed-1/seq-3)
 
 #### 1880-02-19 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+fourteen hours.  
 The pain caused by the sting of a  
 plant or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -2063,7 +2032,7 @@ paste with water, the juice of an onion,
 tobacco juice, chewed tobacco, bruised  
 dock leaves and carbon of soda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665829%2F1880021901%2F0150.jp2/pct:66.023256,61.472754,14.488372,6.406480/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665829%2F1880021901%2F0150.jp2/pct:66.023256,60.898380,14.488372,6.980854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2072,9 +2041,15 @@ dock leaves and carbon of soda
 ## [From _The Milan exchange._](https://chroniclingamerica.loc.gov/lccn/sn86053488/1880-02-19/ed-1/seq-2)
 
 #### 1880-02-19 &middot; Milan, Gibson County, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+perimental ma­  
+chine, costing only $400, converts the  
+raw material into white, elastic fiber  
+with great rapidity, and promises to  
+reduce the cost and improve the quality  
+of such goods very materially.  
 The pain caused by the sting of a  
 plant or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -2087,7 +2062,7 @@ ing soda, quicklime made into a paste
 with water, the juice of an onion, tobac­  
 co juice, bruised dock leaves and carbo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F0021247003A%2F1880021901%2F0066.jp2/pct:56.750044,58.132024,12.276033,5.399819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F0021247003A%2F1880021901%2F0066.jp2/pct:56.750044,54.992895,12.329253,8.538948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2096,14 +2071,16 @@ co juice, bruised dock leaves and carbo
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1880-02-20/ed-1/seq-2)
 
 #### 1880-02-20 &middot; Deer Lodge, Mont.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ept when they are asleep.  
 The pain caused by the sting of a plant  
 or an insect is the result of a oertain amount  
 of acid poison injected into the system
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00212477047%2F1880022001%2F0033.jp2/pct:29.550758,66.940928,10.997666,1.350211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00212477047%2F1880022001%2F0033.jp2/pct:29.550758,66.381857,10.997666,1.909283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2112,9 +2089,11 @@ of acid poison injected into the system
 ## [From _The Florida agriculturist._](https://chroniclingamerica.loc.gov/lccn/sn96027724/1880-02-25/ed-1/seq-2)
 
 #### 1880-02-25 &middot; DeLand, Fla.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+rot for years.  
 The pain caused by the sting of a  
 plant or insect is the result of &quot;a cer­  
 tain amount of acid poison injected  
@@ -2131,7 +2110,7 @@ dock leaves and carbou of soda.
 “1 wonder what makes it look so  
 dark and gloomy out of doors,” sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271761491%2F1880022501%2F0058.jp2/pct:76.156725,71.439498,15.593105,10.191984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271761491%2F1880022501%2F0058.jp2/pct:76.156725,70.556065,15.593105,11.075417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2140,6 +2119,7 @@ dark and gloomy out of doors,” sai
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1880-02-26/ed-1/seq-4)
 
 #### 1880-02-26 &middot; Brownville, Nemaha County, N.T. [Neb.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2167,9 +2147,11 @@ leaves and carbon of soda
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1880-02-28/ed-1/seq-3)
 
 #### 1880-02-28 &middot; Oakland, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+fourteen hours.  
 —The pain caused by the sting of a  
 plant or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -2183,7 +2165,7 @@ paste with water, the juice of an onion,
 tobacco juice, chewed tobacco, bruised  
 dock leaves and carbon of soda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588289%2F1880022801%2F0069.jp2/pct:63.117172,60.501225,13.910381,6.157905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588289%2F1880022801%2F0069.jp2/pct:63.117172,59.894479,13.910381,6.764650/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,14 +2174,16 @@ dock leaves and carbon of soda
 ## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1880-03-30/ed-1/seq-4)
 
 #### 1880-03-30 &middot; Rock Island, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+the Picayune N. O, Pic  
 &quot;The pain caused by the sting of an  
 insect is the. result of a certain amount of  
 acid poison injected into the blood,&quot; says 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_columnist_ver01%2Fdata%2Fsn92053943%2F00295873152%2F1880033001%2F0614.jp2/pct:59.624981,16.563341,12.641766,1.450462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_columnist_ver01%2Fdata%2Fsn92053943%2F00295873152%2F1880033001%2F0614.jp2/pct:59.624981,15.978477,12.641766,2.035326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2208,6 +2192,7 @@ acid poison injected into the blood,&quot; says
 ## [From _The Red Cloud chief._](https://chroniclingamerica.loc.gov/lccn/sn84022835/1880-04-01/ed-1/seq-2)
 
 #### 1880-04-01 &middot; Red Cloud, Webster Co., Neb.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2232,6 +2217,7 @@ co juke, bruised dock leaves aad carbo
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1880-07-09/ed-1/seq-4)
 
 #### 1880-07-09 &middot; Perrysburg, Wood Co., O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2257,6 +2243,7 @@ bruised dock leaves and carbon o
 ## [From _Arthur's Home Magazine (1880-1897)_](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1881-09_49_9?page=21)
 
 #### 1881-09-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2321,6 +2308,7 @@ sible.
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
 #### 1898-04-23 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   

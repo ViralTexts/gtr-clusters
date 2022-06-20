@@ -1,13 +1,14 @@
 
 # A Printer's Epitaph
 
-### 38 reprints from 1854-10-12 to 1894-03-15
+### 35 reprints from 1854-10-12 to 1897-05-27
 
 ## [A Printer's Epitaph](http://chroniclingamerica.loc.gov/lccn/sn97065088/1858-05-06/ed-1/seq-1/)
 
 #### From _Winchester Home Journal_
 
 #### 1858-05-06
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 A Printer’s Epitaph  
@@ -28,6 +29,7 @@ The *impression* lives through an eternal age.
 ## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1854-10-12/ed-1/seq-3)
 
 #### 1854-10-12 &middot; Washington [D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -49,6 +51,7 @@ The imprefaion lives through an eternal age. [
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1854-10-25/ed-1/seq-4)
 
 #### 1854-10-25 &middot; Loudon, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -71,6 +74,7 @@ The impression lives through an eternal ,a
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1854-11-02/ed-1/seq-1)
 
 #### 1854-11-02 &middot; Ebensburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -93,6 +97,7 @@ Worn out, the type is thrown to pi again, &#x27;
 ## [From _The Belmont chronicle, and farmers, mechanics and manufacturers advocate._](https://chroniclingamerica.loc.gov/lccn/sn84028479/1854-11-03/ed-1/seq-1)
 
 #### 1854-11-03 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -112,30 +117,10 @@ The impression lives through an eternal age
 
 ---
 
-## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1854-11-10/ed-1/seq-3)
-
-#### 1854-11-10 &middot; Fremont, Sandusky County [Ohio]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Here lies n form place no Imposing stone  
-To mark the bed where weary it is lain;  
-&#x27;Tie matter dead ! its mission all being dona ,  
-To be distributed to dut again.  
-The body&#x27;s but the type, at beat, of man,  
-Whoae imprest is tiie spirit&#x27;) deathlee page,  
-Worn out, the type is thrown to pi sguin,  
-The impression lives thro&#x27; an eternal age
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775940%2F1854111001%2F0389.jp2/pct:18.199928,6.051831,11.499457,3.576082/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1854-11-23/ed-1/seq-4)
 
 #### 1854-11-23 &middot; Bath, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -155,31 +140,10 @@ The impression lives through an eternal age
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1854-11-25/ed-1/seq-1)
-
-#### 1854-11-25 &middot; Ottawa, Ill.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Hero lies a form place no imposing stouo  
-To mark tho bed where weary It lia&#x27; lnin ;  
-&quot;l&#x27;is matter di nd ! its mission all be&#x27;&quot;K done;  
-To be distributed to dust ngnin  
-The body&#x27;s but the type, tit best of man,  
-Whose impress is tho ty1&quot;&#x27;&#x27; deathless  
-page;  
-Worn out, the type Is thrr&quot; &quot; P&quot; &quot;Rain,  
-The lmpron:tion lives to4&quot; etcrnil age.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1854112501%2F0106.jp2/pct:61.469780,92.249577,10.731456,3.985932/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1854-11-30/ed-1/seq-1)
 
 #### 1854-11-30 &middot; Carrollton [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -202,6 +166,7 @@ The impression lives to an eternal age
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1854-12-06/ed-1/seq-1)
 
 #### 1854-12-06 &middot; Clarksburg, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -224,6 +189,7 @@ I The impression lives through an eternal age.
 ## [From _The Nevada journal._](https://chroniclingamerica.loc.gov/lccn/sn84026884/1855-02-16/ed-1/seq-1)
 
 #### 1855-02-16 &middot; Nevada City, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -246,6 +212,7 @@ The impression lives to an eternal ago.
 ## [From _Squatter sovereign._](https://chroniclingamerica.loc.gov/lccn/sn82015827/1855-05-15/ed-1/seq-1)
 
 #### 1855-05-15 &middot; Atchison, Kan. Terr.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -269,6 +236,7 @@ A Frist Eate Hit
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1855-06-26/ed-1/seq-1)
 
 #### 1855-06-26 &middot; Hillsdale, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -288,17 +256,10 @@ The impression live through an eternal age
 
 ---
 
-## On a Printer
-
-#### From _The daily Cleveland herald._
-
-#### 1855-11-17 &middot; Cleveland [Ohio]
-[This text is not available under an open license.]
----
-
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1855-12-08/ed-1/seq-4)
 
 #### 1855-12-08 &middot; New-Lisbon, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -318,24 +279,24 @@ The impression lives through an eternal age.
 
 ---
 
-## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1856-04-23/ed-1/seq-4)
+## [From _Republican vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024652/1856-10-25/ed-1/seq-4)
 
-#### 1856-04-23 &middot; Lancaster, S.C.
+#### 1856-10-25 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-EPITAHI ON A PRINTER.  
-* lies a forn ? place no imposing ston  
-n mark the bed where it has lain ;  
-matter dead !?its inissi n being don  
-i&gt; be distributed to dust again.  
-body&#x27;s but the type, nt best, of man  
--&#x27;hose impress U tli? spirit* death!  
-page;  
-*n out, the type is thrown to pi again  
-he impress-on lives to an eternal aire.
+The Printer’s Epitaph.  
+Here lies a form—place no imposing-stone  
+To mark the hcml, where weary it is lain,  
+’Tis mutter dead, its mission being done,  
+To be distributed to dust again.  
+The body is but the Type, at best, of man,  
+Vi hose impress is the spirit’s deathless page;  
+Worn out, the type, is thrown to pi again,  
+The impression lives through an eternal ag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1856042301%2F0068.jp2/pct:45.074791,75.993712,11.351243,6.789430/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024652%2F00393348781%2F1856102501%2F0175.jp2/pct:3.670706,70.043220,12.602459,4.865613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,6 +305,7 @@ he impress-on lives to an eternal aire.
 ## [From _New Orleans daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015753/1856-12-08/ed-1/seq-4)
 
 #### 1856-12-08 &middot; [New Orleans, La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -366,6 +328,7 @@ The impression lives through an eternal age
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1857-01-13/ed-1/seq-1)
 
 #### 1857-01-13 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -388,6 +351,7 @@ The impression lives through an eternal ape
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1857-03-26/ed-1/seq-1)
 
 #### 1857-03-26 &middot; Honolulu, Hawaiian Islands
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -410,6 +374,7 @@ The impression lives through an eternal age
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1857-09-16/ed-1/seq-1)
 
 #### 1857-09-16 &middot; Grand Haven, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -432,6 +397,7 @@ The impression lives through an eternal age.
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-17_12_42?page=7)
 
 #### 1857-10-17 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 hout ever a taile. He hath a  
@@ -461,6 +427,7 @@ The unpression lives through an everual age.
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-24_12_43?page=0)
 
 #### 1857-10-24 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -483,6 +450,7 @@ The wnpression lives through an eternal age.
 ## [From _The Winchester home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065088/1858-05-06/ed-1/seq-1)
 
 #### 1858-05-06 &middot; Winchester, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  pine log,  
@@ -514,12 +482,15 @@ age.
 #### From _New York Observer and Chronicle (1833-1912)_
 
 #### 1858-08-05 &middot; New York
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn88064150/1858-08-25/ed-1/seq-1)
 
 #### 1858-08-25 &middot; Harrisonburg, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -542,6 +513,7 @@ The ; .pression lives through an eternal age
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1858-11_17_102?page=83)
 
 #### 1858-11-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -564,6 +536,7 @@ The impression lives through an eternal age.
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1858-11-11/ed-1/seq-4)
 
 #### 1858-11-11 &middot; Montpelier, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -586,6 +559,7 @@ The impression lives through an eternal age
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1874-03-27/ed-1/seq-7)
 
 #### 1874-03-27 &middot; Jefferson City, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 rd ! My lamb is. safe,  
@@ -610,17 +584,10 @@ The impression lives through an eternal age
 
 ---
 
-## A Printer's Epitaph
-
-#### From _Daily Rocky Mountain news._
-
-#### 1874-05-03 &middot; Denver, Jefferson [Colo.]
-[This text is not available under an open license.]
----
-
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1875-09-24/ed-1/seq-1)
 
 #### 1875-09-24 &middot; Salisbury, Litchfield Co., Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -647,7 +614,9 @@ Items of Interest
 #### From _Daily Arkansas gazette._
 
 #### 1875-10-13 &middot; Little Rock, Ark.
+
 [This text is not available under an open license.]
+
 ---
 
 ## Odds and Ends.
@@ -655,7 +624,9 @@ Items of Interest
 #### From _New York Observer and Chronicle (1833-1912)_
 
 #### 1875-10-14 &middot; New York
+
 [This text is not available under an open license.]
+
 ---
 
 ## A Printer's Epitaph
@@ -663,7 +634,9 @@ Items of Interest
 #### From _Lowell daily citizen and news._
 
 #### 1875-10-15 &middot; Lowell, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## All Sorts of Items
@@ -671,7 +644,9 @@ Items of Interest
 #### From _Daily evening bulletin._
 
 #### 1875-10-16 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Light and Shade
@@ -679,12 +654,15 @@ Items of Interest
 #### From _The Galveston daily news._
 
 #### 1875-10-24 &middot; Houston [Tex.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1875-11-11/ed-1/seq-2)
 
 #### 1875-11-11 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -714,6 +692,7 @@ Ihe impression bves through an eteanaJag
 ## [From _American Printer 1883-2015_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12?page=57)
 
 #### 1887-09-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 uperintendent has tried to work into the hands of  
@@ -745,6 +724,7 @@ The émfpression lives through an eternal age.
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1894-03-15/ed-1/seq-1)
 
 #### 1894-03-15 &middot; Mechanicstown, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -773,6 +753,27 @@ The impression hyes through an eter
 rial age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00296029956%2F1894031501%2F0194.jp2/pct:43.111412,30.552785,12.160640,15.789692/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1897-05-27/ed-1/seq-1)
+
+#### 1897-05-27 &middot; Lancaster, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+to man.  
+Here lies a/ertw-place no heposins  
+To mark the head, where weary it is lain:  
+Tis matter dead.&#x27;—il* mission being done.  
+To be dWnbuteJ to dust again.  
+The body ’« but a type. at best, of man.  
+Whose impiw* is the spirit&#x27;s deathless page
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159245%2F1897052701%2F1039.jp2/pct:3.882851,78.559488,14.388489,3.510582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

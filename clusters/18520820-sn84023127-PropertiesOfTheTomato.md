@@ -1,13 +1,14 @@
 
 # The Properties of the Tomato
 
-### 222 reprints from 1834-08-22 to 1897-01-19
+### 223 reprints from 1834-08-22 to 1897-02-19
 
 ## [The Properties of the Tomato](https://chroniclingamerica.loc.gov/lccn/sn84023127/1852-08-20/ed-1/seq-1/)
 
 #### From _Burlington Free Press_
 
 #### 1852-08-20
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 **The Properties of the Tomato.**  
@@ -33,8 +34,7 @@ The method most commonly adopted in preparing this fruit for daily use, is to cu
   
 To stew them: remove them ripe from the vines, slice up, and put them in a pot over the stove or fire, without water. Stew them slowly, and when done, put in a small piece of good butter, and eat them as you do apple sauce.—Some add a little flour, bread finely crumbled, or a couple of crackers pulverized.  
   
-The Tomato is a fruit very easily raised. If the seed be sown in May, in good rich soil, of a warm nature, with a sufficiency of old, well-rotted manure, there will rarely be a danger of failure. When the vines begin to lean, they should be provided with a trellis, or tied to stakes fixed in the soil, to keep the fruit from being injured by coming in contact with the dirt.  
-
+The Tomato is a fruit very easily raised. If the seed be sown in May, in good rich soil, of a warm nature, with a sufficiency of old, well-rotted manure, there will rarely be a danger of failure. When the vines begin to lean, they should be provided with a trellis, or tied to stakes fixed in the soil, to keep the fruit from being injured by coming in contact with the dirt.
 </td></tr></table>
 
 ---
@@ -42,6 +42,7 @@ The Tomato is a fruit very easily raised. If the seed be sown in May, in good ri
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1834-08-22_14_54?page=3)
 
 #### 1834-08-22 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -95,6 +96,7 @@ Expenses or Wars.—Since the year 100
 ## [From _The Cultivator._](https://iiif.archivelab.org/iiif/sim_cultivator_1835-03_1?page=93)
 
 #### 1835-03-01 &middot; Albany
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -132,7 +134,9 @@ cle of the Materia Alimentary, &amp;ec. &amp;c.”
 #### From _Atkinson's Saturday Evening Post (1831-1839)_
 
 #### 1835-08-08 &middot; Philadelphia
+
 [This text is not available under an open license.]
+
 ---
 
 ## The annexed articles, copied from one of the interior papers by the last mail, attributes virtues to the tomato which will probably cause that delightful vegetable to be more generally used even than it is at present
@@ -140,12 +144,25 @@ cle of the Materia Alimentary, &amp;ec. &amp;c.”
 #### From _United States' telegraph._
 
 #### 1835-08-12 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
+---
+
+## GENERAL SUMMARY.
+
+#### From _Western Christian Advocate (1834-1883)_
+
+#### 1835-08-21 &middot; Cincinnati
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1835-08-21/ed-1/seq-1)
 
 #### 1835-08-21 &middot; Hillsborough, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -178,17 +195,10 @@ of the Materia Alunentnria
 
 ---
 
-## GENERAL SUMMARY.
+## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1835-08-21_3_29?page=2)
 
-#### From _Western Christian Advocate (1834-1883)_
+#### 1835-08-21 &middot; Winthrop, Me.
 
-#### 1835-08-21 &middot; Cincinnati
-[This text is not available under an open license.]
----
-
-## [From _Maine Farmer and Journal of the Useful Arts (1833-1842)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1835-08-21_3_29?page=2)
-
-#### 1835-08-21 &middot; Augusta
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -238,7 +248,9 @@ article of the Materia Alimentaria, &amp;c. &amp;ce,
 #### From _Cleveland Daily Herald_
 
 #### 1835-08-22 &middot; Cleveland, Ohio
+
 [This text is not available under an open license.]
+
 ---
 
 ## Tomata
@@ -246,7 +258,9 @@ article of the Materia Alimentaria, &amp;c. &amp;ce,
 #### From _Cleveland Daily Herald_
 
 #### 1835-08-22 &middot; Cleveland, Ohio
+
 [This text is not available under an open license.]
+
 ---
 
 ## VIRTUES OF THE TOMATO.
@@ -254,7 +268,9 @@ article of the Materia Alimentaria, &amp;c. &amp;ce,
 #### From _Christian register and Boston observer._
 
 #### 1835-08-22 &middot; Boston [Mass.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Tomato
@@ -262,12 +278,53 @@ article of the Materia Alimentaria, &amp;c. &amp;ce,
 #### From _Commercial bulletin and Missouri literary register._
 
 #### 1835-08-26 &middot; St. Louis [Mo.]
+
 [This text is not available under an open license.]
+
+---
+
+## [From _Lynchburg Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024649/1835-08-27/ed-1/seq-4)
+
+#### 1835-08-27 &middot; Lynchburg [Va.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+1st. I hat it (the 1 uinato} is one of the most  
+powerful deobstruents of the Materia Medic.i, and  
+that in all those affections uf the lit er, and othei  
+organs where calomel is indicated, it is probably  
+the most effective, and least harmful remedial  
+agent known tu the profession.  
+*1. That a chemical extract w ill probably  
+soon bo obtained front it whiib wi l altogether  
+supercede the use ol Calomel in the cure ofdisea .e,  
+3d. 1 hat bo lias successfully treated serious  
+diarrhu-a with this article alone.  
+4th. That when used as an article of diet it is  
+Ulmosf a sovereign remedy for dvNnepsia, or indi­  
+gestion.  
+Jth. That persons renioviw&#x27; limn Ilia List or  
+North, to the West or South, should by all means,  
+make use of it as an aliment, as t would, in that  
+event, save them from the danger attendant upon  
+those violent billions attacks to which almost all  
+unacclimated persons are liable.  
+Otk That the citizens in pern ral should make  
+use of It, either raw, rooked, or inform of a cat.  
+rap, with their daily food; as it is the most healthy  
+article of the Materia \limentaria, Ar
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dartmoor_ver03%2Fdata%2Fsn84024649%2F00393348859%2F1835082701%2F0429.jp2/pct:3.103994,77.590255,15.465599,13.197094/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1835-08-27/ed-1/seq-1)
 
 #### 1835-08-27 &middot; Martinsburg, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -309,8 +366,11 @@ mentaria, &amp;c
 ## [From _The farmer & gardener._](https://iiif.archivelab.org/iiif/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18?page=5)
 
 #### 1835-09-01 &middot; Baltimore [Md.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+says of it thatin all those aff-ctions of the liver, ye  
 and other organs, where Calomel is indicated, it  
 is probably the most effective, and least harmful...  
 remedial agent known to the profession. That a,  
@@ -331,7 +391,7 @@ either raw, cooker, or in form of a catsup with -
 their daily food, as it is the opost healthy article _  
 of the Materia Alimentaria, &amp;e.—[M. Y. Times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18&#0036;5/pct:66.047297,49.202128,28.659910,22.582205/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18&#0036;5/pct:66.047297,47.993230,28.885135,23.791103/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,6 +400,7 @@ of the Materia Alimentaria, &amp;e.—[M. Y. Times
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-09-02_14_8?page=5)
 
 #### 1835-09-02 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -375,6 +436,7 @@ taria, &amp;c.
 ## [From _The Arkansas advocate._](https://chroniclingamerica.loc.gov/lccn/sn87062070/1835-09-04/ed-1/seq-1)
 
 #### 1835-09-04 &middot; Little Rock, A.T. [Ark.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -419,7 +481,9 @@ I Materia Alimentaria, &amp;c
 #### From _New-York spectator._
 
 #### 1835-09-10 &middot; New-York [N.Y.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Article 11 -- No Title
@@ -427,12 +491,15 @@ I Materia Alimentaria, &amp;c
 #### From _Christian Advocate and Journal (1833-1865)_
 
 #### 1835-09-11 &middot; Chicago
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1835-09-19_5_38?page=7)
 
 #### 1835-09-19 &middot; Rochester
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -482,6 +549,7 @@ healthy article of the materia alimentaria, &amp;c.
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1835-09-24/ed-1/seq-2)
 
 #### 1835-09-24 &middot; Litchfield, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -520,7 +588,9 @@ Materia Alimcutaria, Sic
 #### From _Atkinson's Saturday Evening Post (1831-1839)_
 
 #### 1835-09-26 &middot; Philadelphia
+
 [This text is not available under an open license.]
+
 ---
 
 ## TOMATO.
@@ -528,7 +598,9 @@ Materia Alimcutaria, Sic
 #### From _Atkinson's Saturday Evening Post (1831-1839)_
 
 #### 1835-09-26 &middot; Philadelphia
+
 [This text is not available under an open license.]
+
 ---
 
 ## The Tomato
@@ -536,12 +608,15 @@ Materia Alimcutaria, Sic
 #### From _Arkansas gazette._
 
 #### 1835-09-29 &middot; Little Rock, Ark.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1835-10_8_10?page=62)
 
 #### 1835-10-01 &middot; Charleston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -577,6 +652,7 @@ the materia alimentaria, &amp;c.
 ## [From _Tennessee Farmer (1834-1839)_](https://iiif.archivelab.org/iiif/sim_tennessee-farmer-containing-original-and-selected-essays_1835-10_1_11?page=11)
 
 #### 1835-10-01 &middot; Jonesborough
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -620,6 +696,7 @@ article af the Materia Alimentaria, §c. &quot;
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1835-10-09_16_41?page=3)
 
 #### 1835-10-09 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -655,12 +732,15 @@ indigestion.
 #### From _Columbia telescope._
 
 #### 1835-10-24 &middot; Columbia, S.C.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Farmer's Register; A Monthly Publication (1833-1843)_](https://iiif.archivelab.org/iiif/sim_farmers-register-a-monthly-publication_1835-11_3_7?page=9)
 
 #### 1835-11-01 &middot; Shellbanks
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -699,6 +779,7 @@ article of the Materia Alimentaria, &amp;c
 ## [From _Mechanics' Magazine, and Journal of the Mechanics' Institute (1833-1837)_](https://iiif.archivelab.org/iiif/sim_mechanics-magazine_1835-12_6_6?page=37)
 
 #### 1835-12-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -753,6 +834,7 @@ Now if these positions be true, it is o
 ## [From _New York Farmer (1828-1837)_](https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12?page=112)
 
 #### 1835-12-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -796,6 +878,7 @@ articles of the Materia Alimentaria, etc. etc.
 ## [From _New York Farmer (1828-1837)_](https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12?page=113)
 
 #### 1835-12-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -814,12 +897,15 @@ long to the vegetable kingdom.
 #### From _The Ohio observer._
 
 #### 1836-11-03 &middot; Hudson [Ohio]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1836-12-17_6_51?page=1)
 
 #### 1836-12-17 &middot; Rochester
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -836,22 +922,15 @@ esculents that belong te the vegetable kingdom.”
 ## [From _Horticultural Register, and Gardener's Magazine (1835-1838)_](https://iiif.archivelab.org/iiif/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3?page=37)
 
 #### 1837-03-01 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-healthful properties of the tomato, Prof. Rafinesque says,—“ It  
-is everywhere deemed a very healthy vegetable, and an invaluable  
-article for food.”  
-  
-Prof. Dickson writes,—‘I think it more wholesome than any  
-other acid sauce.”  
-  
-Robley Dunglison, M. D., late Professor in the University of  
 Virginia, and now of the University of Maryland, says,—‘“ It may  
 be looked upon as one of the most wholesome and valuable escu-  
 lents that belong to the vegetable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3&#0036;37/pct:32.203947,18.981481,59.375000,15.319865/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3&#0036;37/pct:32.236842,29.440236,59.111842,4.861111/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,6 +939,7 @@ lents that belong to the vegetable kingdom.”
 ## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1837-04_10_4?page=21)
 
 #### 1837-04-01 &middot; Charleston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -884,23 +964,15 @@ getable kingdom.”
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42?page=0)
 
 #### 1837-04-26 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-properties of the tomato, Prof. Rafinesque says—  
-“ Jt is everywhere deemed a very healthy vegeta-  
-ble, and an invaluable article for food.”  
-  
-Prot. Dickson writes,—* I think it more whole-  
-some than any other acid sauce.”  
-  
-Robley Dunglison, M. 1D., late Professor in the  
-University of Virginia, and now of the University  
 of Maryland, says,—* It may be looked upon as  
 one of the most whoiesome and valuable esculents  
 that belorg to the vegetable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42&#0036;0/pct:5.868421,54.686476,26.947368,11.208215/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42&#0036;0/pct:5.868421,62.639283,26.894737,3.255407/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,6 +981,7 @@ that belorg to the vegetable kingdom.”
 ## [From _The Cultivator._](https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4?page=1)
 
 #### 1837-06-01 &middot; Albany
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -924,15 +997,17 @@ vey reproach, and are classed by moralists among the vices of humanity.) wholeso
 ## [From _The Cultivator._](https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4?page=1)
 
 #### 1837-06-01 &middot; Albany
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- good soils—the quantity of carbonate of lime com-  
+idently suitable to the alternate system of husbandry.  
+and diseases of the liver and lungs. A writer in the Farmer’s Register,|| Nos. 6 and 7 are both good soils—the quantity of carbonate of lime com-  
 says it has been tried by several persons, to his knowledge, with decided|| pensating, in a measure, for the smaller portion of humus; but necessari-  
 success. They were afflicted, says he, with chronic cough, the primary||ly requiring the addition of a proportionate quantity of dung to supply that  
 cause of which, in one case, was supposed to be diseased liver—in ano-|| deficiency.  
 ther, diseased lungs. It mitigates, and sometimes effectually checks, a Nos. 9 to 13 are adapted to the Indian corn crop, always, however, re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4&#0036;1/pct:10.515873,78.478261,80.640590,4.525692/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4&#0036;1/pct:10.515873,77.707510,80.640590,5.296443/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +1018,9 @@ ther, diseased lungs. It mitigates, and sometimes effectually checks, a Nos. 9 t
 #### From _Vermont chronicle._
 
 #### 1837-07-06 &middot; Bellows Falls, Vt.
+
 [This text is not available under an open license.]
+
 ---
 
 ## Agricultural
@@ -951,20 +1028,34 @@ ther, diseased lungs. It mitigates, and sometimes effectually checks, a Nos. 9 t
 #### From _Vermont chronicle._
 
 #### 1837-07-06 &middot; Bellows Falls, Vt.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22?page=3)
 
 #### 1837-07-14 &middot; New Richmond, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
   
+ijtungs. © A writcr in the Farmers’ Register, says it hasbeen:  
+tried by several persons to his knowledge, ht cd  
+  
+  
+  
+  
+  
+fice, for it was thronged with the kind friends of Mr. B;,  
+  
+the subject, A smile of incredulity passed round the of-  
+  
 success. They were afflicted, says he; with chronic cot ,:  
 the primary cause of which, in one. case, was supposed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22&#0036;3/pct:78.875546,31.029971,17.612809,1.248811/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22&#0036;3/pct:61.008006,29.959562,35.480349,2.485728/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,6 +1064,7 @@ the primary cause of which, in one. case, was supposed to
 ## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22?page=3)
 
 #### 1837-07-14 &middot; New Richmond, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -989,6 +1081,7 @@ and sometimes effectually checks, a fit of thaghime I
 ## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22?page=3)
 
 #### 1837-07-14 &middot; New Richmond, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1005,6 +1098,7 @@ belong to the vegetable kingdom.” — Cultivator.
 ## [From _Constantine republican._](https://chroniclingamerica.loc.gov/lccn/sn83016620/1837-07-19/ed-1/seq-1)
 
 #### 1837-07-19 &middot; Constantine, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1027,23 +1121,27 @@ fit of coughing. It was used in a dried stat
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1837-07-20/ed-1/seq-1)
 
 #### 1837-07-20 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-i • heuliarb the most healthy products ol the  
-i garden.  
-Professor Kaufinesrjue says of the (omafo,.  
-It is every where deemed a very healthy  
-vegetable, and an invaluable article for  
-lootl.”  
-Professor Dickson writes-”! think it more  
-wholesome «i.an any other acid sauce.”  
-Professor Dunglinsori says—“It may be&#x27;  
-looked upon as one of the. meat wholesome  
-and valuable esculents that belong to the ve­  
-| getable kingdom.
+a dry room.” Wo consider the tomato nnd  
+rheubarb the most healthy products ol the  
+garden.  
+Professor Raofineeque says of the (omafoV  
+II is every where deemed a very healthy  
+vegeta..re, and an invaluable arficle for  
+10041.  
+Professor Dick son writes-”! think it more  
+wholesome than any other acid sauce.”  
+Professor Ruoglinsori says—“It may be&#x27;  
+looked upon as one of the most wholesome  
+uod valuable esculents that belong to ihe ye­  
+getable kingdom.’*  
+  
+1- ronri tlie Now England Farmer*&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024719%2F00414183670%2F1837072001%2F0193.jp2/pct:76.655550,60.108394,14.551903,6.482649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver02%2Fdata%2Fsn84024719%2F00414183670%2F1837072001%2F0193.jp2/pct:76.909640,59.566423,14.297814,8.108562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,6 +1150,7 @@ and valuable esculents that belong to the ve­
 ## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1837-07-22/ed-1/seq-3)
 
 #### 1837-07-22 &middot; Columbus, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1076,9 +1175,9 @@ culents that belong to the vegetable kingdom.&quot;
 ## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1837-07-22/ed-1/seq-3)
 
 #### 1837-07-22 &middot; Columbus, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
   
 o; the liver and lungs. A writer t:i the r artnciB Re  
   
@@ -1102,6 +1201,7 @@ ually checks, a fit ofcoughing. It was used in
 ## [From _Maumee express._](https://chroniclingamerica.loc.gov/lccn/sn85026142/1837-07-29/ed-1/seq-3)
 
 #### 1837-07-29 &middot; Maumee City, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1125,6 +1225,7 @@ n fit of coughing. It.was used in a dr
 ## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10?page=8)
 
 #### 1837-08-05 &middot; New Haven
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1142,15 +1243,17 @@ that belong to the vegetable hingdom.&quot;—Cudtirato:.
 ## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10?page=8)
 
 #### 1837-08-05 &middot; New Haven
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 estion, and diseases of the liv- port that the lower apartments of all the stores on Water  
 erand lungs. A writer in the Farmers’ Register, says st., in the town of Alton, and in the other low parts of  
 it has been tried by several persons to his knowledge, that town, had been laid under water. ;  
 with decid.d success. They were alHicted, says he, The rise appears to have been chiefly confined to the  
-with chronic cough, the primary cause of which, in one | Missouri river; and so great ani rapid was the swell fro
+with chronic cough, the primary cause of which, in one | Missouri river; and so great ani rapid was the swell from  
+case, was supposed to be diseased liver—in another dis- that river, that the waters of the Mississippi and Illinoi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10&#0036;8/pct:5.271920,62.733142,77.691454,5.864419/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10&#0036;8/pct:5.244173,62.733142,77.719201,6.850789/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,6 +1262,7 @@ with chronic cough, the primary cause of which, in one | Missouri river; and so 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5?page=2)
 
 #### 1837-08-09 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1175,6 +1279,7 @@ fectually cheeks a fit of It was use
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5?page=2)
 
 #### 1837-08-09 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1199,6 +1304,33 @@ lents that belong to the vegetable kingdom.”
 ## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-08-19/ed-1/seq-2)
 
 #### 1837-08-19 &middot; Richmond, Ind.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+mato :  
+1. That it is one of the most powerful dcob­  
+strucnts of the Materia Medica, and that in all  
+those affections of the liver, and other organs  
+where calomel is indicated, it is probably the  
+most effective, and least harmful remedial agent  
+known by the profession.  
+  
+is. That a chemical extract will orobablv soon  
+  
+was readily granted, they promised to postpone  
+the execution until he d
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837081901%2F0616.jp2/pct:36.744914,36.901844,30.829421,9.325422/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-08-19/ed-1/seq-2)
+
+#### 1837-08-19 &middot; Richmond, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1217,6 +1349,7 @@ the mm T rmU, i , mu tf dijutaaa. iLdebU U t&#x27;--m r aonawir with a horse-
 ## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-08-19/ed-1/seq-2)
 
 #### 1837-08-19 &middot; Richmond, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1227,20 +1360,14 @@ diarrhona with this article alone
   
 almost a sovereign remedy for dyspepsia or indi­  
 gestion.5. That persons removing frcmv the East or  
-North to the West or South, sboukS by all means
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837081901%2F0616.jp2/pct:36.807512,47.800851,15.367762,3.276151/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-08-19/ed-1/seq-2)
-
-#### 1837-08-19 &middot; Richmond, Ind.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+North to the West or South, sboukS by all means  
   
+yesterday marched down Wall street and entered  
+the broker&#x27;s office; and told him that, unless he  
+paid the debt instauter, a severe flagellation was  
+intended for him. The broker asked for a little  
+  
+time, but the painter refused him point blank ;  
 and, in order to show that he was in earnest, he  
   
 make use of it as an aliment, as it would in that ! raised his whip, and was about to lay it on the  
@@ -1255,7 +1382,7 @@ catsup with their daily food, as it is the most
   
 nealtuv article ol the Materia Aiimentaria.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837081901%2F0616.jp2/pct:36.901408,50.496582,30.876369,4.862634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837081901%2F0616.jp2/pct:36.807512,47.775055,30.970266,7.584161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1266,12 +1393,15 @@ nealtuv article ol the Materia Aiimentaria.
 #### From _Maryland gazette._
 
 #### 1837-08-31 &middot; Annapolis, Md.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Boston recorder._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35?page=3)
 
 #### 1837-09-01 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1293,6 +1423,7 @@ sometimes effectually Phecks, a fit of coughing
 ## [From _Boston recorder._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35?page=3)
 
 #### 1837-09-01 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1322,6 +1453,7 @@ kingdom.” —Cultivater.
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36?page=3)
 
 #### 1837-09-08 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1343,6 +1475,7 @@ sometimes effectually checks, a fit of coughing
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36?page=3)
 
 #### 1837-09-08 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1372,12 +1505,13 @@ kingdom.”—Culltivator.
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1837-09-28/ed-1/seq-1)
 
 #### 1837-09-28 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
 subject of the Tomato :  
-!• 1 l*at *9 one of the most power­  
-ful deobstrueuts of the Materia Medica,  
+1. I liat it is one of the most power­  
+ful deobstrueuts of the Materia Medira,  
 and that in all those affections of the liv­  
 er, and other organs where calomel is  
 indicated, it is probably the most effec­  
@@ -1387,26 +1521,25 @@ known by the profession.
 bably soon be obtained from it which  
 will altogether supersede the use of calo­  
 mel in the cure of disease.  
-d. That he lias successfully treated  
-serious diarrhoa* with this article alone.  
-4. That when used n« «&gt;■ gn;«L  
-  
+d. That fie has successfully treated  
+serious dianhose with this article aloue.  
+. 4* .1&#x27;hat when used as an article of  
 diet, it is almost a sovereign remedy for  
 dyspepsia or indigestion.  
-^ 5. &#x27;I hat persons removing from the  
-East or TSorlh to the West or South,  
+5. &#x27;1 hat persons removing from the  
+East or North to the West or South,  
 should by all means make use of it as an  
 aliment, as it would in that event save  
 them from the danger attendant upon  
-those violent bilious attacks to which al­  
+those violent bilious attacks to which&quot;al­  
 most all unacclimated persons are liable.  
 6. I hat the citizens in general should  
 make use of it either raw, cooked, or in  
-the form ot catsup in their daily food, as  
+ihe lorin of catsup iu their daily food, as  
 it is the most healthy article of the Ma­  
-teria Alimewtarsa
+teria Alimeutarsa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024719%2F00414183670%2F1837092801%2F0233.jp2/pct:77.924165,30.387089,14.545844,17.517757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver02%2Fdata%2Fsn84024719%2F00414183670%2F1837092801%2F0233.jp2/pct:78.020566,30.374480,14.449443,17.542975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1415,6 +1548,7 @@ teria Alimewtarsa
 ## [From _Boston recorder._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-10-13_22_41?page=3)
 
 #### 1837-10-13 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1439,9 +1573,63 @@ fit of coughing
 
 ---
 
-## [From _Maine Farmer and Journal of the Useful Arts (1833-1842)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1838-07-31_6_25?page=0)
+## Multiple News Items
 
-#### 1838-07-31 &middot; Augusta
+#### From _Pennsylvania inquirer and daily courier._
+
+#### 1838-07-09 &middot; Philadelphia, Pa.
+
+[This text is not available under an open license.]
+
+---
+
+## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1838-07-21/ed-1/seq-3)
+
+#### 1838-07-21 &middot; Richmond, Ind.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+inary vegetable, that it was one of the most  
+powerful deobstruents of the Materia Medica,  
+and that in the affections of tbe liver and other  
+organs where calomel is indicated it is probably  
+the most effective, and least harmful remedial a­  
+gent, known by the profession. Baltimore Tran­  
+?cript. THE CHARLESTON FIRE.  
+It appears from an official statcmeut published  
+by tho Mayor of Charlesto
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1838072101%2F0794.jp2/pct:46.187120,33.477542,15.555912,6.145820/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## Multiple News Items
+
+#### From _Fayetteville observer._
+
+#### 1838-07-25 &middot; Fayetteville, N.C.
+
+[This text is not available under an open license.]
+
+---
+
+## The Tomato, a Subtitute for Calmet
+
+#### From _Daily commercial bulletin._
+
+#### 1838-07-26 &middot; St. Louis [Mo.]
+
+[This text is not available under an open license.]
+
+---
+
+## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1838-07-31_6_25?page=0)
+
+#### 1838-07-31 &middot; Winthrop, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1460,6 +1648,7 @@ esculents that belong to the végetable kingdom.”
 ## [From _Zion's Herald (1823-1841)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1838-09-12_9_37?page=0)
 
 #### 1838-09-12 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1501,6 +1690,7 @@ teria Alimentaria.
 ## [From _The Graham Journal of Health and Longevity. Devoted to the Practical Illustration of the Science of Human Life, as Taught by Sylvester Graham and Others (1837-1839)_](https://iiif.archivelab.org/iiif/sim_graham-journal-of-health-and-longevity_1838-09-15_2_19?page=13)
 
 #### 1838-09-15 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1537,6 +1727,7 @@ healthy article of the Materia Alimeotaria.
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1838-10-10_17_14?page=5)
 
 #### 1838-10-10 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1552,6 +1743,7 @@ valuable esculents that belong to the vegetable kingdom.’
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34?page=1)
 
 #### 1839-05-25 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1571,6 +1763,7 @@ cated, it is probably the most effective, and
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34?page=1)
 
 #### 1839-05-25 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1614,12 +1807,15 @@ Now, if these positions be true, it is of th
 #### From _The Cleveland observer._
 
 #### 1839-05-29 &middot; Cleveland [Ohio]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The native American._](https://chroniclingamerica.loc.gov/lccn/sn86053569/1839-06-29/ed-1/seq-2)
 
 #### 1839-06-29 &middot; Washington City [i.e. Washington, D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1661,12 +1857,15 @@ Now, if these positions be true, it is of th
 #### From _New-Hampshire statesman and state journal._
 
 #### 1839-08-10 &middot; Concord [N.H.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _American Masonic Register and Literary Companion (1839-1847)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-08-15_1_50?page=2)
 
 #### 1840-08-15 &middot; Albany
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1690,26 +1889,8 @@ checks, a fit of coughing. It was used ina drie
 #### From _Boston courier._
 
 #### 1840-09-03 &middot; [Boston, Mass.]
+
 [This text is not available under an open license.]
----
-
-## [From _Sunbury American and Shamokin journal._](https://chroniclingamerica.loc.gov/lccn/sn85054702/1840-09-26/ed-1/seq-3)
-
-#### 1840-09-26 &middot; Sunbury, Northumberland Co., Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-lungs. A writer in the Farmer&#x27;s Kegister, rays it  
-has been tried by several persona, lo his kn i ledge,  
-with decided success. They w.ri ulllicted, says  
-he, with chronic cough, the primary ciu-e of  
-which, in i nc case, supposed to be diseased livei  
-in another, diseased lung&quot;. It mitigites and some­  
-imcs effectually checks a fit of coughing. It wa
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn85054702%2F00280776002%2F1840092601%2F0013.jp2/pct:20.044961,63.814592,14.593481,4.411147/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -1718,7 +1899,9 @@ imcs effectually checks a fit of coughing. It wa
 #### From _Ohio observer._
 
 #### 1840-10-15 &middot; Hudson [Ohio]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Eighty Years Ago
@@ -1726,7 +1909,9 @@ imcs effectually checks a fit of coughing. It wa
 #### From _Dover gazette & Strafford advertiser._
 
 #### 1840-12-29 &middot; Dover, N.H.
+
 [This text is not available under an open license.]
+
 ---
 
 ## How Can Tomatoes Be Preserved?
@@ -1734,12 +1919,15 @@ imcs effectually checks a fit of coughing. It wa
 #### From _Cleveland daily herald._
 
 #### 1841-09-13 &middot; Cleveland [Ohio]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39?page=2)
 
 #### 1841-09-25 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1762,6 +1950,7 @@ harmful remedial agent known to the profession.
 ## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39?page=2)
 
 #### 1841-09-25 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1794,6 +1983,7 @@ analiment; as it would in that event, save them from
 ## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39?page=2)
 
 #### 1841-09-25 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1811,28 +2001,10 @@ either raw, cooked, or in the form of a catsup, with their
 
 ---
 
-## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39?page=2)
-
-#### 1841-09-25 &middot; Boston [Mass.]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-daily fuod, as it is the most healthy artic&#x27;e in the materia |  
-  
-alimentaria.  
-  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.362380,34.014977,14.505845,0.700845/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13?page=3)
 
 #### 1841-09-29 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1907,38 +2079,13 @@ checks, a fit of cough. It was used in a dry state
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13?page=3)
+## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40?page=4)
 
-#### 1841-09-29 &middot; Boston
-<table style="width: 100%;"><tr><td style="width: 50%">
+#### 1841-10-09 &middot; Winthrop, Me.
 
-to. Cut up with salt, vine-  
-gar and pepper, as you do cucumbers, and eat away  
-as fast as you can,  
-  
-more  
-  
-How to Stew Tomatoes. ‘Take your tomato from  
-the vine, ripe ; slice up, put in the pot over the fire  
-without water; stew them slow, and when done  
-put in asmall lump of butter, and eat as you do  
-apple sauce. If you choose, a little crumb of brea
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13&#0036;3/pct:66.920252,50.234043,26.678909,37.000000/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Maine Farmer and Journal of the Useful Arts (1833-1842)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40?page=4)
-
-#### 1841-10-09 &middot; Augusta
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The Tomatwe has long been known and used for  
-culinary purposes, in many portions of Europe, in  
-France, Italy, Germany, Holland, and within a few  
 years has become a general favourite in this country.  
 Dr. Bennett, a medical professor in one of our col-  
 leges, considers it an invaluable article of diet. He  
@@ -1970,15 +2117,16 @@ it as an aliment, as it would in that event save them
   
 than from fever and consumption, and their conse-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40&#0036;4/pct:35.810811,68.271462,51.510334,19.881090/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40&#0036;4/pct:35.810811,70.751160,51.510334,17.401392/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Maine Farmer and Journal of the Useful Arts (1833-1842)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40?page=4)
+## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40?page=4)
 
-#### 1841-10-09 &middot; Augusta
+#### 1841-10-09 &middot; Winthrop, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2103,55 +2251,10 @@ liable * ; | a rrrceretes . | by blows inflicted by J. C. Colt. A
 
 ---
 
-## [From _The Middlebury people's press._](https://chroniclingamerica.loc.gov/lccn/sn84023647/1841-10-12/ed-1/seq-1)
-
-#### 1841-10-12 &middot; Middlebury, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-f  
-thc livcrand othcr organs whcrc calonicl is  
-indicatcd, it is probably thc niost cfl&#x27;ectivc and  
-Icast haruifiil rcmcdial ageut known in the  
-profcasion.  
-&quot;2d. That a chcmical cxtract will be ob­  
-taincd from it, which willaltogclhersupcrsedc  
-the use of calomcl in thc cure of discasc.  
-&quot;3d. That hc has succrcsfully trcatcd sc­  
-rious diarrhcea with this atticlc alonc.  
-&#x27;-llh. That whcn uscdas anarticlc of dict  
-oi uiui  
-it is almost a sovcrein rcmcdv fordvspcpsia  
-or indifircslion.  
-  
-  
-  
-&quot;5fh. That pcrsons removins: from thc.of Wirtemberg, she quietly and sileutly, and  
-  
-east or norlh to the south or west, should by all  
-mcans niakc use of it as an aliment, as it  
-would in that event savc them from thc dan-  
-gcrattendant upon thosc violcnt bilious at-  
-f.i.. ...wm. i.im. n n,,i.u nrcn  
-MK &quot; &quot;iJ,u&quot; -uu&#x27;v1 u&quot; &quot;&quot; p&#x27;,  
-arc ial)Ic.  
-&#x27; &quot;6lh. That the cilizcns in ordinary should  
-makc uscof it cither raw, cookcd, or in the  
-lo&#x27;m ol a catsup, with thcir daily tood, as it is :  
-iji . i.i .j7 T r .1 jl T j r i  
-tncnlaria.&quot;  
-Profcssor Rafinesque, of France, says : &quot;It  
-is every whcrc deemed a very healthy vcgela­  
-ble, and an invaluablc articie of food.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hortonia_ver01%2Fdata%2Fsn84023647%2F00280777778%2F1841101201%2F0134.jp2/pct:18.425869,65.817223,30.994509,15.524312/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15?page=3)
 
 #### 1841-10-13 &middot; New Richmond, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2227,36 +2330,13 @@ times effectually checks, a fitof cough. It wa
 
 ---
 
-## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15?page=3)
-
-#### 1841-10-13 &middot; New Richmond, Ohio
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- the Tomato.—Cut up with  
-salt, vinegar and pepper, as you do cucumbers,  
-and eat away as fast as you can.  
-  
-How to stew Tomatoes.—&#x27;Take your tomato  
-from the vine, ripe: slice up, put in the pot over  
-the fire without water: stew them low, and when  
-done put in asmall lump of butter, and eat as  
-you do apple sauce. If you choose, a little  
-crumb of bread or pulverized crackers may b
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15&#0036;3/pct:36.912129,72.916667,14.619431,5.103616/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Southern Agriculturist, Horticulturist, and Register of Rural Affairs (1841-1846)_](https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6?page=52)
 
 #### 1842-06-01 &middot; Charleston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-The Tomato has long been know and used for culinary purposes  
+purposes  
 in many portions of Europe, in France, Italy, Germany, Holland,  
 and within a few years has become a general favourite in thiscountry.  
   
@@ -2315,55 +2395,13 @@ checks, a fit of coughing. It was used in a dry state, with a little
 
 ---
 
-## [From _Southern Agriculturist, Horticulturist, and Register of Rural Affairs (1841-1846)_](https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6?page=53)
-
-#### 1842-06-01 &middot; Charleston
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-se the Tomato. Cutup with salt, vinegar and pepper,  
-as you do cucumbers, and eat away as fast as you can.  
-  
-‘aw to Stew Tomatoes, Take your tomato from the vine, ripe;  
-slice up, put in the pot over the fire without water; stew them  
-slow, and when done put in a small lump.of butter, and eat as you  
-do apple sauce. If you chose, a little crumb of bread or pulverize
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6&#0036;53/pct:28.647215,23.633564,60.046419,7.775212/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1842-07-06/ed-1/seq-1)
 
 #### 1842-07-06 &middot; Edgefield, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-alAt,- mid-pepper, asyou do cu­  
-en -at stway as fas as you can.  
-Ros ~ fet 2RTatoes. Take lour  
-tomat the vine, ripe; slice up, put in  
-,to-pot .the fire without water, stew  
-themf and when done put in a small  
-lump o , and eat as you do appl
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288324%2F1842070601%2F0209.jp2/pct:47.064168,23.163317,14.849517,4.426629/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1842-07-06/ed-1/seq-1)
-
-#### 1842-07-06 &middot; Edgefield, S.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-The Tomato has lnig been known and  
-used f&#x27;or culinary purposes in many pur­  
-tions of Europe, in France, Italy, Germa­  
-ny. Holland, and within a few years has  
 become a general favourite in this coun­  
 try.  
 Dr. Bennett. a medical professer in one  
@@ -2419,7 +2457,7 @@ upposed to be diseased liver-ia another,
 diseased lungs. It mItigates, and some­  
 times effectually cheeks, a fit of coughing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288324%2F1842070601%2F0209.jp2/pct:31.993186,60.973626,15.218626,33.468882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288324%2F1842070601%2F0209.jp2/pct:31.993186,63.235351,15.218626,31.207157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2430,12 +2468,15 @@ times effectually cheeks, a fit of coughing
 #### From _Michigan Farmer (1843-1908)_
 
 #### 1843-10-10 &middot; Lansing
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1843-10-15_1_17?page=5)
 
 #### 1843-10-15 &middot; Lansing
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2452,25 +2493,39 @@ fit of coughing. It was used&#x27;after havin
 
 ---
 
-## Agricultural
-
-#### From _New-Hampshire statesman and state journal._
-
-#### 1846-09-18 &middot; Concord [N.H.]
-[This text is not available under an open license.]
----
-
 ## The Tomato.
 
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
 #### 1846-09-19 &middot; Boston
+
 [This text is not available under an open license.]
+
+---
+
+## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1852-07-19/ed-1/seq-1)
+
+#### 1852-07-19 &middot; Richmond [Va.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ties and effects were somewhat analogous to  
+those of mercury, and thut a chemical extract  
+will be obtained from it, which will altogether  
+supersede the use of calomel in the cure of dis­  
+ease. This impression has become at the pres
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_manowar_ver01%2Fdata%2Fsn84024738%2F00202190911%2F1852071901%2F0059.jp2/pct:33.345326,61.959191,14.385081,2.400305/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1852-07-31_7_46?page=1)
 
 #### 1852-07-31 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2517,17 +2572,10 @@ crumbed, or a couple of crackers pulverized.
 
 ---
 
-## The Tomato
-
-#### From _Missouri courier._
-
-#### 1852-08-19 &middot; Palmyra, Mo.
-[This text is not available under an open license.]
----
-
 ## [From _Burlington free press._](https://chroniclingamerica.loc.gov/lccn/sn84023127/1852-08-20/ed-1/seq-1)
 
 #### 1852-08-20 &middot; Burlington, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2610,6 +2658,7 @@ being injured by coming m contact with th
 ## [From _Wisconsin tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086768/1852-08-26/ed-1/seq-1)
 
 #### 1852-08-26 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2697,9 +2746,10 @@ the fruit from being injured by coming in
 ## [From _The Kalida venture._](https://chroniclingamerica.loc.gov/lccn/sn85038078/1852-08-27/ed-1/seq-2)
 
 #### 1852-08-27 &middot; Kalida, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+eat Britain and Ireland. Cin. Ct-  
 ten.  
 The Tomato. Professor Rsfiuesque,  
 of Frauce ,- says of this vegetable, it is  
@@ -2718,7 +2768,7 @@ to be diseased liver, in another, diseased
 lungs.- It mitigates and sometimes ef­  
 fectually checks a fit of coughing,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038078%2F00269026803%2F1852082701%2F1127.jp2/pct:81.734358,80.930302,14.270033,10.320072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038078%2F00269026803%2F1852082701%2F1127.jp2/pct:81.734358,80.002991,14.313941,11.247383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2729,12 +2779,15 @@ fectually checks a fit of coughing,
 #### From _New Hampshire statesman._
 
 #### 1852-08-28 &middot; Concord [N.H.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1852-08-28_3_9?page=14)
 
 #### 1852-08-28 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2750,9 +2803,10 @@ Just at this season this piece of information i
 
 ---
 
-## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36?page=0)
+## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36?page=0)
 
-#### 1852-09-02 &middot; Augusta
+#### 1852-09-02 &middot; Augusta, Maine
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2782,9 +2836,10 @@ in the profession,
 
 ---
 
-## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36?page=0)
+## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36?page=0)
 
-#### 1852-09-02 &middot; Augusta
+#### 1852-09-02 &middot; Augusta, Maine
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2870,6 +2925,7 @@ coming in contact with the dirt,
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1852-09-08/ed-1/seq-4)
 
 #### 1852-09-08 &middot; Woodsfield, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2963,9 +3019,16 @@ ing in contact wun tne out
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1852-09-16/ed-1/seq-4)
 
 #### 1852-09-16 &middot; Montpelier, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+elp craw his  
+lust breath.  
+An Iiishmau being in church where the  
+collection apparatus resembled election box-  
+e, on its being banded to him, whisperud  
+in ib .,,,&#x27;,.-- &quot; &#x27;&quot;&quot;raT­  
+lzea and could uot vote.  
 The Properties of the Tomato.  
 To many persons there is something un­  
 pleasant, not to say disgusting, in the flavor  
@@ -3054,24 +3117,7 @@ coming in contact with the dirt
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-09-23/ed-1/seq-1)
 
 #### 1852-09-23 &middot; Montpelier, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-(03 aimosi reacu u.o grounu. inirty-nve n tas country. Dr. Bennett, a pro­  
-I years ago, when thattreo was nineteen years jfessor of some celebrity, considers it nn  
-( old, it produced nineteen bushels of apples ! &#x27; invaluable tirticle of diet, and ascribes to  
-1 These apples readily commanded f 1.10 per &#x27; it very important medical properties. IIc
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1852092301%2F0361.jp2/pct:67.162514,39.287733,25.697285,2.374223/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-09-23/ed-1/seq-1)
-
-#### 1852-09-23 &middot; Montpelier, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3151,9 +3197,28 @@ couple of crackers pulverized
 
 ---
 
+## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1852-09-29/ed-1/seq-1)
+
+#### 1852-09-29 &middot; Grand Haven, Mich.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+this vegetable is greatly promotive of health.  
+DunglUon says that it may be called one of the  
+most wholesome and valuable esculents belong.  
+ng to the vegetable kingdom. Prof. Rafines
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1852092901%2F0261.jp2/pct:41.320370,41.513634,16.904501,2.337229/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1852-10-01/ed-1/seq-4)
 
 #### 1852-10-01 &middot; Lewistown, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3237,6 +3302,7 @@ led, o. a couple of crackers pulverized
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021169/1852-10-07/ed-1/seq-1)
 
 #### 1852-10-07 &middot; Newport, R.I.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3344,6 +3410,7 @@ in contiret with the dirt.
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1852-11_10_11?page=24)
 
 #### 1852-11-01 &middot; Lansing
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3442,6 +3509,7 @@ jured in coming in contact with the dirt.— Maine Far
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1853-09_5_9?page=5)
 
 #### 1853-09-01 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3467,38 +3535,10 @@ A chemical extract may be obtained from it, tha
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1853-09_5_9?page=5)
-
-#### 1853-09-01 &middot; Boston
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-e dry], TH@,methalcommonly. adopted of preparing the  
-burnt districts of Hawaii, and the cost of raising| 4 vinegar Whe decumbess.  
-  
-them is next to nothing. The yield is from 125 to| py gtew them, take them ripe from the vines,  
-175 bushels to the acre. ; slice them, put them in a pot over a stove or fire,  
-Apples, pears, plums, cherries, &amp;c., they have| without water; they will cook in their own juice ;  
-  
-  
-  
-“1853.  
-  
-_NEW ENGLAND FARMER.  
-  
-  
-  
-stew them slow, and when done, put in a piece of|  
-good butter, and eat them like apple sauce
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1853-09_5_9&#0036;5/pct:14.538462,81.548223,72.730769,7.817259/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Windham County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022807/1853-10-12/ed-1/seq-4)
 
 #### 1853-10-12 &middot; Brattleboro, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3515,31 +3555,10 @@ extensively cultivated in this country. It is on
 
 ---
 
-## [From _Windham County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022807/1853-10-12/ed-1/seq-4)
+## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8?page=30)
 
-#### 1853-10-12 &middot; Brattleboro, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
+#### 1854-08-01 &middot; St. Louis, Mo.
 
-  
-The method commonly adopted of preparing  
-the fruit, is to cut them in slices, and put them in  
-salt nnd vine-rar like cucumbers.  
-, . I T 1 ..f....  
-To stew them, take them ripe from the vines,  
-slice theminapot over a stove or fire, without  
-water; nicy win cook in men-own jimx,  
-them slow, and when done, put in a. piece of but  
-ter, and cat them like upplc-snucc
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84022807%2F00280777766%2F1853101201%2F0095.jp2/pct:65.522074,23.422914,13.927821,6.067893/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Valley Farmer (1849-1864)_](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8?page=30)
-
-#### 1854-08-01 &middot; St. Louis
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 successful ex-  
@@ -3550,29 +3569,18 @@ agent known in the profession. ing almost instantly the most vieions horses.
 edfrom.it, which will altogeth«r supersede the|™*tion on the subject, we addressed a letter  
 tm a shaeen ae dannonn, to a gentleman in Maryland who replied as  
 3 That he has successfully treated serious [followe.  
-with thie urticle. } In reply to your favor of the Lith, I regret  
-er t when used aw an article of diet, it that I am unable to give you any satisfaetory  
-  
-: . information, Mr, Offut certainly possesses  
-en semen for dyapopeia ee some wonderful and incomprehensible power  
-  
-over horses, hut the why or wherefore is to  
-me inexplicable. All I know is thas he takes  
-the wildest and most unmanageable animal,  
-and compelx him to. follow him ahout like a  
-dog. He also has a theory relative to hreed-  
-n ing and training animals. which he tna lately  
-hoks to whieh almost all unacclimated per- published in a volume. buthe will only sell th
+with thie urticle. } In reply to your favor of the Lith, I regre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:9.168081,26.821192,72.325976,22.958057/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:9.168081,26.821192,72.198642,11.065121/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Valley Farmer (1849-1864)_](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8?page=30)
+## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8?page=30)
 
-#### 1854-08-01 &middot; St. Louis
+#### 1854-08-01 &middot; St. Louis, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3599,23 +3607,28 @@ mi rne of the most wholesome and valuable over that of their neighbors:
 esculents that belong to the vegetable king: | ‘sTake two quarts of the best common aalt,  
 dom,” one ounce of sugar, and one ounce of common  
 A’writer in the Parmer’s Register says: ixaltpecer; take one ounce of this conmposition  
-“Ihas been tried by several persons with de for one pound of butter, work it well into the  
-success. _ They are afflicted with chron-| mass, and close it up for use. Tho hatter  
-ie cough, the primary couse of which in one curered with this mixture appears of a rich  
-onte was supposed to be. dixeased lungs. It|marrowy consistence and fine color, and never  
-mitientes and sdmetimes effectually checks &amp;lacquires a brittle hardness nor tastes salty.  
-fit Peoaghing.?° ° &#x27;Dr. Anderson says: “1 have eaten batter  
-The methad most commonly adopted in pre-|oured with the a composition that has  
-pres this fruit for daily mse, ix to ut them |been kept for three years, and it wan as sweet  
+“Ihas been tried by several persons with de for one pound of butter, work it well into th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:8.828523,42.025386,72.792869,26.324503/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8?page=30)
+
+#### 1854-08-01 &middot; St. Louis, Mo.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+r three years, and it wan as sweet  
 1 sliges and serve them with salt, pepper and ins at first.’ It must be noted, however, that  
 Vinegar, a8 you do cucambers. lbutter thus cured requires to stand three  
 To stew them remove them ripe from the&#x27; weeks or 1 month before it isused. If it ia  
 vines, dice up and pat them in a pet over the!sonner opened, the salts are not sufficiently  
-stove or fire without water, Stew them elow- blended with it. and sometimes the coolnesa  
-Ps and when done put « smail piece of . good of the nitre will he perceived, whigh totally  
-utter and eat them as you do apple si uce. distppears afterwards.”
+stove or fire without water, Stew them elow- blended with it. and sometimes the coolnes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:8.828523,42.025386,72.920204,43.460265/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:9.083192,75.607064,72.665535,7.201987/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3624,6 +3637,7 @@ utter and eat them as you do apple si uce. distppears afterwards.”
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1855-06-28/ed-1/seq-4)
 
 #### 1855-06-28 &middot; Montpelier, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3672,36 +3686,10 @@ aliment aria
 
 ---
 
-## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1855-07-18/ed-1/seq-1)
+## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-08_7_8?page=34)
 
-#### 1855-07-18 &middot; Middlebury, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
+#### 1855-08-01 &middot; St. Louis, Mo.
 
-os an article of di­  
-rt, it is almost a sotcrcign rctocely foif  
-dspcpsia aud indigestiofi.  
-5. That pcrsons arriving from the cas  
-or north lo tho south or west, should by  
-all mcans mako uso of it as nn aliment,  
-as it would, in that cvcnt, save thcm tho  
-darjger tttcndant upon Uioso violcnt bit­  
-ious attacks to which almost all unao­  
-clitnnled pcrsons are liablc,  
-6. Tbat tho citizcns in ordinary should  
-make use of it, eithcr ;aw, cookcd, or iti  
-the forra of a eatsup, with tbcir daily  
-food. as it is tho most bcaltliy atlislo itt  
-tho matcria alimentaria
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777808%2F1855071801%2F0321.jp2/pct:77.824604,54.445876,11.539233,7.973582/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Valley Farmer (1849-1864)_](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-08_7_8?page=34)
-
-#### 1855-08-01 &middot; St. Louis
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3766,6 +3754,7 @@ the materia alimentaria.
 ## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-07-03/ed-1/seq-4)
 
 #### 1857-07-03 &middot; Brookville, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3820,6 +3809,7 @@ the materia alemntaria
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1857-08-22/ed-1/seq-1)
 
 #### 1857-08-22 &middot; Ottawa, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3872,9 +3862,10 @@ materia alituenturia
 
 ---
 
-## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-03_25_37?page=0)
+## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-03_25_37?page=0)
 
-#### 1857-09-03 &middot; Augusta
+#### 1857-09-03 &middot; Augusta, Maine
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3934,12 +3925,15 @@ healthy article in the materia c imentaria.
 #### From _New Hampshire statesman._
 
 #### 1857-09-12 &middot; Concord [N.H.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1857-11-12/ed-1/seq-1)
 
 #### 1857-11-12 &middot; Brownville, Nemaha County, N.T. [Neb.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3983,9 +3977,10 @@ the materia a imenearia
 
 ---
 
-## [From _Valley Farmer (1849-1864)_](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1858-03_10_3?page=25)
+## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1858-03_10_3?page=25)
 
-#### 1858-03-01 &middot; St. Louis
+#### 1858-03-01 &middot; St. Louis, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4030,6 +4025,7 @@ most healthy article in the materia a imenearia.
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1858-08-12/ed-1/seq-1)
 
 #### 1858-08-12 &middot; Brownville, Nemaha County, N.T. [Neb.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4073,6 +4069,7 @@ materia inienearvj
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1858-09-01/ed-1/seq-1)
 
 #### 1858-09-01 &middot; Warren, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4114,6 +4111,7 @@ healthy article no-.v in u
 ## [From _American Farmer's Magazine (1858-1859)_](https://iiif.archivelab.org/iiif/sim_american-farmers-magazine_1858-09_11_9?page=46)
 
 #### 1858-09-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4159,6 +4157,7 @@ food, as it is a most healthy article,—Ze
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1858-09-29/ed-1/seq-4)
 
 #### 1858-09-29 &middot; Ashland, Ashland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4204,6 +4203,7 @@ most healthy article now in use.
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1858-10-13/ed-1/seq-2)
 
 #### 1858-10-13 &middot; Raleigh, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4238,6 +4238,7 @@ with their daily food, as it is a most healthy article
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1858-10-13/ed-1/seq-2)
 
 #### 1858-10-13 &middot; Raleigh, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4272,7 +4273,9 @@ with their daily food, as it is a most healthy article
 #### From _Lowell daily citizen and news._
 
 #### 1858-10-19 &middot; Lowell, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## Multiple News Items
@@ -4280,7 +4283,45 @@ with their daily food, as it is a most healthy article
 #### From _Fayetteville observer._
 
 #### 1858-10-21 &middot; Fayetteville, N.C.
+
 [This text is not available under an open license.]
+
+---
+
+## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1858-11-09/ed-1/seq-4)
+
+#### 1858-11-09 &middot; Charlotte, N.C.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The Tomato Its Properties. Dr. Bennett,  
+a professor of some celebrity, considers it an in­  
+valuable article of diet, and ascribe? to it very im­  
+portant medicai properties :  
+1. &#x27;that the tomato is one of the most powerful  
+aspcrients of the Materia Medica, and that in al  
+those affections of the liver and organs where cal i­  
+mel is indispensable, it is probably the most effec­  
+tive and least harmful remedial agent known to the  
+profession.  
+2. That a chemical extract pill can be obtained  
+from it which will altogether supersede the ue f  
+calomel in the cure of disease.  
+3. That he li is successfully treated iiarrheca  
+with this article alone.  
+4. That when used as an article of diet, it is  
+almost a sovereign remedy for dyspepsia and iiuli­  
+;estion.5. That the citizens in ordinary cases should make  
+use of h either raw, cooked, or in the form of a cat  
+sup, with their daily food, as it is a most healthy  
+article.  
+JncWKUrr. The jewelry boaiacsa is one of th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879178%2F1858110901%2F0398.jp2/pct:4.767897,74.470221,15.114653,13.216596/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## Article 5 -- No Title
@@ -4288,12 +4329,15 @@ with their daily food, as it is a most healthy article
 #### From _Southern Cultivator (1843-1906)_
 
 #### 1859-01-01 &middot; Atlanta
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1859-01-08/ed-1/seq-4)
 
 #### 1859-01-08 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 anything fouu in ue  
@@ -4336,9 +4380,28 @@ A schoolmaster belonging to
 
 ---
 
+## [From _American union._](https://chroniclingamerica.loc.gov/lccn/sn86092124/1859-02-04/ed-1/seq-4)
+
+#### 1859-02-04 &middot; Morgantown, Va. [W. Va.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+of the liver si n?l lungs. A writer in  
+the Farmer&#x27;s Register pays it has been  
+tried by several persons, to his know­  
+ledge, with decided success
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_lincoln_ver01%2Fdata%2Fsn86092124%2F00279550250%2F1859020401%2F0752.jp2/pct:1.796841,35.642897,13.785442,2.721318/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1859-04-21/ed-1/seq-1)
 
 #### 1859-04-21 &middot; St. Charles City [Charles City], Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4376,7 +4439,9 @@ for dyspepsia and indigestion.
 #### From _Semi-weekly Mississippian._
 
 #### 1859-05-20 &middot; Jackson, Miss.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [SOUTH AUSTRALIA. Adelaide, June 29th, 1859.](http://trove.nla.gov.au/ndp/del/article/154827338)
@@ -4384,6 +4449,7 @@ for dyspepsia and indigestion.
 #### From _The Age (Melbourne, Vic. : 1854 - 1954)_
 
 #### 1859-07-04 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4410,9 +4476,45 @@ is a most healthy article. Loxgeviti&#x27; i
 
 ---
 
+## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1859-07-23/ed-1/seq-1)
+
+#### 1859-07-23 &middot; Fayetteville [N.C.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Vixdex.The Tomato.  
+Dr. Bennet. a Professor of sonic celebrity,  
+considers the Tomato an invaluable article of  
+diet, and ascribes to it very important medical  
+properties .  
+1st. That the Tomato is one of the most  
+powerful aperients of the liver ant  
+liver and other or-  
+. : t,l it i ..rol.nlilc  
+. . , i ... . . . i , ,  
+; one ot the most elective auu me leasi narmiui  
+remedial agents known to the profess,on .  
+2d. That a chemical extract will be obtain-  
+ed from it, that vvifl supercede the use of  
+calomel in the cure of tVsease.  
+3d. That  
+be has snccesstuiiy treated aiar-  
+rhcea with this article alone.  
+4th. That when used as an article of diet it  
+is almost sovereign for dyspepsia and indiges­  
+tion.5th. That it should be constantly ned fo
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_jefferson_ver02%2Fdata%2Fsn84020750%2F00415667309%2F1859072301%2F0262.jp2/pct:65.338028,72.421244,15.183099,11.349937/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Daily Iowa State Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014134/1859-08-03/ed-1/seq-2)
 
 #### 1859-08-03 &middot; Davenport, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4428,7 +4530,7 @@ tant medical properties
 most powerful aperients of the liver  
 and other organs where calomel is  
 indicated, it is probably one of tbe  
-most effective and the least harmful
+most effective and the least 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gastly_ver01%2Fdata%2Fsn82014134%2F00279529285%2F1859080301%2F0597.jp2/pct:38.372644,15.236052,11.324240,5.883405/!600,600/0/default.jpg"/>
 </td>
@@ -4436,9 +4538,51 @@ most effective and the least harmful
 
 ---
 
+## [From _The Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn84026399/1859-08-04/ed-1/seq-2)
+
+#### 1859-08-04 &middot; Stroudsburg, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Dr. Bennettc, a professor of sonic co­  
+lobrity, considers the tomato an invalua­  
+bio article of diet, and ascribes to it very  
+important medical properties:  
+1st. That tho tomato is one of the  
+most powerful aperients of tho liver and  
+other organs; wbero calomel is indicated,  
+it is porbably one of tbo most effective  
+and least harmful remedical agents know  
+to the profession. 2d. That a chemical  
+extract will be obtained from it that will  
+supersede the use of calomel in the cure  
+of disease. 3d. That ho has successfull y  
+treated diarrhoea with this alone. 4th.  
+That when used as an artiolo of diet it it­  
+almost sovereign for dyspepsia and indi­  
+gestion. 5th. That it should bo con
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn84026399%2F00237287897%2F1859080401%2F0198.jp2/pct:37.617602,74.697174,14.218513,9.825034/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## Multiple News Items
+
+#### From _Bangor daily Whig & courier._
+
+#### 1859-08-05 &middot; Bangor, Me.
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1859-08-05/ed-1/seq-2)
 
 #### 1859-08-05 &middot; Upper Sandusky, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4456,31 +4600,10 @@ most powerful aperients of the liver an
 
 ---
 
-## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1859-08-08/ed-1/seq-2)
-
-#### 1859-08-08 &middot; Wheeling, Va. [W. Va.]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-The Tomato as Food.?Dr. Bennett, a pro­  
-fessor of some celebrity, considers tho tomato  
-an invaluable article of diet, nnd nscribcs to it  
-very important medical properties:  
-1st. That tho tomato is one of the most pow­  
-erful aperients of the liver and other organs;  
-where calomel is indicated, it is probably one  
-of the most efiectivc and least harmful re
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_austria_ver01%2Fdata%2Fsn86092535%2F00202190649%2F1859080801%2F0132.jp2/pct:35.741309,1.942649,16.037832,5.052504/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1859-08-09/ed-1/seq-2)
 
 #### 1859-08-09 &middot; Evansville, Ia. [i.e. Ind.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4503,6 +4626,7 @@ probably one of the most effective a; d th
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1859-08-11/ed-1/seq-1)
 
 #### 1859-08-11 &middot; Cumberland, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4532,33 +4656,10 @@ gestion. t
 
 ---
 
-## [From _Muscatine weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027253/1859-08-12/ed-1/seq-4)
-
-#### 1859-08-12 &middot; Muscatine, Iowa
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-THE TOMATO AS FOOD.—Dr. Ben  
-nett, a professor of some celebrity, con­  
-siders the tomato an invaluable article  
-of diet, and arcribes to it very impor  
-.tant medical properties:  
-1st. That the tomato is one of $ie  
-most powerful aperients of the liver  
-and other organs where calomel is in  
-dicafcjd, it is probably one of the most  
-effective and the least harmf
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1859081201%2F0335.jp2/pct:39.008518,79.683644,11.393435,5.534365/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1859-08-12/ed-1/seq-1)
 
 #### 1859-08-12 &middot; Fremont, Sandusky County [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4584,20 +4685,15 @@ probably ono of the most effective an
 #### From _Boston investigator._
 
 #### 1859-08-17 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
----
 
-## Health and Disease.
-
-#### From _Ohio Farmer (1856-1906)_
-
-#### 1859-08-27 &middot; Cleveland
-[This text is not available under an open license.]
 ---
 
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1859-08-31/ed-1/seq-4)
 
 #### 1859-08-31 &middot; Ashland, Ashland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4610,7 +4706,7 @@ very important medical properties:
 1st. That tbe tomato is one ot tne most pow­  
 erful aperients of the liver and other organs ;  
 where calomel is indicated, it is probably one  
-of the most effective and the least harmf
+of the most effective and the leas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027297%2F1859083101%2F0147.jp2/pct:31.157833,7.398628,12.118557,3.867748/!600,600/0/default.jpg"/>
 </td>
@@ -4623,6 +4719,7 @@ of the most effective and the least harmf
 #### From _The Argus (Melbourne, Vic. : 1848 - 1957)_
 
 #### 1859-08-31 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4683,6 +4780,7 @@ apple saUco. &#x27;Some add a little flou
 #### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
 
 #### 1859-09-06 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4712,6 +4810,7 @@ is a most healthy article.—Ibid &amp;nbsp
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1859-09-10/ed-1/seq-1)
 
 #### 1859-09-10 &middot; Auburn, Placer County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4741,6 +4840,7 @@ indigestion. 5. That it should be constantl
 ## [From _Sugar planter._](https://chroniclingamerica.loc.gov/lccn/sn86079096/1859-09-10/ed-1/seq-1)
 
 #### 1859-09-10 &middot; West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4753,19 +4853,9 @@ very important medical properties:
 the most powerful aperients of the  
 liver and other organs; where calo­  
 mel is indicated, it is probabiy one  
-of the most effective and the least  
-harmful remedial agents known to  
-the profession. 2d. That a chemi­  
-cal extr:act will be obtained from it  
-that willsupersedethe use ofcalornel  
-in the cure of diseases. 3(1. That  
-he has successfully treated diarrhoea  
-with this artiIle alone. 4th. That  
-when used as an article of diet it is  
-almost sovereign for dyspepsia and  
-indigestions. 5th That it shoul
+of the most effective and the least
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn86079096%2F00212475002%2F1859091001%2F0338.jp2/pct:78.468900,37.082373,14.832536,13.968894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn86079096%2F00212475002%2F1859091001%2F0338.jp2/pct:78.548644,37.082373,14.752791,6.955645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4776,6 +4866,7 @@ indigestions. 5th That it shoul
 #### From _The Star (Ballarat, Vic. : 1855 - 1864)_
 
 #### 1859-09-26 &middot; Ballarat, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4835,6 +4926,7 @@ a little flour, and fine crumbs o
 #### From _Gippsland Guardian (Vic. : 1855 - 1868)_
 
 #### 1859-09-30 &middot; Gippsland, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4889,9 +4981,10 @@ little flour and fine crumbs , o
 
 ---
 
-## [From _Valley Farmer (1849-1864)_](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1859-10_11_10?page=25)
+## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1859-10_11_10?page=25)
 
-#### 1859-10-01 &middot; St. Louis
+#### 1859-10-01 &middot; St. Louis, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4904,9 +4997,9 @@ properties :
 lst. That the tomato is one of the most pow-  
 erful aperients of the liver and other organs ;  
 where calomel is indicated, it is probably one  
-of the most effeetive and the least har
+of the most effeetive and the le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1859-10_11_10&#0036;25/pct:54.616530,27.705113,33.655994,8.180737/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1859-10_11_10&#0036;25/pct:54.616530,27.705113,33.581534,8.180737/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4915,6 +5008,7 @@ of the most effeetive and the least har
 ## [From _Arkansas true Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014282/1860-02-15/ed-1/seq-1)
 
 #### 1860-02-15 &middot; Little Rock, Ark.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4933,48 +5027,10 @@ piobablj one of tho most effective and th
 
 ---
 
-## [From _Weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045706/1860-08-01/ed-1/seq-4)
-
-#### 1860-08-01 &middot; Raleigh, N.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-The Tomato as Food. Dr. Bennett, a professor  
-of some celebrity, considers the tomato an invalua­  
-ble article of diet, and ascribes to it various important  
-medicinal properties. First: That the tomato is one  
-of the most powerful aperients of the liver and othe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045706%2F00296022652%2F1860080101%2F0340.jp2/pct:51.540413,61.318487,14.661109,2.366190/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1860-08-01/ed-1/seq-3)
-
-#### 1860-08-01 &middot; Clearfield, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-The Tomato as Food. Dr. Bennett, a pro­  
-fessor of some celebrity, considers the tomato  
-an invaluable article of diet, and ascribes to  
-it various importaut medical propensities.  
-First : that the tomato is one of the most pow­  
-erful apperientjs of the liver and other organs,  
-where calomel f indicated&quot;; it is probably one  
-of the mos
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477795%2F1860080101%2F0113.jp2/pct:2.792937,50.692187,14.446228,4.779102/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Lansing state Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016318/1861-06-12/ed-1/seq-4)
 
 #### 1861-06-12 &middot; Lansing, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5010,6 +5066,7 @@ neaithy article in the materia a imeneari
 ## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1861-07-04/ed-1/seq-1)
 
 #### 1861-07-04 &middot; East Saginaw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5055,6 +5112,7 @@ tho inuler ii a iinontari. . &#x27; &#x27;
 #### From _The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)_
 
 #### 1861-08-08 &middot; Toowoomba, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5082,11 +5140,20 @@ di«rrh«* with this artiole alone. 4.
 That when nu&amp;ai sn article of diet, it  
 is almost a sovereign remedy (at  
 dy*p*p*li and indtgettica. 6, That  
-persona in ordinary health should nuke  
-use of it, either raw, cooked, qr in the  
-form of a q*t*up, with their daily food,  
-a/lit i« fjie most bealtlry HrtiHe In  
-the &#x27; materia alimecUns.&#x27; A writer in  
+persona in ordinary health should nuk
+</td></tr></table>
+
+---
+
+## [THE DUKE [?] ON THE ENGLISH PRESS.](http://trove.nla.gov.au/ndp/del/article/75510492)
+
+#### From _The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)_
+
+#### 1861-08-08 &middot; Toowoomba, Queensland
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+in  
 tbe Farntr&#x27;t Segiiter stye—&#x27; It hu been  
 tried liy »ever«l peraona with deoided  
 encoesi. They wore ufllioted with  
@@ -5113,6 +5180,7 @@ line orumbs of bread.— Victoria
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1861-08-31/ed-1/seq-1)
 
 #### 1861-08-31 &middot; Weaverville, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5123,9 +5191,10 @@ ticle of diet, and ascribes to it very important
 medical proprieties.  
 1st. That the tomato is one of the most power  
 ful aperients of the liver and other organs; where  
-calomel is indicated, it is probably one of th
+calomel is indicated, it is probably one of the  
+most effective and the least
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557293%2F1861083101%2F0387.jp2/pct:62.528474,76.272583,14.825361,4.671634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557293%2F1861083101%2F0387.jp2/pct:62.528474,76.272583,14.825361,5.110115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5136,6 +5205,7 @@ calomel is indicated, it is probably one of th
 #### From _The Courier (Brisbane, Qld. : 1861 - 1864)_
 
 #### 1861-09-26 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5190,9 +5260,10 @@ a little flour and fine crumbs o
 
 ---
 
-## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1862-08-21_30_36?page=0)
+## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1862-08-21_30_36?page=0)
 
-#### 1862-08-21 &middot; Augusta
+#### 1862-08-21 &middot; Augusta, Maine
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5203,10 +5274,9 @@ and ascribes to it very important properties :
   
 ‘‘First, that the tomato is one of the most  
 powerful aperients of the liver and other organs ;  
-where calomel is indicated, it is probably one of  
-the most effective and least h
+where calomel is indicated, it is probably one o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1862-08-21_30_36&#0036;0/pct:67.117814,85.383085,12.064965,2.965174/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1862-08-21_30_36&#0036;0/pct:67.117814,85.383085,12.064965,2.636816/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5215,6 +5285,7 @@ the most effective and least h
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1862-09_14_9?page=16)
 
 #### 1862-09-01 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5226,7 +5297,7 @@ important properties :
 “First, that the tomato is one of the most pow-  
 erful aperients of the liver and other organs;  
 where calomel is indicated, it is probably one of  
-the most effective and least h
+the most effective and least harmfu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1862-09_14_9&#0036;16/pct:47.939778,70.841889,36.965135,8.932238/600,/0/default.jpg"/>
 </td>
@@ -5239,12 +5310,15 @@ the most effective and least h
 #### From _Vermont chronicle._
 
 #### 1862-10-07 &middot; Bellows Falls, Vt.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Washington statesman._](https://chroniclingamerica.loc.gov/lccn/sn84022799/1863-03-21/ed-1/seq-4)
 
 #### 1863-03-21 &middot; Walla Walla, Wash. Terr.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5279,6 +5353,7 @@ sth. That it should be constantly used fo
 #### From _The Brisbane Courier (Qld. : 1864 - 1933)_
 
 #### 1865-01-21 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5311,6 +5386,7 @@ Gazette, speaking of the whather, say
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1865-08-10/ed-1/seq-4)
 
 #### 1865-08-10 &middot; White Cloud, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5349,6 +5425,7 @@ food. Either cooked or raw, or&quot; in the form o
 ## [From _The Norfolk post._](https://chroniclingamerica.loc.gov/lccn/sn85038624/1865-08-11/ed-1/seq-1)
 
 #### 1865-08-11 &middot; Norfolk, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5369,9 +5446,10 @@ diarrhoea with this article alone.
 it is almost sovereign for dyspepsia and I  
 5. That it should bo constantly used ,  
 for dally food. Either cooked or raw, or  
-in the form of catsup, it is the mos
+in the form of catsup, it is the most  
+I healthy article now i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_eclipse_ver01%2Fdata%2Fsn85038624%2F00280762635%2F1865081101%2F0188.jp2/pct:69.523451,86.291879,15.327745,10.064801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_eclipse_ver01%2Fdata%2Fsn85038624%2F00280762635%2F1865081101%2F0188.jp2/pct:69.523451,86.291879,15.327745,10.550807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5382,7 +5460,35 @@ in the form of catsup, it is the mos
 #### From _Milwaukee daily sentinel._
 
 #### 1865-09-09 &middot; [Milwaukee, Wis.]
+
 [This text is not available under an open license.]
+
+---
+
+## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1865-09-09/ed-1/seq-2)
+
+#### 1865-09-09 &middot; Prescott, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+effective and  
+the least harmful medical agents known  
+I to the profession.  
+I 2d. That a chemical extract will be  
+! obtained from it that will -iupCrsede the  
+* use of calomel in tne cure of disease. &#x27;  
+, 3. That he has successfully treated  
+• diarrhoea with this article al one.  
+4. That when used as an article of  
+; diet, it is almost sovereign for dyspepsia  
+and indigestion.  
+5. That it should be constantly used  
+for daily food. Either cookid or raw
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033221%2F00514152354%2F1865090901%2F0442.jp2/pct:18.243004,80.400253,12.767572,6.342298/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## GLORIFICATION OF TOMATO.
@@ -5390,7 +5496,9 @@ in the form of catsup, it is the mos
 #### From _Herald of Health (1864-1892)_
 
 #### 1865-12-01 &middot; New York
+
 [This text is not available under an open license.]
+
 ---
 
 ## The Tomato as Food
@@ -5398,12 +5506,15 @@ in the form of catsup, it is the mos
 #### From _Lowell daily citizen and news._
 
 #### 1866-06-22 &middot; Lowell, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Baton Rouge tri-weekly gazette & comet._](https://chroniclingamerica.loc.gov/lccn/sn86053661/1866-07-03/ed-1/seq-1)
 
 #### 1866-07-03 &middot; Baton Rouge, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5425,11 +5536,9 @@ diarrhea with this article alone.
 4. That when used as an article  
 of diet, it is almost sovereign for  
 dyspepsia and indigestion.  
-5. That it should be constantly  
-used for daily food. Either cooked  
-or raw, or in the form of ketchup, it i
+5. That it should be constantl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86053661%2F0029587630A%2F1866070301%2F0572.jp2/pct:77.630506,64.237288,14.396411,13.940678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86053661%2F0029587630A%2F1866070301%2F0572.jp2/pct:77.712072,64.237288,14.314845,12.612994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5438,6 +5547,7 @@ or raw, or in the form of ketchup, it i
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1866-07-07/ed-1/seq-4)
 
 #### 1866-07-07 &middot; Bellevue, Bossier Parish, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5476,6 +5586,7 @@ Either cooked or raw, or in th
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1866-08-01/ed-1/seq-1)
 
 #### 1866-08-01 &middot; Smyrna, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5507,6 +5618,7 @@ food. Either cooked or raw, or in the form o
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1866-08-03/ed-1/seq-4)
 
 #### 1866-08-03 &middot; Bellows Falls, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5539,6 +5651,7 @@ indigestion.
 ## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1866-08-15/ed-1/seq-4)
 
 #### 1866-08-15 &middot; Winnsboro, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5569,6 +5682,7 @@ for daily food. Either cooked
 ## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1866-08-15/ed-1/seq-5)
 
 #### 1866-08-15 &middot; Winnsboro, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5598,6 +5712,7 @@ for daily food. Either cooked o
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1866-09-01/ed-1/seq-1)
 
 #### 1866-09-01 &middot; Sioux City, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5619,7 +5734,7 @@ arrhoea with this article aline.
 et, it is almost sovereign for dyspepsia  
 and indigent ion.  
 5 That it should be constantly used  
-for daily lo
+for daily lood. K
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529315%2F1866090101%2F0622.jp2/pct:74.642424,65.911787,12.863030,10.172903/!600,600/0/default.jpg"/>
 </td>
@@ -5632,7 +5747,9 @@ for daily lo
 #### From _The Owyhee avalanche._
 
 #### 1866-10-06 &middot; Ruby City, I.T. [Idaho]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Agricultural and Domestic
@@ -5640,14 +5757,18 @@ for daily lo
 #### From _New Hampshire statesman._
 
 #### 1867-05-10 &middot; Concord [N.H.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Buchanan County bulletin and guardian._](https://chroniclingamerica.loc.gov/lccn/sn87058351/1868-02-28/ed-1/seq-4)
 
 #### 1868-02-28 &middot; Independence, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ those sff­  
 ectiovs the iirtr and organs, »Wi«  
 ralomel is indipensible, ii i- jvr .hably  
 the niobt effec ive and lea&#x27;-t harmful  
@@ -5668,7 +5789,7 @@ daily u^e of it, either raw, cooked, or
 in the rm of catsup, with their daily  
 imd, a* n is a a.o#t healthy article.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn87058351%2F00279529388%2F1868022801%2F0345.jp2/pct:4.194452,57.588044,9.843433,8.537998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn87058351%2F00279529388%2F1868022801%2F0345.jp2/pct:4.194452,57.136237,9.843433,8.989805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5677,6 +5798,7 @@ imd, a* n is a a.o#t healthy article.
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1868-03-12/ed-1/seq-4)
 
 #### 1868-03-12 &middot; Tipton, Cedar Co., Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ze the  
@@ -5725,6 +5847,7 @@ use of it, either raw, coo.&#x27;^fl, or in th
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1869-11-18/ed-1/seq-1)
 
 #### 1869-11-18 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5738,36 +5861,10 @@ it very important medical properties:
 1st. That the tomato is one of the  
 most powerful aperients of the liver  
 aud other organs; where calomel is -  
-indicated, it is probably one of th
+indicated, it is probably one of the  
+most effective and the least
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283636%2F1869111801%2F0036.jp2/pct:81.369603,42.386148,10.912542,4.482922/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Sweetwater enterprise._](https://chroniclingamerica.loc.gov/lccn/sn89058302/1869-12-02/ed-1/seq-1)
-
-#### 1869-12-02 &middot; Sweetwater, Tenn.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-toes. Ha is a brother to the old man  
-who put handles to prickly pears and sold  
-them for curry-couils.  
-  
-The Tomato as Food.  
-The annexed is strictly true, and worthy  
-of caroful attontion by our readers:  
-Dr. Bennett, a professor of somo celeb­  
-rity, considers the tomato an invaluable  
-nrtielo of diet, and ascribes to it very im­  
-portaLt medical properties:  
-1st. That tho tomato is oue of the most  
-powerful aperients of the liver aud other  
-organs, where calomel is indicated, it is  
-probably one of the most effective and th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn89058302%2F00212470417%2F1869120201%2F0157.jp2/pct:50.852273,14.700927,28.043831,78.587475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283636%2F1869111801%2F0036.jp2/pct:81.369603,42.386148,10.912542,4.898008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5776,6 +5873,7 @@ probably one of the most effective and th
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1871-01-07/ed-1/seq-4)
 
 #### 1871-01-07 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5806,9 +5904,12 @@ daily food. Either cooked or raw, or i
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1871-09-16/ed-1/seq-1)
 
 #### 1871-09-16 &middot; Bellevue, Bossier Parish, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-me ce ebrity. cousiders it :  
+  
+ties. Dr. Ben net, a professor  
+of some ce ebrity. cousiders it :  
 an invaluable article of diet,  
 and aaeribes to it very itnpor­  
 tact lud a edical properties :  
@@ -5840,7 +5941,7 @@ form of a catsup, with their
 daily fold, as it is a most  
 healthy sxticle .—[Repositor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F00295874004%2F1871091601%2F0147.jp2/pct:46.442022,62.740989,14.846383,28.848840/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F00295874004%2F1871091601%2F0147.jp2/pct:46.422200,61.804973,14.866204,29.784856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5849,6 +5950,7 @@ healthy sxticle .—[Repositor
 ## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1871-09-20/ed-1/seq-1)
 
 #### 1871-09-20 &middot; Winnsboro, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5891,12 +5993,15 @@ healthy article.--epository
 #### From _The Hinds County gazette._
 
 #### 1871-10-11 &middot; Raymond, Miss.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-21/ed-1/seq-4)
 
 #### 1871-10-21 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5939,6 +6044,7 @@ Healthy article.—fRepository.
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1871-12-29/ed-1/seq-3)
 
 #### 1871-12-29 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5977,12 +6083,84 @@ is a most healthy article.
 #### From _North American and United States gazette._
 
 #### 1871-12-30 &middot; Philadelphia, Pa.
+
 [This text is not available under an open license.]
+
+---
+
+## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-01-25/ed-1/seq-1)
+
+#### 1872-01-25 &middot; Jonesborough, Tenn.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+r the tomato an invaluable;  
+article of diet, end ascribes to it vary iuvr-j  
+nortint medical properties:  
+j 1. That the toinnto is one of the&#x27; mol  
+I powerful aperients of materia medics, and&quot;  
+j that i i all those affections of the liver and  
+orgaiiA w hiTJ calomel in indisjeiisable,it(  
+is pnb:.b!y the most effective and Jeast  
+&#x27; hauuful remedial acnt known ty tho pro-,  
+j f.-s-iou. u .-&#x27;ri  
+J 2. Thct a chemical extract pill esn be  
+) obtained from it which will altogether u-1  
+J perscde the u.?e of calomel in the crof:  
+I disease. . - - :  
+3. That he  
+has successfully treated di  
+!;e:i with this artiele-alwre.&#x27;-  
+4. That when uad as, ftnrt&#x27;sV?if dial  
+it is th ino-t sovereign rumedy for dys­  
+pepsia and indigestion. &#x27; &#x27; &#x27; &#x27;  
+o. That the eitisena in ordlanry&#x27; sliosli
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1872012501%2F0301.jp2/pct:84.310275,48.997413,11.723298,9.928849/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## Temperance and Health
+
+#### From _The Congregationalist._
+
+#### 1872-02-15 &middot; Boston, Mass.
+
+[This text is not available under an open license.]
+
+---
+
+## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1872-02-23/ed-1/seq-4)
+
+#### 1872-02-23 &middot; Bolivar, Hardeman County, Tenn.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+peculiarly useful in all those af  
+fections of the liver and other or  
+gans where calomel is considered  
+indispensable ; and believes that a  
+chemical pill can be obtained from  
+it which will altogether supercede  
+the use of calomel. He Bays .that  
+it is also almost a sovereign remedy  
+for dyspepsia and indigestion, and  
+advises the freqent use of it as an  
+article of diet
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1872022301%2F0470.jp2/pct:8.131604,50.697419,10.699478,5.711148/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1872-04-03/ed-1/seq-4)
 
 #### 1872-04-03 &middot; Mifflintown, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6021,6 +6199,7 @@ daily food, as it is a most healthy article
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1874-05-21/ed-1/seq-4)
 
 #### 1874-05-21 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6054,9 +6233,46 @@ most healthy article
 
 ---
 
+## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1874-06-19/ed-1/seq-2)
+
+#### 1874-06-19 &middot; Rockville, Md.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The Tomato.—Dr. Bennett, a professor of  
+some celebrity, considers It as an invaluable  
+article of diet, and ascribes to it very import­  
+ant medical properties:  
+1. That tbe tomato is one of the most pow­  
+erful aperients of the materia medica, and lhat  
+in all those affections of the liver and organs  
+where calomel is indispensable, it is probably  
+the most effective and least harmful remedial  
+agent known to the profession.  
+2. That a chemical extract pill can be ob­  
+tained from it which will altogether supersede  
+tbe use of calomel in tbe cure of disease.  
+3. That he has successfully treated diar­  
+rhoea with this article alone.  
+4. That when used as an article of diet, it  
+is almost a sovereign remedy for dyspepsia  
+and indigestion.  
+5. That the citizens in ordinary should make  
+use of it either raw, cooked, or in tbe form of  
+catsup, with their daily food, as it is a most  
+healthy article
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1874061901%2F0719.jp2/pct:44.051272,81.831322,11.877660,9.504278/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1874-06-25/ed-1/seq-4)
 
 #### 1874-06-25 &middot; Ravenna, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6100,6 +6316,7 @@ The following dialogue between
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-07-01/ed-1/seq-4)
 
 #### 1874-07-01 &middot; Somerset, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6141,6 +6358,7 @@ article
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1874-07-06/ed-1/seq-4)
 
 #### 1874-07-06 &middot; Charlotte, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6184,6 +6402,7 @@ is a most healthy article
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1874-07-09/ed-1/seq-1)
 
 #### 1874-07-09 &middot; Anderson Court House, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6220,6 +6439,7 @@ healthy article.
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1874-07-22/ed-1/seq-4)
 
 #### 1874-07-22 &middot; Abbeville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6262,6 +6482,7 @@ healthy article
 ## [From _The Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn84026399/1874-07-23/ed-1/seq-4)
 
 #### 1874-07-23 &middot; Stroudsburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 effects of eating tomatoes, as a few per­  
@@ -6299,6 +6520,7 @@ food, as it is a most healthful article
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1874-07-23/ed-1/seq-2)
 
 #### 1874-07-23 &middot; Columbia, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6336,6 +6558,7 @@ us it is a most healthy article
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1874-08-07/ed-1/seq-4)
 
 #### 1874-08-07 &middot; Fremont, Sandusky County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6381,6 +6604,7 @@ healthy article. Chickens are fon
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1874-08-19/ed-1/seq-1)
 
 #### 1874-08-19 &middot; Knoxville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6418,6 +6642,7 @@ article.
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1874-08-20/ed-1/seq-4)
 
 #### 1874-08-20 &middot; Jonesborough, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 arlesis of tha materia medic,  
@@ -6452,6 +6677,7 @@ daily food, as it is a most healthy articl
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1874-09-05/ed-1/seq-2)
 
 #### 1874-09-05 &middot; Idaho City, Idaho Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6486,13 +6712,10 @@ Thi
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1874-09-13/ed-1/seq-4)
 
 #### 1874-09-13 &middot; Silver City, Nev.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to her a  
-handsome competence. This final j  
-settlement of the estate and business |  
-has been reached through the Cali­  
-fornia Supreme Court.  
+me Court.  
 Tomatoes. — An exchange pub­  
 lishes the following beneficial prop­  
 erties of the tomato as given by a  
@@ -6522,7 +6745,7 @@ cooked or in the form of catsup,
 with their daily food, as it is a most  
 healthful article.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554619%2F1874091301%2F0130.jp2/pct:8.562316,44.787582,14.530177,18.549837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554619%2F1874091301%2F0130.jp2/pct:8.562316,47.009804,14.530177,16.327614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6531,6 +6754,7 @@ healthful article.
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1874-11-05/ed-1/seq-4)
 
 #### 1874-11-05 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6558,6 +6782,7 @@ disease.
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1876-08-17/ed-1/seq-2)
 
 #### 1876-08-17 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 o give the road to Her  
@@ -6573,9 +6798,10 @@ very important medical properties:
 First, that the tomato is one of the most  
 powerful aperients of the liver and other  
 organs ; where calomel is indicated it is  
-probably one of the most effective an
+probably one of the most effective and  
+the least
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283612%2F1876081701%2F0356.jp2/pct:34.742875,33.758988,9.820322,7.636995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283612%2F1876081701%2F0356.jp2/pct:34.742875,33.758988,9.820322,8.033722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6584,6 +6810,7 @@ probably one of the most effective an
 ## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1876-08-24/ed-1/seq-1)
 
 #### 1876-08-24 &middot; Chase, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 iest winner in the  
@@ -6600,7 +6827,7 @@ very important medical properties:
 powerful aperients of. the liver and other  
 organs ; where calomel is indicated it is  
 probably one of the most effective and  
-the least harm
+the lea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85026421%2F00415669203%2F1876082401%2F0705.jp2/pct:5.692156,31.251801,10.831079,8.079547/!600,600/0/default.jpg"/>
 </td>
@@ -6611,6 +6838,7 @@ the least harm
 ## [From _The daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83045610/1877-03-17/ed-1/seq-4)
 
 #### 1877-03-17 &middot; Seattle, Wash. Territory [i.e. Wash.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6624,7 +6852,7 @@ First, that the tomato it one of the most
 powerful aperients of the liver and oth- I  
 er organs; where calomel is indicated it  
 ia probably one of the most effective  
-and the least har
+and the le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_camas_ver01%2Fdata%2Fsn83045610%2F00202198193%2F1877031701%2F0352.jp2/pct:6.335642,45.105476,12.597613,6.245485/!600,600/0/default.jpg"/>
 </td>
@@ -6637,6 +6865,7 @@ and the least har
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
 #### 1877-11-21 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6675,6 +6904,7 @@ materia oilmen. taria. THERE are stil
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1882-02-09/ed-1/seq-4)
 
 #### 1882-02-09 &middot; Salina, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  on until  
@@ -6702,6 +6932,7 @@ very important medicinal properties
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
 #### 1892-06-29 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6733,6 +6964,7 @@ for dyspepsia and indigestion. 6. Tha
 #### From _The Mount Barker Courier and Onkaparinga and Gumeracha Advertiser (SA : 1880 - 1954)_
 
 #### 1892-07-15 &middot; Mount Barker, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6755,7 +6987,9 @@ this&#x27; article (done. 4. That when, used
 as an&#x27; -article of. diet it is -almost  
 sovereign for dys&#x27; pepsia and  
 indigestion.; 6. That it should be used  
-as a daily food—either cooked, raw, o
+as a daily food—either cooked, raw, or  
+in the form of catsup; it is&#x27;the most  
+healthy&#x27; article ri
 </td></tr></table>
 
 ---
@@ -6763,6 +6997,7 @@ as a daily food—either cooked, raw, o
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1892-11-30/ed-1/seq-11)
 
 #### 1892-11-30 &middot; Abbeville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 and  
@@ -6798,9 +7033,9 @@ the use of calomel in the treatment
 of diseases. Dysentery ha3 been  
 successfully treated by this article of diet  
 alone, and when used simply as an article  
-of food, is said to be almost
+of food, is said to be almost a sover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287368%2F1892113001%2F0429.jp2/pct:43.001487,74.472574,15.207468,18.973039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287368%2F1892113001%2F0429.jp2/pct:43.001487,74.472574,15.207468,19.602374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6809,6 +7044,7 @@ of food, is said to be almost
 ## [From _The Lafayette advertiser._](https://chroniclingamerica.loc.gov/lccn/sn86079068/1893-01-28/ed-1/seq-6)
 
 #### 1893-01-28 &middot; Vermilionville [i.e. Lafayette], La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6842,6 +7078,7 @@ ties, in all those adections of theliver o
 #### From _Western Star and Roma Advertiser (Toowoomba, Qld. : 1875 - 1948)_
 
 #### 1893-02-15 &middot; Toowoomba, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 p  
@@ -6877,7 +7114,7 @@ treatment of diseases. Dysentery has
 been successfully treated by this  
 article of diet alone, and when used  
 simply as an article of food, is said to  
-be almost
+be almost a sover
 </td></tr></table>
 
 ---
@@ -6887,6 +7124,7 @@ be almost
 #### From _Warwick Examiner and Times (Qld. : 1867 - 1919)_
 
 #### 1893-02-25 &middot; Warwick, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6906,7 +7144,16 @@ to it very important medicinal
 properties. He declares that the tomato  
 IB one of the &#x27;most powerful  
 doobstruents in the materia medica, and  
-that besides its valuable aperien
+that besides its valuable aperient  
+qualities, it is the most effectivo and  
+least harmless remedial agent known to  
+the (nodical world. A chemical extract  
+can be obtained from it which will  
+eltogether supersede the use of calomel  
+in the treatment of diseases. Dysentery  
+has been successfully treated by this  
+article of diet alone, and when used  
+simply as an article of food, is said 
 </td></tr></table>
 
 ---
@@ -6916,6 +7163,7 @@ that besides its valuable aperien
 #### From _The Colac Herald (Vic. : 1875 - 1918)_
 
 #### 1897-01-19 &middot; Colac, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6929,6 +7177,28 @@ the most effective and least harmful
 remedial agent known. When used as an  
 article of diet it is almost a sovereign  
 remedy for dyspepsia and indigestion.
+</td></tr></table>
+
+---
+
+## [Tomatoes and Cancer](http://trove.nla.gov.au/ndp/del/article/126298464)
+
+#### From _The Richmond River Herald and Northern Districts Advertiser (NSW : 1886 - 1942)_
+
+#### 1897-02-19 &middot; Coraki, New South Wales
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+: — &#x27; The tomato is one of the most  
+powerful deohstruents [medicines for  
+removing obstructions] of the Materia  
+Medico, and in all affections of the  
+liver, it is probably tho most effective  
+and least harmful remedial agent known,  
+when used as an article of diet, it is  
+almost a sovereign remedy for dyspepsia  
+and indigestion.&#x27; In the Times and othe
 </td></tr></table>
 
 ---

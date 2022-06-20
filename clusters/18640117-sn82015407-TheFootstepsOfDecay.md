@@ -1,13 +1,14 @@
 
 # The Footsteps of Decay
 
-### 256 reprints from 1824-01-01 to 1899-07-13
+### 270 reprints from 1824-01-01 to 1899-07-13
 
 ## [The Footsteps of Decay](http://chroniclingamerica.loc.gov/lccn/sn82015407/1864-12-17/ed-1/seq-1/)
 
 #### From _The Idaho World_
 
 #### 1864-01-17
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 The following is a translation from an ancient Spanish poem, which, says the Edinburg Review, is surpassed by nothing with which we are acquainted in the Spanish language, except the &quot;Ode of Luis de Leon.&quot;  
@@ -82,6 +83,7 @@ When age comes on!
 ## [From _Edinburgh Review: Critical Journal 1802-1910_](https://iiif.archivelab.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78?page=151)
 
 #### 1824-01-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -123,9 +125,16 @@ Youth smiled, and all was heav&#x27;nly fair ;
 Age came, and laid his finger there,  
 And where are they ?  
   
-Where are 
+Where are the strength that mocked decay,  
+  
+The step that rose so light and gay,  
+The heart’s blithe tone ?—  
+  
+The strength is gone, the step is show,  
+  
+And joy grows we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78&#0036;151/pct:14.072495,13.589077,35.714286,40.539662/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78&#0036;151/pct:14.072495,13.589077,36.140725,45.676203/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,6 +143,7 @@ Where are
 ## [From _The Museum of Foreign Literature, Science, and Art (1822-1842)_](https://iiif.archivelab.org/iiif/sim_museum-of-foreign-literature-science-and-art_1824_4_23?page=16)
 
 #### 1824-01-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -199,7 +209,12 @@ Youth smiled, and all was heav’nly fair;
 Age came, and laid his finger there,  
 And where are they?  
   
-Where ar
+Where are the strength that mocked de-  
+The step that rose so light and gay, [cay,  
+The heart’s blithe tone ?—  
+  
+The strength is gone, the step is slow,  
+And joy grows we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_museum-of-foreign-literature-science-and-art_1824_4_23&#0036;16/pct:14.265799,40.743848,67.425651,43.791946/,600/0/default.jpg"/>
 </td>
@@ -210,6 +225,7 @@ Where ar
 ## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
 
 #### 1824-01-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -226,6 +242,7 @@ odes of Luis de Leon. The flow of the verse, and the fine an
 ## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
 
 #### 1824-01-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -325,12 +342,15 @@ And where are they?
 #### From _The Museum of Foreign Literature, Science, and Art (1822-1842)_
 
 #### 1824-05-01 &middot; Philadelphia
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41?page=3)
 
 #### 1824-05-21 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -410,9 +430,17 @@ ra Ba
 Long ere the damps of death can blight,  
 The cheek&#x27;s pure glow of red and white  
 Hath passed away:  
-Youth smiled, 
+Youth smiled, and all was heavenly fair ;  
+Age came, and laid his finger there,  
+And where are they ?  
+  
+Where are the strength that mock’d decay,  
+The step that rose so light and gay,  
+The heart’s blithe tone ?—  
+The strength is gone, the step is slow.  
+And joy grows weari
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41&#0036;3/pct:9.821429,8.566233,17.410714,32.886677/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41&#0036;3/pct:9.821429,8.566233,17.410714,36.954441/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,68 +449,40 @@ Youth smiled,
 ## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347?page=3)
 
 #### 1824-06-04 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+rth.  
   
-The following it a frantlation from an ancient SpanUh  
-Poom, which, says the Edinburgh Review, it tor-  
-patted by nothing which we are acquainted with,  
-in the Spanish language, except the edet of Luis de  
-Leon.  
+That lore us here ;  
   
-O! let the tool its slumber break.  
+Dreams of a sleep, that death must break,  
   
-Arouse its senses and awake.  
+Alas! before it bids us wake.  
   
-To tee how soon  
+Ye disappear.  
   
-Life, with its glories, glides asray.  
+Long ere the damps of death can blight.  
   
-And the stem footstep of decay  
-Comet stealing
+The cheek&#x27;s pure glow of red and white  
+Hath passed away:  
+  
+Youth smiled, and all was heavenly fair ;  
+  
+Age came, and laid his finger there.  
+  
+And where are they f  
+  
+Where are the strength that mocked decay^  
+  
+The step that rose so light and gay.  
+  
+The heart&#x27;s blithe tone ? —  
+like strength is gone, the step it slow,  
+  
+.ind joy grow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347&#0036;3/pct:3.752790,7.982526,17.745536,6.940032/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347?page=3)
-
-#### 1824-06-04 &middot; Boston
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- past.  
-  
-Let no vstin hope deceive the mind&#x27;-—  
-  
-Ho happier let us hope to find  
-ToH&amp;orrow than to^ay.  
-  
-Our golden dreams of yore were bright,  
-  
-Like them the pretent shall delight—  
-  
-Like them decay.  
-  
-Oor lives like hasting streams most be,.  
-  
-That into one engul|^iog sea  
-Are doomed to fall ;  
-  
-The S« of Death, whose waves roll on,  
-  
-O^erking and kingdom, crown and tluouey  
-And swallaw all.  
-  
-Alike the river&#x27;s lordly tide.  
-  
-Alike the hnmble riv&#x27;lets glide  
-To that sad wave ;  
-  
-Death levels
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347&#0036;3/pct:5.147879,21.455520,13.867188,9.779587/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347&#0036;3/pct:5.566406,36.963860,14.508929,9.213662/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,6 +491,7 @@ Death levels
 ## [From _The ladies' garland._](https://iiif.archivelab.org/iiif/sim_ladies-garland_1824-06-12_1_18?page=3)
 
 #### 1824-06-12 &middot; Harpers-Ferry, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -582,9 +583,13 @@ Youth smiledand all was heavenly fair,
 Age came and laid his finger there,  
 And where are they ?  
   
-Where are th
+Where are the strength that mock’d decay,  
+The step that rose so light and gay,  
+The heart’s blithe tone &quot;—  
+The strength is gone, the — is slow,  
+And joy grows weariness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-garland_1824-06-12_1_18&#0036;3/pct:38.992537,15.411932,24.782338,59.422348/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-garland_1824-06-12_1_18&#0036;3/pct:38.992537,15.411932,24.782338,63.162879/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,12 +600,76 @@ Where are th
 #### From _Bangor register._
 
 #### 1824-06-17 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
+
+---
+
+## Poetry
+
+#### From _Bangor register._
+
+#### 1824-06-17 &middot; Bangor, Me.
+
+[This text is not available under an open license.]
+
+---
+
+## [From _The Rhode-Island Republican._](https://chroniclingamerica.loc.gov/lccn/sn83025561/1824-08-05/ed-1/seq-4)
+
+#### 1824-08-05 &middot; Newport, R.I.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ hat into one G?U&#x27;phm‘ sca  
+Are doomed to fall ;  
+The Sea of Death whose waves roll on,  
+O&#x27;er king and kingdom, crown and threne,  
+And swallow all,  
+Alike the river’s lordly tide,  
+Alike the huinble riv&#x27;let’s glide  
+To that sad wave;  
+Death levels poverty and pride,  
+And rich and poor sleep side by side,  
+Within the grave.  
+  
+Our birth is but a starting place,  
+Life is the running of the race,  
+And death the goal :  
+There all our steps at last are brought,  
+hat path alone, of all unsought,  
+is found of all.  
+Say, thien, how peor and litlle worth,  
+Are )l those glittering toys of carth  
+That lure us here :  
+Dreams of a sleep that death must break,  
+Alas ! before it bids us wake,  
+¥e disappear,  
+  
+Long ere the damps of death can blight,  
+‘Yhe cheek’s pure glow of red and white  
+Hath passed away :  
+Youih smiied, snd wlt was beav&#x27;nly fair:  
+Age came, and laid his finger there,  
+And where are they’  
+  
+Where are the strength that mock&#x27;d decsy,  
+&quot;Fhe step (hat rose so light and gay i  
+  
+I&#x27;he heart’s bli&#x27;he tone j=  
+The strength is gone, the step is slow,  
+Ani joy grows we
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_beholder_ver02%2Fdata%2Fsn83025561%2F00514153176%2F1824080501%2F0741.jp2/pct:11.235529,25.018319,17.277156,22.156659/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _Constitutional Whig._](https://chroniclingamerica.loc.gov/lccn/sn83045110/1825-01-14/ed-1/seq-4)
 
 #### 1825-01-14 &middot; Richmond, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -615,7 +684,7 @@ To see how soon
 fade, with its gltnies, glides away,  
 And the stem footsteps of decay  
 Come* stealing on.  
-Mow ple
+Mow 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn83045110%2F00414184534%2F1825011401%2F0018.jp2/pct:1.044680,5.705951,15.434480,6.479969/!600,600/0/default.jpg"/>
 </td>
@@ -626,9 +695,10 @@ Mow ple
 ## [From _Constitutional Whig._](https://chroniclingamerica.loc.gov/lccn/sn83045110/1825-01-14/ed-1/seq-4)
 
 #### 1825-01-14 &middot; Richmond, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t’ning streams must be,  
+ke hast’ning streams must be,  
 1 but into one engulfing sea  
 Aie doomed to fail;  
 The sea of death, whose waves roll on,  
@@ -656,7 +726,7 @@ Ye disappear.
 Z.nng ere the damps of de«*ih can blight,  
 The cheek’s pure glow of red and white .  
 Hath passed away.  
-Youthsinil ti and a
+Youthsinil ti and all wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn83045110%2F00414184534%2F1825011401%2F0018.jp2/pct:1.125040,22.030338,14.180864,15.744846/!600,600/0/default.jpg"/>
 </td>
@@ -667,6 +737,7 @@ Youthsinil ti and a
 ## [From _Phenix gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025006/1825-02-05/ed-1/seq-4)
 
 #### 1825-02-05 &middot; Alexandria [D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -746,6 +817,7 @@ When age comes on
 ## [From _Martinsburgh gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038455/1825-02-24/ed-1/seq-4)
 
 #### 1825-02-24 &middot; Martinsburgh, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -759,9 +831,58 @@ Arouse its senses anil awake,
 To see how soon  
 Life, &quot; ith its glorious, glides away.  
 And the stern footsteps of decay  
-Conies stealing on
+Conies stealing on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038455%2F00393348914%2F1825022401%2F0461.jp2/pct:7.647566,7.610350,17.002370,6.202435/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Martinsburgh gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038455/1825-02-24/ed-1/seq-4)
+
+#### 1825-02-24 &middot; Martinsburgh, Va. [W. Va.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+like hast&#x27;ning streams must bo,  
+That into one ungulfing sea  
+Are doomed to tall;  
+The sea of death, whose waves roll on,  
+O&#x27;er king and kingdom,crown and throne,  
+And swallows all.  
+Alike the rive’s loudly tide,  
+Alike the humble rivulets glide  
+To that sad wave/  
+Death levels poverty and pride.  
+And rii h and poor sleep side by sido  
+Within the grave.  
+Our birth is but a starting place,  
+Lite is the running of Hie race,  
+And death the goal:  
+There all our steps at last an- brought,  
+That path alone of all unsought,  
+1. found ol all.  
+Kay, then, how poor and little worth,  
+Are ail those glittering toys of earth  
+That lure us iiere;  
+Dreams of sleep that dea’h must break,  
+Alas! b fore it bids u§ wake,  
+We disappear.  
+!.ongear the damps of death can blight,  
+’1 he cheek&#x27;s pure glow of red and white  
+Hath paused away,­  
+You’ll smil’d and all was heavenly fair;  
+Age came, and laid his finger there,  
+And where are they/  
+Where is the strength that mock’d decay;  
+Tiie step that rose so light and gay,  
+The heart&#x27;s ligb t tone!—  
+The strength is gone, the steps is low,  
+And jny grows weariness and woe  
+When age conies on.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038455%2F00393348914%2F1825022401%2F0461.jp2/pct:9.435588,25.681472,15.214347,22.668465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,6 +891,7 @@ Conies stealing on
 ## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1?page=38)
 
 #### 1825-03-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -782,8 +904,7 @@ Arouse its senses and awake, .
 To see how soon  
 Life, with its glories, glides away,  
 And the stern footsteps of decav  
-Comes stealing on :  
-
+Comes stealing on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1&#0036;38/pct:17.048817,76.808460,63.794379,13.025715/600,/0/default.jpg"/>
 </td>
@@ -794,8 +915,10 @@ Comes stealing on :
 ## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1?page=39)
 
 #### 1825-03-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ of joy  
 Already past.  
   
 Let no vain hope deceive the mind—  
@@ -848,7 +971,7 @@ Youth smiled, and all was heavenly fair :
 Age came, and laid his finger there,  
 And where
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1&#0036;39/pct:33.764793,24.897861,36.316568,56.356645/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1&#0036;39/pct:33.764793,23.624129,36.316568,57.630377/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,6 +980,7 @@ And where
 ## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1825-03-26_1_43?page=3)
 
 #### 1825-03-26 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -918,9 +1042,19 @@ Ye disa 5
 Long ere the damps of death can blight  
 The cheek’s pure glow of red and white,  
 Hath pass’d away :  
-Youth smiled, and all was 
+Youth smiled, and all was heavenly fair :  
+Age came, and laid his finger there—  
+And where are they ?  
+Where are the strength that mocked de-  
+  
+cay,  
+  
+The step that rose so light and gay,  
+The heart’s blithe tone —  
+The strength is gone, the step is slow,  
+And joys grow wea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-telescope_1825-03-26_1_43&#0036;3/pct:73.968934,22.273642,19.041243,41.227364/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-telescope_1825-03-26_1_43&#0036;3/pct:73.968934,22.273642,19.121585,47.142857/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,6 +1063,7 @@ Youth smiled, and all was
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
 
 #### 1825-04-26 &middot; Utica, N.Y.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -948,6 +1083,7 @@ cept the ode of Luis de Lean. 1
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
 
 #### 1825-04-26 &middot; Utica, N.Y.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ady past.  
@@ -982,6 +1118,7 @@ Alike the humble riv’lets glide
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
 
 #### 1825-04-26 &middot; Utica, N.Y.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1031,7 +1168,9 @@ When age comes on.
 #### From _Mutual Rights and Methodist Protestant (1824-1825)_
 
 #### 1825-05-01 &middot; Baltimore
+
 [This text is not available under an open license.]
+
 ---
 
 ## LITERARY RECREATIONS
@@ -1039,12 +1178,15 @@ When age comes on.
 #### From _Mutual Rights and Methodist Protestant (1824-1825)_
 
 #### 1825-05-01 &middot; Baltimore
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19?page=0)
 
 #### 1825-05-14 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1137,44 +1279,18 @@ When age comes on.
 #### From _New-Hampshire statesman._
 
 #### 1825-05-30 &middot; Concord, N.H.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Cincinnati Literary Gazette (1824-1825)_](https://iiif.archivelab.org/iiif/sim_cincinnati-literary-gazette_1825-06-18_3_25?page=7)
 
 #### 1825-06-18 &middot; Cincinnati
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-atchless fragrance still can charm  
   
-Ev’n an did thy levely form,  
-  
-When, in its transient sunny hour,  
-It reigned the Glory of the Bower.  
-  
-  
-  
-M.  
-  
-  
-  
-§3TANZAS ON THE DEATH OF HIS FATHER.  
-By Jorge Manoique.  
-Oh let the soul its slumber break,  
-Arouse its senses and awake,  
-To see how soon  
-Life, with its glories glide away,  
-“And the stern foo of decay  
-Come stealing on.  
-  
-  
-  
-  
-  
-&quot;How pleasure, like the passing wind, ©  
-Blows by, and leaves us nought behind  
-But grief at last;  
-How still our present happiness  
 Seems to the wayward fancy, less  
 ‘Than what is past.  
   
@@ -1237,9 +1353,15 @@ Youth smiled and all was heavenly fair ;
 Age came and laid his fingers there,  
 And where are they ?—  
   
-Where ar
+Where are the strength that mocks decay,  
+The step that rose so bright and gay,  
+The heart’s blithe tone ?-—  
+  
+|  
+  
+eTHE CINCINNATI LITERARY GAZETTE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-literary-gazette_1825-06-18_3_25&#0036;7/pct:7.265494,13.279743,54.250419,77.106109/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-literary-gazette_1825-06-18_3_25&#0036;7/pct:27.868509,10.466238,41.247906,56.655949/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,6 +1370,7 @@ Where ar
 ## [From _The American Athenaeum:  A Repository of Belles Lettres, Science, and the Arts (1825-1825)_](https://iiif.archivelab.org/iiif/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11?page=1)
 
 #### 1825-07-07 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1339,12 +1462,15 @@ When age comes on.
 #### From _Missouri republican._
 
 #### 1825-10-31 &middot; St. Louis, Mo.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35?page=3)
 
 #### 1825-11-26 &middot; Philadelphia, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1372,6 +1498,7 @@ Come stealing on:
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35?page=3)
 
 #### 1825-11-26 &middot; Philadelphia, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1420,21 +1547,9 @@ Are a thuie glittering to}s ot carili.
 That lure us here !  
   
 ^ Dr. .-I s ot r. sleep iliat death must break,  
-Alas! before it bids us wake,  
-  
-\ c disappear!  
-  
-Long e’re the damps of death can blight.  
-The c&#x27;.-ek’s pure glow of red and white  
-^Hatb passed away :  
-  
-Youtli sniile.i, and all was lieavei.ly fair:  
-Age came, and laitl his finger there.  
-  
-And w here arc they  
-
+Alas! b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35&#0036;3/pct:7.792767,22.245763,13.877727,22.775424/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35&#0036;3/pct:7.792767,22.245763,13.877727,18.262712/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,6 +1558,7 @@ And w here arc they
 ## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199?page=3)
 
 #### 1825-11-29 &middot; Pittsburgh
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1459,6 +1575,7 @@ fs surpassed by nothing which we are acquainted
 ## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199?page=3)
 
 #### 1825-11-29 &middot; Pittsburgh
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1562,6 +1679,7 @@ When age comes on
 ## [From _The Columbian star._](https://iiif.archivelab.org/iiif/sim_columbian-star_1825-12-10_4_50?page=3)
 
 #### 1825-12-10 &middot; Washington City
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1659,6 +1777,7 @@ When age comes on.
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4?page=3)
 
 #### 1825-12-30 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1704,6 +1823,7 @@ ims of yore were bright
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4?page=3)
 
 #### 1825-12-30 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1742,6 +1862,7 @@ When age comes o
 #### From _The Monitor (Sydney, NSW : 1826 - 1828)_
 
 #### 1826-05-26 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1773,7 +1894,19 @@ unsought, Is found of all. Say then how
 poor, and little worth, Are all those  
 glittering toys of earth &amp;nbsp; That  
 lure us here; Dreams of a sleep that  
-death must break, &amp;nbsp; &amp;nbsp; &amp;nbsp
+death must break, &amp;nbsp; &amp;nbsp; &amp;nbsp;  
+&amp;nbsp; Alas ! before it bids us wake,  
+&amp;nbsp; &amp;nbsp; Ye disappear. Long e&#x27;er  
+the damps of death can blight The  
+cheek&#x27;s pure glow of red and white Hath  
+passed away; Youth smiled, and all was  
+heav&#x27;nly fair; Age came and laid his  
+finger there, And where are they ? Where  
+are the strength that mock&#x27;d decay, The  
+step that rose so light and gay, The  
+heart&#x27;s blithe tone ? The strength is  
+gone, the step is slow, And joy grows  
+wearines
 </td></tr></table>
 
 ---
@@ -1781,6 +1914,7 @@ death must break, &amp;nbsp; &amp;nbsp; &amp;nbsp
 ## [From _Washington Theological Repertory (1819-1828)_](https://iiif.archivelab.org/iiif/sim_theological-repertory-and-churchmans-guide_1826-09_8_2?page=17)
 
 #### 1826-09-01 &middot; Washington
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1854,7 +1988,12 @@ Youth smiled, and all was heavn’ly fair;
 Age came, and laid his finger there,  
 And where are they?  
   
-Where are
+Where are the strength that mocked de-  
+cay,  
+The step that rose so light and gay,  
+The heart’s blithe tone?—~  
+The strength is gone, the step is slow,  
+And joy grows wear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_theological-repertory-and-churchmans-guide_1826-09_8_2&#0036;17/pct:13.200852,35.174287,71.823989,55.839746/,600/0/default.jpg"/>
 </td>
@@ -1865,6 +2004,7 @@ Where are
 ## [From _Christian telescope and Universalist miscellany._](https://iiif.archivelab.org/iiif/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9?page=6)
 
 #### 1826-10-07 &middot; Providence, R.I.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1973,7 +2113,9 @@ When age comes on.
 #### From _Daily national intelligencer._
 
 #### 1826-11-01 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## The following is a translation from an ancient Spanish Poem which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish Language, except the Odes of Lewis de Leon
@@ -1981,7 +2123,9 @@ When age comes on.
 #### From _Daily national intelligencer._
 
 #### 1826-11-01 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Poetry
@@ -1989,12 +2133,15 @@ When age comes on.
 #### From _Vermont chronicle._
 
 #### 1826-11-03 &middot; Bellows Falls, Vt.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Wilmingtonian, and Delaware advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85042523/1826-11-09/ed-1/seq-1)
 
 #### 1826-11-09 &middot; Wilmington, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2036,9 +2183,10 @@ m
 ## [From _The Wilmingtonian, and Delaware advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85042523/1826-11-09/ed-1/seq-1)
 
 #### 1826-11-09 &middot; Wilmington, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-th  
+tle worth  
 Are all those glittering toys of earth,  
 That lore us here?  
 Dreams of a sleep that death must break,  
@@ -2066,6 +2214,7 @@ When age cornea on
 ## [From _The Litchfield County post._](https://chroniclingamerica.loc.gov/lccn/sn82014309/1826-11-14/ed-1/seq-1)
 
 #### 1826-11-14 &middot; Litchfield, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2138,6 +2287,7 @@ When age comes on.
 ## [From _Casket (1826-1830)_](https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12?page=30)
 
 #### 1826-12-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2212,7 +2362,7 @@ Alike the river’s lordly tide,
 Alike the humble riv’let’s elide pant  
 To that sad wave ;  
   
-Death 
+Death level
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12&#0036;30/pct:5.052790,60.679825,84.653092,26.293860/600,/0/default.jpg"/>
 </td>
@@ -2223,9 +2373,11 @@ Death
 ## [From _Casket (1826-1830)_](https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12?page=31)
 
 #### 1826-12-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- all those glittering toys of earth,  
+rth  
+Are all those glittering toys of earth,  
 That Ture us here ?  
 Dreams of a sleep that death must break,  
 Alas! before it bids us wake,  
@@ -2249,7 +2401,7 @@ And joy grows weariness and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12&#0036;31/pct:9.216418,36.425439,34.104478,18.947368/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12&#0036;31/pct:9.104478,35.394737,34.216418,19.978070/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2258,6 +2410,7 @@ When age comes on.
 ## [From _Phenix gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025006/1826-12-12/ed-1/seq-2)
 
 #### 1826-12-12 &middot; Alexandria [D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2335,7 +2488,9 @@ When age comes on.
 #### From _Natchez gazette._
 
 #### 1827-01-20 &middot; Natchez, Miss.
+
 [This text is not available under an open license.]
+
 ---
 
 ## Composed by Brother John H. Sheppard, Master of Lincoln Lodge
@@ -2343,7 +2498,9 @@ When age comes on.
 #### From _Natchez gazette._
 
 #### 1827-02-10 &middot; Natchez, Miss.
+
 [This text is not available under an open license.]
+
 ---
 
 ## POETRY.
@@ -2351,12 +2508,15 @@ When age comes on.
 #### From _United States Catholic Miscellany (1822-1835)_
 
 #### 1827-03-10 &middot; Charleston
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1827-06-16_4_3?page=2)
 
 #### 1827-06-16 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2455,6 +2615,7 @@ When age comes on.
 ## [From _Gospel Advocate and Impartial Investigator (1823-1829)_](https://iiif.archivelab.org/iiif/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30?page=7)
 
 #### 1827-07-28 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2540,6 +2701,7 @@ When age comes on.
 ## [From _North American. Or, Weekly Journal of Politics, Science and Literature (1827-1827)_](https://iiif.archivelab.org/iiif/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11?page=4)
 
 #### 1827-07-28 &middot; Baltimore
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2638,6 +2800,7 @@ When age comes on
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37?page=7)
 
 #### 1828-03-22 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2710,7 +2873,9 @@ When age comes on. Flowarp.
 #### From _Louisville public advertiser._
 
 #### 1830-03-17 &middot; Louisville, Ky.
+
 [This text is not available under an open license.]
+
 ---
 
 ## The following is a translation from an ancient Spanish Poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish language, except the Odes of Lewis de Leon
@@ -2718,47 +2883,15 @@ When age comes on. Flowarp.
 #### From _Daily national intelligencer._
 
 #### 1830-10-13 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
----
-
-## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1830-10-19/ed-1/seq-4)
-
-#### 1830-10-19 &middot; Richmond, Va.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- an ancient Bpsnieh Poem  
-which, says tha Edinburgh Kuvinw, ia aurpaaaetl hy no&#x27;hin* witli  
-which wo ara a&lt;*&lt;piaiulmt in the Bpaniah l.angti.igu, cicupt tha  
-Odea ef Lawia d» l,*oo_ * *  
-Oh ! lat the aouI its slumbers break,  
-Arouse ita aenaaa an&lt;l awake,  
-To its how soon  
-Life, like its glnriee glides away.  
-And thw atsrn footsteps of dacay  
-Corns stealing an  
-And whila »a view tha rolling tide,  
-Down whiah oar flowing minutes glide  
-Away to fast.  
-Lei us the present hour employ.  
-And deem each (Utura dream a joy  
-Already past.  
-Let no vnin hope deceive the mind —  
-No happier let us hope to find  
-To-inorrow than to-day —  
-Our gnldan dreams of yore wore bright,  
-Liko theai ilia present shall delight—  
-Liko them doray.  
-Our live* li
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn84024735%2F00414184042%2F1830101901%2F0184.jp2/pct:3.656227,10.634687,14.979364,8.466267/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
 ## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1830-10-19/ed-1/seq-4)
 
 #### 1830-10-19 &middot; Richmond, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 law all.  
@@ -2787,10 +2920,9 @@ Where ia tho strength tlint spurn decay,
 The step that rellud ao light and gnv,  
 Tha heart&#x27;s hi■ ihe tone.’  
 The strength is gone, the step is slow,  
-Amt joy grows wearisome and wo  
-Whsu ago cornea on.
+Amt joy grows wearisom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn84024735%2F00414184042%2F1830101901%2F0184.jp2/pct:3.495994,20.601878,12.794368,11.453030/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn84024735%2F00414184042%2F1830101901%2F0184.jp2/pct:3.495994,20.601878,12.794368,11.113625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2799,6 +2931,7 @@ Whsu ago cornea on.
 ## [From _Martinsburg gazette and public advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85059526/1830-10-21/ed-1/seq-1)
 
 #### 1830-10-21 &middot; Martinsburg, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2851,9 +2984,14 @@ The cheeks pure glow of red and w hite; I
 1. Has passed away;  
 kouth smiled and all was heavenly fair;  
 Age came and laid ins linger there.  
-And 
+And where are they?  
+\\ here is the strength that spurn&#x27;d decay,  
+The step that rolled so light and gav,  
+The heart’s blithe tone?  
+The strength is gone, the step is slow,  
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn85059526%2F00393348938%2F1830102101%2F0388.jp2/pct:0.744471,13.726322,19.821546,31.018519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn85059526%2F00393348938%2F1830102101%2F0388.jp2/pct:0.744471,13.726322,19.821546,33.874046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2862,6 +3000,7 @@ And
 ## [From _The Philadelphia Album and Ladies' Literary Portfolio (1830-1834)_](https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1830-10-23_4_43?page=0)
 
 #### 1830-10-23 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2953,7 +3092,9 @@ When age comes on.
 #### From _Providence patriot, Columbian phenix._
 
 #### 1830-11-10 &middot; Providence, R.I.
+
 [This text is not available under an open license.]
+
 ---
 
 ## From the Spanish
@@ -2961,7 +3102,19 @@ When age comes on.
 #### From _Daily Louisville public advertiser._
 
 #### 1830-11-19 &middot; Louisville, Ky.
+
 [This text is not available under an open license.]
+
+---
+
+## From the Spanish
+
+#### From _Daily Louisville public advertiser._
+
+#### 1830-11-19 &middot; Louisville, Ky.
+
+[This text is not available under an open license.]
+
 ---
 
 ## Poem 1 -- No Title
@@ -2969,12 +3122,15 @@ When age comes on.
 #### From _Christian Advocate and Journal and Zion's Herald (1828-1833)_
 
 #### 1830-12-03 &middot; Chicago
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1830-12-04_15_27?page=15)
 
 #### 1830-12-04 &middot; New Haven
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3067,7 +3223,9 @@ When age comes on.
 #### From _Southern times & state gazette._
 
 #### 1830-12-11 &middot; Columbia, S.C.
+
 [This text is not available under an open license.]
+
 ---
 
 ## POETRY.
@@ -3075,7 +3233,9 @@ When age comes on.
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
 #### 1830-12-18 &middot; Boston
+
 [This text is not available under an open license.]
+
 ---
 
 ## POETRY.
@@ -3083,12 +3243,15 @@ When age comes on.
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
 #### 1830-12-18 &middot; Boston
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38?page=3)
 
 #### 1830-12-18 &middot; Philadelphia, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3136,24 +3299,21 @@ O’er king and kingdom, crown and throne, !
   
 And swallow all.  
   
-Alike the river’s lordly tide, &#x27;  
-  
-Alike the riv’lets lowly glide, I  
-  
-To that sad wave; i  
-  
-Death levels poverty and pride, j  
-  
-And rich and poor sleep side by side  
-&quot;NVithin the grave.  
-  
-Our birth is but a starting place!  
-  
-Life is the running of the race.  
-  
-And death the goal;  
-  
-There, all those glittering toys are brought, I  
+Alike the river’s lordly ti
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38&#0036;3/pct:15.871254,32.349831,14.428413,12.806684/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38?page=3)
+
+#### 1830-12-18 &middot; Philadelphia, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ht, I  
 That path alone, of all unsought, j  
   
 Is found of all. l  
@@ -3193,7 +3353,7 @@ And joy grows wearisome and wo
   
 Wlien age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38&#0036;3/pct:15.871254,32.349831,14.428413,29.631980/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38&#0036;3/pct:15.968368,49.756768,14.331299,12.225042/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3202,6 +3362,7 @@ Wlien age comes on.
 ## [From _The western luminary._](https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26?page=3)
 
 #### 1830-12-29 &middot; Lexington, Ky.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3227,20 +3388,21 @@ Alve ady pasi.
 Let no vain hope deceive the mind—  
 No happier let us Lope to find  
 ‘To morrow than to-day,  
-Our golden dreams of yore were bright, —  
-Like them the presentshall detrelt-——  
-Like them decay.  
-  
-Gur lives like hastine streams must be,  
-‘Liat into one ingulphing sea  
-Are doomed to fall.  
-The sca of death, whose waves roi! on,  
-O’er king and kingdom, crown and throne,  
-And swallow all.  
-  
-Alike the tiver’s lordly tide,  
-Alike the humble riv let&#x27;s elide  
-7 ‘To that sad wave;  
+Our golden dreams of yore were 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26&#0036;3/pct:10.541142,12.176560,15.737583,10.364346/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The western luminary._](https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26?page=3)
+
+#### 1830-12-29 &middot; Lexington, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+wave;  
 Death levels poverty and pride,  
 And rich and poor sleep side by side.  
 W itian the erave.  
@@ -3277,7 +3439,7 @@ And joy grows wearisome and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26&#0036;3/pct:10.541142,12.176560,15.737583,31.535388/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26&#0036;3/pct:10.837658,28.462709,14.870274,15.249239/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3288,12 +3450,15 @@ When age comes on.
 #### From _Observer and telegraph._
 
 #### 1830-12-30 &middot; Hudson, Portage County, Ohio
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Episcopal watchman._](https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34?page=2)
 
 #### 1831-01-01 &middot; Hartford
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3325,20 +3490,19 @@ Let no vain hope deceive the mind—
 .No h.appier let us hope to find  
   
 To-morrow than to-d ly,  
-Oiir lives like hasting streams must be
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34&#0036;2/pct:35.325477,57.419495,19.809203,17.972150/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Episcopal watchman._](https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34?page=2)
-
-#### 1831-01-01 &middot; Hartford
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-e;  
+Oiir lives like hasting streams must be.  
+That, into one iiigtilphing sen.  
+  
+Are doomed to fail—  
+The sea of death, whose waves roll on  
+O’er king and kingdom, crown and throne.  
+And swallow all.  
+  
+Alike the river’s lordly tide.  
+  
+Alike the riv’Iets lowly glide.  
+  
+To that sad wave;  
 Death levels poverty and pride.  
   
 And rich and poor sleep side by side  
@@ -3390,7 +3554,7 @@ I And joy grows wearisome and wo
   
 I When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34&#0036;2/pct:35.662177,11.118364,46.745230,83.268059/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34&#0036;2/pct:35.325477,11.118364,47.081930,83.268059/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3399,6 +3563,7 @@ I When age comes on.
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51?page=3)
 
 #### 1831-01-08 &middot; Hartford [Conn.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3414,6 +3579,7 @@ which, says the Euinburgh Review, is surpassed by nothing | talent to be able cl
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51?page=3)
 
 #### 1831-01-08 &middot; Hartford [Conn.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3494,7 +3660,9 @@ And joy grows wearisome and wo
 #### From _The Arkansas gazette._
 
 #### 1831-06-01 &middot; Arkansas Post, Ark. Ter.
+
 [This text is not available under an open license.]
+
 ---
 
 ## The following is a translation from an ancient Spanish poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquanited in the Spanish language, excent the odes of Louis de Leon
@@ -3502,7 +3670,9 @@ And joy grows wearisome and wo
 #### From _United States' telegraph._
 
 #### 1831-06-28 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## The following is a translation from an ancient Spanish poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish language, except the Odes, of Louis de Leon
@@ -3510,12 +3680,15 @@ And joy grows wearisome and wo
 #### From _The globe._
 
 #### 1831-07-27 &middot; City of Washington [D.C.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1831-08-04/ed-1/seq-4)
 
 #### 1831-08-04 &middot; Newport, R.I.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3605,30 +3778,10 @@ When age come on.
 ## [From _Christian Intelligencer 1821-1836_](https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36?page=3)
 
 #### 1831-09-09
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ng &lt;treams must be  
-That into one ingulphing sea  
-Ave doomed to fa}!—  
-The sea of death, whose waves roll on  
-O’er the king and kingdom, crown an!  
-And awallow all  
   
-throne,  
-  
-}  
-  
-Alike the river’s lordly te,  
-Alike the humble rivulet’s guide,  
-Vo that sal wave—  
-Death levels property and price,  
-And rich and poor sleep side by side  
-Within the grave.  
-  
-Our birth is but a starting place,  
-Life is the running of the rice,  
-And dent  
-There all those glittering toys are br  
 That path alone, of ail un-owg&#x27;t,  
   
 Is found  
@@ -3655,7 +3808,7 @@ The strength is gone, the step is slow,
 And joys grow wearisome aul wo,  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36&#0036;3/pct:11.192028,20.540881,15.197394,19.446541/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36&#0036;3/pct:11.192028,28.226415,14.584132,11.761006/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3666,7 +3819,9 @@ When age comes on
 #### From _The Catholic Telegraph (1831-1846)_
 
 #### 1832-03-24 &middot; Cincinnati
+
 [This text is not available under an open license.]
+
 ---
 
 ## TRANSLATION FROM THE SPANISH.
@@ -3674,12 +3829,15 @@ When age comes on
 #### From _The Catholic Telegraph (1831-1846)_
 
 #### 1832-03-24 &middot; Cincinnati
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14?page=3)
 
 #### 1832-04-07 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3750,6 +3908,7 @@ Long ere the lamp of death can blight,
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14?page=3)
 
 #### 1832-04-07 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3780,7 +3939,9 @@ When age comes on.
 #### From _United States Catholic Miscellany (1822-1835)_
 
 #### 1832-06-09 &middot; Charleston
+
 [This text is not available under an open license.]
+
 ---
 
 ## POETRY.
@@ -3788,7 +3949,9 @@ When age comes on.
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
 #### 1833-06-01 &middot; Boston
+
 [This text is not available under an open license.]
+
 ---
 
 ## POETRY.
@@ -3796,20 +3959,101 @@ When age comes on.
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
 #### 1833-06-01 &middot; Boston
+
 [This text is not available under an open license.]
+
 ---
 
-## POETRY.
+## [From _Literary Journal and Weekly Register of Science and the Arts 1833-1834_](https://iiif.archivelab.org/iiif/sim_literary-journal-and-weekly-register-of-science_1834-12-28_1_30?page=7)
 
-#### From _Trumpet and Universalist Magazine (1828-1851)_
+#### 1834-12-28
 
-#### 1833-06-01 &middot; Boston
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+O! let the soul its slumber break,  
+Arouse its senses, and awake,  
+To see how soon  
+Life with ita glories glides away,  
+And the stern footsteps of decay  
+Come stealing on.  
+  
+And while we eye the rolling tide,  
+  
+Down which our flying minutes glide  
+Always so fast ;  
+  
+Let us the present hour employ,  
+  
+And deem each future dream of joy  
+Already past. ,  
+  
+Met no vain hope deceive the mind—  
+  
+No happier, let us hope to find  
+To-morrow, than to-day.  
+  
+Our golden dreams of yore were bright,  
+  
+Like them the present shall delight—  
+Like them decay.  
+  
+Our lives like hasting streams must be,  
+° That into one engulphing sea  
+Are doomed to fall—  
+The sea of death, whose waves roll on,  
+O’er king and kingdom, crown and throne,  
+And swallow all.  
+  
+Alike the river’s lordly tide,.  
+  
+Alike the humble rivulets glide t  
+To that sad wave :  
+  
+Death levels poverty and pride,  
+  
+And rich and poor sleep, side by side,  
+Within the grave.  
+  
+Our birth is but a starting place ;  
+Life is the running of the race,  
+And death the goal:  
+There,all those glittering toys are brought ;  
+That path alone, of all unsought,  
+Is found of all.  
+Say, then, how po@r and littl worth  
+Ave all those glittering toys of earth,  
+That lure us here!  
+Dreams of a sleep that death must break,  
+Alas! before it bids us wake,  
+Ye disappear!  
+Long e’er the damps of death.can blight,  
+The cheek’s pure glow of red and white  
+Hath passed away ;  
+  
+| Youth smiled, and all was heavenly fair ;  
+Age came, and laid his finger there  
+And where are they ? ¥  
+  
+| Where is the strength that mocked decay,  
+| The step that rolled so light and gay,  
+The heart’s blithe tone ?  
+| The strength is gone, the step is slow,  
+And joy grows weariness and woe,  
+  
+When age comes on.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_literary-journal-and-weekly-register-of-science_1834-12-28_1_30&#0036;7/pct:9.223301,7.483381,52.248339,82.621083/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19?page=7)
 
 #### 1835-11-18 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3895,6 +4139,7 @@ When age comes on,
 ## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1836-02-06_5_210?page=7)
 
 #### 1836-02-06
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3928,9 +4173,32 @@ And swallow all, ~
 Alike the river’s lordly tide,  
 Alike the humble riv’lets glide  
 To that sad wave ;  
-Death level
+Death levels poverty and pride,  
+And rich and poor sleep side by side  
+Within the grave.  
+Our birth is but a starting place,  
+Life is the running of the race,  
+  
+And death the goal :  
+There all our steps at fase are brought,  
+That path alone, of all unsought,  
+  
+Is found of all.  
+Long ere the damps of d can blight  
+The cheek’s pure glow of ¥ed and w  
+  
+Hath away:  
+Youth smiled, and all was heav’nly fair ;  
+Age came, and laid his finger there,  
+And where are they ?  
+  
+Where are the strength that mocked decay,  
+The step that rose so‘light and gay,  
+heart&#x27;s blithe tone ?—  
+The strength is gone, the step is slow,  
+And joy grows weariness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal_1836-02-06_5_210&#0036;7/pct:43.173077,51.808511,22.500000,19.744681/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal_1836-02-06_5_210&#0036;7/pct:43.173077,51.808511,23.012821,35.659574/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3941,12 +4209,25 @@ Death level
 #### From _New-Hampshire statesman and state journal._
 
 #### 1836-02-13 &middot; Concord [N.H.]
+
 [This text is not available under an open license.]
+
+---
+
+## SELECTED POETRY.
+
+#### From _The Catholic Telegraph (1831-1846)_
+
+#### 1837-05-11 &middot; Cincinnati
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42?page=7)
 
 #### 1837-07-22 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4012,9 +4293,12 @@ Youth smiled, and all was heavenly fair ;
 Age caine, and laid his finger there,  
 And where are they ?  
   
-Wher
+Where are the strength that mocked decay,  
+  
+The step that rose so light and gay,  
+The heart&#x27;s blithe tone ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42&#0036;7/pct:42.700535,25.063721,19.893048,43.627867/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42&#0036;7/pct:42.700535,25.063721,20.534759,45.730671/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4023,6 +4307,7 @@ Wher
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42?page=7)
 
 #### 1837-07-22 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4042,17 +4327,62 @@ ness and dignity, and the conclusions arrived
 
 ---
 
+## [THE COURSE OF LIFE. [Translated from a Spanish poem by Jorge Maurique.]](http://trove.nla.gov.au/ndp/del/article/31720005)
+
+#### From _The Colonist (Sydney, NSW : 1835 - 1840)_
+
+#### 1837-11-02 &middot; Sydney, New South Wales
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+,: &quot;-&#x27;°&quot; Already  
+past. Let no yain.hope&#x27;deceive the mind-  
+No happier let-us hopeto find &#x27;&#x27;To-  
+morrow than to-day.:. Our &#x27;golden dreams  
+of yore were bright, Like them:the  
+present shall delightLike them decay.  
+-Our lives like hasting streams must be,  
+That into one engulfing sea Are doorn&#x27;d  
+to fall: The Sea of Death, whose waves  
+roll on, O&#x27;er king and kingdom, crown  
+and throne, And swallow all. Ahlike the  
+river&#x27;s lordly tide, Alike the humble  
+riv&#x27;lets glide To that sad wave; Death  
+levels poverty and pride, And rich and  
+poor sleep side by side Within the  
+grave. Our birth is but a starting  
+place, Life is the running of the race,  
+&#x27; And death the goal : There all our  
+steps at last are-brought, That path  
+alone,.of all unsought, - Is found of  
+all. Long ere the damps of death can  
+blight Thle cheek&#x27;s pure glow.of red  
+and&#x27;white Hath pass&#x27;d away: Youth  
+smiled, and all was heav&#x27;nly fair; Age  
+came, and laid his finger there,., &#x27;And  
+where are they? &#x27; Where are the strength  
+that mock&#x27;d decay, TI he step that rose  
+so light and gay, S The heart&#x27;s blithe  
+tone?- &#x27; The strerigth is gone, &#x27;the  
+step is slow,&#x27; And joy 
+</td></tr></table>
+
+---
+
 ## LIFE.
 
 #### From _Southern Rose (1835-1839)_
 
 #### 1839-02-16 &middot; Charleston
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34?page=3)
 
 #### 1839-08-24 &middot; Boston [Mass.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4141,6 +4471,7 @@ When age comes on.
 ## [From _American Masonic Register and Literary Companion (1839-1847)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47?page=7)
 
 #### 1840-07-25 &middot; Albany
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4189,16 +4520,21 @@ And swallow all.
 Alike the river’s lordly tide,  
 Alike the humble riv’let’s glide  
 To that sad wave ;  
-Death | vels poverty and pride,  
-And rich aad poor sleep gide by side  
-Within the grave.  
+Death | vels povert
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47&#0036;7/pct:39.294971,9.098428,26.101607,31.513648/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _American Masonic Register and Literary Companion (1839-1847)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47?page=7)
+
+#### 1840-07-25 &middot; Albany
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
   
-Our birth is but a starting place ;  
-Life is the running of the race,  
-And dewth the goal ;  
-There all those glittering toys are bought,  
-  
-That taped all unsought,  
   
 Say then how poor and little worth  
 Ate all those giepeting toys of earth, —  
@@ -4220,7 +4556,7 @@ The strength is gore, the step is slow,
 And ae grows weariness and wo,  
 hen age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47&#0036;7/pct:39.294971,9.098428,26.101607,57.692308/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47&#0036;7/pct:42.431312,49.028122,20.425091,17.762614/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4231,7 +4567,9 @@ hen age comes on.
 #### From _Boston investigator._
 
 #### 1840-10-28 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [Select Poetry](http://trove.nla.gov.au/ndp/del/article/31729713)
@@ -4239,12 +4577,10 @@ hen age comes on.
 #### From _Australasian Chronicle (Sydney, NSW : 1839 - 1843)_
 
 #### 1840-11-03 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-translation from a beautiful Spanish  
-&amp;nbsp;poem, poem, which, says the  
-Edinburgh Review, is surpassed by no-  
 &amp;nbsp; &amp;nbsp; &amp;nbsp; thing with which we  
 are acquainted in the Spanish language,  
 except the odes of Louis de Leon. Oh !  
@@ -4261,7 +4597,7 @@ tle mindNo happier let us holic to ftnd.
 Tomornty than todlay liur golden dreams  
 of yonr were briight, like them the  
 pres.ent shall delightLike them decay.  
-(nor lives like Ih
+(nor lives like Ihating
 </td></tr></table>
 
 ---
@@ -4271,6 +4607,7 @@ pres.ent shall delightLike them decay.
 #### From _Australasian Chronicle (Sydney, NSW : 1839 - 1843)_
 
 #### 1840-11-03 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 h  
@@ -4302,18 +4639,48 @@ joy grows wearisome and wo When ag
 
 ## Poetry
 
-#### From _Raleigh register, and North-Carolina gazette._
-
-#### 1841-04-09 &middot; Raleigh, N.C.
-[This text is not available under an open license.]
----
-
-## Poetry
-
 #### From _Ohio observer._
 
 #### 1841-04-15 &middot; Hudson [Ohio]
+
 [This text is not available under an open license.]
+
+---
+
+## [MISCELLANEOUS. [?]um Sp[?]cula Rerum.—HORACE. THE WORLD.](http://trove.nla.gov.au/ndp/del/article/71615596)
+
+#### From _Southern Australian (Adelaide, SA : 1838 - 1844)_
+
+#### 1841-10-29 &middot; Adelaide, South Australia
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+e  
+deceive: toe mindNu happier let us hope  
+to find To*morrow, tuanto«day~; Our  
+golden dreams of yore were bright--.  
+lok» them the present shall delight,  
+Like them decay. Our lives like  
+basftring dreams must be, That into one  
+engulphing-sea. Are doomed to faU The  
+sea of death-whose waves roll on O&#x27;er  
+king and kingdom, iapwjnjmd throne,. And  
+Wallow aU. Alike the river&#x27;s lordly  
+tideAlike the humble Yarras glide, To  
+that sad wave: Death levels poverty %md  
+pride, And rich and poor sleep side by  
+aida Within the grave. Our birth is  
+butstarting placeLite is Ate running Pf  
+the race. And death the goal : There all  
+our steps ^at last are broughtThat path  
+alone, of all unsought, \ Is found of  
+all. Long ere the damps of death can  
+blight, The cheek&#x27;s pure glow of red and  
+white Haft passed away : Youth smiled,  
+and all was pure and fair» Age came, and  
+laid his finger there ; And-where
+</td></tr></table>
+
 ---
 
 ## The Course of Time
@@ -4321,7 +4688,19 @@ joy grows wearisome and wo When ag
 #### From _The weekly herald._
 
 #### 1842-01-01 &middot; New York [N.Y.]
+
 [This text is not available under an open license.]
+
+---
+
+## The Course of Time
+
+#### From _The North American and daily advertiser._
+
+#### 1842-02-17 &middot; Philadelphia [Pa.]
+
+[This text is not available under an open license.]
+
 ---
 
 ## The Course of Time
@@ -4329,7 +4708,9 @@ joy grows wearisome and wo When ag
 #### From _The weekly herald._
 
 #### 1842-03-05 &middot; New York [N.Y.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Poetry
@@ -4337,7 +4718,29 @@ joy grows wearisome and wo When ag
 #### From _The Ohio observer._
 
 #### 1842-06-02 &middot; Hudson [Ohio]
+
 [This text is not available under an open license.]
+
+---
+
+## Poetry
+
+#### From _The Ohio observer._
+
+#### 1842-06-02 &middot; Hudson [Ohio]
+
+[This text is not available under an open license.]
+
+---
+
+## The Course of Time
+
+#### From _Scioto gazette._
+
+#### 1842-06-30 &middot; Chillicothe, Ohio
+
+[This text is not available under an open license.]
+
 ---
 
 ## Poetry
@@ -4345,7 +4748,9 @@ joy grows wearisome and wo When ag
 #### From _New-Hampshire statesman and state journal._
 
 #### 1842-08-12 &middot; Concord [N.H.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Moral Stanzas
@@ -4353,12 +4758,15 @@ joy grows wearisome and wo When ag
 #### From _The North American and daily advertiser._
 
 #### 1843-06-09 &middot; Philadelphia [Pa.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Cincinnati weekly herald and philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39?page=1)
 
 #### 1844-06-12 &middot; Cincinnati [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4426,6 +4834,7 @@ We disappear.
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1844-08-15/ed-1/seq-4)
 
 #### 1844-08-15 &middot; Newport, R.I.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4449,41 +4858,9 @@ Let us the present hour employ,
 And deem ench foture dvonm a joy  
 Alivady past,  
   
-Let no vain hope deceive the mind-
+Let no vain hope deceive the mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152767%2F1844081501%2F0766.jp2/pct:5.185613,14.247420,12.923107,9.606621/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1844-08-15/ed-1/seq-4)
-
-#### 1844-08-15 &middot; Newport, R.I.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ese glitering toys of earth,  
-That lure us here?  
-Dream of a slecp that death must broak,  
-Alas ! before it bids s wake  
-To disappear!  
-  
-Loang ere the lump of death ean blight  
-T&#x27;he chosk&#x27;s pure glow of ved and white  
-Has passed away;  
-Youth siided and all was heavenly fair;  
-Age cmme and Lad has fingere there,  
-And wihcre ave they?  
-  
-Where is the strength that sparns decay,  
-The step that volled so hight and gay,  
-  
-The heart&#x27;s blithe ton®? Y  
-The strength is gone, the step s slow,  
-And jov grows wearisome and wo,  
-Wihen age chines on,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152767%2F1844081501%2F0766.jp2/pct:6.302663,36.218335,11.440127,8.326632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4492,39 +4869,40 @@ Wihen age chines on,
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1847-08-18/ed-1/seq-1)
 
 #### 1847-08-18 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
 And while we eye the rolling tide,  
 Down which your flyiug minutes glide  
 Away so fast;  
-Let us the present hour employ.  
-And deem each dream of luturo joy  
+Let us the present hour employ,  
+Aud deem each dream of iuture joy  
 Already past.  
 Lrt no vain hope deceive the inmd —  
-No happier let us hope to find  
-Tomorrow than to day.  
-Our golden diearns of yore were bright  
+No hapiiier let us hope to tiud  
+To-morrow than to day.  
+Our golden &lt;hearns of yore were bright  
 Like them the present shall delight —  
 Like them decay.  
 Our lives like hasting streams must be.  
-That into one engulphiug sea  
-Arc doomed to fall ;  
-&#x27;I he Sea of Death, whoso waves roll on.  
-O&#x27;er king and kingdom, crown aud throne,  
+That into one engulphmg sea  
+Are doomed to fall ;  
+&#x27;I he Hea of Death, whose waves roll on.  
+O’er king and kingdom, crown aud thtone.  
 And swallow all.  
 Alike the river’s lordly tide,  
 Alike the humble rivulets glide  
 To that sad wave ;  
 Death levels poverty and pride.  
-And rich and poor sleep side by side  
+And rich ami jioor sleep side by side  
 Within the grave.  
 Our birth is hut a starting place,  
 Life is the running ol the race,  
 And death the goal ;  
-There all
+&#x27;1 here all o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver01%2Fdata%2Fsn84024719%2F00414183712%2F1847081801%2F0317.jp2/pct:35.266550,24.782854,11.076938,13.562700/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver02%2Fdata%2Fsn84024719%2F00414183712%2F1847081801%2F0317.jp2/pct:35.233768,24.785553,11.070399,13.592927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4535,12 +4913,25 @@ There all
 #### From _Pensacola gazette._
 
 #### 1847-08-21 &middot; [Pensacola, Fla.]
+
 [This text is not available under an open license.]
+
+---
+
+## The Course of Time
+
+#### From _Raleigh register, and North-Carolina gazette._
+
+#### 1847-08-28 &middot; Raleigh, N.C.
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _School Friend and Ohio School Journal 1846-1851_](https://iiif.archivelab.org/iiif/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1?page=11)
 
 #### 1847-10-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4631,9 +5022,152 @@ When age comes on.
 
 ---
 
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1848-05-13_21_34?page=3)
+
+#### 1848-05-13 &middot; Philadelphia
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+e humble riv&#x27;lets glide  
+To that sad wave ;  
+Death levels property and pride,  
+And rich and poor sleep side by side  
+Within the grave.  
+  
+Oar birth is but a starting place ;  
+Life is the running of the race,  
+And death the goal ;  
+There all our steps at last are brought ;  
+That path alone of all unsought,  
+Is found of all.  
+  
+Long ere the damps of death can blight,  
+  
+‘The cheek’s pure glow of red and white,  
+Hath away ;  
+  
+Youth smiled, and all was heavenly fair ;  
+  
+Age came and laid his finger there,—  
+And where are they ?  
+  
+Where is the strength that mocked decay,  
+The step that rose so light and gay,  
+The heart’s blithe tone ?  
+The strength is gone, the step is slow,  
+And joy grows weariness and woe,  
+hen age comes on.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1848-05-13_21_34&#0036;3/pct:16.016949,14.323374,20.564972,23.594025/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1849-01-31_20_5?page=0)
+
+#### 1849-01-31 &middot; Boston
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Than what is past.  
+  
+Our lives like hasting streams must be,  
+[hat into one engulfing sea  
+  
+Are  
+The Sea of Death, whose waves roll on,  
+O’er king and kingdom, crown and throne,  
+  
+And swallow all.  
+  
+doomed to fall:  
+  
+Alike the river’s lordly tide,  
+  
+\like the humble riv’lets glide  
+To that sad wave ;  
+  
+Death levels poverty and pride,  
+  
+And rich and poor sleep side by side  
+Within the grave.  
+  
+Our birth is but the starting place,  
+  
+Life is the running of the race,  
+  
+And death the goal :  
+There all our steps at laet are brought,  
+Phat path alone, of all unsought,  
+  
+Is found of all.  
+Where is the strength that mocked decay,  
+The step that rose so light-and gay,  
+  
+The heart’s blithe tone —  
+  
+[he stre  
+  
+A y grows weariness and woe  
+  
+gth is gone, the step is slow,  
+  
+When age comes on.  
+  
+Say, then, how poor and little worth  
+{re all those glittering toys of earth  
+That lure us here ;  
+Dreams of a sleep that death must break,  
+{las ! before it bids us wake,  
+Ye disappear.  
+  
+POLITY OF METHODISM.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1849-01-31_20_5&#0036;0/pct:8.548931,20.882353,9.687852,18.214286/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Lynchburg Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024649/1849-03-08/ed-1/seq-1)
+
+#### 1849-03-08 &middot; Lynchburg [Va.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+omes steal!:.g on.  
+i  
+Hwvjfieasure, like the passing wind,  
+Blows by, and leaves us nought behind  
+But grief at last;  
+How still our present happiness  
+Seems, to the way ward fancy, less  
+Than what is past.  
+Our lives like hasting streams must be,  
+That into one engulfing sea  
+Are doomed to fall;  
+The Sea of Death, whose waves roll on.  
+O’er king and kingdom, crown and throne,  
+And swallow all.  
+  
+Alike the river’s loiJl&gt; ti.lt-.  
+Alike the humble riv&#x27;lets glide . I  
+Tothe^ad wave;  
+Death levels pover
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dartmoor_ver03%2Fdata%2Fsn84024649%2F00393347922%2F1849030801%2F0248.jp2/pct:51.636767,15.342779,12.506935,9.506941/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The American Quarterly Register and Magazine (1848-1849)_](https://iiif.archivelab.org/iiif/sim_strykers-american-register-and-magazine_1849-06_2_2?page=173)
 
 #### 1849-06-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4652,9 +5186,43 @@ Alike the river’s lordly tide,
 Alike the humble riv’let’s glide  
 To that sad wave;  
   
-Teath levels 
+Teath levels poverty and pride,  
+  
+And rich and poor sleep side by side  
+Within the grave.  
+  
+Our birth is but the starting place,  
+Life is the running of the race,  
+  
+And death the goal:  
+There all our steps at last are brought,  
+That path alone, of ali unsought,  
+  
+Is found of all.  
+  
+  
+  
+Poetry.  
+  
+Where is the strength that mocked decay,  
+The step that rose so light and gay,  
+  
+The heart’s blithe tone?  
+The strength is gone, the step is slow,  
+And joy grows weariness and wo  
+  
+W hen age comes on.  
+  
+Say, then, how poor and little worth  
+Are all those glittering toys of earth  
+That lure us here;  
+Dreams of a sleep that death must break,  
+Alas! before it bids us wake,  
+Ye disappear.  
+  
+THE HEROINE MARTYR OF MONTEREY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_strykers-american-register-and-magazine_1849-06_2_2&#0036;173/pct:43.697479,53.389399,39.159664,19.240571/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_strykers-american-register-and-magazine_1849-06_2_2&#0036;173/pct:43.697479,53.389399,39.159664,31.422018/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4663,6 +5231,7 @@ Teath levels
 ## [From _Lower Sandusky freeman._](https://chroniclingamerica.loc.gov/lccn/sn90068957/1849-09-01/ed-1/seq-1)
 
 #### 1849-09-01 &middot; Lower Sandusky [i.e. Fremont, Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4722,12 +5291,15 @@ When age comes ou
 #### From _German reformed messenger._
 
 #### 1852-11-03 &middot; Chambersburg, Pa.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1856-06-04/ed-1/seq-1)
 
 #### 1856-06-04 &middot; Smyrna, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4771,6 +5343,7 @@ grave
 ## [From _The Winchester weekly appeal._](https://chroniclingamerica.loc.gov/lccn/sn97065090/1856-07-05/ed-1/seq-1)
 
 #### 1856-07-05 &middot; Winchester, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4814,9 +5387,14 @@ Our birth is but a starting place,
 Life is the running uf the rare,  
 And death, the goal.  
 There all our steps at last are brought,  
-That path alone
+That path alone of all unsought  
+Is found of all.  
+Then say how poor and little worth  
+Are all these &quot;littering toys of earth  
+That line us here.  
+Dreams of a sleep th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065090%2F00212470478%2F1856070501%2F0088.jp2/pct:63.392679,32.960969,10.882176,22.691790/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065090%2F00212470478%2F1856070501%2F0088.jp2/pct:63.392679,32.960969,10.882176,25.585464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4825,6 +5403,7 @@ That path alone
 ## [From _The Winchester weekly appeal._](https://chroniclingamerica.loc.gov/lccn/sn97065090/1856-07-26/ed-1/seq-4)
 
 #### 1856-07-26 &middot; Winchester, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Come stealing on.  
@@ -4861,9 +5440,27 @@ Within thegravo.
 Our birth Is but n starting place,  
 Life is Ihe running of the raco,  
 And death the goal.  
-Thero all o
+Thero all our f-tcps at last nreibrought,  
+Tlmt path alone of all unsought  
+Is tound of all,  
+Then say how poor arid little worth  
+Arc all these glittering toys of earth  
+That lure us hern.  
+Dreams of u sleep that death must break  
+Alasl before it bids us wake  
+Ye disappear.  
+I.ongcrc the damps of death can blight,  
+The cheek&#x27;s pure glow of red and white  
+If at li passed away.  
+Youth smiled, and all was heavenly fair,  
+Ago came and laid his finger there,  
+And where are tlicyi  
+Where is the strength that mocked decay,  
+The star that rose no light and gay  
+The heart&#x27;s hlythe tone?  
+Tho strengt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065090%2F00212470478%2F1856072601%2F0103.jp2/pct:26.388614,9.512261,10.832180,18.997575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065090%2F00212470478%2F1856072601%2F0103.jp2/pct:26.210714,9.512261,11.010081,29.277823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4874,6 +5471,7 @@ Thero all o
 #### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
 
 #### 1857-01-13 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4897,6 +5495,7 @@ must bo. That into one engulphiug se
 #### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
 
 #### 1857-01-13 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 e ; Death, levels poverty  
@@ -4919,35 +5518,15 @@ Age came and laid his fingers there, And
 where are they ? Whore is the strength  
 that scornM decay, The step that told so  
 light and gay The heart&#x27;s blithe tone?  
-The strength Is gone, the step is s!ow,  
-And joy
+The strength Is gone, the step is s!ow,
 </td></tr></table>
-
----
-
-## [From _Leisure Hour, an Illustrated Magazine for Home Reading 1852-1905_](https://iiif.archivelab.org/iiif/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1857-12-10_6_311?page=14)
-
-#### 1857-12-10
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Our lives—like hasting streams they be,  
-That into one engulphing sea  
-Press on to fall:  
-The sea of DEATH, whose waves roll on  
-O’er king and kingdom, crown and throne,  
-And swallow all.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1857-12-10_6_311&#0036;14/pct:49.916528,67.921527,27.045075,5.593849/600,/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1860-03-31/ed-1/seq-1)
 
 #### 1860-03-31 &middot; Bridgeton, N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5008,15 +5587,19 @@ When age comes on
 #### From _Daily evening bulletin._
 
 #### 1861-10-26 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1863-10-21/ed-1/seq-2)
 
 #### 1863-10-21 &middot; Urbana, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ready past.  
+&#x27;joy  
+Already past.  
 Let no vaiu hopes deceive the mind,  
 No happier, let us hope to fiud  
 To-morrow tiian to-day.  
@@ -5030,7 +5613,7 @@ The Sea of Death, whose waves roll on
 O&#x27;ur king a&#x27;r.d kingdom, crown and&#x27; throne  
 And swallow all. &#x27; : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775897%2F1863102101%2F0348.jp2/pct:43.945794,55.527803,10.260472,6.954121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775897%2F1863102101%2F0348.jp2/pct:43.945794,55.054555,10.260472,7.427370/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5039,6 +5622,7 @@ And swallow all. &#x27; :
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1863-10-21/ed-1/seq-2)
 
 #### 1863-10-21 &middot; Urbana, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5057,9 +5641,13 @@ Hath passed away ; .
 Youth smiled, aud all was heavenly fair; .  
 Age came and laid his fingers there,  
 - Aud where are they ?  
-Wher
+Where are the strength that mock&#x27;d decay ;  
+The step that rose so light aud gay, :  
+The heart&#x27;s blithe toue? &#x27; , .  
+The strength is gone,-the step is slow,  
+And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775897%2F1863102101%2F0348.jp2/pct:43.629004,67.779677,10.841253,8.715657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775897%2F1863102101%2F0348.jp2/pct:43.629004,67.779677,10.946850,10.648087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5068,12 +5656,10 @@ Wher
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16?page=3)
 
 #### 1863-12-19 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-THE FOOTSTEPS OF DECAY.  
-  
-TRANSLATED FROM AN ANCIENT SPANISH POEM.  
 Oh! let the soul its slambers break,  
 Arouse its senses and awake,  
   
@@ -5152,7 +5738,7 @@ And joy grows wearisome, and wo!
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16&#0036;3/pct:40.232701,30.103806,24.556032,60.776075/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16&#0036;3/pct:40.661359,30.103806,24.127373,60.776075/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5163,7 +5749,9 @@ When age comes on.
 #### From _New Hampshire statesman._
 
 #### 1864-01-15 &middot; Concord [N.H.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## The Footsteps of Decay
@@ -5171,12 +5759,15 @@ When age comes on.
 #### From _Daily evening bulletin._
 
 #### 1864-05-12 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1864-05-13/ed-1/seq-1)
 
 #### 1864-05-13 &middot; St. Albans, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5219,9 +5810,12 @@ Is found of all.
 See. then, bow poor and little worth  
 Are all those glittering toys of earth  
 That lure us hero?  
-DrcaniB of a sleep that death must b
+DrcaniB of a sleep that death must break.  
+Alas, beforo it Uils us wake,  
+VTc disappear.  
+Long cro the da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1864051301%2F0034.jp2/pct:2.829849,32.291947,10.724585,17.061675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1864051301%2F0034.jp2/pct:2.829849,32.291947,10.724585,18.529491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5230,6 +5824,7 @@ DrcaniB of a sleep that death must b
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1864-11-14/ed-1/seq-1)
 
 #### 1864-11-14 &middot; Gold Hill, N.T. [Nev.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Y  
@@ -5302,6 +5897,7 @@ When nge comes on t
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1864-11-30/ed-1/seq-1)
 
 #### 1864-11-30 &middot; Lewistown, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5374,6 +5970,7 @@ When age comes on
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1864-12-01/ed-1/seq-1)
 
 #### 1864-12-01 &middot; Cumberland, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5426,10 +6023,9 @@ lias puwd aviy, . ,
 V Gitli smiled and ail was heavenly fair—  
 Age came ami laid his linger thctu,  
 And where are they?  
-AVVte&lt;3 th\&#x27; strength that spurned &#x27;letay,  
-lsc
+AVVte&lt;3 th\&#x27; strength that spurned &#x27;letay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026207%2F1864120101%2F0195.jp2/pct:16.167449,17.498272,11.620354,23.791753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026207%2F1864120101%2F0195.jp2/pct:16.167449,17.498272,11.620354,23.529141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5438,6 +6034,7 @@ lsc
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1864-12-03/ed-1/seq-1)
 
 #### 1864-12-03 &middot; Sioux City, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5483,36 +6080,88 @@ a
 
 ---
 
+## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1864-12-03/ed-1/seq-1)
+
+#### 1864-12-03 &middot; Sioux City, Iowa
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+hope to find  
+  
+To-morrow than to-day  
+  
+Our gi lden dreams of yore were bright,  
+  
+Like them the present shall delight—  
+  
+Like them decay.  
+  
+Our lives like lasting streams must be,  
+  
+That into one enguliibing sea  
+  
+Are doomed to fall  
+  
+The sea of deuth, whose waves roll on,  
+  
+O&#x27;er king and kingdom, crown and thorne,  
+  
+boys are brought  
+  
+alone, of all unsought—  
+  
+Is found of all.  
+  
+Seo, then, how poor and little worth  
+  
+Are all those glittering boys of eartk  
+  
+Thst lure un here  
+  
+Dreams ef a sleep that death  
+  
+must break,  
+  
+bebire it bids us wake,  
+  
+\l e disappear.  
+  
+Long ere the lamp of death can blight,  
+  
+The cheeks  
+  
+1  
+  
+pure glow of red and white  
+  
+lias passed away.  
+  
+Youth smiled and all was heavenly fair—  
+  
+-A  
+*e came and laid his fingers there,  
+  
+And where are they  
+  
+Where is the strength that spurned dscay,  
+  
+The step that roved so light aud gay,  
+  
+The heart&#x27;s blithe ton
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529315%2F1864120301%2F0308.jp2/pct:51.597837,33.673616,11.332350,21.219285/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1864-12-10/ed-1/seq-4)
 
 #### 1864-12-10 &middot; Ashtabula, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-The Footsteps of Decay.  
-  
-The f&#x27;H &#x27; &#x27; tronilntlon frra n nc,n  
-piilh rwra, vblcb, aava-tha Edinburgh Re­  
-view, la attrprwaed by nothing with which We  
-m quolQted Id the Spanish lavage, j  
-Oh I lot the foul H alumhprt break j  
-Arouse lu wriM and awake, j  
-To tee how aoou j  
-r t. In lu crlorios elides wr.  
-Aod tbe item footsteps of decay  
-Ouice Healing on.  
-Anil wtifU w view tfie rolling; tide,  
-Down which our flowing mouieuts glido  
-Away so ftst, I  
-, v Jjti us the present hour employ,  
-&#x27; &#x27; And deem each futuro dream of Joy  
-Already past. ,  
-I-et no rain hope deceive the mind j  
-. -No hapnkir hit us hope to find &#x27; :  
-To-morrow than to-day.  
-Our golden dream of yore were bright,  
-Like tbem tbe present ahull delight  
-Like them decay.  
-Our llvoa like hasting streams must he,  
+g streams must he,  
 That into one engulphins sea  
 &#x27; Are .doomed to full  
 The eea of death whose waves roll on  
@@ -5547,10 +6196,9 @@ x cmP uuh roveu so ngni ana gay,
 The hearts blithe tone f  
 The strength is gone, the step is slow,  
 And joy grows wearisome and wo !  
-VV&#x27; hen age comes on.  
-
+VV&#x27; hen age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775162%2F1864121001%2F0381.jp2/pct:5.626381,4.176611,12.782594,29.899231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775162%2F1864121001%2F0381.jp2/pct:6.289308,16.706444,12.119667,17.369398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5559,6 +6207,7 @@ VV&#x27; hen age comes on.
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1864-12-15/ed-1/seq-1)
 
 #### 1864-12-15 &middot; Towanda, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5631,6 +6280,7 @@ When age comes on
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1864-12-17/ed-1/seq-1)
 
 #### 1864-12-17 &middot; Auburn, Placer County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5703,6 +6353,7 @@ When age comes on
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1864-12-17/ed-1/seq-1)
 
 #### 1864-12-17 &middot; Idaho City, Idaho Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5774,6 +6425,7 @@ When age comes on !
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1865-01-07/ed-1/seq-1)
 
 #### 1865-01-07 &middot; Sunbury, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5787,20 +6439,21 @@ Arouse its cn&#x27;s anil ukc,
 To eg how soon  
 Lift-, in it glories gkoi away,  
 Autl tlic slcrti footsU&#x27;p of decay &#x27;  
-Come tsteajiiijs on. -  
-Ami while wo yiew the rolling title,  
-&#x27; Down wiilcli our flowing minutes glido  
-Away o fast, &#x27;  
-Ltt ut tlio pit-sent hour employ,  
-Anil fit-cm each future d renin a joy  
-Alreudy past. .  
-Lot no vniu hope deceive the mind  
-Xo happier let ust hope to tincl  
-To-mnrrow thau to day.  
-Our gulden tlreaitis of yore were hright,  
-i&quot;.iku tin-in the prrsemt shall delight  
-LiUo them decay;  
-Our lives like hastening strctims must be,  
+Come tsteajiiijs on. 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1865010701%2F0046.jp2/pct:43.695965,18.887650,12.572046,5.213270/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1865-01-07/ed-1/seq-1)
+
+#### 1865-01-07 &middot; Sunbury, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ning strctims must be,  
 That into one enp;ulpliiiiir sea  
 Are (loomeil to full  
 The sea of death whose waves roll on  
@@ -5832,9 +6485,10 @@ Age came ami laid his Hnger there,
 And where are they f  
 YVIiert; is the strvupththat spurned decay,  
 Thfj atep that roved fijight uud gay,  
-The heart
+The heart&#x27;s blith-: iiae ( ,- ,  
+The titri-ngth is pope. Bte srfp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1865010701%2F0046.jp2/pct:43.479827,18.887650,12.788184,29.690549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1865010701%2F0046.jp2/pct:44.146254,30.986897,12.049712,18.204628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5845,24 +6499,18 @@ The heart
 #### From _Milwaukee daily sentinel._
 
 #### 1865-01-31 &middot; [Milwaukee, Wis.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014487/1865-02-04/ed-1/seq-4)
 
 #### 1865-02-04 &middot; Placerville, El Dorado County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ta floriae, glide. t*ar,  
-atoro footalepa of decay  
-Coaoo atealiug on.  
-And while we tlew the rolling tide.  
-•awn which oar ftawiof ■lauteo glide  
-Away ao hut.  
-Let ne the preaent hour employ.  
-And doom cook future dream a joy  
-Already put.  
-Jk| go rain hope deoeire the mind—  
+go rain hope deoeire the mind—  
 &amp; happier let oa hope to And  
 To ■arrow than to-day.  
 (oldoa droama of Toro won het*v\.  
@@ -5905,7 +6553,7 @@ The strength is gone, the step is slew,
 And joy grow a wearisome, and wo !  
 When age comes on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn82014487%2F00279557244%2F1865020401%2F0647.jp2/pct:9.950767,9.739726,10.651392,20.660959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn82014487%2F00279557244%2F1865020401%2F0647.jp2/pct:9.950767,13.558219,10.651392,16.842466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5914,6 +6562,7 @@ When age comes on !
 ## [From _The Potter journal._](https://chroniclingamerica.loc.gov/lccn/sn86081096/1865-02-22/ed-1/seq-1)
 
 #### 1865-02-22 &middot; Coudersport, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5981,6 +6630,7 @@ When age comes on
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1865-03-08/ed-1/seq-1)
 
 #### 1865-03-08 &middot; Bloomsburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6005,18 +6655,21 @@ Already past.
 Let no vain hope deceive the mind  
 No happier let us hope to find  
 In morrow than to-day.  
-Our golden dreams of yore were bright,  
-Like them the present shall delight,  
-Let them decay.  
-Our lives like battening streams must be,  
-That into one engolphing sea  
-Are doomed to (all  
-The ca ot death whose waves roll on  
-O&#x27;er kins and kingdom, crown and tsrooe,  
-And swallow all.  
-Alike the river&#x27;s lordly tide.  
-Alike itiH humble rivulets glide  
-To thai sad wave ;  
+Our golden dreams of yore were brig
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_mateer_ver01%2Fdata%2Fsn85025182%2F00212477898%2F1865030801%2F0146.jp2/pct:18.250419,24.231720,12.660704,14.011539/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1865-03-08/ed-1/seq-1)
+
+#### 1865-03-08 &middot; Bloomsburg, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ thai sad wave ;  
 Death levels p -verty and pride  
 And rich and poor rleep side by aide  
 Within the grave.  
@@ -6045,7 +6698,7 @@ The strength is gone the step is slow,
 And joy grows wearysome and wo !  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_mateer_ver01%2Fdata%2Fsn85025182%2F00212477898%2F1865030801%2F0146.jp2/pct:18.250419,24.231720,12.660704,39.196986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_mateer_ver01%2Fdata%2Fsn85025182%2F00212477898%2F1865030801%2F0146.jp2/pct:18.837339,45.331449,12.003913,18.097257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6054,6 +6707,7 @@ When age comes on
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1865-04-04/ed-1/seq-1)
 
 #### 1865-04-04 &middot; Montpelier, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 i.-Thi rnm It sent !&#x27; all U ltrii In  
@@ -6093,6 +6747,7 @@ Ou
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1865-07-29/ed-1/seq-1)
 
 #### 1865-07-29 &middot; Jasper, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6142,20 +6797,9 @@ la lound of all.
 See, then, bow poor snd little worth  
 Are all these glittering toys of earth  
 That lure ua here!  
-Dreams of a eleep that death must break,  
-Alaa! before it bide ua wake,  
-We disappear.  
-Long e&#x27;er tbe damp of eath can blight,  
-Ths cheek&#x27;a pure glow of red and white  
-Haa paaaed away,  
-  
-Youth amiled, and all was Heavenly fair-  
-  
-Age cams and laid lue finger there,  
-And where ere tbeyl  
-Where
+Dreams of a eleep that death must b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_abraham_ver02%2Fdata%2Fsn84023963%2F00200295997%2F1865072901%2F1234.jp2/pct:2.985391,30.841639,18.124074,44.933555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_abraham_ver02%2Fdata%2Fsn84023963%2F00200295997%2F1865072901%2F1234.jp2/pct:2.985391,30.841639,17.700614,37.347730/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6164,6 +6808,7 @@ Where
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-09-30/ed-1/seq-4)
 
 #### 1865-09-30 &middot; Portland, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6197,31 +6842,9 @@ The sea of death where wares roll on
 Oj’r king and kingdom, mown and throne,  
 Aud swallow all.  
 Alike the river’s lardir &#x27;  
-Alike tho ham ole ri
+Alike tho ham ole r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525206%2F1865093001%2F0563.jp2/pct:4.095112,4.688682,11.117074,11.863499/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-09-30/ed-1/seq-4)
-
-#### 1865-09-30 &middot; Portland, Me.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ho path alone of all unsought,  
-Xs found of all.  
-Pec, then, bow poor and little worth  
-Arc »J the glittering toys of earth  
-That lure u» beru!  
-Drums of a sleep that death most break,  
-Alas! before it bfds us wake,  
-We disappear.  
-Long ore the damp of earth can blight,  
-The cheek’s pure glow of rod and wnit
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525206%2F1865093001%2F0563.jp2/pct:4.755614,19.321906,8.623679,3.872574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6232,12 +6855,15 @@ The cheek’s pure glow of rod and wnit
 #### From _Bangor daily Whig & courier._
 
 #### 1865-10-12 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1866-01-26/ed-1/seq-1)
 
 #### 1866-01-26 &middot; Bel Air, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6312,7 +6938,9 @@ And joy grows wearisome and wo !
 #### From _Daily national intelligencer._
 
 #### 1866-04-14 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## The Footsteps of Decay
@@ -6320,12 +6948,15 @@ And joy grows wearisome and wo !
 #### From _Daily national intelligencer._
 
 #### 1866-04-14 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1866-04-18/ed-1/seq-1)
 
 #### 1866-04-18 &middot; East Saginaw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6352,49 +6983,9 @@ No happier, let us hope to find
 Our goMun dream of yore were bright.  
 Like ;bem the present shall Wglit  
 Like them docs j.  
-Our Uvea like
+Our Uvea lik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn97063063%2F00296024314%2F1866041801%2F0479.jp2/pct:40.084277,16.520088,10.850672,10.103938/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1866-04-18/ed-1/seq-1)
-
-#### 1866-04-18 &middot; East Saginaw, Mich.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-hat aad wave:  
-Death level jverty and pride,  
-And rich and poor sleep iida by side. --Within  
-the grave.  
-Our birth Is but a sturting place:  
-Life U tho running of the roe,&quot;  
--; . . , Aad death the giwili ,  
-There all our glittering toy are brought  
-That path alone, of all unsought, -  
-1 found of all . -  
-Fee, then, how Mr and Tittle worth  
-Are all thuao glittering toysof earth  
-That lure us bere !  
-Dreuuis of a sleep tht death must bteik.  
-A la. I before it bids u wake  
-. . W dissppear.  
-Ixng ere the damp of death enn blight,  
-Tha theek&#x27; pure glow of red aud w hite  
-llss patsud away.  
-Youth (Uiilu l, and all wa heaveu&#x27;y fair­  
-Age came and laid hi hnger there,  
-And where are tbejl 1  
-Where I the strength that spurned dueay,  
-The step tbit roved so libgt aud gay,  
-The benrl&#x27; blithe loiul  
-The strength is gone, the step l slow, &#x27;  
-And Juv grows weariMime, aud wol  
-When age oouiaa a
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn97063063%2F00296024314%2F1866041801%2F0479.jp2/pct:40.927048,29.592245,9.981564,11.722966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6403,6 +6994,7 @@ When age oouiaa a
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-05-01_18_9?page=10)
 
 #### 1866-05-01 &middot; St. Louis, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6490,6 +7082,7 @@ When age comes on!
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1866-05-19/ed-1/seq-4)
 
 #### 1866-05-19 &middot; Sioux City, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6598,12 +7191,15 @@ When age comes on 1
 #### From _The daily miners' register._
 
 #### 1866-06-13 &middot; Central City, Colo.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Delaware gazette._](https://chroniclingamerica.loc.gov/lccn/sn83035595/1866-06-15/ed-1/seq-1)
 
 #### 1866-06-15 &middot; Delaware, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6675,12 +7271,15 @@ When age comes on
 #### From _The Congregationalist._
 
 #### 1866-06-22 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Weekly Calaveras chronicle._](https://chroniclingamerica.loc.gov/lccn/sn93052977/1866-06-23/ed-1/seq-4)
 
 #### 1866-06-23 &middot; Mokelumne Hill, Calaveras County, Cal.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6751,6 +7350,7 @@ When age comes on
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1866-07-29/ed-1/seq-4)
 
 #### 1866-07-29 &middot; Columbia, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6824,6 +7424,7 @@ When age comes on
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1866-09-18/ed-1/seq-1)
 
 #### 1866-09-18 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6896,6 +7497,7 @@ When age comes 011
 ## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1866-12-26_37_52?page=3)
 
 #### 1866-12-26 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6983,12 +7585,15 @@ When age comes on
 #### From _Bangor daily Whig & courier._
 
 #### 1866-12-29 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1867-01-24/ed-1/seq-1)
 
 #### 1867-01-24 &middot; M'arthur, Vinton County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7021,16 +7626,9 @@ Alike the humble rivulet&#x27;s glide :
 ;ii To tlkat lad nave; &#x27;  
 Death lereis poverty and pr&quot;de &quot;  
 lbs ri,ok and poor ela p side by side -  
-!&quot;VUhln the grave. .: &#x27; &#x27;&#x27; :&#x27;1 &#x27;  
-v&#x27;r.l.&#x27;..i,. v v , &quot; &quot;  
-On&#x27;f bljth is tut a starting place;  
-life I the rijnning of the raoe,  
-&#x27;. &#x27;&quot;&#x27; And Death the got 1: &quot;&#x27;, , &#x27; t  
-&quot;Aire at&#x27;ontr glittering toys are bro tight  
-&#x27;iAai patn alone,, or all nnBought. .-, .  
-r ; &#x27; is found of all. , . . .....
+!&quot;VUhln the grave. .: &#x27; &#x27;&#x27; :&#x27;1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F0028077490A%2F1867012401%2F0012.jp2/pct:6.653185,48.274422,14.580384,24.659059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F0028077490A%2F1867012401%2F0012.jp2/pct:6.653185,48.274422,14.580384,20.094628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7041,28 +7639,107 @@ r ; &#x27; is found of all. , . . .....
 #### From _The Hawaiian gazette._
 
 #### 1867-03-20 &middot; Honolulu [Oahu, Hawaii]
+
 [This text is not available under an open license.]
+
 ---
 
-## THE FOOTSTEPS OF DECAY
-
-#### From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1867-05_27_17?page=2)
 
 #### 1867-05-01 &middot; Cincinnati
-[This text is not available under an open license.]
----
 
-## THE FOOTSTEPS OF DECAY
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-#### From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_
+  
+The following is a translation from an ancient Spanish  
+poem, which, says the Edinburgh Review, is surpassed by  
+nothing with which we are acquainted in the Spanish lan-  
+guage except the ‘Ode of Louis De Leon.”  
+  
+  
+  
+O! xert the soul its slumbers break—  
+Arouse its senses, and awake  
+To see how soon  
+Life, in its glories, glides away,  
+And the stern footsteps of decay  
+Come stealing on.  
+  
+And while we view the rolling tide,  
+  
+Down which our flowing minutes glide  
+Away so fast,  
+  
+Let us the present hour employ,  
+  
+And deem each future dream a joy  
+Already past.  
+  
+Let no vain hope deceive the mind,  
+  
+No happier let us hope to find  
+To-morrow than to-day;  
+  
+Our golden dreams of yore were bright,  
+  
+Like them the present shall delight—  
+Like them decay.  
+  
+Our lives like hastening streams must be,  
+That into one ingulfing sea:  
+Are doomed to fall—  
+The sea of death, whose waves roll on  
+O’er king and kingdom, crown and throne,  
+And swallow all.  
+  
+Alike the river’s lordly tide,  
+  
+Alike the humble rivulet’s glide,  
+To that sad wave!  
+  
+Death levels, poverty and pride,  
+  
+And rich and poor sleep side by side,  
+Within the grave.  
+  
+Our birth is but the starting place;  
+Life is the running of the race,  
+And death the goal;  
+There all our glittering toys are bought—  
+That path alone, of all unsought,  
+Is found of all.  
+  
+See then, how poor and little worth  
+Are all those glittering toys of earth  
+That lure us here;  
+Dreams of a sleep that death must break,  
+Alas! before it bids us wake,  
+We disappear.  
+  
+Long ere the damp of death can blight,  
+The cheek’s pure glow of red and white  
+Has passed away;  
+Youth smiled and all was heavenly fair—  
+Age came, and laid his finger there,  
+And where are they?  
+  
+Where is the strength that spurned decay,  
+The step that roved so light and gay,  
+The heart&#x27;s blithe tone?  
+The strength is gone, the step is slow,  
+And joy grows wearisome, and woe!  
+When age comes on!
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1867-05_27_17&#0036;2/pct:50.726744,17.929537,33.502907,70.125483/,600/0/default.jpg"/>
+</td>
+</tr></table>
 
-#### 1867-05-01 &middot; Cincinnati
-[This text is not available under an open license.]
 ---
 
 ## [From _The Union and journal._](https://chroniclingamerica.loc.gov/lccn/sn83009571/1867-09-20/ed-1/seq-1)
 
 #### 1867-09-20 &middot; Biddeford, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 e,  
@@ -7104,9 +7781,10 @@ When age comes on !
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1867-09-25/ed-1/seq-1)
 
 #### 1867-09-25 &middot; Warren, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iea, says in aainonn  
+eem. wkiea, says in aainonn  
 risw.is surpassed by aotbinc with whieh  
 are aoasaimed ia tha fipaaish laniaafa.  
 I  
@@ -7172,12 +7850,9 @@ Age nam ana laid bis anger were.
 And where an taey I  
 Whan is th strength that spurn decay.  
 The atep thai roved so light and gay,  
-Th heart&#x27;s blithe tone?  
-The strength is gone, tab step is slow.  
-And joys grow wearisome aad wool  
-, n hen age comes on.
+Th heart&#x27;s bl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F0023728687A%2F1867092501%2F0481.jp2/pct:34.724244,11.300448,10.140708,20.217809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F0023728687A%2F1867092501%2F0481.jp2/pct:34.724244,11.300448,10.140708,19.218450/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7186,6 +7861,7 @@ And joys grow wearisome aad wool
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1867-10-05/ed-1/seq-1)
 
 #### 1867-10-05 &middot; Ashtabula, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7264,6 +7940,7 @@ When age comes on. . .
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1868-11-03/ed-1/seq-1)
 
 #### 1868-11-03 &middot; Charles Town, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7336,6 +8013,7 @@ When age comes on
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1868-11-05/ed-1/seq-1)
 
 #### 1868-11-05 &middot; Jackson C.H., Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7408,9 +8086,47 @@ When age comes on
 
 ---
 
+## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1868-11-06/ed-1/seq-3)
+
+#### 1868-11-06 &middot; Davenport, Iowa
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ii:nb:«- nvulet&#x27;a glide,  
+To tb.t »ai wato  
+Death l-veia potertv anil prida,  
+And rieli and poor •&#x27;c&#x27;-p aide by llwa.  
+  
+Within tba graTe.  
+  
+Our birth ia but a atartiag place[  
+Lifeia the tuoniog of the race  
+And death the goal  
+There all our glittering toya are bfeogal—  
+Tbat path alone, jt a I uaaougKt,  
+1. found efall.  
+  
+See, then, how poor and little worth  
+Am all thoea glittering toya ol earth  
+That lore ua b-re  
+Draaaa ef a Bleep thai death mint biaak  
+Alaal before it bida aa wake,  
+  
+We diaappear.  
+  
+Loag ere tbe damp of death can blight,  
+The ch
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528633%2F1868110601%2F0473.jp2/pct:35.972125,18.555752,9.128920,7.456916/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1868-11-08/ed-1/seq-3)
 
 #### 1868-11-08 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7480,7 +8196,19 @@ When age comes on
 #### From _Daily national intelligencer._
 
 #### 1868-11-10 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
+---
+
+## The Footsteps of Decay
+
+#### From _Daily national intelligencer._
+
+#### 1868-11-10 &middot; Washington City [D.C.]
+
+[This text is not available under an open license.]
+
 ---
 
 ## The Footsteps of Decay
@@ -7488,12 +8216,15 @@ When age comes on
 #### From _The Charleston courier, tri-weekly._
 
 #### 1868-11-12 &middot; Charleston, S.C.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-11-21/ed-1/seq-1)
 
 #### 1868-11-21 &middot; Shepherdstown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7567,6 +8298,7 @@ W hi n age comes on !
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1868-11-25/ed-1/seq-1)
 
 #### 1868-11-25 &middot; Warren, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7641,39 +8373,15 @@ When age comes on !
 #### From _Prairie Farmer (1843-1877)_
 
 #### 1868-11-28 &middot; Chicago
+
 [This text is not available under an open license.]
----
-
-## [From _The weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042148/1868-12-02/ed-1/seq-2)
-
-#### 1868-12-02 &middot; Raleigh, N.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Life, In it fortes, (tilde away,  
-: And the stern footsteps l decay  
-mKw&quot;.! Coino stealing on. .... -. .  
-. And while wo view the rolling tide,  
-Dowu which our flowing wluules glide  
--Away aofast, &quot; f- . !  
-. Yti:? Let 08 the present hour employ,  
-And deem each future dream a joy .  
-,.t Already past-  
-1 1 in jjLlTWTalit hope deceive the mlnd-&quot;  
-Nor happier let us hope to tlnd  
-To-morrow than todny  
-M .Our golJen dreams ol yore were bright,  
-.&#x27;.Like them the present shall d
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042148%2F00296022676%2F1868120201%2F0627.jp2/pct:4.935065,9.704807,12.671614,6.452456/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
 ## [From _The weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042148/1868-12-02/ed-1/seq-2)
 
 #### 1868-12-02 &middot; Raleigh, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7709,6 +8417,7 @@ grows wearisome, and woe! &#x27;&quot;&#x27;.
 ## [From _The Sweetwater forerunner._](https://chroniclingamerica.loc.gov/lccn/sn97065409/1868-12-17/ed-1/seq-4)
 
 #### 1868-12-17 &middot; Sweetwater, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7730,7 +8439,7 @@ Let us the present hour employ,
 And deem each luture dream a joy  
 Already pat.  
 Let uo vain l.o,.c deceive the mind,  
-No 
+No happi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065409%2F00212470417%2F1868121701%2F0123.jp2/pct:9.404264,9.662599,13.687986,10.610194/!600,600/0/default.jpg"/>
 </td>
@@ -7741,13 +8450,10 @@ No
 ## [From _The Sweetwater forerunner._](https://chroniclingamerica.loc.gov/lccn/sn97065409/1868-12-17/ed-1/seq-4)
 
 #### 1868-12-17 &middot; Sweetwater, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-de by side,  
-Within the lii-iive  
-Our birth is but a starting place ;  
-Life is the running oi&#x27;the race,  
-And death the c.oal ;  
+d death the c.oal ;  
 There all our glittcrim; toys are brought,  
 That p ith alone, of all uusought,  
 Is found of all.  
@@ -7770,7 +8476,7 @@ The strength is gone, the step i. slow,
 And joy grows wearisome, and woe!  
 Whea age conies on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065409%2F00212470417%2F1868121701%2F0123.jp2/pct:11.038055,27.609476,11.775254,13.768844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065409%2F00212470417%2F1868121701%2F0123.jp2/pct:11.038055,29.849246,11.775254,11.529074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7779,6 +8485,7 @@ Whea age conies on
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1868-12-26/ed-1/seq-4)
 
 #### 1868-12-26 &middot; Middletown, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7854,6 +8561,7 @@ When age comes on
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1869-01-28/ed-1/seq-1)
 
 #### 1869-01-28 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 xcept the “Ode of Lonia de Leon.”  
@@ -7886,9 +8594,10 @@ Oar
 ## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1869-02-05/ed-1/seq-1)
 
 #### 1869-02-05 &middot; Walla Walla, Wash. Terr.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+o the carrier. Thoee who hiive paid in ndvenoe  
 will have their papere continual until the time ex­  
 llln&#x27;h&#x27;. i  
 ..—_—__—.——  
@@ -7935,9 +8644,10 @@ Are all those glittering toyt of eerth
 Dreams of a eleep thnt deuth molt break;  
 Aliis ! before it bids no woke,  
 We diuppear.  
-Long&#x27;ere the dump of denth con bli
+Long&#x27;ere the dump of denth con blight  
+T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn86072040%2Fno_reel%2F1869020501%2F0669.jp2/pct:3.334884,38.843886,13.851404,22.879815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn86072040%2Fno_reel%2F1869020501%2F0669.jp2/pct:3.334884,38.425084,13.851404,23.667824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7948,12 +8658,15 @@ Long&#x27;ere the dump of denth con bli
 #### From _Daily evening bulletin._
 
 #### 1869-02-20 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1869-02-27/ed-1/seq-1)
 
 #### 1869-02-27 &middot; Bellevue, Bossier Parish, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ticed of Medicine&#x27;  
@@ -8022,6 +8735,7 @@ When age comes on
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-04-03_22_14?page=9)
 
 #### 1869-04-03 &middot; St. Louis, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8105,6 +8819,7 @@ When age comes on !
 ## [From _Proof Sheet 1867-1880_](https://iiif.archivelab.org/iiif/sim_proof-sheet_1869-09_3_14?page=4)
 
 #### 1869-09-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8188,6 +8903,7 @@ When age comes on.
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1869-10-15/ed-1/seq-1)
 
 #### 1869-10-15 &middot; Abbeville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8217,6 +8933,7 @@ To morrow than t?? day.
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1869-10-30/ed-1/seq-1)
 
 #### 1869-10-30 &middot; Ridgway, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8238,17 +8955,21 @@ Already past.
 Let no vain hope deeeive the mind.  
 No happier let us hope to find  
 To-morrow than to-day ;  
-Our golden dreams of yore were bright,  
-Like them the present shall delight­  
-Let them decay,  
-Our lives like hastening streams mast be  
-That into one engulfing sea  
-Are doomed to fell  
-The sea of death whose waves roll on  
-O&#x27;er kingdom, crown and throne,  
-And swollow all.  
-like the river&#x27;s lordly tide.  
-Alike the humble rivlet&#x27;s glide,  
+Our golden dreams of yore were br
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776075%2F1869103001%2F0155.jp2/pct:34.510759,12.780814,13.134389,10.716454/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1869-10-30/ed-1/seq-1)
+
+#### 1869-10-30 &middot; Ridgway, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ humble rivlet&#x27;s glide,  
 To that sad wave !  
 Doath levels poverty and pride.  
 And rich and poor sleep side by side,  
@@ -8278,7 +8999,7 @@ Then strength is gone, the step is slow,
 And joy weariieme. and woe !  
 When age come on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776075%2F1869103001%2F0155.jp2/pct:34.510759,12.780814,13.520097,33.469945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776075%2F1869103001%2F0155.jp2/pct:35.444580,29.204614,12.586277,17.046145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8287,6 +9008,7 @@ When age come on
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1869-11-24/ed-1/seq-1)
 
 #### 1869-11-24 &middot; Warren, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8360,6 +9082,7 @@ Vi hen age comes on.
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1869-12-09/ed-1/seq-1)
 
 #### 1869-12-09 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  its slumbors break—  
@@ -8380,7 +9103,7 @@ To-morrow than to-day,
 0 Our golden dream# of yore were bright,  
 ,1 Like them (be present -hail dvlight-  
 Like them decay.  
-| Our live
+| Our live# lik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623707%2F1869120901%2F0232.jp2/pct:15.237890,16.032488,10.875981,8.383400/!600,600/0/default.jpg"/>
 </td>
@@ -8391,6 +9114,7 @@ Like them decay.
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1869-12-09/ed-1/seq-1)
 
 #### 1869-12-09 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  alone, of all unsought,  
@@ -8421,6 +9145,7 @@ I The strength is gone, the step is slow
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1870-01-28/ed-1/seq-1)
 
 #### 1870-01-28 &middot; Deer Lodge, Mont.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8490,6 +9215,7 @@ When age comes on.
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-02-05/ed-1/seq-1)
 
 #### 1870-02-05 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 DS,  
@@ -8540,7 +9266,7 @@ No happier let us hope to tind
 Our goiden dreams of yore were bright,  
 Like them the preterit shall delight—  
 sfLike them decay.  
-Our l
+Our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870020501%2F0028.jp2/pct:6.822519,5.701357,70.292621,91.753394/!600,600/0/default.jpg"/>
 </td>
@@ -8551,6 +9277,7 @@ Our l
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-02-05/ed-1/seq-1)
 
 #### 1870-02-05 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 umble rivlets glide  
@@ -8592,6 +9319,7 @@ When age comes on
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1870-06-05/ed-1/seq-4)
 
 #### 1870-06-05 &middot; Columbia, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8615,7 +9343,7 @@ To-morrow than to-day.
 Our golden dreamt) of yore wcro bright,  
 Like thom the present shall delight­  
 . Lot them decayr  
-Our lives liko 
+Our lives liko haste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551530%2F1870060501%2F0236.jp2/pct:2.397043,14.401715,13.937504,11.751289/!600,600/0/default.jpg"/>
 </td>
@@ -8626,6 +9354,7 @@ Our lives liko
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1870-06-05/ed-1/seq-4)
 
 #### 1870-06-05 &middot; Columbia, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ivulets glido  
@@ -8667,6 +9396,7 @@ When ago comes on
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1870-06-15/ed-1/seq-1)
 
 #### 1870-06-15 &middot; Clearfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 glide,  
@@ -8708,6 +9438,7 @@ Yt lien age comes on
 ## [From _The Greenville enterprise._](https://chroniclingamerica.loc.gov/lccn/sn83025799/1870-09-21/ed-1/seq-1)
 
 #### 1870-09-21 &middot; Greenville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8779,6 +9510,7 @@ When age comes on
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1870-11-24/ed-1/seq-1)
 
 #### 1870-11-24 &middot; Jackson C.H., Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8800,7 +9532,7 @@ Let us the present hour employ,
 And deem each future d renin u Joy  
 Already jiast.  
 Let no vnln hopes deceive Ihe mind,  
-No happier li t u hope 
+No happier li t u hope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1870112401%2F0866.jp2/pct:43.348051,14.105489,12.727971,7.998926/!600,600/0/default.jpg"/>
 </td>
@@ -8811,6 +9543,7 @@ No happier li t u hope
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1870-11-24/ed-1/seq-1)
 
 #### 1870-11-24 &middot; Jackson C.H., Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 rivulets, glldo  
@@ -8830,9 +9563,18 @@ Tliul luu- ui. Iii-te;
 Dreams of l p thai death must menk t  
 Atusl before it bids us wnue,  
 Wo ilisuppeur.  
-Ixnig ere the (lumps of dentil can bl
+Ixnig ere the (lumps of dentil can blight,  
+Tnc ehi-ek&#x27;s uie glow ol red and wiiito  
+Have passed awuy.  
+Youth sinih d, anci all was heavenly fair  
+Age came mid laid his finger there  
+And where arc they I  
+Where Is the strength tint spurned decay,  
+Tnc step that moved no light and gay,  
+The il. art&#x27;s ulitiu toon?  
+Thestrenglli is gone, llio step is slow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1870112401%2F0866.jp2/pct:44.096756,26.882298,11.345748,7.730506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026724%2F1870112401%2F0866.jp2/pct:44.096756,26.882298,11.806489,11.287076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8841,6 +9583,7 @@ Ixnig ere the (lumps of dentil can bl
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1870-12-31/ed-1/seq-1)
 
 #### 1870-12-31 &middot; Charlestown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8914,6 +9657,7 @@ When age comes on
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-01-07/ed-1/seq-1)
 
 #### 1871-01-07 &middot; Charlestown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8986,6 +9730,7 @@ When ace comas on !
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-01-31/ed-1/seq-1)
 
 #### 1871-01-31 &middot; Charles Town, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9012,9 +9757,9 @@ T?&gt; morrow than to-day ;
 Our gulden dreams of yore mere bright,  
 Liku them the present shall delight?  
 Like them decay.  
-Our livee like 
+Our livee like
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1871013101%2F0023.jp2/pct:29.125133,15.671806,13.737095,11.090308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1871013101%2F0023.jp2/pct:29.125133,15.671806,13.737095,10.961821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9023,6 +9768,7 @@ Our livee like
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-01-31/ed-1/seq-1)
 
 #### 1871-01-31 &middot; Charles Town, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 t&#x27;s glide.  
@@ -9064,6 +9810,7 @@ When age routes on
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1871-11-04/ed-1/seq-2)
 
 #### 1871-11-04 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 eams matt be  
@@ -9113,6 +9860,7 @@ When age routes on
 #### From _The Bacchus Marsh Express (Vic. : 1866 - 1918)_
 
 #### 1871-11-11 &middot; Bacchus Marsh, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9133,7 +9881,23 @@ sea of Death whose waves roll on, O&#x27;er
 king and kingdom, crown and throne, And  
 swallow all. Alike the river&#x27;s lordly  
 tide, Alike the humble riv&#x27;lets glide To  
-that sad wave ; Death levels pove
+that sad wave ; Death levels poverty and  
+pride, And rich and poor sleep side by  
+side Within the grave. Our birth is but  
+a starting place, Life is the running of  
+thl:e race, And death the goal: There  
+all our steps at last are brought, That  
+path alone, of all unsought, Is found of  
+all. Long.ere the damps of death can  
+blight The cheek&#x27;s pure glow of red and  
+white Hath passed away: Youth smiled,  
+and all was heav&#x27;nly fair; Age came, and  
+laid his finger there, And where are  
+they P Where are the strength that  
+mooked decay, The step that rose so  
+light and gay, The heart&#x27;s blithe tone  
+PThe strength is gone the stop is slow,  
+And joy grows weariness
 </td></tr></table>
 
 ---
@@ -9141,6 +9905,7 @@ that sad wave ; Death levels pove
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-11-21/ed-1/seq-1)
 
 #### 1871-11-21 &middot; Charles Town, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9210,6 +9975,7 @@ When?lyiu ?&quot;&quot;.roes on
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1871-11-30/ed-1/seq-1)
 
 #### 1871-11-30 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9278,6 +10044,7 @@ When age comes on!
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-12-09/ed-1/seq-1)
 
 #### 1871-12-09 &middot; Charlestown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9348,6 +10115,7 @@ When age comes on 1
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1872-03-14/ed-1/seq-1)
 
 #### 1872-03-14 &middot; White Cloud, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9419,6 +10187,7 @@ And jor grows wearisome and wo,
 ## [From _Delaware Republican._](https://chroniclingamerica.loc.gov/lccn/sn87062253/1873-02-24/ed-1/seq-1)
 
 #### 1873-02-24 &middot; Wilmington, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9455,7 +10224,7 @@ Within the grave.
 Our birth is but the starting place :  
 Life is the running of the race,  
 And death the goal ;  
-glitt
+glittering
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_descendo_ver01%2Fdata%2Fsn87062253%2F00271765186%2F1873022401%2F0073.jp2/pct:73.137417,17.391304,9.975166,14.928668/!600,600/0/default.jpg"/>
 </td>
@@ -9466,6 +10235,7 @@ glitt
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1874-02-10/ed-1/seq-1)
 
 #### 1874-02-10 &middot; Woodsfield, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9486,6 +10256,7 @@ Come stealing on.
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1874-08-27/ed-1/seq-4)
 
 #### 1874-08-27 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9565,12 +10336,15 @@ When age comes on.
 #### From _Reynolds's  Newspaper_
 
 #### 1874-11-08 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1874-11-12/ed-1/seq-2)
 
 #### 1874-11-12 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9644,6 +10418,7 @@ When age comes on I
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1874-11-13/ed-1/seq-6)
 
 #### 1874-11-13 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9687,7 +10462,7 @@ la found of all.
 Be, then, how poor and little worth  
 Are all thoae glittering toya of earth  
 That lure us here  
-Oreaiua of a sleep that death niu
+Oreaiua of a sleep that death n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1874111301%2F0677.jp2/pct:8.144391,9.097458,13.036993,17.505403/!600,600/0/default.jpg"/>
 </td>
@@ -9698,10 +10473,10 @@ Oreaiua of a sleep that death niu
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1874-11-19/ed-1/seq-2)
 
 #### 1874-11-19 &middot; Plymouth, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-fU following is a tr L.slation from an ancient  
+g is a tr L.slation from an ancient  
 psssam pwm, which, says the Etinburgh Reviev,  
 M acrpuMd by uothmg with which we are ac­  
 fmrnied in the Spanioa language, except the &quot; Ode  
@@ -9770,6 +10545,7 @@ When age comes on !
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1874-12-04/ed-1/seq-6)
 
 #### 1874-12-04 &middot; Albany, Or.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9844,12 +10620,15 @@ When age somes on I
 #### From _Inter ocean._
 
 #### 1874-12-20 &middot; Chicago, Ill.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1875-01-30/ed-1/seq-4)
 
 #### 1875-01-30 &middot; Clarksville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9868,17 +10647,21 @@ And the stern footsteps of decay
 And while we view the rolling tide,  
 Iiuwd v hieh our flowing minutes glide  
 f v- .&#x27;Away so fast, i j - &#x27;  
-Let n tlie present honrotaptoy, f ; 1 &#x27;  
-And detn wira future aream a joy. Ml  
-Already past.  
-Let no vain hope deceive the mind,  
-No happier let as hope to find  
-To-morrow than to-day;  
-&#x27; Onr golden d reams of yore were bright, &#x27;  
-Like them the present shall delight &#x27;  
-Li ke them decay.  
-Our Uvea like hastening streams must be  
-;v Tiat Into the engulfing sea ;,.... t; j  
+Let n tlie present honrotaptoy, f ; 1 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1875013001%2F0640.jp2/pct:4.144170,24.102678,9.878885,6.045116/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1875-01-30/ed-1/seq-4)
+
+#### 1875-01-30 &middot; Clarksville, Tenn.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+at Into the engulfing sea ;,.... t; j  
 Are doomed to fall  
 The sea of death, whose waves roll on  
 O&#x27;erkingand kingdom,crown and throne,  
@@ -9914,7 +10697,7 @@ The strength is gone, the step is slow.
 And joy grows wearisome and woe  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1875013001%2F0640.jp2/pct:4.056618,24.102678,9.966438,21.635737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1875013001%2F0640.jp2/pct:4.552751,33.503723,9.455713,12.234693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9923,6 +10706,7 @@ When age comes on
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1875-02-10/ed-1/seq-1)
 
 #### 1875-02-10 &middot; Somerset, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9971,9 +10755,15 @@ We disappear.
 L-jii-; ere the damp oTearth can bliifiit,  
 The cheek&#x27;s pure glow of red ani white.  
 He passed away ;  
-Youth smiled a
+Youth smiled and a.l was heavenly lair  
+A-re came and laid his finger there  
+And where are they  
+Win re Ik the strrni;tb that ?purned decay.  
+TLe steps that rived so light an 1 gay,  
+The hcar.&#x27;e till he tone T  
+The s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1875021001%2F0545.jp2/pct:36.443149,13.890451,8.367347,19.649083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1875021001%2F0545.jp2/pct:36.384840,13.890451,8.425656,22.292206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9982,6 +10772,7 @@ Youth smiled a
 ## [From _Martinsburg weekly independent._](https://chroniclingamerica.loc.gov/lccn/sn84026810/1875-03-13/ed-1/seq-1)
 
 #### 1875-03-13 &middot; Martinsburg, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10061,6 +10852,7 @@ When age comes on
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-05-05/ed-1/seq-1)
 
 #### 1875-05-05 &middot; Mifflintown, Juniata County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10133,6 +10925,7 @@ When age comes on
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1875-05-06/ed-1/seq-4)
 
 #### 1875-05-06 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10172,6 +10965,7 @@ And joy grows wearisome and woe,
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1875-05-13/ed-1/seq-6)
 
 #### 1875-05-13 &middot; Indianapolis
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10242,6 +11036,7 @@ When age comes on
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1875-05-23/ed-1/seq-3)
 
 #### 1875-05-23 &middot; New Orleans [La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10307,9 +11102,79 @@ When age comes on
 
 ---
 
+## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1875-07-21/ed-1/seq-1)
+
+#### 1875-07-21 &middot; Lambertville, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Oh. tot the non! Its slumbers break,  
+Aronse its senses, and awake  
+To see how soon  
+Life, in its glories, glides away,  
+And the stern footsteps of decay  
+Come stealing on.  
+And while we riew the rolling tide.  
+Down which oar (lowing minutes glide  
+Away so fast.  
+Let Ms the present hour employ  
+And deem each fhture dream a joy  
+Already past.  
+Let no vain hope deceive the mind,  
+No happier let us ope to find  
+To-morrow than to-day :  
+Onr golden dreams of yore were bright.  
+Like them the present shall delight—  
+Like them decay.  
+?ur lives like lasting streams must be  
+bat into the engulfin&#x27; sea.  
+Are doomed to fall  
+Theses of death, whose waves roll on.  
+O’er king and kingdom, crown and throne,  
+And swallow all.  
+Alike the river’s lordly tide,  
+Alike the rlvnlet’s humble glide  
+To that sad wave !  
+Death leaves poverty and pride,  
+I poor sle  
+The rich and poor sleep side by side  
+Within the grave.  
+Our birth is but the starting place ;  
+Life is hut the running of the race,  
+And death the goal;  
+There all our glittering toys are bought,  
+The path alone, of all unsought,  
+Is found of all.  
+See, then, how poor and little worth  
+Are all these glutei ing toys of earth,  
+That lure m .iere—  
+Dreams of a sleep that death must break ;  
+Alas ! before it bids us awake,  
+We disappear.  
+Long ere the damp of earth can blight  
+The cheek’s pure glow of red and white,  
+He passed away.  
+YdUth smiled, apd all was heavenly falr­  
+Ago canie and laid his finger there*­  
+And where are they ?  
+Where is the strength that spurned decay,  
+The steps that roved so light and gay,  
+Theheart’s blithe tone?  
+&#x27;the strength is gone, the step is slow,  
+And joy_grows wearisome and woe,  
+When age conies on
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1875072101%2F0588.jp2/pct:19.507672,16.623091,9.294385,21.112564/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1875-08-27/ed-1/seq-1)
 
 #### 1875-08-27 &middot; Savannah, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10363,15 +11228,10 @@ Where is the strength that spumed decay
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1875-09-23/ed-1/seq-1)
 
 #### 1875-09-23 &middot; Helena, Mont.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-X months........................... 12 00  
-i&gt;y one year.............................. 22 00  
-TERMS FOR THE WEEKLY HERALD.  
-Nix months.........  
-Throe months......  
-............ 2 50  
-THE FOOTSTEPS OF DECAY.  
+  
 Oh, let the soul its slumber break.  
 Arouse its sense«, and awake  
 To see how soon  
@@ -10427,7 +11287,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and woe,  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295860662%2F1875092301%2F0311.jp2/pct:6.834320,30.616654,16.109467,29.939120/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295860662%2F1875092301%2F0311.jp2/pct:8.195266,35.575412,12.795858,24.980361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10436,6 +11296,7 @@ When age comes on
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1876-03-23/ed-1/seq-4)
 
 #### 1876-03-23 &middot; Jackson C.H., Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10500,7 +11361,9 @@ We disappear
 #### From _Christian secretary._
 
 #### 1876-04-27 &middot; Hartford [Conn.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## A Spanish Poem
@@ -10508,20 +11371,92 @@ We disappear
 #### From _St. Louis globe-Democrat._
 
 #### 1876-06-25 &middot; St. Louis [Mo.]
+
 [This text is not available under an open license.]
+
 ---
 
-## A SPANISH POEM.
-
-#### From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1876-06-29_28_1439?page=25)
 
 #### 1876-06-29 &middot; New York
-[This text is not available under an open license.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+THE following is a translation tum ..  
+ancient Spanish poem, which, says the  
+Edinburgh Review, ‘is surpassed by nothing  
+with which we are acquainted, in the Span-  
+ish language, except the Odes of Louis De  
+Leon”:  
+  
+Oh! let the soul its slumber break,  
+Arouse its senses and awake,  
+To see how soon  
+Life, with its glory, glides away,  
+And the stern footsteps of decay  
+Come stealing on.  
+  
+  
+  
+And while we eye the rolling tide,  
+  
+Down which our flowing minutes glide  
+Away so fast,  
+  
+Let us the present hour employ,  
+  
+And deem each future dream of joy  
+Already past.  
+  
+Let no vain hope deceive the mind  
+  
+No happier let us hope to find  
+To-morrow than to-day.  
+  
+Our golden dreams of yore were bright ;  
+  
+Like them, the present shall delight—  
+Like them, decay.  
+  
+Our lives, like hasting streams, must be,  
+That into one engulfing sea  
+Are doomed to fall—  
+The sea of death, whose waves roll on  
+O’er king and kingdom, crown and throne,  
+And swallow all.  
+  
+Alike the river’s lordly tide,  
+Alike the humble riv’let’s glide  
+To that sad wave ;  
+Death levels property and pride,  
+And rich and poor sleep side by side  
+Within the grave.  
+  
+Our birth is but the starting-place,  
+Life is the running of the race,  
+And death the goal:  
+There all those glittering toys are brought;  
+The path alone, of all unsought,  
+Is found of all.  
+  
+Say, then, how poor and little worth  
+Are all those ogeaing toys of earth  
+That lure us here ?  
+Dreams of a sleep that death must break,  
+Alas ! before it bids us wake,  
+Ye disappear 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1876-06-29_28_1439&#0036;25/pct:74.188641,46.318493,19.523327,31.130137/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1876-07-21/ed-1/seq-1)
 
 #### 1876-07-21 &middot; Brattleboro, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 dy paat.  
@@ -10562,20 +11497,12 @@ Ye disappear
 
 ---
 
-## A SPANISH POEM
-
-#### From _Prairie Farmer (1843-1877)_
-
-#### 1876-07-22 &middot; Chicago
-[This text is not available under an open license.]
----
-
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-08-03/ed-1/seq-1)
 
 #### 1876-08-03 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 O I let the soul its slumber break,   
 Arouse its senses and awake,   
 To see how soon   
@@ -10625,67 +11552,14 @@ Ye disappear !
 
 ---
 
-## [From _The tribune._](https://chroniclingamerica.loc.gov/lccn/sn85042623/1876-08-16/ed-1/seq-1)
-
-#### 1876-08-16 &middot; Beaufort, S.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-t the eoal its elnmber break, &lt;  
-Aroaee its sonses and awake, v  
-To see how soon t  
-Life, with its glory, glides away,  
-And the stern footsteps of decay 1&#x27;  
-Come stealing on. a  
-And while we eye the rolling tide, *  
-Down which our flowing minntos glide  
-Away so fast, c  
-Lot us the present hoar employ,  
-And deem each future dream of Joy p  
-Already past.  
-Let no vain hope deceive the mind? ^  
-No happier let us hrpe to find  
-To-morrow than to-day ;  
-O.ir goldon dreams of yore were bright; a  
-Like them, the prceent shall delight?  
-Like them, decay.  
-Our livos, like hasting streams, must be, P  
-That into one ingalflng sea *E  
-Are doomed to fall? (  
-Tho sea of death. whn?# mil &quot;&quot;  
-  
-j ?- vw ava? vu ^  
-O&#x27;er king mid kingdom, crown and throne, ^  
-And swallow all. g  
-Al.ke the river&#x27;s lordly tide, si  
-A&#x27;iko the 1 umblo riv&#x27;let&#x27;e glide  
-To that Bad wave ; 1  
-Death lovels property and pride.  
-And rich and poor eh ep aide by b do 61  
-Within the grave.  
-Our birth is but the starting place, li  
-Life iu the running of the rue,  
-An 1 death the goal : ^  
-There all tbore glittering toys are brought ; ~r  
-The path alone, of all uueought, ?  
-Ib found of a&gt;l.  
-g  
-Say, then, how poor and little worth h  
-Are all thoao glittering toys of earth A]  
-That lure ub here ? li  
-Dreams of a bleep that death
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_grandamericancoonhunt_ver01%2Fdata%2Fsn85042623%2F00295862154%2F1876081601%2F0341.jp2/pct:4.878191,15.629061,16.390488,25.078606/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## A Spanish Poem
 
 #### From _Southwestern advocate._
 
 #### 1876-08-17 &middot; New Orleans, La.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [POETRY. A SPANISH POEM.](http://trove.nla.gov.au/ndp/del/article/162678362)
@@ -10693,6 +11567,7 @@ Dreams of a bleep that death
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
 #### 1876-09-02 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 POETRY. A SPANISH POEM. O ! 1ET the soul  
@@ -10716,7 +11591,7 @@ waves roll on O&#x27;er king and kingdom,
 crown and throne, And swallow all. Alike  
 the river&#x27;s lordly tide, Alike the  
 humble riv&#x27;let&#x27;e glide, To that sad wave  
-; Death levels pr
+; Death levels propert
 </td></tr></table>
 
 ---
@@ -10724,6 +11599,7 @@ humble riv&#x27;let&#x27;e glide, To that sad wave
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1876-09-15/ed-1/seq-1)
 
 #### 1876-09-15 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10787,6 +11663,7 @@ of the old Stedhurst farmhouse looke
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1876-09-28/ed-1/seq-2)
 
 #### 1876-09-28 &middot; Lake Charles, Parish of Calcasieu, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10830,7 +11707,7 @@ Say, then, how poor and little worth
 Are all those glittering toys of earth  
 That lure ns here ?  
 Dreams of a seep that death must break  
-Alas !
+Alas ! befo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F00295873826%2F1876092801%2F1302.jp2/pct:29.246183,4.656559,13.907443,20.034035/!600,600/0/default.jpg"/>
 </td>
@@ -10841,6 +11718,7 @@ Alas !
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1876-11-18/ed-1/seq-1)
 
 #### 1876-11-18 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10894,9 +11772,65 @@ Ye disappear
 
 ---
 
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1877-02-22/ed-1/seq-1)
+
+#### 1877-02-22 &middot; Lancaster, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Oh ! let the soul its slumber break,  
+Arouse it’e senses and awake,  
+To see how soon  
+Life, with its glory, glides away,  
+And the stern footsteps of decay  
+Come stealing on.  
+And while we near th» rolling tide,  
+Down which onr Cowing minutes glide  
+Away ro fast.  
+Let ns the present Lour employ.  
+And deem each future dream of joy  
+Already past.  
+Let no vain hopes deceive the mind ;  
+No happier let us hope to find  
+To-morrow than to-day.  
+Our golden dreams of yore were bright;  
+Like them the present shall delight—  
+Let them decay.  
+Our lives like hasting streams must be;  
+That into one engulfing sea  
+Are doomed to fall—  
+The sea of death, whose waves roll on  
+O&#x27;er king and kingdom, crown and throne,  
+And swallow all.  
+Alike the river&#x27;s lordly tide.  
+Alike the riv let&#x27;s humble glide  
+To that »ad wave ;  
+Death levels poverty and pride.  
+And rich and poor lay side by side  
+Within the grave.  
+Our birth is but the starting place,  
+Life but the running of a race,  
+Andr eath the goal ;  
+There all those glittering toys are brought.  
+The path alone of all unsonght,  
+Is found by all  
+Say then, how poor and little wortii  
+A re all those glittering toys of earth  
+That lure ns here;  
+Dreams of sleep that death must break,  
+Alas before 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159385%2F1877022201%2F0644.jp2/pct:16.855028,15.636848,8.899526,14.328654/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _National Repository, Devoted to General and Religious Literature, Criticism, and Art (1877-1880)_](https://iiif.archivelab.org/iiif/sim_national-repository_1880-04_7?page=67)
 
 #### 1880-04-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10941,9 +11875,23 @@ Alike the river’s lordly tide,
 Alike the humble streamlet’s glide  
 To that sad wave;  
   
-Death levels poverty and pride,
+Death levels poverty and pride,  
+  
+Within. the grave.  
+  
+Our birth is but a starting place,  
+Life is the running of the race,  
+And death the goal ;  
+There all our steps at last are brought  
+That path alone, of all unsought,  
+Is found of all.  
+  
+To thee, O God, my thoughts arise;  
+  
+Thou great Eternal, Good, and Wise,  
+To thee I ery;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-repository_1880-04_7&#0036;67/pct:22.631988,58.076132,61.529503,28.137860/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-repository_1880-04_7&#0036;67/pct:22.631988,58.076132,62.810559,28.137860/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10954,7 +11902,9 @@ Death levels poverty and pride,
 #### From _Southwestern Christian advocate._
 
 #### 1880-07-01 &middot; New Orleans, La.
+
 [This text is not available under an open license.]
+
 ---
 
 ## The Footsteps of Decay
@@ -10962,12 +11912,15 @@ Death levels poverty and pride,
 #### From _Southwestern Christian advocate._
 
 #### 1880-07-01 &middot; New Orleans, La.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The post._](https://chroniclingamerica.loc.gov/lccn/sn84026106/1882-06-22/ed-1/seq-1)
 
 #### 1882-06-22 &middot; Middleburg, Snyder County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11038,6 +11991,7 @@ When ago comes ou
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1882-09-28/ed-1/seq-1)
 
 #### 1882-09-28 &middot; Ridgway, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11110,6 +12064,7 @@ When age comes on.
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1882-10-12/ed-1/seq-6)
 
 #### 1882-10-12 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11182,6 +12137,7 @@ When age comeson.
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1882-10-27/ed-1/seq-2)
 
 #### 1882-10-27 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Death level jniverty and iride,  
@@ -11207,9 +12163,10 @@ Acre came and laid his ti Hirer there
 And where ure they?  
 Where is the strength that npurned decay,  
 The steps that rvd so li.Mit mid (ray,  
-The heart&#x27;s blithe tone
+The heart&#x27;s blithe tone?  
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023772%2F1882102701%2F0301.jp2/pct:8.318560,20.682918,12.218737,10.346111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023772%2F1882102701%2F0301.jp2/pct:8.318560,20.682918,12.218737,10.681057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11218,6 +12175,7 @@ The heart&#x27;s blithe tone
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1883-03-24/ed-1/seq-1)
 
 #### 1883-03-24 &middot; Donaldsonville, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  Ibervillo street near the corner of  
@@ -11294,7 +12252,9 @@ When age comes on
 #### From _Fayetteville observer._
 
 #### 1885-05-07 &middot; Fayetteville, N.C.
+
 [This text is not available under an open license.]
+
 ---
 
 ## The Footsteps of Decay
@@ -11302,12 +12262,15 @@ When age comes on
 #### From _Fayetteville observer._
 
 #### 1885-05-07 &middot; Fayetteville, N.C.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1885-11_20_5?page=46)
 
 #### 1885-11-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11397,9 +12360,10 @@ When age comes on!
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1887-08-12/ed-1/seq-1)
 
 #### 1887-08-12 &middot; Bel Air, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+F JOY.  
 O. let tho soul its slumber break.  
 Arouse its senses and awake,  
 Tosco how goon  
@@ -11443,29 +12407,19 @@ Dreams of a sleep that death must break.
 Alas ! before it bids us wake.  
 Vo disappear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625546%2F1887081201%2F0141.jp2/pct:62.904662,18.676418,9.669712,14.224046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625546%2F1887081201%2F0141.jp2/pct:62.904662,18.169818,9.669712,14.730646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Maine Farmer (1844-1900)_](https://iiif.archivelab.org/iiif/sim_maine-farmer_1893-06-15_61_32?page=1)
+## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1893-06-15_61_32?page=1)
 
-#### 1893-06-15 &middot; Augusta
+#### 1893-06-15 &middot; Augusta, Maine
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-lines came to mind, from an old Spanish  
-translation:  
-  
-“Oh, let the soul its slumber break,  
-  
-Arouse its senses and awake,  
-  
-To see how soon  
-Life with its glories glides away,  
-And the stern footsteps of decay  
-Come stealing on.  
 “Our lives like hasting streams must be,  
 That into one engulfing sea,  
 Are doomed to fall,—  
@@ -11473,7 +12427,7 @@ The sea of Death, whose waves roll on
 O’er king and kingdom, crown and throne,  
 And swallow all.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1893-06-15_61_32&#0036;1/pct:21.973684,74.506579,11.891447,6.437970/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1893-06-15_61_32&#0036;1/pct:22.434211,78.524436,11.217105,2.420113/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11482,6 +12436,7 @@ And swallow all.”
 ## [From _Reedy's Mirror 1899-1920_](https://iiif.archivelab.org/iiif/sim_reedys-mirror_1899-07-13_9_22?page=8)
 
 #### 1899-07-13
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   

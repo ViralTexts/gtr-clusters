@@ -8,6 +8,7 @@
 #### From _New National Era_
 
 #### 1871-06-29
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 The Longshoremen of Baltimore  
@@ -50,6 +51,7 @@ Mr. R. B. Sorrell was next introduced and said, fifteen years ago the stevedores
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
 #### 1871-06-29 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 he article stained  

@@ -1,7 +1,7 @@
 
 # A Literary Curiosity
 
-### 200 reprints from 1868-02-26 to 1899-06-10
+### 198 reprints from 1868-02-26 to 1899-07-20
 
 ## [A Literary Curiosity](http://chroniclingamerica.loc.gov/lccn/sn82015775/1868-03-08/ed-1/seq-3/)
 
@@ -10,6 +10,7 @@
 #### From _The New Orleans Crescent_
 
 #### 1868-03-08
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 The following remarkable little poem is a contribution to the San Francisco Times, from the pen of Mrs. H. A. Deming. The reader will notice that each line is a quotation from some one of the standard authors of England and America. This is the result of a year&#x27;s laborious search among the voluminous writings of thirty-eight leading poets of the past and present. The number of each line refers to the author below:  
@@ -84,7 +85,9 @@ LIFE.
 #### From _The Hawaiian gazette._
 
 #### 1868-02-26 &middot; Honolulu [Oahu, Hawaii]
+
 [This text is not available under an open license.]
+
 ---
 
 ## A Literary Curiosity
@@ -92,15 +95,18 @@ LIFE.
 #### From _Daily national intelligencer._
 
 #### 1868-03-02 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The New Orleans crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015775/1868-03-08/ed-1/seq-3)
 
 #### 1868-03-08 &middot; New Orleans, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+aithlessw p as lay.  
 d 22-Wih erau t ad lto ruin and betray ;  
 . 23--ort ntee ho b to fall, but stoop to rise,  
 it 26-We m1s to ii a itht we despise.  
@@ -122,7 +128,7 @@ had.
 1­  
 37-The trust that&#x27;s glves guard; and to your­  
 S self be just ;  
-S38-For, live we how we na, yet die we mua
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_psylocke_ver01%2Fdata%2Fsn82015775%2F00200299899%2F1868030801%2F0467.jp2/pct:78.395296,20.694022,16.160850,12.613982/!600,600/0/default.jpg"/>
 </td>
@@ -133,6 +139,7 @@ S38-For, live we how we na, yet die we mua
 ## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1868-03-09/ed-1/seq-2)
 
 #### 1868-03-09 &middot; Rock Island, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -170,17 +177,21 @@ IS Vile intercourse where virtue has e 4 place;
 27 Til Ink not ambition wise beeaaisJtls brave,  
 28 Tho paths of glory lead but to ths grave.  
 29 What is ambition ?&#x27;tii a glorioui cheat,  
-300aly destruotive to the brave ani great.  
-31i-Whafs all the gaudy glitter of crown ? ,J  
-32 lbe way to Miss lias aot en beds os &quot;  
-33 How long we lire not years, but aotions, teli;  
-34 That man lives twtee wh4ivcs the nnt life  
-well. : &#x27;&quot; , &quot; r .  
-35 Make then wfciVyef re may, J God your  
-friend, . &#x27; r f ? A , &#x27;  
-SS Whom christian , worships compre­  
-hend. . f ? W&#x27; - . j &#x27;I  
-. - ir. . . .., . - J- v;  
+300aly destruotive to the brave ani great.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_article_ver01%2Fdata%2Fsn84038628%2F00295879932%2F1868030901%2F0492.jp2/pct:45.256048,63.628589,11.907006,18.900428/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1868-03-09/ed-1/seq-2)
+
+#### 1868-03-09 &middot; Rock Island, Ill.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
 37 The trust that giTeB. gaard, d o your­  
 self be Just;&#x27; f,V,vtO.  
 .!8 For, lire we tow tie can, yet die we must.  
@@ -196,7 +207,7 @@ Crabbe; 23, Masstager; 24. CowUe 25, Beastia;
 Qaarles;S37Watkins:ai, Herrick; 35, William  
 Mason; 36, Hill; 37, Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_article_ver01%2Fdata%2Fsn84038628%2F00295879932%2F1868030901%2F0492.jp2/pct:45.256048,63.628589,11.954131,30.079414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_article_ver01%2Fdata%2Fsn84038628%2F00295879932%2F1868030901%2F0492.jp2/pct:45.303173,87.587049,11.907006,6.120953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,12 +218,15 @@ Mason; 36, Hill; 37, Dana; 38, Shakespeare
 #### From _The Independent press._
 
 #### 1868-03-20 &middot; Ripley, Ohio
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13?page=2)
 
 #### 1868-03-28 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -292,10 +306,9 @@ $0 Whom Christians worship, Wk wctiuemercaand.
 live we how we can, yet die we must. .  
   
 SSEET SS Srmes; 8 Pope; 4. Prior; 6 Sewell ; 6. coaching vil festival. .  
-Spencer ; ’ Daniel ; 8. Sir Walter ; low ; 10. PP Mister, her busband ; “ why do you call him Mis-  
-Southwell; 11. Congreve ; 12 13. ter; 14 ter, if you please? He is no more a gentieman than | am
+Spencer ; ’ Daniel ; 8. Sir Walter ; low ; 10. PP Mister, her busband ; “ why do you call him Mis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13&#0036;2/pct:7.594563,20.096463,54.639480,44.393087/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13&#0036;2/pct:7.594563,20.096463,54.639480,43.709807/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,6 +317,7 @@ Southwell; 11. Congreve ; 12 13. ter; 14 ter, if you please? He is no more a gen
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4?page=12)
 
 #### 1868-03-28 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -348,7 +362,7 @@ il—Her sensual snares let faithless pleasures lay,
 —We masters grow of all that we despise.  
   
 %—0 then renounce that impious self-esteem ;  
-4—Riches have w
+4—Riches have wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4&#0036;12/pct:4.595588,43.252595,33.014706,30.947232/,600/0/default.jpg"/>
 </td>
@@ -359,6 +373,7 @@ il—Her sensual snares let faithless pleasures lay,
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4?page=12)
 
 #### 1868-03-28 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -401,20 +416,15 @@ speare.
 #### From _New York Observer and Chronicle (1833-1912)_
 
 #### 1868-04-02 &middot; New York
+
 [This text is not available under an open license.]
----
 
-## A LITERARY CURIOSITY.
-
-#### From _New York Observer and Chronicle (1833-1912)_
-
-#### 1868-04-02 &middot; New York
-[This text is not available under an open license.]
 ---
 
 ## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1868-04-04/ed-1/seq-2)
 
 #### 1868-04-04 &middot; Davenport, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  an hour  
@@ -453,6 +463,7 @@ nee i
 ## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1868-04-04/ed-1/seq-2)
 
 #### 1868-04-04 &middot; Davenport, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 , yet aot com­  
@@ -483,6 +494,7 @@ kins :H, Horrick 35, Willi mi Maeon
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1868-04-09/ed-1/seq-1)
 
 #### 1868-04-09 &middot; Richmond, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -553,9 +565,18 @@ Shakspeare.&#x27; &#x27; . &#x27; . !
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1868-04-24/ed-1/seq-1)
 
 #### 1868-04-24 &middot; Bellows Falls, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+iims of Jewelry, ia sela and a.ng!e peicea, from  
+Bogwl to lue gold prices to at wi&#x27;t satisfycuato-atn-isit  
+received by . &quot; &quot; r-i  
+fMter. V 1  
   
+BELLOWS FALLS, VT., FRIDAY,  
+  
+rPfldnj,  
+A Literary Curiosity,  
 The following remarkable little poem  
 is a contribution to the San Francisco  
 Times, from the pen of Mr. H. A. Dein­  
@@ -618,11 +639,9 @@ Milton; 16, Bailey; 17, Trench, 1, Esornemiie; 39,
 Thompson; 20, Bryant; 21, Smollet; 22, Crabbe;  
 23, Massinger;24, Crowlt-y; 25, Ueattie; 26, Cowper;  
 27. Sir Waiter Davenant; 28. Grav: 29. Willis; 30,  
-Addison; 81, Drvden; 32, Francis liuaries; 88, Wat-  
-kius; 84, Hernck; 35, William Uasou; as, mu; a,  
-i Dana;
+Add
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1868042401%2F0513.jp2/pct:28.510224,15.331471,12.794547,32.515067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1868042401%2F0513.jp2/pct:16.338851,11.083346,36.845180,84.286344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,6 +650,7 @@ i Dana;
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
 #### 1868-04-25
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -668,6 +688,7 @@ hastenea up among the rioters. But now cries of | 14—And throw a cruel sunshin
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
 #### 1868-04-25
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -707,6 +728,7 @@ the door-way, and in a few moments more the 54 we masters grow ot ail Geek we de
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
 #### 1868-04-25
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -748,9 +770,10 @@ Dryden, 32 Francis Quarles, 33 Watkins, 34 Her
 ## [From _The Hancock Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85042591/1868-05-01/ed-1/seq-1)
 
 #### 1868-05-01 &middot; Findlay, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-kaUa little peeai la a  
+g reatarkaUa little peeai la a  
 ntribatatloa to the San Franelseo Tim.  
 . &#x27;root the pea of Mr. Q. A. DeaWag. The  
 &#x27;eader wlH notice that eaeh line ie a quota  
@@ -827,19 +850,9 @@ Gad your friend,
 prehend.37 The trust that&#x27;s given guard and to  
 yourself be just ;  
 34 For, live we how we can. yet die meat.  
-l.Youne: 3, Dr. Johnson; .3, Pope ; 4,  
-Southwell; 11, Congreve ; 13. Churchill  
-r. Rochester ; 14, Armstrong ; 15. Mlltoa ;  
-1C. Bailey ; 17. Trench ; 18, Somervtle ; 19.  
-Thompson ; 30, Bvton ; 31, Smollett ; 33.  
-Crabbe ; 33. Massinger ; 34. Cowley , 35.  
-Beattia ; -26, Cowper t 37, Bir Walter Davea­  
-ant ; 38, Grey ; 39. Willis ; So, Addisoa ; 31,  
-Dryden ; 33, Francis Quarles ; S3, Walklos ;  
-34, Herrick ; 35, William Mason ; 3s, BUI ;  
-37, Dana ; 3i, Fbaksoeare.
+l.Youne: 3, Dr. Johnson; .3, Pope ; 4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85042591%2F00280774972%2F1868050101%2F0150.jp2/pct:13.653603,16.482545,9.818795,40.863897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85042591%2F00280774972%2F1868050101%2F0150.jp2/pct:13.850260,16.482545,9.622138,35.947857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +863,9 @@ Dryden ; 33, Francis Quarles ; S3, Walklos ;
 #### From _Bangor daily Whig & courier._
 
 #### 1868-05-13 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
+
 ---
 
 ## A Literary Curisity
@@ -858,18 +873,18 @@ Dryden ; 33, Francis Quarles ; S3, Walklos ;
 #### From _The Union and Dakotaian._
 
 #### 1868-05-16 &middot; Yankton, Dakota Territory [S.D.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The workingman's advocate._](https://chroniclingamerica.loc.gov/lccn/sn89077510/1868-05-30/ed-1/seq-4)
 
 #### 1868-05-30 &middot; Chicago [Ill.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-[Tbs It.laving remarkable UUle poem Is a contribu­  
-tion ta tht Sau Francisco Timet, f-vm tbs pea of Mrs. H.  
-A. I)*ootng. Tit* ruder will notice that each Une It a  
+l notice that each Une It a  
 quotation frocn eons one of tbs standard anthers of Eng  
 la«&gt;d and America. 1 his Is the result of a jear&#x27;e labori­  
 ous sea. h aa. ig the voluminous writings of thlrtj­  
@@ -878,9 +893,9 @@ ber of each line refers to Its author below.
 1 —Why all thli toil for triumphs of an hour f  
 2- - T.fb&#x27;a a sho t rammer, man a Sower.  
 9— By turns we cat*.&#x27; * he v**al breath ard die—  
-4—The ‘radio *nd u tor.b, alas, 
+4—The ‘radio *nd u tor.b, alas, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.789408,6.923440,11.309986,4.976961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.789408,7.762287,11.309986,4.138114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,9 +904,10 @@ ber of each line refers to Its author below.
 ## [From _The workingman's advocate._](https://chroniclingamerica.loc.gov/lccn/sn89077510/1868-05-30/ed-1/seq-4)
 
 #### 1868-05-30 &middot; Chicago [Ill.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f down.  
+in beJe of down.  
 83—H w |o » we live, not ysa~§, but actbns tell,  
 84*-Tm; i .an Uv-•* tw.ee who live* the dree life well.  
 83— 2!alie, then, while y»t we nr.y, our Ood your  
@@ -904,9 +920,9 @@ W—Tor, live we how w* c*a yet die we must.
 •evtl. 6, 8p tcer. 7, Daniel, b 8!r Walter Raleigh.  
 W. h.uffiito*. 10, Pou.iiweil. 11, Congreve. 12.  
 CrurcMIl. ?t, loctiwtor, 14. Armstrong 13, Mxlton.  
-14 Bs If. 1*. ’
+14 Bs If. 1*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.835999,25.224480,11.263395,5.567698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.835999,25.212665,11.263395,5.579513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,6 +931,7 @@ CrurcMIl. ?t, loctiwtor, 14. Armstrong 13, Mxlton.
 ## [From _Clarksville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061077/1868-06-26/ed-1/seq-1)
 
 #### 1868-06-26 &middot; Clarksville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -980,6 +997,7 @@ self be Just:
 ## [From _Sphinx. A Journal of Humour and Criticism 1868-1871_](https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2?page=12)
 
 #### 1868-08-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1087,16 +1105,18 @@ Dana; 38, Shakspere.
 #### From _Bristol Mercury_
 
 #### 1868-08-22 &middot; Bristol, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1868-09-11/ed-1/seq-1)
 
 #### 1868-09-11 &middot; Pulaski, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-ty eight Engliehpoets. The names of the authors  
+of the authors  
 aro given below :  
   
 1 Why all this toil for thotriumplis of an Ijpur?  
@@ -1142,36 +1162,36 @@ well
 
 ---
 
-## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1868-09-11/ed-1/seq-1)
-
-#### 1868-09-11 &middot; Pulaski, Tenn.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-rd and to yourself be  
-just:  
-83 For, live how we can, yot die we mustt  
-1. Yournri 5. T)t. Jotneon. S. IWl 4. tMdr: fc.  
-Sewell j 8j Ppsiiscf ?, Daniel; 8, Sir Walter Ealeigh;  
-9, Longfellow; 10, Southey; 11, Congreve; 12,  
-Churchill; 18, Rochester; 14, Armstrong;!! 5, Milton;  
-16, Bailv; 17, Trench; 18, Somerville; IS, Thompson;  
-20, Byron; 21, Smollet; 22, Crabbe; 23, Massingcr;  
-24, Cowlos; 25, Beattio; 26, Cowper; 27, Sir Wnltor  
-Deavenant; 2S, Caiey; 29, Willis; 80, Addison; 81,  
-Dryden; 82, Francis Quarlos; 83, Watkins: 84, Iler­  
-ric
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1868091101%2F0563.jp2/pct:48.891844,38.128112,13.874113,5.511544/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39?page=4)
+## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39?page=3)
 
 #### 1868-09-26
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ Baker, Gabriel Harvey, &amp;c.  
+W. Carew Haziirt.  
+  
+  
+  
+  
+  
+  
+  
+  
+g* 8. II. Serr. 26, 68.)  
+  
+NOTES AND QUERIES.  
+  
+291  
+  
+  
+  
+LIFE DELINEATED.  
+  
+The enclosed curiosity is, I think, worth a place  
+in “N. &amp; QL”: —  
+  
+: LIFE.  
   
 The following remarkable little poem is a contribution  
 to the San Francisco Times from the pen of Mrs. H. A.  
@@ -1272,7 +1292,7 @@ fellow; 10. Southwell; 11, Congreve; 12, Churchill;
 Francis Quarles ; 33. Watkins ; 34, Herrick: 35, William  
 Mason ; 36, Hill; 37. Dana; 38. Shakspere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39&#0036;4/pct:7.605178,15.171756,34.830097,71.087786/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39&#0036;3/pct:55.906149,86.291349,31.674757,2.353690/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1281,6 +1301,7 @@ Mason ; 36, Hill; 37. Dana; 38. Shakspere.
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1868-09-27/ed-1/seq-1)
 
 #### 1868-09-27 &middot; Memphis, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1353,7 +1374,7 @@ i3. Far, live we how we can, die we mat.
 5,eweii; fi.tspenser; 7,Danieil; S, Sir Walter  
 Ha&#x27;.elga; 9, longfellow; 10, Couth well ; II, Cen­  
 tre ve; is Churchill; U, Bchenter; 14, Arm­  
-stronz: 15. Milloa: lti. BaPey: 17. &#x27;trench
+stronz: 15. Milloa: lti. BaPey: 17. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200292984%2F1868092701%2F0385.jp2/pct:51.005143,12.500000,10.674770,23.362235/!600,600/0/default.jpg"/>
 </td>
@@ -1366,12 +1387,15 @@ stronz: 15. Milloa: lti. BaPey: 17. &#x27;trench
 #### From _Derby Mercury_
 
 #### 1868-09-30 &middot; Derby, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1868-10-02/ed-1/seq-1)
 
 #### 1868-10-02 &middot; Oregon, Missouri.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1405,44 +1429,9 @@ lt-Cusloin does not often reason overrule.
 II And throw a cruel sun.liluuon nlool.  
 I.W.Ivo well, how long or short permit to Heaven,  
 10 1 he)&#x27; who forgive most shall lie most fnrglteii.  
-17 Sin may be clasped so clo.o that we can not see  
-  
-nice
+17 Sin may be clasped so clo.o that we can not se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559905%2F1868100201%2F0666.jp2/pct:40.804020,16.435289,12.160804,12.270488/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1868-10-02/ed-1/seq-1)
-
-#### 1868-10-02 &middot; Oregon, Missouri.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-III 1 hen keep each passion down, howeiir diar 1  
-io Thou pendulum betwIM u smile ami tear.  
-  
-Sl-ller seniunl snares, b I faithless pleasures lay,  
-  
-ifi with ciatt nun skin, io nun nun ui u iij i  
-21 onr not too high to full, but Monp to rise,  
-21 We Minster glow of ull Ihnt we despise.  
-SV O, Hun, I renounco Hint Impious silf-eseem I  
-2il-ltlches hnvo wlngs.und grnndtiir Is milium!  
-47 Think not nmblllon wise luenuse &#x27;lis brave,  
-24-Tho paths ofglory lead but to the grave.  
-20 What Is nmblllon &#x27;tis a glorious fin nt t  
-  
-30-Only destructive to tlie urine aim greni.  
-.It What&#x27;s nil tlie gaudy glllter of a crown 1  
-:r.&#x27; The way to bliss lies not on beds of down.  
-.11 How long wo live, not jenrs but anions till,  
-SI Hint iium Ihestnlee wliollv
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559905%2F1868100201%2F0666.jp2/pct:40.924623,29.302881,11.577889,7.493656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559905%2F1868100201%2F0666.jp2/pct:40.804020,16.435289,12.160804,12.016719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,6 +1442,7 @@ SI Hint iium Ihestnlee wliollv
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
 #### 1868-11-25 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 A LITERARY CURIOSITY. The following  
@@ -1524,8 +1514,7 @@ Congreve; 12, Churchill; 13, Rochester;
 Massinger; 24, Cowley; 25, Beattie ; 26,  
 Cowper; 27, Sir Wm. Davenant; 28, Gray;  
 29, Willis ; 30, Addison; 31, Dryden;  
-32, Francis Quarles; -33, Watkins; 34,  
-
+32, Francis Quarles; -33, 
 </td></tr></table>
 
 ---
@@ -1535,17 +1524,10 @@ Cowper; 27, Sir Wm. Davenant; 28, Gray;
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
 #### 1868-12-19 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-(10) Nature  
-to each allots his proper sphere; (11)  
-Fortune makes folly her perculiar care:  
-(12) Custom does often reason overrule,  
-(13) And throw a cruel sunshine on a  
-fool. (14) Live weU; how long or short,  
-permit to heaven ; (15) They who forgive  
-most shaU be most forgiven. (16) Sin may  
-be clasped so close that we cannot see  
+lose that we cannot see  
 its face (17) Vile intercourse where  
 virture has no place. (18) Then keep  
 each passion down, however dear, (19)  
@@ -1595,6 +1577,7 @@ Shakespeare. What if you fail i
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1869-01-06/ed-1/seq-1)
 
 #### 1869-01-06 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1691,6 +1674,7 @@ Hill; 37, Dana; 38, Shakspeare
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
 #### 1869-03-27 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1774,9 +1758,10 @@ Quarles; 3-3,
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
 #### 1869-04-10 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-A LITERARY CURIOSITY. The following  
+  
 remarkable little poem is a contribution  
 of the San Francisco Times, from the pen  
 of Mrs. fL A. Deming. The reader will  
@@ -1842,7 +1827,7 @@ Smollett; 22, Crabb;23, Mametip 24,
 Cowley; 25, Beattie; 26, Cowper; 21 ;  
 Wm. Davenant; 28, Gray, 29, Willie; 30,&#x27;  
 j dison ; 31, Dryden ; 32, Francis  
-Quades-Watkins; 34, 
+Quades
 </td></tr></table>
 
 ---
@@ -1850,9 +1835,16 @@ Quades-Watkins; 34,
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1869-05-15/ed-1/seq-1)
 
 #### 1869-05-15 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ssed  
+&quot;through Annapolis on its way from the  
+north just previous to the battle of York­  
+town, and the tent of the two Generals is I  
+said to have been pitched under this old  
+t roc.  
+A Literary Curiosity.  
 The following remarkable little poem is  
 a contribution to the San Francisco Times  
 from the pen of Mrs. H. A. Deming. The  
@@ -1944,7 +1936,7 @@ enant: 28, Gray: 29, Willis; 30. Addison:
 kins: 34, Herrick; 35, William Mason; 3(1.  
 Hill: 37, Dana; 38. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1869051501%2F0491.jp2/pct:38.289979,48.212344,11.526711,38.570515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1869051501%2F0491.jp2/pct:38.289979,44.480333,11.526711,42.302526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1953,6 +1945,7 @@ Hill: 37, Dana; 38. Shakespeare
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468?page=56)
 
 #### 1869-06-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1973,6 +1966,7 @@ poets of the past and present time :
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468?page=56)
 
 #### 1869-06-01 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 udy glitter of a crown?  
@@ -2002,9 +1996,19 @@ For, live we how we can, yet die we must
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1869-06-17/ed-1/seq-1)
 
 #### 1869-06-17 &middot; Leonard Town, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+tuti iu.  
+v ~  
+* A smart thiti^—a u-uitu t jlastci  
   
+__  
+A LITERARY CURISOITY.  
+W.* copy from tire Charleston Cmirirr  
+tre following ingenious lines, bdreeing  
+&#x27;hev will be real with interest —I -  
+: change.  
 “The following remarkable little poem  
 s a eontributi &gt;a to the San Fruneis.’o  
 , Times from the pen of M s. H. A. D m­  
@@ -2027,14 +2031,20 @@ nigh.
 edy.  
 715 at light care* speak when mighty  
 grief* are dumb,&#x27;  
-S The b ,’ttom is but shallow whence they  
-come.  
-9 Y ur fate is but the common fate of  
-all ;  
-19 I’limingleJ joys here no man bet ill.  
-11 Nit tire ti e ich all its its :r;• r sphere;  
-1-J Fortune rnuk s tolly her peculiar care,  
-13 Cu*toiu dies often roas &gt;n overrule.  
+S The b ,’ttom is but shallow whence t
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623501%2F1869061701%2F0558.jp2/pct:41.659427,14.248483,25.041027,78.327562/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1869-06-17/ed-1/seq-1)
+
+#### 1869-06-17 &middot; Leonard Town, Md.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
 1 I And throw a cruel sunshine on a to &gt;1;  
 15 Live wa ll ; how long ur sli rt, permit  
 ti* Heaven ;  
@@ -2099,7 +2109,7 @@ Charles&#x27;: -JJ, Watkins; 34, Herrick:
 35, William M ison ; 3tj. ILU ; m , Dana:  
 38, Shak.-pero
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623501%2F1869061701%2F0558.jp2/pct:54.295781,18.433300,12.404672,50.024200/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623501%2F1869061701%2F0558.jp2/pct:54.295781,34.632712,12.404672,33.824789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2108,6 +2118,7 @@ Charles&#x27;: -JJ, Watkins; 34, Herrick:
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1869-07-03/ed-1/seq-4)
 
 #### 1869-07-03 &middot; Middletown, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2121,20 +2132,7 @@ tho .result&#x27; of a year&#x27;s laborious search
 among the voluminous writings of thirty­  
 eight leading poets of tho past and present.  
 Tho number of each line refers to its au­  
-thor below 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1869070301%2F0339.jp2/pct:4.627404,9.114927,12.139423,7.381110/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1869-07-03/ed-1/seq-4)
-
-#### 1869-07-03 &middot; Middletown, Del.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+thor below :  
 The  
 Is  
 and  
@@ -2230,7 +2228,79 @@ Davenant; 28, Gray; 29, Willis; 30, Addison:
 Dunn ; 39, Shakspearc.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1869070301%2F0339.jp2/pct:4.947917,8.652576,14.503205,36.377147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1869070301%2F0339.jp2/pct:4.627404,8.652576,14.823718,36.377147/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1869-08-03/ed-1/seq-1)
+
+#### 1869-08-03 &middot; Lancaster, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+A LITERARY curiosity.  
+[The following remarkable poem it from the pen of  
+Mr*. II A. Deining. The reader will notice chat each  
+line it m quotation from some one of the standard au  
+thors of England and America. This is the result of  
+a year’s laborious search among the voluminous writers  
+of the past and present. The number of each line re­  
+fers to Its author below : ]  
+LIFE.  
+1— Why all this toil for triumphs and honor I  
+2 Life s a short summer, man a flower;  
+3 -Ry turns we catch the vital breath and die—  
+-4 The cradle and the tomb, a.as ’ so nigh.  
+STo be is better far than not to be,  
+6 Though a man s life may seem a tragedy.  
+7 But! ight caresspeak when mighty griefs are dumb;  
+b—The bottom is but shallow whence they come.  
+9—Yonr fate is but the common fate of all,  
+lu—Umingled joys, hero, to no man befall.  
+’ 11- Nature to each allots his proper sphere,  
+12— Fortune makes folly her peculiar cure ;  
+13— Custom does not often reason overrule  
+14— And throw a cruel sunshine on a fool.  
+15— Live well, how long or short, permit, to heaven;  
+16— Th&lt;y who forgive most,shall be most forgiven.  
+17— Sin may be clasped to close we cannot see its face­  
+13—Vile intercourse where virtue has not place.  
+1 j—Then keep each passion down, however dear,  
+2u—Thou pendulum, betwixt a smile and tear;  
+21  
+22 With craft and skill, to ruin and betray.  
+23 Soar not too high to fall, but stoop to rise;  
+24 We masters grow&#x27;of all that we despise.  
+25 Oh then renounce that impious self-esteem ;  
+26 Riches have wing? and grandeur is a dream.  
+27 Think not ambition wise, because ’tin brave,  
+28— The paths of glory lead but to the grave.  
+29 What is ambition? Tis a gloriuua a cheat,  
+30— Only destructive to the brave and great.  
+31— What’s all the gaudy glitter of a crown ?  
+32 The way to bliss lies not on beds us down.  
+33 How long we live, not words but actions tell;  
+34 That man lives twice who lives the first life well,  
+35 Make then, while yet ye may, your God your friend  
+36 Whom Christians worship, yet not comprehend.  
+37 The trust that’s given guard, and ta yourself be just,  
+38— For, live we how we can, yet die we must.  
+1, Young; 2, Dr. .Johnson; 3, Pope; 4, Prior; 5  
+Sewell; 6, Spenser; 7, Daniel; 8, Sir Walter Reloigh ;  
+9. Longfellow; 10. Southwell; 11,Congreve; 12,Church­  
+ill; 13, Rochester; 14, Armstrong; 15, Milton; 16  
+Bailey; 17, Trench; 18, Somerville; 19, Thompson;  
+‘2O, Byron; 21, Smullot ; 22, Crabbe; 23, Massinger; 24,  
+Cowley; 25, Beattie; 26, Cowper; 27. Sir Waiter Da­  
+venant : *2B, Grey; 29, Willis; 30, Addison; 31,  
+den ; 32, Francis Quarles; 33. Watkins; 34 Herrick;  
+35, William Mason ; 36, Hill 37. Dana ; 38, Shakspeare.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159361%2F1869080301%2F0669.jp2/pct:14.705367,14.636124,10.962262,23.258328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2239,6 +2309,7 @@ Dunn ; 39, Shakspearc.
 ## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1869-10-22/ed-1/seq-4)
 
 #### 1869-10-22 &middot; Burlington, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2320,8 +2391,17 @@ Diana; 3b, Shakspeare
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19?page=11)
 
 #### 1869-11-06 &middot; St. Louis, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+to a froth, and mix with the  
+milk. To this add a quarter of a pound each of seeded  
+raisins and Zaute currants, and two ounces of citron  
+cut in strips. Bake or boil two hours,  
+  
+  
+  
+A Literary Curiosity.  
   
 The following remarkable little poem was contrib-  
 uted to the San Francisco “Times” from the pen of  
@@ -2331,7 +2411,7 @@ America. This is the result of a year’s laborious
 search among the voluminous writings of thirty-eight  
 leading poets of the past and present :—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19&#0036;11/pct:68.389225,41.137124,24.683892,5.518395/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19&#0036;11/pct:68.389225,36.141304,24.683892,10.514214/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2340,6 +2420,7 @@ leading poets of the past and present :—
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-12-16/ed-1/seq-1)
 
 #### 1869-12-16 &middot; Troy, Lincoln County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2383,7 +2464,7 @@ strong. IS, Milton. 18, Bally, If, Traaeh.
 18, Somirville. IV, Thompson. 10, Byren.  
 21, Smollett. ll.Crabbe. S3, Muslnger. 24,  
 Cowley. 24, Beat tie. 28, Cawper. ST, Sir Wal  
-ter Devenant. 18, Grey. 1,
+ter Devenant. 18
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1869121601%2F0851.jp2/pct:19.681557,24.369616,14.329943,22.772122/!600,600/0/default.jpg"/>
 </td>
@@ -2394,6 +2475,7 @@ ter Devenant. 18, Grey. 1,
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1870-03-01/ed-1/seq-3)
 
 #### 1870-03-01 &middot; New Bloomfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2450,10 +2532,9 @@ Somerville; 19, Thompson ; 20, Bryant ; 21. Smol­
 let; 22, Ci abbe; 23, Alassinger; 24, Cowlev; 25,  
 Heattie; 20. Cow per; 27, Sir Walter Davcnant;  
 28, (irav; 20, Willis; 30, Addison; 31, Drydcn:  
-32, Francis Quark&#x27;s; 33, Watkins; 34. Derrick;  
-35, Mason; 30, Hill; 37, Dana; 38, Shakspeare
+32, Francis Quark&#x27;s; 33, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1870030101%2F0080.jp2/pct:23.032630,17.057026,17.322457,37.423625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1870030101%2F0080.jp2/pct:23.032630,17.057026,17.298464,36.965377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2464,6 +2545,7 @@ Heattie; 20. Cow per; 27, Sir Walter Davcnant;
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
 
 #### 1870-10-15 &middot; Goulburn, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2527,58 +2609,12 @@ yet die we must. Shakslenae
 
 ---
 
-## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1872-06-01_9_231?page=12)
-
-#### 1872-06-01
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-s but shallow whence they come.®  
-Your fate is but the common fate of all ;9  
-Unmingled joys, here, to no man befall.!  
-Nature to each all ts his proper sphere,!!  
-Fortune makes folly her peculiar care.&#x27;*  
-Custom does.not often reason overrule,!3  
-And throw a cruel sunshine on a fool.&#x27;*  
-Live well—how leng or short permit to Heaven ;*  
-They who forgive most shall be most forgiven.!  
-Sin may be clapped so close we cannot see its face—&#x27;7  
-Vile intercourse where virtue has not place  
-Then keep each passion down, however dear,&#x27;”  
-rhou pendulum, betwixt a smile and tear ;?°  
-Her sensual snares let faithless Pleasure lay,*!  
-With craft and skill, to ruin and betray.”  
-Soar not too high t il, but stoop to rise ;  
-  
-  
-  
-18  
-  
-  
-  
-73  
-  
-  
-  
-  
-  
-We masters grow of all that we despise.**  
-O then renounce that impious self-esteem ;*  
-Riches have wings, and grandeur is a dream.**  
-Think n« ambition wise because ’tis brave :**  
-The ps aoe of glory lead but to the grave.*%  
-Wh at is ambition ? ’Tis a glorious ch
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1872-06-01_9_231&#0036;12/pct:46.250000,43.558673,33.064516,24.457908/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [SELECT POETRY. A Literary Curiosity.](http://trove.nla.gov.au/ndp/del/article/135876714)
 
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
 
 #### 1872-08-06 &middot; Wollongong, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2592,11 +2628,7 @@ Con greve, 12 Churchill, 13 Rochester,
 14 Armstrong, 15 Milton, 16 Baily, 17  
 Trench, .13 Somerville, 19 Thompson, 20  
 Byron, 21 Swollen, 22 Crabbe, 23  
-Massieger, 24 Cowley, 25 Bsattie,: 2G  
-Cowper, &#x27;27 Sir Walter Davenant, ^8  
-Gray, 29 WiHh, 30 Addi.-on, 31 Dryden,32  
-Francis Qoarlos, 33 &#x27;Wutkins, 34  
-Harriet, 35
+Massieger, 24 Cowley, 25 Bsattie,: 2G
 </td></tr></table>
 
 ---
@@ -2604,9 +2636,28 @@ Harriet, 35
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1873-03-28/ed-1/seq-1)
 
 #### 1873-03-28 &middot; Romney, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hile yet ye may, yuur GJod your  
+  
+Then keep-eaHh passion down, however dear, 19  
+Thou pendulum betwixt a smile and tear: 20  
+Her sensual snares let faithless pleasure lav, 21  
+W ith craft and skill to ruin and betray. 22  
+Soar not too high to fall, but stoop to rise; 23  
+We masters grow of all that we despise. 2t  
+• &gt;, then renounce that impious self esteru ;  
+Uichcs have wings, and grandeur is a dream 20  
+Think not ambition wise because &#x27;tis brace_ 27  
+The paths of glory lead but to the grave 2S  
+W hat is ambition ? ’Tis a glorbnis cheat, 29  
+Only destructive to the brave and great. 2.0  
+\\ hat&#x27;s all the gaudy glitter of a-crown? 31  
+I he way to b|i.-*s lies mot on beds of down. 2*2  
+llotv long we live not years, hut actions tell ; 33  
+That man lives twice who lives the first life  
+well. 34  
+Make then, while yet ye may, yuur GJod your  
 friend— 3%  
 Whom ( hriflinns worship, yet not compre­  
 hend. 3G  
@@ -2627,7 +2678,7 @@ Davenant—28, &lt;JiHy —_&gt;:*, WiBis — 30, Addison
 — 34,Herrick—35,William Mason—3C, Hill—37,  
 Dana—38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873032801%2F0612.jp2/pct:18.043043,46.555256,12.779446,11.345912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873032801%2F0612.jp2/pct:18.043043,36.377358,12.829496,21.523810/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2636,17 +2687,10 @@ Dana—38, Shakespeare
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22?page=5)
 
 #### 1873-05-29 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-an befall, 10  
-Nature to each allots his proper sphere, ll  
-Fortune makes folly her peculiar care, 12  
-Custom does often reason overrule, 13  
-And throw a cruel sunshine on a fool. M4  
-Live well—how long or short permit to Heaven; 15  
-They who forgive most shall be most forgiven. 16  
-Sin may be clapped so close we cannot sce its face—17  
-Vile intercourse where virtue has not place. 18  
+  
 Then keep each passion down, however dear, 19  
 Thou pendulum, betwixt a smile and tear; 20  
 Her sensual snares let faithless pleasure lay, 21  
@@ -2679,70 +2723,24 @@ Walter Davenant; 28 G 29 Willis; 30 Addison; 31
 Dryden; 32 Francis Quarles; 33 Watkins; 34 Herrick; 35  
 Wiliam Mason; 36 Hill; 37 Dana; 38 Shakespeare,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22&#0036;5/pct:9.264381,28.266616,20.907080,20.015106/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22&#0036;5/pct:9.292035,33.024924,20.879425,15.256798/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1873-12-14/ed-1/seq-2)
+## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1873-09-13_12_298?page=2)
 
-#### 1873-12-14 &middot; Memphis, Tenn.
-<table style="width: 100%;"><tr><td style="width: 50%">
+#### 1873-09-13
 
-&#x27;s all tbo gasdy gutter of a crows? H&#x27;  
-The way to bliss lies not on beds of down  
-Eow long we live, not years but actions tell:  
-, Watkiru.  
-That utt llvus twiee, who lives tbe Mrst life  
-Wake then, white yet we may, your God your  
-friend. Jhiw.  
-Whom chrtstlann worship, yet not comsro-  
-hend. mil.  
-The trust that&#x27;s given guard, and to yourself  
-be jot, Dana.  
-For, live we how we can, yet die we must
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_chet_ver01%2Fdata%2Fsn83045160%2F00200293083%2F1873121401%2F0674.jp2/pct:17.587940,48.189734,9.260589,4.365261/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1874-11-23/ed-1/seq-1)
-
-#### 1874-11-23 &middot; Barton, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-CnmingWd joys here no man befall: Southwell.  
-Xature to each allots his proper sphere. Congre-re.  
-Fortune makes follr her peculiar care ; Churchill.  
-Custom does not often reason overrule, Rochester.  
-And throw a cmel snn&amp;hine on a fool. Armstrong.  
-Live well how long or short permit to beaven.  
-Milton.  
-Tbey who forgive most shall most be forgiven.  
-Bailey.  
-Sin may W ebuqwA close we cannot an its face,  
-Vile intercourse where virtue has not place.  
-SomerriJe.  
-Thenkeep each passion down, however dear,  
-Thompson.  
-Thou pendulum betwixt a smile and tear ; Byron.  
-Her sensual snare let faithless pleasures lay,  
-Smollet.  
-  
-With craft and skill to ruin and betray. Crat.be.  
-Soar not too high to fall, but stoop to rise ;  
-Massinger.  
-We masters grow of all that we despise. Crowley.  
-O, then, renounce that impious self-esteem ; Beat tie.  
-Riches have wings, and grandeur is a dream.  
-Cowper.  
-Think not ambition wise because &#x27;tis brave
+have been a contribution to the San Francisco  
+Times from the pen of Mrs. H. A. Deming, and  
+to be the result of a year’s search.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194977%2F1874112301%2F0629.jp2/pct:13.405328,21.736249,11.130310,10.249613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1873-09-13_12_298&#0036;2/pct:47.474315,66.813602,37.671233,3.872796/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2753,12 +2751,15 @@ Think not ambition wise because &#x27;tis brave
 #### From _St. Louis globe-Democrat._
 
 #### 1876-07-16 &middot; St. Louis [Mo.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-09-07/ed-1/seq-6)
 
 #### 1876-09-07 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2831,33 +2832,10 @@ nant; 28, Gray; 29, Willis; 30, Addison; 31, Dryden;
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1876-09-08/ed-1/seq-6)
 
 #### 1876-09-08 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Jiartut ioeU. Tli ubtubcr of each line refer to  
-&#x27; n author brlow:  
-Lire. .  
-1 1. Why all this toil for tritunpha or an hour? .  
-&#x27;. LUo&#x27;a a abort auiniuer, mau a flower;  
-3. lly turn we catch the vital breath and die  
-4. The cradle and the touib, alaa! ao nigh.  
-B. To be ia far better than not to be,  
-6. Though all man life eoenu tragedy ;  
-?. 11 ut light oarea apeak, when mighty grief a are  
-dUIBJ.  
-8. TUo bottom la but ahallow whence they come.  
-t. Your fato U but the common fate of all ;  
-10. Uumingled Joya here to no man fall.  
-11. Nature to each allots here proper aphero,  
-11. Fortune makes fully her peculiar care ;  
-IS. Cmitotu dooa uot often reaaon overrule,  
-14. Aud throw a cruel aumtuine on a fool.  
-15, Live oil how long or abort, penult to heaven ;  
-Id. 1 hey who forgive moat shall be niont forgiven.  
-17. 8m may be claptted so cloae we cannot see it  
-fo  
-13. Vilo iutercourrto where rirtue has not place ;  
-1). Then keep each paion down, however dear,  
+hen keep each paion down, however dear,  
 70. TUou pendulum betwixt a euitle aud tear;  
 21. Her sensual anarea let laithleaa pleasure lay,  
 22. With cratt and skill, t J nun and betray ;  
@@ -2880,9 +2858,9 @@ lrieud,
 87. The truut that&#x27;s given guard, and to yourself be  
 jut,  
 38. F r, live we how we can, die we must.  
-1, Young; 2, Dr. Huru Joh
+1, Young; 2, Dr. Huru Jo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1876090801%2F0202.jp2/pct:6.018865,10.175725,14.448271,24.305272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1876090801%2F0202.jp2/pct:6.063782,21.945239,14.343465,12.535758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2891,6 +2869,7 @@ jut,
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1876-10-12/ed-1/seq-2)
 
 #### 1876-10-12 &middot; Mexico, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2971,6 +2950,7 @@ rick; 35. Mason; 36. Hill; 37.. Dana; 38. Shak­
 ## [From _Dodge City times._](https://chroniclingamerica.loc.gov/lccn/sn84029838/1876-10-14/ed-1/seq-6)
 
 #### 1876-10-14 &middot; Dodge City, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3045,7 +3025,7 @@ ZS. For, live wehow uccan,diewemust,
 1. Younc; 2. lr. bam Johnson; 3. Alexander  
   
 rope; inor;o. ewcu;i. spencer; 7. iantei;  
--3. &amp;it Walter ltaleieh;3. II. W. Lo
+-3. &amp;it Walter ltaleieh;3. II. W. Longfel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029838%2F00237283089%2F1876101401%2F0006.jp2/pct:14.736465,30.853659,21.333811,38.463415/!600,600/0/default.jpg"/>
 </td>
@@ -3056,6 +3036,7 @@ rope; inor;o. ewcu;i. spencer; 7. iantei;
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278?page=9)
 
 #### 1876-11-11
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3178,6 +3159,7 @@ Shakspeare.
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
 #### 1877-03-03 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3230,7 +3212,7 @@ actions toll; 84. That&#x27; man&#x27; lives twico
 who lives the first lifo woll, 85. Mako  
 then, whilo yot yo may, your God your  
 iriond, 80. Whom Christians worship, yet  
-not com
+not c
 </td></tr></table>
 
 ---
@@ -3238,6 +3220,7 @@ not com
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1877-05-01/ed-1/seq-1)
 
 #### 1877-05-01 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3309,10 +3292,9 @@ lett; 22, Crabbe; 23, Massinger; 21, Cowley; 25,
 Benttie; 20, Cowper; 27, Sir Walter Devenant;  
 28, Gray; 29. Willis; &quot;30, Addison; 31, Drydcn ;  
 32, Francis Charles; 33, Watklns; 31, Herrick : j  
-35, William Mason; 33, Pill; 37, Dana; .33,Shak- |  
-speare.
+35, William Mason; 33, P
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762337%2F1877050101%2F0070.jp2/pct:49.378608,16.867397,11.116902,29.096715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762337%2F1877050101%2F0070.jp2/pct:49.378608,16.867397,11.116902,28.737835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3321,26 +3303,10 @@ speare.
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1877-08-03/ed-1/seq-4)
 
 #### 1877-08-03 &middot; Ashtabula, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Custom does often reason overrule,  
-And throw a cruel sunshine on a fool.  
-Live well how long or short permit to  
-u -  
-They who &#x27;forgive shall be most forgiven.16  
-Sin may oe clapped so ciose wo  
-see his lace  
-T: 1. JntAwAnKa n li.m virtue DAS UO  
-, lie: ..-.. ....  
-ri 1 m-i  
-Then keep each passion down, however  
-dear, ..  
-Thou pendulum, betwut a smue  
-and  
-Her sensual snares let faithless pleasure  
-lay  
-With&#x27;craft and skill, to ruin and betray,  
 Sar not too high to fall, but stoop  
 to  
 23  
@@ -3383,7 +3349,7 @@ Ion- 39. PWnci Ouarles: 33 Watkins; 34
 Herrinkf SS William Mason: 86 HJ1; 8  
 Dana; 38 Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775204%2F1877080301%2F0279.jp2/pct:29.187859,13.083884,10.582445,21.936904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775204%2F1877080301%2F0279.jp2/pct:29.187859,19.332355,10.549631,15.688432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3394,12 +3360,15 @@ Dana; 38 Shakespeare.
 #### From _Aberdeen Journal_
 
 #### 1878-04-03 &middot; Aberdeen, Scotland
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350?page=5)
 
 #### 1878-04-27
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3490,12 +3459,15 @@ Shakespeare.
 #### From _Lowell daily citizen._
 
 #### 1878-09-26 &middot; Lowell, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1878-10-03/ed-1/seq-6)
 
 #### 1878-10-03 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3564,6 +3536,7 @@ rick; 35, William Mason, 36, Hill; 37. Dana; 38,
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1878-10-04/ed-1/seq-6)
 
 #### 1878-10-04 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 &#x27;&#x27; a1ioem&#x27;of scraps.  
@@ -3581,10 +3554,9 @@ tt. Your fate la but the common fate of all;
 10. I&#x27;uminRled joya hera to mail befall.  
 11. Naturo to each allot hi proper sphere  
 It. Fortune makes folly her peculiar care.  
-5. Custom does often reason overrule,  
-1. And throw a cruel sunshine on
+5. Cus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1878100401%2F1056.jp2/pct:6.570657,5.863159,14.176418,7.198940/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1878100401%2F1056.jp2/pct:6.570657,5.863159,14.176418,7.188743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3593,6 +3565,7 @@ It. Fortune makes folly her peculiar care.
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1878-10-04/ed-1/seq-6)
 
 #### 1878-10-04 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ile and tear.  
@@ -3620,13 +3593,9 @@ just;
 fl, Youua; 2. Dr. Johnson; 8. Pope; 4, Prior; 5,  
 So well; 0, Spenser; 7, Daniel; S, Kir Walter ltuleich:  
 , Lonptcllow: 10. Southwell; 11. Concreve; VI,  
-Churchill; 1H. Rochester: 14, Armstrong; l. Milton;  
-1H, Hailey; IT, Trench; IS. Koiuvrvillc: l&#x27;.. Thomson;  
-3), Byron; 11. Smollett; Xi. Crabbc; !. Massincer;  
-24, Crowley: 25. DcatUe: . Cowper; 27. Sir Walter  
-Dacnaut: &#x27;. Gray; 21, Will
+Churchil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1878100401%2F1056.jp2/pct:6.660666,15.244213,14.131413,11.532579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1878100401%2F1056.jp2/pct:6.660666,15.244213,14.131413,10.033649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3635,6 +3604,7 @@ Dacnaut: &#x27;. Gray; 21, Will
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1878-10-30/ed-1/seq-1)
 
 #### 1878-10-30 &middot; Tionesta, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3685,7 +3655,7 @@ be Just ;
 34. For, lite how we van, yet die He must.  
 I, Touug ; &#x27;J, Dr. Johnson ; 3, Tope ; , Pn.rv .  
 5, Hewell ; tl. Spencer ; 7, lauiel ; H. Kir Waif -1  
-llaleigh ; 9, 
+llaleigh ; 9, Longf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776129%2F1878103001%2F0500.jp2/pct:81.259720,52.280852,14.171851,19.919920/!600,600/0/default.jpg"/>
 </td>
@@ -3698,7 +3668,9 @@ llaleigh ; 9,
 #### From _The Congregationalist._
 
 #### 1879-01-15 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## Notes and Queries.
@@ -3706,7 +3678,19 @@ llaleigh ; 9,
 #### From _New York Observer and Chronicle (1833-1912)_
 
 #### 1879-08-21 &middot; New York
+
 [This text is not available under an open license.]
+
+---
+
+## Notes and Queries.
+
+#### From _New York Observer and Chronicle (1833-1912)_
+
+#### 1879-08-21 &middot; New York
+
+[This text is not available under an open license.]
+
 ---
 
 ## [Life.](http://trove.nla.gov.au/ndp/del/article/82115500)
@@ -3714,6 +3698,7 @@ llaleigh ; 9,
 #### From _Warwick Examiner and Times (Qld. : 1867 - 1919)_
 
 #### 1879-09-03 &middot; Warwick, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Life. In the following composition each  
@@ -3768,18 +3753,7 @@ yet you may yoor God your Friend; 86
 Whom Christians worship, yet not ootn.  
 prehend. 87 The trust that&#x27;s givon  
 gnard, and to yonnelf beJust; 88 For  
-live wo how we can yet die we most&#x27; !  
-Young; 2 Dr. Johnson; 8 Pope; 4 Prior ;  
-6 Seweil, 6 Spencer: 7 Daniel; 8 Sir  
-Walter Balelgh; 6 Longfellow; 10  
-Southwell; 11 Oongrere; 12 Churchill; 13  
-Broweeter; 14 Armstrong; 16 Milton ; 16  
-Bailey; 17 Trench ; 18Somerville; IS  
-Thompson; 20 Bryant; 21 Smollet; 22  
-Crabbe; 28 HaSsinger; 24 Cowley ; 26  
-Beattie; 26 Oowper; 27 Sir Walter  
-Daveaant; 28 Gray; 2ft Willis j 30  
-Addison; 81 Dryden ; 32 
+l
 </td></tr></table>
 
 ---
@@ -3789,6 +3763,7 @@ Addison; 81 Dryden ; 32
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
 
 #### 1879-11-19 &middot; Riverina Region, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  cruel  
@@ -3827,12 +3802,7 @@ given guard, ami to&#x27; ymtr-clf liejuit;
 mu«t. 1 Young; &#x27;3 Dr Johnson; 3 Vo&#x27; p;  
 4&#x27; Prior; u Sewell; 0 Spem-er; 7 Dnnielj  
 8 Sir Walter Raleigh: 0 Longfellow; 10  
-Southwell;&#x27; 11 Cnng&#x27;revp;&#x27; 12  
-CWrrfi&#x27;ll;&#x27; Fa Bfowestrr;  
--]4-;A&#x27;rmstronu&#x27;; lfl- Milton;- 1G  
--Hailev. 17 Trench; 18 Someivillp; . 19  
-Thompson; 20 Bryant; 21 Smolle&#x27;t; &#x27; 22  
-Cralibe; 23 &#x27;Mnssiiiirer; &#x27;? 24 Co
+Southwel
 </td></tr></table>
 
 ---
@@ -3840,6 +3810,7 @@ Cralibe; 23 &#x27;Mnssiiiirer; &#x27;? 24 Co
 ## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1880-08-12/ed-1/seq-6)
 
 #### 1880-08-12 &middot; Princeton, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3859,6 +3830,7 @@ a year&#x27;s laborious search among the leading poet* o
 ## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1880-08-12/ed-1/seq-6)
 
 #### 1880-08-12 &middot; Princeton, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 udy glitter of a crown?  
@@ -3886,6 +3858,7 @@ For, live we how we can, yet die we mus
 ## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1880-08-13/ed-1/seq-2)
 
 #### 1880-08-13 &middot; Little Falls, Morrison County, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3904,9 +3877,90 @@ the past and present tim
 
 ---
 
+## [From _The Mankato free press._](https://chroniclingamerica.loc.gov/lccn/sn83016589/1880-09-24/ed-1/seq-1)
+
+#### 1880-09-24 &middot; Mankato, Blue Earth County, Minn.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+o be ia bettor far than not to lie,   
+J” Tl*&quot;&#x27;W** nian’&quot; We may accui a tragedy;   
+&quot;• But light care* ajxiak when mighty grief* arc  
+dumb,   
+K The bottom i* but ahallow whouiv they come.   
+It. Your fate la but the common fate of all;   
+10. Uniuinglcd joy* here to man Ixifall.   
+11. Nature to each allot* hie proper e|&gt;hcre—  
+IX Fortune maki« folly her jax-uliar care,   
+13. t&#x27;natom deca often reaaou overrule,   
+14. And throw a cruel auiuhino on a fool.   
+I*. Live well, bow long or abort, )&gt;ennit to heaven;  
+IK. They who forgive moat .ball De moat forgiven.   
+17. Rin may l« da*]ied ao clone wo cannot *&quot;e it*  
+face—  
+la. Vile inteeoonrae when* v irtue ha* not plan*;  
+1». Then keep your pagaiona down, however dear.   
+20. Thou pendulum lietwiit a Haile and tear.   
+31. Her aonaual rnare let faithloa Pleasure lay   
+22. With craft and .kill to ruin and Ix&#x27;tray.   
+33. Hoar not to high to fall, tint atoop to riae,   
+34. We luaater* grow of all we deapire.   
+&#x27;•». i &gt;b, tlu n, renounce that impioua wlf-eaUietii;  
+2K. Riche* have wing*, and grandeur ia a dream,  
+37. Think not ambition vriae because ’tia bravo,  
+2*. The jiatha of glory lead but to the grave.   
+29. What ia ambition 7 ’tia a glorioua cheat,   
+30. Only destructive to the brave and groat.  
+Hl. What&#x27;* all the gaudy glitter of a crown?   
+32. The way to bit** lie* no&#x27; on Iwda of down,   
+33. llow long we live, not yeara but action* tell;   
+34. That man liv&lt;* twice who live* the tirat life well.   
+33. Make, then, while yet yc may, your ileal your  
+friend;   
+3K. Whom t&#x27;lmatiana worship, yet not comprehend.   
+37. The trust that&#x27;s given, guard, and to y ourself lie  
+just;   
+33. For, live how we can, yet die we must:   
+  
+(1. Young; 2, l&gt;r. Johnaou; 3, Pope; 4, Prior; K,  
+Hew. II; K, Spencer; 7, Daniel; x, Hir Walter llaleigh;  
+9, la’ligtcllow; 10, Southwell; 11, Congreve; 12,  
+Churchill; 13, Rochester; 14, Yrmatrong; IS, Milton;  
+IK, Bailey; 17, Trench; 13, Homerville, 19, Thomson;  
+20, Byron; 21, Smollett; 22, Crabble; 23, Maaaiuger;  
+24, Crowley; 25, Hattie; 2(1, Cowpvr; 27, Sir Walle
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_fencing_ver02%2Fdata%2Fsn83016589%2F00393340654%2F1880092401%2F0179.jp2/pct:4.734802,6.947150,9.725316,13.527464/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1880-09-30/ed-1/seq-1)
 
 #### 1880-09-30 &middot; Ridgway, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Tbe following remarkable compilation is a  
+contribution to tbflSan Francisco Times lrom  
+the pen ol Mrs. H. K. Doming. The reader  
+will notice that eaoh line is a quotation lrom  
+some oi the BtAtidnrd authors ot England and  
+America. Tuin is the result ol a year&#x27;s labori­  
+ous search among the leading pouts ot th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776105%2F1880093001%2F0164.jp2/pct:4.523634,15.883576,12.167651,2.966043/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1880-09-30/ed-1/seq-1)
+
+#### 1880-09-30 &middot; Ridgway, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 n ly g-ittor ol a crown t  
@@ -3934,6 +3988,7 @@ For, live we how we can, yet die we must
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1881-03-27/ed-1/seq-2)
 
 #### 1881-03-27 &middot; Memphis, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4002,7 +4057,7 @@ son; 20, Kyron; 21, Smollett; 22, Crabbe;
 Cowper; 27, Sir Walter levcnant; 2S, Grav;  
 2ii. VilKs; 30, Addison; 31, Drvdeu; 32.  
 Francis Charles; 3, Watkins; 34, Ilerrick;  
-3. William Mason; 3U, rill; 3J, Dana
+3. William Mason; 3U, rill; 3J,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_charlie_ver01%2Fdata%2Fsn83045160%2F0028077960A%2F1881032701%2F0281.jp2/pct:32.159748,72.361024,9.012086,19.362898/!600,600/0/default.jpg"/>
 </td>
@@ -4013,6 +4068,7 @@ Francis Charles; 3, Watkins; 34, Ilerrick;
 ## [From _Northern tribune._](https://chroniclingamerica.loc.gov/lccn/sn85026455/1881-05-21/ed-1/seq-3)
 
 #### 1881-05-21 &middot; Cheboygan, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4030,7 +4086,7 @@ a 9hort summer, man a flower. -
 - - -r-Dr. Johnson. .  
 By turns we catch the vital breath and die  
 Pope.  
-The cradl
+The cradle ani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881052101%2F0556.jp2/pct:6.292563,10.886850,11.958594,6.422018/!600,600/0/default.jpg"/>
 </td>
@@ -4041,6 +4097,7 @@ The cradl
 ## [From _Northern tribune._](https://chroniclingamerica.loc.gov/lccn/sn85026455/1881-05-21/ed-1/seq-3)
 
 #### 1881-05-21 &middot; Cheboygan, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4065,6 +4122,7 @@ For; live we how we can, yet die we mus
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1881-11-04/ed-1/seq-1)
 
 #### 1881-11-04 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4087,6 +4145,7 @@ and present time
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1881-11-04/ed-1/seq-1)
 
 #### 1881-11-04 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 udy glitter of a crown?  
@@ -4116,22 +4175,7 @@ For, live we how we can. yet die we mus t
 #### From _South Bourke and Mornington Journal (Richmond, Vic. : 1872 - 1920)_
 
 #### 1882-08-23 &middot; South Bourke, Victoria
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-occupied a whole year&#x27;s lab oona sa?sh  
-among the voluminous writinzs oi th?try.  
-eight leading poets of the past and  
-preset: times. The credit of it is gve
-</td></tr></table>
-
----
-
-## [A POEM BY MANY POETS.](http://trove.nla.gov.au/ndp/del/article/70053218)
-
-#### From _South Bourke and Mornington Journal (Richmond, Vic. : 1872 - 1920)_
-
-#### 1882-08-23 &middot; South Bourke, Victoria
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ve to the  
@@ -4152,11 +4196,7 @@ Coagre;rt 12, Chare13, Rochester; 14
 Armstreono; 13. 1 llt 16, Bailey; 17,  
 Trench; 1t, Somerville: Thomson; 20,  
 Byron; 3I, Smollnet: &#x27; Crabbei; 23,  
-Massinger: ;2, t&#x27;owley Beattie: 2G,  
-Cowper; 27, Sir Walter ar nant;  
-2S,,Gray; 29, W1&#x27;illis: .w. Addsc 31,  
-Dryden; 32, Francis Quarls: *1 flill 37,  
-Dana; 33, Shakspere.-Gu
+Massinger: ;2, t&#x27;owley 
 </td></tr></table>
 
 ---
@@ -4164,6 +4204,7 @@ Dana; 33, Shakspere.-Gu
 ## [From _The daily Cairo bulletin._](https://chroniclingamerica.loc.gov/lccn/sn87082573/1882-08-27/ed-1/seq-1)
 
 #### 1882-08-27 &middot; Cairo, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4266,6 +4307,7 @@ Dryden; 32, Francis Charles ; 33, Watkh s;
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1882-08-31/ed-1/seq-1)
 
 #### 1882-08-31 &middot; Pulaski, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4290,7 +4332,7 @@ Life&#x27;s a shoit summer, man a flower.
 By turns wo catch tho vital breath and  
 die.  
 The cradle and the tomb, alus! so nigh.  
-T
+To
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882083101%2F0582.jp2/pct:64.857183,31.848807,9.990053,9.238324/!600,600/0/default.jpg"/>
 </td>
@@ -4301,6 +4343,7 @@ T
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1882-08-31/ed-1/seq-1)
 
 #### 1882-08-31 &middot; Pulaski, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4356,6 +4399,7 @@ Pill; 37, Dana; 3S, Shakespeare
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1882-09-25/ed-1/seq-3)
 
 #### 1882-09-25 &middot; [Wilmington, Del.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4458,9 +4502,11 @@ Daua; 3S, Shakespeare
 ## [From _The Evening critic._](https://chroniclingamerica.loc.gov/lccn/sn82014424/1882-09-26/ed-1/seq-1)
 
 #### 1882-09-26 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ho San rrauclsco Tim&#x27;s  
+g vory romarkablo llttlo poom  
+Is a contribution to tho San rrauclsco Tim&#x27;s  
 from tbo&#x27; pen ot Mr. H. A. Doming. Tho reader  
 will seo that each lino Is a quotation from somo  
 ono ot tbo standard authors ot England and  
@@ -4535,7 +4581,7 @@ singer; 21, Cowley: 20, lleattle: 211, Oownor;
 33, WatUlns; 31,Uerrlck; 35, William Mason:  
 Oil, Pill; 37, Dana; us, shakspoar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_harry_ver01%2Fdata%2Fsn82014424%2F00211102871%2F1882092601%2F0300.jp2/pct:42.310978,49.291416,12.067493,27.854699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_harry_ver01%2Fdata%2Fsn82014424%2F00211102871%2F1882092601%2F0300.jp2/pct:42.310978,48.851604,12.067493,28.294511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4546,7 +4592,9 @@ Oil, Pill; 37, Dana; us, shakspoar
 #### From _The Cleveland herald._
 
 #### 1882-09-27 &middot; [Cleveland, Ohio]
+
 [This text is not available under an open license.]
+
 ---
 
 ## A Literary Curiosity
@@ -4554,20 +4602,15 @@ Oil, Pill; 37, Dana; us, shakspoar
 #### From _St. Louis globe-Democrat._
 
 #### 1882-10-01 &middot; St. Louis [Mo.]
+
 [This text is not available under an open license.]
----
 
-## A Literary Curiosity
-
-#### From _St. Louis globe-Democrat._
-
-#### 1882-10-01 &middot; St. Louis [Mo.]
-[This text is not available under an open license.]
 ---
 
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1882-10-17/ed-1/seq-1)
 
 #### 1882-10-17 &middot; Idaho City, Idaho Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4659,9 +4702,9 @@ f« r ; 27, Sir Walter Devenant; 28,
 29, Willis; 30, Addis&#x27; n; 31,  
 llry den ; 32, Francis Charles; 33, Wat­  
 kl &quot;»; 34, Herrick; 35. William Mason;  
-зб, Pill; 3T ( Dana; 38, Shakespeare.
+з
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869604%2F1882101701%2F0674.jp2/pct:2.171815,33.828125,17.977799,59.828125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869604%2F1882101701%2F0674.jp2/pct:2.171815,33.828125,17.977799,59.484375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4670,6 +4713,7 @@ kl &quot;»; 34, Herrick; 35. William Mason;
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1882-10-17/ed-1/seq-1)
 
 #### 1882-10-17 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4761,8 +4805,19 @@ Dana; 38, Shakespeare,
 ## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391?page=6)
 
 #### 1882-10-26
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ He cannot  
+promise to return rejected MSS., or correspond with the writers. Cor-  
+respondents should aim at brevity; the pressure on our columns impera-  
+tively demands it.]  
+  
+  
+  
+  
+  
+A LITERARY CURIOSITY.  
   
 [The following remarkable little poem is a contribution to  
 the San Francisco Times from the pen of Mrs. H. A. Deming.  
@@ -4772,7 +4827,7 @@ the result of a year’s laborious search among the voluminous
 writings of thirty-eight leading poets of ‘the past and present.  
 We would be glad to hear from any person who can tell th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391&#0036;6/pct:34.352900,22.356021,28.076379,5.863874/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391&#0036;6/pct:34.352900,18.062827,28.094059,10.157068/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4781,6 +4836,7 @@ We would be glad to hear from any person who can tell th
 ## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391?page=6)
 
 #### 1882-10-26
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 but shallow whence they come.  
@@ -4854,6 +4910,7 @@ What is ambition ? ’tis a glorious cheat!
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1882-11-18/ed-1/seq-1)
 
 #### 1882-11-18 &middot; McMinnville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4954,6 +5011,7 @@ kins; 34, Herrick; 35, William Mason;
 ## [From _Charlotte home and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020714/1882-12-08/ed-1/seq-1)
 
 #### 1882-12-08 &middot; Charlotte, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5036,6 +5094,7 @@ Dana ; 38, Sbakspeare
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1882-12-08/ed-1/seq-1)
 
 #### 1882-12-08 &middot; Ebensburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5093,30 +5152,21 @@ lay.
 With craft and skill to ruin and betray.  
 Soar not too high to fall, but stoop to rise.  
 We roasters grow of all that we despise.  
-Oh, then, renoucce that Impiousself-esteem  
-1  
-Riches have wings and grandeur is a  
-22.  
-23.  
-24.  
-25.  
-26.  
-dream.  
-37. Think not ambition wise because &#x27;tis  
-brave  
-28.  
-29.  
-30.  
-31.  
-32.  
-33.  
-34.  
-35.  
-The paths of glory lead but to the grave.  
-What is ambition ? &#x27;Tis a glorious eheat  
-Only destructive to tbe brave and great.  
-What&#x27;s all the gaudy glitter of a crown ?  
-The way of blis lies not on besls of down.  
+Oh, then, renoucce that Impiousself-estee
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1882120801%2F0202.jp2/pct:36.113500,17.711561,11.278303,19.034565/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1882-12-08/ed-1/seq-1)
+
+#### 1882-12-08 &middot; Ebensburg, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+is lies not on besls of down.  
 IIow long we live not years but actions  
 tell­  
 That man lives twice who lives tbe first  
@@ -5141,7 +5191,7 @@ Francis Charles ; 33, Watkint ; 34. Ilerrick ;
 33, William Mason ; 36, Pill ; 37, Dana; 38,  
 Sbakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1882120801%2F0202.jp2/pct:36.084838,17.711561,11.306965,33.492253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1882120801%2F0202.jp2/pct:36.084838,39.964243,11.235311,11.239571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5150,6 +5200,7 @@ Sbakspeare
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1882-12-09/ed-1/seq-1)
 
 #### 1882-12-09 &middot; Donaldsonville, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5229,13 +5280,10 @@ Win. Mlason; 36. Pill; 37, Dana; 38, Shakespeare
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1882-12-09/ed-1/seq-1)
 
 #### 1882-12-09 &middot; Towsontown, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- or abort, permit to heaven;  
-I It. They who forgive moat iball be mott forgivoa.  
-1,11. Hin may be elaepeil Do lon wo cannot iU  
-IK. VII# iiUreoirN where virtue bat do plaee.  
-19. Then keep eaeh peeeit*n down, however dear.  
+keep eaeh peeeit*n down, however dear.  
 20. Thou peudulum betwixt a entile and tear.  
 31. Iler eeneual eaare* let faltlileee pleasure lejr,  
 22. With craft aad shill to ruin and betrajr.  
@@ -5267,10 +5315,9 @@ let t; 22, Crabbe ; 23, Massingtr ; 24, Cowley: 24,
 Heattie: 26, Cow per; 27, Sir Walter hetrnant;  
 26, Gray : 29. Willis : .10, Addison : 31. Dry den ;  
 32, Frances Charles; 33, Watkins; 31, llerrick;  
-34, Wm. Meson: 36, Pill: 37, Dana; 36. Shahs,  
-peare
+34, Wm. Meson: 36,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627609%2F1882120901%2F0739.jp2/pct:51.195670,22.212290,11.159591,16.189909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627609%2F1882120901%2F0739.jp2/pct:51.376070,24.119322,10.979191,13.749834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5279,6 +5326,7 @@ peare
 ## [From _Phillipsburg herald._](https://chroniclingamerica.loc.gov/lccn/sn85029677/1883-01-04/ed-1/seq-2)
 
 #### 1883-01-04 &middot; Phillipsburg, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5393,6 +5441,7 @@ Pill; 87. Dana ; SS Shakspeare
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1883-01-04/ed-1/seq-4)
 
 #### 1883-01-04 &middot; Belfast, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5443,33 +5492,11 @@ teem !
 Jn. Tin* paths of glory lead but to the grave.  
 22. What is ambition? *Tis a glorious cheat—  
 2. 2 Only destructive to tin* brave and great.  
-21. What’s all tin gaudy glitter
+21. What’s all tin gaudy glitter of a crown?  
+22. Tin- way of bliss lies not on beds of down.  
+22. How
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1883010401%2F0437.jp2/pct:16.892207,6.115892,10.892052,16.962134/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1883-01-04/ed-1/seq-4)
-
-#### 1883-01-04 &middot; Belfast, Me.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- Tin* trust that&#x27;s given guard, and to yourself  
-be jllst,  
-l- oi ii\e we how we can. die we must.  
-: Young: 2. l&gt;r. Johnson: 3, Rope: 4, Prior:  
-. &quot;&#x27;•well: 2. Spencer; 7. Daniel; s. Sir Walter  
-&quot; ••I!: &quot;, Longfellow: 10, Southwell; ll.Con­  
-gre\e: 12. Churchill: 12, Rochester: 14, Arm­  
-strong: 17. Milton: 10. Bailey: 17, Trench: In.  
-&gt;onn-r\ii!e: p.», Thompson; 2*2 Byron: 21.  
-&gt;nio l*-tt : 22. * rabbe: 22. Massinger: 24. &lt; ow­  
-; -7. Beattie: 20. ( owper: 27. Sir Walter  
-D &lt;i.:nit; 2n.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1883010401%2F0437.jp2/pct:16.892207,25.897877,10.892052,4.236948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1883010401%2F0437.jp2/pct:16.892207,6.115892,10.892052,17.593230/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5478,6 +5505,7 @@ D &lt;i.:nit; 2n.
 ## [From _Butler citizen._](https://chroniclingamerica.loc.gov/lccn/sn86071045/1883-03-21/ed-1/seq-1)
 
 #### 1883-03-21 &middot; Butler, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5569,6 +5597,7 @@ peare
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1883-05-26/ed-1/seq-1)
 
 #### 1883-05-26 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5647,6 +5676,7 @@ Shakspeare
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1883-06-09/ed-1/seq-1)
 
 #### 1883-06-09 &middot; Elkton, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5748,6 +5778,7 @@ peare
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
 
 #### 1883-07-14 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5809,6 +5840,7 @@ we may, yet die we must
 ## [From _The Hope pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87096037/1883-08-10/ed-1/seq-4)
 
 #### 1883-08-10 &middot; Hope, N.D.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5910,6 +5942,7 @@ Herrick 85, William Mason 36, Pill
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
 
 #### 1883-09-08 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5932,6 +5965,7 @@ Walter Davenant; 28/ Gray s 29, Wiilis;
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1883-09-13/ed-1/seq-1)
 
 #### 1883-09-13 &middot; Ellsworth, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5971,7 +6005,7 @@ its far©—
 ?.’• With craft an«l skill to ruin and U tray.  
 23. &gt;&lt;&gt;ar not too high to fall, but -tom. to rise,  
 21. We masters grow nf all that we despise.  
-2- &#x27;*. * »h, then re
+2- &#x27;*. * »h, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895357%2F1883091301%2F0166.jp2/pct:35.610946,18.040966,11.177445,11.978072/!600,600/0/default.jpg"/>
 </td>
@@ -5984,6 +6018,7 @@ its far©—
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
 #### 1883-09-15 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6050,9 +6085,48 @@ winuit. 1. Young; 2.-Dr. Jofas0n ;
 
 ---
 
+## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1883-10-23/ed-1/seq-1)
+
+#### 1883-10-23 &middot; Paris, Me.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+pen of Mr. If. A. l&gt;em·  
+ing. The reader will nee that each line 1»  
+a iju&gt;&gt;tation from eome one of the staudard  
+mi thorn of Euglaud ami America. This h  
+the nsult of yearn of laborious search  
+stnong the voluminous writings of thirty­  
+« Ight leading poets of the pint and preseut.  
+The nutnlwr of each Hue refers to its au­  
+thor below :]  
+1 Why m!1 litis toil for triumphs of an hour?  
+*. I.lfe&#x27;s a short summer. man&#x27;s η flower,  
+3. Hy turns wo rateh the vital brra&#x27;h anil «He,  
+4. The cradle anil Uie tomb, alas so nigh.  
+5. To t&gt;e I* better far than not to be,  
+c. Though all men&#x27;s lives may seem a tragi··  
+rfy;  
+7. Hut light rare* speak when mighty grief*  
+are ituinb,  
+S. The bottom Is but shallow whence they  
+come.  
+9. Your fate Is but the common fate of hII ;  
+to. t&#x27;ninli glril joys here no man run befall;  
+li. Nature to each allots It» proper sphere;  
+I.·. rmtuiiK makes folly her particular care.  
+) 1. Cu»t&lt; ui doea often reason overrule,
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F0027952407a%2F1883102301%2F0538.jp2/pct:28.224355,16.079159,12.482503,11.207311/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Seattle daily post-intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83045611/1883-10-27/ed-1/seq-4)
 
 #### 1883-10-27 &middot; Seattle, W.T. [Wash.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6170,7 +6244,7 @@ ley; 25, Beattie; 2l&#x27;&gt;, (Viwper; 27. Sir Wal­
 ter Devenaut; 2H, Grey; HI, Willis; :VO,  
 Addison; HI, Drydeu; 32, FrancisCharbs;  
 38, Watkms; :M, llerrick; .&#x27;&lt;s, William  
-Mason; :!*», Fill; 87, Dana, 3*. 
+Mason; :!*», Fill; 87, Dana, 3*. Shak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_dungeness_ver03%2Fdata%2Fsn83045611%2F00202198892%2F1883102701%2F0521.jp2/pct:7.125136,7.390079,10.931927,39.270011/!600,600/0/default.jpg"/>
 </td>
@@ -6181,6 +6255,7 @@ Mason; :!*», Fill; 87, Dana, 3*.
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1884-04-26/ed-1/seq-4)
 
 #### 1884-04-26 &middot; Clarksville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6269,53 +6344,12 @@ Addison; 31, Dryden; 32, &#x27;Francis Charles
 
 ---
 
-## [LIFE.](http://trove.nla.gov.au/ndp/del/article/90572076)
-
-#### From _The Bacchus Marsh Express (Vic. : 1866 - 1918)_
-
-#### 1885-08-15 &middot; Bacchus Marsh, Victoria
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-LI F E. THE following poem is a  
-contribution to.the .&quot; San Francisco  
-Times,&quot; from the pen of Mrs. H. A.  
-Denning. Each line is a quotation from  
-some poet. Why all this toil for
-</td></tr></table>
-
----
-
-## [LIFE.](http://trove.nla.gov.au/ndp/del/article/90572076)
-
-#### From _The Bacchus Marsh Express (Vic. : 1866 - 1918)_
-
-#### 1885-08-15 &middot; Bacchus Marsh, Victoria
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-(Trench) Vile intercourse where virtue  
-has no place. (Somerville) Then keep  
-each passion down, howevier dear.  
-(Thompson) Thou pendulum betwixt a smile  
-and tear. (Byron) Her sensual snares let  
-faithless pleasures lay i (Smollet) With  
-craft and skill, to ruin and betray ;  
-(Crabbe) Soar not too high to fall, but  
-stoop to rise, (Massinger) We masters  
-grow of all that we despise. (Cowley) O,  
-then, renounce that impious self esteem;  
-(Beattie) Riches have wings, and  
-grandeur is a dream. . (Cowper) Think  
-not ambition wise because &#x27;tis brave,
-</td></tr></table>
-
----
-
 ## [The Moss Rose.](http://trove.nla.gov.au/ndp/del/article/101642995)
 
 #### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
 
 #### 1885-11-03 &middot; Kiama, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6382,6 +6416,7 @@ Francis Quarles; 88 Watkins; 81 Harrick;
 ## [From _Herald of gospel liberty._](https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1885-11-26_77_48?page=1)
 
 #### 1885-11-26 &middot; Portsmouth [N.H.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6398,41 +6433,10 @@ Why all this toil for triumphs of an hour?—[Young
 
 ---
 
-## [POETRY. LIFE.](http://trove.nla.gov.au/ndp/del/article/160168516)
-
-#### From _Adelaide Observer (SA : 1843 - 1904)_
-
-#### 1886-09-11 &middot; Adelaide, South Australia
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-man befau. (Southwell.) Mature to each  
-allots hisnroper sphere; (Consreve )  
-Fortune makes folly her peculiar care;  
-(Churchill.) Custom does not often  
-reason overrule, (Rochester.) ■ And  
-throws a cruel sunshine on a fool.  
-(Armstrong.) ■ Uve well; how long or  
-short, permit to heaven. (Milton.) They  
-who foigive molt shall be most forgiven.  
-(Bailey.) Sin may be clasped so close we  
-cannot see its face, (Trench.) Vile  
-intercourse where virtue has no place.  
-(Somer title.) Then keep each passion  
-down, however dear, (Thomson.) Thou  
-pendulum betwixt a smile and tear.  
-(Byron.) Her sensual snares let  
-faithless pleasures lay; &#x27;■ (Smollett)  
-With craft and skill, to rnin and  
-betray. (Crahhc.) Soar not too high to  
-fall, but stoop to rise, (Mas singer.
-</td></tr></table>
-
----
-
 ## [From _The Hawaiian gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025121/1886-11-02/ed-1/seq-7)
 
 #### 1886-11-02 &middot; Honolulu [Oahu, Hawaii]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6543,7 +6547,9 @@ Dana 3S Shakespher
 #### From _St. Louis globe-Democrat._
 
 #### 1887-02-03 &middot; St. Louis [Mo.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Curious Life Poem
@@ -6551,15 +6557,9 @@ Dana 3S Shakespher
 #### From _The Milwaukee sentinel._
 
 #### 1887-02-11 &middot; Milwaukee, Wis.
+
 [This text is not available under an open license.]
----
 
-## The Breakfast Table
-
-#### From _Boston daily advertiser._
-
-#### 1887-02-12 &middot; Boston, Mass.
-[This text is not available under an open license.]
 ---
 
 ## A Curicus Life Poem
@@ -6567,12 +6567,15 @@ Dana 3S Shakespher
 #### From _The daily inter ocean._
 
 #### 1887-02-13 &middot; Chicago, Ill.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-02-17_35_7?page=30)
 
 #### 1887-02-17 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6703,6 +6706,7 @@ Herrick ; 35, William Mason ; 36, Hill ; 87, Dana»
 ## [From _Iowa County democrat._](https://chroniclingamerica.loc.gov/lccn/sn86086852/1887-02-18/ed-1/seq-4)
 
 #### 1887-02-18 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6802,6 +6806,7 @@ peare
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1887-02-24/ed-1/seq-5)
 
 #### 1887-02-24 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6898,9 +6903,99 @@ peare
 
 ---
 
+## [From _Advocate of Peace (1847-1906)_](https://iiif.archivelab.org/iiif/sim_world-affairs-us_march-april-1887_49_2?page=19)
+
+#### 1887-03-01 &middot; Washington
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ht cares speak when mighty cares are dumb,  
+  
+. — The bottom is but shallow whence they come.  
+  
+. — Your fate is but the common fate of all;  
+  
+. — Unmingled joys here to no man befall.  
+  
+. — Nature to each allots his proper sphere,  
+  
+12. — Fortune makes folly her peculiar care ;  
+  
+. — Custom does often reason overrule,  
+  
+. — And throw a cruel sunshine on a fool.  
+  
+. — Live well, how long or short, permit to heaven,  
+  
+. — They who forgive most shall be most f
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_world-affairs-us_march-april-1887_49_2&#0036;19/pct:12.073670,27.199191,33.697135,9.681496/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Advocate of Peace (1847-1906)_](https://iiif.archivelab.org/iiif/sim_world-affairs-us_march-april-1887_49_2?page=19)
+
+#### 1887-03-01 &middot; Washington
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+r;  
+  
+- — Her sensual snares let faithless pleasure lay  
+  
+- — With craft and skill to ruin and betray;  
+  
+. — Soar not too high to fall, but stoop to rise,  
+  
+. — We masters grow of all that we despise.  
+  
+. — O, then renounce that impious self-esteem ;  
+  
+. — Riches have wings, and grandeur is a dream.  
+  
+.— Think not ambition wise because ’tis brave,  
+  
+.— The path of glory leads but to the grave.  
+  
+.— What is ambition? ’Tis a glorious cheat,  
+  
+. — Only destructive to the brave and great.  
+  
+. — What’s all the gaudy glitter of a crown?  
+  
+. — The way to bliss lies not on beds of down.  
+  
+. — How long we live, not years, but actions tell :  
+  
+. — That man lives twice who lives the first life well.  
+  
+. — Make, thee, while yet ye may, your God your friend,  
+36. — Whom Christians worship, yet not comprehend.  
+87. — The trust that’s given guard, and to yourself be just;  
+88. — For, live we how we can, yet die we must.  
+  
+1, Young; 2, Dr. Johnson; 3, Pope; 4, Prior; 5, Sewell; 6,  
+Spenser; 7, Daniel; 8, Sir Walter Raleigh; 9, Longfellow; 10,  
+Southwell; 11, Congreve; 12, Churchill: 13, Rochester; 14, Arm-  
+strong; 15, Milton; 16, Baily; 17, Trench; 18, Somerville; 19,  
+Thomson; 20, Byron; 21, Smollett; 22, Crabbe; 23, Massinger;  
+24, Crowley; 25, Beattie; 26, Cowper; 27, Sir Walter Davenant;  
+28, Gray; 29, Willis; 30, Addison; 31, Dryden; 32, Francis  
+Quarles; 33, Watkins; 34, Herrick; 35, William Mason; 36, Hill;  
+37, Dana; 38, Shakespeare.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_world-affairs-us_march-april-1887_49_2&#0036;19/pct:11.016371,39.939333,39.802183,27.477250/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1887-03-03/ed-1/seq-1)
 
 #### 1887-03-03 &middot; Oskaloosa, Mahaska County, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6977,6 +7072,7 @@ Shakespeare.
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1887-03-03/ed-1/seq-4)
 
 #### 1887-03-03 &middot; Ellsworth, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7013,15 +7109,21 @@ dear;
 lay  
 22 W itli craft and ‘kill to ruin and betray ;  
 23 s,,j,r ii&lt;&gt;r too high to fal:. but stoop to ri*. .  
-24 We niH‘b r* gn»vv &quot;f all that vv c ilespj,.  
-25 i *. th&lt; n renounce that impious self-esteem ;  
-2t» Kicli •*« lisv» v\ ings. and grandeur i- a  
-dream.  
-27 Think not ambition *vi*« because ’ti*  
-brav i .  
-2s Th* path «*f g’oi v |&lt; a.I* hut to the grave.  
-2b W bat i‘ ambition!’ ’Ti** a gloriou* cheat.  
-30 Onlv destructive to the brave and great.  
+24 We niH‘b r* gn»vv &quot;f all 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895333%2F1887030301%2F0039.jp2/pct:24.888036,4.674693,9.920825,11.785989/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1887-03-03/ed-1/seq-4)
+
+#### 1887-03-03 &middot; Ellsworth, Me.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+to the brave and great.  
 31 \\ hat’s all the gaudy glitter of a crown!  
 ;42 Tin* wav tobli** lie* not on be*!* of down.  
 33 - How long we llv***. ii&quot;f vear*. but actions.  
@@ -7042,9 +7144,9 @@ Congreve; 12. Churchill; 13, Rochester; 14.
 Armstmng: 15. Milton ; b*. Bailey ; 1.. I reneh ;  
 Is. Soinerv ille ; lb. 1’ltoiU‘on ; 2&quot;. Bvr«»n;21.  
 Smolh tt: 22, &lt; mbb* ; 25. Massing* r; 24. f row -  
-|. \ 25. B* ittie; 2* &lt; owp« r; 27. s
+|. \ 25. B* ittie; 2* &lt; owp« r; 27. s.r Wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895333%2F1887030301%2F0039.jp2/pct:24.808061,4.674693,10.160749,21.814165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895333%2F1887030301%2F0039.jp2/pct:24.808061,18.903689,10.160749,7.585169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7055,12 +7157,15 @@ Smolh tt: 22, &lt; mbb* ; 25. Massing* r; 24. f row -
 #### From _Milwaukee daily journal._
 
 #### 1887-03-05 &middot; Milwaukee, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1887-03-17/ed-1/seq-4)
 
 #### 1887-03-17 &middot; Ravenna, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7147,7 +7252,9 @@ kius; 31. Derrick; 3o. William Mason;
 #### From _Hampshire/Portsmouth Telegraph_
 
 #### 1887-03-19 &middot; Portsmouth, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## A Veritable Poem of Poems
@@ -7155,12 +7262,100 @@ kius; 31. Derrick; 3o. William Mason;
 #### From _The Galveston daily news._
 
 #### 1887-03-27 &middot; Houston [Tex.]
+
 [This text is not available under an open license.]
+
+---
+
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1887-03-31/ed-1/seq-3)
+
+#### 1887-03-31 &middot; Lancaster, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+eight English poets. The names of  
+the authors are given below:  
+1— Why all this toil for triumphs &lt;&gt;fan hour?  
+2 Life&#x27;s a short summer, man a flower:  
+3By turns weeaich the vital breath, and  
+die—  
+&lt;—The cradle and the tomb, alas! so high.  
+s—To be is better far than not to bo.  
+B—’Though all man&#x27;s Hie may seem a tragedy;  
+7 But light cares speak when mighty cares  
+are dumb,  
+8— The bottom is but shallow whence they  
+cotne.  
+I&gt;—Your fate is but the common fate of all:  
+10— Unmingled joys here to no man befall.  
+11— Nature to each allots his proper sphere,  
+12— Fortune makes folly her peculiar care;  
+13— Custom docs often reason overrule,  
+14— And throw a cruel sunshine on a fool.  
+15— Live well, how long or short, permit to  
+heaven.  
+18—They who forgive most shall be most for­  
+given.  
+17— Sin may be clasped so close we can not see  
+its face-  
+18— Vile intercourse where virtue has not  
+place;  
+19— Then keep each passion down, however  
+dear;  
+20— Tlvou pendulum betwixt a smile and tear;  
+21— Her sensual snares, let faithless pleasure  
+. lay  
+22 With craft and skill to ruin and betray;  
+23 Soar not too high to fall, but stoop to rise.  
+24 We masters grow of all that we despise.  
+25— O. then renounce that impious self-es-  
+teem ;  
+26 Riches have wings, and grandour is a  
+dream.  
+27 Think not ambition wise because &#x27;tla  
+brave,  
+28— The path of glory leads but to the grave.  
+29 What is ambition? &#x27;tis a glorious cheat,  
+30— Only destructive to the brave and great.  
+31— What’s all the gaudy glitter of a crown?  
+32 The way to bless lies not on beds of down.  
+33 How long we live not years, but actions  
+tell;  
+34 That man lives twice who lives the first  
+life well.  
+35 Make, then, while yet ye may, your God  
+your friend,  
+36 W horn Christians worship, yet not compre-  
+hend.  
+37 The trust that&#x27;s given guard, and to your-  
+self be just;  
+38— For, live we how we can. yet die we must.  
+1. Young; 2, Dr. Johnson; 3, Pope;  
+4, Prior; 5, Sowell; 6, Spenser: 7, Dan­  
+iel; 8, Sir Walter Raleigh; 9, Longfel­  
+low; 10, Southwell; 11, Congreve; 12,  
+Churchill; 13. Rochester; 11, Arm­  
+strong; 15, Milton; 16, Baily; 17,  
+Trench; 18, Somerville; 19, Thomson;  
+26, Byron; 21, Smollett; 22, Crabbe;  
+23, Massinger; 24, Cowley; 25, Beattie;  
+26, Cowper; 27, Sir Walter Davenant;  
+28, Gray; 29, Willis; 30, Addison; 31,  
+Dryden; 32, Francis Quarles; 33, Wat­  
+kins; 34, Herrick; 35, William Mason;  
+36, Hill; 37, Dana; 38, Shakspeare.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159221%2F1887033101%2F0051.jp2/pct:26.031790,6.781485,10.672896,25.392896/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _The Irish standard._](https://chroniclingamerica.loc.gov/lccn/sn90059959/1887-04-02/ed-1/seq-3)
 
 #### 1887-04-02 &middot; Minneapolis, Minn. ;
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7241,6 +7436,7 @@ Dryden 32, Francis Quarles 33, Watkins
 ## [From _The San Saba news._](https://chroniclingamerica.loc.gov/lccn/sn84022097/1887-04-08/ed-1/seq-2)
 
 #### 1887-04-08 &middot; San Saba, Tex.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  we catch the rital breath and  
@@ -7326,6 +7522,7 @@ Shakespeare wf
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1887-04-13/ed-1/seq-2)
 
 #### 1887-04-13 &middot; New Ulm, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7431,6 +7628,7 @@ speare
 ## [From _The sun._](https://chroniclingamerica.loc.gov/lccn/sn91059392/1887-04-14/ed-1/seq-1)
 
 #### 1887-04-14 &middot; Morris, Stevens County, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7543,6 +7741,7 @@ speare.
 ## [From _Bridgeton pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87068192/1887-04-14/ed-1/seq-6)
 
 #### 1887-04-14 &middot; Bridgeton, N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7621,6 +7820,7 @@ Dryden; 32, Francis Quarles; 33, Watkins;
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1887-04-14/ed-1/seq-4)
 
 #### 1887-04-14 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7705,6 +7905,7 @@ kins; 34. Herrick: 35. William Muscat
 ## [From _The Hope pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87096037/1887-04-15/ed-1/seq-2)
 
 #### 1887-04-15 &middot; Hope, N.D.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7814,6 +8015,7 @@ speare.
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
 #### 1887-04-16 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7884,6 +8086,7 @@ Herrlck&#x27;: 35, William Mason ; 36, Hill;
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-04-20/ed-1/seq-1)
 
 #### 1887-04-20 &middot; Mifflintown, Juniata County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7972,12 +8175,9 @@ Trench; IS, Sotuerville; 10, Thompson;
 2 , Byron; 21. Smoleit; 22, Crabbe; 23,  
 M.iSainer; 21, Crowley; 25, Battle; 20,  
 Coer; 27, Mr Walter Davenarr ; 28,  
-Gray: 2J. Willis; 3), Addison; 31, Dry-  
-deu; 32, Francis (Juarles; 33, Watkins;  
-31, Herrick; 35, William Mason; 30,  
-Hill; 37, Dana; 33. Shakespeare
+Gray: 2J. Willi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1887042001%2F0681.jp2/pct:39.876892,19.186720,10.913326,40.355167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1887042001%2F0681.jp2/pct:39.876892,19.186720,10.913326,38.978252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7986,6 +8186,7 @@ Hill; 37, Dana; 33. Shakespeare
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1887-04-22/ed-1/seq-1)
 
 #### 1887-04-22 &middot; Olympia, Wash. Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8091,6 +8292,7 @@ Herrick; 35, William Mason ; 36, Hill;
 ## [From _The Universalist._](https://chroniclingamerica.loc.gov/lccn/sn90053049/1887-04-30/ed-1/seq-6)
 
 #### 1887-04-30 &middot; Chicago [Ill.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8170,6 +8372,7 @@ kins; 34. Herrick; 35. William Mason;
 ## [From _American Printer 1883-2015_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8?page=39)
 
 #### 1887-05-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8244,45 +8447,10 @@ Watkins ; 34, Herrick; 35, William Mason; 36, Hill; 37, Dana;
 
 ---
 
-## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1887-05-27/ed-1/seq-1)
-
-#### 1887-05-27 &middot; Brattleboro, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-To lie Is U-tter far than nut to be,  
-TIioukI) all man&#x27;s life may wem a tragitly;  
-Hut light eares speak w hen mighty cares are  
-iliimh,  
-The txtttotn Is but shallow whence they roine.  
-Your fate Is but the common fate of all;  
-10 Umnlngled jos here to no man befall.  
-1 -Nature to each allots his proper sphere,  
-Vi -Fortune makes folly her iKtullar care:  
-13-Custom dres often reason overrule  
-1 1 And throw a cruel sunshine on a fool.  
-l.V-Live well, how lung or short iiennlt to hea.en;  
-Hi -They who forgive nuwtshutl U tuost fofgHeii,  
-17 Sin may Iw elasjuil ho elost we cannot we Its  
-face  
-W Vile InU&#x27;rcourse where virtue has not place;  
-19 Then keep each juisKluti do n, how e er tlcar.  
-SO- Thou pendulum betwixt a smile and tear.  
-21 Her sensual snaies letafaithlas pleasure lay  
-Si With craft and 111 to ruin and In-tray;  
-i ioar not too high to fall, hut stcop to rise,  
-I We masters grow of all that we despise;  
-Oh, then, renounce that Impi
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_eden_ver01%2Fdata%2Fsn98060050%2F00280777419%2F1887052701%2F0591.jp2/pct:62.564015,16.926299,9.696142,8.011520/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Columbus journal._](https://chroniclingamerica.loc.gov/lccn/sn95073194/1887-06-01/ed-1/seq-1)
 
 #### 1887-06-01 &middot; Columbus, Neb.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8364,6 +8532,7 @@ kins; 34, Herrick; 35. William Mason;
 ## [From _Evening capital._](https://chroniclingamerica.loc.gov/lccn/sn88065721/1887-10-26/ed-1/seq-1)
 
 #### 1887-10-26 &middot; Annapolis, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8464,6 +8633,7 @@ Herrick; 35, William Mason; 36, Hill;
 ## [From _Waterbury evening Democrat._](https://chroniclingamerica.loc.gov/lccn/sn94053256/1888-03-15/ed-1/seq-1)
 
 #### 1888-03-15 &middot; Waterbury, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8506,6 +8676,7 @@ SO. Thou pendulum betwixt a smile and tear:
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1888-07-26/ed-1/seq-1)
 
 #### 1888-07-26 &middot; Oskaloosa, Mahaska County, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8590,6 +8761,7 @@ speare.
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1888-07-26/ed-1/seq-2)
 
 #### 1888-07-26 &middot; Oskaloosa, Mahaska County, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8670,6 +8842,7 @@ speare.
 #### From _Windsor and Richmond Gazette (NSW : 1888 - 1954)_
 
 #### 1888-10-06 &middot; Richmond, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8731,7 +8904,7 @@ Crabbe, 23 Messenger, 24 Crowley, 25
 Beattie, 26 Cowper, 27 Sir Walter  
 Davenant, 28 Grey, 29 Willis, 30  
 Addison, 31 Dryden, 32 Francis Quarles,  
-33 Watkins, 34 Herrick, 35
+33 Watkins, 34 Herrick,
 </td></tr></table>
 
 ---
@@ -8739,6 +8912,7 @@ Addison, 31 Dryden, 32 Francis Quarles,
 ## [From _The National tribune._](https://chroniclingamerica.loc.gov/lccn/sn82016187/1888-11-22/ed-1/seq-7)
 
 #### 1888-11-22 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8812,6 +8986,7 @@ Hill; 37, Dana; 3S, Shaksperc
 ## [From _Ballou's Monthly Magazine (1866-1893)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1889-01_69_1?page=81)
 
 #### 1889-01-01 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8935,7 +9110,9 @@ Shakespeare.
 #### From _Newcastle Courant_
 
 #### 1889-01-12 &middot; Newcastle-upon-Tyne, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [MULTUM IN PARVO.](http://trove.nla.gov.au/ndp/del/article/138842181)
@@ -8943,6 +9120,7 @@ Shakespeare.
 #### From _Newcastle Morning Herald and Miners' Advocate (NSW : 1876 - 1954) _
 
 #### 1889-03-09 &middot; Newcastle, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9002,6 +9180,7 @@ can, yet dio we tiut
 ## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19?page=2)
 
 #### 1889-04-06
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9060,10 +9239,9 @@ greve; 12, Churchill; 13, Rochester; i4, Arm-
 strong; 15, Milton; 16, Bailey ; 17, Massinger ;  
 18, Cowley ; 19, Beattie; 20, Cowper; 21, Sir  
 Walter Davenant; 22, Gray; 23, Willis; 24,  
-Addison; 25, Dryden; 26, Francis Charles;  
-27, Watkins; 28, Herrick ; 29, Wil
+Addison; 25, Dryden; 26, Francis Ch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19&#0036;2/pct:23.497554,22.628032,15.234102,18.746631/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19&#0036;2/pct:23.515024,22.628032,15.216632,18.274933/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9074,6 +9252,7 @@ Addison; 25, Dryden; 26, Francis Charles;
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
 #### 1889-04-20 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9137,14 +9316,7 @@ Iv-&#x27;wii*- tf.t 38. For live we hpwtwe
 oan.V.j^.flipj&#x27;we . _ 1, Yonng; 2,  
 Johnson? 3, Prior; 5,&#x27;Sewell; fij  
 SpSncW;^% ;t Vtmn; 8, Sir WalteV  
-Italteig&amp; : ;&#x27;ty IrffogfeBiwiU Churoh^  
-;&#x27; ;13, BochesferT 14 trpng; ,15,  
-.dWTiltoh ;T t^^O&amp;f^Vf Trenchj,  
-18,ftomerville; 19,fZ l iaB£Pe9, O,  
--Bryant i 21, Smollet; ^ ^ Grabbe; 3, !  
-Massinger ; 24, Cowl^ 26, Beattie ;  
-;&#x27;26&gt; • Cowper; 27, Sir ^WUliam  
-Davenant; 28, Gray; 29/Willis i SO
+Italteig&amp; : ;&#x27;ty Irffogfe
 </td></tr></table>
 
 ---
@@ -9154,7 +9326,9 @@ Davenant; 28, Gray; 29/Willis i SO
 #### From _Weekly courier-journal._
 
 #### 1889-05-06 &middot; Louisville [Ky.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/68575477)
@@ -9162,6 +9336,7 @@ Davenant; 28, Gray; 29/Willis i SO
 #### From _Warragul Guardian and Buln Buln and Narracan Shire Advocate (Warragul, Vic. : 1879 - 1894)_
 
 #### 1889-05-17 &middot; Warragul, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 A LITERARY CURIOSITY. T?u following  
@@ -9234,7 +9409,7 @@ LMas. singer; 24, Cowley; 25, Beattie;
 26, Cowper; 27, Sir Walter Davenant ;  
 28, Gray; 29, Willis; 30, Addison ; 31,  
 Dryden ; 382, Francis Charles ; 33,  
-Watkins; 34, 
+Watkins; 
 </td></tr></table>
 
 ---
@@ -9244,9 +9419,10 @@ Watkins; 34,
 #### From _Fitzroy City Press (Vic. : 1881 - 1920)_
 
 #### 1889-07-19 &middot; Fitzroy, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-A LITERARY CURIOSITY. Tas following very  
+  
 remarkable little poem is contributed to  
 the San Francisco Times from the pen of  
 H. A. Demig. The reder will see that  
@@ -9313,8 +9489,7 @@ Congreve; 12, Churchill; 13, Itchester;
 20, Bron ; 21, .Smollett ; 22, Crabbe;  
 23, Lefas singer; 24, Cowley; 25,  
 lieattie; 26, Cowper; 27, Sir Walter  
-Davenant ;2?8, Gray ; 29, Willis 30,  
-
+Davenant ;2?8, Gray ; 29, Willis
 </td></tr></table>
 
 ---
@@ -9324,9 +9499,10 @@ Davenant ;2?8, Gray ; 29, Willis 30,
 #### From _The Colac Herald (Vic. : 1875 - 1918)_
 
 #### 1889-07-26 &middot; Colac, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-A LITERARY CURIOSITY. Ton following very  
+  
 remarkable little poem is contributed to  
 the San Francisco Times from the pen of  
 H. A. Deming. The reader will see that  
@@ -9395,7 +9571,7 @@ MaIssinger; 24, Cowley ; 25, Beattie;
 26, Cowper; 27, Sir Walter Davenant; 28,  
 Gray; 29, Willis; 30, Addison ; 31.  
 Dryden; 32, Francis Charles; 33,  
-Watkins; 34, 
+Watkins;
 </td></tr></table>
 
 ---
@@ -9405,6 +9581,7 @@ Watkins; 34,
 #### From _The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)_
 
 #### 1889-07-27 &middot; Caulfield, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9464,9 +9641,10 @@ ambition wise because &#x27;tis brave
 #### From _The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)_
 
 #### 1889-07-27 &middot; Caulfield, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-...- ... . ... . . ..... ..  
+... . ... . . ..... ..  
 28. The pathsof glory lead but to the  
 grave. 29. What&#x27;is ambition I &#x27;Tis a  
 glorious chcabt-X30. Onljy destruction  
@@ -9494,7 +9672,7 @@ Crabbe; 23, Massinger; 24, Cowley; 25,
 Beattie; 26, Cowper; 27,, Sir Walter  
 Davenant; 28, Gray; 29, Willis ; 30,  
 Addison; 31. Dryden; 32,&#x27;Francis  
-Charles; 31, Watkins; 34,
+Charles; 31, Watkins;
 </td></tr></table>
 
 ---
@@ -9502,6 +9680,7 @@ Charles; 31, Watkins; 34,
 ## [From _The Caucasian._](https://chroniclingamerica.loc.gov/lccn/sn91068245/1890-04-24/ed-1/seq-4)
 
 #### 1890-04-24 &middot; Clinton, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  itch the fatal breath  
@@ -9593,10 +9772,9 @@ Make, then, while yet ye may,
 your God your mend.  
 Whom Christians worship, yet  
 not comprehend.  
-The trust that&#x27;sgiven guard, and  
-to your
+The trust that&#x27;sgiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_haw_ver01%2Fdata%2Fsn91068245%2F00295878757%2F1890042401%2F0277.jp2/pct:28.187559,20.559279,11.232030,33.253037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_haw_ver01%2Fdata%2Fsn91068245%2F00295878757%2F1890042401%2F0277.jp2/pct:28.187559,20.559279,11.232030,32.760788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9607,6 +9785,7 @@ to your
 #### From _The Manaro Mercury, and Cooma and Bombala Advertiser (NSW : 1862 - 1931)_
 
 #### 1890-05-03 &middot; Monaro, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9674,7 +9853,7 @@ Congrcve ; 12, Churchill ; 13, Kochester
 17, Trench; 18, Somerville; 19, Thomson;  
 20, Byron; 21, Smollett22, Crabbe ; 28,  
 Massinger ; 24, Cowley; 25, lieattie;  
-26, Cowper; 27,
+26,
 </td></tr></table>
 
 ---
@@ -9684,6 +9863,7 @@ Massinger ; 24, Cowley; 25, lieattie;
 #### From _Evelyn Observer, and South and East Bourke Record (Vic. : 1882 - 1902)_
 
 #### 1890-08-01 &middot; Kangaroo Ground, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 0 Uiolnogled  
@@ -9725,9 +9905,7 @@ just, 18 For live we how we oan, die we
 must. 1,Young; 2, Dr. Jolhnonn; ,  
 l&#x27;Pope; 4 Prior; , SeIwell; 6 .Spenler;  
 7,D)eel; 8, Sir Wafter Scott ; l,  
-Loongfellow ; 10, Saouthl well; II,  
-Congroveo 12, Churchill; 13 Itocheeter I  
-I, Arnmstrong; 10, lltaon; 
+Loongfellow ; 10, Saouthl
 </td></tr></table>
 
 ---
@@ -9737,6 +9915,7 @@ I, Arnmstrong; 10, lltaon;
 #### From _The Coburg Leader (Vic. : 1890 - 1913)_
 
 #### 1890-09-24 &middot; Coburg, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9803,9 +9982,7 @@ Rlochester; 14, Armstrong; 15, Milton;
 19, Thompson; 20, Byron; 21, Smollett;  
 22, Crabbe; 23, MaIsemger; 21, Cowley;  
 25, I Beattie; 20. Cowper; 27, Sir  
-Walter Deven. I aut; 28, Gray; 29,  
-Willis; 30, Addison; 31, Dryden; 32,  
-Fruncis Charles; 3;, Watkins; 3I,
+Walter Deven. I aut; 28, Gray; 29,
 </td></tr></table>
 
 ---
@@ -9813,9 +9990,16 @@ Fruncis Charles; 3;, Watkins; 3I,
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1891-03-19/ed-1/seq-5)
 
 #### 1891-03-19 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+hat they can  
+get into heaven on their good behavior.  
+The man who lets the sun clean the  
+snow off his sidewalk.  
+A LITERARY CURIOSITY  
+Remarkable Poem, to Which Thirty  
+Eight Poets Contribute a Cine Each.  
 The following remarkable little poem is  
 a contribution to the San Francisco Times  
 from the pen of H. A. Doming. The  
@@ -9889,7 +10073,7 @@ det: 28, Gray; 29, Willis; 30, Addison;
 kins; 34. Herrick. 35, William Mason; 36,  
 Pill; 37, Dana; 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_belle_ver01%2Fdata%2Fsn85033078%2F00271768539%2F1891031901%2F0413.jp2/pct:56.123841,38.336801,12.520458,27.319264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_belle_ver01%2Fdata%2Fsn85033078%2F00271768539%2F1891031901%2F0413.jp2/pct:56.123841,34.046699,12.520458,31.609366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9900,6 +10084,7 @@ Pill; 37, Dana; 38, Shakespeare.
 #### From _Kapunda Herald (SA : 1878 - 1951)_
 
 #### 1891-09-11 &middot; Kapunda, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 A LITERARY CUlilOSITY. The following  
@@ -9977,6 +10162,7 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 ## [From _Journal of Education 1875-1876_](https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11?page=9)
 
 #### 1892-03-17
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10030,6 +10216,7 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 ## [From _Morning journal and courier._](https://chroniclingamerica.loc.gov/lccn/sn82015483/1893-03-20/ed-1/seq-1)
 
 #### 1893-03-20 &middot; New Haven [Conn.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10059,7 +10246,7 @@ ura.
 1. Why all this tatl for triumph of aa bourt  
 t. Life&#x27;s a aaort summer, mas a Oowar.  
 S. By tarns we rates Lha vti-tl braeta ana die.  
-4. 1 oe Oracle an
+4. 1 oe Oracle and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_forest_ver01%2Fdata%2Fsn82015483%2F00271764091%2F1893032001%2F0267.jp2/pct:74.373301,64.635487,9.710057,6.691904/!600,600/0/default.jpg"/>
 </td>
@@ -10070,6 +10257,7 @@ S. By tarns we rates Lha vti-tl braeta ana die.
 ## [From _Evening capital journal._](https://chroniclingamerica.loc.gov/lccn/sn99063952/1893-05-24/ed-1/seq-3)
 
 #### 1893-05-24 &middot; Salem, Or.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10098,7 +10286,7 @@ come. &#x27;
 IB. live well; how long or short, permit ta  
 -&quot;heaven.  
 18. They who forgive most shall be most for­  
-given.IT. Sin may be c
+given.IT. Sin may be cl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063952%2F00280760328%2F1893052401%2F1204.jp2/pct:19.682660,16.453860,13.241405,11.767266/!600,600/0/default.jpg"/>
 </td>
@@ -10109,6 +10297,7 @@ given.IT. Sin may be c
 ## [From _Evening capital journal._](https://chroniclingamerica.loc.gov/lccn/sn99063952/1893-05-24/ed-1/seq-3)
 
 #### 1893-05-24 &middot; Salem, Or.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  to your­  
@@ -10123,11 +10312,9 @@ Trench. 18. Bomerville. 19. Thompson. 2a
 Byron. 21. Smollett. 22. Crabbe. 20. Mas­  
 Singer. 24. Crowley; 25. Beattio. 26. Cowper.  
 2T. Sir Walter Davenant. 28. Gray. 29. Wil­  
-lis. 80. Addison. 81. Dryden. 82. Francis  
-Charles. 83. Watklns. 84. Herrick. 35. Wil­  
-liam Mason. 86. Pill. 87. Dana. 08. Shake
+lis. 80.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063952%2F00280760328%2F1893052401%2F1204.jp2/pct:19.928221,39.059779,12.731394,6.543819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063952%2F00280760328%2F1893052401%2F1204.jp2/pct:19.928221,39.059779,12.712505,5.673244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10136,6 +10323,7 @@ liam Mason. 86. Pill. 87. Dana. 08. Shake
 ## [From _Fairhaven herald._](https://chroniclingamerica.loc.gov/lccn/sn88085722/1893-06-07/ed-1/seq-4)
 
 #### 1893-06-07 &middot; Fairhaven, Wash.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10221,6 +10409,7 @@ speare. .
 ## [From _The Wadsworth dispatch._](https://chroniclingamerica.loc.gov/lccn/sn86076126/1893-06-17/ed-1/seq-1)
 
 #### 1893-06-17 &middot; Wadsworth, Nev.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10238,7 +10427,7 @@ um
 L Why all this toil for triumph, of aa hour?  
 A Ufa&#x27;s a short rammer, man a flower.  
 A Br turne w* aatch the vital breath and die.  
-A The cradle and the tomb, alaeleo ni
+A The cradle and the tomb, alaeleo nig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_gabbs_ver01%2Fdata%2Fsn86076126%2F0033289108A%2F1893061701%2F0194.jp2/pct:34.713529,17.147053,14.979538,9.110520/!600,600/0/default.jpg"/>
 </td>
@@ -10251,25 +10440,7 @@ A The cradle and the tomb, alaeleo ni
 #### From _South Australian Chronicle  (Adelaide, SA : 1889 - 1895)_
 
 #### 1893-08-05 &middot; Adelaide, South Australia
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-%\xt Imtttg ,Jifllk0. A LITERARY  
-CURIOSITY. The followinginterestinfr  
-poem, contributed by Mrs. H. A. Deeming  
-to the San Francisco Times, is *n  
-exhibition of skill and ability, and is  
-worthy of careful study. Each line is a  
-quotation from one of tbe standard  
-authors of England and America, and the
-</td></tr></table>
-
----
-
-## [The Doung Folks. A LITERARY CURIOSITY.](http://trove.nla.gov.au/ndp/del/article/92309573)
-
-#### From _South Australian Chronicle  (Adelaide, SA : 1889 - 1895)_
-
-#### 1893-08-05 &middot; Adelaide, South Australia
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 nnot Melts face—  
@@ -10300,18 +10471,7 @@ not comprehend. 57. Tbe trust tbaVa
 given gu&amp;rd, and to joureell be jrut.  
 58. For live we now we on, but die we  
 must. 1. Young. 2. Dr. Jobneon. 3. Pope.  
-4. Prior, e. Sfltrell. 6. -Sproaer. 7.  
-Daniel. 8. Sir Walter Soott. 9.  
-Longfellow 10. Southwell. 11. Oongrere.  
-12. ChurontU. 13. Bocheater. 14.  
-Armstrong. IS. Hilton. 16. Bailey. 17.  
-Trench, li Somtrville. 10. Thompson. SO.  
-Bvron. 21. Smollett-. £2. Crabba. S3.  
-Maseinger. 24. Ooaler. 25. Beattfe. 26.  
-Oowper. 27. Sir Walter Davenant 28.  
-Gray. 20. Willis. SO. Addiion. 31  
-DrrdeD. 32. Francis Cbarlea. S3 Watklna  
-3t.
+4. Prior, e. Sfltrell. 6. 
 </td></tr></table>
 
 ---
@@ -10319,6 +10479,7 @@ DrrdeD. 32. Francis Cbarlea. S3 Watklna
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1893-08-11/ed-1/seq-1)
 
 #### 1893-08-11 &middot; Shepherdstown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10393,40 +10554,9 @@ IS, Somcrville; ]Thomson; 2ii, liryaid; 21,
 &gt;moli.m 22. Crabhe: 23. MasMiiuer: 21. Cow­  
   
 ISt.&#x27;iillIt;Cow per; Si, sir Waiter  
-Davenant; Gray
+Daven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_bones_ver01%2Fdata%2Fsn84026824%2F00271767857%2F1893081101%2F0541.jp2/pct:49.341871,11.937200,14.345429,34.705463/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Wilmington daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn88053055/1894-01-08/ed-1/seq-3)
-
-#### 1894-01-08 &middot; Wilmington, Del.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For , Uve we uow can. but die we  
-i  
-8L  
-14.  
-,1U *  
-ho  
-«.  
-1. Young; 1 Dr. Johnson; A Pope;4.  
-Prior;ft, Sewell;6, Spencer; 7. Daniel; 8.  
-Walter 8cott;0, Longfellow; »O.South­  
-1; 1». Uoig-evo; 12, Churchill; 13,  
-Rochester ; 14. Armstrong; 15. Milton; lft,  
-Hailey; 17, Trench; 18, Somerville; 19,  
-onTues-&#x27;Thompson;&#x27;JO. Byron; 21, Smollett; 01.  
-Crabbe; 23. M.isalngo. : 24. Cowley; 2V  
-lUeattl«; Jü,Cowper;-&#x27;7. Kir Walter Daven  
-ant;28.(Jroy; 2». Willis; »&gt;. Ad.i  
-iDrydei.;32, I rand» Charle
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_episky_ver01%2Fdata%2Fsn88053055%2F00271741340%2F1894010801%2F0038.jp2/pct:11.728395,25.872905,11.860670,9.287709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10435,6 +10565,7 @@ iDrydei.;32, I rand» Charle
 ## [From _The Austin weekly statesman._](https://chroniclingamerica.loc.gov/lccn/sn86088296/1894-03-15/ed-1/seq-4)
 
 #### 1894-03-15 &middot; Austin, Tex.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10453,15 +10584,21 @@ below:
 1. Why all this toll for triumphs nf nu hour?  
 l ife&#x27;s a short summer, man a llower.  
 :i. Tty turns we catch the vital breath nnil die  
-I. The cradle iiml the tomb, alas! so nigh,  
-&quot;i. To be is better far than not to be.  
-ti. Though all men&#x27;s life may seem a tragedy;  
-7. lint light cares speak when mighty griefs  
-aro ilumb.  
-S. The bottom Is but shallow whence they  
-come.  
-fi. Your fate is but the common fate of all;  
-111 Unmincle l io,s here no man can befall.  
+I. The cradl
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297507%2F1894031501%2F0407.jp2/pct:36.439909,28.278689,14.693878,8.474824/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Austin weekly statesman._](https://chroniclingamerica.loc.gov/lccn/sn86088296/1894-03-15/ed-1/seq-4)
+
+#### 1894-03-15 &middot; Austin, Tex.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ l io,s here no man can befall.  
 11, Nature to each a loti its proi cr sphere.  
 1.!. Fortune makes fo ly her peculiar care.  
 l:t. Custom does often reason overrule  
@@ -10515,7 +10652,7 @@ Francis Charles; 33, Watkins; 84, Her­
 rick: 35, William Mason; 30, Pill; 37,  
 Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297507%2F1894031501%2F0407.jp2/pct:36.371882,28.278689,14.784580,33.767564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297507%2F1894031501%2F0407.jp2/pct:36.371882,39.475995,14.784580,22.570258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10524,16 +10661,10 @@ Dana; 38, Shakespeare
 ## [From _The Newberry herald and news._](https://chroniclingamerica.loc.gov/lccn/sn93067777/1894-05-16/ed-1/seq-4)
 
 #### 1894-05-16 &middot; Newberry, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The following interesting poem, con­  
-tributed by Mrs. H. A. Deming to the  
-San Francisco Times, is an exhibitioti  
-of skill and ability, and is worthy of a  
--careful study by all our readers.  
-Each line is a quotation from one of  
-the stadard authors of England and  
 America, and the number of the line  
 refers to the name of its author below.  
 This poem is the result of a year&#x27;s ex­  
@@ -10541,7 +10672,7 @@ tensive reading of the voluminous
 writings of thirty-eight leading poets  
 of the past and present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn93067777%2F00237287034%2F1894051601%2F0378.jp2/pct:3.576389,8.910274,12.070312,7.284562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn93067777%2F00237287034%2F1894051601%2F0378.jp2/pct:3.606771,12.750319,11.970486,3.444517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10550,6 +10681,7 @@ of the past and present
 ## [From _The Newberry herald and news._](https://chroniclingamerica.loc.gov/lccn/sn93067777/1894-05-16/ed-1/seq-4)
 
 #### 1894-05-16 &middot; Newberry, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10654,26 +10786,10 @@ cis Quarles; 33. W atkins; 34. Herrick;
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1894-06-20/ed-1/seq-8)
 
 #### 1894-06-20 &middot; Abbeville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-all our readers.  
-Each line is a quotation from one of the  
-  
-standard authors 01 bngianu auu .viuenai,  
-ar:?l the number of the Hue refers to the  
-ba^e of Its author below.  
-This poem .Is the result of a year&#x27;s extensive  
-reading of-the voluminous writing of  
-thirty-eight lading poets of the past and I  
-: . present. &gt; &#x27; . &#x27; I  
-We advise our young folks to commit to  
-memory each line and the name of its au- 1  
-thor. Then seek to learn something of each I  
-poet and the connection in which the  
-thought is expressed. These sayings will  
-olten come handy alterward.in the broad  
-fleld of human experience.  
 LIFE.  
 1. Why all this toll for triumphs of an  
 hour ?  
@@ -10760,10 +10876,9 @@ Hon: 20. Byron ; 21. Smollett; 22. Crabbe; f,
 Oowper; 27. Sir Walter Davenant: 26. Gray; K  
 29. iWillis; 80. Addison; 31. Dryden; 32. 1]  
 Francis Quarles; 33. Walking; 34 Herrlck ; ?,  
-35. William Mason; 3C. Pill: 37. Dana; 38.  
-.Shakespeare. 
+35. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F0023728737A%2F1894062001%2F0168.jp2/pct:0.270537,5.298836,18.864783,37.776831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F0023728737A%2F1894062001%2F0168.jp2/pct:2.986317,11.257808,16.149004,31.406161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10774,12 +10889,15 @@ Francis Quarles; 33. Walking; 34 Herrlck ; ?,
 #### From _The daily picayune._
 
 #### 1896-08-30 &middot; New Orleans, La.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Bridgeton pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87068192/1897-07-01/ed-1/seq-7)
 
 #### 1897-07-01 &middot; Bridgeton, N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10857,6 +10975,7 @@ Dana; 38, Shakespeare
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1897-07-14/ed-1/seq-2)
 
 #### 1897-07-14 &middot; Bellows Falls, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 o. The reader  
@@ -10969,6 +11088,7 @@ kins; 34, Herrick; 35, William Mason;
 ## [From _Waterbury Democrat._](https://chroniclingamerica.loc.gov/lccn/2016270502/1897-09-23/ed-1/seq-6)
 
 #### 1897-09-23 &middot; Waterbury, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -10994,6 +11114,7 @@ thor below:
 ## [From _Waterbury Democrat._](https://chroniclingamerica.loc.gov/lccn/2016270502/1897-09-23/ed-1/seq-6)
 
 #### 1897-09-23 &middot; Waterbury, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11023,6 +11144,7 @@ kins; 34, Herrick; 35, William Mason;:
 ## [From _The record-union._](https://chroniclingamerica.loc.gov/lccn/sn82015104/1897-10-17/ed-1/seq-16)
 
 #### 1897-10-17 &middot; Sacramento, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11053,6 +11175,7 @@ For live we how we can, yet die we must. —SJieAespeare.
 ## [From _American Fruit Grower 1897-2015_](https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1?page=1)
 
 #### 1898-01-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11107,22 +11230,18 @@ For live we how ‘we can, yet die we must
 #### From _The Milwaukee journal._
 
 #### 1898-02-17 &middot; Milwaukee [Wis.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1898-02-20/ed-1/seq-10)
 
 #### 1898-02-20 &middot; Savannah, Ga.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e  
-and winning ways is indisputable. It is  
-hardly to be wondered at that they are  
-sometimes annoyed by men who wish to  
-kiss them. Such rosebuds lips are a  
-temptation.  
-A Literary Curiosity—The following re­  
-markable little poem, says the New York  
+  
 Tribune was originally a contribution to  
 the San Francisco Times, from the pen of  
 Mrs. H. A. Deming. The readers will  
@@ -11202,7 +11321,7 @@ yourself lie just;
 38. For, live how we can, yet die we  
 must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_fletcher_ver01%2Fdata%2Fsn86063034%2F00414182239%2F1898022001%2F0542.jp2/pct:31.449646,32.522638,12.789564,47.167307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_fletcher_ver01%2Fdata%2Fsn86063034%2F00414182239%2F1898022001%2F0542.jp2/pct:31.449646,36.125729,12.789564,43.564216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11213,6 +11332,7 @@ must
 #### From _Northern Star (Lismore, NSW : 1876 - 1954)_
 
 #### 1898-03-19 &middot; Lismore, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 pendulum, betwixt  
@@ -11249,8 +11369,7 @@ Congreve; 12, Churchill ; 13,
 .Rochester; 14, Armstrong; Iß, iMIIton;  
 10, Bulley ; 17; I&#x27;Yonoh ; 18.  
 Somerville; ; 10, Thtmtpann ; 20, Kyron  
-; 21, SiiMll.it ; 22, Cirtliliti; 23,  
-Ataaaitigur ; 24, Cowley; 20, lieattiu 
+; 21, SiiMll.it ; 22, Cirtliliti; 23
 </td></tr></table>
 
 ---
@@ -11260,12 +11379,15 @@ Ataaaitigur ; 24, Cowley; 20, lieattiu
 #### From _Arkansas Democrat._
 
 #### 1898-07-23 &middot; Little Rock, Ark.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1898-11-03/ed-1/seq-3)
 
 #### 1898-11-03 &middot; Salisbury, Litchfield Co., Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11351,6 +11473,7 @@ Mason; 36, PilJ; 37, Dana; 38,Shakespeare.
 ## [From _The sea coast echo._](https://chroniclingamerica.loc.gov/lccn/sn86074033/1898-11-19/ed-1/seq-4)
 
 #### 1898-11-19 &middot; Bay Saint Louis, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11424,6 +11547,7 @@ peare.
 #### From _Port Pirie Recorder and North Western Mail (SA : 1898 - 1918)_
 
 #### 1899-06-10 &middot; Port Pirie, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -11492,6 +11616,73 @@ Quarles ; 33, Wat-, kins ; 34. Herrick ;
 35, William Mason; 36, Hill; 37, Dana ;  
 38, Shakespeare. . &quot;Secrets op the
 </td></tr></table>
+
+---
+
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1899-07-20/ed-1/seq-1)
+
+#### 1899-07-20 &middot; Lancaster, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+by reading the poem and letting  
+each in the social gathering guess who is the author of the  
+different lines. Then refer to the key given beloxx and see  
+how many are right.  
+A VERI TABLE I’OEM OF I‘OEMS  
+1- Why all this toil for triumphs of an hour?  
+2 Life’s a short summer man a Hower.  
+3 By turns we catch the vital breath and die.  
+I The cradle and the tomb, alas! so nigh.  
+s—To be is better far than not to be,  
+&lt;&gt; ’Though all man’s life may seem a tragedy;  
+7 But light cares speak when mighty cares are dumb.  
+8- &#x27;J&#x27;he bottom is but shallow xvhen they come.  
+9 Your fate is but the common fate of all:  
+Hl Unmingled joys here to no man befall.  
+11 Nat ure to each allots his proper sphere  
+12 Fortune makes folly her peculiar care:  
+13 Custom does often reason oxerrule.  
+14— And throw a cruel sunshine on a fool.  
+15— Live xvell. hoxx long or short, permit to Heaven.  
+I(l—They xx ho forgive most shall lie most forgiven.  
+17 Sin may be clasped so close we cannot see its face—  
+is Vile intercourse xx here virtue has not placed;  
+19 T hen keep each passion down, however dear:  
+20—Thou pendulum betwixt a smile ami tear:  
+21 Her sensual snares, let faithless pleasure lax  
+22 With craft and skill to ruin and betray;  
+23 Soar not too high to fall, but stoop to rise  
+24 We masters grow of all that we despise.  
+25—Oh. then renounce that impious self-esteem;  
+2(&gt; Riches have wings, and grandeur is a drcam.  
+■_&#x27;« Think not ambition wise because ’tis brave  
+28—The path of glory leads but to the grave.  
+29 —What is ambition? Tis a glorious cheat.  
+30— Only destructive to the brave and great.  
+31— What’s all the gaudy glitter of a crown?  
+32 The xvay to blis- lie-, not on bed- of down.  
+33—How long xve live, not years, but actions tell:  
+3) —That man lives twice who lives the first life well.  
+35 Make. then, xvhile vet ye mav. votir God your  
+friend.  
+3f&gt;—Whom Christians worship, vet not comprehend.  
+27—The trust that’s given guard, and to yourself be  
+just:  
+3s —For. live we hoxx xve can yet die xve must.  
+1 Young; 2. Doctor Johnson; 3. Pope: 4. Prior; Sexvell;  
+■ I&gt;. Spenser; 7. Daniel; 8. Sir Walter Raleigh: 9. Longfellow;  
+10. Southwell; 11 Congreve: 12. Churchill: 13. Rochester: 14.  
+Armstrong; 15. Milton; 16. Ba.lv: 17. Trench: 18, Somerville;  
+19 Thom-on; 20 Byron; 21. Smollett; 22. Crablie; 23, Mas­  
+singer: 24. Crowley: 25. Beattie: 26. Cowper; 27. Sir Walter  
+Davenant: 28. Gray; 29. Willis: 30. Addison; 31. Drxden: 32,  
+Fi-anei- (Quarles: 33. Watkins; 31. Herrick: 35. Wiilu.m  
+Mason; 36 Hill: 37 Dana: 38. Shakespeare.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159257%2F1899072001%2F0225.jp2/pct:40.316089,58.780556,18.389277,36.402778/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 

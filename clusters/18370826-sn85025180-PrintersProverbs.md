@@ -1,13 +1,14 @@
 
 # Printers Proverbs
 
-### 165 reprints from 1837-08-26 to 1881-11-03
+### 157 reprints from 1837-08-26 to 1881-11-03
 
 ## [Printers Proverbs](https://chroniclingamerica.loc.gov/lccn/sn85025180/1837-08-26/ed-1/seq-1/)
 
 #### From _The Columbia Democrat_
 
 #### 1837-08-26
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 PRINTERS PROVERBS  
@@ -27,6 +28,7 @@ PRINTERS PROVERBS
 ## [From _The Columbia Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025180/1837-08-26/ed-1/seq-1)
 
 #### 1837-08-26 &middot; Bloomsburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 hey had committed, from  
@@ -77,12 +79,15 @@ villc
 #### From _Indiana journal._
 
 #### 1837-09-09 &middot; Indianapolis [Ind.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1837-09-14/ed-1/seq-2)
 
 #### 1837-09-14 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -122,6 +127,7 @@ shall be well w th thee and thy little ones,
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1837-09-20/ed-1/seq-1)
 
 #### 1837-09-20 &middot; Martinsburg, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -163,13 +169,9 @@ ones
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13?page=7)
 
 #### 1837-09-23 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ients remain quietly in their chambers, with-  
-out any medical advice.”  
-  
-Harp tives.—The young ladies down east complain that the gen-  
-tlemen are so poor there that they can’t even pay their addresses  
   
 PRINTERS’ PROVERBS  
   
@@ -198,7 +200,7 @@ meet thine eye, that thou mavest understand it
 mediately for it, and pay in advance, and it shall be well with thee  
 and thy little one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13&#0036;7/pct:64.190628,70.325834,27.582535,17.513576/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13&#0036;7/pct:64.190628,73.933282,27.582535,13.906129/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,14 +209,9 @@ and thy little one
 ## [From _Iowa news._](https://chroniclingamerica.loc.gov/lccn/sn82015686/1837-10-07/ed-1/seq-4)
 
 #### 1837-10-07 &middot; Dubuque, Upper Mississippi Lead Mines, Wisconsin Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to the public, sums up his  
-qualifications as follows:  
-&quot;I believe I was the first civilized  
-man who skinned a coon, chased a deer  
-—caught a bear, or treed a wild cat, on  
-the west side of White River.&quot;  
   
 PRINTER&#x27;S PROVERBS.  
   
@@ -249,7 +246,7 @@ other subscribe immediately for it,
 and pay in advance, and it shall be  
 well with thee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82015686%2F00415668818%2F1837100701%2F0224.jp2/pct:67.097751,62.867711,14.458814,23.198433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82015686%2F00415668818%2F1837100701%2F0224.jp2/pct:67.097751,67.219321,14.441338,18.846823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,6 +255,7 @@ well with thee and thy little ones
 ## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-10-07/ed-1/seq-1)
 
 #### 1837-10-07 &middot; Richmond, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  least  
@@ -275,25 +273,11 @@ PRINTER&#x27;S PROVERBS.
 news; for behold, it is his duty at the appointed  
 time to give it unto thee without asking.  
   
-o WKon thou tlnat write for his paper never i , hepi,y to mk. biddle
+o WKon thou tlnat write for his paper never i , hepi,y to mk. biddle  
+  
+say unto him, whatthinkest thou of my piece I j We hav acconiplisbed an arduous task of read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837100701%2F0643.jp2/pct:14.059280,68.962888,62.688223,28.126589/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-10-07/ed-1/seq-1)
-
-#### 1837-10-07 &middot; Richmond, Ind.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-&quot; The time approached, mv friend appeared quite j it, and pay in advance, and  
-resigned, which proved the firmness of his cbarac- j thee and thy little ones
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837100701%2F0643.jp2/pct:15.771121,81.189629,24.615628,1.359939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,6 +286,7 @@ resigned, which proved the firmness of his cbarac- j thee and thy little ones
 ## [From _The Rhode-Island Republican._](https://chroniclingamerica.loc.gov/lccn/sn83025561/1837-10-11/ed-1/seq-3)
 
 #### 1837-10-11 &middot; Newport, R.I.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -339,6 +324,7 @@ with thee and thy little ones.
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1837-10-12/ed-1/seq-4)
 
 #### 1837-10-12 &middot; Newport, R.I.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -384,6 +370,7 @@ thy little ones
 ## [From _Cheraw gazette._](https://chroniclingamerica.loc.gov/lccn/sn88084121/1837-10-18/ed-1/seq-3)
 
 #### 1837-10-18 &middot; Cheraw, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -417,7 +404,7 @@ thou mayest understand it.
 * ly for it, and pay. in advance, and it shall  
 be well with thee and t!iy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_hookandcook_ver03%2Fdata%2Fsn88084121%2F00295861800%2F1837101801%2F0375.jp2/pct:19.103314,24.059886,16.926576,17.665837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_hookandcook_ver03%2Fdata%2Fsn88084121%2F00295861800%2F1837101801%2F0374.jp2/pct:19.103314,24.059886,16.926576,17.665837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,6 +413,7 @@ be well with thee and t!iy little ones
 ## [From _Southern telegraph._](https://chroniclingamerica.loc.gov/lccn/sn87065592/1837-10-24/ed-1/seq-1)
 
 #### 1837-10-24 &middot; Rodney, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -469,7 +457,9 @@ thy lit&#x27; lo onus, llrornsrillc Banner
 #### From _The Floridian._
 
 #### 1837-10-28 &middot; Tallahassee [Fla.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Printers' Proverbs
@@ -477,15 +467,18 @@ thy lit&#x27; lo onus, llrornsrillc Banner
 #### From _Fayetteville observer._
 
 #### 1837-11-15 &middot; Fayetteville, N.C.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1838-01-06/ed-1/seq-1)
 
 #### 1838-01-06 &middot; Columbus, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.. :  
 Vkister&#x27;s J&#x27;coyERr.s. Never inquire thou l  
 Uie editor (or the. news, tor behold it is hjs duty lit  
 Uio appointed time to give it unto thee wolhotit  
@@ -522,7 +515,7 @@ t . i- .....&quot;..-. . t. . , . . . . . 1 .
 subscribe immediately for it, and pay hi advance, uud 1  
 it&quot;shall be welf with thee and thy littte ooes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1838010601%2F0095.jp2/pct:33.155503,66.966599,15.649081,11.533742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1838010601%2F0095.jp2/pct:33.155503,66.475801,15.649081,12.024540/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +526,9 @@ it&quot;shall be welf with thee and thy littte ooes
 #### From _Daily commercial bulletin and Missouri literary register._
 
 #### 1838-01-12 &middot; St. Louis, Mo.
+
 [This text is not available under an open license.]
+
 ---
 
 ## Miscellany
@@ -541,12 +536,15 @@ it&quot;shall be welf with thee and thy littte ooes
 #### From _New-Hampshire statesman and state journal._
 
 #### 1838-03-31 &middot; Concord [N.H.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Constantine republican._](https://chroniclingamerica.loc.gov/lccn/sn83016620/1838-05-23/ed-1/seq-1)
 
 #### 1838-05-23 &middot; Constantine, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -568,13 +566,9 @@ not touch, the typo ; tor thou mayett causa
 mo printer much trouble.  
 Look ihou not at the copy which is in th  
 hands of tho compositors ; for it is not moot  
-in tho sight of the printer. &#x27; v &#x27;  
-Neither examine thou the proof-sheet ;  
-for it is not roadv to meet thino eye, ihlt  
-thou may est understand it.  
-
+in tho sight of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn83016620%2F00202197991%2F1838052301%2F0410.jp2/pct:83.117057,67.628866,12.173913,12.783505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn83016620%2F00202197991%2F1838052301%2F0410.jp2/pct:83.117057,67.628866,12.173913,10.051546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,6 +577,7 @@ thou may est understand it.
 ## [From _The Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023252/1838-06-12/ed-1/seq-1)
 
 #### 1838-06-12 &middot; St. Johnsbury, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 rs PltO YEIIBS.  
@@ -601,15 +596,9 @@ touolrthoypo for thou uia&#x27;st cause the Innter
 much trouble.  
 5th. f.ook thou not nt the cnpy which is in  
 the banils of tho Compositors ; for that is not  
-uiciit in tho f-ijjlii of tho Printcr.  
-(rh. Neither i.&#x27;xnmine tliou tho proof sheer,  
-for it is not rendy to mect thine eye, that thou  
-may&#x27;st undorstnnil it.  
-7th. Prefor ihj&#x27; County Paper to nny other,  
-.&#x27;iubscnbc immediatcly for it, and pny m advancc;  
-and it shall bo woll with theo and thv little ones
+uiciit i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296187%2F1838061201%2F0183.jp2/pct:58.265939,44.565064,17.434644,13.506274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296187%2F1838061201%2F0183.jp2/pct:58.303555,44.565064,17.397028,10.009869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,6 +609,7 @@ and it shall bo woll with theo and thv little ones
 #### From _The Sydney Herald (NSW : 1831 - 1842)_
 
 #### 1838-07-09 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 EXTRACTS&#x27; PRINTER&#x27;S PROVERBS.-Never in-  
@@ -657,6 +647,7 @@ little ones.
 #### From _The Cornwall Chronicle (Launceston, Tas. : 1835 - 1880)_
 
 #### 1838-08-18 &middot; Launceston, Tasmania
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 PRINTER&#x27;S PROVERBS. Never inquire tliou  
@@ -690,6 +681,7 @@ well with thec and thy little ones.
 ## [From _The Madisonian._](https://chroniclingamerica.loc.gov/lccn/sn82015015/1838-09-19/ed-1/seq-1)
 
 #### 1838-09-19 &middot; Washington City [i.e. Washington, D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -730,12 +722,15 @@ ones
 #### From _Daily herald and gazette._
 
 #### 1838-10-18 &middot; Cleveland [Ohio]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Piney Woods planter and Amite union literary reflector._](https://chroniclingamerica.loc.gov/lccn/sn83016939/1838-10-20/ed-1/seq-1)
 
 #### 1838-10-20 &middot; Liberty, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -779,6 +774,7 @@ and thy little ones. : &#x27; , &#x27; ;
 ## [From _Southern marksman._](https://chroniclingamerica.loc.gov/lccn/sn83016864/1839-01-01/ed-1/seq-3)
 
 #### 1839-01-01 &middot; Clinton, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -820,6 +816,7 @@ little ones
 ## [From _Lexington union._](https://chroniclingamerica.loc.gov/lccn/sn87065337/1839-01-12/ed-1/seq-3)
 
 #### 1839-01-12 &middot; Lexington, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -862,15 +859,9 @@ thv little one.
 #### From _London Dispatch_
 
 #### 1839-03-03 &middot; London, England
+
 [This text is not available under an open license.]
----
 
-## Money Market.
-
-#### From _London Dispatch_
-
-#### 1839-03-03 &middot; London, England
-[This text is not available under an open license.]
 ---
 
 ## SUMMARY of FOREIGN INTELLIGENCE.
@@ -878,12 +869,15 @@ thv little one.
 #### From _Derby Mercury_
 
 #### 1839-04-10 &middot; Derby, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1840-10-03/ed-1/seq-4)
 
 #### 1840-10-03 &middot; Fayetteville [N.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -929,13 +923,9 @@ oneB
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1841-11-03/ed-1/seq-1)
 
 #### 1841-11-03 &middot; Stroudsburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ughan was a per­  
-sonal friend of F rank&#x27;fw,- and we doubt not the  
-arrival of the&#x27; press &#x27;will afford him the liveliest  
-pleasure, iviany enoris naveneon maue to pro  
-cure the press but&#x27;Wil now in vain.  
   
 Printers&#x27; Proverbs.  
 1 . Nev.er inquire thou of the editor&#x27; for the  
@@ -959,7 +949,7 @@ G. .Neither examine thou the proof-sheet,-for
 it is not ready to meet thine eye, that thou may­  
 est understand it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237281846%2F1841110301%2F0319.jp2/pct:39.245346,12.938699,35.721410,78.965840/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237281846%2F1841110301%2F0319.jp2/pct:57.313830,12.938699,17.652926,14.143659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,14 +958,10 @@ est understand it.
 ## [From _The Yazoo Whig and political register._](https://chroniclingamerica.loc.gov/lccn/sn87065695/1841-12-31/ed-1/seq-1)
 
 #### 1841-12-31 &middot; Yazoo City, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- may be said to  
-be fifty. In Holland it is only twenty-five;  
-the executioner is malaria. There are dis­  
-tricts in France where the average is hut  
-twenty-two, twenty, and eighteen.  
-Polytechnic Journal.  
+  
 PRINTERS&#x27; PROVERBS.  
 1. Never inquire thou of the editor for  
 the news, for behold it is his duty at the ap­  
@@ -1003,7 +989,7 @@ er, subscribe for it immediately and pay in
 advance and it shall be well with thee and  
 thy little ones. Richland Jef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065695%2F00295877583%2F1841123101%2F0114.jp2/pct:71.851739,40.121175,16.284369,19.850072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065695%2F00295877583%2F1841123101%2F0114.jp2/pct:71.912502,44.064490,16.223606,15.906757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,6 +998,7 @@ thy little ones. Richland Jef
 ## [From _Boon's Lick times._](https://chroniclingamerica.loc.gov/lccn/sn83016957/1842-02-12/ed-1/seq-2)
 
 #### 1842-02-12 &middot; Fayette, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1034,6 +1021,7 @@ And when thou goest out, tee to it tha
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn85042796/1842-06-29/ed-1/seq-3)
 
 #### 1842-06-29 &middot; Camden, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1066,6 +1054,7 @@ not understand it.
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1842-07-21/ed-1/seq-1)
 
 #### 1842-07-21 &middot; Litchfield, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1099,6 +1088,7 @@ mayest not understand it
 ## [From _Boon's Lick times._](https://chroniclingamerica.loc.gov/lccn/sn83016957/1842-09-03/ed-1/seq-2)
 
 #### 1842-09-03 &middot; Fayette, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1133,12 +1123,15 @@ est not understand it
 #### From _The Ohio observer._
 
 #### 1844-02-22 &middot; Hudson [Ohio]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1844-03-07/ed-1/seq-1)
 
 #### 1844-03-07 &middot; Martinsburg, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1161,6 +1154,7 @@ to himself
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1844-03-29/ed-1/seq-1)
 
 #### 1844-03-29 &middot; Woodsfield, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1198,9 +1192,52 @@ with thee and thy little ones.
 
 ---
 
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn87082160/1844-03-30/ed-1/seq-4)
+
+#### 1844-03-30 &middot; Lancaster, W.T. [i.e. Wis.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Printers Prnverbs.—Never en­  
+quire thou of an Editor for the news,  
+for behold it is his duty al the appoin-,  
+ted lime to g.veit unto thee without  
+asking.  
+It is not fit that thou shouldst ask of  
+him who is theauthor of an article;  
+for duty requires him to keep such  
+things to himself.  
+When thou enterest into a printing  
+office have a care to thyself that thou  
+dost not touch the type; for thou may­  
+csl cause the printer much trouble.  
+Look not at the copy which is in the  
+hand of the compositor, for that is not  
+meet in the sight of the printer.  
+Neither peep over the outside while  
+it is being struck off, or look over the  
+i shoulders of the Editor while he is rea­  
+ding proof.  
+When thou dost enter a printing  
+office be sure an J SHUT the DOUii,  
+that it may be well with thee in the  
+sight of the devil.  
+Prefer the town paper to any other;  
+I subscribe immediately for it and pay in  
+advance, that it may be well with thee  
+[a nd thy little ones
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn87082160%2F00514159324%2F1844033001%2F0212.jp2/pct:45.425378,4.868343,15.405713,19.131211/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1844-04-19_25_16?page=3)
 
 #### 1844-04-19 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1233,6 +1270,7 @@ Neither peep over the outside while it is be
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7?page=3)
 
 #### 1844-04-26 &middot; Hartford [Conn.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1257,6 +1295,7 @@ have a care. to thyself that thou dost not touch
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7?page=3)
 
 #### 1844-04-26 &middot; Hartford [Conn.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1279,6 +1318,7 @@ Neither peep over the outside while it is bein
 ## [From _Independent Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016863/1844-04-27/ed-1/seq-1)
 
 #### 1844-04-27 &middot; Canton, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1297,7 +1337,7 @@ dost not touch the type, toi thou mayest
 cause the pi inter much trouble.  
 Look not at the copy which is in tha  
 hands of the compositor, for that is not  
-meet in tne aigiu 01 me prime
+meet in tne aig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_kingsombra_ver01%2Fdata%2Fsn83016863%2F00415662051%2F1844042701%2F0284.jp2/pct:77.271807,73.226612,14.693382,10.104274/!600,600/0/default.jpg"/>
 </td>
@@ -1310,16 +1350,18 @@ meet in tne aigiu 01 me prime
 #### From _Milwaukie sentinel._
 
 #### 1844-05-11 &middot; Milwaukie [i.e. Milwaukee], Wisconsin
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Columbus Whig._](https://chroniclingamerica.loc.gov/lccn/sn87065034/1844-05-23/ed-1/seq-3)
 
 #### 1844-05-23 &middot; Columbus, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- both accidentally snot  
-themselves recently.  
+  
 PniNTnns PltOVERDS.  
 Never innuire thou ol an editor for  
 the news, for behold it is hb duty at  
@@ -1340,7 +1382,7 @@ the hands of the compositor, for that is
 not meet in the sight of the printer.  
 Neither peep over the outside whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065034%2F00295877649%2F1844052301%2F0219.jp2/pct:80.169146,77.862912,15.281423,13.698488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065034%2F00295877649%2F1844052301%2F0219.jp2/pct:80.169146,79.726651,15.281423,11.834748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,6 +1391,7 @@ Neither peep over the outside whil
 ## [From _Holly Springs gazette._](https://chroniclingamerica.loc.gov/lccn/sn87090028/1844-05-25/ed-1/seq-4)
 
 #### 1844-05-25 &middot; Holly Springs, Misp. [i.e. Miss.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1375,32 +1418,13 @@ Neither peep over the outside while it i
 
 ---
 
-## [From _The Columbia Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025180/1844-07-27/ed-1/seq-1)
+## PRINTERS' PRECEPTS.
 
-#### 1844-07-27 &middot; Bloomsburg, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
+#### From _The Catholic Telegraph (1831-1846)_
 
-  
-Printers Fruuerbs. Never enquire)  
-thou of ihe printer of the News, for bu­  
-liojd if is his duly at tho appointed tt.no  
-lo give it unto thee without asking. .  
-Il is not fit that thou should&#x27;st. ask of  
-him who it ihe aulhorofan article, for  
-his duly requires him lo keep audi  
-iKfngs unto himself.  
-When. .&quot; J--4 -t- &#x27; - .TJi-&#x27;tni  
-Trig Office have a care to thyself thou  
-lost not-touch lhelypcs,for Ihou may&#x27;st  
-cause Ihe printer much trouble.  
-Look not al the Copy which is in Iho  
-hands of the compositor, for that is not  
-meet in the sight of the Printer.  
-Neither peep over the outside whil
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025180%2F00237287940%2F1844072701%2F0053.jp2/pct:79.120879,45.487708,15.260211,10.737510/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+#### 1844-10-26 &middot; Cincinnati
+
+[This text is not available under an open license.]
 
 ---
 
@@ -1409,15 +1433,9 @@ Neither peep over the outside whil
 #### From _The Catholic Telegraph (1831-1846)_
 
 #### 1844-10-26 &middot; Cincinnati
+
 [This text is not available under an open license.]
----
 
-## PRINTERS' PRECEPTS.
-
-#### From _The Catholic Telegraph (1831-1846)_
-
-#### 1844-10-26 &middot; Cincinnati
-[This text is not available under an open license.]
 ---
 
 ## Varieties.
@@ -1425,31 +1443,9 @@ Neither peep over the outside whil
 #### From _Belfast News-Letter_
 
 #### 1844-12-24 &middot; Belfast, Ireland
+
 [This text is not available under an open license.]
----
 
-## Varieties.
-
-#### From _Belfast News-Letter_
-
-#### 1844-12-24 &middot; Belfast, Ireland
-[This text is not available under an open license.]
----
-
-## Sporting Intelligence.
-
-#### From _North Wales Chronicle_
-
-#### 1845-02-18 &middot; Bangor, Wales
-[This text is not available under an open license.]
----
-
-## Sporting Intelligence.
-
-#### From _North Wales Chronicle_
-
-#### 1845-02-18 &middot; Bangor, Wales
-[This text is not available under an open license.]
 ---
 
 ## [PRINTERS' PRECEPTS.](http://trove.nla.gov.au/ndp/del/article/37155014)
@@ -1457,6 +1453,7 @@ Neither peep over the outside whil
 #### From _The Australian (Sydney, NSW : 1824 - 1848)_
 
 #### 1845-07-15 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1485,9 +1482,37 @@ theo and thy little ones.&#x27; Th
 
 ---
 
+## [From _Democratic banner._](https://chroniclingamerica.loc.gov/lccn/sn89066057/1845-08-09/ed-1/seq-2)
+
+#### 1845-08-09 &middot; Bowling Green, Pike County, Mo.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+PRINTER&#x27;S PROVERP.S.  
+&quot;Never inquire thou of the Printer  
+for the news, for behold it is his duty to  
+give it to thee at the appointed time  
+without asking.  
+  
+&quot;It is not fit that thou sliouldst ask of  
+  
+him who 19 the author of an article, for  
+his duty requires him to keep such  
+things to himself.  
+&quot;When thou ei.terest into a Piinting  
+o.fice, have a care to thyself that thou
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_jerome_ver01%2Fdata%2Fsn89066057%2F0020029211A%2F1845080901%2F0109.jp2/pct:37.329220,11.163081,14.301454,8.154038/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Boon's Lick times._](https://chroniclingamerica.loc.gov/lccn/sn83016957/1845-09-06/ed-1/seq-4)
 
 #### 1845-09-06 &middot; Fayette, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Printer&#x27;s Proverbs.  
@@ -1545,12 +1570,10 @@ ones.
 #### From _Colonial Times (Hobart, Tas. : 1828 - 1857)_
 
 #### 1845-09-19 &middot; Hobart, Tasmania
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Times and Tasmanian ;-&quot; Never inquire  
-thou of the printer for tho news ; foi  
-behold it is his duty at tho ap-pointed  
 time to give it unto theo without  
 asking. It is not fit that thou shouldst  
 ask of him who is tho author of an  
@@ -1565,6 +1588,7 @@ keep such things unto himself. Do no
 #### From _Colonial Times (Hobart, Tas. : 1828 - 1857)_
 
 #### 1845-09-19 &middot; Hobart, Tasmania
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1580,8 +1604,7 @@ while it is being struck off, nor look
 over the shoulders of the editor while  
 ho is reading a proof. Prefer the town  
 paper to any other-subscribo immediately  
-ibr it, and pay in advance, that it be  
-well with theo and &#x27;? thy little ones
+ib
 </td></tr></table>
 
 ---
@@ -1591,6 +1614,7 @@ well with theo and &#x27;? thy little ones
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
 
 #### 1846-04-22 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1611,6 +1635,7 @@ keep such things unto himself. Do no
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
 
 #### 1846-04-22 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1636,6 +1661,7 @@ little ones.&quot; When the Earl o
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-09-10_28_37?page=3)
 
 #### 1847-09-10 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1682,12 +1708,15 @@ thy little ones, — Exeter News Letter.
 #### From _New Hampshire statesman._
 
 #### 1847-09-17 &middot; Concord [N.H.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1847-10-21/ed-1/seq-1)
 
 #### 1847-10-21 &middot; Martinsburg, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1730,12 +1759,25 @@ and thy little ones
 #### From _Daily sentinel and gazette._
 
 #### 1847-10-22 &middot; Milwaukie [i.e. Milwaukee, Wis.]
+
 [This text is not available under an open license.]
+
+---
+
+## Printer's Proverbs
+
+#### From _The Semi-weekly Natchez courier._
+
+#### 1847-10-29 &middot; Natchez, Miss.
+
+[This text is not available under an open license.]
+
 ---
 
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn87070038/1847-10-29/ed-1/seq-1)
 
 #### 1847-10-29 &middot; Lancaster, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1774,17 +1816,10 @@ well withjthee and thy littleones. Exite
 
 ---
 
-## Printer's Proverbs
-
-#### From _The Semi-weekly Natchez courier._
-
-#### 1847-10-29 &middot; Natchez, Miss.
-[This text is not available under an open license.]
----
-
 ## [From _The Mississippi Creole._](https://chroniclingamerica.loc.gov/lccn/sn83016872/1847-11-13/ed-1/seq-1)
 
 #### 1847-11-13 &middot; Canton, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1844,6 +1879,7 @@ and thy little one
 ## [From _Juliet signal._](https://chroniclingamerica.loc.gov/lccn/sn84024082/1847-11-16/ed-1/seq-1)
 
 #### 1847-11-16 &middot; Juliet [i.e. Joliet], Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1883,6 +1919,7 @@ wilh thee and thy little &quot;, ones. Extr
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50?page=3)
 
 #### 1847-12-10 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1911,6 +1948,7 @@ est read it clearly.
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50?page=3)
 
 #### 1847-12-10 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1935,6 +1973,7 @@ self.
 ## [From _The Arkansas banner._](https://chroniclingamerica.loc.gov/lccn/sn82007022/1847-12-13/ed-1/seq-3)
 
 #### 1847-12-13 &middot; Little Rock, Ark.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1947,21 +1986,9 @@ it may be that the truth might often t thee.
 III It i. no&#x27; lit th it th u t‘&gt;oul tst asc fiom ‘ m  
 who is the author ol any artirle, lor hisduty require*  
 him to keep such things to brinseil.  
-IV Wuen thou do-t enter in:&lt;&gt; a piiirjjg office,  
-have a csre unto thyself, that thou d.wt nor touch a  
-t . su»e • l;W Ikm, mat a! a- ■ US t’.n r,s . ’.. »T~ .&lt; K I. m:V.  
-  
-V. Look not t&#x27;xiu a, the ropy which is in the  
-band? of compositors, torfha’ i« . rt in itw sig-b! ol  
-the printer.  
-VI. .Neither exinnw thou the proof-sheet; for i&#x27;  
-is not ready to ox-et the rye. that thru mayst un­  
-der-raml it.  
-VII. Prefer thy own city newspaper to any oth­  
-er—subscribe inmediatcly and j jy f &gt;r it in ady Mice,  
-and it shall b-* well with thee ar.j thy little ot.es.
+IV Wuen thou do-t enter in:&lt;&gt; a pi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_devo_ver01%2Fdata%2Fsn82007022%2F00393342894%2F1847121301%2F0225.jp2/pct:28.375286,29.582256,13.435135,10.059192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_devo_ver01%2Fdata%2Fsn82007022%2F00393342894%2F1847121301%2F0225.jp2/pct:28.392889,29.582256,13.417532,4.602667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1970,24 +1997,9 @@ and it shall b-* well with thee ar.j thy little ot.es.
 ## [From _The Charlotte journal._](https://chroniclingamerica.loc.gov/lccn/sn84020716/1848-05-10/ed-1/seq-1)
 
 #### 1848-05-10 &middot; Charlotte, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- .  
-  
-a lawyers cieik I I es, mat oi a iwyi  
-  
-for behold it is his duly, al Ibe appointed : mouldering ruin me Pnm u v.i  
-in e, lo give il lo thee without .erig. main finah and fadeluss amid Ihe mutations  
-2.&#x27; When thou dost write for hia psper , of Ihe dying year and, Heaven be praised !  
-nevor aay unto him, what ihinkeel thou of J something green, something besutiful to  
-my piece? for il rosy be that the truth see, and. grateful to the eoul, will, in the  
-might offend thee. coldeal and d.rke.t hour of fate, ..ill twine  
-2 II i not fit thai thou ahould.l ask ofi its tanditls around the crumbling altars and  
-him who ia the author nf any article, for broken arcbra of the desolate lemp&#x27;.ee of  
-  
-hia dutu rrouires htm to keep such things tbo huinau h.ail I  
-  
-j i -  
   
 to hiinaelf.  
   
@@ -2010,7 +2022,7 @@ to any other; end subscribe immediately
 for it, and pay in advance, end it ahall be  
 well with Ibce end thy little onei. Ex. pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_chestnut_ver01%2Fdata%2Fsn84020716%2F00415667711%2F1848051001%2F0070.jp2/pct:17.993908,78.560115,44.299391,13.736501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_chestnut_ver01%2Fdata%2Fsn84020716%2F00415667711%2F1848051001%2F0070.jp2/pct:32.745866,83.743701,14.708442,8.552916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2021,7 +2033,9 @@ well with Ibce end thy little onei. Ex. pa
 #### From _The Floridian._
 
 #### 1848-05-20 &middot; Tallahassee [Fla.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## GLEANINGS.
@@ -2029,7 +2043,9 @@ well with Ibce end thy little onei. Ex. pa
 #### From _Preston Chronicle_
 
 #### 1848-12-16 &middot; Preston, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## THE LATE EXTRAORDINARY ROBBERY ON THE GREAT WESTERN RAILWAY.
@@ -2037,12 +2053,15 @@ well with Ibce end thy little onei. Ex. pa
 #### From _Freeman's Journal_
 
 #### 1849-01-09 &middot; Dublin, Ireland
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021169/1849-03-01/ed-1/seq-2)
 
 #### 1849-03-01 &middot; Newport, R.I.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2077,7 +2096,9 @@ with thee and thy liitle ones.
 #### From _Daily national intelligencer._
 
 #### 1849-03-14 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Printer's Proverbs
@@ -2085,12 +2106,15 @@ with thee and thy liitle ones.
 #### From _Milwaukee sentinel and gazette._
 
 #### 1849-03-17 &middot; Milwaukee, [Wis.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1849-03-17_4_26?page=5)
 
 #### 1849-03-17 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2130,12 +2154,15 @@ and pay in advance, and it shall be well with
 #### From _Fayetteville observer._
 
 #### 1849-03-20 &middot; Fayetteville, N.C.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Democratic banner._](https://chroniclingamerica.loc.gov/lccn/sn89066057/1849-03-26/ed-1/seq-4)
 
 #### 1849-03-26 &middot; Bowling Green, Pike County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2166,38 +2193,20 @@ well with thee and thy little ones
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1849-03-29_20_13?page=3)
-
-#### 1849-03-29 &middot; New York
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-the reader. T’ i.s a 1 leture of a holy life and a rare y®®*&quot; ®’^ obstinacy wita willfulae.-s “what thinkest thou of my piece 7” Kr it may  
-  
-and L&#x27;au&#x27;iffl C&#x27;rist an exnerience which no reader Overcome evil with good. Love is of offend thee. It is nut fit tliit  
-  
-, , - &#x27; k ^ ki ♦ k God, and every one that lov^h IS born of God ; and thou shouldsta.sk him who is the author of an article,  
-  
-capable of appreciati.ig the noblest traits ot character, whp God called himself a Father, he chose a name dm requires him to keep such tilings to liim
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1849-03-29_20_13&#0036;3/pct:17.008143,47.672658,38.008931,1.759697/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## Camel Riding
 
 #### From _Mississippian_
 
 #### 1849-03-30 &middot; Jackson, Miss.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Wisconsin tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086768/1849-04-27/ed-1/seq-1)
 
 #### 1849-04-27 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2209,7 +2218,7 @@ to him, -what third-.-. • * thou uf my piece.&#x27;’ for it
 may be that the tr uth \ id ofionu thee. It is not  
 fit tie;? that 1:.! U ‘hold i-T f;. i, him who is the E&#x27;.&#x27;-  
 thor of ,;n ad ’ for h! d&quot;ty require., him to k; ■ p  
-such things to hint elf. When thou dost enter in
+such things to hint elf. When thou dost ente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086768%2F00271769751%2F1849042701%2F0111.jp2/pct:77.274102,72.346426,13.819628,4.349008/!600,600/0/default.jpg"/>
 </td>
@@ -2222,7 +2231,9 @@ such things to hint elf. When thou dost enter in
 #### From _Northern Star_
 
 #### 1849-05-05 &middot; Leeds, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## Variety.
@@ -2230,12 +2241,15 @@ such things to hint elf. When thou dost enter in
 #### From _Christian Inquirer (1846-1864)_
 
 #### 1849-06-30 &middot; New York
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1849-07-21/ed-1/seq-2)
 
 #### 1849-07-21 &middot; Fayetteville [N.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2270,6 +2284,7 @@ ones
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1849-11-03/ed-1/seq-4)
 
 #### 1849-11-03 &middot; Honolulu [Oahu], Hawaii
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2305,12 +2320,15 @@ and thy little ones. Picayune
 #### From _Boston investigator._
 
 #### 1850-04-10 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
-## [From _Spirit of the Times; A Chronicle of the Turf, Agriculture, Field Sports, Literature and the Stage (1835-1861)_](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25?page=4)
+## [From _The spirit of the times._](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25?page=4)
 
-#### 1850-08-10 &middot; New York
+#### 1850-08-10 &middot; New-York [N.Y.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2336,6 +2354,7 @@ dost not look at what gay be lying open, for that is not meet in the sigh
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1852-02-18/ed-1/seq-3)
 
 #### 1852-02-18 &middot; Clarksburg, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2372,7 +2391,9 @@ tle ones
 #### From _Belfast News-Letter_
 
 #### 1852-05-17 &middot; Belfast, Ireland
+
 [This text is not available under an open license.]
+
 ---
 
 ## FALL OF TWO HOUSES IN SEVENDIALS.
@@ -2380,12 +2401,15 @@ tle ones
 #### From _Reynolds's  Newspaper_
 
 #### 1852-10-03 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1853-06-25/ed-1/seq-3)
 
 #### 1853-06-25 &middot; Thibodaux, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2421,6 +2445,7 @@ thee and thy little ones
 ## [From _Daily evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-10-28/ed-1/seq-1)
 
 #### 1853-10-28 &middot; Washington [D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2436,11 +2461,9 @@ It is not fit that thou shouldst a&gt;k him
 who is the author of an articlc, for his  
 elutv requires to ke-ep such things to liiiu­  
 self.  
-Wlien thou doest enter into his office  
-take heed unto thyself that thou doest  
-not look at w
+Wlien thou doest enter into his o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045461%2F00280654024%2F1853102801%2F0404.jp2/pct:64.468157,85.201461,16.110738,8.943043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045461%2F00280654024%2F1853102801%2F0404.jp2/pct:64.468157,85.201461,16.110738,7.778792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2449,6 +2472,7 @@ not look at w
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1853-11-12/ed-1/seq-1)
 
 #### 1853-11-12 &middot; Plaquemine, Parish of Iberville [La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2464,51 +2488,9 @@ is the author of an article, for his duty requires
 to keep such things to himself.  
 When thou does enter into his office taku  
 heed unto thyself that thou does not look at  
-what may b
+what may be lying open; for that is not mee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853111201%2F0398.jp2/pct:79.963768,48.942006,14.275362,6.818182/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Cedar Co. news-letter._](https://chroniclingamerica.loc.gov/lccn/sn85049620/1853-11-26/ed-1/seq-2)
-
-#### 1853-11-26 &middot; Tipton, Iowa
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-It is not fit that thou shouldst ask him&#x27; says: I *&#x27;an ^\^y between Kalafal and Lu­  
-who is the author of an article for his &quot;With our six dollars and sixty-six^&quot;en Russians were iorced to  
-{duty juires hint to keep such things to cents, we are going to buy two Shanghaei  
-  
-of
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn85049620%2F0027952939A%2F1853112601%2F0011.jp2/pct:51.494580,46.495828,41.695611,8.462455/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1854-08-23/ed-1/seq-4)
-
-#### 1854-08-23 &middot; Clearfield, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Xpyer inquire Ujou . of tlie editrjtbe.niiws,  
-for heboid it is his dutj&#x27; at the &#x27;appointed tinie  
-o give it hhto thee w ithout asking;1 &quot; -&#x27;&#x27;-&quot;&quot; &#x27;  
-lyrhea. tbou,,dost write for his paper, rieyer  
-say : onto him, J &#x27;What r thinkest thou ! of my!  
-pie?&#x27;; tor i t niay bo that the&#x27;, t ru t h V puld &#x27;?-  
-fend thee .1 : fii&#x27;: .-!; . V .V &#x27;  
-It is&#x27; not fit. that thou shouldst&#x27;ask &#x27; lijni wbp  
-isthe author of any article, for . hia. duty-, re--  
-quires hint to keep sucb thmgsto himself. -: !i 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477771%2F1854082301%2F0044.jp2/pct:20.726125,76.506974,14.538279,6.173438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853111201%2F0398.jp2/pct:79.963768,48.942006,14.275362,6.831243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2517,6 +2499,7 @@ quires hint to keep sucb thmgsto himself. -: !i
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1855-12-20/ed-1/seq-1)
 
 #### 1855-12-20 &middot; Upper Sandusky, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2552,6 +2535,7 @@ thou mayest understand it
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1856-02-14/ed-1/seq-1)
 
 #### 1856-02-14 &middot; Jackson C.H., Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2589,6 +2573,7 @@ with thoe and thv little ones
 ## [From _Eaton Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028570/1856-02-28/ed-1/seq-1)
 
 #### 1856-02-28 &middot; Eaton, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2607,7 +2592,7 @@ quires hi in lo keep such things to himself.
 Wheil thou dost enter into hia office, lake  
 heed unto hy self thai thou dost not look al  
 what in-iy be lying open;, for that is not meet  
-in the sight of good 
+in the sight of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn84028570%2F00280774790%2F1856022801%2F0363.jp2/pct:49.226964,77.372475,13.481756,7.484377/!600,600/0/default.jpg"/>
 </td>
@@ -2618,6 +2603,7 @@ in the sight of good
 ## [From _The Southern star._](https://chroniclingamerica.loc.gov/lccn/sn87065523/1856-03-29/ed-1/seq-3)
 
 #### 1856-03-29 &middot; Panola, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2631,7 +2617,7 @@ never say u i o I im &#x27;wt t thinker thou
 ofmypiec ?&#x27; fori&#x27;, may Le th.t tc  
 truth would ff ndtluje.  
 It is not fit that thou svouldst ask  
-him who is the au hor of 
+him who is the au hor 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065523%2F00295878174%2F1856032901%2F0462.jp2/pct:62.485227,53.698342,14.857336,8.041590/!600,600/0/default.jpg"/>
 </td>
@@ -2642,6 +2628,7 @@ him who is the au hor of
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1856-04-11/ed-1/seq-1)
 
 #### 1856-04-11 &middot; Fremont, Sandusky County [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2678,6 +2665,7 @@ thee and thy little ones.
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1856-04-14/ed-1/seq-1)
 
 #### 1856-04-14 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2705,17 +2693,49 @@ little ones
 
 ---
 
-## General Items
+## [From _Star of the Kanawha Valley._](https://chroniclingamerica.loc.gov/lccn/sn85059861/1856-04-16/ed-1/seq-1)
 
-#### From _The Weekly Raleigh register._
+#### 1856-04-16 &middot; Buffalo, Va. [W. Va.]
 
-#### 1856-04-23 &middot; Raleigh, N.C.
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+NWer inquire thou of the e liter,  
+the newt, tor behold it it hit duty at  
+the appointed time to give it unto  
+thee without asking.  
+When thou dost write for hie paper,  
+nerer say unto him “what thinkset  
+thou of my piecef&quot; for it may be that  
+tlte truth would oflbnd thee.  
+It ie not fit that thou shooldet aek  
+him who U the author of an article,  
+lor hit duty requires him to keep such  
+to himself.  
+When thou do^tenter into hie oQoe,  
+take heed nnto thyself that thou dost  
+not look at what may be lying  
+for that it not meet in the si  
+good breeding. Neither exa  
+the proof sheet, for it Is not ready to  
+moot thine eye, that thou mayest un­  
+derstand it. &gt;  
+Prefer thine own country paper to  
+any other, and subscribe immediate­  
+ly for it and pay in advaaoe end. it  
+shell be well with thee aod t^jr little  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_hogan_ver01%2Fdata%2Fsn85059861%2F00514157364%2F1856041601%2F0206.jp2/pct:55.810617,79.014599,12.881098,14.601799/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1856-05-03/ed-1/seq-2)
 
 #### 1856-05-03 &middot; Fayetteville [N.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2746,6 +2766,7 @@ little ones
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1856-05-08/ed-1/seq-2)
 
 #### 1856-05-08 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2775,6 +2796,7 @@ well with thee and thy little ones
 ## [From _The Georgetown news._](https://chroniclingamerica.loc.gov/lccn/sn93052972/1856-05-22/ed-1/seq-1)
 
 #### 1856-05-22 &middot; Georgetown, El Dorado County, Cal.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2789,26 +2811,10 @@ thee and thy little ones
 
 ---
 
-## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1856-05-24/ed-1/seq-4)
-
-#### 1856-05-24 &middot; Towanda, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-JMjr Prefer thine own county paper to any  
-other, and subscribe for it immediately. Pay  
-in advance, and it shall be well with thee and  
-thy little ones
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028630%2F1856052401%2F0328.jp2/pct:8.311284,89.491974,14.557717,2.122757/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1856-07-26/ed-1/seq-1)
 
 #### 1856-07-26 &middot; Brownville, Nemaha County, N.T. [Neb.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2847,6 +2853,7 @@ be well with thee and thy little ones
 ## [From _The Nevada journal._](https://chroniclingamerica.loc.gov/lccn/sn84026884/1857-02-20/ed-1/seq-1)
 
 #### 1857-02-20 &middot; Nevada City, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2879,14 +2886,10 @@ with thee and with thy little ones
 ## [From _The Winchester home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065088/1857-08-01/ed-1/seq-1)
 
 #### 1857-08-01 &middot; Winchester, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dollar notes on the Union Bank  
-of Tennessee in circulation in this city.  
-They are perfect fac similes of the genu  
-ine, but may bo readily detected by their  
-peculiar color thoso seen were dirty  
-yellow.  
+  
 Printers&#x27; Proverbs.  
 1. Never inquire thou of the editor for  
 tho news; for behold, it is his duty at the  
@@ -2909,7 +2912,7 @@ mayest cause the printer much trouble.
 in the hands of the compositors; for that  
 is not meet in the sight of the printer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1857080101%2F0311.jp2/pct:16.807568,32.956403,15.016103,20.531335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1857080101%2F0311.jp2/pct:16.847826,37.970027,14.975845,15.517711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2918,13 +2921,10 @@ is not meet in the sight of the printer
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1857-09-06/ed-1/seq-3)
 
 #### 1857-09-06 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d Temperance  
-.Sumner, and was born Nov. 1, 1818. Mrs. Lanier  
--was an excellent woman. In all the relations of  
-life, as daughter, sister, wife, mqther, mistress, and  
-neighbor, she was a worthy example.  
+  
 PRINTERS&#x27; PROVERBS.  
 1. Never inquire thou of the editor for the  
 news ; for behold, it is his duty at the appointed  
@@ -2950,7 +2950,7 @@ journals subscribe immediately for it, py in
 advance, and it shall be well with thee and thy little  
 ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_dolly_ver01%2Fdata%2Fsn85038518%2F00200293241%2F1857090601%2F0237.jp2/pct:5.262313,39.469027,12.963260,12.861357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_dolly_ver01%2Fdata%2Fsn85038518%2F00200293241%2F1857090601%2F0237.jp2/pct:5.262313,42.430678,12.963260,9.899705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2961,12 +2961,15 @@ ones
 #### From _The Weekly Raleigh register._
 
 #### 1857-09-09 &middot; Raleigh, N.C.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1857-09-17/ed-1/seq-1)
 
 #### 1857-09-17 &middot; Honolulu, Hawaiian Islands
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2980,9 +2983,10 @@ Son shouldst ask him who is the author of un arUcle,
 for his duty requires him to keep such things to him­  
 Zlt. When thou dost enter into his office, have a  
 caxe unto thyself that thou dost not look at what may  
-belrinz open, for that is not meet in thesight of goo
+belrinz open, for that is not meet in thesight of good  
+bSr Neither examine thou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474216%2F1857091701%2F0047.jp2/pct:14.904933,89.332904,13.003590,4.984424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474216%2F1857091701%2F0047.jp2/pct:14.904933,89.332904,13.003590,5.403373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2991,14 +2995,10 @@ belrinz open, for that is not meet in thesight of goo
 ## [From _The Abbeville banner._](https://chroniclingamerica.loc.gov/lccn/sn85026945/1857-09-17/ed-1/seq-1)
 
 #### 1857-09-17 &middot; Abbeville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to his stablo  
-with that cautious mien with which bo left  
-it. Tom has since become a favorite; be  
-may now quaff off as much of the cup that  
-cheers, but does not inebriate as he likes^-?  
-Glasgow Paper.  
+  
 Printer&#x27;s Proverbs.? 1. Never inquire  
 thou of the editor (or the news; for behold,  
 it is bis doty at the appointed&#x27; time  
@@ -3021,7 +3021,7 @@ msyett cause the Dsril much trouble.
 in the hands of the compos1 ton; for thafr  
 is not meet in the sight of the Devil an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85026945%2F00202194278%2F1857091701%2F0669.jp2/pct:82.336021,70.435623,16.914226,16.871097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85026945%2F00202194278%2F1857091701%2F0669.jp2/pct:82.359598,74.423877,16.890649,12.882843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3030,6 +3030,7 @@ is not meet in the sight of the Devil an
 ## [From _Daily Iowa State Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014134/1857-10-17/ed-1/seq-2)
 
 #### 1857-10-17 &middot; Davenport, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3050,28 +3051,10 @@ that the truth would offend thee.&#x27;
 
 ---
 
-## [From _Daily Iowa State Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014134/1857-10-17/ed-1/seq-2)
-
-#### 1857-10-17 &middot; Davenport, Iowa
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ment, for duty requires him to keej  
-•nek things to himself.  
-4. When thou dost enter into the  
-Jirinting office hare a care unto thy  
-«rif that thou do not touch the type,  
-fer thoa maye* causc the printer much
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gastly_ver01%2Fdata%2Fsn82014134%2F00279529261%2F1857101701%2F0155.jp2/pct:4.955786,88.963314,9.694046,3.068099/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Burlington weekly hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn86060019/1857-10-28/ed-1/seq-4)
 
 #### 1857-10-28 &middot; Burlington, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3104,14 +3087,9 @@ not meet in the sight of the printer, and h
 ## [From _The weekly north Iowa times._](https://chroniclingamerica.loc.gov/lccn/sn84027238/1857-11-04/ed-1/seq-1)
 
 #### 1857-11-04 &middot; McGregor, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ng to be as rare as a black swan?—  
-And is it not time to reform this alto­  
-gether Is it not time to think some­  
-thingof the casket as well as the jewel  
-—something of the lantern as well as  
-Um light?&quot;  
   
 PRINTERS&quot; PROVERBS.  
 1. Never inquire thou for the news  
@@ -3136,33 +3114,9 @@ is in the hands of tho compositors for
 that is not meet in the sight of the prin­  
 ter, and he might knock thee down
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027238%2F0027952942A%2F1857110401%2F0236.jp2/pct:84.124127,36.014010,11.379709,15.255607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027238%2F0027952942A%2F1857110401%2F0236.jp2/pct:84.128413,39.381693,11.375423,11.887923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [MISCELLANEA.](http://trove.nla.gov.au/ndp/del/article/77427839)
-
-#### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
-
-#### 1857-12-08 &middot; Brisbane, Queensland
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- into a  
-nrintinirinfRro: liavfl care to thvself  
-that thou touch not tbe types, for thoa  
-inayKtcanse the printer mneb tremble.  
-Look hot at the copy which in in the  
-bands of (fee compositor, for that is  
-not meet in the sight of the printer.  
-Neither peep over the outside n*ile U is  
-bong struck ott, /or look over the  
-sbonldera of the editor while he fa  
-reading* proof. Prefer the town paper to  
-any other— subscribe inline- j diatoJy  
-foritiiad pay in advance.— Juktks
-</td></tr></table>
 
 ---
 
@@ -3171,9 +3125,13 @@ foritiiad pay in advance.— Juktks
 #### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
 
 #### 1857-12-08 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+MISCELLANEA; Never inquire tboii of the  
+printer for the news ; for behold it is  
+bis duty at the appointed time to give  
+it tin to thec Without asking. Do not  
 make a practice of borrowing thy  
 neighbour&#x27;s papers— it is neither honest  
 nor independent. When tfaou dost enter  
@@ -3188,7 +3146,7 @@ is boing struck off, or look over the
 shoulders of the editor while he in  
 reading a proof. Prefer the town papor  
 to any other— subscribe immediately for  
-it; and pay in advance.— American Paper
+it; and pay in advance.— American Paper.
 </td></tr></table>
 
 ---
@@ -3198,6 +3156,7 @@ it; and pay in advance.— American Paper
 #### From _The Age (Melbourne, Vic. : 1854 - 1954)_
 
 #### 1857-12-10 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3228,6 +3187,7 @@ Paper, Wild Flow ehs.— Amongst the grea
 ## [From _Mariposa Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026978/1858-01-21/ed-1/seq-4)
 
 #### 1858-01-21 &middot; Mariposa, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3262,6 +3222,7 @@ with thee and thy little ones
 #### From _The Star (Ballarat, Vic. : 1855 - 1864)_
 
 #### 1858-03-22 &middot; Ballarat, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3296,6 +3257,7 @@ with thee and thy little ones. FRIGHTFU
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
 
 #### 1858-04-12 &middot; Bendigo, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3330,6 +3292,7 @@ and thy little ones. Wanted. w w ANTE
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
 
 #### 1858-04-15 &middot; Wollongong, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 MBulkmn^ Printers&#x27; Proverbs. — Never  
@@ -3363,6 +3326,7 @@ with thee and thy little ones &#x27;The Man
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
 
 #### 1858-04-24 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3397,6 +3361,7 @@ and thy little onos. Exaus
 #### From _The Courier (Hobart, Tas. : 1840 - 1859)_
 
 #### 1858-05-03 &middot; Hobart, Tasmania
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3429,6 +3394,7 @@ tby littlo ones. STATISTIC.-Reference t
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1858-06-10/ed-1/seq-1)
 
 #### 1858-06-10 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3462,17 +3428,54 @@ meet iu the sight of the printer, and he migh
 
 ---
 
+## [From _The River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn86086437/1858-06-23/ed-1/seq-1)
+
+#### 1858-06-23 &middot; River Falls, Pierce County, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+PRINTERS proverbs.  
+1. Never inquire thou of the Editor  
+&#x27; for the hews, for behold ! it is his duty,&#x27;  
+I nt the appointed time, to give it unto  
+, thee.  
+2. When thou dost write for bis pa­  
+per, never nsk him, “What tin nicest thou  
+I of my piece ?” for it may be that the truth  
+i would offend thee.  
+3. It is not fit that thou shouldst ftsk  
+i of him whois the author of an article up­  
+on subjects of public concernment, for du-  
+i tv requires him to keep such thing! unto  
+| himself.  
+I 4. When thou dost enter into the  
+&#x27; printing office, thou shouldst avoid loud  
+| talking, and have a case unto thyself that  
+thou dost not touch the type or tiro press,  
+for thou mays! cause the printer much  
+trouble.  
+5. Look not thou at the copy which  
+is in the hands of the composite) s, for  
+that is not meet in the sight of the prin­  
+ter.  
+6. Never cxamifio the proof sheets,  
+for it is hot rcaly to meet thine eye, that  
+thou mayest understand it
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn86086437%2F00514152329%2F1858062301%2F0201.jp2/pct:79.873955,20.140217,11.631730,17.130515/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Kanzas news._](https://chroniclingamerica.loc.gov/lccn/sn85030219/1858-06-26/ed-1/seq-1)
 
 #### 1858-06-26 &middot; Emporia, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ich has  
-been in the end to bankrupt the Company,  
-swindle its stockholders out of their sub  
-scriptions, and tempt a large number of  
-men into acts that have brought disgrace  
-upon them forever. Cin. Com.  
+  
 Printers&#x27; Proverbs;-.  
 1. Never inquire thou of the Editor for  
 the news, for behold ! it is his duty, at the  
@@ -3496,7 +3499,7 @@ mayest cause the the printer much trouble.
 hands of the compositors, for that is not  
 meet iu the sight of the printer, and h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn85030219%2F00212472803%2F1858062601%2F0204.jp2/pct:47.245536,76.836972,14.802381,16.225202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn85030219%2F00212472803%2F1858062601%2F0204.jp2/pct:47.245536,80.826776,14.802381,12.235398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3505,6 +3508,7 @@ meet iu the sight of the printer, and h
 ## [From _Marshall County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056247/1858-07-01/ed-1/seq-1)
 
 #### 1858-07-01 &middot; Plymouth, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3525,14 +3529,9 @@ himself.
 4. When thou dost enier ih!o a print­  
 ing office, thou shouldest avoid loud talk­  
 ing, and have a care unto thyself that  
-thou dost not touch the type or tho press,  
-for thou raayest cause the printer mueh  
-trouble.  
-5. Look thou not at copy which is in  
-the hands of tho compositors, for teat is  
-not meto in tho sight of tho printer, an
+thou dost not touch the type or tho press
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F00200294531%2F1858070101%2F0337.jp2/pct:70.651531,61.706294,12.380277,13.846154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F00200294531%2F1858070101%2F0337.jp2/pct:70.651531,61.706294,12.380277,11.132867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3543,6 +3542,7 @@ not meto in tho sight of tho printer, an
 #### From _The Goulburn Herald and County of Argyle Advertiser (NSW : 1848 - 1859)_
 
 #### 1858-07-10 &middot; Goulburn, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3572,45 +3572,10 @@ and thy little ones. THE PATRIOTI
 
 ---
 
-## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn85026279/1858-07-23/ed-1/seq-1)
-
-#### 1858-07-23 &middot; Tiffin, Ohio
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-  
-1. Never Inquir thou of tl.o Editor for  
-tho news, for behold! it is his duty a- the  
-appointed timo, lo jjivo it unto thee withoii  
-asking. .  
-Si. When thou dost writo for his paper,  
-novorBsk him &quot;Whatthiukest thou of my  
-piece?&quot; for it may bo that tho truth might  
-offend thoo.  
-li. It is not fit that thou shouldst ask of  
-him who is tho author of an article upon  
-subjects of publio concerniiiont, for duly  
-requires him to keep such things umu  
-himself.  
-4. When thou dost entor into tho joint  
-ing oiiico, moil tliouust avoid loud talk­  
-ing, and have care unto thyself that thou  
-dost not touch tho typo or tho press, fur  
-thou uiaycjst causo the priuter much troub­  
-le&quot;5. Look thou notnt copy which isjn  
-tho hands of the compositors for that ia  
-not moot lu the sight of tho printer, an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026279%2F00280775095%2F1858072301%2F0406.jp2/pct:81.799779,35.836128,12.384983,12.392477/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Theatrical Journal 1839-1871_](https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974?page=6)
 
 #### 1858-08-11
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3642,6 +3607,7 @@ advance,
 #### From _The Moreton Bay Courier (Brisbane, Qld. : 1846 - 1861)_
 
 #### 1858-08-18 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3655,18 +3621,7 @@ it may bo that tbo truth »ill offend
 thee. It is not fit that thou shouldest  
 ask him who is the author of an article,  
 for his duty require:, bim to keep such  
-things to lnmself. When thou dost enter  
-into hil office havo caro unto thyself  
-that thou dost not look at what may be h  
-ing upon, .r for that ii not meet in the  
-sight of good* breeding. .4 Neither  
-examine thou the proof sheet, for it is  
-not Í ready to meet thine eye, thnt thou  
-mayst undei ttanil it. Prefer the paper  
-of thy town to aay other, and subscribí  
-immediately for it, and pay &#x27; in  
-advanc», and it shall be well with theo  
-and thy &#x27;,&#x27;littléiQnM, * &#x27;tu THB VALU
+things to lnmself. When thou dost
 </td></tr></table>
 
 ---
@@ -3674,6 +3629,7 @@ and thy &#x27;,&#x27;littléiQnM, * &#x27;tu THB VALU
 ## [From _The daily exchange._](https://chroniclingamerica.loc.gov/lccn/sn83009573/1858-08-21/ed-1/seq-1)
 
 #### 1858-08-21 &middot; Baltimore, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3695,9 +3651,10 @@ be lying open, for that is not meet in the sight o
 
 ---
 
-## [From _Spirit of the Times; A Chronicle of the Turf, Agriculture, Field Sports, Literature and the Stage (1835-1861)_](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28?page=9)
+## [From _The spirit of the times._](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28?page=9)
 
-#### 1858-08-21 &middot; New York
+#### 1858-08-21 &middot; New-York [N.Y.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3711,7 +3668,7 @@ that thou shouldst ask him who is the author of an article, for his duty | tore 
   
 requires him to keep such things to himself. When thou dost enter into l  
 his office, have care to thyself that thou dost not look at what may be ly- |  
-ing open, for that is not meet in the sight of good breeding. Neithe
+ing open, for that is not meet in the sight of good breeding. Neither ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28&#0036;9/pct:15.945406,74.864499,37.300266,4.076332/600,/0/default.jpg"/>
 </td>
@@ -3722,6 +3679,7 @@ ing open, for that is not meet in the sight of good breeding. Neithe
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1858-09-02/ed-1/seq-1)
 
 #### 1858-09-02 &middot; Lancaster, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3739,13 +3697,9 @@ on fr&amp;hjeett of puhlio esocernment, for
 duty requites bim to keep such thing un­  
 to himself.  
 4. When thou dost enter into tbe  
-printing office, thou shouldst avoid loud  
-talking. And have a care unto thyself that  
-thdu dost riot touch the type or the press  
-for thou mayest &#x27;cause the ptioter mueb  
-trouDle.
+printing office, thou shouldst avoid lou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1858090201%2F0828.jp2/pct:69.467584,25.096366,12.314379,10.214758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1858090201%2F0828.jp2/pct:69.467584,25.096366,12.296269,8.177313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3754,6 +3708,7 @@ trouDle.
 ## [From _Preble County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85026031/1858-09-09/ed-1/seq-3)
 
 #### 1858-09-09 &middot; Eaton, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3783,6 +3738,7 @@ meet in the sight of good breeding
 ## [From _Meigs County telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038183/1858-11-30/ed-1/seq-4)
 
 #### 1858-11-30 &middot; Pomeroy [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3835,6 +3791,7 @@ not meet in the sight of the printer, aud h
 ## [From _Randolph County journal._](https://chroniclingamerica.loc.gov/lccn/sn86058541/1859-02-24/ed-1/seq-3)
 
 #### 1859-02-24 &middot; Winchester, Randolph County, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3863,6 +3820,7 @@ look at what may belying open, for i
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1859-07-28/ed-1/seq-1)
 
 #### 1859-07-28 &middot; Winchester, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3881,19 +3839,9 @@ article upon public concernment, for&#x27;
 duty requires him to keep such things  
 unto himself.  
 1. When thou dost enter into tho  
-printing office, thou shouldst avoid  
-loud talking und have care unto thy  
-self that thou dost not touch the typo  
-or the press for thou mayest cause tho  
-printer much trouble.  
-5. Never examine the proof sheet,  
-for it is not ready to meet thine eyes  
-that thou mnyest understand it.  
-(i. hook thou not at tho copy which  
-is in the hand of the compositor, for  
-that is not meet in tho sight of a prin
+printing office, thou shouldst avoi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00212470478%2F1859072801%2F0731.jp2/pct:79.849740,14.050999,12.483144,16.824395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00212470478%2F1859072801%2F0731.jp2/pct:79.888268,14.050999,12.444616,10.318086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3902,6 +3850,7 @@ that is not meet in tho sight of a prin
 ## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051343/1859-09-14/ed-1/seq-1)
 
 #### 1859-09-14 &middot; Des Arc, Ark.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3928,7 +3877,7 @@ it is not ready to meet thine eyes that thou
 mayest understand it.  
 6. Look thou not at the copy which is in  
 the hand of the compositor, for that is not  
-mee
+me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051343%2F00414212578%2F1859091401%2F0351.jp2/pct:54.964985,66.509052,12.879332,12.716158/!600,600/0/default.jpg"/>
 </td>
@@ -3939,6 +3888,7 @@ mee
 ## [From _The penny press._](https://chroniclingamerica.loc.gov/lccn/sn85025750/1859-10-26/ed-1/seq-4)
 
 #### 1859-10-26 &middot; Cincinnati [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3971,39 +3921,12 @@ and thy little ones
 
 ---
 
-## [From _The Grand Haven news._](https://chroniclingamerica.loc.gov/lccn/sn85033622/1860-05-02/ed-1/seq-1)
-
-#### 1860-05-02 &middot; Grand Haven, Mich.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Printer&#x27;s Proverbs. Never tioxnro  
-thou of the editor tho news, for behold  
-it is his duty at tho appointed lirno to  
-give it unto theo without asking.  
-When thou dost write for a paper, nev­  
-cr sav to him, What thinkcst thou of  
-my p&#x27;icce!&quot; for it may bo that tho truth  
-would offend theO.  
-It is not fit that thou should!; ask  
-him who is tho Author of any article, for  
-Iiis duty, requires him to keep things to  
-himself. . . . &#x27; . . .  
-When thou dost enter into his office,  
-take heed unto thyself that thou dost not  
-look at whnt m.ty bo lying opon ; for tha
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85033622%2F00296026462%2F1860050201%2F0228.jp2/pct:79.078858,80.026063,14.004079,8.766734/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [The Golden Age. SATURDAY, SEPTEMBER 29, 1860. OUR PROPOSED TELEGRAPH.](http://trove.nla.gov.au/ndp/del/article/30630613)
 
 #### From _Queanbeyan Age and General Advertiser (NSW : 1860 - 1867)_
 
 #### 1860-09-29 &middot; Queanbeyan, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4039,6 +3962,7 @@ with thee and thy little ones. A MAx o
 #### From _Bathurst Free Press and Mining Journal (NSW : 1851 - 1904)_
 
 #### 1860-10-20 &middot; Bathurst, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4069,30 +3993,10 @@ little onos. A SnitRWD (Kafpiu) Lawteu
 
 ---
 
-## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1861-02-09/ed-1/seq-3)
-
-#### 1861-02-09 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-talking, and have a care unto thyself  
-that thou dost not touch the typo or  
-press, for thou mays.t cause the printer  
-ranch trouble.  
-sth. Look not thou at the copy which  
-is in the hands of the compositors, for  
-that is not meet in the sight ot the  
-printer, and ho might knock thee down.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1861020901%2F0395.jp2/pct:6.488428,90.013675,14.027190,4.926496/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1861-03-13/ed-1/seq-1)
 
 #### 1861-03-13 &middot; Bloomsburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4124,6 +4028,7 @@ meet in the sight of the printer
 ## [From _Greenbrier weekly era._](https://chroniclingamerica.loc.gov/lccn/sn85059652/1861-03-23/ed-1/seq-1)
 
 #### 1861-03-23 &middot; Lewisburg, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4158,6 +4063,7 @@ the printer&#x27;s eye.
 ## [From _Juliet signal._](https://chroniclingamerica.loc.gov/lccn/sn84024082/1861-04-16/ed-1/seq-1)
 
 #### 1861-04-16 &middot; Juliet [i.e. Joliet], Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4190,6 +4096,7 @@ Pain People. There is a set of peopl
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1861-08-14/ed-1/seq-4)
 
 #### 1861-08-14 &middot; Ebensburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4218,6 +4125,7 @@ printer more trouble than thou thinkest
 ## [From _Washington statesman._](https://chroniclingamerica.loc.gov/lccn/sn84022799/1862-01-10/ed-1/seq-4)
 
 #### 1862-01-10 &middot; Walla Walla, Wash. Terr.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4252,12 +4160,15 @@ thy little ones
 #### From _Glasgow Herald_
 
 #### 1862-05-16 &middot; Glasgow, Scotland
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1862-08-21/ed-1/seq-1)
 
 #### 1862-08-21 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4282,9 +4193,41 @@ touch of profane hands,
 
 ---
 
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1862-08-26/ed-1/seq-1)
+
+#### 1862-08-26 &middot; Lancaster, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Printers’&#x27;Proverbs.—Whon thou dost  
+write for this paper never say unto him,  
+“What thinkest thou of my piece?” for  
+it may be that the truth would offend thee.  
+2. It is not fit that th «u shouldst ask  
+who is the author of an aiticle upon sub­  
+jects of public concernment for duty re­  
+quires him to keep such things to him­  
+self.  
+3. When thou dost enter into the prilli­  
+ng office, have a care unto thyself that  
+thou do not touch the typo, for thou  
+inayest cause the printer much trouble.  
+4. Look thou not at the copy which is  
+in the bands of the compositor; for that  
+is not meet in the sight of the printer, an
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F0051415935A%2F1862082601%2F0465.jp2/pct:70.422062,58.985178,12.988010,9.250243/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Cedar Falls gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025161/1862-09-12/ed-1/seq-1)
 
 #### 1862-09-12 &middot; Cedar Falls, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4317,6 +4260,7 @@ in the sight of tho priuter and ho migh
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1862-10-07/ed-1/seq-1)
 
 #### 1862-10-07 &middot; Hillsdale, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4329,21 +4273,9 @@ may be that tbe trutn would offend, thee.
   
 2. It is not fit that thou shouldat aik  
   
-him who is tbe author of an &quot;article npon sub  
-  
-jects of public concernment, for duty requires  
-  
-uiui io aenp rucn taings to nimseii.  
-  
-3. Wben thou dost enter tbe printing ofn  
-  
-ce, have a care unto thyself, that thou touch  
-  
-not tbe type, for thou mayest cause the prin  
-  
-ter mucu trouble, and beside, it is pt-ous mat
+him who is tbe author of an &quot;article npon sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668168%2F1862100701%2F0044.jp2/pct:69.159877,64.780467,12.515026,6.276852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668168%2F1862100701%2F0044.jp2/pct:69.253373,64.780467,12.421531,3.059834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4352,6 +4284,7 @@ ter mucu trouble, and beside, it is pt-ous mat
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1862-10-17/ed-1/seq-1)
 
 #### 1862-10-17 &middot; Manitowoc, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4381,9 +4314,28 @@ is not meet in the -iglil of the printer
 
 ---
 
+## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1863-05-28/ed-1/seq-1)
+
+#### 1863-05-28 &middot; Cumberland, Md.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+gisU~Never inquire of an editor for the  
+news ; for behold it is bis duty at the ap­  
+pointed time to give it unto thee without  
+asking.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026190%2F1863052801%2F0349.jp2/pct:81.640162,90.319661,12.878079,2.496308/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Washington statesman._](https://chroniclingamerica.loc.gov/lccn/sn84022799/1863-08-08/ed-1/seq-1)
 
 #### 1863-08-08 &middot; Walla Walla, Wash. Terr.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4397,31 +4349,10 @@ hold, it is his duty at the appointed time to give it
 
 ---
 
-## [From _North Branch democrat._](https://chroniclingamerica.loc.gov/lccn/sn86081912/1865-10-25/ed-1/seq-4)
-
-#### 1865-10-25 &middot; Tunkhannock, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-may be lying open for that is not meet in the  
-sight of Spo-t W^ng.  
-Neither examine thou the proof sheet for  
-fTfrf&#x27;nbt ready to meet lhme eye that thou  
-roayest understand it.  
-? Prefer thine own town paper to any other,  
-subscribe for it immediately, pay in advance.  
-thd ft&#x27;shah&#x27;be wvll with thee and thy little  
-ones. , 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn86081912%2F00296028617%2F1865102501%2F0652.jp2/pct:5.664113,65.668552,14.329634,5.552475/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Sugar planter._](https://chroniclingamerica.loc.gov/lccn/sn86079096/1866-03-10/ed-1/seq-1)
 
 #### 1866-03-10 &middot; West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4455,9 +4386,35 @@ with thee and thy little ones
 
 ---
 
+## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1871-08-03/ed-1/seq-1)
+
+#### 1871-08-03 &middot; Athens, Tenn.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Never inquire thou of the editor for  
+the news, for heboid, it is his business  
+at the appointed time, to give it thee  
+without asking.  
+It is not right that thou should st ask  
+him who is the. author of an article, for  
+his duty requires him to keep such  
+tilings to himself. .  
+When thou dost enter into his oilice,  
+take heed unto thyself that thou dost  
+not look at&#x27;wbat may bo lying open an
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn84024443%2F00200293861%2F1871080301%2F1231.jp2/pct:76.518139,56.858503,13.466088,5.553152/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The new Northwest._](https://chroniclingamerica.loc.gov/lccn/sn84022673/1872-05-17/ed-1/seq-3)
 
 #### 1872-05-17 &middot; Portland, Or.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4479,13 +4436,34 @@ unto himself.
 printing office, thou shouldst avoid loud  
 talking, and have a care unto thyself  
 that thou do not touch the type or the  
-press, for thou mayest cause the printer  
-niuchjtrouble.  
-5. Look thou not at a copy which is  
-in the hands of the compositors, for that  
-la notineef lnlhe,slgbt of. the printer
+press, for thou mayest cause the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_lyonsport_ver02%2Fdata%2Fsn84022673%2F00200298433%2F1872051701%2F0128.jp2/pct:19.074532,75.274725,12.045214,10.144733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_lyonsport_ver02%2Fdata%2Fsn84022673%2F00200298433%2F1872051701%2F0128.jp2/pct:19.074532,75.274725,12.045214,8.362369/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1881-03-03/ed-1/seq-1)
+
+#### 1881-03-03 &middot; Ravenna, O. [Ohio]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Never inquire thou of the editor for  
+the news, for behold, it is his business  
+at the appointed time to give it to thee  
+without asking.  
+It is not right that thou should&#x27; st ask  
+him who is the author of an article, for  
+his duty requires him to keep such  
+things to himself.  
+Wlien thou doest enter into his office,  
+take heed unto thyself that thou doest  
+not look at what may be lying open an
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027200%2F1881030301%2F0296.jp2/pct:82.580645,19.275241,10.410557,4.696627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4494,11 +4472,10 @@ la notineef lnlhe,slgbt of. the printer
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1881-04-14/ed-1/seq-3)
 
 #### 1881-04-14 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-efit of &quot;parties intererested&quot; the follow  
-ing is inserted:  
 I. When thou dost write for this pa  
 per, never say unto the editor thereof,  
 &quot;What thinkest thou of my piece?&quot; for  
@@ -4517,9 +4494,34 @@ it is not ready to meet thine eye that
 thou mayest understand it  
 V. Look not thou at the copy which  
 is in the hands of the compositor, for it  
-is not mete, 
+is not mete,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775265%2F1881041401%2F0213.jp2/pct:17.677841,85.810374,10.956664,9.623593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775265%2F1881041401%2F0213.jp2/pct:17.710548,86.935713,10.923957,8.498254/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn84022149/1881-05-12/ed-1/seq-2)
+
+#### 1881-05-12 &middot; Cheyenne, Wyo.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Never inquire thou of the editor for  
+the news, for behold, it is his business  
+at the appointed time to give it to thee  
+without asking.  
+It is not right that thou should&#x27;st ask  
+him who is the author of an article, for  
+his duty requires him to keep such  
+things to himself.  
+\\Tien thou doest enter into his oflico,  
+take heed unto thyself that thou doest  
+not look at what may be lving open an
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wyu_baggs_ver01%2Fdata%2Fsn84022149%2F00393349967%2F1881051201%2F0450.jp2/pct:28.754814,30.957964,10.740265,4.963523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4528,6 +4530,7 @@ is not mete,
 ## [From _The semi-weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85035561/1881-11-03/ed-1/seq-1)
 
 #### 1881-11-03 &middot; Mount Holly, Burlington Co., N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   

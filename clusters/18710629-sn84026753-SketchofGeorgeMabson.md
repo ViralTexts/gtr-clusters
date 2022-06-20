@@ -1,7 +1,7 @@
 
 # Sketch of the Hon. Geo. L. Mabson, of North Carolina.
 
-### 8 reprints from 1871-06-29 to 1871-07-13
+### 4 reprints from 1871-06-29 to 1871-07-13
 
 ## [Sketch of the Hon. Geo. L. Mabson, of North Carolina.](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
 
@@ -10,6 +10,7 @@
 #### From _New National Era_
 
 #### 1871-06-29
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 Sketch of the Hon. Geo. L. Mabson, of North Carolina.  
@@ -50,6 +51,7 @@ From dark ignorance to Liberty’s shining light.
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
 #### 1871-06-29 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -187,122 +189,10 @@ From dark ignorance to Liberty&#x27;s shining light.
 
 ---
 
-## [From _New National Era 1870-1874_](https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25?page=0)
-
-#### 1871-06-29
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-of North Oarolina. calm and ’ - Gee  
-  
-BY GEORGE M. ARNOLD.  
-  
-The first colored man that has ever been per-  
-mitted to be a lawyer in North Carolinas, or  
-admitted to practice in her State coarts, is  
-Hon. Geo. L. Mabson, of New Hanover county.  
-Mr. Mabson graduated at Howard University  
-fh thé class of 1871, and was examined and  
-licensed ‘by the Judges of the Supreme Court j of  
-of North Osrolina, at Raleigh, June 16, 187%; -  
-“to practice law in all the courts of the  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-: &amp; recent private letter to a  
-State” ‘The Judges of the Sapreme Court off a S. friend in Berlin, said that all the stories of his  
-North Garolina are all Southern white men, of | men, but morn ny etn fy gt we os tne ibe hed  
-. . mats im the las  
-moderate Republican views, ag % is be — five years, and that all accounts to the contrary  
-known that they tested young Mabson average seca agile tac pice are pure inventions.  
-fore. they said yes. Many of his friends | frome, Burned at Sea —“ Raise your right arm,” sharply urged th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25&#0036;0/pct:14.558824,16.088160,78.596257,9.231261/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New National Era 1870-1874_](https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25?page=0)
-
-#### 1871-06-29
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-day the march of progress adds another star to  
-her galaxy—a colored men of respectability  
-and standing has a law office in the city “down
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25&#0036;0/pct:14.799465,28.683986,10.802139,1.639693/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New National Era 1870-1874_](https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25?page=0)
-
-#### 1871-06-29
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-@ great ; ong Kong, a Philedelphis, ‘Brook! i ew York,  
-: ; 4 ya, St. Louis, Ch ,  
-this State, Gen. Joseph C. Abbott secured Mr. - Just efter ; bee caused is tee Baltimore, Bostee, an Clachaat!—are less  
-Mabson.a position in Washington, with the hy dene a pet Cue en than the population of the city of London, as  
-anderstanding that he was to devote his leisure be your ‘the best means of. pacifying bim,.and it was pon the sanounced by the recent British census
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25&#0036;0/pct:14.759358,30.579216,78.395722,2.406303/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New National Era 1870-1874_](https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25?page=0)
-
-#### 1871-06-29
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-E  
-  
-that have come under our observation.”’  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Mr: Mabsou’s certificate of moral cherecter | 79%.” _ Is it wise to disease the he persecuted under the Commune, who jank that passed in the evening of the same | and Newfoundland in concerting measures t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1871-06-29_2_25&#0036;0/pct:15.147059,66.205281,78.235294,1.235094/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Semi-weekly Louisianian._](https://chroniclingamerica.loc.gov/lccn/sn83016631/1871-07-13/ed-1/seq-1)
 
 #### 1871-07-13 &middot; New Orleans, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -398,10 +288,9 @@ isoearsn, the colored member from this
 snB eizifty.ia b nosst5.gislatsewbrp  
 .ng has beein making apphalcaio for  
 Ik M sse geiuste have at last  
-our bee. seeeded with ~eu&#x27;ess He  
--,tu~~dbebore the Spremae Cour
+our be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871071301%2F0247.jp2/pct:28.190299,26.332998,15.485075,65.907948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871071301%2F0247.jp2/pct:28.190299,26.332998,15.485075,65.228873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,9 +299,10 @@ our bee. seeeded with ~eu&#x27;ess He
 ## [From _Semi-weekly Louisianian._](https://chroniclingamerica.loc.gov/lccn/sn83016631/1871-07-13/ed-1/seq-1)
 
 #### 1871-07-13 &middot; New Orleans, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s inste..e am  
+e fas inste..e am  
 in which a eolbred men has been  
 admitted to the bar gt Noath Care. -  
 lina, it may not be amise to give a i  
@@ -468,7 +358,7 @@ reipwonulity; de
 From dark ignorance to Liberty&#x27;s shining th  
 light
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871071301%2F0247.jp2/pct:42.276119,14.172535,14.925373,36.707746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871071301%2F0247.jp2/pct:42.276119,14.134809,14.925373,36.745473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

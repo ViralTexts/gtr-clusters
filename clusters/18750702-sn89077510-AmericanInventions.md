@@ -1,13 +1,14 @@
 
 # American Inventions
 
-### 183 reprints from 1872-10-24 to 1891-01-22
+### 170 reprints from 1872-10-24 to 1891-01-17
 
 ## [American Inventions](https://chroniclingamerica.loc.gov/lccn/sn89077510/1875-08-21/ed-1/seq-1/)
 
 #### From _The Workingman's Advocate_
 
 #### 1875-08-21
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 The great American inventions, which have been adopted all over the world, are the following: 1. The cotton-gin, without which the machine, spinner, and the power-loom would be helpless. 2. The planing-machine. 3. The grass-mower and grain-reaper. 4. The rotary printing-press. 5. Navigation by steam. 6. The hot-air (caloric) engine. 7. The sewing machine. 8. The India rubber industry. 9. The machine-manufacture of horse-shoes. 10. The sand-blast (for carving). 11. The gauge lathe. 12. The grain elevator. 13. The artificial manufacture of ice on a large scale. 14. The electro-magnet, and its practical application, by Henry and Morse. 15. The only successful composing-machine for printers.  
@@ -19,8 +20,14 @@ The great American inventions, which have been adopted all over the world, are t
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1872-10-24/ed-1/seq-7)
 
 #### 1872-10-24 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+lerred the first; so did Rossini, ana decided to turn  
+the second duet into a trio. He finished his trio,  
+got up, dressed, sent the two pieces to the theat&quot;  
+rical copyist, and went out to oreakfast.   
   
 The great American inventions, which have been  
 adopted all over the world, are the following  
@@ -37,7 +44,7 @@ large scale. The electro magnet, and its practical
 application, by Henry &amp; Morse. The only suc­  
 cessful composing machine for printers. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151234%2F1872102401%2F0063.jp2/pct:20.846082,64.500637,14.686710,8.102192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151234%2F1872102401%2F0063.jp2/pct:20.846082,61.831487,14.704448,10.771342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -46,6 +53,7 @@ cessful composing machine for printers. Th
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1872-11-02/ed-1/seq-1)
 
 #### 1872-11-02 &middot; Frostburg, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -62,6 +70,7 @@ loom would he helpless, is American
 ## [From _Essex County herald._](https://chroniclingamerica.loc.gov/lccn/sn84023416/1873-08-16/ed-1/seq-1)
 
 #### 1873-08-16 &middot; Guildhall, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 s&#x27; shoes resemble  
@@ -83,17 +92,10 @@ would be helpless, is American. Th
 
 ---
 
-## American Inventions
-
-#### From _Boston investigator._
-
-#### 1873-08-20 &middot; Boston, Mass.
-[This text is not available under an open license.]
----
-
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-09-24/ed-1/seq-4)
 
 #### 1873-09-24 &middot; Somerset, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  wont to say, &quot;ever  
@@ -116,6 +118,7 @@ would be helpless, is American. Th
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-10-04/ed-1/seq-4)
 
 #### 1873-10-04 &middot; Auburn, Placer County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -129,28 +132,10 @@ loom would be helpless, is American. Th
 
 ---
 
-## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1873-10-18/ed-1/seq-1)
-
-#### 1873-10-18 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-are, after all that they will worrv  
-hitri to death.&quot;  
-Hail CoLt7Mnt f -Thd cotton  
-gin, without which tin? machine  
-Spinner and the power loom  
-Would be heltiless is Ativrrici.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1873101801%2F0014.jp2/pct:4.214207,58.875665,14.409275,4.608762/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-11-01/ed-1/seq-1)
 
 #### 1873-11-01 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -165,9 +150,27 @@ be helpless, is American. The powe
 
 ---
 
+## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-01-10_18_889?page=6)
+
+#### 1874-01-10 &middot; New York
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ventions originated in this country! The cotton-gin,  
+without which the machine spinner and the power-  
+loom would be helpless, is an American invention
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-01-10_18_889&#0036;6/pct:73.097826,82.238931,19.491107,1.687552/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Harper's weekly journal of civilization._](https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889?page=6)
 
 #### 1874-01-10 &middot; New York, N.Y.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -183,9 +186,23 @@ as well
 helpless, ie an American lovention,  
 a the power-ehuttle, whic h permits an unlim-  
 breadth of the The  
-American. Navigation by stea
+American. Navigation by steam  
+is American ; 80 aleo the mower and reaper; the rotary  
+printing-press  
+  
+ited enlargement of the web.  
+  
+planing-machine is  
+and the hot-air engine. The sewing.  
+American, though lately  
+The whole ludia  
+The band-saw, the sand-  
+blast, the machine manufacture of horseshoes, the  
+gauge-lathe, the grain-clevator, are all believed to have  
+originated in this country. The artificial manufacture  
+of ice was firet invented by an American; and the es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889&#0036;6/pct:72.077603,84.126181,19.646365,3.340081/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889&#0036;6/pct:72.077603,84.126181,19.646365,8.704453/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,6 +211,7 @@ American. Navigation by stea
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1874-03-14/ed-1/seq-1)
 
 #### 1874-03-14 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -209,32 +227,12 @@ power loom would 1h helpless, i
 
 ---
 
-## [From _The weekly democratic statesman._](https://chroniclingamerica.loc.gov/lccn/sn83021327/1874-04-09/ed-1/seq-3)
-
-#### 1874-04-09 &middot; Austin, Tex.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-c better; Hccht supply. Coffee  
-dull and unchanged at lJt&amp;22i c  
-Money 4fr3 per cent Sterling steady.  
-Gold 1 13sg 118 Governments strong and  
-active. States quiet and nominal.  
-; . , Aaaerieaa laveautoaa.  
-The cotton gin, without which the ma­  
-chine, spinner and tbe power-loom would be  
-helpless, is American. , Tbe power shuttle
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn83021327%2F00200297106%2F1874040901%2F0248.jp2/pct:73.585647,68.871049,10.961236,4.435524/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [RHYNIE. [From our own Correspondent] April 27.](http://trove.nla.gov.au/ndp/del/article/92766077)
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
 #### 1874-05-01 &middot; Clare, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -248,6 +246,7 @@ the pow6r4oom would • be helpless, i
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1874-06-04/ed-1/seq-1)
 
 #### 1874-06-04 &middot; Helena, Mont.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  the Stew-  
@@ -267,9 +266,43 @@ less, is American. The power shuttle, whic
 
 ---
 
+## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1874-06-12/ed-1/seq-3)
+
+#### 1874-06-12 &middot; Paw Paw, Mich.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+tions originated in this c -untry ? The  
+cotton-gin, without which the machine-  
+spinn- r and the powerdooin would be  
+helpless, is an American invention, as  
+well as tic power-shuttle, which permits  
+of an unlimited enlargement of the  
+breadth of the web. Theplaning-ma-ohine  
+is American. Navigation by steam  
+is American ; so also is the mower and  
+reaper, the rotary printing press, and  
+the hot-air engine. The sewing-ma-  
+chine ie, we  
+believe, American, though  
+latelv claimed as an English invention.  
+i The whole India-rubber industry is  
+American. The band-saw, the sand-  
+! gauge lathe and the grain-elevator are  
+all believed to have originated in this  
+country. The artificial manufacture o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1874061201%2F0498.jp2/pct:78.745952,77.502042,14.115396,9.221814/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Republic; A Monthly Magazine Devoted to the Dissemination of Political Information 1873-1877_](https://iiif.archivelab.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2?page=54)
 
 #### 1875-02-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -286,6 +319,7 @@ ner and the power-loom would be helpless
 ## [From _Appletons' Journal of Literature, Science and Art (1869-1876)_](https://iiif.archivelab.org/iiif/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326?page=28)
 
 #### 1875-06-19 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -320,6 +354,7 @@ composing-machine for printers is American
 ## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1875-07-02/ed-1/seq-2)
 
 #### 1875-07-02 &middot; Somerset, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 a Col­  
@@ -350,28 +385,18 @@ cessful composing machine for printing
 
 ---
 
-## [From _The anti-monopolist._](https://chroniclingamerica.loc.gov/lccn/sn85025587/1875-07-12/ed-1/seq-3)
-
-#### 1875-07-12 &middot; Saint Paul, Minn.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-tributed. The cotton gin, without which  
-we the machine-spinner and the power-h om  
-would be helpless, is American. The power
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn85025587%2F00383346769%2F1875071201%2F0262.jp2/pct:23.522401,72.310829,13.332250,1.510973/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The workingman's advocate._](https://chroniclingamerica.loc.gov/lccn/sn89077510/1875-08-21/ed-1/seq-1)
 
 #### 1875-08-21 &middot; Chicago [Ill.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+tly  
+than the reverted side, although they are  
+imbedded deeply enough to remain fixed.  
+The mill is guarded night and day, by of­  
+ficials, to prevent the abstraction of any  
+paper !—rasper Trade Journal.  
 The great American inventions, which  
 have been adopt* d ail over the werld, are  
 the following : 1. The ootton-gin, with­  
@@ -390,7 +415,7 @@ The grain elevator. 13. The artificial
 The electro-magnet, aad its practical ap­  
 plication, by Hear Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897895%2F1875082101%2F0714.jp2/pct:74.271272,87.234043,11.529065,7.719175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897895%2F1875082101%2F0714.jp2/pct:74.271272,83.799026,11.529065,11.154191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,15 +426,24 @@ plication, by Hear Th
 #### From _Lowell daily citizen and news._
 
 #### 1875-08-27 &middot; Lowell, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1875-08-31/ed-1/seq-8)
 
 #### 1875-08-31 &middot; New Orleans [La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+omewhat im­  
+_  
+I proved. A certificate was given&#x27;Tv toe D*hv! I  
+J XT...___ T V. °/-. * _ — I f  
+Rician, and Messrs. John Grayer and John |  
+Llambias are Mr. Ducras&#x27;s bondsmen.  
+American Inventions Abroad.  
 The great American inventions which have  
 been adopted all over the world are the fol­  
 lowing : 1. The cotton gin, without which  
@@ -427,7 +461,7 @@ artificial manufacture of ice on a large scale.
 plication, by Henry and Morse. 15. The only  
 successtul composing machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F0029587434A%2F1875083101%2F0429.jp2/pct:34.599853,86.739691,14.537445,7.731959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F0029587434A%2F1875083101%2F0429.jp2/pct:34.599853,83.801546,15.436858,10.670103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,9 +470,14 @@ successtul composing machine for printers
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1875-09-03/ed-1/seq-1)
 
 #### 1875-09-03 &middot; Dodgeville, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ an experiment. If it be found that this  
+ore can be profitably obtained and manu­  
+factured a large tracle will soon spring up,  
+and a rapid development of our iron  
+mines result. Speed the day, say we.”  
 The great American inventions, which  
 have been adopted all over tlie world, are  
 the following: 1. The cotton-gin, without  
@@ -458,7 +497,7 @@ net and its practical application, by Hen­
 ry and Morse. 15. The only successful  
 composing-machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215543%2F1875090301%2F0423.jp2/pct:81.565016,72.042384,12.251435,8.204530/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215543%2F1875090301%2F0423.jp2/pct:81.565016,69.761187,12.251435,10.485726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,9 +506,14 @@ composing-machine for printers
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1875-09-04/ed-1/seq-1)
 
 #### 1875-09-04 &middot; Canton, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+s an experiment. If it be found that this  
+ore can be profitably obtained and manu­  
+factured a large trade will soon spring up,  
+and a rapid development :of our iron  
+mines result Speed the day, say we.&quot;  
 The great American inventions; which  
 have been adopted all over the world, are  
 the following : 1. The cotton-gin, without  
@@ -489,7 +533,7 @@ net and its practical application, by Hen­
 ry and Morse. 15. The Only successful  
 composing-machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016739%2F00295877510%2F1875090401%2F0071.jp2/pct:38.556774,50.300933,10.930315,7.794162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016739%2F00295877510%2F1875090401%2F0071.jp2/pct:38.556774,48.028890,10.930315,10.066205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,9 +542,14 @@ composing-machine for printers
 ## [From _Northern Ohio journal._](https://chroniclingamerica.loc.gov/lccn/sn84028194/1875-09-04/ed-1/seq-1)
 
 #### 1875-09-04 &middot; Painesville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+xperiment If it be found that this  
+ore can be profitably obtained and mantw  
+factored a large trade will soon: spring up,  
+and a rapid development of our iron  
+mines&#x27; result. . Speed, the day, say we.&quot; &#x27;  
 The great American inventions, which  
 have been adopted all over the world, are  
 the following: 1. The cotton-gin, without  
@@ -520,7 +569,7 @@ and its practical application, by Hen­
 ry and Morse. 15. The only successful  
 composing-machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F0029602899A%2F1875090401%2F0255.jp2/pct:54.436384,78.698948,9.542411,7.092199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F0029602899A%2F1875090401%2F0255.jp2/pct:54.436384,76.681340,9.542411,9.109807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,15 +580,24 @@ composing-machine for printers
 #### From _Boston investigator._
 
 #### 1875-09-08 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Wilmington daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn84020594/1875-09-13/ed-1/seq-2)
 
 #### 1875-09-13 &middot; Wilmington, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+r knife blip and Bplatter the gravy  
+out of your plate mean«: &#x27; I am exceedingly  
+happy io be here.&quot;  
+To draw the knife half way down your throat  
+means: &quot;I am enjoying myuelf very well, I  
+&#x27;I  
+Hon* Abroad.  
 The great American inventions, which hav  
 been adopted alljover the world, are thus  
 merated . 1. The cotton gin, without which the  
@@ -555,7 +613,7 @@ elevator. 12. The artificial manufacture of ice
 a large scale. 14. The electro magnet, and  
 practical application, by Henry and Morse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271741698%2F1875091301%2F0911.jp2/pct:17.915861,25.054745,12.572534,6.149635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271741698%2F1875091301%2F0911.jp2/pct:17.819149,21.350365,12.669246,9.854015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,6 +622,7 @@ practical application, by Henry and Morse
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1875-09-17/ed-1/seq-2)
 
 #### 1875-09-17 &middot; Salisbury, Litchfield Co., Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -589,7 +648,7 @@ ican. The cand-blast is American. The
 gauge-lathe is American. The only suc­  
 cessful composing machine for printers i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1875091701%2F0384.jp2/pct:51.896703,65.873388,10.957105,10.961313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1875091701%2F0383.jp2/pct:51.896703,65.873388,10.957105,10.961313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,15 +659,19 @@ cessful composing machine for printers i
 #### From _The Galveston daily news._
 
 #### 1875-09-19 &middot; Houston [Tex.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1875-09-23/ed-1/seq-4)
 
 #### 1875-09-23 &middot; New Orleans [La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+other respects. The principal American in­  
 ventions which have been adopted all over  
 the world are the following:  
 1. The cotton gin, without which the ma­  
@@ -631,7 +694,7 @@ large scale.
 14 The electro magnet, and its practical  
 application, by Henry and Morse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F0029587434A%2F1875092301%2F0589.jp2/pct:53.428882,64.512384,14.296081,10.087719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F0029587434A%2F1875092301%2F0589.jp2/pct:53.428882,64.022188,14.296081,10.577915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,6 +703,7 @@ application, by Henry and Morse
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1875-09-28/ed-1/seq-1)
 
 #### 1875-09-28 &middot; Wheeling, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -673,9 +737,15 @@ tor printer
 ## [From _The Leavenworth weekly times._](https://chroniclingamerica.loc.gov/lccn/sn84027691/1875-10-07/ed-1/seq-1)
 
 #### 1875-10-07 &middot; Leavenworth, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+c bitterly opio-ed to him, admit  
+that his sin-echos during the Ohio cam­  
+paign, lotli in English and German, will  
+injure the chances of the Democracy to a  
+erv great extent.  
+AMERICAN INVENTIONS ABROAD.  
 The great American inventions, which  
 ha e been adopted all over the world, are  
 . the following : 1. The cotton gin, without  
@@ -695,7 +765,7 @@ practical apfl icatton, by Henry and Morse.
 13. The oidy successful comosing machine  
 for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027691%2F0023728334A%2F1875100701%2F0169.jp2/pct:5.346777,58.034416,9.960281,8.943286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027691%2F0023728334A%2F1875100701%2F0169.jp2/pct:5.346777,54.568589,9.960281,12.409113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,8 +774,16 @@ for printers
 ## [From _Chilton's Iron Age 1873-1983_](https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15?page=4)
 
 #### 1875-10-07
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ing glance, and, seeing in him  
+the right stuff, said, ‘‘ All right; I&#x27;ll do it,  
+Come here to-morrow morning, sign the con-  
+tract, and get the money.” The man carried  
+out the contract to the letter.  
+  
+  
   
 The great American inventions, which have  
 been adopted all over the world, are the follow-  
@@ -724,7 +802,7 @@ The electro-magnet, and its practical applica-
 tion, by Henry and Morse. 15. The only suc-  
 cessful composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15&#0036;4/pct:72.556685,82.470011,16.399531,9.923664/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15&#0036;4/pct:72.478499,78.530534,16.477717,13.863141/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,8 +811,32 @@ cessful composing machine for printers.
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234?page=5)
 
 #### 1875-10-09
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+duction guided by and suggesting obsg.  
+vations, since Newton’s Principia fry  
+proved the svperiority of that metho  
+over mere induction.—Cornhill Magazine.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+AMERICAN INVENTIONS ABROAp,  
+  
+  
   
 The great American inventions, which  
 have been adopted all over the world, ay  
@@ -755,7 +857,7 @@ practical application, by Henry and Mors,
 15. the only successful composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234&#0036;5/pct:77.292111,32.503771,19.189765,16.063348/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234&#0036;5/pct:77.212154,26.244344,19.269723,22.322775/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,9 +866,16 @@ for printers.
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1875-10-22/ed-1/seq-1)
 
 #### 1875-10-22 &middot; Idaho City, Idaho Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ender  
+places, in bringing him ashore. He  
+fought desperately as long as life las­  
+ted, and in his dying moments he set up  
+a deafening roar almost equal to that  
+of a lion.  
+American Inventions .«Abroad. —The  
 great American inventions, which have  
 been adopted all over the world, are  
 the following: 1 .—The cotton gin,  
@@ -788,7 +897,7 @@ Henry and Morse. 15.—The only
 successful composing machine for  
 printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn84022135%2F00295869483%2F1875102201%2F0215.jp2/pct:56.045082,68.423237,18.015710,16.670124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn84022135%2F00295869483%2F1875102201%2F0215.jp2/pct:56.045082,61.659751,18.066940,23.433610/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,6 +906,7 @@ printers
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-11-13/ed-1/seq-1)
 
 #### 1875-11-13 &middot; Shepherdstown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -829,8 +939,18 @@ ican. The gpage lathe is American.
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47?page=5)
 
 #### 1875-11-20 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+erning  
+those unexplored regions. After the read-  
+ing of his narrative, listened to with intense  
+interest, warm and sympathetic applause  
+came from all parts of the hall.  
+  
+  
+  
+AMERICAN INVENTIONS ABROAD.  
   
 The great American inventions, which  
 have been adopted all over the world, are  
@@ -853,7 +973,7 @@ practical application, by Henry and Morse.
 15. the only successful composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47&#0036;5/pct:75.311791,65.620357,20.011338,14.171620/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47&#0036;5/pct:75.311791,59.602526,20.011338,20.189450/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,9 +982,17 @@ for printers.
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1875-11-25/ed-1/seq-4)
 
 #### 1875-11-25 &middot; Superior, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+p 1,000  
+beds ; the dining-room will accom­  
+modate 700 persons at the same  
+time, and a staff of 400 servants  
+will be required to carry on the du­  
+ties of the house.  
+• —mm- •   
+American Invention Abroad,  
 The great American inventions  
 which have been adopted all ov r  
 the world, are the following: 1.  
@@ -889,7 +1017,7 @@ successful composing machine for
 printers.  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875112501%2F0586.jp2/pct:60.763139,25.983978,17.222051,20.271682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875112501%2F0586.jp2/pct:60.763139,18.808777,17.222051,27.446883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,15 +1026,15 @@ t
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-12-01/ed-1/seq-1)
 
 #### 1875-12-01 &middot; Mifflintown, Juniata County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
 nauseous potion that, After many strange i of horseshoes. 10. The sand blast (for  
 and fantastic grimaces, he ground his ! carving). 11. The gabe lathe. 1J. The  
-teeth in agony, and in a violent fury j grain elevator. 13. The artificial man­  
-threw the goblet on the floor. The ufacture of ice on a large scale. 14 Th
+teeth in agony, and in a violent fury j grain elevator. 13. The artificial man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875120101%2F0443.jp2/pct:61.107230,92.803235,22.004890,1.778976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875120101%2F0443.jp2/pct:61.107230,92.803235,22.004890,1.388140/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,9 +1043,17 @@ threw the goblet on the floor. The ufacture of ice on a large scale. 14 Th
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-12-01/ed-1/seq-1)
 
 #### 1875-12-01 &middot; Mifflintown, Juniata County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ys are gettin longer in the land.  
+Johnny.  
+&quot;-Vo, dolly.&quot; said a little) girl to her  
+chinA baby, as she was going out, &quot;I  
+tan&#x27;t take &#x27;on down town &#x27;id me &#x27;oa  
+ain&#x27;t dot no Yin-back !&#x27; &quot;  
+cries  
+iBveatleas.  
 The great American inventions, whk-h  
 have been adopted all over the world,  
 are the following: 1. The cotton gin  
@@ -933,7 +1069,7 @@ cation by Henry and Morse. 15. The
 only successful composing machine for  
 printers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875120101%2F0443.jp2/pct:72.231925,87.951482,10.915124,8.382749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875120101%2F0443.jp2/pct:72.231925,83.854447,10.915124,12.479784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -942,6 +1078,7 @@ printers,
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-12-09/ed-1/seq-1)
 
 #### 1875-12-09 &middot; Centre Hall, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -975,8 +1112,26 @@ printer*.
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1875-12-13/ed-1/seq-3)
 
 #### 1875-12-13 &middot; Barton, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+have been brought out,  
+  
+takes the lead, so far.  
+  
+NORTH TROT.  
+John W. Currier has bought J  
+  
+B. Hunt&#x27;s saw mill in this village.  
+  
+Chas. Wheeler  
+  
+B.  
+  
+this place, organized a Lyceum, la  
+  
+Friday evening.  
   
 The great American inventions which  
 have been adopted all over the world  
@@ -991,20 +1146,7 @@ he young ladies and gentlemen, of j
 last I &quot; &#x27; &quot;b1&quot; ixaprr. t, a tic id-  
   
 ry printing press, o, iNavigation by  
-steam. 6, The hot air (caloric) engine.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:26.356478,69.922136,21.116679,5.250278/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1875-12-13/ed-1/seq-3)
-
-#### 1875-12-13 &middot; Barton, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+steam. 6, The hot air (caloric) engine.  
   
 The Centennial Jubilee singers will 7, The sewing machine. ,8, The machine  
 . ., .- 1 c.i e n &#x27;n. : -  
@@ -1012,20 +1154,7 @@ The Centennial Jubilee singers will 7, The sewing machine. ,8, The machine
 give a concert at tee uongreganonai manmaciure ut uu-ouues. a, me m.  
 church. Monday evening, the 13th inst. dia rubber industry. 10, The sand blast  
   
-A meeting of the directors of the nn eleVator. 13, The artificial
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:25.297065,75.205784,22.219041,2.491657/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1875-12-13/ed-1/seq-3)
-
-#### 1875-12-13 &middot; Barton, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+A meeting of the directors of the nn eleVator. 13, The artificial  
   
 South-eastern railroad, was held at this manufacture of ice on a large scale. 14,  
   
@@ -1036,7 +1165,7 @@ l 11.. 1&#x27; . I ttl&#x27;FUl-.&quot;&quot;, 1 &quot; J s.. .w.
   
 inecouinon party at tue rronuer The only successful composing machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:25.368647,77.775306,22.161775,2.035595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:25.225483,69.922136,22.304939,9.888765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,9 +1174,15 @@ inecouinon party at tue rronuer The only successful composing machine
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1876-01-13/ed-1/seq-1)
 
 #### 1876-01-13 &middot; Bridgeton, N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ in the  
+luxuriant growth of hair on her face, is as  
+great a curiosity as any of the so called  
+“bearded womeu” traveling with shows  
+and a greater than many, as there is no  
+“make up” about her whiskers.  
 The great American inventions which have  
 been adopted all over the world are the fol­  
 lowing: 1. The cotton-gin, without which  
@@ -1066,7 +1201,7 @@ The electro magnet, and its practical appli­
 cation by Henry and Morse. 15. The only  
 successful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1876011301%2F0219.jp2/pct:83.441920,88.770053,11.111553,8.696058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1876011301%2F0219.jp2/pct:83.394248,85.474443,11.159225,11.991668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,9 +1210,15 @@ successful
 ## [From _The daily Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053942/1876-01-20/ed-1/seq-2)
 
 #### 1876-01-20 &middot; Rock Island, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ years of discretion, if biown up or  
+burnt up.will receive little sympathy from  
+the community at large, being simply the  
+victims of their own consummate ani un­  
+pardonable i&#x27;olly.  
+American Inventions.  
 The great American inventions, which  
 have been adopted all over the world, are  
 the following:  
@@ -1103,7 +1244,7 @@ application, by Henry and Morse.
 15. The only successful composiug  
 machine for prihters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn92053942%2F00295879889%2F1876012001%2F0063.jp2/pct:18.396153,33.063855,12.083139,11.868776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn92053942%2F00295879889%2F1876012001%2F0063.jp2/pct:18.380642,29.572349,12.114162,15.360281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,8 +1253,17 @@ machine for prihters
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244?page=0)
 
 #### 1876-02-19
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+to create in Bourg an establishment to be  
+called the Institution Carriat, in which  
+should be gratuitously taught drawing, ge  
+ometry, and mathematics, as well as singing  
+and instrumental music.  
+  
+ee +  
   
 The great American inventions, which  
 have been adopted ail over the worid, are the  
@@ -1132,7 +1282,7 @@ large scale. 14. The electro-magnet, and its
 practical application, by Henry and Morse.  
 15. The only successful composing machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244&#0036;0/pct:70.314136,76.134644,20.837696,14.353253/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244&#0036;0/pct:70.287958,70.934191,20.863874,19.553707/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,12 +1293,15 @@ practical application, by Henry and Morse.
 #### From _St. Louis globe-Democrat._
 
 #### 1879-05-28 &middot; St. Louis [Mo.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1879-05-30/ed-1/seq-1)
 
 #### 1879-05-30 &middot; Iola, Allen County, Kansas
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1177,41 +1330,10 @@ fifteenth, the composing machine fo
 
 ---
 
-## [From _The Silver state._](https://chroniclingamerica.loc.gov/lccn/sn84022060/1879-05-31/ed-1/seq-2)
-
-#### 1879-05-31 &middot; Unionville, Nev.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-fifteen inventions and discoveries which,  
-it says, have been adopted all over the  
-world. These triumphs of American  
-genius are thus enumerated: First, the  
-cotton gin; second, tbe planing ma­  
-chine ; third, the grass mower and  
-grain reaj&lt;er ; fourth, the rotary print­  
-ing press ; fifth, navigation by steam ;  
-sixth, the hot air or caloric engine;  
-seventh, the sewing machine ; eighth,  
-the India rubber industry ; ninth, the  
-machine manufacture of horse-shoes;  
-tenth, the sand blast for carving; elev­  
-enth, the gauge lathe; twelfth, the  
-grain elevator; thirteenth, artificial ice  
-manufacture on a large scale; fourteenth,  
-the electro-magnet and its practical ap­  
-plication; fifteenth, the composing ma­  
-chine for printers.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_arrowhead_ver01%2Fdata%2Fsn84022060%2F0027955470A%2F1879053101%2F0513.jp2/pct:27.579186,48.294877,16.883484,14.544333/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Morning appeal._](https://chroniclingamerica.loc.gov/lccn/sn86076999/1879-06-04/ed-1/seq-2)
 
 #### 1879-06-04 &middot; Carson City, Nev.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1239,9 +1361,63 @@ the composing machine for printers. It i
 
 ---
 
+## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1879-06-10/ed-1/seq-3)
+
+#### 1879-06-10 &middot; Paris, Me.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ventions aud discoveries which have been  
+adopted all over the world. They are the  
+1 cotton gin, the planing machine, the grass  
+mowers and graiu reaper, the rotary print­  
+ing press, uavigatiou by steam, the hot  
+air or caloric engine, the sewing machine,  
+the India rubber industry, the machine  
+manufacture of horse shoes, the sand blast  
+for carving, the gauge lathe, the grain ele­  
+vator, artificial ice manufacture on a large  
+scale, the electro-magnet and its practical  
+application, aud the composing machine  
+for printers
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524056%2F1879061001%2F0334.jp2/pct:30.470500,88.073688,12.566592,5.934760/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-06-11/ed-1/seq-3)
+
+#### 1879-06-11 &middot; Mifflintown, Juniata County, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+inventions and discoveries which have been  
+adopted all over the world. They are the  
+cotton gin, the planing machine, the grass  
+mower and grain reaper, the rotary printing  
+press, navigation by steam, the hot air or  
+caloric engine, the sewing machine, the india  
+rubber industry, the machine manufacture  
+of horse shoes, the sand ballast for earring,  
+the guage lathe, the gram elevator, artificial  
+ice manufacture on a Urge scale, theelectro-magnet  
+and its practical application, and  
+the composing machine for printers
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1879061101%2F0522.jp2/pct:27.132170,6.903951,10.640067,6.096176/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1879-06-19/ed-1/seq-1)
 
 #### 1879-06-19 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1273,6 +1449,7 @@ chine for printers. It is not rtea tna
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-06-26/ed-1/seq-3)
 
 #### 1879-06-26 &middot; Pulaski, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1306,6 +1483,7 @@ posing machine for printers. It i
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1879-07-31/ed-1/seq-4)
 
 #### 1879-07-31 &middot; Ravenna, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1338,6 +1516,7 @@ machine for printers. It is not ofte
 ## [From _American Machinist 1877-2009_](https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17?page=2)
 
 #### 1879-08-30
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1367,6 +1546,7 @@ composing machine for printers.
 ## [From _The Cincinnati daily star._](https://chroniclingamerica.loc.gov/lccn/sn85025759/1879-09-02/ed-1/seq-6)
 
 #### 1879-09-02 &middot; [Cincinnati, Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1399,12 +1579,15 @@ the composing machine for printers. I
 #### From _Milwaukee daily sentinel._
 
 #### 1879-09-04 &middot; Milwaukee, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-1)
 
 #### 1879-09-10 &middot; Watertown, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1436,6 +1619,7 @@ ers
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-2)
 
 #### 1879-09-10 &middot; Watertown, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1467,6 +1651,7 @@ composing machine for printers.
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-09-11/ed-1/seq-1)
 
 #### 1879-09-11 &middot; Lansing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1480,7 +1665,7 @@ the/otary printing press fifth, naviga­
 tion brifteam iwtt?|.hdt aj^oKciloric  
 engine seventh, the sewing machine  
 eighth, the India rubber industry  
-ninth, the machine for manufacture 
+ninth, the machine for manufacture o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479755%2F1879091101%2F0160.jp2/pct:26.842211,76.144497,10.846231,5.808860/!600,600/0/default.jpg"/>
 </td>
@@ -1491,6 +1676,7 @@ ninth, the machine for manufacture
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-09-11/ed-1/seq-1)
 
 #### 1879-09-11 &middot; Lansing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1509,6 +1695,7 @@ composing machine for printers.
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1879-09-13/ed-1/seq-2)
 
 #### 1879-09-13 &middot; Superior, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1540,6 +1727,7 @@ composing machine for printers
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-10-02/ed-1/seq-2)
 
 #### 1879-10-02 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1566,6 +1754,7 @@ for printers
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1879-10-23/ed-1/seq-1)
 
 #### 1879-10-23 &middot; Helena, Mont.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1596,12 +1785,15 @@ tbe composing machine for printers.
 #### From _The Wisconsin state register._
 
 #### 1879-11-29 &middot; Portage, Columbia County, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1880-04-14/ed-1/seq-2)
 
 #### 1880-04-14 &middot; Montpelier, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1617,7 +1809,7 @@ shoes. 10. The sand blast for carving
 elevator. 13. Artificial ice making on  
 large scale. 14. The elecirio magnet and  
 its practical application. 15. The com  
-nosing machine tor printers. A sixteenll
+nosing machine tor printers. A sixtee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023209%2F00202197486%2F1880041401%2F0466.jp2/pct:51.644314,38.474092,10.692633,5.127159/!600,600/0/default.jpg"/>
 </td>
@@ -1628,22 +1820,16 @@ nosing machine tor printers. A sixteenll
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1880-04-16/ed-1/seq-2)
 
 #### 1880-04-16 &middot; Wheeling, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
 gin. 2. The planing machine. J.  
 grass mower and reaper. 4. The rotary  
 printing press. 5. Navigation by rteam.  
-6. The hot air engine. 7. The sewing ma­  
-chine. 8. The India rubber Industry. U.  
-The machine manufacture ol horseahoet.  
-10. The taud blast lor carving. 11.  
-gaoge lathe. 12. The gram elevator. 13.  
-Aruflcial ice making on a large scale. 14.  
-The electric magnet and its practical ap­  
-plication. 15. The composing machin
+6. The hot air engine. 7. The sewing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_eritrea_ver01%2Fdata%2Fsn84026844%2F00202193456%2F1880041601%2F0372.jp2/pct:2.571534,24.219577,12.450666,6.335979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_eritrea_ver01%2Fdata%2Fsn84026844%2F00202193456%2F1880041601%2F0372.jp2/pct:2.645535,24.219577,12.376665,2.425044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,9 +1838,17 @@ plication. 15. The composing machin
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1880-04-21/ed-1/seq-1)
 
 #### 1880-04-21 &middot; Salisbury, Litchfield Co., Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+in flames, lying on the road. Some farm  
+hands, noticing her peril, tried to stamp­  
+out the flames, but without success,  
+.until, with their spades, they buried her  
+in the sand. Her injuries are fatal.  
+The great American inventions of  
+world-wide adoption are : 1. The cotton  
 gin. 2. The planing machine. 3. The  
 grass mower and reaper. 4. The rotary  
 printing press. 5. Navigation by steam.  
@@ -1669,32 +1863,7 @@ and its practical application. 15. The
 composing machino for printers. 16.  
 The telephone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763840%2F1880042101%2F0082.jp2/pct:62.385996,28.995488,11.003236,6.969841/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1880-04-22/ed-1/seq-7)
-
-#### 1880-04-22 &middot; Kenosha, Wis.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-gin. 2. The planing machine. 3.  
-grass mower and reaper. 4. The  
-ry printing press. 5. Navigation by  
-an. 6. The hot-air engine. 7. The  
-ing machine. 8. The India-rubber  
-astry. 9. The machine manufacture  
-horseshoes. 10. The sand blast for  
-ring. 11. The gauge lathe. 12. The  
-in elevator. 13. Artificial-ice making  
-a large scale. 14. The electric mag­  
-and its practical application. 15.  
-e composing machine for printers
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151283%2F1880042201%2F0095.jp2/pct:1.667609,45.535714,13.218391,8.065149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763840%2F1880042101%2F0082.jp2/pct:62.385996,25.112800,11.032657,10.852529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,6 +1872,7 @@ e composing machine for printers
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1880-04-23/ed-1/seq-3)
 
 #### 1880-04-23 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1728,6 +1898,7 @@ The composing machine for printers
 ## [From _Daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn93061632/1880-04-23/ed-1/seq-3)
 
 #### 1880-04-23 &middot; Las Vegas, N.M.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1754,6 +1925,7 @@ magnet and its practical application.
 ## [From _Northern Ohio journal._](https://chroniclingamerica.loc.gov/lccn/sn84028194/1880-05-01/ed-1/seq-4)
 
 #### 1880-05-01 &middot; Painesville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1779,6 +1951,7 @@ The composing machine for printers. .
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1880-05-05/ed-1/seq-1)
 
 #### 1880-05-05 &middot; Abbeville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1804,6 +1977,7 @@ lag on a large scale. 14. Th** electric
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1880-05-13/ed-1/seq-6)
 
 #### 1880-05-13 &middot; Ironton, Iron County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1829,6 +2003,7 @@ The composing machine for printers.
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1880-05-20/ed-1/seq-4)
 
 #### 1880-05-20 &middot; Bellevue, Bossier Parish, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1854,6 +2029,7 @@ The composing machine for printers.
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1880-05-20/ed-1/seq-4)
 
 #### 1880-05-20 &middot; Pulaski, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1896,12 +2072,15 @@ tiou. la. Ihe composing machin
 #### From _St. Louis globe-Democrat._
 
 #### 1880-05-23 &middot; St. Louis [Mo.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25?page=6)
 
 #### 1880-06-17 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1930,6 +2109,7 @@ for printers.
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1880-06-24/ed-1/seq-1)
 
 #### 1880-06-24 &middot; [Wilmington, Del.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1963,12 +2143,15 @@ fifteenth, the composing machine fo
 #### From _Boston investigator._
 
 #### 1880-07-14 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1880-11-06/ed-1/seq-3)
 
 #### 1880-11-06 &middot; Rock Island, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1999,6 +2182,7 @@ the composing machine for printers. I
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4?page=6)
 
 #### 1881-01-27 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2022,6 +2206,7 @@ and its practical application. 15. The compos
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1881-04-21/ed-1/seq-1)
 
 #### 1881-04-21 &middot; Mexico, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2052,6 +2237,7 @@ Artificial ice making on a large
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1881-04-26/ed-1/seq-1)
 
 #### 1881-04-26 &middot; Woodsfield, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2079,12 +2265,15 @@ The composing machine for printerst&#x27;
 #### From _Georgia weekly telegraph, journal & messenger._
 
 #### 1881-06-03 &middot; Macon, Ga.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The daily Cairo bulletin._](https://chroniclingamerica.loc.gov/lccn/sn87082573/1881-06-10/ed-1/seq-1)
 
 #### 1881-06-10 &middot; Cairo, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2113,6 +2302,7 @@ tical application
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1881-06-11/ed-1/seq-1)
 
 #### 1881-06-11 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 med by those who!  
@@ -2149,6 +2339,7 @@ tica.l aplication
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1881-06-15/ed-1/seq-1)
 
 #### 1881-06-15 &middot; Newberry, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2174,46 +2365,20 @@ machine for printers. A sixteent
 
 ---
 
-## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1881-06-23/ed-1/seq-4)
-
-#### 1881-06-23 &middot; Ravenna, O. [Ohio]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27; . 2. Tho planing machine.&quot; j.  
-S. The grass mower and reaper.  
-4. The rotary printing press. &#x27; &#x27;  
-. 6-Navigation by steam. 1 -3 &quot;  
-. 6. The not air engine .;-.-7.  
-The sewing machine. , . .-.i  
-8. The Tndia rubber industry. &#x27; . &#x27;  
-9-jTho machine mannfactureof horse­  
-shoes. &quot;&#x27; 1 &quot; :&#x27; &#x27;-&#x27; &#x27; &#x27; &#x27;.  
-i-10. The sand blast for carving. --; u  
-11. The gauge lathe. .,, .,, ..  
-12. Tho grain elevator. . . , , .  
-13. Artificial ice making on a large  
-scale.  
-14. The electric magnet and its prac­  
-tical application. ,- . i - , f 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027200%2F1881062301%2F0367.jp2/pct:50.109633,18.431977,10.451688,6.820069/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## Our Great Inventions
 
 #### From _The Wisconsin state register._
 
 #### 1881-06-25 &middot; Portage, Columbia County, Wis.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1881-07-15/ed-1/seq-2)
 
 #### 1881-07-15 &middot; Albany, Linn County, Oregon
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2225,38 +2390,9 @@ he sewine machine ; X, the India rub-
 r industry ; 9, the machine uianufac-  
 re of horseshoes; 10,the sand-blast for  
 itej; 11, the gauge lathe ; 12, the  
-am elevator; 1 artificial ice making  
-a large scale ; 1 4, the electric mag  
-&#x27;eCirad its practical application ; 15
+am elevator; 1 artificial ice makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295867504%2F1881071501%2F0105.jp2/pct:5.181592,66.883801,10.658938,6.897212/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1881-07-15/ed-1/seq-4)
-
-#### 1881-07-15 &middot; Olympia, Wash. Territory
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-reaper.  
-I. The rotary printing press.  
-•&quot;&gt;. Navigation liy steam.  
-•&gt;. The hot air engine.  
-7. Tho sowing machine.  
-s. The india rnbber industry.  
-Tho machine manufacture of horse­  
-shoes.  
-In. The sinu Mast for carving.  
-11. The gauge lathe.  
-13. The grain elevator.  
-Id. Artiiiei il ice-making on a large  
-scale.  
-14. &#x27;The electric magnet and its prac­  
-tical application
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291098%2F1881071501%2F0035.jp2/pct:54.099906,9.397810,10.724945,6.721411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295867504%2F1881071501%2F0105.jp2/pct:5.193422,66.883801,10.647108,5.575247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2265,6 +2401,7 @@ tical application
 ## [From _The weekly miner._](https://chroniclingamerica.loc.gov/lccn/sn84036032/1881-08-09/ed-1/seq-6)
 
 #### 1881-08-09 &middot; Butte, Mont.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2293,6 +2430,7 @@ application
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1881-08-25/ed-1/seq-4)
 
 #### 1881-08-25 &middot; Belfast, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2304,10 +2442,9 @@ India rubber industry: ft, the machine
 manufacture of horse-shoes; III. the sand­  
 blast for can ing; 11, theguage lathe; 12,  
 the grain elevator; Id, artifical ice-mak­  
-ing on a large scale; 14, the electric mag­  
-net and its practical application ; 15, th
+ing on a large scale; 14, the electric ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1881082501%2F0142.jp2/pct:17.482297,92.985996,11.129032,4.500949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1881082501%2F0142.jp2/pct:17.498033,92.985996,11.113297,4.049964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2316,6 +2453,7 @@ net and its practical application ; 15, th
 ## [From _The Stark County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028490/1881-08-25/ed-1/seq-7)
 
 #### 1881-08-25 &middot; Canton, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2343,24 +2481,25 @@ plication.15, The telephone.
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1881-08-29/ed-1/seq-4)
 
 #### 1881-08-29 &middot; Memphis, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-w js.  
-going to move to cut the Fecretarj-&#x27;s  
-salary down to ?30 per month, hoprd  
-off.  
-Our Great Inventions.  
-&#x27;lhe fifteen Crest Ainnrinnn m nan.  
-pons of tho world wide adoption, are:  
-1. 1 uo coiion gin.  
+  
 2. The planing machine.  
 3. Tho grass mower and reaper .  
 4. Tho rotary printing press.  
 5. Navigation by steam.  
 6. The hot air ongino.  
-7. The sewine machinn.
+7. The sewine machinn.  
+8. The India rubber industry.  
+3. lhe machmo manufacture  
+horse shoes.  
+of  
+10. The sand blas c for carving.  
+11. J he gauge kthe.  
+YL The grain elevator
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F00280779490%2F1881082901%2F0816.jp2/pct:83.768352,77.759871,13.478793,7.493956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F00280779490%2F1881082901%2F0816.jp2/pct:84.155791,82.285791,13.091354,6.110663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2369,6 +2508,7 @@ pons of tho world wide adoption, are:
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1881-09-07/ed-1/seq-1)
 
 #### 1881-09-07 &middot; Clearfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2396,7 +2536,9 @@ its practical application. 15. The com
 #### From _Graphic_
 
 #### 1881-09-24 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## American Ideas
@@ -2404,12 +2546,15 @@ its practical application. 15. The com
 #### From _Daily evening bulletin._
 
 #### 1881-10-08 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Union County courier._](https://chroniclingamerica.loc.gov/lccn/sn84022137/1881-11-16/ed-1/seq-1)
 
 #### 1881-11-16 &middot; Elk Point, Union County, D.T. [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 w which have revolutionized the  
@@ -2445,6 +2590,7 @@ practical application
 ## [From _The Canton advocate._](https://chroniclingamerica.loc.gov/lccn/sn83025440/1882-01-05/ed-1/seq-5)
 
 #### 1882-01-05 &middot; Canton, D.T. [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 zed to  
@@ -2478,6 +2624,7 @@ shoes.
 ## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1882-10-12/ed-1/seq-4)
 
 #### 1882-10-12 &middot; Troy, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2494,7 +2641,7 @@ II. The gange lathe.
 li The grain elevator.  
 13. Artificial ice-making on a large scale.  
 11. The electric magnet and iU practical ap­  
-plication.I
+plication.Ij. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555675%2F1882101201%2F0561.jp2/pct:26.590745,89.173789,10.737527,5.168905/!600,600/0/default.jpg"/>
 </td>
@@ -2505,6 +2652,7 @@ plication.I
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1882-10-26/ed-1/seq-1)
 
 #### 1882-10-26 &middot; Salina, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 machine.  
@@ -2540,6 +2688,7 @@ practical application
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5?page=3)
 
 #### 1884-08-16
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2563,6 +2712,7 @@ tical application. 15. The telephone.
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3?page=50)
 
 #### 1884-09-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2593,6 +2743,7 @@ chine for printers.
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1885-04-23/ed-1/seq-4)
 
 #### 1885-04-23 &middot; Anderson Court House, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 What  
@@ -2629,6 +2780,7 @@ cal application
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1885-04-23/ed-2/seq-4)
 
 #### 1885-04-23 &middot; Anderson Court House, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2658,6 +2810,7 @@ lal application
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1886-04-13/ed-1/seq-1)
 
 #### 1886-04-13 &middot; Woodsfield, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2674,7 +2827,7 @@ ice making on a large scale. 14 The
 electric msgnet and its practical appli­  
 cation 15 The telephone. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027388%2F1886041301%2F0396.jp2/pct:60.776869,83.085221,10.674650,5.663430/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027388%2F1886041301%2F0397.jp2/pct:60.776869,83.085221,10.674650,5.663430/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2683,6 +2836,7 @@ cation 15 The telephone.
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1887-07-26/ed-1/seq-4)
 
 #### 1887-07-26 &middot; Savannah, Ga.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2708,12 +2862,15 @@ A Jackson. Mich., man owns the highes
 #### From _Daily evening bulletin._
 
 #### 1887-08-13 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1887-08-13_64_1665?page=10)
 
 #### 1887-08-13 &middot; New York, N.Y.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2736,6 +2893,7 @@ electric magnet and its practical application ; and
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1887-08-20/ed-1/seq-7)
 
 #### 1887-08-20 &middot; Oakland, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2760,6 +2918,7 @@ its practical application; 15, the tele
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1887-08-24/ed-1/seq-1)
 
 #### 1887-08-24 &middot; Watertown, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2784,6 +2943,7 @@ its practical application; 15, the tele
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1887-08-27/ed-1/seq-4)
 
 #### 1887-08-27 &middot; Penn's Grove, Salem Co., N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2805,17 +2965,10 @@ its practical application; 15, the tele
 
 ---
 
-## Bits of Science
-
-#### From _The daily picayune._
-
-#### 1887-08-28 &middot; New Orleans, La.
-[This text is not available under an open license.]
----
-
 ## [From _The Indianapolis journal._](https://chroniclingamerica.loc.gov/lccn/sn82015679/1887-08-29/ed-1/seq-4)
 
 #### 1887-08-29 &middot; Indianapolis [Ind.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2840,12 +2993,15 @@ tical application; and, 15, the telephone
 #### From _Hampshire/Portsmouth Telegraph_
 
 #### 1887-09-03 &middot; Portsmouth, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1887-09-07_64_36?page=6)
 
 #### 1887-09-07 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2873,23 +3029,26 @@ phone.
 #### From _The Atchison daily globe._
 
 #### 1887-09-10 &middot; Atchison, Kan.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _American: A National Journal 1880-1900_](https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370?page=14)
 
 #### 1887-09-10
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+The fifteen great American inventions of world-wide adoption are: 1  
 the cotton-gin ; 2, the planting-machine; 3, the grass mower and reaper; ra  
 the rotary printing press; 5, navigation by steam; 6, the hot-air engine: 7,  
 the sewing machine; 8, the india-rubber industry ; 9, the machine manu.  
-facture of horseshoes; 10, the sand-blast for carving; 11, the gauge lathe:  
-12, the grain elevator; 13, artificial ice-making on a large scale ; 14 the  
-electric magnet and its practical application ; and 15, the telephone. 
+facture of horseshoes; 10, the sand-blast for carving; 11, the gauge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370&#0036;14/pct:47.204301,43.315832,36.102151,4.826333/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370&#0036;14/pct:47.204301,42.730210,36.075269,3.897415/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2898,6 +3057,7 @@ electric magnet and its practical application ; and 15, the telephone.
 ## [From _The Atlanta constitution._](https://chroniclingamerica.loc.gov/lccn/sn89053706/1887-09-13/ed-1/seq-6)
 
 #### 1887-09-13 &middot; Atlanta, Ga.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2920,6 +3080,7 @@ magnet and its practical application; and,
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1887-09-15/ed-1/seq-4)
 
 #### 1887-09-15 &middot; Bellevue, Bossier Parish, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2944,6 +3105,7 @@ its practical application; 15, the tele
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1887-09-15_58_37?page=6)
 
 #### 1887-09-15 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2966,6 +3128,7 @@ plication ; and 15, the telephone.
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1887-09-21/ed-1/seq-7)
 
 #### 1887-09-21 &middot; Abbeville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2991,6 +3154,7 @@ its practical application, and 13, the
 ## [From _Fort Worth daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn86064205/1887-09-22/ed-1/seq-3)
 
 #### 1887-09-22 &middot; Fort Worth, Tex.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 one severely The horse  
@@ -3025,6 +3189,7 @@ shoes
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1887-09-23/ed-1/seq-2)
 
 #### 1887-09-23 &middot; Perrysburg, Wood Co., O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3048,13 +3213,10 @@ net and Its practical application ; 15, lli
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1887-09-23/ed-1/seq-2)
 
 #### 1887-09-23 &middot; Ebensburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-(&#x27;) the plar.ios-riacl.inn, (3) the  
-grass mower and reaper, (4) the rotary  
-Printing tress (51 the tiPV i..st.(,n bvsl. ari  
-...I..&#x27; , ( ,&quot;&#x27;K. 0 l &quot;Uau&#x27; !  
 ft!) the hot-air engine, (7) the. sewing ma  
 chine, (8) the India-rubber iadiiFtry, (.) i  
 the machine manufacture of horse-shoes.  
@@ -3063,7 +3225,7 @@ gaug lathe. (12) the rain elevator, (13) arti- !
 Scial ice-making on a large scale, (14) the i  
 electric magnet and ltspracticalapplieation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477734%2F1887092301%2F0069.jp2/pct:52.558666,74.069726,11.407973,4.894941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477734%2F1887092301%2F0069.jp2/pct:52.558666,75.537035,11.407973,3.427632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3072,6 +3234,7 @@ electric magnet and ltspracticalapplieation
 ## [From _Iowa County democrat._](https://chroniclingamerica.loc.gov/lccn/sn86086852/1887-09-23/ed-1/seq-4)
 
 #### 1887-09-23 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3090,9 +3253,11 @@ IC. The and blast for carving.
 13. Artificial ice making on a large  
 scale.  
 14. The electrical magnet and its prac­  
-tical application
+tical application.  
+15. The telephone.  
+There is confined in the county jai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_lucretia_ver01%2Fdata%2Fsn86086852%2F00271768928%2F1887092301%2F0366.jp2/pct:24.020482,79.178042,9.824898,6.257508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_lucretia_ver01%2Fdata%2Fsn86086852%2F00271768928%2F1887092301%2F0366.jp2/pct:24.020482,79.178042,9.824898,7.498817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3101,6 +3266,7 @@ tical application
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1887-09-24/ed-1/seq-6)
 
 #### 1887-09-24 &middot; Ottawa, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3123,16 +3289,10 @@ electric iiiugnet and its practical application
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1887-09-29/ed-1/seq-4)
 
 #### 1887-09-29 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tipple. The nastier the draught the  
-better it seems to sell.&quot; New York Evening  
-Sua.  
   
-Fifteen American Inventions.  
-  
-The fifteen great American inventions of  
-world wide adoption are: 1, the cotton gin;  
 2, the planing machine; 3, tbe grass mower  
 and reaper; 4, &quot;be rotary printing press; 5,  
 navigation by steam; 6, tbe hot air engine;  
@@ -3143,7 +3303,7 @@ tlie gauge lathe; 12, tbe grain elevator; 13,
 artificial ice making on a large scale; 14, tbe  
 electric magnet au&#x27;d its practical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775290%2F1887092901%2F0080.jp2/pct:27.716947,85.798078,10.295800,6.427056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775290%2F1887092901%2F0080.jp2/pct:27.716947,88.568576,10.279457,3.656558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3152,6 +3312,7 @@ electric magnet au&#x27;d its practical application
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1887-10-01/ed-1/seq-6)
 
 #### 1887-10-01 &middot; McMinnville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 n&#x27;s Chills  
@@ -3189,6 +3350,7 @@ practical application
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1887-10-05/ed-1/seq-6)
 
 #### 1887-10-05 &middot; Abbeville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3216,6 +3378,7 @@ its practical application, (15) the telephone.
 ## [From _Savannah courier._](https://chroniclingamerica.loc.gov/lccn/sn89058248/1887-10-06/ed-1/seq-2)
 
 #### 1887-10-06 &middot; Savannah, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3239,9 +3402,38 @@ its practical application; (lo) th
 
 ---
 
+## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1887-10-06/ed-1/seq-1)
+
+#### 1887-10-06 &middot; Lancaster, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The cotton-gin, (2) the planing ma­  
+chine, (3) the grass mower and reap­  
+er, (4) the rotary printing press, (5)  
+navigation by steam, (6) the hot-air  
+engine, (7) the sewing machine, (8)  
+the india-rubber industry, (9) the ma­  
+chine manufacture of horseshoes, (10)  
+the sand-blast for carving, (11) the  
+gage lathe, (12) the grain elevator,  
+(13) artificial ice-making on a large  
+scale, (14) the electric magnet and its  
+practical application, (15) the tele­  
+phone.  
+Q ■ 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159221%2F1887100601%2F0155.jp2/pct:75.855028,88.652482,9.471437,5.533392/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1887-10-07/ed-1/seq-2)
 
 #### 1887-10-07 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 d boring machinery of  
@@ -3275,9 +3467,20 @@ practical application.
 
 ---
 
+## Multiple News Items
+
+#### From _The Wisconsin state register._
+
+#### 1887-10-08 &middot; Portage, Columbia County, Wis.
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _The Ouachita telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85034336/1887-10-08/ed-1/seq-2)
 
 #### 1887-10-08 &middot; Monroe, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3300,25 +3503,20 @@ t and its practical application; (15) th
 
 ---
 
-## Multiple News Items
-
-#### From _The Wisconsin state register._
-
-#### 1887-10-08 &middot; Portage, Columbia County, Wis.
-[This text is not available under an open license.]
----
-
 ## Bits of Science
 
 #### From _The daily picayune._
 
 #### 1887-10-09 &middot; New Orleans, La.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1887-10-13/ed-1/seq-7)
 
 #### 1887-10-13 &middot; Ironton, Iron County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3343,6 +3541,7 @@ net and its practical application; 15
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1887-10-13/ed-1/seq-1)
 
 #### 1887-10-13 &middot; Manitowoc, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3370,6 +3569,7 @@ practical application, (15) the tele
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
 
 #### 1887-10-15 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3384,7 +3584,7 @@ carving; ll, the gauge latho ; 12, the
 grain elevator ; 18, artificial ice-  
 making&#x27; on a largo soale ; 14, the  
 olectrio magnet and its practical  
-applicat
+application j and, 15, the t
 </td></tr></table>
 
 ---
@@ -3392,6 +3592,7 @@ applicat
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1887-10-19/ed-1/seq-1)
 
 #### 1887-10-19 &middot; Russellville, Ark.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3416,6 +3617,7 @@ net and its practical application; 1ft
 ## [From _The Lebanon express._](https://chroniclingamerica.loc.gov/lccn/sn97071028/1887-10-21/ed-1/seq-1)
 
 #### 1887-10-21 &middot; Lebanon, Linn County, Or.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3440,6 +3642,7 @@ its practical application; 15, the tele
 ## [From _The Iowa plain dealer._](https://chroniclingamerica.loc.gov/lccn/sn83025167/1887-10-27/ed-1/seq-1)
 
 #### 1887-10-27 &middot; New Oregon, Howard County, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3461,9 +3664,36 @@ not and Its practical application 15
 
 ---
 
+## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1887-10-27/ed-1/seq-2)
+
+#### 1887-10-27 &middot; River Falls, Pierce County, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+the cotton gin; 2. the planing machine;  
+3. the grass mower and reaper; 4. the  
+rotary printing press; .5, navigation by  
+steam. 6, the hot-air engine; 7. the  
+sewing machine; 8 the India-rubber  
+indus.ry; 9 the machine manufacture  
+of horseshoe-; 10. h ■ sand-blasts f&gt;r  
+card g; 11. th* g u*e lash*; 12. ti a  
+rrninelcra 13. ar ificial ic -makiug  
+a J.vrj • scale; 11 the electric matr­  
+net and it* pr; c ieal application; Is,  
+the t
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033255%2F00514152512%2F1887102701%2F0380.jp2/pct:66.920497,90.777324,9.464237,5.385719/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Kimball graphic._](https://chroniclingamerica.loc.gov/lccn/sn99068076/1887-10-28/ed-1/seq-4)
 
 #### 1887-10-28 &middot; Kimball, Brule County, Dakota [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3494,6 +3724,7 @@ FARM AND HOUSEHOLD.
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1887-10-29/ed-1/seq-4)
 
 #### 1887-10-29 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3518,6 +3749,7 @@ net and its practical application; 15
 ## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1887-10-30/ed-1/seq-15)
 
 #### 1887-10-30 &middot; Saint Paul, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3546,6 +3778,7 @@ THE POPE&#x27;S SECLUSION
 ## [From _Custer chronicle._](https://chroniclingamerica.loc.gov/lccn/sn97065762/1887-11-05/ed-1/seq-3)
 
 #### 1887-11-05 &middot; Custer City, Black Hills, D.T. [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3572,6 +3805,7 @@ phone.
 ## [From _The Clifton clarion._](https://chroniclingamerica.loc.gov/lccn/sn94050557/1887-11-09/ed-1/seq-1)
 
 #### 1887-11-09 &middot; Clifton, Graham County, A.T., Ariz.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3600,6 +3834,7 @@ it3 practical application; 15, th
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
 #### 1887-11-12 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3618,53 +3853,10 @@ practical application; 15, th
 
 ---
 
-## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-11-30/ed-1/seq-1)
-
-#### 1887-11-30 &middot; Mifflintown, Juniata County, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-the cotton gin; J, the planing machine.  
-3, the grass mower .;ml leapt i , 4, tne  
-rotary pr.ulii.g press; &quot;, i.avigatiou by  
-steam; ii, tin; Let-air engine; 7, the  
-sewing mach.ne; the 1 ml :a-t ublier  
-industry ; &#x27;, the machine in .niifai luiii  
-of horseshoe-; lo. the satid-bia.&#x27;.s for  
-carving; 11 the gauge lathe; 12, tha  
-grain elevator; l.&#x27;J, artificial ice-making  
-on a large scale; 14, the electric mag­  
-net and its plait i Ml application: l&quot;t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86053634%2F0021247776A%2F1887113001%2F0087.jp2/pct:80.250740,52.554653,9.381603,4.584635/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1887-12-08/ed-1/seq-1)
-
-#### 1887-12-08 &middot; Winnsboro, S.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-sewing uabhlue; &#x27;, the India-rubber  
-industry4 0; the machliue -mantifacture  
-of horseshoes; 10,.,thoe,saud-blasts for  
-carving; 1,&quot; the gauge lathe; 12, the  
-grain elevator; 18, -artiicia iie-making  
-on a la&#x27;rge scale; 14,&#x27; the electrio mag­  
-net anid its&#x27; practical&#x27; application; 1
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F0023728849A%2F1887120801%2F0069.jp2/pct:80.638933,56.610899,12.493418,3.857829/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Semi-weekly interior journal._](https://chroniclingamerica.loc.gov/lccn/sn85052020/1887-12-13/ed-1/seq-4)
 
 #### 1887-12-13 &middot; Stanford, Ky.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3691,9 +3883,18 @@ and its practical applictUon, and 15
 ## [From _Morris tribune._](https://chroniclingamerica.loc.gov/lccn/sn91059394/1887-12-14/ed-1/seq-3)
 
 #### 1887-12-14 &middot; Morris, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+elled by the postmaster, which will  
+consequently delay such letter oue  
+day. This order took effect on the  
+fifteenth day of September.&quot;  
   
+In reply to a correspondent WO will  
+state that there are fifteen great  
+American inventions which have had  
+a world-wide adoption. There are as  
 follows: (1) The cotton-gun, (2) the  
 planning machine, (3) the grass  
 mower and reaper, (4) tbe rotary  
@@ -3707,7 +3908,7 @@ grain elevator, (13) artificial ice-mak­
 ing on a large scale. (14) the electric  
 magnet aud its practical application-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ibo_ver01%2Fdata%2Fsn91059394%2F00383347737%2F1887121401%2F0464.jp2/pct:26.522974,34.184243,10.893134,6.340758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ibo_ver01%2Fdata%2Fsn91059394%2F00383347737%2F1887121401%2F0464.jp2/pct:26.522974,29.693147,10.914645,10.831855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3716,9 +3917,18 @@ magnet aud its practical application-
 ## [From _Morris tribune._](https://chroniclingamerica.loc.gov/lccn/sn91059394/1887-12-14/ed-1/seq-4)
 
 #### 1887-12-14 &middot; Morris, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+elled by the postmaster, which will  
+consequently delay such letter one  
+day. This order took effect ou the  
+fifteenth day of September.&quot;  
   
+In reply to a correspondent we will  
+state that there are fifteen great  
+American inventions which have had  
+a world-wide adoption. There are as  
 follows: (1) The cotton-guu, (2) the  
 planning machine, (3) tlie grass  
 mower and reaper, (4) t&#x27;ae rotary  
@@ -3732,7 +3942,7 @@ grain elevator, (13) artificial ice-mak­
 ing on a large scale. (14) the electric  
 magnet and its practical application
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ibo_ver01%2Fdata%2Fsn91059394%2F00383347737%2F1887121401%2F0465.jp2/pct:26.354595,34.379098,10.888203,6.382769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ibo_ver01%2Fdata%2Fsn91059394%2F00383347737%2F1887121401%2F0465.jp2/pct:26.354595,29.900997,10.909636,10.860871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3741,6 +3951,7 @@ magnet and its practical application
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1887-12-16/ed-1/seq-1)
 
 #### 1887-12-16 &middot; Olympia, Wash. Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3770,6 +3981,7 @@ Tiik Central Committee of the pro
 #### From _South Australian Weekly Chronicle (Adelaide, SA : 1881 - 1889)_
 
 #### 1887-12-24 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3793,6 +4005,7 @@ practical application; 15. Th
 #### From _The South Australian Advertiser (Adelaide, SA : 1858 - 1889)_
 
 #### 1887-12-28 &middot; Adelaide, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3808,7 +4021,8 @@ carving; lL The f&quot; 5?? M* 6* 12- The
 (ftvn elevator; 13. Artificial lee-  
 mafcinjf on a large scale; 14. The  
 electric magnet and its practical  
-application; 15. He telephone
+application; 15. He telephone.  
+St
 </td></tr></table>
 
 ---
@@ -3816,6 +4030,7 @@ application; 15. He telephone
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-01-13/ed-1/seq-6)
 
 #### 1888-01-13 &middot; Wessington Springs, Aurora County, Dakota [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 dance longer they retire  
@@ -3847,6 +4062,7 @@ application 15, the teleplaone.
 ## [From _Lake Charles commercial._](https://chroniclingamerica.loc.gov/lccn/2013271051/1888-01-14/ed-1/seq-3)
 
 #### 1888-01-14 &middot; Lake Charles, Calcasieu Parish, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3875,6 +4091,7 @@ net and its practical application
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
 
 #### 1888-01-21 &middot; Maitland, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3894,59 +4111,12 @@ practical application; 15, th
 
 ---
 
-## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/72882356)
-
-#### From _The Horsham Times (Vic. : 1882 - 1954)_
-
-#### 1888-03-09 &middot; Horsham, Victoria
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-1,-the cotton gin; 2;&#x27;the planinsi  
-machine; 3, the grass mower and reaper;  
-4, the rotary printing niachine;  
-.5,navigation bysteam;:6, the hot-air  
-engine; 7, the sewing machine,; :S the  
-india-rubber industry-; .&#x27; the madhbine  
-manufacturer of liorseshoes i:10,. the  
-sand-blast for carvig.; 11,&#x27; the g  
-eage1.athb.12,&#x27;the grain elevator; 13,  
-artificial ice-making on a large scale;  
-14, the elecrtic magnet and its  
-p&#x27;ra?tical appli?ition; and 5ll th
-</td></tr></table>
-
----
-
-## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/140554537)
-
-#### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
-
-#### 1888-03-16 &middot; Riverina Region, New South Wales
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-gin ; 2, the planing machine ; 3, the  
-grass mower and reaper; 1, the rotary  
-printing machine ; 5, navigation by  
-steam ; G,thc hot-air engine; 7. the  
-sewins machine : 8, tho india-rubber  
-iudustry; 9, the machine manufacturer of  
-horseshoes; 10, tho sand-blast for  
-carving; 11, the guago lath; 12, the  
-grain elevator; 13, artificial ice-  
-making on a large scale; 14, the  
-clccrtic magnet and its practical  
-application; and 15, the telephone. Th
-</td></tr></table>
-
----
-
 ## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/167930706)
 
 #### From _Mackay Mercury (Qld. : 1887 - 1905)_
 
 #### 1888-03-24 &middot; Mackay, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3971,6 +4141,7 @@ practical application; and 13, tli
 #### From _Kapunda Herald (SA : 1878 - 1951)_
 
 #### 1888-03-27 &middot; Kapunda, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3992,6 +4163,7 @@ its practical application : and 13, th
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1888-03-30/ed-1/seq-3)
 
 #### 1888-03-30 &middot; Idaho City, Idaho Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4016,6 +4188,7 @@ j not and its practical application; 15
 ## [From _The Magnolia gazette._](https://chroniclingamerica.loc.gov/lccn/sn85034447/1888-04-28/ed-1/seq-1)
 
 #### 1888-04-28 &middot; Magnolia, Miss.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4045,6 +4218,7 @@ net and its practical application
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
 #### 1888-04-28 &middot; Melbourne, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4067,6 +4241,7 @@ application ; and 15, the telephone. Th
 ## [From _Industry Week 1880-2016_](https://iiif.archivelab.org/iiif/sim_industry-week_1888-05-03_21_19?page=10)
 
 #### 1888-05-03
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4086,36 +4261,12 @@ tion; 15, the telephone.
 
 ---
 
-## [SCIENCE AND INVENTION.](http://trove.nla.gov.au/ndp/del/article/88550068)
-
-#### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
-
-#### 1888-06-09 &middot; Bendigo, Victoria
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-gin; 2, the planing machinc; 3, the  
-gross mower and reaper; 4, the rotary  
-printing prcus; o, navigation by steam;  
-(ij the liot air engine; 7, the Slowing  
-tnachinfci S,&#x27; tiie India r|ibljer  
-industry; 9, the machine manufacture ■  
-vf hbrs^l&#x27;oes:, 10j the s:ind«blast for  
-carving; 11, the gattgc JtitWej 1?, the  
-grain elevator; 13, artificial ice  
-making on a large scale: 14, the  
-electric magnet and its practical  
-application; 1.1, the telephone. So  
-pleased is the lvnpcror Francis Josep
-</td></tr></table>
-
----
-
 ## [PROPOSED UNION OF TASMANIA TO VICTORIA.](http://trove.nla.gov.au/ndp/del/article/58464749)
 
 #### From _Mercury and Weekly Courier (Vic. : 1878 - 1903)_
 
 #### 1888-08-24 &middot; Fitzroy, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4141,12 +4292,15 @@ practical&#x27;application ; and, 15, th
 #### From _Boston investigator._
 
 #### 1888-08-29 &middot; Boston, Mass.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Arizona silver belt._](https://chroniclingamerica.loc.gov/lccn/sn84021913/1888-09-29/ed-1/seq-4)
 
 #### 1888-09-29 &middot; Globe City, Pinal County, Ariz.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4172,6 +4326,7 @@ Tho gauge lathe 12 Th
 ## [From _Omaha daily bee._](https://chroniclingamerica.loc.gov/lccn/sn99021999/1888-09-30/ed-1/seq-12)
 
 #### 1888-09-30 &middot; Omaha [Neb.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4197,6 +4352,7 @@ cation. 15. The telephone
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1888-10-04_59_40?page=7)
 
 #### 1888-10-04 &middot; New York
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4220,6 +4376,7 @@ application; 16, The telephone.
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1888-10-31/ed-1/seq-3)
 
 #### 1888-10-31 &middot; Mifflintown, Juniata County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4232,7 +4389,7 @@ machine manufacture of boraeahoes; 10.
 Tbe sand blast tor carving ; 11. Tbe gauge  
 lathe; 12. The gram elevator; 13. Arti­  
 ficial ice making on a Urge scale ; 14. Tbe  
-electric magnet and its
+electric magnet and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86053634%2F0021247776A%2F1888103101%2F0276.jp2/pct:23.488701,77.608142,9.477401,4.860051/!600,600/0/default.jpg"/>
 </td>
@@ -4243,6 +4400,7 @@ electric magnet and its
 ## [From _The Fairfield news and herald._](https://chroniclingamerica.loc.gov/lccn/2012218613/1888-10-31/ed-1/seq-4)
 
 #### 1888-10-31 &middot; Winnsboro, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4272,6 +4430,7 @@ application
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1888-11-14/ed-1/seq-2)
 
 #### 1888-11-14 &middot; New Ulm, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4297,6 +4456,7 @@ practical application 15, The tele
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1888-11-30/ed-1/seq-4)
 
 #### 1888-11-30 &middot; Shepherdstown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4319,33 +4479,10 @@ and its practical application; 15, Th
 
 ---
 
-## [From _The Democrat._](https://chroniclingamerica.loc.gov/lccn/sn92073907/1889-01-03/ed-1/seq-4)
-
-#### 1889-01-03 &middot; Scotland Neck, Halifax Co., N.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-cotton-gin; 2. Tho planting-machine;  
-3. Tho grass -mower and reaper; 4. Tho  
-rotary printing-press; 5. Navigation  
-by -steam; G. Hot-air engine; 7. The  
-sewing-machine; S. Tho iniia-rubber  
-ind ustry; 9. The machine manufactur­  
-ing of horseshoes; 9. Tho sandblast  
-for carving; 11. Tho gauge-&quot; athe ; 12.  
-grain-elevator; 13. Artificial ice-making  
-on a largo scale; If. Tho electric mag­  
-net and its practical application ; 15
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073907%2F00416156724%2F1889010301%2F0007.jp2/pct:32.298224,79.978769,12.379354,6.656051/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Wheeling Sunday register._](https://chroniclingamerica.loc.gov/lccn/sn86092523/1889-01-06/ed-1/seq-3)
 
 #### 1889-01-06 &middot; Wheeling, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4358,22 +4495,12 @@ manufacture of horse shoes; lOtb, the sand
 blast for carving: 11th, tbe gauge lathe;  
 12th. the grain elevator; 13th, artificial ice  
 making on a large scale; 14th, tbe eiec*r c  
-magnet and its practical application; loth,  
-the telephone.  
-Congressman Ford says of the work o
+magnet and its practical application; loth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gore_ver01%2Fdata%2Fsn86092523%2F00279550377%2F1889010601%2F0633.jp2/pct:29.789864,35.032800,12.931897,5.712203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gore_ver01%2Fdata%2Fsn86092523%2F00279550377%2F1889010601%2F0633.jp2/pct:29.789864,35.032800,12.878922,4.664902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
----
-
-## Great American Inventions
-
-#### From _The Milwaukee sentinel._
-
-#### 1889-01-06 &middot; Milwaukee, Wis.
-[This text is not available under an open license.]
 ---
 
 ## [POPULAR SCIENCE.](http://trove.nla.gov.au/ndp/del/article/109493060)
@@ -4381,6 +4508,7 @@ Congressman Ford says of the work o
 #### From _Petersburg Times (SA : 1887 - 1919)_
 
 #### 1889-03-01 &middot; Peterborough, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4403,6 +4531,7 @@ practical application; 15. Th
 ## [From _Baxter Springs news._](https://chroniclingamerica.loc.gov/lccn/sn83040592/1891-01-17/ed-1/seq-7)
 
 #### 1891-01-17 &middot; Baxter Springs, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4421,31 +4550,6 @@ telephone. &#x27;
 The Sterling, (TUee county, KaasaB
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jones_ver01%2Fdata%2Fsn83040592%2F00212473960%2F1891011701%2F0450.jp2/pct:55.025516,85.274787,16.241402,6.768284/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Indian chieftain._](https://chroniclingamerica.loc.gov/lccn/sn83025010/1891-01-22/ed-1/seq-4)
-
-#### 1891-01-22 &middot; Vinita, Indian Territory [Okla.]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-gin; 2, tho planing machine; 3, tho grass  
-  
-mower nou reaper; , mo rotary printing  
-press; 0, navigation by steam; 0, tho hot­  
-air engine; 7, the sewing machine; 8, the  
-India ruber Industry; 0, tho machine  
-manufacture of horse-shoes: 10. tho sand  
-  
-blast for carving; 11, tho gauge lathe; 12,  
-tho grain elevator; 13, nrlificTnlice-making  
-on n largo scale; 14, tho electric mag­  
-net and its practical application; IS, th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_comanche_ver01%2Fdata%2Fsn83025010%2F00237284665%2F1891012201%2F0224.jp2/pct:38.082040,55.505108,11.123429,4.327469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

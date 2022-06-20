@@ -1,13 +1,14 @@
 
 # Keeping One's Eyes Open
 
-### 293 reprints from 1869-06-12 to 1896-06-18
+### 311 reprints from 1869-06-12 to 1896-06-18
 
 ## [Keeping One's Eyes Open](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
 
 #### From _Lincoln County Herald_
 
 #### 1869-07-15
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 **Keeping One&#x27;s Eyes Open.**  
@@ -27,6 +28,7 @@ You&#x27;ll have peace to your end,
 ## [From _Saturday Review 1973-1986_](https://iiif.archivelab.org/iiif/sim_saturday-review_1869-06-12_27_711?page=14)
 
 #### 1869-06-12
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -49,12 +51,15 @@ within us.” In a word, asin all these bundles of conceits, th
 #### From _New York Observer and Chronicle (1833-1912)_
 
 #### 1869-06-24 &middot; New York
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
 
 #### 1869-07-15 &middot; Troy, Lincoln County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -107,82 +112,9 @@ the dirty: water till&#x27; you&#x27; have
 i sol  
 keep on ntteraplog the roals till yon can  
 getheUer&#x27;work ; for the poorest pay. is  
-better thah&#x27;none, aftd tbo humblest office  
-f- L.i... .L.&#x27;ll &#x27; U.lLi&quot; &#x27;. I ti...i .  
-etheit  
-il uoncr man .twiug ovi ui iiaHiuyuioua.  
-Always glvo&#x27;up the&#x27;, road&#x27; &#x27;-to&#x27; hulls&#x27; and  
-madmen arid, nover fight1 with n opal i  
-hearer,
+better thah&#x27;none, aftd tbo humblest offic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1869071501%2F0757.jp2/pct:49.966450,57.239110,14.784165,30.601692/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1869-08-03/ed-1/seq-4)
-
-#### 1869-08-03 &middot; Manchester, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-KrtMsa Oke&#x27; Evra OiKS.Nobody  
-U more liko an honetit mar, than a  
-thorough rogno. When you wie a man  
-with great di al of religion dinplnyed  
-ia bin iihup window, you may depend  
-upon it be krrpa a ery am all nlock if  
-it williin. Io not ciKxiao your nmna  
-by hia lKka ; linndwmio ahoui oftt-u  
-pinch the foet Dou&#x27;t be fond of ouiu­  
-ilimeola : reuicuibor &#x27;Thank you,  
-jiuaxy, &#x27; killud the cat Don&#x27;t believe  
-in t? roan Uiiu lMkn wont, for mow-  
-- Ihr cftta flrc tfry autdoiu ond muuer.  
-Mj no biCaua put youraolf in anotlu r  
-HTon&#x27; jiower ; if yon put jour  
-thumb between two grindera, they arc  
-tery apt to bite. BriiA nothing with  
-out seeing if; aign iiutLiug without  
-&quot; fea&#x27;duig Hud tiialo hurl that it  
-trifana no raw tliun it say iKin&#x27;t  
-go to 1 w oilM you lave rmtliirig to  
-l
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1869080301%2F0304.jp2/pct:5.057606,48.613875,13.298184,13.370474/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1869-08-03/ed-1/seq-4)
-
-#### 1869-08-03 &middot; Manchester, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-Maker,  
-won! 1 make ro benes of lying or steal  
-ing. P. ware of no t.i.iti iiiorw than  
-jourtstif; we carry our wont tuieuitea  
-within t.a. When ft bow opinion of  
-dor trice cotnea bef ire you, do not bibs  
-till you know whether it ia bread or  
-atone; and do not be auro that the  
-gingrrl read i good bcraune of the gilt  
-on it Never about halloa! till you are  
-quite out cf the wood, and don&#x27;t cry  
-Cut fried fish till they aro caught in the  
-but, There&#x27;s ft! way lime to boast  
-; wait ft little (longer. Don&#x27;t throw  
-&#x27;- way dirt waU r till you have got clean.  
-Kp ou fti acrapitjg the road till you  
-oftB get belter wrk, for the poorekt  
-; pay in U tUr than boiif, aud the hum­  
-bleat o2.ee ia U tU r than Itiu out of  
-tfl)pVu)ftftiei.t. Alwayagiveup the road
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1869080301%2F0304.jp2/pct:5.233353,68.404298,13.200547,12.163417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1869071501%2F0757.jp2/pct:49.966450,57.239110,14.784165,28.267001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,6 +123,7 @@ tfl)pVu)ftftiei.t. Alwayagiveup the road
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1869-08-21/ed-1/seq-1)
 
 #### 1869-08-21 &middot; Prescott, Ariz.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -226,6 +159,7 @@ label of a bsg. and cout m
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1869-08-21/ed-1/seq-1)
 
 #### 1869-08-21 &middot; Prescott, Ariz.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 whether it is lmd eraita; ami do wt  
@@ -257,6 +191,7 @@ Yeull have peae t ysaieaJ
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1869-08-27/ed-1/seq-4)
 
 #### 1869-08-27 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -306,6 +241,7 @@ never fight with a coal-heaver, or contend wit
 ## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022168/1869-08-28/ed-1/seq-4)
 
 #### 1869-08-28 &middot; Santa Fe, N.M.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 h-eui l or hi u-k-.-ve&#x27;i; 1  
@@ -324,13 +260,9 @@ pumy, and thank you, pussy,&quot; killed the opium, which Uoe Ciiin ioie a,t-.M 
 cat. Don&#x27;t beliovo In ttm man who tall; nmuggle in, was seized on that &quot;ne ve-i I. j  
 moni; for mewing cats are very seldom good These oium seizunM are bi-i&#x27;oin&#x27;ntg a vi:i-  
 inousors. Hy no means put ytmolf in an- ; consider aldu sotircu of rev.iue to the in.v­  
-other person&#x27;s power; if you put your thumb j urniiiunt, for the Chinese are pcrsit&#x27;-nt yei  
-bolween grinders, they are very apt ti bite. eluiusy smugglers, and uro oailv tumgnt  
-iJrink nothing without seeing it; sign noth-1 (if all tho einclovmenti to which (&#x27;bin ni&#x27;-u j  
-ing without reading it, and make suro it -apply ihemeivts in San Kram-isco tb.-y ,  
-means no more than it says. Don&#x27;t tj&quot; to duciu to be,t muiued in tint luuu lry b.i
+other person&#x27;s power; if you put your thumb j urniiiunt, for the Chinese are pcrsit&#x27;-nt ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022168%2F00296025185%2F1869082801%2F0374.jp2/pct:8.552230,56.488107,28.130727,10.462193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022168%2F00296025185%2F1869082801%2F0374.jp2/pct:8.552230,56.488107,28.130727,8.586347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,6 +271,7 @@ means no more than it says. Don&#x27;t tj&quot; to duciu to be,t muiued in tint 
 ## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022168/1869-08-28/ed-1/seq-4)
 
 #### 1869-08-28 &middot; Santa Fe, N.M.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -348,11 +281,9 @@ mruw away dirty water till you have got cii.-iu on a man uiim uu ir-qite-. ti-1-
 clean;kMjponcrapingthorondstilloui&#x27;uii In ii-: &#x27;The moon in ut it lull pouring i:s  
 Cat butter work; for the poorest pay Is hotter mvs from tl;e znnith stn.iglitib&#x27;wn U;.ou u.s  
 than being out of emplitytuenl. Always withn power tnat i lmo.il as unbear.ble n  
-Kiv up the road to bulls and mad men; and that oí the sun hi mid -lay. Tin-ru U im heal  
-never fight with coalhuavor, or contend in it. ra. hut th-y have gre it i ll&#x27;eet u-on  
-with a ba character, for they will bo sure , the brain. The ido 1 ni-.li.- to Hot bu . I
+Kiv up the road to bulls and mad men; and that oí the sun hi mid -lay. Tin-ru U im hea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022168%2F00296025185%2F1869082801%2F0374.jp2/pct:8.979841,77.103075,27.519853,3.906401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022168%2F00296025185%2F1869082801%2F0374.jp2/pct:8.979841,77.103075,27.519853,2.920132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,6 +292,7 @@ with a ba character, for they will bo sure , the brain. The ido 1 ni-.li.- to Ho
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1869-09-02/ed-1/seq-1)
 
 #### 1869-09-02 &middot; Tarboro', N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 my head  
@@ -438,6 +370,7 @@ wiil be sure to blacken von. Her. C
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1869-09-05/ed-1/seq-8)
 
 #### 1869-09-05 &middot; New Orleans [La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -499,9 +432,88 @@ will be sure to blacken you.- -
 
 ---
 
+## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1869-09-05/ed-2/seq-8)
+
+#### 1869-09-05 &middot; New Orleans [La.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Eif Ei]x OPzn -Ngedy is  
+more like arm Jonest man :than a thorough  
+rogue. When you see a man with a groat  
+deal of religion displayed in his shop  
+window, you may depend upon it he keeps  
+a very small stock of it within. Do not  
+choose your friend by his looks : handsome  
+shoes often pinch the feet. D)on&#x27;t be fond  
+of compliunts;e: remembuL &quot;TInhank vn,,  
+pus , and thank you, pussy,&quot; killed the  
+cat.O Don&#x27;t believe in the man who talks  
+most, for mewing cats are very seldom good  
+mdusers. By no means put yourself in  
+another person&#x27;s power; it you put yotr  
+thumb between two grinders, they are very  
+apt to bite. Drink nothing without seeing  
+it, sign nothing without readiug it, and  
+make sure that it mtans no more than it  
+says. Don&#x27;t go to hew unless you have  
+nothing to lose: lawyers&#x27; houses are built  
+on fools&#x27; heads. In any business, never  
+wade into water where you eannot see the  
+bottom. Put no dependence upon tihe  
+label of.a bag, and count your money pater  
+your own kin. Bee the sack opened before  
+yeou buy what is ip it, for he whio tradee in  
+the dark asks to be cheated. Keep clear  
+of the man who does not value his own  
+chLracter. Beware of every one that  
+swears; he who would blaspheme his  
+Maker, would make no bones of lying or  
+stealing. Beware of no man more than of  
+rycrsesf: we carry our worst enemies  
+within am. When a new opinion ordctrine  
+comes before yea, do not bite till you  
+kaow whether it sl bread or a stoae; and  
+do not be suro that thegingerbread is good  
+because of the gilt on it. Never shout  
+Balles I till you are quite out of the wood,  
+and dq&#x27;t ry fried fish till they ase caught  
+in the et. There&#x27;s always time enough to  
+bost--wait a little longer. Don&#x27;t throw  
+sway dirty water till you have got clean.  
+Keep on at scraping the roads till yop ean  
+get better work, for the poorest pay is  
+better. than none, and the humbltEt ofice  
+is better than being.out of employment.  
+Alwayc give bp the reeoad to bulls and mad­  
+men; and never fight with a coal-hearer  
+or contend with a base character, f(ir theiy  
+will be sure to blacken you.  
+  
+Pa.I-nEtYr is to the  
+Americin Sendio ia tthe %oae ofa debat
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762003%2F1869090502%2F0256.jp2/pct:35.015835,4.505371,31.967538,90.748757/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## Spurgeon's Advice Gratis
+
+#### From _Daily evening bulletin._
+
+#### 1869-09-08 &middot; San Francisco [Calif.]
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1869-09-08/ed-1/seq-2)
 
 #### 1869-09-08 &middot; M'arthur, Vinton County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -566,6 +578,7 @@ for they will be sure to blacken yon, Ikv
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1869-09-08/ed-1/seq-1)
 
 #### 1869-09-08 &middot; Watertown, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ear,” said the doctor. “Beats de  
@@ -632,17 +645,26 @@ for they will be sure to blacken you.—Rev
 
 ---
 
-## Spurgeon's Advice Gratis
+## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1869-09-09/ed-1/seq-1)
 
-#### From _Daily evening bulletin._
+#### 1869-09-09 &middot; Plymouth, Ind.
 
-#### 1869-09-08 &middot; San Francisco [Calif.]
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+aaaat this curious dream and its reeult and madmen, and never fight with a coal  
+LmivUk Ckninmr ,lmmml. heaver, or contend with a base character,
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200294580%2F1869090901%2F0399.jp2/pct:6.678427,95.018680,22.328629,0.852572/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1869-09-09/ed-1/seq-1)
 
 #### 1869-09-09 &middot; Plymouth, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -709,6 +731,7 @@ for they w ill be sure to blacken you.
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1869-09-09/ed-1/seq-2)
 
 #### 1869-09-09 &middot; Lansing, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -774,6 +797,7 @@ for they will be sure to blacken you.—Rev
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1869-09-09/ed-1/seq-1)
 
 #### 1869-09-09 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -827,6 +851,7 @@ en you
 ## [From _The Conservative._](https://chroniclingamerica.loc.gov/lccn/sn87075001/1869-09-10/ed-1/seq-2)
 
 #### 1869-09-10 &middot; M'connelsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -891,6 +916,7 @@ Tor I hey will be sure to blacken you.-- Ur
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1869-09-10/ed-1/seq-1)
 
 #### 1869-09-10 &middot; Athens, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -930,6 +956,7 @@ Corn
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1869-09-17/ed-1/seq-4)
 
 #### 1869-09-17 &middot; Tiffin, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1013,6 +1040,7 @@ to blacken vou.
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1869-09-18/ed-1/seq-1)
 
 #### 1869-09-18 &middot; Bellevue, Bossier Parish, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 iard-markers or bar-tenders.  
@@ -1099,32 +1127,7 @@ blackeu you.— [C. H. Spurgeon
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1869-09-21/ed-1/seq-1)
 
 #### 1869-09-21 &middot; Hyde Park, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-osing not to return it un-&#x27;  
-til she received her money.  
-Odds and Ends.-  
-There is always time enough to boast,&#x27;  
-wait a little longer. &#x27;  
-V..t..l : im  
-&quot;,,7 &#x27; more une an noncst man  
-than a thorough rogue!  
-Keep clear of the man who does not  
-value his own character. :  
-In any business ffevfer wade int&#x27;6&#x27; water  
-Ahere you cannot see the bottom.  
-Beware of no man more than of your  
-self ; we cai ry our worst enemies with us
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn84023428%2F00202197437%2F1869092101%2F0594.jp2/pct:77.108198,38.414634,12.463314,10.684590/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1869-09-21/ed-1/seq-1)
-
-#### 1869-09-21 &middot; Hyde Park, Vt.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1146,6 +1149,7 @@ or they will be sure to blacken you.
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1869-09-24/ed-1/seq-1)
 
 #### 1869-09-24 &middot; Deer Lodge, Mont.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1190,6 +1194,7 @@ be cheated.
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1869-09-24/ed-1/seq-1)
 
 #### 1869-09-24 &middot; Bellows Falls, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ut ces­  
@@ -1269,6 +1274,7 @@ ter, for they will be sure to blacken you
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-2)
 
 #### 1869-09-30 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1289,6 +1295,7 @@ Do not choose your friends by thei
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-6)
 
 #### 1869-09-30 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1309,8 +1316,10 @@ sure that it means no more than it says.
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-7)
 
 #### 1869-09-30 &middot; Kenosha, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 Nobody is more like an honest min than  
 a thorough rogue.   
@@ -1349,25 +1358,25 @@ New Advertisements
 #### From _Vermont chronicle._
 
 #### 1869-10-09 &middot; Bellows Falls, Vt.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1869-10-12/ed-1/seq-4)
 
 #### 1869-10-12 &middot; Manchester, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- con­  
-stituted according to sentient or  
-quitlitive principal?, co-ordinato  
-with nialheinatical oiies, all alike in­  
-comprcbeusiblc to the irrational na­  
-tures themselves.&quot; This is what wo  
-always said.  
-Nobody is more like an holiest  
-man than a thorough rogue
+  
+mies w ith us.  
+Don&#x27;t believe in the man who talks  
+most ; for mew ing cats aro very sel­  
+dom good mouscrs.  
+Not long since s premium was of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1869101201%2F0346.jp2/pct:18.491675,39.033752,12.713026,5.651886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1869101201%2F0346.jp2/pct:18.491675,52.561218,12.634672,4.090007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1376,6 +1385,7 @@ man than a thorough rogue
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1869-10-12/ed-1/seq-1)
 
 #### 1869-10-12 &middot; Hyde Park, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1395,6 +1405,7 @@ employment
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-2)
 
 #### 1869-10-12 &middot; Irasburgh, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1416,6 +1427,7 @@ gilt on l
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-2)
 
 #### 1869-10-12 &middot; Irasburgh, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1435,6 +1447,7 @@ DIM).
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-3)
 
 #### 1869-10-12 &middot; Irasburgh, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1457,6 +1470,7 @@ they will be sure to blacken you
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1869-10-14/ed-1/seq-1)
 
 #### 1869-10-14 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1524,6 +1538,7 @@ ir they will be sure to blacken you
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
 
 #### 1869-10-14 &middot; Rutland, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1556,6 +1571,7 @@ water where you cannot see the bottom
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
 
 #### 1869-10-14 &middot; Rutland, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1575,6 +1591,7 @@ kin
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
 
 #### 1869-10-14 &middot; Rutland, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1597,6 +1614,7 @@ between two grinders, they are opt to bite
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1869-10-20/ed-1/seq-3)
 
 #### 1869-10-20 &middot; Urbana, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1662,6 +1680,7 @@ ter for they will be sure to blacken yon
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1869-11-02/ed-1/seq-1)
 
 #### 1869-11-02 &middot; Charles Town, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -1725,6 +1744,7 @@ be sure to blacken you.&quot; .
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-11-05/ed-1/seq-1)
 
 #### 1869-11-05 &middot; Bedford, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ng. The best alarm clock is sunlight.  
@@ -1758,11 +1778,9 @@ two grinders, they are apt to bite.
 Drink nothing without seeing it; sign  
 nothiug without reading it, and make sure  
 that it means no more than it says.  
-Sever shout hallo ! till you are quite out  
-of the wood ; and Dever cry fried fish till  
-they are caught in the net
+Sever shout hallo ! till you are quite ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869110501%2F0627.jp2/pct:84.359486,70.851948,11.152055,17.995141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869110501%2F0627.jp2/pct:84.359486,70.851948,11.152055,16.925308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1771,9 +1789,12 @@ they are caught in the net
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-11-05/ed-1/seq-1)
 
 #### 1869-11-05 &middot; Bedford, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+of the wood ; and Dever cry fried fish till  
+they are caught in the net.  
 Don&#x27;t go to law unless you have nothing  
 to lose; lawyer&#x27;s houses are built on fools  
 heads.  
@@ -1785,7 +1806,7 @@ religion displayed in his shop window, you
 may depend upon it he keeps a very small  
 | stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869110501%2F0627.jp2/pct:84.410666,88.941140,11.218588,5.462811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869110501%2F0627.jp2/pct:84.410666,87.847794,11.218588,6.556156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1794,6 +1815,7 @@ may depend upon it he keeps a very small
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1869-11-05/ed-1/seq-4)
 
 #### 1869-11-05 &middot; Pulaski, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 -c  
@@ -1852,9 +1874,9 @@ p)oiet pay is better than none ; ai d
 the humblest office :s better than b  
 ing out of employment.  
 Sett Is for It.  
-The man who, on last Wednesda
+T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470193%2F1869110501%2F0109.jp2/pct:29.543687,34.177763,10.513352,35.855797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470193%2F1869110501%2F0109.jp2/pct:29.543687,34.177763,10.513352,35.704233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1865,12 +1887,15 @@ The man who, on last Wednesda
 #### From _The Owyhee avalanche._
 
 #### 1869-11-06 &middot; Ruby City, I.T. [Idaho]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1869-11-11/ed-1/seq-4)
 
 #### 1869-11-11 &middot; Ravenna, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 his baser part  
@@ -1953,18 +1978,10 @@ blacken you.
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1869-11-27/ed-1/seq-1)
 
 #### 1869-11-27 &middot; Shepherdstown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Nobody is more like ;.ti honest man  
-than i t!i&lt;?r ugh rnjj; r.  
-When you ffi a oi*n with a grc^t deal  
-of religion i&#x27;i&lt;played in his shop window,  
-you may de; end upon it lie kee; s a vc ly  
-small flock of it w nl.ir.  
-|) i not **hnose your friend hy his looks;  
-handsome shoes of&#x27;en pinch the lee I.  
-Do not he fond of compliroenis; ?e­  
 mcfnh&#x27; r, &quot;Thank yon, pus*y, and thonk  
 VOU. [ussy,&quot; killeij thecal.  
 Don&#x27;t believe the rr.-:n who ln!ks the  
@@ -1992,9 +2009,9 @@ K r rp ri- sr &quot;f 1 man who ? ! -j &lt; s not *a&#x27;.*
 i-e hi-1 ow :i e irarter.  
 15&quot; are (fa man who &#x27;wears ; he *h  
 would b!*-?; heme h:&lt;- Maker, would in-.k&#x27;&#x27;  
-no hones
+no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1869112701%2F0611.jp2/pct:56.442790,47.114310,13.276330,20.367449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1869112701%2F0611.jp2/pct:56.442790,52.037731,13.276330,15.444028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2005,6 +2022,7 @@ no hones
 #### From _The Brisbane Courier (Qld. : 1864 - 1933)_
 
 #### 1869-12-01 &middot; Brisbane, Queensland
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2068,6 +2086,7 @@ to blacken you.-SrintaBaif
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153?page=11)
 
 #### 1869-12-04 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2085,12 +2104,15 @@ to blacken you.-SrintaBaif
 #### From _Bangor daily Whig & courier._
 
 #### 1869-12-06 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1869-12-15/ed-1/seq-1)
 
 #### 1869-12-15 &middot; Smyrna, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2150,6 +2172,7 @@ geon
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1869-12-16/ed-1/seq-4)
 
 #### 1869-12-16 &middot; Woodstock, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2169,6 +2192,7 @@ Beware of no uiau more than yourself ,
 ## [From _The democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026840/1869-12-20/ed-1/seq-1)
 
 #### 1869-12-20 &middot; Weston, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2210,10 +2234,9 @@ value his own character.
 15eware of him who swears. Ho ?ho  
 wot,Id biaspfictno Ilia Maker would uako  
 no bones of lying or stealing.  
-llcwaro of no man more than yoursslf;  
-we carry onr worst enemies within u?
+llcwaro of no 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026840%2F00202192488%2F1869122001%2F0235.jp2/pct:79.273504,13.110450,15.933048,27.039209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026840%2F00202192488%2F1869122001%2F0235.jp2/pct:79.273504,13.110450,15.933048,26.457203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2222,6 +2245,7 @@ we carry onr worst enemies within u?
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157?page=16)
 
 #### 1870-01-01 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2237,6 +2261,7 @@ we carry our worst enemies with us.
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1870-01-06/ed-1/seq-1)
 
 #### 1870-01-06 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2257,12 +2282,15 @@ because of tho gilt on it
 #### From _Bangor daily Whig & courier._
 
 #### 1870-01-25 &middot; Bangor, Me.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1870-02-03/ed-1/seq-1)
 
 #### 1870-02-03 &middot; Point Pleasant, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2283,12 +2311,15 @@ very small Block of it within
 #### From _Morning republican._
 
 #### 1870-02-05 &middot; Little Rock, Ark.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162?page=12)
 
 #### 1870-02-05 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2308,12 +2339,15 @@ mousers.”
 #### From _Morning republican._
 
 #### 1870-02-12 &middot; Little Rock, Ark.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1870-02-27/ed-1/seq-4)
 
 #### 1870-02-27 &middot; New Orleans [La.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2354,6 +2388,7 @@ to be cheated. I
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1870-03-01/ed-1/seq-1)
 
 #### 1870-03-01 &middot; Richmond, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2425,6 +2460,7 @@ ter, for they will be sure to blacken you
 #### From _Bell’s Life in Sydney and Sporting Chronicle (NSW : 1860 - 1870)_
 
 #### 1870-03-12 &middot; Sydney, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2486,6 +2522,7 @@ suro to blacken you. I HOLLOWAY&#x27;
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1870-03-17_43_11?page=7)
 
 #### 1870-03-17 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2499,18 +2536,89 @@ Do not choose your friend by his looks.
 
 ---
 
-## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1870-05-13/ed-1/seq-1)
+## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1870-03-23/ed-1/seq-2)
 
-#### 1870-05-13 &middot; Upper Sandusky, Ohio
+#### 1870-03-23 &middot; Augusta, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-eternity.  
-Ho riot choose your friend by h is  
-looks : handsome shoes often pinch  
-the feet
+One of the sages says : “Don’t go to law,  
+i you have nothing to lose; lawyers’ houses  
+are built on fools’ heads.”  
+Alexander II. Stephens has *o far recover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028824%2F1870051301%2F0506.jp2/pct:85.470085,69.351409,11.161388,2.232855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014248%2F00332895163%2F1870032301%2F0276.jp2/pct:71.314962,60.587727,13.043277,2.380438/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Plymouth Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84038005/1870-03-24/ed-1/seq-4)
+
+#### 1870-03-24 &middot; Plymouth, Ind.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+One of the sages says: &quot;Don&#x27;t go to  
+law unless you have nothing to lose: law­  
+yers&#x27; houses are built on fools&#x27; heads.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn84038005%2F0020029581A%2F1870032401%2F0124.jp2/pct:26.169923,12.717324,11.029078,1.288501/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1870-03-25/ed-1/seq-4)
+
+#### 1870-03-25 &middot; Dodgeville, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+One of the sages says: “Don’t go to  
+law unless you have nothing to lose: law­  
+yers’ houses are built on fools’ heads.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F0041421552A%2F1870032501%2F0682.jp2/pct:42.949699,32.582214,12.146720,1.412726/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1870-04-03/ed-1/seq-1)
+
+#### 1870-04-03 &middot; Nashville, Tenn.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+One of the sages say : &quot;Don&#x27;t go to  
+law unless you have nothing to lose; law­  
+yers&#x27; houses arc built on.fools&#x27; heads.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293411%2F1870040301%2F0322.jp2/pct:57.072321,60.854491,9.584665,1.241472/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1870-04-28/ed-1/seq-1)
+
+#### 1870-04-28 &middot; Gallipolis, Ohio
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ally supply the family linen.  
+t-W One of the sages says: &quot;Don&#x27;t :  
+to law unless you have nothing to  
+lose; lawyer&#x27;s houses are built on fools&#x27; ,  
+heads.&quot; . : 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775356%2F1870042801%2F0064.jp2/pct:83.502146,77.238417,11.639485,3.097345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2519,6 +2627,7 @@ the feet
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-05-13/ed-1/seq-4)
 
 #### 1870-05-13 &middot; Columbia, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 hiale water&quot; ship­  
@@ -2543,6 +2652,7 @@ It, r &#x27; -
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-05-13/ed-1/seq-4)
 
 #### 1870-05-13 &middot; Columbia, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2586,6 +2696,7 @@ tom. - -
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1870-05-14/ed-1/seq-1)
 
 #### 1870-05-14 &middot; Columbia, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2636,6 +2747,7 @@ for they will be sure to blacken you
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1870-06-02/ed-1/seq-4)
 
 #### 1870-06-02 &middot; Yorkville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2684,9 +2796,28 @@ sure to blacken you.?Rev. G. H. Spurgeon
 
 ---
 
+## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1870-06-22/ed-1/seq-1)
+
+#### 1870-06-22 &middot; Clearfield, Pa.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+of time be aunexed to the United States.  
+One of the sages says : Don&#x27;t go to law  
+unless you have nothing to lose : Lawyers&#x27;  
+houses are built on fools&#x27; heads.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477825%2F1870062201%2F0399.jp2/pct:30.281083,93.621749,12.847043,2.783950/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1870-10-13/ed-1/seq-1)
 
 #### 1870-10-13 &middot; Millersburg, Holmes Co., O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2762,9 +2893,16 @@ You&#x27;ll have peace to your end
 ## [From _The Sumter watchman._](https://chroniclingamerica.loc.gov/lccn/sn84026917/1870-11-09/ed-1/seq-1)
 
 #### 1870-11-09 &middot; Sumterville, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+n to a true and noble Christian  
+manhood.  
+Roys are sometimes ashamed to act  
+out their best feelings, Oh, if they  
+only knew what a loss it is for them not  
+to.-Mother&#x27;s Mayaaine.  
+SPURGEONS ADVICE GRATIS,  
 Do not choose your friend by his  
 looks, handsome shoes often pinch the  
 feet.  
@@ -2819,7 +2957,7 @@ madmen ; anti never fight with n coal
 heaver, nor contend with a base charac?  
 ter, for thoy will bo sure to blackcu you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_danastjames_ver01%2Fdata%2Fsn84026917%2F0029455130A%2F1870110901%2F0186.jp2/pct:48.742138,64.128981,12.491265,29.002639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_danastjames_ver01%2Fdata%2Fsn84026917%2F0029455130A%2F1870110901%2F0186.jp2/pct:48.742138,59.671764,12.491265,33.459856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2828,18 +2966,10 @@ ter, for thoy will bo sure to blackcu you
 ## [From _The Plymouth Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84038005/1870-11-10/ed-1/seq-1)
 
 #### 1870-11-10 &middot; Plymouth, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-N&#x27;oi&#x27;.ohy is more like an hOsstMl man  
-than a t In UtNtgh rogue.  
-When you see a man with a etest desl of  
-religion displayed in his -hop window,  
-you ma depend upon it he keeps a eery  
-small stock of it within.  
-Ho not choose your friend tv hi&quot; look  
-handsome slue: often pinch the feet  
-Ho not be fond of compliments ; re mem  
+nd of compliments ; re mem  
 !er &quot;thank VOU, pUMJ, aswj thank JTOU,  
 itiv-y.&#x27;&#x27; kill Ine cat  
 IVw&#x27;t believe the man who talk the  
@@ -2858,7 +2988,7 @@ fio!s&quot; heads.
 I &#x27;ut no dependence on tin label of a bag .  
 and count money after your ow n kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn84038005%2F0020029581A%2F1870111001%2F0269.jp2/pct:73.141004,80.997748,10.969473,11.250650/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn84038005%2F0020029581A%2F1870111001%2F0269.jp2/pct:73.185732,84.470812,10.924746,7.777585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2867,6 +2997,7 @@ and count money after your ow n kin
 ## [From _Iowa voter._](https://chroniclingamerica.loc.gov/lccn/sn84027183/1870-11-17/ed-1/seq-6)
 
 #### 1870-11-17 &middot; Knoxville, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -2925,6 +3056,7 @@ Orchard and Nursery.
 ## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1870-12-02/ed-1/seq-2)
 
 #### 1870-12-02 &middot; Rock Island, Ill.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 w England States..  
@@ -2984,6 +3116,7 @@ his own character
 ## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn84022149/1870-12-08/ed-1/seq-3)
 
 #### 1870-12-08 &middot; Cheyenne, Wyo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3025,24 +3158,17 @@ built on fool’s heads.
 #### From _Lowell daily citizen and news._
 
 #### 1870-12-17 &middot; Lowell, Mass.
+
 [This text is not available under an open license.]
----
 
-## Good Advice
-
-#### From _Lowell daily citizen and news._
-
-#### 1870-12-17 &middot; Lowell, Mass.
-[This text is not available under an open license.]
 ---
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1870-12-21/ed-1/seq-4)
 
 #### 1870-12-21 &middot; Urbana, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Spurgeon&#x27;s Advice Gratin.  
   
 Nobody i more like an honest uiau  
 than a thorough rogue.  
@@ -3080,7 +3206,7 @@ Keep clear of a man who does, not
 value his own character.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775927%2F1870122101%2F0072.jp2/pct:8.368201,41.326708,10.708198,13.648446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775927%2F1870122101%2F0072.jp2/pct:8.368201,42.124119,10.708198,12.851034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3089,6 +3215,7 @@ value his own character.
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1870-12-21/ed-1/seq-1)
 
 #### 1870-12-21 &middot; M'arthur, Vinton County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3146,23 +3273,62 @@ The Tariff on Plows.
 
 ---
 
-## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-12-24/ed-1/seq-1)
+## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1870-12-21/ed-1/seq-4)
 
-#### 1870-12-24 &middot; Opelousas, La.
+#### 1870-12-21 &middot; Prescott, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-fe dis­  
-cove«etfmnd destroyed, and under  
-the direeüoa of Lauzer the Prussi­  
-ans likewise- found in the Seine, iu  
-four different directions, the myste­  
-rious telegraphic communication  
-with the capital.  
-Nobody is more like an honest  
-man than a thorough rogue.—[Spur­  
-geon.
+  
+  
+Spurgeon’* Advice Gratis.  
+Don’t believe the man who talks mot;  
+fur mewing cats are very seldom good  
+mouse rs.  
+By no means put yonrself iu another  
+person’s power; if you put your thumb  
+between two grinders they are very apt  
+to bite.  
+Drink nothing withous seeing it—sign  
+nothing without reading it, and be sure  
+it means no more than it says.  
+Don&#x27;t go to law unless you have noth  
+in* to lose; lawyers houses are built with  
+fools money,  
+In any business do not wads into water  
+where you cannot see the bottom.  
+Pul no dependence upon the label of  
+a bag, ami count the money after your  
+own kin.  
+See the sack open before you buy  
+what is in it; for he who trades in the  
+daik asks to be cheated.  
+Keep clear of the man who does not  
+value his own character.  
+Beware of any man that swears; he  
+who blasphemes his Maker might lie or  
+swear false.  
+Beware of no man more than your  
+self; we carry our worst enemies with  
+us.  
+When a doctrine comes before you, do  
+m&gt;t bite till you know whether it is bread  
+or a stone.  
+Never shout hallo, till you are out of  
+the woods; never cry fried fish till you  
+catch them.  
+Tnere is always time to boast, wait a  
+little longer.  
+Don’t throw away dirtv water till you  
+have got clean, the pooiest pay is better  
+than none, and the humb’est office is  
+better than being out of employment.  
+Alwaxs give up the road lo bulls and  
+mailmen; and never fight with a coal  
+lienver, nor contend with a base charac­  
+ter for they will be sure to blacken you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870122401%2F0214.jp2/pct:29.921773,88.535847,12.222947,5.668063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033221%2F00514152378%2F1870122101%2F0570.jp2/pct:58.713059,5.848531,12.403552,26.107815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3171,6 +3337,7 @@ geon.
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-01-05/ed-1/seq-2)
 
 #### 1871-01-05 &middot; Eaton, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 spy of  
@@ -3235,9 +3402,20 @@ not value his own character.
 
 ---
 
+## Spurgeon's Advice, Gratis
+
+#### From _Morning republican._
+
+#### 1871-01-06 &middot; Little Rock, Ark.
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _Centre Hall reporter._](https://chroniclingamerica.loc.gov/lccn/sn85054524/1871-01-06/ed-1/seq-1)
 
 #### 1871-01-06 &middot; Centre Hall, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ndless not be Itefriended.  
@@ -3276,13 +3454,9 @@ nothing without reading it and make
 sure that it means no more than it says.  
 Don&#x27;t go to law unless you have noth­  
 ing to lose ; lawyer&#x27;s houses are built on  
-fool&#x27;s hemla.  
-  
-Put no dependance on the btbie of a  
-bag, and oonnt money after your own  
-kind.
+fool&#x27;s hemla.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn85054524%2F00296028721%2F1871010601%2F0003.jp2/pct:22.507566,52.909275,10.134025,15.635924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn85054524%2F00296028721%2F1871010601%2F0003.jp2/pct:22.507566,52.909275,10.134025,14.368323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3291,6 +3465,7 @@ kind.
 ## [From _Centre Hall reporter._](https://chroniclingamerica.loc.gov/lccn/sn85054524/1871-01-06/ed-1/seq-1)
 
 #### 1871-01-06 &middot; Centre Hall, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3309,20 +3484,60 @@ value his own character.
 
 ---
 
-## Spurgeon's Advice, Gratis
-
-#### From _Morning republican._
-
-#### 1871-01-06 &middot; Little Rock, Ark.
-[This text is not available under an open license.]
----
-
 ## Essays in Brief
 
 #### From _Daily evening bulletin._
 
 #### 1871-01-07 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
+---
+
+## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-01-07_15_732?page=10)
+
+#### 1871-01-07 &middot; New York
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+** Nobody is more like an honest man than a thor-  
+ough rogue.”  
+  
+** don’t believe the man who talks the most, for  
+mewing cate are very seldom good mousers.”  
+  
+“ By no means put yourself in another person&#x27;s pow-  
+er. If you put your thumb between two grinders they  
+are very apt to bite.”  
+  
+“Don&#x27;t go to law unless you have nothing to lose;  
+lawyers’ houses are built on fools’ heads.”  
+  
+* Put no dependence on the label of a bag, and count  
+money after your own kind.”
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-01-07_15_732&#0036;10/pct:70.841734,33.176312,19.632056,6.258412/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-01-07_15_732?page=10)
+
+#### 1871-01-07 &middot; New York
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+“In any business never wade into water where you  
+can not see the bottom.”
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-01-07_15_732&#0036;10/pct:70.892137,39.518843,19.506048,1.026245/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## Wise and Witty
@@ -3330,7 +3545,19 @@ value his own character.
 #### From _Daily evening bulletin._
 
 #### 1871-01-14 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
+---
+
+## Wise and Witty
+
+#### From _Daily evening bulletin._
+
+#### 1871-01-14 &middot; San Francisco [Calif.]
+
+[This text is not available under an open license.]
+
 ---
 
 ## Facetious
@@ -3338,7 +3565,9 @@ value his own character.
 #### From _Vermont chronicle._
 
 #### 1871-01-14 &middot; Bellows Falls, Vt.
+
 [This text is not available under an open license.]
+
 ---
 
 ## Good Advice
@@ -3346,12 +3575,15 @@ value his own character.
 #### From _Daily Central City register._
 
 #### 1871-01-15 &middot; Central City, Colo.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn84022149/1871-01-18/ed-1/seq-3)
 
 #### 1871-01-18 &middot; Cheyenne, Wyo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3402,6 +3634,7 @@ value ids own character
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1871-01-19/ed-1/seq-4)
 
 #### 1871-01-19 &middot; Idaho City, Idaho Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 er, hut he never  
@@ -3461,6 +3694,7 @@ value his own character.
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
 
 #### 1871-01-19 &middot; Jonesborough, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3469,20 +3703,7 @@ a thorough rogue. , . . , &#x27; ,
 When you see man with a great deal  
 of religion displayed In his shop Window  
 you may depend upon it be keeps a &quot;very  
-small stock of It within.. . : -&#x27;. .... , , : ; 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.698852,15.374732,11.060095,2.987152/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
-
-#### 1871-01-19 &middot; Jonesborough, Tenn.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+small stock of It within.. . : -&#x27;. .... , , : ; v  
 Do not choose your friend by his looks I  
 handsome shoes often pinch the fttt.  
 Donot befondof corapltmehti; rcmeto  
@@ -3502,20 +3723,7 @@ that it means no more &quot;than It says&#x27;. &#x27; &#x27; &#x27;
 to Jose; lawyer1 houses are built on fool&#x27;s  
 beads. , ) , , . ,, ...,f, , y.  
 . Put no dependence on the label of a bajf  
-and count money after your own kind.&#x27; 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.577313,18.361884,11.154625,9.967880/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
-
-#### 1871-01-19 &middot; Jonesborough, Tenn.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+and count money after your own kind.&#x27; ,  
 In any business never wade into water  
 where you cannot sea the bottom. . ;  
 Bee&#x27; the sack open before you buy what  
@@ -3524,7 +3732,7 @@ tobe cheated.. f 4, f j,:,- , ; ,,
 Keep clear of a man who does not value  
 his own character. ., , , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.577313,28.308351,11.127616,3.672377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.577313,15.374732,11.181634,16.605996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3533,6 +3741,7 @@ his own character. ., , ,
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1871-01-20/ed-1/seq-1)
 
 #### 1871-01-20 &middot; Bridgeton, N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 that  
@@ -3584,12 +3793,29 @@ value his own character
 
 ---
 
+## SPURGEON sententiously expresses a number of thoughts "worth remembering" which he publishes as "advice gratis"
+
+#### From _Boston investigator._
+
+#### 1871-01-25 &middot; Boston, Mass.
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1871-01-25/ed-1/seq-1)
 
 #### 1871-01-25 &middot; Memphis, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+o charities.  
+dividing t :SU00 among twelve of the most.  
+deserving institutions in iioslon, and re-  
+3uestiog that the balance be given to the  
+ramatic fund, if any such exist in that  
+city- las  
+&quot;7 rr i &#x27;  
 In any business never wade into water  
 where you cannot see the bottom. Put  
 no dependence upon the label of a bag.  
@@ -3598,23 +3824,16 @@ it. See the sack opened before yon buy
 what is in it, for he who trades in the  
 dark askt to be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871012501%2F0076.jp2/pct:42.177976,92.158516,12.291751,3.175942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871012501%2F0076.jp2/pct:42.157659,88.870152,12.454287,6.464306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## SPURGEON sententiously expresses a number of thoughts "worth remembering" which he publishes as "advice gratis"
-
-#### From _Boston investigator._
-
-#### 1871-01-25 &middot; Boston, Mass.
-[This text is not available under an open license.]
----
-
 ## [From _Iowa voter._](https://chroniclingamerica.loc.gov/lccn/sn84027183/1871-01-26/ed-1/seq-3)
 
 #### 1871-01-26 &middot; Knoxville, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3667,6 +3886,7 @@ Bee the sack open before you buy w
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1871-01-28_2583?page=5)
 
 #### 1871-01-28 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3687,6 +3907,7 @@ Cc’ eated,
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1871-02-08/ed-1/seq-1)
 
 #### 1871-02-08 &middot; Watertown, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3709,6 +3930,7 @@ cheated
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1871-02-09/ed-1/seq-1)
 
 #### 1871-02-09 &middot; Manitowoc, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3733,6 +3955,7 @@ cheated
 #### From _Kilmore Free Press (Kilmore, Vic. : 1870 - 1954)_
 
 #### 1871-02-09 &middot; Kilmore, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3751,6 +3974,7 @@ out of e-aploy., ment: A New .York pape
 #### From _Kilmore Free Press (Kilmore, Vic. : 1870 - 1954)_
 
 #### 1871-02-09 &middot; Kilmore, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3768,26 +3992,10 @@ stock of it within. Always give up th
 
 ---
 
-## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1871-02-10/ed-1/seq-1)
-
-#### 1871-02-10 &middot; Dodgeville, Wis.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Generalities.  
-Ix any business &quot;never wade into the  
-water where you cannot see the bottom
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215531%2F1871021001%2F0021.jp2/pct:80.826866,14.406299,11.863348,1.624796/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1871-02-15/ed-1/seq-4)
 
 #### 1871-02-15 &middot; Warren, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3806,9 +4014,12 @@ nothing to lose; lawyer&#x27;s houses are
 Hunt on 1001 s beads.&quot;  
 &#x27;rut no dependence on labels of  
 bag, and, count money after your  
-own aiiiu
+own aiiiu.  
+&quot;In any business never wade into  
+the water where you cannot see the  
+bottom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286947%2F1871021501%2F0137.jp2/pct:56.005375,18.241309,9.541408,6.025903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286947%2F1871021501%2F0137.jp2/pct:56.005375,18.241309,9.541408,7.266530/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3817,15 +4028,15 @@ own aiiiu
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1871-02-17/ed-1/seq-6)
 
 #### 1871-02-17 &middot; Paw Paw, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Sfurgeon says Nobody is more like  
-an honest man than a thorough rogue.  
-Draw upon content for tho deficien­  
-cies of fortune
+Generalities.  
+In any business never wade into tho  
+water where you cannot see the bottom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1871021701%2F0267.jp2/pct:80.876901,12.781262,13.562572,2.305422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1871021701%2F0267.jp2/pct:80.889684,10.770933,13.524223,1.835116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3834,6 +4045,7 @@ cies of fortune
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1871-02-18/ed-1/seq-2)
 
 #### 1871-02-18 &middot; Superior, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3856,6 +4068,7 @@ j cheated
 ## [From _The weekly echo._](https://chroniclingamerica.loc.gov/lccn/sn85034325/1871-02-23/ed-1/seq-4)
 
 #### 1871-02-23 &middot; Lake Charles, Parish of Calcasieu, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ted a Demo­  
@@ -3886,15 +4099,28 @@ the&#x27;feet
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1871-02-23/ed-1/seq-4)
 
 #### 1871-02-23 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Spurgeon says, nobody is more like  
-an honest man than a thorough rogue. 
+men, it only shows&#x27;em just as they  
+am. I  
+In any business never wade into &#x27;  
+water where you cannot see the bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1871022301%2F0464.jp2/pct:16.193601,81.824070,11.468417,0.932763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775411%2F1871022301%2F0464.jp2/pct:16.193601,83.391631,11.452010,2.008032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## The Home Circle
+
+#### From _Vermont chronicle._
+
+#### 1871-02-25 &middot; Bellows Falls, Vt.
+
+[This text is not available under an open license.]
 
 ---
 
@@ -3903,12 +4129,15 @@ an honest man than a thorough rogue.
 #### From _The Cleveland morning herald._
 
 #### 1871-03-04 &middot; Cleveland, Ohio
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Daily telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88064499/1871-03-08/ed-1/seq-2)
 
 #### 1871-03-08 &middot; Monroe, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ount of the destruction of the buildings.  
@@ -3933,6 +4162,7 @@ keeps a very small stock of it within
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1871-03-09/ed-1/seq-1)
 
 #### 1871-03-09 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -3974,7 +4204,7 @@ bottom.
 See the sack open before tou buy  
 what is in it; for ho who trades in  
 the dark a?ks to be cheated.  
-Keen clear of a man t
+Keen clear of a man 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665799%2F1871030901%2F0861.jp2/pct:72.598628,73.034970,11.063465,21.478986/!600,600/0/default.jpg"/>
 </td>
@@ -3985,29 +4215,7 @@ Keen clear of a man t
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
 
 #### 1871-03-15 &middot; Clearfield, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-body is more liko an honest man lhan  
-a thorough rnguo.  
-When you seo a man with a great  
-deal of religion displayed in bis win  
-  
-dow, you lny depend upon it be keeps  
-a very small stock within.  
--. . I I... i.:.  
-  
-Ho not c .ooso your menu .., f impropriety in the use of suc
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1871031501%2F1065.jp2/pct:60.997778,74.095430,23.066047,3.589448/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
-
-#### 1871-03-15 &middot; Clearfield, Pa.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4027,14 +4235,10 @@ dom good monsors. , . . ,i.iil .i.;, -,,v ,nJ ... v,. &#x27; .
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
 
 #### 1871-03-15 &middot; Clearfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s are I  
-built on fools&#x27; beads.  
-Put no dependence on the label of a  
-hag; and count money alter your own  
-kind.  
-In any business don&#x27;t wado into wa­  
+  
 ter w here yon connot see the bottom.  
 Sec Ihe suck open before you buy  
 what is in il ; for he w ho trades in the  
@@ -4042,7 +4246,7 @@ dark asks to be cheated.
 Keep clear of a man that doe not  
 valuo his own rlinrnctcr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1871031501%2F1065.jp2/pct:61.320945,85.829609,11.432034,5.867090/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1871031501%2F1065.jp2/pct:61.341143,88.799193,11.310846,2.897506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4051,13 +4255,10 @@ valuo his own rlinrnctcr
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1871-03-16/ed-1/seq-1)
 
 #### 1871-03-16 &middot; Tarboro', N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-1 would make no bones of lying  
-j 8tealiiig.  
-...... p. il  
-j j)curu 01 no uj.iu iucmu l&quot;&quot;&#x27; .  
 sue 1 yourself ; we carry our worst enemies  
 with us.  
 .... . ...  
@@ -4086,7 +4287,7 @@ madmen ; aiid never tight with a
 pea - i heaver, nor contend with a !.;.-,  
 a iacttr. for thev will be aiie i-j jb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023140%2F1871031601%2F0045.jp2/pct:73.519164,79.466073,23.911150,13.103448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023140%2F1871031601%2F0045.jp2/pct:73.519164,81.201335,23.911150,11.368187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4095,13 +4296,19 @@ a iacttr. for thev will be aiie i-j jb
 ## [From _The Stark County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028490/1871-03-16/ed-1/seq-4)
 
 #### 1871-03-16 &middot; Canton, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+aver-  
+age man weighs twenty pounds. ;  
+The dog hunts best when he is&#x27; hungry ;  
+the raaavwhep hq expects .to be; &quot;&#x27; &#x27;. . , :L  
+Have the conrage&quot;. to wear your, old  
+clothes until yon can pay for new onea.  
 Do not choose your friend by his looks ;  
 handsome shoes often pinch the feet.-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_jaques_ver01%2Fdata%2Fsn84028490%2F00280775010%2F1871031601%2F0046.jp2/pct:3.539698,52.849430,9.646030,0.863827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_jaques_ver01%2Fdata%2Fsn84028490%2F00280775010%2F1871031601%2F0046.jp2/pct:3.455084,49.850030,9.730644,3.863227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4110,6 +4317,7 @@ handsome shoes often pinch the feet.-
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1871-03-23/ed-1/seq-1)
 
 #### 1871-03-23 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4126,6 +4334,7 @@ dark asks to be cheated
 ## [From _The Daily state journal._](https://chroniclingamerica.loc.gov/lccn/sn84024670/1871-03-25/ed-1/seq-3)
 
 #### 1871-03-25 &middot; Alexandria, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4174,6 +4383,7 @@ his own character
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1871-03-30/ed-1/seq-4)
 
 #### 1871-03-30 &middot; Woodstock, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 t is said, makes !  
@@ -4198,6 +4408,7 @@ sure that it means no more than it says
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1871-03-31/ed-1/seq-4)
 
 #### 1871-03-31 &middot; Jasper, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4234,6 +4445,7 @@ ue his own character. The Aje
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-04-16/ed-1/seq-3)
 
 #### 1871-04-16 &middot; Knoxville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 &#x27;  
@@ -4276,6 +4488,7 @@ his own character. - &#x27; ;
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1871-04-20/ed-1/seq-4)
 
 #### 1871-04-20 &middot; Upper Sandusky, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4291,31 +4504,10 @@ The Directors of the Washington Lif
 
 ---
 
-## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84023296/1871-04-20/ed-1/seq-4)
-
-#### 1871-04-20 &middot; Woodstock, Vt.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-a vcry expcnsive woman.&#x27;&#x27;  
-(Jood l.&#x27;iiUNSKi. In any bu.iine&amp;s,  
-ncver wade into water where you can­  
-not sce tbc bottom. i&#x27;ut no dependencc  
-upon the labcl of a bag ; and count  
-lnoncy beforc you receipt for it. Sec  
-thc sack opcned bcfore you buy what is  
-in it ; for he who tradcs in the dark  
-asks to bc chcated
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_killington_ver02%2Fdata%2Fsn84023296%2F00200296102%2F1871042001%2F0616.jp2/pct:17.079208,74.220374,12.680883,5.405405/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1871-04-22/ed-1/seq-1)
 
 #### 1871-04-22 &middot; Middletown, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4348,6 +4540,7 @@ th
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-04-22/ed-1/seq-1)
 
 #### 1871-04-22 &middot; Charlestown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4382,39 +4575,13 @@ and count money after your own kind
 
 ---
 
-## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-04-22/ed-1/seq-1)
-
-#### 1871-04-22 &middot; Charlestown, Va. [W. Va.]
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ftec the anck open before you buy what is in  
-it i for be who trades in tho dark asks to be  
-cheated.  
-Keep dear of a man that does not value his  
-own chameter.— The Age.  
-Rolling Grain in tho Spring.  
-If farmers would look at the theory of roll
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186993%2F1871042201%2F0064.jp2/pct:82.506258,28.419913,12.477298,4.830447/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026840/1871-04-24/ed-1/seq-1)
 
 #### 1871-04-24 &middot; Weston, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-il of mystery.?Kansas  
-City Bulletin.  
   
-Good Advice.  
-Spuboeon sententiously expresses a  
-number of thoughts worth remembering,  
-in the following appropriate sentences,  
-which hu publishes as &quot;advice gratis  
 When you see a man with a groat deal  
 of religion displayed in his shop window,  
 you may depend upon it he keeps a very  
@@ -4434,9 +4601,31 @@ ing to lose ; lawyers&#x27; houses are built on
 fools&#x27; heads.  
 Put no dependence on the label of a  
 bag, and count the money after your  
-own kin
+own kin.  
+In any business never wade in the wa­  
+ter where you cannot see the bottom.  
+Keep clear of a man who does not val­  
+ue his own character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026840%2F00202192488%2F1871042401%2F0503.jp2/pct:62.435665,55.453845,15.607024,15.889381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026840%2F00202192488%2F1871042401%2F0503.jp2/pct:62.481078,60.088649,15.561611,13.490075/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1871-04-28/ed-1/seq-5)
+
+#### 1871-04-28 &middot; Paw Paw, Mich.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+O. B&#x27;. Holmes.  
+In an v business, never wade into water  
+where you cannot see the bottom.  
+Kpurgeon
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1871042801%2F0366.jp2/pct:64.774646,18.946592,13.703078,2.324509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4445,6 +4634,7 @@ own kin
 ## [From _The herald._](https://chroniclingamerica.loc.gov/lccn/sn88053095/1871-04-29/ed-1/seq-1)
 
 #### 1871-04-29 &middot; Smyrna, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 rprise; but seeing tbe state  
@@ -4498,6 +4688,7 @@ ue his own character
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1871-05-05/ed-1/seq-1)
 
 #### 1871-05-05 &middot; Port Tobacco, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 of  
@@ -4552,6 +4743,7 @@ ue bis own character,—The Age. &#x27;
 #### From _The Perth Gazette and West Australian Times (WA : 1864 - 1874)_
 
 #### 1871-05-05 &middot; Perth, Western Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4567,6 +4759,7 @@ water where you cannot see the bottom
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1871-05-06/ed-2/seq-3)
 
 #### 1871-05-06 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4577,20 +4770,11 @@ religion displayed in his shop window, you
 may d epud upOn it he keeps a very small  
 stock ot .IthIn.  
 Do not your friend by his looks;  
-lbandsomuehoes often pinch the feet
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871050602%2F0445.jp2/pct:27.569797,72.582253,12.404822,3.576770/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1871-05-06/ed-2/seq-3)
-
-#### 1871-05-06 &middot; Opelousas, La.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+lbandsomuehoes often pinch the feet.  
+Drink_ nothing wi.Eont seeing it; sign  
+bin on dt It; and make sure  
+tatit mens no more tan it says.  
+Don&#x27;t go to law ualess you have nothing  
 to lose; lawyers&#x27; houses are built on tbols&#x27;  
 Put no dependence on the label of a&#x27;bag,  
 and count money after your own kind.  
@@ -4603,7 +4787,26 @@ Keep clear of a man who does not ~value
 his owneharacter.  
 Hold on to your tongue when you ae jus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871050602%2F0445.jp2/pct:27.553934,78.003490,12.452411,5.458624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871050602%2F0445.jp2/pct:27.553934,72.582253,12.452411,10.879860/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1871-05-21/ed-1/seq-7)
+
+#### 1871-05-21 &middot; New Orleans [La.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+botton, because it so often hangs by a  
+thread.  
+Don&#x27;t go to law unless you have nothing  
+to loose; lawyers&#x27; houses are built on fools&#x27;  
+heads
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280761692%2F1871052101%2F0952.jp2/pct:1.257862,22.423058,14.884696,2.865983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4612,6 +4815,7 @@ Hold on to your tongue when you ae jus
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1871-05-24/ed-1/seq-1)
 
 #### 1871-05-24 &middot; M'arthur, Vinton County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  Jlcnewer, a euro prevention.  
@@ -4655,20 +4859,7 @@ have nothing to lose; lawyers
 houses are built on tools&#x27; beads  
 Put no dependence on the  
 label of a ba&quot; and count mon  
-ey after youi own kind
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1871052401%2F0498.jp2/pct:33.738043,12.465914,22.461369,81.976367/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1871-05-24/ed-1/seq-1)
-
-#### 1871-05-24 &middot; M'arthur, Vinton County, Ohio
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+ey after youi own kind.  
 In any business never wade  
 into water where you can not  
 see the bottom.  
@@ -4681,7 +4872,7 @@ does not value his owncharacter.
   
 A CRADLE SONG.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1871052401%2F0498.jp2/pct:44.223694,39.254642,11.938926,7.895079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1871052401%2F0498.jp2/pct:33.738043,12.465914,22.461369,81.976367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4690,6 +4881,7 @@ A CRADLE SONG.
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1871-05-25/ed-1/seq-4)
 
 #### 1871-05-25 &middot; Tipton, Cedar Co., Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4708,6 +4900,7 @@ keeps a very small stock within.
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1871-06-08/ed-1/seq-6)
 
 #### 1871-06-08 &middot; Point Pleasant, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4726,6 +4919,7 @@ bile
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-06-20/ed-1/seq-3)
 
 #### 1871-06-20 &middot; New Bloomfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4755,12 +4949,15 @@ it gays. ... ,.
 #### From _Reynolds's  Newspaper_
 
 #### 1871-06-25 &middot; London, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1871-07-13/ed-1/seq-1)
 
 #### 1871-07-13 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4783,6 +4980,7 @@ they are very apt to bite
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1871-07-13/ed-1/seq-1)
 
 #### 1871-07-13 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4799,6 +4997,7 @@ the feet.
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-07-18/ed-1/seq-2)
 
 #### 1871-07-18 &middot; New Bloomfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4816,6 +5015,7 @@ small stock within.
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1871-07-21/ed-1/seq-4)
 
 #### 1871-07-21 &middot; Oregon, Missouri.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4846,13 +5046,9 @@ kind.
 lu nny business novor wado Into w nler  
 whero you cannot sea tho bottom.  
 Sco tho sack open be lor o you buy  
-what Is in it, for ho who trades in tho  
-dark asks to bo cheated.  
-Keep clear of n man wlo docs not val­  
-uo his own charnctor.  
-, Hold on to your tonguo when you ar
+wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871072101%2F0122.jp2/pct:33.069307,8.522420,12.187219,11.750405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871072101%2F0122.jp2/pct:33.069307,8.522420,12.187219,9.846029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4863,6 +5059,7 @@ uo his own charnctor.
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
 
 #### 1871-07-25 &middot; Maitland, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4879,6 +5076,7 @@ of Holland against the transfer to ou
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1871-09-14/ed-1/seq-4)
 
 #### 1871-09-14 &middot; Woodstock, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4898,6 +5096,7 @@ keeps a very small stock of it within
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-09-16/ed-1/seq-1)
 
 #### 1871-09-16 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4913,12 +5112,25 @@ keeps a very small stock of it within
 
 ---
 
-## Condensed Wisdom
+## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1871-09-22/ed-1/seq-1)
 
-#### From _Daily evening bulletin._
+#### 1871-09-22 &middot; Nashville, Tenn.
 
-#### 1871-09-23 &middot; San Francisco [Calif.]
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+more they are condensed the deeper ther  
+burn. Southey.  
+When you seo a man with a good deal  
+of religion displayed in his shop window,  
+you may depend upon it he keep3 a very  
+small slock of it within.  
+HVe often omit the good wa might do i
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293447%2F1871092201%2F0285.jp2/pct:72.831612,92.994538,10.837842,3.953930/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## Condensed Wisdom
@@ -4926,7 +5138,19 @@ keeps a very small stock of it within
 #### From _Daily evening bulletin._
 
 #### 1871-09-23 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
+---
+
+## Condensed Wisdom
+
+#### From _Daily evening bulletin._
+
+#### 1871-09-23 &middot; San Francisco [Calif.]
+
+[This text is not available under an open license.]
+
 ---
 
 ## [AN INTERESTING DISCOVERY](http://trove.nla.gov.au/ndp/del/article/123549199)
@@ -4934,6 +5158,23 @@ keeps a very small stock of it within
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
 
 #### 1871-09-23 &middot; Gundagai, New South Wales
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+half-ttfe. Do not choose your friend by  
+his looks, handsome shoes often pinch  
+tho feet. r Some tnilors would mak
+</td></tr></table>
+
+---
+
+## [AN INTERESTING DISCOVERY](http://trove.nla.gov.au/ndp/del/article/123549199)
+
+#### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
+
+#### 1871-09-23 &middot; Gundagai, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -4950,12 +5191,15 @@ cheated. — . -? . -?. It is easier t
 #### From _Trewman's Exeter Flying Post_
 
 #### 1871-09-27 &middot; Exeter, England
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1871-09-30/ed-1/seq-1)
 
 #### 1871-09-30 &middot; Mechanicstown, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 im.  
@@ -5012,6 +5256,7 @@ Keep clear of a man who does not
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1871-10-01/ed-1/seq-2)
 
 #### 1871-10-01 &middot; Memphis, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5030,6 +5275,7 @@ keeps a very small stock of it within
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1871-10-05/ed-1/seq-2)
 
 #### 1871-10-05 &middot; Winchester, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5045,9 +5291,31 @@ keeps a ven small stock of it within.
 
 ---
 
+## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1871-10-06/ed-1/seq-1)
+
+#### 1871-10-06 &middot; Bolivar, Hardeman County, Tenn.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+true time.  
+When von see a man with a good  
+deal of religion displayed in his shop  
+window, you may depend upon it  
+he krops a very small slock of it  
+within.  
+The poverty of the poor man is th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1871100601%2F0395.jp2/pct:71.199470,40.830756,10.497018,3.380468/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-07/ed-1/seq-1)
 
 #### 1871-10-07 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 any one  
@@ -5071,6 +5339,7 @@ they are very apt to bite,
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-07/ed-1/seq-5)
 
 #### 1871-10-07 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5090,29 +5359,10 @@ mouscrs.—[Spur^eon,
 
 ---
 
-## [From _Macon beacon._](https://chroniclingamerica.loc.gov/lccn/sn83016943/1871-10-07/ed-1/seq-1)
-
-#### 1871-10-07 &middot; Macon, Miss.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-true time.  
-When you sec a man with ft good  
-tie I of religion displayed iu his shop  
-window, you may depend upon it  
-he keeps a&quot; very small stock of it  
-wi&#x27;liin.  
-The poverty of the poor man is th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877820%2F1871100701%2F0474.jp2/pct:70.366578,41.502140,11.345484,3.493028/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-14/ed-1/seq-1)
 
 #### 1871-10-14 &middot; Opelousas, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5126,9 +5376,13 @@ nothing to lose ; lawyer&#x27;s houses are
 built on fools&#x27; heads.  
 Put no dependence on the label  
 of a bag, and count money after  
-your own kind
+your own kind.  
+In any business never wade into  
+water where you cannot see the  
+bottom,—[ Spurgeon,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1871101401%2F0390.jp2/pct:68.505859,86.825284,12.418620,6.474905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1871101401%2F0390.jp2/pct:68.505859,86.825284,12.760417,8.167614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5137,6 +5391,7 @@ your own kind
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1871-10-14/ed-1/seq-2)
 
 #### 1871-10-14 &middot; Albany, Or.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5157,13 +5412,54 @@ within
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-11-18/ed-1/seq-1)
 
 #### 1871-11-18 &middot; Knoxville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+nounced.&#x27; r &quot; &#x27; &#x27; ; &#x27; K  
+The tea plant has done very well this  
+year in South Carolina, Tennessee and Cal-  
+ifornia.V,, - ; r  
+Flofidci has a large crop .of oranges this  
+year! J !J &#x27;n.Y.V&#x27;!i.:- r-. r-V.&#x27;;  
 Do not choose your friend by his looks.  
 Handsome shoes often pinch the feet.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F0020029371A%2F1871111801%2F0457.jp2/pct:31.951512,94.456133,14.471715,0.999369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F0020029371A%2F1871111801%2F0457.jp2/pct:31.936546,91.226594,14.531577,4.228908/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1871-11-22/ed-1/seq-4)
+
+#### 1871-11-22 &middot; Knoxville, Tenn.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+-  
+Do not choose your friend by his looks  
+Handsome shoes often pinch tne feet.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293563%2F1871112201%2F0575.jp2/pct:76.856884,93.833569,16.485507,1.384301/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Tama County Republican._](https://chroniclingamerica.loc.gov/lccn/sn87058333/1871-11-23/ed-1/seq-1)
+
+#### 1871-11-23 &middot; Toledo, Tama County, Iowa
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Do not choose your friend by his  
+looks. Handsome shoes often pinch  
+vhe feet.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn87058333%2F00279528943%2F1871112301%2F0401.jp2/pct:72.348540,43.110244,10.634806,1.511499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5172,6 +5468,7 @@ Handsome shoes often pinch the feet.
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1871-11-26/ed-1/seq-3)
 
 #### 1871-11-26 &middot; Columbia, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5186,47 +5483,10 @@ keeps a very small stock of it within
 
 ---
 
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1871-11-30/ed-1/seq-4)
-
-#### 1871-11-30 &middot; Lansing, Minn.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-your friend by his  
-  
-looks. Handsome shoes often pinch  
-the feet  
-A
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_peugeot_ver01%2Fdata%2Fsn85025431%2F00212479706%2F1871113001%2F0508.jp2/pct:54.412701,12.506404,9.529337,1.796100/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1871-11-30/ed-1/seq-3)
-
-#### 1871-11-30 &middot; Ridgway, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Colds should be warmed over fre­  
-quently, and sore tbioats taken in be­  
-fore sundown.  
-See tho sack open before you buy  
-what is in it; for be who trades in the  
-dark asks to be cheated
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776075%2F1871113001%2F0534.jp2/pct:17.082111,82.542955,12.078446,3.340206/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-12-07/ed-1/seq-4)
 
 #### 1871-12-07 &middot; Tiffin, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5295,28 +5555,10 @@ will lie sure to blacken you.
 
 ---
 
-## [From _The Iowa plain dealer._](https://chroniclingamerica.loc.gov/lccn/sn83025167/1871-12-08/ed-1/seq-4)
-
-#### 1871-12-08 &middot; New Oregon, Howard County, Iowa
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-When you see a man frith a good  
-•deal of religion displayed in bis shop­  
-window, you may depend upon it he  
-keept a very small stock of it with­  
-in*
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025167%2F00279529352%2F1871120801%2F0659.jp2/pct:2.075880,47.944145,11.505676,3.155007/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1871-12-09/ed-1/seq-8)
 
 #### 1871-12-09 &middot; Albany, Or.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5331,9 +5573,12 @@ thumbs between t.vo &#x27;grindery tliey are
 very apt to bite.  
 Put no dependence on a label f a  
 lag, and count money after. your own  
-kind.&quot;; :-:. --&quot; - -&#x27; 
+kind.&quot;; :-:. --&quot; - -&#x27; -  
+In any business never wade in the  
+water where you cannot see the bot­  
+tom, i &quot; -f&quot;.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152615%2F1871120901%2F0677.jp2/pct:40.728477,83.913489,13.410596,6.654722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152615%2F1871120901%2F0677.jp2/pct:40.728477,83.913489,13.410596,8.535961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5342,6 +5587,7 @@ kind.&quot;; :-:. --&quot; - -&#x27;
 ## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1871-12-13/ed-1/seq-1)
 
 #### 1871-12-13 &middot; Richmond, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 de of this  
@@ -5394,6 +5640,7 @@ his own character
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1871-12-29/ed-1/seq-1)
 
 #### 1871-12-29 &middot; Dodgeville, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5413,6 +5660,7 @@ within
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1872-01-06/ed-1/seq-1)
 
 #### 1872-01-06 &middot; Frostburg, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5434,7 +5682,9 @@ within
 #### From _Daily evening bulletin._
 
 #### 1872-02-03 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Sense and Sentiment
@@ -5442,12 +5692,15 @@ within
 #### From _Daily evening bulletin._
 
 #### 1872-02-13 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1872-02-17/ed-1/seq-1)
 
 #### 1872-02-17 &middot; Donaldsonville, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5529,6 +5782,7 @@ you.-Exchanle.
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1872-02-17/ed-1/seq-1)
 
 #### 1872-02-17 &middot; Olympia, Wash. Territory
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5547,6 +5801,7 @@ rWHOLE NO. 588;
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1872-03-01/ed-1/seq-1)
 
 #### 1872-03-01 &middot; Bridgeton, N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5562,9 +5817,48 @@ small stock of it within.
 
 ---
 
+## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1872-03-01/ed-1/seq-1)
+
+#### 1872-03-01 &middot; Staunton, Va.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+said La Bruyerc, “I will tell you  
+what he is.”  
+An honest man is believed without an  
+oath, for his reputation swears for him.  
+Work is the weapon of honor and he who  
+lacks the weapon will never triumph.  
+Do not choose your friend by his looks.  
+Handsome shoes often pinch the feet
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349505%2F1872030101%2F0232.jp2/pct:73.694422,89.636434,11.063056,5.256178/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1872-03_54_3?page=62)
+
+#### 1872-03-01 &middot; Philadelphia
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Do not choose your friend by his looks. Hand-  
+some shoes often pinch your feet.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1872-03_54_3&#0036;62/pct:14.586847,18.289171,34.274874,2.217742/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1872-03-07/ed-1/seq-1)
 
 #### 1872-03-07 &middot; Staunton, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5606,9 +5900,20 @@ his own character
 
 ---
 
+## All Sorts of Items
+
+#### From _Daily evening bulletin._
+
+#### 1872-03-21 &middot; San Francisco [Calif.]
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1872-04-27/ed-1/seq-2)
 
 #### 1872-04-27 &middot; Gold Hill, N.T. [Nev.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5627,9 +5932,16 @@ keep· «very small stock of it within.
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1872-06-19/ed-1/seq-4)
 
 #### 1872-06-19 &middot; Warren, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+sandal tree perfumes the axe which  
+strikes it.  
+Don&#x27;t go to law unless you have  
+nothing to lose ; lawyer&#x27;s houses ara  
+built on fool&#x27;s heads.  
+Put no dependence ou the label of a  
 and count money after your own  
 kind.  
 In any business, never wade into  
@@ -5639,7 +5951,7 @@ what is in it, for he who trades in
 dark aska to be cheated.  
 In conversation, a wise man ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872061901%2F0204.jp2/pct:54.916887,43.107641,9.352183,4.338922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872061901%2F0204.jp2/pct:54.885816,40.266223,9.383253,7.180340/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5648,6 +5960,7 @@ In conversation, a wise man ma
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1872-06-20/ed-1/seq-1)
 
 #### 1872-06-20 &middot; Ravenna, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5689,6 +6002,7 @@ bag, and count monev after vour ow
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1872-06-20/ed-1/seq-1)
 
 #### 1872-06-20 &middot; Ravenna, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5710,6 +6024,7 @@ value his character.-&#x27; &quot;
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1872-07-31/ed-1/seq-1)
 
 #### 1872-07-31 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5727,6 +6042,7 @@ sure te&quot;&#x27;
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1872-08-16/ed-1/seq-1)
 
 #### 1872-08-16 &middot; Bridgeton, N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5751,6 +6067,7 @@ E. Dwight, of Hudson, Michigan, ha
 ## [From _The Charleston daily news._](https://chroniclingamerica.loc.gov/lccn/sn84026994/1872-08-20/ed-1/seq-3)
 
 #### 1872-08-20 &middot; Charleston, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5790,6 +6107,7 @@ Chested.
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1872-08-28/ed-1/seq-1)
 
 #### 1872-08-28 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5823,6 +6141,7 @@ fools&#x27; heads.
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1872-08-28/ed-1/seq-1)
 
 #### 1872-08-28 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5844,6 +6163,7 @@ tan) Presidency aro consideriag. the expe
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1872-08-29/ed-1/seq-3)
 
 #### 1872-08-29 &middot; Ottumwa, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5865,6 +6185,7 @@ Sadly contemplating the result o
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1872-08-29/ed-1/seq-4)
 
 #### 1872-08-29 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5885,7 +6206,9 @@ blacken yow-SpurgooT
 #### From _Georgia weekly telegraph and Georgia journal & messenger._
 
 #### 1872-09-03 &middot; Macon, Ga.
+
 [This text is not available under an open license.]
+
 ---
 
 ## Odds and Ends.
@@ -5893,12 +6216,15 @@ blacken yow-SpurgooT
 #### From _New York Observer and Chronicle (1833-1912)_
 
 #### 1872-09-05 &middot; New York
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Vinton record._](https://chroniclingamerica.loc.gov/lccn/sn85038222/1872-09-19/ed-1/seq-4)
 
 #### 1872-09-19 &middot; M'arthur, Vinton County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5921,6 +6247,7 @@ cheated.
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1872-09-19/ed-1/seq-1)
 
 #### 1872-09-19 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5942,12 +6269,15 @@ A gentleman advertised for
 #### From _Daily evening bulletin._
 
 #### 1872-09-21 &middot; San Francisco [Calif.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1872-09-25/ed-1/seq-1)
 
 #### 1872-09-25 &middot; Troy, Lincoln County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5966,6 +6296,7 @@ for they will bo snre lo blaeken yon
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1872-10-05/ed-1/seq-4)
 
 #### 1872-10-05 &middot; Westminster, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -5989,6 +6320,7 @@ to bit
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1872-10-10/ed-1/seq-4)
 
 #### 1872-10-10 &middot; Point Pleasant, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6008,6 +6340,7 @@ The mother of the Worrell sisters turned
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1872-10-12/ed-1/seq-1)
 
 #### 1872-10-12 &middot; Charlestown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6039,6 +6372,7 @@ means no more than it. says
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1872-11-14_45_46?page=7)
 
 #### 1872-11-14 &middot; Boston
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6054,17 +6388,28 @@ you.—Spurgeon.
 
 ---
 
-## When you see a man with a great deal of religion displayed in his shop window, you may depend upon it he keeps a very small stock of it within
+## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1873-01-03/ed-1/seq-4)
 
-#### From _The Congregationalist._
+#### 1873-01-03 &middot; River Falls, Pierce County, Wis.
 
-#### 1872-11-21 &middot; Boston, Mass.
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+tirely uninteresting to him.  
+Beware of no man more than  
+yourself; we carry our worst ene­  
+mies with us.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033255%2F0051415238A%2F1873010301%2F0144.jp2/pct:27.382479,24.346252,15.747863,2.977123/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1873-01-04/ed-1/seq-2)
 
 #### 1873-01-04 &middot; Columbia, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6085,18 +6430,39 @@ good mousers
 
 ---
 
-## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-01-09/ed-1/seq-2)
+## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1873-01-21/ed-1/seq-3)
 
-#### 1873-01-09 &middot; Ridgway, Pa.
+#### 1873-01-21 &middot; New Bloomfield, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-or pool.  
-Br do means put yourself in another&#x27;s  
-power; if you put your thumb between  
-f wo grinders they are very opt to bite.
+mark,t3FJ&quot; Drink nothing without, seeing it J  
+sign nothing without reading it, and mako  
+sure it means uo more than what it says.  
+td9D not go to law unless you have  
+nothing to lose ; lawyers houses are built  
+on fools&#x27; heads, &#x27; &#x27; : ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873010901%2F0021.jp2/pct:4.774289,91.126232,12.335129,2.805166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1873012101%2F0459.jp2/pct:77.501939,88.400732,17.093354,5.192212/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1873-02-20/ed-1/seq-6)
+
+#### 1873-02-20 &middot; Plymouth, Ind.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Do not go to law unless you have  
+nothing to lose; lawyers&#x27; houses are  
+built on fools&#x27; heads.  
+A Danbury man was much relieved t
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dean_ver02%2Fdata%2Fsn84038034%2F00271740566%2F1873022001%2F0564.jp2/pct:79.931127,45.721567,14.138129,2.333691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6105,6 +6471,7 @@ f wo grinders they are very opt to bite.
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1873-04-12/ed-1/seq-4)
 
 #### 1873-04-12 &middot; Weaverville, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6177,6 +6544,7 @@ tor they will be sure to blacken you
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-04-12/ed-1/seq-1)
 
 #### 1873-04-12 &middot; Auburn, Placer County, Calif.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6249,34 +6617,18 @@ A Fearful Vistou.—The Paris Sob- r
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1873-06-13/ed-1/seq-1)
 
 #### 1873-06-13 &middot; Savannah, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-No chain is stronger than its weak­  
-est link. No word is stronger than a  
-wink.  
-Per no dependence on the label  
-of a bag, and count money after your  
-own kind.  
-A dbdnkex Toledo man wrote on th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_eadweard_ver01%2Fdata%2Fsn85034076%2F00200292364%2F1873061301%2F0332.jp2/pct:81.807229,43.941932,12.650602,3.992183/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1873-06-13/ed-1/seq-1)
-
-#### 1873-06-13 &middot; Savannah, Mo.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+Don&#x27;t go to law unless, yon have  
+nothing to lose; lawyers&#x27; houses are  
+built oh fools&#x27; heads.  
 See -&#x27;the sack open before you buy  
 what is in it, for he who trades in the  
 dark asks to be cheate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_eadweard_ver01%2Fdata%2Fsn85034076%2F00200292364%2F1873061301%2F0332.jp2/pct:81.746988,51.116695,12.630522,1.647125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_eadweard_ver01%2Fdata%2Fsn85034076%2F00200292364%2F1873061301%2F0332.jp2/pct:81.746988,49.302066,12.650602,3.461753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6285,6 +6637,7 @@ dark asks to be cheate
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1873-06-14/ed-1/seq-1)
 
 #### 1873-06-14 &middot; Frostburg, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6302,33 +6655,254 @@ dark asks to be cheated
 
 ---
 
-## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1873-06-14/ed-1/seq-1)
+## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1874-06-20/ed-1/seq-2)
 
-#### 1873-06-14 &middot; Frostburg, Md.
+#### 1874-06-20 &middot; Mechanicstown, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Do not choose a friend by his looks;  
-handsome shoes often pinch the feet.
+jQgT Do not choose your friend by his  
+looks. Handsome shoes often pinch your  
+feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1873061401%2F0385.jp2/pct:81.511318,94.467732,11.861224,1.087572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623458%2F1874062001%2F0511.jp2/pct:81.394266,29.133453,13.889443,1.439959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1874-03-26/ed-1/seq-4)
+## [From _The Rutland daily globe._](https://chroniclingamerica.loc.gov/lccn/sn84022473/1874-08-08/ed-1/seq-4)
 
-#### 1874-03-26 &middot; Ravenna, O. [Ohio]
+#### 1874-08-08 &middot; Rutland, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-and smooth.  
-See the sack open before you buy  
-what is in it ; he who trades in the  
-dark asks to be cheated
+peaches arc worse than congress ever  
+thought of being.  
+Don&#x27;t go to law unless you have-nothing  
+to lose; lawyer&#x27;s houses nro built on fools&#x27;  
+heads
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027170%2F1874032601%2F0178.jp2/pct:7.864819,51.291284,10.574677,1.688602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84022473%2F00280777547%2F1874080801%2F0750.jp2/pct:17.856497,59.166548,10.627146,2.133409/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Wilmington daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn84020594/1874-08-24/ed-1/seq-1)
+
+#### 1874-08-24 &middot; Wilmington, Del.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+—Don&#x27;t go to law unless you have nothing to  
+loose ; lawyers&#x27; houses are built on fools&#x27; heads
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271742563%2F1874082401%2F0212.jp2/pct:28.382917,14.559456,12.571977,0.805874/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1874-08-28/ed-1/seq-1)
+
+#### 1874-08-28 &middot; Somerset, Ohio
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+other words he is able to count.  
+  
+Den&#x27;t go to&#x27;lsw unless you have noth­  
+ing to lose: lawyers&#x27; houses are built on  
+fool&#x27; heads.  
+  
+If anything will impress the huma
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028903%2F1874082801%2F0195.jp2/pct:84.993116,90.038168,9.683341,3.435115/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-08-28/ed-1/seq-3)
+
+#### 1874-08-28 &middot; Romney, Va. [W. Va.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+is all the Hppnrel a fellow wants.  
+— Don&#x27;t go to law unless you have nothing to  
+lose; lawyers&#x27; houses are built cn fools’ heads
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874082801%2F0898.jp2/pct:30.289101,26.531263,12.535785,2.162200/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1874-09-02/ed-1/seq-1)
+
+#### 1874-09-02 &middot; Smyrna, Del.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+s sit down to talk about  
+a dress-pattern, a small buy with a tin horn is  
+a refuge to tho weary.  
+An old cynic says; &quot;With many women,  
+going to church is little better than looking  
+into a bonnet-shop !&quot;  
+Don&#x27;t go to law unless you have nothing to  
+lose ; lawyers&#x27; houses are built on fools&#x27; heads
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F0033289495A%2F1874090201%2F0243.jp2/pct:78.601948,88.296149,14.014698,4.599277/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1874-09-02/ed-1/seq-4)
+
+#### 1874-09-02 &middot; Abbeville, S.C.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+* &#x27;&#x27;Do not sing that song again,&quot; is  
+tho sarcastic titl-e of a new son?.  
+V ? ?  
+Don*t go to law unless you have  
+nothing to lose; lawyers&#x27; houses are  
+built on fools&#x27;.heads
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn84026853%2F00202194023%2F1874090201%2F0056.jp2/pct:0.633663,21.797261,13.795380,3.007420/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1874-09-04/ed-1/seq-3)
+
+#### 1874-09-04 &middot; Manitowoc, Wis.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Hooted sorrow—An aching tooth.  
+Don’t go to law unless you have noth­  
+ing to lose; lawyers’ houses are built on  
+fool’s heads.  
+A lady barber has been driven out o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769726%2F1874090401%2F0687.jp2/pct:3.986617,6.274683,13.844776,3.006264/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1874-09-05/ed-1/seq-4)
+
+#### 1874-09-05 &middot; Idaho City, Idaho Territory
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+d Capped him on Che shoulder, saying;  
+&quot;Sir, taise care you are not captivated. &quot;  
+&quot;My Lord,&quot; replied the French wit,  
+*1 scorn to be taken by an English  
+vessel udder French colors.&#x27;&#x27;  
+- ■ higu - r-«— - -  
+Don&#x27;t go to law unless you have  
+nothing to lose; lawyer&#x27;s houses ar
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869586%2F1874090501%2F0408.jp2/pct:4.385081,88.750000,18.497984,5.625000/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1874-09-10/ed-1/seq-4)
+
+#### 1874-09-10 &middot; Belfast, Me.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+riito a swinging limb.  
+H happened that the other end  
+Was somehow hitched to him.  
+Don’t go to law unless you have nothing  
+to lose; lawyers’ houses are bililt on fool’s  
+heads
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524664%2F1874091001%2F0578.jp2/pct:28.431533,90.764809,10.776073,2.639965/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Puget Sound dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84022793/1874-09-10/ed-1/seq-4)
+
+#### 1874-09-10 &middot; Seattle, Wash. Terr.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ALL SORTS.  
+Don’t go to law unless-you  
+have nothing to lose: lawyer&#x27;s  
+houses are built on fools  
+heads.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn84022793%2Fno_reel%2F1874091001%2F0556.jp2/pct:12.811565,8.560733,11.256231,4.002239/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1874-09-12/ed-1/seq-1)
+
+#### 1874-09-12 &middot; Middletown, Del.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+fit of aDger, an improper dose of  
+medicine—any of these or other similar  
+things, may out off a valuable life in an  
+hour, and leave the fair hopes of usefulness  
+and enjoyment but a shapeless wreck.  
+un­  
+Don&#x27;t go to law unless you have noth­  
+ing to lose, lawyers&#x27; houses are built on  
+fools&#x27; heads,
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765289%2F1874091201%2F0162.jp2/pct:43.494272,87.966045,12.479542,6.324900/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1874-09-24/ed-1/seq-4)
+
+#### 1874-09-24 &middot; Chase, Mich.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+-mongers have so in­  
+cessantly promised but have never yet  
+performed. Under these circumstances,  
+it is no wonder that this medicine has  
+taken precedence of all those burning  
+fluids miscalled tonics. 1  
+Don&#x27;t go to law unless you have noth­  
+to lose ; lawyers&#x27; houses are built on fools&#x27;  
+heads
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85026421%2F00415669203%2F1874092401%2F0300.jp2/pct:72.658666,14.687470,10.689101,4.208803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6337,6 +6911,7 @@ dark asks to be cheated
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1874-10-29/ed-1/seq-3)
 
 #### 1874-10-29 &middot; Ottumwa, Wapello County, Iowa
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6353,9 +6928,28 @@ own character. Bo virtuous and yo
 
 ---
 
+## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1874-11-19/ed-1/seq-4)
+
+#### 1874-11-19 &middot; Jackson C.H., Ohio
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+men.  
+Don&#x27;t go to law unless you have nothing  
+to lose; lawyers&#x27; houses are built on  
+fools&#x27; heads
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029014%2F1874111901%2F0330.jp2/pct:4.052166,12.581148,10.852352,1.700857/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1874-11-25/ed-1/seq-3)
 
 #### 1874-11-25 &middot; Alexandria, La.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6372,6 +6966,7 @@ pinch the feet
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-12-04/ed-1/seq-3)
 
 #### 1874-12-04 &middot; Romney, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6387,6 +6982,7 @@ handsome shoes often pinch the feet
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1874-12-17/ed-1/seq-4)
 
 #### 1874-12-17 &middot; Anderson Court House, S.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6399,9 +6995,29 @@ handsome shoes often pinch the feet..
 
 ---
 
+## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1875-04-02/ed-1/seq-1)
+
+#### 1875-04-02 &middot; Staunton, Va.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+enemies that they may become your friends.  
+See the sack open before you buy ’what  
+is in it, for he who trades in the dark asks  
+to be cheated. *  
+It is always in our power to make 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349529%2F1875040201%2F0056.jp2/pct:72.859216,89.451796,10.970005,3.632640/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-05-27/ed-1/seq-4)
 
 #### 1875-05-27 &middot; Centre Hall, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6426,6 +7042,7 @@ kind
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1875-07-08/ed-1/seq-4)
 
 #### 1875-07-08 &middot; Litchfield, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -6444,38 +7061,15 @@ small stock of it within
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
 
 #### 1875-09-08 &middot; Richmond, Ind.
-<table style="width: 100%;"><tr><td style="width: 50%">
 
-nd I dare say old-fashioned  
-and aristocratic connections of the  
-bank like it all the better for its Old  
-World peculiarities.  
-r Oobd Artvtee.  
-Keep clear of a man &quot;WhoJ does not  
-value his own character.  
-Nobody is more like an honest man  
-than a thorough rogue
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.706746,73.901899,10.418934,4.602120/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
-
-#### 1875-09-08 &middot; Richmond, Ind.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
 tom.Do not choose your friend by his  
 looks; handsome shoes often pinch  
-the feet.  
-Put do dependence on the label of  
-a bag, and count money after your  
-own kind. 
+the feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.706746,79.436095,10.459739,3.145753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.720348,79.436095,10.405332,1.724339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6484,9 +7078,15 @@ own kind.
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
 
 #### 1875-09-08 &middot; Richmond, Ind.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+a bag, and count money after your  
+own kind. ,  
+Don&#x27;t go to law unless you have  
+nothing to lose; lawyers&#x27; houses are  
+built on fools&#x27; beads.  
 . Don&#x27;t believe the man who talks  
 the most; for mewing cats are very  
 seldom good roousers.  
@@ -6509,7 +7109,25 @@ deal ol religion displayed in his shop
 window, you may depend upon it he  
 keeps a very small stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.693145,83.979960,10.459739,9.740184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.693145,81.708027,10.459739,12.012117/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1875-09-23/ed-1/seq-2)
+
+#### 1875-09-23 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+One of the sages says : &quot; Don&#x27;t go to  
+law unless you have nothing to lose;  
+lawyers&#x27; houses are built on fools&#x27;  
+heads.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283612%2F1875092301%2F0164.jp2/pct:85.475379,28.208639,9.724373,1.717914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6520,10 +7138,10 @@ keeps a very small stock of it within
 #### From _Williamstown Chronicle (Vic. : 1856 - 1954)_
 
 #### 1876-06-24 &middot; Williamstown, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-bottom. Do not choose your friend by his  
 lookshaudsome shoes often pinch the  
 feet. Put no dependence upon the label  
 of a bag, and count money after your own  
@@ -6552,26 +7170,20 @@ means no more than it says
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
 
 #### 1876-07-11 &middot; Portland, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+does not value his own character.  
+Nothing is more like an honest man than  
+a thorough rogue. In any business never  
+wade into water where you cannot see the  
 bottom. Do not choose your friend by his  
 looks - handsome shoes often pinch the  
 feet. Put no dependence upon the label  
 of a bag, and count money after yo&#x27;ur  
-own kind. Don&#x27;t go to law, unless yo
-</td></tr></table>
-
----
-
-## [GOOD ADVICE](http://trove.nla.gov.au/ndp/del/article/63316813)
-
-#### From _Portland Guardian (Vic. : 1876 - 1953)_
-
-#### 1876-07-11 &middot; Portland, Victoria
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+own kind. Don&#x27;t go to law, unless you  
+have nothing to lose : lawyers are built  
 on fool&#x27;s head. Don&#x27;t believe the man  
 who talks the most- for mewing cats are  
 seldom good mousers. See the sack open  
@@ -6590,90 +7202,27 @@ no more than it says. &amp;nbsp
 
 ---
 
-## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1876-08-03/ed-1/seq-4)
-
-#### 1876-08-03 &middot; Centre Hall, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Nobody is more like an honest man  
-than a thorough rogue.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1876080301%2F0472.jp2/pct:44.497877,94.875214,9.578893,0.810256/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1876-08-09/ed-1/seq-4)
-
-#### 1876-08-09 &middot; Abbeville, S.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-mp. The water of the former  
-is strongly impregnated with iron, that  
-of the other with gallio acid. When the  
-two waters mingle the acid of the one  
-unites with the iron of the other, forming  
-a true ink.  
-Nobody is more like an honest man  
-than a thorough rogue.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194035%2F1876080901%2F0008.jp2/pct:44.952733,94.403599,11.064529,4.991469/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Port Royal standard and commercial._](https://chroniclingamerica.loc.gov/lccn/sn85026954/1876-08-10/ed-1/seq-1)
-
-#### 1876-08-10 &middot; Beaufort, S.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-s is a small matter  
-to whioh I have alluded, but it is not  
-without significance when regarded aa a  
-national characteristic.  
-  
-Items of Interest.  
-W&#x27;at-er-fall there is when a waterfall  
-meets a downfall.  
-Nobody is more like an honest man  
-than a thorough rogue
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85026954%2F0041562010A%2F1876081001%2F0146.jp2/pct:70.896740,12.409119,26.500816,85.231054/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [GOOD ADVICE.](http://trove.nla.gov.au/ndp/del/article/96881833)
 
 #### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
 
 #### 1876-09-28 &middot; Port Elliot, South Australia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+does not value his own character.  
+Nothing is more like an honest man than  
+a thorough rogue. In any business never  
+wade into water where you cannot see the  
 bottom. Do not choose your friend by his  
 looks — handsome shoes often pinch the  
 feet. Put no dependence upon the label  
 of a bag, and count money after your own  
-kind. Don&#x27;t go to law, unless you hav
-</td></tr></table>
-
----
-
-## [GOOD ADVICE.](http://trove.nla.gov.au/ndp/del/article/96881833)
-
-#### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
-
-#### 1876-09-28 &middot; Port Elliot, South Australia
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+kind. Don&#x27;t go to law, unless you have  
+nothing to lose — lawyers are built on a  
+fool&#x27;s head. Don&#x27;t believe the man who  
+talks the most — mewiaer cats are seldom  
 good mousers. See the sack open before  
 you buy what is in it ; for he who  
 trades in the dark asks to be cheated.  
@@ -6693,6 +7242,7 @@ no more than it says.
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1877-08-08/ed-1/seq-6)
 
 #### 1877-08-08 &middot; Watertown, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  very costly rem­  
@@ -6768,6 +7318,7 @@ will be sure to blacken you.—Rev. C. If
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1877-08-09/ed-1/seq-4)
 
 #### 1877-08-09 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 omize and be satisfied with  
@@ -6840,23 +7391,10 @@ will be sure to blacken you.—Rev. C. H
 
 ---
 
-## [GEMS FOR THE THOUGHTFUL.](http://trove.nla.gov.au/ndp/del/article/130883581)
-
-#### From _The Grenfell Record and Lachlan District Advertiser (NSW : 1876 - 1951)_
-
-#### 1877-09-08 &middot; Grenfell, New South Wales
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-cry. Nobody is more like an honest man  
-than a thorough rogue. A teetotaler ca
-</td></tr></table>
-
----
-
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1877-09-19/ed-1/seq-1)
 
 #### 1877-09-19 &middot; Smyrna, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ck, a gem, a beauty, audit made the  
@@ -6926,6 +7464,7 @@ base character; for they will b
 ## [From _Alpena weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn85033549/1878-04-03/ed-1/seq-4)
 
 #### 1878-04-03 &middot; Alpena, Mich.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 ance any fur  
@@ -6969,9 +7508,12 @@ of a bag, and count money after
 your own kind.  
 See the sack open before you buy  
 what is in it; for he who trades in  
-the dark asks to be cheated
+the dark asks to be cheated.  
+If in any business never wade  
+into water where you cannot see  
+the bottom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F00296023966%2F1878040301%2F0680.jp2/pct:44.418890,21.596507,11.959522,28.011644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F00296023966%2F1878040301%2F0680.jp2/pct:44.418890,21.596507,11.959522,30.026870/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6980,6 +7522,7 @@ the dark asks to be cheated
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1878-05-10/ed-1/seq-4)
 
 #### 1878-05-10 &middot; Findlay, Hancock County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7039,6 +7582,7 @@ his own character.
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1878-05-24/ed-1/seq-1)
 
 #### 1878-05-24 &middot; Ashtabula, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7079,6 +7623,7 @@ kind
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1878-05-24/ed-1/seq-1)
 
 #### 1878-05-24 &middot; Ashtabula, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7099,6 +7644,7 @@ value his own character.
 ## [From _The Troy herald._](https://chroniclingamerica.loc.gov/lccn/sn86063984/1878-05-29/ed-1/seq-3)
 
 #### 1878-05-29 &middot; Troy, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 &#x27;Tuku ti black draft 1 &#x27; &quot;  
@@ -7140,9 +7686,33 @@ water when you cannot see the bottom.
 See tlio saek oncn lx-foro volt buy what  
 is in it ; for ho who trades in tho dark  
 asks to bo cheated.  
-Keep clear 
+Keep clear o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn86063984%2F00200292819%2F1878052901%2F2059.jp2/pct:41.408751,30.115627,17.155816,23.668535/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1878-09-04/ed-1/seq-2)
+
+#### 1878-09-04 &middot; Ottumwa, Wapello County, Iowa
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A mortgage on your farm, and yet  
+you hire a man to do your work, and  
+fou go to town.  
+  
+Hon&#x27;t go to law unless you have  
+nothing to lose lawyers&#x27; houses are  
+built ou fools heads.  
+  
+We never knew, or even heard of a  
+farmer, who kept out of debt, goin
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F00279528761%2F1878090401%2F0488.jp2/pct:49.162856,9.127195,8.838757,3.451304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7151,6 +7721,7 @@ Keep clear
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1878-11-28/ed-1/seq-1)
 
 #### 1878-11-28 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  ww. solid and  
@@ -7201,6 +7772,7 @@ kind
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1878-11-28/ed-1/seq-1)
 
 #### 1878-11-28 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7223,6 +7795,7 @@ value his own character
 #### From _The Singleton Argus and Upper Hunter General Advocate (NSW : 1874 - 1880)_
 
 #### 1879-07-09 &middot; Singleton, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7291,6 +7864,7 @@ you may depend You&#x27;ll have pence to you
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
 
 #### 1879-07-14 &middot; Goulburn, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7358,6 +7932,7 @@ t?b bullsj,and; madmen ; iand .nov?
 #### From _The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881)_
 
 #### 1879-07-17 &middot; Nowra, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7419,7 +7994,8 @@ contend; with a i baso character ; , for
 tlioy will bo suro to blackon you. ^ &#x27;  
 jSToitlier trust nor contond, i Nor lay  
 wagss, ;uor lend, . c ? And you may  
-dopond e You&#x27;ll havo pcaco to your end.
+dopond e You&#x27;ll havo pcaco to your end.&#x27;  
+; I cannot 
 </td></tr></table>
 
 ---
@@ -7427,6 +8003,7 @@ dopond e You&#x27;ll havo pcaco to your end.
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-08-06/ed-1/seq-4)
 
 #### 1879-08-06 &middot; Mifflintown, Juniata County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7469,6 +8046,7 @@ kind
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-08-06/ed-1/seq-4)
 
 #### 1879-08-06 &middot; Mifflintown, Juniata County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7489,6 +8067,7 @@ value bis character
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1879-09-10/ed-1/seq-1)
 
 #### 1879-09-10 &middot; Newtown, Conn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7506,6 +8085,7 @@ for they will be sure to blackeu you
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1879-09-10/ed-1/seq-1)
 
 #### 1879-09-10 &middot; Smyrna, Del.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7528,6 +8108,7 @@ Horatio Seymour walks through th
 ## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1879-10-18/ed-1/seq-1)
 
 #### 1879-10-18 &middot; Walla Walla, Wash. Terr.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7596,6 +8177,7 @@ You&#x27;ll hare peace to your rial.
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
 
 #### 1880-04-30 &middot; Gundagai, New South Wales
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7662,6 +8244,7 @@ you may depend You&#x27;ll bare peace to you
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1881-06-30/ed-1/seq-1)
 
 #### 1881-06-30 &middot; Mexico, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7725,19 +8308,32 @@ he keeps a very small stock of it within
 
 ---
 
+## [From _The Meridional._](https://chroniclingamerica.loc.gov/lccn/sn88064005/1881-07-16/ed-1/seq-2)
+
+#### 1881-07-16 &middot; Abbeville, La.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+clothing that will devour you.  
+  
+Don&#x27;t go to law unless you have  
+nothing to lose; lawyers houses  
+are built on fool&#x27;s heads.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_emmet_ver01%2Fdata%2Fsn88064005%2F00200299036%2F1881071601%2F0736.jp2/pct:12.833890,36.928191,14.586811,3.617021/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1881-09-24/ed-1/seq-1)
 
 #### 1881-09-24 &middot; Shepherdstown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ut  
-I not happiness.&quot;  
   
-Good Ai?vice. ? Spurgeon son ten­  
-1 tiously expresses a number of the  
-1 thoughts worth remembering, in the  
-following appropriate sentences, which  
-he publishes as &quot;advice gratis:&quot;  
 When you see a man with a great  
 I deal ot religion displayed in his shop  
 windows, you may depend upon it he­  
@@ -7754,19 +8350,9 @@ nothing without reading it, and mako
 shure that it means no more lhau it  
 says.  
 Don&#x27;t go to bw unless you have i  
-nothing to lose; lawyer&#x27;s heiuscs are  
-built on fools&#x27; heads.  
-l&#x27;ut no dependence on the label of a  
-bag, a tid count the money after your  
-own kin.  
-In any bisiness never wado in the  
-i water where you cannot eco the bot­  
-tom.  
-Keep clear of the man who dors not J  
-value his own character.  
-Largest Land Owxeh on tiir Con- 
+nothing to lose; la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F0027176781A%2F1881092401%2F0567.jp2/pct:63.903693,44.291313,19.195886,19.297738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F0027176781A%2F1881092401%2F0567.jp2/pct:65.988780,48.448342,17.110799,9.502699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7775,6 +8361,7 @@ Largest Land Owxeh on tiir Con-
 ## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1881-09-26/ed-1/seq-3)
 
 #### 1881-09-26 &middot; Wheeling, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7799,27 +8386,31 @@ ing to lone; lawyers&#x27; houses are built on
 fools&#x27; heads.  
 Put no dependence on the label of a  
 bag, and count the money after your  
-own kin. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_nova_ver02%2Fdata%2Fsn86092518%2F00383341644%2F1881092601%2F0301.jp2/pct:36.583975,54.070194,10.882996,9.600140/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1881-09-26/ed-1/seq-3)
-
-#### 1881-09-26 &middot; Wheeling, W. Va.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+own kin. „  
 In any business never wade in the  
 water where you cannot see the bottom.  
 Keep clear of the man who does not  
 vaiue his own character.  
 A New Firm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_nova_ver02%2Fdata%2Fsn86092518%2F00383341644%2F1881092601%2F0301.jp2/pct:36.655261,63.687795,10.811710,2.360747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_nova_ver02%2Fdata%2Fsn86092518%2F00383341644%2F1881092601%2F0301.jp2/pct:36.583975,54.070194,10.882996,11.978348/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1883-05_15_5?page=57)
+
+#### 1883-05-01 &middot; New York
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Don’r go to law, unless you have nothing to lose;  
+lawyers’ houses are built on fools’ heads.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1883-05_15_5&#0036;57/pct:54.512373,87.339268,39.374090,2.225519/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7828,9 +8419,16 @@ A New Firm
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1884-04-07/ed-1/seq-1)
 
 #### 1884-04-07 &middot; Barton, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+s existence,  
+and leave at least some few of the  
+poor and friendless, to keep his mem  
+ory gr?en, when those who revel in  
+his shoddy gifts shall have speeded  
+his parting into forgetfulness.  
+GOOD ADVICE.  
 Do not choose your friend by his  
 looks ; handsome shoes often pinch  
 the feet. Do not be fond of compli­  
@@ -7902,7 +8500,9 @@ WONDERFUL PHENOMENA I
 #### From _North Wales Chronicle_
 
 #### 1884-11-08 &middot; Bangor, Wales
+
 [This text is not available under an open license.]
+
 ---
 
 ## SCRAPS.
@@ -7910,12 +8510,15 @@ WONDERFUL PHENOMENA I
 #### From _North Wales Chronicle_
 
 #### 1884-11-08 &middot; Bangor, Wales
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1887-02-05/ed-1/seq-4)
 
 #### 1887-02-05 &middot; Penn's Grove, Salem Co., N.J.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7932,9 +8535,30 @@ to bite
 
 ---
 
+## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1887-02-05/ed-1/seq-4)
+
+#### 1887-02-05 &middot; Penn's Grove, Salem Co., N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+one.”  
+Don’t go to law unless you have  
+nothing to lose, lawyer’s houses are  
+built on fools’ heads.  
+Traveling men should investigate the ad­  
+vantages offered by the Okand Unio
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1887020501%2F0823.jp2/pct:52.108434,87.095018,10.564316,3.093520/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-02-09/ed-1/seq-4)
 
 #### 1887-02-09 &middot; Mifflintown, Juniata County, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7953,17 +8577,28 @@ to bite.
 
 ---
 
-## WELSH QUESTIONS IN PARLIAMENT.
+## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-02-09/ed-1/seq-4)
 
-#### From _North Wales Chronicle_
+#### 1887-02-09 &middot; Mifflintown, Juniata County, Pa.
 
-#### 1888-07-21 &middot; Bangor, Wales
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Don&#x27;t 10 to law unless you have  
+nothing to lose, lawyer&#x27;s houses are  
+built on fools&#x27; heads. 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1887020901%2F0644.jp2/pct:53.172943,88.717097,11.105300,1.328904/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1888-09-06/ed-1/seq-4)
 
 #### 1888-09-06 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -7982,6 +8617,7 @@ keeps a very small stock of it within.
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1889-04-11/ed-1/seq-4)
 
 #### 1889-04-11 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 n reach  
@@ -8003,6 +8639,7 @@ We can only know ourselves throtur
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1889-10-28/ed-1/seq-4)
 
 #### 1889-10-28 &middot; Barton, Vt.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 re is a great difference to this  
@@ -8074,8 +8711,10 @@ fish till they are caught in the net
 ## [From _Chariton courier._](https://chroniclingamerica.loc.gov/lccn/sn88068010/1889-12-05/ed-1/seq-4)
 
 #### 1889-12-05 &middot; Keytesville, Chariton County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
 from an exchange: &quot;Drink nothing  
 without seeing it. Sign nothing  
 without reading it, and make sure  
@@ -8100,12 +8739,10 @@ tn the dark asks to be cheated
 ## [From _Union County courier._](https://chroniclingamerica.loc.gov/lccn/sn84022137/1889-12-11/ed-1/seq-3)
 
 #### 1889-12-11 &middot; Elk Point, Union County, D.T. [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-new double store.  
-  
-Drink nothing without&#x27; seeing it.  
 Sign nothing without reading it,  
 and make sure that it means noth­  
 ing more than it says. Don&#x27;t go to  
@@ -8122,7 +8759,7 @@ in the dark asks to be cheated.—Ex.
   
 At a regular meeting of Stephe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F00279523039%2F1889121101%2F0180.jp2/pct:50.641026,60.106468,11.238966,9.185879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F00279523039%2F1889121101%2F0180.jp2/pct:50.641026,61.507365,11.217949,7.784982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8131,6 +8768,7 @@ At a regular meeting of Stephe
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1889-12-12/ed-1/seq-1)
 
 #### 1889-12-12 &middot; Mineral Point, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8164,6 +8802,7 @@ to the W. C. T. U. of this city fro
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1890-01-10/ed-1/seq-1)
 
 #### 1890-01-10 &middot; Woodstock, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8214,6 +8853,7 @@ in the net
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1890-02-20/ed-1/seq-4)
 
 #### 1890-02-20 &middot; Mechanicstown, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  another  
@@ -8282,13 +8922,21 @@ caught in the net
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1890-03-20/ed-1/seq-4)
 
 #### 1890-03-20 &middot; Stillwater, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+There is no trade on earth so easy to  
+learn as grumbling.  
+He who can suppress a moment’s anger,  
+may prevent years of sorrow.  
+Better than mere genius, is the gift of  
+knowing how to make others happy.  
 Do not choose your friend by his looks.  
 Handsome shoes often pinch the feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F0019991974A%2F1890032001%2F0555.jp2/pct:28.757290,23.927545,19.709885,1.257184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F0019991974A%2F1890032001%2F0555.jp2/pct:28.757290,19.396552,19.851952,5.788177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8297,6 +8945,7 @@ Handsome shoes often pinch the feet
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1890-03-21/ed-1/seq-1)
 
 #### 1890-03-21 &middot; Shepherdstown, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8340,38 +8989,14 @@ fi?ti till they are caught in the net
 
 ---
 
-## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1890-04-04/ed-1/seq-3)
-
-#### 1890-04-04 &middot; Bloomsburg, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-each day: Drink nothing without seeing  
-It. Sign nothing without reading, and  
-make Bure that It means nothing moro  
-than It says. Don&#x27;t go to law unless you  
-are forced to and have something to lose  
-In any business never wado la where you  
-cannot sco the bottom. Put no dependence  
-on tho label ot a bag, and count money be­  
-fore you receipt for It. See the sack before  
-you buy what is in It, for bo who trades In  
-tho dark asks to be cheated.  
-A Cure ot CaturrU  
-In tbo head, as well as of all bronchial
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237288038%2F1890040401%2F0283.jp2/pct:36.616933,31.581076,10.785547,6.847284/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1890-04-11/ed-1/seq-4)
 
 #### 1890-04-11 &middot; Romney, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-on Without a Text.  
+  
+A Sermon Without a Text.  
 Drink nothing without seeing it;  
 s&#x27;gn nothing without reading it, and  
 mako sure that it meant* no more  
@@ -8415,6 +9040,7 @@ ftab till they sre caught in the net
 ## [From _Barton County democrat._](https://chroniclingamerica.loc.gov/lccn/sn83040198/1890-04-24/ed-1/seq-1)
 
 #### 1890-04-24 &middot; Great Bend, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8440,6 +9066,7 @@ I no alls, according to the papers
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1890-04-24/ed-1/seq-3)
 
 #### 1890-04-24 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8465,6 +9092,7 @@ cheats or asks to be cheated.
 ## [From _The gold leaf._](https://chroniclingamerica.loc.gov/lccn/sn91068402/1890-05-29/ed-1/seq-3)
 
 #### 1890-05-29 &middot; Henderson, N.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8493,6 +9121,7 @@ The call for an election to vote o
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1890-08-21/ed-1/seq-4)
 
 #### 1890-08-21 &middot; St. Clairsville, Ohio
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8511,9 +9140,12 @@ of God and of men is the only certificat
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1891-08-21/ed-1/seq-3)
 
 #### 1891-08-21 &middot; Woodstock, Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ seeing it.?  
+Sign nothing without reading it, aud  
+make sore that it means nothing mor?  
 than it saya. Don&#x27;t go to law unless you  
 are forced to and have some thing to lose.  
 In any business never wade in where you  
@@ -8523,7 +9155,7 @@ money before yon receipt for it. See the
 sack before you buy what is in it, for be  
 who trade? in the dark asks to be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_ozzyosbourne_ver01%2Fdata%2Fsn85026941%2F00175032393%2F1891082101%2F0132.jp2/pct:4.594595,94.502666,11.356356,4.500827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_ozzyosbourne_ver01%2Fdata%2Fsn85026941%2F00175032393%2F1891082101%2F0132.jp2/pct:4.584585,93.035484,11.546547,5.968009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8532,6 +9164,7 @@ who trade? in the dark asks to be cheated.
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1891-09-29/ed-1/seq-2)
 
 #### 1891-09-29 &middot; Charles Town, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8558,6 +9191,7 @@ asks to be cheated
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1891-10-02/ed-1/seq-1)
 
 #### 1891-10-02 &middot; Romney, Va. [W. Va.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8583,9 +9217,11 @@ ly see some work that tome othe
 ## [From _Fair play._](https://chroniclingamerica.loc.gov/lccn/sn87052181/1891-12-12/ed-1/seq-2)
 
 #### 1891-12-12 &middot; Ste. Genevieve [Mo.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ng it- Sign nothing without  
+hout see  
+ing it- Sign nothing without  
 reading it, and make sure it  
 means nothing more than what  
 it fays. Don&#x27;t go to law unless  
@@ -8599,7 +9235,7 @@ the sack before you buy what&#x27;s in
 it, for he who trades in the dark  
 asks to be cheated. Never r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_gordon_ver01%2Fdata%2Fsn87052181%2F00200292546%2F1891121201%2F0814.jp2/pct:18.772771,31.292050,12.023011,8.938624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_gordon_ver01%2Fdata%2Fsn87052181%2F00200292546%2F1891121201%2F0814.jp2/pct:18.772771,30.591789,12.023011,9.638885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8608,6 +9244,7 @@ asks to be cheated. Never r
 ## [From _Blackfoot news._](https://chroniclingamerica.loc.gov/lccn/sn88056017/1892-01-23/ed-1/seq-1)
 
 #### 1892-01-23 &middot; Blackfoot, Idaho
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8636,6 +9273,7 @@ Never put confidence in a man wh
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1892-03-09/ed-1/seq-3)
 
 #### 1892-03-09 &middot; Tionesta, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8658,25 +9296,46 @@ cheated
 
 ---
 
-## [From _The Butler weekly times._](https://chroniclingamerica.loc.gov/lccn/sn89066489/1892-05-04/ed-1/seq-7)
+## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1892-04-08/ed-1/seq-1)
 
-#### 1892-05-04 &middot; Butler, Mo.
+#### 1892-04-08 &middot; Rockville, Md.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-nothing more than it says. Don&#x27;t go j pe) .l)s u in,. s.&quot;Nevada  
-  
-to law unless you are forced to ami J jj.,,  
-hare nothirig to lose. In any busi-j  
-ues do not wade where tou cannot me to add my tribute tu  
-..... . j j i the tfiicieticv of Ely s Cieum tJaiui.  
-see the bottom. Put no dependence i T .v - , - . . ,  
-1 &#x27; I w us suffering f i uiu it s-veie attack  
-in the label of a dog; aud count raon- f it tlJrKZa nUi t-atarth and was iu  
-ev before tou receive it. See the duced to trv vour lea.edv. There  
-sack before you buy what is in it, &#x27; u t was ma-elous. I could hardl
+A Sermon Without a Text.  
+Drink nothing without seeing it;  
+•ign nothing without reading it, and  
+make sure that it tneaos no more than  
+it Bays.  
+Dou’t ge to law unless you have noth  
+ing to lose; lawyers&#x27;houses arc built  
+on fouls’ heads. In any business, never  
+wade into water you cannot see the list  
+tom.  
+Put no (UpOQtltiUOD Oil tlltf IItI HI l of ll  
+l&gt;*g. *od count money ufter your own  
+ken.  
+Hee the sack open beforo you buy  
+what io in it, fur he who trades in the  
+dark asks to be abetted.  
+Keep oleer of tho mail who does nit  
+value uie ewo character.  
+iteware of every one who swears; lie  
+who would blaspheme his Maker would  
+mike no bones of lying or stealing  
+Beware of no man more than yourself;  
+we carry our worst euemiea with us.  
+When a new opinion or doctrine comes  
+up before you, Jo not bite till you kuow  
+whether it is bread or a stone; and do  
+not be sure that tho ginger lirea I is  
+good Ixmause of the gilt upon it.  
+Nevor shout hello till you are quite  
+out of the woods ; and don&#x27;t cry fresh  
+fish till tbsy are caught in thu net
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_jughead_ver01%2Fdata%2Fsn89066489%2F00294556655%2F1892050401%2F0720.jp2/pct:17.913043,82.752341,29.565217,5.892300/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00332899004%2F1892040801%2F0053.jp2/pct:83.654644,51.367758,10.698424,15.975104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8685,6 +9344,7 @@ sack before you buy what is in it, &#x27; u t was ma-elous. I could hardl
 ## [From _Warren sheaf._](https://chroniclingamerica.loc.gov/lccn/sn90059228/1892-05-12/ed-1/seq-5)
 
 #### 1892-05-12 &middot; Warren, Marshall County, Minn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8702,7 +9362,7 @@ See the sack before you buy what&#x27;s
 in It, for he who buys in the daik  
 asks to be cheated.&quot;  
 District Court.  
-The May term of dis
+The May term of d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_orr_ver01%2Fdata%2Fsn90059228%2F00280766410%2F1892051201%2F0413.jp2/pct:7.055871,73.754014,11.281165,9.226076/!600,600/0/default.jpg"/>
 </td>
@@ -8715,6 +9375,7 @@ The May term of dis
 #### From _The McIvor Times and Rodney Advertiser (Heathcote, Vic. : 1863 - 1918)_
 
 #### 1893-11-16 &middot; McIvor, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8727,11 +9388,30 @@ stock of it within
 
 ---
 
+## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/147000220)
+
+#### From _The Narracoorte Herald (SA : 1875 - 1954)_
+
+#### 1893-11-17 &middot; Naracoorte, South Australia
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Iobc that we may And I When you see a  
+man with a great deal of religion  
+displayed in his shop window, yon may  
+depend upon it he keeps a very otnui;  
+Btock of it within
+</td></tr></table>
+
+---
+
 ## [The World Well Lost.](http://trove.nla.gov.au/ndp/del/article/65404339)
 
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
 
 #### 1893-11-17 &middot; Portland, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8748,6 +9428,7 @@ a very small stock of it within
 #### From _Euroa Advertiser (Vic. : 1884 - 1920)_
 
 #### 1893-11-17 &middot; Euroa, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8765,6 +9446,7 @@ within
 #### From _The Horsham Times (Vic. : 1882 - 1954)_
 
 #### 1893-11-17 &middot; Horsham, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  respect  
@@ -8786,6 +9468,7 @@ small stock of it within
 #### From _Camperdown Chronicle (Vic. : 1877 - 1954)_
 
 #### 1893-11-18 &middot; Camperdown, Victoria
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8801,9 +9484,11 @@ stock of it within. ;&#x27; •&quot; &#x27; ■;&#x27; -&#x27;■&quot;■
 ## [From _Mohave County miner._](https://chroniclingamerica.loc.gov/lccn/sn84024828/1894-04-07/ed-1/seq-3)
 
 #### 1894-04-07 &middot; Mineral Park, A.T. [Ariz.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ut  
+seeing it. Sign nothing without reading  
 it, and make sure that it means nothing  
 more than it cays. Don&#x27;t go to law unless  
 you are forced to and have something  
@@ -8815,7 +9500,7 @@ you receipt for it. See the sack open
 before you buy wh it is in it for he who  
 trades in the dark auks to be cheated &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_agave_ver01%2Fdata%2Fsn84024828%2F00211100618%2F1894040701%2F0220.jp2/pct:52.032321,48.745894,17.384917,6.763213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_agave_ver01%2Fdata%2Fsn84024828%2F00211100618%2F1894040701%2F0220.jp2/pct:52.032321,47.338758,17.409403,8.170349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8824,6 +9509,7 @@ trades in the dark auks to be cheated &quot;
 ## [From _Brookings register._](https://chroniclingamerica.loc.gov/lccn/sn2001063544/1894-05-25/ed-1/seq-5)
 
 #### 1894-05-25 &middot; Brookings, S.D.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8847,9 +9533,69 @@ asks to be cheated.—Ex
 
 ---
 
+## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1894-05-30/ed-1/seq-4)
+
+#### 1894-05-30 &middot; Yorkville, S.C.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+to make him better than himself.  
+W8T One of the sages says: &quot;Don&#x27;t go to  
+law unless you have nothing to lose ; lawyers&#x27;  
+houses are built on fools&#x27; heads.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861952%2F1894053001%2F0282.jp2/pct:14.456547,23.962050,13.659326,2.160861/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1894-06-06/ed-1/seq-1)
+
+#### 1894-06-06 &middot; Anderson Court House, S.C.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+but it proposes to make him better  
+than himself.  
+? One of the sages says: &quot;Don&#x27;t  
+go to law unless you have nothing to  
+lose; lawyers&#x27; houses are built on  
+fools&#x27; heads.&quot;  
+? Dwarfs live much longer than 3  
+giants, the latter unusually havin
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551165%2F1894060601%2F0106.jp2/pct:88.361554,24.565305,11.172908,4.320702/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1894-06-13/ed-1/seq-1)
+
+#### 1894-06-13 &middot; Edgefield, S.C.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+One of the sages says : &quot;Don&#x27;t go  
+to law unless you have nothing to  
+lose ; lawyers&#x27; houses are built on  
+fools&#x27; heads.&quot;  
+Christianity does not propose t
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_jinx_ver01%2Fdata%2Fsn84026897%2F00211101271%2F1894061301%2F0142.jp2/pct:85.584589,65.355279,11.839255,3.880637/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Reporter and farmer._](https://chroniclingamerica.loc.gov/lccn/sn99068116/1894-06-14/ed-1/seq-5)
 
 #### 1894-06-14 &middot; Webster, Day County, Dakota [S.D.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8875,6 +9621,7 @@ be cheated.— Plankinton Herald.
 ## [From _Western Kansas world._](https://chroniclingamerica.loc.gov/lccn/sn82015485/1894-06-16/ed-1/seq-3)
 
 #### 1894-06-16 &middot; WaKeeney, Kan.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -8900,30 +9647,64 @@ Wheat in the eastert part of th
 
 ---
 
-## [From _Union County courier._](https://chroniclingamerica.loc.gov/lccn/sn84022137/1894-06-21/ed-1/seq-2)
+## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1894-07-12/ed-1/seq-1)
 
-#### 1894-06-21 &middot; Elk Point, Union County, D.T. [S.D.]
+#### 1894-07-12 &middot; River Falls, Pierce County, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-a day: Drink nothing without see­  
-ing it. SitMi nothing witu out read­  
-ing it, and makesuro that it means  
-nothing more than it says. Don&#x27;t  
-go to law unless you are forced to  
-and have something to hwe. In  
-any business never wade out where  
+or put it where you will fall over it  
+six times a day: “Drink nothing  
+without seeing it. Sign nothing with­  
+out reading it. and be sure that it  
+means nothing more than it says.  
+Don&#x27;t go to law unless you are forced  
+to and ha&gt;- something to lose. In  
+any business, never wade out where  
 you can&#x27;t see the bottom. Put no  
-dependence on a label of a bug, and  
-com,t your money before you re­  
-ceipt for it. See the sack open be­  
-fore yon buv what is in it, for he  
-who Iradea in the dark asks to be  
-cheated.  
-  
-All the calculations of both bime
+dependence on the label of a bag. and  
+count your money before you receipt  
+for it. See the sack open before you  
+buy what is In it, for he who trades  
+id the dark asks to be cheated.”—sx
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F00279523039%2F1894062101%2F1136.jp2/pct:26.717047,41.255729,11.104257,8.139719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033255%2F00514152536%2F1894071201%2F0107.jp2/pct:26.542627,88.279029,9.595074,6.833588/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Prince George's enquirer and southern Maryland advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060124/1894-07-13/ed-1/seq-1)
+
+#### 1894-07-13 &middot; Upper Marlborough, Md.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+exchange. Death; only death.  
+In any business, never wade into wa­  
+ter where you cannot see the bottom.  
+One swallow does not make a sum
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_irving_ver01%2Fdata%2Fsn89060124%2F00415625686%2F1894071301%2F0119.jp2/pct:83.146873,41.217711,10.164467,2.178233/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Mount Holly news._](https://chroniclingamerica.loc.gov/lccn/sn85035801/1894-11-13/ed-1/seq-4)
+
+#### 1894-11-13 &middot; Mount Holly, Burlington Co., N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Go by the book on Beecham’s Pills.  
+In any business, never wade into water  
+where you can not see the bottom
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_junior_ver01%2Fdata%2Fsn85035801%2F00332896933%2F1894111301%2F0434.jp2/pct:44.289898,15.462974,9.549780,1.479341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8934,15 +9715,19 @@ All the calculations of both bime
 #### From _The Council Grove Republican._
 
 #### 1894-11-30 &middot; Council Grove, Kan.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1895-05-17/ed-1/seq-3)
 
 #### 1895-05-17 &middot; Ebensburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-sible advice:  
+  
+the following very sensible advice:  
 &quot;Drink nothing without seeing it, sign  
 nothing w ithout reading it, and make sure  
 that it means nothing mure than it says.  
@@ -8958,7 +9743,7 @@ the sack open before you buy w hat is in
 it, for he w ho trades ir. the dark asks to be  
 cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477758%2F1895051701%2F0231.jp2/pct:21.789608,12.159233,11.085941,5.748831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477758%2F1895051701%2F0231.jp2/pct:21.789608,12.022357,11.085941,5.885708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8967,6 +9752,7 @@ cheated.
 ## [From _Chariton courier._](https://chroniclingamerica.loc.gov/lccn/sn88068010/1895-05-24/ed-1/seq-3)
 
 #### 1895-05-24 &middot; Keytesville, Chariton County, Mo.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9000,6 +9786,7 @@ Dry Goods Co.
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1895-06-05/ed-1/seq-4)
 
 #### 1895-06-05 &middot; Tionesta, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -9024,58 +9811,10 @@ in the dark aides to be cheated.
 
 ---
 
-## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1896-03-04/ed-1/seq-2)
-
-#### 1896-03-04 &middot; Somerset, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Drink nothing without seeing it ; sspn  
-nothing without reading it, and make  
-sure that it means nothing lie re than it  
-says; don&#x27;t go to law unless you aie  
-foiccd to and have nothing to lose; in  
-any business to not wade lire you  
-can&#x27;t s.-e tie; bottom ; put no dependence  
-in the la&#x27;s-1 on a log, and c.nmt inoi.. y  
-liefore you receive it ; see the sack before  
-you buy what is in it, for he who buys in  
-the dark asks ti be cheated.  
-The total vote of the Populist party o
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn84026409%2F00280776531%2F1896030401%2F0316.jp2/pct:46.996255,45.975489,10.277154,5.531633/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1896-03-20/ed-1/seq-3)
-
-#### 1896-03-20 &middot; Ebensburg, Pa.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Drink nothing without seeing it; sigr.  
-nothing without reading it, and make sure  
-that it means nothing more than it says!  
-don&#x27;t go to law unless you are forced to  
-and have nothing to lose; in any business  
-do not w ade w here you can&#x27;t see the lot­  
-tom: put no dependence in the lable on a  
-dog: and count money before yon receive  
-it: see the sack before you buy what is in  
-it, for he who buys in the dark asks to be  
-cheated
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477758%2F1896032001%2F0401.jp2/pct:10.117512,28.589849,11.278303,5.110772/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1896-06-18/ed-1/seq-8)
 
 #### 1896-06-18 &middot; Bloomsburg, Pa.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   

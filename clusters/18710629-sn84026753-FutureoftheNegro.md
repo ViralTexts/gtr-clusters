@@ -8,6 +8,7 @@
 #### From _New National Era_
 
 #### 1871-06-29
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 There seems to be no necessity of taking the lugubrious view of the future of the African race which is so often held. Providence has permitted the representatives of the race in North America to reach a goodly degree of civilization, higher by far than any to which Central and Southern Africans have attained elsewhere any time within historical memory. So high, in fact, that if they were the sole occupants of an adequate are in the South they would be more competent for self-government than the people of many European or Asiatic countries. No colony ever planted has grown so fast, advanced so far, or become so rich as the Africans who came to these western shores within the past century and a half. Bad, mercenary, interested and wicked as were the motives of those who brought their progenitors to this land, the result, under Providence, has been the enhancement of their welfare. While we may pray never to see anything more of that kind of involuntary and unconscious beneficence, we may equally hope that the good which has grown out of the original evil may be permanent, and that the 5,000,000 of the colored race may prosper, improve, and multiply in the full enjoyment of all the fruits of their labors. On this empty continent of ours there is room for us, room for them, and room for a great many millions besides. We welcome the report of the steady though slight increase of numbers among the colored people of our country, and earnestly hope that the statistics of the census of 1880 may show, not only an increase in numbers, but also a great increase in property, comfort, and education. –N.O. Picayune
@@ -18,6 +19,7 @@ There seems to be no necessity of taking the lugubrious view of the future of th
 ## [From _The New York times._](https://iiif.archivelab.org/iiif/sim_new-york-times_1871-06-16_20_6158?page=3)
 
 #### 1871-06-16 &middot; New-York [N.Y.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -44,6 +46,7 @@ ply in the full enjoyment of all the fruits of.
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1871-06-21/ed-1/seq-2)
 
 #### 1871-06-21 &middot; Wheeling, W. Va.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -101,12 +104,15 @@ education
 #### From _The Cleveland morning herald._
 
 #### 1871-06-26 &middot; Cleveland, Ohio
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
 #### 1871-06-29 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -157,6 +163,7 @@ O. Picayune
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1871-06-29/ed-1/seq-1)
 
 #### 1871-06-29 &middot; Manitowoc, Wis.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -187,6 +194,7 @@ It was not made for political effect, bu
 ## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1871-07-01_9_44?page=0)
 
 #### 1871-07-01
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 int,  
@@ -208,12 +216,15 @@ never to see anything more of that kind of invol-. U. Reavie &amp; SES Sa a ae v
 #### From _Morning republican._
 
 #### 1871-08-07 &middot; Little Rock, Ark.
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1871-10-07_25_7?page=15)
 
 #### 1871-10-07 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -232,6 +243,7 @@ the United States, there are four millions
 ## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1871-10-07_25_7?page=15)
 
 #### 1871-10-07 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   

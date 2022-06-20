@@ -1,13 +1,14 @@
 
 # Have We a Fanny Fern Among Us
 
-### 24 reprints from 1855-02-16 to 1855-03-01
+### 20 reprints from 1855-02-17 to 1855-03-01
 
 ## [Have We a Fanny Fern Among Us](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-22/ed-1/seq-3/)
 
 #### From _The Alexandria Gazette_
 
 #### 1855-02-22
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 HAVE WE A FANNY FERN AMONG US -- All the world will read the new Fern book, just received and for sale at *GEO F. FRENCH&#x27;S Book and Periodical Depot.*   
@@ -25,16 +26,10 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### From _The daily Cleveland herald._
 
-#### 1855-02-16 &middot; Cleveland [Ohio]
+#### 1855-02-17 &middot; Cleveland [Ohio]
+
 [This text is not available under an open license.]
----
 
-## Multiple Classified Advertisements
-
-#### From _The daily Cleveland herald._
-
-#### 1855-02-16 &middot; Cleveland [Ohio]
-[This text is not available under an open license.]
 ---
 
 ## Multiple Classified Advertisements
@@ -42,7 +37,9 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 #### From _The daily Cleveland herald._
 
 #### 1855-02-17 &middot; Cleveland [Ohio]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Multiple Classified Advertisements
@@ -50,7 +47,9 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 #### From _The Boston daily Atlas._
 
 #### 1855-02-17 &middot; Boston [Mass.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Multiple Classified Advertisements
@@ -58,7 +57,9 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 #### From _The Boston daily Atlas._
 
 #### 1855-02-17 &middot; Boston [Mass.]
+
 [This text is not available under an open license.]
+
 ---
 
 ## Multiple Classified Advertisements
@@ -66,12 +67,15 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 #### From _The daily Cleveland herald._
 
 #### 1855-02-19 &middot; Cleveland [Ohio]
+
 [This text is not available under an open license.]
+
 ---
 
 ## [From _Daily American organ._](https://chroniclingamerica.loc.gov/lccn/sn85042002/1855-02-21/ed-1/seq-3)
 
 #### 1855-02-21 &middot; Washington, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -90,14 +94,10 @@ and Ruth Hall; and the reader will find that the
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-21/ed-1/seq-3)
 
 #### 1855-02-21 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nto  
-consideration the best mode and route ol in iking  
-a liee road front Linden Station to Hint Hill.  
-All persons who feel mteiested in said road are  
-earnestly requested to aTTeiid. LINDEN.  
-leb D»—eo3t  
+  
 Have we a fanny fern among  
 l/S._All the world will read the new  
 Pern book, just received and lor sale at GEO  
@@ -113,7 +113,7 @@ Fein Leaves and Ruth Hall. I all early* and se­
 cure a copy. GEO. e. y ren&lt; h.  
 :eb -M [Pied. Whig &amp; Rockingham Reg.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022101%2F0037.jp2/pct:15.915769,46.690888,12.686908,9.683931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022101%2F0037.jp2/pct:15.974535,49.611740,12.628142,6.763079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,6 +122,7 @@ cure a copy. GEO. e. y ren&lt; h.
 ## [From _The national era._](https://chroniclingamerica.loc.gov/lccn/sn84026752/1855-02-22/ed-1/seq-3)
 
 #### 1855-02-22 &middot; Washington [D.C.]
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -142,6 +143,7 @@ Fanny Fern
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-02-22/ed-1/seq-3)
 
 #### 1855-02-22 &middot; Bath, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -160,6 +162,7 @@ ny is not Ruth Hall, who is Fanny Fern ? The life an
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-02-22/ed-1/seq-3)
 
 #### 1855-02-22 &middot; Bath, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -177,6 +180,7 @@ AUTHOR OF FERN LEAVES AND RUTH HALL
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-02-22/ed-1/seq-2)
 
 #### 1855-02-22 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -198,6 +202,7 @@ THE LIFE and BEAUTIES ofFANJi Y FER
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-02-22/ed-1/seq-2)
 
 #### 1855-02-22 &middot; Nashville, Tenn.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -216,6 +221,7 @@ Author or Fern I.enes and Ruth Hal
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-22/ed-1/seq-3)
 
 #### 1855-02-22 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -245,19 +251,45 @@ j teh VI [Pied W hig \ Rockingham Reg
 #### From _Daily national intelligencer._
 
 #### 1855-02-23 &middot; Washington City [D.C.]
+
 [This text is not available under an open license.]
+
+---
+
+## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1855-02-25/ed-1/seq-1)
+
+#### 1855-02-25 &middot; New York [N.Y.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+C.  
+A~ LL THE WORLD WILL READ THIS  
+BOOK.  
+NOW READY TO SEND BY MAIL TO ANY ONE ON RECEIPT OF ONE  
+’DOLLAR.  
+THE LIFE AND BEAUTIES  
+OF  
+F A M 28 Y F K It N .  
+In One Vol. 12m0., cloth. Price 51.  
+WHO IS r’uTII HALL ?  
+IS RUTH HALL FANNY FERN,  
+OR SOMEBODY ELSE?  
+AND IF FANNY FERN IS NOT RUTH HALL,  
+WHO 18 FANNY FERN
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_barnes_ver02%2Fdata%2Fsn83030364%2Fprint00211110053%2F1855022501%2F0001.jp2/pct:58.047458,14.109068,12.260043,5.754597/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
 ---
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-26/ed-1/seq-4)
 
 #### 1855-02-26 &middot; Alexandria, D.C.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-of Dental Sett nee. edit­  
-ed by Chapin A Harris. M. D„ and A. Snowden  
-Piggott. M.iV.vol. I. new scries, for January.  
-1 Sjo. price5”) per annum. Just puhli.-hed and  
-for sale, by [t« h 1Y0 ROBF.K l BELL  
+  
 Have we a fanny fern a mono  
 P.’s—All the world will read the new  
 Fein book, lust received and lor sale at (IFO.  
@@ -273,43 +305,7 @@ Fern Leaves and Ruth Hail, t all early and se­
 cure a copy. (iLO. E. FRENCH,  
 teb v.&#x27; 1 [Pied. Whig A Rockingham Reg 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022601%2F0050.jp2/pct:59.956667,56.077289,12.599304,9.152045/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Multiple Classified Advertisements
-
-#### From _Daily national intelligencer._
-
-#### 1855-02-26 &middot; Washington City [D.C.]
-[This text is not available under an open license.]
----
-
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-27/ed-1/seq-4)
-
-#### 1855-02-27 &middot; Alexandria, D.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- Dental Science, edit- ;  
-ed by Chapin A. Harris. M. D.. and A. Snowden  
-Piggott. M D.. vol. I. new series, for January.  
-I *55. price $5 per annum. Just published and  
-tor sab*, by [teb to] ROBERT BELL |  
-Have we a fanny fern among j  
-1&#x27;S.—All the world will read the new 1  
-Fern book, |ust received and tor sale at tlb.O. \
-F. FRFM’H S Book and Periodical Ikfnet.  
-The Life ai d beauties ot FanilV Fein, in one  
-volume 12 mo cloth, price .*fi. Who is Ruth  
-Hall-&#x27; Is Ruth Hall Fanny Fein or somebody  
-fuse&#x27; And if Faunv Fern is not Ruth Hall,  
-W&#x27;h«&gt; is Fanny Fein7 This i- the wittiest book  
-nflhe season. It piesenis vivid lile-like pie- i  
-lures oi the chat miiig and brilliant 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022701%2F0054.jp2/pct:72.666343,56.245973,12.805569,7.755268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022601%2F0050.jp2/pct:59.956667,58.663067,12.599304,6.566266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,17 +314,16 @@ lures oi the chat miiig and brilliant
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-03-01/ed-1/seq-3)
 
 #### 1855-03-01 &middot; Bath, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-• ___ __  
-All the World will Read this i»o!&gt;k.  
 I HE LIFE i BEAUTIES OF FANNY FERN. In one  
 • Volume, I2mo.,cloth, Price $1 Who is Itutii Hail?—  
 Is Ruth Hall Fanny Fern, or somebody else ? And u Fan­  
 ny is not Ruth Hall, who is Fanny Fern ? The life an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855030101%2F0038.jp2/pct:29.949054,65.526316,12.449964,2.690443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855030101%2F0038.jp2/pct:29.949054,66.814404,12.449964,1.402355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,6 +332,7 @@ ny is not Ruth Hall, who is Fanny Fern ? The life an
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-03-01/ed-1/seq-3)
 
 #### 1855-03-01 &middot; Bath, Me.
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
@@ -353,52 +349,13 @@ AUTHOR OF PERN LEAVES AND RUTII HALL
 
 ---
 
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-03-01/ed-1/seq-4)
-
-#### 1855-03-01 &middot; Alexandria, D.C.
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Have we a fanny fern amov­  
-es*— All the world will rra«l I :*»- i r\s  
-Fern book, just received anil !»»r &gt;ale at L / **  
-E EREXCH&#x27;S Hoot, and [\nudvul l r, i  
-The Lite and U-aiitir* ot Fanny Fern in •  
-volume 12 niocloth, price Jj»l. Who i** l»  
-Hal!&#x27; U Until Hall Fanny Fern *»r *&#x27;ii:»i  
-else&#x27; Anil it Fanny Fein is not Ruth II»  
-Who is Faiii&#x27;V* Fen;&#x27; This i» the Wittiest :  
-ot the sea»on. It present* vivid hte like j1 *  
-turesot the charming and brilliant •  
-Fern Leaves and Ruth Hall. Call early at : &#x27;&#x27;  
-cure a copy. GEO. K. FREM H  
-teh 21 [ Pied. Whig &amp; Rockingham Reg 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855030101%2F0062.jp2/pct:86.303775,67.194861,12.909310,6.726148/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Multiple Classified Advertisements
-
-#### From _Bangor daily Whig & courier._
-
-#### 1855-03-01 &middot; Bangor, Me.
-[This text is not available under an open license.]
----
-
 ## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3?page=19)
 
 #### 1855-03-01 &middot; Philadelphia
+
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-All the World will Read this Book.  
-  
-NOW READY TO SEND BY MAIL TO ANY ONE ON  
-OF ONE DOLLAR.  
   
 THE LIFE AND BEAUTIES  
   
@@ -411,9 +368,20 @@ or else? And if Fanny Fern is not
 th Hall, who is Fanny Fern.  
 The Life and _——- of Fant  
   
-fore the , and the wor
+fore the , and the wor!  
+  
+_ And this book a strange tal  
+  
+The present work is authentic in all its de-  
+tails. ose who have read the advance ance ORY,  
+  
+| | it the wittiest, spiciest book  
+for « single insertion, at the rates above named, should | opened « School for the study of Agriculture, where |  
+  
+—&#x27; vivid, life-like pictures of the  
+Pion d brilliant Author of Fern Leaves 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3&#0036;19/pct:51.610905,11.521526,19.237918,9.858121/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3&#0036;19/pct:11.617100,14.187867,59.665428,12.524462/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
