@@ -23,13 +23,13 @@
 * [The Footsteps of Decay](clusters/18640117-sn82015407-TheFootstepsOfDecay.md): 270 reprints from 1824-01-01 to 1899-07-13
 * [Four Good Habits](clusters/18520309-sn85026466-FourGoodHabits.md): 122 reprints from 1833-05-07 to 1899-12-16
 * [A Fragment Found in a Skeleton Case](clusters/18360226-sn83035366-FragmentFoundInASkeletonCase.md): 174 reprints from 1815-11-01 to 1899-06-05
-* [From _Bucks Chronicle and Bucks Gazette_](clusters/Manhood Buck's Chronicle 21 June 1851.md): 162 reprints from 1850-08-24 to 1855-12-08
-* [From _Globe_](clusters/Untrodden Fields Globe 10 November 1896.md): 9 reprints from 1896-10-22 to 1898-10-31
-* [From _Lyon County Times_](clusters/Philosophy of Marriage Lyon County Times 14 November 1896.md): 92 reprints from 1896-10-24 to 1899-02-22
-* [From _Odd Fellow_](clusters/Silent Friend Odd Fellow 4 December 1841.md): 131 reprints from 1841-12-04 to 1846-07-20
-* [From _Sheffield Independent_](clusters/Manly Vigour Sheffield Independent 24 June 1843.md): 387 reprints from 1842-01-30 to 1896-11-10
-* [From _Sheffield Independent_](clusters/Self Preservation Sheffield Independent 24 June 1843.md): 580 reprints from 1841-05-22 to 1896-11-10
-* [From _Western Times_](clusters/Man and Woman Western Times 13 May 1854.md): 15 reprints from 1853-05-13 to 1855-02-16
+* [From _Bucks Chronicle and Bucks Gazette_](clusters/Manhood%20Buck's%20Chronicle%2021%20June%201851.md): 162 reprints from 1850-08-24 to 1855-12-08
+* [From _Globe_](clusters/Untrodden%20Fields%20Globe%2010%20November%201896.md): 9 reprints from 1896-10-22 to 1898-10-31
+* [From _Lyon County Times_](clusters/Philosophy%20of%20Marriage%20Lyon%20County%20Times%2014%20November%201896.md): 92 reprints from 1896-10-24 to 1899-02-22
+* [From _Odd Fellow_](clusters/Silent%20Friend%20Odd%20Fellow%204%20December%201841.md): 131 reprints from 1841-12-04 to 1846-07-20
+* [From _Sheffield Independent_](clusters/Manly%20Vigour%20Sheffield%20Independent%2024%20June%201843.md): 387 reprints from 1842-01-30 to 1896-11-10
+* [From _Sheffield Independent_](clusters/Self%20Preservation%20Sheffield%20Independent%2024%20June%201843.md): 580 reprints from 1841-05-22 to 1896-11-10
+* [From _Western Times_](clusters/Man%20and%20Woman%20Western%20Times%2013%20May%201854.md): 15 reprints from 1853-05-13 to 1855-02-16
 * [The Future of the Negro in America](clusters/18710629-sn84026753-FutureoftheNegro.md): 10 reprints from 1871-06-16 to 1871-10-07
 * [God](clusters/18380718-sn83025661-God.md): 394 reprints from 1821-02-17 to 1898-12-16
 * [The Golden Side](clusters/18680107-sn84020712-TheGoldenSide.md): 171 reprints from 1868-01-07 to 1899-11-30
