@@ -1,7 +1,7 @@
 
 # How to Treat Insect Stings
 
-### 63 reprints from 1874-10-09 to 1898-04-23
+### 64 reprints from 1874-10-09 to 1898-04-23
 
 ## [How to Treat Insect Stings](https://chroniclingamerica.loc.gov/lccn/sn82014805/1877-02-12/ed-1/seq-4/)
 
@@ -28,6 +28,8 @@ If the sting be severe, rest the coolness (sic) should be added to the other rem
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ed, to get cooled as soon as possible.  
+and to avoid becoming heated again for  
 at least two days. Nothing is so npt to  
 make the poison active as heat, and  
 nothing favors its activity less than  
@@ -38,7 +40,7 @@ exertion, whereby the circulation is
 qnickened, will increase both pain and  
 aweuing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1874100901%2F0386.jp2/pct:4.803726,68.832156,9.886893,3.715372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1874100901%2F0386.jp2/pct:4.803726,68.049973,9.886893,4.497556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +252,9 @@ den
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ner- .  
+  
+ui&#x27;-- -lionl&#x27;l be added to the other reme­  
+died. more especially in the c.i-c ot ner- .  
 v- - sub&#x27;ll nl-. \ thing i- to  
 make the poison active a- beat, and no- j  
 thing favors i s activity b -s than eolti.  
@@ -268,7 +272,7 @@ such rases, medical advice should a&gt;­
 vvays be -ought a- de.ot k« pr-*ible.—  
 Ismilon (Jarilrn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895382%2F1877022201%2F0449.jp2/pct:15.717263,20.375611,11.240882,8.737458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895382%2F1877022201%2F0449.jp2/pct:15.699896,19.719578,11.258249,9.393491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,13 +373,31 @@ Baklna Meats. Baking is a mor
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5?page=6)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5?page=6)
 
 #### 1877-05-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-he poor fellows talk ; there  
+o him  
+as fresh air; they keep him alive and  
+active. A celebrated character, who  
+was surrounded with enemies, used to  
+remark: ‘They are sparks which, if  
+you do not blow, will go out of them-  
+selves.” Let this be your feeling while  
+endeavoring to live down the scandal  
+of those who are bitter against you. If  
+you stop to dispute, you do but as they  
+desire, and open the way for more  
+  
+  
+  
+  
+  
+  
+  
+abuse. Let the poor fellows talk ; there  
 will be a reaction if you perform but  
 your duty, and hundreds who were  
 once alienated from you will flock to  
@@ -431,7 +453,7 @@ such cases, medical advice should al-
 ways be sought as soon as possible.—  
 London Garden.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5&#0036;6/pct:71.237374,9.985041,20.909091,52.991773/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5&#0036;6/pct:50.000000,9.985041,42.146465,82.741212/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +465,20 @@ London Garden.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ls, as well as beys,  
+nt&#x27;s geodwe said;  
+But new they say, &quot;Writ, that aid plum  
+Has got a level bead!&quot;  
+It&#x27;s rather sad the children sow  
+Are learning such talk;  
+They&#x27;re learned to &quot;shin&quot; instead ef chat,  
+Aud &quot;wait!&quot; instead af walk.  
+To little Harry, yesterday?  
+My grandchild, aged two?  
+I.said, &quot;You love grandpa f&quot; laid he,  
+&quot;Teu bet your boots I do !&quot;  
+The children bewed to strangers onee;  
+It ia no longer so?  
+Tbe littlo girls, as well as beys,  
 Kow greet you with &quot;Hallo!&quot;  
 Ob. give mo back the good eld days.  
 When both the old and young  
@@ -489,7 +524,7 @@ times lead to serious conecquences ; in such
 cases medical advice should always be sought  
 as soon as possiblo.?London Garden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F0020219235A%2F1877060501%2F0094.jp2/pct:1.821015,30.135135,14.122885,25.743243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F0020219235A%2F1877060501%2F0094.jp2/pct:1.821015,22.721471,14.122885,33.156907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +595,16 @@ ways be sought as soon as possible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ll  
+that a beauty  
+so delicate was equally perishable. The gen­  
+eral appearance of the bed, however, was  
+quite impaired by the drought. The leaves of  
+the Phlox were wilted, aud the buds dried  
+up before they could fairly open. The Linum,  
+with flowers more rugged than the foliage,  
+bloomed upon leafless stems. The Achania  
+and Shell Flower alone endured the drought  
+without material injury. In fact, the Shell  
 Flower as if drought were precisely the thing  
 needed, grew luxuriantly until long after  
 frosts.  
@@ -605,7 +649,7 @@ times lead to serious consequences; in such
 cases medical advice should always be sought  
 as soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_farmington_ver01%2Fdata%2Fsn83016025%2F00279525425%2F1877062901%2F0594.jp2/pct:5.719378,24.163748,10.956740,17.199010/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_farmington_ver01%2Fdata%2Fsn83016025%2F00279525425%2F1877062901%2F0594.jp2/pct:5.719378,20.673832,10.956740,20.688926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +878,21 @@ soon as possible. Uanlen
 | The pain caused by the sting of a plant or in-  
 | sect is due to the acid poison injected into the  
 blood. An exchange gives the following direc-  
-| tions, which, if obeyed, are likely to eradicate  
+| tions, which, if obeyed, are likely to eradicat
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:71.767001,35.231587,21.348941,3.929385/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
+
+#### 1878-06-20 &middot; Boston
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
 the pain:  
 | The first thing to be done is to press the tube  
 | of a small key from side to side to facilitate the  
@@ -842,9 +900,13 @@ the pain:
 |son. The sting, if left in the wound, should be  
 | carefully extracted, otherwise it will greatly in-  
 crease the local irritation,  
-The poison of stings being acid, common-sense
+The poison of stings being acid, common-sense  
+  
+  
+  
+sissippi meridian for dramas of “Indian” life | points to the alkalies as the proper means of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:71.767001,35.231587,21.544036,9.206530/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:50.724638,39.331815,42.614270,5.941534/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,9 +922,10 @@ The poison of stings being acid, common-sense
 mong the most easily-procured remedies  
 may be mentioned soft soap, liquor of ammonia  
   
-In one of the frontier counties of Texas, re- (spirits of hartshorn), smelling salts, washin
+In one of the frontier counties of Texas, re- (spirits of hartshorn), smelling salts, washing  
+cently, a boy, while out in search of some sad- ; Soda, quicklime made into a paste with water,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:51.755853,45.690964,41.666667,2.069096/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:50.836120,45.690964,42.586399,2.714503/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,10 +1287,11 @@ j soon as possible. Garden.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+to the non- reading farmer, whose cupid- amount of acid poison injected in the  
 ity tempts him to put faith in oily gam- blood. The first thing to be done is to  
 mon sharks.- Prairie Farmer. press the tube of a small key firmly on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.192619,37.812671,21.690708,1.011463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.192619,37.385608,21.690708,1.438526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,9 +1342,15 @@ washing soda, quick-lime made into a
   
 points to the alkalies as the  
   
-paate with water,
+paate with water,  
+  
+lime-water, the juice  
+  
+onioD) tob&#x27;acco juice  
+  
+rn the handling of milk. Wooden pails bacco bruised dock leaves, tomato juice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.225496,40.596603,28.253812,4.472915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.225496,40.596603,28.253812,5.384838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1317,8 +1387,6 @@ sought for as soon as possible.—New,ten
 
   
   
-pain caused by the sting of a&#x27;gjn.  
-  
 the non-reading farmer, whose cupid- amount of acid poison injected in the 7  
   
 poison 01 sungs Deiug aciu, com  
@@ -1332,7 +1400,7 @@ I preparation of whitewash equals this for ,soaP. liquor of ammonia but a single
   
 that high and low grades of sugar be ad- *ou^try houses- (spirits of hartshorn), smelling salts, Times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:50.304367,36.445937,43.465294,7.674344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:50.304367,37.354447,43.465294,6.765835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1474,7 +1542,15 @@ for as soon as possible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t fire at Pera in  
+MISCELLANEOUS. Dr. Millingen, the  
+surgeon who attended Lord Byron in his  
+last illness, died at Constantinople on  
+the 1st inst. The Daily News  
+correspondent says that Dr. Millingen  
+had written an account of his  
+intercourse with Byron, which he  
+intended to publish, but all his papers  
+were burned in the great fire at Pera in  
 1870, and he never re-wrote his  
 reminiscences. A large sperm whale, over  
 60 feet in length, has been found on the  
@@ -1519,7 +1595,7 @@ dr»p or two of laudanum. Stings in the
 eye, ear, mouth or throat sometimes lead  
 to serious consequences ; in such cases  
 medical advice should always be sought  
-for as soon as possible. Melbourn
+for as soon as possible. Melbourne
 </td></tr></table>
 
 ---
@@ -1532,7 +1608,17 @@ for as soon as possible. Melbourn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ral  
+y as to the rule being  
+constantly broken ; but he did not see  
+the accident. Mr. Pinhey appended the  
+following finding to the depositions : —  
+&#x27; I find that .the deceased, Patrick  
+Curran, came by his death by having  
+injudiciously run between the buffers of  
+certain trucks when in motion at the  
+railway station, Redfern, on Saturday  
+morning, which act was in direct  
+contravention of rule 243 of the geueral  
 regulations for railway officials and  
 others, and which breach it is evident  
 from the evidence adduced before me is  
@@ -1645,7 +1731,9 @@ for as&#x27; soon as possible. THE Londo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lting of;, a  
+  
+&#x27;g t out the lbiestway shecan ,e Sciucos  
+The paia` caiiiised by ,tlielting of;, a  
 plantoroinsect is tho&#x27;rcsult &quot;of &#x27;a  
 &#x27;ceritain&#x27; amount of acid poiion  
 finjeted. eito th blood. Tlihe fis  
@@ -1679,7 +1767,16 @@ nothing ltiVoulrs its .ctivity icss
 thiini cold. Let the lbody be kol)t cool  
 inid at rest,c and the activity of thle  
 poison will be reduced to a  
-mieilieueeee. eAny active exertio
+mieilieueeee. eAny active exertioen  
+chereby the circulalion is quickcned  
+will isrease bhite pain and swelling.  
+Ii&#x27; the swelling be severc thle par may  
+eb rlcubbed withl l s\eet oic, or ctel c  
+w of lhudaiee. Stings ic ftle cyc, c l,  
+leueli, or tihroat soluefien&#x27;s leaid to  
+secricoui; consequeniccesi . In suchi  
+ca;c. dical advicelic slhoetl clrways ie  
+soughte for ac:c aseoi l possiblel.--Co
 </td></tr></table>
 
 ---
@@ -1690,8 +1787,7 @@ mieilieueeee. eAny active exertio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ghmds oi  
-tho neck aro swollen.  
+  
 A Chapter on Stings.  
 The psin caused by tho sting of n  
 plant or insect is Uio result of a certain  
@@ -1733,7 +1829,7 @@ sometimes lead to serious consequences;
 in such ca?cs medical advico should al  
 ways bo sought for as soon us fJotwible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559942%2F1879053001%2F0099.jp2/pct:71.109993,32.703452,10.798122,17.989418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559942%2F1879053001%2F0099.jp2/pct:71.109993,34.391534,10.798122,16.301335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2017,7 +2113,22 @@ sought as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+gin  
+of the oil is that the oil sands are the  
+mere reservoirs which contain the prod­  
+uct of the decompositioil of vegetable  
+and animal life of the Devonian epoch.  
+A new foot-warmer has been intro­  
+duced for public comfort in cabs and  
+other vehicles in France. A sheet-iron  
+box is used with a sliding drawer, over  
+which the air, which is admitted at one  
+end, may pass before it esoapes at holes  
+in the other end. Into this drawer a  
+briquette of pure compressed carbon  
+raised to a red heat is placed, and it  
+continues to burn there, without giving  
+forth any disagreeable odor, for about  
 fourteen hours.  
 The pain caused by the sting of a  
 plant or insect is the result of a certain  
@@ -2032,7 +2143,7 @@ paste with water, the juice of an onion,
 tobacco juice, chewed tobacco, bruised  
 dock leaves and carbon of soda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665829%2F1880021901%2F0150.jp2/pct:66.023256,60.898380,14.488372,6.980854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665829%2F1880021901%2F0150.jp2/pct:66.023256,52.135493,14.488372,15.743741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2044,7 +2155,19 @@ dock leaves and carbon of soda
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-perimental ma­  
+ cochineal has had its  
+day, and that the new color will take its  
+place.  
+Geese are raised for their feathers  
+  
+in Texas. One goose ranch in Western  
+Texas has overoOO geese, whose feathers  
+are plucked every two months, each one  
+averageing a ponud and a half a year.  
+A species of dwarf cactus, abundant  
+in Lower California, is rich in fiber,  
+said to be excellent for mattresses. It  
+is reported that an experimental ma­  
 chine, costing only $400, converts the  
 raw material into white, elastic fiber  
 with great rapidity, and promises to  
@@ -2062,7 +2185,7 @@ ing soda, quicklime made into a paste
 with water, the juice of an onion, tobac­  
 co juice, bruised dock leaves and carbo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F0021247003A%2F1880021901%2F0066.jp2/pct:56.750044,54.992895,12.329253,8.538948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F0021247003A%2F1880021901%2F0066.jp2/pct:56.750044,49.308875,12.329253,14.222969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2074,13 +2197,30 @@ co juice, bruised dock leaves and carbo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ttrn a new novel, en&#x27;i­  
+tied &quot;Moth .&quot;  
+There are 82 Mormon Churches in Eng­  
+Ilud and Ireland.  
+tis. Southwotth, the proliflo novelist,has  
+never kno.wu a well day.  
+Bristow, who is growing fat, has been  
+male a sooial lion in Boston.  
+The ministers in the United States :v­  
+erage about $25 a year from marriage fees.  
+It is estimated that Vanderbilt could sell  
+out at prevent for considerably oser $100,­  
+000,000.  
+-More than one-half of the glass used  
+in the United States is produced in Pitts­  
+burg, Pa.  
+Women are fond of flowers because they  
+resemble them. They never shnt up ex­  
 ept when they are asleep.  
 The pain caused by the sting of a plant  
 or an insect is the result of a oertain amount  
 of acid poison injected into the system
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00212477047%2F1880022001%2F0033.jp2/pct:29.550758,66.381857,10.997666,1.909283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00212477047%2F1880022001%2F0033.jp2/pct:29.390315,56.613924,11.158110,11.677215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2092,7 +2232,23 @@ of acid poison injected into the system
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+au thing,” says Julia, “that  
+I wish you hadn’t a brooch to your  
+back! ” “And I hate you so,’’ re­  
+torts Pauline, that it&#x27; you were  
+drowning before my eyes I wouldn’t,  
+lift my little finger to give you a cup  
+of cold water—there ! ”  
+Fence posts or timber cut for other  
+purposes in September will be more  
+durable than if cut at any other sea­  
+son. Many farmers give it as their  
+experience that feuce posts cut in  
+August or September will outlast by  
+many years others that are cut in  
+winter or spring; and if t.he ground  
+ends ol gate posts are slightly  
+charred before sinking they will not  
 rot for years.  
 The pain caused by the sting of a  
 plant or insect is the result of &quot;a cer­  
@@ -2110,7 +2266,7 @@ dock leaves and carbou of soda.
 “1 wonder what makes it look so  
 dark and gloomy out of doors,” sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271761491%2F1880022501%2F0058.jp2/pct:76.156725,70.556065,15.593105,11.075417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271761491%2F1880022501%2F0058.jp2/pct:76.156725,59.209117,15.593105,22.422365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2151,7 +2307,6 @@ leaves and carbon of soda
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-fourteen hours.  
 —The pain caused by the sting of a  
 plant or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -2165,7 +2320,7 @@ paste with water, the juice of an onion,
 tobacco juice, chewed tobacco, bruised  
 dock leaves and carbon of soda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588289%2F1880022801%2F0069.jp2/pct:63.117172,59.894479,13.910381,6.764650/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588289%2F1880022801%2F0069.jp2/pct:63.117172,60.501225,13.910381,6.157905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2178,12 +2333,11 @@ dock leaves and carbon of soda
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-the Picayune N. O, Pic  
 &quot;The pain caused by the sting of an  
 insect is the. result of a certain amount of  
 acid poison injected into the blood,&quot; says 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_columnist_ver01%2Fdata%2Fsn92053943%2F00295873152%2F1880033001%2F0614.jp2/pct:59.624981,15.978477,12.641766,2.035326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_columnist_ver01%2Fdata%2Fsn92053943%2F00295873152%2F1880033001%2F0614.jp2/pct:59.624981,16.563341,12.641766,1.450462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2312,6 +2466,16 @@ sible.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+onion, tobacco juice, or tho oxpressed  
+juioo of any green leaf. As animal  
+poisons deoxidize the blood, their  
+antidotes will bo anything that oon  
+tains run oh oxygon. The poison of tho  
+boo being an acid, an alkali must be  
+employed to neutralize it. One great  
+essential is, if boated, to got coolod  
+as soon as possible, and to avoid  
+becoming heated again for at least two  
 days. Nothing tends so much to make the  
 poison active as heat, and nothing  
 favours its activity loss than cold. Let  

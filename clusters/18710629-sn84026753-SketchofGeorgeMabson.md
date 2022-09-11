@@ -286,11 +286,9 @@ be says:
 setR **Te lrrtscaof orgeL&amp; Mab­  
 isoearsn, the colored member from this  
 snB eizifty.ia b nosst5.gislatsewbrp  
-.ng has beein making apphalcaio for  
-Ik M sse geiuste have at last  
-our be
+.ng has beein making apphalcaio fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871071301%2F0247.jp2/pct:28.190299,26.332998,15.485075,65.228873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871071301%2F0247.jp2/pct:28.190299,26.332998,15.485075,63.883300/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +300,11 @@ our be
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e fas inste..e am  
+  
+nor sekhas a3q -.  
+  
+&#x27;Taking into asa raMh a , arg  
+fact that this is the fas inste..e am  
 in which a eolbred men has been  
 admitted to the bar gt Noath Care. -  
 lina, it may not be amise to give a i  
@@ -358,7 +360,7 @@ reipwonulity; de
 From dark ignorance to Liberty&#x27;s shining th  
 light
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871071301%2F0247.jp2/pct:42.276119,14.134809,14.925373,36.745473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871071301%2F0247.jp2/pct:30.335821,13.405433,26.865672,84.054326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

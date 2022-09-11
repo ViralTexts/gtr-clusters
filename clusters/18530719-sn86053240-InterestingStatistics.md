@@ -1,7 +1,7 @@
 
 # Interesting Statistics
 
-### 262 reprints from 1851-10-18 to 1899-11-16
+### 251 reprints from 1851-10-18 to 1899-11-16
 
 ## [Interesting Statistics](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-07-19/ed-1/seq-1/)
 
@@ -44,12 +44,10 @@ Some of these statements are rather singular, and yet many of them are susceptib
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-contains the following singular summary:  
-&quot;There ars 3064 languages spoken throughout  
 the world?587 in Europe, 937 in Asia, 276  
 in Africa, and 1264 in America. The numbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn93067976%2F00202193985%2F1851111101%2F0251.jp2/pct:2.015957,21.810992,18.655217,2.744168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn93067976%2F00202193985%2F1851111101%2F0251.jp2/pct:2.143858,22.977461,18.527316,1.577699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,11 +72,6 @@ in Africa, and 1264 in America. The numbe
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-almost valueless, and that in South  
-America vast herds of cattle are  
-annually slaughtered for the sake of  
-their hides alone. BABEL.—There are  
-3,064 languages spoken throughout the  
 world 587 in Europe, 937 in Asia, 276 in  
 Africa, and 1,264 in America. AUSTRALIA
 </td></tr></table>
@@ -94,12 +87,20 @@ Africa, and 1,264 in America. AUSTRALIA
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-AND PEOPLE.-A Spanith jour-nal contains  
-the following singular summary : -&quot;  
-There are 3,064 langflages spoken  
 through-out tho world,-637 in Europe,  
 937 in Asia, 276 in Africa, and 1,264 in  
-America. The number of ma&#x27;cs is nearl
+America. The number of ma&#x27;cs is nearly  
+equal to females Tho average of human  
+life is 38 years ; a fourth i of the  
+population die before the age of four  
+year», the half hefoie that of seventeen  
+years ; such as survive these periods  
+enjoy a measure of health which is  
+denied to the ether half of i the human  
+race. HORACE WALPOLE AT ETON.-The  
+following &amp;nbsp; anecdote of Horace  
+Walpole while at Eton was related by the  
+learned Jacob Bryant, one of hi
 </td></tr></table>
 
 ---
@@ -113,8 +114,6 @@ America. The number of ma&#x27;cs is nearl
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-the following singular summary:— &amp;nbsp;  
-&quot;There are 3064 languages spoken  
 throughout the world—587 in Europe, 937  
 in Asia, 276 in Africa, and 1264 in  
 America. The number of males is nearl
@@ -159,11 +158,9 @@ refused to onedialf ihc human species.
 To every 1000 persons only 1 reaches  
 100 years of life ; lo etcry 100 only C  
 reath Ihe age of fifi, nnd not more than  
-1 in 500 leaches the age of 80. There  
-are on the rarlh 1 ,000,000,000 inhabit­  
-nuts, and of these
+1 in 500 leaches the age of 80. Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84022366%2F0020029015A%2F1853051401%2F0076.jp2/pct:41.798942,52.175891,10.934744,13.070508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84022366%2F0020029015A%2F1853051401%2F0076.jp2/pct:41.798942,52.175891,10.934744,11.948446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +172,17 @@ nuts, and of these
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r nflcrwnrds.  
+n-ry day, 3,730 etery  
+hour, CO every ininnte, or 1 etery sec­  
+ond. These loses ni i! nliout balanced by  
+an equal number of births. The mar­  
+tini are longer liicd than the single,  
+nnd, n!iou- all, J hose who oberte a so­  
+ber and industrious conduct. Tall mi-ii  
+lite longer than short ones. Women  
+hate more chances of life in Iheir faior  
+pretious lo being .10 years of nge, than  
+than men hate, but fewer nflcrwnrds.  
 The number of marriages is in proior-  
 lion nf 17&quot;i lo etcry 1000 indit idnals.  
 Mnrriases nre mom frequent after Ihu  
@@ -196,9 +203,19 @@ innitlhs in tint your, was juil what wo
 always sue-MM-ted wo the rase. Those  
 wlio marry In June do so lawnuie thej­  
 eaa&#x27;l help it ; while those whor-oriuubl-aViie  
-in
+in Drreniber, do so, doubtless, to  
+guanl aictiinit the chilly -illawf which  
+dbllngHiali I bo frot.bitlt&#x27;n inonlhs of  
+winter. Tlae istnlelies whirh rewr off  
+In Juar nre roMmunly lose inali l,  
+ninl are broagU abowt by green fleidc  
+1 and Ihe roalagbau iaftiiMMw of UJo­  
+&#x27; links ami yellow birds while lhna  
+&#x27; wbieii liajafien in Demlr are brought  
+aUaol. in a great! degree, by tuixlsrg Jiin  
+laallieHiali wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84022366%2F0020029015A%2F1853051401%2F0076.jp2/pct:42.014501,71.144807,10.856359,12.357847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84022366%2F0020029015A%2F1853051401%2F0076.jp2/pct:41.798942,65.352540,11.150304,23.851403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,11 +551,6 @@ dergarments
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hy, unprofita­  
-ble clerks have been properly removed, others,  
-good and efficient, have been unjustly dealt  
-with,and a number of beardless, ignorant youths  
-substituted for them.  
   
 Interesting Miscellany—Interesting Statis­  
 tics. —A gentleman who keeps the run of facts  
@@ -597,7 +609,7 @@ which happen in December are brought about,
 in a degree, by mixing plain mathematics with  
 the market value of flannel undcr-garments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853072301%2F0336.jp2/pct:4.626270,34.082347,14.695210,34.808934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853072301%2F0336.jp2/pct:4.626270,37.567277,14.695210,31.324004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,13 +673,14 @@ frequently in June and December, than
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+oie-half the human species. To every 1,000 on the route beyond St. Charles actively engsg­  
 pereons, only one reaches 100 years of age to  
 every 190, only six reach the age of 66, and not  
 more than one in 500 lives lo 80 years of agtv  
   
 any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853072701%2F0418.jp2/pct:2.665179,10.823242,11.032602,10.773178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86083363%2F00415668831%2F1853072701%2F0418.jp2/pct:2.665179,10.457148,22.304863,11.139272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +791,17 @@ degree, by mixing plain mathematics with
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ee, und North Carolina, in August next,  
+sfactory as  
+could, under the circumstances, have been ex­  
+pected.  
+It is therefore desirable that this system  
+should be continued in the different states at all  
+future elections of a local or general nature ;  
+and the Board of Managers indulges the hope  
+that on this occasion at the elections to be held  
+in the respective states of Arkansas, Alabama,  
+Indiana, Iowa, Kentucky, Missouri, Texas, Ten­  
+nessee, und North Carolina, in August next,  
 contributions will be made in aid of the Mon­  
 ument, worthy of the Countrymen of their illus­  
 trious benefactor. G eo. W atterson,  
@@ -841,7 +864,7 @@ happen in December are brought about, in a de­
 gree, by mixing plain mathematics with the  
 market value of flannel under-garments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1853080601%2F0038.jp2/pct:31.621916,46.379310,14.332366,29.544335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1853080601%2F0038.jp2/pct:31.621916,41.785714,14.332366,34.137931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,21 +903,19 @@ habitants, and of these 333,333,333 die eve
 d 60 every minute, or one every second.re  
 Theso losses are about balanced by nn oqui  
 d number of births. The married are long*  
-j. lived than the single,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862634%2F1853081001%2F0321.jp2/pct:15.302718,67.355434,14.247866,14.509537/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1853-08-10/ed-1/seq-2)
-
-#### 1853-08-10 &middot; Lancaster, S.C.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-othera. Births and death  
+j. lived than the single, nnd, above nil, thoa  
+jR who observe a sober and industrious cor  
+duct Tall men live longer than short ones  
+Women have more chances of life in thei  
+7 f?vor previous to being 50 yoars of ago tha  
+* men, but fewer . furw r Y  
+t* The number of marriages is in proportio  
+?, of 75 to every 1,000 individuals. Marriage  
+are more frequent after the equinoxee?th*  
+j. is, during the months of Jone and Deceit  
+ber.  
+Those born in the sprinp are gene rail  
+e more robust than othera. Births and death  
 sis more freouent bv niirht than hv ri.iv ?  
   
 w The number of moo capable of working o  
@@ -935,8 +956,6 @@ nel under garments.?JV. Y. Dutchman
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-TheinhabitanlsofotirgN.be pn.fess more  
-than 1,000 difl. r.nt p !igi a- &#x27;il&quot;&#x27;  
 nfmen&#x27;is about equal to the mmiUr of women.  
 The average of human life is about 33 years.  
 One-fourth die previous to the age of seven  
@@ -978,7 +997,7 @@ lar, and yet many of them are susceptii
 casv solution. mm y6er than  
 tadr frequently in Jane and we 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn87065674%2F00295878460%2F1853082301%2F0605.jp2/pct:17.731130,69.208125,15.453327,22.078304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn87065674%2F00295878460%2F1853082301%2F0605.jp2/pct:17.731130,70.370916,15.453327,20.915514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1087,17 @@ of flannel under-garments.—N. Y. Dutch
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-the same cause, too much  
+k could not once  
+excite while her desires for shell-fish arc  
+limited to semi monthly visitation of  
+&quot;six-pence worth ot clams. &quot; i rom this  
+the reader will perceive that a large por­  
+fion of the caprice in the market is no­  
+thing but selfishness while the best way  
+to lessen a woman&#x27;s wants, is to deprive  
+her of her husband. Wives are as easily  
+Bpoiled as children, and in nine caBCBOut  
+of ten, from the same cause, too much  
 humoring. Wether your matrimonial  
 vovage therefore is a pleasant one or not,  
 depends altogether on how you allow your  
@@ -1134,7 +1163,12 @@ months of winter. Tho mntchcit wlii.-li
 came off in June, are commonly lovo  
 matches, and are brought about by green 1  
 fields, and the continuous intliiwicn f  
-bobolinks and yellow birds; while tlma
+bobolinks and yellow birds; while tlmae  
+...i.:,.i, t f t i &#x27; i i .  
+mum uiA-ii ni ieeeinoer, are orougiir  
+about, in a greut degree, by mixing plain  
+mamemaricB with the market value ot  
+flanuel under-garmeuto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022165%2F00296025148%2F1853091001%2F0183.jp2/pct:56.925676,16.094094,32.601351,79.573532/!600,600/0/default.jpg"/>
 </td>
@@ -1291,6 +1325,15 @@ of age
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+INTERESTING STATISTICS.  
+  
+in  
+of  
+a  
+a  
+tn  
+is  
+A gentleman claiming to be a &quot;friend to lint  
 human race.&quot; and who keep tb run of facta  
 figure and babies, ha just laid before &quot;as  
 enquiring world&quot; the following statistics: ,  
@@ -1329,11 +1372,9 @@ December. Those born in the spring are
 generally mere robust than other.  
 Birth and deaths are more frequent by  
 night than by day. The number of men ca­  
-pable of bearing arm i calculated at one  
-fourth of the population. .  
-Yellow Fever. The latest accounts t
+pable of bearing arm i calculated at on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775940%2F1853092401%2F0150.jp2/pct:83.471074,55.906069,13.149679,22.506719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775940%2F1853092401%2F0150.jp2/pct:82.626263,54.647051,13.994490,23.723299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,6 +1387,8 @@ Yellow Fever. The latest accounts t
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Intf.rkhtin?; Statihticr.-^-A gentleman  
+claiming to be a &quot; friend of the human race,&#x27;&#x27;  
 !iiid who keeps the run of facts, figures, and  
 babies, has just laid before an &quot; inquiring world&#x27;}  
 the following statistics:  
@@ -1363,21 +1406,11 @@ refused to one-halt the human specie*. To
 every 1,000 persons, pnty one reaches 100 years  
 of life; to every 100 only six reach 6t? years,  
 ami not more than one in 600 lives to HO years  
-of age. Then* are oil 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_firedrake_ver01%2Fdata%2Fsn84020104%2F00415661526%2F1853092801%2F0030.jp2/pct:70.368304,68.212111,13.499814,9.099751/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Washington sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84020104/1853-09-28/ed-1/seq-2)
-
-#### 1853-09-28 &middot; Washington [D.C.]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-iul&gt;er of  
+of age. Then* are oil the earth 1,000.000,(MM) |  
+inhabitants, and of these 333,833,333 die every |  
+year,, 71 ,324 every day, 3,730 every hour, (1(1  
+every minute, or one every second. These losses  
+are about balanced by the equal nuiul&gt;er of  
 hirtliM.?The married are longer lived than the  
 single, and alxtve all those who olmervw a nobor  
 and industrious conduct. Tall men live&#x27;longer  
@@ -1390,9 +1423,14 @@ frequent after the equinoxes ; that irt daring the
 months of June and December. Thosy born w  
 the Hpriug are generally more robust than others.  
 Births and deaths an more freqlicwt by night  
-
+than day. The numt*&gt;r of men capwble of  
+l&gt;caring arms is calculated at opekft&gt;urth of the  
+population.*&#x27;  
+A striking instance of the nbotition feeling  
+which exists in some portions of tlv* eastern  
+States may l*e seen in the following example
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_firedrake_ver01%2Fdata%2Fsn84020104%2F00415661526%2F1853092801%2F0030.jp2/pct:70.335751,78.662776,13.527716,6.959905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_firedrake_ver01%2Fdata%2Fsn84020104%2F00415661526%2F1853092801%2F0030.jp2/pct:70.335751,67.264671,13.532366,21.837962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1404,7 +1442,16 @@ Births and deaths an more freqlicwt by night
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-cember. She is the sec­  
+d not hear his name, but understood  
+that he was attached to some one of the printing  
+offices in this city :  
+Marriage kn High Life. The Emperor of  
+Austria was married August 22, to the Princess  
+Elizabeth of Bavaria. Francis Joseph is twenty­  
+three years of age, and ascended the imperial  
+throne December 2, It54. ane rnnews um.­  
+beth, now Empress, will be sixteen years of age  
+on the 2d day of next December. She is the sec­  
 ond daughter of the Duke of Bavaria and grand  
 daughter of the late King Maximilian Joseph of  
 Bavaria, coosm oi me Xiiuciui ui auoui, -li  
@@ -1422,10 +1469,9 @@ Aa r,rOVirma to the age of 7 years; and one-halt be
 fore reaching 17 years of age; and those who pass  
 this enioy a felicity refused to one-half the human  
 SDacies To every 1000 persons only one reaches  
-OOjeirsin life; .o every 100 T.fA. tb.  
-of 66, and not more mu uuc 
+OOjeirsin life; .o every 100 T.fA. tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016866%2F00295877625%2F1853100101%2F0194.jp2/pct:33.288631,81.226533,14.945612,10.524519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016866%2F00295877625%2F1853100101%2F0194.jp2/pct:33.214126,75.935829,15.020116,15.337354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1437,7 +1483,14 @@ of 66, and not more mu uuc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e, and has not  
+not take place; but desired that all  
+present would partake ol’wbat bad been furnisned, and  
+■n.j &gt;y themselves in the best possible way. In the •  
+■nurse ot the evening tho young lady appeared and  
+united in the hilarity of the occasion ; while Mr. C.(  
+despondiogly, was seated in one corner of room, the at  
+niteivals receiving tbe sympathies of all present. The  
+next morning the lady left for Louisville, and has not  
 been heard of since. She is of respectable parents,  
 and a lady of excellent reputation ; but why she should  
 conduct herself as she did is wholly unaccountable to  
@@ -1450,9 +1503,17 @@ whole number of languages spoken in the world amount
 to 3 064 :578 in Europe, 936 in A-la, 276 in Africa,  
 and’l 264 in America. Tbe inhabitants of onr globe­  
 urofeßS more that 1,000 different religions. The uum­  
-b“r of men is about equal to the numbe
+b“r of men is about equal to the number of women.  
+Che average of humau life is about 33 yeais One  
+.waiter part die before tbe age of 7 years; andone­  
+ndl&#x27;before reaching 17 team of age, and those who  
+pass this age e joy a felii i&#x27;y reft eed to one-halt the hu­  
+‘nau sutcles. &#x27;1 o every I,oo&lt;&gt; persons, only one reach-  
+100 years of life ; to every 100 only six rem h 66  
+vear.-. and not mme than or e iu 1000 live to CO years  
+■f age There a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_barnes_ver02%2Fdata%2Fsn83030362%2Fprint00211110041%2F1853100201%2F0001.jp2/pct:84.234298,77.408959,9.671842,4.807176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_barnes_ver02%2Fdata%2Fsn83030362%2Fprint00211110041%2F1853100201%2F0001.jp2/pct:84.220183,75.300784,9.985886,9.326995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1536,9 +1597,15 @@ profess more than 1000 different religions. 1 ho
 number of men is about equal to the number ot  
 women. The average of human life •* about  
 33 year*. One quarter part die previous to the  
-axe of 7 years, and one ha f befor
+axe of 7 years, and one ha f before reaching  
+17 years of axe; and those w ho pass tins, en­  
+joy* a facility refu*ed to one halt the human  
+ppeeita To every 1000 persons, only one  
+reaches 100 years id lit*; to every lOu, only 7  
+reach the age ot 60, and not more than one in  
+500 life to bO years ot age 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215907%2F1853101001%2F0344.jp2/pct:5.492745,46.434076,12.656240,5.719023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215907%2F1853101001%2F0344.jp2/pct:5.492745,46.434076,12.656240,8.388212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1596,9 +1663,9 @@ years of age ; and those who pass this enjoyja fchci
 ty reiuscd to one-nail the numan species. &#x27;To every  
 1UUU persons only one reaches 100 years in life f to  
 A every. J00 ov&amp;j . j-oach. the.-age-pf &quot;6 and not more  
-than one i
+than one in 5000 live to 80 years of age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022639%2F1853101201%2F0160.jp2/pct:64.467510,76.677249,16.024456,7.724868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022639%2F1853101201%2F0160.jp2/pct:64.467510,76.677249,16.024456,7.820106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1645,16 +1712,22 @@ one in 500 live to 90 years of age.?Ex
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-Statistical. The whole number ol  
-languages spoken in the world amounts to  
 3.064; 607 in Europe, U36 in Asia and  
 1 ,564 ifl America. The inhabitants of  
 our globe profess more than 1,050 differ­  
 ent religions. The average of human  
-life is about 33 vears. One-fourth par
+life is about 33 vears. One-fourth pari  
+  
+die previous to lhe age of 7 years; one  
+hall before lhe age ot 17; and those who  
+  
+pass this age enjoy a lelicity refused to  
+one-half of the human species. To eve­  
+ry one million persons, only one reaches  
+one hundred years ol lite; to every 1,000  
+r.nk- six reach the ace of CO, and no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026712%2F1853102701%2F0150.jp2/pct:45.633188,80.368735,11.826783,3.713321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026712%2F1853102701%2F0150.jp2/pct:45.651383,81.433394,11.954148,6.336017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1701,6 +1774,7 @@ age
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+tW A gentleman claiming1 So be a  
 &quot;frieno to the human race,&#x27;* and who  
 keeps the run of facts, figures and ba­  
 bies, has just laid before &quot;an enquiring  
@@ -1714,9 +1788,21 @@ our globe profess more than 1,000 dif
 ferent religions. The number of men  
 is about equal to the number of women.  
 The average of human life is about 33  
-year
+years  
+  
+TELEGRAPHIC NEW*.  
+  
+ARRIVAL OF THE  
+  
+N I A A A  
+  
+NEW ORK, Oct. 37.  
+  
+The Niagara arrived at midnight.—  
+The Arctic arrived out on the 12th.  
+The news hab had a favoiable effec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn86081965%2F00279528554%2F1853110301%2F0855.jp2/pct:43.704229,85.602333,12.567919,7.271733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn86081965%2F00279528554%2F1853110301%2F0855.jp2/pct:43.704229,7.173319,25.584692,85.700747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,6 +1836,7 @@ life) to every 100, only seven reaeh the over forty families from the Muskingu
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Istf.resting Stathtics.—A gentleman claim *  
 ing to lie a fiiend of the hum in lacc, and who keeps  
 the run of farts, figures and babies, has just laid l&gt;e­  
 fore an “inquiring world,” the following statistics:  
@@ -1780,10 +1867,9 @@ frequent af&#x27;er the equinoxes; that is, during the
 months of June and December. Those born in the  
 spring, are generally more robust than others. Births  
 and deaths are more frequent by night than bv day.  
-The nutnlier of men capable of carrying anna is cal­  
-culated at one-fourth of the population.”
+The nutnlier of men capable of carrying anna is cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83025241%2F00383347221%2F1853110301%2F0346.jp2/pct:57.497963,58.129465,12.668659,14.490871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83025241%2F00383347221%2F1853110301%2F0346.jp2/pct:57.497963,57.552140,12.668659,14.656852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1806,16 +1892,15 @@ globe profess more than lOtHJ different religions.
 The number of limn is about cquul to the number  
 of women. The uvcrnga of human life is about &#x27;i&#x27;J,  
 vears. Cne tjunrter part die previous to the age of  
-fused lo one-half the Lilian sneciiV ToarvllsSi  
-Zy i
+fused lo one-half the Lilian sneciiV ToarvllsS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1853110501%2F0801.jp2/pct:76.614114,71.053391,13.757508,6.305916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1853110501%2F0801.jp2/pct:76.614114,71.053391,13.757508,5.829726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-11-05_9_12?page=0)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-11-05_9_12?page=0)
 
 #### 1853-11-05
 
@@ -1887,10 +1972,9 @@ tbe months of June and December. Those
 born in tbe spring aro generally more robust  
 than others. Births and deaths aro more fre­  
 quent by night than by day. The number of  
-capable of bearing arms is calculated at  
-one-fourth of the population.— English Quar
+capable of bearing arms is calculated a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_jacard_ver01%2Fdata%2Fsn87090152%2F00199917407%2F1853113001%2F0438.jp2/pct:40.974676,69.284428,12.912250,19.408191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_jacard_ver01%2Fdata%2Fsn87090152%2F00199917407%2F1853113001%2F0438.jp2/pct:40.974676,69.284428,12.912250,18.913141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,6 +2041,8 @@ population
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Inter* Jbtlu’4 Statist It a.   
+A gentleman claiming to be a friend ol  
 the human rc.ee, and who keeps [|,v run ui  
 facts, figures and babies, has just laid be­  
 fore an ‘enquiring world,’ the following i  
@@ -1994,10 +2080,9 @@ the months of«I une and December. Thosi
 born in the spring are general y more robust  
 than others. Births and deaths are more  
 frequent bv night than by day—the num­  
-ber of men capable of carry.ng arms is cal  
-culated at one-fourth the population.’ 
+ber of men capable of carry.ng arms is ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040305%2F00514151350%2F1853122301%2F0619.jp2/pct:3.715423,52.214815,13.001582,21.537037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040305%2F00514151350%2F1853122301%2F0619.jp2/pct:3.715423,51.162963,13.001582,22.048148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2020,6 +2105,8 @@ culated at one-fourth the population.’
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+INTERESTING STATISTICS.  
+A gentleman claiming to be a &quot;friend to the hu­  
 man race,&quot; and who keeps the run of facts, figures  
 and babies, hsajust laid before &quot;an enquiring world&quot;  
 the following interesting statistics:  
@@ -2039,7 +2126,7 @@ years of life; to every 100 only six reach the age of
 of age.  
 ai Boston, with the surrounding cities an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F0021247504A%2F1854012102%2F0234.jp2/pct:23.444056,43.291506,14.213287,8.409749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F0021247504A%2F1854012102%2F0234.jp2/pct:23.444056,42.302124,14.213287,9.399131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2071,7 +2158,6 @@ ai Boston, with the surrounding cities an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
   
 VARIETIES.  
   
@@ -2139,16 +2225,6 @@ P. M., when appearances threatened a terrible the spring are generally more robu
 
 ---
 
-## Miscellaneous.
-
-#### From _North Wales Chronicle_
-
-#### 1854-02-25 &middot; Bangor, Wales
-
-[This text is not available under an open license.]
-
----
-
 ## Miscellany
 
 #### From _Vermont chronicle._
@@ -2201,11 +2277,9 @@ months of June and December, lbose
 born in the spring are generally more  
 robust than others. &#x27; Births and deaths  
 are more frequent by night than by day.  
-The number capable of bearing arms, is­  
-estimated at one-fourth of the popula  
-tion. English Quarterly.
+The number capable of bearing arms, is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775514%2F1854030901%2F0259.jp2/pct:80.853063,54.503597,12.288613,21.323741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775514%2F1854030901%2F0259.jp2/pct:80.853063,54.503597,12.288613,20.287770/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2219,7 +2293,21 @@ tion. English Quarterly.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ our Matnm th 1 ¡ghi Cylinder Press  
+the numbei I nf impressions per  
+hour.attainable by the present ; mode of  
+feeding, is from lö.UOOlo 20.000. Coule  
+&#x27; we have the sheets &quot;fed,&quot; to each  
+cylinder, a: i the rate of 3,900 per  
+hour, we wonlJ have ar impression of  
+124,000 per hour, and bc able t&lt; print  
+an edition of 120,000 in five hours.&quot; ;  
+This press, which is similar to the pair  
+o presses on which the Ledger is  
+printed, is .&#x27; fed &#x27; i by boys, one to  
+each impression cylinder, or eigh i boys  
+to each prc.-?. I INTERESTING  
+STATISTICS.-A gentle 1 man claiming to  
 bc a .. friend to the hutnat race,&quot; and  
 who keeps the run of facts, figures and  
 bailies, hus just laid before &quot; an  
@@ -2250,7 +2338,17 @@ arc uboii balanced by the equnl number
 of births. Tin married arc longer lived  
 than the single, nm abo- e all, thnre  
 who observe a sober anti indus trious  
-co
+conduct. Tull men live longer than shor  
+ones. Women have inure changes of life  
+in thei favor previous to being 5&#x27;&#x27;years  
+ol&#x27;agc than me! hare, but  
+fewcrafterwards.&quot; Tho number of mar  
+riages is in proportion of 175 to tfvory  
+1UC0 indi viduals. Marriages arc more  
+frequent after th equinoxes, that is,  
+during the months of Jun and December ;  
+those b m in the spring nr generally  
+more robust than others. B
 </td></tr></table>
 
 ---
@@ -2303,9 +2401,10 @@ others Births ami deaths are more
 frequent by night than by day The num­  
 ber of men capable of working or bearing  
 arms, is calcu ated at one-fourth of the  
-population
+population.  
+The State Printing Spoils.—Of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn93052117%2F00279557955%2F1854042201%2F0069.jp2/pct:43.185028,4.828441,17.660412,25.201045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn93052117%2F00279557955%2F1854042201%2F0069.jp2/pct:43.185028,4.828441,17.660412,26.119153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2356,12 +2455,9 @@ ber. Those born in the spring are gen­
 erally more robust than others. Births  
 and deaths are more frequent by night  
 than by day. The number of men ca-|  
-pable of bearing arms is calculated at  
-one-fourth of the population. i  
-sAPVY S W e e e  
-£~ Harman Blannerhasset, son o
+pable of bearing arms is calculated a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021532%2F00514153115%2F1854042701%2F0199.jp2/pct:4.519677,52.771468,15.913387,27.316198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021532%2F00514153115%2F1854042701%2F0199.jp2/pct:4.519677,52.771468,15.856104,25.244073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2403,14 +2499,9 @@ are more frequent after the equinoxes; that is
 during the months of June and December.  
 born in the opring are generally more robust than  
 others. Births and deaths are more frequent b;  
-sigs than by day. The number of men capab  
-of bearing arms is calculated at one-fourth of the  
-  
-  
-  
-population.— English Quarterly.
+sigs than by day. The number of men capa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5&#0036;19/pct:54.384615,55.721898,36.884615,36.056838/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5&#0036;19/pct:54.384615,55.721898,36.653846,34.686628/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2477,8 +2568,7 @@ December. Those horn in spring aro
 generally more robust than others,  
 Birtlis and deaths aro more fre-quent by  
 night than by day. Tho number of men  
-capable of bearing arms is calculated at  
-ono-fourth of the population.-Englis
+capable of bearing arms is calculated a
 </td></tr></table>
 
 ---
@@ -2522,9 +2612,17 @@ r Women have more chances of life in&#x27;
 their favor previous to being fifty years&#x27;  
 t of age than men have, but fewer after.  
 1 wards. Tfhe number of marriages is&#x27;  
-- in proportion of 75 to every 1000~in
+- in proportion of 75 to every 1000~inp  
+-dividuals. Marriages are more fre­  
+tquent after the equinoxes; that is, dur­  
+3 ng the months of June and December.  
+l&#x27;hose born in the spring are general-lif  
+a more robust than others. Births anmd  
+a deaths are more frequent bry flighi  
+C than by day. The number of men  
+i&#x27; capable of bearing arms i~s caibulat&#x27;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288464%2F1854051701%2F0115.jp2/pct:82.071120,51.547934,14.328225,19.860360/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288464%2F1854051701%2F0115.jp2/pct:82.041363,51.547934,14.596042,24.279741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2561,10 +2659,9 @@ during the months of June and December. Those born in the
 spring are generally more robust than others. Births and  
 deaths are more frequent by night than by day. The number  
 of men capable of bearing arms is calculated at one-fourth of  
-the population.  
-A Fickle Bkide.—A strange scene came of
+the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_dunbar_ver01%2Fdata%2Fsn83030362%2Fprint00211110089%2F1854052101%2F0004.jp2/pct:21.642785,56.465646,8.866979,6.072885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_dunbar_ver01%2Fdata%2Fsn83030362%2Fprint00211110089%2F1854052101%2F0004.jp2/pct:21.642785,56.465646,8.806746,5.332107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2611,10 +2708,9 @@ during the months of June and December&#x27;.
 Those born in the spring are generally  
 more robust than others. Births and deaths  
 are more frequent by night than bv day.—  
-The number of men capable of bearing arms  
-is calculated at one-fourth of the population
+The number of men capable of bearing arm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver02%2Fdata%2Fsn84024718%2F0041418375A%2F1854052401%2F0079.jp2/pct:56.519453,75.693860,12.556958,18.244401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver02%2Fdata%2Fsn84024718%2F0041418375A%2F1854052401%2F0079.jp2/pct:56.519453,75.693860,12.556958,17.665016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2636,8 +2732,7 @@ is calculated at one-fourth of the population
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Ibe number of men is  
-8 *&quot; &quot;n&quot; &quot; f &quot;&quot;&quot;&quot;J L *.&#x27;* *&quot;T  
+  
 her is 23 years. One-quarter die previous to the  
 age of raven years ;\nc-half before reaching  
 i 17; aud those who puss this age enjoy a fe­  
@@ -2662,10 +2757,9 @@ during the months of June aud December.—
 Those born iu the spring are generally more  
 robust (bau others, liirtlis and deaths are  
 Inore frequout by uiglit than by day. The  
-number of men capable of bearing arms is  
-of ca i cu latcd at one-fourtl, of the population
+number of men capable of bearing arms i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_jacard_ver01%2Fdata%2Fsn87090152%2F00199917407%2F1854053101%2F0538.jp2/pct:53.969894,14.921171,14.344746,16.216216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_jacard_ver01%2Fdata%2Fsn87090152%2F00199917407%2F1854053101%2F0538.jp2/pct:53.969894,15.990991,14.344746,14.628378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2710,12 +2804,9 @@ equinoxes; that is, during tho months of Juno
 and December. Tboso born in tbe Spring  
 are generally more robust than others, liirths  
 and deaths are more frequent by night than  
-by day Tbe number of men capable of bear­  
-ing arms is calculated at one-fourth of the  
-population.  
-A SISTER&#x27;S INFLUENCE
+by day Tbe number of men capable of bear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349013%2F1854053101%2F0087.jp2/pct:82.133951,38.203329,13.096722,24.064521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393349013%2F1854053101%2F0087.jp2/pct:82.133951,38.203329,13.096722,22.083505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2765,8 +2856,7 @@ December. Those bom in spring are
 generally moro robust than others.  
 Births and deaths aro more frequent by  
 night than by&#x27; day. -The number of men  
-capable of bearing arms is calculated at  
-one-fourth the population.-Englis
+capable of bearing arms is calculated a
 </td></tr></table>
 
 ---
@@ -2809,11 +2899,9 @@ the equinoxes; that is during the months of
 June and December. Those born in the spring  
 arc generally more robust than others. Births  
 and deaths are more frequent by night than by  
-day. The number of men capable of bearing  
-arms is calculated at one fourth of the popula­  
-tion.—English Review.
+day. The number of men capable of bearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1854061001%2F0588.jp2/pct:83.057566,52.802319,12.541652,16.164166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1854061001%2F0588.jp2/pct:83.057566,52.802319,12.541652,15.257327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2825,6 +2913,10 @@ tion.—English Review.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+Bits early. &quot;The sleeping fos catches nopoultry.&quot;  
+  
+FACTS IN HUMAN LIFE.  
   
 The number of lnngnaget inoken In tha world.  
 amoanta to 3 054 687 in Luroe, 896 in Atia, 278  
@@ -2853,21 +2945,25 @@ afterwardt.
 Ths nuinlier of marriages it in proportion of 73  
 to every 1000 iidividutlr. Marriagee are more  
 frequent after the equinoxes ; that ia, during the  
-months of Juns 
+months of Juns and December. Thoee bora  
+the spring, are generally mare robust than others.  
+Births and deaths are more frequent by night thaa  
+by day. 1 be number ot men capable or bearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1854061001%2F0929.jp2/pct:52.005322,69.515874,13.913705,12.771154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1854061001%2F0929.jp2/pct:51.948299,67.260451,13.989736,16.491883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1854-06-10_9_43?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1854-06-10_9_43?page=3)
 
 #### 1854-06-10
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+because they will be on horseback, the most ele-, in Africa, and 1264 in América. The inhabitants  
 gant, rational and accomplished of all forms of of the globe profess more than 1000 different reli-  
   
   
@@ -2878,14 +2974,9 @@ mere exercise, both for sons and daughters. But gions. The number of men is abou
 the whole credit of longevity to these classes must|of the women. The average of human life is  
 not be given to their love of field-sports: it must be | about 28 years. One-quarter die previous to the  
 divided with the other not less characteristic traits | @ge of 7 years; oue-half before reaching 17; and  
-of an English nobleman—Ze etl take the world easy ; | those who pass this age, enjoy a felicity refused to  
-and could we as a people, persuade ourselves to do one-half the human species. To every 1000 per-  
-  
-  
-  
-the same thing habitually, it would add ten years to | S0Ms, only one reaches 100 years of
+of an English nobleman—Ze etl take the world easy ; | those who pass this age, enjoy a felicity refused t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1854-06-10_9_43&#0036;3/pct:35.538939,69.616205,28.089729,3.837953/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1854-06-10_9_43&#0036;3/pct:35.538939,69.104478,28.089729,3.390192/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2934,12 +3025,7 @@ of June mid December. Those born in
 spring are generally moro robust than  
 others Births and deaths are more  
 frequent by night than by day. The  
-number of men capable of bearing arms is  
-calculated at one-fourth tho population.  
--English Quarterly. The Peace  
-Society.-The papers of 23rd February I  
-give the following account of the  
-reception of Mr. I Sturge, of 
+number of men capable of bearing arms i
 </td></tr></table>
 
 ---
@@ -2985,11 +3071,9 @@ noxes; thj is, during the months of June
 and December. Those born in the spring  
 are generally more robust than others. Births  
 and deaths are more frequent by night than  
-by day. Ihe number of men capable of  
-bearing arms is calculated at one fourth of  
-the population
+by day. Ihe number of men capable o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_minuette_ver01%2Fdata%2Fsn87065704%2F00415662038%2F1854062101%2F0561.jp2/pct:67.627119,55.059331,15.084746,25.641855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_minuette_ver01%2Fdata%2Fsn87065704%2F00415662038%2F1854062101%2F0561.jp2/pct:67.655367,55.059331,15.042373,24.530744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3003,7 +3087,17 @@ the population
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. They were  
+welling of John Adams, of Peterson&#x27;s  
+Plains, on the night of the 10th inst.,  
+by taking out the back of a chimney. A  
+warm reception is in store for the  
+burglars, should they make a second  
+call. A word to the roguish as well as  
+the wise, ought to be sufficient for  
+them. Dismissal of Constables — The  
+chief constable charged two of the  
+constabulary at the Police Office on  
+Thursday last with misconduct. They were  
 fined £4 and costs each, and recommended  
 to be dismissed the police.  
 ArrnisiiKNSiox. — The man who escaped  
@@ -3045,8 +3139,7 @@ December. Those born in the spring are
 generally more robust than others. —  
 Births and deaths arc more frequent by  
 night than by day. The number of men  
-capable of bearing arms is calculated at  
-one-fourth of the population. — Englis
+capable of bearing arms is calculated a
 </td></tr></table>
 
 ---
@@ -3088,10 +3181,9 @@ quent after the equinoxes; that is during the months
 oi June and .December. A hose born in the spnng  
 are generally more robust than &#x27;others. Births and  
 deaths are generally more frequent by night than by  
-day. The number of men capable of bearing arms  
-is calculated at one-fourth of the population
+day. The number of men capable of bearing arm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022639%2F1854070501%2F0319.jp2/pct:36.335722,52.446162,15.426232,15.472115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022639%2F1854070501%2F0319.jp2/pct:36.335722,52.446162,15.426232,14.964108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3133,10 +3225,9 @@ quent after the equinoxes; that is during the months
 of June and December. Those born in the spring  
 are generally more robust than others. Births and  
 deaths are generally more frequent by night than by  
-any. nc numi er oi men capable ot hearing arms  
-is calculated at one-fourth of the population
+any. nc numi er oi men capable ot hearing arm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022731%2F1854070501%2F0218.jp2/pct:36.187640,52.427184,15.398362,15.101181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022731%2F1854070501%2F0218.jp2/pct:36.202532,52.427184,15.383470,14.598199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3183,10 +3274,9 @@ the months of June and December. Those
 horn in tlie spring are generally more robust  
 than others. Births ami deaths arc more fre­  
 quent by night than by day. The number of  
-men capable of hearing arms is calculated at  
-one-fourth of the population.—English Quar
+men capable of hearing arms is calculated a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624475%2F1854071501%2F0102.jp2/pct:84.356610,34.026858,12.671636,21.857386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624475%2F1854071501%2F0102.jp2/pct:84.356610,34.026858,12.671636,21.214299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3282,8 +3372,7 @@ cember. Those born in spring are
 generally more robust than others.  
 Births and deaths are more frequ nt by  
 night than by day. The number of men  
-capable of bearing arms is calculated at  
-one-fourth the population.Englis
+capable of bearing arms is calculated a
 </td></tr></table>
 
 ---
@@ -3360,9 +3449,15 @@ Sf tin human species. To every 10,000 persons,
 only ene reaches 100 yejflife; to every 5.000.  
 only sii reach&quot; the ssrf 5 ; and not more than  
 one in 600 lives trflb bars of age. There are  
-on ea
+on earth 1,000.000,000 inhabitants ; and of &#x27;thes  
+33.333.33S die every yw ; 91,331 every minute  
+eroneevety second. Thesr losses ie about  
+  
+ajanced by an equal nuru&#x27;uw of births. Tneih seemed greatly agitated, nd manifested  
+  
+married ire lunger lived than the single, ani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1854091401%2F0282.jp2/pct:4.476835,84.065373,13.066111,7.711951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1854091401%2F0282.jp2/pct:4.476835,14.121553,24.449072,79.366701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3381,9 +3476,15 @@ mure robuat than others. Birth and. d&quot;aths are
 . , . , , .  
 wre frequent by night than by day. The num-  
 ber of men capable of hearing urras is calculated  
-at one-fourth of the population. .....
+at one-fourth of the population. ......  
+miscellaneous.  
+THUS YOUNG SKA CAPTAIN.  
+BY Till M&#x27;TUOR OF MAY MARTIN.  
+The following tele, though published among  
+the author&#x27;s minor productions, may yet be new  
+to many of the readers of the Freeman, and d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1854091401%2F0282.jp2/pct:17.213257,18.539326,11.643241,3.268641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1854091401%2F0282.jp2/pct:17.213257,18.539326,11.643241,7.941777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3431,7 +3532,7 @@ the equinoxes; that is, dinting the months
 of June and December. Those born int  
 the spring are more robust than others.  
 Births and deaths are more freq neat by  
-night tha
+night than by day. The whole miKilie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040305%2F00514151350%2F1854092901%2F0769.jp2/pct:84.698449,55.907960,11.321733,17.475124/!600,600/0/default.jpg"/>
 </td>
@@ -3445,14 +3546,6 @@ night tha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-econ-iidlere-l  
-as wishing to renew; and it will be  
-i-otinned to them accordingly.  
-  
-I&#x27;OH&#x27;Vo i&quot;or w ilrb; sent out of the county  
-iii.K&#x27;i-s i aid&quot; for in advance.  
-  
-advertisements inserted at One IJOI-  
   
 r Interesting Statistics.  
   
@@ -3474,7 +3567,7 @@ personsonly one reaches onehuri-
   
 dred Vf:ns nf nrro f n pvwrv 1 Of) nri.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1854101201%2F0749.jp2/pct:6.572901,21.880610,23.617881,13.801616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1854101201%2F0749.jp2/pct:18.507172,21.880610,11.683610,13.801616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3487,6 +3580,11 @@ dred Vf:ns nf nrro f n pvwrv 1 Of) nri.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+Lf The Bible account of the power! of  
+  
+facts, has! iust liid bforAn &quot;innnlr - prayer, is, the. best ;we liavo or can  
+  
 in?: world&#x27;&#x27; the following statistics-5 1 ihave:; &#x27; v.,-v., :.. .1 .&#x27;.-.. &#x27; . &#x27;!  
   
 ; The whole &#x27; number cf languagls; 1 Abraham&#x27;s . servant prays Re­  
@@ -3494,9 +3592,12 @@ snoken in the world amounts in I beknh arpean. : . ; i ; ,-!
   
 3,004, viz: 587 in Europe, 1937 m! !J?cob praya-the angel is con­  
 Asiai 27G in Africa, and &quot;1,3G4 jn queved; Esau&#x27;s revenge is changed  
-America. The inhabitants of our I fraternal love. ; : ;. - 
+America. The inhabitants of our I fraternal love. ; : ;. - ,  
+  
+g obe&#x27;profoss more than 1,000 difTek -&quot;Joseph prays he 13 delivered from  
+e it religions. The number of men i the prison, of Egypt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1854101201%2F0749.jp2/pct:18.827461,23.877917,23.269740,4.028276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470338%2F1854101201%2F0749.jp2/pct:18.785684,22.598743,23.534327,6.620287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3524,9 +3625,18 @@ year.-of age. There are on the earth 1,000.0110.-
 (mfi inhabitant-, and ol these 333,333,333 tlie  
 every year, !)I.l)2l every day,3,7soevery hour,  
 and 00 every minute or one every second.—  
-The losses are about balanced by an equal num
+The losses are about balanced by an equal num­  
+ber of births. The married are longer lived  
+than the single, and aliove all. those who ob­  
+serve ti sober and industrous conduct. Tall  
+men live longer than short ones. Women have  
+more chance- in tln-ir favor, previous to being  
+fifty years of age. than man. but fewer after­  
+wards. The number ot marriages is iu propor­  
+tion of 75 to every 100 individuals. Marriages  
+are more frequent afte r ihe t q
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1854110401%2F0671.jp2/pct:82.403261,24.068113,12.607647,7.534406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1854110401%2F0671.jp2/pct:82.403261,24.068113,12.613388,11.835783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3581,7 +3691,10 @@ number of men capable of bearing arms is calculated at one-fourth of the populat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rs of age,  
+  
+  
+Women have moroe chances of life in their  
+favor, previous to l5eing fifty years of age,  
 than men have, but fewer afterwards. The  
 number of marriages is in proportion of 72 to  
 every 100 individuals. Marriages are more  
@@ -3590,10 +3703,9 @@ months of June and December. Those born
 in the spring are generally more robust than  
 others. Births and deaths are more frequent  
 by night than by day. The number of men  
-capable of bearing arms is calculated at one­  
-fourth of the population
+capable of bearing arms is calculated at one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn83016483%2F00212475142%2F1854121301%2F0077.jp2/pct:18.143713,4.822222,12.859281,5.688889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn83016483%2F00212475142%2F1854121301%2F0077.jp2/pct:18.143713,4.333333,12.859281,5.744444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3642,8 +3754,7 @@ December. Those born in spring are
 generally more robust than others.  
 Births and deaths are geuerally more  
 frequent by night than by day. The  
-number of men capable of bearing arms is  
-calculated at one fourth the population
+number of men capable of bearing arms i
 </td></tr></table>
 
 ---
@@ -3767,7 +3878,10 @@ marriages is in proportion of 75 to every
 100 individuals. Marriages are most fre­  
 quent after the equinoxes; that is. during  
 the months of June aad December. Those  
-born in the sprin
+born in the spring are generaHy^more ro­  
+bust than others. Births and dreaths are  
+more frequent by night than by dayj-r­  
+The number of men capable of bearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn85059716%2F0020129302A%2F1855020701%2F0229.jp2/pct:29.162267,12.811839,27.587117,85.038760/!600,600/0/default.jpg"/>
 </td>
@@ -3781,7 +3895,15 @@ born in the sprin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- feel­  
+ports to be an ac­  
+count of the ejection of a live snake from the  
+stomach ol a man named Wade, whi, during the  
+past summer, was in the habit of slaking his thirst  
+from a rivulet in a field where he wns ai work.  
+Tbe Express says the spake was almost transpa­  
+rent, had reddish eyes of great brilliancy, aod was  
+five and a quarter inches long. Mr. W., it is  
+laid, had for some lime been troubled with a feel­  
 ing of suffocation and unusual fullness of the  
 stomach.  
 Paving Finks ry the Year. An Irishman in  
@@ -3884,9 +4006,17 @@ December. Those born in the spring are generally
 more robust than others. Births and deaths are  
 more frequent by night than by day. Thq number  
 of men capable of bearing arms is calculated at  
-one eighth the population
+one eighth the population.  
+Democratic Tendencies in England.—lf  
+there is anything that denotes progress with the  
+people of England, it is their growing opposition  
+to official parade and extravagance; and upon this  
+point an article in a late number of Frazer entitled  
+“ Gilt and Gingerbread,” deals some trenchant  
+blows in speaking of the mummeries attending the  
+inauguration of the Lord Mayor of London. W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_barnes_ver02%2Fdata%2Fsn83030364%2Fprint00211110053%2F1855022501%2F0002.jp2/pct:4.239581,82.239272,12.506765,11.864892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_barnes_ver02%2Fdata%2Fsn83030364%2Fprint00211110053%2F1855022501%2F0002.jp2/pct:4.239581,82.239272,12.551867,15.595951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3899,7 +4029,6 @@ one eighth the population
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Tirr. number of langnagcs spoken in the  
 j world amounts to HOG5?587 in Kurope,  
 : 805 in Asia, 270 in Africa, an 12&lt;&gt;1 in  
 America. The inhabitants of the globe pro- 1  
@@ -3915,9 +4044,16 @@ brne reaches one hundred years of life;
 &#x27; to every 100 only si\&#x27; reach the age of Go ;  
 1 and not more tlinn one in 500 lives to HO  
 years vf age. There uroon earth 1,000,000,- !  
-000 inhabi
+000 inhabitants ; and of these HH..15.1,3:13 ,  
+&#x27; die every year ; 01,000 everyday ; 11787 cv- 1  
+1 cry hour, and Go every lninue, or one every &#x27;  
+i second. These losses are about bulla need by i  
+j an equal number of births. The married j  
+1 are longer lived than the single, and above .  
+1 all, those who observe n sober and industrious  
+conduct. Tall men live longer tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1855031601%2F0162.jp2/pct:66.563400,46.772052,16.756345,10.862169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1855031601%2F0162.jp2/pct:66.563400,47.406854,16.756345,14.919924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3939,7 +4075,7 @@ ica. The inhabitants of the globe profess more than
 1,000 different religions. There are nearly as many  
 males as females. The mean duration of human life  
 is 28 years. One-fourth part of all children die before the  
-age of seven years. The population of 
+age of seven years. The population of the globe is esti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1855-04_15_13&#0036;57/pct:22.201767,16.242938,33.762887,9.392655/600,/0/default.jpg"/>
 </td>
@@ -3972,20 +4108,16 @@ than one in 500 lives to SO&#x27; years of
 as;e. There are on the earth  
 1,000,000,000 inhabitants, and of these  
 33,833.383 die every year: 91:S24 every  
-day; 8,730 every ho
-</td></tr></table>
-
----
-
-## [THE DEFINITION OF THE IMMACULATE CONCEPTION.](http://trove.nla.gov.au/ndp/del/article/115554359)
-
-#### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
-
-#### 1855-04-07 &middot; Sydney, New South Wales
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-s or age, than men, ?out  
+day; 8,730 every hour; and 60 every  
+minute&#x27; or one every, second. These  
+losses are about balanced by an equal  
+number of births. . The married are  
+longer-lived than, the single, and above  
+all, those who observe a sober and  
+industrious conduct Tall men live longer  
+than short ones. Women have more chances  
+of life in their favour previous to  
+oeing ntty years or age, than men, ?out  
 fewer afterwards. The number of  
 marriages is in proportion of 75 to  
 every 100 individuals. Marriages are  
@@ -3995,9 +4127,7 @@ December. Those born in the spring are
 generally more robust than others:  
 Births and deaths are more frequent by  
 night than by day. .1 he number of men  
-capable of bearing arms is calculated  
-atone fourth of the population,  
-Houghlahan of THE 57th. — 
+capable of bearing arms is calculate
 </td></tr></table>
 
 ---
@@ -4052,10 +4182,9 @@ and December. -Those born in the spring
 are generally &#x27; more robust than others.  
 Births and deaths are more frequent by  
 night than by day. : The number of men  
-capable of bearing arms is calculated at  
-one etghth the population &#x27; &#x27; a 
+capable of bearing arms is calculated a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1855041801%2F0602.jp2/pct:70.715350,18.627804,12.473920,18.867698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027509%2F1855041801%2F0602.jp2/pct:70.715350,18.627804,12.473920,18.375915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4077,9 +4206,10 @@ The inhabitants of the globe profess more than
 1,000 different religions. ‘There are nearly  
 as many males as females. The mean duration  
 of human life is 28 years. One fourth part of  
-all children die befure the age of seven years
+all children die befure the age of seven years.  
+The ‘population of the globe is estimated a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oneida-circular_1855-05-03_4_15&#0036;3/pct:73.922414,79.490132,20.857280,6.842105/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oneida-circular_1855-05-03_4_15&#0036;3/pct:73.922414,79.490132,20.857280,7.565789/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4091,7 +4221,18 @@ all children die befure the age of seven years
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-h him was larger than thi  
+her close prison  
+house. Stripes of deen color ran down  
+tho face uud nock, and perspiration iu  
+great drops stood upon lior skin, hut  
+sho wns rcscuedand uninjured!  
+A Rich Vattpcr.?Several days ngc  
+a German made his appearano at tin  
+Northumlon County Poor House, will:  
+his family?a wife and three or foul  
+children, soliciting quarters during the  
+winter. The directors tiihifglit the&#x27;ehes  
+lie brought with him was larger than thi  
 necessities of a paupor demnnded, whet  
 they proceeded to oxamine it and foum  
 that it contained kovhii hundred dullar  
@@ -4215,8 +4356,7 @@ individuals. Marriages are more frequent
 after the equinoxes, that is, during the  
 months of June and December. Those born  
 in the spring are the most robust.  
-Births and deaths are most frequent by  
-night. The number of men capable o
+Births and deaths are most frequent b
 </td></tr></table>
 
 ---
@@ -4264,9 +4404,7 @@ duringtht hglth o Jii Ihui D??-Q-&quot; bar.
 ThosoU born in the spring tnr generilly  
 j more robust than others. ihrths and  
 deaths 1 are more frequent by night than  
-by day. The the number of men capablo of  
-bearing arms is Gal calculated at oea-  
-forth of the population. shil ga
+by day. The the number of men capablo o
 </td></tr></table>
 
 ---
@@ -4325,9 +4463,7 @@ December. Those born in tho spring are
 generally more robust than othcrs.  
 Births and deaths aro more frequent by  
 night than by day. Tho number of tuon  
-capa-ble of bearing arras is calculated  
-at one-fourth of tho population. . .  
-PAYING ORE&#x27;S DEBTS.-Whatever bc th
+capa-ble of bearing arras is calculate
 </td></tr></table>
 
 ---
@@ -4367,7 +4503,16 @@ equal number of births. The married are
 longer-lived than the single, and, above  
 all, those who observe a sober ana  
 industrious conduct. Tall men live  
-longer than short o
+longer than short ones. Women have more  
+chances of life in their favour pre-&#x27;  
+vioiis to being 60 years of age H&#x27;nn men  
+have, but fewer afterwards. The  
+numbcrofmarriages is in proportion of /6  
+to every 1,000 individuals. Marriages is  
+more frequent after the equinoxes—that  
+is, during the months of June and  
+December. Those bom in the spring are  
+tire most robust. Births and deaths ar
 </td></tr></table>
 
 ---
@@ -4443,6 +4588,8 @@ one-fourth of the population.— Sunt&#x27;t
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+the&#x27; world amounts to 3,074. The  
+inhabitants of the globe profess&#x27; more  
 thani 1,000 different religions. &#x27;&#x27;The  
 average of human life is aboit 33 years.  
 Onie&#x27; quarter die previous to the age of  
@@ -4476,8 +4623,7 @@ December. Those born in the spring are
 generally more robnst than&quot; others.  
 Births and Deaths are morefequent,. by  
 night than by&#x27; day. The number: of men  
-capable of bearing arms is calculated  
-`at ones fourth of the population. :
+capable of bearing arms is calculate
 </td></tr></table>
 
 ---
@@ -4489,13 +4635,17 @@ capable of bearing arms is calculated
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+that out of the area of this Territory may be  
+created half a dozen States, each greater in ex­  
+tent thau the State of Tennessee.  
 A Fearful Thought.—There are on the earth  
 1,000.000.000 of inhabitants. Of these 333.333.-  
 333 die every year; 91.824 die every day:  
 3,780 every hour, and sixty every minute, or  
-one for every second
+one for every second.  
+The above estimate presents a fearful though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556641%2F1855060901%2F0470.jp2/pct:10.800368,66.397784,16.320147,2.471691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556641%2F1855060901%2F0470.jp2/pct:10.758970,64.470961,16.361546,4.919031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4528,10 +4678,9 @@ in their favour previous to being 50 years of age than men have, but
 fewer afterwards. The number of marriages is in proportion of 75 to  
 every 1,000 individuals. Marriages are more frequent after the equinoxes,  
 that is, during the months of June and December. Those born in the  
-spring are the most robust. Births and deaths are most frequent by night.  
-The number of men capable of bearing arms is calculated at one-fourt
+spring are the most robust. Births and deaths are most frequent by night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26&#0036;9/pct:41.324477,70.398429,26.046699,11.770483/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26&#0036;9/pct:41.324477,70.398429,26.046699,11.209315/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4544,20 +4693,14 @@ The number of men capable of bearing arms is calculated at one-fourt
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-STATISTics  
-_ The number of languages eo aed THE WORLD. aa  
-  
-E 896 in A 276 in the world amounts to 8064; 587  
 Oe een ees = 19 in Africa, and 1264 in America.  
   
 The inhabitants of the globe profess more than 1000 different religions  
 The number of men is about equa to the number of women. The ave-  
 rage of human life is about 28 years, One-quarter die previous to the  
-age of 7 years; one-half before reaching 17; and those who thi  
-age enjoy a facility refused to one-bait ihe’ human species et “  
-pred gee br Ag progres 100 years of life: to every 100, only p
+age of 7 years; one-half before reaching 17; and those who th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23&#0036;7/pct:11.432376,80.093071,26.498003,5.442089/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23&#0036;7/pct:11.432376,81.243537,26.478980,2.973113/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4604,9 +4747,7 @@ during the months of June and December.
 Those born in the spring are generally  
 more robust than others. Births and  
 Deaths are more frequent by night than  
-by day. The number of men capable of  
-bearing arms is calculated at one-fourth  
-of the population
+by day. The number of men capable o
 </td></tr></table>
 
 ---
@@ -4618,6 +4759,8 @@ of the population
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Interesting Statistical Facts.—A gen­  
+tieman claiming to be ‘ some” on the human race, and who  
 keeps a general run of facts, figures and babies, has laid  
 before ‘an interested world” the following statistics: “The  
 whole number of languages spoken in the world amounts to  
@@ -4645,7 +4788,7 @@ equinoxes; that is, the months of June and Da ie mb er.—
 These born in the spring are generally more robust than  
 others. The number of men capable of bearing arms i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_barnes_ver02%2Fdata%2Fsn83030364%2Fprint00211110053%2F1855091601%2F0006.jp2/pct:66.003688,51.952345,12.118019,8.161801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_barnes_ver02%2Fdata%2Fsn83030364%2Fprint00211110053%2F1855091601%2F0006.jp2/pct:66.003688,51.188249,12.118019,8.925898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4678,6 +4821,7 @@ others. The number of men capable of bearing arms i
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
 The average duration of human life throughout  
 the world is 33 years. One-quarter die previous  
 to the age of 7 years—one-half before reaching 17.
@@ -4694,6 +4838,7 @@ to the age of 7 years—one-half before reaching 17.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 The average dnration of human life throughout  
 the world is 33 years. One quarter die previous  
@@ -4745,15 +4890,16 @@ than short ones. Women hare mure chances of
 life in their favor previous to being 50 rears of  
 age than men have, bat fewer afterwards. The  
 number of marriages is in the proportion of 75  
-to every 1000 individuals. Those born in sprin
+to every 1000 individuals. Those born in spring  
+are generally more robust than others. Birth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn85025594%2F0038334735A%2F1856022301%2F0033.jp2/pct:57.522746,36.500609,12.311828,10.418670/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn85025594%2F0038334735A%2F1856022301%2F0033.jp2/pct:57.522746,36.500609,12.311828,10.829006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Metropolitan; A Monthly Magazine Devoted to Religion, Education, Literature, and General Information 1853-1859_](https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2?page=42)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2?page=42)
 
 #### 1856-03-01
 
@@ -4788,8 +4934,7 @@ and industrious conduct. Tall men live longer than short ones. Women have more
 chances of life in their favor previous to being 50 years of age than men have, but fewer  
 afterwards. The number of marriages is in proportion of 74 to every 1,000 individuals,  
 Marriages are more frequent after the equinoxes, that is, during the months of June  
-and December. Those born in the spring are the most robust. Births and deaths are  
-most frequent by night. The number of men capable of bearing arms is calculated a
+and December. Those born in the spring are the most robust. Births and deaths ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2&#0036;42/pct:8.695652,79.545455,74.378882,8.292383/600,/0/default.jpg"/>
 </td>
@@ -4836,11 +4981,9 @@ the months of June and December. Those ]
 born in the spring arc generally more robust j  
 than others. Births and deaths are generally •  
 more frequently by night than ly day. The |  
-number of men capable of bearing arms is cal­  
-culated at one fourth of the population, though  
-in many countries it is less.
+number of men capable of bearing arms is cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182987%2F1856042401%2F0279.jp2/pct:64.644714,47.259180,15.116984,20.665913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182987%2F1856042401%2F0279.jp2/pct:64.644714,47.259180,15.116984,19.468467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4860,17 +5003,9 @@ tants of the globe profess more than
 of men is about equal to the number  
 pf women. - The average of human  
 life is about 33 years. One quarter  
-die previous to the age of 7 years, and  
-  
-world amounts to &#x27;J,o23; namely,- 587  
-in Europe, 396 in Asia, 276 in Africa,  
-and 1,263 in America. The inhabi  
-  
-one-half before reaching 17. Ofeverv &#x27;  
-  
-1,000 persons, 1 reaches 100 yea
+die previous to the age of 7 years, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470697%2F1856071201%2F0022.jp2/pct:67.643641,16.875658,25.900581,75.830382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470697%2F1856071201%2F0022.jp2/pct:67.643641,86.062985,12.472563,6.643055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4906,12 +5041,9 @@ Therc aie on the earth 1.000.000 Oto ;b.,i.u.,..
 Of these 33,333,333 die every year, 01,824 evei-y  
 hour, and GO every minute or 1 every second. These  
 losses arc about balanced by an eoual number of  
-mrxns. inc mameu are longer meu man tne sin-  
-gic , ami uuoe aiiiuusu niai uu-viu Suwr muus-  
-mous conduct, lall men live lomrer tnan snort ones,  
-Women have
+mrxns. inc mameu are longer meu man tne sin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474228%2F1856080701%2F0022.jp2/pct:6.670807,80.597451,16.869565,9.983458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474228%2F1856080701%2F0022.jp2/pct:6.670807,80.597451,16.869565,8.455775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4942,6 +5074,7 @@ The Espana announces the death of Donna Isabell
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
 Human Lire.—The average of human life throughout  
 the world is thirty-three years. One-quarter die previ-  
 ous to the age of seven years; one-half before reaching  
@@ -4957,9 +5090,12 @@ have more chances of life in their favor previous to being
 fifty years of age than men, but fewer afterward. Chil-  
 dren born in the spring are generally more robust than  
 others; and births and deaths are more frequent by night  
-than by day.
+than by day.  
+  
+Powrr or Car Brakes.—Brakes can not stop a train  
+of cars instantly. If applied too tightly, they “lock th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1857-02_17_5&#0036;52/pct:50.835866,58.367055,34.992401,17.091169/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1857-02_17_5&#0036;52/pct:50.835866,58.367055,34.992401,19.733397/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4983,21 +5119,11 @@ felicity refused to one half the human species. Of every
 1600 persons only one reaches 100 years of life; of every  
 100. only six reach the age of 65 : and not more than oao  
 in SGO lives to 80 years of ago There are on tho whole  
-earth
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_collins_ver01%2Fdata%2Fsn83030364%2Fprint00211110077%2F1857030801%2F0007.jp2/pct:18.018851,60.744654,12.134426,3.854570/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1857-03-08/ed-1/seq-7)
-
-#### 1857-03-08 &middot; New York [N.Y.]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-r lived than the single, and, above all, those  
+earth, 1,000,060,000 inhabitants, and ot‘ these 33,333,333  
+die every year ; 91,824 every day : 3,700 every hour ; and  
+70 every minute, or one in every second. These losses are  
+about balanced by an equal number or births. The ra tr­  
+ried are longer lived than the single, and, above all, those  
 who observe a sober and industrious character. Tall men  
 live longer than short ones. Women have miro chance of  
 JVe in ihrir favor previous to being fifty years of age. than  
@@ -5010,7 +5136,7 @@ more fi equent by night than by day. The number ol men
 capable of bearing arms is calculated at one fourth of the  
 population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_collins_ver01%2Fdata%2Fsn83030364%2Fprint00211110077%2F1857030801%2F0007.jp2/pct:17.979211,65.562086,12.196089,3.735776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_collins_ver01%2Fdata%2Fsn83030364%2Fprint00211110077%2F1857030801%2F0007.jp2/pct:17.979211,60.744654,12.196089,8.553207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5054,11 +5180,9 @@ after equinoxes that is during the months of
 June and Dacemb-r. Those born in the spring  
 are generally more robust than others. Births  
 and deaths arc more frequent by night than by  
-day. The number of men capable of bearing  
-arms Is calculated at one fourth of the popu  
-lation
+day. The number of men capable of bearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_archie_ver01%2Fdata%2Fsn83045160%2F00200290008%2F1857032201%2F0269.jp2/pct:62.459133,77.867455,10.902630,13.550074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_archie_ver01%2Fdata%2Fsn83045160%2F00200290008%2F1857032201%2F0269.jp2/pct:62.473348,77.867455,10.888415,12.879391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5098,9 +5222,14 @@ vious to being fifty years of ago, than men,
 hut fewer afterwards. Tho number of mar­  
 riages is in proportion to 75 to every 100  
 individuals. Marriages are most frequent  
-after Iho equinoxes—that is during th
+after Iho equinoxes—that is during the  
+months of .lime and December. Those horn  
+in tho spring are generally more robust than  
+others. Births and deaths are more frequent  
+hy night than hy day. Tho number of men  
+capable of hearing arms is calculated at one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557967%2F1857050201%2F0073.jp2/pct:64.297674,17.108434,14.679070,16.127845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557967%2F1857050201%2F0073.jp2/pct:64.297674,17.108434,14.679070,18.972557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5112,7 +5241,17 @@ after Iho equinoxes—that is during th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-umber of birth*. The married are lony  
+ felici y refused to one half t  
+human species. To every 1,000 pcrsouso  
+ly one reaches 100 years of life; to eve  
+100 only 0 reach tho ago of G5 ; and n  
+mere than 1 in 500 live* to 80 years of at  
+There aie on the earth 1,000,000,000 InL  
+bitants, and of these 33,333,333 &lt;1 ie eve  
+year; 01,824 every u?y; 3,730 every ho  
+and 60 every minute, or 1 ever)* secoi:  
+These losses are about balanced by an eqt  
+number of birth*. The married are lony  
   
 lived thnn tho single, and, above all. the  
 who observe a sober and industrious cc  
@@ -5127,10 +5266,9 @@ the mouths of June and December. The
 born in the spring are generally more i  
 bust than others. Births and deaths n  
 ntoro frequent by night thnn by day. Tl  
-number of men capable of bearing arraa  
-calculated at one fourth the population
+number of men capable of bearing arra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1857050701%2F0566.jp2/pct:64.768778,74.451458,14.867682,10.648804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1857050701%2F0566.jp2/pct:64.768778,68.075057,14.867682,16.372536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5145,6 +5283,9 @@ calculated at one fourth the population
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+number of languages spokon in thc woiM  
+amount tn 3(&gt;G4. The inhabitants of thc  
+globo profess moro than 100Ü diff-ri-nt  
 religions. &#x27; Tho nvcrago of human life  
 is about 23 years Ono quarter die&#x27;  
 picviousto tho ago of seven years; ono  
@@ -5174,7 +5315,10 @@ in tho propor-tion of 75 to every , ino
 individuals. Marriages aro moro frequent  
 after the equinoxes- that&#x27; is,&#x27; during  
 the months of linne and December. Those  
-barn&#x27;
+barn&#x27; in thu spring nra gnuernlly moro  
+robust than others.&#x27; Births and deaths  
+are moro frequent by night thuu by day.  
+The number of i mon:capable of-bearin
 </td></tr></table>
 
 ---
@@ -5220,10 +5364,9 @@ the months of June and December. Those |(
 born in the spring are generally more ro­  
 bust than others. Births and deaths are!l  
 hnorc frequent by night than by day. The &#x27;  
-number of men capable of bearing arms is !&#x27;  
-calculated at one fourth of the population, j
+number of men capable of bearing arms is !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624293%2F1857090301%2F0114.jp2/pct:50.012157,9.747711,14.821298,21.703406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624293%2F1857090301%2F0114.jp2/pct:50.012157,9.747711,14.821298,21.066348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5237,7 +5380,17 @@ calculated at one fourth of the population, j
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-number nf  
+ecies Of every 1000  
+persons, only ono person ronches tho ago  
+of loo years of life; of every 100. only  
+six reach tho ago of G!&gt;; and not mora  
+than one in 500 lives to 80 years of  
+agc. There are on tho wholo eartti  
+1,000,000.000 inha-bitants and of these  
+33.383 333 die every year; 91,824 every  
+day; 3738 every hour : and 30 every  
+minute, or t every toeond. These losses  
+are balanced by about an eqnnl number nf  
 births. The married are longer livod  
 tb.in the stnrlc; and above all, those  
 who observe a sober and industrious  
@@ -5253,10 +5406,7 @@ months of .lune and Decemhor. Those born
 in tho spring aro generally more robust  
 than others. Births and deaths aro more  
 &quot; frequent by night than by day. Total  
-number of men capnhle of bearing arms is  
-calcu-lated at one fourth thu  
-population. Thero is a village out West  
-so healthy that peoplo can&#x27;t die there
+number of men capnhle of bearing arms i
 </td></tr></table>
 
 ---
@@ -5309,9 +5459,12 @@ bust than others. Births and -deaths
 are more frequent by night than by  
 day. The number of men capable of  
 bearing arms is calculated at one-  
-burth of the population
+burth of the population.  
+The profound theological wisdom  
+of some of our Scriptural expositors  
+is very amusing, or would be if th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F0021247034A%2F1857091001%2F0556.jp2/pct:56.337028,20.726814,12.091503,28.304482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F0021247034A%2F1857091001%2F0556.jp2/pct:56.294402,20.726814,12.134129,31.136077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5337,7 +5490,14 @@ reaches 100 years of life ; to every
 100, only sij reach the age of sixty-  
 five ; and not more than cue in 500  
 lives to eiphty yeifrs of nge. There are  
-on earth 1,000.000,000 &#x27;inha
+on earth 1,000.000,000 &#x27;inhabitants; nnd  
+333,303,333 die every year, 9 1&#x27;,824  
+every day, 3730 every hour, and 59.  
+every minute; or one every .second.  
+These single ; and, above all. those  
+&#x27;who &#x27;observe a sober and industrious  
+conduct. Tall men live longer than short  
+ones. Women have tnore chances of lif
 </td></tr></table>
 
 ---
@@ -5350,7 +5510,11 @@ on earth 1,000.000,000 &#x27;inha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-prf&#x27;* than d» angle, snd  
+  
+&#x27;?-*?&#x27;??! said- 60 every minute, or  
+I*!?1 second. 1V»c losses are Imlnnopd  
+by about a4°2 ncmber of births. The  
+married ire lonprf&#x27;* than d» angle, snd  
 above all. those wbo cfr*6 * sober and  
 industrious condnct. Tall men live  
 longer tban short ones. Women&#x27; hare more  
@@ -5365,8 +5529,7 @@ December. Those born in (he spring are
 general! tr more robust than others.  
 Births acd deaths are more frequent by  
 night than by day. Tbe number of men  
-capable of bearing arms is calcnhned at  
-onefourth the population. IXPOBTAKCEO
+capable of bearing arms is calcnhned a
 </td></tr></table>
 
 ---
@@ -5377,7 +5540,9 @@ onefourth the population. IXPOBTAKCEO
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ro the  
+  
+human life is 33. One quarter die before  
+the age of seven. One half beforo the  
 age of seventeen. To every J,000 per­  
 sons, only one arrives at the age of 100  
 years&#x27; To every 100. only six reach tho  
@@ -5403,11 +5568,9 @@ June and December. Those born in the
 spring are generally more robust than  
 others. , Births and deaths are more fre.  
 quent by night than by day. Number  
-of men capable of bearing arms is estima­  
-ted at about one fourth of the population.  
-Cure forme bite of a
+of men capable of bearing arms is estima
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F0029602885A%2F1858031801%2F0067.jp2/pct:50.062641,53.636364,14.708093,21.532977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F0029602885A%2F1858031801%2F0067.jp2/pct:50.062641,52.887701,14.708093,20.570410/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5429,7 +5592,10 @@ Cure forme bite of a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 7. One half be­  
+  
+j the number of women. The average  
+|of human life is 3-3 years. One quarter  
+| die before the age of 7. One half be­  
 fore the age of 17. To every 1,000  
 persons, one only reaches 100 years;  
 I To every 100, only six reach 75 years;  
@@ -5455,11 +5621,9 @@ and December. Those born in the
 spring are generally more robust than  
 others. Births and deaths are more  
 frequent by night than by day. The  
-number of men capable of bearing arms  
-is calculated at one fourth of the popu­  
-lation.
+number of men capable of bearing arm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1858060201%2F0058.jp2/pct:42.722573,80.010091,12.627059,15.795493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1858060201%2F0058.jp2/pct:42.744479,78.836192,12.666491,16.098217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5493,7 +5657,17 @@ lation. . ., -., -,;..&#x27; , -
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-one hundred. Marriages are  
+  
+births. The married arc longer lived  
+than the single; and above all, those  
+who observe a sober and iudustrious  
+conduct.  
+Tall men live longer than short ones.  
+Women have more chances of life pre­  
+vious to the age of 50 years than men,  
+but fewer after. The number of mar­  
+riages is in the proportion of seventy­  
+five to one hundred. Marriages are  
 roost frequent after the equinoxes; that  
 ia, during the moots of June andDcccm­  
 ber. Those born in spring are gener­  
@@ -5504,9 +5678,12 @@ able of bearing arms is caculated at one­
 maht of the population.  
   
 . The man noticed  
-th
+the  
+follow-  
+ing must be one of the fellows who  
+ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85026031%2F00280774807%2F1858081201%2F0368.jp2/pct:10.183233,65.420561,11.902059,5.744915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85026031%2F00280774807%2F1858081201%2F0368.jp2/pct:10.183233,60.555250,11.902059,11.214953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5560,6 +5737,8 @@ The number of marriages is in proportion of
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+the number of women. The average of human  
+life is 33 years. One quarter die before the  
 age of 7. One half before the age of seven­  
 teen. To every 1,000 persons, one only reach­  
 es 100 years. To every 100 only six reach 75  
@@ -5572,9 +5751,11 @@ losses are about balanced by an equal noruber
 of births. The married are longer lived than  
 the single ; and above all, those who observe  
 a sober and industrious conduct. Tall men  
-live longer than short 
+live longer than short ones. Women have  
+more chances of life previous to the age of 50  
+years than men, but fewer after. The numbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1858121501%2F0314.jp2/pct:5.868139,40.941886,14.394201,6.414797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1858121501%2F0314.jp2/pct:5.868139,39.971140,14.394201,8.382527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5595,9 +5776,19 @@ Pa-
   
 bust than others. Births and deaths  
 are more frequent by night than by  
-day. The number of men capable o
+day. The number of men capable of  
+bearing arms is or.e-fourth of the pop­  
+ulation.—Ecclectic Med. Journal.  
+  
+FAMILY Failings.— In many fam­  
+ilies where both love and good temper  
+prevail, there is what may bs called an  
+irksome rather than a sinful mode of  
+carping and contradicting each other.  
+No harm is meant, and no offence is  
+taken but what can be more irksom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1859012101%2F0219.jp2/pct:25.877501,37.759336,12.573223,2.649778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1859012101%2F0219.jp2/pct:25.877501,37.759336,12.573223,7.869258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5609,20 +5800,16 @@ day. The number of men capable o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e previous  
-tp the age of 50 years than men, but fewer  
-after. The number of marriages is in pro­  
+  
 portion of 75 to 100. Marriages are more  
 frequent after the equinoxes—that is, during  
 the months of June and December. Those  
 born in the spring are generally more robust  
 than oiners. Births and deaths are more  
 frequent by night than by day. The number  
-of men capable of bearing arms is calculated  
-at one-fourth of the population.  
-Tbe Odd Fellows of Yreka are to have 
+of men capable of bearing arms is calculate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557979%2F1859030501%2F0042.jp2/pct:47.510981,88.111841,14.590959,7.446024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557979%2F1859030501%2F0042.jp2/pct:47.510981,89.902105,14.590959,4.210809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5684,7 +5871,12 @@ men capable of bearing arms is one-fourth o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ndred. Marriages  
+  
+live longer than short ones. Women have  
+more chances of life pre-vious to the  
+age of fifty years, and fewer after. The  
+number of marriages are in proportion of  
+seventy-six to one hundred. Marriages  
 aro more frequent after the equinoxes-  
 that is, during the months of June and  
 December. Those bom in Spring are  
@@ -5712,7 +5904,18 @@ number of men capable of bearing arms i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+, the surface bleach­  
+ed, arid the material is then fit for us. It is  
+stated thut by this process a substance posses­  
+sing all the requisite homogeniety, hardness ;  
+and absence of pores, is obtained, uud of any  
+desired size.  
+MANY FACTS IN SMALL COMPASS.—The num­  
+ber of languages spoken is 4,064. The num­  
+ber of men is about equal to the number of  
+women. The average of human life is 33 years  
+One quarter die before the age of 7 ; half be- j  
+fore the age of 17. To every 1,000 persons,  
 1 only reached 100 years. To every 100, 6  
 reach 75 years, and not more than I in 500 j  
 will reach 80 years. There are on the earth  
@@ -5723,9 +5926,13 @@ every second. These losses are about, balhnc- ;
 ed by an equal number of births. The marri- j  
 ed arc longer lived than the single, nnd above  
 all, those who observe a sober and industrious  
-conduct. Tall men live longer th
+conduct. Tall men live longer than short ones.  
+Women have iuoro chances of life previous to  
+the age of fifty years than men, but few ever  
+alter. The number of marriages are in the pro­  
+portion of 76 to 100. Marriages are more fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860080201%2F0447.jp2/pct:31.577817,75.808523,15.268159,6.230784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860080201%2F0447.jp2/pct:31.577817,68.270091,15.295002,16.178245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5757,7 +5964,15 @@ conduct. Tall men live longer th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
+  
+guages now spoken is 4,o64. The number  
+of men is about equal to the number of w o­  
+men. The average of human life is 53 years.  
+One quarter die before the aze of 7 ; one-  
+half before the age of 17. To every 1,000  
+persons, eniy one reaches too years, ana not  
+more than one in 500 will reach bO vears.  
+There are on the earth 1,000,000,000 inhabi­  
 tants. Of these S3, 333,333 die every year,  
 91,824 die every day, 7,780 every hour, and  
 60 per minute, or one every second. These  
@@ -5777,7 +5992,7 @@ others. Births and deaths are more frequent
 by day than night. The number of men ca­  
 pable of bearing arms is one-fourth of the po
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156384%2F1861030601%2F0043.jp2/pct:4.661716,31.922910,14.913366,10.027532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156384%2F1861030601%2F0043.jp2/pct:4.661716,27.488770,14.913366,14.461672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5814,9 +6029,11 @@ ei-&#x27;hty jeais. There aru on the ear&#x27;.h
 monthly, 92,.r93 daily, 3.15G15 houtly,  
 04 each minute, 1 e.ich second ! This  
 loss is balanced by about an equal num  
-ber of births. Tim married are longe
+ber of births. Tim married are longer  
+lived than the single ; tall men live lon  
+ger than short ones. Women hae mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn85029094%2F00237281858%2F1863032101%2F0439.jp2/pct:56.013442,82.027235,12.522108,8.504625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn85029094%2F00237281858%2F1863032101%2F0439.jp2/pct:56.013442,82.027235,12.522108,9.647996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5828,16 +6045,17 @@ ber of births. Tim married are longe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-7 years, one-half before 17; those who  
-pass this point enjoy an advantage refused to one-  
   
-life we are in death. Of the 1,000,000,000 on earth,  
 it is estimated that 33,335,333 die every year, 91,-  
 824 every day, 3,730 every hour, 60 every minute,  
 or 1 every second. The deaths are balanced by an  
-equal number of births. We have deduced thes
+equal number of births. We have deduced these  
+faces to show that modern registration and investi-  
+  
+than to any | gation have explained what to the casual observer  
+in the on to ton might seem confusion worse confounded. Those
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1864-11-10_16_832&#0036;7/pct:35.778443,74.526699,11.661677,4.453883/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1864-11-10_16_832&#0036;7/pct:27.739521,76.759709,19.730539,4.138350/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5881,14 +6099,9 @@ equinoxes; that is, during the moDths of June
 and December. Those born in the spring are  
 generally more robust than others. Births and  
 deaths are more frequent by night than by day.  
-The number of men capable of bearing arms is  
-calculated at one-fourth of the population.  
-- . IM . .  
-From the Paris Kentuckian.  
-TWICE MARRIED.  
-Our neighboring little city of Cynthian
+The number of men capable of bearing arms i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879208%2F1866112001%2F0186.jp2/pct:33.954858,19.816909,14.874527,20.043080/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879208%2F1866112001%2F0186.jp2/pct:33.954858,19.816909,14.874527,17.016694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5912,21 +6125,23 @@ seventeen; and those who paaa this age X
 enjoy a felicity refused to one half the  
 human species. To every one hundred  
 persons only one reaches one hundred  
-years of lire; to everyone hundred onl
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190789%2F1866112401%2F0498.jp2/pct:1.790605,81.457655,13.187276,5.158795/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1866-11-24/ed-1/seq-4)
-
-#### 1866-11-24 &middot; Wheeling, W. Va.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+years of lire; to everyone hundred only  
+six reach the age of sixty-five; and not  
+more than one in five hundred live to  
+eighty years or age. There are on the T  
+earth 1,000,000,000 inhabitants; and or \
+these 33,333,333 die every year, 91,832 ?  
+every day, 3730 every hour, and sixty  
+every minute, or one every second. Tj  
+These losses are about balanced bv an X  
+equal number of births. The married  
+re longer lived than the single, and w  
+above all, those who observe a sober at  
+and Industrious couduct. Tall men  
+live longer than short ones. Women  
+have more chances of life in their favor U  
+previous to being fifty years of age than ly  
+men, but Jbwer afterwards. The num- ?  
 ber of marriages is in proportion ef 75  
 to every one hundred individuals. Ft  
 Marriages are most frequent after the M  
@@ -5935,13 +6150,9 @@ or June and Deoember. Those born In
 the spring are generally more robust  
 than others. Births and deaths are ,  
 more frequent by night than by day. ?  
-The number of men capable of bearing O  
-arms is calculated at one-fourth of the  
-population.  
-  
-Lbctcres The lecture season ta a]
+The number of men capable of bearing 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190789%2F1866112401%2F0498.jp2/pct:1.342953,3.969870,24.394354,93.619707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190789%2F1866112401%2F0498.jp2/pct:1.342953,81.457655,13.634927,15.256515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5988,11 +6199,9 @@ that is, during the months of June and
 December. Those born in the spring are  
 generally more robust than others. Births&#x27;  
 ind deaths are more frequent by night than  
-&gt;y day. The number of men capable of  
-leariDg arms is calculated at one-fourth of  
-&gt;he population
+&gt;y day. The number of men capable o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862713%2F1866112901%2F0429.jp2/pct:84.187973,14.403210,14.926439,20.691142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862713%2F1866112901%2F0429.jp2/pct:84.187973,14.403210,14.926439,19.537028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6015,6 +6224,7 @@ leariDg arms is calculated at one-fourth of
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ken in the world atiiuuuLs to 30Gi The in­  
 habitants of the globe profess more than 1000  
 different religions. The number of men is  
 about equal to the number of women. The  
@@ -6050,9 +6260,9 @@ calculated at oue-lbufth of the population.?
 llomc Journal.  
 Debt.?With what facility can you enter  
 a store and examine all the pretty articles ex^  
-posed for 
+posed for sale, and order any quantity of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192312%2F1867011501%2F0318.jp2/pct:29.105903,65.083187,13.715278,19.888354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192312%2F1867011501%2F0318.jp2/pct:29.105903,64.565090,13.715278,20.439288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6065,11 +6275,13 @@ posed for
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+entered her little innocent heart. If it had, the fairies | three years. One quarter die previous to the age of | can do,” said the tar, as ‘he took a fresh quid of to-  
 would bave taken back their gift. seven years; one half before reaching seventeen; and | bacco, “so here goes. Blast you, old boy, shell  
   
-She wondered that people were not more snrprised | those who pass this age enjoy a felicity refused to | ont your change in less than two shakes of a lobster’
+She wondered that people were not more snrprised | those who pass this age enjoy a felicity refused to | ont your change in less than two shakes of a lobster’s  
+to see her with her new grace, but they only smiled | one-half the human species. To every 1000 persons, | liver! or, curse me, if I don’t rake you fore and aft.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3&#0036;15/pct:21.492295,60.388514,46.796431,1.334459/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3&#0036;15/pct:21.451744,59.763514,46.836983,2.635135/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6087,9 +6299,10 @@ nee years of age. There are on the earth 1,000,000,000 in-
   
 - habitants; and of these 33,333,333 die every year,  
   
-THE TERRORS OF THE SUBURBS. 91,822 every day, 3730 every hour, and sixty ever
+THE TERRORS OF THE SUBURBS. 91,822 every day, 3730 every hour, and sixty every  
+minute, or one every second. These losses are about
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3&#0036;15/pct:22.445255,64.172297,30.028386,1.722973/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3&#0036;15/pct:22.445255,64.172297,30.068938,2.331081/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6152,11 +6365,9 @@ is, durmjr the months ot June and iJecember.
 Those born in the spring are generally more  
 robust than others. Births, and deaths are  
 more frequent by night than by day. The  
-number of men capable of bearing anus is  
-calculated at one-fourth of the population.  
-Home Journal
+number of men capable of bearing anus i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042146%2F00296022834%2F1867021901%2F0090.jp2/pct:58.346118,38.604323,12.703283,16.059680/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042146%2F00296022834%2F1867021901%2F0090.jp2/pct:58.361461,38.604323,12.687941,15.225564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6189,15 +6400,16 @@ months οt June and December. Those
 born in the spring are generally more  
 robust than others. Births aad deaths  
 are more frequeat by night than by day  
-The number of men is about equal t
+The number of men is about equal to  
+that of women. The average duratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279554140%2F1867082401%2F0192.jp2/pct:9.886848,80.133957,11.635133,9.354859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279554140%2F1867082401%2F0192.jp2/pct:9.886848,80.133957,11.635133,9.759257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1869-02-06_12_300?page=15)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1869-02-06_12_300?page=15)
 
 #### 1869-02-06
 
@@ -6209,9 +6421,23 @@ that is, during the months of June and December.
 Those born in spring are generally more robust than  
 others. Births and deaths are more frequent by  
 night than by day. The number of men capable of  
-bearing arms is calculated at one-fourth of the
+bearing arms is calculated at one-fourth of the  
+  
+n.  
+OrsTers.—Whitstable oysters have ever been  
+noted for their plumpness and peculiarly delicious  
+  
+flavour. Poor, lean, insipid o are brought from  
+Jersey, and other places, and atthe bottom  
+of the sea off Whitstable and the Isle of Sheppy ; and  
+in a short time they, acquire the same fulness  
+and agreeable flavour. + is the cause of this?  
+It may be owing to the,healthy tincture suitable for  
+oysters im to the sea-water by the blue clay  
+which forms the cliffs and bed of the sea of this lo-  
+cality. This blue clay is of the same character a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1869-02-06_12_300&#0036;15/pct:66.708543,72.087814,25.785176,4.861111/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1869-02-06_12_300&#0036;15/pct:66.708543,72.087814,26.067839,14.852151/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6239,11 +6465,9 @@ thha and December. Those bom in
 the spring are generally more robust  
 than others. Birtns and oeatns are  
 more frequent by night than by day. (  
-The number of men capable of bearing  
-arms ,is estimated at atiout one-fourth  
-of the population. ; :. - J .
+The number of men capable of bearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1870021801%2F0122.jp2/pct:46.025676,89.180293,9.860694,3.323423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1870021801%2F0122.jp2/pct:46.039334,89.180293,9.847036,2.420896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6290,9 +6514,7 @@ December. Those born in the &#x27;spring are
 generally more robust than others.  
 Births aul deaths are more frequent, by  
 night than day. The number of men  
-capable of bearing arms iscalculated at  
-one-fourth the population. , Lashing  
-Immorality. — With reference to 
+capable of bearing arms iscalculated a
 </td></tr></table>
 
 ---
@@ -6339,8 +6561,7 @@ December. Those born in the spring are
 generally more robust than others.  
 Births and deaths are more frequent by  
 night than day. The number of men  
-capable of bearing arms is calculated at  
-one-fourth the population. tSt We ar
+capable of bearing arms is calculated a
 </td></tr></table>
 
 ---
@@ -6389,10 +6610,9 @@ of Juue and December. Those born
 in spring are mere robust than others  
 IJirths and deaths are more frequeuc  
 by night than by day. The number  
-of clen capable of bearing arua is cal­  
-culated at one fourth of the population
+of clen capable of bearing arua is cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023140%2F1871052501%2F0085.jp2/pct:73.125637,70.655302,11.282574,20.223600/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023140%2F1871052501%2F0085.jp2/pct:73.125637,70.655302,11.282574,19.703343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6405,27 +6625,29 @@ culated at one fourth of the population
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+her presence near the helm would cause the  
+Ship .of Slate to deflect from its proper  
+course.  
+Facts In Human Life.  
+The number of languages spoken in the  
 world is 8,064. The Inhabitantsof the globe  
 profess more than 1,000 different religions.  
 The number of men is about equal to the  
 number of women. The average of human  
 life is about thirty-three years. One quarter  
 die previous to the age of seven years, one­  
-half before seventeen, and thosq w
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00294554828%2F1871052601%2F0405.jp2/pct:40.372216,32.486450,12.353458,4.019874/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1871-05-26/ed-1/seq-1)
-
-#### 1871-05-26 &middot; Deer Lodge, Mont.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-al number of births. The  
+half before seventeen, and thosq who paes  
+this age enjoy a felicity refused in one-half  
+of the human species. To every one thou­  
+sand persons, one reaches 100 years of life;  
+to every 100, only six reach Sheage of sixty.  
+five; and not more than one in 800 lives to  
+eighty years of age. Thete are on the earth  
+1,000,000,000 Inhabitants; and of these, 83,­  
+8838,888 die every year, 01,884 every day.  
+8,780 every hour, and sixty every minute or  
+one every second. These losses are about  
+balanced by an equal number of births. The  
 married are longer lived than the single,  
 and above all, those who observe a sober in.  
 dustrious conduct. Tall men live longer  
@@ -6442,7 +6664,7 @@ others. Births and deaths are more fre­
 quent by night than by day. The umb­  
 of men capable 6f beaang a iea ut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00294554828%2F1871052601%2F0405.jp2/pct:40.328253,42.490967,12.426729,9.123758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00294554828%2F1871052601%2F0405.jp2/pct:40.328253,29.223126,12.441383,22.391599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6455,6 +6677,9 @@ of men capable 6f beaang a iea ut
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+Facts in Human Life  
+The number of languages spoken in  
 the world i.s3,0G4. The inhabitants of the  
 globe profess more than l,0o0 different re­  
 ligions. The number of men is about  
@@ -6488,12 +6713,9 @@ ii during the inornhs of June and Decem­
 ber. Those bom in spring are genarally  
 more robust than oiber». Dirths and  
 deaths are more frequent by night than by  
-day. Tne number of men capable of  
-hearing arms is calculated at one fourth of  
-the population.  
-“ Have you heard how old Mrs. Darn
+day. Tne number of men capable o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897895%2F1871070801%2F0058.jp2/pct:17.011460,76.105699,11.270278,19.283955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897895%2F1871070801%2F0058.jp2/pct:17.011460,74.986004,11.270278,18.209047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6529,9 +6751,15 @@ every liour and sixty every minute.
 one every second, lueso losses  
 about .balanced by an equal  
 number of .births. Thc married are  
-fonrer lived tha
+fonrer lived than the single, and  
+all, those who observe a sober  
+industrious conduct. Tall men  
+longer than short ones. Wo  
+nave more cuances oi me in  
+favor previous to being fifty  
+of age than men, afterwards
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775484%2F1871071301%2F0274.jp2/pct:84.661732,76.093098,9.760716,11.152967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775484%2F1871071301%2F0274.jp2/pct:84.661732,76.093098,9.760716,14.045473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6567,21 +6795,14 @@ one half of the human species. Tu
 every thousaud persons, one readies a  
 hundred years of life; to every one  
 hundred, only six reach the age of sixty  
-five: and uot monj than oue in liv
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_neahkahnie_ver01%2Fdata%2Fsn93051636%2F00295868387%2F1871081901%2F0260.jp2/pct:4.253731,35.706961,14.507463,9.171699/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Oregon Republican._](https://chroniclingamerica.loc.gov/lccn/sn93051636/1871-08-19/ed-1/seq-4)
-
-#### 1871-08-19 &middot; Dallas, Or.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-l number of births  
+five: and uot monj than oue in live  
+hundred lives to eighty yeais of age.  
+There are on earth 1,000,000,000  
+inhabitants, and of these  
+die every year, 91,8-1 every d;iy, ,7o0  
+every hour, and sixty every minute, or  
+one every .second. The loses are ub-mt  
+balanced by an equal number of births  
 The married are&#x27; lunger lived than the  
 single, and above all, those who ob- j  
 serve a sober industrial conduct. Tall  
@@ -6598,11 +6819,9 @@ June and December. Those born in
 spring are generally more robust than  
 others. Births and deaths are more  
 frequent by night than by day. The  
-number of men capable of bearing  
-arms is calculated at one fourth of the  
-population
+number of men capable of bearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_neahkahnie_ver01%2Fdata%2Fsn93051636%2F00295868387%2F1871081901%2F0260.jp2/pct:4.208955,48.980289,14.940299,13.227754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_neahkahnie_ver01%2Fdata%2Fsn93051636%2F00295868387%2F1871081901%2F0260.jp2/pct:4.208955,35.706961,14.940299,25.133873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6638,21 +6857,14 @@ years of life; to every 100, only G reach the
 a*e Go; and not more than 1 in 500 lives to  
   
 80 years of age. There are on earth l,yU0,­  
-000,000 inhabitants, and of these 33,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184418%2F1871101801%2F0134.jp2/pct:44.449710,29.264503,11.993050,6.693140/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1871-10-18/ed-1/seq-4)
-
-#### 1871-10-18 &middot; Richmond, Va.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+000,000 inhabitants, and of these 33,383,833  
+die every year, 91,821 every day, 3,730  
+every hour, and 40 every minute, or one  
+every second. The man ied are longer lived  
+than the single, aud above all, those who  
+observe a sober and industrious conduct.  
+Tall men live longer than short ones. Wo­  
+men have more chances of life in their favor  
 previous to their being 50 years or ago than  
 men have, but fewer afterwards. The nura  
 ber of rr a riages is in the proportion ot &lt;5 to  
@@ -6662,12 +6874,9 @@ the months of June and December. Those
 born in the spring are generally more robust  
 than others. Births and deaths are more  
 frequent by night than by day. The num­  
-ber of men capable of bearing arm3 is ealeu  
-lated at one-fourth of the population.  
-Co ___  
-How the Factory Helps the Farm
+ber of men capable of bearing arm3 is eale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184418%2F1871101801%2F0134.jp2/pct:44.532638,39.537293,11.993050,8.057090/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184418%2F1871101801%2F0134.jp2/pct:44.449710,29.264503,12.075978,15.403430/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6680,6 +6889,8 @@ How the Factory Helps the Farm
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+There are about 3,064 languages  
+spoken in the world, and its inhab­  
 i itants profess more than 1,000 dif­  
 t ferent religions. The number of  
 rmen is about equal to the number  
@@ -6720,7 +6931,7 @@ Sday. The number of mlnn capable
 of bearing arms is calculated at  
 one-fourth of the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871101901%2F0365.jp2/pct:68.426883,17.988107,13.497046,26.783944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871101901%2F0365.jp2/pct:68.426883,16.600595,13.497046,28.171457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6733,6 +6944,7 @@ one-fourth of the population
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+e languages spoken in the world is 3004-1. The  
 g inhabitants of the globe profess more than  
 Ce 1,000 different religions. The number of  
 n men is about equal to the number of the  
@@ -6765,10 +6977,9 @@ months of June and December. Those
 born in spring are generally more robust  
 e than others. Births and deaths are more  
 2 frequent by night than by day. The num­  
-ber of men capable of bearing arms is cal­  
-e culated at one-fourth of the population
+ber of men capable of bearing arms is cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871102102%2F0541.jp2/pct:56.225992,49.349711,13.540333,16.052505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871102102%2F0541.jp2/pct:56.225992,49.349711,13.540333,15.618979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6820,9 +7031,16 @@ spring are generally more robust
 than others. Births arc more fre­  
 quent by night than by clay. The  
 number of men capable of bearing  
-arms is calculated at one-fourth o
+arms is calculated at one-fourth of  
+population.  
+The Empress Augusta, of Ger­  
+man&#x27;, gratefully remembering the  
+kindly feeling shown by the Ameri­  
+cans for Germany during the late  
+war, scnd3 1,000 thalers to the com­  
+mittee formed ia Berlin for the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775800%2F1871111001%2F0185.jp2/pct:86.274208,73.074205,9.821703,18.292108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775800%2F1871111001%2F0185.jp2/pct:86.274208,73.074205,9.867814,22.249706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6868,6 +7086,13 @@ second. The married are longer-live
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+every hour, and sixty every minute, or one  
+every second. The married are longer lived  
+than the single, and above all those who observe  
+a sober and industrious conduct. Tall men live  
+longer than short ones. Women have more  
+chances of life in their favor previous to their  
+being fifty years of age than men have, but few¬  
 er afterwanls. The uumlx.&#x27;r of marriages b in  
 the proportion of seveuty-five to every 1,000 in¬  
 dividuals. Marriages are more frequent after  
@@ -6875,11 +7100,9 @@ the equinoxes, that b, during the months of
 June and December. Tho.se bom iu the spring  
 are generally more ruhust than others. Births  
 and deaths are more frequent by night than by  
-day. The number of men capable of bearing  
-arras b calculated at oue-fourtli of the popula¬  
-tion.
+day. The number of men capable of bearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101&#0036;10/pct:69.769155,72.464313,18.516699,6.705485/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101&#0036;10/pct:69.769155,67.749812,18.516699,10.236664/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6892,6 +7115,10 @@ tion.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+is  
+in  
+  
+FACTS IN HUMAN LIFE.  
   
 There are about 3,064 Ian gti&amp;gr  
 spoken in the world, and its inhabi­  
@@ -6906,9 +7133,17 @@ city refused to one-half of the human
 species. To every 1,000 persons only  
 one reaches one hundred years of life;  
 to every oue hundred, only six reach  
-the age of sixty-five; and not mor
+the age of sixty-five; and not more  
+than one in five hundred lives to eigh­  
+ty years of age. There are on earth  
+l,0u0,000,000 inhabitants, and or these  
+31,538,000 die every year, 84,400 every  
+day, 3,600 every hour, and sixty every  
+minute, or one every second. The  
+married are longer lived than tha sin­  
+gle, and above all these who observ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1871122701%2F0098.jp2/pct:44.709626,71.460322,9.578361,5.843901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1871122701%2F0098.jp2/pct:44.709626,62.805596,10.517104,17.832396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6927,11 +7162,9 @@ of June and December. Those born
 in the spring are generally more ro­  
 bust than others. Births and deaths  
 are more frequent by night than by  
-day. The number of men capable of  
-bearing arms is calculated at one­  
-fourth of the population
+day. The number of men capable o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1871122701%2F0098.jp2/pct:44.630072,83.095830,9.626094,3.752124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1871122701%2F0098.jp2/pct:44.630072,83.095830,9.626094,2.928487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6967,21 +7200,16 @@ age. There are on the earth 1,000,-
 day ; 3780 every hour: and 00 every  
 minute, or one every second. These  
 losses are about balanced by an equal  
-nu
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623458%2F1872021701%2F0196.jp2/pct:60.509759,35.138207,13.469440,14.152573/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1872-02-17/ed-1/seq-1)
-
-#### 1872-02-17 &middot; Mechanicstown, Md.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ds. The niiinlx-r ut marriages is  
+number of births. Tbe married are  
+longer lived than tbe single, and,;  
+above all, tlio.-e who observe a soberi  
+and industrious conduct. Tall im-ii  
+live longer Ilian .-bolt ones. Women  
+have more chances of life in their fa­  
+\or previous to being fifty years of  
+  
+age, than moil liuvo, hut fewer after­  
+wards. The niiinlx-r ut marriages is  
 in proportion of To to every lUUO indi­  
 viduals. Marriages are more fre­  
 ■llll*lll after the equinoxes ; that is dur­  
@@ -6990,10 +7218,9 @@ Those horn in the spring are generally
 more robust than others. Mirths ami  
 deaths are mure frequent by night than  
 by day. The number ot’ men capable  
-of hearing arms is calculated at one­  
-fourth the population
+of hearing arms is calculated at one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623458%2F1872021701%2F0196.jp2/pct:60.663842,53.546099,13.225475,6.551191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623458%2F1872021701%2F0196.jp2/pct:60.509759,35.138207,13.469440,24.249864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7041,10 +7268,9 @@ December. Those born in the spring
 are generally more robust than others.  
 Births and deaths are more freqm nt  
 bv night than by day. The number of  
-men capable of Waring arms Is calcul­  
-ated at one-fourth of the population.
+men capable of Waring arms Is calcul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn84027352%2F0027952875A%2F1872040401%2F0080.jp2/pct:55.271352,76.772595,10.249852,15.204082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn84027352%2F0027952875A%2F1872040401%2F0080.jp2/pct:55.345492,76.772595,10.175712,14.766764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7072,9 +7298,11 @@ age of 65; and not more than 1 in 500 lives to
 000 inhabitants, and of these 33,333,333 die ev­  
 ery year, 91,824 every day, 3,730 every hour,  
 and 60 every minute,or one every second. The  
-married are longer lived than the single, an
+married are longer lived than the single, and  
+above all, those who observe a sober and in­  
+dustrious conduct. Tall men live longer tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869586%2F1873032001%2F0097.jp2/pct:76.030405,62.342172,18.243243,8.733165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869586%2F1873032001%2F0097.jp2/pct:76.030405,62.342172,18.243243,9.774832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7106,35 +7334,29 @@ half before reaching (Joyeptcen, and those who
 pass this ago enjoy a! felicity refusod to one­  
 half of the human species. To evory 1,000  
 persons only one reaches one hundred years  
-of life ; to every one hundred, 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1876122001%2F0882.jp2/pct:81.302774,39.966718,12.411684,5.827902/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1876-12-20/ed-1/seq-1)
-
-#### 1876-12-20 &middot; Lambertville, N.J.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+of life ; to every one hundred, only six reood  
+tho age of sixty-live; not more thau oue id  
+500 lives to 80 years of age. There are ou  
+the earth 600,000,000 inhabitants and of these  
+33,038,833 die every year, 01;884 8Very (lay,  
+3,780 every hour, and s!ity cve/y iniuute,&#x27; or  
+I v’rie tWcvy second. The married are longer  
+fired than the s/ngle, and above all, those who’  
+Observe a sober and industrious conduct. Tall  
+moil live longer than short ones. Women  
+lfave fnore chances&#x27; (if life in their favor pre­  
+vious to their being llfty years of age than  
+men have, but fewer afterwards. The num­  
+ber of marriages is in t he proportion1 of  
 seventy-live lo uvory 1,000 individuals.—i  
 Marriages are more frequent after the equi­  
 iioxos, that is, during tho month! df Juno Krul  
 December. Those born in the Spring are  
 generally more robust than others. Births  
 and deaths are more frequeut by night tliaii  
-by day. The number of men capable of Bear­  
-ing arms is calculated at oirt’ fourth of thb  
-population.  
-  
-Plkasant Bedrooms.—There is nothing  
-more indicative of refinement and genera
+by day. The number of men capable of Bear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1876122001%2F0882.jp2/pct:81.130450,53.404521,12.515078,6.937318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1876122001%2F0882.jp2/pct:81.095985,39.966718,12.739100,17.421301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7184,9 +7406,7 @@ of June and December. Those born In 4
 spring are generally more robust than t  
 others. Births aud deaths arc more fre- |  
 quant by night than by day. The number |  
-of men capable of bearing arms is calculn- 1  
-ted at one fourth of the population.  
-■ The average depth of the ocean is about 
+of men capable of bearing arms is calculn- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F0041562380A%2F1879042601%2F0082.jp2/pct:26.328406,11.345219,22.559595,84.671676/!600,600/0/default.jpg"/>
 </td>
@@ -7200,7 +7420,19 @@ ted at one fourth of the population.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-if I do it is about  
+nder  
+a voudoo spell.  
+The new&#x27; Bodie stock is now&#x27; on the  
+market at the rate of tw’o shares for one.  
+The name in the certificate ha9 been  
+changed from Bodie to Bodie Consoli­  
+dated, and the capital increased from  
+$.&quot;&gt;,000,000 in &quot;&gt;0,000 shares to $10,000,­  
+000 in 100.000.  
+A “ Hardly Ever” temperance society  
+has been formed down east, When a  
+member is asked if he drinks, he says,  
+“ Hardly ever, but if I do it is about  
 this time of day.”  
 An Ohio man drank two gallons of  
 beer in two hours the other day, from  
@@ -7215,7 +7447,7 @@ The inhabitants of the globe jsrofess
 more than 1,000 different religions.  
 “With all your false I love the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_arrowhead_ver01%2Fdata%2Fsn84022060%2F0027955470A%2F1879062501%2F0598.jp2/pct:57.659208,48.453909,16.334983,12.007730/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_arrowhead_ver01%2Fdata%2Fsn84022060%2F0027955470A%2F1879062501%2F0598.jp2/pct:57.659208,38.229288,16.399527,22.232351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7227,7 +7459,10 @@ more than 1,000 different religions.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-terward.  
+  
+Women have more chances in their  
+favor previous to fifty yean of age but  
+fewer afterward.  
 The inimlHTof nmrrlage I In propor­  
 tion of seventy to every one thousand  
 Inhabitant. Marriages are frequent af­  
@@ -7236,11 +7471,9 @@ Jf June and December U&#x27;lth. Those
 born In the spring are generally more  
 robust than oilier. Births and deaths  
 are more frequent by night than by day.  
-The number of men capable of henrlug  
-anus Is calculated nt one-fourth of the  
-population, 
+The number of men capable of henrlu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_monroe_ver01%2Fdata%2Fsn85026955%2F00200293526%2F1880031601%2F0419.jp2/pct:41.092279,76.105964,12.335217,6.838053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_monroe_ver01%2Fdata%2Fsn85026955%2F00200293526%2F1880031601%2F0419.jp2/pct:41.092279,74.931489,12.372881,6.968550/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7262,7 +7495,9 @@ Europe, 396 in Asia, 875 in Africa, and*
 1,264 in America.&#x27; The inhabitants of  
 the globe profess 1,000 different  
 religions. The number of men is nearly  
-equal 4to that ol women. A iourth of th
+equal 4to that ol women. A iourth of the  
+children die before having reached the  
+age of seven years ; and half before 
 </td></tr></table>
 
 ---
@@ -7276,6 +7511,10 @@ equal 4to that ol women. A iourth of th
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Press. Duration of Human Life—The  
+ayerage of human life is 33 years. One  
+quarter die before the age of 7, one  
+half before the ape of 17. To e*ery 1000  
 persons, 1 only reaches 100 years. To  
 every 100, only 6 reach 75 years ; and  
 not more than 1 in 500 will reach 80  
@@ -7299,9 +7538,7 @@ industrious conduct
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-servants aflirm my statement. The average  
-of human life is thirty-three years. Onequarter  
-die previous to the age of seven years; I  
+  
 one-half before reaching seventeen; so &quot;those !  
 who pass their teens enjoy a felicity refused  
 to one-half the human species. In every 1,000  
@@ -7315,9 +7552,12 @@ sixty every minute. Married persons live
 longer than single; tall men longer that short  
 om*s and women have more chances of life in  
 their favor, previous to being fifty years of age.  
-than men have, but fewer afterward. Person
+than men have, but fewer afterward. Persons  
+who- are born in spring generally grow more  
+robust than those who come into tbe world at  
+other seasons. Deaths are more frequent b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_newfoundland_ver04%2Fdata%2Fsn83045462%2F00280654590%2F1883010301%2F0145.jp2/pct:29.377671,41.893341,15.470794,7.243833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_newfoundland_ver04%2Fdata%2Fsn83045462%2F00280654590%2F1883010301%2F0145.jp2/pct:29.377671,43.085210,15.470794,7.363264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7330,11 +7570,6 @@ than men have, but fewer afterward. Person
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-previous to the age of seven years, one-  
-4 if 1 r 1&quot; a . 1 .  
-  
-nan oeiore reacnuig seveuieeu ; so muse  
 who pass their teens enjoy a felicity re­  
 fused to one-half the human species.  
   
@@ -7356,9 +7591,13 @@ than short ones, and women have more
   
 chances of life in their favor previous to  
 being fifty years of age than men have,  
-but fewer afterward. Persons who are
+but fewer afterward. Persons who are  
+  
+born in spring generally grow more robust  
+than those who come into the world at  
+other seasons. Deaths are more frequent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eiffel_ver02%2Fdata%2Fsn83016925%2F00295878769%2F1883012401%2F0322.jp2/pct:28.664495,20.372171,14.352606,8.970976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eiffel_ver02%2Fdata%2Fsn83016925%2F00295878769%2F1883012401%2F0322.jp2/pct:28.705212,21.427580,14.372964,9.582002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7371,15 +7610,20 @@ but fewer afterward. Persons who are
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-until the vigor of the body has had time  
 to be restored.  
 Human Life.  
 The average of human life is about 33  
 years; one quarter die before reaching  
 the age of seven years; one half before  
-reaching lT.Only one in one thousand live
+reaching lT.Only one in one thousand lives  
+to be one hundred years old ; only six in  
+every hundred live to the age of sixty­  
+five,and not more than one in five hun­  
+dred reaches the age of eighty. The in­  
+habitants of the earth number 1,000,000,­  
+000, and one third of these die every year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895850%2F1884020701%2F0130.jp2/pct:70.312800,63.771676,12.996546,4.353324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895850%2F1884020701%2F0130.jp2/pct:70.312800,64.291908,12.996546,6.867775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7448,10 +7692,9 @@ the equinoxes; that is, during the months of June
 and December. Those bora in the spring are  
 generally more robust than others. Births and  
 deaths are more frequent by night than by day.  
-The number of men capable of bearing arms is  
-calculated at one-fourth of the population.
+The number of men capable of bearing arms i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6&#0036;76/pct:45.283742,32.781283,35.582822,38.275499/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6&#0036;76/pct:45.283742,32.781283,35.582822,37.039958/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7500,8 +7743,7 @@ December. Those born in the spring are
 generally more robust than others.  
 Births and deaths are more frequent by  
 night than by day. The number of men  
-capable of bearing arms is calculated at  
-one-fourth of the population. Tk
+capable of bearing arms is calculated a
 </td></tr></table>
 
 ---
@@ -7542,9 +7784,9 @@ June and December.
   
 Those born in spring are generally of a  
 more robust constitution than others,  
-Births are more frequent by night
+Births are more frequent by night tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1888-11-22_40_2086&#0036;28/pct:44.289216,17.627762,19.289216,17.316989/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1888-11-22_40_2086&#0036;28/pct:44.289216,17.627762,19.313725,17.316989/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7628,10 +7870,9 @@ quent after equinoxes—that is during
 the months of June and December.  
 Those born in spring are generally  
 of a mere robust constitution than  
-others. Births are more frequent by  
-night
+others. Births are more frequent b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588307%2F1888122901%2F1156.jp2/pct:78.838739,71.856799,13.823996,17.441951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588307%2F1888122901%2F1156.jp2/pct:78.838739,71.856799,13.823996,16.909995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7672,10 +7913,9 @@ portion of 76 to every 1.000 individuals. Mar­
 riages are more frequent after equinoxes?that  
 is during the months of June and December.  
 Those born in spring are generally of more ro­  
-bust constitution than others. Births are more  
-frequent by night t
+bust constitution than others. Births are mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_rottweiler_ver01%2Fdata%2Fsn83045462%2F00280654711%2F1889011701%2F0270.jp2/pct:43.455808,83.201263,13.981544,8.195305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_rottweiler_ver01%2Fdata%2Fsn83045462%2F00280654711%2F1889011701%2F0270.jp2/pct:43.455808,83.201263,13.981544,7.799094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7715,7 +7955,7 @@ and December.
   
 Those born in spring are generally of a  
 more robust constitution than others.  
-Births are more frequent by night
+Births are more frequent by night tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1889-01-17_39_3&#0036;30/pct:5.865779,9.197787,40.138320,82.676349/,600/0/default.jpg"/>
 </td>
@@ -7757,9 +7997,11 @@ quent after equinoxes—that is dur­
 ber.  
 Those born in spring are generally  
 of a more robot constitution than  
-others. Births are more frequent by­
+others. Births are more frequent by­  
+night than by day ; also deaths.  
+The number of men capable o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_jolteon_ver01%2Fdata%2Fsn87091048%2F00414213030%2F1889012301%2F0437.jp2/pct:67.963172,21.259951,12.800639,18.518391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_jolteon_ver01%2Fdata%2Fsn87091048%2F00414213030%2F1889012301%2F0437.jp2/pct:67.963172,21.259951,12.800639,19.863437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7793,12 +8035,9 @@ riages are more frequent* after equinox,
 that is, daring the months of Jane and  
 December. Those born in the spring are  
 generally of a more robust constitution  
-than others. Births are more frequent by  
-night than by day, also, deaths. Tbe num­  
-ber of men capable of bearing arms is cal­  
-culated at one-
+than others. Births are more frequent b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_leopardfrog_ver01%2Fdata%2Fsn84036143%2F00295861368%2F1889013101%2F0474.jp2/pct:45.233918,74.320535,12.309942,11.594047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_leopardfrog_ver01%2Fdata%2Fsn84036143%2F00295861368%2F1889013101%2F0474.jp2/pct:45.248538,74.320535,12.295322,10.278257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7818,9 +8057,12 @@ j more than one in 500 live to eighty
 I years. There are on earth 1,500,000,­  
 --i 000 inhabitants. Of these 33,033,033  
 die every year, 91,824 every day, 3,730  
-eve
+every hour and 60 every minute, or  
+&#x27; one every second. The married are  
+j longer lived than the single, and,  
+i above all, those who observe a sobe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_cedar_ver01%2Fdata%2Fsn88085488%2F00211108101%2F1889020901%2F0074.jp2/pct:32.582960,69.795932,12.524664,4.338925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_cedar_ver01%2Fdata%2Fsn88085488%2F00211108101%2F1889020901%2F0074.jp2/pct:32.582960,69.795932,12.524664,5.914014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7936,7 +8178,9 @@ equinoxes — that is during the months of
 June and December. Those tarn in spring  
 ire generally of o more robust  
 constitution than others. DirtliB nrc  
-more frequent by uiglit
+more frequent by uiglit than by day,  
+also deaths. The number of men capable  
+of bearing arms is calculated at one
 </td></tr></table>
 
 ---
@@ -7995,7 +8239,11 @@ There are on the earth 1,000,000,000
 inhabitants. Of these, 33,033,333 die  
 every year; 91,824 every day; 3730 die  
 every hour, and 60 every minute, or 1  
-every second. The married are longe
+every second. The married are longer  
+lived than the single, and, above all,  
+those who observe a sober and  
+industrious conduct. Tall men live  
+longer than short ones. Women have mor
 </td></tr></table>
 
 ---
@@ -8008,7 +8256,10 @@ every second. The married are longe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-100 years of life  
+  
+equal to the number of women. The  
+average life is about 33 years. To 1000  
+persons only ! reaches 100 years of life  
 ; to every 100 six reach the age of 65,  
 and not more than one in 600 lives to 80  
 years. There are on the earth  
@@ -8028,7 +8279,12 @@ or 1 every second. The married ar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+FACTS ABOUT HUMAN LIFE. There are 3,064  
+languages in the world, and, its  
+inhabitants profess mora than 1,000  
+religion. The number of men ia about  
+equal to the number o.f women. The  
+average - of life ie about 33 years. To  
 1,000 persons only one reaches 100 years  
 of life; to every 100 six reach the age  
 of 65 ; and not more than one in 600  
@@ -8037,7 +8293,13 @@ earth 1,000,000,000 inhabitants. Of
 these 33,033,033 die every year, 91,824  
 every day, 3,730 every hour, 60 every  
 minute, or one every second. The married  
-are longer lived than the single, an
+are longer lived than the single, and  
+above all those who observe a sober and  
+industrious conduct. Tall men live  
+longer than short ones. Mr omen hn*e  
+more chances of life in their favonr  
+previous to 50 years of age than men  
+have, but fewer afterwards. The number
 </td></tr></table>
 
 ---
@@ -8049,6 +8311,17 @@ are longer lived than the single, an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Waupaca. Both houses adjourned until  
+the 25th.   
+The World’s Population.   
+Here are some interesting facts about  
+the people who compose the population  
+of the world.   
+There are 3,064 languages in the  
+world, and its inhabitants profess more  
+than 1,000 religions.   
+The number of men is about equal to  
+the number of women. The average  
 of life is about 33 years. One quarter  
 die previous to the age of 17. To every  
 1,000 persons only one reaches 100  
@@ -8075,9 +8348,9 @@ equinoxes—that is, during the months
 of June and December.   
 Those born in spring are generally  
 of a more robust constitution than oth­  
-ers. Births are more frequent by night
+ers. Births are more frequent by nigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85040310%2F00514152123%2F1891012901%2F0511.jp2/pct:50.414751,49.183816,14.245785,14.567454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85040310%2F00514152123%2F1891012901%2F0511.jp2/pct:50.414751,42.971926,14.245785,20.779345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8215,6 +8488,20 @@ niyht than bv dav.&quot; I Quarterly Review
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+remains the same. Our duties should  
+always be high enough to measure the  
+difference between the wages paid  
+labor at home and in competing coun­  
+tries, and to adequately protect Ameri­  
+can investments and American enter­  
+prises.   
+  
+Facts About Humanity.  
+  
+There are 3,064 languages in the  
+world, and its inhabitants profess more  
+than 1,100 religions. The number of  
+men is about equal to the number of  
 women. The averger of life is about  
 33 years. To 1,000 persons only one  
 reaches 100 years c f age; to every 100  
@@ -8224,9 +8511,22 @@ There are on the earth 100,000*000
 inhabitants. Of these 33,033,033 die  
 every year, 91,824 every day, 3,730  
 every hour, 60 every minute, or one  
-every second. The married are longe
+every second. The married are longer  
+lived than the single, and above all  
+those who observe a sober and indust­  
+rious conduct. Tall men live longer  
+than short ones. Women have more  
+chances of life in their favor previous  
+to 50 years of age than men have, but  
+fewer afterward. The number of mar­  
+riages is in the proportion of 75 to  
+1,000 individuals. Those born in the  
+spring are generally of a more robust  
+constitution than others. Births are  
+more freequent at night than by day;  
+also deaths. The number of me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_lopez_ver03%2Fdata%2Fsn88085081%2F0020219977A%2F1896091101%2F0114.jp2/pct:67.804634,71.925527,12.303701,6.206108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_lopez_ver03%2Fdata%2Fsn88085081%2F0020219977A%2F1896091101%2F0114.jp2/pct:67.763667,64.243018,12.344667,20.940715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8239,6 +8539,12 @@ every second. The married are longe
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+inches. This left the uniform sub?  
+stantially as It is to-day. The enly  
+changes of importance since then have  
+been in the headgear.  
+Till; SPAN OF L.IFJ3.  
+(I/Ondon Kcho.)  
 The average of human life, according  
 to Pttofessor Warren, is about 33 years,  
 One quarter die previous to the) age of  
@@ -8248,11 +8554,9 @@ human species. To every 1,000 persons
 only one reaches 100 years of life, to  
 every 100 only six tench the age of 65,  
 and not more than one in f&gt;00 Uvea to  
-SO years. There are on earth 1,000,000.000  
-Inhabitants, and of these 833,3X3,333 die  
-every year
+SO years. There are on earth 1,000,000.00
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_orange_ver01%2Fdata%2Fsn85025715%2F00175031571%2F1897100301%2F0280.jp2/pct:35.653409,87.248387,16.186418,6.448040/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_orange_ver01%2Fdata%2Fsn85025715%2F00175031571%2F1897100301%2F0280.jp2/pct:35.653409,83.824521,16.186418,8.937687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8266,7 +8570,11 @@ every year
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-• Tho average of human  
+  
+bed veiled in gauze muslin and wearing  
+their cotton gloves. The invasion in  
+consequence of tho great heat, is stated  
+to be growing.&quot; • Tho average of human  
 hfo, according to Professor Warren, is  
 about thirty-three years. One-quarter  
 died previous to the age of seven years;  
@@ -8279,7 +8587,11 @@ reach tho ago of 05, and not more than
 one in 500 lives to 80 years of ago.  
 There are oil earth 1,009.000.000  
 inhabitants, and of theso 333,333,383  
-die ev
+die every year. 91.824 every day, 3,720  
+every hour, and GO every minute, or ouo  
+every second. In many English villages  
+stocks may still be seen, the following  
+being a few of the places where they ma
 </td></tr></table>
 
 ---
@@ -8293,6 +8605,7 @@ die ev
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+of human life, according to Professor  
 Warren, is about thirty-three years. One  
 quarter died previous to the age of  
 seven years ; one half before reaching  
@@ -8318,6 +8631,11 @@ minute, or on« «very second. THE TE
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+give an idea of the distance one would  
+havo to go to BOO thoroughly even the  
+greater part of the oity of London-tho  
+largest city in the world.  
+- The average of humanlife, according  
 to Prof. Warren, ls about 3? years. One  
 quarter die previous to the age of 17, and  
 those who pass this age onioy a felicity  
@@ -8328,9 +8646,10 @@ six reach the ago of 63, and not more than
 one in fivo hundred lives to 80 years.  
 Thero are on earth 1,000,000,000 inhabi­  
 tants, and o? these OuS,:?!,^&#x27;. die every  
-year, 91,024 every day, 3,7:10 every hour
+year, 91,024 every day, 3,7:10 every hour,  
+and (?0 every minute, or ? evory second
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_evadeestruction_ver01%2Fdata%2Fsn84026965%2F00294550859%2F1897102701%2F0017.jp2/pct:84.550357,82.020939,13.875528,6.381332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_evadeestruction_ver01%2Fdata%2Fsn84026965%2F00294550859%2F1897102701%2F0017.jp2/pct:84.550357,79.178648,13.890103,9.747106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8343,6 +8662,11 @@ year, 91,024 every day, 3,7:10 every hour
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+give an idea of the distance one would  
+have to go to see thoroughly even the  
+greater part of the city of London-the  
+largest city in the world.  
+- The average of human life, according  
 to Prof. Warren, is about 35 years. One  
 quarter die previous to the age of 17, and  
 those who pass this age enjoy a felicity  
@@ -8356,7 +8680,7 @@ tants, and of these 333,333,333 die every
 year, 91,624 every day, 3,730 every hour,  
 and 60 every minute, or 1 every second
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_gnomiemoore_ver01%2Fdata%2Fsn84026965%2F00294551189%2F1897102702%2F0421.jp2/pct:83.724545,81.157872,13.503290,6.950082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_gnomiemoore_ver01%2Fdata%2Fsn84026965%2F00294551189%2F1897102702%2F0421.jp2/pct:83.709000,78.302357,13.518835,9.805597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8453,6 +8777,8 @@ every second. Tho railway revenue fo
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+The average of human life, accord­  
 ing to I‘rof. Warren, is about thirty­  
 three years. One quarter die previous  
 to the age of seven years, one-half be­  
@@ -8470,7 +8796,7 @@ year, 91,824 every day, 3,730 every hour,
 and sixty every minute, or one ever*  
 second.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_honeydew_ver01%2Fdata%2Fsn99068086%2F0033289996A%2F1898011301%2F0439.jp2/pct:71.056493,78.635389,14.668929,8.550889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_honeydew_ver01%2Fdata%2Fsn99068086%2F0033289996A%2F1898011301%2F0439.jp2/pct:71.056493,78.055240,14.668929,9.131038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8493,6 +8819,7 @@ second.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Average of Human Life.  
 The average of human life, accord­  
 ing to Prof. Warren, is about thirty­  
 three years. One quarter die previous  
@@ -8509,9 +8836,11 @@ reach the age of 05, and not more than j
 one in 500 lives to 80 years of age.  
 There are on earth 1,000,000,000 inhab- ;  
 i itants, and of these 33,333,333 die every &#x27;  
-year, 91,824 every day, 3,730 eve
+year, 91,824 every day, 3,730 every hour, 1  
+! and sixty every minute, or one every  
+! second. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_elephanttree_ver01%2Fdata%2Fsn94051692%2F00211106153%2F1898021901%2F0284.jp2/pct:55.318596,80.155367,12.717815,7.455609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_elephanttree_ver01%2Fdata%2Fsn94051692%2F00211106153%2F1898021901%2F0284.jp2/pct:55.292588,79.650928,12.743823,8.968927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8530,9 +8859,14 @@ sixty-five, and not more than one in 600 lives to
 eighty years. There are on the earth 1,000,000,000  
 inhabitants. Of these, 33,033,033 die every year,  
 91,824 every day, 3,730 every hour, 60 every min-  
-ute, or one every second. The married are longer
+ute, or one every second. The married are longer-  
+lived than the single, and above all those who ob-  
+serve a sober and industrious conduct. Tall men  
+live longer than short ones. Women have more  
+chances of life in their favor, previous to fifty years  
+of age, than men have, but fewer afterward. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1898-03_23_3&#0036;40/pct:48.899756,66.820175,35.207824,8.508772/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1898-03_23_3&#0036;40/pct:48.869193,66.820175,35.238386,14.736842/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8555,16 +8889,11 @@ ute, or one every second. The married are longer
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ple born in the spring are generally  
-of a more robust constitution than  
 others. Deaths are more frequent by  
 night than by day. The number of  
-men capable of bearing arms is cal­  
-culated at one-fourth of the popula­  
-tion.AMONG THE CAMERA PEOPLE.  
-The camera may be used to excsllen
+men capable of bearing arms is cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_elk_ver01%2Fdata%2Fsn84020558%2F00202192622%2F1898031401%2F0588.jp2/pct:36.391639,75.051351,14.367437,5.577500/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_elk_ver01%2Fdata%2Fsn84020558%2F00202192622%2F1898031401%2F0588.jp2/pct:36.391639,76.094170,14.345435,1.422026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8577,6 +8906,10 @@ The camera may be used to excsllen
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+i   
+Average of Human Life.  
+The average of human life, accord­  
+■ ing to Prof. Warren, is about thlrty­  
 i three years. One quarter die previous  
 to the age of seven years, one-half be­  
 fore reaching 17, and those who pass  
@@ -8592,7 +8925,7 @@ itants, and of these 33,333,333 die every
 and sixty every minute, or one every  
 second
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_arguingmatch_ver02%2Fdata%2Fsn96060765%2F0038334184A%2F1898031901%2F0238.jp2/pct:30.587316,81.090213,12.581843,7.091639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_arguingmatch_ver02%2Fdata%2Fsn96060765%2F0038334184A%2F1898031901%2F0238.jp2/pct:30.587316,79.209370,12.581843,8.972482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8605,6 +8938,14 @@ second
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+any court to thwart a measure of right  
+and justice.&quot;  
+Facts About Human Life.  
+There are about 3,064 languages in  
+the world, and its inhabitants profess  
+more that 1,000 religions. The num­  
+ber of men is about equal to the num­  
+ber of women. The average of life is  
 about thirty-three years. To 1,000 per­  
 sons, only one reaches 100 years of life;  
 to every 100, six reach the age of sixty­  
@@ -8613,9 +8954,22 @@ to eighty years. There are on the earth
 1,000,000,000 inhabitants. Of these 33,­  
 033,033 die every year, 91,824 every­  
 day, 3,730 every hour, 60 every minute,  
-or of every second, The married ar
+or of every second, The married are  
+longer lived than the single, and, above  
+all, those who observe a sober and in­  
+dustrious conduct. Tail men live  
+longer than short ones. Women have  
+more chances of life in their favor, pre­  
+vious to fifty years of age, than men  
+have, but fewer afterward. The num­  
+ber of marriages is in the proportion  
+of 75 to 1,000 individuals. Those born  
+in the spring are generally of a more  
+robust constitution than others. Births  
+are more frequent by night than day;  
+also deaths. The number of men ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_hillerman_ver01%2Fdata%2Fsn88056017%2F0041566672A%2F1898031901%2F1028.jp2/pct:22.259615,35.769950,15.336538,5.564214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_hillerman_ver01%2Fdata%2Fsn88056017%2F0041566672A%2F1898031901%2F1028.jp2/pct:22.187500,29.582294,15.480769,19.841022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8628,15 +8982,16 @@ or of every second, The married ar
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+age, than men have, but fewer after­  
+ward. The number of marriages is in  
+the proportion of 75 to 1,000 individu­  
 als. People born in the spring are  
 generally of a more robust constitu­  
 tion than others. Deaths are more  
 frequent by night than by day. The  
-number of men capable of bearing  
-arms is calculated at one-fourth of  
-the population.—Blade.
+number of men capable of bearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_lopez_ver03%2Fdata%2Fsn88085081%2F0020219977A%2F1898040801%2F0491.jp2/pct:54.025452,92.956233,12.217013,3.692849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_lopez_ver03%2Fdata%2Fsn88085081%2F0020219977A%2F1898040801%2F0491.jp2/pct:54.025452,91.155399,12.217013,4.415787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8673,14 +9028,17 @@ The married are longer-lived than th
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+age, than men have, but fewer after­  
+ward.  
+The number of marriages is in the  
+proportion of 76 to l.ouu individuals.  
 People born in the spring are generally  
 of a more robust constitution than oth­  
 ers. Deaths are more frequent by night  
 than by day. The number of men  
-capable of bearing arms is calculated  
-at one-fourth of the population.
+capable of bearing arms is calculate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_fitzgerald_ver02%2Fdata%2Fsn88056164%2F00295869173%2F1898051301%2F1079.jp2/pct:51.398451,90.229714,13.812392,3.117542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_fitzgerald_ver02%2Fdata%2Fsn88056164%2F00295869173%2F1898051301%2F1079.jp2/pct:51.398451,88.081742,13.812392,4.728520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8693,6 +9051,16 @@ at one-fourth of the population.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+him frrniently  
+Five bullets from the niggers Mausers  
+  
+jgC icoEf CuMark  
+  
+Tub Position of the Hostile Forces about Ladysmith  
+  
+Human Life  
+The averago of human life according to  
 Prof Warren is about 33 years One  
   
 quarter die previous to the age of seven  
@@ -8709,7 +9077,7 @@ these 33333333 die every year 91824
 every day 3730 every hour and 60 every  
 minute or one every secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_abe_ver01%2Fdata%2Fsn82016187%2F0010049372A%2F1899111601%2F0282.jp2/pct:17.488954,80.467661,12.315906,5.328269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_abe_ver01%2Fdata%2Fsn82016187%2F0010049372A%2F1899111601%2F0282.jp2/pct:7.400589,58.680652,22.717231,27.115277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -85,7 +85,15 @@ see it rotten.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-od could be made to last longer  
+  
+will last a life time iusUad of a half  
+doaeD years would be a very durable  
+one.&#x27; Here &#x27;is what a correspondent  
+the Western Avral says. If what  
+states in true, bis method of pre­  
+paring posts should be cdopted by all:  
+. x oiscovereu many years aso tuat  
+wood could be made to last longer  
 than iron in the ground, but thought  
 the process so simtdeaud mexuenaive  
 that it was not worth while making  
@@ -106,7 +114,7 @@ paint. - Pot a coat of this over the
 umber, and tiler i riot a man, that  
 will live long enough, to se it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872062601%2F0208.jp2/pct:54.515470,37.860935,9.596356,8.261038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872062601%2F0208.jp2/pct:54.484058,34.960508,9.627768,11.161466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,10 +200,9 @@ l piece.
 ecipo: Take boiled linseed oil and pulverzed  
 charcoal to the consistency of paint.?  
 r&#x27;ut a coat of this. over, the timber, -and  
-here is not a man that will live to see it rotea.  
-Secret Corr
+here is not a man that will live to see it rotea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F0029586235A%2F1872082901%2F0277.jp2/pct:50.452701,16.673724,16.187949,17.100713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F0029586235A%2F1872082901%2F0277.jp2/pct:50.452701,16.673724,16.187949,16.003247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,9 +228,10 @@ other kind of timber for fence posts. I have taken
 out basswood posts after having been set seven years,  
 that were as ccund when taken up as when first put  
 into the ground. Time and weather seemed to have  
-
+no effect on them. The posts can be prepared for less  
+than two cents apiece.” We believe that this is a goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11&#0036;19/pct:39.244186,9.539943,27.378436,10.627675/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11&#0036;19/pct:39.244186,9.539943,27.378436,11.626248/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +243,17 @@ into the ground. Time and weather seemed to have
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ing the legs &amp;c., as it does not  
+kick. In such a case, put a broad  
+strap around her body, just in front of  
+t the udder, and buckle it up moderate­  
+ly tight, and as soon as shie gets quiet  
+n (for she may dance around a little at  
+1 first), take your pail, sit down and go  
+to milking, for she is as helpless as a  
+kitten. Do not attempt to use a rope  
+B instead of a strap, for it will not ans­  
+1 wer. This is a much better method  
+than tying the legs &amp;c., as it does not  
 I hurt the animals in tihe least. A few  
 I application of the strap, with plenty  
 of patience and kindness, will cure the  
@@ -273,7 +291,7 @@ of this over the timber; and there is
 not a man that will live to see it r  
 rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555146%2F1872092501%2F0046.jp2/pct:43.233408,56.366624,13.602495,23.354066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555146%2F1872092501%2F0046.jp2/pct:43.042800,50.393146,13.793103,29.327544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +303,19 @@ rotten.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-A pint of dour, two  
+  
+the flour. Stir in flour until you have a stiff  
+batter; turn in to your bowl; roll, cut, and  
+bake quick.  
+Tomato Custard.—This is said to be a  
+beneficial diet for consumptives. It is made  
+lw stmininor finplv s+.pwprl trmvAfrnps t.limnrr&#x27;h  
+  
+a coarse sieve, and adding two pints of milk  
+and one pint of tomatoes, for four eggs and  
+one teaspoonful of sugar. Bake in small  
+cups quickly.  
+Cottage Pudding.—A pint of dour, two  
 eggs, one-half cup of suga^ one teaspoon of  
 : cream tartar, one-half of soda, one table­  
 ! spoon of butter, one cup of milk. Bake in  
@@ -318,7 +348,7 @@ to the consistency of paint. Put a coat
 over the timber, and there is not a man that  
 will live long enough to see it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1872101101%2F0367.jp2/pct:72.305485,72.881978,11.084981,16.837047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1872101101%2F0367.jp2/pct:72.305485,67.544074,11.084981,22.174951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,13 +420,17 @@ rotten.&quot;
 
 ---
 
-## [From _Railway Age 1870-2016_](https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4?page=2)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4?page=2)
 
 #### 1872-12-14
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+pies the endof the car. he car is carried on two six-wheel  
+trucks, and is furnished in a very elaborate manner.  
+  
+Preserving Posts.  
   
 A correspondent of the English Mechanic says: ‘ Take  
 boiled linseed cil and stir in pulverized charcoal to the con-  
@@ -413,7 +447,7 @@ and charcoal are applic d.”
   
 A Woman Inventor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4&#0036;2/pct:59.312749,38.907164,25.124502,8.077485/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4&#0036;2/pct:59.262948,36.622807,25.174303,10.361842/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,13 +503,15 @@ ber, and there is not a man that will live t
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Mrs. M. E. Uynearson.  
+To Preserve Posts.—A writer in the  
 IPcs/ern Rural says: “Take boiled linseed  
 ■oil and stir in pulverized charcoal to the con­  
 e’stency of paint. Put a coat of this over  
 the timber, and there is not a man who w ill  
 live long enough to see it rotten. 1 discov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873021501%2F0031.jp2/pct:7.518870,55.519962,14.742597,2.835851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873021501%2F0031.jp2/pct:7.518870,54.292555,14.742597,4.063259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +523,7 @@ live long enough to see it rotten. 1 discov
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ght previous.  
+  
 I&#x27;.VFttr.AsTiNo Fence Ports. — ‘I dis­  
 covered many years ago that wood could  
 bo made to last longer thin iron in the  
@@ -507,9 +543,10 @@ will give the recipe: Take boiled lipscod
 oil and stir it in pulverized charcoal to tho  
 consistency of paint. Put n coal of tLis  
 over tho timber, and thero is not a man  
-that will live to *oo it rot.&#x27;—Curretpondcn
+that will live to *oo it rot.&#x27;—Curretpondcnt  
+\\\-*tcrn Iinral.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873022101%2F0592.jp2/pct:83.703519,33.434716,12.981449,13.158085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873022101%2F0592.jp2/pct:83.703519,34.488377,12.981449,12.517199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,9 +577,16 @@ seemed to have no effect on them. The
 posts can be prepared for less than two  
 cents apiece.  
   
-For the
+For the benefit of others, I will give  
+  
+the reoeipe: Take boiled linseed oil  
+and stir it in pulverized charcoal to the  
+consistency of paint. Put a coat of  
+  
+this over the timber, ind there is not a  
+man that will live to see it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85033526%2F00212472566%2F1873022701%2F0035.jp2/pct:14.032358,26.813448,9.886434,8.916499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85033526%2F00212472566%2F1873022701%2F0035.jp2/pct:14.020691,26.813448,9.956441,11.809489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +608,8 @@ For the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-wood could  
+  
+&#x27; covered many years ugo that wood could  
 be made to last longer than iron iu tho  
 ground, but thought the process so simpln  
 and inexpensive that it was not worth  
@@ -582,9 +627,10 @@ of others I will give recipe : &quot;Take boiled
 linseed oil and stir it la pulverized char­  
 coal to the consistency of paint. Put n  
 coat of this over the tinilier, and there iu  
-not a mau that will live to eee it rot.
+not a mau that will live to eee it rot.&quot;  
+Cor. Wtitf-m Itural
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776051%2F1873030101%2F0230.jp2/pct:81.955157,49.978870,12.538117,9.170306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776051%2F1873030101%2F0230.jp2/pct:81.686099,49.978870,12.807175,9.635160/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,9 +660,14 @@ the ground. Time and weather seem­
 ed o have no effect on them. The posts  
 cc i be prepared for less than two cents  
 apiece.  
-“ For the
+“ For the benefit of others, I will give  
+the receipe: Take boiled linseed oil  
+and stir it in pulverized charcoal to the  
+consistency of paint. Put a coat of  
+this over the timber, and there is not a  
+man that will live to see it rotten.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873030801%2F0472.jp2/pct:32.106481,63.029925,12.050926,9.265032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873030801%2F0472.jp2/pct:32.087963,63.029925,12.069444,11.997783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +713,9 @@ und there i? uot a man that wi&#x27;l live to see i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ry.  
+  
+churned, when the bntter separates in the  
+■ usual manner.—Scribner&#x27;* fur February.  
 Kveri.astixo Fence Posts.—l dis­  
 covered many years ago that wood could  
 lie made to last longer than iron in the  
@@ -684,7 +737,7 @@ charcoal to the consistency of paint. Pul
 a coat, of this over the timber, and there  
 not s man that will live to see it rot.—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623744%2F1873031501%2F0055.jp2/pct:17.143246,85.602481,11.519608,10.720614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623744%2F1873031501%2F0055.jp2/pct:17.143246,85.090569,11.519608,11.232526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +749,9 @@ not s man that will live to see it rot.—
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t wood  
+  
+Everlasting Fence Posts. &quot;I  
+discovered many years ago that wood  
 could be made to last longer than iron  
 in the ground, but thought the pro­  
 cess so simple aud inexpensive that it  
@@ -719,7 +774,7 @@ to the consistency of paint. Put a
 coat of this ever the timber, and  
 there is not a man that will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873031501%2F0252.jp2/pct:14.298169,76.700000,9.822726,8.777778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873031501%2F0252.jp2/pct:14.298169,76.277778,9.822726,9.200000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,9 +849,10 @@ tho recipe : Take boiled linseed oil and - .
 stir it in pulverixed charcoal to tho con ,  
 sistency of paint. Pnt a coat of thia  
 over the timber and there is not a man.  
-that will live to see it 
+that will live to see it rotten,- &quot;Ctr:  
+Western Rural. &quot;v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1873032001%2F0434.jp2/pct:81.385123,65.759608,15.298644,14.070157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1873032001%2F0434.jp2/pct:81.385123,65.759608,15.298644,14.908434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,6 +865,15 @@ that will live to see it
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+and conducted their busines with suc­  
+cess, and comfort to their mules and  
+ho-ses.  
+5. The ox-bow and yoke are proof to  
+the pain. Iron bows are in common  
+use.  
+6. Hard rubber has found a place in  
+horse collars.  
+Everlasting Fence Posts.  
 I discovered many years ago that  
 wood could be made to last longer than  
 iron in the ground, but though the pro­  
@@ -830,7 +895,7 @@ coal to the consistency of paint. Put a
 coat of this over the timber and there is  
 not a man that will live to see it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn85033386%2F00296020709%2F1873040401%2F0061.jp2/pct:56.330275,76.398544,9.724771,8.341609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn85033386%2F00296020709%2F1873040401%2F0061.jp2/pct:56.330275,72.018096,9.737877,12.722057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,10 +964,9 @@ I will give the receipt: Take boiled lin­
 seed oil and stir it in pulverized char­  
 coal to the consistency of paint. Put  
 a coat of this over the timber, and there  
-is not a man that will live to see it rot­  
-
+is not a man that will live to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291062%2F1873041201%2F0843.jp2/pct:77.904504,60.097155,14.179393,12.460097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291062%2F1873041201%2F0843.jp2/pct:77.904504,60.097155,14.179393,11.901457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,10 +1007,9 @@ stir in it pulverized charcoal
 ) the consistency of paint,  
 uta coat of this over the  
 timber, and there is not a  
-man that will live to see it  
-rot.&quot; fCor. Western R
+man that will live to see i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1873041701%2F0255.jp2/pct:15.943536,39.615602,9.762259,16.755229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1873041701%2F0255.jp2/pct:15.943536,39.615602,9.762259,16.110797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,6 +1056,10 @@ is not a man that will live to see it rot
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+let both parties waits ont and grapple  
+each other as soon as possible.  
+[Louisville Courier-Journal.  
+EvsmASTTHo Fxhob Posts.?The cor?  
 respondent of the Western Rural nay a: II  
 discovered many years ago, that wood!  
 could be made to last longer than iron  
@@ -1015,7 +1082,7 @@ coal, to the consistency of paint. Put a I
 coat of this on the timber, and there is 1  
 not a man who will live to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84027008%2F00294551499%2F1873042501%2F0642.jp2/pct:1.809955,29.115922,16.475229,13.103293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84027008%2F00294551499%2F1873042501%2F0642.jp2/pct:1.809955,26.057736,16.475229,16.161479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1127,7 @@ who will live to see it rot
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-pendent farmer.  
+  
 Everlasting Fence Post.— I discovered ma­  
 ny years ago that wood could be made to last  
 longer than iron in the ground, but thought  
@@ -1080,7 +1147,7 @@ pulverized charcoal to the consistency of paint.
 Put a coal of this over the timber, nnd there is  
 not a man will live to see it rotten. Carres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1873050201%2F0485.jp2/pct:7.718204,47.965240,11.555027,10.668425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1873050201%2F0485.jp2/pct:7.718204,48.900182,11.555027,9.733483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1126,7 +1193,16 @@ will lire to see it rotten.—Cm. Wate
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-la after  
+  
+I discovered many yeare ago tiiat  
+wood could be made to last longer  
+than iron in the ground, bat thought  
+the process so eirople and inexpensive  
+that it was not worth while making a  
+stir about it. I wiold as soon have  
+poplar, baa wood, or quaking as&#x27;a as  
+any other timber, for lence posts. I  
+hare taken ont bass wood poala after  
 having been set seven years, that  
 as sound when they were taken  
 out as when they were first pat in the  
@@ -1140,7 +1216,7 @@ coal to the cothidtency o paint. Put
 coat of this over the timber, and  
 there is not a raan that will live to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1873051601%2F0142.jp2/pct:23.968785,70.616763,8.681717,6.157090/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1873051601%2F0142.jp2/pct:23.954849,66.547180,8.695652,10.226674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1153,6 +1229,13 @@ there is not a raan that will live to se
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+painting and the drama, and will su c&#x27;v  
+become fatuous as an actress and paint  
+cress, and even as a lectures-?&quot;  
+A loud slamming of the d or cause I  
+the old gentleman to look up, and the  
+cviticcss and grammarianess was gone !  
+EV EU lasting F^nce Po.^TS.?&#x27;H  
 discovered ninny years ago that wood  
 could be made to last longer than iron  
 in the ground, hut thought the process  
@@ -1172,7 +1255,7 @@ For the bo&#x27;iefit of others I will give
 the recipe; Take boiled linseed oil an 1  
 it- in it pulverized charo al to the e&lt;?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_heddalettuce_ver01%2Fdata%2Fsn84026920%2F00294558731%2F1873051701%2F0238.jp2/pct:3.114237,34.486520,13.313241,13.214898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_heddalettuce_ver01%2Fdata%2Fsn84026920%2F00294558731%2F1873051701%2F0238.jp2/pct:3.061615,28.728378,13.404133,18.973040/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1196,9 +1279,13 @@ posts. 1 have taken out basswood posts
 after having been set seven years that were  
 as oiiul when taken up as when first put  
 in thejir un 1. Time and weather seemed to  
-hav
+hav e no effect on them. The posts can be  
+prepared for lew than twoceuts apiece. For  
+  
+the benefit oi others, I will rjVe the rec  
+Take boiled linseed oil and tr t j ,)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022986%2F1873052001%2F0295.jp2/pct:7.125891,83.758186,14.894509,6.337531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022986%2F1873052001%2F0295.jp2/pct:7.097946,83.758186,14.922454,8.151134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,6 +1334,8 @@ tbaro ia not a man that will live t
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+How to Make Posts Last Forever.—  
+A correspondent of the Western Rural  
 says: I discovered many years ago that  
 wood could be made to last longer than  
 iron, in the ground, but thought the pro­  
@@ -1265,9 +1354,11 @@ the benefit of others I will give the recipe:
 Take boiled linseed oil and stir in it pul­  
 verized charcoal to the consistency of  
 paint. Put a coat of this over the timber,  
-and there is not a man that will live to se
+and there is not a man that will live to see  
+it rot.  
+How to Make a Mcstard Plaster.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1873052901%2F1032.jp2/pct:45.542770,29.175409,12.422016,8.938313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1873052901%2F1032.jp2/pct:45.542770,28.266191,12.422016,10.872150/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,9 +1389,11 @@ less than two cents apiece.
 the recipe : Take boiled linseed oil and stir  
 it in pulverized charcoal to the consistency  
 of a paint. Put a coat of this over the  
-timber and there is not a niari that wil
+timber and there is not a niari that will  
+live to see it rotten.&quot; Cor. Weitfrn Rural.  
+To Muke Court-Plaster
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1873060301%2F0619.jp2/pct:6.525711,49.562923,17.227878,12.403101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1873060301%2F0619.jp2/pct:6.525711,49.562923,17.227878,14.365825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1313,6 +1406,8 @@ timber and there is not a niari that wil
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+How to Make Ports Last Forever.  
+A correspondent of the Western Rural  
 says: I discovered many years ago that  
 wood could be made to last longer than  
 iron, in the ground, but thought the pro­  
@@ -1331,9 +1426,11 @@ the benefit of others I will give the recipe:
 Take boiled linseed oil and stir in it pul­  
 verized charcoal to the consistency of  
 paint. Put a coat of this over the timber,  
-and there is not a man that will live to se
+and there is not a man that will live to see  
+it rot.  
+How to Make a Mustard Plaster
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016739%2F00295877509%2F1873060701%2F0271.jp2/pct:51.619323,20.933373,11.235752,8.043217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016739%2F00295877509%2F1873060701%2F0271.jp2/pct:51.619323,20.078031,11.235752,9.903962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,6 +1443,8 @@ and there is not a man that will live to se
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+How to Make Posts Last Forever.—  
+A correspondent of the Western Rural  
 says: I discovered many years ago that  
 wood could be made to last longer than  
 iron, in the ground, but thought the pro­  
@@ -1366,7 +1465,7 @@ verized charcoal to the consistency of
 paint. Put a coat of this over the timber,  
 and there is not a man that will live to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768746%2F1873061101%2F0002.jp2/pct:77.695312,65.690220,13.572049,9.149899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768746%2F1873061101%2F0002.jp2/pct:77.695312,64.673218,13.576389,10.166901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1379,6 +1478,16 @@ and there is not a man that will live to se
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+lash the end of the tongue to the timber,  
+and hitch the oxen to either end of the  
+stick. A yoke of oxen could be able to  
+draw a stick in this way with comparative  
+ease, which they would scarcely move by  
+hitching one end beneath the axle-tree,  
+and allowing the team to draw by the  
+tongue of the cart.—American Builder.  
+How to Make Posts Last Forever.—  
+A correspondent of the Western Rural  
 says: I discovered many years ago that  
 wood could be made to last longer than  
 iron, in the ground, but thought the pro­  
@@ -1399,7 +1508,7 @@ verized charcoal to the consistency of
 paint. Put a coat of this over the timber,  
 and there is not a man that will live to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271768527%2F1873061201%2F0637.jp2/pct:77.089133,44.493513,13.592186,8.962377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271768527%2F1873061201%2F0637.jp2/pct:77.089133,39.139365,13.592186,14.316525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1412,6 +1521,15 @@ and there is not a man that will live to se
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+farmers follow this example with their  
+son*, and we should have less of random,  
+bin-skip husbandry, and more of order  
+and success.  
+  
+HOW TO MAKE FFVOE POSTS LAST FOR-  
+F.VER.  
+A correspondent of the Western Rural  
+ssvs :  
 I discovered many years ago that wood  
 could be made to last longer than iron  
 in the ground, hut thought the process  
@@ -1433,7 +1551,7 @@ consistent 06 paint. Put a coat of *hi
 over the timber, and there is not a man  
 that will live to see it . it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769726%2F1873061201%2F0507.jp2/pct:14.605258,55.858433,9.648797,10.341857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769726%2F1873061201%2F0507.jp2/pct:14.605258,51.512854,9.652924,14.687435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,7 +1584,7 @@ benefit of others, I will give the rcceip:
 pulverized charcoal to the consistency  
 of paint. Put a coat of this over the  
 timber, and there is not a man that  
-will live to see it rot.’ ”
+will live to see it rot.’ ”—Cor. WWm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033255%2F0051415238A%2F1873061301%2F0335.jp2/pct:81.532893,63.931356,11.876541,13.418677/!600,600/0/default.jpg"/>
 </td>
@@ -1481,6 +1599,17 @@ will live to see it rot.’ ”
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Darn may oc takon oil, lor it u gener  
+ally in life eneouragemcnt given to the  
+colluding of moistut&#x27;o between tbe  
+bark and the wood, that wood gener  
+ally so soon rolt away, &#x27;4 he part in  
+or near tho ground ought lo bo strip­  
+ped of bark at any rate. Germanlown  
+telegraph. &#x27;&#x27;  
+Fence Posts. In looking over the  
+Western Rural, we note as important  
+10 ns nero, too loiiowing, liow a cor  
 respondent discovered many years  
 sgo that wood could bo mado lo last  
 longor than iron in tbcground,but ima  
@@ -1501,9 +1630,9 @@ oht ol others I will givo tbo recipe :
 Tuko boiled linseed oil and stir in it  
 pulvcrizod charcoal to iho consistency  
 of paint, put a coat of this over the  
-timbor and there is not a ma
+timbor and there is not a man will liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873061801%2F0404.jp2/pct:15.065990,58.479783,11.553299,10.358623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873061801%2F0404.jp2/pct:15.065990,52.693242,11.573604,16.173739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1581,11 +1710,6 @@ is not a man who will live t
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-. HT T &#x27; 1  
-bj; - j. uiscoverea many years ago  
-that wood could be mado to last longer  
-than iron in the ground, but thought  
-the crocess so niirmlA nml i  
 that it was not worth while making any  
 stir about it. I would as soon have  
 poplar, basswood, or quakiner ash as  
@@ -1599,11 +1723,9 @@ them. The posts can be prepared for less
 than two cents apiece. For the bene fit  
 of others I will give the recipe: Take  
 boiled linseed oil and stir in it pulver  
-ized charcoal to tln  
-Put a coat of this over the timber, and  
-mere is not a man that will live to se
+ized charcoal to tl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873061901%2F0095.jp2/pct:5.665567,65.379253,12.247891,9.774122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873061901%2F0095.jp2/pct:5.665567,67.303402,12.247891,6.734523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1648,7 +1770,8 @@ that w ill live to see it rot
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dent of the Western Ru­  
+  
+ever. A correspondent of the Western Ru­  
 ral says:  
 I discovered many years ago that wood  
 could bo made to last longer than Iron, in tho  
@@ -1690,7 +1813,13 @@ timber, and there is no man that will live t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ered, many years  
+  
+ficiently soft to permit the operations.  
+  
+rrtrlnitln? Felice Pol.  
+  
+The correspondent of the Western  
+Rural says : I discovered, many years  
 ago, thut wood could lie made to  
 last longer than irou in the , ground,  
 though the process so simple and  
@@ -1713,7 +1842,7 @@ the consistent-&#x27; of paint. Put a coat
 of this on the timber, and there is  
 not a mau who will live to seo&quot; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873070901%2F0237.jp2/pct:26.303646,5.385488,10.582987,10.442177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873070901%2F0237.jp2/pct:15.489925,4.126984,21.396708,93.174603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1764,7 +1893,9 @@ paint, rut a ooai ot tbM over iae
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-could be made to last longer than  
+  
+aay : I discovered many year ago that  
+wood could be made to last longer than  
 . iron, m uie grouuu, out i nougat ine pro-  
 cere so simple and in expensive that it  
 waa not worth while malting any stir  
@@ -1783,9 +1914,10 @@ in it pulverized charcoal to theconsisten-
 &#x27; f :n, P - AAn. tm n id.  
 timber, and there is not a man that will  
 live to see it rot  
-TempcevKce Lector
+TempcevKce Lector,  
+week or two since man note
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1873071801%2F0303.jp2/pct:74.520767,34.991397,11.242013,12.310339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1873071801%2F0303.jp2/pct:74.520767,34.396997,11.242013,13.514782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1848,9 +1980,9 @@ efit of others I ill give tbe recipG : Take
 boiled limeed oil and stir in it pnlveiized  
 charcoal to the consistency of paint.  
 Put a coat of this over the timber, and  
-there is not a msn
+there is not a msn thai will live to ee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776348%2F1873072301%2F0528.jp2/pct:8.776402,69.145861,12.053897,12.286465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776348%2F1873072301%2F0528.jp2/pct:8.776402,69.145861,12.072105,12.286465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1900,6 +2032,14 @@ a man that will live to see it rotten.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+here to the greatest perfection The holiday  
+are not distinguished, as with us, by a thmn]  
+of boys with shot guns pouring into the cmn  
+try and slaying out of mere wantonness th  
+feathery tribe, which is regarded hero as nr  
+efficient cohiborer to the agriculturist.  
+Everlasting Fence Posts.,  
+The correspondent of the Western 7  
 says: I discovered, many years ago, that w • &gt;  
 cuild be mado to last longer than iron in th  
 ground, but I thought the process ro rimpl  
@@ -1918,7 +2058,7 @@ and stir in it pulverized charcoal, to the con
 gister.cy of paint. Put a coat of this on tin  
 timber, and there is not a man who will liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F004141867006%2F1873080201%2F0124.jp2/pct:69.148936,84.734134,12.123826,10.123642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F004141867006%2F1873080201%2F0124.jp2/pct:69.148936,79.084477,12.123826,15.773299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1951,9 +2091,9 @@ others, I will give the receipt: Take
 boiled linseed oil and stir in it pulver­  
 ized charcoal to to tho consistency of  
 paint. Put a coat of this on the timber,  
-and there is not a man 
+and there is not a man who will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873080701%2F0118.jp2/pct:30.157866,54.315002,12.048630,11.428176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873080701%2F0118.jp2/pct:30.157866,54.315002,12.048630,11.442028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2001,6 +2141,18 @@ man that will live to sec it rot
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+finding, continual criticism of the con­  
+duct of this one and the speech of that  
+one, the dress of the other and the  
+opinions of t&#x27;other, will make home the  
+unhappicst place under the sun. If  
+you are never pleased with any one,  
+no one will be pleased with you. And  
+if it is known that you are hard to suit,  
+few will take pains to suit you.  
+  
+How TO MAKE FENCE POSTS LAST  
+FOREVER.—A correspondent of the  
 Western Rural says—I discovered  
 many years ago that wood could be  
 made to last, longer than iron, in the  
@@ -2022,11 +2174,9 @@ receipe. Take boiled linseed oil and
 stir in it pulverised charcoal to the  
 consistency of paint. Put a coat of  
 this over the timber, and there is not a  
-man that will live to see it rot.  
-  
-NEW
+man that will live to see it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479718%2F1873110601%2F0431.jp2/pct:24.438623,70.386547,9.779192,11.391390/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479718%2F1873110601%2F0431.jp2/pct:24.408683,64.693823,9.809132,16.082836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2038,7 +2188,8 @@ NEW
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-correspondent of the IFestem  
+  
+A correspondent of the IFestem  
 Rural says :   
 I discovered many years ago that  
 wood could be made to last, longer  
@@ -2063,7 +2214,7 @@ charcoal to the consistency of paint. ;
 Pat a coatfof this over the timber,!  
 and there is not a man that will live1   
 i  
-to see it r
+to see it rot I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151246%2F1874022601%2F0051.jp2/pct:37.886111,75.304638,14.832205,20.178197/!600,600/0/default.jpg"/>
 </td>
@@ -2125,9 +2276,13 @@ about it. I would as soon have poplar, bass-
 wood, or quaking asp as any other kind of  
 timber for fence posts. I have taken out bass-  
 wood posts after having been set seven years,  
-which were as sound when taken out as whe
+which were as sound when taken out as when  
+they were first put in the ground. Time and  
+weather seemed to have no effect on them.  
+The posts can be prepared for less than two  
+cents apiece. This is the recipe: Take boile
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2&#0036;61/pct:20.049917,66.695804,34.359401,13.752914/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2&#0036;61/pct:20.049917,66.695804,34.359401,19.580420/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2151,9 +2306,16 @@ kind of timber for fence posts after
 having been set seven years, which  
 were as sound when taken out as when  
 they were first put in the ground.  
-Time and weather seem to have no e
+Time and weather seem to have no effect  
+on them. The posts can be prepared  
+for less than two cents apiece. This is  
+the recipe : Take boiled linseed oil  
+and stir it in pulverized charcoal to the  
+consistency of paint. Put a coat of  
+this over the timber, and there is not a  
+man that will live to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1874090301%2F0342.jp2/pct:6.343420,60.778402,12.067080,5.714677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1874090301%2F0342.jp2/pct:6.325191,60.778402,12.103536,9.099630/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2179,9 +2341,22 @@ ter having been set seven j-cars,
 , they were as sound when taking  
 &#x27; out as when they were first put in  
 the ground. Time and weather  
-seem 
+seem to have no clTect on them.  
+The posts can bo prepared for less  
+. than - two, cents apiece. - This is  
+: tli receipt: , Take boiled linseed  
+oil and stir it in pulverized char­  
+coal to the consistency of paint.  
+Put a coat of this over the timber,  
+and there is not a man that will  
+live to see it rot. ,  
+TUB. -TKaLIENSEli I AIASJiA.  
+CUE.  
+&#x27; Inter Ocean.  
+The particulars of the murder of  
+the sixteen negroes 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472979%2F1874091101%2F0239.jp2/pct:3.821320,48.039216,9.289761,6.036572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472979%2F1874091101%2F0239.jp2/pct:3.821320,48.039216,9.395177,12.535801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2209,7 +2384,7 @@ For the benefit of others, I will give the re­
 ripe: Take boiled linseed oil and stir in It piil­  
 erizwl charcoal to a consistency of paiuU I at  
 H coat of this over the timber, aud there isi not a  
-mau that will live to see it rotteu
+mau that will live to see it rotteu, Cor. &#x27;Fearc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555651%2F1874092401%2F0252.jp2/pct:2.861891,84.933240,12.887740,6.647927/!600,600/0/default.jpg"/>
 </td>
@@ -2238,9 +2413,15 @@ vears, they were as sound when taken
 out as when they wero first put in the  
 1 1 round.  
 Time and weather seem to  
-have no effect on them. 1 l
+have no effect on them. 1 lie posts  
+can-be prepared for less than I wo cents  
+apiece. This is the recipe: Take boiled  
+linseed oil and stir iu it puiverizcti  
+charcoal to the consistency of paint.  
+Put a coat of this over the timber.and  
+there is not a mau that will live to sc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776117%2F1874101401%2F0911.jp2/pct:50.158014,65.762039,14.830700,8.803574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776117%2F1874101401%2F0911.jp2/pct:50.158014,65.762039,14.898420,12.543439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2253,6 +2434,14 @@ have no effect on them. 1 l
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+so soft and yielding that a camel  
+with blistered feet, seems grateful to  
+have shoes made of it, although he  
+would resist the shoeing to the last,  
+were he not held so that he could  
+not move. -  
+Iron Incroaia.  
+Some one who has tried it says:  
 I discovered inanv years ago that  
 wood could be made to last longer  
 . , 11. at &#x27;  
@@ -2260,9 +2449,16 @@ than iron in the ground, buttboughti
 tbe process so simple and inexpen­  
 sive that it wa3 not worth while  
 making any stir about it. I would  
-as soon have poplar, basswood, or
+as soon have poplar, basswood, or  
+quaking ash as any other kind of  
+timber for fence-posts. After having  
+been set seven vears tLer were as  
+sound when taken out as when thev  
+were first put in the ground. Time  
+and weather em to hare no effect,  
+on them. The posts can be prepare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874101401%2F0480.jp2/pct:14.641699,85.755846,10.173990,3.368021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874101401%2F0480.jp2/pct:14.597464,81.257693,10.218225,11.245384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2292,9 +2488,14 @@ of timber for fence posts. After having been
 set seven years, they were as sound when  
 they were taken outas when they were first  
 put in the ground. Time and weather seem  
-to h
+to have no effect on them. The posts can  
+be prepared for less than two cents apiece.  
+This is the recipe; Take boiled linseed oil  
+and stir it in pulverized charcoal to the  
+consistency of paint.&#x27; Put a coat of timber,  
+and there is not a man that will live to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349517%2F1874103001%2F0370.jp2/pct:84.916113,60.442600,10.877651,3.901044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349517%2F1874103001%2F0370.jp2/pct:84.900285,60.442600,10.956790,6.579278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2316,9 +2517,14 @@ quaking asp as any other kind of timber for fence
 posts after baring been&#x27; set for seven years,  
 which were as sound when taken oat as when  
 they were first jput in the ground. Time and  
-weather seem to bav
+weather seem to bave no effect on them. Tbe  
+posts ean be prepared for less than two cents  
+apiece. This is tbe receipe : Take boiled linseed  
+nil and stir it in pulverized charcoal to the con­  
+sistency of paint. Put a coat of this over tbe  
+timber, and there is not a man wbo will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_azure_ver01%2Fdata%2Fsn83025121%2F00211108861%2F1874110401%2F0139.jp2/pct:59.097198,3.262551,12.054652,5.639151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_azure_ver01%2Fdata%2Fsn83025121%2F00211108861%2F1874110401%2F0139.jp2/pct:59.097198,3.262551,12.054652,8.564196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2346,9 +2552,18 @@ the ground. Time and weather
 seem to have no effect on them. The  
 posts can be prepared for less than  
 two cents apiece.  
-i or the
+i or the benefit of others, I will  
+give the receipt; Take boiled lin­  
+seed oil and stir in it pulverized  
+charcoal to a consistency of rtaint  
+Put a coat of this over the timber.  
+and there is not a man who will lire  
+to see it rotten. Cor. Western  
+literal. i  
+  
+WANTED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874112001%2F0307.jp2/pct:35.174729,86.176026,9.812300,7.324730/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874112001%2F0307.jp2/pct:35.113688,5.894663,17.121929,90.849901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2362,8 +2577,7 @@ i or the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nal, a plan which is held  
-in high,esteem hy those who have tried  
+  
 it. The discoverer of it says:-&quot;I  
 discovered many years ago that wood  
 could be made to last longer than iron  
@@ -2374,7 +2588,16 @@ it. I would as soo« have poplar,
 basswoqd, or quaking asp, or any other  
 kind of timber for fencerposts after  
 having been set for seven years, Which  
-were as sound when taken out as whe
+were as sound when taken out as when  
+they were first put in the ground. Time  
+and weather seem to have no effect on  
+them. The posts can be prepared for less  
+than two cents apiece. This is the  
+recipe : Take bottled linseed oil and  
+stir it in pulverised charcoal to the  
+consistency of paint. Put a coat of this  
+over the timber, and there is not a man  
+who Will live to see it rot.&quot; &quot; TH
 </td></tr></table>
 
 ---
@@ -2410,7 +2633,16 @@ fence posts after having been set for
 seven years, which were as sound when  
 taken out as when they were first put in  
 the ground. Time and weather seem to  
-have
+have no effect on them. The posts can be  
+prepared for less than two cents apiece.  
+This is the recipe: Take bottled linseed  
+oil and stir it in pulverised charcoal  
+to the consistency of paint. Put a coat  
+of this over the timber, and there is  
+not a man who will live to see it rot.  
+&quot;Antifebrile,&quot; writing&#x27; to the  
+Warrnambool BaLaminh?&#x27;r, quotes as  
+follows from the book&quot;Is the Eucalyptu
 </td></tr></table>
 
 ---
@@ -2435,9 +2667,15 @@ been set when seven years, tL j were as
 sound they,were taken out,as when they  
 were first put in the ground. Time and  
 weather seem to have no effect upon  
-
+them. The posts can be prepared for  
+less the two cents apiece. This is the  
+recipe : Take boiled linseed oil and stir  
+it in pulverized chai-coal to the consis­  
+tency of paint. Put a coat of this &#x27;wer  
+the timber, and there is not a man who  
+will-live to see it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1874122401%2F0115.jp2/pct:18.659901,66.225819,14.230842,9.074219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1874122401%2F0115.jp2/pct:18.640933,66.225819,14.249810,12.735865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2486,9 +2724,15 @@ would as soon have poplar, basswood, or quaking asp
 or any other kind of timber for fence-posts after hav­  
 ing been set for seven years, which were as sound  
 when taken out as when they were put in the ground.  
-Time and weather seem to have no e
+Time and weather seem to have no effect on them.  
+The posts can be prepared for less than two cents  
+apiece. This is tbe recipe: Take boiled linseed oil  
+and stir in it pulverised charcoal to the consistency  
+of paint. Put a coat of this over the timber, and  
+there is not a man who will live to see it rot.&quot;  
+In the practice of medicine, as in other worldl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474289%2F1875013001%2F0564.jp2/pct:55.667090,31.067753,12.376112,3.784305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474289%2F1875013001%2F0564.jp2/pct:55.654384,31.067753,12.388818,6.989708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2511,9 +2755,16 @@ poplar, basswood or quacking asp as any other
 kind of -timber for fence, posts. After having  
 been act seven yean they were as eonud when  
 they were taken out as when tbey were first pnt  
-in the ground. Time and weath
+in the ground. Time and weather seem to have  
+no effect on them. The posts can be prepared  
+for less thau two cents apiece. This is the rec­  
+ipe. Take boiled linseed oil apd stir in it pnl­  
+Teriredcharcoal to the consistency of poiut. Pnt  
+a coat of this over the timber, and there is not a  
+man who will live to see it rot.&quot;  
+A writer in the London Field reccommend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555651%2F1875021101%2F0338.jp2/pct:3.734517,79.213641,12.627103,4.439121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555651%2F1875021101%2F0338.jp2/pct:3.716029,79.213641,12.645591,7.553551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2547,9 +2798,15 @@ anv other kind of timber for f. nceposts.
 After having been set seven years, thev  
 were as sound when taken out as when  
 tin y were first in the ground. Time an.l  
-w eather seem to have no ef
+w eather seem to have no effect on them.  
+1 he posts&quot; can be prepared for less than  
+two cenis apiece. This is ihe recipe;  
+fake boiled linseed oil and stir in it pul­  
+verized charci &#x27;.il to the consistency of paint.  
+Put a oat of this over the timber, an 1  
+there is not a man that will live to see thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1875042101%2F0484.jp2/pct:29.296375,58.889862,10.817342,5.879133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1875042101%2F0484.jp2/pct:29.282161,58.889862,10.831557,8.473834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2572,6 +2829,10 @@ w eather seem to have no ef
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+as I knew him, and to make the  
+Wisest, j&#x27;ustest, and iionestest man  
+ot this our nineteenth century live  
+over again.”  
 —   
 TO PRESERVE FENCE POSTS.  
 Some one who has tried it says:  
@@ -2588,9 +2849,16 @@ having been set seven years they
 were as sound when they were tak­  
 en out as when they were first put  
 in the ground. Time and weather  
-seem to 
+seem to have no effect on them.  
+The posts can be prepared for less  
+than 2 cents apiece. This is the  
+recipe: Take boiled linseed oil and  
+stir in it pulverized charcoal to the  
+consistency of paint. Put a coat of  
+this over the timber, and there h  
+not a man who will live to see i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1875061701%2F0044.jp2/pct:20.753434,59.160973,14.261753,11.773443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1875061701%2F0044.jp2/pct:20.753434,56.012146,14.329752,19.899660/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2602,7 +2870,9 @@ seem to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ve t&#x27;cnce Posts,  
+  
+  
+To Preserve t&#x27;cnce Posts,  
 Some one who has tried it says:  
 discovered many years ago that wood  
 could be made to last longer than iron  
@@ -2616,9 +2886,21 @@ having been set Beven years they were
 as sound when they were taken out as  
 when they werefirBt put in the ground  
 Time and weather Ecemed to have no  
-effect on the
+effect on them. The posts can be pre  
+pared for less than 2 cents a piece  
+This is the receipe: Take boiled lin  
+seed oil and stir in it pulverized char  
+coal to the consistency of paint. Tot  
+a coat of this over the timber, and  
+there is not a man who will live to  
+see it rot.&quot;  
+  
+U liyOnr Winds from the Xortk arc  
+cliilly.  
+This is of ice—icy. A correspond­  
+ent of the Lansing Republican writin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1875062301%2F0753.jp2/pct:14.343143,27.018006,9.993174,7.903601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1875062301%2F0753.jp2/pct:14.327973,27.018006,10.008343,13.874939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2630,7 +2912,18 @@ effect on the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ve Fence Pi-,.  
+rning  
+after she had eaten her usual feed of  
+hay. On killing her about an hour af­  
+terward he found the meal thoroughly  
+mixed with the hay in the paunch anil  
+ready to le re-masticated with the hav.  
+ft has been repeatedly stated that meal,  
+fed alone to cows, went at once to the  
+fourth stomach and so was not re-masti­  
+cated, as is course food. Further ex­  
+periments would seem in order.  
+TANARUS Preserve Fence Pi-,.  
 Someone who has tried it says: “J  
 discovered many years ago that wood  
 could be made to last longer than iron  
@@ -2643,9 +2936,16 @@ of timl&gt;er tor fence posts. After having
 been set seven years they were as sound  
 when they were taken out as when they  
 &quot; ere first put in the ground. Time and  
-weather st em to have no effect on 
+weather st em to have no effect on them.  
+I he posts can be prepared for less than  
+two cents apiece. This is the receipt:  
+Take boiled linseed oil and stir in it  
+pulverized charcoal to the cosistency of  
+paint. Put a coat of this over the tim­  
+ber, and th re is not a man who will  
+live to see it rot.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875062401%2F0497.jp2/pct:5.464699,28.813218,11.979790,6.662637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875062401%2F0497.jp2/pct:5.464699,22.990127,11.979790,15.736450/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2668,9 +2968,11 @@ poplar, bass-wood, or quaking asp as any other kind
 of timber for fence poste. I have taken out bass-wood  
 posts after having been set seven years, which were as  
 sound when taken out as when they were first put in  
-the ground.
+the ground. Time and weather seemed to have no  
+effect on them. The posts can be prepared for less  
+than two cents apiece. This is the recipe: ‘“‘ Tak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1875-06-30_11_26&#0036;19/pct:41.834038,20.940332,26.242072,7.873867/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1875-06-30_11_26&#0036;19/pct:41.834038,20.940332,26.242072,9.459970/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2700,9 +3002,16 @@ set seven years they were as sound
 when they were taken out as when  
 they were first put in the ground.  
 Time and weather seem to have no  
-effect on 
+effect on them. The posts can be  
+prepared for lets than two cents  
+apiece. This is the recipe: Take  
+boiled linseed oil and stir in it pul­  
+verized charcoal to the consisency of  
+paint. Put a eoit of this over the  
+timber, aad there is ntt a man who  
+will live to set It rot.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1875070801%2F0740.jp2/pct:60.337748,84.146519,11.076891,8.150004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1875070801%2F0740.jp2/pct:60.337748,84.146519,11.076891,11.551586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2715,6 +3024,7 @@ effect on
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Everlasting. Fence Posts.?A cor?  
 respondent of the Western Rural says:  
 I discovered many years ago that wood  
 could be made to last longer than iron in  
@@ -2734,9 +3044,10 @@ For tbe benefit of others I will give you
 the recipe: &quot;Take boiled linseed oil and  
 stir in it pulverized charcoal to tbe con?  
 sistency ef paint Put a coat of this over  
-the timber, and there is not
+the timber, and there is not a man that  
+will live to see it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1875121601%2F0027.jp2/pct:62.061276,87.032165,12.177623,9.754814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1875121601%2F0027.jp2/pct:62.061276,86.558631,12.177623,10.642253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2748,7 +3059,8 @@ the timber, and there is not
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e Posts.?a cor­  
+  
+Everlasting Fevce Posts.?a cor­  
   
 respondent of the Weston ItuHil says:  
 I discovered many yca,-s ajro that wood  
@@ -2770,9 +3082,9 @@ give you the recipe: Take boiled linseed
 oil and stir in it pulverized charcoal to  
 the consistency of paint. I&#x27;ut a coat ofI  
 this over the timber, and there is not a  
-..inn fh-it will liv&lt;&gt; Io sen
+..inn fh-it will liv&lt;&gt; Io sen it rotted.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn84026853%2F00202194023%2F1875122201%2F0290.jp2/pct:3.426011,77.330439,12.307287,9.798697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn84026853%2F00202194023%2F1875122201%2F0290.jp2/pct:3.426011,77.330439,12.307287,9.818433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2784,7 +3096,9 @@ this over the timber, and there is not a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-sts.?Some one  
+  
+  
+To Prkseuve Fence Posts.?Some one  
 who has tried it says; : I discovered maoy  
 years ajjo that wood could be made to last look­  
 er thau iron in the ground, but thought the  
@@ -2795,9 +3109,15 @@ ing ash as any other kind of timber for fence
 posts. Alter having b.-en wet seven years they  
 were as souud wheu they were taken out as  
 when they were tirst put in the ground. Time  
-aud weather seem to have no iff ct on 
+aud weather seem to have no iff ct on them.  
+The posts can be prepared tor iess than two  
+cents apiece. This is the recipe : Take boil­  
+ed linseed oil tnd stir in it pulverized charcoal  
+to the consistency of paint. Put a coat of this  
+over the timber, aud there is not a man who  
+will live to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663766%2F1876042601%2F0399.jp2/pct:2.458305,62.904202,15.179347,6.801746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663766%2F1876042601%2F0399.jp2/pct:2.458305,62.904202,15.179347,9.872885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2810,6 +3130,17 @@ aud weather seem to have no iff ct on
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+year. IJe careful not to put upon ice,  
+butter that you wish to keep any length  
+of time. In summer, when the heat  
+will not admit of butter being made  
+into rolls, pack closely into small jars.  
+and, using the same brine, allow it to  
+cover the butter to the depth of four  
+inches. This excludes the air, and  
+answers very nearly as well as the first  
+method suggested. Ex.  
+i:crlastins Tcuce I&#x27;ost.  
 A correspondent to the Western I2u  
 rat says: &quot;l discovered many years  
 ago that wood could be made to last  
@@ -2827,9 +3158,13 @@ Time and weather seem to have no ef
 feet on them. Tho posts can be pre  
 pared for less than two cents apiece.  
 or 1110 bencut ot others 1 win give  
-you the 
+you the recipe. Take boiled linseed  
+oil and stir in it pulverised charcoal to  
+the consistency of paint. Fut a coat  
+of this over the timber, and there is  
+not a man that will live to sec it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_kryptonite_ver01%2Fdata%2Fsn84037890%2F00280763585%2F1876051701%2F0102.jp2/pct:18.708038,42.875070,11.758302,12.172337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_kryptonite_ver01%2Fdata%2Fsn84037890%2F00280763585%2F1876051701%2F0102.jp2/pct:18.689893,35.290017,11.903466,22.378695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2879,6 +3214,11 @@ man that will live to see it rot.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+minated iu some parts of France, and  
+injurious insects have increased pro­  
+portionately, so that they have become  
+a formidable scourge.  
+Everlasting Fence Posts.  
 A correspondent of the Western llu­  
 ral says :  
 &quot;I discovered many years ago that  
@@ -2900,10 +3240,9 @@ will give you the receipt: Take boiled
 linseed oil and stir in it pulverized  
 charcoal to the consistency of paint.  
 Put a coat of this over the timber, and  
-there is not a man to live to sec it rot,&quot;  
-Th
+there is not a man to live to sec it rot,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brockovich_ver02%2Fdata%2Fsn85032573%2F00237281871%2F1876052501%2F0255.jp2/pct:15.173913,50.472122,9.579710,11.701888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brockovich_ver02%2Fdata%2Fsn85032573%2F00237281871%2F1876052501%2F0255.jp2/pct:15.173913,47.324640,9.579710,13.938849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2929,7 +3268,14 @@ kind of timber , for fence-posts after-
 having been set for Seven years, which  
 were, as&#x27;sound when taken out as when-  
 they were first put&quot; in the ground,.  
-Time and: weather seem 
+Time and: weather seem to have no effect  
+on them. The posts can be;prepared for  
+loss&#x27;.thantwb cents apiece. This is the  
+recipe,:-Take boiled&#x27;, linseed oil.andl  
+stir it -in &#x27; pulverised charcol, to  
+the.consistency{of paint., ,Put a-coat;  
+of Ithi^pyer the tiriber,land there is &gt;  
+not.&#x27;a man who will live to see i
 </td></tr></table>
 
 ---
@@ -2955,7 +3301,15 @@ kind of timber for fence-posts after
 having been set for seven years, whioli  
 were as sound when taken out as when  
 they were first put in the ground. Time  
-and weather seem to hav
+and weather seem to have no effect oh  
+them. The posts can be prepared for less  
+than two cents apiece. This is the  
+recipe:—Take boiled linseed oil, and  
+stir in powdered charcoal to the  
+consistency of paint. Put a coat of this  
+over the timber, and there is not a man  
+who will live to see it rot.&quot; Boss Tweed  
+is confined on the Isle St. Simon, Vig
 </td></tr></table>
 
 ---
@@ -2969,6 +3323,9 @@ and weather seem to hav
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+timber.&#x27; If the plan is even-half so  
+good as represented it cannot fail to  
+prove very valuable. -; This is the  
 paragraph:-&quot; -I&#x27;discovered many years  
 ago that wood could be made to last  
 longer &#x27;than iron in the ground, but  
@@ -2980,7 +3337,15 @@ asp; or any other kind&#x27;&quot;&#x27;of timber for
 fence posts, after having beeu&#x27;set; for  
 seven years, which wore&#x27;as sound when  
 taken1 out as they were when first&#x27;put  
-in the ground. - Time and weather see
+in the ground. - Time and weather seem  
+t&#x27;o&#x27;have no effect ou them,: -The posts  
+can be prepared&#x27;for less than two cents,  
+apiece. &#x27;&#x27;. This is thc&#x27;recipe: -Take  
+boiled&#x27;-linseed&#x27; oil, anttstir in  
+powdered charcoal&#x27;to the consistency of  
+paiiit.&#x27; Put &#x27;a coat of this over the  
+timber/arid there is not a limn who  
+will; live to see it rot.&quot; . ; 
 </td></tr></table>
 
 ---
@@ -2994,6 +3359,11 @@ in the ground. - Time and weather see
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Australia, but no doubt the plan will be  
+found adapted to Australian timber. If  
+the plan is even half so good as  
+represented, it cannot fail to prove  
+very valuable. This is the paragraph :-&quot;  
 I discovered, many years ago, that wood  
 could be&#x27; made tolast longer than iron  
 in the ground, but thought. the process  
@@ -3005,7 +3375,14 @@ kind of timber f.r fence po. ts. I have
 had some set for seven years, which were  
 as sound when taken: out as when they  
 were first put in the grofind.i Time and  
-wvear.her se
+wvear.her seem to have no effect.on  
+them. &#x27;lThe posts can Ihe prepared foir  
+less than two cents apiece. This is the  
+recipe:Take boiled linseed oil, and stir  
+in powcdered charcoal to the consistency  
+oAf&#x27;-l&#x27;aint. Piit a coat of this over  
+the timber. and there is not a man who  
+will live to see i&#x27;t rot2.
 </td></tr></table>
 
 ---
@@ -3033,9 +3410,17 @@ were as sound when taken up as when
 they were first put iu the ground. Time  
 aud weather seems to have no e Meet on  
 them. The posts can be prepared for  
-less than two cents apiece. For
+less than two cents apiece. For the  
+benefit of others, I will give you the  
+reepie: boiled linseed oil aud  
+stir it iu pulverized charcoal to the  
+consistency of paint. But a coat of  
+this over the timber, ami there is not a  
+man that will live to see it rotten.”  
+  
+Western Butter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1877032901%2F0248.jp2/pct:29.267863,52.752999,10.726857,7.556649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1877032901%2F0248.jp2/pct:29.267863,52.752999,10.726857,11.094022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3048,6 +3433,8 @@ less than two cents apiece. For
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+Everlasting Fence Posts.  
 A correspondept of the Western Ru­  
 ral says:  
 “ I discovered many years ago that  
@@ -3070,9 +3457,11 @@ reepie: Take; boiled linseed oil and
 stir it in pulverized charcoal to the  
 consistency of paint. Put a coat of  
 this over the timber, and there is not a  
-man that will live to see it 
+man that will live to see it rotten.”  
+  
+Western&#x27; Rutter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877040401%2F0131.jp2/pct:49.820223,33.183692,14.070859,12.120934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877040401%2F0131.jp2/pct:49.820223,32.536265,14.070859,13.818904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3085,6 +3474,7 @@ man that will live to see it
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+RVERLASTIKU FENCE POSTS.—A  
 correspondent of the Western Rural  
 say?  
 ••I discovered many years ago, that  
@@ -3107,9 +3497,9 @@ you the recipe: Take boiled linseed
 oil and stir it in pulveriiei!charcoal to  
 the consUteney of paint. Put a coal  
 of this over the timber, and there ia n*  
-man that will live to see it rotte
+man that will live to see it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919933%2F1877042601%2F0065.jp2/pct:28.041868,74.711403,10.400894,11.707381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_allemande_ver01%2Fdata%2Fsn85025570%2F00199919933%2F1877042601%2F0065.jp2/pct:28.041868,74.220871,10.400894,12.197914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3164,6 +3554,14 @@ timber, and there
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+the samo results. On placing them in the sun­  
+shine it failed to bring them to life. Turpentine,  
+alcohol, alkali and croton oil will kill them, and  
+from the results of my experiments 1 believe  
+that anything that will kill vegetable life will  
+destroy locust life nndcr tbe same conditions.  
+Miltcanlee Attn.  
+ETcrlOktlna: Fence Poet.  
 X correspondent of the Western Rural sav. s :  
 &quot;I discovered many years ago that wood could  
 bo made to last longer than iron in tbo gronnd,  
@@ -3174,9 +3572,18 @@ wood or quaking ash as any kind of timber, for
 fence posts. I have taken out basswood posts  
 after having been set seven years, that were as  
 sonnd wheu taken up as when tbey were first  
-put in tbe ground. Time and weathe
+put in tbe ground. Time and weather seems to  
+have no efiect upon them. For tbe benefit of  
+others I will give yon the recipe: Take boiled  
+linseed oil and stir in it pulverized charcoal to  
+the concistuncy of paint. Put a coat of this over  
+tbe timber, aud there is not a man that will  
+live to see it rotten.&quot;  
+PnESKirv&#x27;E jour flowers and plants! It has  
+been discovered that kerosene oil is a fatal  
+draught for tbo grasshopper, and that he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555663%2F1877051001%2F0117.jp2/pct:2.430178,51.785464,12.549873,4.551183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555663%2F1877051001%2F0117.jp2/pct:2.430178,47.962470,12.586144,12.449237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3217,6 +3624,7 @@ seems to have no effeot upon them
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Everlasting Fence Posts. A cor­  
 respondent of the TVestcrn Rural says :  
 I discovered many years ago that wood  
 could be made to last longer than iron  
@@ -3229,9 +3637,17 @@ of timber, for fence posts. I have tak­
 en out basswood posts after having been  
 set seven years, that were aw sound when  
 taken up as when they were first put in  
-the ground. Time and weather seem
+the ground. Time and weather seems  
+to have no effect on them. The posts  
+can le prepared ,for less than two cents  
+a piece. Foi the benefit ot others &#x27; I  
+will give you the receipt : Take boiled  
+linseed oil and stir in it pulverized char­  
+coal to the consistency ot paint. Put a  
+coat of this over the timber, and there  
+is no man that will live to sec it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152639%2F1877070601%2F0599.jp2/pct:32.589704,39.515598,11.809672,6.963275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152639%2F1877070601%2F0599.jp2/pct:32.589704,38.949585,11.809672,11.754640/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3279,6 +3695,10 @@ will live long enough to see it rotten
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+to remind the guests that all were  
+mortal and that it was best to enjoy  
+life whilst they could.—| The Hour.  
+Everlasting Fence Post.—  
 &quot; I discovered many years ago that  
 •wood could be made to last longer  
 than iron iu the grouud but; though  
@@ -3292,9 +3712,14 @@ taken out basswood posts after
 having been set seven years, which  
 were as sound when taken out as  
 when they were first put in the  
-ground. Time and weather seeme
+ground. Time and weather seemed  
+to have no eftect on them. The  
+posts can be prepared for less than  
+two cents a piece. This is the  
+receipt: Take boiled linseed oil and  
+stir in it pulverized charcoal to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876232%2F1880121801%2F0207.jp2/pct:4.822581,55.798845,12.225806,7.952358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876232%2F1880121801%2F0207.jp2/pct:4.790323,53.043792,12.258065,13.498556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3307,6 +3732,10 @@ ground. Time and weather seeme
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+discovered many vears ago that:  
+wood ooukl lie îiîade to last longer  
+than iron in the ground but thought  
+flio ririnnrnnl en nnrl inpnrnoîl­  
 the principal so simple and inexpen  
 sive that it was not worth while ma­  
 king any stir about it. I would as  
@@ -3327,7 +3756,7 @@ consistency of paint. Put;a coat of
 this over Ae timber, and there is  
 not a man that will live to see i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876232%2F1881012901%2F0228.jp2/pct:69.246795,79.920977,12.483974,10.656130/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876232%2F1881012901%2F0228.jp2/pct:69.214744,78.101054,12.516026,12.476054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3339,7 +3768,21 @@ not a man that will live to see i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ere will be  
+less legislative tinkering than  
+usual in he Senate, the corporations  
+will have more friendly treatment  
+and considratton. When Conger  
+was elected in Michigan the other  
+day one of the Democratic papers  
+in that State actually applauded  
+and approved him, asserting that,  
+while it was true that he was a  
+bitter partisan, it could say this  
+much in his favor, that he was a  
+poor man.-1. 0. Democrat.i  
+--- -----­  
+EVERLASTING FENCE POST.-I  
 discovered maly years ago that  
 wood cotull b.e made to last longer  
 than ,ron i ; the ground but  
@@ -3363,7 +3806,7 @@ itency of paint Put a coat of this
 over the timber, and there is  
 [&#x27;not a uen that will live to see i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_emmet_ver01%2Fdata%2Fsn88064005%2F00200299036%2F1881021201%2F0648.jp2/pct:41.360601,76.183511,14.649416,17.207447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_emmet_ver01%2Fdata%2Fsn88064005%2F00200299036%2F1881021201%2F0648.jp2/pct:41.360601,64.547872,14.649416,28.843085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3428,9 +3871,26 @@ taken up as when first put into the
 ground, lime and weather seemed  
 to have no effect on them. The posts  
 can be prepared for less than 2 cents  
-a piece. They should be well sea
+a piece. They should be well sea­  
+soned btfore the oil and charcoal are  
+  
+applied.&quot;  
+  
+Sericulture.  
+  
+PORTER, SLEW &amp; CO  
+Manufacturers and Jobbers of  
+THE CELEBRATED  
+  
+IRON CLAD  
+  
+BOOT &amp; SHOE.  
+These Goods are Warrant­  
+ed not to rip.  
+All Genuine have the trade mark &quot;IKON CI.AD&quot;  
+stamped thereon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022650%2F00295868752%2F1882090101%2F0136.jp2/pct:57.451514,22.270446,11.585573,8.409060/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022650%2F00295868752%2F1882090101%2F0136.jp2/pct:57.434502,7.975044,23.851650,24.766038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3479,7 +3939,18 @@ long enough to see it &quot;otten
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ho can clear­  
+n. The elder (ashick had a  
+daughter &quot;by his first wife whom  
+Mr. Hawood subsequently married,  
+and this lady could now claim her  
+father as her son,, her.sister &#x27;as her  
+daughter, and her brother as her  
+grandchild. This occurred in the  
+seuenteenth century, and, with the  
+help.of several intermarriages since  
+to further complicate &#x27;matters, there i  
+is not one of tle descendants of  
+these families to-day who can clear­  
 ly define his own position with re­  
 gard to his relatives of the present  
 generotion, much less those of one  
@@ -3510,10 +3981,9 @@ ken up as when pnt in the ground.
 Time and weather seemed to have tl  
 o0 effect upon them, The, pests  
 can be prepared ,for les.: than two  
-cents.. Take poliphsd &#x27;,linseed oil,  
-sid st:r iii pulverixied 
+cents.. Take poliphsd &#x27;,linseed oil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555171%2F1884082101%2F0328.jp2/pct:57.894737,60.537756,19.148373,31.154403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555171%2F1884082101%2F0328.jp2/pct:57.894737,50.201256,19.148373,40.766382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3525,7 +3995,19 @@ sid st:r iii pulverixied
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-up to die  
+ or any  
+other vital organ until he has first tried  
+. Tii .  
+the etiect ot absolutely regular aud in-  
+tpllitrpnt nvsiral hahir Vfontv nf  
+teJiigeni pnysicai naoits. i lent) or  
+well COOkeii tood, lew or no Stimulants,  
+, , . ,  
+regular rest, frequent bathing, and  
+either steady work or plenty of moder  
+ate physical exercise, have iu a short  
+time restored to health thousands of  
+persons who have been given up to die  
 ol vital diseases. Such treatment costs  
 no more than the ordinary methods of  
 life and as soon as fairly begun it be  
@@ -3565,7 +4047,7 @@ of this over the timber, and there is
 uot a man that will live long enough  
 to see it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020503%2F1884101101%2F0958.jp2/pct:26.696529,19.111692,16.550952,26.178968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020503%2F1884101101%2F0958.jp2/pct:26.696529,12.384063,16.550952,32.906597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3578,8 +4060,6 @@ to see it rotten.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-—A correspondent gives the Western  
 Rural his receipt of everlasting fence  
 posts. He says: “I discovered many  
 years ago that wood can be made to last  
@@ -3601,7 +4081,7 @@ of this over the timber, and there is not a
 man that will live long enough to see it  
 rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44&#0036;0/pct:82.406143,84.926471,12.269625,9.703256/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44&#0036;0/pct:82.406143,85.386029,12.269625,9.243697/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3644,7 +4124,19 @@ Koe it rolton.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the future.  
+al things  
+Wars alive with torriblo might;  
+And the vision of my past life  
+Was an awful thing to faos,  
+Alons with oonsoienoe sitting  
+In that solemnly silent place. -  
+And so I havs Isarnsd a leHson,  
+Whioh I ought to havs lsarnod ba.&#x27;jrs, &#x27;  
+And whioh, though 1 loarned it dreaming,  
+I bops to forget no more.  
+So I ait alone with my oonsclstius,  
+In ths place whers ths years increase,  
+And I try to remombtr the future.  
 In ths land where time will csase,  
 And I know of the future judgment,  
 How dreadful ao&#x27;er it be,  
@@ -3682,7 +4174,7 @@ this over the timber, and there is
 not a man that will live Ion;  
 enough to sse it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020552%2F1884111301%2F0401.jp2/pct:85.222193,52.214809,9.781751,16.296620/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020552%2F1884111301%2F0401.jp2/pct:85.209045,47.785191,9.794899,20.726239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3695,10 +4187,6 @@ enough to sse it rotten.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-farming with fully as much profit as  
-to any other point.  
-Everlasting; Fence Posts.  
-A correspondent gives the Western  
 Rural his receipt for everlasting fence  
 posts. He says: &quot;I discovered many  
 years ago that wood can be m tae to  
@@ -3721,7 +4209,7 @@ over the timber, and there is not a
 man that will live long enough to see  
 it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297672%2F1884111301%2F0017.jp2/pct:65.286951,22.395349,9.848818,10.209302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297672%2F1884111301%2F0017.jp2/pct:65.316307,24.313953,9.819463,8.290698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3734,8 +4222,6 @@ it rotten
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-A correspondent gives the Western llu­  
 ral his receipt of everlasting fence posts.  
 He says: “I discovered many years ago  
 that wood can be made to last longer than  
@@ -3756,7 +4242,7 @@ of this over the timber and there is not a
 man that will live long enough to see it  
 rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_ace_ver02%2Fdata%2Fsn82015137%2F00383342132%2F1884112301%2F0107.jp2/pct:36.535106,74.710137,10.694582,7.275119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_ace_ver02%2Fdata%2Fsn82015137%2F00383342132%2F1884112301%2F0107.jp2/pct:36.535106,75.070086,10.694582,6.915170/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3769,8 +4255,6 @@ rotten.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-found when again sought for.  
-EdgT&quot; A correspondent gives the West­  
 ern Rural his receipt for everlasting fence  
 posts. He says : &quot;I discovered many  
 years ago that wood can be made to last  
@@ -3791,7 +4275,7 @@ consistency of paint. Put a coat of this
 over the timber, and there is not a man  
 that will live long enough to see it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023024%2F1884120501%2F0192.jp2/pct:4.926396,51.799443,12.855269,11.142061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023024%2F1884120501%2F0192.jp2/pct:4.970121,53.348189,12.811544,9.593315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3803,6 +4287,9 @@ that will live long enough to see it rotten
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+kind spoken of.—People and Patriot.  
+Kverlnsting Fence.  
 A correspondent gives the Western Ku­  
 ril his method of making everlasting  
 fence posts He says he discovered mam  
@@ -3824,7 +4311,7 @@ sistency ot paint. Tut a coat ot this over
 the timber, and there is not a man that  
 will live long enough to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895126%2F1885032601%2F0295.jp2/pct:17.449139,54.324864,13.091745,9.895090/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895126%2F1885032601%2F0295.jp2/pct:17.449139,52.597773,13.091745,11.622181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3850,9 +4337,16 @@ of timber for fence posts. After hav­
 ing been set for seven years they were  
 as sound when they were taken out as  
 when they were first put in the ground.  
-Time and weather s
+Time and weather seems to have no  
+effect upon them The posts can be  
+prepared for less than two cents apiece.  
+This is the recipe: take boiled linseed  
+oil and stir in it pulverized charcoal to  
+the consistency of paint. Put a coat of  
+this over the timber and there is not a  
+man who will live to see it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159221%2F1890090401%2F0870.jp2/pct:35.835933,29.123477,14.287572,9.278960/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159221%2F1890090401%2F0870.jp2/pct:35.835933,29.123477,14.287572,14.048009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

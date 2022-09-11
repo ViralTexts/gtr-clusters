@@ -95,7 +95,19 @@ ately in cold water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ary Walker being  
+er, N. H., in improved  
+health.  
+An Ohio paper talks about a man  
+who, in a fit of jealousy, &quot;caused the  
+purple tide of life to gurgle forth from  
+the veins of a rival.&quot;  
+A young lady of Ipsilauti. Mich.,  
+who was burdened with the attentions of  
+two rival lovers, disposed of the least  
+favored one, who wouldn&#x27;t take &quot;No&quot;  
+for an answer, by throwing a lot of snuff  
+into his eyes the other day.  
+Miss Doctor Mary Walker being  
 reported as declaring that if any man  
 desires to get her out of pantaloons he  
 must marry her, what does au exchange  
@@ -109,7 +121,7 @@ appear at once. Wash immediately in
 cold water. This is a complete remedy,  
 and will satisfy all who may try it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1871060901%2F1176.jp2/pct:60.835763,29.044806,12.653061,8.384959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1871060901%2F1176.jp2/pct:60.835763,20.832733,12.691934,16.597032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +133,18 @@ and will satisfy all who may try it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eration. To meet the require­  
+nts will leave on the 14&#x27;h to  
+push negotiations abroad. A letter re­  
+ceived to-day Irom Gen. Spinner states that  
+he is still in London, but has done nothing  
+yet with the loan.  
+  
+Work on the Southern Pacific railroad is  
+now being pushed rapidly forward with  
+vigor and determination,&quot;and already the  
+drsi section of the road, from San Francisco  
+to Gilrov, a distance of eighty miles, is in  
+successful operation. To meet the require­  
 ments of the chartcr, eighty miles more  
 must be completed before the coming 1st of |  
 July, and laborers are, therefore, busily at  
@@ -133,7 +156,7 @@ juice on it, and the spot will disappear at
 once. Wash immediately in cold water.  
 That&#x27;s one way. Another method, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742009%2F1871061001%2F0559.jp2/pct:29.015121,46.926454,14.230577,5.128674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742009%2F1871061001%2F0559.jp2/pct:29.015121,42.023417,14.230577,10.031711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +168,16 @@ That&#x27;s one way. Another method, whic
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tness, and, more unfortunately, poor, was sent to  
+of all prwout, Jt if  
+need loss to say she was allowed to stay.  
+Punishing the Innocent Party.—•  
+They bad a rape case before Squire Dodge the othei  
+day, says the Bur.ington (Iowa) Gazette. I!he poor  
+girl was there to try her case, but ths defendant  
+not ready. The case was postponed until Monday,  
+and, defendant being rich and influential, gave bail(  
+and went home. The woman being, unfortunately,  
+a witness, and, more unfortunately, poor, was sent to  
 the county jail until the day of trial, so that she may  
 be present to testify! And this all done “ according  
 to law.”  
@@ -157,7 +189,7 @@ pear at once. Wash immediately in co d waler. This
 is a complete remedy, and will satisfy all who may  
 try it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_dunbar_ver01%2Fdata%2Fsn85026214%2Fprint00211110181%2F1871061101%2F0006.jp2/pct:82.670768,84.465831,12.252112,4.027257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_dunbar_ver01%2Fdata%2Fsn85026214%2Fprint00211110181%2F1871061101%2F0006.jp2/pct:82.670768,81.094174,12.252112,7.398915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +201,18 @@ try it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-le. The  
+d in ITJ$, and are co,r5 Irish  
+descendants, and speak the German  
+language fluently. The husband was a  
+soldier ander Napoleon I, and was  
+wounded at the battle of Navarre, Spain.  
+  
+Chamois, or shammy leather, is leather  
+made from various kind of skins dressed  
+with fish loil, which is hammered or  
+beaten in the pores bf. the skin. The  
+leather partially dried and washed in  
+alkali, becomes soft and pliable. The  
 true shammy leather, which, however, is  
 very rare,&#x27; ia made from tbe skin of the  
 chamois, a species of the antelope tribe  
@@ -184,7 +227,7 @@ juice on it, and the spot will disappear
 at once. Wash immediately .in ; cold  
 water. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871061301%2F0549.jp2/pct:57.105103,16.302807,12.644847,5.897363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871061301%2F0549.jp2/pct:43.504777,13.793592,26.285830,82.662319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +249,18 @@ water.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ociated Press at Louisville, and more re­  
+ be of daily  
+occurrence, and from five to seven o&#x27;clock  
+last evening, during a great portion of that  
+time, the rain poured in torrents, and  
+streets were quickly submerged. Later in  
+the evening the stars were out in all their  
+brilliancy.  
+Mr. Edward Leloup, formerly agent of  
+the Associated Press at New Orleans, under  
+the administration of D. H. Craig, Esq.,  
+and afterwards agent for the Western As­  
+sociated Press at Louisville, and more re­  
 cently of the Mobile office of the Western  
 Union Telegraph Company, has been ap­  
 pointed day manager of the New York office  
@@ -219,7 +273,7 @@ once. Wash immediately in cold water.
 This is a oomplete remedy, ami will satisfy  
 all who may try it.,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871061401%2F0298.jp2/pct:55.402685,90.548181,12.449664,6.821534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871061401%2F0298.jp2/pct:55.402685,84.242871,12.533557,13.126844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,13 +326,24 @@ ly in cold wate
 
 ---
 
-## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25?page=6)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25?page=6)
 
 #### 1871-06-24
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-into a  
+bly applies to, “We take up a  
+book and find a companion.”  
+  
+Richard Grant White, says Scott, though  
+the most vivid, imaginative and creative of  
+novelists, is one of the most incorrect of writ-  
+ers; hardly a page of his work is without  
+some error of fact, or in the use of words, or  
+in the construction of sentences.  
+  
+William Cooper, an officer of a lunatic asy-  
+lum in England, recently put a patient into a  
 bath, and with brutal carelessness turned on  
 hot water instead of cold, thus scalding the  
 poor madman to death. He was arrested and  
@@ -289,9 +354,10 @@ To remove ink-spots, put the article stained
 over a warn flat-iron. stretch it well, then  
 squeeze afew drops of lemon juice on it, and  
 the spot will disappear at, once. Wash imme-  
-diately in cold water. That’s one way. An
+diately in cold water. That’s one way. An-  
+other method, which never fails, is to take 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25&#0036;6/pct:44.414894,66.575758,15.875614,6.439394/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25&#0036;6/pct:44.414894,60.954545,15.998363,12.590909/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +369,18 @@ diately in cold water. That’s one way. An
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-will be s,t, rather than removed, by  
+hed clerk, Mr J.  
+Budds, still maintains its position In the  
+&#x27;ront rank. Its rooms are airy and clean,  
+ts table supplied with the best which the  
+narkets offered, and its wsieers attentive.  
+7isitors to Columbia will always find them­  
+elves at home there.  
+The following Itema, which will prove of  
+nterest to our lady readers, we find In our  
+xchanges:  
+Coffee and fruit s&#x27;ains, on linen and white  
+lothes, will be s,t, rather than removed, by  
 moap, if put into the suds with the stains on  
 hem. They should be first put into boiling  
 vater, and kept there until the water becomes  
@@ -314,7 +391,7 @@ queeze a few drops of lemon juice on it, and
 the spot will disappear at once. Wash im­  
 mediately in cold water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286984%2F1871062801%2F0532.jp2/pct:28.271049,37.842483,11.268663,4.330536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286984%2F1871062801%2F0532.jp2/pct:28.271049,31.924645,11.268663,10.248374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +403,18 @@ mediately in cold water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ine bushels of wheat to the acre,  
+rminates aud comes up.  
+The oats get the start of the wheat, and  
+by the time winter sets in are knee  
+high, while the wheat is only a few  
+inches. The cold weather in winter  
+kills the oats and it falls over the  
+wheat, protecting it from the weather  
+and mulching it so that in the spring  
+the wheat makes an astonishing growth  
+Last year, by pursuing? this plan, the  
+land of Mr. Littleton yielded thirty­  
+nine bushels of wheat to the acre,  
 which he sold at a dollar and forty-five  
 cents a bushel. He sent to Indiana  
 and procured the seed, It was, we be­  
@@ -341,7 +429,7 @@ disappear at once. Wash immediately
 in cold water. This is a complete rem­  
 edy, and will satisfy all who may try it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1871062901%2F0279.jp2/pct:20.374417,22.206801,17.242133,9.114041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1871062901%2F0279.jp2/pct:20.374417,15.715938,17.242133,15.604904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,18 +461,14 @@ ly in cold wate
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ses. II. Poison from bees, hornets,  
-spider bites, &amp;c, ifl iostautly arrested by  
-tho application of equal parts of common  
-salt and bicarbonato of soda, well rubbed  
-iu on the place bitten or stung.  
+  
 frzf To remove ink spots, put the arti­  
 cle stained over a warm flat-iron, stretch  
 it well, then squeeze a fow drops of lonion  
 juice on it, and tho spot will disappear at  
 once. Wash immediately in cold water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1871070401%2F0660.jp2/pct:6.789324,88.680509,17.051049,6.965841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1871070401%2F0660.jp2/pct:6.789324,92.397857,17.051049,3.248493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +480,16 @@ once. Wash immediately in cold water.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+fusing £tate gomnat  
   
+V\ EDNESDAY EVEN&#x27;U, Jl I.V 6, IWI.  
+  
+For Scai.uk and Burns.—Take raw­  
+onions and pound or mosli as line as possi­  
+ble ;it will give immediate relief. Apply  
+at once.  
+  
+Kcifl SAN IiWICHFS.—PoiI fresh ogl s five  
 minutes; put them in cold water, and  
 when quite cool, peel them, and after taking  
 a little of the while off each end of the  
@@ -407,9 +500,9 @@ stained over a warm flat-iron, strotch it
 well, then squeeze a few drops of lemon  
 juice on it, and the spot will disappear at  
 once. Wash immediately in cold water.  
-That&#x27;s oneway. Another method whic
+That&#x27;s oneway. Another method which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_forego_ver01%2Fdata%2Fsn84024670%2F00280762398%2F1871070501%2F0028.jp2/pct:2.320508,10.497278,12.623959,5.660586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_forego_ver01%2Fdata%2Fsn84024670%2F00280762398%2F1871070501%2F0028.jp2/pct:2.226299,4.325438,12.718167,11.832426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +565,18 @@ diately in cold water.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-a. Baron Humboldt  
+, j  
+Ottar of roses is sold in the Orient  
+at a cost far exceeding the price of the  
+same weight in gold. The best is cit­  
+ron colored, and made in Cashmere,  
+and so strong that if a handkerchief  
+is touched : with the tip of a needle  
+dipped in it, it will scent for weeks.  
+,.i a.-;-M :&#x27; the BAN AN A. ; . . . j..&#x27; .  
+No plant .yields anything like as  
+much nutriment from the same extent  
+of soil as the baha. Baron Humboldt  
 estimated that, it , returned twenty  
 times as much&#x27; as the .potato,, and a  
 hundred and thirteen- times as much  
@@ -485,7 +589,7 @@ lemon juice, on it, and the spot will
 disappear at once. Wash immediate­  
 ly in cold;water. . ... . ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027169%2F1871072701%2F0122.jp2/pct:8.523077,56.624410,10.600000,5.344270/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027169%2F1871072701%2F0122.jp2/pct:8.523077,51.615710,10.615385,10.352970/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,19 +622,14 @@ Mbals and Health. Take the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- at the present writing.   
-—   
-This is the “can can ” season of the year  
-and immense quantities of fruits and vege­  
-tables are being put up by our housewives for  
-winter consumption.   
+  
 An exchange says : “To remove ink spots,  
 put the article stained over a warm flat-iron­  
 stretch it well, then squeeze a few drops of  
 lemon juice on it, and the spot will disappear  
 at once. Wash immediately in cold water.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151222%2F1871091401%2F0128.jp2/pct:4.168896,41.510246,14.575531,6.846095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151222%2F1871091401%2F0128.jp2/pct:4.168896,45.357036,14.575531,2.999305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +641,21 @@ at once. Wash immediately in cold water.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ble and veil  
+ but they sur­  
+pass the soldiers in dicipline aud organ­  
+ization. So, if it ever comes to a physi-  
+cal struggle between Church and State,  
+the Church is not ill provided for the  
+emergency  
+  
+  
+PRACTICAL HINTS.  
+  
+The various recipes which will here  
+ofter be given to our readers, in this de-  
+have been tested and proven reliable. Tlie  
+information tliey contain will, therefore,  
+altsavs be found to be valuable and veil  
 worthy of preset-nation.  
 Snow-ball Cakes. One cup sugar, one  
 of buttermilk, one of butter, one table-  
@@ -557,7 +670,7 @@ once. Wash immeuiately
 in cold  
 water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028193%2F00296028988%2F1871091601%2F0045.jp2/pct:35.199077,8.971292,9.650894,5.921053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028193%2F00296028988%2F1871091601%2F0045.jp2/pct:25.980958,5.514354,18.869013,90.011962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

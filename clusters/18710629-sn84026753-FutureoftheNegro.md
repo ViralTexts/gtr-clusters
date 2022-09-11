@@ -11,7 +11,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-There seems to be no necessity of taking the lugubrious view of the future of the African race which is so often held. Providence has permitted the representatives of the race in North America to reach a goodly degree of civilization, higher by far than any to which Central and Southern Africans have attained elsewhere any time within historical memory. So high, in fact, that if they were the sole occupants of an adequate are in the South they would be more competent for self-government than the people of many European or Asiatic countries. No colony ever planted has grown so fast, advanced so far, or become so rich as the Africans who came to these western shores within the past century and a half. Bad, mercenary, interested and wicked as were the motives of those who brought their progenitors to this land, the result, under Providence, has been the enhancement of their welfare. While we may pray never to see anything more of that kind of involuntary and unconscious beneficence, we may equally hope that the good which has grown out of the original evil may be permanent, and that the 5,000,000 of the colored race may prosper, improve, and multiply in the full enjoyment of all the fruits of their labors. On this empty continent of ours there is room for us, room for them, and room for a great many millions besides. We welcome the report of the steady though slight increase of numbers among the colored people of our country, and earnestly hope that the statistics of the census of 1880 may show, not only an increase in numbers, but also a great increase in property, comfort, and education. –N.O. Picayune
+There seems to be no necessity of taking the lugubrious view of the future of the African race which is so often held. Providence has permitted the representatives of the race in North America to reach a goodly degree of civilization, higher by far than any to which Central and Southern Africans have attained elsewhere any time within historical memory. So high, in fact, that if they were the sole occupants of an adequate are in the South they would be more competent for self-government than the people of many European or Asiatic countries. No colony ever planted has grown so fast, advanced so far, or become so rich as the Africans who came to these western shores within the past century and a half. Bad, mercenary, interested and wicked as were the motives of those who brought their progenitors to this land, the result, under Providence, has been the enhancement of their welfare. While we may pray never to see anything more of that kind of involuntary and unconscious beneficence, we may equally hope that the good which has grown out of the original evil may be permanent, and that the 5,000,000 of the colored race may prosper, improve, and multiply in the full enjoyment of all the fruits of their labors. On this empty continent of ours there is room for us, room for them, and room for a great many millions besides. We welcome the report of the steady though slight increase of numbers among the colored people of our country, and earnestly hope that the statistics of the census of 1880 may show, not only an increase in numbers, but also a great increase in property, comfort, and education. 
 </td></tr></table>
 
 ---
@@ -147,14 +147,9 @@ I *hi? empty continent of ours
 I * r?om for us, room for them, end room  
 j m*nJ millions besides. We wslcrnwe  
 the report of the steady though alight  
-increase of numbers among the colored people  
-* :Lssr?s*and earne?uy h?p? ^  
-tnastics of the census of 18H0 may show, not  
-I only an increase m numbers, but also a great  
-1 &quot; ,3e^SM^0 P??PertT? comfort, and educaUoo y.  
-O. Picayune
+increase of numbers among the colored peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:4.595861,77.252543,15.037537,16.298525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:4.595861,77.252543,15.037537,14.293081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,21 +186,20 @@ It was not made for political effect, bu
 
 ---
 
-## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1871-07-01_9_44?page=0)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1871-07-01_9_44?page=0)
 
 #### 1871-07-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-int,  
-colony, ever planted, has grown so fast, advanced | with the American imprint of George P. Putnam  
+  
 so far, or become so rich, as the Africans who &amp; Co., is one well suited for permanent custody in  
 came to these western shores within the past cen- ‘library or elsewhere.— A. Williams &amp; Co. have it  
 tury and a half,” ‘whi y io &gt; 3 : ;  
 Y a ha : and that *‘while spies mer pray | Thoughts for the Youn; Men of Ameriva. By Es  
 never to see anything more of that kind of invol-. U. Reavie &amp; SES Sa a ae vi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1871-07-01_9_44&#0036;0/pct:54.723684,21.901125,23.328947,2.900196/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1871-07-01_9_44&#0036;0/pct:54.723684,22.726804,23.328947,2.074517/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

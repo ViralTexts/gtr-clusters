@@ -105,7 +105,17 @@ We have non of our own.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ed;  
+  
+In speaking of a person&#x27;s faults,  
+Pr.iv don&#x27;t lorget your own;  
+Remember thoir with homes of glass  
+Should seldom throw a stone:  
+If \vc have nothing else to t|o  
+Rut talk of thorc who sin,  
+*Tis bcttvr wc commenced ;it home.  
+And from that ;&gt;*&gt;int begin.  
+We have no right to judge a inan  
+Until he&#x27;s fairly tried;  
 Saoali! we not like his company,  
 We know the world *s wide.  
 Some may have fallen ? a?*d who has not ?  
@@ -124,9 +134,12 @@ Then let us all when wc cotnwencc
 To slander friend or foe.  
 Think of the harm one word may do  
 To those wc little know;  
-Remember, curses
+Remember, curses sometimes, like  
+Our chickens, &quot;roost at home&quot;&#x27; ?  
+Uon&#x27;t sneak of others* faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_lincoln_ver01%2Fdata%2Fsn86092474%2F00279550262%2F1874022601%2F0105.jp2/pct:33.253826,13.086695,14.894322,12.059721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_lincoln_ver01%2Fdata%2Fsn86092474%2F00279550262%2F1874022601%2F0105.jp2/pct:33.161068,7.708488,14.987080,19.062938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +153,14 @@ Remember, curses
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-that point begin. &#x27;We hare no  
+  
+SAT. } Ik speaking of a person&#x27;s faulti,  
+Pray dou&#x27;t forget ^crar own; ? Eamember,  
+those with homes of glass Should seldom  
+throw a stono ; ;&#x27; If Jfe hare nothing  
+else to do ?-?.? But talk of those who  
+«in, 1 XtB Detter We commeiiuB au uuhiv)  
+And from that point begin. &#x27;We hare no  
 right to judge a man : Until he&#x27;s fairly  
 tried ; ? Should we not like his  
 company, We know the world is wide : ?  
@@ -157,7 +177,9 @@ faults of others go. Then let us all
 whon wo commence To slandor friend or  
 foe, , Think of the harm one word may do  
 To those we little know : Remember  
-cu
+curses, somotimes, like Our chckens,  
+&#x27;roost at home ; Don&#x27;t speak.ot others&#x27;  
+faults until &#x27; We haye none of our own
 </td></tr></table>
 
 ---
@@ -195,9 +217,14 @@ My own short-comings bid me let
 The faults of others go.  
 Then let r.s nil, when wo commence  
 To slander friend or foe,  
-lhiuk of the harm o
+lhiuk of the harm one word mav do  
+To those we little know ;  
+Remember, curses sometimes, like  
+Our chickens, “roost.at home  
+So don’t speak of others&#x27; fault9  
+I. ntil we have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874032001%2F0808.jp2/pct:17.662461,18.692275,9.930175,16.733137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874032001%2F0808.jp2/pct:17.626756,18.692275,9.965881,19.776798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +260,11 @@ than some I know, My own short-comings
 bid me let The faults of others go. Then  
 let us all when we commence To slander  
 friend or foe, Think of the harm one  
-word may 
+word may do To those we little know.  
+Kemember, curses sometime, like Our  
+chickens, &#x27; roost at home ;&#x27; Don&#x27;t speak  
+of others&#x27; faults until We have none of  
+our own 
 </td></tr></table>
 
 ---
@@ -273,9 +304,12 @@ Then let us all. when we commence
 To slander friend or foe.  
 Think of the barm one word may do  
 To those we little know.  
-Remember curses, so
+Remember curses, sometimes, like  
+Our chickens, &quot; roost at home: &quot;  
+Don&#x27;t speak of others faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1874052201%2F0512.jp2/pct:29.219858,31.190048,10.050659,11.076139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1874052201%2F0512.jp2/pct:29.219858,31.190048,10.050659,12.080336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +331,14 @@ Remember curses, so
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
+  
+In speaking of a person&#x27;s faults,  
+Pray don&#x27;t forget your own t  
+Rlmember those with homes of glass.  
+Should seldom throw a itono i  
+If we have nothing else to dj  
+Hut talk of those who tin,  
+&#x27;TIs bettor we commouco at homo,  
 And from that point begin.  
 We hare no right to judgo a man,  
 Until he&#x27;s fairly tried i  
@@ -317,9 +358,14 @@ Sly own thort-oumlngs hid mo let
 Tho faults of others go.  
 Then let ui all, when wo coiamenoo  
 To slander friend or foe,  
-Thi
+Think of the harm on. word may do  
+To those we little know.  
+Remember curse., toinetluios, like  
+Our chickens, &quot;roost at homei&quot;  
+lion&#x27;t i peak of others&#x27; faults until  
+We have nono of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84023255%2F00280776968%2F1874091101%2F0317.jp2/pct:8.307480,61.343863,8.359186,8.553072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84023255%2F00280776968%2F1874091101%2F0317.jp2/pct:8.290245,58.532994,8.376422,13.425244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,9 +416,12 @@ Then let ns all, when we begin
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-K©member, curses,—som
+K©member, curses,—sometimes, like  
+Our chickens, “roost at home;”  
+Don’t speak of others’ faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348458%2F1874110501%2F0579.jp2/pct:20.149653,17.245416,9.339925,13.529067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348458%2F1874110501%2F0579.jp2/pct:20.149653,17.245416,9.339925,14.790610/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,9 +460,14 @@ My own short comings bid me let
 The faults of others go.  
 Then let us all when we commence  
 To slander friend or foe.  
-Think of the harm one word may 
+Think of the harm one word may do  
+To those we httlo know ;  
+Remember curses sometimes like  
+Our chickens &quot; roost at home ;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We hare none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn92073987%2F00296023152%2F1874110601%2F0174.jp2/pct:30.324601,10.718257,10.051253,12.441628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn92073987%2F00296023152%2F1874110601%2F0174.jp2/pct:30.324601,10.718257,10.051253,14.476318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +479,14 @@ Think of the harm one word may
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
+In speaking of a persons faults,  
+Tray don&#x27;t forget yonr own;  
+Remember, those with homes of glasa  
+Should seldom throw a stone;  
+If we have nothing else to do  
+Than talk of those who ain,  
+Tis hotter we commence at home.  
 And from that point begin.  
 We have no right to judge a man,  
 Until he&#x27;s fairly tried;&#x27;  
@@ -443,9 +504,16 @@ And though I sometimes hepe te bo
 No worse than some I know,  
 My own shortcoming! bid me let  
 The faults of others go.  
-Then let us all, 
+Then let us all, when we begin  
+To slander friend or foe,  
+Think of the barm one word may do  
+To those we little know.  
+Remember, curses, sometimes, like  
+Our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874110601%2F0296.jp2/pct:45.914634,17.604228,8.871951,8.737522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874110601%2F0296.jp2/pct:45.868902,14.621257,8.917683,14.738696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +525,17 @@ Then let us all,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ried ;  
+  
+Iu &gt;peaking of a person&#x27;s faults,  
+I r«y don’t forget your own :  
+remember th«se with houses of glass.  
+Should seldom throw a stone.  
+If we have nothing else to do,  
+But talk of those who sin,  
+1 is better we commence at home,  
+And from that point begin.  
+&quot; 8 bare no right to judge a in vn,  
+l ntil he s fairly tried ;  
 Should we not like his csmpany,  
 We know the woild is wide.  
 Some may hare fault«-and who has not ?  
@@ -474,9 +552,15 @@ Mr own shortcomings bids me let
 The faults of others go.  
 I hen let us nil, when wo commence  
 To slander friend or foe,  
+Think of the harm one word may do  
+To those we little know,  
+remember, curves sometimes, like  
+Our chickens, “roost at home;  
+Don t speak of others faults until  
+\\ o Lave none of our own.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874110601%2F0936.jp2/pct:18.482560,20.715397,10.887371,10.775877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874110601%2F0936.jp2/pct:17.044229,14.950752,12.325702,19.619838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,9 +597,16 @@ And though I sometimes hope to bo
 No worse than some 1 know.  
 My own short-comings bid me let  
 The faults of other# go.  
-Then let ns all 
+Then let ns all when we commence  
+To slander friend or foe.  
+Think of the harm one word may do  
+To those we little know ;  
+Remember curses sometimes, like  
+Our chickens-&#x27;roost at Mne  
+Don&#x27;t speak of others’ fault* until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_neely_ver01%2Fdata%2Fsn84026801%2F00340582123%2F1874120301%2F0182.jp2/pct:50.028777,12.509245,9.342926,9.005107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_neely_ver01%2Fdata%2Fsn84026801%2F00340582123%2F1874120301%2F0182.jp2/pct:50.014388,12.509245,9.357314,11.403416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,9 +692,13 @@ The faults of others go.
 Then let us all when we commence  
 To slander friend or Joe,  
 Think of the harm one word may do  
-To those we little kno
+To those we little know.  
+Remember cnrses, sometimes,  
+Like our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029014%2F1875012101%2F0370.jp2/pct:6.744687,26.760929,10.070835,9.586198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029014%2F1875012101%2F0370.jp2/pct:6.744687,26.760929,10.070835,10.870411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,9 +735,16 @@ And though I sometimes liopc to be
 No worse than somo I know,  
 My own shortcomings bid me let  
 The faults of others go.  
-Then let us a
+Then let us all, whon we begin  
+To slander friend or foe.  
+Think of the harm one word may do  
+To those we little know.  
+Remember curses, some times, like  
+Onr chickeni, &quot;roost at home;&#x27;, .  
+Don&#x27;t speak of other&#x27;s faults uutil  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027182%2F1875020401%2F0025.jp2/pct:39.202120,13.812933,9.333137,10.585612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027182%2F1875020401%2F0025.jp2/pct:39.187399,13.812933,9.347858,13.366976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,9 +784,13 @@ The faults of others go.
 Then let us all, when we commence  
 To slander friend or foe,  
 Think of the harm one word may do  
-To
+To those we little know.  
+Remember curses, sometimes.  
+Like our ciiiekens. &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1875020501%2F0502.jp2/pct:88.460964,7.825674,9.240185,11.281321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1875020501%2F0502.jp2/pct:88.460964,7.825674,9.240185,12.872580/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,9 +831,12 @@ Then let us all when we begin .
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know,  
-Remember curses somet
+Remember curses sometimes, like  
+Our chickens, &quot;roost at home,&quot;  
+Don&#x27;t speak of other&#x27;s faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1875020601%2F0309.jp2/pct:18.859893,16.737394,13.677587,16.712431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1875020601%2F0309.jp2/pct:18.822876,16.737394,13.714603,18.260110/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +848,14 @@ Remember curses somet
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
+In speaking of a person&#x27;s faults,  
+1&#x27;ray don&#x27;t forget your own;  
+Remember those with homes of glass  
+Should seldom throw a stone.  
+If we have nothlngeI.se to do 1  
+Than talk of those who sin. &#x27;-Tie  
+better we commence at home.  
 And Irom that point begin.  
 Wehave no right to Judge a man  
 : Until he&#x27;s fairly tried;  
@@ -761,15 +877,18 @@ Then let us all, when we begin
 To slander friend or foe.  
 Think of the harm one word may do .  
 To those we little know.  
-Remember, curses, so
+Remember, curses, sometimes, like  
+Our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+Wehave none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875021701%2F0027.jp2/pct:62.035651,19.217331,10.083004,10.214302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875021701%2F0027.jp2/pct:62.022044,16.154205,10.096612,14.546937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210?page=1)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210?page=1)
 
 #### 1875-02-27
 
@@ -818,9 +937,12 @@ Then let us all, when we begin
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-Remember curses, som
+Remember curses, sometimes like  
+Our chickens, “ roost at home.”  
+Don&#x27;t speak of others’ faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210&#0036;1/pct:18.390192,15.969080,15.458422,22.021116/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210&#0036;1/pct:18.390192,15.969080,15.458422,24.151584/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,6 +954,14 @@ Remember curses, som
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+In speaking ol another&#x27;s faults,  
+Pray dont forget your own;  
+Remember those with homes of glass  
+Should seldom throw a stone;  
+If w&amp;havc nothing else to do  
+Buttalk of them who sin,  
+Til belter that we commence at home,  
 And from that point begin.  
 We have no right to Judge a man  
 Until he&#x27;s fairly tried;  
@@ -851,9 +981,14 @@ My own shertooings bid me let
 The fault-o others go.  
 Then let all, when we commence  
 To slander friend oi foe,  
-Think of the 
+Think of the harm one word may do  
+To those wee know:  
+Remember, dirses, sometimes, like  
+Ourehieke s, ureor4t home;&quot;  
+Don&#x27;t fcpeak trf others faulm until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875032401%2F0047.jp2/pct:15.774260,18.955399,10.695114,9.706573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875032401%2F0047.jp2/pct:15.774260,15.856808,10.695114,15.000000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,9 +1031,12 @@ Then let us all when we commence
 To slander friend or foe,  
 1 hink of the harm one word may do  
 To those we little know.  
-Pemember c
+Pemember curses, sometimes, like  
+Our chickens, &quot;roost at home;&#x27;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470387%2F1875040801%2F0449.jp2/pct:50.763306,20.686264,11.016366,14.413725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470387%2F1875040801%2F0449.jp2/pct:50.763306,20.686264,11.016366,15.681346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1152,11 @@ comings bid me let .-???? The faults of
 others go. Then let us all when we  
 commence IVslander friend or foe,  
 Think., of the harm one word may do Td-  
-fhose we little know : r RenV
+fhose we little know : r RenVember  
+curses, sometimes, like ,.. ; &#x27; -Our  
+chickens, &#x27; roost at home Don&#x27;t speak of  
+others&#x27; faults until We have none of our  
+own. &#x27; C. C. S
 </td></tr></table>
 
 ---
@@ -1027,7 +1169,7 @@ fhose we little know : r RenV
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y.  In speaking  
+  
 of a person&#x27;s faults, j Pray don&#x27;t  
 forget your own ; ! Remember, those in  
 homes of glass j Should seldom throw a  
@@ -1050,7 +1192,9 @@ The faults of others go. Then let us all
 when wo commence To slander friend or  
 foe, Think of the harm one word may do  
 To those we little know : llcmcmbor  
-curses, 
+curses, /sometimes, like Our chickens, &quot;  
+roost at home Don&#x27;t speak oi others&#x27;  
+faults until Wo have none of our own
 </td></tr></table>
 
 ---
@@ -1061,7 +1205,15 @@ curses,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
+In speaking of a person&#x27;s faults,  
+Pray don&#x27;t forget your own  
+Remember, thoM with homes of glass  
+Should seldom throw a stone t  
+If we have nothing else te do  
+Than talk of those who sin,  
+&#x27;Tit better to ooaimenceat home,  
+And from that point begin.  
 We hsTe no right to Judge a  
 Until he&#x27;s fairlr tried :  
 man  
@@ -1080,9 +1232,16 @@ And though sometimes I hope to be
 Mo worse than some I know,  
 Mr own shortcomings bid me let  
 The faults of others go.  
-Then let us all
+Then let us all, when we begin  
+To alander friend er foe,  
+Think of the harm one word may do  
+To those we little know.  
+Itaiuemher curses, sometimes, like  
+Our chickens &quot; roost at home ;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We hare none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85026421%2F00415669203%2F1875061701%2F0451.jp2/pct:6.049033,18.544061,8.328200,5.909962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85026421%2F00415669203%2F1875061701%2F0451.jp2/pct:6.036713,15.708812,8.340520,10.929119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1096,7 +1255,7 @@ Then let us all
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- OF OTHERS. -IN speaking of a  
+.THE FAULTS OF OTHERS. -IN speaking of a  
 person&#x27;s faults, :Pray don&#x27;t forget your  
 own .; Iiemember those in homes of  
 .glasss Should seldom throw a stone; If  
@@ -1118,7 +1277,10 @@ shotcomtings bid me let The faults of
 -others go. &#x27;,Then let us all when we  
 .commence To slander friend or:foe,  
 Think of the harm one word may do To  
-those we i-ttle&quot;know .; Remember curse
+those we i-ttle&quot;know .; Remember curses,  
+sometimes, like Our chickens, &quot; roost at  
+home;&#x27;;&quot; &#x27;Don&#x27;t speak of others&#x27;:faults  
+until We have none of our own. -. C. S.
 </td></tr></table>
 
 ---
@@ -1196,9 +1358,14 @@ My own shortcomings bid me let
 The faults of others sro.  
 Then let us all, when we commence  
 . To slander friend or foe,  
-Think of the harm one wor
+Think of the harm one word may do  
+To those we little know.  
+liemember curses, sometimes, like  
+Our chickens, &quot;roost at home !&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1875092701%2F0160.jp2/pct:33.590055,15.904654,14.200784,15.606699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1875092701%2F0160.jp2/pct:33.590055,15.904654,14.200784,18.349943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,9 +1406,12 @@ Then let us all, when we commence,
 To slander friends or foe,  
 Think of the harm one word may do  
 To those we little know ;  
-Remember that c
+Remember that curses sometimes,  
+Like our chickens, &quot;roost at home;&quot;&quot;  
+Don&#x27;t peak of others faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1875110101%2F0183.jp2/pct:22.388664,8.015889,13.265857,16.979018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1875110101%2F0183.jp2/pct:22.388664,8.015889,13.265857,18.527195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1423,13 @@ Remember that c
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- them who Mo, ; . ,  
+  
+In speaking of ft person&#x27;s faults ,  
+Prsy don&#x27;t forget vour own ; &#x27;  
+Bemember those With homes of gist &#x27;  
+1 Should loldora throw ft itone ;  
+If we brd nothing elio to do  
+But talk of them who Mo, ; . ,  
 Ttsbetter we commence at home,, ,  
 And Irom that point begin.  
 We have no right to judge man  
@@ -1274,9 +1450,14 @@ My own shortcomings bid me let
 The faults of others go.  
 Then let us all when we commence  
 To slander friend or foe,  
-Think of the harm one word ma
+Think of the harm one word may do  
+To those we little know;  
+Uemember curses, sometimes, like  
+Our chickens &quot;roost at home ;&quot;  
+Don&#x27;t npeak of other&#x27;s faults until  
+We have known our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1875121701%2F0966.jp2/pct:4.651163,10.168315,15.614618,14.714558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1875121701%2F0966.jp2/pct:4.267825,6.975534,15.997956,21.013361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1317,9 +1498,14 @@ My own shortcomings bid me let
 The faults ol others go.  
 Then let us ail when we commence  
 To slander friend or foe,  
-Think of the harm one wor
+Think of the harm one word may do  
+To those we little know;  
+Remember curses, sometimes, like  
+Our chickens, “ioost ai home;”  
+Don’t speak of other’s faults until  
+We have outgrown our ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1876010601%2F0272.jp2/pct:79.434261,73.253297,13.021045,15.482517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1876010601%2F0272.jp2/pct:79.434261,73.253297,13.021045,18.362527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,9 +1544,14 @@ My own shortcomings hid me let
 The faults of others go.  
 Then let us all, when we commence,  
 To slander friend or loc,  
-Think of the harm one word ma
+Think of the harm one word may do  
+To those we little know ;  
+Remember that curses sometimes,  
+Like the chickens “roost at home ;”  
+Don’t speak of others’ faults until  
+we have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F0041562346A%2F1876010701%2F0401.jp2/pct:17.185950,20.887752,13.593967,14.523585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F0041562346A%2F1876010701%2F0401.jp2/pct:17.185950,20.887752,13.593967,16.920246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1401,9 +1592,12 @@ Then let us all, when we commence,
 To slander friend or fe,  
 Think of the harm one word may do  
 To those we little know.  
-Hememler curses, so
+Hememler curses, sometimes, like .  
+Our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1876011701%2F0224.jp2/pct:33.388180,15.402323,13.794049,17.066025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1876011701%2F0224.jp2/pct:33.388180,15.402323,13.794049,18.666946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1415,7 +1609,17 @@ Hememler curses, so
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-irly tried ;  
+  
+Id speaking of a person&#x27;s faults,  
+rrmy don&#x27;t forget jour own.  
+Remember those with homes of glass.  
+Should never throw atone.  
+If we hare nothing; else to do  
+Than talk of those who sin.  
+Yes. better we commence at borne.  
+And from that point begin.  
+We hare no right to judge a man -  
+Until he&#x27;s fairly tried ;  
 Should ws not like hie company.  
 We know the world is wide.  
 Some may have fsalts, and who has cot ?  
@@ -1434,9 +1638,12 @@ Then let us all, when we begin
 To slander friend or foe.  
 Think of the barm otte word may do  
 To those we little know ;  
-R
+Remember sometime cones, like  
+Our chickens, roost at home ;  
+Don&#x27;t speak of other&#x27;s faults until  
+We hare neue of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1876020201%2F0477.jp2/pct:5.423729,17.988856,9.661017,9.843460/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1876020201%2F0477.jp2/pct:5.423729,13.332449,9.661017,15.985673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1477,9 +1684,12 @@ Then let us all, when we commence
 To slander friend or foe.  
 Think of the harm one word may do  
 To those we little know.  
-Remember, curses, s
+Remember, curses, sometimes like  
+Our chickens, “roost at home,”  
+Don’t speak of others&#x27; faults until  
+W&#x27;e have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1876030201%2F0243.jp2/pct:16.294432,13.691572,9.959893,12.529138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1876030201%2F0243.jp2/pct:16.294432,13.691572,9.959893,13.719176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1519,9 +1729,13 @@ The faults of others go.
 Then let us all, when we begin,  
 To slander friend or foe.  
 Think of the barm one word may do  
-To those we littl
+To those we little know.  
+Remember, curses, sometimes, like  
+Our chickens, &quot;roost at home; &quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1876030301%2F0890.jp2/pct:41.946375,32.055800,10.248262,10.455213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1876030301%2F0890.jp2/pct:41.926514,32.055800,10.268123,11.835536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1759,16 @@ To those we littl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* Should we not like his company,  
+  
+SAY. In .speaking of a person&#x27;s faalts,  
+; Pray don&#x27;t forget yonr own;  
+-liememberthosewith homes of glass  
+ShoulcLseldom-throw a stone. If we have  
+nothing else to do ISuttalkof those who  
+sin, *3Ss better we commence at home, ,1  
+. And from that point begin. We have no  
+light to judge a man Until he&#x27;s fairly  
+tried * Should we not like his company,  
 We know the world ia wide. Some may have  
 faults—and who has not?— - The old as  
 well as young; Perhaps we may, for ought  
@@ -1559,7 +1782,9 @@ faiilts of others go. &#x27;Then let ns all,
 when we commence To slander friend or  
 foe, Think of the harm one word may do  
 To those we little know. Remember  
-curses, 
+curses, sometimes, like ; Our chickens,&quot;  
+roost at home . Don&#x27;t speak of others&#x27;  
+faults until We have none of our own
 </td></tr></table>
 
 ---
@@ -1572,7 +1797,7 @@ curses,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+BE CAREFUL WHIAT YOU SAY. In speaking of  
 a person&#x27;s faults, Pray don&#x27;t forget  
 your own; Remember those: with homes of  
 glass : Should seldom throw a stone;&#x27; If  
@@ -1595,7 +1820,11 @@ though I sometimes hope to be&#x27; SNo
 short-comings bid me let:,:.&#x27; !  
 Thefaults of others go.. &#x27;Then let  
 tisall, when we commence To slander  
-friend or foe, Think of the h
+friend or foe, Think of the harm one  
+word may do: To those we little know.  
+Remember curses sometimes, like Our  
+chickens, &quot;rnost at home&quot; Doin&#x27;t speak  
+of others&#x27; faults until We have none of
 </td></tr></table>
 
 ---
@@ -1645,9 +1874,12 @@ Then let us all, when wc commence
 To slander friends or foe,  
 Think of the harm one word may do  
 To those we little know;  
-Remember that curs
+Remember that curses sometimes,  
+Like our chickens, &quot;roost at home,&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We h ave none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767808%2F1876052701%2F0087.jp2/pct:28.390917,8.903036,13.773488,17.597127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767808%2F1876052701%2F0087.jp2/pct:28.390917,8.903036,13.773488,19.281750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1687,9 +1919,16 @@ si y own shortcomings bid me let &quot;
 The faults of other go.  
 Then let us all when we commence  
 To slander friend or foe.  
-Think of the barm on
+Think of the barm one word may do  
+  
+. To thoie we little know ;  
+&#x27;Remember that curses sometimes.  
+Like cbiekeus, &quot;roost at home :&quot;  
+Don&#x27;t speak ol others faults uutil  
+We have none of our oun.  
+i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027182%2F1876061501%2F0322.jp2/pct:8.235973,5.098178,9.577384,11.509345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027182%2F1876061501%2F0322.jp2/pct:7.976345,5.098178,9.837011,13.591199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1730,9 +1969,12 @@ Then let us all, when we commence
 To slander friend or foe.  
 Think of the barm one word may do  
 To those we little know;  
-R&quot;inember that curs
+R&quot;inember that curses sometimes.  
+Like chickens, &quot;roost at home;&quot;  
+Don&#x27;t sjieak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_lyonsport_ver02%2Fdata%2Fsn84022673%2F0020029841A%2F1876063001%2F0180.jp2/pct:5.364055,8.492152,11.336406,11.252803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_lyonsport_ver02%2Fdata%2Fsn84022673%2F0020029841A%2F1876063001%2F0180.jp2/pct:5.364055,8.492152,11.336406,12.345852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1746,7 +1988,7 @@ R&quot;inember that curs
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+be careful what you say. In speaking of  
 a person&#x27;s faults, Pray don&#x27;t forget  
 your own; Remember those with homes of  
 glass, Should seldom throw a stone; If  
@@ -1768,7 +2010,10 @@ shortcomings bid me let The faults of
 others go. Then let us all, when we  
 commence To slander friend or foe, Think  
 of the harm one word may do To those we  
-little know. Remember curses, so
+little know. Remember curses, sometimes,  
+like Our chiekens, &quot; roost at home Don&#x27;t  
+speak of others&#x27; faults until We have  
+none of her own. —The Country Gentleman.
 </td></tr></table>
 
 ---
@@ -1867,7 +2112,20 @@ We have none of oar own.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tell.  
+ei.ee at boats.  
+And front that |&gt;olnt t&lt;egtn.  
+We have no right to juitge s man  
+Until he&#x27;s fatrlv triad,  
+Should we not like hie company.  
+We know the world is wide.  
+Some n-sv lisve faults and who tiave not t  
+Tha old as well aa young ;  
+l&#x27;erhaps.we may. for aught we know.  
+Mare fifty to lljrir one  
+I&#x27;ll tell rou of a holier plan.  
+And one liiat worka fall well  
+1 try my own defect* to cure  
+Kr 1 of others&#x27; tell.  
 And though 1 sometimes hope to he  
 No worse than some 1 kuow.  
 My own ahortrxitniug* lid rue let  
@@ -1881,7 +2139,7 @@ Ourciuokens. &#x27;&#x27; rooet at houie.&quot;
 Pout speak of others faults until  
 We hare none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1876102601%2F0520.jp2/pct:14.533368,13.838810,7.512165,5.841146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1876102601%2F0520.jp2/pct:14.533368,7.623365,8.828641,12.056591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,9 +2175,18 @@ I tjy my own defect* to cure,
 Ere 1 of others&#x27; toll.  
 And though I sometime* hope to be  
 No worts than some I know,  
-M
+My own shortcomings lid me let  
+The faults of o? hers go.  
+Then let us al, when we commence  
+To slander fiitud or foe,  
+Toink of the harm one word may do  
+To theeo who hide know.  
+Remember, curses, sometimes, like  
+O r chickens, &quot;roost at home.&quot;  
+Don&#x27;t speat of others&#x27; faults until  
+Wo have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85026954%2F0041562010A%2F1876102601%2F0189.jp2/pct:4.319710,14.850612,12.079669,12.972250/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85026954%2F0041562010A%2F1876102601%2F0189.jp2/pct:4.319710,14.850612,12.079669,17.947783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1931,7 +2198,13 @@ M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-k of thoee who *iu,  
+  
+I1 updating of a person&#x27;s faults,  
+.t rey don&#x27;t forget your own;  
+Remon ber tboae with homes of glaea  
+Shcu: 3 seldom throw a stone.  
+If we have nothing elue to do  
+But thlk of thoee who *iu,  
 &#x27;Tie better wo commence at home,  
 And from that point begin.  
 We have no right to judge a man  
@@ -1954,9 +2227,13 @@ Tbo faults of others go.
 Then let us all, whan we commence  
 To slander friend or foe,  
 Think of the barm one word may do  
-To thcso who litt
+To thcso who little know.  
+Remember, corses, sometimes, like  
+OorchickenB, &quot;roost at home.&quot;  
+Don&#x27;t speak of others&#x27; fanlte until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194035%2F1876110101%2F0056.jp2/pct:13.609053,4.846899,9.761317,11.319814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194035%2F1876110101%2F0056.jp2/pct:13.592593,2.572968,9.777778,15.475189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1997,9 +2274,12 @@ Then let us all, when we commence
 To slander friend or foe,  
 Think of the harm one word may do  
 To those vfho little know.:  
-Remember, curses
+Remember, curses, sometimes like  
+Our chickens, &quot;roost at home.&quot;  
+Don&#x27;t speak of others&#x27; .faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876110901%2F0226.jp2/pct:2.060908,5.007289,12.032905,13.272485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876110901%2F0226.jp2/pct:2.060908,5.007289,12.032905,14.479939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2130,9 +2410,14 @@ Mv own shortcomings bid me let
 The faults of others go.  
 Then let us all, when we commence  
 To slander friend or foe.  
-Think of the harm one word may 
+Think of the harm one word may do  
+To those wo little know ;  
+Remember that curses sometimes,  
+Like our chickens, “roost al home,”  
+Uon&#x27;t speak of others’ faults until  
+We have none of onr own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625510%2F1877011901%2F0014.jp2/pct:6.223002,7.717811,9.520551,10.821342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625510%2F1877011901%2F0014.jp2/pct:6.223002,7.717811,9.520551,12.629456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,7 +2477,7 @@ We have none of our own
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+BE CAREFUL WHAT YOU SAY. In spoaking of  
 a person&#x27;s faults, Pray don&#x27;t excuse  
 your own ; Remember those with homes of  
 glass, Should seldom throw a stone ; If  
@@ -2214,7 +2499,10 @@ I know, My own shortcomings bid me let
 ;: The faults of others go. Then let us  
 all, when we commence To censure friend  
 or foe. Think of the harm one word may  
-do, To those we little
+do, To those we little know. Remember  
+curses sometimes like Our chickens roost  
+at home ; Don&#x27;t speak of others&#x27; faults  
+until We have none of our own.
 </td></tr></table>
 
 ---
@@ -2225,7 +2513,14 @@ do, To those we little
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e.  
+  
+la speaking of m person&#x27;s fanlts.  
+Pray doirt forget yonr own ;  
+Remember those with homes of gits  
+Shonid seldom throw a stone;  
+If we have nothing else to do,  
+Than talk of those who win,  
+TIs better to commence at home.  
 And from that point begin.  
 We hare no right to Judge a man  
 Until he&#x27;s fairly tried;  
@@ -2247,9 +2542,12 @@ Then let ns all, when we begin
 To slander friend or foe.  
 Think of the harm one word may do  
 To those we little know,  
-Bemember curses some
+Bemember curses some tiroes, like  
+Oar chickens, &quot; roost at home.&quot;  
+-&quot; Don&#x27;t speak of others&#x27; faults until  
+We aire none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F00296029002%2F1877021001%2F0064.jp2/pct:6.201335,7.710642,7.967186,7.698725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F00296029002%2F1877021001%2F0064.jp2/pct:5.978865,5.899178,8.189655,10.392087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2261,7 +2559,17 @@ Bemember curses some
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-irlv tried;  
+  
+In speaking of a person&#x27;s ways,  
+Pray don&#x27;t forget your own;  
+Remember those with homes of glass  
+Should seldom throw a stone.  
+If we have nothing else to do,  
+Than talk of those who win,  
+&#x27;Tis better to commence at home,  
+And from that point begin.  
+We have no right to iudge a man,  
+Until he&#x27;s fairlv tried;  
 Should we not like his company,  
 We know the world is wide.  
 Some may have faults?and who has not ?  
@@ -2281,9 +2589,12 @@ Then let us all when we begin
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-~ Ttemem uer- curaca, 
+~ Ttemem uer- curaca, oomotiiitvoo. Uln&gt; j  
+Our chickens, &quot;roost at home,&quot;  
+Don&#x27;t speak of other&#x27;s faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862762%2F1877030801%2F0240.jp2/pct:3.982843,16.265997,11.896008,7.914723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862762%2F1877030801%2F0240.jp2/pct:3.982843,12.818443,12.959559,12.456644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2297,7 +2608,12 @@ To those we little know.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-i f &#x27;Tis behottor we  
+BE CAREFUL&#x27;WHAT&#x27; YOU SAY. In speaking of  
+a pr?u is faults, Pray don&#x27;t forget your  
+own; .. iRemember, those with liomes of  
+glass Should soldom throw a stone. ,If  
+we have nothing else to do , But talk of  
+those who sin, &quot;i f &#x27;Tis behottor we  
 comnimence at home,&quot; &#x27; .And from that  
 point begin. Ye have no rgl&#x27;et to judge  
 os an , •Until he&#x27;s fairly tried ;  
@@ -2314,7 +2630,11 @@ worse than some I know, I[y own
 shortcomings bid me;let Thie faults of  
 others go. ThIen Ibt us all when we  
 commonco To slander friend or foe, Tlink  
-of thie harm one word may do To those
+of thie harm one word may do To those  
+who little know; Remember curses,  
+sometimes, like, Oar ehiclkeis, roost at  
+hdiom; &#x27;&#x27; Don&#x27;t speak of others&#x27; faults  
+until Weo have none of our own.
 </td></tr></table>
 
 ---
@@ -2325,7 +2645,13 @@ of thie harm one word may do To those
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t talk of those who in  
+  
+In rptfcking of ■ person’s faults.  
+Pray don’t forget your own;  
+Remember these with homes of glass  
+Should never throw a stone;  
+If we have else to do  
+But talk of those who in  
 &#x27;Tls better we commence at home  
 And from that point begin.  
 We have no right to judge a mu  
@@ -2348,9 +2674,12 @@ Then let us all wheu we commence
 To slander friend or foe.  
 Think of the harm one word may do  
 To those we litUs know.  
-
+Remember curse* frequently.  
+Like chickens roost at home;  
+Don&#x27;t speak of others’ faults until  
+Vou’ve tried to see your own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1877031501%2F0240.jp2/pct:40.958748,7.313976,8.342073,8.659390/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1877031501%2F0240.jp2/pct:40.875721,5.707716,8.425101,11.254119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2398,9 +2727,12 @@ To slander friend or foe,
 Think of the harm one word may do  
 To those we little know.  
   
-Remember, curses
+Remember, curses sometimes, like  
+•k Our chickens, roost at home; ”  
+Don t speak of others’faults until  
+W e have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_jefferson_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1877031801%2F0006.jp2/pct:43.619632,78.821479,10.725971,13.713765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_jefferson_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1877031801%2F0006.jp2/pct:43.599182,78.821479,10.746421,14.854269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2412,7 +2744,13 @@ Remember, curses
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t talk of those who an  
+  
+In speaking of a person’s faults,  
+Pray don’t forget your owu;  
+Remember those with homes of glass  
+Should never throw a stone;  
+If we have nothing else to do  
+But talk of those who an  
 Tie better we commence at home  
 And from that point begin.  
 We have no right to judge a man  
@@ -2435,9 +2773,12 @@ Then let us all when we commence
 To slander friend or foe.  
 Think of the harm one word may do  
 To those we little know.  
-Remember curses fre
+Remember curses frequently,  
+Like chickens roost at home;  
+Don’t speak of others’ faults until  
+You’ve tried to see your own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877032101%2F0119.jp2/pct:7.065873,8.554009,11.019141,10.188977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768795%2F1877032101%2F0119.jp2/pct:7.005518,6.734007,11.079496,13.058513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2449,7 +2790,19 @@ Remember curses fre
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- know the world is wide.  
+  
+In speaking of a person&#x27;s faults,  
+Pray don&#x27;t forget your own;  
+Remember those with homes of glass  
+Should seldom throw a stone.  
+If we have nothing else to do  
+But talk of those whb sin,  
+&#x27;Tis better we should look at home,  
+And from tha: point begin.  
+We have no right to judge amaa  
+Until he is fairly tried;  
+Should we not like his company  
+We know the world is wide.  
 Some mav have faults aad who has  
 not?  
 The old as well as young,  
@@ -2465,9 +2818,14 @@ Mr own shortcomings bid me let ,
 The faults of others go. - v  
 Then let us all, when we commence  
 To slander friend or foe, :  
-Think of the harm one w
+Think of the harm one word may do  
+To those we little know;  
+Remember that curses sometimes  
+Like onr chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+i &quot;Ife hare none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556266%2F1877032201%2F0219.jp2/pct:34.632805,83.306470,14.364283,9.935528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556266%2F1877032201%2F0219.jp2/pct:34.584277,76.951416,14.428987,19.134239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2479,7 +2837,14 @@ Think of the harm one w
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-borne,  
+  
+In speaking of another&#x27;s faults, &#x27;  
+Pray don&#x27;t t nret your own ;  
+Kern em ber tboa with homes of glass  
+Should seldom throw a stone;  
+If we nave nothing else to do.  
+Tban talk ot tbose who win,  
+&#x27;Tis better to commence at borne,  
 And from that point begin.  
 We have no right to judge a man  
 Until he&#x27;s fairly tried;  
@@ -2497,9 +2862,16 @@ And though I sometime hope to be
 No worse tban some I know.  
 My own short comings bid tan let  
 The faults of others go.  
-Then
+Then let as all, wben we begin  
+To slander friend or foe.  
+Think of tbe barm one word may do  
+To those we little know.  
+Bemember curses sometimes like  
+Our chickens &quot;rooat at borne,&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472980%2F1877032301%2F0081.jp2/pct:55.193429,15.095802,8.903021,7.486986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472980%2F1877032301%2F0081.jp2/pct:55.153683,12.936095,8.942766,12.116513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2511,7 +2883,14 @@ Then
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-alk of those who sin  
+  
+In speaking of a person&#x27;s faults,  
+Pray don&#x27;t forget your own  
+Remember those with homes of glass  
+  
+Should, never throw a stone  
+If we have nothing else to do ,,  
+Bnt talk of those who sin  
 Tis better weoommence at home  
   
 And from that point begin.  
@@ -2545,9 +2924,14 @@ Then let us all when we commence
 To slander friend or foe,  
 Tbink of the harm one word may do  
   
-To those we little kn
+To those we little know.  
+Itemember cursos frequently,  
+Like chickens roost at home  
+Bon&#x27;t speak of others&#x27; faults until  
+  
+You&#x27;ve tried to sec your own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn2001063144%2F00295876475%2F1877032801%2F0184.jp2/pct:86.857430,6.562314,9.568273,9.262177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn2001063144%2F00295876475%2F1877032801%2F0184.jp2/pct:86.857430,4.811430,9.568273,12.413769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2586,9 +2970,14 @@ My own shortcomings bid me let
 The faults of others go.  
 Then let us all, when we commence  
 To slander friend or foe,  
-Think oi the barm one wo
+Think oi the barm one word may do  
+To-’tbose we little know.  
+Remember, curses sometimes, like  
+Our,chickens, “roost at home;”  
+Don’t speak of others’ faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_frost_ver02%2Fdata%2Fsn85026214%2Fprint00211110247%2F1877040101%2F0006.jp2/pct:8.078045,4.547538,9.281546,9.386459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_frost_ver02%2Fdata%2Fsn85026214%2Fprint00211110247%2F1877040101%2F0006.jp2/pct:8.078045,4.547538,9.281546,11.013620/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2600,7 +2989,14 @@ Think oi the barm one wo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-1 is butler we commence at home.  
+  
+In speaking of pcrsou&#x27;s faults,  
+.Priy don&#x27;t forjjet your own ;  
+R^aemln&#x27;r tho*e with homes of gla«s  
+itto ul»i seldom in row a gtoue.  
+If trc Lavo nothing else to do  
+lint talk, of those who sin,  
+’1 is butler we commence at home.  
 Ami from that point begin.  
 &quot;\\ e have no right to judge a man  
 Until lie’s fairly tried;  
@@ -2628,7 +3024,7 @@ Don’t speak of other’s faults until
 W o have none of our own.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187158%2F1877040601%2F0417.jp2/pct:17.092902,8.407311,12.895790,16.546562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187158%2F1877040601%2F0417.jp2/pct:17.092902,5.054830,12.895790,19.899043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2640,7 +3036,14 @@ W o have none of our own.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
+  
+In speaking of a person&#x27;s ways,  
+Pray don&#x27;t forget your own ;  
+Remember those with homes of glass  
+Should seldom throw a stone.  
+If we have nothing else to do,  
+Then talk of those who win,  
+&#x27;Tis better to commence at home,  
 And from that point begin.  
 We have no right to judge a man,  
 Until he&#x27;s fairly tried ;  
@@ -2662,9 +3065,12 @@ Then let us all when we begin
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-Remember curses, someti
+Remember curses, sometimes like  
+Our chickens, &quot;roost at home,&quot;  
+Don&#x27;t speak of other&#x27;s faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1877041301%2F0496.jp2/pct:35.434638,20.090784,14.107498,13.094533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1877041301%2F0496.jp2/pct:35.434638,16.262088,14.107498,18.492204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2676,7 +3082,20 @@ Remember curses, someti
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-is wide.  
+  
+In sjaking of a iraon&quot;s faults  
+Prey don&#x27;t foreet vour own :  
+Pcmemher thit thoi&quot;? with hoti-s of  
+gla8  
+Should seltloni throw a stone.  
+If we have nothingelse to do  
+Uut u!b. of those that sin.  
+&#x27;Tis bet&#x27;er we should look at home.  
+And from that point l-egin.  
+We have no rixht to judge a man  
+Until he is fairly tried ;  
+Should we not like his company  
+We know the world is wide.  
 Some may have fauhs. and who has  
 notr  
 The old aa well as the voting,  
@@ -2699,7 +3118,7 @@ Like our chickeru?, &quot;roost at home.&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774996%2F1877041301%2F0292.jp2/pct:34.465534,20.231916,8.933923,9.243512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774996%2F1877041301%2F0292.jp2/pct:34.465534,15.173937,9.019552,14.301491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2714,6 +3133,16 @@ We have none of our own.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+speaking of a person&#x27;s faults, &#x27; , &quot; &#x27;.  
+Pray dorrt forgot your own ; . -Remember  
+thoso witlv homes of glass : Should  
+seldom throw a stone.,. If. we havo  
+nothing elsa tn do . 1 But talk of those  
+who ein,, , : &#x27;Tis better.we cOmmanee at  
+home, - , A»d from that point begin. ,  
+We h*ve DO right to jadee » man : Until  
+he&#x27;B fairly tried ; 8ho»!d we not like  
+his company &#x27;i. Wo know the world ia  
 wide. &#x27; : , Some, may,have faults-and  
 who havo nut tl &#x27;; The old a» wall aa  
 young ; . &#x27; Forhapa wo&#x27;may, for auglit  
@@ -2727,7 +3156,10 @@ shortcomings make me let The fault« of
 other« go. ; . Then let tis all, when we  
 commence To slander friend or foe, \
 Think of the harm ono word may do To  
-those
+those,who little know. Remember curses,  
+sometimes, liko &quot;. Our chickens, &quot; roost  
+at home.&quot; . Don&#x27;t speak of others&#x27;  
+faults until i We havo none of our own
 </td></tr></table>
 
 ---
@@ -2763,7 +3195,12 @@ hope to be No worse than some I know, .
 My own shortcomings make mo let Thc  
 faults of others go. Then let us all,  
 when we commence To slander friend or  
-foe, Think of the harm ono word
+foe, Think of the harm ono word may do  
+To those who little know. w i Remember  
+curses, somotime», like &#x27; Our  
+chickons,.&quot; roost at home. &quot; Don&#x27;t Bpcak  
+of others&#x27; faults until Wo havo none of  
+our.owit.
 </td></tr></table>
 
 ---
@@ -2774,7 +3211,12 @@ foe, Think of the harm ono word
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-of those who sin,  
+  
+Pray d?rrt forget your own;  
+Remember those with homes of glass,  
+Should seldom throw a stone.  
+If we have nothing else to do.  
+Bnt talk of those who sin,  
 &#x27;Tis better to commence at home,  
 And from that point begin.  
 We have no right to judge a man  
@@ -2797,9 +3239,13 @@ The faults of others go.
 Then let asatfWEeta we commence  
 - To slander friend or foe, &lt;?  
 Think of the hsrnrope Word may do ; &#x27;  
-To those we little knbw
+To those we little knbw. 7 ; &#x27;  
+Remember curses, sometimes,&quot; like  
+Our chickens, &#x27;&#x27;roost at home ;T&#x27;  
+Don&#x27;t speak of others&#x27;faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1877051701%2F0337.jp2/pct:2.492417,7.559327,11.741175,10.636492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1877051701%2F0337.jp2/pct:2.492417,5.893446,11.741175,13.939965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2839,9 +3285,14 @@ Itfy own shortcomings bid inc let
 TJic faults of others go.  
 Then let us all when we commence  
 To slander friend or foe,  
-Think of the harm one word
+Think of the harm one word may do  
+To those we little know.  
+llemeuil er curves, sometimes, like  
+Our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_flopeye_ver01%2Fdata%2Fsn84026918%2F00295861411%2F1877052501%2F0091.jp2/pct:7.813898,3.607156,13.619644,16.933187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_flopeye_ver01%2Fdata%2Fsn84026918%2F00295861411%2F1877052501%2F0091.jp2/pct:7.803957,3.607156,13.629585,19.861263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2853,7 +3304,14 @@ Think of the harm one word
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-se who sin, ^  
+  
+In speaking of a person&#x27;s faults, P  
+I&#x27;ray don&#x27;t forget your own; ^  
+Kotucinber those with homes of glass,  
+I]  
+Should seldom throw a stone.  
+If we hare nothing else to dolhit  
+talk of those who sin, ^  
 &#x27;Tis better to commence at home j  
 And from that point begin.  
 We have no right to Judge a man  
@@ -2877,9 +3335,13 @@ The faults of other* go.
 Then let us all when we commence t  
 To slander friend or foe, &#x27;  
 Think of the harm one word may do I1  
-To those we 
+To those we little know. P  
+ilemeuil er curves, sometimes, like  
+Our chickens, &quot;roost at home;&#x27;&#x27; J1  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_grandamericancoonhunt_ver01%2Fdata%2Fsn84026918%2F00295862087%2F1877052502%2F0080.jp2/pct:3.218919,6.593668,16.116494,15.131318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_grandamericancoonhunt_ver01%2Fdata%2Fsn84026918%2F00295862087%2F1877052502%2F0080.jp2/pct:3.191548,3.451559,16.143866,20.713322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2893,7 +3355,13 @@ To those we
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e, And from that point begin. We  
+  
+another&#x27;s faults, PrityiSbn&#x27;t forget  
+yonr own ; Bemember, those with homes of  
+glass Should rieverthroV a stone. If we  
+have nothing, else to do &#x27;% But talk of  
+thoBe who sin, &#x27;Tib better we commence  
+at home, And from that point begin. We  
 have no right to judge a man Until he&#x27;s  
 fairly tried ; Should we not like his  
 company We know the world is wide. Some  
@@ -2908,7 +3376,11 @@ And though I sometimes hope to be
 owjif bgr/comiags make me Jet. The fawts  
 of others go. Then let us all, when we  
 commence To slander friend or foe, Think  
-of the harm one word
+of the harm one word may do To those who  
+little know. Bemember, curses sometimes,  
+like Our chickens, &#x27;roost at home ;&#x27;  
+Don&#x27;t speak of others&#x27; faults until We  
+hare none of our own
 </td></tr></table>
 
 ---
@@ -2951,7 +3423,7 @@ others&#x27; faults until We have none of ou
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8?page=4)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8?page=4)
 
 #### 1877-08-01
 
@@ -3015,7 +3487,11 @@ hope to be No worse than some I know, My
 own shortcomings make me let The faults  
 of others go. Then let us all, when we  
 commence To slander friend or foe, Think  
-of the harm one word may do To those
+of the harm one word may do To those who  
+little know. Remember, curses sometimes,  
+like Our chickens, &quot;roost at home ;  
+Don&#x27;t speak of others&#x27; faults until We  
+have none of our own
 </td></tr></table>
 
 ---
@@ -3050,7 +3526,10 @@ I know, My own shortcomings make me let
 The faults of others go. Then let us  
 all, when we commence To slander friend  
 or foe, Think of the harm one word may  
-do , To those
+do , To those who little know. Remember,  
+curses sometimes, like Our chickens, &#x27;  
+roost at home Don&#x27;t speak of others&#x27;  
+faults until We- have none of our own
 </td></tr></table>
 
 ---
@@ -3061,7 +3540,15 @@ do , To those
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-om that point begii.  
+  
+In speaking of a person&#x27;s fanlts  
+Pray don&#x27;t forget your own;  
+Kemeniber those with houses of glass  
+Should seldom throw a stone;  
+If we have nothing else to do,  
+Than talk with those who win,  
+&#x27;Tis better tocommenco at home,  
+And from that point begii.  
 We have no right to judgo a man.  
 Until he s fairly tried;  
 Should we not like his company,  
@@ -3078,9 +3565,16 @@ And though 1 sometimes hope to be
 No wi ro than some lknow,  
 My own shortcomings bid me let  
 The faults of others go  
-Then let us ail w
+Then let us ail when we begin  
+To sland&#x27;T friend or foe,  
+Think of the harm one word may do  
+To those we little know.  
+Keiuembor cureos, sometimes Uke  
+Our chickens, &quot;roost at home,&quot;  
+Don&#x27;t speak of other&#x27;s faults until  
+We have tone of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1877120601%2F0198.jp2/pct:24.192872,30.502679,8.916841,7.215320/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1877120601%2F0198.jp2/pct:24.164920,28.029180,8.944794,12.116722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3120,9 +3614,14 @@ The faults of others go.
 Then let us all when wo commence.  
 To slander friend or foe,  
 Thinlrof the harm one word may do,  
-To those we li
+To those we little know;  
+Remember curses frequently,  
+Like chickens, roost at home;  
+Don&#x27;t speak of others.&#x27; faults until  
+You&#x27;ve tried to see your own.  
+.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285190%2F1878013101%2F0341.jp2/pct:39.884471,17.582201,10.330467,13.250640/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285190%2F1878013101%2F0341.jp2/pct:39.884471,17.582201,10.330467,15.465643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3134,7 +3633,20 @@ To those we li
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-m any have faults and who has not?  
+  
+In speaking of a person&#x27;s faults.  
+Pray, don&#x27;t forget your own ;  
+Remember those with house ot glass,  
+Should seldom throw a stone.  
+If we have nothing else to do  
+Bat talk of those who nn,  
+Tis bettor we should look at home,  
+A ad from that point begin.  
+We have no right to judge a man  
+Until be Is fairly tried;  
+Should we not like his company.  
+We know the world is wide.  
+Boom any have faults and who has not?  
 The old as well as you ng.  
 Perhaps, we have, lor aught we know.  
 Full Oft j to the one.  
@@ -3148,12 +3660,9 @@ My own shortcomings bid me let
 The faults of others go  
 Then let us all when we commence  
 T6 slander Mead or foe.  
-&#x27; Thinker tbaevwi  
-To those we little know : &#x27;  
-Remember that curses sometimes.  
-Like
+&#x27; Thinker tbaevw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027194%2F1878040401%2F0182.jp2/pct:26.988966,20.172028,9.857724,7.611641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027194%2F1878040401%2F0182.jp2/pct:26.988966,15.105455,9.857724,11.476376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3167,7 +3676,12 @@ Like
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-those who  
+  
+YOU SAY. Iu speaking of a person&#x27;s  
+faults, Pray don&#x27;t forget your own;  
+Remember, those with homes of&#x27;glttss  
+Should seldom-throw a stono ; If we have  
+nothing else to do But talk of those who  
 sin, &#x27;lis better we commenco at home,  
 And from that point begin. We have 110  
 right to jutlgo a man Until he&#x27;s fairly  
@@ -3180,7 +3694,15 @@ ono. I&#x27;ll tell you/of a bettor plan,
 And.orie that works full woll: I&#x27;try.my  
 own defects to euro - Before oi&#x27;others  
 tell; &quot;And.though I sometimes hope to bo  
-No worse than soni
+No worse than sonie I know, ily  
+owa.dh&#x27;Ort-&#x27;cbminga bid me let , The  
+faults of others go. I&#x27;heu let us all  
+wlieu wc commcnce To dander friend or  
+foe, Think of the harm 0110 word may do  
+To tl&#x27;ose wo little know : &quot;Boraember  
+curses, sometimes,&#x27; like -Our chickens,  
+.&quot;-&#x27;roost at home Don&#x27;t speak of others&#x27;  
+faults until T We have none of our own
 </td></tr></table>
 
 ---
@@ -3191,7 +3713,17 @@ No worse than soni
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d.  
+  
+Iu speaking of a person&#x27;s faults,  
+Pray don&#x27;t forget your own;  
+lU-member those with home of glass  
+Should seldom throw a atone.  
+If we have nothing else to do  
+Than talk of those who sin,  
+Ti better we oommenoe at home, &#x27; -  
+And from that point begin.  
+We have no right to judge a man  
+Until he&#x27;s fairly tried.  
 Should we not like his comiwuy.  
 We know the world is wide;  
 Some mav have faults, and who has not?  
@@ -3210,9 +3742,10 @@ Now let us all, when we begin
 To slander frieud or foe.  
 Think of the barm one word may do  
 To those we little know,  
-EemeniDcr. cu
+EemeniDcr. curses, chicken-liks.  
+Sometimes to roost come home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1878080701%2F0335.jp2/pct:6.588355,19.901656,9.839973,9.743789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1878080701%2F0335.jp2/pct:6.588355,15.372671,9.839973,14.751553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3244,7 +3777,20 @@ that point begin..&#x27; He generousl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ts I tell.  
+ommence at home,  
+And from that point begin.  
+We have no riirlit to judge a man  
+Until he&#x27;s fairly tried;  
+Should we not like his company,  
+We know the world is wide.  
+Some may have faults and who has  
+The old as well as younir; f not V  
+Perhaps we may. for :iurlit we know.  
+Have titty to their one.  
+I&#x27;ll tell yon of a better plan.  
+And tind it works full well.  
+To try my own defects to cure,  
+Ere other&#x27;s faults I tell.  
 And lliouirli I sometimes hope to be  
 Xo worse than some I know.  
 Mv own shortcomings bid me let  
@@ -3258,7 +3804,7 @@ Our chickens ronst at home;
 Don&#x27;t speak of other&#x27;s faults until  
 We have none of our owr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_cholla_ver01%2Fdata%2Fsn87062081%2F00202196238%2F1878091401%2F0141.jp2/pct:55.207052,23.872268,11.521115,6.758642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_cholla_ver01%2Fdata%2Fsn87062081%2F00202196238%2F1878091401%2F0141.jp2/pct:55.084051,16.803596,11.828618,13.827314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3274,7 +3820,7 @@ We have none of our owr
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10?page=16)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10?page=16)
 
 #### 1878-10-01
 
@@ -3310,7 +3856,21 @@ No worse than some I know,
   
 My own short-comings bid me let  
 The faults of others go.  
-
+  
+  
+  
+  
+  
+R54 THE SHAKER MANTFESTO.  
+  
+  
+  
+Now let us all, when we begin,  
+To slander friend or foe,  
+Think of the harm one word may do,  
+To those we little know.  
+Remember curses chicken-like,  
+Sometimes to roost, come home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10&#0036;16/pct:47.559853,53.829916,32.550645,36.761158/,600/0/default.jpg"/>
 </td>
@@ -3324,7 +3884,15 @@ The faults of others go.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-at point begin.  
+  
+In speaking of a person&#x27;s faults,  
+Pray don&#x27;t forget your ow,  
+Remember those with homes of glass,  
+8hould never throw a stone.  
+If we have nothing else to do,  
+Than talk of those who sin,  
+Yes, better we commence at home,  
+And from that point begin.  
 We have no right to Judge a wan  
 Until he&#x27;s fairly tried j  
 Should we not like his company,  
@@ -3345,9 +3913,12 @@ Then let us all, when we begin
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-Remember sometimes cur
+Remember sometimes curses, like  
+Our chickens, roost at home ;  
+Don&#x27;t speak of others faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn90069164%2F00280776828%2F1878102201%2F0778.jp2/pct:5.047956,38.231448,15.446744,14.808761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn90069164%2F00280776828%2F1878102201%2F0778.jp2/pct:5.047956,33.867277,15.446744,20.921870/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3390,9 +3961,9 @@ S To slander friend or foe,
   
 Think of tbe harm one word may do  
 . To those we little know;  
-Remember, cur
+Remember, curses, chicken-like,-Sometime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292182%2F1878112901%2F1162.jp2/pct:0.914913,54.275318,18.229643,18.708308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292182%2F1878112901%2F1162.jp2/pct:0.914913,54.275318,18.229643,19.254093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3404,7 +3975,14 @@ Remember, cur
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e,  
+  
+In sreaking of a person&#x27;s faults,  
+Pray don&#x27;t forget your own;  
+lZenember those with homes of glass  
+Should seldom throw a stouc.  
+If we have nothing else to do  
+But talk of those who sin,  
+&#x27;ris better we commence at home,  
 And from that point begin.  
 We have no right to judge a man  
 Until he&#x27;s fairly tried;  
@@ -3426,9 +4004,12 @@ Then let us all, when we commence
 Tq slandpr friend or foe,  
 Think of the harm one word may do  
 To those we liale know.  
-Remember curses, som
+Remember curses, sometimes, like  
+Our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We havei none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237287071%2F1879020501%2F0230.jp2/pct:38.523183,23.637834,11.303186,13.242429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237287071%2F1879020501%2F0230.jp2/pct:38.523183,20.406001,11.303186,17.971669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3468,9 +4049,14 @@ My own shortcomings bid me let
 The faults of others go.  
 Then let us all, when we commence  
 To slander friend or foe,  
-Think of the harm one 
+Think of the harm one word may do  
+To those we little know.  
+Remember curses, sometimes, like  
+Our chickens, &quot;roost at home  
+Don&#x27;t speak of others faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879032001%2F0229.jp2/pct:4.219135,12.224237,12.705007,11.175582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879032001%2F0229.jp2/pct:4.219135,12.224237,12.705007,13.037171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3483,6 +4069,17 @@ Think of the harm one
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+In speaking of a person&#x27;s faults,&#x27;  
+Pray don&#x27;t forjret your own; .  
+&#x27;Remember those with homes of glass .  
+Should seldom threw a stone  
+If we have nothing else to do&#x27;  
+Than talk of those who sin,  
+- Tig better we commence at home.  
+And from that point begin.  
+We have no right to jndge a man  
+Until he&#x27;s fairly tried, . ., ,  
+. Should we not like hi? company,  
 &#x27;&quot;&quot;&#x27;&quot;Wo know the world is wide;  
 , Some may have faults, and who has not?&#x27;  
 . The old as well as&#x27; the young;  
@@ -3499,9 +4096,10 @@ The faults of others go. ; &#x27;
 New let as all, when we begin  
 To slander friend or foe, , &#x27;  
 Think of the harm one word may do .  
-To those we
+To those we little know.  
+Remember curses, chioken-like
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027406%2F1879040801%2F0039.jp2/pct:41.595320,26.008345,10.231164,9.061731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027406%2F1879040801%2F0039.jp2/pct:41.595320,20.145501,10.231164,15.459506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3542,9 +4140,10 @@ Mow let ns all. when we begin
 To slander friend or foe.  
 Think of the harm one word may do ,  
 To those we little know.  
-Kemember, curses, ch
+Kemember, curses, chicken-like.  
+Sometimes to roost come borne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027670%2F00237283387%2F1879061201%2F0373.jp2/pct:7.709539,12.966252,10.546948,12.406066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027670%2F00237283387%2F1879061201%2F0373.jp2/pct:7.709539,12.966252,10.546948,12.761306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3556,7 +4155,17 @@ Kemember, curses, ch
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-irly tried;  
+  
+In speaking of a person&#x27;s faults  
+Pray don&#x27;t forget your own;  
+Remember those with homes of glass  
+Should seldom throw a stone;  
+If wo have nothing else to do  
+But talk of thosevho sin,  
+&#x27;Tis better wo commence at home.  
+And from that point begin.  
+We have no right to juoge a man,  
+Until he&#x27;s fairly tried;  
 Should wo not like his company,  
 VTe know the world is wide;  
 Some may have faults and who has not  
@@ -3573,9 +4182,14 @@ My own shortcoming bids me let
 The faults of others go.  
 Th&#x27;.h let us all, when we commence  
 To slander friend or foe.  
-Think oi the harm one word may
+Think oi the harm one word may do  
+To those we little know,  
+ltemembar curses, sometimes, liko  
+Our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faulis nutil  
+We have none of our own. Ezcharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763190%2F1879062501%2F0099.jp2/pct:49.870514,22.630429,10.895302,9.587544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763190%2F1879062501%2F0099.jp2/pct:49.778024,17.727397,12.634110,17.085496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3617,9 +4231,12 @@ Then let us all when we commence
 To slander friend or foe;  
 Think of the harm one word may do  
 To those we little know.  
-Remember curses, som
+Remember curses, sometimes, like  
+Our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879072401%2F0304.jp2/pct:2.871231,6.509924,11.611467,11.656608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879072401%2F0304.jp2/pct:2.871231,6.509924,11.611467,12.683542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3660,9 +4277,10 @@ Now let us all, when we begin
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-Rem
+Remember, curses, chicken-like,  
+Sometimes to roost conic home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_jay_ver01%2Fdata%2Fsn83025309%2F00294551864%2F1879082101%2F1506.jp2/pct:9.493945,7.671801,16.414360,21.356635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_jay_ver01%2Fdata%2Fsn83025309%2F00294551864%2F1879082101%2F1506.jp2/pct:9.493945,7.671801,16.414360,22.097156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3674,7 +4292,19 @@ Rem
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e world Is wide.  
+  
+In speaking of n person&#x27;s faults  
+Pray don&#x27;t forget your own;  
+lleiucmhur those with homes of glass  
+Should ucverthrow a stone.  
+If we havo nothing else to do  
+Hut to talk of those who sin,  
+Tls lietter we&#x27;commeiiec at home.  
+And from that point begin.  
+We Ijavo no right to Judgo o man  
+Until he&#x27;s fairly tried ;  
+.Should we not like his comiiauy  
+We know the world Is wide.  
 Some may have faults, aud who lias not?  
 The old as well as young;  
 1&#x27;erhajH wo may, for aught wo know,  
@@ -3691,9 +4321,12 @@ Then let us all, when we commence
 To slander friend or foe.  
 Think of the harm one word may do  
 To those wu little know.  
-Itemember curses, 
+Itemember curses, sometimes like  
+Our chickens &quot;roost at home.&quot;  
+Don&#x27;t speak of other&#x27;s faults until  
+Wo have none of our ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_judaspriest_ver01%2Fdata%2Fsn84037890%2F00280763597%2F1880011401%2F0291.jp2/pct:62.446281,33.010461,9.818182,6.909467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_judaspriest_ver01%2Fdata%2Fsn84037890%2F00280763597%2F1880011401%2F0291.jp2/pct:62.446281,28.916441,9.818182,11.907529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3790,9 +4423,12 @@ The faults of others go.
 To slander friend or foe,   
 Think of the harm one word may do,  
 To those we little know;   
-Tiem
+Tiemember curses sometimes, like  
+Our chickens, “roost at home  
+Don’t speak of others’ faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_norman_ver02%2Fdata%2Fsn85067225%2F0022072041A%2F1880021301%2F0004.jp2/pct:15.024038,12.367578,16.987179,21.489283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_norman_ver02%2Fdata%2Fsn85067225%2F0022072041A%2F1880021301%2F0004.jp2/pct:15.024038,12.367578,16.987179,23.638827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3833,9 +4469,13 @@ Then let us all, when we commence U
 To slander friend or foe,  
 Think of the harm one word may  
 To those we little know;  
-Remember, curses so
+Remember, curses sometimes, like  
+Our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others faults until  
+We have none of our own.  
+d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028885%2F1880021901%2F0180.jp2/pct:50.525295,6.320483,9.633102,16.496197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028885%2F1880021901%2F0180.jp2/pct:50.525295,6.320483,9.633102,18.043535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3847,7 +4487,17 @@ Remember, curses so
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l he&#x27;s fairly tried,  
+  
+In speaking of person&#x27;s faults  
+Pray don&#x27;t forget your own  
+Remember those with homes of glass  
+Should seldom throw a stone,  
+If we have nothing else to do  
+Than talk of those that sin,  
+&#x27;Tis better to commence at home,  
+And from that point begin.  
+We have no right to judge a man  
+Until he&#x27;s fairly tried,  
 Should we not like his company  
 We know the world is wide  
 Some have faultsand who has not  
@@ -3866,9 +4516,10 @@ Now let us all, when we begin
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we htle know.  
-Remember, curses, chicken
+Remember, curses, chicken-like  
+Sometimes to roost come home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_goshen_ver01%2Fdata%2Fsn83016758%2F00280767979%2F1880030301%2F0059.jp2/pct:9.175192,9.252106,11.594203,9.380863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_goshen_ver01%2Fdata%2Fsn83016758%2F00280767979%2F1880030301%2F0059.jp2/pct:9.175192,5.043593,11.594203,14.030828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3909,9 +4560,12 @@ Then let as all. when we commence
 To slander friend ot foe,  
 Think of the harm one word may do -  
 To those we little know;  
-Remember, curses 
+Remember, curses sometimes like  
+Onr chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak ot other&#x27;s faults nnUl  
+We have none of our own. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1880031101%2F0040.jp2/pct:33.445237,55.658225,9.847531,10.985626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1880031101%2F0040.jp2/pct:33.445237,55.658225,9.847531,11.966689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3925,8 +4579,7 @@ Remember, curses
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lk of thoso  
-who sin, &#x27;TiS&#x27;bettor we commence at  
+  
 home, A nil rtciliif. hncrm. Wo havo no  
 right to judge a man ^ Until he&#x27;s fairly  
 triod ; Should we not like his company,  
@@ -3942,7 +4595,11 @@ worse than some I know, My own
 shortcomings bid me lot Tile &#x27;fault&#x27;s of  
 others go. lien let us all when wo  
 commence &#x27; To slander friend or foe,  
-Think o| the harm one wo
+Think o| the harm one word may do To  
+thoso wo little know ; Remember curses,  
+sometimes, like Our chickens, &#x27; roost at  
+home Don&#x27;t speak of others&#x27; faults until  
+We have nono of our own
 </td></tr></table>
 
 ---
@@ -3953,7 +4610,12 @@ Think o| the harm one wo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- t!bi who iiu,  
+iin speaking of a person&#x27;s faults,  
+Pray don&#x27;. forget your own.  
+Iteembuler those with hopmes of glass,  
+Should noever throw a it ne;  
+If we havo nothlth else 4 do  
+But talk Of t!bi who iiu,  
 &quot;ris~etter we cominennat home,  
 And from that point begin.  
 We have no right to ,judge a man,  
@@ -3968,9 +4630,20 @@ I&#x27;ll tell yoS of a better plan,
 And lind) it works full well,  
 &#x27;IT, try our own defects to cnre,  
 Blfore of others tell.  
-Anli tho
+Anli though 1 sometimes hope to be  
+Not wolse than some I know,  
+fMy own short.comings bill ie let ht  
+The Ifaults of others go. 1  
+Then let us all. whien we leenmettce  
+To slander friend or tfe&#x27;,  
+Think of the haren one word ml ay be  
+&#x27;lTo those who little klnow :  
+Itcmemhber, et&#x27;e ses frequnitly,  
+Iike chickens, roest at home:  
+Doni&#x27;t h eps akli of ,,the;s a tlts m.il  
+,&#x27;miive &#x27;itrid to see y-utr own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gambit_ver01%2Fdata%2Fsn88064592%2F00280761862%2F1880082101%2F0504.jp2/pct:4.409449,8.394161,13.346457,9.265364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gambit_ver01%2Fdata%2Fsn88064592%2F00280761862%2F1880082101%2F0504.jp2/pct:4.409449,5.603956,15.039370,18.719096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4009,9 +4682,14 @@ My own shortcomings hid me let
 The faults of uthers go.  
 Then let ns all, when we commence  
 To slander friend or foe,  
-Think of Hie harm
+Think of Hie harm one word may do,  
+To loose we little know;  
+Remember curses sometimes, like  
+Our chickens, “roost at home;  
+Don’t speak of otlu rs&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623471%2F1880090901%2F0034.jp2/pct:18.233846,26.445067,13.708658,14.337205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623471%2F1880090901%2F0034.jp2/pct:18.233846,26.445067,13.708658,16.757887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4041,9 +4719,14 @@ My own short«*otninft»s bid mo let
 The faults of others g&gt;,  
 rhon let ns ft!!, when we cofEmoi.co  
 To slander friend or foe,  
-ilinik of the harm one wo
+ilinik of the harm one word may do.  
+To lliuje we lit (Is know ;  
+Remember curses sometimes, like  
+Our chickens, &quot;roost at home;”  
+Don&#x27;t speak of Olliers’ faults until  
+Wo bare a^ne of our ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F0041418716A%2F1880092401%2F0342.jp2/pct:55.325831,80.244958,12.815144,12.916623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F0041418716A%2F1880092401%2F0342.jp2/pct:55.325831,80.244958,12.815144,16.316475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4055,7 +4738,17 @@ ilinik of the harm one wo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-airly tried;  
+  
+In speaking of a person&#x27;s faults,  
+Pray don’t forget your own;  
+Remember those with homes of glass  
+Should never throw a stone.  
+If we have nothing else to do.  
+But talk of them who sin,  
+&#x27;Tis better ire commence at homo  
+And trom that point begin.  
+We have no right to judge a man,  
+Until lie&#x27;s fairly tried;  
 Should we not like bis company  
 We know the world is wide.  
 Somcjiiiay have faults—and who has uot ?  
@@ -4074,9 +4767,12 @@ Then let us, sir, when wc commence
 To slander friend or foe,  
 Think of ti c harm one w ord may do  
 To those we little know ;  
-Remember, curse
+Remember, curses, sometimes, like  
+Our chickens, roost at home,  
+Don&#x27;t speak of others’ faults until  
+Wo have known our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_laplata_ver01%2Fdata%2Fsn85025350%2F0041562637A%2F1880111301%2F0199.jp2/pct:18.658195,22.582735,12.454738,12.026515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_laplata_ver01%2Fdata%2Fsn85025350%2F0041562637A%2F1880111301%2F0199.jp2/pct:18.658195,17.095295,12.454738,19.213517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4115,9 +4811,14 @@ My own shortcomings bid me li t
 The faults of others go.  
 Then let us all, when we commence,  
 To slander friend or foe,  
-Think of the harm one word 
+Think of the harm one word may do  
+To those we little know ;  
+Remember that curses sometimes,-  
+Like our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_morrow_ver01%2Fdata%2Fsn86081381%2F00295869021%2F1881030801%2F0082.jp2/pct:12.438415,7.305247,16.420328,19.665157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_morrow_ver01%2Fdata%2Fsn86081381%2F00295869021%2F1881030801%2F0082.jp2/pct:12.438415,7.305247,16.420328,23.100499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4129,7 +4830,14 @@ Think of the harm one word
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ls better to commence at home  
+  
+In speaking of a person’s faults,  
+Pray don’t forget your own ;  
+Remember, those with homes of glass  
+Should never throw u stone,  
+If we have nothing else to do  
+Than talk of those who sin,  
+’Tls better to commence at home  
 And from that point begin.  
 We have no right to Judge a man  
 Until he&#x27;s fairly tried ;  
@@ -4156,7 +4864,7 @@ To slander friend or foe.
 Think of the harm one word may do  
 To those who better know
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_dearfield_ver01%2Fdata%2Fsn85067309%2F00383341061%2F1881031201%2F0051.jp2/pct:2.268996,13.884826,11.778846,12.650823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_dearfield_ver01%2Fdata%2Fsn85067309%2F00383341061%2F1881031201%2F0051.jp2/pct:2.268996,11.096892,11.778846,15.438757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4168,7 +4876,21 @@ To those who better know
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d as well as young;  
+ng of a person&#x27;s fault.*.  
+Pray iloa&#x27;t forget your own;  
+Remember, those with homes of glass  
+Should never throw a stone.  
+If we have nothing else to ilo  
+Than talk ot those who sin,  
+&#x27;Tis better to commence at home,  
+Aud from that poiut begin.  
+We have uo right to judge a man  
+Until he&#x27;s fairly tried ?  
+Should ue not like his company,  
+We know the world is wide.  
+I  
+Some may have faults (who lias not?)  
+The old as well as young;  
 Perhaps we may, for all we know,  
 llaye fifty to their one.  
 I&#x27;ll tell you of a better plan ?  
@@ -4188,7 +4910,7 @@ Our chickens, &quot;roost at home;&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We have none of onr own. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F0027176781A%2F1881032601%2F0463.jp2/pct:69.754999,17.203360,12.404956,10.257159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F0027176781A%2F1881032601%2F0463.jp2/pct:69.689289,10.039887,12.991646,17.420631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4200,7 +4922,17 @@ We have none of onr own.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-fairly tried,  
+  
+In sjioiking of : ill n&quot;tifault*  
+Pray ilun&#x27;t turgrt your own;  
+Heinumber thou; with homes of g&#x27;.a.--  
+.Should H*Moin throw a stone.  
+If we have nothing el.-e to ,h&gt;  
+Thun in talk ot those that sin  
+Tis better wo commence at home  
+Ami from that point begin.  
+We have no right to judge a man  
+Until he&#x27;s fairly tried,  
 Should we not like his company  
 We know the vvoild is wide  
 Borne may have faults, and who has not  
@@ -4219,9 +4951,10 @@ Now let us all. when we begin
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-Remember curses, chick
+Remember curses, chicken like,  
+Sometime to roost come home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768825%2F1881033101%2F0955.jp2/pct:10.947892,9.831339,13.564277,10.850031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768825%2F1881033101%2F0955.jp2/pct:10.947892,4.901254,13.564277,16.207775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4233,7 +4966,17 @@ Remember curses, chick
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ly tried.  
+  
+&quot;lit cpcHklnir of persona&#x27; fault.  
+1thv don&#x27;t forget your own:  
+llemember, those with home of  
+Should seldom throw a stone,  
+if we hHvc nothing olsc to do  
+Than talk of thorn who Bin,  
+Tin M&quot;ttT to commence at home,  
+And from that point begin,  
+&#x27;We have no riirht to Judge a man  
+Until he&#x27;s fairly tried.  
 Should wc not like his company.  
 We know tho world is wide,  
 Sunn may have fuults but who has not?  
@@ -4252,9 +4995,12 @@ The faultaof others go.
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-Remember curses somet
+Remember curses sometimes, like  
+Our chickens roost at home!  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_elk_ver01%2Fdata%2Fsn90051703%2F00296024831%2F1881070601%2F0192.jp2/pct:11.899932,20.142714,10.987153,10.590886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_elk_ver01%2Fdata%2Fsn90051703%2F00296024831%2F1881070601%2F0192.jp2/pct:11.798513,15.335503,11.088573,16.912869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4276,7 +5022,17 @@ Remember curses somet
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-airly tried;  
+  
+In speaking of a person&#x27;s faults,  
+Pray don&#x27;t forget your own;  
+Remember those with homes of glass  
+Should seldom throw a stone.  
+If we have nothing else to do  
+Than talk of those who sin,  
+&#x27;Tls better we commence at home.  
+And fi om that point begin.  
+We have no right to Judge a man  
+Until he&#x27;s fairly tried;  
 Should we not like his company.  
 We know the world Is wide.  
 Some may have faults, and who has not T  
@@ -4295,9 +5051,10 @@ Now let us all, when we begin
 To slander friend and foe.  
 Think of the harm one word may do  
 To those we little know ;  
-Remember curses, chi
+Remember curses, chicken-like,  
+Sometimes to roost come home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762234%2F1882031401%2F0052.jp2/pct:28.019169,38.862459,9.488818,8.451764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762234%2F1882031401%2F0052.jp2/pct:27.963259,34.978321,9.544728,12.748404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4323,9 +5080,11 @@ Until he&#x27;s fairly tried;
 Should we not like his company,  
 We know the world is wide. &quot;  
 Some mav have faults and who has none,  
-The old 
+The old as well as young?  
+We may perhaps, for aught we know,  
+Hae fifty to their one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556813%2F1882032301%2F0092.jp2/pct:21.354527,16.964844,13.234278,6.255474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556813%2F1882032301%2F0092.jp2/pct:21.319972,16.964844,13.268832,7.243838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4337,7 +5096,15 @@ The old
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- from that point begin.  
+  
+In speaking of a person&#x27;s fanlts.  
+Pray don&#x27;t forget your own;  
+IRenme.,~eri those with homes of gl.ss  
+S1:onl- seldoim throw a stune.  
+If we have nothing else to di  
+Than talk of those who sin,  
+&#x27;Tis better to e-quntenee at home,  
+And from that point begin.  
 We have no &#x27;ight to judge a man  
 Until he&#x27;s fiurly tried;  
 Should we not like his compaPy,  
@@ -4358,9 +5125,12 @@ Then,let us all, when we beg,
 To slander friend or foe,  
 Think of the harm th.t one may do  
 To those whom we little know.  
-Remember-curses, 
+Remember-curses, sometimes, like  
+Our chickens--&#x27;r.ost at home;&quot;  
+Don&#x27;t speak of ocher&#x27;s faults until  
+We have none of o.q own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_hayes_ver01%2Fdata%2Fsn82015387%2F00200299097%2F1882081901%2F0789.jp2/pct:58.791449,22.534208,16.055846,15.564424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_hayes_ver01%2Fdata%2Fsn82015387%2F00200299097%2F1882081901%2F0789.jp2/pct:58.791449,17.759407,16.055846,22.391676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4375,6 +5145,15 @@ Remember-curses,
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+WHAT YOU SAY. ;.;In speaking of a  
+person&#x27;s faults, ■ &#x27; Pray don&#x27;t forget  
+your own ; Remember, those with homes of  
+glass * v- ; Should seldom throw a  
+stone; • } If we have nothing else to do  
+, y But talk of those who sin, , t&#x27; j  
+&#x27;Tis batter we commence at home, i And  
+from that point begin. . &quot; , &#x27; We.have  
+no right to judge a man Until he&#x27;s  
 fairly tried ; . , ■ ■■ .» &#x27;&quot; Should we  
 not like his company, . ; ** , We know  
 the world is wide; &lt;*• .Some may have  
@@ -4386,7 +5165,15 @@ And one that works lull well fx I try my
 own defects to cure &#x27; , &#x27; Before of  
 others tell And though I sometimes hope  
 to be , i .O :L&#x27;.No worse than&#x27; some I  
-know, • - ■ &#x27; ^&#x27; My o&gt;vn shortcoming
+know, • - ■ &#x27; ^&#x27; My o&gt;vn shortcomings  
+bid me let * The faults of others go.  
+^fjiien let us^l.when we commence .i U 1  
+To slander friend or foe,. Think of the  
+harm one word may do . , To; those we  
+little know ; &#x27; J f&quot; Remember curses,  
+sometimes, like &#x27; Our chickens, &quot; roost  
+at home Don&#x27;t speak of others&#x27; faults  
+until • &quot; We have &quot;none of our own
 </td></tr></table>
 
 ---
@@ -4397,7 +5184,14 @@ know, • - ■ &#x27; ^&#x27; My o&gt;vn shortcoming
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
+  
+In speaking of a person&#x27;s faults  
+Pray don&#x27;t forget your own ;  
+Remember those with homes of glass  
+Should seldom throw a stone ; 4  
+If we have nothing else to do  
+Than talk of those who sin,  
+&#x27;Tis better to commence at home,  
 And from that point begin.  
 We have no right to judge a man  
 Until he&#x27;s fairly tried ;  
@@ -4419,9 +5213,12 @@ Then let us all, when we begin
 To slander friend or foe,  
 . . . Think of the harm one word may Co  
 To those we little know.  
-Remember curses,
+Remember curses, sometimes, like  
+Our chickens &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults, until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194400%2F1883110501%2F0604.jp2/pct:38.133082,16.593929,9.469289,9.368635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194400%2F1883110501%2F0604.jp2/pct:38.133082,13.781399,9.469289,13.344971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4461,9 +5258,13 @@ The faults of others go.
 Then&#x27;let us all, when we commence  
 To slander friend or foe.  
 Think of the harm one word may do.  
-To those we litt
+To those we little know;  
+Remember that curses sometimes,  
+Like our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of another&#x27;s faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762246%2F1883112701%2F0205.jp2/pct:5.913359,6.958434,9.611267,12.303965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762246%2F1883112701%2F0205.jp2/pct:5.913359,6.958434,9.611267,13.974245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4475,7 +5276,17 @@ To those we litt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- fairly tried;  
+  
+In speaking of a person&#x27;s faults,  
+Pray don&#x27;t forget your own;  
+Remember those in houses of glass,  
+Should never throw a stone.  
+If we had nothing else to do,  
+But talk of those who sin,  
+&#x27;is better we commence at home,  
+And from that point begin.  
+We have no right to judge a man,  
+Until he&#x27;s fairly tried;  
 Should we not like his company,  
 We know the world is wide.  
 Some may have faults,and who has not?  
@@ -4493,9 +5304,13 @@ The faults of others go. ,
 ThlIeI let us all, whei we comin ce  
 To slander friend or foe,  
 Thiik of the hat in one word may do,  
-To those we littl
+To those we little know;  
+Bemember C. rses sometimes, like  
+Our clickens, &quot;rwost at home.&quot;  
+Dout speak of others&#x27; faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_ettabaker_ver02%2Fdata%2Fsn93067656%2F00237288208%2F1884021501%2F0110.jp2/pct:7.677577,18.879325,22.812210,21.613632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_ettabaker_ver02%2Fdata%2Fsn93067656%2F00237288208%2F1884021501%2F0110.jp2/pct:7.660167,8.715875,22.829619,36.071987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4507,7 +5322,17 @@ To those we littl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ly tried ;  
+  
+In speaking of a person&#x27;s faults.  
+Pray don’t forget your own ;  
+Remember, those with homes of glass  
+Should seldom throw a stone.  
+If we have nothing else to do  
+Dut talk of those who sin,  
+’&#x27;Fla better we commence at home.  
+And from that point begin.  
+We have no right to judge a man.  
+Until he’s fairly tried ;  
 Should wo not like hia company.  
 We know tho world is wide.  
 Some may have faults, and who has not ?  
@@ -4524,9 +5349,14 @@ My own shortcomings bid me let
 The faults of others go.  
 Then lot us all, when wo commence  
 To slander friend or foe.  
-Think of the harm one w
+Think of the harm one word may do  
+To those wo little know.  
+Remember, curses sound hues, like  
+Our chickens, “roost at home  
+Don’t speak of others* faults until  
+Wo have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625534%2F1884022201%2F0033.jp2/pct:17.610980,9.781517,9.058546,6.267096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625534%2F1884022201%2F0033.jp2/pct:17.589535,6.623732,9.079991,11.059174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4556,9 +5386,12 @@ Should we not like Ills company.
   
 We know.the world I? wide.  
 some may have faults—and who has none  
-The
+The old as well as youus?  
+We may iierhaps, for ought we know.  
+  
+Have iifty to their one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740839%2F1884031401%2F0205.jp2/pct:16.652622,6.118757,10.187266,6.842367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740839%2F1884031401%2F0205.jp2/pct:16.652622,6.118757,10.187266,7.785897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4570,7 +5403,14 @@ The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-TU ltelter we should look at home,  
+  
+••In speaking of a person&#x27;s faults  
+Pray don&#x27;t forget your own;  
+Remember those with bonus- o! glass  
+Should seldom throw a stone.  
+&quot;If we have nothing else to do  
+Hut talk of those who sin  
+&#x27;TU ltelter we should look at home,  
 And from that point begin.  
 &quot;We have no right to judge a man  
 Until he&#x27;s fairlv tried;  
@@ -4597,7 +5437,7 @@ Our chick .-ns &#x27;roost at home,&#x27;
 Don&#x27;t speak of others faults until  
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_indigobunting_ver02%2Fdata%2Fsn85053040%2F00295860455%2F1884040501%2F0023.jp2/pct:10.466989,13.025088,12.640902,14.848308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_indigobunting_ver02%2Fdata%2Fsn85053040%2F00295860455%2F1884040501%2F0023.jp2/pct:10.466989,9.743291,12.640902,18.130105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4609,7 +5449,19 @@ We have none of our own.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-irly tried  
+  
+In speaking of a person&#x27;s faults.  
+Pray uonTt forget your own  
+Remember those la house* glass  
+  
+Should never throw a stone.  
+If we have nothing else to do  
+But talk of those who sin,  
+&#x27;Pis better we commence at home,  
+  
+And from that point begin.  
+We have no right to Judge a man  
+Until he&#x27;s fairly tried  
 Should we not like his company.  
   
 We know the world is wide.  
@@ -4631,9 +5483,16 @@ My own shortcomings bid me let
 The faults of others go.  
 Then let us all, when we commenoe  
 To slander friend or foe.  
-Think of the haim one word may
+Think of the haim one word may do  
+  
+To those we little know.  
+Bember curses, sometimes, like  
+Our ohiokens, &quot;roost at home  
+Don&#x27;t speak of others* faults until  
+  
+We have uone of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_avenger_ver01%2Fdata%2Fsn91099608%2F00415665404%2F1884041901%2F0164.jp2/pct:33.851259,17.450068,10.944907,7.058635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_avenger_ver01%2Fdata%2Fsn91099608%2F00415665404%2F1884041901%2F0164.jp2/pct:33.840725,14.041068,10.955441,12.204219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4676,9 +5535,16 @@ My own shortcomings bid me let
 The faults of others go.  
 Then lef us all, when we commehce  
 To slander friend or foe,  
-Think of
+Think of the harm one word may do  
+  
+To those we little know.  
+Remember curses, sometimes like  
+Our chickens, &quot;roost at home  
+Don&#x27;t speak of others&#x27; faults until  
+  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_bowbells_ver01%2Fdata%2Fsn84024779%2F00295863699%2F1884050201%2F0030.jp2/pct:18.403917,15.460998,10.637388,10.739891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_bowbells_ver01%2Fdata%2Fsn84024779%2F00295863699%2F1884050201%2F0030.jp2/pct:18.403917,15.460998,10.637388,12.474907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4725,9 +5591,14 @@ And though I sumetimes hoo to be
 No worse than some I know  
 Mv own short cuuing bid me let  
 The faults of other go.  
-Now, let ua a
+Now, let ua all, when we begin  
+To slander friend or foe,  
+Think of the harm one word may fo  
+To those we little know ;  
+Remember, curses chickeu-like,  
+Sometime to roost come home 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eiffel_ver02%2Fdata%2Fsn83016925%2F00295878769%2F1884051401%2F0650.jp2/pct:86.657937,5.613481,8.962607,9.657715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eiffel_ver02%2Fdata%2Fsn83016925%2F00295878769%2F1884051401%2F0650.jp2/pct:86.585188,5.613481,9.035356,11.490258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4768,9 +5639,12 @@ Then let us all when w e commence
 To slander friend or fee.  
 Think of the harm one may do  
 To those we little know.  
-Kemember curses, sometim
+Kemember curses, sometimes, like  
+Onr chickens, “roost at home;’’  
+l&gt;on&#x27;t speak of others&#x27; faults until  
+Wo have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_lucretia_ver01%2Fdata%2Fsn86086852%2F00271768916%2F1885021301%2F0522.jp2/pct:16.817216,61.722071,8.076514,12.635786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_lucretia_ver01%2Fdata%2Fsn86086852%2F00271768916%2F1885021301%2F0522.jp2/pct:16.817216,61.722071,8.076514,13.867393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4811,9 +5685,12 @@ Then let as all when we commence
 To slander friend or foe,  
 Think of the harm-one word may do  
 To thoso we little know;  
-Remember curses some
+Remember curses sometimes, like  
+Our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023024%2F1886012901%2F0433.jp2/pct:29.431117,15.536784,12.583962,15.889649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020714%2F00296023024%2F1886012901%2F0433.jp2/pct:29.431117,15.536784,12.583962,17.375962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4867,9 +5744,21 @@ Ao worse than some I know
   
 My own abort comings bid me let  
   
-Tbe faults of others go.
+Tbe faults of others go.  
+  
+Xow, let na all, when we begin  
+  
+To slander friend or foe,  
+  
+Think of the barm ono word may do  
+  
+To those we little know ;  
+  
+Remember curses, chicken-like,  
+  
+Sometimes to roost eome borne 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878812%2F1886050701%2F0265.jp2/pct:49.094203,8.580712,12.077295,13.661202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878812%2F1886050701%2F0265.jp2/pct:49.013688,8.580712,12.157810,17.190961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4935,9 +5824,28 @@ TK)
 Then let  
 all, when we commence  
 To slander friend or foe,  
-Think of the I
+Think of the Iu  
+87  
+50  
+(X)  
+00  
+75  
+î word may do.  
+To those we little know ;  
+Remember  
+*» sometimes, like  
+Our chickens, &quot;roost at home  
+Don&#x27;t speak of others&#x27; faults until  
+19  
+i r &gt;  
+58  
+25  
+75  
+one of  
+vn.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn88053022%2F00271765216%2F1886051501%2F0072.jp2/pct:16.607774,54.628988,12.058304,16.314147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn88053022%2F00271765216%2F1886051501%2F0072.jp2/pct:16.607774,54.628988,12.058304,26.334951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4984,9 +5892,10 @@ Now let us all, when we begin
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-R
+Remember curses, chicken-like  
+Sometimes to roost come home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-02-14_18_7&#0036;5/pct:11.799065,10.372575,9.988318,13.921958/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-02-14_18_7&#0036;5/pct:11.799065,10.372575,9.988318,14.373898/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5025,9 +5934,14 @@ My own sb rl-eointngs bid me let
 The faults of others go.  
 Then let u* nil, when we commence  
 To slander friend or f»e,  
-Think of the harm one may d
+Think of the harm one may do  
+T those who little know.  
+IteineinlHT curses, sometimes, like  
+Our chickens, “roost at home;&quot;  
+Don’t speak of others’ faults until  
+We have none of our own. —Ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_caddoa_ver02%2Fdata%2Fsn86063206%2F00383341012%2F1888011001%2F0641.jp2/pct:32.107125,5.938198,11.414104,16.115972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_caddoa_ver02%2Fdata%2Fsn86063206%2F00383341012%2F1888011001%2F0641.jp2/pct:32.107125,5.938198,11.414104,19.019918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5078,9 +5992,12 @@ Then let us all, when we commence
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know;  
-Remember, curses so
+Remember, curses sometimes, like  
+Our chickens, &#x27;&quot;roost at home &quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_elk_ver01%2Fdata%2Fsn91068084%2F00296023206%2F1889041901%2F0112.jp2/pct:23.447256,33.304404,17.285573,17.433283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_elk_ver01%2Fdata%2Fsn91068084%2F00296023206%2F1889041901%2F0112.jp2/pct:23.447256,33.304404,17.285573,19.049685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5099,10 +6016,9 @@ But talk of those who sin,
 ’Tis better we commence at home,  
 And at that point begin.  
 * Some may have faults—and who has none?—  
-The old as well as young,  
-We may perhaps, for aught we know
+The old as well as young
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1889-05-09_81_19&#0036;1/pct:45.020747,23.511478,22.302905,5.810617/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1889-05-09_81_19&#0036;1/pct:45.020747,23.511478,22.302905,5.003587/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5170,7 +6086,14 @@ We have none of our own
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
+  
+In speaking of a person’s faults,  
+l‘ray don’t forget your own;  
+Remember, those in homes of glass  
+Should seldom throw a stone.  
+If we have nothing else to do  
+But talk of those wlto sin.  
+’I is better we commence at home,  
 And from that point begin.  
 We have no right to judge a man  
 Until he’s fairly tried;  
@@ -5192,9 +6115,12 @@ Then let us all, when we commence
 standcr fiiend or foe,  
 Think of the harm one word may do  
 I o those we little know.  
-Remember curses somet
+Remember curses sometimes, like  
+Our chickens, “roost at home.”  
+JJon’t speak of others’ faults until  
+W e have uonc of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_halfwayrock_ver01%2Fdata%2Fsn83016025%2F00414210910%2F1889101701%2F0405.jp2/pct:4.036136,26.663487,8.411045,7.432030/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_halfwayrock_ver01%2Fdata%2Fsn83016025%2F00414210910%2F1889101701%2F0405.jp2/pct:4.036136,24.517052,8.411045,10.401264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5206,7 +6132,18 @@ Remember curses somet
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-fairly tried;  
+  
+In speaking of a person’s faults  
+Pray, don’t forget your own,  
+Remember those with homes of glass  
+Should seldom throw a stone;  
+If we have nothing else to do  
+Than talk of those who sin  
+Tis better that we look at home,  
+And from that point begin.  
+  
+We have no right to judge a man  
+Until he’s fairly tried;  
 Should we not like his company  
 We know the world is wide.  
 Some may have faults, and who has not?  
@@ -5230,9 +6167,9 @@ Then let us all, when we begin
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know;  
-Remember curses, chi
+Remember curses, chicken-like
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1889-10-24_81_43&#0036;5/pct:15.663900,18.692764,17.738589,14.760280/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1889-10-24_81_43&#0036;5/pct:15.663900,11.887233,17.738589,21.565811/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5244,7 +6181,21 @@ Remember curses, chi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-se who sin,  
+  
+i®  
+la speaking of a persons faults,  
+Pray don&#x27;t forget your own  
+  
+&quot;&quot;JWV  
+V»  
+  
+1  
+  
+Remember, those -with homes of glass,  
+Should seldom throw a stone. y,  
+If fwe have nothing else to do,  
+  
+But talk of chose who sin,  
 &quot;•Tia better we commence at home,&#x27;  
 And from that point begin.  
 We have no right to judge a man  
@@ -5279,7 +6230,7 @@ JDoat spoak of others&#x27; faults uutil
   
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_betelgeuse_ver01%2Fdata%2Fsn90059959%2F00271742812%2F1889110201%2F0119.jp2/pct:8.488166,11.358274,12.386576,14.368049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_betelgeuse_ver01%2Fdata%2Fsn90059959%2F00271742812%2F1889110201%2F0119.jp2/pct:7.321523,7.987867,13.553219,17.738456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5340,7 +6291,7 @@ We have none of our own. Si
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+BE CAREFUL WHAT YOU SAY. Ix speaking of  
 a person&#x27;s faults Pray don&#x27;t forget your  
 own; Rememler those with homes of glass  
 Should seldom throw a stone. If we have  
@@ -5361,7 +6312,10 @@ some I know, lMy own slortcomings bid me
 let The faults of others go. Then let us  
 all, when we commence To slander friend  
 or foe, Think of the harm one word may  
-do To those
+do To those who little know, Remember  
+curses, sometimes, like Our chickens &quot;  
+roost at home;&quot; Don&#x27;t speak of others&#x27;  
+faults until We have dons of oue own.
 </td></tr></table>
 
 ---
@@ -5398,7 +6352,8 @@ foe, &quot; , Think of the lmrm one word may
 do To those who little kno,? -- --&#x27;----,  
 Reemember cursmes; sometimes, likeOur  
 clhickens &quot;roost at home;&quot; Don&#x27;t speak  
-of others&#x27; faults until TWe bave none o
+of others&#x27; faults until TWe bave none of  
+our own. .. . ..:.
 </td></tr></table>
 
 ---
@@ -5432,7 +6387,12 @@ hope some timo to be No worse than some
 I know, My own shortpomnipgsbid 14 ia lt  
 The faults of others go, Then lot us  
 all,, when we commence To slander friend  
-or foe, Think of the harm one word may
+or foe, Think of the harm one word may  
+do &#x27; To those who little know, Remlember  
+curses, sometimes, like Onr chickens  
+&quot;roost at home;&quot; &#x27;Don&#x27;t spealihof  
+others&#x27; faults until oWe ha~ aoneo of ur  
+O9wn.?;&#x27;_,: &quot; : 
 </td></tr></table>
 
 ---
@@ -5445,7 +6405,13 @@ or foe, Think of the harm one word may
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d from that point begin. We  
+  
+of a person&#x27;s faults Pray don t forget  
+your own; Remember those with homes of  
+glass Should seldom throw a stone. If we  
+have nothing else to do · lBut talk of  
+those who sin, Tis hetter we should look  
+at homeo And from that point begin. We  
 have no right to judge a man Until he&#x27;s  
 fairlv tried ; Should we not like his  
 company We know the world is wide. Some  
@@ -5462,7 +6428,9 @@ faults of ethers go. Then let ius all,
 when we commence To slander friend or  
 foe, &#x27;hmipk Ff the harm opp word m i do  
 To those w ;hlittla know, -Rlememhber  
-cu
+curses, sometimes, like . Our chickens &#x27;  
+rio~?t at home;&quot; Don&#x27;t speak of othe;s&#x27;  
+f?,lta until We havIo noise fe ar on
 </td></tr></table>
 
 ---
@@ -5475,7 +6443,7 @@ cu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+BE CAREFUL WHAT YOU SAY. IN speaking of  
 a person&#x27;s faults Pray don&#x27;t forget your  
 own; Remember those with homes of glass  
 Should seldom throw a stone. If we have  
@@ -5499,7 +6467,7 @@ or foe, Think of the harm one word may
 do To those who little know,. Remember  
 curses, sometimnes, like Our chickens  
 &quot;roost at home;&quot; Don&#x27;t speak of others&#x27;  
-faults until We have none of oun o .w
+faults until We have none of oun o .wn
 </td></tr></table>
 
 ---
@@ -5512,7 +6480,7 @@ faults until We have none of oun o .w
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+BE CAREFUL WHAT YOU SAY. In speaking 0f  
 a person&#x27;s faults Pray dorft forget your  
 own; Remember those with homes of glass  
 Should seldom throw a stone. If we have  
@@ -5533,7 +6501,10 @@ some I know, My own shortcomings bid me
 let The faults of others go. Then let us  
 all, when we commence To slander friend  
 or foe, Think of the harm one word may  
-do To those
+do To those who little know, Remember  
+curses, sometimes, like Our chickens &quot;  
+Toost at home Don&#x27;t speak of others&#x27;  
+faults until We have none of our own. *
 </td></tr></table>
 
 ---
@@ -5546,7 +6517,7 @@ do To those
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+BE CAREFUL WHAT YOU SAY. In speaking of  
 a person&#x27;s faults Pray dorft forget your  
 own; Remember those with homes of glass  
 Should seldom throw a stone. If -we have  
@@ -5567,7 +6538,11 @@ than gome I know, My own shortcomings
 bid me let The faults of others go. Then  
 let us all, ■when &quot;we commence To  
 slander friend or foe, Think of the harm  
-one word may do To those
+one word may do To those who little  
+know, Remember curses, sometimes, like  
+Our cli jckens &quot; roost at home;&quot; Don&#x27;t  
+speak of others&#x27; faults until We hare  
+sons of ova ova.
 </td></tr></table>
 
 ---
@@ -5607,9 +6582,12 @@ Then let us all when we commence
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-
+Remember curses sometimes, like  
+Our chickens, roost at home.  
+Don&#x27;t speak of other&#x27;s faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073907%2F00416156724%2F1890080701%2F0364.jp2/pct:14.913745,13.929229,12.534780,17.457558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073907%2F00416156724%2F1890080701%2F0364.jp2/pct:14.913745,13.929229,12.534780,19.196155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5645,7 +6623,10 @@ I know, My own shortcomings bid me let
 The faults of others go. Then let no  
 all, when we commenos To slander friend  
 or foe, Think of the harm one word may  
-do To those
+do To those who little know, Remember  
+curses, somelimes, like Our chickens  
+&quot;roost at home;&quot; Don&#x27;t speak of others&#x27;  
+faults until We have none of our own
 </td></tr></table>
 
 ---
@@ -5658,7 +6639,13 @@ do To those
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rom  
+  
+Say. In epeaking ot a pereon&#x27;a faults -  
+i Pray don&#x27;t forget yonr own ; Bemember  
+those with homes of glass Should seldom  
+throw s stone. It we hare- nothing efee  
+to do&#x27; Bnt talk of those who a in. &#x27;TiB  
+bettex we ahoold look at home, And from  
 tbat point begin. We hare no right to  
 judge a man Until he&#x27;s fairly tried ; v  
 -Should we not like his company We know  
@@ -5674,7 +6661,11 @@ eome 1 know, My own ehortcominge bid me
 let The fanlta of othere go. Then let oa  
 all, when we commenoe To slander friend  
 or foe, &#x27; Think of the harm onff word  
-may do To
+may do To those who little know,  
+Remember corseB, sometimes, like -Onr  
+ehickena &#x27; rooet at home ;&#x27; Don&#x27;t Bpoak  
+of others&#x27; fanlte until ? We haye none  
+of onr own
 </td></tr></table>
 
 ---
@@ -5685,7 +6676,13 @@ may do To
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-k of those that sin  
+  
+In speaking of a person&#x27;s faults  
+Pray don’t forget your own ;  
+Remember those with homes of glass  
+Should seldom throw a stone.  
+If wc have nothing else to do  
+But talk of those that sin  
 &#x27;Tis heller wc commence at home  
 Aud from that point begin.  
 We have no right to judge a man  
@@ -5704,9 +6701,16 @@ And though 1 sometimes hope to be
 No more than some I know,  
 My own shortcomings bid me h I  
 The faults of othe is go.  
-Then let us nil, w
+Then let us nil, when we l omnunce  
+To slander friend or foe,  
+Think of the harm one word would do  
+To those we little know.  
+H&#x27;-membcr curses some!imes, like  
+Our chickens, “roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+You have u &#x27;He of your own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623446%2F1890112001%2F0371.jp2/pct:45.066847,32.306527,11.536075,11.968186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623446%2F1890112001%2F0371.jp2/pct:45.038642,29.465977,11.564280,18.865463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5720,7 +6724,13 @@ Then let us nil, w
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-And from  
+  
+Say. In speaking of a pereon&#x27;s faults  
+Pray don&#x27;t forget your own; Kemember  
+those with homes of glass Should seldom  
+throw a stone. If we have nothing else  
+io do But talk of those who Bin, &#x27;Tie  
+belter we Ehould look at home, And from  
 that point begin. We have no right to  
 judge a man Until he&#x27;s fairly tried;  
 Snould we not like his company We know  
@@ -5736,7 +6746,10 @@ hope some time to bo No worse than some
 The faults of otherB go. Then let us  
 all, when we eommenoa To Blander friend  
 or foe, Think of the harm one word may  
-do To
+do To those who little know, . Remember  
+ouraes, sometimes, like; Our chickens  
+&quot;roost at home Don&#x27;t speak of others&#x27;  
+faults until We have none of our own
 </td></tr></table>
 
 ---
@@ -5747,7 +6760,15 @@ do To
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n, &gt;  
+  
+In speaking of a person&#x27;s tnulU,  
+Pray don&#x27;t forget your own;  
+Remember, tbose with homes of glass  
+Should neldom throw a atone;  
+if we have nothing elite to do  
+But talk of those that aln.  
+&#x27;Tla belter to commence at borne,  
+And froin that point begin, &gt;  
 We bave no right toJadge a man ,  
 Uatll he In fairly tried,  
 Should we not like his company.  
@@ -5774,7 +6795,7 @@ Ouf chickens, &#x27;&#x27;roost at borne;&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We bave none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287290%2F1890122401%2F0032.jp2/pct:81.561680,6.704936,14.393939,10.875508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287290%2F1890122401%2F0032.jp2/pct:81.561680,3.846454,14.393939,13.733989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5817,9 +6838,13 @@ The faults of others go.
 Then let us all when we commence  
 To slander friend or foe.  
 Think of the harm one word would do  
-To those we lit
+To those we little know;  
+Remember, curses sometimes, like  
+Our chickens, “roost at home:”  
+Don’t speak of others faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1891010101%2F0003.jp2/pct:22.517436,24.813559,12.288276,18.106215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1891010101%2F0003.jp2/pct:22.517436,24.813559,12.288276,20.601130/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5831,7 +6856,15 @@ To those we lit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-om that point begin.  
+  
+In speaking of a person&#x27;s faults,  
+Pray don&#x27;t forget your own ;  
+Remember, those with homes of glass  
+Should seldom throw a stone ;  
+If we have nothing else to do  
+But talk of those that sin,  
+&#x27;Tis better to commenoe at home,  
+And from that point begin.  
 We have no right to judge a man  
 Until he is fairly tried,  
 Should we not like his company,  
@@ -5857,7 +6890,7 @@ Our chickens, &quot;roost at home
 Don&#x27;t speak of others&#x27; faults until  
 We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1891020401%2F0032.jp2/pct:37.676609,7.089369,10.598559,9.387920/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1891020401%2F0032.jp2/pct:37.676609,4.715645,10.598559,11.761645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5869,7 +6902,14 @@ We have none of our own
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e,  
+  
+Iu speaking of a person&#x27;s fault,  
+Pray don&#x27;t forget youi own ;  
+Remember, those with homes of glass  
+SliouM seldom throw a stone.  
+If we bad nothing else t do  
+But talk of those who sin.  
+Tin better we commence at home,  
 And from that point begin.  
 We have uo right to judge a man  
 Until he&#x27;s fairly tried;  
@@ -5888,7 +6928,7 @@ Our chickens, &quot;roost at home.&quot;
 Pou&#x27;t speak of other&#x27;s faults until  
 We have none ot our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F0020219641A%2F1891041301%2F0269.jp2/pct:7.724812,7.135969,9.256569,7.444552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F0020219641A%2F1891041301%2F0269.jp2/pct:7.724812,4.783028,9.256569,9.797493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5968,9 +7008,14 @@ The faults of others go.
   
 Then let us all when we commence  
 To slander friend or foe.  
-Think of the harm one wor
+Think of the harm one word would do  
+To those we little know;  
+Remember, curses sometimes like  
+Our chickens “roost at home;”  
+Don’t speak of others faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1891052101%2F0083.jp2/pct:23.535924,25.324294,12.238459,13.496045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1891052101%2F0083.jp2/pct:23.535924,25.324294,12.238459,15.846328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5997,9 +7042,13 @@ Should we not like his company,
 We know the world is wide.  
   
 Some may have faults nnd who have not?  
-1 he o
+1 he old as well as yotinir:  
+Perhaps we mil v, for atisht we know,  
+Have fifty to their one.  
+Then let us all. when we commence  
+To slander friend or foe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn97067613%2F00202197309%2F1891052801%2F0074.jp2/pct:54.434251,16.131119,8.908390,4.809144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_jay_ver01%2Fdata%2Fsn97067613%2F00202197309%2F1891052801%2F0074.jp2/pct:54.407659,16.131119,8.934982,6.458917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6081,7 +7130,7 @@ We have none of our own
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+BE CAREFUL WHAT YOU SAY. In speaking of  
 a person&#x27;s faults Pray don&#x27;t forget your  
 own ; Remember those with homesof glass  
 Should seldom throw a stone. If we have  
@@ -6106,7 +7155,7 @@ of.the.hani:oneiword :may&#x27;do &#x27;f To those
 who little know,.: ,Remember curses,  
 sometimes, lik&#x27;e Our chickens &quot; roost at  
 home&#x27;; &quot; Don&#x27;t speak of others&#x27; faults  
-until: We have none of our own. Landlad
+until: We have none of our own. Landlady
 </td></tr></table>
 
 ---
@@ -6146,9 +7195,12 @@ Then let us all when we commence
 To slander friend or foe.  
 Think of the harm one word may do  
 To those we little know.  
-Remember curses some
+Remember curses sometimes, like  
+Our chickens, &quot;roost at home.&quot;  
+Don&#x27;t spoak of other&#x27;s faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1892021001%2F0245.jp2/pct:66.614020,11.148329,9.950188,10.303759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1892021001%2F0245.jp2/pct:66.614020,11.148329,9.950188,11.265710/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6189,9 +7241,12 @@ Then let us all, when we commence
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-Remember curses, so
+Remember curses, sometimes like  
+Our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_dakin_ver03%2Fdata%2Fsn84023253%2F00202196901%2F1892042801%2F0415.jp2/pct:4.832905,8.236325,13.813196,15.058205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_dakin_ver03%2Fdata%2Fsn84023253%2F00202196901%2F1892042801%2F0415.jp2/pct:4.832905,8.236325,13.813196,16.547753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6205,7 +7260,14 @@ Remember curses, so
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- that point begin. Wo have  
+  
+speaking of another&#x27;s faults, . Pray,  
+don&#x27;t forgot your own ; v Remember thoau  
+in hornes of gloss - Should seldom throw  
+a stouv, r « 11 &gt; If »ve have nothing  
+else to do Dut talk of those who sin,  
+-Xis botter to commence at homo, &#x27; &#x27;?&#x27;  
+And from that point begin. Wo have  
 noriaht to judge a man 1 Until he&#x27;s  
 fairly tried ; . Should we not like his  
 company ( We know tho world is wide.  
@@ -6222,7 +7284,10 @@ bid mo lot The faults of others go. Then
 lot us all when wo commence To slander  
 friend and foo, -&quot;Think of the hann one  
 word may do &quot;T &#x27;.To.&#x27;thouB wo little  
-know, n 
+know, n Remember, curses, sometimes like  
+r &quot; Our chickensroust at home,&quot; &#x27; &#x27;  
+Don&#x27;t speak of other&#x27;s faults until ¡ ,.  
+&quot;We ;hivo nono of ourown
 </td></tr></table>
 
 ---
@@ -6260,9 +7325,14 @@ My own shortcomings bid me let
 Tho fuults of others go.  
 Then let us all, when we commence  
 To slander friend or foe.  
-Think of tho harm one word may 
+Think of tho harm one word may do  
+To those wo little know.  
+Remember, curses sometimes, liko  
+Our chickens, &quot;roost at home.&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+Wo have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892090501%2F0770.jp2/pct:43.976160,61.670650,10.727969,12.740412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892090501%2F0770.jp2/pct:43.976160,61.670650,10.727969,14.897007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6276,7 +7346,13 @@ Think of tho harm one word may
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-m that point begin. |  
+,BE CAREFUL WHAT YOU SAY. In speaking of  
+another&#x27;s fault, Pray, don&#x27;t forget j  
+our own ; Remembering those in homes of  
+glass Should Seldom throw a stone ; If-  
+?we have nothing else to do Rut talk of  
+those who sin. i &#x27;Tis better to commence  
+at homo, j And from that point begin. |  
 Wo have no right to judge a man | ^  
 Before he&#x27;s tairly tried ; ! Should we  
 not like his company, We know the world  
@@ -6291,7 +7367,11 @@ sometimes hope to bd No .wprse than some
 I know, My own shortcomings. bid mo let  
 The faults of others go. Than, let us  
 all, when we commenco To; slander friend  
-and foe, Think .of the harm one wor
+and foe, Think .of the harm one word may  
+do To those we littlo know. Reinembdr,  
+ourses, sometimes, like Our chickens,  
+&#x27;roost at home D6h!t;&#x27;speak of other&#x27;s  
+faults until We&#x27; have none of our own.
 </td></tr></table>
 
 ---
@@ -6302,7 +7382,17 @@ and foe, Think .of the harm one wor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-airly tried;  
+  
+In stinking of another&#x27;s faults.  
+Pray, don&#x27;t forget your own;  
+Remember those in homes of glass  
+Should seldom throw u stone.  
+If wo have not him; else to do  
+Rut talk of these who sin,  
+Tis better \vc commence ut home.  
+And from that point begin.  
+Wu have no right to judge a man  
+Until he&#x27;s fairly tried;  
 Should wu not like his eompany  
 Wo know tho world is wide.  
 Somo may have faults, aud who has not?  
@@ -6319,9 +7409,14 @@ My own shortcomings bid mo let
 The faults of others go.  
 Then let us all, when wo commence  
 To slander friend or foe.  
-Think of tho harm one wo
+Think of tho harm one word may do  
+To thoso wo little know.  
+Remember, curses sometimes, liko  
+Our chickens, &quot;roost at home.&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+Wo have nouu of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn86071868%2F00175031698%2F1892100201%2F1223.jp2/pct:35.174591,66.239963,14.217137,9.171828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn86071868%2F00175031698%2F1892100201%2F1223.jp2/pct:35.089104,61.683872,14.302624,16.067905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6362,9 +7457,12 @@ Then let us all, when we commence
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-Remember, curses s
+Remember, curses sometimes, like  
+Our chickens, &quot;roost at home.&quot;  
+Don&#x27;t speak of other&#x27;s faults until  
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196421%2F1893013001%2F0462.jp2/pct:8.742753,7.168142,13.091242,15.564159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196421%2F1893013001%2F0462.jp2/pct:8.681721,7.168142,13.152273,17.035398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6378,7 +7476,7 @@ Remember, curses s
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Be Careful What You Say. In speaking of  
 another&#x27;s faults, Pray dmn&#x27;t forget your  
 own; Remember these in homes of glass  
 Should seldom throw a stone. If we have  
@@ -6400,7 +7498,9 @@ faults of others go. Then let us all,
 when we commence To slander friend or  
 foe, Think of the harm one word may do  
 To those we little know. Remember,  
-curses somet
+curses sometimes, like Our chickens,  
+&quot;roost at home.&quot; Don&#x27;t speak of others  
+faults until We have none of our own.
 </td></tr></table>
 
 ---
@@ -6413,7 +7513,13 @@ curses somet
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-me, And  
+  
+SAY. In speaking of another&#x27;s faults,  
+Pray don&#x27;t forget your own; Remember  
+those in homes of glass Should seldom  
+throw a stone. If we have nothing else  
+to do But talk of those who siu, :  
+&#x27;lis.better we commence at home, And  
 from that point begin. We have no right  
 to judge a man Until he&#x27;s fairly tried;  
 Should we not like his company We know  
@@ -6430,7 +7536,9 @@ The faults of others go. Then let us
 all, when we commence To slander friend  
 or foe, Think cl tha harm one word may  
 do To those we little know. Remember,  
-curses som
+curses sometimes, like Our chickens,  
+&quot;roost at home.&quot; Don&#x27;t speak of others  
+faults until We have none of our own
 </td></tr></table>
 
 ---
@@ -6443,7 +7551,7 @@ curses som
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Be Careful What You Say. In speaking of  
 another&#x27;s faults, Pray dcn&#x27;t forget your  
 own; Remember those in homes of glus  
 Should seldom throw a atone. If we have  
@@ -6464,7 +7572,10 @@ know. My own shortcomings bid ms let The
 isulta of other* go. Then let us all.  
 wben we commence To tlander friend or  
 foe. Think of the h»rm one word may do  
-To those we little
+To those we little know. Remember,  
+curses sometimes, like Our chickens, &quot;  
+roost at home.&quot; Don&#x27;t speak of others  
+fault* until We have none of our own.
 </td></tr></table>
 
 ---
@@ -6499,7 +7610,10 @@ shortcomings bid me let Tho faults of
 others go. Thou let us all. when we  
 cormmence To slander friend or foe,  
 Think of the harm one word may do To  
-those we little know. Remomber,
+those we little know. Remomber, curses  
+sometimeon, like Our chlickone, &quot;roost  
+at home.&quot; Don&#x27;t speak of others faults  
+until 7We have none of our own
 </td></tr></table>
 
 ---
@@ -6534,7 +7648,10 @@ shortcomings bid me let The faults of
 others go. Then let us all, when we  
 commence To slander friend or foe, Think  
 of the harm one word may do To those we  
-little know. Remember, curses so
+little know. Remember, curses sometimes,  
+like Our chickens, &quot;roost at home.&quot;  
+Don&#x27;t speak of others faults until We  
+have none of our own. -&quot;Freeman.
 </td></tr></table>
 
 ---
@@ -6547,7 +7664,7 @@ little know. Remember, curses so
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Be Careful What You Say. In speaking of  
 another&#x27;s faults, Pray dun&#x27;t forget your  
 own : -Be uember those in homes of glass  
 Should seldom throw a stone. If we have  
@@ -6569,7 +7686,9 @@ The faults of others go. Then let us
 all; when we commence To slander friend  
 or foe, Think of the harm one word may  
 do To those we little know. Remember,  
-
+curses sometimes, like Our chickens,  
+&quot;roost at home.&quot; Don&#x27;t speak of others  
+faults until We have none of our own.
 </td></tr></table>
 
 ---
@@ -6582,7 +7701,7 @@ do To those we little know. Remember,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Be Careful What You Say. In speaking of  
 another&#x27;s faults. Pray don&#x27;t forget your  
 own: Be iiember those in homes of glass  
 Should seldom throw a stone. If we have  
@@ -6604,7 +7723,9 @@ The faults of others go. Then let us
 all, when we commence To slandler friend  
 or foe. Think of the harm one word may  
 do To those we little know. Remember,  
-
+curses sometimes, like Our chickens, &quot;  
+roost at home.&quot; Don&#x27;t speak of others  
+faults until We hive none of our own.
 </td></tr></table>
 
 ---
@@ -6640,7 +7761,10 @@ shortcomings bid me let The faults of
 others go. Then let us all, wh^n we  
 commence To slander friend or foe, Think  
 of the harm one word may do To those we  
-little know.
+little know. Remember, curses sometimes,  
+like Oar chickens, &#x27; roost at home.&#x27;  
+Don&#x27;t speak of others faults until We  
+have none of our own. —&#x27;Freeman
 </td></tr></table>
 
 ---
@@ -6653,7 +7777,7 @@ little know.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Se Careful What Tan Say. In speaking of  
 another&#x27;s faults, Fray dor? t forget  
 your own ; Remember those in homes of  
 glass Should seldom throw a stone. &#x27; If  
@@ -6675,7 +7799,10 @@ own shortcomings bid me let The faults
 of others go. Then let us all, when we  
 oommanoe -&#x27; To dander friend or foe,  
 Think of the harm one word may do To  
-those we little know. -Remember, curse
+those we little know. -Remember, curses  
+sometimes, like 1 Our chickens, &#x27; roost  
+at home.&#x27; Don&#x27;t speak of others&#x27; faults  
+until ?&#x27;?. We have none of our own.
 </td></tr></table>
 
 ---
@@ -6714,9 +7841,13 @@ The faults of others go.
 Then let us all when we commence  
 To slander friend or foe,  
 Think of the harm one word would do  
-To those we litt
+To those we little know ;  
+Remember, curses sometimes, like  
+Our chickens, &quot;roost at home  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861952%2F1894022801%2F0227.jp2/pct:75.869000,53.913093,9.903839,10.001695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861952%2F1894022801%2F0227.jp2/pct:75.869000,53.913093,9.903839,11.380460/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6758,9 +7889,12 @@ Then let us all, when we commence
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know.  
-Remember, curses som
+Remember, curses sometimes, like  
+Our chickens, &quot;roost at home;&quot;  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_excalibur_ver01%2Fdata%2Fsn86069313%2F00206533808%2F1894031601%2F0489.jp2/pct:42.006156,16.272762,11.370632,16.414826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_excalibur_ver01%2Fdata%2Fsn86069313%2F00206533808%2F1894031601%2F0489.jp2/pct:42.006156,16.272762,11.370632,17.780576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6799,9 +7933,14 @@ My owe shortcomings bid me let
 The faults of others go.  
 Then let us all, when we commence  
 To slander friend or foe,  
-Think of the harm ono wo
+Think of the harm ono word may do  
+To those wo little know.  
+Kemembcr, curses sometimes, like  
+Our chickens, &quot;roost at home.&quot;  
+Don&#x27;t epeak of others&#x27; faults until  
+We uavo nono of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F00415628961%2F1895010801%2F0023.jp2/pct:69.789323,56.408420,10.861117,11.757124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F00415628961%2F1895010801%2F0023.jp2/pct:69.789323,56.408420,10.861117,13.804955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6815,7 +7954,7 @@ Think of the harm ono wo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+BE CAREFUL WHAT You SAY. In speaking of  
 another&#x27;s faults, Pray ddn&#x27;t forget your  
 own -Remember those in homies of glass  
 Should seldom throw a stone. -If we have  
@@ -6837,7 +7976,9 @@ The faults of others go. Then let us
 all, when we commence. To slander friend  
 or foe, Think of the harm one word may  
 do To those we little know, Remtember,  
-curses 
+curses sometimes, like Our chickens, &quot;  
+roost at home.&quot; Don&#x27;t speak of others&#x27;  
+faults until; We have none of our own.
 </td></tr></table>
 
 ---
@@ -6850,7 +7991,13 @@ curses
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-bat point begin,  
+Be Careful What Tou In speaking of a  
+person&#x27;s faults Pray don&#x27;t forget your  
+own; -? Remember tliOBO with homes of  
+glass Should seldom throw a stone. If wo  
+havo nothing else to do . ? But talk of  
+those who sin. &#x27;lis better ws should  
+look at home, And from tbat point begin,  
 * We bave no righft to judge q man Uutil  
 he&#x27;s fairly triod ; Should wc not liko  
 bis company &#x27;&#x27;Wo know the world is wide.  
@@ -6867,7 +8014,10 @@ faults ot othors go. Ihen lot ua all,
 whon we commenoo To slander friend or  
 foe, Tbink of tbo barm one word may 2^ *  
 ? . . . To i those who littlo know, l l  
-
+Remember oursos, sometimes, liko -Our  
+ohiokenB 44 roost at home Don&#x27;t epoak of  
+others&#x27; faults until We have none of our  
+own. . *?
 </td></tr></table>
 
 ---
@@ -6878,7 +8028,15 @@ foe, Tbink of tbo barm one word may 2^ *
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nd from that point begin.  
+  
+In speaking of a person&#x27;s faults,  
+Pray don&#x27;t forget your own ;  
+Rememher, those with homes of glass  
+Should never throw a ftone.  
+If we have nothing else to &#x27;to  
+Than talk of those who sin ;  
+&#x27;Tis better to commence at home,  
+And from that point begin.  
 AVe have no right to judge a man  
 Until he&#x27;s fairly tried :  
 Should we not like his company,  
@@ -6905,7 +8063,7 @@ Our chickens, -&#x27;roost at home
 Don&#x27;t speak of others&#x27; faults until  
 We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073907%2F0041615675A%2F1895042501%2F0098.jp2/pct:14.724896,41.401274,13.001006,15.485016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073907%2F0041615675A%2F1895042501%2F0098.jp2/pct:14.724896,37.422993,13.001006,19.463297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6946,9 +8104,12 @@ Then let us all when we commence
 To slander friend or foe,  
 Think of the harm one word may do  
 To those we little know,  
-Hemember, curses so
+Hemember, curses sometimes, like  
+Our chickens, roost at home;  
+Don&#x27;t speak of others faults until  
+You have none of your own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_franklin_ver01%2Fdata%2Fsn96076641%2F00415669549%2F1896040901%2F0229.jp2/pct:35.757121,57.181459,11.634183,14.685097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_franklin_ver01%2Fdata%2Fsn96076641%2F00415669549%2F1896040901%2F0229.jp2/pct:35.757121,57.181459,11.634183,16.171274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6985,7 +8146,10 @@ let The faults of others go. Then let us
 all, when we commence , To slander  
 friend or foe, Think of the hard one  
 word may do To those we lit tle know.  
-Bemember curses,
+Bemember curses, sometimes, like Our  
+chickens, &quot;roost at home;&quot; Don&#x27;t speak  
+of others&#x27; faults until We have none of  
+our own. JAS. W. BOGIE
 </td></tr></table>
 
 ---
@@ -7021,7 +8185,9 @@ The faults of others go. &#x27;Then let us
 all, when we commence To slander friend  
 or foe, Think of the harm one word may  
 do To those we little know. Remember  
-curses, 
+curses, sometimes, liike Our chickens,  
+&quot;roost at home;&quot; Don&#x27;t speak of others&#x27;  
+faults until We have none of our own
 </td></tr></table>
 
 ---
@@ -7061,9 +8227,12 @@ Then let us all when we commence
 To slander friend or foe,  
 Think of the harm one word may do.  
 To those we little know.  
-Remember curses, so
+Remember curses, sometimes like  
+Our chickens, &quot;Roost at home.”  
+Don’t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn90060762%2F00199919763%2F1896080601%2F0503.jp2/pct:15.483333,29.249831,12.127778,16.015298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn90060762%2F00199919763%2F1896080601%2F0503.jp2/pct:15.483333,29.249831,12.127778,17.596908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7100,7 +8269,10 @@ shortcomings bid me let The faults of
 others go. Then let us all, when we  
 commence, To slander friend or foe,  
 Think of the harm one word may do i To  
-those we little know. 1 Remember curse
+those we little know. 1 Remember curses,  
+sometimes, like : Our chickens, &#x27; roost  
+at home ; &#x27; &#x27;] Don&#x27;t speak of others&#x27;  
+faults until We have none of our own
 </td></tr></table>
 
 ---
@@ -7136,7 +8308,10 @@ The faults of others go. Then let us
 all, when we commence, To slander  
 friend-or foe, Think of the harm one  
 word may do&#x27; To those we little know.  
-Reumember curses,
+Reumember curses, sometimes, like Our  
+chickens, &quot;roost at home ;&quot; Don&#x27;t speak  
+of others&#x27; faults until We have none of  
+our own
 </td></tr></table>
 
 ---
@@ -7147,7 +8322,14 @@ Reumember curses,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t home,  
+  
+In speaking of h nelson&#x27;s faults,  
+I&#x27;ray I r i t forgot your own;  
+IUmiumhIk-i&#x27;, those with homes of glass,  
+Should seldom throw a stone.  
+If we have nothing elso to do  
+Hut talk of those whosin,  
+&#x27;Tis belter we commence Ht home,  
 And from that point begin.  
 We have no right to judge a man  
 Until he&#x27;s fairly tried;  
@@ -7169,9 +8351,12 @@ Then let us all when we commence
 To slander friends or foe,  
 Think of the harm one word may do,  
 To those we little know.  
-Remember curses, s
+Remember curses, sometimes like  
+Our chickens, &quot;roost at home;&#x27;1  
+Don&#x27;t speak of others&#x27; faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn96091104%2F00296020837%2F1897030501%2F0382.jp2/pct:34.213638,17.831483,13.835238,11.208361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn96091104%2F00296020837%2F1897030501%2F0382.jp2/pct:34.154513,15.153494,13.894363,15.153494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7205,9 +8390,19 @@ You&#x27;ll find it works full we.l;
 To try your own defects to cure  
 Before you others&#x27; tell.  
 And though I sometimes hope to he  
-No worse than some I k
+No worse than some I know.  
+My own shortcomings hid me let  
+The faults of others go.  
+Then let ns ail when we commence  
+To slander friend or foe.  
+Think of the halm one wont may do,  
+To those we little know.  
+Remember curses, sometimes like  
+Our chickens, &#x27;-roost at home;”  
+Don’t speak of others’ faults until  
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_irving_ver01%2Fdata%2Fsn89060124%2F00415625716%2F1897031901%2F0050.jp2/pct:28.855436,20.530474,7.718041,9.435666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_irving_ver01%2Fdata%2Fsn89060124%2F00415625716%2F1897031901%2F0050.jp2/pct:28.807646,20.530474,7.765830,13.807374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7248,9 +8443,10 @@ Now let us all, when we begin
 To slander friend or foe.  
 Think of the harm one word may do  
 To those we little know.  
-H
+Hemcinber, curses, chicken-like,  
+Sometimes to roost come home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn84037217%2F00271764856%2F1897061701%2F0525.jp2/pct:12.943843,14.052486,11.613364,14.568576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn84037217%2F00271764856%2F1897061701%2F0525.jp2/pct:12.943843,14.052486,11.613364,15.077919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7262,7 +8458,20 @@ H
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ve faults,—who has not.  
+  
+In speaking of others faults  
+Pray dan&#x27;t forget our own,  
+Keinem bering those in house glass  
+Should never throw a stone.  
+If wc have nothing else to do  
+Dut talk of those who sin,  
+&#x27;Tis better to commence at home,  
+And from that point begin.  
+We have no right to judge a man  
+d&#x27;ntil he&#x27;s fairly tried,  
+Should we not like his company  
+We know the world is wide,  
+Some mnv have faults,—who has not.  
 The old, as well as young,  
 We may, perhaps, for ail we know  
 Have flftv to their one.  
@@ -7278,9 +8487,12 @@ Then let us all, when we commence
 To slander friend or toe,  
 Think of the harm one word may do  
 To those we little know;  
-Keinem b«r
+Keinem b«ring curses, sometimes like  
+Our chickens, roost at home,  
+Djn&#x27;t speak of others faults, until,  
+tVe have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_galapagos_ver01%2Fdata%2Fsn86063039%2F00414211306%2F1897080601%2F0637.jp2/pct:11.935921,36.277174,16.132671,11.684783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_galapagos_ver01%2Fdata%2Fsn86063039%2F00414211306%2F1897080601%2F0637.jp2/pct:11.777978,27.974034,16.290614,21.950483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7331,7 +8543,11 @@ The faults of others go.
 Then let us all when we commence  
 To speak ill of friend or foe,  
 Think of the harm one word may do  
-To those
+To those who little know.  
+Remember, curses, sometimes like  
+Our chickens, &quot;roost at home&#x27;  
+Don&#x27;t speak of others&#x27; faults until  
+We have o&#x27;ercome our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_beaver_ver01%2Fdata%2F45043535%2F00237280350%2F1899040101%2F0749.jp2/pct:14.280763,65.333983,72.963605,26.084837/!600,600/0/default.jpg"/>
 </td>

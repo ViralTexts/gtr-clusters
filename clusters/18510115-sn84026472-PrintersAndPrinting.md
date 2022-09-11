@@ -1,7 +1,7 @@
 
 # Printers and Printing
 
-### 145 reprints from 1849-01-01 to 1898-11-26
+### 144 reprints from 1849-01-01 to 1898-11-26
 
 ## [Printers and Printing](https://chroniclingamerica.loc.gov/lccn/sn84026472/1851-01-15/ed-1/seq-2/)
 
@@ -231,9 +231,12 @@ Wloar belter fitted to be a wood sawyer than a printer. Nobody
 would have hollered that such gross end pel [side  
 salts were owing to the ignoraaoe or oareieseneae of the  
 author. And no one bat the practical prioter knows bow  
-many hours a oomnosilor, and alter biin
+many hours a oomnosilor, and alter biin s proof-reader, it  
+compelled so spend In reducing lo e readable condition  
+minusoripta that the writers themselves would be pnxslrd  
+u read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82003410%2F00415661174%2F1849110301%2F0430.jp2/pct:0.769357,57.834433,16.249250,10.603754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82003410%2F00415661174%2F1849110301%2F0430.jp2/pct:0.769357,57.834433,16.249250,11.753763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +248,15 @@ many hours a oomnosilor, and alter biin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ns at the Capitol to ad­  
+is Cabinet, ibr main­  
+taining American rights and American honor against  
+their arrogance and insolence, with a spirit and in  
+language which they dare not use. They under­  
+stand perfectly that the “Union” will go further in  
+tfieir behalf than any Minister whom they could  
+send ; and they are, therefore, rp.iito willing that  
+their missions should remain vacant, so long as the  
+Washington “Union” remains at the Capitol to ad­  
 vocate their claims, fight their battles against its  
 own country, and do whatever fidelity to them and  
 hatred to the American Government may seem to  
@@ -284,7 +295,7 @@ i hours a compositor, and after him a proof reader, is
 i lion manuscripts that the writers would bo puzzled  
 j to read.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver02%2Fdata%2Fsn84024719%2F00414183724%2F1849110701%2F0378.jp2/pct:20.633060,51.741687,14.878859,19.218880/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver02%2Fdata%2Fsn84024719%2F00414183724%2F1849110701%2F0378.jp2/pct:20.633060,47.624972,14.878859,23.335595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +307,10 @@ j to read.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iin  
+  
+rniNTERi AND rRI.NTKNO.  
+. J. T. Buckingham, C q., in hie. scries  
+of reminiscences in cuura of puli&#x27;icaiiiin  
 in tbe Uotio Courier, seake of (lie im­  
 por&#x27;anre of the printer to tbe author aa  
 follow :  
@@ -341,7 +355,7 @@ in reducing lo s reml.ihle condition inane
 scripts that the writers themselves would  
 he puzzled lo read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_chestnut_ver01%2Fdata%2Fsn84020716%2F00415667711%2F1849110901%2F0375.jp2/pct:16.068412,6.249100,14.611486,22.260619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_chestnut_ver01%2Fdata%2Fsn84020716%2F00415667711%2F1849110901%2F0375.jp2/pct:16.068412,4.866811,14.611486,23.642909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +367,18 @@ he puzzled lo read.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ we  
+learn, mends slowly, but we believe be is  
+resided as being in a fair way to get  
+well.  
+1 A Cnincn Question Sbtti-kd.?At  
+the last session of the Presbyterian  
+Church -H Oieenfield, Ohio, last ?ummet  
+Mr. Wm. Roan was suspended from com  
+mnnion with the church on account of bis  
+being an Odd Fellow. He very properlv  
+appealed from this decision to the Cincinnati  
+Synod, which lately sat at Springfield.  
 After a lengthy discussion, ir  
 which the whole ground of secret orders  
 1 was gone over, the appeal was very properly&#x27;  
@@ -405,7 +430,7 @@ him a pi oof-reader, is compelled to spend
 in reducing to a readable condition manuscripts  
 that th?- w&quot;iters tbfimselve woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1849111001%2F0105.jp2/pct:41.259801,25.035727,21.921328,31.814934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1849111001%2F0105.jp2/pct:41.259801,17.037335,21.921328,39.813326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,9 +482,10 @@ al punter knows how unny hours the com
   
 posttor. and alter hi in s proot re.vjer, is com­  
 pelled to spend io reducing to teadabl  
-condition, manusctipts that
+condition, manusctipts that the writer him­  
+self would be pux2led to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn89080032%2F00415668132%2F1849111301%2F0684.jp2/pct:83.531409,76.237091,12.524487,19.255594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn89080032%2F00415668132%2F1849111301%2F0684.jp2/pct:83.531409,76.237091,12.524487,19.814974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +734,17 @@ to read.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-like ignorant uud un­  
+ltivated those fields,  
+i and men to have silently disappeared—  
+leaving them fur the first, man that should  
+come from the older parts of our own  
+country, or from foreign lands, to take  
+possession of them, it is only by a pro­  
+cess of reflection, that you are convince d  
+that it is so. But it is net the work of  
+man. it is God who has done it, when  
+there was no man there—save the wan­  
+dering savage, alike ignorant uud un­  
 concerned as to the design of the great  
 processes in the land where he roamed—  
 God who did all this, that he might pre­  
@@ -756,7 +792,7 @@ pelled to spend in reducing to a readable
 condition, manuscripts that the writers  
 themselves would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83025241%2F0038334721A%2F1849120501%2F0126.jp2/pct:16.968970,48.654717,12.327732,27.510411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83025241%2F0038334721A%2F1849120501%2F0126.jp2/pct:16.968970,42.907840,12.332177,33.257288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +850,11 @@ a nrluier. LN&#x27;-ibouv wruhV have-believed
 that sikI. t:r) and paluabia faults -were  
 owini1i.rl-sjiiorilce ? careles of the  
 utlior.&#x27;;Ani &#x27;lit&#x27; one bnt!fh practical p&#x27;rin.&#x27;  
-(er&#x27;TtHo
+(er&#x27;TtHowVKmahy&#x27;.lltbyrt&#x27; a compositor,  
+andaltrr him a proot-.reaur, is cornpfUod  
+to snfcnd in redutcine to a readable condi  
+tio &#x27; manuscript tnit the writers thero-  
+selves wawa p puzaiea ip reau. .!n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_jerome_ver01%2Fdata%2Fsn89066057%2F00200292121%2F1849123101%2F0709.jp2/pct:40.097367,16.755570,35.118389,79.918419/!600,600/0/default.jpg"/>
 </td>
@@ -884,6 +924,7 @@ himself would be puzzled to read.&quot;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+membership, we perceive that about seven- (Speaks of the importance of the printer tothe in the midst of his studied refinements the  
 eights of the people of that state are regular| author, as follows:—+* Many who condescend to voluptuary languishes.—Blair.  
 church attendants; a very different picture| !!luminate the dark world with the fire of their .  
 &gt; | &gt; . ¢ 2 r &gt;  
@@ -899,7 +940,7 @@ pal ATR ee is wi Mestre Cheek as manners, often apparently harsh,—but under
   
 ischolars, sent to the printer in their own hand- : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42&#0036;5/pct:16.864669,43.458647,77.246901,8.515038/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42&#0036;5/pct:16.864669,42.481203,77.246901,9.492481/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +992,18 @@ ischolars, sent to the printer in their own hand- :
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ext room to watch him, but during  
+tage to  
+Johnsonsburgh, from which point he  
+must have walked, 6 miles to Hope.—  
+During this conversation be walked the  
+room, rubbing his hands, giving incohe­  
+■ent answers, and showing evident signs  
+of derangement He complained of a  
+pain in his head, but nothing was though!  
+of that, as it was attributed to the state  
+of his mind. He was finally persuaded  
+to go to bed, and people were placed in  
+the next room to watch him, but during  
 the night In forced the lock, got stealth­  
 ily out of the house, and, though every  
 search has been made, nothing lias yet  
@@ -998,7 +1050,7 @@ reducing to a readable condition manu­
 scripts that the writers themselves would  
 be puzzled to read.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182975%2F1850102401%2F0301.jp2/pct:48.309274,20.737827,14.519478,27.875356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182975%2F1850102401%2F0301.jp2/pct:48.309274,14.268276,14.519478,34.344907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1010,7 +1062,28 @@ be puzzled to read.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-reasurer, Mr. R. W.  
+  
+READING.  
+Clerk of the Course and Judge,  
+Mr. Hibburd.  
+Secretary, Mr. J. Waugh.  
+SHREWSBURY.  
+Clerk of the Course, Mr. J. Frail.  
+Judge, Mr. Pettifer.  
+WARWICK.  
+Clerk of the Course, Mr. 8. Merry.  
+Starter, Mr. Hibburd.  
+Judge, Mr. Clark.  
+WINCHESTER.  
+Clerk of the Course, Mr. M. Dilly.  
+Secretary, Mr. H. Peake.  
+WORCESTER.  
+  
+Clerk of the Course, Mr. Tolley.  
+Handicapper, Mr. E. W. Topham.  
+WREXHAM.  
+  
+Clerk and Treasurer, Mr. R. W.  
 Johnson. 7  
 Judge, Mr. T. White, of Nantwich.  
 Handicapper, Mr. E. W. Topham.  
@@ -1048,7 +1121,7 @@ but the practical printer knows how many hours the compositors, and
 after him the proof-reader, is compelled to spend in reducing to a reada-  
 ble condition manuscripts that the writer himself would{be puzzled to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45&#0036;0/pct:62.113575,73.041373,26.982527,17.330546/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45&#0036;0/pct:62.113575,63.501320,26.982527,26.870599/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1229,9 +1302,10 @@ practical printer knows how many hours
 the compositors, and aftci him the proof­  
 reader, is compelled lo spend, in redm ii&#x27;2  
 to a readable condition manuscripts that  
-the writer
+the writer himself would be puzzled to  
+read.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156360%2F1851011501%2F0424.jp2/pct:83.202901,69.216922,14.372972,22.772277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156360%2F1851011501%2F0424.jp2/pct:83.202901,69.216922,14.372972,23.350907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,9 +1401,15 @@ author. Suppose they had been so pritt ed Tin- plin­
 er would have been milled well scorn and r ail nip&#x27;,  
 as an illMeiatH hlockheail as a fell ,w aener lilted to be  
 a wo- d sawyer than a punter. Nob,sly would hive be­  
-lt. ve
+lt. ved that Hileli gro sand palpable I..til&#x27;s were owing  
+t , tin&#x27; ignorance Mild rareie*&gt;sm *s of tlio an h&#x27;*r. And  
+no one toil i!• i3 practical punier knows l»*»w to any hours  
+ibe c niipiit-it ns, hml aft&gt; r him ih« p&#x27; &quot;&#x27;f reader, is  
+PM (Dpi lied to upend I i to iucing to a readable c, mdit&#x27; il  
+maiiuM* ipts (hut tlifl Wiitor I i i»Jt*lf would be p- zz&#x27;td  
+to itad.41
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn84024649%2F00393347934%2F1851011601%2F0584.jp2/pct:48.164436,89.672771,14.842256,2.930802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn84024649%2F00393347934%2F1851011601%2F0584.jp2/pct:48.164436,89.672771,14.880497,5.872861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1421,15 @@ lt. ve
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-th all the more cheerfulness, as we  
+* their debtor. But he  
+felt—and felt truly—that no lapse of time could ex­  
+tinguish his moral accountability ; and in the spirit  
+of a just man, and an honest merchant, lie took the  
+first opportunity of reimbursing those to whom he  
+had beer, indebted, without regard lo merely techni­  
+cal considerations. Such an example is certainly  
+worthy of all praise; and we accord it in this par­  
+ticular case with all the more cheerfulness, as we  
 are sure the act was prompted by a high sense of  
 integrity—an earnest and anxious disposition to do  
 right, for the sake of right, uninfluenced by any  
@@ -1374,7 +1462,7 @@ fiow many hours the compositors, and after bun the proof­
 reader, is compelled to spend in reducing to u readable con.  
 inn script s that the wnter himself would be puzzle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_diglett_ver01%2Fdata%2Fsn82015378%2F00295872354%2F1851011701%2F0067.jp2/pct:2.188006,57.058126,12.641815,10.972716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_diglett_ver01%2Fdata%2Fsn82015378%2F00295872354%2F1851011701%2F0067.jp2/pct:2.188006,53.929419,12.641815,14.101423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1687,7 +1775,17 @@ be puzzled to read
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dwelt there. But this would not  
+ sit down in the water  
+when the young men pour sand upon  
+iheir heads, after which it is washed off  
+They are said to keep Sunday religiously,  
+and will not visit the white settlements on  
+that day from which circumstance our  
+informant thinks lhat California is the land  
+of Ophir of Solomon. He says they could  
+not have derived (heir religious belief from  
+the Jesuits or Franciscan friars, as they  
+never dwelt there. But this would not  
 aeccunt for their keeping Sunday, instead  
 of the Sabbath of the Jews. We are  
 promised some very interesting items up­  
@@ -1718,7 +1816,7 @@ divines sent to the press without point or
 capitals to designate the division of sen­  
 tences sermons which, if published wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn82014116%2F00279528542%2F1851021201%2F0070.jp2/pct:29.954154,58.657287,12.043476,16.298490/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn82014116%2F00279528542%2F1851021201%2F0070.jp2/pct:29.943852,53.239541,12.053778,21.716237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1770,7 +1868,18 @@ puzzled to read.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r­  
+ IT off! w  
+  
+after to furnish for it a copious suppl  
+of pure water and rich soil. The tre  
+was visited weekly by the one who plan  
+ted it and often by the whole faintly who  
+there performed their religious rites.  
+Thus it is that the cr press trees in that  
+country are so numsroas and grow tn  
+such an immense eiae sense of them  
+being one hundred and twenty fret in  
+height. As thsir dark sombre foliage over­  
 shadows ihe tomha of ihe departed, they  
 furnish a welcome resiingplare for the we*.  
 rie.1 traveller and present a pleasing con­  
@@ -1817,7 +1926,7 @@ ducing to a readable condition manu­
 scripts that the writer himself would b*  
 puszled to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182975%2F1851022001%2F0369.jp2/pct:79.623762,19.414317,14.599010,27.769116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182975%2F1851022001%2F0369.jp2/pct:70.455446,13.449024,23.846535,84.086903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1887,7 +1996,13 @@ foreign terms, abbreviated, words
 mi»-speileil, «nd few ur no points, and  
 those few, if tin io «ere any, certainly  
 out of their place. I have sci il the  
-set mons of eminent &quot; divine»&quot; »eiit t
+set mons of eminent &quot; divine»&quot; »eiit to  
+the pris» «iihuui | oin k or capital, lo  
+de. sig lille the divi.ions of the  
+sentence ; also Ihe letters uf political  
+ami kcientifio correspondents. Suppose  
+all those had teen so printed, the  
+[irinter would have been treated wit
 </td></tr></table>
 
 ---
@@ -1945,6 +2060,8 @@ themselves would be puzzled to read.-A
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+and the latter claiming £3,000 for  
+similar services rendered by the Anglia.  
 — Liverpool Albion. Printers and  
 Printing. — Many who condescend to  
 illuminate the dark world with the fire  
@@ -2122,7 +2239,16 @@ ter himself would bo puzzied to read.&quot; ;&#x27;-&#x27; v;:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ollars in one  
+ound  
+price, at which the merchant told him if he  
+would trade out a portion he would take it.  
+The bargain was completed and the wool deliv­  
+ered; when in fact the merchant would have  
+given seven cents per lb. more than he did for  
+the last years clip, if he had asked it, and the  
+farmer would have asked it if he had thought  
+of getting it. Now if he had taken a newspa­  
+per he might have saved thirty dollars in one  
 year&#x27;s clip. Yet he went home glorying in his  
 ignorance, thinking ho had received the highest  
 price paid lor nis wool.  
@@ -2162,7 +2288,7 @@ proof-reader, is compelled to spend in reducing
 to a readable condition manuscripts that the wri  
 ter himself would be puzzled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1851091001%2F0041.jp2/pct:76.304901,29.332150,17.091025,23.929443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1851091001%2F0041.jp2/pct:76.288988,24.051475,17.106938,29.210118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2251,9 +2377,11 @@ entirely misplaced. 1 have sccu sermons of eminent
 scholars and &#x27;divines&#x27; sent to the press without  
 points or capitals to designate the division of  
   
-brnie ix f o?sermons which, 11 puunsncu wiin in
+brnie ix f o?sermons which, 11 puunsncu wiin ino  
+imperfe ctions of the manuscript, would be a disgrace  
+to any apprentice, if he were the author
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82014434%2F00415661423%2F1852092301%2F0312.jp2/pct:84.836367,60.749399,15.935834,9.085281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82014434%2F00415661423%2F1852092301%2F0312.jp2/pct:84.836367,60.749399,15.935834,10.021120/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,6 +2394,13 @@ brnie ix f o?sermons which, 11 puunsncu wiin in
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Suppose these productions had been printed as  
+they were written?the disgrace would have  
+fallen upon the printer. II&quot;. would have been  
+called an illiterate blockhead, better fitted for a  
+woodsawyer than a printer, and the author would  
+still enjoy his reputation as a scholar, and receive  
+the sympathy of his readers as a man injured by  
 the printer&#x27;s ignorance. Nobody would believe  
 that such gross and palpable faults were owing to  
 the carelessness of the author; and no one but a  
@@ -2275,7 +2410,7 @@ to spend in reducing, to a readable condition,
 manuscripts which &#x27;ho writers themselves  
 would be puzzled to read with propriety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82014434%2F00415661423%2F1852092301%2F0312.jp2/pct:84.928296,75.711893,15.614083,3.386498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82014434%2F00415661423%2F1852092301%2F0312.jp2/pct:84.919103,72.871604,15.623276,6.226786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2356,12 +2491,25 @@ be puzzled to iead.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Lo, the Poor Printer.—Air. Buckingham, in  
+his recent work, “Personal Memoir and Recol­  
+lections of Editorial Life,&quot; makes the following  
+mention of Journeymen Printers, a most wor­  
+thy mechanics, who always found a friend in  
 the author of this pleasant book :  
 “ Many persons who condescend to illumi­  
 nate the dark world with the sparkling of their  
-genius through the columns of a newspaper
+genius through the columns of a newspaper,  
+and others who publish sermons and tracts, re­  
+ligions. moral, and political, little think of the  
+labor of the printer, who sits up until mid­  
+night. or till day-light, to correct his false  
+grammar, had orthography, and worse punctu­  
+ation. I once saw the manuscript of a sermon  
+in the hands of a printer, which was entirely  
+without points, and every line liegnn with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1852120401%2F0265.jp2/pct:70.429733,59.838452,12.427410,1.930121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1852120401%2F0265.jp2/pct:70.400697,57.438715,12.485482,8.082089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2410,9 +2558,11 @@ tirely misplaced. I have seen sermons of
 eminent scholars and &quot;divines scrt to the  
 press without points or capitals to deignate  
 the division of sentences sermons which if  
-published with the imperfections of the man
+published with the imperfections of the man­  
+uscript, would be a disgrace to any appren­  
+tice, if he were the author. Some writer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1852120801%2F0468.jp2/pct:54.949239,25.113243,12.617839,4.209965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1852120801%2F0468.jp2/pct:54.949239,25.113243,12.617839,5.182521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2431,9 +2581,10 @@ au&#x27;hor; and no one but a particulur printer
 knows how many hours a compositor and  
 after him, proof readr is compelled to  
 spend in reducing, to a readable condition,  
-manuscript, which the wi iters themselves
+manuscript, which the wi iters themselves,  
+would be puzzled to read with propriety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1852120801%2F0468.jp2/pct:55.239304,38.662403,12.527194,3.157474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1852120801%2F0468.jp2/pct:55.239304,38.662403,12.527194,3.677058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2466,6 +2617,9 @@ manuscript, which the wi iters themselves
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+shape fit for the public eye, which would other­  
+wise have been cast aside as discreditable to its  
 author. Many persons w ho condescend to il­  
 lume the dark world w ith the sparklings of their  
 genius through the columns of a newspaper,  
@@ -2482,7 +2636,7 @@ orthography, and worse punctuation.
 stood in high repute as scholars, sent to the  
 printer in their own hand-writing, chiropraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1853022601%2F0038.jp2/pct:34.310005,35.724241,13.359648,8.191273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1853022601%2F0038.jp2/pct:34.310005,34.534148,13.359648,9.381366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2501,9 +2655,11 @@ points, and those few entirely misplaced. I
 have seen sermons of eminent scholars and di­  
 vines sent to the press without points or capitals  
 to designate the division of sentences sermons  
-which, if published with the imperfections o
+which, if published with the imperfections of  
+the manuscript, would be a disgrace to any ap­  
+prentice, if he were the author. Some writer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1853022601%2F0038.jp2/pct:34.294823,45.180658,13.374829,4.009864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1853022601%2F0038.jp2/pct:34.279642,45.180658,13.390011,5.199957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2516,6 +2672,13 @@ which, if published with the imperfections o
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+been poetry. Suppose these productions had  
+been printed as they were written, the dis­  
+grace would have fallen on the printer. He  
+would have been cahed an illiterate blockhead,  
+better fitted for a wood-sawyer than a printer,  
+and the author would still enjoy his reputation  
+as a scholar and receive the sympathy of his  
 readers as a man injured by the printer&#x27;s ignor­  
 ance. Nobody would believe that such gross  
 and palpable faults were owing to the careless  
@@ -2526,7 +2689,7 @@ spend in reducing to areadable condition manu
 scripts which the writers themselves would be  
 puzzled to read with propriet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1853022601%2F0038.jp2/pct:34.264460,58.057253,13.283741,5.221400/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1853022601%2F0038.jp2/pct:34.264460,53.961617,13.298922,9.317037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2539,7 +2702,6 @@ puzzled to read with propriet
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Printers and T Vriters. —J. T. Buckingham,  
 his&quot; Reminiscences,&quot; in course of publication  
 in the Boston Courier, speaks of the importance  
 of printers to authors, as follows :  
@@ -2574,7 +2736,7 @@ reader, are compelled to spend in reducing to
 a readable condition, manuscripts that the au­  
 thor himself would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853040201%2F0269.jp2/pct:62.752525,18.904404,14.646465,18.998389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853040201%2F0269.jp2/pct:62.752525,19.616004,14.646465,18.286788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2657,7 +2819,17 @@ rad.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-on was agreed to, yeas 04i  
+bly on motion of  
+Mr. Bogue the Senate adjourned.  
+HOUSE.  
+The Senate came in, and the joint assembly  
+was formed, for the purposo of hearing the re­  
+port of the Committeo appointed to canvass the  
+votes for Slate Wieers, ami if necessary to elect  
+Hiich officers. Tho report of the Committee not  
+being ready, Mr Washburn moved to adjourn  
+the joint assembly till to-morrow nwrning at 10  
+o&#x27;clock, which motion was agreed to, yeas 04i  
 nays 70, and the Senate withdrew.  
 Hill iiitroduce&#x27;d and referred. By Mr. Spencer,  
 to incorporate the Vermont Italian .Marble Co.  
@@ -2696,7 +2868,7 @@ proof reader, is compelled to speuJ in reducing
 to a readable condition minmcripts that tho wri­  
 ter himself would bo puzzlod to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1853102001%2F0590.jp2/pct:46.274218,58.639111,12.965723,18.557571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1853102001%2F0590.jp2/pct:46.199702,52.917194,13.040238,24.279488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2711,6 +2883,10 @@ ter himself would bo puzzlod to read
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+li&#x27;eralism in London ; will not the  
+Catholic Church&#x27; by means of her own  
+University, be more successful in  
+Dublin? &#x27; , ,j ? ? PkiinTERS aid  
 PitiNTiN.G. — Many who condescend to  
 illuirjiate the dark world with the fire  
 of their genius, -hro ugh the columns of  
@@ -2880,7 +3056,10 @@ which the writers themselves would be puzzled t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-on Courier,  
+  
+Plty?$K8 AND, 1&#x27;KINTJNy. .J. T. i)?cHinghani,  
+esq. in his Scries of reiuituseonses in  
+coumo of-pilblieation to the Boston Courier,  
 kncaks^f the importanuo of the printer to  
 the twthoi7 as fulloCvs :  
 &quot; Many who condescend to illuuijnate the  
@@ -2918,7 +3097,7 @@ dor, is compelled to spend in reducing to a
 readable condition manuscripts that the wri- 1  
 tors themselves would be puzzled to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1860031701%2F1023.jp2/pct:64.910124,4.531008,18.133866,19.713178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1860031701%2F1023.jp2/pct:64.910124,3.251938,19.193937,20.992248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3136,7 +3315,34 @@ Would be puzzled to real. — A Proof
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-kc  
+Cfr&amp;pT&amp;fn 58th U. S. Col&#x27;d TrifTy.  
+  
+flortrj?.&#x27;  
+  
+A Berenadfc.  
+»T «i«nr|  
+  
+Come to the window, my dear one.  
+There&#x27;s a path in the quiet gror*  
+Surely when others are near ouo,  
+&quot;lis iiksome to whisper of love.  
+  
+iDin&amp;illitafc jO  
+  
+Register, 8tk.  
+  
+uf tbe paiKM  
+  
+I fIPy think they d«» not need the paper  
+  
+:*r  
+  
+NUMBER 49C  
+  
+Authors and Printers.  
+  
+To those who are inclined to gtitm*  
+hie bi •cause a slight miHtakc  
   
 IIIHV  
   
@@ -3185,7 +3391,7 @@ cing to a readable condition manu­
 scripts that the writer himself would  
 be puzzled to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84038074%2F00279529467%2F1865113001%2F0888.jp2/pct:83.217421,20.115535,11.629233,19.822014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84038074%2F00279529467%2F1865113001%2F0888.jp2/pct:74.012845,7.937549,20.833808,75.850117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3418,6 +3624,7 @@ puzzled to re»*I
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+visit have seento the Capital. Since their arrival is  
 in high repute as stuck clcholars, sent to them tn a TI  
 teroin their own hand a olowritigd brother an  
 especiallycks to ehnical and foBureau.i terms-ucab­  
@@ -3440,7 +3647,8 @@ evidenthor. And no one but a practical pman rises ande
 talknows abhow many hoursut the comporinderpest, and the slagitor,- a  
 and after him thetac promb of ox-reader, is compeed  
 to speland in &quot;Wlreducing to a readable condi­  
-tion, manuscripts that thein&quot; repliader himselfrman
+tion, manuscripts that thein&quot; repliader himselfrman.  
+would be puzzled the satisfied Sumner, and aread
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gambit_ver01%2Fdata%2Fsn82003389%2F00280761874%2F1866051601%2F0383.jp2/pct:16.596802,38.494448,13.320913,23.571356/!600,600/0/default.jpg"/>
 </td>
@@ -3639,6 +3847,8 @@ self would l?e puzzled to read. Th
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+twenty years ago In the l.o.lou Cour­  
+ier, f n.iil..-i of the importance of prin­  
 ters to authors, in (lie following terms :  
 &#x27;&quot;..Many who condescend lo illumin­  
 ate llie&#x27;dark woil-l wilh the lire of  
@@ -3679,7 +3889,7 @@ readable eoinlil i&#x27;.li manuscript that
 the author himself would be pnzdcd to  
 read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_bentley_ver01%2Fdata%2Fsn83025733%2F00200297520%2F1873100501%2F0839.jp2/pct:30.786656,34.310394,12.273476,18.450864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_bentley_ver01%2Fdata%2Fsn83025733%2F00200297520%2F1873100501%2F0839.jp2/pct:30.786656,33.404135,12.273476,19.357123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3747,7 +3957,8 @@ read.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ers and Printing.  
+  
+Printers and Printing.  
 The late J. T. Buckingham, in his  
 &#x27;Reminiscences,&#x27; published about twen  
 ty years ago in the Boston Courier,  
@@ -3818,7 +4029,17 @@ read.&quot;- . : ,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-he roller skate was the re­  
+sandal rolls forward under the in­  
+fluence of the push, and the. walker  
+practically gets over much more ground  
+and with less exertion than in ordinary  
+shoes. The pedo-mbtor-is reported to  
+give a good walker a 6peed of twelve  
+miles an hour over good sidewalks, and  
+while the apparatus may be regarded as  
+a mechanical curiosity, it is worthy some  
+attention on account of its -promises for  
+the future. The roller skate was the re­  
 sult of innumerable inventions and  
 patents before it was perfected, and,  
 like manner, this wheeled sandal ma  
@@ -3855,7 +4076,7 @@ compelled to spend in reducing to reada­
 ble condition manuscript that often writ­  
 ers themselves would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763190%2F1879041501%2F0056.jp2/pct:49.520437,76.122876,11.273425,19.304166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763190%2F1879041501%2F0056.jp2/pct:49.520437,71.037933,11.273425,24.389109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3906,6 +4127,11 @@ selveweoald be pualed to read.-W.od
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+stitation in our power to devise, we  
+may safely wait for time to render a  
+just judgment upon our action. Let  
+as therefore &quot;be just and fear not.&quot;  
+PRINTERS AND PRnmTINo.-Many  
 who econdeseeend to illaminate this dark  
 world with tile fire of their geoinus,  
 through the eolumnas of a newspaper,  
@@ -3931,9 +4157,15 @@ with scorn and contempt. No one
 weaold hare believed that such gross  
 and palpable faults were owing to the  
 ignorance or careleeeness of the au­  
-thor; and no one bat
+thor; and no one bat the practical  
+printer knows how nsy hours the  
+compositor, and after am a proof*  
+reader, is eompelled to spend in re­  
+dueing to readable condition mann­  
+script that often writers themselves  
+would be pnzzled to read.--[Wood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555158%2F1879043001%2F0567.jp2/pct:16.195373,79.415888,12.853470,14.053738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555158%2F1879043001%2F0567.jp2/pct:16.195373,76.133178,12.853470,20.338785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3945,6 +4177,21 @@ thor; and no one bat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+r­  
+lwawld hiding them there when th  
+  
+search became so vigorous that he  
+feared detection.  
+When the corn was yellowd and the  
+apples hanging ripe from the trees, a  
+quiet wedding took place in&#x27;a lovely  
+New York Village.  
+&quot;In theadark days did you doubt&#x27;my  
+Iinnoceneet&quot;&#x27;asked the husband one  
+day. A  
+&quot;Never, love. But the shock was  
+Aso great that I was prostrated, a$d  
+ifor months lay near to .the door of  
 }death. Never speak of it again.&quot; F  
 And now the bank has a cashidl  
 who has ever a good word for the A  
@@ -3986,7 +4233,7 @@ readable condition manuscript that
 often the writers themselves ý, ould be  
 puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gambit_ver01%2Fdata%2Fsn88064592%2F00280761862%2F1879051001%2F0061.jp2/pct:29.315158,20.828994,13.565446,25.400958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gambit_ver01%2Fdata%2Fsn88064592%2F00280761862%2F1879051001%2F0061.jp2/pct:16.718673,13.299313,26.161931,84.867736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4088,7 +4335,20 @@ i read
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- habit ot wear­  
+as of wealth, a  
+match was opposed by the father.  
+The consequence was, that the  
+; young man was forb&#x27;ddeu to visit  
+; his employer&#x27;s house. The old gen  
+and w hen the father went into his  
+counting house and tine ■ oft his  
+, epistle, read it, and sent the re­  
+ply back iu the same manner,  
+Love and Ingenuity were finally  
+i successful.  
+... ... .. , .  
+cloak, the lover took out the lady s  
+tlemau was in the habit ot wear­  
 ing a cloak, and. tbe young couple  
 made him the innocent bearer of  
 their correspondence. The lady  
@@ -4136,7 +4396,7 @@ manuscript that often writers
 themselves would be puzzled to  
 read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_flareon_ver01%2Fdata%2Fsn88064492%2F00295874739%2F1879060701%2F0731.jp2/pct:69.988739,14.621131,26.088589,78.655283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_flareon_ver01%2Fdata%2Fsn88064492%2F00295874739%2F1879060701%2F0731.jp2/pct:69.575826,14.621131,26.501502,82.950907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4200,6 +4460,9 @@ would be ozzled to read.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Many who oondeeoend to illuminate  
+thia dark world with the lire of their  
+genius through the oolumns of a newe­  
 paper, little think of tha lot of the  
 printer, who sits up st midnight to oor­  
 rect their fslse grammar and ortho­  
@@ -4229,7 +4492,7 @@ spend in reducing lo readable oondition
 mannsoript thst often writers themselves  
 wonld be puxxled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_palisade_ver02%2Fdata%2Fsn84022046%2F00279553974%2F1879062101%2F0582.jp2/pct:56.721249,54.196643,12.400038,13.470276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_palisade_ver02%2Fdata%2Fsn84022046%2F00279553974%2F1879062101%2F0582.jp2/pct:56.721249,52.795658,12.438119,14.871261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4319,7 +4582,20 @@ find it puzzling to read.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f to guide.  
+two miles. We have writ­  
+ten upon paper manufactured from  
+iron, and have seen a book with  
+leaves and binding of the same ma  
+terial. Exchange.  
+A PREACHMENT.  
+O, manl if hard thy fortune, j  
+However fata importune,  
+Turn not to wrong. None find, or will,  
+Thoir good enlargod by doing ill.  
+As boats that row in Venie,  
+Just so the lifo of man is;  
+Our course grows crooked o&#x27;er the tide,  
+With bnt a broken oaf to guide.  
 Toy heart of oak then cherish,  
 Or sure thy soul will perish;  
 The soul is but a boat that gOM  
@@ -4362,7 +4638,7 @@ ducing to readable condition manu­
 script that often writers themselves  
 would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879071701%2F0536.jp2/pct:63.178295,75.423923,9.745293,20.084785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879071701%2F0536.jp2/pct:63.178295,69.248396,9.772979,26.260312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4384,7 +4660,7 @@ would be puzzled to read
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-va n tha ser­  
+  
 mons of eminent divise ant to th press  
 niiun point or capital to designate the di­  
 vision of tbe sentence; alto the letters of  
@@ -4401,7 +4677,7 @@ ducing to readable condition manuscript that
 often the author themselves might find it  
 puzzling to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_ireland_ver01%2Fdata%2Fsn84022644%2F00295867553%2F1879081501%2F0852.jp2/pct:72.318886,55.529473,10.882632,8.437663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_ireland_ver01%2Fdata%2Fsn84022644%2F00295867553%2F1879081501%2F0852.jp2/pct:72.318886,56.038080,10.882632,7.929056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4459,6 +4735,14 @@ puzzled to read
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+exchange, of the lot of the prui-  
+tor. who sits up at mm night to correct i  
+their false grummer an 1 orlhography  
+and worse punctuation. We hvtva seen  
+i ii  
+ie arguments of lawvcis. in high repute  
+....i.,.i.... o,t- o, n. i.rintw- in ibeir  
+rl.S .s. ie.o.t i , .J. . . v v. . ov. i ...... . ... . ... . .  
 -: own iiaiiuw ruing, many wore;.- espi ciai-  
 fly technical and foreign terms abbre-  
 I . . ... 1 - 1  
@@ -4483,7 +4767,7 @@ to readable condition manuscript that
 often the writers themselves would lie  
 puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477710%2F1879092601%2F0290.jp2/pct:61.277818,83.832194,12.318737,10.051850/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477710%2F1879092601%2F0290.jp2/pct:61.277818,81.168984,12.318737,12.715060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4542,6 +4826,7 @@ selves would be puzzled to read
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+I been m printed the pthrter would  
   
 have seen treated with acorn aud  
   
@@ -4559,7 +4844,7 @@ ter kuows how many, boure com
 positor, aud after him the proof­  
 reader, ia compelled to spend in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn87065532%2F00295878022%2F1880010901%2F0002.jp2/pct:56.075140,49.925180,12.350120,4.815671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn87065532%2F00295878022%2F1880010901%2F0002.jp2/pct:55.835332,49.326622,12.589928,5.414229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4571,9 +4856,7 @@ reader, ia compelled to spend in
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-is remedy that can be applied to a boil, i  
-Reel it carefully, wot and apply to the i  
-part affected. It will draw out the mat- ,  
+  
 ter and relieve the soreness in a few ;  
 hours.  
 Printers and Printing. ,  
@@ -4609,7 +4892,7 @@ ing to readable condition manuscript that 1
 often the writers themselves would be  
 puzzled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_easton_ver01%2Fdata%2Fsn85025407%2F00279522230%2F1881041501%2F0129.jp2/pct:26.882696,75.049907,11.471160,19.756386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_easton_ver01%2Fdata%2Fsn85025407%2F00279522230%2F1881041501%2F0129.jp2/pct:26.882696,76.599560,11.471160,18.206733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4622,6 +4905,8 @@ puzzled to read.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Iminate a dark world with the fir, of  
+[genius, througli the columns of a  
 [paper, littlo think of the lot of the  
 [er, who sits up till fnidnight to cor­  
 [heir false grammar,bad orthography  
@@ -4650,7 +4935,7 @@ cingto readable condition, miinu­
 that often the writers themselves  
 ■d be puzzled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eyelet_ver02%2Fdata%2Fsn85034375%2F00199917079%2F1886010901%2F0395.jp2/pct:0.000000,46.951220,14.961014,13.944159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eyelet_ver02%2Fdata%2Fsn85034375%2F00199917079%2F1886010901%2F0395.jp2/pct:0.000000,45.924262,14.985380,14.971117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4708,7 +4993,7 @@ read.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- wLo  
+  
 spends hours of toil over their false  
 grammar, had orthography and poor  
 pnnctuntion. IIow often are the argu­  
@@ -4740,8 +5025,7 @@ kuows how many hour* a compositor,
 and, after him a proof reader, is oonr­  
 pelled to spend in reducing to a reads­  
 J bio condition manuscript that the writ*  
-ers themselves would be puzzled to  
-re
+ers themselves would be puzzled t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_lasvegas_ver01%2Fdata%2Fsn84020355%2F00279554991%2F1888090101%2F0826.jp2/pct:4.744918,7.423253,36.845192,83.393207/!600,600/0/default.jpg"/>
 </td>
@@ -4755,9 +5039,7 @@ re
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- dI the lot of the printer, who  
-spends hour* of to 1 over their false  
-grammar, hat orthography ?&gt;&#x27;?&lt;! poor  
+  
 I unci nation. llow uftuu ure the nrgu*  
 incuts of luwyor* in high repute us  
 tichol trri given to the printer in their  
@@ -4781,11 +5063,9 @@ printer. Nobody would have lielievod
 I hut such gross and palpable faults u eie  
 owing to Iho cnrelessiio*n of the author.  
 Anil no one hut tho practical printer  
-known how many hours it compositor,  
-mul, alter him a proof reader, is co?? -  
-pellfil t&#x27;i spend in lednring 
+known how many hours it compositor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_keystone_ver03%2Fdata%2Fsn86076366%2F0027176263A%2F1888090901%2F0154.jp2/pct:20.633791,50.664284,12.227897,17.584974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_keystone_ver03%2Fdata%2Fsn86076366%2F0027176263A%2F1888090901%2F0154.jp2/pct:20.688212,52.498651,12.173476,14.550175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4797,7 +5077,10 @@ pellfil t&#x27;i spend in lednring
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-w cftc-n are the argu­  
+  
+«pends hours cf toil ov* r thtl? false  
+grammar, bud orthography and poor  
+punctuation How cftc-n are the argu­  
 ments of lawyers lu high repute as  
 scholars given &lt;0 the printer in their  
 handwriting—mmy words, and espeoluT*  
@@ -4817,9 +5100,11 @@ as an illiterate blockhead-as a fellow
 better fitted to be a wood-sawyer than »  
 printer. Nobody won d bavebtlmvcd tba  
 snob groRf and p dpabi» faults  
-to tho carelessness of tbe author. An
+to tho carelessness of tbe author. And  
+ne but the pracdoal printer knows bow  
+many houra a compositor, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_horcrux_ver01%2Fdata%2Fsn88053046%2F00271741741%2F1888100401%2F0021.jp2/pct:59.586466,57.251908,10.831767,9.618321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_horcrux_ver01%2Fdata%2Fsn88053046%2F00271741741%2F1888100401%2F0021.jp2/pct:59.562970,56.297710,10.855263,11.583969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4935,6 +5220,19 @@ be puzzled to read
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+lieve the horse rolled over the wagon  
+and then wagon rolled over the  
+horse.&quot; The neck of the horse was  
+broken which is quite a loss for  
+Rapp.  
+Printers and Printing-  
+The incorrectly written articles that  
+are sent into printing oSices can only  
+be properly guaged by printers who  
+havfl the training to correct and  
+present them properly for tho pub­  
+lie to read. Thoso who write badly  
+little think of the skill aud ability of  
 the printer, who sets up at midnight  
 ta mirror. t their bad frrauimer and  
 orthography, and worse punctuation.  
@@ -4946,21 +5244,21 @@ technical and foreign terms, abbrev­
 iated, words misspelled and few or  
 no points, and this few, if any, c?r­  
 tiinlv in the wrong place. We Lava  
-Been &quot;the sormona of soain of ou
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_mateer_ver01%2Fdata%2Fsn86053634%2F00212478039%2F1892092801%2F0362.jp2/pct:52.146291,15.975076,11.246566,6.138141/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1892-09-28/ed-1/seq-2)
-
-#### 1892-09-28 &middot; Mifflintown, Juniata County, Pa.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+Been &quot;the sormona of soain of our  
+most celebrated &quot;divines&quot; pent to tho  
+DreesKn a most chaotic condition with  
+out oointa or capitals to mark thi  
+divisions of the sentences ; alao the  
+It Iters of scientific and politic&quot;! cor  
+respondents that have requiredTioure  
+of the closest study to diecipher.  
+Suppose all these had ben printrd  
+as written, nothing bat scorn and  
+contempt would Lavs been launched  
+i x- J  
+upon ino planter, o one wuui&#x27;i  
+ever have believed that such incon  
+gruities WGre other than tbe fault of  
 the printer, and not owing to tas lg­  
 norauco or heedlessness of the au­  
 thor ; and no one but a practical  
@@ -4968,10 +5266,9 @@ printer knows how many Lours the
 compositor and after him a proof­  
 reader, is compelled to epend in  
 reducing to a readable condition  
-that 6ven the writers themselves  
-would have hard puzzling to disciph
+that 6ven the writers themselve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_mateer_ver01%2Fdata%2Fsn86053634%2F00212478039%2F1892092801%2F0362.jp2/pct:52.214973,29.007026,11.263736,4.587034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_mateer_ver01%2Fdata%2Fsn86053634%2F00212478039%2F1892092801%2F0362.jp2/pct:51.991758,8.590746,11.521291,24.406735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4984,6 +5281,8 @@ would have hard puzzling to disciph
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+think of the lot of the tdiM and  
+printer, who spend hours of toil, over  
 their false grammar, bad autbography  
 and poor punctuation. How often are  
 the arguments of lawyers, iu , high  
@@ -4998,7 +5297,7 @@ sent to the press without points or cap­
 itals to designate the division of sen­  
 tencessermons which, if publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_bronte_ver01%2Fdata%2Fsn86063592%2F00415626721%2F1898111901%2F0238.jp2/pct:40.281786,45.750765,10.864030,7.075409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_bronte_ver01%2Fdata%2Fsn86063592%2F00415626721%2F1898111901%2F0238.jp2/pct:40.281786,44.633595,10.864030,8.192579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

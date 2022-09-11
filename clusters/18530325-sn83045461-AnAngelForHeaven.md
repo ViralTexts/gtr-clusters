@@ -1,7 +1,7 @@
 
 # Wanted--An Angel For Heaven
 
-### 108 reprints from 1853-01-27 to 1879-08-16
+### 103 reprints from 1853-01-27 to 1879-08-16
 
 ## [Wanted--An Angel For Heaven](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-03-25/ed-1/seq-1/)
 
@@ -122,9 +122,15 @@ your care-worn fare; it mocks you as yoq
 sew tbe shroud ; it meets you at tbe eoflir  
 t the grave ; aud its heavy footatcps trar ()p  
 up and down in tbe empty rooms f rent  
-whence you have homo your dead. Jiu
+whence you have homo your dead. Jiut  
+it comes never in the hush of uight to wipe  
+away year tears !  
+Wasted an angel for heaven? Cxi  
+you look wp f Can you bear the sp&#x27;j  
+of the sight ? Ten thousand celc  
+ings, and jour own radiant Isagel i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F0028077635A%2F1853012801%2F0675.jp2/pct:79.647495,68.970991,12.782931,17.448405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F0028077635A%2F1853012801%2F0675.jp2/pct:79.647495,68.970991,12.782931,21.561553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +330,17 @@ return to thee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sight, had a little discomposed the  
+ sir, a sensible and logical man,  
+; and strorg upon figures ; calculate the dif­  
+ference between him who in ten years  
+reaches from zero to thirty thousand, and  
+i him, who in the same time, falls from over  
+? a million to zero ! I do not believe I de­  
+ceive or flatter myself in believing the quo­  
+I tient of this sum in proportion will be in  
+j my favor!&quot;  
+The frankness of the young clerk who,  
+at first sight, had a little discomposed the  
 banker, concluded by winning him over.?  
 To-day the marriage of the partner in the  
 firm of X*** with the daughter of the  
@@ -392,7 +408,7 @@ watch thy footsteps, cherub forms bend to
 taint; so eha.lt thou &quot;go to them,&quot; though  
 ! &quot;they may not return to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ibizanhound_ver01%2Fdata%2Fsn83045461%2F00280654000%2F1853032501%2F0311.jp2/pct:76.700680,24.286744,18.980383,59.578741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ibizanhound_ver01%2Fdata%2Fsn83045461%2F00280654000%2F1853032501%2F0311.jp2/pct:76.700680,15.359460,18.980383,68.506025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +532,10 @@ your own radiant child-angel in their mids
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ply; &quot;two foi  
+  
+TwzUHuNa &#x27;You have two  
+hidrenv&#x27; said . or  
+I have four,&quot;vas the reply; &quot;two foi  
 t earth and two in heaven. ne  
 Thus spoke the mother! Still here!- cu  
 1ly &#x27;gone beforel&#x27; Still remember- to  
@@ -547,7 +566,7 @@ t free from earth taint; so shalt thou
 To to them, tho&#x27; they may not re. n  
 urn to thee. F.iNNY FsI. 0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288476%2F1853040501%2F0300.jp2/pct:30.023571,6.314360,14.122962,17.498397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288476%2F1853040501%2F0300.jp2/pct:30.023571,4.997925,14.122962,18.814832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +688,19 @@ ures, children of earth
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ed,  
+osed  
+I send you the amount of your wages for an-  
+other year. I hope it will insure your weekly  
+visits, as I feel quite desolated by your absence.  
+The ‘ Youth’s Companion,’ that dear friend,  
+On which my joys so much depend,  
+  
+Which cheers my sad and lonesome hours,  
+As earth refreshed with genial showers.  
+  
+That best solace of all that’s left  
+Of my sad life, of all bereft,  
+And must I be of thee deprived,  
 And left alone to brave the tide?  
   
 No; rather let me be deprived  
@@ -733,7 +764,7 @@ earth!
   
 Can you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1853-04-07_26_50&#0036;3/pct:29.346652,48.780044,21.760259,33.084487/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1853-04-07_26_50&#0036;3/pct:29.184665,41.096140,21.922246,40.768390/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +878,17 @@ not return to thee.— Fanny Fern
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-well attested.  
+tal height 242 feet.  
+Another one, in a forest of spruce,  
+cedar and fir, of about the same size,  
+measured thirty-nine feet in circumfer­  
+ence. Mr. Coe says : &quot;Gen. John Adair,  
+of Astoria, informs me that about three  
+years ago he bought a hundred thousand  
+shingles, all made from ono cedar tree,  
+for which he gave fifteen hundred dollars  
+in gold.&quot; The tremendous size of timber  
+in Oregon appears to be well attested.  
 The salaries of the various officers within  
 the gift of the President of the United  
 States amount to upwards of fifty mil­  
@@ -897,7 +938,7 @@ Wanted angels for heaven 1 Cling
 not too closely to your beautiful treasures?  
 children of earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1853042101%2F0566.jp2/pct:66.064578,5.374469,30.834399,89.610814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1853042101%2F0566.jp2/pct:66.016624,5.374469,30.882353,89.610814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +1018,17 @@ earth
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- accomplished, which, amid treacher­  
+rn  
+vindicator of the people’s right—the rebel  
+triumphant, the soldier olive-crowned, the  
+patriot with clean and empty hands. Such  
+is the far-reaching depth, the eternal vitality  
+of one great, heroic life, sending us shoots  
+abroad into all lands, and lacing together  
+continents and nations in bonds of unseen  
+hut indestructible sympathy—such the far­  
+sounding weight of one mighty purpose glo­  
+riously accomplished, which, amid treacher­  
 ous straits of defeat and despair, off perilous  
 shores of rock seated power, nnchors safe  
 against leagued tempests, the great hope of  
@@ -1015,7 +1066,7 @@ Warned—angels for heaven ! Cling not
 too closely to your beautiful treasures, chil­  
 dren of earth !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895667%2F1853051901%2F0080.jp2/pct:69.215956,61.076269,12.590555,17.947940/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895667%2F1853051901%2F0080.jp2/pct:69.215956,56.504147,12.590555,22.520062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1078,18 @@ dren of earth !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the pickpocket  
+overnor, did not  
+represent the whole State, and our friends are very  
+confident that Andrew Johnson will be chosen.  
+S. P. Allison is the Democratic nominee for Con­  
+gress in the 8th district.  
+  
+The city of Mobile haa subscribed $1 000,000 to  
+  
+don&#x27;t you think that, if I paid you extra, you could  
+put the pickpocket and the alderman into one room,  
+and give me the other V  
+&quot;Oh, no, sir, we&#x27;ve tried that; the pickpocket  
 wouldn&#x27;t go such company as that.&#x27;1  
 &quot; Well, I don&#x27;t see any alternative. Send up my  
 baggage, and put me in with the pickpocket &quot; And  
@@ -1070,7 +1132,7 @@ On liis brow a glory crown.&quot;
 Wanted angels for heaven! Cling not too close­  
 ly to your beautiful treasures, children of earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1853052001%2F0547.jp2/pct:35.697971,67.371839,15.732903,17.721145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1853052001%2F0547.jp2/pct:20.139729,65.905736,31.291146,29.518843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,6 +1145,8 @@ ly to your beautiful treasures, children of earth
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+We were shown to-day a beautifully exe­  
+cuted Ten Dollar Note of the Citv Hank of  
   
 Two in lit vr.N. &#x27;Yon linen two children,&quot;  
 aid I.  
@@ -1090,9 +1154,10 @@ aid I.
 two in heaven.&quot;  
 Tliero upoke tho mother 1 Slill here ! only  
   
-New Haven, Conn., pronounced by the clierinhcd by tho hearth and at the board; thei
+New Haven, Conn., pronounced by the clierinhcd by tho hearth and at the board; their  
+tethers at Page &amp; Bacon&#x27;s tn bo counter- places not yet fillcJ; ant even though thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn89067494%2F00280779726%2F1853052101%2F0220.jp2/pct:10.866142,57.475582,41.364829,5.202855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn89067494%2F00280779726%2F1853052101%2F0220.jp2/pct:10.787402,57.475582,41.443570,5.972953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1105,6 +1170,7 @@ New Haven, Conn., pronounced by the clierinhcd by tho hearth and at the board; t
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+as that of the genuine. Wo adviso tho in- &quot;Two in heaven!&quot;  
 uxperiencod to refuse nil notes of this plate j &#x27; drib less attractive! Eternity nearer! In­  
 Until familiar with tho points of difforenco , v&#x27;&#x27;hlocord, drawing the. maternal soul upward,  
 bttwern this good and had. The fact that &#x27; &quot;Still, small voices,&quot; ever whispering, &quot;como!&quot;  
@@ -1115,7 +1181,7 @@ unless great precaution be used. The coun alfh.!hy isleH c&#x27;,cn&#x27;b ,orn,
 ifo-r!i k .11 &quot;&quot;&#x27;l-,u&quot; ,len! Keep thy spirit free from earth &#x27;tumt: so  
 lut t?&#x27;d, J,a co,nlM,nwnhaltihou ifto them,&quot; thouKh -Uhcy may no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn89067494%2F00280779726%2F1853052101%2F0220.jp2/pct:10.813648,70.623591,41.469816,6.874530/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn89067494%2F00280779726%2F1853052101%2F0220.jp2/pct:10.813648,69.853494,41.469816,7.644628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,9 +1315,11 @@ I this tt Ai I 1 Ai ^ • v,ii cleanses the hair, but inclines it to
   
 lucate How sweetly he sleeps, that precious little an- glossy and natural appearance,  
 could ■ How lightly curl the flaxen locks on his When applying this prcp-cration,  
-, , white forehead ! You could weep your very Xylobals.-.mum can bo used wit
+, , white forehead ! You could weep your very Xylobals.-.mum can bo used with  
+  
+i! fu! ^onl away to think those cherub lips will never, ‘I® *® 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27&#0036;3/pct:48.323522,37.183099,19.529050,2.807512/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27&#0036;3/pct:48.323522,37.183099,19.529050,3.173709/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1307,7 +1375,7 @@ jt.M-ther of angels.&quot; Walk softly! llo­
 Rcyes watch their Footsteps! Cherub  
 us Leii&#x27;i to listen! Keep Ihy spirit free  
 era jjprAi tuinljso shall thy soul go to them,  
-Qgli they ma
+Qgli they may not return to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292467%2F1853082501%2F0356.jp2/pct:5.336649,30.364249,12.796480,15.273952/!600,600/0/default.jpg"/>
 </td>
@@ -1357,7 +1425,18 @@ pillowed. &quot;Two in Heaven!&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-of God—farewell ! I&#x27;m now in Heaven.  
+r that &quot; soothing balm of consol­  
+ation wliicli can make the dying die in peace.  
+While on the bed of pain she lay,  
+Her every whisper seemed to say :  
+God take thy Lizzy to thy care,  
+To be with Thee and Pa, is now my only prayer.  
+When death&#x27;s cold hand had siezed ite prey,  
+Her placid countenance seemed to say :  
+I see my Pa in yonder realm, ,  
+The abode of God—farewell ! I&#x27;m now in Heaven.  
+  
+The abode of God—farewell ! I&#x27;m now in Heaven.  
 Dira», at &quot; Waterproof Plantation,&quot; in this parish, on the  
 26th of October, 1853, GEORGE J. If. HUNTER, son of Wm  
 and Octavia E. Hunter, aged 8 months and 22 days.  
@@ -1386,7 +1465,7 @@ On his brow a glory crown.&quot;
 Wanted—angel tor heaven ! Cling not too closely to your  
 beautiful treasures, children of earth !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1853111201%2F0086.jp2/pct:68.484627,80.961160,14.659590,13.409538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079110%2F00295872433%2F1853111201%2F0086.jp2/pct:68.484627,76.302852,14.659590,18.067847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,16 +1571,6 @@ t&#x27;-nonreturn-to theo.&quot;&#x27; .&#x27; &#x27;
 
 ---
 
-## An Angel for Haven
-
-#### From _The Ohio observer._
-
-#### 1854-09-27 &middot; Hudson [Ohio]
-
-[This text is not available under an open license.]
-
----
-
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1855-04-14/ed-1/seq-1)
 
 #### 1855-04-14 &middot; Ottawa, Ill.
@@ -1593,7 +1662,7 @@ has wandered so often over your cheek..
   
 Vainly you clasp and unclasp that pas-  
   
-sive, darling hand that has wandered so
+sive, darling hand that has wandered s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027273%2F1855052301%2F0416.jp2/pct:51.083773,64.952622,10.779145,7.113076/!600,600/0/default.jpg"/>
 </td>
@@ -1631,8 +1700,6 @@ It shouts in your ear; its chariots rum
 
   
   
-it&#x27;eomes Dcver in the hush  
-  
 wipe away your tears 1  
   
 . Wanted an angel for &#x27;Heaven f Can  
@@ -1650,7 +1717,7 @@ sures, children of earth ! &#x27; :-
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027273%2F1855052301%2F0416.jp2/pct:51.025190,80.530638,10.588752,6.127606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027273%2F1855052301%2F0416.jp2/pct:51.025190,81.162350,10.588752,5.495894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1770,17 @@ taint; so shalt thou &quot; go to them;,,; though,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ho ultimately became  
+your preaching I first became  
+convinced of sin, and it was your voice that  
+brought me the words of salvation. You  
+will remain in my bouse. X have a pious  
+servant to attend you. . It is time you were  
+at peace, and your excellent lady relieved  
+of her heavy burden.&quot;  
+Ihe crippled preacher fell prostrate on  
+the floor, and poured out such thanksgiv­  
+ing and prayer as found way to tbe heart  
+of Mrs. W , who ultimately became  
 a meek and pious woman a fit helpmate  
 for a devout Gospel minister. And, strange  
 to say, she dates ber conversion from the  
@@ -1746,7 +1823,7 @@ Wanted angels for Heaven! Cling
 not too closely to your beautiful treasures,  
 children of earth!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775782%2F1855052501%2F0091.jp2/pct:43.995532,52.038137,12.511637,22.329695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775782%2F1855052501%2F0091.jp2/pct:43.995532,46.635346,12.567492,27.732486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1866,7 +1943,19 @@ msy not return to thee.”’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f Boston.  
+Emperor Napo  
+leon ns the &quot;Imperial Gambler, of France,  
+who had won his throne with dice made from  
+the bonus of the Great Napoleon.&quot;  
+(Vr Lnst week nearly fourteen millionsi of  
+v T . p&#x27;  
+!  
+CB-r An opinion signed by Rufua ChoaU,  
+bliss werwin, money uaruevi ana unas. .  
+wring, touching some poims oi me quo  
+ww, ana pronouncing them irregular &quot;  
+unconstitutional, lias neen lurnisnea to tne  
+wine merchants of Boston.  
 The girl who Is destined to be thy wife,  
 although now unknown to thee, Is sure tn be  
 living somewhera or other. Hope,therefnre,  
@@ -1908,7 +1997,7 @@ Wanted angels for Heaven! Cling nut too
 closely to your beautiful treasures, children  
 of Earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn84024443%2F00200293861%2F1855062201%2F0014.jp2/pct:17.403537,13.972269,23.794212,79.033978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn84024443%2F00200293861%2F1855062201%2F0014.jp2/pct:17.323151,13.972269,23.874598,79.033978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2147,9 +2236,10 @@ Mother of cherubs! walk softly!
 Little angels watch thy steps. Spirit  
 forms stoop to listen I Keep thy soul  
 free from earth ; thou shalt go to them,  
-thou
+though they cannot return to thee !  
+Authority
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84028880%2F00296027558%2F1855102301%2F0530.jp2/pct:18.751183,56.047454,12.828761,13.425926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84028880%2F00296027558%2F1855102301%2F0530.jp2/pct:18.751183,56.047454,12.828761,14.467593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2180,28 +2270,19 @@ face, it meets you at the coffin, at the grave, and
 its heavy footsteps trnmp up and down in the  
 empty room from whence you have borne your  
 dead. But it comes never in the hush of night  
-to wipe away your tears ! In the solemn silenc
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040307%2F00514151362%2F1855110801%2F0179.jp2/pct:56.776662,27.823420,12.812052,8.332420/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Tribune and telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040307/1855-11-08/ed-1/seq-1)
-
-#### 1855-11-08 &middot; Kenosha, Wis.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+to wipe away your tears ! In the solemn silence  
+of tho grave we feel the force of that sickening  
+sorrow which hangs heavily upon the heart as  
+though it would press it down into that narrow  
+space over which the spirit dwells in mournful  
+suspense. But a brighter vision meets the eye.  
 Can you look up ’ (.’an you bear the splendor of  
 that sight ? Ten thousand celestial beings, and  
 your own radiant child-angel in the midst—   
 In her eyes a glory bright,   
 On her brow a glory crown.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040307%2F00514151362%2F1855110801%2F0179.jp2/pct:56.776662,38.383174,12.769010,2.227334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040307%2F00514151362%2F1855110801%2F0179.jp2/pct:56.776662,27.823420,12.812052,12.787089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2243,21 +2324,11 @@ tramp up and down in the empty nom from
 whence 3 011 have borne your dead. But it  
 comes never in the hush of night to wipe  
 away your tears ? In the solemn silence of  
-the grave we feel the force of the sickenin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879166%2F1855121101%2F0361.jp2/pct:54.534075,69.545555,12.712100,11.956762/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1855-12-11/ed-1/seq-1)
-
-#### 1855-12-11 &middot; Charlotte, N.C.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+the grave we feel the force of the sickening  
+sorrow which hangs heavily upon the heart  
+as though it would press it down into that  
+narrow space over which the Spirit dwells  
+in mournful suspense. But a brighter vis­  
 ion meets tho eye. Canyon look up?  
 Can you bear the splendor of that sight ?  
 Tan thousand celestial beings, and your ra­  
@@ -2265,7 +2336,7 @@ diant child angel in the midst
 In her ey es a glory bright.  
 On her brow a glory crown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879166%2F1855121101%2F0361.jp2/pct:54.909597,83.951026,12.253129,3.496581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879166%2F1855121101%2F0361.jp2/pct:54.534075,69.545555,12.712100,17.902052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2299,21 +2370,11 @@ steps tramp up and down in the empty room
 from whence yon have borne your dead.—&#x27;  
 But it comes never in the hush of night to&gt;  
 wipe away your tears! In tht solran silence  
-of the grave we feel the force of the sicken
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hershey_ver01%2Fdata%2Fsn85025182%2F00296028393%2F1855121301%2F0582.jp2/pct:81.002543,62.941090,12.095895,13.278213/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1855-12-13/ed-1/seq-1)
-
-#### 1855-12-13 &middot; Bloomsburg, Pa.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+of the grave we feel the force of the sicken­  
+ing sorrow which hangs heavily upon the  
+heart as though it would pass it down into  
+that narrow space over which the Spirit  
+dwells in mournful snspence. Bui a bright­  
 er vision meets the eye. Can you lookup*  
 Can you bear the splendor of thai sight*—  
 The thousand celestial beings, and your ra&lt;  
@@ -2321,7 +2382,7 @@ diant child angel in the midst—
 In her eyes a glory bright,  
 On her brow a glory crown.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hershey_ver01%2Fdata%2Fsn85025182%2F00296028393%2F1855121301%2F0582.jp2/pct:81.002543,78.729268,12.065625,3.415522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hershey_ver01%2Fdata%2Fsn85025182%2F00296028393%2F1855121301%2F0582.jp2/pct:81.002543,62.941090,12.095895,19.203701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2354,21 +2415,12 @@ in your face, meets you at the coffin, at the grave,
 and its heavy footsteps tramp up and down in  
 the empty room from whence you have borne  
 , your dead. But it comes never in the hush of  
-night to wipe away your thars! In the solem
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1856010101%2F0446.jp2/pct:83.546785,13.823979,13.025842,11.181481/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1856-01-01/ed-1/seq-1)
-
-#### 1856-01-01 &middot; Mineral Point, Wis.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+night to wipe away your thars! In the solemn  
+silence of the grave we feel the force of that  
+sickening sorrow which Langs heavily upon the  
+heart as though it would press it down into that  
+narrow, space over which the spirit dwells in  
+mournful sus) tease. But a brighter vision meets  
 the eye. Can you look up ? Can you the  
 splendor of that sight ? Ten thousand celestial  
 -beings, and your ow n radiant child-angel in the  
@@ -2376,7 +2428,7 @@ midst—
 In her eyes a glory bright.  
 On her brow a glory crown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1856010101%2F0446.jp2/pct:83.546785,27.859067,12.834420,3.042877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1856010101%2F0446.jp2/pct:83.546785,13.823979,13.025842,17.077965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2651,7 +2703,13 @@ they may not return to thee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-till ronioni­  
+  
+Two in Heaven.  
+&quot; You have two children,&quot; said t.  
+&quot;I have four. was the ronlv-1  
+two on earth1, tm in Heaven.&quot;  
+Thore spoke the mother I Still  
+hors, only gdne boftfro 1 Still ronioni­  
 bared, loved arid cherished, by tue  
 I.I Ih.tl . . . . &#x27; t  
 hoartn ana at the board ; their places  
@@ -2681,7 +2739,7 @@ tllOll (TO to thWlh. ihn&#x27;iV.rh lfiW Wiv
 L &#x27; -O &quot; &quot;&quot;V ,  
 nl return to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn95063180%2F00212472852%2F1858062401%2F0113.jp2/pct:79.783853,79.159274,14.219114,16.814522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn95063180%2F00212472852%2F1858062401%2F0113.jp2/pct:79.762662,75.406032,14.240305,20.567763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2916,6 +2974,10 @@ tears! In the solemn silence of the grave we fee
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+the force of the sickening sorrow which hangs  
+heavily upon the heart, as though it would press  
+it down into the narrow space over which the  
+spirit dwells in mournful suspense. But a bright  
 vision meets the eye. Can youlookup? can you  
 bear the splendor of ihe sight? ten thousand ce-  
 lestial beings, and your radiant child-angel in the  
@@ -2927,7 +2989,7 @@ On her brow a glory crown.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1859-06-23_11_551&#0036;5/pct:63.337696,54.056317,12.814136,2.543704/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1859-06-23_11_551&#0036;5/pct:63.311518,52.213964,12.840314,4.386057/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2940,6 +3002,7 @@ On her brow a glory crown.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+those littlo oyes and farcver shrouded their  
 bright glanccs. How swectly sho sleeps, that  
 littlo covetcd anecl ! How lightly curl the  
 glossy ringlcts on her forchead! You could  
@@ -2960,7 +3023,7 @@ whouco you havo borno your dcad, llit it
 comes ncvcr iu thc hush of night to wipe  
 away your teara ! In tho solcmn silenco o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_graniteville_ver01%2Fdata%2Fsn84023200%2F00280777638%2F1859072901%2F0759.jp2/pct:82.266693,71.138517,12.819497,9.640547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_graniteville_ver01%2Fdata%2Fsn84023200%2F00280777638%2F1859072901%2F0759.jp2/pct:82.266693,70.627162,12.819497,10.151903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3007,6 +3070,10 @@ uway your tear! In the solemn silence of th
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+night we feel the force of the sickening sorrow  
+which hangs heavily upon the heart, as though it  
+would press it down into the narrow space over  
+which the spirit dwells in mournful suspense.—  
 But a bright vision meets tze eye. Can you look  
 up? can you bear the splendor of the sight? ten  
 thousand celestial beings, and your radiant child  
@@ -3015,7 +3082,7 @@ angel in the midst of thea—
 In her eyes a glory bright,  
 On her brow ¢ glory crown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32&#0036;5/pct:64.687500,72.557471,16.464844,3.577586/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32&#0036;5/pct:64.609375,70.057471,16.542969,6.077586/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3137,9 +3204,18 @@ Car, it smiles ip. j our ftpe, it mow you aL the
 enflin, at the èràrp, and ila heavy fooPoPh  
 -tramp up and dowfi in the empty room from  
 whence you hate borne roar dead. But it  
-comes never in the hash ofnighttewipe away
+comes never in the hash ofnighttewipe away.  
+Wo feel the fnrfll ih UrtJilrWfàiirijf anrrhw that,  
+sinrit   
+penae. &#x27; Buf a .bright vision meet* the ey»r  
+Can yon fqok up? can you bear the udendoci  
+of the sight? Ton thousand celestial bring’  
+and your radUnt child angel in the midst og. .  
+them— &#x27; v  
+* In b« yea a glory bright, ~  
+On lier brow a glory crown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn82014488%2F00279557438%2F1859090301%2F0533.jp2/pct:83.065380,29.480699,12.955520,9.381565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn82014488%2F00279557438%2F1859090301%2F0533.jp2/pct:83.065380,29.480699,13.674527,15.011161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3171,7 +3247,12 @@ comes never in the hash ofnighttewipe away
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y  
+  
+Twi in HsyvKt &quot;You ba.e two ciii!­  
+drei V&quot; laid I.  
+&#x27; 1 have four,&quot; wasth: reply; &quot;two on earth  
+am&#x27;, two in heaven.&quot;  
+Thin sppke the inotb -i! S&#x27;ill hers! only  
 &quot;gone befof e!&quot; Still raaaefaoeffd, lovert and  
 eberiaiied, b t:. hearth nn-l ibe hoard; their  
 place not yet fi ieJ; even though their surcea­  
@@ -3195,7 +3276,7 @@ tttburl K-ep th ej.irit fra from earth taint;
 so shait thy soul go to them, though they may  
 not re&#x27;. urn Lo thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200290033%2F1861092201%2F0238.jp2/pct:39.903424,60.067296,10.579456,8.010420/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200290033%2F1861092201%2F0238.jp2/pct:39.903424,58.222077,10.579456,9.855639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3288,7 +3369,14 @@ tures tended by the good Shepherd of the heavenly fold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ous, sacri-  
+soft winds of refreshment to weary wanderers, win  
+outcasts to the fold, wipe stigmas of exclusiveness  
+and mammon from the Church, lead the joyous flock  
+by still waters, and make the desert blossom as the  
+rose. More of Christ is what we all want in our  
+hearts, our homes, our Churches, our business, our  
+politics, our schools, our literature, our art, our gov-  
+ernment—more of his sweet, holy, courageous, sacri-  
 ficing spirit—more of his patience, his love, his ten-  
 der appreciation of man. Yea, we want him as our  
 own precious Redeemer, whose blood cleanseth from  

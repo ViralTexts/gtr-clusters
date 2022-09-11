@@ -1,7 +1,7 @@
 
 # From _Odd Fellow_
 
-### 131 reprints from 1841-12-04 to 1846-07-20
+### 130 reprints from 1841-12-04 to 1846-07-20
 
 ## [From _Odd Fellow_](https://go-gale-com.ezproxy.lib.ryerson.ca/ps/i.do?p=BNCN&u=rpu_main&id=GALE|BA3205300564&v=2.1&it=r&sid=bookmark-BNCN&asid=5cb842e5.)
 
@@ -17,7 +17,8 @@ Published by the Authors, and sold by Strange, 21, Paternoster-Row; Wilson, 18, 
   
 The CORDIAL BALM of SYRIACUM is exclusively directed to the cure of nervous and sexual debility, obstinate gleets, syphilis, irregularity, weakness, impotency, barrenness, &amp;c. Sold in bottles at 11s., or four times the quantity in one bottle for 33s. Sold by all Medicine Vendors in Town and Country. Observe the signature of R. and L. Perry, on the stamp on the outside of each wrapper. — The Five Pound Cases may be had as usual.  
   
-PERRY’S PURIFYING SPECIFIC PILLS, price 2s, 9d., 4s. 6d., and 11s. per box, are the most effectual cure for every stage of the venereal disease in both sexes; including secondary symptoms, disorders or the urinary passages, and all external diseases of the skin, without hinderance from business. Messrs Perry expect when consulted by letter, the usual fee of £1. Patients are requested to be minute in the detail of their cases. Medicines can be forwarded to any part of the world, protected from observation. Messrs. Perry may be consulted as usual at 4, Great Charles-street, four doors from Easy-row, Birmingham, and 44, Albion-street, Leeds, punctually from 11 in the morning until 5 in the evening, and on Sundays from 11 till 1. Only one personal visit is required from a country patient to enable Messrs. Perry to give such advice as will effect a permanent cure, after all other means have failed. N.B. — Country Medicine Vendors can be supplied by most of the Wholesale Patent Medicine Houses in London, with the above Medicines.
+PERRY’S PURIFYING SPECIFIC PILLS, price 2s, 9d., 4s. 6d., and 11s. per box, are the most effectual cure for every stage of the venereal disease in both sexes; including secondary symptoms, disorders or the urinary passages, and all external diseases of the skin, without hinderance from business. Messrs Perry expect when consulted by letter, the usual fee of £1. Patients are requested to be minute in the detail of their cases. Medicines can be forwarded to any part of the world, protected from observation. Messrs. Perry may be consulted as usual at 4, Great Charles-street, four doors from Easy-row, Birmingham, and 44, Albion-street, Leeds, punctually from 11 in the morning until 5 in the evening, and on Sundays from 11 till 1. Only one personal visit is required from a country patient to enable Messrs. Perry to give such advice as will effect a permanent cure, after all other means have failed. N.B. — Country Medicine Vendors can be supplied by most of the Wholesale Patent Medicine Houses in London, with the above Medicines.  
+
 </td></tr></table>
 
 ---
@@ -767,16 +768,6 @@ PERRY’S PURIFYING SPECIFIC PILLS, price 2s, 9d., 4s. 6d., and 11s. per box, ar
 #### From _Derby Mercury_
 
 #### 1842-10-19 &middot; Derby, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Odd Fellow_
-
-#### 1842-10-22 &middot; London, England
 
 [This text is not available under an open license.]
 

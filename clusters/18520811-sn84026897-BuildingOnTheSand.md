@@ -1,7 +1,7 @@
 
 # Building on the Sand
 
-### 229 reprints from 1852-06-24 to 1898-01-27
+### 226 reprints from 1852-06-24 to 1898-01-27
 
 ## [Building on the Sand](http://chroniclingamerica.loc.gov/lccn/sn84026897/1852-08-11/ed-1/seq-4/)
 
@@ -295,7 +295,20 @@ But “build upon the sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nnot live on yellirte dust,  
+-vond tlit day of youth;  
+For if yt&#x27; rite not heart for heart, &quot;;  
+A well s hsiuJ for hand, &#x27;&quot;  
+Vou&#x27;ll tin J juu&#x27;W playvil.tlx; vuwisc P4rt.  
+  
+.. : nJ &#x27; built upon the su;d.&quot; . ;  
+, , . , !  
+&#x27;Tin well to save, &#x27;lift wvll to have ,  
+A good I r atore of o&#x27;.d;  
+And hold, enough of llie shining stuff  
+. . For chart ty is cold. . -.-  
+Pot plnce not all your hope and trust,  
+Iu what thi! dtft-p miiw brinnt;  
+&#x27;.Ve annot live on yellirte dust,  
 &#x27;Unmixed wish purer thing.- &#x27;  
 And liewhtpiio tip wealth alone,  
 Will often have to stand ,  
@@ -316,7 +329,7 @@ r :1 &#x27;-
 For those who talk, yet fail to do,­  
 &#x27;j But &quot;built upon the&#x27; sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85042199%2F00296026670%2F1852092901%2F0422.jp2/pct:5.249110,19.560614,12.775801,11.633139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85042199%2F00296026670%2F1852092901%2F0422.jp2/pct:5.142349,12.308100,12.971530,18.885654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +341,9 @@ For those who talk, yet fail to do,­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-the world ban done,  
+  
+Tin well to woo, &#x27;lis good to wed,  
+For so the world ban done,  
 Since myrtles grew and roues blew,  
 And morning brought the un.  
 Hut have a rare, yo young and fair,  
@@ -364,7 +379,7 @@ Must lend n helping hend,
 For those who talk yet fail to do,  
 Out &quot;build upon the mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_fluttershy_ver01%2Fdata%2Fsn83016867%2F00295877923%2F1852100201%2F0383.jp2/pct:9.653311,31.568228,12.455885,25.003917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_fluttershy_ver01%2Fdata%2Fsn83016867%2F00295877923%2F1852100201%2F0383.jp2/pct:9.653311,30.894564,12.455885,25.677581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,9 +587,11 @@ Let deeds witb language dwell,
 Tbe one wbo pities starving birds  
 Should scatter crumbs as well.  
 The mercy that is warm and true  
-Must lend a helping band,
+Must lend a helping band,  
+For those who talk, yet fail to doy  
+But &quot; build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022627%2F1852111001%2F0632.jp2/pct:87.364933,73.621055,11.655381,18.120399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022627%2F1852111001%2F0632.jp2/pct:87.364933,73.621055,11.655381,19.058183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,9 +699,14 @@ Bui stay not at the gonUe. words,
 Let deeds with «nguiah dwell,  
 The one who pities starving binfe  
 Can scatter crumbs as well. .  
-The mercy th
+The mercy that is Warn and true,  
+Must lead a helping hand,  
+For those wh» talk, yet tail to do,  
+Bot b«iM«pn  
+Old Towse*­  
+Don&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn82003383%2F00295874429%2F1852122501%2F0441.jp2/pct:5.664313,71.688132,11.120026,19.330727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn82003383%2F00295874429%2F1852122501%2F0441.jp2/pct:5.664313,71.688132,11.120026,22.401104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +861,7 @@ But build upon the sand
 
 ---
 
-## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-01-22_8_18?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-01-22_8_18?page=3)
 
 #### 1853-01-22
 
@@ -1033,7 +1055,7 @@ The mercy that is warm and true,
 Must lend a helping hand  
 For tli&#x27;se who t.iln, et tail to do,  
   
-But
+But &quot;buill upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82014073%2F00279529200%2F1853020301%2F0725.jp2/pct:10.262233,15.414306,20.816437,19.331527/!600,600/0/default.jpg"/>
 </td>
@@ -1047,6 +1069,20 @@ But
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+ad ormiang brought the sun.  
+]ethave a eae, so young and fair­  
+Be sesyeo pledge with truth;  
+I&#x27;m oetaia that your love will wear  
+Beyond the days of youth.  
+-Forif we give not heart for heart,  
+A wo as head for band,  
+Tou&#x27;ll And you&#x27;ve played the unwise part,  
+And bult spun the nd.  
+&#x27;Tis well to srve, &#x27;ti wll to have,  
+A goodly store of gold;  
+We hold eoagh of shining stuff,  
+For obehity as cold.  
 $etplaee not all your hope and trust  
 h what th deep mtine brings:  
 We eannot live on yellow duet,  
@@ -1068,7 +1104,7 @@ Must ledhelping hand,
 For those who talk, yet fail to do,  
 BoItbuild upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gonne_ver01%2Fdata%2Fsn86053688%2F00202190418%2F1853020301%2F0028.jp2/pct:4.588091,25.178375,12.500000,10.647640/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gonne_ver01%2Fdata%2Fsn86053688%2F00202190418%2F1853020301%2F0028.jp2/pct:4.588091,18.002195,12.826264,17.823820/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,9 +1152,9 @@ Can scatter crumbs as well.
 The Mercy that is warm and true  
 Must lend a heli in.&#x27; hand,  
 For those who talk jet fail to do  
-But bui
+But build upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ibizanhound_ver01%2Fdata%2Fsn83045461%2F00280654000%2F1853031101%2F0263.jp2/pct:60.847209,15.266297,16.605452,25.355760/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ibizanhound_ver01%2Fdata%2Fsn83045461%2F00280654000%2F1853031101%2F0263.jp2/pct:60.847209,15.266297,16.605452,25.455164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1365,9 +1401,23 @@ And &quot;built upon the sand.&quot;
 A goodly ctoro.of gold,  
 And hold enough of the binning shiti&quot;,  
 For charity i* cold.  
-But. place not hll you
+But. place not hll your hopes and tru.-t  
+In what thq,deep mine brings;  
+Wo cannot live on yellow dust,  
+- Unmixed with purer things. j  
+And he who piles up wealth alo:.*\
+Will (jfLen.huro to bland  
+Beside his cofTer chest, and own  
+&#x27;Tib &quot;built Hl&#x27;iull the sand.&quot;  
+  
+I  
+&#x27;Tie good to speak in kind!;- guise,  
+Ajid foot lift where&#x27;er \vc can;  
+Fair speech t-lion&#x27;.d-bii-d the hnmnn mind, j  
+And h&gt;vo link man to mar.  
+But stay not at ge:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn93067882%2F0020219428A%2F1855072701%2F0225.jp2/pct:3.885202,19.279670,14.037774,11.851001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn93067882%2F0020219428A%2F1855072701%2F0225.jp2/pct:1.599456,19.279670,17.480574,20.210911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,9 +1564,10 @@ la- one who pities -Carving buds
 S -mi!.l .-caller erunibvus Well.  
 M rev that i- warm and tine  
 \] lend a hatpins hand,  
-pur Iho e wlin tal
+pur Iho e wlin talk yet tail In dtt,  
+But ••build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1855081701%2F0170.jp2/pct:3.635789,24.827995,12.245758,19.070779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1855081701%2F0170.jp2/pct:3.635789,24.827995,12.245758,19.596679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1629,18 @@ lint &quot; build upon the sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- kinds of Turning in  
+une 27th, 1855. [37-tf.  
+Books &amp; Stationery.  
+A Literary Depot, is opened by the under­  
+signed, on Main Street, Bottle Hill, at which,  
+WOKS, MAGAZINES and NEWSPAPERS of  
+every variety, and of the latest date, can be had  
+noon application.  
+JAMISON &amp; CALDWELL.  
+Bottle Hill, April 18th, 1855. [27-tf.  
+TURNING LATHE—The undersigned begs  
+leave to inform the citizens of Georgetown  
+!fathe is prepared to do all kinds of Turning in  
 e t manner and at the shortest notice.  
 r M. A. WOODSIDE.  
 Sorgetowa, Oct 19, 1654. i-tf  
@@ -1628,7 +1690,7 @@ Must lend a helping hand,
 For those who talk yet fail to do,  
 But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn93052972%2F00279557256%2F1855122001%2F0212.jp2/pct:4.565807,12.279613,70.725816,82.066882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn93052972%2F00279557256%2F1855122001%2F0212.jp2/pct:3.870626,12.279613,71.420997,82.066882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1640,7 +1702,9 @@ But “build upon the sand.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d has dolt­  
+  
+Tii wi ll to woo. &#x27;tis well to wed.  
+Fur so the world has dolt­  
 Fince myrtles grew and rosea blew,  
 : - And morning brought the sun.  
 Bot have a care, ye yonng and fair, &#x27; &#x27;  
@@ -1676,7 +1740,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do,  
 but &#x27;build oponihe sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775782%2F1856053001%2F0307.jp2/pct:30.703227,27.682824,11.453087,13.953488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775782%2F1856053001%2F0307.jp2/pct:30.703227,27.332586,11.453087,14.303727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1717,9 +1781,17 @@ Tis good to speak in kindly guise ;
 ..And sooth where&#x27;er we can:  
 &#x27;, iair speech should bind the human mind,  
 And love links man to man,  
-- But stop not at the ge
+- But stop not at the gentle words,  
+&#x27;Let deeds with language dwell;  
+The one who pities starving birds,  
+. Should scatter crumbs as well.  
+&#x27; , f : &#x27; . . -  
+. i The mercy that is waitn and true  
+t 7 . Must lend a helpiug hand,  
+i For those i ho, talk, yet fail to do,  
+But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F00296028861%2F1856061201%2F0267.jp2/pct:8.386295,16.626021,11.978447,18.216520/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F00296028861%2F1856061201%2F0267.jp2/pct:8.206687,16.626021,12.158055,22.341215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,9 +1904,21 @@ Uuniiitd with purer iliings.
 And he who piles up wealth alone,  
 Will often have to staud  
 Beside his coffor-chest, and own  
-&#x27;Tis &quot;built upou 
+&#x27;Tis &quot;built upou the sand&quot;  
+&#x27;Tis good to speak iu kindly guise  
+Aud sooth where&#x27;er we cau;  
+Falrspeech should bind the human mind,  
+And love links man to man.  
+But stay not gt the gentle words,  
+Lett deeds with language dwell;  
+The one who pities starving birds  
+, Should scatter crunis as well.  
+The mercy that is warm and true  
+Must leud a helping hand,  
+For these who talk yet fail tu do,  
+But &quot;buil&#x27;j upou the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026712%2F1857111201%2F0856.jp2/pct:17.193997,24.146769,10.884108,15.877512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026712%2F1857111201%2F0856.jp2/pct:17.193997,24.146769,10.884108,24.119790/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1856,7 +1940,14 @@ Beside his coffor-chest, and own
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rding  
+nths. ;  
+Terms of Advertisins m tJie Weekly Standard .  
+One dollar per square for the first insertion, nd 25 cts.  
+for each subsequent insertion. No deduction will be made  
+on Weekly advertisemen t, no matter how long they may run.  
+Only a limited number of advertisements will be admitted  
+into&#x27; the Weekly. All advertisements, not otherwise direct­  
+,cd are&#x27;insertfd iu tlieJSen i-Weekly,fand charged according  
 It. .When the number of insertions is not marked on the  
 advertisement it is inserted until forbid.  
 Money sent ns by mail is at our risk.  
@@ -1901,7 +1992,7 @@ Must lend a helping hand.
 For those who talk, yet fail to do,  
 But &quot;build upon the sa&quot;d.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022846%2F1858032001%2F0093.jp2/pct:2.325214,24.215987,14.093641,22.353219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022846%2F1858032001%2F0093.jp2/pct:2.277760,21.327517,14.141095,25.241688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +2004,20 @@ But &quot;build upon the sa&quot;d.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- trust  
+c pledgo with (ruth i  
+Uooortnin tlmt youv luvo wil\)vour Ljsy  
+Ooyond tho duys of youth.  
+KnV if I&#x27;A irlvn r?r*f hnni.! IV.%. *  
+  
+??? ?&#x27;V??. I .W. ..Vi.IV,  
+Ah well us hand for band,  
+You&#x27;ll rtnd you&#x27;vo played tho &quot;unwise&quot; puv  
+And &quot; built upon the sand.&quot;  
+&#x27;Tia well to save, &#x27;lis well to hare  
+A goodly store of golvl,  
+And bold enough of shining stuff,  
+For charity is cold.  
+lUit placo not all your hopes and trust  
 111 whlit thodciM) initio hilnir??  
   
 &gt; O&quot; ?  
@@ -1937,7 +2041,7 @@ Must lenil n helping hand,
 For those who talk yet fail to do,  
 Hut .&quot;build upon tho sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1858040301%2F0625.jp2/pct:51.116723,17.730761,13.726150,11.835719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1858040301%2F0625.jp2/pct:51.116723,10.811035,13.989899,18.755445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2204,9 +2308,10 @@ The one who pities starving birds,
 Should scatter crumbs as well.  
 The mercy that is warm and true,  
 Must lend a helping hand,  
-For thos
+For those that talk, yet fail to do,  
+But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879178%2F1858052501%2F0302.jp2/pct:6.453823,9.641304,13.085777,21.000000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879178%2F1858052501%2F0302.jp2/pct:6.453823,9.641304,13.085777,21.641304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2354,9 +2459,10 @@ The tin : who pities starving birds,
 Should scatter c ninths as well-  
 The mercy that is warm end true.  
 Must lend a helping hand—  
-For tho.-e who talk. }* t fa
+For tho.-e who talk. }* t fa.l to do,  
+But “build upon th&lt; sand.**
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026884%2F00279557499%2F1858061801%2F0625.jp2/pct:44.728970,12.396665,9.658267,18.649292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026884%2F00279557499%2F1858061801%2F0625.jp2/pct:44.728970,12.396665,9.658267,19.080146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2382,9 +2488,24 @@ As well as hand for hand I
 You&#x27;ll find you&#x27;ve played the &quot;unwiso&quot; part,  
 And &quot;built upou the sand.&quot;  
 !r..-..-v.;&#x27;&#x27; j-.-., h u.  
-&#x27;Tiswell to snvc, &#x27;tis well to havo
+&#x27;Tiswell to snvc, &#x27;tis well to havo,  
+A goodly store of gold. ; - &#x27;i  
+And hold enough of shining stuff.  
+For charity Iscold..,.-  
+f. o -.., ! . &#x27; &#x27;. - ,r  
+But place not nil your hopes aed trust  
+In what the deep mine brings; j J.f;)  
+Wo caunct live on yellow dust, t  
+Uuiuixed with purer things. , .-.&#x27;&quot;  
+And lie who piles up wealth alone,&#x27;  
+&#x27; Will often have to stand &#x27; - - &#x27; &#x27;  
+BexideJ his ceffurs&#x27; chest aud own &#x27;  
+f &#x27;Tis &quot;built upon tho sand.&quot; &#x27; &#x27;&#x27; ,  
+  
+&#x27;Tis good to speak in kindly guise,  
+And s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F0029602885A%2F1858061801%2F0125.jp2/pct:20.873056,18.789697,14.149523,9.297812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F0029602885A%2F1858061801%2F0125.jp2/pct:20.873056,18.789697,14.149523,18.648553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2633,9 +2754,9 @@ Should scatter crumbs as welt.
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those that talk, yet fail todo,  
-But
+But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1858080601%2F0683.jp2/pct:3.567820,29.195127,12.686766,24.154184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1858080601%2F0683.jp2/pct:3.567820,29.195127,12.686766,24.210106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2647,7 +2768,18 @@ But
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-u&#x27;Mm-A ill. Vi.t , hw.i..n  
+jan.Auioii&#x27;o. ami Sun .Dugo over&#x27;mn i mail  
+ron. We an- ufomu-d that Coi. &#x27;8 is  
+.Í4.N,.I n. i...!.. . . &#x27;  
+K .&#x27;(joiwi&#x27;i auuinvoionu n-u tuin  
+,M ros uicai iietior and Trciwr Depart-  
+&quot;&quot;&quot; iisosan tan nenas couKdan.  
+ti.i i.tr,,i,...iii..n .,. ...  
+i - i -i -.wii4 UV14I bu vxu.ciuuiii iu releí  
+I .. . ,. .. .  
+enr to ;m annexation Kouora, a achtm  
+Plain honesty is tho very best kud of pott  
+ttriess. and ti mtu&#x27;Mm-A ill. Vi.t , hw.i..n  
 Btmr xm Wir Hardsom feature!&quot;  
 ? &quot;!&#x27; &#x27;Pn,i ls&#x27;tig real beaoty.  
 laUvistsMrh sklA.lia id iun.1. .Uafu.4.4. f &#x27;  
@@ -2663,21 +2795,20 @@ Be certain that yuur love will wear ,
 Beyond the dnys ol youth. ;  
 Tor if yé give not heart for heart,  
 Ai well as band for hand, &#x27; , :v  
-You&#x27;ll fiiui you&#x27;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn88071075%2F0029602515A%2F1858080701%2F0393.jp2/pct:78.295025,49.855859,17.660751,14.973715/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn88071075/1858-08-07/ed-1/seq-2)
-
-#### 1858-08-07 &middot; Santa Fe, N.M.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ten have to stand .  
+You&#x27;ll fiiui you&#x27;v jdayed the &#x27;nuwife1 part  
+&quot;And ba.it apoa Um aand.&quot; .  
+&quot;Til well to save, &#x27;tis well to have &quot;  
+, A goodly store of gold,  
+&#x27; . And hold enough, of shining itnff, &#x27;,  
+For chanty is void. . &#x27; ; r &#x27;  
+.t  
+i  
+&#x27;f But place not all yonr hopes and trust&#x27;  
+. In what the dep mine brings ; -&quot;&#x27; &#x27;  
+&quot; We ceunut li ve on yellow dust .. J  
+; Unmixed with purer things. -  
+And be who piles np wealth alone, &quot;  
+Will often have to stand .  
 Beside bis coffer chest, aud own  
 &quot;Tis &quot;built upon the saud,&quot; ,  
 Tis good to spsak Iu kindly guif e-And  
@@ -2693,7 +2824,7 @@ The mercy that is warm and true, ,
 For those who talk, yet fail to do, &#x27;  
 &#x27; : But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn88071075%2F0029602515A%2F1858080701%2F0393.jp2/pct:79.313355,74.088520,15.944137,12.413091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn88071075%2F0029602515A%2F1858080701%2F0393.jp2/pct:78.265930,42.869256,17.689846,43.632355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3061,10 +3192,34 @@ But ■•build upon t ‘ C -in I.”
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+&#x27;? j-. And[bold enough of shining  
+ttup,~\y%?£ „ r. For charity is cold. .  
+.vr-iix ; ; :^ . f. ;&#x27; But||ilace not  
+all yonr hope ah4Watr^&#x27;&#x27;: _&#x27; &#x27;J^It^whit  
+the deep mine brings&#x27;j &#x27;&#x27;&#x27; &#x27; &#x27; &#x27;\,.&#x27;&#x27; &#x27;  
+1 &#x27;JfejcannOl live on yellow dust,&#x27; &#x27;&#x27;&#x27;  
+,A &#x27;&#x27;?&#x27;?-&#x27; - U^imi.-ed with purer  
+things;&#x27;&#x27;&#x27;&#x27;&#x27; &#x27;&#x27; &#x27;-???: i Andihe.w.ho  
+piles up wealth: a\one ,?&#x27; &#x27;? &#x27; &#x27; _,;\,\
+I Wjll often have to stand -;.r.&#x27;.i&#x27; , ,  
+i- :?&#x27;, ; Beside h&#x27;ts coffer chest,  
+antllpwnj1/ ,. &#x27; . .-i t &#x27;Tis &#x27;. built  
+upon the s»nd.V- , y . , ;,&#x27; l;  
+&#x27;Tis&#x27;goo&#x27;d to speak in kindly r guiiieji  
 ;:&#x27;? .&#x27; &#x27; 1 J&#x27;, A/&#x27;d So&#x27;othe where&#x27;er we  
 can ;,:.&#x27;,; &#x27;&#x27; Fair&#x27;spe&#x27;e&#x27;ch should bind  
 the human mind,&#x27; ? : ! &#x27; \ And love link  
-man to man: &#x27; &#x27;? V&#x27;1 ? &#x27; ? , ; , ,&#x27; . 
+man to man: &#x27; &#x27;? V&#x27;1 ? &#x27; ? , ; , ,&#x27; . ,  
+? ?? £ -; .. ? &#x27;$.;,. lull ...;J. — Bo*  
+stay not at ;the gentle works, ?? ?- , v  
+li LeV.deeds w-th laueuage dwell ; -.  
+The one whp.pitios;sjarving Viirds, ; ?  
+?. Should scatter crumbs as weU.v; -, &#x27;  
+; . ..: ?&#x27; ?&#x27; th*rmetcy that is warm and  
+true . ? ? &#x27;J \ Must&#x27;lpud a helping  
+haiiil, &#x27;?&#x27; \, . ; For &#x27;{hose who talk,  
+yet fail to ^b,&#x27; &#x27;?&#x27;.&#x27;? : . ., ? -*&#x27; ?  
+But &#x27;? build upon the sand!&#x27;-&#x27; /??? - ?
 </td></tr></table>
 
 ---
@@ -3110,21 +3265,26 @@ Tori! ye give not heart for heart,
 As well aa band for band.  
 You&#x27;ll 6nd you&#x27;ve plYedthe unwise part,  
 And built upon the aand. ,  
-fftt well to save, tU well to have,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292480%2F1861062701%2F0694.jp2/pct:6.969474,8.354719,11.511585,7.328201/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1861-06-27/ed-1/seq-4)
-
-#### 1861-06-27 &middot; Glasgow, Mo.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ten have to stand - &#x27;  
+fftt well to save, tU well to have,  
+  
+NEW BLACK SMITH SHOP  
+  
+TTiti Wilson .  
+  
+Ja Announces to bit old eusto-c  
+  
+A foodiy steie ot gw&#x27;u .  
+  
+And bold enough of stuning stun  
+  
+For CbaritT w cold.  
+  
+But place not all your bono and tnut  
+In what the deep mine bringst  
+We cannot lire on yellow dual, .  
+. Unmixed with purer things.  
+And he who piles up wealth alone  
+Will often have to stand - &#x27;  
 Beside bii coffee-cheat, and own  
 &#x27;Til built upon the sand.  
 Tii rood to speak in kindly guise,  
@@ -3140,7 +3300,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do,  
 But build upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292480%2F1861062701%2F0694.jp2/pct:7.429202,20.088395,10.867966,8.140861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292480%2F1861062701%2F0694.jp2/pct:6.969474,7.470773,24.954027,20.758483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3152,7 +3312,19 @@ But build upon the sand
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-g stuff,  
+tles Rrew, nod pises blew,  
+And morning liruuht the son ;  
+Bttt have a rare, ye ynnn: and fair,  
+Be sire re pledge, with truth ;  
+T eeruin that your lore will wear  
+Beyond the days of youth.  
+For if ye pive met heart for heart,  
+As well as hand for hind,  
+Toa&#x27;ll End you played the unwise part,  
+And luilt upon the rand.  
+&#x27;Tin well to save, &quot;t-&#x27;s well to have  
+A sroodly ttore of gold,  
+And bold enough of shining stuff,  
 s For charity is cold ;  
 But place not ill your hnpw and trust  
 In what the deep nine brings ;  
@@ -3175,7 +3347,7 @@ The mercy that is warm and true,
 For those who talk yet fail to do.  
 But build upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85038443%2F00280776385%2F1862042201%2F0558.jp2/pct:6.989708,15.302663,12.928816,12.542373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85038443%2F00280776385%2F1862042201%2F0558.jp2/pct:6.989708,8.264730,12.928816,19.580307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3314,7 +3486,13 @@ But “ build upon the sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e with trutli;  
+  
+1 Tis well to woo, tis good to wed,  
+For so the world hnth done  
+Since myrtle* grow, and roses McW,  
+And morning brought the sua.  
+But have .1 cure, ye young and fair,  
+Be sure you pledge with trutli;  
 Be certain that your love will wear  
 Beyond the days of youth I  
 For if yc give not heart for heart,  
@@ -3346,7 +3524,7 @@ Must lend a helping hand.
 For those w ho talk yet fail to do,  
 But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026207%2F1865032301%2F0262.jp2/pct:32.017708,21.963167,11.048759,15.599830/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026207%2F1865032301%2F0262.jp2/pct:31.961591,19.471527,11.104876,18.091470/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3425,9 +3603,6 @@ But “ build upon the sand.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-&#x27;Tie well to  
-• &#x27;tis well to wed,  
-the world hath done  
 Hinoe the myrtles grew, end  
 Aud morning brought the sun.  
 i  
@@ -3445,12 +3620,9 @@ upon the Band.&quot;
 p  
 For if ye give  
 As well I  
-You&#x27;ll find you&#x27;  
-&quot;built u  
-Anti  
-&#x27;lis well to save, &#x27;
+You&#x27;ll find you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741133%2F1865082201%2F0282.jp2/pct:52.326128,6.489676,12.500000,6.489676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741133%2F1865082201%2F0282.jp2/pct:52.326128,6.563422,12.500000,5.678466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3463,6 +3635,9 @@ Anti
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+We cannot live  
+brings ;  
+yellow dust  
 Unmixed with purer things.  
 And lie who piles up gold aioue,  
 Will ofteh have to stand  
@@ -3483,7 +3658,7 @@ Must lend a helpiug hand,
 For those who talk, yet fail tc  
 But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741133%2F1865082201%2F0282.jp2/pct:53.665414,15.800147,11.019737,8.517699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741133%2F1865082201%2F0282.jp2/pct:53.665414,15.062684,11.019737,9.255162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3754,6 +3929,14 @@ But build upon the sand
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Ti well to wrto.&#x27;&#x27;tiit wWl to wet! .&#x27; it.  
+For an the world hath done 1 i . I !  
+Sinoe myrtles crew, and rotos blew,: i  
+Atl morning brought (be sun. , &#x27;,&#x27; , &#x27;  
+But have a caro, yo young ami fair.  
+lie sure you pledge with ritli! &#x27; &#x27; : &#x27;.  
+He certain that your lovo i I wtnr u j;, ;t.  
+, . lieyoud tbe day of youth I ...... , , .  
 For if we give not heart for heart, &#x27; , .&quot; &#x27; .&#x27;  
 &#x27; As well ai band for hand, &#x27; &#x27; &#x27; &#x27;  
 You&#x27;ll find you&#x27;ve playod the unwise part, &#x27;.  
@@ -3783,19 +3966,9 @@ Must lend a helping hand.
 For those who talk, yet fail to do,  
 But &quot; build upon the sand.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_lysander_ver01%2Fdata%2Fsn84028645%2F00280774716%2F1865111101%2F0938.jp2/pct:57.059467,21.621262,12.331266,10.418605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_lysander_ver01%2Fdata%2Fsn84028645%2F00280774716%2F1865111101%2F0938.jp2/pct:57.059467,18.724252,12.331266,13.315615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## A Column for Boys and Girls
-
-#### From _Milwaukee daily sentinel._
-
-#### 1865-12-23 &middot; [Milwaukee, Wis.]
-
-[This text is not available under an open license.]
 
 ---
 
@@ -3815,7 +3988,23 @@ But &quot; build upon the sand.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-th alone.  
+ if we (jive not heart for heart,  
+A* well as hand lor hand,  
+You&#x27;ll find you&#x27;ve play.-d the tinwfmpart,  
+  
+And built upon the Hand.&quot;  
+  
+&#x27;Tta well to save. &#x27;Tix wed to ban  
+A goodly store of pdd.  
+And hold enough of shining stuff,  
+  
+For ehat ity is cold.  
+But pla* e not all your hope and trust  
+In what the deep mine luinfti:  
+We cannot live on yellow dust  
+  
+Unmixed with ps:ret things  
+And lie who piles tip wealth alone.  
 Will often have to *tand  
 Beside his eotTer chest, and own  
 &#x27;Tin built ti|Mu the Mind.&quot;  
@@ -3832,9 +4021,10 @@ Should scatter crumbs jts w«&#x27;llGr
 TTie inert-j that is warm and trt#  
   
 Must lend a helping hand.  
-For thow who talis, yet fai
+For thow who talis, yet fail to  
+But build u|mu the sand,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84038074%2F00279529467%2F1866011801%2F0916.jp2/pct:23.590268,29.645218,9.000303,6.172840/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84038074%2F00279529467%2F1866011801%2F0916.jp2/pct:23.590268,24.657064,9.083674,11.578750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3930,9 +4120,12 @@ And say fiot&#x27;aftho gentle words­
 Lef deeds with language dwell;  
 The one who pities starving birds  
 Should scatter crumbs as well.  
-The mercy that is wtabm and t
+The mercy that is wtabm and truo  
+Must lend a helping hand;  
+For these wlio talk, yet fail to do,  
+But’ &#x27;‘build upori the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051370%2F00414212578%2F1866032401%2F0022.jp2/pct:9.619122,8.092406,13.160707,21.859870/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051370%2F00414212578%2F1866032401%2F0022.jp2/pct:9.619122,8.092406,13.160707,23.713515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4094,7 +4287,20 @@ Must lend u helping hand
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lace not all your hope and trust  
+r uht the sun :  
+But have ye a care, ye yonng and fair.  
+Be sure you pledge with truth:  
+Be certain that young love will wear  
+Beyond the davs of youth !  
+For if yn give not heart for heart  
+As well i hand for band.  
+Ton &#x27;II find you&#x27;ve played the unwise part.  
+And &quot;built upon the sanl.&quot;  
+Tis well to save, lis well to have  
+A goodly store of gold.  
+And hold enough of shining stuff.  
+For charity is cold;  
+But place not all your hope and trust  
 In what the deep mine brings;  
 We cannot live on yellow dust  
 Unmixed with other things ;  
@@ -4113,9 +4319,9 @@ S bould rcatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping band.  
 For tbnse who talk, yet iail to do.  
-
+But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F0023728687A%2F1866041101%2F0145.jp2/pct:29.494602,16.326287,8.840557,6.282097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F0023728687A%2F1866041101%2F0145.jp2/pct:29.494602,12.158127,9.153497,10.474143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4127,7 +4333,8 @@ For tbnse who talk, yet iail to do.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to woo, &#x27;tis well lowed, i  
+  
+-;&#x27;&#x27; &#x27;Tts -trail to woo, &#x27;tis well lowed, i  
 For bo tbe world hat done &quot; v  
 .&#x27; &#x27;Since myrtles grew, and rose blew, ;&#x27;  
 . , . ..&#x27; And morning brought the sun.  
@@ -4164,7 +4371,7 @@ Must lend a helping hand;
 For those who talk, yet fail to do,  
 But &quot;build upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775824%2F1866042001%2F0063.jp2/pct:4.519955,5.013617,11.123577,15.016093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775824%2F1866042001%2F0063.jp2/pct:4.455842,5.013617,11.187690,15.016093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4259,9 +4466,13 @@ And love link man to man.
 But stop not at the gentle words;  
 Let deeds with language dwell ;  
 The one who pities starving birds,  
-Should scatte
+Should scatter crumbs as well,  
+The mercy that is warm and true  
+Must lend a helping hand,  
+Nor tbnse that talk, yet fail to do,  
+But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86053661%2F0029587630A%2F1866061401%2F0552.jp2/pct:8.629032,29.417503,12.016129,13.921405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86053661%2F0029587630A%2F1866061401%2F0552.jp2/pct:8.629032,29.417503,12.016129,15.607581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4305,9 +4516,13 @@ And loye link man to man.
 And stay not at the gentle words—  
 I*€t deeds with language dwell:  
 __,one who Pities serving birds  
-bbould scatter cr
+bbould scatter crumbs as well.  
+1 he mercy that is warm aud true  
+Jiiust lend a helping band,  
+J&lt;or those who talk, yet fail to do,  
+-t&gt;ut ouild upon the sand &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1866070301%2F0119.jp2/pct:7.282372,16.729129,12.482649,13.805904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1866070301%2F0119.jp2/pct:7.212968,16.729129,12.552052,15.561980/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4319,7 +4534,10 @@ bbould scatter cr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aud ruses blew,  
+  
+&#x27;Tis, wrtl to woo, &#x27;tin well to wed,  
+For eo the world hath done,  
+Since myrtles grew.aud ruses blew,  
 And morning brought llic sun.  
 Bmt hare a care, ja young and fair,  
 So sure you pledge in trntfa ;  
@@ -4349,9 +4567,12 @@ But stop not at the gentle words;
 Let deeds with language dwell;  
 The one who piUcs starving birds,  
 Should scatter cruuibe us well.  
-• Th mer
+• Th mercy that is warm and true,  
+Must lend a helping hand,  
+For those that talk, but fail to do,  
+But &quot;build upuu the sund.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn84026707%2F00296029944%2F1866070501%2F0106.jp2/pct:3.792271,6.698700,11.696860,13.175994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn84026707%2F00296029944%2F1866070501%2F0106.jp2/pct:3.792271,5.855474,11.696860,15.196910/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4441,9 +4662,12 @@ Let deeds with language dwell ;
 The one who pities starving birds  
 Should scatter crumbs as well.  
   
-The mercy that is warm an
+The mercy that is warm and true  
+Must lend a helping hahd—  
+For those that talk, yet fail to do,  
+But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-09-01_18_17&#0036;10/pct:34.948097,53.612589,19.723183,27.327128/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-09-01_18_17&#0036;10/pct:34.948097,53.612589,19.723183,29.654255/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4475,7 +4699,19 @@ The mercy that is warm an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t  
+ sun. j  
+But hare a eare, ye young and fair, 1  
+Be sure you pledge with truth ;  
+Be oertnin that your love will wear &#x27;  
+Beyond the days of youth 1 I  
+For if you give not hear* tor heart,  
+As w?lt a* hand to hand. I  
+You&#x27;ll find you&#x27;re played an unwiso part, |  
+And *&#x27; built upou the suud.&quot;  
+&#x27;Tis well to sure. &#x27;T?* well to havo  
+A goodly store of gold. ,  
+And hold enough of shiuiug stuff,  
+For ohnrily ia cold. t  
 But place not all your hope and truet i  
 On what tho deep mines brings; |  
 We cannot lire with yellow dust. ,  
@@ -4498,7 +4734,7 @@ Must lend a helping hand.
 For those who talk, yet fa;l to do,  
 But build upon the aand.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_jubilee_ver02%2Fdata%2Fsn83025802%2F0029586204A%2F1866101801%2F0067.jp2/pct:6.525376,16.694069,20.233005,11.175751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_jubilee_ver02%2Fdata%2Fsn83025802%2F0029586204A%2F1866101801%2F0067.jp2/pct:6.525376,9.801442,20.233005,18.068378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4543,9 +4779,12 @@ But stop not at the gentle words,
 Let deeds with language dwell,  
 The one who pities starving birds  
 Should scatter crumbs as well.  
-Tho mercy that is warm and&quot;
+Tho mercy that is warm and&quot; true  
+Must lend ajielping hand  
+For those that talk, yet fail to do,  
+Bnf “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_frost_ver02%2Fdata%2Fsn85026214%2Fprint00211110144%2F1866102801%2F0003.jp2/pct:57.505052,33.536980,9.484659,10.951642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_frost_ver02%2Fdata%2Fsn85026214%2Fprint00211110144%2F1866102801%2F0003.jp2/pct:57.505052,33.536980,9.484659,11.911689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4590,9 +4829,13 @@ But stop not at the gentle words;
 Let deeds with language dwell ;  
 The one who pities starving birds,  
 Should scatter seeds as well,  
-Th
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But “ build upon the sand.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349487%2F1866110901%2F0180.jp2/pct:43.648705,17.437338,11.405088,19.093921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349487%2F1866110901%2F0180.jp2/pct:43.648705,15.125324,12.624094,23.177759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4654,7 +4897,20 @@ But &quot;build upon the sand.!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+f night until the dawn  
+They sleep forgetting fear.  
+The hare sleeps where it lies,  
+With weary, half-closed eyes;  
+The cock has ceased to crow, the hen to cluck:  
+Only the fox is out, some heedless duck  
+Or chicken to surprise.  
+Remote, each single star  
+Comes out till they are there  
+All shining so brightly ; now the dew falls  
+damp ;  
+While close at hand the glowworm lights her  
+lamp  
+Or twinkles from afar.  
 But evening now is done  
 As much as if the sun,  
 Day-giving, had arisen in the east;  
@@ -4698,9 +4954,12 @@ But stop not at the gentle words,
 Let deeds with lanffq®g6 d7*’dl *,  
 The one who pities starving birds  
 Should scatter crumbs as well.  
-
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But “ build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn93052977%2F00279557451%2F1866122901%2F0152.jp2/pct:29.980769,48.721932,12.086538,21.084593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn93052977%2F00279557451%2F1866122901%2F0152.jp2/pct:29.937500,41.117074,12.129808,30.221720/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4713,6 +4972,10 @@ Should scatter crumbs as well.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+&#x27;ri&#x27;s well to woo, &#x27;tia welli to wod, L  
+For so the world hafh done. A ,  
+Since myrtles grew and rose b!ew,  
+, &#x27; - 1 ! LI..&#x27; L. il  
 I Ana morning urougut too bud.,  
 But have rv care, jo young and fair,  
 &#x27; Be suro yqV .pledge with truth; I  
@@ -4744,10 +5007,9 @@ Lai deed witb language, dwell; ,
 Tbf;on w(bo&#x27;pUie svaryln;! birds,  
 Bfeotnd (outer etamoaaa wen,  
 xVe&quot; &#x27;jne.rcy thaVW, wrand true,&#x27;  
-flatt lend &#x27; helping&#x27; band,  
-rortkouib&#x27;ota
+flatt lend &#x27; helping&#x27; band
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1867010401%2F0229.jp2/pct:62.061995,64.523536,14.914645,23.847794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1867010401%2F0229.jp2/pct:62.061995,61.915696,14.914645,25.783172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4759,7 +5021,19 @@ rortkouib&#x27;ota
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f,  
+ew and rose· blow,  
+And morning brought the tun.  
+But har» a oar·, ye young and fair,  
+Be lure you pledg· with truth ;  
+Be certain that your Ιοτ· will wear  
+Beyond the daya of youth !  
+For if you gire not heart for heart,  
+As well u hand for hand,  
+You&#x27;ll find you&#x27;re played an unwise part.  
+And &quot;built upon the sand.&quot;  
+Tia well to sate. Tis will to har·  
+A goodly share of gold.  
+And bold enough of shining stuff,  
 For charity is cold.  
 But place not all rjur hope· and trust  
 On what the deep mine bring· ;  
@@ -4782,7 +5056,7 @@ Must lend a helping hand,
 For those who talk, ret fail to do.  
 But &quot; build upon the snnd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279555223%2F1867011901%2F0069.jp2/pct:20.569620,12.690876,10.391847,9.062620/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279555223%2F1867011901%2F0069.jp2/pct:20.569620,7.660721,10.447692,14.092776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4825,7 +5099,10 @@ And love link man to man. .- ? ? - Bufc-
 stop not at the gentle words^ Let deeds  
 with language dwell ^ The ones who  
 pities starving birds Should scatter  
-crumbs as well. The mercy that
+crumbs as well. The mercy that is warm  
+and trueMust lend a helping hand, For  
+those that talk, yet fail to- dc-But u  
+build upon the sand.&#x27; * ? Eiiza Cook
 </td></tr></table>
 
 ---
@@ -4865,7 +5142,10 @@ lore link man to man. But stop not at
 the gentle words, Let deeds with  
 language dwell; The one who pities  
 starving birds Should scatter crumbs as  
-well The mercy t
+well The mercy that is warm and true  
+Must lend a helping hand, For those that  
+talk, yet fail to do, But &quot; build upon  
+the sand.&quot; An Honest Tale speeds best,
 </td></tr></table>
 
 ---
@@ -4886,7 +5166,21 @@ well The mercy t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hand,- &#x27;  
+  
+Tit well to woo. &#x27;tis well to wed.  
+For ao the world both don.  
+  
+Since myrtles grew and rose, blew.  
+  
+And moratog brought tbe sua.  
+  
+Bnt have . car., ye young and fair,&#x27;  
+  
+Be sure you pledge the truth;  
+Be cartel n that your tore wl II wear  
+Beyond the days of youth I  
+For If too have not heart for heart,  
+As wsllae band for hand,- &#x27;  
 You&#x27;ll 6tid you&#x27;ve played an oowis. tNUt,  
 And &quot;built upon tbe sand.&quot;  
 &#x27;Tie well to save. &#x27;Til well to have  
@@ -4918,7 +5212,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do,  
 . But &quot;build upoa the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84024207%2F00296028022%2F1867032801%2F0470.jp2/pct:61.652377,18.437202,9.684334,12.736943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84024207%2F00296028022%2F1867032801%2F0470.jp2/pct:61.613406,14.496113,9.723305,16.678031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4959,7 +5253,10 @@ mind, Aud lore link man to man. But stop
 not at the gentle words. Let deeds with  
 language dwell: The oue who pities  
 starving birds Should scatter crumbs as  
-welL The mercy th
+welL The mercy that is warm and true  
+Must lend a helping hand, For those that  
+talk, yet f il to do, But &quot; build upon  
+the sand.
 </td></tr></table>
 
 ---
@@ -4972,7 +5269,9 @@ welL The mercy th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-w and roses blow,  
+BUILDING ON TI1E SAND. &#x27;Tis well to woo,  
+&#x27;tis well to wed, For so the world hath  
+done, SinCo myrtles grow and roses blow,  
 And morning brought thoaun. But havo a  
 care, jo young and fair, He sure you  
 pledge with truth; Bo certain that your  
@@ -4998,7 +5297,8 @@ gentlo words, Let dcods with language
 dwell; Tho one who pities starving birds  
 Should scatter crumbs as well. Tho mercy  
 that is warm and true Must lend a  
-helping hand, For those
+helping hand, For those who talk, yet  
+fail to do, But &quot;build upon the sand.&quot;
 </td></tr></table>
 
 ---
@@ -5039,7 +5339,10 @@ mind ; And love link mon.to man. &#x27; j But
 stop not at the gentle words, &#x27; Let  
 deeds with language dwell ; - ? The one  
 who pities starving birds Should scatter  
-crumbs as well. The merc
+crumbs as well. The mercy that is warm  
+and true Must lend a helping ^hand, For  
+those that talk, yet fail to do. But &#x27;  
+build upon the sand.
 </td></tr></table>
 
 ---
@@ -5346,7 +5649,13 @@ But &quot;&#x27;build upon the ?aud.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-m&#x27;e you pledge wiili truth ;  
+  
+&#x27;Tis well to woo, &#x27;us ijood to wed.  
+For so the world hath done  
+Since myrtles grew, and n&#x27;ses blew.  
+And morning brought the sun.  
+Bjt have a care, ye young and fair.  
+He m&#x27;e you pledge wiili truth ;  
 Hp ceitsin that your love will wear  
 Beyond the day# of youth !  
 For if you give not heart for herr&#x27;,  
@@ -5379,7 +5688,7 @@ Mum lend a helping hand,
 For those who talk, yet fail to do,  
 But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1869010201%2F0423.jp2/pct:69.636422,13.337909,12.882624,18.750204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1869010201%2F0423.jp2/pct:69.636422,10.572932,12.882624,21.515181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5442,6 +5751,7 @@ But &quot; build upon the sand.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Tis well to woo, tls well to wed, &quot;&#x27;&#x27;&#x27;&#x27;! &quot; ;  
 ! For so the world hatb done s 1  
 Since myrtles grew, and rosea blew, -, 1  
 And morning brought tbe tun. ;  
@@ -5469,9 +5779,16 @@ Beside his coffer chest, and own,
 And sootLe where&#x27;er we can ; , &#x27;  
 .: I&#x27;uir speech should bind the human mind,  
 And Jove link man to ninn,  
-. But stay not ut ths gentle w
+. But stay not ut ths gentle words;  
+Let deeds with language dwell ;  
+The one who pities btarving hi. da  
+Should scatter crumb? as well.  
+The mercy tbar is warm tind true .. , ;  
+, Must lend a helping haiul.  
+For tuose who talk, yet fail in do,  
+But &quot; bhild upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042148%2F00296022688%2F1869032401%2F0053.jp2/pct:69.243214,6.436340,11.504584,11.631478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn85042148%2F00296022688%2F1869032401%2F0053.jp2/pct:69.243214,6.026871,11.504584,14.715291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5736,9 +6053,10 @@ The one who pities starving birds
 .Should scatter crumbs as well.  
 The mercy that is warm and true  
 Must lend a helping hand :  
-For tin s
+For tin se who talk, jet fail to do,  
+But “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187134%2F1869061101%2F0475.jp2/pct:31.335845,8.485804,12.037600,22.863652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187134%2F1869061101%2F0475.jp2/pct:31.335845,8.485804,12.037600,23.578689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5837,7 +6155,12 @@ And built upon the sand.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ll as hand for hand,  
+  
+lie t»uie 3« plcdgj with truth;  
+Be certaiu that your love will wear  
+Beyond the deys of youth.  
+For If ye give uot heart to heart.  
+Ai well as hand for hand,  
 11 Und you&#x27;ve played the unwise part,  
 And •&#x27;hnilt upon the sand.&quot;  
 *T.s welt to save lis well to have  
@@ -5863,9 +6186,9 @@ Should scatter crumbs as well.
 The mercy that is warm aud true  
 Must l«ud a helping hand;  
 For those alio talk, yet fail to do,  
-But
+But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_descendo_ver01%2Fdata%2Fsn87062253%2F00271765186%2F1873050101%2F0148.jp2/pct:7.637763,10.684932,9.704214,12.345890/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_descendo_ver01%2Fdata%2Fsn87062253%2F00271765186%2F1873050101%2F0148.jp2/pct:7.637763,8.835616,9.704214,14.280822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5927,7 +6250,20 @@ But “build upon the sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-TER BREM &amp; MARTIN,  
+nts, Oils, Dye Stuffs, Spices, Green and  
+Black Tea, &amp;c., Ac.  
+June 9. 1873-  
+Aladdin Security Oil,  
+Cutler&#x27;s Patent Pocket Inhaler, .  
+Hoytt&#x27;s German Cologne, &#x27;  
+Pure White Lead and Linseed Oil,  
+Bull&#x27;s celebrated Cough Syrup,  
+25.000 Cigars, for sale by  
+Sept. 6. 1875. W. R. BCRWELL &amp; CO.  
+Pistols! Pistols!!  
+The largest stock ever brought to Charlotte. All  
+prices from $1 to $30. Call and examine them.  
+WALTER BREM &amp; MARTIN,  
 Oct. 4, 1875. Central Hotel Building.  
 Toilet Setts,  
 Just received a new stock, at  
@@ -5968,9 +6304,12 @@ But stop not at the gentle words;
 Let deeds with language dwell; :  
 The OLe who pities starving birds,  
 Should scatter crumbs as well.  
-Thtf mercy that is warm a
+Thtf mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But &quot;build upou .the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1875102501%2F0176.jp2/pct:17.634380,14.688046,29.637613,79.206496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1875102501%2F0176.jp2/pct:17.580493,14.688046,29.691499,79.206496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6013,12 +6352,13 @@ language dwell ; The one who pities
 starving birds Should scatter crumbs as  
 well. The mercy that is warm and true  
 Must Jend a helping hand; For those wbo  
-talk, jet fail to do, J
+talk, jet fail to do, Just &#x27; build upon  
+the sand.
 </td></tr></table>
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652?page=3)
 
 #### 1875-10-30
 
@@ -6073,9 +6413,13 @@ Let deeds with language dwell ;
 The one who pities starving birds,  
 Should scatter crumbs as well.  
   
-The mercy that is warm 
+The mercy that is warm and true  
+Must lend a helping hand,  
+  
+For these that talk, yet fail to do,  
+But “ build upon the sand.”’ E. C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652&#0036;3/pct:36.742424,32.508834,21.212121,27.782686/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652&#0036;3/pct:36.742424,32.508834,23.200758,30.145760/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6120,9 +6464,12 @@ But stop not at the gentle words;
 Let de&quot;ds with language dwell ;  
 The one who pities starving birds,  
 Should scaiter crumbs a&quot; well.  
-Tae mercy that is warm and
+Tae mercy that is warm and trite  
+Must fend a helping hand,  
+For those that talk, Vet fail to dj,  
+Eit build tion the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1875111901%2F0653.jp2/pct:36.377165,12.537248,8.076299,10.639002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1875111901%2F0653.jp2/pct:36.377165,12.537248,8.076299,11.477762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6165,9 +6512,12 @@ But stop not at the gentle words.
 Let deeds with language dwell:  
 The one who pities starving birds  
 Should scatter crumbs as well;  
-The mercy that is warm and t
+The mercy that is warm and true  
+Must lend a helping baud,  
+For those that talk, yet fail to do.  
+Bat &quot; build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1875112601%2F0416.jp2/pct:15.380117,21.172353,8.801170,14.162292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1875112601%2F0416.jp2/pct:15.380117,21.172353,8.801170,15.365267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6214,9 +6564,12 @@ Bat stop not at the gentle words;
 Let deeds with langage dwell;  
 The one who pities starving birds,  
 Should scatter crumbs as well.  
-
+Tue mercy that Is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But &#x27;build upon the send.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_fox_ver01%2Fdata%2Fsn84038123%2F00295860649%2F1875121001%2F0397.jp2/pct:6.331380,8.728151,12.532552,21.124655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_fox_ver01%2Fdata%2Fsn84038123%2F00295860649%2F1875121001%2F0397.jp2/pct:6.331380,8.728151,12.532552,22.746090/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6246,9 +6599,18 @@ As well as hand for hand
   
 You&#x27;ll find you&#x27;ve played the unwise part,  
 And ‘+built upon the sand  
-
+  
+Tis well to save, ‘tis well to have  
+4 goodly store of gold,  
+  
+And hold enough of shining stuff  
+For charity is cold  
+  
+But place not all your hope and trust  
+in what the deep mine brings;  
+can live ow dus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1875-12-11_41_1054&#0036;5/pct:15.238313,20.676813,15.123740,6.622409/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1875-12-11_41_1054&#0036;5/pct:15.238313,20.676813,15.123740,10.977979/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6293,9 +6655,12 @@ But stop not at the gentle words ;
 Let deeds with language dwell,  
 The one who pities starving birds.  
 Should scatter crums as well.  
-The mercy that Is warm
+The mercy that Is warm and truo  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But &quot;bui.d upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1875121701%2F0967.jp2/pct:41.582945,8.174152,14.824798,21.683015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1875121701%2F0967.jp2/pct:41.582945,8.174152,14.824798,23.558768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6342,9 +6707,12 @@ But stop not at tho gentle words ;
 Lets deeds with languish dwell ;  
 The one who pities starving birds.  
 Should scatter crumbs a well.  
-The mercy that is warm
+The mercy that is warm and taue,  
+Must lend a helping hand, ;  
+For those that talk, yet f.il to do,  
+Iut &#x27;&#x27;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877492%2F1875122201%2F0061.jp2/pct:36.868132,10.467370,11.538462,13.407280/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877492%2F1875122201%2F0061.jp2/pct:36.868132,10.467370,11.538462,14.527245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6389,9 +6757,12 @@ But stop not at the gentle words;
 Let deeds with language dwell;  
 The one who pities starving birds,  
 Should scatter crumbs as well.  
-The mercy that is warm an
+The mercy that is warm and true,  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876010601%2F0040.jp2/pct:1.977648,16.239494,12.254616,14.391887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876010601%2F0040.jp2/pct:1.977648,16.239494,12.254616,15.607418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6406,6 +6777,10 @@ The mercy that is warm an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+THE SAND. &#x27;Tis well to woo, &#x27;tis good to  
+wed, i For so the world has done, &#x27; i  
+?Since myrtles grew and roses blew, i  
+And morning brought the sun. I But havo  
 r. care, ye young and fair, &#x27; : j | Be  
 sure ye pledge the truth ;: ?. . i Be.  
 certain that your love will wear . &#x27;  
@@ -6430,7 +6805,13 @@ And soothe where&#x27;er we can ; . &#x27; ? Fair
 speech should biml. the human. mind, &#x27; -  
 And love &#x27;ink mitn to man. :, - But  
 staj&#x27; not at the gentle words, Let deeds  
-with.language dwell ^ , lEho one wh
+with.language dwell ^ , lEho one who  
+pities starving birds, , 1 : Slioukl  
+scatter -crumbs as well. ? ^I&#x27;lie mercy  
+that as v, &#x27;arm imd true, Miist &#x27;lend a  
+helping hand : ? 3?or those who talk yet  
+fail to do, &#x27; ; Just &#x27; build upon the  
+sand.&#x27; ?
 </td></tr></table>
 
 ---
@@ -6480,9 +6861,12 @@ But stop not at the gentle words;
 Let deeds with language dwell;  
 The one who pities starving birds  
 Should scatter crumbs as well;  
-The mercy that Is warm and
+The mercy that Is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But&quot; build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_bobcat_ver01%2Fdata%2Fsn82014896%2F00211105719%2F1876010801%2F0059.jp2/pct:14.910468,15.269929,12.603306,17.494289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_bobcat_ver01%2Fdata%2Fsn82014896%2F00211105719%2F1876010801%2F0059.jp2/pct:14.910468,15.269929,12.603306,19.057352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6529,9 +6913,12 @@ But step not at the gentle words,
 Let deeds with anguish dwell;  
 The one who pities starving birds  
 Should ccatter crumbs as well.  
-The mercy that is warm and tr
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But “build upon the sand.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349190%2F1876010801%2F0837.jp2/pct:2.701644,20.222686,15.392522,21.826722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349190%2F1876010801%2F0837.jp2/pct:2.701644,20.222686,15.392522,23.636047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6576,9 +6963,12 @@ But stop not at the gentle words;
 Let deeds with anguish dwell;  
 The one who pities starving birds  
 Should scatter crumbs as well;  
-The mercy th
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But ‘build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1876011301%2F0280.jp2/pct:20.000000,59.776335,12.271588,18.683589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1876011301%2F0280.jp2/pct:20.000000,59.776335,12.271588,20.359439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6623,9 +7013,12 @@ But stop not at the gentle words ;
 Let deorts wi*h anguish dwell;  
 The one who pities starving birds  
 Should scatter crumbs as well;  
-The mercy that is warm and 
+The mercy that is warm and true  
+Must lend a helping baud,  
+For those that talk, yet fail to do,  
+But “ build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F0027176876A%2F1876011901%2F0222.jp2/pct:8.200989,5.025828,12.813503,15.156487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F0027176876A%2F1876011901%2F0222.jp2/pct:8.200989,5.025828,12.813503,16.466120/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6687,6 +7080,13 @@ B it “build upon the sand.’’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+WP  
+n  
+VA  
+J*  
+|  
+VA  
+V/.  
 V  
 1  
 IO  
@@ -6751,9 +7151,12 @@ But stop not at the gentle words;
 Let deeds with anguish dwell ;  
 The one who pities starving birds.  
 Should scatter crumbs as well ;  
-The mercy that is wann and
+The mercy that is wann and true  
+Must lend a helping hand.  
+For those that talk, yet fail to do.  
+But &quot; build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F0033289495A%2F1876012601%2F0561.jp2/pct:4.975923,7.154658,76.388443,23.230398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F0033289495A%2F1876012601%2F0561.jp2/pct:4.975923,5.184903,76.853933,26.648875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6765,7 +7168,31 @@ The mercy that is wann and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-etting an abstract from ua you can as­  
+d. All ordera will receive  
+prompt attention, Olttce near U.. f. R. AM. De­  
+pot.  
+6ml  
+  
+Have You  
+  
+QOOD TITLES?  
+  
+BREWER BRO&#x27;S.  
+HOT*  
+  
+jmt completed, after several year of bard  
+labor,  
+  
+A Comolete Abstract of all Tl­  
+tfes of all Real Estate in Buchan­  
+an Co.,  
+lOWa  
+  
+a»d are prepared to tfive reli­  
+  
+able information relating to the *sunc. There are  
+many clouded tllWs Are you sine yourfl is all  
+right&#x27; lly getting an abstract from ua you can as­  
 certain.  
   
 Remember that our office is in the atone Building  
@@ -6820,9 +7247,13 @@ I.et deeds with anguish dwell:
 The one who pities starving OlWW  
   
 Should scatter crumbs as woH  
-The merry that is warm and tr
+The merry that is warm and trtto  
+Must lend a helpuig hand.  
+For those that talk, yet fail to do.  
+  
+But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528918%2F1876012801%2F0016.jp2/pct:4.765414,11.658589,29.683125,85.552735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528918%2F1876012801%2F0016.jp2/pct:4.731024,11.658589,29.717514,85.552735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6868,7 +7299,7 @@ I
 
 ---
 
-## [From _Silent World 1871-1876_](https://iiif.archivelab.org/iiif/sim_silent-world_1876-02-01_6_3?page=0)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_silent-world_1876-02-01_6_3?page=0)
 
 #### 1876-02-01
 
@@ -6972,9 +7403,12 @@ But stop not at the gentle words;
 Let deeds with language dwell,  
 The one who pities starring birds  
 Should scatter ernmbs as well,  
-The moroy that is warm and t
+The moroy that is warm and true  
+&#x27;Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F0039334846A%2F1876021001%2F0228.jp2/pct:44.493942,16.830403,9.412865,11.559592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F0039334846A%2F1876021001%2F0228.jp2/pct:44.493942,16.830403,9.412865,12.542011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7013,7 +7447,6 @@ And &#x27;built upon the sand.&#x27;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-And morning brought the sun. ment. He had all the world from | membrance. For them it had done | cousin had not arrived, and she felt a  
   
 But have a care, ye young and fair,  
 Be sure you pledge in truth;  
@@ -7051,9 +7484,14 @@ And love link man to man.
 Lut stop not at the gentle words;  
 Let deeds with language dwell;  
 The one who pities starving birds, |  
-Should scatter crumbs
+Should scatter crumbs as well.  
+The mercy that is warm amd true  
+  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+Lut “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8&#0036;9/pct:9.183673,12.722883,81.547619,20.226597/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8&#0036;9/pct:9.183673,13.818722,16.184807,21.898217/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7098,9 +7536,12 @@ But stop not at the gentle words;
 Let deeds with language dwell;  
 The one who pities starving birds,  
 8hould scatter crumbs as well.  
-The mercy that is warm and t
+The mercy that is warm and true  
+Must lend a helping hand.  
+For those that talk, yet fail to do,  
+But ‘&#x27;build upou the sand.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_capemay_ver01%2Fdata%2Fsn85025540%2F00513685051%2F1876022301%2F0126.jp2/pct:3.982994,13.814335,11.842694,17.417903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_capemay_ver01%2Fdata%2Fsn85025540%2F00513685051%2F1876022301%2F0126.jp2/pct:3.982994,13.814335,11.842694,18.980897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7146,9 +7587,12 @@ But stop not at the gentle words;
 Let deeds with language dwell ;  
 ; The one who pities starving bird3  
 Should scatter crumbs as well ;  
-The mercy that is warm an
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk yet fail to do,  
+But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767808%2F1876022601%2F0035.jp2/pct:16.557946,9.627808,13.365718,20.118052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767808%2F1876022601%2F0035.jp2/pct:16.557946,9.627808,13.365718,21.816691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7193,9 +7637,12 @@ But stop not at the gentle words;
 Let deeds with language dwell ;  
 The one who pities starving birds  
 Should scatter crumbs as well.  
-The Mercy that is warm and 
+The Mercy that is warm and true  
+Must lend a helping hand.  
+Foi those that talk, yet fall to do,  
+But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029026%2F1876030901%2F0043.jp2/pct:16.905486,33.549083,9.784339,11.242958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029026%2F1876030901%2F0043.jp2/pct:16.905486,33.549083,9.784339,12.189860/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7290,9 +7737,12 @@ Hut stop not at the gentle words;
 Let deeds with language dwell,  
 The one who pities et-.rving lifeds  
 Should scatter crumbs no wU.  
-The mercy that i
+The mercy that is warm mid true  
+Jlunt lend helping hand,  
+For those thst talk, vet fail to do,  
+But &quot;build upou the gaud,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85026955%2F00200293538%2F1876040401%2F0464.jp2/pct:16.162335,29.504381,11.925952,15.840635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85026955%2F00200293538%2F1876040401%2F0464.jp2/pct:16.162335,29.504381,11.925952,17.237130/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7337,9 +7787,12 @@ But stop not at the gentle words;
 Let deeds with language dwell.  
 The one who pities starving birds  
 Should scatter crumla as welt  
-The me
+The mercy that is warm and true &#x27;  
+Must lend a helping hand.  
+For those that talk, yet fail to do.  
+But &quot;build Uion the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1876042401%2F0266.jp2/pct:14.686516,15.987004,8.288005,14.754649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1876042401%2F0266.jp2/pct:14.686516,15.987004,8.288005,16.043020/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7380,7 +7833,10 @@ human mind And love link man to man. But
 stop not at the gentle words; Let dee&lt;l»  
 with language dwell; The one who pities  
 starvuig birds. Should scatter crumbs as  
-well. T
+well. The mercy that is worn and true  
+Must lend a helping hand, For those that  
+talk, yet fail to do, . gut &quot; build upon  
+the sand. —Utlii&#x27;t Journal.
 </td></tr></table>
 
 ---
@@ -7393,7 +7849,7 @@ well. T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+. Bui -OH T UK GAKU. &#x27;&#x27;lis well l o woo.  
 &#x27;Tis ,irood towed, For so the world 1ms  
 done Sinco myrtles grew, and roses blow,  
 And morning brought the sun. But have a  
@@ -7421,7 +7877,9 @@ not at the gentle words; Let deeds&#x27; with
 language dwell: The one who pities  
 starving birds, bhould scatter crumbs as  
 well. The mercy that is warm and true,  
-Must lend a helping hand;
+Must lend a helping hand; For those who  
+talk yet fail to do, &#x27;Just build upon  
+the sand.&#x27;
 </td></tr></table>
 
 ---
@@ -7465,9 +7923,12 @@ But stop iot at the gentle words ;
 Let deeds with language dwell;  
 The one who pities starving birds  
 Should scatter crumbs as well.  
-The mercy that is warm and 
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+rut &quot;Build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_forge_ver01%2Fdata%2Fsn85038558%2F00280761527%2F1876060301%2F0357.jp2/pct:41.707397,13.604788,12.658847,16.340707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_forge_ver01%2Fdata%2Fsn85038558%2F00280761527%2F1876060301%2F0357.jp2/pct:41.707397,13.604788,12.658847,17.633857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7490,9 +7951,12 @@ But stop not at the gentle words;
 Let deeds with language dwell;  
 The one who pities starving birds  
 Should seatter crumbs as well;  
-The mercy that is warm and t
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1876-06-08_49_23&#0036;3/pct:32.748869,34.316304,15.158371,4.883546/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1876-06-08_49_23&#0036;3/pct:32.748869,34.316304,15.158371,6.311044/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7537,9 +8001,12 @@ But stop not at the gentle words;
 Let deeds with language dwell ;  
 The one who pities starving birds,  
 Should scatter crumbs as well.  
-The mercy that is warm and 
+The mercy that is warm and true.  
+Must lend a helping hand,  
+For those that talk, yet fail to do.  
+But &quot;Build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292182%2F1876060901%2F0190.jp2/pct:75.065789,6.956784,15.504386,21.307032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292182%2F1876060901%2F0190.jp2/pct:75.065789,6.956784,15.504386,23.264569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7584,9 +8051,12 @@ But stop not at the gentle words;
 Let deeds with language dwell;  
 The one who pities starving birds  
 Should scatter crumbs as well;  
-The mercy that is warm and tr
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1876061601%2F0520.jp2/pct:51.940208,21.772527,9.668448,13.182006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1876061601%2F0520.jp2/pct:51.940208,21.772527,9.668448,14.339350/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7600,7 +8070,15 @@ The mercy that is warm and tr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hining stuff, For  
+  
+trutli : And mornineir lovo will wear  
+But have juTJuys of youth ! -Be, on gire  
+not htari for heart, ,äs well as bund  
+for hand, ^^Tfou&#x27;ll find you&#x27;ve plajcd  
+the unwise part, _--&#x27;&quot; [ And &quot;built upon  
+lue sand.&quot; _;Xii well to save, &#x27;tis well  
+to bave A goodly «tore of gold, - And  
+bold enougb of shining stuff, For  
 charity is cold. But place not all your  
 hope and trait In what the deep raine  
 brings; ,W&#x27; cannot live on yellow dust  
@@ -7615,7 +8093,9 @@ to man, Bnt stop not at the gentle
 words: Let deeds with lauguage dwell ;  
 The one who pities starving birds Should  
 Bcatter crumbs as well ; The mercy that  
-is warm and
+is warm and true Must lend a helping  
+hand, For those that talk, yet fail to  
+do, But &quot; build npoa the sand 
 </td></tr></table>
 
 ---
@@ -7659,9 +8139,12 @@ But stop not at the gentle words ;
 . Let deeds with language dwell ;  
 The eue who pities starving birds,  
 Should scatter crumbs as well.  
-The mercy that la warm 
+The mercy that la warm aad true .  
+- Must lend a helping band,  
+For those that talk, yet fail to do,  
+But &quot;build upon the aand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_hubert_ver01%2Fdata%2Fsn85033681%2F0029602109A%2F1876120601%2F0197.jp2/pct:27.347098,80.809140,9.284509,14.348601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_hubert_ver01%2Fdata%2Fsn85033681%2F0029602109A%2F1876120601%2F0197.jp2/pct:27.347098,80.809140,9.284509,15.658736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7705,9 +8188,13 @@ And love link man to man.
 But stop not at the gentle words ;  
 Let deed! with language dwell;  
 The one who pitips starving birds,  
-Hhould tloftter crumbs 
+Hhould tloftter crumbs well.  
+The rneroy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fall to do,  
+But &quot; build Upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_capemay_ver01%2Fdata%2Fsn85025540%2F00513685063%2F1876122701%2F0607.jp2/pct:7.149220,7.634189,14.459911,18.074138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_capemay_ver01%2Fdata%2Fsn85025540%2F00513685063%2F1876122701%2F0607.jp2/pct:7.149220,7.634189,14.459911,20.325043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7752,9 +8239,14 @@ Fair speech should blind the humau mind,
 And love link man to man.  
 But stop not at the gentle words;  
 .Let deeds with language dwell;  
-The one who pi
+The one who pities starving birds,  
+Should scatter crnmbs as well;  
+The mercy that is warm and true,  
+Must lend a helping hand,  
+For those that talk, vet fail, to do,  
+But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862762%2F1877011101%2F0211.jp2/pct:43.319785,8.132834,12.447008,12.154696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862762%2F1877011101%2F0211.jp2/pct:43.319785,8.132834,12.447008,14.008198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7768,7 +8260,8 @@ The one who pi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-done Since m l , androses  
+  
+tho wld hath done Since m l , androses  
 blow, And mor?n_3h t e sun. And have a  
 core y ounhnd fair, Be sure you pled  
 with truth; Be certain that your vre  
@@ -7790,7 +8283,9 @@ iman ttan. But stop not at the g-rords,&#x27;
 Let deeds with languae dwell; The one  
 &#x27;76 pities starviyf birds, Should  
 scatter crumbs na well. The mercy that  
-is kin
+is kind and&#x27;itruo Must lend a helping  
+hand,&#x27; For thooeoifj4 talk, yet fail to  
+do, BiiYf&quot;&#x27;buildupon the sand.
 </td></tr></table>
 
 ---
@@ -7834,9 +8329,13 @@ lint at, ta r-.it ts * tlin if.inflo ivnril» •
   
 Let deeds w ith language dwell;  
 Tlie one u ho pities start ing bird*,  
-Should scatter
+Should scatter crumbs as well.  
+The mercy that is warm and true  
+Must lend a helping hand.  
+For those that talk, yet fail to do,  
+Hut “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kump_ver01%2Fdata%2Fsn84026784%2F00414186702A%2F1877012701%2F0016.jp2/pct:55.843963,14.508547,11.544547,13.144587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kump_ver01%2Fdata%2Fsn84026784%2F00414186702A%2F1877012701%2F0016.jp2/pct:55.843963,14.508547,11.544547,14.789886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7850,7 +8349,7 @@ Should scatter
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+BUILDING ON THE SAND. * Tis well to woo,  
 &#x27; tis well to wed, For so the world hath  
 done Since myrtles grew, and roses blew,  
 And morning brought the sun, And have a  
@@ -7877,7 +8376,10 @@ love link man to man. But stop not at
 the gentle words, Let deeds with  
 language dwell ; The one who pities  
 starving birds, Should scatter crumbs as  
-well. The mercy that is warm and 
+well. The mercy that is warm and true  
+Must lend a helping hand, For those that  
+talk, yet fail to do, But &quot; build upon  
+the sand.&quot;
 </td></tr></table>
 
 ---
@@ -7888,7 +8390,8 @@ well. The mercy that is warm and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and to  
+  
+a deficit the present year of $5,000,000, and to  
 ask that a heavy loan should be voted, in order  
 to meet the demands upon the government,  
   
@@ -7899,7 +8402,7 @@ Must lend a helping hand,
 For those who talk, yet fail’ to do,  
 But “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1877-12-13_50_50&#0036;3/pct:30.684389,48.140496,36.877828,44.534185/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1877-12-13_50_50&#0036;3/pct:30.656109,48.140496,36.906109,44.534185/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7944,9 +8447,12 @@ But atop not at the gentle words ;
 Let deeds with language dwell;  
 The oue who pities starving birds  
 Should scatter crumbs as well;  
-The mercy that is warm and 
+The mercy that is warm and truo  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But ‘ build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342417%2F1878092701%2F0162.jp2/pct:56.612177,19.223700,10.897891,18.387573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342417%2F1878092701%2F0162.jp2/pct:56.612177,19.223700,10.897891,20.056222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8093,9 +8599,11 @@ But stop not at the gentle Words
 The one who pities starving birds  
 Should scatter crumbs aa weU.  
 The mercy that is warm and true  
-Mus
+Must lend a helping hand,  
+For those that talk, yet failtodo.  
+But&quot; build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quiring_ver01%2Fdata%2Fsn89064939%2F00206537930%2F1881033001%2F0052.jp2/pct:40.035187,12.497576,8.543022,15.028117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quiring_ver01%2Fdata%2Fsn89064939%2F00206537930%2F1881033001%2F0052.jp2/pct:40.035187,12.497576,8.543022,15.884558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8107,7 +8615,10 @@ Mus
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r so the world hath done ;  
+  
+  
+BUILDING ON THE SAND.  
+For so the world hath done ;  
 Ones myrtles grow and rem blew,  
 , And morning brougVt ftte ;  
 Bat hare a care, yo young and fair,  
@@ -8138,9 +8649,12 @@ An 1 love link man to mau..
 Let deeds with language dwell;  
 The one who pities starving birds  
 Should scatter crumbs as well.  
-The merey that is warm an
+The merey that is warm and true  
+Must lend a helping hand;  
+For those that talk, yet fail to do,  
+But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_adam_ver02%2Fdata%2Fsn84026526%2F00295879671%2F1881051901%2F0332.jp2/pct:19.505852,17.486457,10.325098,14.983749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_adam_ver02%2Fdata%2Fsn84026526%2F00295879671%2F1881051901%2F0332.jp2/pct:19.505852,15.655471,10.325098,18.179848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8185,9 +8699,12 @@ But stop not at the gentle words,
 Let deeds with language dwell;  
 The one who pities starving birds  
 Should scatter crumbs as well.  
-The mercy that Is warm and tr
+The mercy that Is warm and true  
+Must lend a helping hand,  
+Fat those that talk, yet fall to do,  
+But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348732%2F1881051901%2F0295.jp2/pct:50.711886,18.171174,8.770597,13.139562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348732%2F1881051901%2F0295.jp2/pct:50.711886,18.171174,8.770597,14.298677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8288,9 +8805,12 @@ But stop not at the gentle words—
 Let deeds with language dwell  
 lhe one who pities starving birds  
 Should scatter crumbs as well;  
-The mercy that is warm a
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But “ build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_elliot_ver01%2Fdata%2Fsn87068079%2F00332896441%2F1882031601%2F0244.jp2/pct:5.287009,14.038710,9.973985,16.493548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_elliot_ver01%2Fdata%2Fsn87068079%2F00332896441%2F1882031601%2F0244.jp2/pct:5.287009,14.038710,9.973985,17.964516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8337,9 +8857,14 @@ And love link man to man.
 Put stop cot at the gentle wordsLet  
 deeds with language dwelL  
 3 he one who pities starving birds  
-Should scatter crumb
+Should scatter crumbs as well;  
+The mercy thai is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+  
+JUut &quot; uuiiu upon me sana.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2F2012218613%2F00237288415%2F1882032901%2F0042.jp2/pct:0.365750,12.339513,12.427812,14.692853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2F2012218613%2F00237288415%2F1882032901%2F0042.jp2/pct:0.365750,12.339513,12.427812,16.493129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8384,9 +8909,12 @@ But stop not at the goutle words .
 Let deeds with language dwell.  
 The ooe who pities starving bird.  
 Should scatter crumbs as well ;  
-The mercy that is warm aud
+The mercy that is warm aud true  
+Must lvud a helping hand,  
+For those that talk yet fail to do  
+But &quot; build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_minuette_ver01%2Fdata%2Fsn87007277%2F00415662178%2F1882062401%2F0357.jp2/pct:48.204038,17.216014,12.539851,15.023341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_minuette_ver01%2Fdata%2Fsn87007277%2F00415662178%2F1882062401%2F0357.jp2/pct:48.204038,17.216014,12.539851,16.353091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8433,9 +8961,10 @@ Tho one who pities starving birds, ,
 Should scatter crumbs as well.  
 The mercy that is warm and true  
 Must lend a helping hand, 1  
-For those who talk, yet fall to d
+For those who talk, yet fall to do,  
+“Build upon tho sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625522%2F1882092901%2F0583.jp2/pct:62.870985,20.841781,10.103876,11.777250/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625522%2F1882092901%2F0583.jp2/pct:62.870985,20.841781,10.103876,12.074390/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8523,9 +9052,12 @@ But stop not at the gentle words—
 Let deeds with language dwell ;  
 The one pities starving birds  
 Should scatter crumbs as well ;  
-The mercy that is warm and true
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2F2013271051%2F00295873772%2F1884083001%2F0672.jp2/pct:61.234458,16.575387,13.743339,20.827964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2F2013271051%2F00295873772%2F1884083001%2F0672.jp2/pct:61.212256,16.575387,13.765542,22.680412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8537,7 +9069,9 @@ The mercy that is warm and true
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-h don  
+  
+Tli well to woo, His well to wed,  
+For so the world hath don  
 0:ioe myrtles grew and rows blsw,  
 And morning brought the son;  
 D&quot;t bare a care, ye young and fail  
@@ -8568,9 +9102,12 @@ But stop not at the gentle words;
 Lot deeds with language dwell;  
 The one who pities starving birds  
 Should scatter crumbs as welL  
-The niorcy that is warm and tr
+The niorcy that is warm and true  
+Moat lend a helping hand,  
+For there that talk, yet fail to do,  
+&#x27; But &quot; build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_egret_ver01%2Fdata%2Fsn86069394%2F00202194692%2F1884111401%2F0424.jp2/pct:9.798271,29.091153,9.592425,14.203249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_egret_ver01%2Fdata%2Fsn86069394%2F00202194692%2F1884111401%2F0424.jp2/pct:9.798271,28.634716,9.592425,15.948449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8615,9 +9152,12 @@ But stop not at the gentle words ;
 Let deeds with language dwell;  
 The one who pities starving birds  
 Should scatter crumbs as well.  
-The mercy that is warm and t
+The mercy that is warm and true  
+Must lend a helping hand.  
+For those that talk, yet fail to do.  
+But “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625534%2F1885022701%2F0251.jp2/pct:17.949375,7.763185,9.378068,10.902152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625534%2F1885022701%2F0251.jp2/pct:17.949375,7.763185,9.378068,11.875129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8630,6 +9170,17 @@ The mercy that is warm and t
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Than to walk alone in the light.  
+  
+August 23d—Sunday.  
+  
+For tho’ the Father’s works are seen  
+In solitary- glen and hill,  
+  
+Y’et in His house His children know  
+His glor&gt;’’8 brightest worth and glow.  
+  
+August 24th—Monday.  
   
 The mercy that is warm and true  
 Must lend a helping hand :  
@@ -8638,13 +9189,13 @@ For those who talk, yet fail to do.
   
 But build upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1885-07-30_56_31&#0036;5/pct:22.955607,70.847603,9.170561,1.937072/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1885-07-30_56_31&#0036;5/pct:22.955607,67.059075,10.601636,5.725599/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Practical Teacher: With Which Is Incorporated the Practical Teacher's Art Monthly 1881-1911_](https://iiif.archivelab.org/iiif/sim_practical-teacher-teachers-art-monthly_1885-08_5_6?page=36)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_practical-teacher-teachers-art-monthly_1885-08_5_6?page=36)
 
 #### 1885-08-01
 
@@ -8684,7 +9235,7 @@ And love /ink man to man.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Building upon the ¡Sand. &#x27;Tis well to  
 woo, &#x27;tis well to wed, a &#x27; For so the  
 world has done Since myrtles grew and  
 rosen blew, And morning brought the sun.  
@@ -8713,7 +9264,8 @@ language dwell ; The one who pities
 starving birds Should scatter crumbs as  
 well. The meroy that is warm and true  
 Must lend a helping hand ; : For those  
-who talk, yet fail to lo, I But &quot;buil
+who talk, yet fail to lo, I But &quot;build  
+upon the sand.&quot; &#x27; , * - &#x27; , ELIZA COOK.
 </td></tr></table>
 
 ---
@@ -8724,7 +9276,18 @@ who talk, yet fail to lo, I But &quot;buil
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;vo played the &quot;unwise part,&quot;  
+  
+^Xfew*nto woo, *tto well to wed,  
+W? so the world baa done  
+}&#x27;.. Biaee myrtles grow, end roses blov%  
+And morning bronght the snn.  
+llui have a oaro, yo youne and fai^  
+\v -&#x27; &#x27; Mu enns ye pledge with truth;  
+Ba certain that yoor lore will wear  
+Beyond tte days of youth.  
+For if yo give not hoart to heart,  
+As well as hand for hand,  
+Sou&#x27;il find you&#x27;vo played the &quot;unwise part,&quot;  
   
 .ana &quot;oaiis upon uio sand.&quot;  
 *Tw -well to ?avo, &#x27;tis well to have  
@@ -8752,7 +9315,7 @@ Must lend a helping hand;
 For tlioso who talk, yet fail to do,  
 But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kingjulius_ver01%2Fdata%2Fsn93067668%2F00202193961%2F1885102101%2F0208.jp2/pct:-0.015593,9.968239,17.292999,16.530823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kingjulius_ver01%2Fdata%2Fsn93067668%2F00202193961%2F1885102101%2F0208.jp2/pct:-0.187120,3.570199,17.464525,22.928864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8764,7 +9327,27 @@ But &quot;build upon the sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ck the storms  
+m came o’er that sea of blue  
+To scatter near  
+And then, afar,  
+  
+These fragments of our gallant ships,  
+So firmly launched  
+From sandy bar?  
+  
+O, we may never, never know:  
+Some wave’s unreckoned  
+Might may bear  
+  
+Against our strongest vessel’s length,  
+The blow so freighted  
+With despair;  
+  
+And over all our hopes and fears,  
+he glimmering billows  
+Langh and play.  
+These rolling years with sunlight crowned,  
+Do mock the storms  
 Of yesterday !  
   
 But bring they joy or bring they woe  
@@ -8822,9 +9405,12 @@ But stop not at the gentle words;
 Let deeds with language dwell ;  
 The one who pities starving birds  
 Should scatter crumbs as well;  
-The mercy that is warm and 
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But “ build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13&#0036;3/pct:42.771084,45.266005,23.734940,41.884581/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13&#0036;3/pct:42.710843,29.395852,23.795181,60.414788/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8917,7 +9503,9 @@ the gentle words; Let deeds with
 language dwell; The one who pities  
 starving birds Should scatter orumbe as  
 well. The mercy that is warm and true  
-Mast lend a helping hand; , For those
+Mast lend a helping hand; , For those  
+who talk, yet fail to do, But &quot; build  
+upon the sand.
 </td></tr></table>
 
 ---
@@ -8979,7 +9567,20 @@ But &#x27;&#x27;build upon the sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y is cold.  
+,  
+Ana morning brought tbe tan.  
+But hare a care, ye young and fcir;  
+Be sure you pledge with troth;  
+Be certain that your lore will wear  
+Beyond the days of yonth;  
+For if ye give not heart to heart,  
+As well at hand for hand.  
+You’ll find you’re played the &quot;unwise part, ”  
+And &quot;built upon the sand.”  
+’Tii well to save, ’tis well to have  
+A goodly store of gold,  
+And bold enough of sterling staff—  
+For charity is cold.  
 But pla ;e not all yoar h pes nod trust  
 Iu what the deep mine brings ;  
 We cannot live on yellow dost  
@@ -8999,9 +9600,9 @@ Should scatter crumbs as well
 The mercy that is warm M true  
 M Qst tend a helping band;  
 For those who talk, yet foil to do,  
-But &quot; 
+But &quot; build upon the saud.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_frenchfries_ver01%2Fdata%2Fsn82015289%2F00414180577%2F1885123101%2F0069.jp2/pct:29.503745,17.137160,9.798689,7.818239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_frenchfries_ver01%2Fdata%2Fsn82015289%2F00414180577%2F1885123101%2F0069.jp2/pct:29.503745,12.411236,10.772472,12.628118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9013,7 +9614,20 @@ But &quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d to hand,  
+  
+  
+&#x27;XbiwelLto woo, &#x27;tia wail to wed. ...  
+For so the world haa done  
+Since myrtle grew, and rosea blew,  
+  
+And morning brought the aun.  
+But have a care, ye young and lair  
+Be sure ye pledge with truth  
+Bo certain that your love will wear  
+  
+Beyond the days ot youth.  
+For if ye give not heart to heart,  
+As well aa hand to hand,  
 You&#x27;ll find you&#x27;ve played the&quot;unwiee part&quot;  
   
 And &quot;built tlpon the sand.&quot;  
@@ -9051,7 +9665,7 @@ For those who talk yet fail to do,
   
 But &quot;build upon the Band.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_almont_ver01%2Fdata%2Fsn88076741%2F00295863559%2F1886012201%2F0973.jp2/pct:70.252275,16.950596,9.867659,10.965142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_almont_ver01%2Fdata%2Fsn88076741%2F00295863559%2F1886012201%2F0973.jp2/pct:70.252275,13.566374,9.867659,14.349364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9093,7 +9707,9 @@ not at the sentle words ; Let deeds with
 language dwell; The one who pities  
 starving- birds Should scatter crumbs as  
 well. The mercy that is warm and true  
-Most lend 
+Most lend a helping hand ; «. . For  
+those who talk, yet faTT to do. But  
+&quot;build upon the sand.&quot; -Eliza. CooSi
 </td></tr></table>
 
 ---
@@ -9236,9 +9852,10 @@ The one who pities starving birds
 Should scatter crumbs, as well.  
 Tbe mercy that is warm and true,  
 Must lend a helping band ;  
-For those who talk, yet fall to do.
+For those who talk, yet fall to do.  
+But &quot; build upon the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F00295873954%2F1886061201%2F0981.jp2/pct:48.268921,21.708015,9.943639,15.744275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F00295873954%2F1886061201%2F0981.jp2/pct:48.268921,21.708015,9.943639,16.125954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9330,7 +9947,9 @@ the gentle words; Let deeds with
 language dwell; Tho one who&#x27;pitics  
 slatving birds Must scatleV&#x27;crumbs as  
 well. The mercy that is waim aud true  
-Must lend an helping hand 
+Must lend an helping hand For those who  
+talk, yet fail to do, Bnt &quot; build upon  
+tho sand.&quot;
 </td></tr></table>
 
 ---
@@ -9464,7 +10083,9 @@ at the gentle words; Let deeds with
 language dwell; The one who pities  
 starving birds, Should scatter crumbs as  
 well. The mercy that is warm and true,  
-Must lend a helping hand ; For those 
+Must lend a helping hand ; For those who  
+talk, yet fail to do, But &quot; build upon  
+ilie sand.&quot;
 </td></tr></table>
 
 ---
@@ -9504,7 +10125,10 @@ love link man to man. But stop not at
 the gentle words, Let deeds with  
 language dwell; The one who pities  
 starving birds, Should scatter crumbs as  
-well, The mercy that is warm and 
+well, The mercy that is warm and true,  
+Must lend a helping hand; For those that  
+talk, yet fail to do Eave &quot;Built upon  
+the Sand.
 </td></tr></table>
 
 ---
@@ -9517,7 +10141,9 @@ well, The mercy that is warm and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-done,  
+  
+ON THE SAND. &#x27;lis well to woo, &#x27;tis well  
+to wed j . Fop so tho world litis done,  
 ? ? Since myrtles grow, and roses blew,  
 . And morning brought the sun. ? I ? But  
 have a cure, yc young nnd fair, &#x27; ; Be  
@@ -9527,7 +10153,17 @@ days of youth. For if ye give not heart
 for heart, , . As well as hand for hand,  
 ... .-? ? i ? ? ? &#x27;.A&#x27; ?&#x27; auuji uuu yuu  
 vu pmyea tno unwisu purij ? ? . And &#x27;  
-Built upon the Sand.&#x27; : . &#x27;Ti« well t
+Built upon the Sand.&#x27; : . &#x27;Ti« well to  
+save, &#x27; tis well to have. . ? 1 A goodly  
+store of gold ; -And hold enougli of  
+shining stuff, For charity is oold. But  
+plaoo not all your hopo and trust On  
+what tho deep mino brings ; - . ; . V&#x27;We  
+&#x27;cahnot live on yollow dust TJumixod  
+with puror things ; And ho who pilos up  
+weal*, h alone, ; Will somo day hiivo to  
+stand i\ Boside bis coffin ohost, and  
+own ???*. &#x27;Tis &#x27; Built upon tho Sand.
 </td></tr></table>
 
 ---
@@ -9569,7 +10205,9 @@ gentle words, Let deeds -with language
 dwell ; The one who pities starving  
 birds, Should scatter crumbs a9 well.  
 The mercy that is warn1 and true, Must  
-lend a helping hnnd ;
+lend a helping hnnd ; For those who  
+talk, yet fail to do s Have &#x27; built upon  
+the sand.
 </td></tr></table>
 
 ---
@@ -9610,7 +10248,9 @@ the gentle words ; Lei deeds with
 language dwell; Thf one who pities  
 starving birds Should scatter crumbs as  
 well. The inercy that is warm and true  
-Must lead a helping liaud ; For those
+Must lead a helping liaud ; For those  
+who talk, yet fail to do, But &quot; build  
+upon the sand.&quot; -ELIZA COOK
 </td></tr></table>
 
 ---
@@ -9653,7 +10293,8 @@ language dwell ?, Thu ouo who pities
 starving birds ?&#x27; Should scatter crumbs  
 as well. The meroy that is warm and true  
 Mast lend a helping hand ; For those who  
-talk, yet fail to do, . But &#x27; build upo
+talk, yet fail to do, . But &#x27; build upon  
+the sand.&#x27; :._i : — Eliza Cook
 </td></tr></table>
 
 ---
@@ -9666,7 +10307,7 @@ talk, yet fail to do, . But &#x27; build upo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+BUILDING UTON THE SAND. 15s well to woo,  
 tia well to wed. For so the world has  
 done Since myrtles grew, and roses blew.  
 Bat bare a care, ye young and (air ; Be  
@@ -9688,7 +10329,7 @@ eoothe whatever we can ; For speech
 should bind the human mind, A love link  
 man toman. But stay not at the words ;  
 Let deeds with language dwell : The one  
-who pitta i starving hirda The merc
+who pitta i starving hirda The mercy
 </td></tr></table>
 
 ---
@@ -9699,7 +10340,29 @@ who pitta i starving hirda The merc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-or band  
+  
+tfe wnll to wed  
+  
+r r tfcd world lifts tidtid  
+  
+BJnfc iiiw i fctrt AmfltWV i rrtfryi Mftvr  
+  
+ai  
+  
+  
+  
+mx  
+  
+  
+And mernlnff brought the ram 4v  
+Bat hn n a carei yo yoitng ard fair iMtt  
+IZ sure yfc pledge with truth jiyg  
+  
+Bm eoiMWtault you loye Wll Srea JJWVfi  
+  
+Bayna we days or youth v  
+Sor if ye give not heart to heart 7f  
+As well aVnand for band  
 Youll flndytmvo played Hks xumta  
   
 part  
@@ -9736,7 +10399,7 @@ Must lend a helping hand
 For those who talk yet fall to do  
 But build upon tho san
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_casablanca_ver01%2Fdata%2Fsn86069675%2F00206534199%2F1897113001%2F0586.jp2/pct:26.443879,13.874772,12.459135,12.692207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_casablanca_ver01%2Fdata%2Fsn86069675%2F00206534199%2F1897113001%2F0586.jp2/pct:26.443879,9.186865,12.858700,17.380115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

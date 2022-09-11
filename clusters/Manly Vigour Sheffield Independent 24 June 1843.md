@@ -1,7 +1,7 @@
 
 # From _Sheffield Independent_
 
-### 387 reprints from 1842-01-30 to 1896-11-10
+### 363 reprints from 1842-01-30 to 1896-11-10
 
 ## [From _Sheffield Independent_](https://link-gale-com.ezproxy.lib.ryerson.ca/apps/doc/R3212004854/BNCN?u=rpu_main&sid=bookmark-BNCN&xid=846d399a.)
 
@@ -22,22 +22,9 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
   
 &quot;If we consider the topics touched upon either in a moral or social view, we find the interests and welfare of mankind seriously involved. The effects of licentious, indiscriminate and secret indulgence in certain practices, are described with accuracy and forces which display at once profound reflection and extensive practical experience.&quot; — The Planet.  
   
-&quot;The best of all Friends is the Professional Friend: and in no shape can he be consulted with greater safety and secresy than in &quot;Lucas on Manly Vigour.&quot; The initiation  into indulgence — its progress — its results in both sexes, are given with faithful, but alas! For human nature, with affecting truth. However the Authors have not exposed the evil without affording a remedy. It shows how &quot;Manly Vigiur,&quot; temporarily impaired, and mental and physical emasculation, produced by uncontrolled indulgence of the passions, can be restored; how the sufferer who has pined ion anguish from the consequenc
-</td></tr></table>
-
----
-
-## [From _Sheffield Independent_](https://link-gale-com.ezproxy.lib.ryerson.ca/apps/doc/R3212004854/BNCN?u=rpu_main&sid=bookmark-BNCN&xid=846d399a.)
-
-#### 1896-11-10
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-l decay, are often ascribed to wrong causes; and instead of being the natural results of congenital debility or disease, are the consequences of an alluring and pernicious practice, alike destructive to the mind and body.&quot; — Bell&#x27;s New Weekly Messenger.  
+&quot;The best of all Friends is the Professional Friend: and in no shape can he be consulted with greater safety and secresy than in &quot;Lucas on Manly Vigour.&quot; The initiation  into indulgence — its progress — its results in both sexes, are given with faithful, but alas! For human nature, with affecting truth. However the Authors have not exposed the evil without affording a remedy. It shows how &quot;Manly Vigiur,&quot; temporarily impaired, and mental and physical emasculation, produced by uncontrolled indulgence of the passions, can be restored; how the sufferer who has pined ion anguish from the consequences of early indiscretion — afraid almost to encounter his fellow man, can regain the vigour of health and moral courage. The work is written in a concise  and perspicuous style, displaying how often fond parents are deceived by the outward physical appearance of their youthful offspring; how the attenuation of the frame, palpitation of the heart, derangement of the nervous system, cough, indigestion, and a train of symptoms indicative of consumption or general decay, are often ascribed to wrong causes; and instead of being the natural results of congenital debility or disease, are the consequences of an alluring and pernicious practice, alike destructive to the mind and body.&quot; — Bell&#x27;s New Weekly Messenger.  
   
-Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from five till eight in the evening, at their residence, No. 60, Newman-street, Oxford-street, London.  
-  
-Country Patients are required to be as m
+Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from five 
 </td></tr></table>
 
 ---
@@ -426,16 +413,6 @@ Country Patients are required to be as m
 
 #### From _Northern Star_
 
-#### 1842-10-01 &middot; Leeds, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
 #### 1842-10-08 &middot; Leeds, England
 
 [This text is not available under an open license.]
@@ -467,26 +444,6 @@ Country Patients are required to be as m
 #### From _The Era_
 
 #### 1842-10-09 &middot; London, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1842-10-09 &middot; London, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1842-10-15 &middot; Leeds, England
 
 [This text is not available under an open license.]
 
@@ -886,26 +843,6 @@ Country Patients are required to be as m
 
 #### From _Northern Star_
 
-#### 1843-01-07 &middot; Leeds, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-01-14 &middot; Leeds, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
 #### 1843-01-14 &middot; Leeds, England
 
 [This text is not available under an open license.]
@@ -1027,26 +964,6 @@ Country Patients are required to be as m
 #### From _Manchester Times_
 
 #### 1843-02-25 &middot; Manchester, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-03-04 &middot; Leeds, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-03-04 &middot; Leeds, England
 
 [This text is not available under an open license.]
 
@@ -1214,39 +1131,9 @@ Country Patients are required to be as m
 
 ## Advertisements & Notices
 
-#### From _Northern Star_
-
-#### 1843-04-01 &middot; Leeds, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Caledonian Mercury_
 
 #### 1843-04-06 &middot; Edinburgh, Scotland
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Caledonian Mercury_
-
-#### 1843-04-06 &middot; Edinburgh, Scotland
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1843-04-08 &middot; Manchester, England
 
 [This text is not available under an open license.]
 
@@ -1404,16 +1291,6 @@ Country Patients are required to be as m
 
 ## Advertisements & Notices
 
-#### From _Caledonian Mercury_
-
-#### 1843-05-06 &middot; Edinburgh, Scotland
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Northern Star_
 
 #### 1843-05-06 &middot; Leeds, England
@@ -1514,16 +1391,6 @@ Country Patients are required to be as m
 
 ## Advertisements & Notices
 
-#### From _Northern Star_
-
-#### 1843-05-27 &middot; Leeds, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Caledonian Mercury_
 
 #### 1843-06-03 &middot; Edinburgh, Scotland
@@ -1537,16 +1404,6 @@ Country Patients are required to be as m
 #### From _Manchester Times_
 
 #### 1843-06-03 &middot; Manchester, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-06-03 &middot; Leeds, England
 
 [This text is not available under an open license.]
 
@@ -1684,29 +1541,9 @@ Country Patients are required to be as m
 
 ## Advertisements & Notices
 
-#### From _Freeman's Journal_
-
-#### 1843-06-16 &middot; Dublin, Ireland
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1843-06-17 &middot; Manchester, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-06-17 &middot; Leeds, England
 
 [This text is not available under an open license.]
 
@@ -2024,26 +1861,6 @@ Country Patients are required to be as m
 
 ## Advertisements & Notices
 
-#### From _Northern Star_
-
-#### 1843-07-22 &middot; Leeds, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-07-22 &middot; Leeds, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Freeman's Journal_
 
 #### 1843-07-25 &middot; Dublin, Ireland
@@ -2067,16 +1884,6 @@ Country Patients are required to be as m
 #### From _Freeman's Journal_
 
 #### 1843-07-31 &middot; Dublin, Ireland
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-08-05 &middot; Leeds, England
 
 [This text is not available under an open license.]
 
@@ -2256,16 +2063,6 @@ Country Patients are required to be as m
 
 #### From _Freeman's Journal_
 
-#### 1843-09-11 &middot; Dublin, Ireland
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Freeman's Journal_
-
 #### 1843-09-15 &middot; Dublin, Ireland
 
 [This text is not available under an open license.]
@@ -2317,16 +2114,6 @@ Country Patients are required to be as m
 #### From _Manchester Times_
 
 #### 1843-09-23 &middot; Manchester, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-09-23 &middot; Leeds, England
 
 [This text is not available under an open license.]
 
@@ -2447,26 +2234,6 @@ Country Patients are required to be as m
 #### From _Freeman's Journal_
 
 #### 1843-10-06 &middot; Dublin, Ireland
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-10-07 &middot; Leeds, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-10-07 &middot; Leeds, England
 
 [This text is not available under an open license.]
 
@@ -2842,7 +2609,7 @@ Country Patients are required to be as m
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-10_1_24?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-10_1_24?page=22)
 
 #### 1844-02-10
 
@@ -2862,9 +2629,11 @@ afflicting truth. However, the authors have not exposé d the evil without
 affording a remedy. It shows how ‘ Manly Vigour’ temporarily tn-  
 paired, and mental and physical emasculation, produced by uncontrolled in-  
 dulgence of the passions, can be restore ad; how the suffer¢ r, ho has pined  
-in anguish at the
+in anguish at the consequences of carly indiscretion—afraid almost to  
+encounter his fellow-man, can regain the vigour of health and moral  
+courage.”——The New Bell’s Weekly Messenger.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-02-10_1_24&#0036;22/pct:9.626777,70.058780,38.921801,9.662013/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-02-10_1_24&#0036;22/pct:9.626777,70.058780,38.951422,11.094783/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2880,7 +2649,7 @@ in anguish at the
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25?page=22)
 
 #### 1844-02-17
 
@@ -3378,7 +3147,7 @@ Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
 
 #### 1844-10-05
 
@@ -3396,7 +3165,7 @@ street, Dublin; and all booksellers
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
 
 #### 1844-10-05
 
@@ -3413,9 +3182,12 @@ not exposed the evil without affording a remedy. It
 shows how ‘Manly Vigour’ temporarily impaired, and  
 mental and physical emasculation, produced by uncon-  
 trolled indulgence of the pe assions, can be restored ; how  
-the sufferer, who has pined in anguish at the c
+the sufferer, who has pined in anguish at the consequences  
+of early indise retion— afraid almost to encounter his fel-  
+low man, can — n the vigour of health and moral  
+courage.”&quot;— The New Bell&#x27;s We ekly Messe nger
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58&#0036;22/pct:56.792559,25.731433,24.154453,6.920480/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58&#0036;22/pct:56.792559,25.731433,24.154453,8.664666/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3451,7 +3223,7 @@ the sufferer, who has pined in anguish at the c
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-12_1_59?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-12_1_59?page=22)
 
 #### 1844-10-12
 
@@ -3469,9 +3241,12 @@ not exposed the evil without affording a remedy. It
 shows how ‘Manly Vigour’ temporarily impaired, and  
 mental and physical emasculation, produced by uncon-  
 trolled indulgence of the passions, can be restored; how  
-the sufferer, who has pined in anguish at the cons
+the sufferer, who has pined in anguish at the consequences  
+of early indiscretion—afraid almost to encounter his fel-  
+low-man, can regain the vigour of health and moral  
+courage.”—The New Bell’s Weekly Messenger.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-12_1_59&#0036;22/pct:61.583991,42.329332,24.210823,6.845461/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-12_1_59&#0036;22/pct:61.583991,42.329332,24.210823,8.664666/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3487,17 +3262,7 @@ the sufferer, who has pined in anguish at the cons
 
 ---
 
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1844-10-19 &middot; Leeds, England
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60?page=22)
 
 #### 1844-10-19
 
@@ -3507,11 +3272,9 @@ the sufferer, who has pined in anguish at the cons
 Manchester; W. Howell, 75 Dale street, Liverpool; W.  
 Wood, 78 High street, Birmingham ; W./and H. Robin-  
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
-street, Dublin; and all booksellers.  
-  
-* The best of all friends is the rofessional Friend : and
+street, Dublin; and all booksellers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60&#0036;22/pct:34.019166,87.921980,24.182638,3.075769/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60&#0036;22/pct:34.019166,87.921980,24.182638,2.438110/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3537,7 +3300,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
 
 #### 1844-10-26
 
@@ -3555,7 +3318,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
 
 #### 1844-10-26
 
@@ -3573,9 +3336,12 @@ not exposed the evil without affording a remedy. It
 shows how ‘Manly Vigour’ temporarily impaired, and  
 mental and physical emasculation, produced by uncon-  
 trolled indulgence of the passions, can be restored ; how  
-the sufferer, who has pined in anguish at the con
+the sufferer, who has pined in anguish at the consequences  
+of early indiscretion—afraid almost to encounter his fel-  
+low-man, can regain the vigour of health and moral  
+courage.”— The New Bell’s Weekly Messenger.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61&#0036;22/pct:10.033822,78.903346,25.112740,7.063197/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61&#0036;22/pct:9.667418,78.903346,25.479143,9.070632/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3591,7 +3357,7 @@ the sufferer, who has pined in anguish at the con
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-02_1_62?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-02_1_62?page=22)
 
 #### 1844-11-02
 
@@ -3629,21 +3395,19 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-09_1_63?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-09_1_63?page=22)
 
 #### 1844-11-09
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Huett, 37 Princess street, Leicester square,  
-don; T. So Courier office, 4 St Ann&#x27;s sq! )  
 Manchester; W. Howell, 75 Dale street, Liverpool; W.  
 Wood, 78 High street, Birmingham; W. and H. Robin-  
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-11-09_1_63&#0036;22/pct:57.807215,39.216054,24.069899,3.582146/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-11-09_1_63&#0036;22/pct:57.807215,40.435109,24.069899,2.363091/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3679,7 +3443,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
 
 #### 1844-12-21
 
@@ -3697,7 +3461,7 @@ street, Dublin; and all booksellers
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
 
 #### 1844-12-21
 
@@ -3715,9 +3479,12 @@ not exposed the evil without affording a remedy. It
 shows how ‘Manly Vigour’ temporarily impaired, and  
 mental and physical emasculation, produced by uncon-  
 trolled indulgence of the passions, can be restored; how  
-the sufferer, who has pined in anguish at the cons
+the sufferer, who has pined in anguish at the consequences  
+of early indiscretion—afraid almost to encounter his fel-  
+low-man, can regain the vigour of health and moral  
+courage.”— The New Bell’s Weekly Messenger.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69&#0036;22/pct:33.702153,36.282528,25.478469,6.710037/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69&#0036;22/pct:33.702153,36.282528,25.478469,8.568773/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3873,7 +3640,7 @@ the sufferer, who has pined in anguish at the cons
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960?page=13)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960?page=13)
 
 #### 1845-08-23
 
@@ -3932,7 +3699,7 @@ Dublin ; and all Booksellers.
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984?page=13)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984?page=13)
 
 #### 1846-02-07
 
@@ -3989,7 +3756,7 @@ st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011?page=13)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011?page=13)
 
 #### 1846-08-15
 

@@ -36,6 +36,7 @@ Hon. Thomas H. Benton, in a speech in New York, turned to the ladies, and referr
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+it in his nose, and fill his mouth with it and even light a fire under his  
 nose to heat it with it. My mother asked me never to use the weed,  
 and I have never touched it from that time to the present day. And  
 now for something more serious. She asked me not to game, and I  
@@ -49,7 +50,7 @@ long before societies for that purpose were formed. I was an abstinent
 society at a time when I was the sole constituent member of my own body ;  
 and that I have adhered to it through all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_forresters-boys-and-girls-magazine_january-december-1857_19-20&#0036;237/pct:19.892132,57.662671,64.086294,19.820205/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_forresters-boys-and-girls-magazine_january-december-1857_19-20&#0036;237/pct:19.892132,55.993151,64.149746,21.489726/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -62,6 +63,9 @@ and that I have adhered to it through all time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+Ihe pocket felt it, told it to the econ. jand [ have never gamed; and T cannot tell this  
+ind conseience smote the slaveholder, | day who is winning and who losing in any game  
 nd Wilberforce, and French Jacobins, | that can be played. She admonished me, too,  
   
 against hard drink ;  
@@ -73,9 +77,10 @@ drink, and I made then a resolution of total-absti-
 nence, long before societies for that purpose were  
 formed. 1 was an abstinent society when I was  
 the sole constituent member of my own body ; and  
-| that | have adhered to it through all time, I ow
+| that | have adhered to it through all time, I owe  
+ito my mother. They are only women, who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_liberator_1857-01-02_27_1&#0036;0/pct:6.382626,56.561303,26.061008,5.076628/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_liberator_1857-01-02_27_1&#0036;0/pct:6.017905,55.603448,26.442308,6.561303/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,6 +117,12 @@ for endurance | may have at present, and what
 
   
   
+said | had taken her unawares, and I[ told her :  
+that was just what I had desired, as I wanted to ee  
+see them in their every day course of living. aN  
+She opened the door and let me into the kitchen,  
+which was cleanly and neat. This was the con-  
+  
   
   
   
@@ -133,7 +144,7 @@ that | have adhered to it through all my time, I
   
 owe to my mother. * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17&#0036;12/pct:9.447558,23.040907,75.860689,12.173484/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17&#0036;12/pct:9.447558,17.003450,86.228983,18.210941/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,6 +167,8 @@ owe to my mother. * *
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Like it and put it in hia nose, and fill his  
+mouth with it, and even light fire under his  
 nose to heat it with it My mother asked  
 me never to us the weed, snd I have never  
 touched it from that time to the present day.  
@@ -177,7 +190,7 @@ when I wns the sole constituent member of
 my own body; and that I have adhered to it  
 through all time, I owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779209%2F1857011601%2F0675.jp2/pct:32.387838,15.716235,12.384131,9.809004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779209%2F1857011601%2F0675.jp2/pct:32.387838,14.693042,12.384131,10.832196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,6 +213,7 @@ through all time, I owe to my mother
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+touch; yet man will take it anJ put it into  
 his noee, and till his month wilh it, and even  
 light a tire under hie nose to beat it with.  
 My mother asked me never to u»e the weed,  
@@ -223,7 +237,7 @@ constituent member of my own body; and
 that I bate adhered to it through all lime,  
 I owe to my mother. They are only wome
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83021380%2F0027952388A%2F1857021301%2F0034.jp2/pct:16.149871,11.621440,11.296296,12.065714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83021380%2F0027952388A%2F1857021301%2F0034.jp2/pct:16.111111,11.007767,11.335056,12.679388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +292,17 @@ all time, I owe to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- happi­  
+, perhaps too much.  
+It relieves his home of dullness nnd  
+sameness. Nay, it accompanies him to  
+his next day&#x27;s work, and gives him some­  
+thing to think of besides the mechanical  
+drudgery of his every&#x27; day occupation ;  
+something bo can enjoy while absent,  
+and look forward to with pleasure. If I  
+wcro to pray for a tasto which would  
+stand by me under every variety of cir­  
+cumstances, and be a source of happi­  
 ness and cheerfulness to me through life,  
 nnd a shield against t,ll tis ills, however  
 things might go amiss, nnd the world  
@@ -310,7 +334,7 @@ stituent member of my own body, and
 that I havo-adhered to it through all  
 time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1857102901%2F0139.jp2/pct:30.042992,25.264395,12.037833,16.098707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1857102901%2F0139.jp2/pct:30.042992,19.976498,12.089424,21.386604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +346,17 @@ time, I owe to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-fully  
+ from us tho judgments  
+whioh w.o feel to foarj and givo us wisdom  
+to discern, and courage to attempt, and  
+taatutulucss to do, and patience to enduro  
+whatsoever shall bo well pleasing in thy  
+sight, that so thy chastonings may yield  
+tho peaceable lruits ot righteousness, and  
+that ut tho last wo may rejoice in thy sal-  
+potion, through Jesus Christ our Lord.  
+Amen.&quot;  
+&quot; O Lord, flo b,csee.ch .theo. mercifully  
 hear our prayers, and spare ail these who  
 confess, their&#x27; sins unto thee; tpat .they  
 whoso consciences by sin are accused, by  
@@ -351,7 +385,7 @@ sole constituent member of my own body,
 and that I havo adhered to it through all  
 time, I owo to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025181%2F00237287939%2F1857111401%2F0461.jp2/pct:70.405874,43.494364,12.828880,19.114332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025181%2F00237287939%2F1857111401%2F0461.jp2/pct:70.283500,37.826087,12.951254,24.782609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,6 +599,7 @@ owe to my mother
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Hy. and yoa will give the best positive proof of  
 Chrarthteity. -  
 lry mother asked me never to use tobacco, and I  
 a never touched it from that time to the present  
@@ -577,7 +612,7 @@ Wd whatever usefulness I may attain in life, I attri­
 tat3 to having complied with her pious and earnest  
 wiea- T. II. Benton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474216%2F1858040801%2F0165.jp2/pct:3.045419,80.116769,12.444211,4.876203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474216%2F1858040801%2F0165.jp2/pct:3.045419,79.705914,12.536099,5.287058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +644,7 @@ me not to drink, and i made then a resolut. .
 s. vieiv at a time when 1 was the s le constitu­  
 ent member i; my own body; and tha&#x27; I ha. ;  
 adi.e;eil to it through all past Ume, 1/ to  
-my m
+my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1858041301%2F0898.jp2/pct:82.985115,28.254389,12.754336,9.024327/!600,600/0/default.jpg"/>
 </td>
@@ -685,6 +720,9 @@ mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+read what that noble statesman, Thomas  
+Benton, says of his mother, and go thou and  
+do likewise&quot; :  
 &quot; My mother asked me never to use tobacco,  
 and 1 have never touched it from that time  
 the present day ; she asked me not to game,  
@@ -701,7 +739,7 @@ the sola constituent member of my own body
 and that I have adhered to it through all time  
 owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035143%2F00280775721%2F1858090201%2F0326.jp2/pct:30.458221,89.686037,12.206392,6.416965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035143%2F00280775721%2F1858090201%2F0326.jp2/pct:30.419715,88.074910,12.244898,8.028091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,6 +794,8 @@ time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother&#x27;s Influence. How touch­  
+ing the tribute of the Hon. T. II. Ben­  
 ton, to bis mother&#x27;s influence:  
 &quot;My mother asked me never to use  
 tobaceo, and I Lave never touched it  
@@ -776,7 +816,7 @@ the sole constituent members of my own
 body, and that I have adhered to it  
 through all time, I owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286893%2F1858110301%2F0284.jp2/pct:16.799877,77.184116,10.513372,11.155235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286893%2F1858110301%2F0284.jp2/pct:16.799877,75.980746,10.513372,12.358604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -843,7 +883,15 @@ owe to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ational manner, part of the time  
+se in which he resides. When hoe  
+entered the lecture-room the students all rose to  
+receive him, and he acknowledged their attention  
+with a polite bow. He wore a black dress-coat and  
+white pantaloons. Liebig is a fine, intellectual-  
+looking man, tall though not broad ; has iron-gray  
+hair, which has fallen off from his broad and pro-  
+jecting forehead ; he wears no beard. He lectures  
+m &amp; very conversational manner, part of the time  
 sitting ; makes many gestures, and good ones too.  
 His face is expreesive. He is, indeed, a good deal  
 of an orator, and perhaps the best popular lecturer  
@@ -872,7 +920,7 @@ stituent member of my own body; and that I have
 adhered to it through all past time, lowe to my  
 mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1858-12-30_10_526&#0036;5/pct:52.735602,31.134648,12.722513,11.073826/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1858-12-30_10_526&#0036;5/pct:52.696335,27.474832,12.761780,14.733641/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +968,18 @@ ill the past time, owe to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ed as  
+ffee for you.&quot;  
+&quot;Doctor, that was too much. I could  
+ndure it no longer, and I rosolved from  
+that moment that I would never touch  
+another drop as long as I lived, and I  
+never will. It was a heavy trial of my  
+wife&#x27;s putioucc; but sho fairly conquered  
+me.&quot;  
+lie held to his resolution, and lived  
+and died, practising total abstinence  
+from all intoxicating drinks, in a village  
+where intemperance has ravaged as  
 much as any other in tho State.  
 That man was my father, and that wo­  
 man my mother. The facts above rela­  
@@ -952,7 +1011,7 @@ stituent member of my own body; and
 that I have adhered to it through all  
 past tlmo, I owo to my jnoihcr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1859021001%2F0415.jp2/pct:6.207250,79.258675,12.072503,17.836488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1859021001%2F0415.jp2/pct:6.207250,73.199264,12.106703,23.895899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +1023,16 @@ past tlmo, I owo to my jnoihcr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- who have patience in small  
+re making ready the breakfast,  
+they have no fear of the churn-dasher, or the  
+clothes pounder, but lay hold of them with  
+good will and to some effect when by doing  
+so they can help along the housewerk with-  
+out hindering their own, they are the handiest  
+of all helpers in “ hog killing time,” and will  
+even put up the clothes line in a stormy day  
+without threats of committing suicide.—  
+Honor to those who have patience in small  
 matters as well as courage in great. These  
 are the men who have made Michigan homes  
 what they are, and whose descendants will  
@@ -996,7 +1064,7 @@ she asked me not to drink, and I made then
 total abstinence society at a time when I was  
 the sole constituent member of my own body;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-02-12_1_7&#0036;5/pct:25.696056,76.077586,16.531323,16.925287/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-02-12_1_7&#0036;5/pct:25.657386,69.123563,16.569992,23.879310/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1095,12 @@ I owe to my mother. ai’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.-r.ent day. She  
+  
+do&#x27; s not honor their memory, it ia not  
+oi;ly unjust to the dead but to&#x27; itself.  
+. , My motjier asked m&#x27; never to use  
+tobacco, and I hive never touched it  
+from that timo to the pr.-r.ent day. She  
 asked me not to ga .ie, and I huva never  
 &#x27;.&#x27;(jr. mod j and I caunot tell to this  
 day who is winning pr who is losing in  
@@ -1085,6 +1158,8 @@ owe to mv mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+he at the time mentioned.  
+A M itihr&#x27;s Inxt-BINCB.—llow tnm-liine the  
 tribute oftlie Hon. T. 11. Benton, to his mother&#x27;s  
 influence;  
 ‘•My mother asked me never to u-o tobacco, and  
@@ -1103,7 +1178,7 @@ was sole constituent member of my own Issivus.-d
 that 1 have adhered to it through all time, I owe  
 to iny mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn85034360%2F0039334801A%2F1859092201%2F0168.jp2/pct:17.814634,79.654428,14.619512,8.570914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn85034360%2F0039334801A%2F1859092201%2F0168.jp2/pct:17.814634,78.272138,14.619512,9.953204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1191,6 @@ to iny mother
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-forenoon.&quot;  
 A Mother&#x27;s IxrUEM E.?How touching  
 the tribute of the Hon. T. II. Benton, to his  
 mother&#x27;s influence:  
@@ -1137,7 +1211,7 @@ at a time when 1 was sole constituent meinber
 of m v own body, and that I have adhered to  
 it through all time, 1 owe to my motlier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F00415663481%2F1859092301%2F0046.jp2/pct:3.488988,58.859899,14.139078,10.534719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F00415663481%2F1859092301%2F0046.jp2/pct:3.488988,59.580106,14.139078,9.814513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1352,7 +1426,10 @@ time
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ver gambled, |  
+  
+that time to the present day ; slit; asked |  
+  
+mo hoi vo game, ana i Jiavc never gambled, |  
 and I cannot toll who is winning and who j  
 is losing in games that can he played. Mhc  
 admonished iuo, too, against hard drinking ;  
@@ -1368,7 +1445,7 @@ body, and that I bave.&#x27;dhearcd to it throii&quot;h
   
 nil titne; 1 owe it to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1859110501%2F0951.jp2/pct:50.552666,58.935920,17.024274,8.809944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1859110501%2F0951.jp2/pct:50.552666,58.121273,17.024274,9.624591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1630,8 @@ and that I have adhered to it through all time, I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-sked ine never to use to  
+  
+&quot;My mother asked ine never to use to  
 bacco, I never totiehod it from that time  
 to the present day; the asked mo not  
 game, and 1 have never gambled, and  
@@ -1607,6 +1685,7 @@ is tUl.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+er&#x27;s influence : &quot; My mother asked me never  
 to nse tobacco. I have never touched it from  
 that time to this, and I have never gambled,  
 and I cannot tell who is winning and who is  
@@ -1619,9 +1698,11 @@ with her pious and correct wishes. When I
 was seven years of age, she asked me not to  
 drink, and then I mado a resolution of total  
 abstinence, at a time when I was sole  
-constituent member of niy own body,
+constituent member of niy own body, and that  
+I have adhered to it through ail time, I owe  
+it to my mother 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860110801%2F0499.jp2/pct:78.462119,86.966037,14.839961,7.476453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1860110801%2F0499.jp2/pct:78.435176,86.395435,14.866904,9.192168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1781,6 +1862,11 @@ to it through all tima,
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ihuteof Hon. Thos. H.Benton to liislln. , &quot; New rk WorM &quot;-vs that the  
+other&#x27;s inflaence I tn uron wn,cil 1,10 Declaration of ths  
+  
+tr  
+mother  
 &quot;My mother asked rae never to use to­  
 bacco. I have nevT touched it from that  
 time to the present day. She asked not to  
@@ -1803,19 +1889,20 @@ of my own body; and that I have adhered
 t it through all time, I owe it to tayinjta-  
 cr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056248%2F00200294543%2F1861011701%2F0396.jp2/pct:71.098196,72.787632,12.870808,9.892820/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056248%2F00200294543%2F1861011701%2F0396.jp2/pct:71.098196,71.421796,25.681075,11.258655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Southern Teacher 1859-1861_](https://iiif.archivelab.org/iiif/sim_southern-teacher_1861-05_2_10?page=19)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_southern-teacher_1861-05_2_10?page=19)
 
 #### 1861-05-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A MOTHER’S INFLUENCE.  
 How touching the tribute of Hon. T. H. Benton to his moth-  
   
 er’s influence:  
@@ -1833,7 +1920,7 @@ to drink, and I made a resolution of total abstinence, at the
 time when I was sole constituent member of my own body, and  
 that I have adhered to it through all time, I owe it to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-teacher_1861-05_2_10&#0036;19/pct:20.209581,16.097122,67.415170,23.291367/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-teacher_1861-05_2_10&#0036;19/pct:20.209581,13.099520,67.415170,26.288969/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1846,6 +1933,9 @@ that I have adhered to it through all time, I owe it to my mother
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Week. i  
+  
+Benton&#x27;s Mother.—How toucuiug the trib­  
 ute of Thomas H. Benton, to his mother’s influ­  
 ence : Mymother askedme never to use toaacco.  
 ! I never have touched it from that time to the  
@@ -1863,7 +1953,7 @@ when I was sole constituent member of my own
 body; and that 1 have adhered to it through all  
 time, I owe it ail to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_collins_ver01%2Fdata%2Fsn83030364%2Fprint00211110107%2F1861050401%2F0002.jp2/pct:68.423827,6.608330,12.225444,7.009785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_collins_ver01%2Fdata%2Fsn83030364%2Fprint00211110107%2F1861050401%2F0002.jp2/pct:55.868916,6.090829,24.780355,91.792121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1916,7 +2006,9 @@ mat i cave aanereu to it turouga all time,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d me never to game, and I cannot  
+  
+I have never used it from that to the present  
+day ; she asked me never to game, and I cannot  
 tell who is winning and who is loosing in game  
 that can be plaved. She admonished me too.  
 against hard drinking; and whatever capacity  
@@ -1930,7 +2022,7 @@ constituent member f roy own body ; and that
 have adhered to it through all time, I owe to  
 my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn83016318%2F00296024570%2F1861101601%2F0589.jp2/pct:59.352837,88.330684,12.958038,5.903551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn83016318%2F00296024570%2F1861101601%2F0589.jp2/pct:59.352837,87.843137,12.972813,6.391097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1942,7 +2034,14 @@ my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- whatever capacity for endu-  
+  
+My mother asked me neen to use lobar­  
+co. I have never used It from that time to  
+the present day. Sh. asked mo . not o  
+game, and I caunol tell who is winning aott  
+lu ia Inainir in names Uiat cttti la n&#x27;.sve.l  
+She admonished me, too, against nard  
+drinking; and whatever capacity for endu-  
 ranee f have, at present, and whatever use  
 fulness I but attain in life. I have attribu ,  
 ted to having complied with her pious anil  
@@ -1953,7 +2052,7 @@ time when I was solt? constituent member
 of my own body; itui that I have adhered  
 to it through all time, 1 owe to ray mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn82015672%2F00296021982%2F1861101801%2F0409.jp2/pct:21.174578,87.552192,12.646822,4.906054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn82015672%2F00296021982%2F1861101801%2F0409.jp2/pct:21.174578,84.590292,12.646822,7.867954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,6 +2065,8 @@ to it through all time, 1 owe to ray mother
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+regular Vermont grin, and drove off.  
+Bextox&#x27;s Mother. How touching the  
 tribute of Hon. T. H. Benton to his mother&#x27;s  
 influence:  
 My mother asked me never to use tobacco.  
@@ -1985,7 +2086,7 @@ I was sole constituent member of my own
 body; and that I have adhered, to it through  
 all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn84028745%2F00280775320%2F1861101801%2F0199.jp2/pct:45.383921,53.096105,11.942186,8.938078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn84028745%2F00280775320%2F1861101801%2F0199.jp2/pct:45.383921,51.611096,11.942186,10.423088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1998,6 +2099,9 @@ all time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+posed to attend the act of getting glorious­  
+ly tight.  
+Benton&#x27;s Mother. How touching is  
 the tribute of Hon. T. II. Benton to Lis  
 mother&#x27;s influence:  
 &quot;31y mother asked me never to use to­  
@@ -2013,9 +2117,11 @@ life, I have attributed to having complied
 Trith her pious and correct wishes. When  
 I was seven years of age she asked mo not  
 to drink, and I made a resolution of tnial  
-abstinence, at a ti
+abstinence, at a tima when I was sole con­  
+stituent member oil my own body; and  
+that I havo adhered to it Chrouh all tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054845%2F00212477667%2F1861112801%2F0149.jp2/pct:4.921106,83.162901,14.935166,9.904875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054845%2F00212477667%2F1861112801%2F0149.jp2/pct:4.921106,80.713436,14.935166,13.495838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2028,6 +2134,7 @@ abstinence, at a ti
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+mother a.-ked me never to use tobacco. I have never  
 nsed it frjptn that to the present day; she asked me  
   
 never to game, and I cannot tell wbo is winning and  
@@ -2044,7 +2151,7 @@ total abstinence at a time when I was sole constitu­
 ent member of my own body; and that I have ad­  
 nered,to it through all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F0021247423A%2F1861121901%2F0463.jp2/pct:5.443787,74.604092,12.386588,5.155473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F0021247423A%2F1861121901%2F0463.jp2/pct:5.443787,74.176396,12.386588,5.583170/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2057,7 +2164,6 @@ nered,to it through all time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-!  
 “My mother asked me never to use 1  
 tobacco. I have never used it from i  
 that to the j*resent day. She asked ,  
@@ -2077,7 +2183,7 @@ constituent member of my own body
 and that I have adhered to it through \
 all lime, 1 owe to rny mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1862032201%2F0624.jp2/pct:63.984472,78.586229,13.609494,11.026190/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1862032201%2F0624.jp2/pct:63.984472,78.874962,13.609494,10.737457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2090,6 +2196,8 @@ all lime, 1 owe to rny mother
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+are no fortifications at Memphis,  
+Benton s Mother.—How touching the  
 tribute of Hon. T. H. Benton to his moth­  
 er&#x27;s influence:  
 “My mother asked me never to use to  
@@ -2110,7 +2218,7 @@ member of ray own body; and that I
 have adhere 1 to it through all time I owe  
 to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769775%2F1862040201%2F0857.jp2/pct:58.583729,84.315935,11.947260,9.134196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769775%2F1862040201%2F0857.jp2/pct:58.583729,82.582146,11.969683,10.867985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2123,6 +2231,12 @@ to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Ilea. Thomas H. Benton&#x27;s Mother.  
+How touchins the tribute of the Hon  
+Thomas II. Benton to his mother&#x27;s in-!  
+  
+fluence: I  
+-My metherasked me never to use to- whe.t nd &quot;  
 bacco. I have never used it from that Thc Pralrie fanner says, with all the  
 time to the present day. She asked me emphag;3 which itaiica aati an earnest  
 not to game. I cannot tell who is win- ( eonTict;on call give: &quot;It u no longer  
@@ -2145,7 +2259,7 @@ my own uouy, anu umi. i
 to.it through,all. time, I owe to my &#x27;  
 motber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026797%2F1862040401%2F0078.jp2/pct:3.972449,71.621096,23.402210,8.850590/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026797%2F1862040401%2F0078.jp2/pct:3.972449,69.094208,23.402210,11.377478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2186,9 +2300,11 @@ present day. She asked me not to game, and I
 have never gambled, and I cannot tell who  
 losing in games that are beinc plated. She ad  
 monished me, too, against bard drinkinsr: and  
-whatever capacity for endurance I have at nm
+whatever capacity for endurance I have at nm.  
+cm. mna wnatever useruineaa l nir have attain  
+ed in life, I have attributed to having complie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn84023127%2F00280777018%2F1865110301%2F0173.jp2/pct:62.508784,81.403287,11.349262,4.032870/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn84023127%2F00280777018%2F1865110301%2F0173.jp2/pct:62.473647,81.403287,11.384399,4.917826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,6 +2327,9 @@ whatever capacity for endurance I have at nm
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+many of the French Canadians.  
+A Mother&#x27;s Ixfluknci:. ITow touch­  
+ing is thi tribute of Hon. T. II. Ronton  
 to his mother&#x27;s influence:  
 &quot;My nioiher asked me never to use  
 tobacco I have never touched it from  
@@ -2229,7 +2348,7 @@ made a resolution of total abstinence, and
 that I have adhered to it through all time,  
 I owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn87056248%2F0020029564A%2F1866010401%2F0215.jp2/pct:69.109076,80.433379,12.525277,9.349931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn87056248%2F0020029564A%2F1866010401%2F0215.jp2/pct:69.109076,78.284924,12.525277,11.498386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2311,12 +2430,9 @@ tobacco. I have never touched it from
 that time to the present day. She ask­  
 ed me not to game, and I never gam  
 bled, and cannot tell who is losing itr  
-games that are being played. She ad  
-tuonished me, too, against hard driuk  
-ing; and whatever capacity for endu  
-ranee I have at present, 
+games that are being played. She a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn90052434%2F00296023127%2F1866031701%2F0041.jp2/pct:53.063214,83.835215,13.338903,6.827687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn90052434%2F00296023127%2F1866031701%2F0041.jp2/pct:53.063214,83.835215,13.338903,4.893350/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2367,13 +2483,20 @@ mother.&#x27;&#x27;&quot;
 
 ---
 
-## [From _Revolution 1868-1872_](https://iiif.archivelab.org/iiif/sim_revolution_1868-10-29_2_17?page=10)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_revolution_1868-10-29_2_17?page=10)
 
 #### 1868-10-29
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A MOTHER&#x27;S LOVE.  
+—_—»—.——  
+  
+Hon. Toomas H. Benton once paid this tri-  
+bute to the memory of his mother. Mr. Ben-  
+ton was certainly one of the noblest specimens  
+of the physical man the country has produced :  
 “My mother asked me never to use tobacco ; I  
 have never tonched it from that time to the |  
 present day. She asked me not to gamble, and  
@@ -2389,7 +2512,7 @@ not to drink, and thenI made a resolution of
 total abstinence; and that I have adhered to it  
 tbrough all time, I owe to my mother.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_revolution_1868-10-29_2_17&#0036;10/pct:7.057416,15.386285,24.551435,14.539931/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_revolution_1868-10-29_2_17&#0036;10/pct:7.057416,8.810764,24.551435,21.115451/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2402,6 +2525,9 @@ tbrough all time, I owe to my mother.”
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+How touching tbe tribute ef the  
+Thomas H. Benton te his mother&#x27;s  
+influence&#x27;  
 &quot;My mother asked me keftf to Use  
   
 and I have never teu*hed it  
@@ -2431,7 +2557,7 @@ body, and that 1 have adhered to it
 through I owj ta n»jf ipyU)­  
 er.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn87058351%2F00279529388%2F1869010801%2F0414.jp2/pct:75.745497,61.073167,10.008857,8.878945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn87058351%2F00279529388%2F1869010801%2F0414.jp2/pct:75.745497,59.503062,10.008857,10.449050/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2453,7 +2579,7 @@ er.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and I have never gambled. I cannot  
+  
 [ tell who is losing in games that an* l»cing plav­  
 ! pd. She admonished me, too. against hard drink­  
 ing, and whatever capacity for endurance 1 have  
@@ -2465,7 +2591,7 @@ to drink, and theu I made a resolution of total
 abstinence; an.I that I have adhered to it  
 through all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187134%2F1869081301%2F0510.jp2/pct:15.613994,20.335951,12.718165,4.963059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187134%2F1869081301%2F0510.jp2/pct:15.613994,20.733525,12.718165,4.565484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2488,6 +2614,17 @@ through all time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+How touching is this tribute of Hon  
+T. II. Benton to his mother&#x27;s iufluence  
+&quot;My mother asked me to never use to­  
+bacco; I have never touched it froui that  
+time to this day. She asked me not to  
+gamble, and I have uever gambled. I  
+can not tell who is losing in games that  
+are being played. She admonished me,  
+too, against hard drinking, and whatever  
+capacity for endurance I have at present-,  
+and whatever uefullness I may have at­  
 tained through life, I have attributed to  
 having complied with her pious and cor­  
 rect wishes. When I was seven years of  
@@ -2496,7 +2633,7 @@ I made a resolution of total abstinence;
 and that I have adhered to it through all  
 time, I owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_cardinal_ver01%2Fdata%2Fsn85052141%2F00202195301%2F1869081401%2F0199.jp2/pct:34.450425,67.682353,14.273311,3.670588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_cardinal_ver01%2Fdata%2Fsn85052141%2F00202195301%2F1869081401%2F0199.jp2/pct:34.294148,61.658824,14.429588,9.694118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2539,6 +2676,9 @@ uottiar
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ous to the country.”  
+A Mother’s Influence.  
+How touching is tLia tributec f thelate Hon.  
 T. 11. Benton to his mother’s influence: “ My  
 mother asked me never to use tobacco; T have  
 never touched it from that time to the present  
@@ -2557,7 +2697,7 @@ me nut to drink, and then I made a resolution
 of total abstinence; and that 1 have adhered  
 to it through all time. I owe to my mother.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186981%2F1869090901%2F0151.jp2/pct:45.604949,28.257576,12.247638,9.213564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jacob_ver01%2Fdata%2Fsn84026784%2F00414186981%2F1869090901%2F0151.jp2/pct:45.590563,25.963203,12.262025,11.507937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2570,6 +2710,9 @@ to it through all time. I owe to my mother.’
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+His Mother’s Influence.  
+The late Thomas H Benton thus r*  
+ferred to the influence of his mother, and  
 the part which her teachings had in form  
 ing his sturdy character:  
 “ My mother asked me never to use to­  
@@ -2590,7 +2733,7 @@ a time when I was sole constituent o
 own body, and that I have adhered to i;  
 through all time, I owe to my noth#
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086770%2F00271769799%2F1870020301%2F0787.jp2/pct:80.317866,85.849585,15.886193,10.676310/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086770%2F00271769799%2F1870020301%2F0787.jp2/pct:80.317866,83.731542,16.021002,12.794352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2613,6 +2756,10 @@ through all time, I owe to my noth#
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Tho late Thomas H. Denton thus re­  
+ferred to the influence of his mother.  
+and the part which her .teachings had in  
+forming Ins sturdy character:  
 &quot;My mother aeked iue never to &#x27; use  
 tobacco, and I have never touched it  
 from that to the present day; she asked  
@@ -2633,7 +2780,7 @@ of my own body, and that I have ad
 hered to it through all time, I owe to  
 my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744808%2F1870022201%2F0522.jp2/pct:6.252549,72.311797,12.246840,9.964041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744808%2F1870022201%2F0522.jp2/pct:6.252549,70.189073,12.246840,12.086765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2656,6 +2803,9 @@ my mother
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Iiis mother&#x27;s Influence.  
+The late Thomas II. Benton thus re­  
+ferred to the influence of his mother, and  
 the part which her teachings had in form­  
 ing bis sturdy character :  
 &quot;My mother asked me never to use to­  
@@ -2677,7 +2827,7 @@ sole constituent, of my own body and that
 I have adhered to it through all time, I  
 owe to mv rnnth&quot;i\
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870022601%2F0040.jp2/pct:68.189103,73.659487,12.291667,10.529331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1870022601%2F0040.jp2/pct:68.189103,71.620073,12.291667,12.568744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2689,7 +2839,6 @@ owe to mv rnnth&quot;i\
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
   
 A MOTHER’S INFLUENCE.  
   
@@ -2759,6 +2908,10 @@ to it through all time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+P. H. Sheridan,  
+Lieutenant General.  
+A Mother&#x27;s Influence. How touch  
+ing is this tribute of Hon. T. H. Benton  
 to us mother&#x27;s influence : &quot;Mv mother  
 asked me never to use tobacco ; I have  
 never touched it from that time to the  
@@ -2777,7 +2930,7 @@ and then I made a resolution of total
 abstiBenea : and that T hsr Adhered to  
 it through all time, I owe to mymother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472955%2F1870031801%2F0520.jp2/pct:35.539795,89.957100,9.666404,6.753932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472955%2F1870031801%2F0520.jp2/pct:35.539795,87.790122,9.666404,8.920911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2819,6 +2972,12 @@ made a resolution of totp abstinenc
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+in winter. G. C. H.  
+  
+those witness&quot; agree to take each oth­  
+the er for husband and wife.  
+There is the record that the Hon.  
+Thomas H Benton left behind him of  
 a mother&#x27;s influence: &quot;My mother  
 asked me never to use tobacco. I have  
 never touched it from that time to the  
@@ -2834,7 +2993,7 @@ I was seven years of age, she asked
 me not to drink; and then I made a  
 resolution of total abstinence that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1870041301%2F0536.jp2/pct:45.092262,86.087733,9.396806,5.623565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1870041301%2F0536.jp2/pct:35.338812,84.136700,19.181268,11.540423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2847,6 +3006,8 @@ resolution of total abstinence that
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+wrong road.  
+A Mother’s Influence.—How touching  
 is this tribute of Hop,. T, II. Benton, to his  
 mother’s influonoe : “My mother asked me  
 never to use tobacco; I have never touched  
@@ -2864,7 +3025,7 @@ not to drink, and then I made a resolution
 of total abstinence ; and that I have adhered  
 to it through all time I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349499%2F1870072901%2F0390.jp2/pct:73.685924,57.246747,11.069976,7.938887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349499%2F1870072901%2F0390.jp2/pct:73.685924,55.830569,11.069976,9.355065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2877,6 +3038,8 @@ to it through all time I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+A Mother&#x27;s Influence —How touching is  
 this tribute of Hon. T. H. Benton, to his moth­  
 er s influence: &quot;My mother asked me never  
 to use tobacco ; I have never touched it from  
@@ -2893,7 +3056,7 @@ ed me not to drink, and then I made a resolu­
 tion of totai abstinence ; and that I have adher­  
 ed to it through all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762489%2F1870080901%2F0534.jp2/pct:81.666242,81.549839,12.225333,6.534698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762489%2F1870080901%2F0534.jp2/pct:81.666242,81.097192,12.225333,6.987345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2928,7 +3091,7 @@ all time I owe to my mother.
 
 ---
 
-## [From _Revolution 1868-1872_](https://iiif.archivelab.org/iiif/sim_revolution_1870-08-18_6_7?page=11)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_revolution_1870-08-18_6_7?page=11)
 
 #### 1870-08-18
 
@@ -3055,6 +3218,7 @@ through all time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Island Daoer says:  
 Uow touching is the tribute ot the late  
 Hon. T. H. Benton to his mother&#x27;s in  
 fluence: &quot; My mother asked me never to  
@@ -3075,19 +3239,22 @@ a resolution of totnl abstinence; and
 that I have adhered to it through all  
 time I owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779386%2F1870112801%2F1087.jp2/pct:16.318713,38.643027,10.898295,8.180930/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779386%2F1870112801%2F1087.jp2/pct:16.318713,38.140444,10.898295,8.683512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Galaxy. A Magazine of Entertaining Reading (1866-1878)_](https://iiif.archivelab.org/iiif/sim_galaxy_1870-12_10_6?page=137)
+## [From _The galaxy_](https://iiif.archivelab.org/iiif/sim_galaxy_1870-12_10_6?page=137)
 
 #### 1870-12-01 &middot; New York
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+The Sandwich Island paper says :  
+  
+How touching is this tribute of the late Hon. T. H.  
 Benton to his mother’s influence: ‘*‘ My mother asked  
 me never to use tobacco; I have never touched it  
 from that time to the present day. She asked me not  
@@ -3102,7 +3269,7 @@ age she asked me not to drink, ard then I made a res-
 olution of total abstinence ; and that I have adhered  
 to it through all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_galaxy_1870-12_10_6&#0036;137/pct:57.094595,17.309753,32.263514,13.397642/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_galaxy_1870-12_10_6&#0036;137/pct:57.094595,14.469453,32.263514,16.237942/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3115,6 +3282,8 @@ to it through all time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+graph. The Sandwich Island paper says;  
+How touching is the tribute of the late  
 Hon. T. H. Benton to his mother’s in-  
 J fluence : “My mother asked me never to  
 use tobacco. I have never touched it from  
@@ -3133,7 +3302,7 @@ made a resolution of total abstinence; and
 that I have adhered to it through all time,  
 I I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625480%2F1870122301%2F0636.jp2/pct:80.889466,62.781308,12.168578,8.443633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625480%2F1870122301%2F0636.jp2/pct:80.889466,61.801776,12.168578,9.423165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3176,8 +3345,6 @@ I owe to my mother.’
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-life than to any other influence. The late Mr.  
-Benton, for many years senator from Missouri,  
 pays the following tribute to his mother:  
   
 “My mother asked me never to use tobacco; I  
@@ -3195,7 +3362,7 @@ made a resolution of total abstinence; and that
 I have adhered to it through all time, I owe to  
 my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1870-12-29_43_52&#0036;7/pct:50.665188,37.397617,20.898004,10.889799/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1870-12-29_43_52&#0036;7/pct:50.665188,38.886821,20.898004,9.400596/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3218,6 +3385,10 @@ my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother&#x27;s Influenco.  
+My mother asked mo never to use tobao­  
+co. I bavo never touched it from that  
+timo to tho present day. She asked mo  
 not to game, and I cannot tell who is los­  
 ing in games that can be played. She  
 admonished mo too, ag^nst hard drinking;  
@@ -3227,10 +3398,9 @@ I may attain in life, I havo attributed to
 having complied with her pious and cor­  
 rect wishei. When I was seven years ef  
 age, sho asked mo not to drink, and then  
-I made a resolution of total abstinence that  
-I hav
+I made a resolution of total abstinence tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1872032101%2F0467.jp2/pct:19.366104,78.740248,15.768318,8.256846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1872032101%2F0467.jp2/pct:19.359515,75.829891,15.774908,10.448218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3253,6 +3423,13 @@ I hav
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+wouldn&#x27;t be tho clean thing he said  
+to himself it wouldn&#x27;t be justice to  
+the shirt So he resolved to change  
+it But how ? The car contained  
+several lady passengers, and they  
+watched everything that was going  
+on around them with an assiduity  
   
 She admon  
   
@@ -3271,7 +3448,7 @@ total abstinence ; and that 1 have ad­
 hered to it through all time, I owe to  
 my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1872080701%2F0039.jp2/pct:73.859544,53.223253,10.189076,6.186383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1872080701%2F0039.jp2/pct:63.220288,53.223253,20.828331,43.519566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3298,9 +3475,23 @@ tell Avho is going to lose in games that
 ar being played unless I deal myself.  
 AVhen I was two years of age she  
 asked me not to drink, ami then I  
-made a resolution of total abstinence
+made a resolution of total abstinence.  
+That I have adhered to it and en  
+  
+joyed the beneficent effects of it  
+  
+through all time, I owe to my grand­  
+mother let these tears attest hit  
+gratitude. I hare never drauk a  
+drop from that day to this, of any  
+  
+kind ofAvater. Mart: Twain  
+  
+and clung to it fondly and faithfully  
+  
+through all times and changes as mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1872080701%2F0039.jp2/pct:73.739496,65.177562,10.159064,7.113775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1872080701%2F0039.jp2/pct:73.634454,46.154716,20.888355,29.506899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3403,9 +3594,12 @@ and correct wishes. When I was seven
 years of age she asked me not to drink  
 and then I made a resolution of total ah  
 stlnence: and that I havo adhered to it  
-through all time, I owo to my mother.
+through all time, I owo to my mother.&quot;  
+The brightest crowns that are worn i  
+heaven have been tried, and smelted, and  
+poiisiieu, and gioriliou inrougu mo lu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293563%2F1872121801%2F1027.jp2/pct:25.457103,82.867694,17.158931,8.606294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293563%2F1872121801%2F1027.jp2/pct:25.457103,82.867694,17.182372,10.838150/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3450,6 +3644,9 @@ time, I owe to my mothr.&quot;- That. H
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+by tho information.  
+A Mother&#x27;s Inklience. How  
+touching is this tributeof lion. Thom  
 as II. Benton to lus mother&#x27;s influ  
 ence : &quot;My mother asked me never to  
 use tobacco ; I have never touched it  
@@ -3469,7 +3666,7 @@ abstinence; and that I have adhered
 to it through all time, I owe to my  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873100401%2F0371.jp2/pct:15.121381,59.827528,9.812811,7.604435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873100401%2F0371.jp2/pct:15.121381,58.080412,9.812811,9.351551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3651,9 +3848,6 @@ all time, I owe to my mother
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-— How touching is this tribute of Hon.  
-Thomas H. Benton (who adorned the  
-United States Senate for thirty years)  
 to his ,mother’s influence: ‘My  
 mother asked me never to use tobacco.  
 I have never touched it from that time  
@@ -3674,9 +3868,10 @@ pious and correct wishes. When I
 was seven years of age, she asked me  
 nut to drink, and then I made a resolu-  
 tion of total abstinence, and that I have  
-adhered to it through all time, I owe t
+adhered to it through all time, I owe to  
+my mother.” It would be well for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1877-03-22_54_12&#0036;2/pct:19.023723,8.687555,23.251217,84.969325/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1877-03-22_54_12&#0036;2/pct:19.038929,8.687555,23.236010,84.969325/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3689,6 +3884,8 @@ adhered to it through all time, I owe t
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A. Mother&#x27;s Influence.  
+- The late Thomas II. Benton who so  
 long in public life and surrounded by  
 temptations, paid the following tribute  
 to his mother:  
@@ -3711,7 +3908,7 @@ sole constituent member of my own body,
 and that I have adhered to it through  
 all the time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877492%2F1878013001%2F0473.jp2/pct:17.773570,59.154020,11.186257,9.945108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877492%2F1878013001%2F0473.jp2/pct:17.773570,58.088473,11.199784,11.010655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3733,7 +3930,10 @@ all the time, I owe to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- me never to use any  
+  
+tion, paid the .following tribute to his  
+mother:  
+*M V mother asked me never to use any  
 tobacco, ami I have never touched it  
 from that lime to the present day : sh*  
 asked rne not to game, and I have  
@@ -3751,7 +3951,7 @@ made a resolution of total abstinence,
 at a time when I was sole constituent  
 member of mine nnn liody, and that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187158%2F1878022201%2F0588.jp2/pct:68.722073,69.420793,12.630325,9.359123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187158%2F1878022201%2F0588.jp2/pct:68.722073,67.938610,12.630325,10.841305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3764,6 +3964,9 @@ member of mine nnn liody, and that
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother&#x27;s Influence.  
+Ihe late Thomas II. Benton, who  
+was so long in publio life ?nd sur­  
 rounded by temptation, paid the fol­  
 lowing tribute to his mother:  
 &quot;My mother asked me never to ujo  
@@ -3781,9 +3984,11 @@ ing complied with her pious Bud cor­
 reot wishes. When I was seven years  
 of ago sho asked m? not to drink and  
 then I made a reaelution of total ab­  
-stinence, at a time when I was sol
+stinence, at a time when I was sole  
+constituent member of uiino own body,  
+ami that I havo adhered to it throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84038198%2F00202192506%2F1878030201%2F0539.jp2/pct:68.804415,61.547898,12.958644,12.769362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84038198%2F00202192506%2F1878030201%2F0539.jp2/pct:68.804415,59.168978,12.966418,16.652443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3795,7 +4000,9 @@ stinence, at a time when I was sol
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- H. Benton, who was so long in  
+  
+A Mother&#x27;s Influence.—The late  
+Thomas H. Benton, who was so long in  
 public life and surrounded by tempta­  
 tion, paid the following tribute to his  
 mother:  
@@ -3819,7 +4026,7 @@ ber of mine own body, and that I have
 adhered to it through all time I owe to  
 my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762337%2F1878030501%2F0217.jp2/pct:83.417834,74.200466,11.097698,9.508639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762337%2F1878030501%2F0217.jp2/pct:83.417834,73.765470,11.097698,9.943634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3832,6 +4039,8 @@ my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother&#x27;s Influence.-—The late Thos. H.  
+Benton, who was so long in public life and  
 surrounded by temptations, paid the follow-  
 ing tribute to his mother:  
   
@@ -3849,7 +4058,7 @@ and correct wishes. When I was seven years
 of age she asked me not to drink, and then I  
 made a resolution of total abstinence, at 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34&#0036;3/pct:40.371926,73.739209,27.924415,15.992731/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34&#0036;3/pct:40.371926,71.558383,27.924415,18.173557/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3862,6 +4071,9 @@ made a resolution of total abstinence, at
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother&#x27;s Influence,  
+  
+The late Thomas H. Benton, who was  
 so long in public life and surrounded by  
 temptations, paid the following tribute  
 to his mother : &quot; My mother asked me  
@@ -3878,9 +4090,11 @@ wishes. When I was seven years of age
 she asked me not to drink, end then I  
 made a resolution of total abstinence, at  
 a time when I was sole constituent mem­  
-Ikt of my own body, and that
+Ikt of my own body, and that I have  
+adhered to it through all the time I owe  
+to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776099%2F1878100301%2F0399.jp2/pct:80.437904,85.552486,13.998564,8.397790/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776099%2F1878100301%2F0399.jp2/pct:80.437904,84.337017,13.998564,10.662983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3892,7 +4106,9 @@ Ikt of my own body, and that
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s II. Benton, who  
+  
+A HI other&quot; Influence.  
+The lato Thomas II. Benton, who  
 was so long in public life and sur­  
 rouuded by temptations, paid the  
 following tribute to his mother:  
@@ -3918,7 +4134,7 @@ body, and that I have adhered to it
 through all the time I owo to my  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_abbott_ver01%2Fdata%2Fsn95073194%2F206539239%2F1878100901%2F0028.jp2/pct:14.247651,26.827446,10.643668,11.823711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_abbott_ver01%2Fdata%2Fsn95073194%2F206539239%2F1878100901%2F0028.jp2/pct:14.247651,25.963078,10.643668,12.688080/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3930,10 +4146,7 @@ mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ribute  
-to his mother : 41 My mother asked me  
-never to ue tobacco,ami I neypr touched  
-it from that time to tbe present day; she  
+  
 asked mc not to game, and 1 have not;  
 and I cannot tell who is winning or who  
 is losing in games that can be played.  
@@ -3949,7 +4162,7 @@ ber of my own body, and that I have
 adhered to it through all the time I owe  
 i to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028745%2F1878101701%2F0255.jp2/pct:14.613761,89.068506,9.689371,7.475288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028745%2F1878101701%2F0255.jp2/pct:14.613761,90.757139,9.667830,5.786656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3961,7 +4174,11 @@ i to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nd I havo not and 1 can not tell  
+  
+My mother asked mo never to usonny  
+tobacco and I never touched it from thnt  
+timo to tho present day sho asked mo not  
+to gnmo nnd I havo not and 1 can not tell  
 who is winning or who is losing in games  
 thnt can bo played Sho admonished me  
 too against hard drinking nnd whatever  
@@ -3977,7 +4194,7 @@ constituent member of my own body nnd
 thnt I havo ndhercd to it through all tho  
 time I owo to my mothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_dracula_ver01%2Fdata%2Fsn86069309%2F00100481807%2F1878110601%2F0063.jp2/pct:30.535616,66.099135,12.092766,7.963751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_dracula_ver01%2Fdata%2Fsn86069309%2F00100481807%2F1878110601%2F0063.jp2/pct:30.535616,64.341617,12.111172,9.721269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4021,6 +4238,10 @@ all the time, I owe tojmy mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother&#x27;s Influence.  
+  
+The late Thomas H. Benton, who  
+was so ltiug iu public life andsurrouud­  
 ed by temptations, paid the following  
 tribute to his mother:  
   
@@ -4044,7 +4265,7 @@ stituent member of my own body, and
 that I have adhered to it through all the  
 time, I oivo to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291074%2F1879011101%2F1217.jp2/pct:34.973157,68.230736,14.195746,11.120677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291074%2F1879011101%2F1217.jp2/pct:34.973157,66.232602,14.195746,13.118812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4057,6 +4278,7 @@ time, I oivo to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+\ motnen&#x27;s Infiaknce.?The late Thom a- 11  
 ! Benton, who was so long in public life and sur  
 rounded by temptations, paid the followin:  
 tribute to his mother:?&quot;My mothera^ked in  
@@ -4076,7 +4298,7 @@ sole constituent member of my own body, an
 tliai l adhered to it through all tlm? I owe te  
 my mother.&#x27;&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_newfoundland_ver04%2Fdata%2Fsn83045462%2F00280654504%2F1879012701%2F0617.jp2/pct:70.845782,88.665535,13.373168,7.035642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_newfoundland_ver04%2Fdata%2Fsn83045462%2F00280654504%2F1879012701%2F0617.jp2/pct:70.845782,88.355256,13.373168,7.345921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4089,6 +4311,10 @@ my mother.&#x27;&quot;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother&#x27;s Influence.  
+  
+The late Thomas I. Benton.  
+: yyas so long in punue uie and tr-  
 rounded bv temptations, paid the fol-  
 J1V  
 , lowing tribute to his mother:  
@@ -4119,7 +4345,7 @@ member of mv own Univ. and that 1
 adhered to it through all time&#x27; I owe to  
 mv mother.&quot; &#x27; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775149%2F1879020601%2F0614.jp2/pct:32.805336,87.645987,10.379325,8.507447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775149%2F1879020601%2F0614.jp2/pct:32.805336,86.928105,10.379325,9.225329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4132,6 +4358,8 @@ mv mother.&quot; &#x27; &#x27;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother&#x27;s Influence.  
+The late Thomas H. Benton, who was  
 so long in public life and surrounded by  
 temptations, paid the following tribute  
 to his mother: &quot; My mother asked me  
@@ -4153,7 +4381,7 @@ I was sole constituent member of my
 own body, and that I adhered to it  
 through all time I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_beetlebailey_ver01%2Fdata%2Fsn88068010%2F00294556072%2F1879020801%2F0144.jp2/pct:14.393815,86.890404,11.005100,9.098060/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_beetlebailey_ver01%2Fdata%2Fsn88068010%2F00294556072%2F1879020801%2F0144.jp2/pct:14.393815,85.553225,11.005100,10.435239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4166,6 +4394,8 @@ through all time I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother’s Inki.uence.—The late Thom­  
+as II. lienton, who was so long iu public life  
 and surrounded by temptations, paid the fol­  
 lowing tribute to his mother : “ My mother  
 asked mo never to use tobacco, and I have  
@@ -4185,7 +4415,7 @@ uent member of my own body, and that I ad­
 hered to it through all time I owo to my :  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155872%2F1879021201%2F0425.jp2/pct:55.309278,68.967429,12.564433,10.176715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155872%2F1879021201%2F0425.jp2/pct:55.309278,67.817048,12.564433,11.327096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4197,7 +4427,9 @@ mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- s. H. Benton, who was s»» long in  
+  
+A Moth ans Influence. —The late  
+Tin s. H. Benton, who was s»» long in  
 I public life surrounded by temptations,  
 paid the following tribute to his mother:  
 &quot;My mother asked me iievcr to use to­  
@@ -4219,7 +4451,7 @@ ber of my own body, and that 1 adhered
 to it through all time I owe to my  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_accio_ver01%2Fdata%2Fsn82014805%2F00271740360%2F1879031301%2F0263.jp2/pct:40.567010,17.375169,14.561856,10.256410/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_accio_ver01%2Fdata%2Fsn82014805%2F00271740360%2F1879031301%2F0263.jp2/pct:40.567010,16.869096,14.561856,10.762483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4231,6 +4463,12 @@ mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+A Hother&#x27;s Influence.  
+  
+The late Thomas II. Benton, who  
+  
+was so long in public life and sur  
   
 rounded by temptations; paid the  
   
@@ -4273,7 +4511,7 @@ to it through all time I owe to my
   
 mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879032001%2F0471.jp2/pct:57.214402,32.222349,9.528966,10.261386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879032001%2F0471.jp2/pct:57.214402,30.327588,9.528966,12.156147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4286,6 +4524,8 @@ mother
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother&#x27;s Influence.  
+The late Thomas H. Benton, who was  
 so long, in public life and surrounded  
 by temptations, paid the following trib­  
 ute to his mother: “My mother asked  
@@ -4304,9 +4544,10 @@ years of age she asked me not to drink,
 and then I made a resolntion of total  
 abstinence, and that T have adhered to  
 it through all the time I owe to my  
-mother.
+mother.”  
+j The Stream to the Mill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_chert_ver01%2Fdata%2Fsn86053968%2F00383343781%2F1879040301%2F0264.jp2/pct:84.303672,70.565664,11.003143,9.769155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_chert_ver01%2Fdata%2Fsn86053968%2F00383343781%2F1879040301%2F0264.jp2/pct:84.270592,69.414532,11.036222,12.281842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4333,9 +4574,12 @@ attain in lifo, I attribute to having
 complied with her pious and correct wishes.  
 When I was seven years of age she asked  
 me not to drink, and then I made a resolution  
-of total abstinenoe, at a timo when 
+of total abstinenoe, at a timo when I  
+was sole constituent, adhered to it through  
+all timo, I owo to my mother.&quot;  
+Lawyers arc ncvor more earnest tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_flopeye_ver01%2Fdata%2Fsn84026918%2F00295861411%2F1879041101%2F0364.jp2/pct:70.575962,81.201458,18.003624,9.664765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_flopeye_ver01%2Fdata%2Fsn84026918%2F00295861411%2F1879041101%2F0364.jp2/pct:70.575962,81.201458,18.003624,12.188936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4382,6 +4626,8 @@ all time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother&#x27;s Influence  
+The late Thomas II. Benton, who was so  
 long in public life and surrounded by temp­  
 tations, paid the following tribute to his  
 mother: &quot;My mother asked me never to  
@@ -4399,7 +4645,7 @@ then I made a resolution of total abstinence,
 and that I have adhered to it through all  
 the time I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1879041801%2F0272.jp2/pct:65.275853,48.662704,14.499584,8.883464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1879041801%2F0272.jp2/pct:65.275853,47.304182,14.541170,10.241987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4429,9 +4675,11 @@ Tcct wishes. When I was seven
 years of age she asked me not to  
 drink, and then 1 made a resolution  
 of total abstinence, at u time when&#x27;7  
-? was cole constituent, adhered to i
+? was cole constituent, adhered to it  
+througli&#x27;all lime, I oyvc to my moth­  
+Forget Me Not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_heddalettuce_ver01%2Fdata%2Fsn93067822%2F00294558780%2F1879041801%2F0073.jp2/pct:2.408759,55.468238,13.800487,13.066759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_heddalettuce_ver01%2Fdata%2Fsn93067822%2F00294558780%2F1879041801%2F0073.jp2/pct:2.408759,55.468238,13.800487,15.801841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4444,6 +4692,7 @@ of total abstinence, at u time when&#x27;7
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother’s Influence.—The late Thos.  
 H. Benton, who was so long in public life  
 surrounded by temptations, paid the fol­  
 lowing tribute to his mother: “My mother  
@@ -4464,7 +4713,7 @@ was sole constituent member of my own
 body, and that I adhered to it through all  
 time I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529595%2F1879050101%2F0075.jp2/pct:84.859212,71.278046,11.202735,9.783687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529595%2F1879050101%2F0075.jp2/pct:84.859212,70.769803,11.202735,10.291930/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4477,6 +4726,9 @@ time I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mothers Influence.  
+  
+The late Thomas H. Benton who was so  
 long in public lite and surronnded by  
 temptations, paid the following tribure to  
 his mother.  
@@ -4499,7 +4751,7 @@ constituent member of my own body, and
 that I have adhered to i: through all the  
 time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1879-05-03_47_23&#0036;3/pct:27.861320,75.331025,10.582011,7.404767/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1879-05-03_47_23&#0036;3/pct:27.861320,74.118965,10.582011,8.616826/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4514,6 +4766,8 @@ time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+. A Mo0THERS&#x27; LcrLUEcE. - T hei late  
+Thsmas H. Benton, who was so long in  
 public life, and surrounded by  
 temptations, paiid thse followeing  
 tribste to Isis mother :-&quot; My sothe:lr  
@@ -4543,6 +4797,12 @@ toit through all the ticces I owe to m
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mothers Influence.  
+The lite of lion. T. H. Benton con­  
+tains the following beautiful testimony  
+to his mother&#x27;s influence over both in  
+childhood and manhood. Mark it  
+well, all ye whom it may concern :  
 “ My mother asked me never to use  
 tobacco; I have never touched it  
 from that time to the present day.  
@@ -4559,9 +4819,14 @@ correct wishes. When I was seven
 years old she asked me not to drink,  
 and then 1 made a resolution of total  
 abstinance; and that I have adhered  
-to it all the time, I owe to my 
+to it all the time, I owe to my moth­  
+er.”—Bible Banner.  
+A Sudden Conversion.  
+1 gave her a rose and gave her a  
+ring, and I asked her to marry me  
+then, hut she sent them all back, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271766294%2F1879060401%2F0426.jp2/pct:41.918116,61.737035,15.131800,10.880373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271766294%2F1879060401%2F0426.jp2/pct:41.890073,57.220438,15.210320,20.093315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4574,6 +4839,8 @@ to it all the time, I owe to my
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Mother&#x27;s Influence.  
+The late Thomas H. Benton, who was so  
 long in public life and surrounded by temp  
 tations, paid the following tribute to bis  
 mother: &quot;My mother asked me never to use  
@@ -4594,7 +4861,7 @@ member of my own bedy, and that I bave
 adhered to it through all the time, I owe to  
 my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_kautsky_ver01%2Fdata%2Fsn87056600%2F00271740578%2F1879062501%2F0212.jp2/pct:66.170635,53.903452,14.325397,8.680705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_kautsky_ver01%2Fdata%2Fsn87056600%2F00271740578%2F1879062501%2F0212.jp2/pct:66.170635,52.929380,14.325397,9.654777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4711,7 +4978,10 @@ owe to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-me to the pres  
+  
+tribute to his mother: &quot;Mv mother  
+aidced rae nexer to uso tobaco,and I have  
+touched it from that time to the pres  
 ent da v; she asked me not to game  
 ami 1 have not, and I cannot tell who  
 ia winning or who is losing iu games  
@@ -4729,7 +4999,7 @@ constituent member of my own body,
 and that I adhered to it tlarotigh all  
 time I owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295867504%2F1881062401%2F0088.jp2/pct:73.264907,82.118823,11.204790,8.873294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295867504%2F1881062401%2F0088.jp2/pct:73.228250,81.061334,11.241447,9.930783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4775,8 +5045,6 @@ owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-? ulLo i* ionium iu jfuui&amp;s that are being played.  
-She admonished me, too, against dunking;  
 and whatever capacity for endurance I have  
 at present, and whatever usefulness I have,  
 I attribute to having complied with her  
@@ -4787,7 +5055,7 @@ dritk, and then I made a resolution of total
 abstinence : and that I have adhered to it  
 through all times, I owe to uiy mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_flopeye_ver01%2Fdata%2Fsn84026918%2F00295861423%2F1883071301%2F0166.jp2/pct:-0.051584,10.430813,19.632725,7.084654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_flopeye_ver01%2Fdata%2Fsn84026918%2F00295861423%2F1883071301%2F0166.jp2/pct:4.405241,11.811529,15.175900,5.703938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4800,6 +5068,8 @@ through all times, I owe to uiy mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+late Thomas H. Benton, who was long in  
+public life and exposed to many temptations,  
 shows the value of the influence which she  
 exerted over him.  
   
@@ -4820,7 +5090,7 @@ time when I was sole constituent member of
 my own body, and that I have adhered to it  
 through all the time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11&#0036;1/pct:10.391566,15.560072,28.373494,19.037940/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11&#0036;1/pct:10.331325,13.414634,28.433735,21.183379/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4849,7 +5119,9 @@ I have attributed to compliance with her
 wishes. When 1 was seven years of age  
 she asked me not to drink, and then I  
 made a resolution of total abstinence;  
-and that 
+and that I have adhered to it through  
+all the time, I owe to my  
+mother.&quot;-GTABFIEI.D.
 </td></tr></table>
 
 ---
@@ -4861,6 +5133,9 @@ and that
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+The Hon. Thomas H. Benton, who  
+was so long in public life and surround­  
 ed by temptations, paid the following  
 trihute to his mother: &quot;My mother  
   
@@ -4894,7 +5169,7 @@ adhered to it through all time I owe to
   
 my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556837%2F1887111701%2F0737.jp2/pct:10.898293,28.839766,12.145509,10.846409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556837%2F1887111701%2F0737.jp2/pct:10.898293,27.671515,12.145509,12.014660/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4938,6 +5213,7 @@ my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+The late Thomas H. Benton who was  
 so long in public life and surrounded hy  
 temptations, paid the following tribute to  
 his mother:  
@@ -4960,7 +5236,7 @@ sole constituent member of iny own body,
 and that 1 have adhered to it through all  
 time I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kump_ver01%2Fdata%2Fsn84026784%2F004141867092%2F1892021001%2F0230.jp2/pct:81.202896,76.218723,12.698882,14.035088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kump_ver01%2Fdata%2Fsn84026784%2F004141867092%2F1892021001%2F0230.jp2/pct:81.202896,75.539258,12.698882,14.714553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4973,6 +5249,10 @@ time I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ing the risk of their words.  
+  
+Tbo late Thonras II. Benton who  
+was so long in publie life and sur­  
 rounded by temptations, paid tho  
 following tribute to his mother:  
 “My mother asked mo never to  
@@ -4998,7 +5278,7 @@ body, and that I havo adhered to it
 through all time I owe to my  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187195%2F1892030401%2F0236.jp2/pct:72.905504,63.766909,11.061049,13.603885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187195%2F1892030401%2F0236.jp2/pct:72.905504,61.311134,11.061049,16.059660/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5022,9 +5302,11 @@ present, and whatever usefulness I
 may attain in life, I attribute to having  
 complied with hor highest and earnest  
 wishes.&quot;  
-That silver-voiced orator, Henr
+That silver-voiced orator, Henry  
+Clay, who seemed to wake at will the  
+chords of human sympathy, and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn86071868%2F0017503173A%2F1894032701%2F1043.jp2/pct:17.485091,19.302284,16.121051,6.634173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn86071868%2F0017503173A%2F1894032701%2F1043.jp2/pct:17.485091,19.302284,16.121051,7.676686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

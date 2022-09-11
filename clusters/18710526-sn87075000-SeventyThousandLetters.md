@@ -23,7 +23,20 @@ SEVENTY THOUSAND letters, filling one hundred and fifty sacks, and weighing near
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ickens the circulation a draught of  
+always be  
+governed without punishment, she denounced  
+whipping; and looked for the time when some  
+of the savans engaged in new translations of  
+the Scriptures would find out that Solomon, so  
+often quoted in favor of the ‘‘ rod,’’ would prove  
+to = meant ‘Spare the rod, and save the  
+child.  
+  
+  
+  
+Just now, when colds and influenzas are pre-  
+vailing, it is well to remember that after any ex-  
+ercise that quickens the circulation a draught of  
 air upon the person is almost sure to cause a  
 chill and produce a cold. Outside garments  
 should never be hastily removed when one is  
@@ -49,19 +62,31 @@ four hundred unstamped, misdirected, unaddress-
 ed, or unsealed letters and packages daily accu-  
 mulate in the New York Post-oflice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3&#0036;6/pct:51.206716,64.324818,19.543547,13.357664/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3&#0036;6/pct:51.128017,57.883212,19.622246,19.799270/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5?page=2)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5?page=2)
 
 #### 1871-02-04
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lions of dollars.  
+phia Mint in De-  
+cember was $568,128, of which $358,000 was  
+gold, $119,428 silver and $35,700 base coinage.  
+  
+There are eighty-six different missionary  
+societies sustained by Protestantism, support-  
+ing four thousand missionaries, at an outlay of  
+$500,000 annually.  
+  
+The aggregate shipments of gold and silver  
+from Denver, Colorado, for the year ending  
+December 31,1870, amounted to upward of  
+tive millions of dollars.  
   
 Governor Hayes, of Ohio, is entitled to the  
 medal for the shortest message, which is a  
@@ -77,7 +102,7 @@ the space of two days.
   
 A Paris correspondent writes: “All the ani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5&#0036;2/pct:59.654472,44.530303,15.853659,7.606061/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5&#0036;2/pct:59.573171,38.348485,15.995935,13.787879/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +114,17 @@ A Paris correspondent writes: “All the ani
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-fl, one can form some idea of the enorm­  
+ade and sold in New York is immense,  
+one manufacturer alone having supplied  
+162,000 balls last year. Perhaps the  
+United -States will bat to pieces half a  
+million of balls this season. Bats from an  
+important - business alone. They run  
+through a dozen different varieties. It  
+sounds somewhat preposterous to think  
+of mills running all the year round, turn­  
+ing out bats. As more bats are used tliaa  
+bJlfl, one can form some idea of the enorm­  
 ous quantity of material consumed. Orders  
 for all base-ball implements are just now  
 at their night and the supply is barely up  
@@ -115,7 +150,7 @@ dressed or unsealed letters and packages
 daily accumulate in the New York Post  
 .Office. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075000%2F00237286923%2F1871052601%2F0153.jp2/pct:5.964912,74.659435,10.960735,10.544904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075000%2F00237286923%2F1871052601%2F0153.jp2/pct:5.964912,70.635721,11.044277,14.568618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +162,17 @@ daily accumulate in the New York Post
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-find another, and on the very day of  
+ old gentleman was a grand-tatUer.  
+This was not the case, but one of pover­  
+ty&#x27;s children of the suitable age, had been  
+adopted by them, and was to be palmed ofl  
+as their own. This was necessary, for  
+poverty was staring them in the face, and  
+onlv the will of her father would enable  
+thein still to live in affluence.  
+(Jo the passage over from England, the  
+child died. It became necessary for them  
+to find another, and on the very day of  
 their arrival, they had stolen that of Mrs.  
 Avery.  
   
@@ -156,7 +201,7 @@ dressed or unsealed letters and packages
 daily accumulate in the New York Post  
 Office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1871060101%2F0773.jp2/pct:51.471758,78.394492,14.427776,13.708747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1871060101%2F0773.jp2/pct:51.471758,73.459497,14.484601,18.643742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

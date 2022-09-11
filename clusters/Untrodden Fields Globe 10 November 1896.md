@@ -19,13 +19,12 @@ Observations On The Esoteric Manners and Customs of Semi-Civilised Peoples Being
 
 ---
 
-## [From _Nature 1869-2016_](https://iiif.archivelab.org/iiif/sim_nature-uk_1896-10-22_54_1408?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_nature-uk_1896-10-22_54_1408?page=22)
 
 #### 1896-10-22
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
   
 Mr. Charles Carrington, Paris, announces ‘‘ Untrodden Fields  
 of Anthropology,” observations on the esoteric manners and  
@@ -39,7 +38,7 @@ army surgeon of thirty years’ experience in Asia, Africa, and
 
 ---
 
-## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
 
 #### 1896-11-21
 
@@ -62,7 +61,7 @@ OF SEMI-CIVILISED PEOPLES.
 
 ---
 
-## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
 
 #### 1896-11-21
 
@@ -85,12 +84,22 @@ three stamps for postage.
 
 ---
 
-## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-28_3605?page=42)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-28_3605?page=42)
 
 #### 1896-11-28
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+e TOUR du MONDE. Deuxiéme complément de  
+la Table alphabétique (1889-1894). 1 vol. in-4, broché, 8 fr. ; cartonné  
+percaline, tranches jaspées, 10 fr.  
+  
+EN VENTE.  
+  
+Le TOUR du MONDE. La Table analytique et  
+alphabétique des volumes publiés de 1860 a 1885, et le Premier  
+Complément des volumes publiés de 1886 a 1888, sont réunis en un  
+volume in-4. Prix, broché, 10 fr. ; cartonné, percaline rouge, 12 fr.  
   
   
   
@@ -121,13 +130,13 @@ Edition limited to 500 Numbered Copies.
 Fuller Prospectus and Analytical ‘Table of Contents on receipt of  
 three stamps for Postage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-28_3605&#0036;42/pct:61.164736,19.187146,28.024453,17.769376/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-28_3605&#0036;42/pct:61.100386,13.043478,28.088803,23.913043/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _American Anthropologist 1888-2016_](https://iiif.archivelab.org/iiif/sim_american-anthropologist_1896-12_9_12?page=30)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_american-anthropologist_1896-12_9_12?page=30)
 
 #### 1896-12-01
 
@@ -150,7 +159,7 @@ C. Carrington. roy. 8°.
 
 ---
 
-## [From _Journal of American Folklore 1888-2016_](https://iiif.archivelab.org/iiif/sim_journal-of-american-folklore_january-march-1897_10_36?page=81)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-american-folklore_january-march-1897_10_36?page=81)
 
 #### 1897-01-01
 
@@ -174,7 +183,17 @@ of thirty years’ experience in Asia, Africa, and America’”’ (Paris
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ehoorende glazenbakje3.  
+ den AFSCHEEP van PRO­  
+DUCTEN, den HANDEL en INKOOP »an MEUBELEN,  
+enz., enz. 2757  
+Kantoor Noordwijk De Administrateur.  
+H. DE NIJS BIK.  
+naast het Groote Klooster. Telefoon No. 288.  
+liAY Lil SIJÜ, liockbnijar Passar Ha roe.  
+*&lt;MI Ontpakt Toor het a. 8. Slat Klcolaasfeest:  
+JprDegeiijk en goedkoop Speelgoed  
+voor Jongens en Meisjes  
+«BtJg&amp;lrJfelLL Verder: PLEET WERK, w. o. mooie Presenteerbladen met bijbehoorende glazenbakje3.  
 PRIMA HOLL. BANKET HAMMETJES. 7213  
 Boyal Snfield  
 Road Racer en Roadster  

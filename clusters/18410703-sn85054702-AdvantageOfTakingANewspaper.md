@@ -1,7 +1,7 @@
 
 # Advantage of Taking a Newspaper
 
-### 134 reprints from 1839-09-26 to 1894-03-22
+### 121 reprints from 1839-09-26 to 1894-03-22
 
 ## [Advantage of Taking a Newspaper](http://chroniclingamerica.loc.gov/lccn/sn85054702/1841-07-03/ed-1/seq-1/)
 
@@ -69,11 +69,9 @@ While strolling through the wood,
 A tree fell down upon his cp wn,  
 And killed him as it should.  
 J/ad he*U^£rrB,,i,&#x27;K of th* &quot;new  
-AC ho«(.^l{MU&#x27;iK,,|,or  
-rj| k** a cent l,al acci,lcnl  
-Would not hj v* Penc,
+AC ho«(.^l{MU&#x27;iK,,|,o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187122%2F1839100301%2F0405.jp2/pct:2.837008,20.188088,13.865799,13.207941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187122%2F1839100301%2F0405.jp2/pct:3.126129,20.188088,13.576678,11.740857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,9 +94,11 @@ While strolling through the wood,
 A tree fell down upon his crown,  
 And killed him as it should.  
 &#x27; Had ho been reading of the &quot;news,&quot;  
-At home,
+At home, like neighbor Jim,  
+I&#x27;ll bet a cent that accident  
+Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777328%2F1839122001%2F0550.jp2/pct:6.739715,20.727674,12.238991,7.686250/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777328%2F1839122001%2F0550.jp2/pct:6.739715,20.727674,12.238991,8.757285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,8 @@ Would not have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-fricjidaa a* aaaacli ahko  
+  
+1 knew two fricjidaa a* aaaacli ahko  
 As e’er y-&#x27;ia saw two stumps:   
 And no phrciiu&#x27;ogiil mu &lt;1 find  
 A difference i.i their bumps.   
@@ -207,7 +208,7 @@ At horn.&#x27;, like neighbor Jim,
 I’ll bet a cent this accident   
 Would nut befallen him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040303%2F00514151313%2F1841060101%2F0204.jp2/pct:6.902431,43.267739,10.887038,9.112710/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85040303%2F00514151313%2F1841060101%2F0204.jp2/pct:6.902431,43.253632,10.887038,9.126816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +220,16 @@ Would nut befallen him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-earned by heart. We know nothing, in the  
+bility, which it truly says, &quot;af  
+fects the heart and takes captive the understand  
+ing, it is as a man may say, magnificent.  
+Gross exaggeration could not be laid to the  
+door ol him, who should call it superb. It con  
+vinces while it delights. We recommend it to  
+the people who write elegies, as a model of the  
+patnetic suoiimo. 1 here is a moral to it a  
+useful lesson, which should be conned over and  
+learned by heart. We know nothing, in the  
 whole range of classic literature, superior to it.&quot;  
 With this panegyric, from a judge we com  
 mend the cflusion to our readers:  
@@ -241,7 +251,7 @@ At home, like neighboi Jim, &quot;
 I&#x27;ll bet a cent this accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237281846%2F1841060901%2F0247.jp2/pct:38.774840,60.018672,17.769749,16.127903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F00237281846%2F1841060901%2F0247.jp2/pct:38.774840,54.101996,17.802595,22.044579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,9 +279,23 @@ mis port, of one who is destined to render himself
 inmortnl by his inspiration. There is a moral lo  
 t, an inspiration, winch should stir up the aoul of  
 very lilwral minded and iiil?lligenl being i lUmtvn  
-Vruntrrlpt
+Vruntrrlpt,  
+Advantage of taking IVewspnper.  
+I know (wo friends, M much ahko  
+As e&#x27;er you sew two stumps;  
+And no phrciinlog st could find  
+A dillcttiicu in tin ir bulling.  
+One took the prtpers, and his life  
+Wns happier than a king&#x27;s&#x27;)  
+Ills children ull can rend mid write,  
+And talk of nit u and things.  
+The other toidt no papers, nnd  
+W bile strolling tluoimli the wood,  
+A tree fell down tipou his crown,  
+And hull him, us it should !  
+H id be bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn85054702%2F00280776002%2F1841070301%2F0191.jp2/pct:4.500756,20.582470,14.466717,3.808457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn85054702%2F00280776002%2F1841070301%2F0191.jp2/pct:4.500756,20.582470,14.466717,12.811537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,11 +307,6 @@ Vruntrrlpt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-feet broad at the hips It is called the * Kentuckian,” and the  
-  
-owners of the ** Missourian’ have concluded to give up their  
-  
-small skeleton as a bad yo)  
   
 The following (altered to suit our own views) exhibits the genius  
 and talent of a true poet, of one who ts destined to render him-  
@@ -319,7 +338,7 @@ At home, I:ke neighbour Jim,
 I&#x27;m very sure this accident  
 Had not befallen him!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28&#0036;7/pct:36.951754,48.669579,56.359649,44.360604/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28&#0036;7/pct:66.310307,48.669579,27.001096,18.685465/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +394,9 @@ things. The other took no papers, and,
 While strolling through tho wood, A tree  
 fell down upon his crown, And hurt him  
 as it should ! Had ho been reading of  
-the news At home, like neighbour
+the news At home, like neighbour Jim,  
+I&#x27;ll bet a cent this accident Had not  
+befallen him 
 </td></tr></table>
 
 ---
@@ -402,7 +423,8 @@ strolling through the wood, &#x27; .&#x27;A tree
 fell down upon his crown, And hurt him  
 ns-it should I --Hail he been- reading  
 of the news - At home, like neighbour  
-&#x27;Jifn, ; I&#x27;ll bet a cent this acciden
+&#x27;Jifn, ; I&#x27;ll bet a cent this accident  
+-. . Had: not befallen hitnl ?—America
 </td></tr></table>
 
 ---
@@ -435,7 +457,11 @@ king&#x27;s ; His children all can read ai.d
 write, And talk of men and things, The  
 other took no paper, mid While strolling  
 through the wool, .&#x27;A tree fell down  
-upon bis crown. And hurt lum as it
+upon bis crown. And hurt lum as it  
+should ; &#x27;Had he been reading of the  
+news At home, HU-* neighbour jim, . I&#x27;ll  
+bet u cent this occident &#x27;Had not  
+befallen bim 
 </td></tr></table>
 
 ---
@@ -459,7 +485,10 @@ read and write. And talk of tuen and
 things, The other toole no pnper and,  
 While strolling through ihe wood, A tree  
 (eil down upon his crown. And killed him  
-- as it should ! Had be been
+- as it should ! Had be been reading oí  
+the news At home like neighbour Jua,  
+I&#x27;ll bet a cent tbia accident Had not  
+befallen bim ! Contentment.-A contente
 </td></tr></table>
 
 ---
@@ -472,7 +501,10 @@ While strolling through ihe wood, A tree
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-renologist could lind  
+  
+or TARiNo-A-Nawarwsn. I kndw two friends  
+so much alike, As e&#x27;er you saw two  
+slump.*; And no phrenologist could lind  
 A difference in their bumps. &#x27;One took  
 tho paper, and bis life Was happier than  
 a king&#x27;s ; &#x27; lila children all can real  
@@ -480,7 +512,10 @@ ui.d write, And talk of mr II aud
 things. &#x27;J he other look no papers, and,  
 While strolling through the wood, A  
 tree&#x27;fell down upon h&#x27;s crown. And hurt  
-him is it
+him is it should, - Had he been reading  
+of the news At herne, like neighbour  
+Jim, I bet a cent, (ha accident Had  
+noihefalloii bim, nzcncn
 </td></tr></table>
 
 ---
@@ -506,7 +541,8 @@ and, While strolling through the wood, .
 A tree fell down upon his crown,. 1 And  
 killed lum-ns it should ! lind he been  
 reading of the news At home, like  
-neighbour
+neighbour Jim, I&#x27;ll bet a cent this  
+accident Had not befallen him 
 </td></tr></table>
 
 ---
@@ -552,7 +588,21 @@ Would not have happened hu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-om the grave’s cold gloom!  
+ to the gathering—come!  
+Maiden with lip of rose,  
+A brow of Parian stone,  
+Haste from thy long repose,  
+Come to the gathering—come!  
+Bright was thy dark eye’s gleam,  
+Fair was thy cheeks’ of bloom,  
+Again those charms shall beam !  
+Come to the gathering—come!  
+Mourner with the tearful eye,  
+Haste to ihy spirit’s home,  
+A peaceful rest on high !  
+Como to the gathering—come!  
+Loved one of days gone by,  
+Haste from the grave’s cold gloom!  
 Again we meet on high !  
 Come to the gathering—come!  
 Ocean and earth, restore  
@@ -577,7 +627,7 @@ At home like neighbor Jim,
 I&#x27;ll bet a cent the accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn87082160%2F00514159324%2F1844091401%2F0305.jp2/pct:20.829021,31.254651,12.590561,16.453341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn87082160%2F00514159324%2F1844091401%2F0305.jp2/pct:20.829021,21.655008,12.590561,26.052984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +639,21 @@ Would not have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f the businces v uns!  
+ort. Ic will be sold at a moderate price, and  
+on favorable terms, Inquire on the premires.  
+NATHAN BRYANT  
+| Bedford, Aug. 31, 1844. uf  
+  
+Gunano.  
+| A SMALL qrantity of this very valuable ova  
+nure just receive!, and for sale at the Furw  
+ers’ Warehouse, 19 &amp; 20 North Market street.  
+may 25—f D. PROULY &amp; CO  
+  
+N AGENT WANTED, Enquireat tine  
+Office. Also, ao apprentice wanted. (hb.  
+  
+who has some knowledge of the businces v uns!  
   
 be preferred.  
   
@@ -677,9 +741,12 @@ W hile strofling through the wood,
 A tree fell dawa apon his crown,  
 “And killed tim-—as it ehould.  
   
-Had he bee
+Had he been reading of the news,  
+At home like neighbor Jim,  
+L&#x27;il beta cent the accident  
+Would not bave lbuppened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-cultivator_1844-10-05_6_40&#0036;6/pct:70.642857,92.442761,16.071429,1.136168/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-cultivator_1844-10-05_6_40&#0036;6/pct:70.238095,85.608538,16.642857,7.970391/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,39 +820,13 @@ Would not have happened him
 
 ---
 
-## [From _The Cadiz sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84028793/1845-05-14/ed-1/seq-1)
-
-#### 1845-05-14 &middot; Cadiz, Ohio
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-boys, three horses and a cow, ,.  
--, : A dog and twenty sheep. ,,, &quot; c  
-One took the papers, and his fife  
-Is happier than a king&#x27;s;  
-His children all can read and write, :  
-And talk of men and things.  
-Tho other took no papers, and  
-While struggling through the wood, &quot;  
-A tree full down upon his crown,  
-And killed liiiu as il should.  
-Had he beeii reading of the &quot;news,&quot;  
-At home, like neighbor Jim,  
-I&#x27;ll bet a cent thai accident  
-VVould not have happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn84028793%2F00296026669%2F1845051401%2F0258.jp2/pct:4.358679,38.281250,14.400922,8.998326/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Evansville journal._](https://chroniclingamerica.loc.gov/lccn/sn84023914/1845-07-10/ed-1/seq-2)
 
 #### 1845-07-10 &middot; Evansville, Ind.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
 1  
   
 and the West, join togeiher in devising some  
@@ -915,6 +956,7 @@ Would never have happened hi
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ly friends ; the little tale is old, Lut has a great nigr­  
 al. One took a paper, and his life  
 Was happier than a king&#x27;s  
 His childien all could icad and wiite,  
@@ -928,7 +970,7 @@ At home, like neighbor Jim,
 I&#x27;ll l ot a tent th.tt accident  
 Would nut have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn82014301%2F00202191290%2F1845073001%2F0077.jp2/pct:19.728636,23.772697,11.018711,5.506052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn82014301%2F00202191290%2F1845073001%2F0077.jp2/pct:19.717693,23.217888,14.191925,6.060861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,9 +1002,13 @@ And talk of men and things.
 The other took no papers, end  
 While strolling through the wood,  
 A tree fell down upon his crown,  
-And killed him as it
+And killed him as it should.  
+Had he been reading of the “news,”  
+At home, like neighbor Jim,  
+1*11 bet a cent that accident  
+Would not bare happened him,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393348987%2F1845080701%2F0339.jp2/pct:16.827853,27.961747,9.676015,5.113474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393348987%2F1845080701%2F0339.jp2/pct:16.827853,27.961747,9.676015,7.382957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,6 +1079,9 @@ Would never have happened him.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+it, be again saw. But a more striking caio still  
+ia one we find in the Reveille the opposite file  
+of two friends, related in touching verse.  
 One took a paper, and his lifo  
 Waa happier than a king&#x27;s :  
 Hi children all could read und write,  
@@ -1046,7 +1095,7 @@ At home, like neighbor Jim, &quot; .
 I&#x27;ll bet a cent this accident  
 Would not have happened him, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472037%2F1845081501%2F0389.jp2/pct:53.195834,78.195377,12.722075,6.636838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472037%2F1845081501%2F0389.jp2/pct:51.888912,76.301268,14.028997,8.530947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,16 +1279,6 @@ Would not have happened him
 
 ---
 
-## Why Don't You Take the Papers
-
-#### From _Daily sentinel and gazette._
-
-#### 1846-08-22 &middot; Milwaukie [i.e. Milwaukee, Wis.]
-
-[This text is not available under an open license.]
-
----
-
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1846-11-07/ed-1/seq-4)
 
 #### 1846-11-07 &middot; Woodsfield, Ohio
@@ -1357,9 +1396,11 @@ HTiila strolling through a wood,
 : A tree fell down npon his crown, &#x27;  
 And killed him, &quot;worry good.&quot;  
 Had hs been reading of tho new  
-Athene, 
+Athene, like neighbor Jim,  
+I&#x27;d bet a cent that accident-Would  
+not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1849072101%2F0917.jp2/pct:3.830563,72.778905,12.525334,9.519946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1849072101%2F0917.jp2/pct:3.830563,72.778905,12.525334,10.818120/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1391,9 +1432,9 @@ a a a &quot;
   
 ax nome, like neighbor Jim, j  
 I&#x27;d bet a cent that accident ,  
-Would 
+Would not hiTe happoued him. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1849072101%2F0042.jp2/pct:5.191635,29.984351,15.317633,12.689470/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1849072101%2F0042.jp2/pct:5.191635,29.984351,15.317633,13.150011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1419,38 +1460,11 @@ While strolling throu. a wood,
 A tree fell down upon hiegowa,  
 And killed bim-&quot;wery good.&quot;  
 Had be been reading ot the news,  
-At home lie neighbor Jim,
+At home lie neighbor Jim,  
+Ill beta cant that accident  
+Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gonne_ver01%2Fdata%2Fsn86053688%2F00202190194%2F1849112901%2F0199.jp2/pct:8.896940,31.902174,12.560386,9.483696/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1853-12-10/ed-1/seq-1)
-
-#### 1853-12-10 &middot; Shepherdstown, Va. [W. Va.]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Ai.d r.v) phrenologist could lind  
-A difference in their bumps.  
-Oj:c took the papers, and his life  
-Is happier than a k ;:i  
-I i is childrco all can re:; I and write,  
-And talk of men anti things.  
-The other took no papers, and  
-While strolling thn u ;h a wood,  
-A tree f&lt; 11 down upon hi &gt; crown,  
-A. id kill&#x27;d him ? &quot;werry good.&quot;  
-Had he been reading of the news  
-At home like neighbor Jim,  
-I&#x27;ll bet a cent that accident  
-Would not have happcnM him.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767742%2F1853121001%2F0221.jp2/pct:34.433537,40.655402,12.064305,9.491807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gonne_ver01%2Fdata%2Fsn86053688%2F00202190194%2F1849112901%2F0199.jp2/pct:8.896940,31.902174,12.560386,10.788043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1486,31 +1500,24 @@ Would not have happen&#x27;d him
 
 ---
 
-## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1857-01-22/ed-1/seq-1)
-
-#### 1857-01-22 &middot; Glasgow, Mo.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-led him as it should.  
-Had he been reading of the news  
-At home like neighbor Jim,  
-I&#x27;ll bet a cent Ihnt accident  
-Would not have happened him.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292479%2F1857012201%2F0227.jp2/pct:30.587121,54.602066,9.507576,3.219927/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1857-02-20/ed-1/seq-1)
 
 #### 1857-02-20 &middot; Clarksburg, Va. [W. Va.]
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-efore the crea­  
+ May my  
+death render her happy. Vive la France&#x27;.&quot;  
+He then turned to the soldiers, and  
+striking his hand on his heart, gave the  
+order : ?? Soldiers, fire I&quot;  
+A simultaneous discharge followed, and  
+the &quot; bravest of the brave&quot; sank to rise  
+no more. He who had fought five hun­  
+dred battles for France, and not one  
+against her, was shot as a traitor !  
+Said one cockney to aopther?  
+&quot; Wot hanimal hexistcd before the crea­  
 tion of the world V&#x27; &quot; Dunno,&quot; says the  
 other, &quot; unless it was the hare, (sir)?  
 &quot; You hare wrong,&quot; replied the first, ?? it  
@@ -1540,30 +1547,6 @@ Would not befallen him
 
 ---
 
-## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028820/1857-12-24/ed-1/seq-1)
-
-#### 1857-12-24 &middot; Millersburg, Holmes County, Ohio
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- than a king&#x27;s:  
-&#x27;.-&#x27; His children all can read and write  
-&#x27;-&#x27; And talk of men and things.  
-, . The other took no paper, and  
-- . ; ... While strolling through the wood,  
-. . - A tree fell down and broke his crown, -  
-. .And killed him, &quot;very good,&quot; :  
-Rod he been reading of the news,  
-7 &#x27; At home, like neighbor Jim,  
-. . Ill bet a cent that accident u  
-Would not hare happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028820%2F00280775460%2F1857122401%2F0292.jp2/pct:5.289814,40.713895,12.174076,6.496171/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1857-12-31/ed-1/seq-1)
 
 #### 1857-12-31 &middot; Hillsborough [Hillsboro], Highland County, Ohio
@@ -1583,9 +1566,12 @@ The other look no Faprr, anil
 While walking through the tcoiid,  
 A tree fill iluirn vpnn hit crown.  
 And killed him as it should ;  
-llud he boon rending o
+llud he boon rending of the &quot;News,&quot;  
+At home, like neighbor Jim,  
+I&#x27;ll bet a rent thai accident  
+WoulJ not have happened b!ni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1857123101%2F0175.jp2/pct:5.369475,40.161868,9.133287,7.761709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1857123101%2F0175.jp2/pct:5.369475,40.161868,9.599448,9.420194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1625,97 +1611,6 @@ Would not have happened him
 
 ---
 
-## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn88064150/1858-06-30/ed-1/seq-1)
-
-#### 1858-06-30 &middot; Harrisonburg, La.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-1 knew two men. i* much alike  
-As e&#x27;er you saw two stumps;  
-And no phrenologist could find  
-A difference in tln-ir humps.  
-(Hie takes the paper«, and his lifts  
-Js happier than u king&#x27;s ;  
-His children all can read and write,  
-Aud ti-lk of tueu and things.  
-The other took no paper, and .  
-While strolling through tho xvood,  
-A tree fell down and broke his crown,  
-And killed him, &quot;very good.&quot;  
-Had he be-n reading of tho nexvs  
-At home, like neighbor Jim,  
-I&#x27;ll bet a cent that accident  
-Would not have happeuo-I him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_oddish_ver01%2Fdata%2Fsn88064150%2F00295878630%2F1858063001%2F0151.jp2/pct:82.192533,37.577081,13.524890,10.046249/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Lambertville press._](https://chroniclingamerica.loc.gov/lccn/sn85035610/1858-11-11/ed-1/seq-1)
-
-#### 1858-11-11 &middot; Lambertville, N.J.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-I knew two men as much alike  
-As e’er you saw two stunlps;  
-And no phrenologist could find  
-A difference in their bumps.  
-One took the papers, and his life  
-Is happier than a king’s ;  
-Ilis children all can read and write*  
-And talk of men and things.  
-  
-The other took no papers ; and  
-While strolling through the wood;  
-A tree fell down upon his crown,  
-And killed him— &quot; very good;&quot;  
-Had he been reading of his news,  
-At home, like neighbor Jim,  
-I&#x27;ll bet a cent that accident  
-Would not have happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_beachhaven_ver01%2Fdata%2Fsn85035610%2F00513684964%2F1858111101%2F0008.jp2/pct:8.834719,47.307692,8.628059,10.241327/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The semi-weekly mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87067106/1860-11-10/ed-1/seq-4)
-
-#### 1860-11-10 &middot; Placerville, El Dorado Co. [Calif.]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-1 knew two men, as much al.ke  
-As e’er you saw two stumps.  
-And no phrenologist could And  
-A difference in their bumps.  
-One takes the paper, and his life  
-Is happier than a king&#x27;s;  
-His children all can read and write,  
-And talk of men and thinks.  
-The other took no paper, and  
-While strolling through the wood,  
-A tree fell down, broke his crown.  
-And killed him,** very good.&quot;  
-Had he been reading of the news  
-At home, like neighbor Jim,  
-I’ll bet a cent that accident  
-Would Hot have happene
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn87067106%2F00279557438%2F1860111001%2F0838.jp2/pct:12.735127,23.987351,9.224628,8.275298/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1865-01-11/ed-1/seq-4)
 
 #### 1865-01-11 &middot; Ebensburg, Pa.
@@ -1746,30 +1641,6 @@ Woald not have befalien him.
 
 ---
 
-## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1865-09-01/ed-1/seq-1)
-
-#### 1865-09-01 &middot; Bedford, Pa.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-,  
-His chif&#x27;ieti all can read and write.  
-And talk of men and things.  
-I&#x27;he other took no paper, and  
-While strolling through the wooJ,  
-A tree fell down and broke his crown,  
-And killed fcim, &quot;very good.&quot;  
-Had he been reading of the news,  
-At home like neighbor Jim,  
-I&#x27;ll bet a cent that accident  
-Would r.ot have happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn82005159%2F00296028460%2F1865090101%2F0101.jp2/pct:6.580469,37.646064,10.853569,6.226937/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1865-09-27/ed-1/seq-1)
 
 #### 1865-09-27 &middot; Urbana, Ohio
@@ -1790,9 +1661,11 @@ While strolling throngh the wood,
 A lree fell f6im arid f.roke his crc-f,  
 And killed him &quot; very ood.&quot;  
 Had he been reading of the news,  
-At home like
+At home like neighbor Jinn  
+I&#x27;ll bet a certt that acWeft  
+Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775903%2F1865092701%2F0165.jp2/pct:17.714777,41.012172,9.089347,7.046765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775903%2F1865092701%2F0165.jp2/pct:17.697595,41.012172,9.106529,8.084561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1819,16 +1692,6 @@ The other took np paper,and
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862713%2F1865121401%2F0240.jp2/pct:5.451212,22.800508,10.115374,4.081633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Take the Papers
-
-#### From _The Semi-weekly telegraph._
-
-#### 1866-07-26 &middot; Great Salt Lake City, Utah
-
-[This text is not available under an open license.]
 
 ---
 
@@ -1998,6 +1861,9 @@ cent that accident would not have happened him
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+gia manages to hold her own inl popu­  
+lation, considering the latitudo the  
+&quot;hoss cats&quot; have.  
 One man took a paper, and his life  
 was happier than a king&#x27;s ; his chil.  
 dren all could read and writo and talk  
@@ -2009,7 +1875,7 @@ Had ho been reading of the news, at
 home like neighbor, Jim, we&#x27;ll bet &#x27;a  
 cent that accident would not hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn84026923%2F00237288361%2F1867091801%2F0257.jp2/pct:83.764535,41.905919,13.435078,5.834069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn84026923%2F00237288361%2F1867091801%2F0257.jp2/pct:83.764535,39.848351,13.435078,7.891637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2097,10 +1963,9 @@ dren all could read and write and talk of men and
 things. Another took no paper ; and while stroll?  
 ing through the wood, a tree fell down upon his  
 crown and killed him?as it should. Had he been  
-reading of the news like brother Jim, we&#x27;ll bet a  
-cent that accident would not have happened him.
+reading of the news like brother Jim, we&#x27;ll bet 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551256%2F1867103001%2F0148.jp2/pct:3.018748,93.263698,15.782226,5.112699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551256%2F1867103001%2F0148.jp2/pct:3.018748,93.263698,15.782226,4.533627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2139,7 +2004,19 @@ accident would not have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-se who do not support their  
+  
+ducks feel tender under the wing and  
+the web is transparent. The best are  
+thick and hard on the breast. Young  
+geese have yellow bills, and the feet are  
+yellow and supple; the skin may be  
+easily broken by the head of a pin; the  
+breast is plump and the fat white. -An  
+old goose is unfit for the human stom­  
+ach.  
+A friend at Union Mills sends us the  
+following, which we publish for the ben­  
+efit of those who do not support their  
 county papers, but sponge on their  
 neighbors, with the hope that after  
 reading it they will hand iu their names  
@@ -2162,60 +2039,7 @@ At home, like neighbor Jim,
 I’ll bet a cent, this accident,  
 Had not befallen hint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623690%2F1868120301%2F0222.jp2/pct:24.593581,59.566032,11.356584,12.244373/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Carson daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn84022040/1869-11-23/ed-1/seq-2)
-
-#### 1869-11-23 &middot; Carson City, Nev.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- as much alike  
-As e&#x27;er you saw two stumps,  
-And no phrenologist could find  
-The difference in the bumps.  
-One takes the papers, and his life  
-Is happier than a king&#x27;s,  
-His children all can read and write,  
-And talk of men and things.  
-The other took no paper, and  
-While strolling in the wood  
-A tree fell down atid broke his crown  
-And killed him &quot;very good.&quot;  
-Had he been reading of the news,  
-At home like neighbor Jim,  
-I&#x27;ll bet a cent that accident  
-Would not have happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_ely_ver01%2Fdata%2Fsn84022040%2F00415668314%2F1869112301%2F0487.jp2/pct:44.591029,69.862279,13.430079,9.908782/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1869-12-03/ed-1/seq-4)
-
-#### 1869-12-03 &middot; Tiffin, Ohio
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-,  
-His children can read and write.  
-And talk Of men and things.  
-The other took no paper, and  
-. While strolling through the wood,  
-A tree fell down and broke his crown.  
-And killed him &quot;very good.&quot;  
-Had he been reading of the news.  
-At bom, like neighbor Jim,  
-I&#x27;ll bet a cent that accident  
-Wonll not hate happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775113%2F1869120301%2F0700.jp2/pct:37.616791,15.378564,7.379824,4.218289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623690%2F1868120301%2F0222.jp2/pct:24.593581,53.232735,11.379742,18.577670/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2267,7 +2091,13 @@ could find A diilerencc in their bumps.
 One took a pupcr. and his life Was  
 happier than a king&#x27;s ; Bis children aU  
 could read and write, And talk of men  
-and things. The other took no
+and things. The other took no papers,  
+and, While strolling through the wood, A  
+tree fell down upon Ids crown, And  
+lalled liim— as it should !-Bad he been  
+reading of the news At home, like  
+neighbour Jim, FU bet a ccnt this  
+accident Had not befallen him 
 </td></tr></table>
 
 ---
@@ -2314,7 +2144,12 @@ in their bumps. One took a paper, and
 liis lite Was bappier than a king&#x27;u; His  
 children all could read and write. And  
 talk of men and things. Tbe other took  
-no
+no papers, and While strolling through  
+the wood, A tree fell down upon bis  
+crown. And killed bits-as It should I  
+Bad he been reading of tbe news At home,  
+like neighbor Jim, I&#x27;ll bet a cout this  
+accident Bad not befallen him I 
 </td></tr></table>
 
 ---
@@ -2350,7 +2185,15 @@ bet a cent this accident had not befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-day of March, 1871. on first pay­  
+hoi-s December 16, 1870.  
+The Board of Din-ctors of the North Carolina  
+Railroad Company have this day declared an annual  
+dividend of six per cent, on the&#x27;capital stock of said  
+Company, for the fiscal year ending May 31st, 1871.  
+Three percent payable on first day of March, 1871 ;  
+three per cent payable on first day of July, 1871.  
+The transfer Books will be closed from rirst day  
+of February to first day of March, 1871. on first pay­  
 ment, and from first day of June to rirt day of July,  
 1871, on second payment.  
 CHARLES M. CRUMP,  
@@ -2374,7 +2217,7 @@ At home like neighbor Jim,
 I&#x27;ll bet a cent this accident  
 Had not befallen him 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022974%2F1871012401%2F0438.jp2/pct:6.299431,8.465932,28.902456,85.301918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022974%2F1871012401%2F0438.jp2/pct:6.271680,8.465932,28.930207,85.301918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2386,7 +2229,21 @@ Had not befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-RTJMBTJLL  
+SBURGH, - - - - PA.  
+Orders elicited and promptly BUed. Send  
+for prioe list. janS7dly.  
+oiler Works!  
+The undersigned are prepared to mannfaotare to  
+oraer  
+Boilers for Steam Engines  
+of all Kinds, Styles and Siios. Also, ovory va  
+riety or  
+- EEraas izioz? wobjz.  
+All our Boiler work is warranted,  
+ysr-Repairing tf all kinds done premptly and  
+cheaply.  
+Shop near Moline Iron Works.  
+ac19dly. SOB I LLIN9EH A TRTJMBTJLL  
 fs1cCiLUSTER &amp; STEVIART.  
 DKALERS IS  
 HARDWARE!  
@@ -2428,7 +2285,7 @@ At home like neighbor Jim,
 I&#x27;ll bet a cent this arcident  
 Usd not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn84038628%2F0029587997A%2F1871012701%2F0708.jp2/pct:16.815905,4.125713,20.883290,91.675768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn84038628%2F0029587997A%2F1871012701%2F0708.jp2/pct:16.390955,4.125713,21.308241,91.675768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2500,7 +2357,9 @@ took no-papers,- and, &#x27; -&#x27; &#x27; ;&#x27;; ?; ?
 &#x27; ?? ; iAnd killed him— as it should.  
 !!:-;; ! Had he been; reading of the  
 news ? ?&#x27;&#x27;&#x27; . &#x27; | At home like neighbour  
-Jim; &#x27;&#x27;?&#x27;?&#x27;? . ; &#x27; ! ; &#x27;?&#x27;&#x27;&#x27;? -I&#x27;ll be
+Jim; &#x27;&#x27;?&#x27;?&#x27;? . ; &#x27; ! ; &#x27;?&#x27;&#x27;&#x27;? -I&#x27;ll bet  
+a cent this accident ; &#x27;?;.?.! -?&#x27;?- \ ,  
+Hadnot befallen him ! . :: . . , ;.i - 
 </td></tr></table>
 
 ---
@@ -2552,7 +2411,9 @@ In strolling through a wood, &#x27; A tree
 fell down upon his crown, And killed  
 him— as it should ! . Had he been  
 reading of the news &#x27; ?? At home, like  
-neighbour
+neighbour Jim, &#x27; I&#x27;ll bet a cent this  
+accident &#x27; .&#x27;.. &#x27; . &#x27; Had not befallen  
+him 
 </td></tr></table>
 
 ---
@@ -2649,6 +2510,7 @@ Would never have happened him.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
 Roading the Paper.  
 Onetoeh a paper, and his life  
 Waa happier than a king&#x27;«;  
@@ -2676,7 +2538,20 @@ Would never have happened to him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* pleasures and pain.  
+.  
+I know in Immanuel’s bosom  
+My lamb will be,treasured and dear;  
+A gem in his diadem ever,  
+To sparkle and radiate thei“.  
+O, rapturous thought! tiow il fills me  
+To know in the regions of bliss,  
+Sweet cherub, dear Edith, is reigning ;  
+I thank Clod, and praise Him for this.  
+  
+On th? shores of the &quot;lorioun “Forever&quot;  
+1 know I will find her again ;  
+When “life’s fitful fever” is over,  
+&#x27;Scaped free from it* pleasures and pain.  
 I will-clasp her once more to my bosom ;  
 Echo, praises, thro’ Heaven&#x27;s grand dome 1  
 ■Give her back, precious gem, to my Saviour;  
@@ -2699,7 +2574,7 @@ At home like neighbor Jim,
 I&#x27;ll bet a cent this accident  
 Had not 1 efallcn him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1872022401%2F0101.jp2/pct:29.205462,28.387850,12.538796,12.106698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1872022401%2F0101.jp2/pct:29.205462,21.783489,12.538796,18.711059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2769,7 +2644,9 @@ accident Had not beUlloa bim. A QUOD
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- And no  
+  
+I knew two friends £o much aliko* .....  
+Ab e&#x27;er you saw two elumpBj And no  
 phrenologist could find... A diflerence  
 in their bumps/... One took a paper, ana  
 his life ,. ; . Was happier tliau a  
@@ -2779,7 +2656,9 @@ The other took no papers, and, While
 strolling through the wood, A tree fell  
 down.upon hie crown, And killed him—as  
 it 6hould! Had he been reading of the  
-news At home, like
+news At home, like neighbor Jim, I&#x27;ll  
+bet a cent this acoidcnt Had not  
+befallen him
 </td></tr></table>
 
 ---
@@ -2804,7 +2683,8 @@ no paper, and. While strolling through
 the woodV A tree fell down upon his  
 crown, And killed him— as it should! Had  
 he been reading of the news . : ; At  
-home, like neighbor 
+home, like neighbor Jim, ? . I&#x27;ll bet a  
+cent this accident Had net befallen him
 </td></tr></table>
 
 ---
@@ -2827,7 +2707,10 @@ king&#x27;s; His children all could read aud
 write, And talk of men and things, The  
 other took no paper, and, While atroHiug  
 in the wood, A tree fell down upon his  
-crown, And killed him—as it
+crown, And killed him—as it should! Had  
+he been reading of the news At home,  
+like neighboui Jim, TJ] bet a cent this  
+accident Had not befallen him
 </td></tr></table>
 
 ---
@@ -2859,35 +2742,6 @@ Would never have happened him
 
 ---
 
-## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1875-01-09/ed-1/seq-1)
-
-#### 1875-01-09 &middot; Elkton, Md.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-en as much alike  
-As e’er you saw two stumps,  
-And no phrenologist could find  
-A difference in their bumps.  
-One takes the paper, and his life  
-Is happier than a King&#x27;s,  
-His children can read and write.  
-And talk of men and things.  
-The other took no paper, and  
-While strolling through the wood,  
-A tree fell down and broke his crown.  
-And killed him—“ very good.”  
-Had he been reading of the news,  
-At home, like neighbor Jim,  
-I’ll bet a cent that accident  
-Would not have happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624542%2F1875010901%2F0091.jp2/pct:40.627728,21.451227,9.756417,7.401774/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [POETRY. THE ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/63341019)
 
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
@@ -2906,18 +2760,32 @@ all could read and write, And talk of
 men and things. The other took no paper,  
 and, &#x27;while atrolilug through a wood, A  
 tree fell down and broke his crown And  
-kill&#x27;d him-as it
+kill&#x27;d him-as it should. Had he been  
+reading of the news, At home, like  
+neighbor Jim, I&#x27;d beta cent his accident  
+Had not befallen him
 </td></tr></table>
 
 ---
 
-## [From _Printers' Circular and Stationers' and Publishers' Gazette 1866-1890_](https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9?page=8)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9?page=8)
 
 #### 1878-11-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s speech in these words:  
+eed, help, have prevented his  
+acquisition of anything like fortune. In fact, to-day he is  
+ranked as a poor man, largely owing to the Atlanta Sum.  
+Journalism is always an expensive experiment, and has been  
+the consumer of boundless capital.  
+  
+  
+  
+&gt;  
+NoTEs intended for the private eye of the printer sometimes  
+get into the best regulated newspaper. Thus the New York  
+Mail concluded its report of Conkling’s speech in these words:  
 ‘Let our motto be: In essentials, unity; in non-essentials,  
 liberty; in all things, charity, to go at the end of Conkling.”  
   
@@ -2961,7 +2829,7 @@ At home, like neighbor Jim,
 I&#x27;d bet a cent, this accident  
 Had not befallen him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9&#0036;8/pct:48.887344,71.286031,48.296245,16.491131/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9&#0036;8/pct:48.748261,71.286031,48.435327,16.491131/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3016,9 +2884,12 @@ The other took no paper, and, &#x27;
 Tx While strolling through the wood, :  
 A tree fell down upon his crown,  
 , - , - . . And killed him as it should.  
-i . Had he been reading. of the news,, i 
+i . Had he been reading. of the news,, i i  
+- &#x27; At home, like neighbor Jim,  
+.&#x27; .I&#x27;d bet a tent this accident  
+Had not befallen, him..1 ,.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763839%2F1879010101%2F0246.jp2/pct:26.974665,54.194471,10.819672,6.637274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763839%2F1879010101%2F0246.jp2/pct:26.974665,54.194471,10.819672,8.019542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3117,7 +2988,17 @@ Had not befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ wno was asned it, in  
+his experience, prayer was ever answered,  
+replied : &quot;Well, sab, some pra&#x27;rs is ansud  
+and sonie isn&#x27;t &#x27;pends on w&#x27;at you axes  
+r . ... - i , , . ..  
+iy ; jest arier ae wan, w en it was  
+mighty hard scratcin&#x27; fo&#x27; de culled bred-  
+den, I &#x27;bsarved dat w&#x27;enebber I pwav de  
+Lo d to sen one o Marse Peyton&#x27;s fat  
+turkey&#x27;s fo&#x27; de ole man, dare was no  
+notice took ob de partition : but w&#x27;en I  
 pway dat he would sen de ole man fo&#x27; de  
 turkey, de matter was &#x27;tended to&#x27; befo&#x27;  
 sun up nex&#x27; mornin&#x27;, dead sartin.&quot;  
@@ -3141,7 +3022,7 @@ At home, like neighbor Jim,
 I&#x27;d risk a cent this accident  
 Had not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194394%2F1879012701%2F0227.jp2/pct:13.616071,60.484976,11.202567,9.414866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194394%2F1879012701%2F0227.jp2/pct:13.602121,55.519241,11.216518,14.380601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3153,7 +3034,17 @@ Had not befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ially when he laughs.”  
+n vests, and fourteen old dresses, and  
+spent three months in converting them into car-  
+pet-balls, she can take the whole lot to a carpet  
+weaver and get two dollars for them.—Norris-  
+town Herald.  
+  
+...-The sisters had not been on the most  
+loving terms for some time, when one day a  
+lady visitor praised the good looks of the off-  
+spring of one. ‘‘How much he looks like Mrs.  
+Black,”’ said she, ‘‘ especially when he laughs.”  
 Mrs. Black was expressing her pleasure at the  
 compliment implied, when the enfant terrible  
 blurted out : ‘‘Mamma says I look like a fool  
@@ -3178,9 +3069,16 @@ A tree fell down upon his crown
 And killed him—as it should.  
   
 Had he been reading of the news  
-At home, like Neighbor Jim,
+At home, like Neighbor Jim,  
+  
+  
+  
+are graduates of Amherst College.  
+  
+I&#x27;d bet a cent this accident  
+Had not befallen him:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1879-04-03_31_1583&#0036;7/pct:29.740061,76.436170,19.266055,16.719858/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1879-04-03_31_1583&#0036;7/pct:10.015291,69.361702,38.990826,25.088652/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3192,7 +3090,17 @@ At home, like Neighbor Jim,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-uiuTul of yi&#x27;Ut* old lr«eml, ynii&#x27;ilouf t Ofto­  
+ws us with a death grip. Muneame  
+tu his aid, and a strong cord was bound around  
+the wolfs mouth, rendering It harmless. The  
+curds were unliUentlonully drawn so tight that  
+the annual died of strangulation mid exhaustion  
+.horny altur b.hiK uUbnrul. If vnivnd to bo  
+u lull-brown black mountain will, tally tbrcu  
+icot bibb, ami nuliibnik probably 11X1 nouutl..  
+  
+Clrandclounhtcr—“ Hut you will uo to the  
+/uiuTul of yi&#x27;Ut* old lr«eml, ynii&#x27;ilouf t Ofto­  
 iruiiumii—•• O, I ‘iou&#x27;t Know, Dun t lulu to mu  
 SIISI-. Mud. us ever 1 •bull U- able to «cl  
   
@@ -3220,7 +3128,7 @@ At homo, like Neighbor Jim,
 1M but a cent this accident  
 Had out bofullon liitu.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_pulaski_ver01%2Fdata%2Fsn84031492%2Fno_reel%2F1879041001%2F0011.jp2/pct:30.221811,3.571429,23.765514,94.895812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_pulaski_ver01%2Fdata%2Fsn84031492%2Fno_reel%2F1879041001%2F0011.jp2/pct:30.188804,3.571429,23.798521,94.895812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3258,7 +3166,18 @@ accident Had not befallen him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ar FovCan.  
+es for-what will she have 1&quot; Freddy (with  
+euprising alacrity)-&quot; Kittens.&quot;  
+Under the new Maine law, the Governor  
+will get only fifteen hundred dollars a year.  
+The higheet selaries paid are to the Supreme  
+CourtJadgpr, but.the sum is only two thou­  
+sand dollars apilece.  
+  
+MAn.ra-SIn New Orleans, on Thursday,  
+April 17, 187. by- the Rev. Father Ronael!e,  
+of 81. Louis Cathedral, Dr. J. L. Poear to  
+---iss ar FovCan.  
 Di-In Opelonasa, April 23d; 1879, Mrs.  
 IlarOls Lalvahns, consort of Veilland Cha­  
 .her6, aged 74 years and 2 months.  
@@ -3274,13 +3193,9 @@ One took a paper, and his life
 Was happier than a king&#x27;s;  
 His children all could read and write,  
 And talk of men and things.  
-The other took no papers, andl  
-Lost life&#x27;s chief&#x27;est good­  
-Ills sweethearts frow ined upon his snit,  
-And kicked him-as they should.  
-Had he bee
+The other took no papers, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212474927%2F1879042601%2F0070.jp2/pct:29.526749,16.630117,26.045953,80.823587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212474927%2F1879042601%2F0070.jp2/pct:29.492455,16.630117,25.840192,80.823587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3326,7 +3241,10 @@ could read anil write, And talk of men
 and things. The other took no papers,  
 and, While strolling through tho wood,&#x27;  
 A true fell down upnn his crown; And  
-killed him — as it 
+killed him — as it should. Had he been  
+reading of the mows At home, like  
+neighbour Jim, I&#x27;d bet a cent this  
+accident Had not befallen him. ?
 </td></tr></table>
 
 ---
@@ -3337,7 +3255,11 @@ killed him — as it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-erence in their bumps.  
+  
+1 knew two friends aB much alike  
+As ever vou saw two stumps.  
+And no phrenologist could iind  
+A difference in their bumps.  
 One took a paper, and bis life  
 Was happier theu a king’s.  
 His children all could read and write.  
@@ -3351,7 +3273,7 @@ At home, like Neighbor Jim.
 I’d bet a eenr this incident  
 Had not befalleu him. Hoi.mes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271766294%2F1879052801%2F0418.jp2/pct:11.898351,21.661524,14.232021,6.975745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271766294%2F1879052801%2F0418.jp2/pct:11.875912,20.224192,14.254460,8.413077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3365,7 +3287,8 @@ Had not befalleu him. Hoi.mes
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-wo stumps ; Ant]  
+A WARNING. 1 I knew two friends as much  
+alike As ever you uw two stumps ; Ant]  
 no phrenologist could find A difference  
 in their pumps. One took a paper, nnd  
 his lifo Wm happier thnn a king&#x27;s ; His  
@@ -3376,7 +3299,7 @@ through tbe wood, A tree fell &#x27;down upon
 his crown, And killed him — as it  
 should. Had he lieen reading of the news  
 At home, like neighbor Jim, I&#x27;d bet it  
-cent tbia accident Had nnt befallen him
+cent tbia accident Had nnt befallen him.
 </td></tr></table>
 
 ---
@@ -3387,7 +3310,20 @@ cent tbia accident Had nnt befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- highest price of  
+S78 13 3-10  
+  
+The highest price of middling up  
+land for the cotton year 1877-8 was  
+reached August 31, at 12 3-lGc, and  
+the 1 west 10 9 lCc. The lowest  
+price reached in the period ot years  
+civen above was 4c in 184a. in  
+1843,1844 and 1848, the lowest fig  
+ure reached was oc. The next  
+lowest was Gc in 184G and 1S49, and  
+7c in 1855, since when the lowest  
+was obtained December 13, 187.8, at  
+8 1317c. The highest price of  
 middling upland in the cotton year  
 1878-9 has been 13 Jc on Tuesday  
 last; this has, also, the distinction  
@@ -3407,9 +3343,12 @@ The other took no paper, and
 While strolling through the wood &#x27;  
 A tree fell upon lu crown  
 And killed him as it should.  
-Had ho been reading the
+Had ho been reading the news,  
+At home like neighbor Jim,  
+I&#x27;d bet a cent this accident  
+Had not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879061901%2F0520.jp2/pct:63.860627,61.113652,9.825784,9.375715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879061901%2F0520.jp2/pct:63.860627,55.431054,9.895470,16.087354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3471,7 +3410,8 @@ strolling through the wood, A tree fell
 down upon his crown, Aud killed him — as  
 it should. Had he been reading of the  
 news At home, like neighbour Jim, I&#x27;ll  
-bet a cent this accident Had not
+bet a cent this accident Had not  
+befallen him. — Published in the Herald
 </td></tr></table>
 
 ---

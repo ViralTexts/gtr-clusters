@@ -25,7 +25,8 @@ The boy went over to an artesian hydrant and made his ablution. Returning, he he
   
 The Judge said, &quot;Well, sir, you&#x27;ve earned your money; here it is.&quot;  
   
-The boy said, &quot;I don&#x27;t want your money, old fellow; you take it an have your hair cut.&quot; Saying which he scampered off.—*Augusta (Ga.) Chronicle*.
+The boy said, &quot;I don&#x27;t want your money, old fellow; you take it an have your hair cut.&quot; Saying which he scampered off.—*Augusta (Ga.) Chronicle*.  
+
 </td></tr></table>
 
 ---
@@ -215,7 +216,14 @@ off. The judge thought it so good a stor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l worthy the attention of  
+ation in the profession, and the American editor  
+has.added a large body of very judicious annotations.  
+These bring the subject across the Atlantic and down  
+to date. The work has the singular advantages of be-  
+ing practically without competion; for, so far as we  
+are advised, there is no other treatise on the specific  
+subject, and the works on evidence and practice treat  
+it very sparingly. It is well worthy the attention of  
 all practitioners. We regret to add that the work is  
 gotten out in a style decidedly unworthy the reputa-  
 tion deservedly enjoyed by its publishers.  
@@ -255,7 +263,7 @@ The boy said: “‘I don’t want your money, old fellow;
 you take it and have your hair cut.””? Saying which he  
 scampered off.—Augusta (Ga.) Chronicle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_central-law-journal_1887-03-11_24&#0036;23/pct:48.694030,38.414634,34.925373,34.679878/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_central-law-journal_1887-03-11_24&#0036;23/pct:48.619403,30.945122,35.000000,42.149390/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,6 +286,11 @@ scampered off.—Augusta (Ga.) Chronicle.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+by themselves where when their food is  
+  
+thrown in they vault over each others  
+  
+fro as plavfai cs  
   
 Score One or tho Gamin  
 Augusta Chronicle  
@@ -310,7 +323,7 @@ want your money old fellow you take it
 and have your hair cut saying which he  
 scampered off The Judge thought ii s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_echo_ver03%2Fdata%2Fsn86064205%2F00206535581%2F1887031401%2F0039.jp2/pct:38.204171,76.987997,14.083411,11.660058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_echo_ver03%2Fdata%2Fsn86064205%2F00206535581%2F1887031401%2F0039.jp2/pct:38.204171,74.490944,14.098973,14.157111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,13 +378,32 @@ ered off. Augusta (Ja.) Chronic&#x27;.&#x27;:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ craze to have in one’s house as  
+many different kinds of ornamental  
+lamps as possible.  
+Society news is apt to be furnished by  
+the people who take most pleasure in  
+abusing Jenkins.  
+Tiny gold coaching horns are some­  
+thing new to be attached to Flora Mc-  
+Flimsey’s chatelaine.  
+Walking skirts are longer, and must  
+be made to touch. Shoe-top skirts now  
+are “so common.”  
+There must be about eighty million  
+yards of lace that once ornamented  
+grandma’s wedding dress.  
+Colored gas globes in a paivate house  
+are rather to suggestive of a bar-room or  
+an “oyster box.”  
 Too Much for the Judge.  
 Augusta Chronicle.  
 I have just heard the following good  
-story on Chief Justice Bleckley. Nobod
+story on Chief Justice Bleckley. Nobody  
+appreciates a good thing more than Judge  
+Bleckley, and, as he told this story on him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769507%2F1887031701%2F0052.jp2/pct:50.935304,61.812144,14.161876,2.137887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769507%2F1887031701%2F0052.jp2/pct:50.912492,51.695130,14.271375,13.270082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +544,25 @@ scampered off
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ault. If you&#x27;d  
+k is worth  
+less.&quot;  
+No!&quot;  
+&quot;Yes, it is. Where did you get it?&quot;  
+( &quot;Lent a man $20 so that he could  
+get off on his train, and he put on $5  
+for interest.&quot;  
+  
+if  
+  
+  
+&quot;Didn&#x27;t I warn you ?&quot;  
+&quot;You told me to look out for bad  
+men, but this fellow wasn&#x27;t bad. He  
+had over a dozen religious tracts in  
+his pocket, and he never swore nor  
+chewed tobacco nor drank whisky.  
+&quot;Well, you&#x27;ve been swindled.&quot;  
+&quot;And it&#x27;s all your fault. If you&#x27;d  
 said look out for good men I&#x27;d have  
 my $20 in ray pocket now. The rail  
 road has got to make it up to me or  
@@ -549,7 +599,7 @@ money, old fellow : you take it and
 have your hair cut.&quot; Saying which  
 he scampered off. Augusta Chronicle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F0029602398A%2F1887032301%2F0334.jp2/pct:62.475442,17.845462,10.962672,23.139820/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F0029602398A%2F1887032301%2F0334.jp2/pct:50.687623,6.295993,22.750491,90.392478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +611,19 @@ he scampered off. Augusta Chronicle
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ords are strong, and may  
+ hear on every side of that great  
+remedy, and public opinion thus based  
+upon&#x27;an actual experience, has all the  
+weight and importance of absolute  
+truth.  
+At this time of the year,the uric acid  
+in the blood pneumonia and  
+rheumatism, and there is not a man  
+who does not.&#x27;dread these monsters of  
+disease; but he need .have 110 fear of  
+them, we are told, if he rid the blood of  
+the uric acid cause.  
+These words are strong, and may  
 sound likeran advertisement, and be re­  
 jected as such by; unthinking people,  
 but we believe they are the truth, and  
@@ -596,7 +658,7 @@ money, old fellow; you take it and have
 your hair cut.&#x27; Saying which he scam­  
 pered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F0029602854A%2F1887032401%2F0467.jp2/pct:69.166774,69.421667,12.967966,21.763573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F0029602854A%2F1887032401%2F0467.jp2/pct:69.166774,62.262393,12.967966,28.922848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +690,21 @@ pered off
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+e engineer. Hope is the fire­  
+man. The station where he stops to take  
+in coal and water are his home, the  
+church, the society ho keep3, the libraries  
+he uses. There are no breaks on this lo­  
+comotive. When he stops, the locomotive  
+must run back. How shall a man use  
+these two months of tho year which he  
+has at his disposal ? There is a gentleman  
+who always steps in just here a gentle­  
+man whom I have seen. He is called tb.9  
+devil. Some men do not believe in the  
+personal devil. I do. I meet him every  
+day of my life. He is one of the most  
+cheerful f ellow3 you ever knew.&quot;  
 Score One for the Gamin.  
 All who know Judge Bleckley and recall  
 his long, waving hair and beard will ap­  
@@ -652,7 +728,7 @@ Baid: &quot;I don&#x27;t want your mouey, old fel­
 low; you take it and have your hair cut,&quot;  
 saying which he scampered oft. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556837%2F1887040701%2F0469.jp2/pct:42.954442,30.704354,11.881338,9.334397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556837%2F1887040701%2F0469.jp2/pct:42.954442,23.546843,11.896473,16.491908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,6 +782,8 @@ pered off. The Judge thought it s
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+The Judge Needed the Money.  
+From On AugutUx, Oa., ChronicU.  
   
 I have just heard the following good  
 story on Chief Justice Bleckley. All  
@@ -734,7 +812,7 @@ earned your money ; here it is.
 1 he boy said : &quot;I  
 dou&#x27;t want you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_alburg_ver02%2Fdata%2Fsn84023253%2F0020029631A%2F1887040701%2F0489.jp2/pct:75.314361,6.839445,11.065520,11.463598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_alburg_ver02%2Fdata%2Fsn84023253%2F0020029631A%2F1887040701%2F0489.jp2/pct:75.314361,5.688784,11.065520,12.614260/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +946,22 @@ which he scampered oil&#x27;. The jml l
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+me in New Rochelle. He  
+is called upon more -frequently than  
+perhaps any of our writers for a story  
+for some periodical at almost a mo­  
+ments notice. He never fails in meet­  
+ing these sudden calls, or in giving  
+satisfaction to the editor or publisher  
+for whom he writes. Mr. Habberton is  
+in the prime of his manhood, lie is forty  
+years of age, with high and finely  
+rounded forehead and an abundance of  
+dark wavy hair, His manner is frank  
+and cordial; he is deliberate in speech,  
+and a rapid conversationalist, who  
+never has to hositato for a word.-  
+New York Mail and Ex press.  
 Score One For The Gamin.  
 All who know Judge Bleckley and &#x27;Wm  
 recall his long, waving hair and beard  
@@ -893,7 +986,7 @@ want your money, old fellow; you take
 it and have your hair cut.” saying  
 which he scampered off. The judg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_apple_ver01%2Fdata%2Fsn2001063565%2F00279522758%2F1887041501%2F0062.jp2/pct:75.945087,58.059468,18.881450,15.814641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_apple_ver01%2Fdata%2Fsn2001063565%2F00279522758%2F1887041501%2F0062.jp2/pct:75.782782,46.391932,19.043755,27.482177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,6 +998,21 @@ which he scampered off. The judg
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+he engineer. Hope is the lire­  
+man. The station where he stops to take  
+in coal and water are his homo, tho  
+church, the society he keeps, the libraries  
+he uses. There ara no breaks on this lo­  
+comotive. When he stops, the locomotive  
+must run back. How shall a mr»n usa  
+these two months of 1he year which he  
+has at his disposal? There is a gentleman  
+who always steps in just here—a gentle­  
+man whom I have seen. Ho is called tho  
+devil. Some men do not believe in the  
+personal devil. I do. I meet him every  
+day of my life. He is one of the most  
+cheerful fellows you ever knew.&quot;  
   
 Score One for the Gamin.  
 All who know Judge Bleckley and recilt  
@@ -929,7 +1037,7 @@ said: &quot;I don&#x27;t want your money, old fel­
 -ow; you take it and have your hair cut,&quot;  
 Baying which he scampered off. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876190%2F1887041601%2F0533.jp2/pct:5.300501,53.459821,15.484140,11.551339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876190%2F1887041601%2F0533.jp2/pct:5.300501,44.545201,15.651085,20.465960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +1049,17 @@ Baying which he scampered off. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hey  
+ailroad stock. When  
+I saw hoWy things looked I hesitated. I  
+tried to get my customer, but3he had  
+suddenly left town and could not be  
+reached. If I bought perhaps he would  
+blame me if there was a loss, while tn  
+the other hand if the rebels were beaten  
+back the shares would surely rise in  
+value, and then I would be censured for  
+not acting accordi:lg to orders. I went  
+up to the board room and found they  
 were offering reams of stock for almost  
 nothing. I risked the chances and  
 bought all that was offered. I loaded  
@@ -975,7 +1093,7 @@ money, old fellow; you take it and have
 your hair cut.&quot; Saying which he scam­  
 pered off.-[Augusta (G:.) Chronicle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_moloney_ver01%2Fdata%2Fsn83026389%2F00212474940%2F1887041601%2F0484.jp2/pct:70.737483,63.214967,13.075101,20.269304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_moloney_ver01%2Fdata%2Fsn83026389%2F00212474940%2F1887041601%2F0484.jp2/pct:70.737483,57.030505,13.142760,26.453765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,6 +1141,9 @@ wving which ho scampered off. Th
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+never has to hesitate for a word.  
+New York Mail and, Ex press.  
+  
 Score One For The Gamin.  
 All who know Judge Bleckley and  
 recall his long, waving hair and beanl  
@@ -1047,7 +1168,7 @@ want your money, old fellow you take
 it and have your hair cut.&quot; saying  
 which be scampered off. The judg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_bowbells_ver01%2Fdata%2Fsn84024779%2F00295863705%2F1887042101%2F0132.jp2/pct:18.605536,66.535156,12.403691,13.438777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_bowbells_ver01%2Fdata%2Fsn84024779%2F00295863705%2F1887042101%2F0132.jp2/pct:18.605536,64.949979,12.403691,15.023954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1095,6 +1216,21 @@ which lie scampered oil&#x27;. The judg
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+corner and producing a publisher’s cata­  
+logue from his pocket. &quot;Now, name any  
+author you’ll find marked.” The reporter  
+selected Black, when he rattled off like a  
+school-boy “Princess of Thule,” &quot;Daugh­  
+terofHetb,” “Madcap Violet,” “Ydlande,”  
+“Judith Shakspeare.” “Macleod oi Dare,”  
+etc. It was just the same with most of  
+the other leading authors. “And don’t  
+you ever get beyond the titles!” inquired  
+the reporter. “Not myself; they’d all  
+rather give their opinion of a book than  
+hear one, and when I get into a tight place  
+I just switch off upon another author or  
+title.”  
   
 Score One for the t,auun.  
 All who know Judge Bleckley and recall  
@@ -1119,7 +1255,7 @@ said: “1 don’t want your money, old fel­
 low; you take it and have your hair cut,”  
 saving which he scampered off. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529637%2F1887042801%2F0557.jp2/pct:49.022222,67.996954,14.338889,10.620716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529637%2F1887042801%2F0557.jp2/pct:49.000000,60.335110,14.361111,18.282559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,15 +1286,9 @@ right, sir.&quot; &quot; Well, let me see you do
 it.&quot; The boy wnt over to an aries aa  
 hydrant and made his ablution, re­  
 turning, he held out his hand for tLe  
-dime. &quot;Weil, sir,&quot; said the jui.  
-you&#x27;ve earned the money : here it is.&quot;&#x27;  
-&quot; 1 d0I,,t Vnt y0&#x27;n CDOr!eJ&#x27;&#x27; cld fellow,&quot;  
-saia tne noy, you lake it ana Lave  
-. . .  
-i your nair cur &#x27;  
-saying 
+dime. &quot;Weil, sir,&quot; said the jui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1887051301%2F0701.jp2/pct:86.894025,57.254161,11.189402,12.430646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1887051301%2F0701.jp2/pct:87.204059,57.254161,10.879369,10.234919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1256,7 +1386,21 @@ cle.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ans Spreckels  
+ by as  
+the guest called for &quot;something to eat, and I  
+don&#x27;t care what it is.&quot; In a twinkling the  
+biscuit juggler was back with a plate of soup.  
+&quot;Where&#x27;s the mate?&quot; inquired the guest.  
+&quot;Drink the soup and then the meat will be  
+brought on.&quot; &quot;Fetch the mate now I&#x27;ll not  
+take the soup till I fill up on something solid,  
+an&#x27; then I&#x27;ll till in the crevices wid de soup.&quot;  
+Buffalo Express.  
+  
+Altogether !  
+  
+  
+Clans Spreckels  
   
 Wm. Q. Irwin.  
   
@@ -1299,7 +1443,7 @@ iTi6,,107 said: &quot;l don,t your money,
 old fellow; take it and have your hair cut.&quot;  
 wg which tf &amp;-Aeus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_brutus_ver02%2Fdata%2Fsn85047084%2F00202195465%2F1887052101%2F0462.jp2/pct:4.152467,19.813658,26.151710,75.398949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_brutus_ver02%2Fdata%2Fsn85047084%2F00202195465%2F1887052101%2F0462.jp2/pct:4.064117,19.813658,26.240061,75.398949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1709,21 @@ your hair cut.&quot; Saying which he kuu­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+n at the club again,  
+drinking.&#x27; Husband: (with impres-sive  
+gravity and maintaining his equilibrium  
+with much effort) : &#x27; M&#x27;ria, my dear,  
+you do me injustice. I was caught on  
+jury. Couldn&#x27;t get off (ill few minutes  
+ago. Came straight home.&#x27; Wife : &#x27; You  
+are deceiving me. Cyrus, eay  
+memomandransauctificadubansllelopedoniseniically.&#x27;  
+Husband(cautiously) (cautiously) : &#x27;  
+Certainly, m&#x27; dear. Memoran — moran —  
+bandansact — (getting reckless and  
+letting go all holds) — G&#x27;out o&#x27; my way,  
+madam ! If I can&#x27;t get into my own house  
+&#x27;thout giving &#x27;fernal password I&#x27;ll  
 resign as head o&#x27; this family. G&#x27;way !&#x27;  
 I have just heard the following good  
 story on Chief Justice Bleckley, All who  
@@ -1647,7 +1805,18 @@ be scampered olT
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-le. The thrifty Oriental  
+nally  
+the eyes of the reptile closed and the  
+head fell lifeless, still holding the leg  
+which came off as its owner won the  
+fight. With a first-class neckhold a  
+fight lasts about a half hour; a poor  
+neckhold an hour; a leghold from one  
+to three hours. The contest end* with  
+the death of at least one of the fight­  
+ers: in most instances the victor is so  
+badly injured as not to long survive  
+the struggle. The thrifty Oriental  
 then proceeds to cook the victim, and  
 oftentimes the victor, and pronounces  
 their flavor greatly improved by the  
@@ -1683,7 +1852,7 @@ money, old fellow, you take it and g?-t
 your hair cut.&quot; Saying which he  
 scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1888022401%2F0038.jp2/pct:15.843210,47.468912,12.003374,19.935376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1888022401%2F0038.jp2/pct:15.843210,41.404746,12.003374,25.999543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,6 +1875,7 @@ scampered off
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Judge, who used to wear very  
 long, waving hair, and a heavy heard,  
 one day was on his way to court when  
 he was accosted by a little street  
@@ -1730,7 +1900,7 @@ The hoy said—
 f e n ow . You take it and have your  
 hair cut.&quot; and forthwith scampere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn86091172%2F00295868089%2F1893080401%2F0728.jp2/pct:33.472454,76.018626,14.252922,12.791036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn86091172%2F00295868089%2F1893080401%2F0728.jp2/pct:33.472454,75.451106,14.252922,13.358556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1743,6 +1913,7 @@ hair cut.&quot; and forthwith scampere
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Judge, who used to wear very  
 long, waving hair, and a heavy beard,  
 one day was on his way to court when  
 he was accosted by a little street  
@@ -1768,7 +1939,7 @@ fellow. You take it and have your
 hair cut&quot; and forthwith scampered  
 off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_earhart_ver01%2Fdata%2Fsn82015485%2F00237283326%2F1893080501%2F0242.jp2/pct:64.099139,79.723960,14.277234,13.275742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_earhart_ver01%2Fdata%2Fsn82015485%2F00237283326%2F1893080501%2F0242.jp2/pct:64.099139,79.167908,14.292075,13.831794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1783,6 +1954,10 @@ off
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A buirdlyman. with striking 1 ieaiures  
+ana long nan* mat curiea in ringlets to  
+his k shoulders, nooneoncehavingseenhim  
+could forgethim. B Passing through the  
 classic &#x27; &#x27; Santy , &#x27;he was accosted tt  
 one day by a little street gamin with a  
 very di&#x27;rty face H with &#x27; Shine your  
@@ -1829,9 +2004,7 @@ you do it ?&quot; The boy went to one of the
 drinking fountains and made his  
 ablution. On his return the minister  
 said, &quot; Well, sir, you&#x27;ve earned your  
-money; here it is.&quot; •• I dinna want your  
-money, old chappie,&quot; said the boy. &quot;  
-Keep it yersel&#x27; an&#x27; get yer hair out.
+money; here it is.&quot; •• I dinna want you
 </td></tr></table>
 
 ---
@@ -1845,6 +2018,8 @@ Keep it yersel&#x27; an&#x27; get yer hair out.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+striking features and long hair that  
+curled in ringlets to bis shoulders, no  
 one onoe having seen him oould forget  
 him. Passine through the Saltmaiket he  
 was accosted one day by a little street  
@@ -1860,9 +2035,7 @@ me see you doitY&quot; The boy went to one of
 the drinking-fountains ana made his  
 ablutions. On his return the minister  
 said, &quot; Well, sir, you&#x27;ve earned your  
-money ; beraitis.&quot; &quot;Idinna want your  
-money, old obappie,&quot; said the boy. &quot;  
-Keep it yersel&#x27; an&#x27; get yer haircut.
+money ; beraitis.&quot; &quot;Idinna want you
 </td></tr></table>
 
 ---
@@ -1874,6 +2047,9 @@ Keep it yersel&#x27; an&#x27; get yer haircut.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+The Judge and the Bootklack.?A!  
+judge, who used to wear very long, waving  
+hair, and a heavy beard, one day was on his  
 way to court, when he was acccosted by a &#x27;  
 little street bootblack, with an exceedingly  
 dirty face, with the customary &quot;Shine, sir?&quot; j  
@@ -1894,7 +2070,7 @@ The boy said : &quot;I don&#x27;t want your money,
 old fellow. You take it and have your hair  
 cut,&quot; and forthwith scampered oil&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861952%2F1894091201%2F0342.jp2/pct:2.008848,80.014768,13.276735,8.426344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861952%2F1894091201%2F0342.jp2/pct:2.008848,78.671438,13.276735,9.769674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1908,16 +2084,17 @@ cut,&quot; and forthwith scampered oil&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o, remarked —4  
-I don&#x27;t want a shine, my lad, but if you  
-go and wash your face I&#x27;ll give you a  
+  
 sixpence.* 1 A&#x27; richt, sir,1 was the  
 lad&#x27;s raply, and going over to an  
 adjacent drinking fountain, ho mado his  
 ablution. Returning he held out his hand  
 for tho money, * Well, my lad,&#x27; said tho  
 Professor, * you&#x27;ve earned your money ;  
-here it is.&#x27; * I dinna want ii, aul
+here it is.&#x27; * I dinna want ii, auld  
+cha&#x27; returned tho gamin with a lordly  
+air. 4 You can keep it and get your  
+haircut.&#x27; The Study of Character.—Fro
 </td></tr></table>
 
 ---
@@ -1930,34 +2107,28 @@ here it is.&#x27; * I dinna want ii, aul
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y&#x27;s face, remarked,  
-&quot; I don&#x27;t want a shine, my lad, but if  
-you go and wash your face I&#x27;ll give you  
+  
 sixpence.&quot; &quot; A richt, sir,&quot; was the  
 lad&#x27;s reply, and, going over to an  
 adjacent drinking fountain, he made his  
 ablution. Returning, he held out his  
 hand for the money. &quot; Well, my lad,&quot;  
 said the Professor, &quot; you&#x27;ve earned your  
-money; here it is.&quot; &quot; I dinna want it
+money; here it is.&quot; &quot; I dinna want it,  
+old chap,&quot; returned the gamin, with a  
+lordly air. &quot;, You can keep it and get  
+your hair cut.&quot; The last battle o
 </td></tr></table>
 
 ---
 
-## [From _Instructor 1996-1998_](https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2?page=22)
 
 #### 1896-12-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
-marked :  
   
-“T don’t want a shine, my lad, but if  
-you go and wash your face, I&#x27;ll give you  
-a sixpence.”’  
-  
-‘A’ right, sir,’”? was the lad’s reply, |  
 and going over to an adjacent drinking |  
 fountain he made his ablution. Return- |  
 ing, he held out his hand for the money.  
@@ -1965,7 +2136,7 @@ ing, he held out his hand for the money.
 “Well, my lad,” said the professor,  
 ‘vou’ ve earned your money ; here it is.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2&#0036;22/pct:28.144989,19.793388,21.002132,10.330579/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2&#0036;22/pct:28.144989,25.041322,21.002132,5.082645/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1979,10 +2150,7 @@ ing, he held out his hand for the money.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-face  
-remarked :&quot;I &quot;I don&#x27;t want a shine, my  
-lad, but if you go and wash your face  
-I&#x27;ll give you a sixpence.&quot; &quot; A&#x27; richt,  
+  
 sir,&quot; was the lad&#x27;s reply, and going  
 over to an adjacent drinking fountain,  
 lie made his ablution. Returning, he  
@@ -1999,19 +2167,19 @@ earned your money; -here it is.&quot; &quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-face, remarked: “I don’t want a  
-shine, my lad, but if you go and wash your  
-face I’ll give you a sixpence.”’  
   
-“ A’ richt, sir,’ was the lad’s reply, and go-  
 ing over to an adjacent drinking fountain he  
 made his ablution. Returning, he held out  
 his hand for the money.  
   
 ‘* Well, my lad,” said the professor, ‘* you’ve  
-earned your money; here it is.”
+earned your money; here it is.”  
+  
+‘*T dinna want it, auld chap,’’ returned the  
+gamin, with a lordly air, ‘‘ yecan keep it and  
+git yer hair cut.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1&#0036;34/pct:12.360939,35.947712,24.660074,7.741013/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1&#0036;34/pct:12.330037,39.481209,24.690977,6.883170/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,23 +2191,16 @@ earned your money; here it is.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e, remarked,  
-&quot;I don&#x27;t want a shine, my lad; but,  
-if you go and wash your face, I&#x27;ll give )  
-you a sixpence.&quot;  
-&quot;All right, sir,&quot; was tho lad&#x27;s reply;  
+  
 and, going over to an adjacent drink-  
 mntain, h3 mado his ablution. Re  
 turning, he held out his hands for  
 money.  
 &quot;Well, my lad,&quot; said the professor,  
 &quot;you&#x27;ve earned your money. Here it  
-is.  
-&quot;I dihna want it, auld chap,&quot; re  
-turned the gamin, with a lordiy air.  
-&#x27;Ye can keep it and gic yer hair cut
+is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196445%2F1897020801%2F0473.jp2/pct:67.913327,60.898150,14.796676,9.594384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196445%2F1897020801%2F0473.jp2/pct:67.913327,64.085135,14.262392,4.290172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2053,11 +2214,7 @@ turned the gamin, with a lordiy air.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,-  
-remarked, &#x27;I don&#x27;t want a shine, my lad  
-; but if you go and wash&#x27; your facel&#x27;ll  
-give you a sixpence.&#x27; . &#x27; &#x27;A&#x27; richt,  
-sir/&#x27; was the lad&#x27;s reply,&#x27; arid, going  
+  
 over to an adjacent drinking fountain he  
 made his ablution. Returning, he&#x27; held  
 out his hand for the c money. ? -:. &#x27; &#x27;&#x27;  

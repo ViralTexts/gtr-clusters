@@ -1,7 +1,7 @@
 
 # Beautiful Things
 
-### 106 reprints from 1875-08-19 to 1899-08-02
+### 105 reprints from 1875-08-19 to 1899-08-02
 
 ## [Beautiful Things](http://chroniclingamerica.loc.gov/lccn/sn84038806/1875-10-16/ed-1/seq-3/)
 
@@ -79,7 +79,19 @@ Over worn-out hands—Oh, beautiful sleep!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tiful lives are those that bless—  
+e heart like songs of birds,  
+Yet whose utterances prudence girds.  
+f  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment, the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless—  
 Silent rivers of happiness,  
 Whose hidden fountains but few may guess.  
 Beautiful twilight, at set of sun,  
@@ -89,7 +101,7 @@ Beautiful graves, where grasses creep.
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—Oh! beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769441%2F1875091601%2F0203.jp2/pct:7.561527,23.442819,13.514219,5.057196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769441%2F1875091601%2F0203.jp2/pct:7.561527,16.517926,13.557701,11.982090/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +113,18 @@ Over worn-out hands—Oh! beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ul lives are those that bless­  
+ heart like songs of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest brave and true, -  
+Moment by moment, the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro­  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless­  
 Silent rivers of happiness, t  
 Whose hidden fountains but few may guess. f  
 Beautiful twilight, at set of sun a  
@@ -111,7 +134,7 @@ Beautiful graves where grasses creep, c
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands--Oh! beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1875091701%2F0375.jp2/pct:15.804094,34.631509,11.154971,4.060018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1875091701%2F0375.jp2/pct:15.804094,29.225508,11.154971,9.466019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +146,18 @@ Over worn-out hands--Oh! beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utiful lives are those that bless  
+ heart like songs of birds,  
+Ytt whose utterances produce girds.  
+Beautiful hands are those that do  
+Work that is earnest and brare and true,  
+Moiueut by motneut, the whole day through.  
+Beautiful feet are those that go  
+Uu kindly ministries to and fro  
+Down lowliest ways, if Uod wills it so.  
+Beautiful shoulders are those that bear  
+Oaseless burdeus of homely care,  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless  
 Sileut river of happiness,  
 Whose hidden fountains but few may guess.  
 Beautiful twilight, at set of sun,  
@@ -135,7 +169,7 @@ deep
 Over worn-out hands t o, beautiful, beautiful  
 sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477709%2F1875091701%2F0231.jp2/pct:26.605930,25.841450,13.125386,5.375416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477709%2F1875091701%2F0231.jp2/pct:26.605930,20.096166,13.125386,11.120700/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +181,20 @@ sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ose hidden fountains but few may  
+  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment, the long day  
+through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God will it so.  
+Beautiful shoulders are those that l ear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are these that bless—  
+Silent rivers of happiness,  
+Whose hidden fountains but few may  
 guess,  
 Beautiful twilight, at set of sun,  
 Beautiful goal, with race well won,  
@@ -158,7 +205,7 @@ lie deep
 Over worn-out hands—Oh, beautiful  
 sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349190%2F1875100201%2F0723.jp2/pct:3.631011,32.718075,14.528950,6.538830/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349190%2F1875100201%2F0723.jp2/pct:3.572130,24.665026,14.587831,14.591879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +217,18 @@ sleep!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tiful lives are those tliat bless?  
+ the heart likw inns* o&#x27; birds,  
+Yet who* utterance* prudence gird*.  
+Beautiful hand* are those that do  
+Work that is honest and brave and true.  
+Moment by moment, the king day through.  
+Beautiful feet are those that go  
+On kindly ministries to awl fro?  
+Down lowliest ways, if God wills to.  
+Beautiful shoulders arc those tliat bear  
+Ceaseless burdens of homelv care  
+With patient grace and daily prayer.  
+Beautiful lives are those tliat bless?  
 Silent rivers of happiness,  
 Whose hidden fountains butfew may guess.  
 Beautiful twilight, at set of sun,  
@@ -181,7 +239,7 @@ Where brown leaves fall, where drifts lie
 deep,  
 Over worn-out hands?Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193778%2F1875110401%2F0489.jp2/pct:5.138986,16.144607,13.618313,5.883969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193778%2F1875110401%2F0489.jp2/pct:5.074749,9.298948,13.682551,12.729628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +251,18 @@ Over worn-out hands?Oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Whose hidden fountain but few may guess.  
+eautiful handsaws tho.so that.do  
+^VVoek that Js honest and brave tfndtrue,  
+Moment by moment the long day through.  
+I Beautiful feet are tliose that go  
+On kindly ministries to and fro­  
+Down lowliest way, if God wills so.  
+Beautiful shoulders arc those that bear  
+Ceaseless burdens of homely care  
+With patient gaace and daily prayer.  
+i Beautiful lives are tipse that bless ?  
+Silent rivers of happiness,  
+1 Whose hidden fountain but few may guess.  
 Beautiful twilight, at set of sun,  
 Beautiful goal, with races well won,  
 Beautiful rest, uid. work well done.  
@@ -202,7 +271,7 @@ Where brown leaves fall, where drifts
 lie deep  
 Over worn-out hands-Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1875110601%2F0591.jp2/pct:15.671538,20.603879,13.518905,5.296102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1875110601%2F0591.jp2/pct:12.011134,13.326198,17.179309,12.573782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +283,18 @@ Over worn-out hands-Oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-autiful lire are those that bless  
+heart like en tigs of bird.  
+Yet wboae utterances prudence girds.  
+ltcantifol bands are those that do  
+Work that is earnest and brave and tine.  
+Moment by moment, the long day through.  
+lltantiful feet are those that go  
+On kindly ministries to and fro  
+lKwn lowliest ways, if God wills it so.  
+Beautiful shonldera are those that bear  
+Ceaseless bnrdens of homely care.  
+With patient grace and daily prayer.  
+Beautiful lire are those that bless  
 Silent rivers of happiness,  
 Wboae hidden fountains bat few may gncss.  
 Beautiful twilight, at set of son.  
@@ -225,13 +305,13 @@ Beautiful graves, where grasses creep.
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands! O beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875111001%2F0431.jp2/pct:4.364392,22.785657,10.980256,4.656141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875111001%2F0431.jp2/pct:4.364392,16.577469,10.980256,10.864330/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47?page=5)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47?page=5)
 
 #### 1875-11-20
 
@@ -258,21 +338,23 @@ Yet whose utterance prudence girds.
   
 Beautiful hands are those that do  
   
-Work that is e
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47&#0036;5/pct:12.226313,33.021077,12.885100,6.615925/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47?page=5)
-
-#### 1875-11-20
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-lives are those that bless —  
+Work that is earnest and brave and true,  
+  
+Moment by moment, the long day throngh.  
+  
+Beautiful feet are those that go  
+  
+On kindly ministries to and fro—  
+  
+Down lowliest ways, if God wills so.  
+  
+Beautiful shoulders are those that bear  
+  
+Ceaseless burdens of homely care  
+  
+With patient grace and daily prayer.  
+  
+Beautiful lives are those that bless —  
   
 Silent rivers of happiness,  
   
@@ -290,7 +372,7 @@ Where brown leaves fall, where drifts lie deep,
   
 Over worn-out hands—Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47&#0036;5/pct:12.245689,44.306206,14.047665,5.459602/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47&#0036;5/pct:12.226313,33.021077,14.067041,16.744731/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +384,18 @@ Over worn-out hands—Oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-autiful lives are those that bless  
+ the heart like songs of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest, and brave and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely cure  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless  
 Silent rivers of happiness,  
 Whose hidden fortunes but lew can guess.  
 Beautiful twilight, at set of sun,  
@@ -313,19 +406,34 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn-out hands Oh,-beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1875120401%2F0495.jp2/pct:21.412722,46.321796,14.460059,6.376380/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1875120401%2F0495.jp2/pct:21.412722,38.332713,14.515533,14.365463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18?page=3)
 
 #### 1876-01-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ful lives are those that bless—  
+heart like songs of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+  
+Work that is earnest, brave and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+  
+On kindly ministries to and fro—  
+  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless—  
   
 Silent rivers of happiness,  
   
@@ -338,19 +446,34 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—Oh, beautiful sleep !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18&#0036;3/pct:25.868421,56.463675,10.000000,3.824786/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18&#0036;3/pct:25.868421,51.752137,10.000000,8.536325/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Woodhull and Claflin's Weekly 1870-1876_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8?page=1)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8?page=1)
 
 #### 1876-01-22
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iful lives are those that bless—  
+heart like songs of birds,  
+Yet whose utterances prudence girds.  
+  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+  
+Beautiful feet are thoge that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills so.  
+  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+  
+Beautiful lives are those that bless—  
 Silent rivers of happiness,  
 Whose hidden fountains but few may guess.  
   
@@ -362,7 +485,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn-out hands—Oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8&#0036;1/pct:46.879433,49.809467,16.737589,7.062410/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8&#0036;1/pct:46.879433,40.215090,16.737589,16.656787/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +497,22 @@ Over worn-out hands—Oh, beautiful sleep!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e that bless—  
+ of birds,  
+Yet whose utterance prudence girds.  
+  
+Beautiful hands are those that do  
+Work that is honest, brave and true,  
+Moment by moment the long day through  
+  
+Beautiful feet are those that go  
+On kindly ministries to and no—  
+Down lowliest ways, it Lied wills it so  
+  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient gi ace and daily prayer.  
+  
+Beautiful lives are those that bless—  
 Silent rivers of happiness,  
 Whose hidden fountains but few may guess  
   
@@ -386,7 +524,7 @@ Beautilul graves, where grasses creep.
 Where brown leaves fall, where drills lie deep  
 Over worn-out hands—Oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn85025587%2F00383346770%2F1876020301%2F0041.jp2/pct:9.425174,24.602686,13.332237,4.829370/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn85025587%2F00383346770%2F1876020301%2F0041.jp2/pct:9.397775,18.081393,13.359636,11.350663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +536,25 @@ Over worn-out hands—Oh, beautiful sleep!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ful iires are those that bless—  
+ like songs of birds.  
+Vet whose utterances Prudence sirit.  
+  
+Beautiful hands sre those that do  
+Work that is earnest and brave andferM,  
+Moment by moment the long day throagh-  
+  
+Beautiful feet are those that  
+  
+go  
+  
+On kindly ministries te and fro­  
+Down lowliest ways, if God wills it so.  
+  
+Besutiful shoulders are tho»e that bear  
+Ceaseless burdens of homely care  
+With patieut grace and daily prayer.  
+  
+Beautiful iires are those that bless—  
 Silent rivers of happiness,  
 Whose hidden fountains but few may guetM  
   
@@ -411,19 +567,34 @@ Where brown leaves fall-where
 drifts lie deep  
 Over woru-out hands. Oh I beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1876040601%2F0898.jp2/pct:37.080224,23.202402,11.074834,4.376447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1876040601%2F0898.jp2/pct:37.080224,17.473235,11.074834,10.105613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33?page=3)
 
 #### 1876-04-15
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iful lives are those that bless—  
+ heart like songs of birds,  
+Yet whose utterance prudence girda.  
+Beautiful hands are those that do  
+  
+Work that is earnest, brave and true,  
+Moment by moment the long day through.  
+Beautifal feet are those that go  
+  
+On kindly ministries to and fro,  
+  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+  
+With patient grace and daiiy prayer.  
+Beautiful lives are those that bless—  
 Silent rivers of happiness,  
   
 Whose hidden fountains but few may guess.  
@@ -435,7 +606,7 @@ Beautiful graves, where grasses creep,
   
 Over worn-out hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33&#0036;3/pct:28.513158,14.262821,9.407895,3.685897/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33&#0036;3/pct:28.513158,9.551282,9.407895,8.397436/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +618,18 @@ Over worn-out hands—oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e hidden fountains but few may guess.  
+Beautiful hands are those tlmt do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to end fro—  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders arc those that bear  
+Ceaseless burdens of homelv care  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless—  
+Silent rivers of happiness,  
+Whose hidden fountains but few may guess.  
 Beautiful twilight, at set of sun ;  
 Beautiful goal, with race well won ;  
 Beautiful rest, with work well dotic.  
@@ -455,7 +637,7 @@ Beautiful graves, where crosses creep—
 Wla-re brown leaves fall—where drifts lie deep  
 Over worn-out hands. Oh! beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1876042101%2F1098.jp2/pct:55.383620,29.264506,11.797194,3.485348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1876042101%2F1098.jp2/pct:55.383620,23.799728,11.797194,8.950126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +659,18 @@ Over worn-out hands. Oh! beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utiful lives are those that bless  
+the heart like songs of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment, the long day through.  
+Beautiful feet are those that go  
+Ou kindly ministries to and fro  
+Down lowliest ways, if OoJ wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless  
 Silent rivers of happiness,  
 Whose hidJen fountains but few may guess.  
 Beautiful twilight, at set of tun,  
@@ -487,7 +680,7 @@ Beautiful graves where glasses creep,
 Where brnwn leaven full wlmrp il i-iftu I in jUon  
 Over worn-out hands oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85026955%2F00200293538%2F1876062701%2F0508.jp2/pct:29.544236,28.367431,12.046470,5.094055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85026955%2F00200293538%2F1876062701%2F0508.jp2/pct:29.544236,21.543320,12.046470,11.918166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,14 +694,27 @@ Over worn-out hands oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eautiful lives are those that  
+rom the heart  
+like songs of birds, Yet whose utterance  
+prudence girds. Beautiful hands are  
+those that do Work that is earnest,  
+brave, and true, Moment by moment the  
+long day through. Beautiful feet are  
+those that go On kindly ministries to  
+and fro Down lowliest ways, if God wills  
+it io. Beautiful shoulders are those  
+that bear Ceaseless burdens of homely  
+care, With patient grace and daily  
+prayer. Beautiful lives are those that  
 blessSilent rivers of happiness, Whose  
 hidden fountains but few may guest.  
 Beautiful twilight at set of sun,  
 Beautiful goal, with race well won,  
 Beautiful rest, with work well done.  
 Beautiful graves, where grasses creep,  
-Where brown leaves fall, where
+Where brown leaves fall, where drifts  
+lie deep Over worn-out hands-O,  
+beautiful sleep 
 </td></tr></table>
 
 ---
@@ -521,6 +727,17 @@ Where brown leaves fall, where
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+p from the hean  
+like songs ol birds, Yet wbobe utterance  
+prudence girds Beautiful hands are those  
+that do Work that is earnest and brave  
+and true, Moment by moment the lODg day  
+through. Beautiful feet are those that  
+go On kindly ministries to and tra Down  
+¡ûwlitbt ways, if God wills it so  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care With  
+patitnt grace aad daily prayer.  
 Beautiful lives are those that  
 blessSilent rivers of happiness, Wboee  
 bidden fountains but few may guess.  
@@ -528,7 +745,9 @@ Beautiful twilight, at set of sun,
 Beautiful goal with race welt won.  
 Beautiful rest with work well done.  
 Beautiful graves where grasses creep,  
-Wh»re brown leaves fall, where
+Wh»re brown leaves fall, where drifts  
+lie deep, Over worn-out hands-Ob,  
+beautiful sleep 
 </td></tr></table>
 
 ---
@@ -541,14 +760,27 @@ Wh»re brown leaves fall, where
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ful lives are those that bless-  
+t like  
+sougs of birds, Yet whose uttdrance  
+lirudence girds. Beautiful hands are  
+those that do Work that is earnest and  
+bravo and true, Iomoent by moniest the  
+long day through. :Beautiful feet are  
+those that go On kinldly ministries to  
+and fro_Down lowliest ways, if God will  
+it so. Beautiful shoulders are those..lk  
+bear Ceaseless burdens of homeless care  
+With patient grace anod daily prayer.  
+Beautiful lives are those that bless-  
 Silent rivers of happiness, Whose&#x27;  
 hidden fountains but few mi?h?t guess.  
 Beautiful twilight, at set of sun,  
 neautiful goal with race well won;  
 Beautiful rest with work well done.  
 Beautiful graves where grasses creep,  
-Where brown leaves fall,
+Where brown leaves fall, where drifts  
+lie deep, Over worn-out bands--Oh,  
+beautiful slee?
 </td></tr></table>
 
 ---
@@ -563,13 +795,28 @@ Where brown leaves fall,
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11?page=7)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11?page=7)
 
 #### 1876-11-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iful lives are those that bless—  
+art like songs of birds,  
+Yet whose utterance prudence girds.  
+  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills it so.  
+  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+  
+Beautiful lives are those that bless—  
 Silent rivers of happiness,  
 Whose hidden fountains but few may guess.  
   
@@ -581,7 +828,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn out hands — Oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11&#0036;7/pct:17.857143,72.114625,21.371429,7.588933/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11&#0036;7/pct:17.800000,62.075099,21.428571,17.628458/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +840,18 @@ Over worn out hands — Oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s are those thst bless—  
+ke songs of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest and brave and true.  
+Moment by moment, the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Oeaaeless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those thst bless—  
 Silent riters of happiness,  
 Whose hidden fountains but few may guess.  
   
@@ -607,7 +865,7 @@ deep
   
 O&#x27;er worn-out hands—oh,beautiful sleep!.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290975%2F1877071201%2F0192.jp2/pct:7.716756,23.352986,16.488685,6.985388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290975%2F1877071201%2F0192.jp2/pct:7.684973,15.158506,16.520468,15.179868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,13 +922,28 @@ Over worn-out hands—O, beautiful sleep
 
 ---
 
-## [From _Littell's Living Age (1844-1896)_](https://iiif.archivelab.org/iiif/sim_living-age_1878-04-27_137_1767?page=1)
+## [From _Littell's living age_](https://iiif.archivelab.org/iiif/sim_living-age_1878-04-27_137_1767?page=1)
 
 #### 1878-04-27 &middot; Boston
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ful lives are those that bless —  
+rt like songs of birds,  
+Yet whose utterance prudence girds.  
+  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills it so.  
+  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+  
+Beautiful lives are those that bless —  
 Silent rivers of happiness,  
 Whose hidden fountains but few may guess.  
   
@@ -684,7 +957,7 @@ Where brown leaves fall, where drifts lie deep
   
 Over worn-out hands—oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_living-age_1878-04-27_137_1767&#0036;1/pct:52.619893,74.058219,35.657194,12.614155/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_living-age_1878-04-27_137_1767&#0036;1/pct:52.531083,56.849315,35.746004,29.823059/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +979,18 @@ Over worn-out hands—oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eautiful lives are those that bless  
+om the heart like songs ol births  
+Yet whoee utterance prudence gird.  
+Beaut it nl hands are those that do  
+Work that is earnest brave and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that co  
+On kindly ministries to and fro  
+Down lowliest ways, if God wills it so.  
+Beautiful Shoulders arc those that bear  
+( eaueles- burden- it homely i ;ire  
+With patient grace aud daily prayer.  
+Beautiful lives are those that bless  
 Silert rivers of bappicsss.  
 Whose hidden fountain but few may guess.  
 Beautiful twilight at set of sun.  
@@ -716,7 +1000,7 @@ Beautiful graves, where grasses creep.
 Where brown leaves fall, where drilts lie deep  
 Over worn-out hands oh, beautiful Bleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200295614%2F1878050901%2F0368.jp2/pct:6.347411,13.735783,9.615385,3.567610/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200295614%2F1878050901%2F0368.jp2/pct:6.347411,8.826674,9.615385,8.476718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +1012,22 @@ Over worn-out hands oh, beautiful Bleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ss.  
+girds.  
+  
+Beautiful hands are those that do  
+Work that Is earnest, brave, and true  
+Moment by moment the long day through.  
+  
+Beautiful feet are those that go  
+On kiudly ministries to and fro  
+Down lowliest ways, if God wills it so.  
+  
+Beautiful shoulders are those that bear  
+Ceaseless uurdeus of hourly care  
+With jiaticnt grace and daily prayer.  
+  
+Beautiful lives are those that bless—  
+Silent rivers of happiness.  
 Whose hidden fountain few may guess.  
   
 Beautiful twilight at set of sun,  
@@ -739,7 +1038,7 @@ Beautiful grave, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_golf_ver01%2Fdata%2Fsn85025620%2F00212479317%2F1878050901%2F0258.jp2/pct:62.031090,17.358162,10.681374,3.666195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_golf_ver01%2Fdata%2Fsn85025620%2F00212479317%2F1878050901%2F0258.jp2/pct:61.979894,11.913318,10.732570,9.111039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +1050,18 @@ Over worn-out hands—oh, beautiful sleep!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s,   
+ds.   
+Beautiful hands are those that do   
+Work that is earnest, brave, and true  
+Moment by moment the long day through.   
+Beautiful feet are those that go  
+On kindly ministries to and fro—   
+Down lowliest ways, if God wills itso.   
+Beautiful shoulders are those that bear  
+Ceaseless burdens of hourly care   
+With patient grace and daily prayer.   
+Beautiful lives are those that bless—  
+Silent rivers of happiness,   
 Whose hidden fountain few may guess.   
 Beautiful twilight at set of sun,  
 Beautiful goal, with race well won,   
@@ -760,19 +1070,34 @@ Beautiful grave, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—oh, beautiful sleep I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033255%2F00514152391%2F1878050901%2F0075.jp2/pct:62.215307,16.684685,10.566906,3.643243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033255%2F00514152391%2F1878050901%2F0075.jp2/pct:62.215307,11.272072,10.566906,9.055856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169?page=2)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169?page=2)
 
 #### 1878-05-09
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ful lives are those that bless,—  
+t like songs of birds,  
+Yet whose utterance prudence girds,  
+  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+  
+Beautiful feet are those that go  
+On kindly ministries to and fro,—  
+Down lowliest ways, if God wills it so.  
+  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+  
+Beautiful lives are those that bless,—  
 Silent rivers of happiness,  
 Whose hidden fountains but few may guess.  
   
@@ -784,7 +1109,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands,—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169&#0036;2/pct:6.780402,36.847134,20.691164,6.910828/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169&#0036;2/pct:6.671041,27.770701,20.800525,15.987261/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +1121,18 @@ Over worn-out hands,—oh, beautiful sleep!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t if ul lives are those that bless  
+m the heart lik songs of birds,  
+et whose utterance prudence girds.  
+Beautiful hands are those that do  
+orte that Is earnest and brave and true.  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro  
+Down lowliest ways, if God wills it so.  
+Beautiful fchoulders are those that bear  
+Ceasl:ss burdens of homely care  
+With patient giace and daily prayer.  
+Femit if ul lives are those that bless  
 Klient rivers of happiness,  
 Whoe hidden fountains but few may guess.  
 Keautifnl twillzht, at set of snn.  
@@ -806,7 +1142,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fa&#x27;l, wheredrlft-s lie deep  
 Over worn-out hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn87056600%2F00202191599%2F1878051501%2F0201.jp2/pct:6.835564,15.821501,13.639261,4.180753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn87056600%2F00202191599%2F1878051501%2F0201.jp2/pct:6.819630,10.209601,13.655194,9.792653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +1154,19 @@ Over worn-out hands oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utiful lives are those that bless—  
+the heart like songs of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment (he long day  
+through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless—  
 Silent rivers of happiness,  
 Whose hidden fountain but few may  
 guess.  
@@ -831,7 +1179,7 @@ lie deep
 Over worn-out hands—oh, beautiful  
 sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F0029587384A%2F1878052301%2F0050.jp2/pct:56.287726,30.546572,16.851107,7.988357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F0029587384A%2F1878052301%2F0050.jp2/pct:56.287726,21.765847,16.876258,16.769082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -843,7 +1191,22 @@ sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l lives are those that bless, —  
+ike songs of birds,  
+Yet whose utterance prudence girds,  
+  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+  
+Beautiful feet are those that go  
+Qn kindly ministries to:and fro. —  
+Down Jowliest ways, if God wills it so.  
+  
+Beautiful shoulders are those that bear  
+Ceaseless burdeus of homely care  
+  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless, —  
 Silent rivers of happiness,  
   
 Whose hidden fountains but few may guess.  
@@ -858,7 +1221,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn-out hands, — oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1878-05-23_55_21&#0036;5/pct:77.399289,24.490248,11.329976,4.421543/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1878-05-23_55_21&#0036;5/pct:77.369668,19.370567,11.359597,9.541223/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +1233,18 @@ Over worn-out hands, — oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eautiful lives are those that bless  
+m the heart like songs of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands 4R those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministries fo and fro  
+Down lowliest ways, if God wills it so.  
+Beuutiful shoulders are those that bear &#x27;  
+Ceaseless burdens of homely euro  
+With patient grace uud daily prayer.  
+Beautiful lives are those that bless  
 Silent rivers of happiness,  
 Whose hidden fountain but few may guess  
 Beautiful twilight, nt set of sun,  
@@ -882,7 +1256,7 @@ lie
 deep 1  
 Over worn-out hands oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878800%2F1878053101%2F0671.jp2/pct:29.846090,27.027027,12.333611,6.361057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878800%2F1878053101%2F0671.jp2/pct:29.846090,19.187696,12.396007,14.200388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +1268,23 @@ Over worn-out hands oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tiful live* are tfcoae that bleu—  
+.  
+IMP from W heart like long* of blraa,  
+Yet whose utterance prudence gird*.  
+  
+Beantlfnl bands are those that do  
+Work that la earneat andboave and true,  
+Moment by moment the long day through.  
+  
+Beautiful feet .ire thooe that go ~a  
+OB kind)? mlnUtrlei io and /ro— |.  
+Down lowliest way*, If God wills It so. „•,  
+  
+Beautiful ohouldera are tboae that bear  
+burden* of homely care  
+giioe and dally prayer.  
+  
+Beautiful live* are tfcoae that bleu—  
 Hileul rivers of happiness,  
 Whose hidden fountain but few may guess.  
   
@@ -906,7 +1296,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Ovor worn-out hands—oh, beautiful sleep I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn83025440%2F00295876475%2F1878060401%2F0460.jp2/pct:8.829699,18.337933,10.668813,3.846809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn83025440%2F00295876475%2F1878060401%2F0460.jp2/pct:8.829699,13.114587,10.668813,9.070156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +1308,18 @@ Ovor worn-out hands—oh, beautiful sleep I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-autiftil live* are those that blew—  
+he heart like tong* of birds.  
+Yet whose utterance prudence girds.  
+Beautiful hands are thaw that do  
+Work that is earnest and brave and tree.  
+Moment by moment the long day through.  
+Beautiful fret are those that go  
+On kindly ministries to and fro—  
+Bown lowliest ways, if Uod wills it so. •  
+Beautiful shoulders are tboae that bear  
+&lt; &#x27;caseins burdens of homely care  
+With patient grace and daily prayer.  
+Beautiftil live* are those that blew—  
 silent riser* of happiness.  
 Whose bidden fountain but frw may gue*.  
 Beautiful twilight, at set of nui.  
@@ -928,7 +1329,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves foil, where drifts lie deep  
 Over worn-out hands—oh beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623793%2F1878060801%2F0107.jp2/pct:6.417087,23.406331,9.364051,3.805291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623793%2F1878060801%2F0107.jp2/pct:6.417087,18.354293,9.364051,8.857329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +1341,22 @@ Over worn-out hands—oh beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tiful lives are those that bless—  
+eart like songs of bird*,  
+iet whose utterance prudence girds.  
+Beautiful h*n&lt;ls are those that do  
+NNork that is earnest and brave and  
+true,  
+Moment by moment the whole day  
+through.  
+Bcantiful feet are thone that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills it so.  
+  
+Beautiful shoulders are th«se that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily payer.  
+  
+Beautiful lives are those that bless—  
 Silent rivers of happiness,  
 Whose hidden fountain but few may  
 gues.  
@@ -956,7 +1372,7 @@ lie deep
 Over worn out hands—oh, beautiful  
 bleep !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_camas_ver01%2Fdata%2Fsn83045610%2F00202198211%2F1878071201%2F0483.jp2/pct:15.900243,27.534447,12.433090,6.827910/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_camas_ver01%2Fdata%2Fsn83045610%2F00202198211%2F1878071201%2F0483.jp2/pct:15.843471,19.445910,12.489862,14.916447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +1384,9 @@ bleep !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- lives are those that bless?  
+  
+Whole soulcd honesty printed there.  
+Beautiful lives are those that bless?  
 Silent rivers of happiness.  
 Whose hidden fountains but few may guess.  
 Beautiful twilight* at set of sun.  
@@ -978,7 +1396,7 @@ Beautiful graves, where grasses creep.
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands?oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F0020219235A%2F1878071601%2F0319.jp2/pct:70.609842,20.685693,13.073110,5.037064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F0020219235A%2F1878071601%2F0319.jp2/pct:70.583289,19.925871,13.099664,5.796887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +1408,19 @@ Over worn-out hands?oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utiful lives are those th.tt b!ef  
+m the heart like songs of birds.  
+Yet whose utterance prodencc gird­  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day  
+through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro  
+Down lowliest ways, if God wills it eo.  
+Beautiful shoulders are those that b?ar  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those th.tt b!ef  
 Silent rivers of happiness,  
 Whose bidden fountain- but few may  
 guess.  
@@ -1002,7 +1432,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn out hands oh beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774996%2F1878072601%2F0569.jp2/pct:37.755102,18.052783,9.471112,5.466844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774996%2F1878072601%2F0569.jp2/pct:37.755102,11.621202,9.528600,11.898425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1446,18 @@ Over worn out hands oh beautiful sleep!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utiful lives are those  
+rt like  
+songs of birds , Yet whose utterance  
+prudence girds. Beautiful hands are  
+those that do Work that is earnest and  
+brave and true, Moment by moment the  
+long daythrough. Beautiful feet are  
+those that go On kindly ministries to  
+and fro Down lowliest ways, if&#x27; God  
+wills it so. Beautiful shoulders?are  
+those that bear &amp;nbsp; Ceaseless burdens  
+of homely care With patient grace and  
+daily prayer. Beautiful lives are those  
 that bless Silent rivers of happiness,  
 Whose hidden fountains but few may  
 guess. Beautiful twiiight, at set of  
@@ -1024,7 +1465,8 @@ sun; Beautiful goal, with race well won,
 Beautiful rest, with work well done.  
 Beautiful graves, where grasses creep;  
 &amp;nbsp; Where brown leaves fall, where  
-drifts lie deep Over
+drifts lie deep Over worn-out hands---  
+oh, beautiful sleep 
 </td></tr></table>
 
 ---
@@ -1037,14 +1479,26 @@ drifts lie deep Over
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utiful lives are those that bless  
+ the heart like songs of  
+birds,. Yet whose utterance prudence  
+girds. Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that go On  
+kindly ministries to and froDown  
+lowliest ways, if God wills it so.  
+Beautilul shoulders are those that bear  
+Ceaseless burdens of homely care With  
+patient grace and daily prayer.  
+Beautiful lives are those that bless  
 Silent rivers of happiness, Whose hidden  
 fountain but few may guess. Beautiful  
 twilight, at set of sun, -Beautiful  
 goal, with raoe well won, Beautiful  
 rest, with work well done. Beautiful  
 graves, where grasses creep, Where brown  
-leaves fall and
+leaves fall and drifts lie deep Over  
+worn-out hands-ob, beautiful sleep 
 </td></tr></table>
 
 ---
@@ -1057,6 +1511,17 @@ leaves fall and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+he heart like songs of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do Work  
+that is earnest, and brave, and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that go On  
+kindly ministries to and fro—= Down  
+lowliest ways, if God wills it so.  
+Beautiful shoulders are tliose that bear  
+Ceaseless burdens of homely care With  
+patient grace and daily prayer.  
 Beautiful lives are those that bless ;  
 Silent rivers of happiness, Whose hidden  
 fountain but few may guess. Beautiful  
@@ -1064,7 +1529,8 @@ twilight, at set of sun, Beautiful goal,
 with race well won, Beautiful rest, work  
 &quot;well done. Beautiful graves where  
 grasses creep, Where brown leaves fail,  
-and drifts lie deep, Over
+and drifts lie deep, Over&#x27;worn-out  
+hands—oh, beautiful sleep
 </td></tr></table>
 
 ---
@@ -1075,7 +1541,18 @@ and drifts lie deep, Over
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iful lives are thoso that bless  
+the heart liko songs of birds,  
+Yet whoso utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the lougday through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely caro  
+With patient-grace and daily prayer.  
+Beautiful lives are thoso that bless  
 Silent rivers of happiness,  
 Whose hidden fountains but few may  
 guess.  
@@ -1087,7 +1564,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn-out hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878800%2F1879013101%2F0813.jp2/pct:28.623556,26.840716,12.223799,6.658844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878800%2F1879013101%2F0813.jp2/pct:28.623556,19.448519,12.325157,14.051041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1576,18 @@ Over worn-out hands oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iful lives are those that bless  
+ heart like songs of birds.  
+Yet whose utterance prudence girds.  
+Beautiful bands are those that do  
+Work that is earnest ana brave and true.  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to aud fro­  
+Down lowliest ways, if God wills It 80.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+Writh patient grace aud daily prayer.  
+Beautiful lives are those that bless  
 Silent rivers of happiness.  
 Whose hidden fountain but few may guess.  
 Beautiful twilight, at set of sun, x  
@@ -1109,7 +1597,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Ove.- worn-out hands oh. beautiful sleep I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F0028077585A%2F1879081401%2F0038.jp2/pct:25.226698,27.379819,8.398989,3.522132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F0028077585A%2F1879081401%2F0038.jp2/pct:25.211833,22.655878,8.413855,8.246073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,6 +1610,15 @@ Ove.- worn-out hands oh. beautiful sleep I
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Beautiful hands are those that do  
+Work that I earnest and brave and true.  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On klndiy ministriei to and fro­  
+Down lowliest ways, If God will it to.  
+Beautiful shoulder are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
 Beautiful livei are those that bless  
 Whose hidden fountain but few may guess.  
 Beautiful twilight, at set of tun,  
@@ -1131,13 +1628,13 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, wbore drifts lie deep.  
 Over worn out hands oh, beautiful sleep !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194394%2F1879081801%2F0343.jp2/pct:14.666851,23.188253,9.538291,4.035495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194394%2F1879081801%2F0343.jp2/pct:14.666851,18.624551,9.538291,8.599197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16?page=4)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16?page=4)
 
 #### 1880-04-17
 
@@ -1145,25 +1642,43 @@ Over worn out hands oh, beautiful sleep !
 
   
   
+Farewell, gentle spirit.  
+  
+“Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+  
+‘ Beautiful feet are those that go  
+On kindly ministries to and fro,  
+Down lowliest ways if God wills it so.  
+  
+“Beautiful lives are those that bless,  
+Silent rivers of happiness,  
+Whose hidden fountain but few may guess,  
+  
 “Beautiful graves where grasses creep,  
   
 Where fern leaves fall, where drifts lie deep  
   
 Over worn-out hands; O beautiful sleep!’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16&#0036;4/pct:42.883361,49.569477,13.580750,1.543943/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16&#0036;4/pct:42.699837,43.230404,13.764274,7.883017/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Missionary Helper 1878-1919_](https://iiif.archivelab.org/iiif/sim_missionary-helper_january-february-1881_4_1?page=26)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_missionary-helper_january-february-1881_4_1?page=26)
 
 #### 1881-01-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Beautiful faces are those that wear — Beautiful feet are those that go  
+  
+It matters little if dark or fair — On kindly ministries, to and fro—  
+Whole-souled honesty printed there. Down lowliest ways if God wills it so.  
 Beautiful eyes are those that show,  
   
 Like crystal panes where hearth-fires glow,  
@@ -1181,7 +1696,7 @@ Yet whose utterance prudence girds. Silent rivers of happiness,
   
 Whose hidden fountains few may gress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_missionary-helper_january-february-1881_4_1&#0036;26/pct:11.681034,26.668618,66.724138,10.772834/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_missionary-helper_january-february-1881_4_1&#0036;26/pct:11.681034,21.457845,66.724138,15.983607/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1193,7 +1708,22 @@ Whose hidden fountains few may gress.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-fal lives are those that bless—  
+art like songs of birde,  
+Yet whose utterance prudence girds.  
+  
+Beantifal hands are those that do  
+Work that is earnest and brave and true  
+Moment by moment the long day through.  
+  
+Beautiful feet are those that go  
+Onkindly ministries to and fro—  
+Down lowliest ways, if God wills it so.  
+  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care,  
+With patient g ace and daily prayer.  
+  
+Beantifal lives are those that bless—  
 Silent rivers of happiness,  
 Whocee hidden fountains but few may guess,  
   
@@ -1207,7 +1737,7 @@ Where leaves fall and drifts lie deep
   
 Over worn-out hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1882-01-24_13_4&#0036;5/pct:8.443510,44.824132,10.336538,4.619323/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1882-01-24_13_4&#0036;5/pct:8.428486,38.691006,10.351562,10.752449/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1769,18 @@ Over worn-out hands—oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utiful lives are those that bless  
+m the heart like songs of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro  
+Down lowliest ways if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless  
 Silent rivers of happiness,  
 Whose hidden fountains but few may guess.  
 Beautiful twilight, at set of sun,  
@@ -1250,7 +1791,7 @@ Where brown leaves fall, where drifts lie
 deep i  
 Over worn-out hands Oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kay_ver01%2Fdata%2Fsn85033437%2F00296021064%2F1882031201%2F0243.jp2/pct:47.805716,33.891263,11.010464,4.855176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kay_ver01%2Fdata%2Fsn85033437%2F00296021064%2F1882031201%2F0243.jp2/pct:47.805716,27.991453,11.026082,10.754986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1803,10 @@ Over worn-out hands Oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
+Beautiful moulders are those that bear  
+Ceaseless burdens of homely care,  
+With patient giace aud daily prayer.  
 Beautiful lives are those that bless—  
 Silent rivers of happiness,  
 Whoso fountains hut few may guess.  
@@ -1274,7 +1818,7 @@ Where brown leaves fall, whore drills lie
 deep  
 Over worn-out hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342429%2F1882033101%2F0053.jp2/pct:73.294922,28.295574,9.958778,5.291101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342429%2F1882033101%2F0053.jp2/pct:73.294922,26.648242,9.958778,6.938434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,7 +1830,18 @@ Over worn-out hands—oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-autiful lives are those that bless—  
+the heart like songs of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work tlmt is earnest ami brave and true.  
+Moment ty moment the long day tlnough.  
+Beautiful lent are those Hint go  
+On kindly ministries to and fro—  
+Down lowliest ways, if Ood wills it so.  
+Beautiful shoulders are those that hear  
+Ceaseless burdens of homely cure,  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless—  
 Silent rivers ol happiness,  
 Whose hidden fount,.ins hut few may guess  
 Beautiful twilight, at set of sun,  
@@ -1297,7 +1852,7 @@ Where brown leaves fall, where drifts lie j
 deep,  
 Over worn out-hands—oh, beautiful sleep. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_laplata_ver01%2Fdata%2Fsn85025350%2F0041562637A%2F1882051301%2F0535.jp2/pct:18.564206,29.742517,12.612066,6.539170/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_laplata_ver01%2Fdata%2Fsn85025350%2F0041562637A%2F1882051301%2F0535.jp2/pct:18.564206,21.903481,12.612066,14.378206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1309,7 +1864,17 @@ Over worn out-hands—oh, beautiful sleep.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r.  
+ap from the heart like songs of birds,  
+Yet whoso utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest, brave and true.  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care,  
+With patient grace and daily prayer.  
 Beautiful lives are those that bless—  
 Silent rivers of happiness,  
 Whose fountains but few may guess.  
@@ -1320,7 +1885,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands oh, beautifui sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_inskip_ver01%2Fdata%2Fsn85042459%2F00280769046%2F1882052601%2F0532.jp2/pct:4.305268,13.884238,9.927582,4.463645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_inskip_ver01%2Fdata%2Fsn85042459%2F00280769046%2F1882052601%2F0532.jp2/pct:4.209772,9.208323,10.023078,9.139560/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1332,7 +1897,20 @@ Over worn-out hands oh, beautifui sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-er.  
+heart like solids of  
+birds,  
+Yet whosu utterance prudence girds.  
+Iiautiful hands nrr those that do  
+Work that is earnest uud brave uud  
+true,  
+Moment by moment the long day  
+through.  
+ileautlful feet are thoRi&quot; that go  
+Uu kindly ministering to and fro­  
+Down lowliest ways, If i Jo. I wills it so.  
+rtoautif ul shoulders are those that benr  
+Ceaseless burdens of homely earn,  
+With patient grace und daily prayer.  
 Beautiful lives are those that bless  
 Bileut rivers of happiness,  
 Whose fountains but fUw may guess.  
@@ -1345,7 +1923,7 @@ lie deep
 Over worn-out hands oh, beautiful  
 leep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn84026106%2F00280776579%2F1882072001%2F0524.jp2/pct:1.685621,64.673833,12.530463,8.143131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn84026106%2F00280776579%2F1882072001%2F0524.jp2/pct:1.665313,55.632455,12.550772,17.184509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1935,18 @@ leep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utiful lives are those that bless,  
+ heart like songs of birds,  
+i et whose utterances prtfJenee girds,  
+Beautiful hands are those that do  
+Wo&#x27;ik that Is earnest and brave and true,  
+Moment by moment the long day through.  
+HeautlfUl feet are Ihose that go  
+On kindly*ministries to and fro,  
+Down lowliest ways If Ood wills It to.  
+Beautiful shoulders are tho«e that hear  
+Ceaseless burdens of homely care  
+With patient grace and dally prayer.  
+Beautiful lives are those that bless,  
 Silent rivers of happiness.  
 Whose hidden fountain but few can guess.  
 HeanlJfUl twilight, at set of sun ;  
@@ -1368,7 +1957,7 @@ Where brown leaves fall, where drifts lie
 deep,  
 Over worn-out hands; oh beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1882072201%2F0115.jp2/pct:5.579399,30.289532,10.340665,4.875418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1882072201%2F0115.jp2/pct:5.561516,24.206570,10.358548,10.958380/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1380,7 +1969,19 @@ Over worn-out hands; oh beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ds.  
+Beautifdl hands are those who do &#x27;  
+Work that is earnest,ai.d brave and true.  
+Moment by moment the whole day  
+through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro  
+Down lowliest ways, if God will it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care.  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless  
+Silent rivers of happiness,  
 Whose hidden fountains but few may  
 guess.  
 Beautiful twilight, at set of sun.  
@@ -1393,7 +1994,7 @@ Over worn-out hands oh, beautiful
   
 sleep. Unknown Ej
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775277%2F1882081701%2F0019.jp2/pct:5.201560,21.047241,10.890767,5.492255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775277%2F1882081701%2F0019.jp2/pct:5.201560,13.340161,10.939532,13.199334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1432,7 +2033,17 @@ Over worn out handsoh, beautiful sleep!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r.  
+the heart like songs of birds,  
+Yet whose utterance p,uidencegirds  
+Beautiful Ihands are those that do  
+Wolk tint i earl.est, brave anll true,  
+Moment by ent by toient the long iday through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro­  
+Down 1,,wliest ways if God wills it so.  
+Beautiful shouldersare those that bear  
+Ceaseless burdens of homely care,  
+With patient grace and daily prayer.  
 Beautiful lives are those that bless­  
 Silent rivers of happiness,  
 Whose fountains but few may guess.  
@@ -1443,7 +2054,7 @@ Beautiful graves. where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands-oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_moose_ver01%2Fdata%2Fsn83025309%2F00294551852%2F1883031501%2F0086.jp2/pct:5.076142,22.892775,15.461083,7.439794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_moose_ver01%2Fdata%2Fsn83025309%2F00294551852%2F1883031501%2F0086.jp2/pct:5.076142,15.051606,15.461083,15.280963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +2066,17 @@ Over worn-out hands-oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ayer.  
+Leap from the heart like songs of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest, brave aud true,  
+Uoment by moment the loug day through.  
+Beautiful feet are those that go  
+On heavenly ministries to and fro,  
+Down lovel.est ways if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
 Beautiful lives are those that bless,  
 Silent rivers of happiness,  
 Whose fountain only a tew may guess.  
@@ -1467,7 +2088,7 @@ Wliere brown leaves fall, where drifts lie
 deep,  
 Over worn hands—O.beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_flareon_ver01%2Fdata%2Fsn88064492%2F00295873759%2F1883063001%2F0212.jp2/pct:9.673713,23.874002,15.900735,8.181300/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_flareon_ver01%2Fdata%2Fsn88064492%2F00295873759%2F1883063001%2F0212.jp2/pct:9.673713,15.977765,15.900735,16.077537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1500,7 +2121,18 @@ M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s,  
+ girds.  
+Beautiful hands are those that do  
+Work that is earnest, and brave, and true,  
+Moment by moment a long life through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro  
+Down lowliest ways, If God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless  
+Silent rivers of happiness,  
 Who?e hidden fountains but few may guess.  
 Beautiful twilight at set of sun,  
 Beautiful goal with race well won,  
@@ -1510,7 +2142,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn-out hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023416%2F00202197504%2F1885091101%2F0982.jp2/pct:82.587156,25.465677,12.366972,4.975902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023416%2F00202197504%2F1885091101%2F0982.jp2/pct:82.495413,18.835483,12.458716,11.606096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1522,7 +2154,18 @@ Over worn-out hands oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-autiful lives are those tha‘. bless—  
+e heart like the hearts of birds  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment a long life through.  
+Beautiful test are those that go  
+On klndlt ministries to and fro—  
+Down lowliee w ays, if God wills it so.  
+Beautiful ahoulderB are those that beer  
+Ceaseless burdens of homely care  
+With patient grace and doily prayer.  
+Beautiful lives are those tha‘. bless—  
 Silent rivers of happiness—  
 Whose hidden fouutaius but fow may guess.  
 Beautiful twilight at set of sun.  
@@ -1532,7 +2175,7 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn88071311%2F00514155835%2F1885092701%2F0214.jp2/pct:7.168459,13.295650,9.525479,3.603465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn88071311%2F00514155835%2F1885092701%2F0214.jp2/pct:7.168459,8.392725,9.525479,8.506390/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1544,7 +2187,18 @@ Over worn-out hands—Oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ss.  
+ girds.  
+Beautiful hands are those that do  
+Work that is earnest, and brave and true,  
+Moment by moment a long life through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless—  
+Silent rivers of happiness.  
 Whose bidden fountains but few may guess  
 Beautiful twilight at set of sun,  
 Beautiful goal with race well won,  
@@ -1553,7 +2207,7 @@ Beautiful graves wjiere grasses creep.
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769489%2F1885100101%2F0455.jp2/pct:4.768461,29.660774,13.359952,3.850932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769489%2F1885100101%2F0455.jp2/pct:4.768461,23.806339,13.359952,9.705367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,6 +2219,17 @@ Over worn-out hands—oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+he heart like songs of birds,  
+Vet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest, and brave and true,  
+Moment by moment a long life through.  
+Beautiful feet are those that go  
+i in kindly ministries to and fro—  
+Down lowliest w ays, if God wills it so.  
+Beautiful shoulders are those that bear  
+, vaseless burdens of homely care  
+With patient grace and daily prayer.  
 Beautiful lives are those that bless—  
 Silent rivers of happiness.  
 Whose hidden fountains but few may guess  
@@ -1575,7 +2240,7 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768837%2F1885100101%2F1184.jp2/pct:4.923693,30.674847,13.313998,4.261945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768837%2F1885100101%2F1184.jp2/pct:4.923693,24.855921,13.313998,10.080870/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1587,6 +2252,17 @@ Over worn-out hands—oh, beautiful sleep!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ho heart like the hearts of birds  
+Yet whoso utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest, and brave, and true,  
+Moment by moment a long life through.  
+Benutiful feet aro those that go  
+On kindly ministries to and fro  
+Pawn lowliost ways, if God wills it so.  
+Beautiful shoulders are those that boar  
+Coaseless burdens of homely care  
+With patient grace and daily prayer.  
 Beautiful lives are those that bloss  
 Silent rivers of happiness,  
 Whose hidden fountains but few may guess.  
@@ -1598,7 +2274,7 @@ Where brown leaves fall, where drifts lis
 deop  
 Over worn-out hands oh, beautiful sloop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776130%2F1885101401%2F0721.jp2/pct:81.476122,25.777183,14.120323,6.425703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776130%2F1885101401%2F0721.jp2/pct:81.455448,18.340027,14.140996,13.862859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1612,7 +2288,17 @@ Over worn-out hands oh, beautiful sloop
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-autiful  
+heart like songs of birds, Yet whose  
+utterance prudence gilds. Beautiful  
+hands are those that do Work that is  
+earnest, and brave, and true, -Moment by  
+moment a long lite through. Beautiful  
+feet are those that go Oh kindly  
+ministries to and fro — Down lowliest  
+ways, if God wills it so. Beautiful  
+shoulders are those that bear Ceaseless  
+burdens of homely care With patient  
+grace and daily prayer. ? Beautiful  
 lives are those that bless — Silent  
 rivers of happiness. Whose hidden  
 fountains but few may guess. Beautiful  
@@ -1634,7 +2320,17 @@ hands — oh, beautiful sleep. ,S. F
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ro thoso  
+hose utterance prudenco  
+girds. V; Boautiful hands are those that  
+do Work that is earnest, and brave, aud  
+true, Moment by momont n long life  
+through. ?&#x27;&#x27;&#x27;\-\Beantiful foot aro thoso  
+that go Ou. kindly ministries to and fro  
+— l-\ Down lowliest ways, if trod wills  
+it bo. Beautiful shoulders aro thoso  
+that bear Ceaseless burdens of homely  
+caro Witii patient graco and daily  
+prayer. : Beautiful li-rea aro thoso  
 that bless — Silent rivers of happiness,  
 Whose hidden fountains but few may  
 guoss. .Beautiful twilight at sot of  
@@ -1642,7 +2338,8 @@ sun. ijeautiful goal with raco woll won,
 Beautiful rest with work well dona. &#x27;  
 Beautiful graves where grasses creep, ?  
 Where brown leaves fall, where drifts  
-lie deep Over worn-out hands— .oh
+lie deep Over worn-out hands— .oh,  
+beautiful sleep. &#x27; S.F. Weekly Bulletin
 </td></tr></table>
 
 ---
@@ -1655,7 +2352,17 @@ lie deep Over worn-out hands— .oh
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+ from the heart like songs  
+of birds, Yet whose utterance prudence  
+girds. Beautiful hands are those that do  
+Work that is earnest, and brave, and  
+true, Moment by moment a long life  
+through. Beautiful feet are those that  
+go On kindly minietries to and froDown  
+lowliest says, if God will it so.  
+Beautiful shoulders are those which bear  
+Ceaseless burdens of homely care With  
+patient grace and daily prayer.  
 Beautiful lives are those that  
 blessSilent rivers of happiness, Whose  
 hidden fountains but few mayguess.  
@@ -1676,7 +2383,22 @@ beautiful sleep. - r. S.F. Weekl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iful lives are those that bless—  
+art like songs of birds,  
+Yet whose utterance prudence girds.  
+  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the iong day through.  
+  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills it so.  
+  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+  
+Beautiful lives are those that bless—  
 Silent rivers of happiness,  
 Whose hidden fountains but few may guess.  
   
@@ -1689,7 +2411,7 @@ Where brown leaves fall, where drifts lie
 deep,  
 Over worn out hands—Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1886-12_83_6&#0036;21/pct:50.645439,69.069767,33.433735,16.308140/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1886-12_83_6&#0036;21/pct:50.645439,48.488372,33.519793,36.889535/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1701,7 +2423,18 @@ Over worn out hands—Oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ess,  
+ce girds.  
+Beautiful bands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministry to and fro,  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patience, grace and daily prayer.  
+Beautiful lives are those that bless  
+Silent rivers of happiness,  
 Whose hidden fountains but few may guess.  
 Beautiful twilight at set of sun,  
 Beautiful goal with race well run,  
@@ -1710,7 +2443,7 @@ Beautiful graye where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out handsoh, fceautiful sleep !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196408%2F1888052101%2F0293.jp2/pct:39.823364,21.625516,10.196708,3.410510/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196408%2F1888052101%2F0293.jp2/pct:39.823364,16.495341,10.196708,8.540686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1722,7 +2455,18 @@ Over worn-out handsoh, fceautiful sleep !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ess.  
+ girds.  
+Beautiful hands are those that do  
+Work that is earnest, and brave and true.  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministry to and fro,  
+Dowu lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patience; grace and dally prayer.  
+Beautiful lives are those that bless?  
+Silent rivers of happiness.  
 Whose hidden fountains but few may guess.  
 Beautiful twilight at set of sun.  
 Beautiful goal with race well run.  
@@ -1731,24 +2475,47 @@ Beautiful grave where grasses creep.
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands? oh. beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1888062201%2F0103.jp2/pct:49.171099,21.774636,11.897163,4.089603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767845%2F1888062201%2F0103.jp2/pct:49.171099,15.906523,11.897163,9.957716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Good Housekeeping 1885-2016_](https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7?page=22)
 
 #### 1888-08-04
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+t go  
+On kindly ministries to and fro,—  
+Down lowliest ways, if God wills it so.  
   
+} Beautiful shoulders are those that bear  
+  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+  
+Beautiful lives are those that bless,—  
+Silent rivers of happiness  
+Whose hidden fountains but few can guess.  
+  
+Beautiful twilight, at set of sun,  
+Beautiful goal with race well won,  
+Beautiful rest, with work well done.  
+  
+Beautiful graves, where grasses creep,  
+  
+  
+  
+Scaterin leavs and bloin of men’s hatts;  
+in short its jest ‘‘ fre as are’’ out dores.  
+But o sextant in our church its scarce as piety,  
   
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands,—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7&#0036;22/pct:54.820766,87.301216,23.856613,1.777362/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7&#0036;22/pct:12.917182,72.544434,65.760198,17.609916/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1762,14 +2529,26 @@ Over worn-out hands,—oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ss, -Whose  
+  
+girds. &#x27; Beautiful bands are those that  
+do Work that is earnest and bravejmd  
+true Moment by moment the long day  
+through. Beautiful feet are those that  
+go On kindly ministry to and fro, Down  
+lowliest ways, If God -wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care With  
+patience, grace, and dally prayen  
+Beautiful Eves are those that bless—  
+Silent rivers of happiness, -Whose  
 hidden fountains but few may guess.  
 Beautiful twilight at set of sun,  
 Beautiful goal with race well ran.  
 Beautiful rest with work well done.  
 Beautiful grave where grasses creep.  
 Where brown leaves fall, where drifts  
-lie deep Over
+lie deep Over worn-out hands &quot;-oh,  
+beautiful sleep 
 </td></tr></table>
 
 ---
@@ -1780,7 +2559,18 @@ lie deep Over
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eautiful lives are those that bless—  
+the heart like songs of birds,  
+Yet whoss utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest, and brave and true.  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministry to and fro,  
+lx&gt;wn lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Cease&#x27;ess burdens of homely care  
+With patience, grace and daily prayer.  
+Beautiful lives are those that bless—  
 Sileut rivers of happiness,  
 Whose hidden fountains but few may guess.  
 Beautiful twilight at set of sun,  
@@ -1790,7 +2580,7 @@ Beautiful graves where gras es creep.
 Where browii leaves fall, where drifts lie deep  
 Over woru nut hands—oh, beautiful sleep&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_mojave_ver01%2Fdata%2Fsn82014381%2F00175036581%2F1889042001%2F0461.jp2/pct:19.517171,68.567784,11.645699,3.498542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_mojave_ver01%2Fdata%2Fsn82014381%2F00175036581%2F1889042001%2F0461.jp2/pct:19.517171,64.033649,11.645699,8.032677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1822,7 +2612,18 @@ Where brown leaves fall where, drifts lie deep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s are those that bless,  
+ike sons of birds,  
+Yet whose utterance prudence gird.  
+Beautiful hands are those that do  
+Work that is honest and brave and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro,  
+Down lowliest ways, if Ood wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homeless care,  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless,  
 Silent rivers of happiness,  
 Whose hidden fountains bat few nay guess.  
 Beautiful twilight at set of sun,  
@@ -1832,7 +2633,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn our hands Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F00296023991%2F1891030401%2F0145.jp2/pct:28.269936,18.603963,9.718185,4.170364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn85033549%2F00296023991%2F1891030401%2F0145.jp2/pct:28.269936,13.082914,9.718185,9.691413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1864,7 +2665,18 @@ Over worn our hands Oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utiful lives are those that bless—  
+he heart like song of birds.  
+Yet whose utterance prudence girds.  
+Beaut iful hands are those that do  
+Work that is earnest and brave and true.  
+Moment by moment, tho long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro,  
+Down lowliest ways, if God wills It so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless—  
 Bilent rivers and happiness  
 Whoso hidden fountains but few may guess.  
 Beautiful twilight at set of sun;  
@@ -1875,7 +2687,7 @@ Where brown leaves fall, whero drifts lie
 dcop  
 Over wornout hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892121501%2F0889.jp2/pct:57.591959,74.119195,11.313088,4.998856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892121501%2F0889.jp2/pct:57.556316,68.010753,11.348731,11.107298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1887,7 +2699,18 @@ Over wornout hands—oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- that bless?  
+ birds.  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that Is earnest and brave and true.  
+Moment by moment, the long day through.  
+Beautiful feet are thoso that go  
+On kindly ministries to and fro,  
+Down lowliest ways. If God wills It so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless?  
 Silent rivers and happiness  
 Whose hidden fountains but few may guess.  
 Beautiful twilight at set of sun;  
@@ -1898,7 +2721,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over wornout hands-oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026817%2F00202192221%2F1892122001%2F0635.jp2/pct:39.596141,68.592619,11.035690,4.674385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026817%2F00202192221%2F1892122001%2F0635.jp2/pct:39.579064,63.176556,11.052766,10.090449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1910,7 +2733,18 @@ Over wornout hands-oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tiful lives are those that bless  
+he heart like songs of birds.  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro  
+Down lowliest ways, if God wills it bo.  
+Beautiful hhouldcrs ate those that bear  
+CcrtselenB burdens of homely caro  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless  
 Silent rivers of happiness.  
 Whose hidden fountains but few may guess.  
   
@@ -1921,7 +2755,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands oh. beautiful bleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ike_ver01%2Fdata%2Fsn82016187%2F00211102329%2F1893020201%2F0560.jp2/pct:4.688742,79.141288,11.324503,4.503245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ike_ver01%2Fdata%2Fsn82016187%2F00211102329%2F1893020201%2F0560.jp2/pct:4.622517,73.210185,11.390728,10.434348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1943,7 +2777,18 @@ Over worn-out hands oh. beautiful bleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eautiful lives are those that bless  
+rom the heart like song of birds,  
+Yet whose utterance prudence girdf.  
+Beautiful hands are those that do  
+Work that is earnest and brat and true,  
+Moment by moment the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro,  
+Down lowliest wave, if God wills it so.  
+Beautifal shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless  
 Silent river and happiness  
 Whose hidden fountains but few may  
 guess.  
@@ -1956,7 +2801,7 @@ lie deep
 Over worn-out hands oh, beautiful  
 sletp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073907%2F00416156748%2F1893060801%2F0099.jp2/pct:16.572876,23.717299,12.830613,7.321030/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073907%2F00416156748%2F1893060801%2F0099.jp2/pct:16.572876,16.477388,12.872819,14.560941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1968,7 +2813,11 @@ sletp
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-autiful lives are those that bless  
+  
+her admirers freely copied. The following  
+poem is from her pen and is recalled by her  
+death:  
+Beautiful lives are those that bless  
 Silent rivers of happiness.  
 Whose hidden fountains but few can guess.  
 Beautiful twilight, at set of sun,  
@@ -1978,7 +2827,7 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, where drifts lie deep.  
 Over worn out hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn85030821%2F00212472876%2F1893090801%2F0584.jp2/pct:43.710960,21.623803,11.555934,3.678930/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn85030821%2F00212472876%2F1893090801%2F0584.jp2/pct:43.682567,19.940030,12.137990,5.362703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2000,7 +2849,8 @@ Over worn out hands oh, beautiful sleep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-AUTIFUL lives are those that bless—  
+  
+BEAUTIFUL lives are those that bless—  
 Silent rivers of happiness,  
   
 Whose hidden fountains but few may guess  
@@ -2019,13 +2869,43 @@ Over worn out hands—oh, beautiful sleep.
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4?page=82)
+## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4?page=81)
 
 #### 1893-12-01 &middot; New York
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tiful lives are those that bless—  
+ girds.  
+  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills it so.  
+  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and with daily prayer.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+TREASURE TROVE: OLD FAVORITES 575  
+  
+Beautiful lives are those that bless—  
 Silent rivers and happiness,  
 Whose hidden fountains but few may guess.  
   
@@ -2037,7 +2917,7 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, and drifts lie deep  
 Over worn-out hands—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4&#0036;82/pct:15.586420,13.095238,32.253086,14.064230/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4&#0036;81/pct:53.935185,74.003322,31.983025,15.337763/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2049,7 +2929,22 @@ Over worn-out hands—oh, beautiful sleep!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iful lives are those that bless—  
+rt like songs of birds ;  
+Yet whose utterance prudence girds.  
+  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+Down lowliest ways, if God wills it so.  
+  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patient grace and daily prayer.  
+  
+Beautiful lives are those that bless—  
 Silent rivers of happiness,  
 Whose hidden fountains but few may guess.  
   
@@ -2061,7 +2956,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn-out hands —oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1894-12-01_51_48&#0036;13/pct:61.188369,31.596601,25.758534,9.302326/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1894-12-01_51_48&#0036;13/pct:60.967130,19.387299,25.979772,21.511628/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2073,7 +2968,19 @@ Over worn-out hands —oh, beautiful sleep!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-autiful lives are those that bless  
+e heart like song of birds,  
+Yet whose utterance prudence girds.  
+Beautiful hands are those that do  
+Work that Is earnest and brave and true.  
+Moment by moment, the long day througli.  
+Beautiful feet are those that go  
+On kindly ministries to and fro,  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely caro  
+  
+W ith patlont grace and daily prayer.  
+Beautiful lives are those that bless  
 Silent rivers and happiness  
 Whose hidden fountains but few may guess.  
 Bcau&#x27;iful twilight at set of sun;  
@@ -2084,7 +2991,7 @@ Where brown leaves fall, where drifts 1 itt
 deep  
 Over wornout hands oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F0041562895A%2F1894121001%2F1175.jp2/pct:31.948424,69.147880,11.379451,4.565433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F0041562895A%2F1894121001%2F1175.jp2/pct:31.948424,63.618318,11.379451,10.094995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2114,7 +3021,17 @@ Over worn out hands, oh beautiful sleep.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-re those that bless—  
+  
+UeaiiTiful hands are those that do  
+Woik that is earnest, ami brave and true  
+Moment by moment, the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro—  
+I&gt; wu lowliest ways, if God wills so.  
+Beautiful shoulders are these that bear  
+U aseless burdens of homely care  
+1 With patient graces and daily prayer.  
+Beautiful lives are those that bless—  
 silent rivers of happiness,  
 Whose hidden fountains but few may gue-s.  
 Beautiful twilight at set of sun,  
@@ -2124,7 +3041,7 @@ f Be intifnl graves, where grasses creep.
 When brown leavrs fall, where drifts lie deep  
 Over worn out hands—Oh! beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_irving_ver01%2Fdata%2Fsn89060124%2F00415625698%2F1895051701%2F0084.jp2/pct:49.494377,29.788830,10.315660,4.215896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_irving_ver01%2Fdata%2Fsn89060124%2F00415625698%2F1895051701%2F0084.jp2/pct:49.050184,25.164097,10.759853,8.840629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2139,10 +3056,13 @@ Over worn out hands—Oh! beautiful sleep
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+thiougbh. Beautiful feet are those which  
+.o It may perchance halting and elowDown  
 lowliest ways, if God willit so.  
 Beantiful Grave! where grasses creep.  
 mhere brown leaveafall; where drifts lie  
-deep Over
+deep Over worn-out hands. Oh, Beautiful  
+Sleep
 </td></tr></table>
 
 ---
@@ -2156,10 +3076,14 @@ deep Over
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+true, Moment by moment a whole life  
+through. Beautiful feet are thosejvhieh  
+goIt may perchance halting and slowDown  
 lowliest ways, if God wills it so.  
 Beautiful Grave ! where grassee creep,  
 Where brown leaves fall, where drifts  
-lie deep Over
+lie deep Over worn-out hands. Oh,  
+Beautiful Sleep 
 </td></tr></table>
 
 ---
@@ -2175,7 +3099,8 @@ lie deep Over
   
 Beautiful Grave! where grasses creep,  
 Where brown leaves fall, where drifts  
-lie deep Over
+lie deep Over worn-out hands. Oh,  
+Beautiful Sleep 
 </td></tr></table>
 
 ---
@@ -2186,7 +3111,11 @@ lie deep Over
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utiful lives are tliey that bless,  
+  
+her, of whom we bpeak, feel even in  
+their evrrow, for their loss is her eter.  
+ial gaiu.  
+&quot;Beautiful lives are tliey that bless,  
 Silent rivers of happiness,  
 Whose hidden fountains hut few may gueer,.  
 Beautirul twilight at set of suu,  
@@ -2197,7 +3126,7 @@ Where brown leaves fall, where driftslie deep.
 Over worn out lands. 0 beautiful sleep.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_india_ver01%2Fdata%2Fsn85038161%2F0023728933A%2F1897070101%2F0146.jp2/pct:82.215218,79.550456,14.250338,5.077020/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_india_ver01%2Fdata%2Fsn85038161%2F0023728933A%2F1897070101%2F0146.jp2/pct:81.607384,77.538510,14.858172,7.088966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2209,7 +3138,18 @@ Over worn out lands. 0 beautiful sleep.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utiful lives are those that bless  
+he heart like songs of birds,  
+Yet whose utterance prudence girds  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment, the long day through.  
+Beautiful feet are those that go  
+On kindly ministries to and fro­  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care.  
+With patient grace and daily prayer.  
+Beautiful lives are those that bless  
 Silent rivers of happiness.  
 Whose hidden fountains but few may guess.  
 Beautiful twilight, at set of sun:  
@@ -2219,7 +3159,7 @@ Beautiful graves, where grasses creep.
 Where brown leaves fall where drifts lie deep  
 Overwornout hands oh. beautiful sleep!&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_garwood_ver02%2Fdata%2Fsn83040340%2F00237285293%2F1897082001%2F0475.jp2/pct:50.261506,24.731978,13.389121,5.040049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_garwood_ver02%2Fdata%2Fsn83040340%2F00237285293%2F1897082001%2F0475.jp2/pct:50.261506,18.028343,13.389121,11.743685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2233,14 +3173,27 @@ Overwornout hands oh. beautiful sleep!&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ful lives are those  
+  
+heart like songs of birds, Yet whose  
+utterance prudence girds. Beautiful  
+hands are those that do Work that is  
+earnest and brave and true, Moment by  
+moment, the long day through. Beautiful  
+feet are those that go On kindly  
+ministries to and froDown lowliest ways,  
+if God wills it so. Beautiful shoulders  
+are those that bear Ceaseless burdens of  
+homely care, With pationt grace aud  
+daily prayer. Beautiful lives are those  
 that bless — BiJent river of happiness,  
 Whose hidden fountains but few may  
 guess. Beautiful twilight, at set of sun  
 ; Beautiful goal, with race well won ;  
 Beautiful rest, with work well done.  
 Beautiful graves, where grasses creep,  
-Where brown leaves fall, where
+Where brown leaves fall, where drifts  
+lie deep Over worn out hands — oil,  
+beautiful Bleep ! 
 </td></tr></table>
 
 ---
@@ -2253,7 +3206,18 @@ Where brown leaves fall, where
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ul lives are those that bless —  
+ke songs of  
+birds, Yet whose utterance prudence  
+girds. Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment, the long day through.  
+Beautiful feet are those that go On  
+kindly ministering to and fro — Down  
+lowliest ways, if God wills it so. — .  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care, With  
+patient grace and daily prayer.  
+Beautiful lives are those that bless —  
 Silent rivers of happiness, Whose hidden  
 fountains but few may guess. Beautiful  
 twilight, at set of sun ; Beautiful  
@@ -2266,7 +3230,7 @@ worn-out hands— oh, beautiful sleep.
 
 ---
 
-## [From _Farm Journal 1877-2015_](https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12?page=17)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12?page=17)
 
 #### 1897-12-01
 

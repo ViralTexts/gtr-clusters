@@ -54,7 +54,14 @@ Mr. R. B. Sorrell was next introduced and said, fifteen years ago the stevedores
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-he article stained  
+d people  
+* :Lssr?s*and earne?uy h?p? ^  
+tnastics of the census of 18H0 may show, not  
+I only an increase m numbers, but also a great  
+1 &quot; ,3e^SM^0 P??PertT? comfort, and educaUoo y.  
+O. Picayune.  
+I * *&quot; . _ &#x27; m m *  
+1 ?To remove ink spots, pat the article stained  
 over n warm Hat-iron, stretch it well, then  
 squeeze n few drops of lemon Juice on it, end  
 I the spot will disappear at once. Wash imme1  
@@ -229,7 +236,7 @@ in the prioes,so that they may be able to
 pey the men better wages. He believed the  
 merchants would pay living wages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:5.312298,3.710070,28.466903,92.682997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:5.053161,3.710070,28.726039,92.682997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

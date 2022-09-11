@@ -47,13 +47,14 @@ A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Du
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413?page=0)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413?page=0)
 
 #### 1874-09-26
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Canada, and the case of the man who had * the misfortune to have  
 too many children.” ‘‘ Being called upon in my turn to address  
 the company, I alluded to this phrase, which had grated harshly  
 on my ears, and remarked that perhaps no better idea could be  
@@ -66,7 +67,7 @@ ing thump on the back by a stalwart young emigrant, who cried
 out, ‘ Right you are, Sir! That’s what I’ve been telling Emily.’”  
 In every line Lord Dufferin gives proof of the long-transmitte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413&#0036;0/pct:46.251673,65.980285,38.688086,11.215772/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413&#0036;0/pct:46.251673,64.950712,38.688086,12.245345/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,12 +97,9 @@ given of tho differences between the
 old country anu their new home than  
 by tho fact that whereas iu England a  
 struggling man might bo overweight-  
-cd m the battle of lifo by a numerous  
-r.nii&#x27;.K. ;.. .i,:i, i,n..  
-wero froiiiEr a man could scarcelv havo  
-too many children. Hero I was ap
+cd m the battle of lifo by a numerou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_killington_ver02%2Fdata%2Fsn84023296%2F00200296114%2F1874111801%2F0337.jp2/pct:84.470765,58.623865,12.333145,14.458624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_killington_ver02%2Fdata%2Fsn84023296%2F00200296114%2F1874111801%2F0337.jp2/pct:84.508366,58.623865,12.295544,12.301013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +121,17 @@ too many children. Hero I was ap
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-yioH of the instru­  
+elodious preludo has awakened  
+from their slumbers tho adorata, the  
+eerenader now strikes all the strings in  
+a peculiar manner yoipeando, tapi ing  
+the sound-board at the same time w.th  
+the hand for two or thrro minutes in the  
+most hilarious style. But now the rais­  
+ing of tho lower half of the jaltmrte in  
+an upper room, through which a faint  
+beam of light appears, once more awa­  
+kens the soft arprgyioH of the instru­  
 ct nt. aocompanving the touching and  
 imploring tr.guidillaa according as the  
 theme is required to bo affectionately  
@@ -163,7 +171,7 @@ ing tho round of the papers, aud one
 hears every where, &quot;That&#x27;s what I&#x27;ve  
 been telling Emily.&quot; Harper&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1874112701%2F0411.jp2/pct:76.040134,75.379705,9.832776,17.026194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1874112701%2F0411.jp2/pct:76.040134,71.197447,9.872910,21.208453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,14 +256,18 @@ what I&#x27;ve been telling Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ken. All  
+ion that she was pos-  
+electric rapidity from one end of Canada to the | sessed by a devil applied to him to take away the  
+other. On his voyage out, being called upon | evil spirit which tormented her. ‘The doctor at-  
+by the emigrants to address them, he alluded to tentively listened to her statement, and endeav-  
+this phrase, which had grated harshly on his | ored to convince her that she was mistaken. All  
 ears: ‘* He had the misfortune to have too many | his efforts proving unavailing, he desired her to  
 children.” Lord D. said: ‘‘I remarked that call the next day, and in the mean time he would  
 perhaps no better idea could be given of the dif- | consider her case. On the morrow the unhappy  
 ferences between the old country and their new | woman was punctual in her attendance. His  
 home than by the fact that whereas in England | electrical apparatus being in readiness, with grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295&#0036;148/pct:11.467552,85.227273,66.740413,6.973140/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295&#0036;148/pct:11.467552,80.655992,66.740413,11.544421/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,6 +312,17 @@ had the anecdote made familiar b
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Canapian- PiiiiAsi:. Canada&#x27;s bright  
+  
+in.! s- n-ible Govci uord.enrral. loi-a Hul-  
+  
+V riii. has &quot;iy.-n the D iniiuioii people a  
+- i ...:.l.  
+  
+new Pv-wor-l. which na-spn..-. uu --&#x27;--trie  
+rapidity from one . n-1 of Canada to  
+  
+the other. On lr.s voyage out. in-iiig caueu  
   
 ill mn bv the .-nitgiaiits to address ili. ni.  
   
@@ -339,7 +362,7 @@ dote made familiar by going the round of
 the papers, an I one hear- every where.  
 - That&#x27;s &#x27;i-li&#x27;it I&#x27; re &#x27;cn telUmj Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1874120201%2F0401.jp2/pct:83.752142,62.757703,11.122216,10.385724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1874120201%2F0401.jp2/pct:83.709309,60.064287,11.165049,13.079140/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,8 +403,6 @@ oried put, &#x27; Right you are, sir,
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Canada&#x27;i bright and tenalble Gov  
-ri  
 en the Dominion people a now  
   
 ernor General, Lord Dnftrin, hat giv-  
@@ -420,7 +441,7 @@ roond of the paper*, aad oan bean
 everywhere, &quot;That&#x27;i what I&#x27;vn tjwa  
 telling Emily.&quot;— Hurptn Ifogwfnyo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1874120301%2F0636.jp2/pct:55.667172,74.812631,10.204701,14.528812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1874120301%2F0636.jp2/pct:55.667172,75.273375,10.204701,14.068067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,6 +454,10 @@ telling Emily.&quot;— Hurptn Ifogwfnyo
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+•THAT&#x27;S WHAT I&#x27;VE BKI:\ TEI.I­  
+ISO  
+EMILY.&quot;—Theabovesentence has  
 become a by-word in Canada, having  
 spread with almost electric rapidity  
 from one end of the Dominion to the  
@@ -458,9 +483,10 @@ have too many children. Ilerj It
 was applauded lustily, while one stal­  
 wart young emigrant was so delight  
 ed at the sentence that he greeted  
-the speaker with an approving thum
+the speaker with an approving thump  
+on tiie back.exelaiming in triumphan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1874120301%2F0617.jp2/pct:16.904277,25.389511,11.206852,12.661839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1874120301%2F0617.jp2/pct:16.904277,24.354473,11.321740,14.183308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,9 +524,11 @@ a man could scarcely have too many
 children, llere lie was applauded  
 lustily, while one stalwart young em­  
 igrant was so delighted at the sen*  
-tence that he greeted the speake
+tence that he greeted the speaker  
+with an approving thump 011 the  
+back, exclaiming in triumphant tone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528906%2F1874120401%2F0340.jp2/pct:75.845837,74.092885,10.125527,12.355227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528906%2F1874120401%2F0340.jp2/pct:75.845837,74.092885,10.125527,13.317173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,6 +541,7 @@ tence that he greeted the speake
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+damage the texture, it may be removed the dihVrrnee between the old country  
 by the following process: Peal and j and their new home than by the fact  
 slice two onions, and extract the juice that wherras in England a struggling  
 bysqnerting or pounding. Then cut I msn might be overweighted in tht battle  
@@ -520,7 +549,7 @@ up half an ounce of white snap, add of life by a too numerous family, ia
 two ouncet of fuller&#x27;t earth, and mix the land to which they were going a  
 Airm with the onion juice and half a nian could scarcely have too many chil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1874120401%2F0600.jp2/pct:52.679659,51.614966,21.660577,3.165974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1874120401%2F0600.jp2/pct:52.679659,51.103294,21.660577,3.677646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,6 +562,9 @@ Airm with the onion juice and half a nian could scarcely have too many chil
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+j fmigr,nu m ,ress theme alluded to  
+i M phriw,( whirh UA tntr,i h,rhiT  
+on bi, r. 1Ir Bi th miafortune of  
 having ton many children.&quot;  
 ird Ihifferin said : &quot; I remarked that  
 a cheerful accompaniment of Isughtrr  
@@ -548,7 +580,7 @@ familiar by going the roundsof the news­
 paters, and now one bears rvrrywhere,  
 &quot;Thst&#x27;s what Pre been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1874120401%2F0600.jp2/pct:63.743402,49.568276,10.596833,12.088264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1874120401%2F0600.jp2/pct:63.459196,47.857371,10.901340,13.799169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +788,16 @@ going the rounds of the newspapers, and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-of the lad)  
+ocence and purity look outward from  
+Within none the lees do vice, intempcrauco,  
+and debauchery make their indelible im­  
+pressions upon it. Idiocy, rage, cowardice  
+and passion leave deeper marks even than  
+the virtues of modesty, truth, chastity and  
+hope. Even beauty grows more beautiful  
+from the pure thoughts that arise within it  
+At one of the ritualistic churches in the  
+suburbs of London, certain of the lad)  
 from 6 A. M. to II F. M., and durinj  
 every hour of that period one of them hai  
 to be In the ohureh praying and watching  
@@ -796,7 +837,7 @@ familiar by going the round of the papers,
 and one hears every where, “ Tkat t zohat  
 I&#x27;ve here telling Emily.&quot;—Harper&#x27; Mag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623756%2F1874121201%2F0267.jp2/pct:72.992110,8.705613,21.720952,88.256387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623756%2F1874121201%2F0267.jp2/pct:72.924675,8.705613,21.788388,88.256387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,9 +920,14 @@ of laughter alao, when I wan further greeted
 with an improving thump cu tho hack hy a etal­  
 wart young emigrant, who cried out * Light, you  
 are, nirs Haifa what I&#x27;vohoon tolling Emily.&#x27;&quot;  
-Tho Canadians have got 
+Tho Canadians have got up tho along phruao,  
+‘‘That&#x27;ll what ,I&#x27;vo boon telling Emily,” having  
+had tbo amvdoto wadn familiar bv‘going the  
+irmnd;i of tho nnwapupors, and now one ncaia  
+cuerywhoro, “TJmt’n what I’vo boon tolling  
+Emily.”—JJarycr&#x27;a Mayaziuv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_fullerton_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1874121801%2F0002.jp2/pct:84.090376,85.682201,12.811033,9.924200/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_fullerton_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1874121801%2F0002.jp2/pct:84.090376,85.682201,12.811033,12.090586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +985,16 @@ papers, and now one hears everywhere.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mare we&#x27;re  
+nking of the lady, looked a  
+litte surprised. &#x27;She didn&#x27;t kick!&#x27; was the  
+next interrogation, and a decisive &#x27;No&#x27; was  
+ahe answer. *She didn&#x27;t rar up or kick  
+over the traces, or putlherlhind feet through  
+the dashboard, or try to run away, or act  
+ugly, or&#x27;--the witness was boiling over  
+with indignation by this time, and interrupt­  
+ed. the lawyer wit)h, &#x27;Do you mean the  
+horse or the lady?&#x27; &#x27;1 mean the mare we&#x27;re  
 talking about,&#x27; thundered the counsel.  
 *Oh!&#x27; was the response, &#x27;I thought you  
 meant the gal.&#x27; And with explanation the  
@@ -959,9 +1014,15 @@ r better idea eonld be given of the diffeeasnce
 - between the old coatry and their new  
 u home than by the fet that wlereas in  
 Blngland a stnrtgglag ins might be over  
-Sweighted in the battle 
+Sweighted in the battle -of life by a numer­  
+r ous family, in the land to whieh they were  
+r going mean could sae rsly:hde toa many  
+chaldsan. Hrer I was appiaded lustily,  
+witbhasherl au sugaImmntco laughter  
+l&lt; a wes, E I :sea ei er getod iSt. an  
+appreng hmp , +ito e by º otal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1874121801%2F0214.jp2/pct:50.425969,78.339861,11.956522,11.129243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1874121801%2F0214.jp2/pct:50.425969,74.477807,12.000588,18.309399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1217,7 @@ telling L.raily. Harper i
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207?page=13)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207?page=13)
 
 #### 1875-02-06
 
@@ -1221,7 +1282,20 @@ papers, and one hears everywhere,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ed, but it’ I know you re gettin  
+over twenty.”  
+  
+“That might lie a wise taw.  
+“I can&#x27;t go to Lansin’,” he went on,  
+•but you kin help me. Put it in your  
+iapei—git up an excitement about it.  
+iVill you do this! Look at me, boy—  
+ook me all over! See how I ve suffered!  
+See how hot my head is 1”  
+“I’ll help you all I can.”  
+“Do! Write to him! Write to him  
+five times a day! I&#x27;m goin&#x27; hum to meet  
+her, and he pounded around and sassed  
+and jawed, but it’ I know you re gettin  
 a law through I’ll go to the grave feclin’  
 good!”  
 And he put on his mittens, took up his  
@@ -1259,7 +1333,7 @@ of the newspapers, and now one hears
 i everywhere, &quot;That’s what I’ve been tell­  
 l ing Emily. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554619%2F1875021401%2F0407.jp2/pct:81.831610,61.332598,11.082903,19.826873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554619%2F1875021401%2F0407.jp2/pct:81.517725,55.497310,11.396787,25.662160/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,6 +1393,10 @@ btentelling Emily.&#x27;&quot; &quot; His Excellenc
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+upon.by Sjief to&#x27; them, he alluded to  
+Jfiis;&#x27;&#x27; phwise^.whicli )|u&amp;- grated  
+harshly on his (irs^&#x27;H.Q&#x27;jhad&#x27;  
+&quot;thb.-mlsfortuue to have too iany-1  
 ij^Qpen.&#x27;&#x27; . Jj6i$ p. sa^d : &quot;J  
 .remarked. hat; pimps&#x27; no bettfer .idea  
 could be given of ^ho diffareiice  
@@ -1354,7 +1432,17 @@ papers, and one hears everywhere/1
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it lively for  
+ fair, and died after a couple of  
+years&#x27; comfort, but this dear old orphan  
+did otherwise. It is now fifteen years  
+since he bought his annuity, and he  
+still lives. Year after year does this  
+meek, childless old man walk into the  
+office of the money-lender and draw his  
+cheque, and then theiponey-lender  
+pratces round the room, blesses tbe man  
+who invented annuities, and throws  
+ledgers about, and makes it lively for  
 his clerk, and the meek old lonely  
 orphan goes away down street, and feels  
 every year more and more that he has not  
@@ -1533,7 +1621,10 @@ Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-u new  
+  
+(Junadii&#x27;s bright and sensible gov­  
+ernor genernl, JiOid Dufl&#x27;erin, hits  
+given to the dominion people u new  
 bv-word. which has unread with  
 eloe.trio rapidity from one end of  
 - anauu to tne other. un ins voyage  
@@ -1556,9 +1647,13 @@ bavu too many cliildron. Here I
 wan upilauded lustily With a cheer­  
 fnl aecompanimentof laughter also,  
 when I wn furl lie? greeted by nu  
-upproving
+upproving mump on, the buck by  
+ft  
+Miaiwiri young pmigranl, &#x27; &#x27;Jiig  
+you are sir; that&#x27;s what I&#x27;ve be  
+Jiigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_bentley_ver01%2Fdata%2Fsn83025733%2F00200297544%2F1875030501%2F0661.jp2/pct:32.509348,75.492403,12.380557,13.097918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_bentley_ver01%2Fdata%2Fsn83025733%2F00200297544%2F1875030501%2F0661.jp2/pct:32.488575,74.141812,12.401329,15.475521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,9 +1734,14 @@ improving thump on the back by a stal-jwell selected stock of DRY GOODb,
 wait young emigrant, who cried out, CLOTHING, BOOTS and SHOES, GROCE­  
 &#x27; Right, you are, sir; that&#x27;s what I&#x27;ve been PROVISIONS, LIQUORS, CIGARS  
 fiWaffic phrS 5nttSIei I and &#x27;tOBACCO, HAr&#x27;dwIrE, etc., which  
-been telling Emily,&quot; having had the anee- we wn sell at the VERY LOWEST prices
+been telling Emily,&quot; having had the anee- we wn sell at the VERY LOWEST prices,  
+dote made familiar by going the rounds of) . HAY and GRAIN, con-  
+iinrl no7 one hears everv-i weiitnc, xi-i, . .. &#x27;  
+  
+where &quot; Thats&#x27; what I&#x27;ve been telling  
+Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_joshuatree_ver01%2Fdata%2Fsn82014896%2F0021110465A%2F1875030601%2F0328.jp2/pct:40.697413,73.985185,35.680540,12.148148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_joshuatree_ver01%2Fdata%2Fsn82014896%2F0021110465A%2F1875030601%2F0328.jp2/pct:40.697413,73.985185,35.680540,14.177778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1779,7 +1879,10 @@ youa air that&#x27;s what ..-d: I&#x27;ve b)on
 telli?En?mily..&#x27; &quot;The i nadls?a haovegot  
 up&#x27; the slang phraso, l&#x27;ThhhT&#x27;whlsat  
 &#x27;vctrabCclllng Emlly?&#x27;,j having had the  
-anecdoteo mado 
+anecdoteo mado faiiliar .by&#x27; gboig&#x27;tbo  
+round of the paporeiand  
+in&quot;&#x27;hoarS?erywhere, &quot;&#x27;That&#x27;se :wlatI&#x27;ve  
+been telling Emly.;,e&#x27;.,.:a, ,,, t .::&#x27;A
 </td></tr></table>
 
 ---

@@ -1,7 +1,7 @@
 
 # The Explorations at Jerusalem
 
-### 27 reprints from 1867-11-14 to 1871-08-11
+### 22 reprints from 1867-11-14 to 1871-08-11
 
 ## [The Explorations at Jerusalem](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
 
@@ -38,7 +38,7 @@ Further explorations disclosed a subterranean passage, perhaps orginally constru
 
 ---
 
-## [From _The Journal of Sacred Literature 1848-1868_](https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4?page=248)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4?page=248)
 
 #### 1868-01-01
 
@@ -107,7 +107,7 @@ only 6 feet deep, though it looked black enough for anything. Climb
 
 ---
 
-## [From _British and Foreign Evangelical Review 1852-1888_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64?page=65)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64?page=65)
 
 #### 1868-04-01
 
@@ -221,13 +221,19 @@ looked black enough for anything. Climbing down, we found ourselve
 
 ---
 
-## [From _Quiver 1861-1926_](https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144?page=9)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144?page=9)
 
 #### 1868-06-20
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+great depth of 79 feet, and the men were in the  
+act of breaking through a great stone, in order to  
+carry the shaft down still deeper, when suddenly  
+the bottom of the shaft gave way. Down went  
+stone and hammers, and the Arab workmen  
+barely succeeded in saving themselves from  
 following with them. They at once rushed up  
 and told the sergeant that they had found a  
 bottomless pit. Lieutenant Warren. himself-went  
@@ -313,14 +319,13 @@ looked black enough for anything. On.climbin
 
 ---
 
-## [From _The Art-Journal 1839-1912_](https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80?page=9)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80?page=9)
 
 #### 1868-08-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-to Mr. Grove, “ having arrived at a depth of  
 79 feet, the men (Arabs) were breaking up a  
 stone at the bottom of the shaft, when suddenly  
 the ground gave way, down went stone and  
@@ -328,9 +333,12 @@ hammers, and the men were barely able to
 save themselves. They at once rushed up and  
 told the sergeant”—Sergeant Birtles—“that  
 they had found a bottomless pit. I went down  
-to the spot and examined it.”’
+to the spot and examined it.”’  
+  
+Captain Warren describes the operations con-  
+sequent on this discovery. The depth of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80&#0036;9/pct:70.914346,29.954355,21.702575,7.208064/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80&#0036;9/pct:70.914346,30.144542,21.728849,8.729555/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +393,18 @@ Nor is this all. A pcrfect nct-work of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-six fect dccp, though it lookcd &#x27;  
+bcing only wcll-drcsscd  
+around the drafts; one also sccs two stout  
+boards lying agaiiint tho Sanctuary wall,  
+under which tho men rctire wheuover an  
+accidcntal showcr of stoncs rendcrs thcir  
+position dangcrous, Ono is now at a  
+dcpth of seventy-nino fect from tho .sur­  
+faco. and from hcre wo commcncc tho cx-  
+  
+ploring of tho &quot;bottomlcss &#x27; pit.&quot; Aftcr .  
+dropping a ropc down, wo found that it  
+was only six fect dccp, though it lookcd &#x27;  
 black cnough for any thing.&quot; m I  
 Furthcr o.ploration3 discloscd a sub-&#x27;  
   
@@ -404,19 +423,9 @@ he could tiirn his hcad. From &quot;The He­
 covery of Jcrusalcm,&quot; by Lymax AnnorT,  
 in Warner&#x27;s Mayazinc fur Juhj.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:62.053817,42.627346,11.275856,8.804854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:61.998902,37.660505,11.330771,13.771695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## The Explorations at Jerusalem
-
-#### From _The Yankton press._
-
-#### 1871-06-28 &middot; Yankton, Dakota Territory [S.D.]
-
-[This text is not available under an open license.]
 
 ---
 
@@ -595,91 +604,75 @@ July
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+very great. It was not pos- | aqueduct, cut in the solid rock beneath this  
+sible to carry it on more | bridge, were also discovered. Part of this  
+than a certain number of | bridge has fallen, and broken and buried the  
+days at one time at a diffi- | aqueduct in its fall; and the original pavement  
+cult place, as the constant | of the ancient road in the valley itself is now  
+danger caused the nerves | forty-five feet below the present surface formed  
 to become unstrung after a| by the ruins of the ancient walls and houses.  
 time. ‘Only those,” says | Nor is this all. A perfect net-work of sub-  
 Captain Warren, ‘‘ who|terranean chambers was also disclosed, some of  
 have experienced the pe-| which were probably used for the storage ot  
 culiar effect of the rattling | food, and others as aqueduets and cisterns.  
-of the débris upon the} And the whole result more than confirms th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:29.995608,35.998845,55.906895,7.245958/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
-
-#### 1871-07-01 &middot; New York
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+of the débris upon the} And the whole result more than confirms the  
+frames, with the prospect at | ideas of Jewish architectural grandeur which  
 any moment of the boards | the books of the Bible and the pages of Jose-  
-being crushed in by a large | phus combine to give, but which have hithert
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.039526,44.572748,55.950812,2.511547/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
-
-#### 1871-07-01 &middot; New York
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+being crushed in by a large | phus combine to give, but which have hitherto  
+stone, can appreciate the , been regarded by many skeptical minds as apoc-  
+deterring influence it has | ryphal.  
+upon the workmen. The Along the southern wall his discoveries were  
+non-commissioned officers | scarcely less interesting. Here he found a  
 have to keep continually to | double pavement, one twenty-three, the other  
 the front, or the men will | forty-three feet below the present surface of  
 not venture up.” the ground. Here also he found some curious  
 ‘The first operations were | remains both of Hebrew and of Christian origin.  
-commenced on the western | The following description of his explorations a
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:30.215195,51.991917,55.906895,6.322171/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
-
-#### 1871-07-01 &middot; New York
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+commenced on the western | The following description of his explorations at  
+wall, at a point near what is | this point, taken from one of his letters written  
+known as Wilson’s Arch. | at the time, will afford the reader a more  
 It receives this name from | graphic picture of the difficulties and dangers  
 the fact that it was first dis- | which attended his investigations than can be  
 covered by Captain Wilson, | given by any general description :  
 who had not the means,| ‘On Friday, having arrived at a depth of  
 however, to prosecute any | seventy-nine feet, the men were breaking up a  
   
-SOROS  
-  
-  
-  
-mining operations,  
-  
-SHAFT SUNK.  
-  
-]  
-  
-Captain Warren’s explora- | stone at the bottom of the shaft. Suddenly the
+SORO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:15.810277,60.681293,70.663153,22.632794/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:29.995608,28.406467,56.258235,40.906467/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=40)
+## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
 
 #### 1871-07-01 &middot; New York
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+proved this arch to be one of a series form- ground gave way, down went the stone and  
+ing a viaduet which led from the Temple toward | the hammer, the men barely saving themselves.  
+the palace of Herod on the western hill,and con-| They at once rushed up, and told the sergeant  
+stituting perhaps the very bridge across which | they had found the bottomless pit. I went  
+Jesus was conducted from Pilate to Herod on! down to the spot and examined it; and, in or-  
+the day of his trial. The remains of a winding! der that you may have an idea of the extent of  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
 THE RECOVERY OF JERUSALEM.  
@@ -690,21 +683,8 @@ our work, I will give you a description of our |
 descent.  
   
 ‘The shaft mouth is on the south side of the  
-Sanctuary wall, near the southwest angle, among | serving also, at the same time, that two side
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;40/pct:12.214411,6.553118,70.694200,44.688222/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=40)
-
-#### 1871-07-01 &middot; New York
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+Sanctuary wall, near the southwest angle, among | serving also, at the same time, that two sides  
+the prickly-pears; beside it, to the east, lying | of the shaft are cut through the soil, and are  
   
 igainst the Sanctuary wall, is a large  
 mass of rubbish that has been brought  
@@ -738,7 +718,7 @@ in the most disagreeable manner.
 Here five more frames have been  
 fixed to keep these stones steady.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;40/pct:12.302285,52.540416,26.801406,38.394919/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:15.854194,83.342956,70.794906,7.303695/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,6 +870,8 @@ The investigations for the eastern an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+the description given by Josephus of the  
+immense height of the temple above the  
 valleys of the Kedron and Jehosaphat.  
 And the whole result more than confirms  
 the ideas of Jewish architectural grandeur  
@@ -899,9 +881,19 @@ which have hitherto been regarded by
 many as apocryphal.  
 There are other interesting details of  
 discoveries made by Captain Warren, as  
-stated in his very interesting report, an
+stated in his very interesting report, and  
+as further investigations are deemed  
+necessary to accomplish the perfect de­  
+velopment of the recovery of Jerusalem,  
+and thus establish its identity as a city,  
+which, in the days of its greatness, was  
+the &quot;joy of the whole earth,&quot; efforts are  
+being made in this country to secure co­  
+operation in this interesting work with  
+the Palestine Exploration Fund.  
+When these investigations shall hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871070201%2F0417.jp2/pct:32.533784,73.011639,12.466216,5.783220/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_growlithe_ver01%2Fdata%2Fsn83016555%2F00295875896%2F1871070201%2F0417.jp2/pct:32.533784,71.847721,12.466216,12.851600/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +905,17 @@ stated in his very interesting report, an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ct that, u? was nrs  
+  
+The Explorations at Jerusalem.  
+  
+I  
+r  
+i tntaotu)ni one. recouects  
+nif-Kp unknown5 deiAh to  
+1 irt o.,c,..  
+nneiwestern Wall, at point uear.wiiat  
+is knownas. WUVou&#x27;s Arch.l veCelves  
+this name frbm the (act that, u? was nrs  
 dliuvarerlf bv Camain&#x27;-WUton. who hH&#x27;iJ  
 not the mfsns. bowever&#x27;lo proWeoutef  
 ahy&quot; mining &#x27;operai ions. -,Gatam: w arr  
@@ -930,9 +932,18 @@ discovered. &#x27;Part of this bridge has lal­
 leni and &#x27; broken and burird the. aqut­  
 duct An its lal i and. the origiuaT. pave  
 ment &quot; or the ancient roaa -in ine vaney  
-itself&#x27; Is now. rort-five teet. be.ow - th
+itself&#x27; Is now. rort-five teet. be.ow - the  
+nresent surface formed? bv the rums of  
+the aucieui walla and houses. &#x27; Nor is this  
+all... A verier net worn oi u&#x27;bterraueau  
+. i. -. . . i .i : i . L..,. ,-r -... ..i &#x27;  
+lUallluC19i ttvno HUM uiouuacu, evuu; jm  
+htcfc Wrte nrbuabiy need lor fcbx Btory  
+age er ood3nd others as aqueducts and  
+eistei-ns. And the. whole results &#x27;more  
+Fthari - cDufirnls&#x27; Uit5 idea9 of iMjliitectunt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.656230,13.908014,11.806915,8.014321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.395303,11.842468,12.133072,52.024236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +955,18 @@ itself&#x27; Is now. rort-five teet. be.ow - th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?, Tbe  
+  
+&#x27;ttivwjbut&#x27;Jwntctttliafe bithferio  
+been re-  
+gardea.by many sceptical minas as apoc­  
+ryphal.&#x27;4 &quot;-s Ji ; .-  
+Mi.lnng,lhciio&#x27;utherii wall his discover  
+ries wore scan-ely Jess huereutlng, &#x27;Hi-re  
+ne louna a-aouDie pavement, one swenty-  
+threej th; iner toity-three .leet., below;  
+ihe piesent surface of the&#x27; grounds Here&#x27;  
+vlso he&#x27;ftrtind some curious rtfnittina tiota  
+ot Hebrew tmd Of Jhritin origin?, Tbe  
 followiha&#x27;deoCi&#x27;iDtioh of his explorations  
 atxhis, point-takenfrom ne oi his let  
 ters written, at. tne pime,,wiii. auoru ?iue  
@@ -1035,7 +1057,7 @@ pit. After dropping a &quot;rope down, we
 tou nd.- tltatr-. ft w as i only six feet deep,  
 chough it looked black enough: for an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.395303,30.418617,12.230920,40.498485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85034457%2F00280774832%2F1871070601%2F0048.jp2/pct:68.395303,26.438998,12.230920,44.478105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1256,18 @@ in Harper&#x27;s Magazine fur July.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nll his discov­  
+  
+rnnonn chnmbors wns nlso dlsclos-cil,  
+somo of which wcro probably used for  
+tho slorngo of food, nnd others ns niiio­  
+ducts nnd clitcrm. And tho wholo re­  
+sult moro tlinu conllrms tho ideni of  
+Jowlsh nrchitccturnl grandeur which  
+tho books or tho lillilo nntl tho pngni ol  
+Tosophus combined to give, but u liich  
+hnvo hithorto boon reunrded bv mnnv  
+skoptlcnl minds ns npocryphal.  
+Along tho southern wnll his discov­  
 eries woro scarcely loss JntorcBtlng.  
 lloro Ho rountt a iiounio pavomcnt, ouo  
 twonty-throo. tho other fortv-threo foot  
@@ -1306,9 +1339,19 @@ man nt tho bottom to got undor cover,
 it Is loworod to tho lodgo, from whouco  
 It is found that it doos not roach to  
 tho bottom by sovoral foot. It Is thcro­  
-foro loworod to tho requi
+foro loworod to tho required dislanco,  
+nud ono lias to roach it by climbing down  
+hand ovor linnd for nbout twelvo foot.  
+On passing nlong ono notes tho mnrvol­  
+oils Joints of tho Sanctuary wnll stonos,  
+and also, probably, gots a fow blows on  
+skull nnd knuckles from falling pobblos.  
+Just on reaching tho bottom ono rocol­  
+loots thoro is still a pit of uiikown depth  
+to bo oxplorod, and cautiously straddles  
+across it. Then can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871081101%2F0131.jp2/pct:42.124212,44.234173,12.007201,32.756978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871081101%2F0131.jp2/pct:42.106211,39.714091,12.043204,41.701838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

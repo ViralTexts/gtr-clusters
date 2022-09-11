@@ -146,7 +146,18 @@ The impression lives through an eternal age
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ not give hxprkss notics to the  
+contrary, are considered wishiog to continue their sub­  
+scriptions.i- If subscribers orJerthe discontinuance cf their pa  
+pera. the publisher ma; continue to send tbem until all  
+arrearages are paid.  
+3. If subscribers neglect or refuse to take their pa  
+pen from Offices to which they are sent, tl ey are held  
+responsible till they have settled their bills, and ordered  
+their papers discontinued.  
+4. If subscribers remove to other plices without no­  
+tifying the publisher, and the piper Is sent to a former  
+direction; they are held responsible.  
 EPITAPH OX A I&#x27;ll I Vl&#x27;EK,  
 Here lies a form place no imposing stone  
 To mark the bed where weary it has lain ;  
@@ -157,7 +168,7 @@ Whose impress is the e pii it&#x27;s deathless page ;
 Worn out, the type is thrown to pi again,  
 The impression lives to an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn83035366%2F00296029105%2F1854113001%2F0191.jp2/pct:6.753645,43.843436,12.106677,6.210927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn83035366%2F00296029105%2F1854113001%2F0191.jp2/pct:5.660015,30.973091,14.409056,19.081272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +411,19 @@ The impression lives through an eternal age.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hout ever a taile. He hath a  
+e?”’  
+  
+~ Ah!” said Pat, ‘‘that’s your question—can you an-  
+swe. it Yourself? ’  
+  
+Ye Frogge.—The editor of the Savannah Georgian re-  
+cently saw a frog entombed in achunk of ice, which came  
+to lite when thawed out. Thereupon, our cotemporary  
+furnishes the following, touching the natural history of  
+this interesting creature:  
+  
+Ye frogge is one amphybyous animal with foure feete,  
+&amp; nayked boddie, aud wythout ever a taile. He hath a  
 hoarse voyce, and loveyth much to use it on ye summer  
 nights. Ue {s remarkable for graceful swymming with  
 rapidnesse, and for taking verrie largs leapps on ye lande.  
@@ -418,7 +441,7 @@ Whose vipress is the spirit’s deathiess page ;
 Worn out, the type is thrown to pi again,  
 The unpression lives through an everual age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-17_12_42&#0036;7/pct:59.699454,28.132952,12.509758,5.820611/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-17_12_42&#0036;7/pct:59.699454,24.029898,12.568306,9.923664/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,12 +476,7 @@ The wnpression lives through an eternal age.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- pine log,  
-wiia an axe and auger, and Louis  
-Cass was rocked by his staid mother,  
-in a second hand sugar trough. The  
-greatest architects for the manufac­  
-ture of genius are Poverty and Kcpub­  
+  
 licanism. A Printer&#x27;s Epitaph.  
 Here lies a form; placeno imposing stone  
 To mark the head, where weary it is lain,  
@@ -471,7 +489,7 @@ Worn out, the type is thrown iopi again,
 The impression Iirei through en tiers al  
 age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1858050601%2F0473.jp2/pct:63.107379,82.106821,15.016997,12.484865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1858050601%2F0473.jp2/pct:63.107379,86.613749,14.897021,7.977936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +580,18 @@ The impression lives through an eternal age
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rd ! My lamb is. safe,  
+d holy crown f  
+AVho will deem my life ever bore  
+Fruit the sweeter in grief and pain?  
+The flitting smile that the l:ahy wore  
+Oulrnyed the light of the loftiest brain.  
+I&#x27;ll meet him In the world&#x27;s rude din.  
+Who hath outlived his mother&#x27;s kiss.  
+Who lialli forsaken her love for sin  
+1 will be spared her pang in this.  
+Man&#x27;s way is hard and sore beset ;  
+Many can fall, but few can win.  
+Thanks, dear Shepherd ! My lamb is. safe,  
 Safe from sorrow and sale from sin.  
 Nevertheless, the way is long.  
 And tears leap up in the light of the sun.  
@@ -578,7 +607,7 @@ Wl.ose imprint is the spirit&#x27;s deathless page.
 Worn out, the type is thrown to pi again;  
 The impression lives through an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1874032701%2F0325.jp2/pct:5.854271,40.596760,16.482412,9.002558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1874032701%2F0325.jp2/pct:5.854271,33.964194,16.482412,15.635124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,13 +718,20 @@ Ihe impression bves through an eteanaJag
 
 ---
 
-## [From _American Printer 1883-2015_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12?page=57)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12?page=57)
 
 #### 1887-09-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-uperintendent has tried to work into the hands of  
+reating a state printing department, origi-  
+nally introduced in the lower house, sessions of 1886 and 1887, and approved by all  
+the typographical unions of the state.  
+  
+THE Neat Printer says California has been trying the plan of the  
+state printing text books for the public schools, and it does not seem to  
+work very well. The books are considered not well printed, and it is  
+charged that the state superintendent has tried to work into the hands of  
 the private text book publishers. The people of the state are con-  
 siderably exercised over the matter, and have arranged for an indignation  
 meeting.  
@@ -715,7 +751,7 @@ Worn out, the type is thrown to f/ again,
   
 The émfpression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12&#0036;57/pct:10.381078,62.859066,38.173456,12.365350/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12&#0036;57/pct:10.381078,56.687612,38.173456,18.536804/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +763,21 @@ The émfpression lives through an eternal age.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the Sacrul Scriptures display,  
+Christ is the only true ami hying way:  
+His precious blood on Calvary was given  
+To make heirs ofi mlless bliss m heaven.  
+Ami e’en on earth the child can trace  
+The blessidgs of his Saviour&#x27;s face.  
+Fur them he bore  
+Ilia Father’s frown,  
+For them He wore  
+The thorny crown ;  
+Nailed to the cross  
+Endured its pain,  
+That his life&#x27;s loss  
+Might be their gain.  
+Then haste to chose  
 That better part—  
 Nor dare refuse  
 The Lord your heart,  
@@ -752,7 +802,7 @@ TTovi out, ihe type is thrown to pi again,
 The impression hyes through an eter  
 rial age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00296029956%2F1894031501%2F0194.jp2/pct:43.111412,30.552785,12.160640,15.789692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00296029956%2F1894031501%2F0194.jp2/pct:43.111412,19.185370,12.188803,27.157107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

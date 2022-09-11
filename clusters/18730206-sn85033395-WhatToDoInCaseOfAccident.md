@@ -1,7 +1,7 @@
 
 # What to Do in Case of Accident
 
-### 265 reprints from 1872-09-11 to 1896-01-29
+### 262 reprints from 1872-09-11 to 1896-01-29
 
 ## [What to Do in Case of Accident](https://chroniclingamerica.loc.gov/lccn/sn85033395/1873-02-06/ed-1/seq-4/)
 
@@ -45,7 +45,22 @@ For apoplexy, raise the head and body; for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s  
+ a pair ; p  
+5EIUR  
+s 35 ; butter 35  
+Statistics.—A business card of the  
+&#x27; Accidental Insurance Company lias  
+tlie margin of it, the States of the  
+and the electoral vote of each,  
+reverse side the popular vote for the Presidents  
+1824. They can be had gratis of the Com­  
+pany&#x27;s agents, in this city, Messrs. Woolley A  
+Trump. The politicians should each hav  
+Travel«  
+printed  
+d on the  
+\
+.—Joseph Fullmer offers  
 hundred doz­  
 Attention Gunn  
 the highest market price fi  
@@ -83,21 +98,9 @@ often spread burning oil,
 llefoie passing through smoke, take a full brea­  
 th ami then stoop low, but if carbonic is huh]  
 ted, walk erect.  
-Suck poisoned wounds, unless  
-sore ; enlarge tbe wound, or, better, cut out  
-the part without delay; hold tbe wouuded p  
-id lucre  
-danger.  
-ontli i  
-a hot coal  
-id  
-be borne  
-long  
-of a cigar.  
-In ca«e of poiso  
-ling tbe throat, 
+Suck poisoned wounds, unles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271742538%2F1872091101%2F0990.jp2/pct:32.410038,36.467236,12.334280,13.194444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271742538%2F1872091101%2F0990.jp2/pct:32.315341,31.054131,12.405303,16.274929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +169,24 @@ of an egg is good in most cases.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Vil-l« r, of Corn« Il I niv. r­  
+*ity, given iln-kv ►l.-rt rubs I r :»••  
+titui in cn*e* of uecbbtjt. It would n*»t  
+he a bad thing to cut them &lt;»ut mi l carry  
+them in on«&#x27;» |»oi*k»t-Look «, r, Letter yet. ,  
+commit them to memory. i  
+l&gt;or «lu t in tl.o eye... i.,l nibbing :  
+• I :if*h water into them; piii-iw eiu-1 i&gt;.  
+•to., with the totliiü j it.t of :i Lsul j ji  
+Hcmove insert« from tli • car Ly t• -pi&lt;l  
+water, never put :i hur l iu-tj.«:ii tit int *  
+Popular dtlisccllanij.  
+j  
+or  
+How Long Branch was Settled«  
+i  
+eil  
+L».&#x27;L&gt;w.  
 tIn* ear.  
 If any artery is cut, compress  
 the wound ; if a vein i* cut eonipr­  
@@ -176,9 +196,24 @@ water : if the »kin is destroyed, cov» r &#x27;
 with varnish  
 Smother a fire with carpets, etc ; water  
 will often spread burning oil, and incr&lt; »«c  
-Before pushing tlirmigli smoke
+Before pushing tlirmigli smoke,  
+your  
+W&#x27;Oind, or,  
+cough.  
+danger  
+tnke a full breath and then stoop lour, but  
+if carbon i* su*p . teil, walk « r« » f  
+! Suck poisoned wounds, unit •  
+mouth i* son?; enlarge the  
+better, cut out the part without d-lay ;  
+hold the wounded part a* long a* can L  
+home to a hot cml. or m I nf :  
+&#x27; In ease of p »i« uiing. ■ \ it • vi.miting  
+by tickling tho throat w ith warm watt r  
+and mustard  
+For n .&lt;1 poisons g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765277%2F1872110901%2F0405.jp2/pct:56.160856,52.879494,12.301902,6.807590/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765277%2F1872110901%2F0405.jp2/pct:55.863708,14.430759,13.094295,51.531292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,9 +249,13 @@ breath and then Sloop low, but if carbon is sus -
 peeled, walk erect.  
 Buck pohoned wounds, unless your mouth is  
 sore: enlatge the wound, or, better, cut out the  
-par
+part without delay; hold the wounded part as  
+long as can be borne to a hot coal or end of a  
+cigar.  
+In case c fpuisoning,excite vomiting by ticklirg  
+the throat with warm water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_crucio_ver01%2Fdata%2Fsn84026837%2F0027174254A%2F1872111601%2F0836.jp2/pct:60.768072,34.547244,17.118474,12.860892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_crucio_ver01%2Fdata%2Fsn84026837%2F0027174254A%2F1872111601%2F0836.jp2/pct:60.768072,34.547244,17.143574,14.895013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +321,17 @@ Ior tainting, lay tbe person II it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-erm of years, and, as  
+ter it has been compressed inta  
+bales ; and the expense of packing the cot­  
+ton, bagging, ties and handling would be  
+saved, as well as the expense of running it  
+through the picker. The wastage cotton  
+undergoes in different ways has been esti­  
+mated from one-tenth to one-eighth of the  
+bale. &quot; &#x27;  
+The Langley mills, ten miles from Aiken,  
+were exempted by an act of the Legislature  
+from taxation for a term of years, and, as  
 there is a disposition to encourage manu­  
 factures, a like immunity would be granted  
 to other companies. Aiken (S. C.) Letter  
@@ -328,7 +377,7 @@ moving.
 For appoplexy, raise the head and body ;  
 for fainting lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293733%2F1872121801%2F0568.jp2/pct:49.179375,21.909348,14.422658,22.422276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293733%2F1872121801%2F0568.jp2/pct:49.179375,17.052235,14.451707,27.279389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +443,19 @@ for fainting lay tho person llat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-of his cattle, it is his own  
+ing the ensuing summer. On the other  
+hand thoEe well fed, carefully tended,  
+  
+and skiillully managed will yield a  
+handsome profit. The same facts hold  
+  
+good in raising young cattle. Those  
+raised by some men are a? large at two  
+years old as those raised by others are  
+at three. Much, or nearly ail, rests with  
+the farmer. If small results, and a large  
+per cent of losses overtake him in the  
+management of his cattle, it is his own  
   
 fault. But if good returns, and gener  
   
@@ -453,7 +514,7 @@ keep moving.
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dean_ver02%2Fdata%2Fsn84038034%2F00271740566%2F1873010201%2F0505.jp2/pct:6.179018,42.507320,14.475457,26.231035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dean_ver02%2Fdata%2Fsn84038034%2F00271740566%2F1873010201%2F0505.jp2/pct:6.179018,37.277083,14.475457,31.461272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +526,18 @@ for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ent of his cittle, it is his own  
+ dur­  
+ing the ensuing summer. On the other  
+hand thoe well fed, carefully tended,  
+and skillfully managed will yield a  
+handsome profit. The same facts hold  
+good in raising young cattle. Those  
+raised by some men are ai large at two  
+years old as those raised by others are  
+at three. Much, or nearly all, ro-rts with  
+the farmer. If small results, and a largo  
+per cent of losses overtake him in the  
+management of his cittle, it is his own  
 fault. Iut if good returns, and gener­  
 ally satisfactory results, are his lot, it is  
 because he used proper and judicious  
@@ -515,7 +587,7 @@ keep moving.
 For apoplexy, raise the head and body;  
 for fainting, lay the person tlat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1873010301%2F1119.jp2/pct:6.869309,43.018230,13.685056,25.587296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1873010301%2F1119.jp2/pct:6.842528,37.389588,13.711837,31.215937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +599,19 @@ for fainting, lay the person tlat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-long, long time. . x caught,  
+red, Ray!&quot;  
+&quot;ily poor little bird? It was cruel!  
+But it was all Uncle Hugh&#x27;s doings! &quot;  
+He wa3 full of whims, and this is the  
+mort cruel one that eer possessed  
+him. But can you marry such aa  
+old manrMay ? I am ten years older  
+than what yon are, little one.&quot;  
+I don t inow what May answered.  
+but I know that a few week. nftAr  
+that site stole to Ray&#x27;s side ia the  
+gathering twilight and whispered to  
+mm a long, long time. . x caught,  
 these words,  
 &#x27;&quot;Why didn&#x27;t  
 you wait the six  
@@ -583,7 +667,7 @@ coffee and keep moving. .
 If in water, float on the back with  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775800%2F1873010301%2F0430.jp2/pct:85.501459,69.653042,9.875595,26.021863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775800%2F1873010301%2F0430.jp2/pct:85.501459,63.866445,10.198126,31.808460/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,9 +717,11 @@ line poisons give acids—white of egg is
 good in most cases ; in a case of opium pois­  
 oning. give strong coffee, and keep moving.  
 If in water, float on the back, with the  
-nose and mouth projecting
+nose and mouth projecting.  
+For apoplexy, raise the head and body;  
+for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873010401%2F0434.jp2/pct:82.355119,17.715690,12.071839,18.086138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873010401%2F0434.jp2/pct:82.355119,17.715690,12.071839,19.052070/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +733,17 @@ nose and mouth projecting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-is cut, compress above the  
+u!e for action in ta- of iK tident. Ir  
+W( U d iiot be a bad tluu to rut thiui (ut and  
+Carrj them in one&#x27;s potket-tioi.k, or, better  
+Jet. cniiiiiiit. them tomeiiio y ;  
+For dus in the eyes, ivoi 1 rubbing; dish  
+water in them ; remove l ind. rs, etc., with the  
+round point of a lead ju-neil.  
+ll &#x27;Uiove any insect from the ear by using  
+tepid water never put a hard inMru.nent in  
+to the ear.  
+11 an artery is cut, compress above the  
 Wf.und ; if a Vein Is cot. compress below.  
 If choked, then pet upon all fours ami  
 cou&#x27;h.  
@@ -674,9 +770,10 @@ poiro.is, j;ite HCids white ot et&#x27;irs is r.od in
 rao.it c-e; in a cuse of opium poisoning,  
   
 pive s&#x27;ronL&#x27; foi&#x27;ee, and keep movinj;.  
-F 
+F r apoplexy, rai-etlie head and body : for  
+lainting, lay the person flit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212471513%2F1873010401%2F1303.jp2/pct:4.605527,39.620694,17.160593,13.249903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212471513%2F1873010401%2F1303.jp2/pct:4.485382,34.008515,17.280737,19.545865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +785,10 @@ F
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-oml point of a lead pencil.  
+  
+For dunt in the eye*, avoid rubbing; d*?h  
+?Water into them ; remove citidera with the  
+rooml point of a lead pencil.  
 Ilemote insect* from the ear by tepid wa­  
 ter; never put a hard instrument into the ear.  
 If an artery is cut. compre? above tho  
@@ -714,11 +814,9 @@ For acid poisons give alkalies ; for alkatinn
 poisons give acids ; white of egg is good in  
 most cases.  
 In the water, float on tbe back, with the  
-projecting.  
-For appoplexy. raise tae head and body ;  
-for fainting, lay fiat
+projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1873010701%2F0425.jp2/pct:84.001736,81.502498,13.363715,15.492505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192336%2F1873010701%2F0425.jp2/pct:84.001736,80.456817,13.363715,15.467523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +887,15 @@ body ; for fainting, lay Jibe person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t of a lead peucil.  
+  
+What to do in Case or &#x27;Accident.  
+I&#x27;rof. Wilder, of Cornell University,  
+gives the following short rules for action in  
+cases of accident, which it will be found  
+useful to preserve or remember :  
+For dust in the eJwf avoid rubbing ; dash  
+water into them ; remove cinders, etc.,  
+with the round point of a lead peucil.  
 Remove water from the ear by tepid wa­  
 ter ; never put a hard instrument into the  
 ear.  
@@ -822,7 +928,7 @@ moving.
 Jf in water, float on the back, with the  
 nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293745%2F1873012401%2F0081.jp2/pct:48.351319,37.150926,14.628297,15.448175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293745%2F1873012401%2F0081.jp2/pct:48.336331,33.050936,14.643285,19.548164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +1081,8 @@ for fainting, lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o do la Case or Accidents  
+  
+What to do la Case or Accidents  
 Prof. Wilder, of Cornell University,  
 gives thesn short rules for action in cases  
 of accident. It would uot be a bad thing  
@@ -1138,7 +1245,17 @@ body for fainting, lay the parson fiat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-riend.  
+om every sin and stain.  
+Keep from the ways that bring thee pain.  
+Keep free thy tongue from words of iiL  
+Keep right thy aim and good thy will.  
+Keep all thy acts from passion free.  
+Keep strong in hope no envy see.  
+Keep watchful care o&#x27;er tongue and hand.  
+Keep firm thy feet, by justice stand.  
+Keep true thy word, a sacred thing.  
+Keep from the snare the tempters bring.  
+Keep faith with each yon call a friend.  
 Keep full tn view the final end.  
 Keen Arm thy courage bold and strong.  
 Keep up tbe right an.i down tbe wrong.  
@@ -1189,9 +1306,12 @@ an egg is good in most cases ; in case
 ui uuiuui puiMiuiuu Vive strong ixmee  
 and keep moving.  
 ii n water, noat on the back, with  
-the nose and mouth projecting
+the nose and mouth projecting.  
+For apoplexy .raise the head and  
+pody; for fainting, lay the person flat.  
+i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1873020501%2F0342.jp2/pct:74.016240,72.977367,9.556527,20.357634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1873020501%2F0342.jp2/pct:74.016240,69.401025,10.103061,24.796799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1347,9 +1467,13 @@ cases; in a case of opium poison
   
 i&quot;E give strong coffee, and keep  
   
-moving.
+moving.  
+  
+If in water, float on the back,  
+with the nose and mouth project­  
+ing. For apoplexy, raise the hea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472967%2F1873020701%2F0591.jp2/pct:4.543032,26.714286,8.872902,18.890110/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472967%2F1873020701%2F0591.jp2/pct:4.543032,26.714286,8.872902,20.208791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1362,9 +1486,6 @@ moving.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-V  
-Good Itules for E»ici&#x27;Kcnelcs.  
-Professor Wider, of Corull University,  
 gives those short rules in cases of accident,  
 it Would not be a bad thing Uncut this out  
 aud cany them in one&#x27;s pock&#x27;ll  
@@ -1393,7 +1514,7 @@ For acid poisons, give alkalies ; fur alka­
 lino poisons, give acids ; white oi an egg is  
 good iu most cases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn85034447%2F00199917262%2F1873020701%2F0034.jp2/pct:66.488821,64.795198,15.066057,20.091808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn85034447%2F00199917262%2F1873020701%2F0034.jp2/pct:66.488821,67.055085,15.066057,17.831921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1405,7 +1526,10 @@ good iu most cases
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ders. etc., with  
+  
+to preserve or remnember :  
+For dust lin the eyes, asvod robbing; dash  
+water into them; r.mUove cinders. etc., with  
 the round point of a lead pencil.  
 Remove water from the ear by tepid wa  
 ter; never put a hard instrument into the  
@@ -1433,9 +1557,11 @@ mustard.
 PFr aid poisons, Live ialkalis; for alka­  
 line puolom, give aelds--whblte of eggl I  
 gesl In nast esass; ain ase of opium pal  
-moingl give strorg oe amnl keep movinlg
+moingl give strorg oe amnl keep movinlg.  
+If ih water b.at on the hack with the nose  
+and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F0029455483A%2F1873020801%2F0231.jp2/pct:28.370457,45.077720,11.122509,14.486183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F0029455483A%2F1873020801%2F0231.jp2/pct:28.370457,44.095423,11.122509,16.342832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1573,15 @@ moingl give strorg oe amnl keep movinlg
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-sters that has ever offi«  
+of great use*  
+fulness, and this suspension of its labors is to be re*  
+gretted. Upon the division of the church, two or  
+three years since, the congregation gave to the As­  
+sembly party $5,000 lor their interest in the church  
+property. The debt, on account of the prevailing  
+hard times, has proven a heavy burden and is not  
+yet entirely paid. Mr. Quarles is one of the bead  
+beloved and most useful ministers that has ever offi«  
 ciated In Lexington. We know his heart is more  
 deeply pained than any other by this untoward oo»-  
 currence. Butnoneotus cm live without pay for  
@@ -1478,9 +1612,11 @@ the throat, or by warm water and mus tard. For
 acid poisons give acids; white of egg is good in most  
 cases; in case of opium poisoning, give strong coffe©  
 and keep moving. If in water, float on tue back,with  
-the nose and mouth projecting
+the nose and mouth projecting.  
+For apoplexy, raise the heal and body; for faint­  
+ing, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_eliot_ver01%2Fdata%2Fsn85026214%2Fprint00205958198%2F1873021601%2F0006.jp2/pct:82.772994,13.274907,12.161048,10.729475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_eliot_ver01%2Fdata%2Fsn85026214%2Fprint00205958198%2F1873021601%2F0006.jp2/pct:82.772994,10.732698,12.161048,13.896765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,7 +1628,10 @@ the nose and mouth projecting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ers,  
+  
+to preserve or remembers  
+For dust In tlio eyes, avoid nibbing;  
+dash .water Into them ; remove cinders,  
 etc., with the round point of a lead pencil.  
 Kemove water from tlio car by cold wa  
 Icr; never put a hard Instrument Into tho  
@@ -1521,9 +1660,13 @@ For acid poisons, give alkalis; for alka­
 llno poisons, give acids white of egg is  
 good lu most cases ; in a case of opium pol  
 Boning give strong cofi&#x27;co and keep mov  
-lug
+lug.  
+If in water, float on the back, with the  
+month and nose projecting.  
+For apoplexy, raise tho head and body  
+for fainting lay tho person fiat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777377%2F1873022101%2F0227.jp2/pct:16.227145,34.435688,10.970464,14.916972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777377%2F1873022101%2F0227.jp2/pct:16.227145,33.450605,10.970464,17.914439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1535,7 +1678,18 @@ lug
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-point of a lead  
+  
+he left.  
+co  
+WH AT TO 1M i ASK V ACCIDENT.  
+Frof. Wilder, of Cornell University  
+gives the following short rules for ac  
+tion in case ot acccidcnt, which it will  
+be found useful to preserve or remeni  
+ber :  
+For dust in the eye avoid rubbing  
+dash water iuto them; remove cinder,  
+etc., with the round point of a lead  
 pencil.  
 Remove water from the ear by tepid  
 water; never put a hard instrument  
@@ -1568,9 +1722,10 @@ an egg is good in most cases ; in a
 case of opium poisoning give strong  
 coffee and keep moving.  
 If in water, float on the back, with  
-the nose and mouth projecting
+the nose and mouth projecting.  
+For a fit of apoplexy, raise th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776117%2F1873022601%2F0529.jp2/pct:35.061114,65.919947,14.644636,21.149728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776117%2F1873022601%2F0529.jp2/pct:34.993210,59.430077,14.712540,28.249053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1582,7 +1737,17 @@ the nose and mouth projecting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l in his  
+day time of life, and ere we  
+know it, the night draws near &quot;when  
+no man can work. Oh, hours misspent  
+and wasted! How we wish that we  
+could live them over again.&#x27; God will  
+require from ns an account of the man­  
+ner in which we spent our years, and  
+he will judge us so differently from our  
+own judgment. The years that we spent  
+in promoting our selfish motives, ignor  
+ing our soul&#x27;s salvation, these all in his  
 sight will be wasted. Let us be pru­  
 dent then in the employment of our  
 time that when the Great Judgeinvesti­  
@@ -1631,9 +1796,11 @@ ere is eood in most cases ; in a case of
 opium poisoning give strong conee ana  
 keep moving.  
 If in a water, float on the back, with  
-the nose and mouth projecting
+the nose and mouth projecting.  
+For anoDlexv. raise the head and body.  
+For fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1873022701%2F0043.jp2/pct:15.140968,58.387139,9.832927,20.121228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775496%2F1873022701%2F0043.jp2/pct:15.140968,53.538016,9.832927,25.774147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1709,9 +1876,11 @@ good iu most cases; in a ease ol opium
 poisoning give strong coffee, and keep  
 moving.  
 If in water, float on the back, with the  
-nose and mouth projecting
+nose and mouth projecting.  
+For apoplexy, raise the head and body :  
+for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873030601%2F0043.jp2/pct:16.888889,39.129880,10.910256,19.434167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873030601%2F0043.jp2/pct:16.888889,39.129880,10.910256,20.429319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1754,9 +1923,11 @@ by tickling the throat, or by warm mus
 tard  
 For acid poisons give alkalies ; for  
 alkaline poisons, give acids ; white of  
-an egg is good in most cases
+an egg is good in most cases,  
+or apoplexy, raise the head and  
+body ; for fainting, lie flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763803%2F1873030701%2F0392.jp2/pct:28.922138,60.372093,11.011040,14.000000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763803%2F1873030701%2F0392.jp2/pct:28.922138,60.372093,11.011040,14.883721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1809,9 +1980,11 @@ god iu most cases; in a cisa of opium
 poisoning give strong coffee and keep  
 moving.  
 If in water, float on the back, with the  
-nose and mouth projecting
+nose and mouth projecting.  
+For apoplexy, raise the head and  
+body; for faiotinj lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1873030701%2F0259.jp2/pct:7.953193,48.820721,12.772709,26.262480/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1873030701%2F0259.jp2/pct:7.953193,48.820721,12.772709,27.535812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1862,9 +2035,11 @@ an egg is good in most cases; in case of
 opium posioning give strong coffee and  
 keepmoviBg.  
 It in water float on the back, with the  
-nose and mouth projecting
+nose and mouth projecting.  
+For apoplexy, raise the head and  
+bo4y ; for tawtin« lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F0029587613A%2F1873030801%2F0258.jp2/pct:5.212483,54.988095,12.483400,17.380952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F0029587613A%2F1873030801%2F0258.jp2/pct:5.212483,54.988095,12.483400,18.238095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1876,7 +2051,17 @@ nose and mouth projecting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-i &quot;K. oxcite vomiting by  
+h the nose  
+and mouth projecting,  
+For apoplexy, raise the head aud body; for  
+fainting, lay the person flat.  
+I» any artery is cut, compress above the  
+wound; if a vein is cut, compress below.  
+Remove water from the ear by tepid water  
+never put a hard instrument into the ear.  
+.. £ or 8 &#x27; l * h , t b , urns - dl P th e part in cold water;  
+ir in© skin is destroyed, cover with varnhli  
+..iV™ 8 ® °* P° i500i &quot;K. oxcite vomiting by  
 tickling the throat, or by warm water and  
 mustard.  
 £° r . d îi 9 }. &#x27; n l (&#x27; e *f avdld rubbing; dash  
@@ -1887,7 +2072,7 @@ poisons give acids; while of an egg 1* good in
 moat casgs; io a case of opium poisoning give  
 strong cofie© and keep moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_accio_ver01%2Fdata%2Fsn84026837%2F0027174030A%2F1873031101%2F0266.jp2/pct:5.653626,27.770781,16.579198,5.384131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_accio_ver01%2Fdata%2Fsn84026837%2F0027174030A%2F1873031101%2F0266.jp2/pct:5.629771,23.063602,16.603053,10.091310/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1932,9 +2117,11 @@ by tickling tue throat, or by wsrro mus­
 tard.  
 For acid poisons give sikslies ; for  
 alkaline poisons, give acids; white of  
-an egg is good in most cases
+an egg is good in most cases.  
+For apoplexy, raise the head and  
+body; for fainting, lie flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028721%2F1873031301%2F0454.jp2/pct:24.343935,55.395907,9.671533,13.544897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028721%2F1873031301%2F0454.jp2/pct:24.343935,55.395907,9.671533,14.406312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2003,7 +2190,21 @@ body; for fainting, lay the person fiat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-with vhto sh.  
+ dust in tbe eyes, avoid rub­  
+ding ; dash water into them ; remove  
+cinders with the round point of a  
+lead pencil.  
+Remove wax from the ear by  
+leptd water; never put a hard in­  
+strument into tbe ear.  
+If an if ery is cut, compress above  
+i he wound, it a vein is cut, compress  
+below.  
+It choked, get upon ait tours and  
+eongh.  
+For a slight burn, dip the part in  
+cold water, if tbo skiu is destroyed,  
+cover with vhto sh.  
 bmo her a fire with carpets,  
 water will often spread burning oil  
 and increaso danger. Before pa-s­  
@@ -2025,9 +2226,12 @@ white of egg is good in most cases •
 • n case of opium poisoning, giv«  
 strong coffee and keep moving.  
 If in the water, float on the back  
-with the nose and mouth pr jectin
+with the nose and mouth pr jecting  
+For apoplexy, raise the head and  
+body; for fainting lay the p&lt; rsun  
+flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159373%2F1873031801%2F0657.jp2/pct:17.206186,16.180859,10.749933,11.510167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159373%2F1873031801%2F0657.jp2/pct:17.120763,9.049899,10.835357,20.046499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2070,9 +2274,11 @@ by tickling the throat, or by warm inu­
 1 art!.  
 f or acid poisons give alkalies ; for  
 alkaline poisons, give acids; while of an  
-egg is good in most eases
+egg is good in most eases.  
+For apoplexy, raise the head aud body ;  
+for fainting, lie fiat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873032701%2F0052.jp2/pct:85.691988,53.003901,11.086542,13.410273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1873032701%2F0052.jp2/pct:85.674644,53.003901,11.103885,14.255527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2097,7 +2303,7 @@ etc., with the round poiut of a pencil
 llomovo insects from tbe car by  
 tepid water; never put a bard instru  
 mont into your oar.  
-If any art
+If any artery is cut, compress belo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873040201%2F0360.jp2/pct:3.269036,60.828436,11.573604,6.392432/!600,600/0/default.jpg"/>
 </td>
@@ -2194,7 +2400,14 @@ bhmr cm-a; or end of a cigar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-the car.  
+  
+will bo found useful to remember:  
+  
+For dust In tho eyes, avoid rubbing ; dash  
+water m them; remove cinders, oto., with tho  
+round point of a load pencil.  
+llomovo water from tho oar by tepid water ?  
+never put a bard hißirumont into the car.  
 If any artery is out, compress above tbo wound;  
 If a vein Is cut, compress below.  
 If choked, got on all fours and cough.  
@@ -2219,7 +2432,7 @@ coffee, and keep moving.
 If in water; tfdal oh the back, with the nose  
 and mouth projecting. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_fullerton_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1873040901%2F0003.jp2/pct:69.435333,16.266873,13.003749,10.105801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_fullerton_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1873040901%2F0003.jp2/pct:69.406045,14.155418,13.033037,12.217256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2231,7 +2444,17 @@ and mouth projecting. -
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-urpose in ameliora  
+hallenges our  
+admiration and marks an important era  
+in the history of the human race, was de­  
+ficient in two of the essential elements of  
+further progress, namely first, in tho  
+prevailing influence of the higher and  
+holier morality of Christianity; and,  
+secondly, in that scientific knowledge of  
+the laws oi nature wmcn enauies man io  
+control its operations and to employ Its  
+energies to effect his purpose in ameliora  
 ting the condition et the earth. y ltnout  
 these elements of progress the Itomans  
 could not advance beyond a limited de-  
@@ -2270,7 +2493,7 @@ white of egg 18 good in most cases ; in
 case of opium poisoning, give strong cof­  
 fee and keep moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873041001%2F0052.jp2/pct:80.373832,69.027280,12.442734,18.035271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873041001%2F0052.jp2/pct:80.337182,64.673464,12.479384,22.389088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2282,7 +2505,18 @@ fee and keep moving
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-yed, cover .with  
+t:  
+For dust In the eyes, avoid rubbing,  
+dash water Into them; remove cinders,  
+etc., with tho round point or a lead pen­  
+cil.Itemovo Insects from the car by tepid  
+water ; never put a hard instrument into  
+the ear.  
+If an artery is cut, compress bdovo tno  
+otind ; ir a vein Is cut. compress below.  
+It clioKcu, get upon nu luureuiiu cuun.  
+For light burns, dip the part In cold  
+atcr : If tho skin is destroyed, cover .with  
 varnish. , r  
 Smother n lire with carpets, etc. ; water  
 will often spread burning oil, and inCrcaso  
@@ -2301,7 +2535,7 @@ white of egg is good In most casos ; in
 caso of opium poisoning, give strong cof­  
 fee nnd keep moving. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1873041101%2F0481.jp2/pct:81.586255,60.939398,10.898993,7.180456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1873041101%2F0481.jp2/pct:81.568900,56.188419,10.916348,11.931435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2386,9 +2620,12 @@ case of opium poisoning, give strong
 coffee and keep moving.  
   
 If in water, float on the back,  
-with the nose and mouth projecting
+with the nose and mouth projecting.  
+For apoplexy, raise the hand and  
+bodv for fainting, lay the person  
+flat.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528906%2F1873042501%2F0065.jp2/pct:32.203307,45.670158,10.145778,21.231785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528906%2F1873042501%2F0065.jp2/pct:32.203307,45.670158,10.145778,22.688980/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2401,6 +2638,12 @@ with the nose and mouth projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+What to Do in Cask of Accident, j  
+Prof. Wilder, of Cornell University, says i  
+Moore&#x27;s Rural Xcw Yorker, gives tho ;  
+following short rules for action in case of j  
+accident, which will be found useful to !  
 remember :  
 For dust in the eyes, avoid rubbing;  
 dash water in them; remove cinders,etc.,  
@@ -2435,9 +2678,11 @@ good in most cases; in a ease of opium
 noj-oning give strong coffee, and keep  
 movjng.  
 If in water, float on the back, with tho  
-pose and mouth projecting
+pose and mouth projecting.  
+For apoplexy, mise the head and body;  
+for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F0027955730A%2F1873042601%2F0773.jp2/pct:6.225645,13.376873,12.428094,19.420501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F0027955730A%2F1873042601%2F0773.jp2/pct:6.225645,10.602042,12.428094,23.339080/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2449,7 +2694,17 @@ pose and mouth projecting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-oom in tin  
+ is not at aii  
+fit to sleep on,hut should be laid on an empty  
+bedstead, a month or more, with the win­  
+dows up. Tins caution may he unnecessary,  
+ns no wise head sleeps on feathers in the  
+Summer.  
+As for the labor, I would rather clean five  
+beds in the rain than one in the way gener  
+ally recommended—!li.it is by pouring the  
+feathers from the tick on a sheet in an empty  
+room (when there is no empty room in tin  
 bouse), w suing the tick, stirring up the  
 feathers thorouglv, returning to the ties, and  
 laying in the sun for lever il days, turning  
@@ -2466,21 +2721,20 @@ the round point of a lead pencil.
 Remove water from the ear by tepid water;  
 never put a haul instrument into the ear.  
 If any artery is cut, compress above (hi  
-wound; if a vein is cut, comp
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873042601%2F0071.jp2/pct:7.019231,28.405416,14.721154,10.472245/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-04-26/ed-1/seq-4)
-
-#### 1873-04-26 &middot; Auburn, Placer County, Calif.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ie part wit limit delay; hold the wolllidei.  
+wound; if a vein is cut, compress below.  
+If chokid, gel on nil lo irs and cough.  
+For slight hums,dip the part in cold water;  
+if the skin is destroyed, cover with varnish  
+Smother a lire, with carpets, etc.; wutei  
+will always spread burning oil, and in­  
+crease the danger. Helore passing throagl  
+smoke1 take a long breath, and then stonj  
+low; but if carbonic acid gas is suspected  
+walk erect.  
+  
+Si C&#x27;k poisoned VVOUIIds, UIIIeSS J’OUT lllOllllj  
+is sore; enlarge I lie wound, or boiler, cut on  
+I lie part wit limit delay; hold the wolllidei.  
 purl as long as can be borne to u hot coal 01  
 end of a cigar.  
 In case of poisoning, exc le vomiting 1a  
@@ -2491,9 +2745,11 @@ line poisons, give acids—w hite of egg is goon
 in most cases; in a case of opium-poisoning  
 give strong coffee, and keep moving.  
 If in water, float on the hack, with the  
-nose and mouth projecting
+nose and mouth projecting.  
+For Apoplexy, raise the head and body;  
+for fainting, lay ibe person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873042601%2F0071.jp2/pct:7.336538,45.115872,14.605769,6.780517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873042601%2F0071.jp2/pct:7.019231,22.786985,14.923077,30.234438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2505,6 +2761,16 @@ nose and mouth projecting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+below.  
+If choked, get on nil fours and congh.  
+For slight burns, dip the part in cold water; if  
+the skin isdi-stniyi-d, cover with varnish.  
+Smother :i lire with carpets, &amp;c, water will  
+often spread burning oil, and increase the danger.  
+Befuri- panning through smoke takealougbreatli,  
+aud then stoop low; but if carbonic nc id gas is  
+suspcrtt-d, walk erect.  
+Stick p-iiMinod Mounds, utile your mouth is  
 sore; i-nlarge the wound, or. better, rut out tho  
 Iiart without delay; hold the wounded part as  
 ong as can be borne to a hot coal or end of a cigar.  
@@ -2515,9 +2781,11 @@ poisons, give acids white of egg is good in most
 cases; in case of opium poisoning, give strong  
 cofiee, and keep moving.  
 If in water, float on tbe back, with the nose  
-and month projecting
+and month projecting.  
+For apoplexy, raise the head and body; for  
+fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F0029455564A%2F1873050101%2F0649.jp2/pct:43.950662,37.535411,12.316343,4.504249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F0029455564A%2F1873050101%2F0649.jp2/pct:43.950662,33.441926,12.425177,9.419263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2579,10 +2847,6 @@ on the back, with the nose and meuth projecting.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The following brief rules for action in  
-cases of accident should be impressed upon  
-the memory of all our readers, as.their pos­  
-session will be found useful :  
 For dust in the eyes, avoid rubbing ; dash  
 water in them; remove cinders, etc., with  
 the round point of a lead pencil.  
@@ -2614,9 +2878,10 @@ good in most cases, in a case of opium
 poisoning, give strong coffee and keep mov­  
 ing.  
 If in water, float on the back, with the nose  
-and month projecting
+and month projecting.  
+For apoplexy, raise the head and body ; fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861277%2F1873050801%2F0162.jp2/pct:26.760787,71.078629,17.354061,24.032258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861277%2F1873050801%2F0162.jp2/pct:26.760787,73.719758,17.306472,22.076613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2658,9 +2923,11 @@ good in most cases; in a case of opium
 poisoning give strong coffee aud keep mov­  
 ing.  
 it iu water, float on the back, with the  
-nose and mouth projecting
+nose and mouth projecting.  
+For apoplexy, raise the head aud hod) ;  
+for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524664%2F1873051501%2F0291.jp2/pct:14.057776,27.457213,11.240343,12.264670/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524664%2F1873051501%2F0291.jp2/pct:14.040981,27.457213,11.257138,13.034841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2673,6 +2940,14 @@ nose and mouth projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+lYIutt to ! in 4&#x27;iie of Arrident.  
+  
+Prof. Wilder, of Cornell University,  
+gives the following short rules for action  
+iu cases of accident, which it will be  
+found useful to preserve or remember:&#x27;  
+For dust in the eyes, avoid rubbing;  
+dash water into them ; remove cinders,  
 etc., with the point of a lead pencil.  
 , Remove wax from the ear by tep;d  
 water ; never put a hard instrument into  
@@ -2705,9 +2980,13 @@ For acid poisons, give alkalies ; for al­
 kaline poisons, give acids white of an  
 egg is good in most cases ; in a ease of  
 opium poisojiinggive strong coffee and  
-keep moving. &#x27; 
+keep moving. &#x27; -  
+If in water, float on the back, with the  
+nose and mouth projecting.  
+For apoplexy, raise the head and body ;  
+for fainting lay the person flat. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877480%2F1873051501%2F0178.jp2/pct:4.863305,79.512771,11.718643,14.531015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877480%2F1873051501%2F0178.jp2/pct:4.863305,75.949775,11.787333,19.993561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2816,9 +3095,11 @@ poisons, give acids?white of egg is good in most
 cases; in a case of opium-poisoning give strong  
 cottee, and keep moving.  
 If in water, float on the back, with the nose  
-and mouth projecting
+and mouth projecting.  
+For apoplexy, raise the head and body; for  
+fainting, lay the person fiat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_mastiff_ver01%2Fdata%2Fsn83045462%2F00280654395%2F1873051701%2F0582.jp2/pct:43.166261,57.899217,13.751141,12.640449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_mastiff_ver01%2Fdata%2Fsn83045462%2F00280654395%2F1873051701%2F0582.jp2/pct:43.166261,57.899217,13.751141,13.434911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2831,6 +3112,12 @@ and mouth projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Wiat to Jo in Case of Accident.  
+The following brief rules for ac­  
+tion in eases of accident should  
+be impressed upon the memory of  
+our readers, as their possession  
+will be found useful:  
 For dust in the eyes, avoid rub­  
 biug; dash water in&#x27; them; re- ;  
 move cinders, etc., with the round 1  
@@ -2870,9 +3157,10 @@ ing. give strong coffee and keep
 moving.  
 If in water, float on the back,  
 with the nose and mouth project­  
-ing
+ing.  
+lor apoplexy, raise the hea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn84022044%2F00279554838%2F1873051701%2F0502.jp2/pct:11.309524,11.542974,15.173060,21.608243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn84022044%2F00279554838%2F1873051701%2F0502.jp2/pct:11.287478,7.304195,15.195106,26.433705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2937,9 +3225,18 @@ n,li . f,. ll.-nl,-,. I twontv venva nf nre. The -VOUllg
   
 llUllsuun Ulio maim. , iu. uiuimiuv . . . . . . . , , - - - o  
   
-good in most cases ; in case of opium fate called him away to the West wher
+good in most cases ; in case of opium fate called him away to the West where  
+  
+poisoning give strong coffee and keep  
+  
+moving 11 in water, noat on me uacii,  
+with the nose and mouth projecting.  
+  
+For apoplexy raise the head and body ;  
+  
+for fainting lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873052201%2F0076.jp2/pct:69.225079,73.943465,25.245053,2.127064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776087%2F1873052201%2F0076.jp2/pct:69.225079,73.943465,25.245053,4.575987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2951,7 +3248,19 @@ good in most cases ; in case of opium fate called him away to the West wher
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ibbing; dash  
+water in t lictn : remove cinders, etc., with  
+the round point of a lead pencil.  
+UVtnove water from the ear by tepid  
+water; never put a hard instrument iti the  
+? ar.  
+It any artery is cut, compress above the  
+wound: if a vein is cut, compress below.  
+If choked. get on all fours and cough.  
+l or slight burns, dip the part in cold  
+&#x27;water; if the skin is destroyed, cover with  
+varnish.  
+Smother a tire with carpets, etc. ; water  
 will often spread burning oil and increase  
 the danger. Before passing through smoke  
 tak?* a long breath, and then stoop low ; but  
@@ -2969,9 +3278,11 @@ line poisons, give acids? white of egg is good
 in most cases, in a ease of opium poison­  
 ing. give strong coffee, and keep moving.  
 If in vvab r, float on the back, with the  
-no?e and mouth projecting
+no?e and mouth projecting.  
+For apoplexy, raise the head and body,  
+tor fjinting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742046%2F1873052401%2F0512.jp2/pct:2.448262,53.349770,13.923080,8.443673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742046%2F1873052401%2F0512.jp2/pct:2.448262,47.359450,13.923080,15.325845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2983,7 +3294,17 @@ no?e and mouth projecting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e  
+d forming into dense banks of cloud,  
+which hang like a funeral pall over  
+the dying earth. But soon the sun  
+scorches up these vapor banks anc,  
+dissipates them into space as fast as  
+they can be formed by evaporation.—  
+Then the fiery orb shines out in unut­  
+■ terable splendor without the lightest  
+cloud-wreath to interpose between  
+himself and his victims. Then, truly,  
+the heavens become as iron and the  
 earth as brass. Then the last denizens  
 of the world are stricken down and  
 consumed, the last traces of organic  
@@ -3029,9 +3350,12 @@ egg is good in most cases; in a case of
 opium-poisoning give strong coffee,  
 and keep moving.  
 If in Avater, float on the back with  
-the noose and mouth projecting.
+the noose and mouth projecting..  
+For apoplexy, raise the head and  
+body; for fainting, lay the person flat.  
+m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624347%2F1873052901%2F0256.jp2/pct:67.459459,36.135005,12.135135,25.653781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624347%2F1873052901%2F0256.jp2/pct:67.310811,30.162020,12.283784,33.050057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3043,7 +3367,19 @@ the noose and mouth projecting.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+t in the eyej avoid rubbing; dash  
+water ia them; remove cinders, etc., with  
+the round point of a lead pencil.  
+Remove water from the ear by tepid wa.  
+ter; never put a hard instrument into the  
+ear.  
+It an artery is cut, compress above the  
+wound ; if a vein is cut, compress below.  
+If choked, get on all fours and cough.  
+ror sngut uurns, dip tne part in cold wa  
+ter; it the skin is destroyed, cover witb  
+varnish.  
+Smother a lire with carpets, etc. ; water  
 will often spread burning oil and increase  
 the danger. Before passing through smoke  
 take a long breatb, and then stoop low ; but  
@@ -3060,9 +3396,11 @@ poisons, give acids white ot egg is good in
 most cases; in a case of opium poisoning give  
 strong conee, and keep moving.  
 IF in water llat on the back, with the  
-nose and mouth projecting
+nose and mouth projecting.  
+For apoplexy, raise the hea l and body ;  
+for fainting, lay the person flit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1873060401%2F0093.jp2/pct:28.524590,56.623176,11.033500,7.363998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1873060401%2F0093.jp2/pct:28.524590,50.961964,11.047755,13.876603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3075,6 +3413,25 @@ nose and mouth projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+&quot;The snowy, snowy daisies.&quot;  
+  
+What to Do in Case of Accident.  
+  
+j  
+i  
+:  
+j  
+i  
+1  
+I  
+I  
+&#x27;  
+!  
+Professor Wilder, of Cornell I &quot;ni- 1  
+versity, in Moore&#x27;s Bural New Yorker,  
+gives the following short rules for ac­  
+tion in ca-es of accidjiit, which will  
 be found useful to remember:  
 For dust in the eyes, avoid rubbing: !  
 dash water in them; remove cindeis, 1  
@@ -3113,9 +3470,14 @@ For acid poisons, give alkalies fir
 alkaline poisons, give acids white of  
 egg is good in most ca-es in a ca-e of  
 ; opium rfiisoniiig, give strong cdlV-e  
-1 and k&#x27; p moving
+1 and k&#x27; p moving.  
+If 111 water, Hoal on me i.a K, wun  
+the no.-e and iiioutii projecting.  
+For apoplexy raise the bead and  
+body; f r fainting lay the person i!a&#x27;.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775137%2F1873060501%2F0009.jp2/pct:59.095463,66.276243,9.331616,13.403315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775137%2F1873060501%2F0009.jp2/pct:59.095463,63.447514,9.331616,17.889503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3127,7 +3489,11 @@ egg is good in most ca-es in a ca-e of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of a lead pencil.  
+  
+to remember:  
+For dust iu the eyes, avoid rubbing; dash  
+water into them; remove cind rs, etc., with  
+the round point of a lead pencil.  
 Remove wax from the car by tepid water  
 never put a hard instrument in tbe ear.  
 If any artery is cut, compress above the  
@@ -3153,9 +3519,11 @@ poisons, give acids—white of egg is good in
 most cases. In a case of opium poisoning,  
 give strong coffee, and keep moving.  
 If in water, float on the back, with the nose  
-and mouth projectin
+and mouth projecting  
+For apoplexy, -aise the head and body; for  
+fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525358%2F1873061001%2F0115.jp2/pct:85.298495,32.828101,11.067471,10.372308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525358%2F1873061001%2F0115.jp2/pct:85.232347,31.565019,11.133620,12.393240/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3203,9 +3571,10 @@ egg is good m most cases ; in a case of
 opium poisoning give strong coffee, and  
 keep moving.  
 If in water, float on the back, with  
-the nose and mouth projecting
+the nose and mouth projecting.  
+l or apoplexy, raise the head an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1873061301%2F0738.jp2/pct:15.736998,10.691061,11.304231,19.894192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1873061301%2F0738.jp2/pct:15.736998,10.691061,11.317704,20.412212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3218,6 +3587,7 @@ the nose and mouth projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+of accident, which will be found useful to  
 remember :  
 For dust in the eye, avoid rubbing ; dash  
 water in them; remove cinders, etc., with  
@@ -3253,7 +3623,7 @@ good in most cases ; in a case of opium
 poisoning give strong coffee, and keep  
 moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F00280777031%2F1873061301%2F0519.jp2/pct:63.985828,44.347939,9.849424,12.250454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F00280777031%2F1873061301%2F0519.jp2/pct:63.968113,43.907182,9.867139,12.691211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3275,7 +3645,12 @@ moving
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d  
+  
+will be found useful to remember  
+  
+For dust in the eyes avoid rnbbing  
+dash water into them remove cinders,  
+&amp;c., with the round point of a lead  
 pencil.  
 .. Remove wax from the ear bv tenid  
 wait-i ne»ci put a iiaimiisiruniBBTTB­  
@@ -3315,9 +3690,11 @@ opium polsouiug give strong coffee,
 and keep moving.  
   
 If in water, float on the back, with  
-the nose and mouth projecting
+the nose and mouth projecting.  
+For apoplexy raise the head and  
+body for faluting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1873061901%2F0335.jp2/pct:66.826923,47.949711,10.028013,14.539530/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1873061901%2F0335.jp2/pct:66.815566,46.105373,10.039370,17.253781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3329,7 +3706,20 @@ the nose and mouth projecting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o ; enlarge tho wound ; or  
+compress  
+below.  
+If choked, get on all fours and cougb.  
+For slight burns, dip in cold water;  
+tho skin is destroyed, cover with  
+varnish.  
+Hmother a firs with carpets, etc.;  
+water will often spread burning oil and  
+ncreaso tho dancer. Before passing  
+through Binoko tuko a long breath, and  
+then stoop low ; but if carbolic acid gas  
+is suspected, walk erect.  
+Huek poisoned wo&#x27;iixIh, unless your  
+mouth is soro ; enlarge tho wound ; or  
 better, cut out the part without delay ;  
 hold the wounded part as loug as can  
 bo borne to a hot coal or end of a cigar.  
@@ -3342,9 +3732,11 @@ egg is good in most cases ; in a case of
 opium poisoning give strong coffee, ami  
 keep moving.  
 If in water, float on tho Buck, with  
-the noso and mouth projecting
+the noso and mouth projecting.  
+For apoplexy, raise tho head and  
+body; for fainting, lay the persAi flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1873061901%2F0561.jp2/pct:21.719002,19.815078,12.177939,8.321479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1873061901%2F0561.jp2/pct:21.578100,12.176387,12.318841,17.211949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3389,9 +3781,11 @@ egg is good in most cases ; in a case of
 opium poisoning give strong coffee, and  
 keep moving.  
 If in water, float on the bock, with  
-tho nose and mouth projecting
+tho nose and mouth projecting.  
+For apoplexy, raise the head and  
+l)ody ; for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1873061901%2F0106.jp2/pct:15.441886,5.479922,10.147525,15.478778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1873061901%2F0106.jp2/pct:15.441886,5.479922,10.147525,16.496968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3404,6 +3798,12 @@ tho nose and mouth projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ful to preserve and remember : For  
+dust in the eyes, avoid rubbing ; dash  
+water into them ; remove cinders, etc.,  
+with the round point of a lead pencil  
+Remove water from the ear by cold wa  
+ter ; never put a hard instrument into  
 the ear. If choked, get upon all-fours  
 and cough. For slight burns, slip the  
 parts in cold water ; if the skin is de  
@@ -3421,9 +3821,11 @@ poisons, use acids white of an egg is
 good in most cases ; in a case of opium  
 poisoning, give strong coffee and keep  
 moving. 3pif in water, float on the back,  
-with the nose and mouth projecting
+with the nose and mouth projecting.  
+For apoplexy, raise the head and body ;  
+for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1873062001%2F0742.jp2/pct:50.741840,11.368653,11.100620,9.801325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1873062001%2F0742.jp2/pct:50.701376,8.068433,11.154572,14.216336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3436,6 +3838,12 @@ with the nose and mouth projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ful to preserve and remember : For  
+dnstiii tho eves, avoid rubbing; dash  
+water into them ; remove cinders, etc.,  
+with the round point of a lead pencil  
+Remove water from the ear by ojld wa  
+tor ; never put a hard instrument into  
 tho car. If choked, get upon all-fours i  
 and cough. For slight burns, slip tho  
 parts iu cold water ; if the skin is de­  
@@ -3453,9 +3861,11 @@ poisons, tise acids white of an egg is
 good in most cases ; in n case of opium  
 poisoning, give strong entice and keep  
 moving. If iu water, tlout ou thu buck,  
-with thu nose and mouth projecting
+with thu nose and mouth projecting.  
+For apoplexy, raise the head aud body ;  
+for fainting, lay tho person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1873062601%2F0562.jp2/pct:79.099678,79.689467,12.942122,10.518954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1873062601%2F0562.jp2/pct:79.099678,76.192474,12.942122,15.218912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3468,6 +3878,12 @@ with thu nose and mouth projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ful to preserve and remember : For  
+dust in the eyas, avoid rubbing ; dash  
+water into them ; remove cinders, etc,  
+with the round point of a lead pen cil  
+Remove water from the ear by cald wa  
+ter ; never put a hard instrument into  
 the ear. If choked, get upon all-fours  
 and cough. For slight burns, slip the  
   
@@ -3486,9 +3902,12 @@ poisons, use acids white of an egg is
 good in most cases ; iu a case of opium  
 poisoning, give strong coffee and keep  
 moving. j If in water, float on the back,  
-with tho nose and mouth projecting
+with tho nose and mouth projecting.  
+For apoplexy, raise the head aud body ;  
+  
+for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1873062601%2F0110.jp2/pct:57.090214,10.152226,9.949502,9.042005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1873062601%2F0110.jp2/pct:57.076566,7.073366,9.976798,13.128076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3501,6 +3920,21 @@ with tho nose and mouth projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+onuother fire - with carpets.  
+kctfz water - wilr.6fien3 gbreSwliZ  
+burning oil tcViid&quot;C;&#x27;increase  
+the ilaiTger,;.- rPeforo ,vPft?lfta  
+t lirough smoke take a long  
+breath, ,a li&#x27;d, Iheii pfoop 6yf i&#x27;br  
+if carbolio acid gas issuspected--walk,  
+erect, ,. , t  
+, ; buck poisoned wounds un­  
+less yotir, luouthis sore; enlarge,  
+wounds or,1 what -is better, veufc&quot;  
+put the parts VwitWuirdelay&#x27;  
+hold the wounded part a long&quot;  
+as cap ho. born to, a k9fMi&#x27;,,w&#x27;&#x27;&#x27;  
+end of a cigar. &#x27; &quot; 1 &#x27; .u&quot;i&quot;  
 ... I&#x27;caso of &#x27;poisoning&#x27;, JfacftC  
 vomiting by tickling the throat,&quot;  
 or by;,&#x27;warm, water, find.m&#x27;ustad,&#x27;,,&#x27;  
@@ -3511,7 +3945,7 @@ iu most case j in cases of opi­
 um poisoning give strong coffee  
 and keep moving. nt-iiiyr. a h 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn87075167%2F00280774893%2F1873070201%2F0965.jp2/pct:84.952314,77.079601,11.868598,6.091630/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn87075167%2F00280774893%2F1873070201%2F0965.jp2/pct:84.934652,67.071922,12.168845,16.099309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3523,7 +3957,18 @@ and keep moving. nt-iiiyr. a h
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-choked, get on all fours and  
+  
+Fordustin the eyes, avoid rubbing,  
+dash water into them; remove cinders;  
+etc., with the round point of a led  
+pencil.  
+Remove wax from the ear by tepid  
+•water, never put a hard instrument  
+into the ear.  
+If au artery is cut, compress above  
+the wound; if a vein is cut compress  
+below.  
+If choked, get on all fours and  
 cough.  
 For light burns, dip the part in  
 cold water, if the skin is destroyed  
@@ -3550,9 +3995,11 @@ of an egg is good in most cases. In
 cas&#x27;j of opium poisoning, give strong  
 oofl&#x27;oe and keep moving.  
 If in water^float on the back, with  
-nose and mouth projecting
+nose and mouth projecting.  
+For apoplexy, ruioy the head and  
+body fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159373%2F1873070301%2F0717.jp2/pct:7.383823,13.433563,10.965091,14.122642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159373%2F1873070301%2F0717.jp2/pct:7.361243,8.401197,10.987671,20.143384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3565,6 +4012,12 @@ nose and mouth projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+RULES TO REMEMBER,  
+  
+If one only knows what to do in emergencies, he  
+can bring comfort to many a sufferer, and save, per-  
+haps, dying men. The following rules, by Prof.  
 Wilder, of Cornell University, are worth committing  
 to memory:  
   
@@ -3594,7 +4047,7 @@ the throat, or by warm mu: °
 For acid poisons give alkalies; for alkaline poisons  
 give acids; white of an egg is good in most cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-07-03_46_27&#0036;4/pct:28.512168,71.695619,20.907080,11.083837/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-07-03_46_27&#0036;4/pct:28.456858,68.825529,20.962389,13.953927/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3642,9 +4095,11 @@ egg is good in most cases ; in a case of
 opium poisoning give strong coltee,  
 and keep moving.  
 If in water, float on the back, with  
-the nose and mouth projecting. 
+the nose and mouth projecting. .  
+For apoplexy, raise the head and  
+body; for fainting, lay the person fla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873070501%2F0319.jp2/pct:15.344300,71.005053,9.841316,15.362156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873070501%2F0319.jp2/pct:15.344300,71.005053,9.841316,16.226839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3656,7 +4111,24 @@ the nose and mouth projecting.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+ iu the eyes avoid rubbiug  
+dash water into them removeoinders,  
+Ac., with the round point of a lead  
+pencil.  
+  
+Uemove wax from the ear by tepid  
+water never put a hard instrument  
+into the ear.  
+  
+If any artery is cut, compress above  
+the wound, if a vein is cut compiess  
+below.  
+  
+If choked, get on ail fours aod  
+cough.  
+For slight burus, dip the part in  
+cold water if the sltiu is destroyed  
+cover with varnish.  
   
 Hmother a tire with carpets, 4c,  
 water ofieu spreads burning oil and  
@@ -3683,9 +4155,11 @@ opium {Kiisouing give strong coffee
 and keep moving.  
   
 If In water, ti »at on the back, witb  
-the nose aud mouth projecting
+the nose aud mouth projecting.  
+For apoplexy, raise the head and  
+body for fainting, lay the person fla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1873073101%2F0329.jp2/pct:38.465526,63.991679,11.016071,10.871469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1873073101%2F0329.jp2/pct:38.247797,56.692942,11.233800,19.140939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3785,7 +4259,8 @@ poisons, give acids — white of egg is
 good in most cases ; in a case of  
 opiumpoisoning give strong coffee, and  
 keep moving. If in water, float on the  
-back, with the nose and mout
+back, with the nose and mouth  
+projecting. For apoplexy, raise the hea
 </td></tr></table>
 
 ---
@@ -3800,7 +4275,7 @@ back, with the nose and mout
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10?page=3)
 
 #### 1873-10-01
 
@@ -3856,7 +4331,16 @@ in most cases.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-em  
+nd place  
+them in a stone jar, with as much sugar, as  
+Jou have tomatoes, a’ml let them stand two  
+days; then pour oft’the syrup ami boil and  
+skim it until no skuni rises. Then pour as  
+before, then hoil and skim again. After a  
+third time they arc fit to dry, i the weather  
+is good; if not, let them stand in I lie syrup  
+until drying weather. Then place them on  
+large earthen plates or dishes, and put them  
 in the sun to dry, which will take about a  
 week, after which pack them down in small  
 wooden hoses, with fine white sugar bet ween  
@@ -3893,7 +4377,7 @@ In case of poisoning, excite vomiting by
 tickling tbe throat or by warm water and  
 mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873100401%2F0167.jp2/pct:7.325671,24.708328,15.032838,20.732198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873100401%2F0167.jp2/pct:7.325671,19.592329,15.032838,25.848196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3941,9 +4425,11 @@ is good iu moat coses: in a oase of opium
 poisoning, give strong coffee, and keep  
 moving.  
 If iu water, float on the back, with the  
-nose and mouth projecting
+nose and mouth projecting.  
+For apoplexy, raise the head and body;  
+for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_dayton_ver01%2Fdata%2Fsn84022048%2F00415627397%2F1873101401%2F1351.jp2/pct:2.504394,38.748531,11.994728,15.055817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_dayton_ver01%2Fdata%2Fsn84022048%2F00415627397%2F1873101401%2F1351.jp2/pct:2.504394,38.748531,11.994728,15.937133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3957,7 +4443,16 @@ nose and mouth projecting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-pencil. Eemove water from the  
+MISCELLANEOUS EXTRACTS. ? What to do in  
+Case or! Accident. — Professor Wilder,  
+of Cornell University (says Moore&#x27;s  
+Rural New j Yorker) gives the following  
+,short rules ifor action in case of  
+accident, which will! be found useful to  
+remember : — For dujit in the eyes,  
+avoid rubbing ; dash wateri in them ;  
+remove cinders, &amp;c, with the round point  
+of a lead pencil. Eemove water from the  
 ear by tepid water ; never ! put a hard  
 instrument into the ear. If iany artery  
 is cut, compress above the wound ; if a  
@@ -3984,7 +4479,7 @@ give uoids — whito of egg is good in
 most cases ; in a cako of opium/  
 poisoning givo strong coffee; and ittSep  
 moving. If in water, lloat on the buck,  
-w
+with the noso und mouth projecting. For
 </td></tr></table>
 
 ---
@@ -4033,9 +4528,11 @@ egg Is good in most cases : in a case 01
 opium poisoning give strong coffee  
 and keep moving.  
 If in water .neat on the back, with  
-the nose and mouth projecting
+the nose and mouth projecting.  
+For apoplexy, raise tne head ana  
+body ; for tainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152627%2F1873122701%2F0771.jp2/pct:56.975415,53.218315,16.352201,22.428666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152627%2F1873122701%2F0771.jp2/pct:56.975415,53.218315,16.352201,23.606503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4071,9 +4568,11 @@ Incase of poisoning, excite vomiting by
 I tickling the throat or by warm mustard.  
 For acid poisons give alkalies ; for alkaline  
 poisons give acid ; white of egg is good in  
-most cases
+most cases.  
+For apoplexy, raise the head and body 5  
+for fainting, lie Hat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1874012101%2F0282.jp2/pct:81.587464,41.301678,12.812979,13.388593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1874012101%2F0282.jp2/pct:81.587464,41.301678,12.812979,14.630236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4121,9 +4620,11 @@ egg is good in most cases ; in a case of
 opium poisoning, give strong coffee, and  
 keep moving.  
 If in water, float on the back, with  
-the nose and month projecting
+the nose and month projecting.  
+For apoplexy, raise the head and  
+body ; for fainting, lay the peraou flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200295602%2F1874012201%2F0189.jp2/pct:64.356743,14.404549,14.310131,19.006002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn84038034%2F00200295602%2F1874012201%2F0189.jp2/pct:64.356743,14.404549,14.310131,20.058966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4136,6 +4637,14 @@ the nose and month projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Wilder, of Cor-  
+  
+gives &#x27; these short  
+  
+What to Do in  
+oknt. Professor  
+  
+nell University,  
   
 rules for action 111 case 01 acci­  
 dent. It would not be a bad thing  
@@ -4143,12 +4652,9 @@ to cut them out and carry, them in
 one&#x27;a pocket-book, . r commit  
 them to memory :  
 For duat in the eyes, avoid rub­  
-bing; dash cold water in them;  
-remove ciudars etc!, with the  
-round point of a lead iciicil. .  
-llcuiovc insects f
+bing; dash cold water in them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472979%2F1874012301%2F0106.jp2/pct:4.343796,89.956720,8.899484,4.250361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472979%2F1874012301%2F0106.jp2/pct:4.343796,88.547331,8.912727,4.427921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4161,6 +4667,8 @@ llcuiovc insects f
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+of acci lent, which will be found useful to re-  
 momb-  
 For .lust in the eyes, avoid rubhi.&#x27;ig; dash  
 watur in them; remove cinders, etc., with  
@@ -4191,7 +4699,7 @@ line poison-., give acids u bile of eg g is good
 in mo; civs; in a case of opium poisoning,  
 give strong coifee, and keep moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1874013101%2F0396.jp2/pct:50.583204,72.877327,14.968896,14.155553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1874013101%2F0396.jp2/pct:50.524883,72.335930,15.027216,14.696950/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4239,9 +4747,11 @@ egg is good in most eases ; in a ease of
 opium poisoning, give strong coffee, and  
 keep moving.  
 If in water, tloat on the back, with  
-the nose and mouth projecting
+the nose and mouth projecting.  
+For apoplexy, raise tho head and  
+body ; for fainting, lay tho persou flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1874013101%2F0525.jp2/pct:81.336846,72.075853,12.598791,17.719748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1874013101%2F0525.jp2/pct:81.336846,72.075853,12.619453,18.745628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4296,7 +4806,11 @@ and mustard, if in water float on th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- lead pen­  
+  
+be found useful to remember :  
+For dust in the eyes, avoid rubbing ;  
+dash water into them ; remove cynders,  
+etc., with the round point of a lead pen­  
 cil.Remove wax from the ear&#x27; by tepid  
 water ; never put a hard instrument in  
 the ear.  
@@ -4328,9 +4842,11 @@ egg is good in most cases. In a case of
 opium poisoning give strong coffee, and  
 keep moving.  
 If in water, float on the back, with  
-the nose and mouth projecting
+the nose and mouth projecting.  
+F or apoplexy, raise the head and body,  
+for fainting, lay the person fiat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194977%2F1874033001%2F0495.jp2/pct:40.881503,7.365751,11.069364,20.377109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194977%2F1874033001%2F0495.jp2/pct:40.881503,5.524314,11.069364,23.486603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4425,9 +4941,11 @@ egg is pood in most cases; in a case of
 opium poisoning give strong coffee and  
 Aeep moving  
 If in water, float on the back, with the  
-nose and mouth projecting
+nose and mouth projecting.  
+For apoplexy, raise the head and  
+body; for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779428%2F1874050601%2F0425.jp2/pct:7.332072,54.923652,15.018921,18.728576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779428%2F1874050601%2F0425.jp2/pct:7.332072,54.923652,15.018921,19.772515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4538,7 +5056,18 @@ water float on the back, with nose an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-pencil.  
+  
+  
+What to I In Vstmv of Arc-ideMt.  
+  
+Prof. Wilder: of Cornea UbSersitr,  
+gavs iVtoore 9 iiurai rsew i orer, giy $ j  
+the following short rule for. action io  
+cases of accident, hieh.will bo found  
+useful to remember  
+For dust in the ves, avoid rubbing,  
+dash water into them; remove cinders,  
+etc., with the round point of a lead pencil.  
 Keniove water f i cm the ear uy tepiu  
 water ; never put a hard instrument into  
 the ear.  
@@ -4569,9 +5098,11 @@ egg is good in most case; in a ease of
 opium poisoning, give strong coffee and  
 keep moving.  
 If in water, float on the back, with the  
-nose and mouth projecting
+nose and mouth projecting.  
+For apoplexy, raise, the head and body ;  
+for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877480%2F1874090301%2F0450.jp2/pct:16.100629,8.892238,11.572327,15.190010/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877480%2F1874090301%2F0450.jp2/pct:15.918938,4.672193,11.851852,20.368177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4584,6 +5115,7 @@ nose and mouth projecting
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+may be others who will have larger amounts.  
 What To Do.?Professor Wilder, of Cor?  
 nell I&#x27;niversity, gives these short rules for ac?  
 tion in case of accident :  
@@ -4612,7 +5144,7 @@ case of opium poisoning, give strong coffee ami
 keep moving. It&#x27; in water. Iloat on the back,  
 with the nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551281%2F1874110501%2F0250.jp2/pct:82.152231,76.161122,15.626519,13.832355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551281%2F1874110501%2F0250.jp2/pct:82.152231,75.055447,15.626519,14.938030/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4656,7 +5188,9 @@ by water and mustard. For acid poisons,
 givo acids; in case of opium poisoning,  
 give strong coffee and keep moving. If  
 in water, float on the back, with the nose  
-and mouth projectiag. For apoplexy, rais
+and mouth projectiag. For apoplexy, raise  
+the head and body; for fainting, lay the  
+person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn86053067%2F00415620184%2F1874110501%2F0255.jp2/pct:56.415508,3.989296,26.734943,93.848808/!600,600/0/default.jpg"/>
 </td>
@@ -4699,9 +5233,10 @@ or by water and rrustard. For acid poi
 sons, give ucids; in case of opium poison  
 ing, give strong coffee and keep moving  
 If in water, float on the back, with tht  
-nose and mou&#x27;h projecting. For aponlexy
+nose and mou&#x27;h projecting. For aponlexy,  
+raise the bead and liocty; for fainting, la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1874110601%2F0197.jp2/pct:72.717979,32.164083,10.968307,15.173057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1874110601%2F0197.jp2/pct:72.717979,32.164083,10.968307,15.674164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4713,7 +5248,18 @@ nose and mou&#x27;h projecting. For aponlexy
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+­  
+dent: For dust in tho eyes, avoid  
+rubbing, dash water into them ; re­  
+move cinders, etc., with tho round  
+point of a lead pencil, licmovo in­  
+sects from the ear by tepid water;  
+never put n hard instrument into the  
+ear. If an artery Is cut, compress  
+above tbo wound; if a vein is cut,  
+Leompross below. If choked, get upon  
+all lours and cough, l or light burns,  
+dip the part in cold water; if the skin  
 is destroyed, cover with varnish.  
 Smother a lire with carpets, etc. ; wa­  
 ter will Olten spread oil, and increase  
@@ -4733,7 +5279,7 @@ of opium poisoning, give strong coffee
 and keep moving. If in water, float  
 on the back, with tho nose and mout
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1874111101%2F0687.jp2/pct:56.056825,80.899684,9.656364,8.019546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1874111101%2F0687.jp2/pct:55.864849,76.013222,9.848339,12.906007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4760,9 +5306,19 @@ cough. For light burns, dip the part in
 cold water; if theBkinis destroyed, cover  
 with varnish. Smother a Are with carpels,  
 etc; water will often spread burning  
-oil, and inc
+oil, and increase the da*ger. Before passing  
+through smoke, take a lull breath,  
+and then stoop low, bnt if carbon is suspected,  
+then walk erect. Suck poison  
+wounds, unless your mouth is sore. Enlarge  
+the wound, or, better, cut out tho  
+part without delay. Hold the wounded  
+part as long as can b? borne to a hot coal,  
+or end of b cigar. In cose of poisoning,  
+excite vomiting by tickling the throat, or  
+by water of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190893%2F1874111601%2F1101.jp2/pct:13.867470,51.200589,13.457831,7.827670/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_belgium_ver01%2Fdata%2Fsn84026844%2F00202190893%2F1874111601%2F1101.jp2/pct:13.867470,51.200589,14.078313,12.534674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4798,9 +5354,12 @@ borne to a hot coal or end of a cigar. In case
 of poisoning, excite vomiting by tickling the  
 throat, or by hot writer or mustard. For acid  
 poisons, give acids ; in case of opium poison­  
-ing, give strong coffee and keep moving. I
+ing, give strong coffee and keep moving. If  
+in water, float on the back, with mouth and  
+nose projecting. For apoplexy, raise the head  
+and body ; for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F00295874892%2F1874111801%2F0268.jp2/pct:33.136966,79.825702,14.451399,11.797607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F00295874892%2F1874111801%2F0268.jp2/pct:33.136966,79.825702,14.451399,13.267430/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4830,9 +5389,13 @@ but if carbon is suspected, then walk erect!
 Suck poison woaad?, un&#x27;e?s your moath is so re.  
 Enlarge the wound, or, bettor, cut oat the park  
 without delay. Ho&#x27;.d the wounded part as long  
-as can be born to a hot coal, or 
+as can be born to a hot coal, or et&#x27;d of a ci/.r.  
+In case of poisoning, excite vomiting bv tick­  
+ling tbe throat, or by water or inntard. For  
+acid piisons, give acids in case of opinio p &gt;i-oa­  
+ng, give strong coffee and keep moviug. If I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654012%2F1874112401%2F0321.jp2/pct:58.035581,79.923986,13.529105,7.015766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654012%2F1874112401%2F0321.jp2/pct:58.035581,79.923986,13.529105,8.623311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4875,9 +5438,12 @@ throat, or by water and mnstard. For
 acid poisons, give acids; in case of  
 opium poisoning, give strong coffee and  
 keep moving. If in water, float on the  
-back, with the nose and month pr
+back, with the nose and month pro  
+jecting. For apoplexy, raise the head  
+and body : for fainting, lay the person  
+fla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1874112501%2F0237.jp2/pct:18.962556,62.855997,10.838200,14.106164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1874112501%2F0237.jp2/pct:18.911027,62.855997,10.889729,15.389758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4918,9 +5484,11 @@ the throat, or by water or mustard.
 For acid poisons, give acids; in case of  
 opium poisoning, give strong coffee, and  
 keep moving. If in water, Boat on the  
-back, wiih the nose and mouth project
+back, wiih the nose and mouth project­  
+ing. For apoplexy, raise the head and  
+body; for fainting, ley the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1874112501%2F0378.jp2/pct:64.507476,56.510937,14.111697,15.027571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1874112501%2F0378.jp2/pct:64.507476,56.510937,14.111697,16.033448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4959,9 +5527,11 @@ tickling the throat, or by water ornui­
 tard. For acid poison&amp;ygive acids ; in eade  
 of opium poisoning, give strong cmlVeand  
 keep moving. If in water,&#x27; float on the  
-back, with the nose and mouth projecting
+back, with the nose and mouth projecting.  
+For apoplexy, raise the head and body ;  
+for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F00212470016%2F1874112601%2F0158.jp2/pct:82.822757,84.384138,10.972179,10.819979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F00212470016%2F1874112601%2F0158.jp2/pct:82.822757,84.384138,10.972179,11.662183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5002,9 +5572,11 @@ the throat, nr by water or mustard. For
 acid poisons, give acids; in case of opium  
 poisoning, give strong coffee and kecj)  
 moving. It in water, float on the hack,  
-w itli the nose and mouth projecting. Fo
+w itli the nose and mouth projecting. For  
+apoplexy, raise the head and body; for  
+fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1874112601%2F1564.jp2/pct:59.975862,43.878805,17.537905,16.505956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1874112601%2F1564.jp2/pct:59.975862,43.878805,17.537905,17.668746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5030,9 +5602,19 @@ cumpic . above the wound; if a vein is
 dip the part, in cold water; if the skin i  
 destroyed enver with varnish. Smother  
 a tire with carpets, &amp;&lt;*.; water will often  
-spread hurtling oil, ami 
+spread hurtling oil, ami increase the dan­  
+ger. Before (ro wing through smoke take  
+| a full breath, and then stoop low, hut if  
+carbon i*: suspected them walk erect. Suck  
+poison wounds, unless your mouth insure.  
+Enlarge tbo wounds, or, better, cut out  
+| the part without d day. Hold the wound-  
+I od part us long as can be borne to u hot  
+! coal, or end of a cigar, fo ease of pois­  
+oning excite vomiting by tickling the  
+| throa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1874112701%2F0806.jp2/pct:79.009872,51.914532,11.797478,7.522893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1874112701%2F0806.jp2/pct:79.009872,51.914532,11.841462,12.905220/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5076,9 +5658,11 @@ poisons, give acids ; in case of opium
 poisoning, give strong coffee and keep  
   
 moving. If in water, float on the back,  
-with the nose and mouth projecting
+with the nose and mouth projecting.  
+For apoplexy, raise the head and body ;  
+for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152627%2F1874112701%2F1103.jp2/pct:31.704508,6.204331,24.744982,88.574465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152627%2F1874112701%2F1103.jp2/pct:31.704508,6.204331,24.761435,88.574465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5121,7 +5705,10 @@ tickling the throat, or by water or mus­
 tard. For acid poisons, give acids ; in  
 case of opium poisoning, give strong  
 coffee and keep moving. If in water,  
-float on the back, with the nose an
+float on the back, with the nose and  
+mouth projecticg. For apoplexy, raise  
+the head and body; for fainting, lay  
+the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470120%2F1874112701%2F0193.jp2/pct:60.654429,13.901099,22.120245,81.241758/!600,600/0/default.jpg"/>
 </td>
@@ -5145,7 +5732,10 @@ float on the back, with the nose an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- t ic., with the round point of a  
+  
+For dust in t! ■ eyes, avoid rubbing,  
+dash waier i to them; remove co­  
+ders t ic., with the round point of a  
 load pencil. Remove insects from  
 the ear by tepid waier; never put a  
 hard instrument into the can If an  
@@ -5164,11 +5754,9 @@ but if carbon is suspected, then walk
 ,-reet. Suekp&#x27;dsou wounds. 11l less  
 the mouth is sort.&#x27;, Enlarge the  
 wound, or, belt* r, cut out the part  
-without delay. 11 Mih m .&gt;u * as  
-long as mu be h-wne to ;; hot eo.ii,  
-&gt;r en
+without delay. 11 Mih m .&gt;u * a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1874112801%2F0380.jp2/pct:7.553187,81.491856,12.250011,12.335304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1874112801%2F0380.jp2/pct:7.575965,80.364491,12.227233,12.435592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5214,9 +5802,11 @@ and mustard. For acid poisons, givo
 acids in case of opium poisoning,  
 give strong coffee and keep moving.  
 If in water, float on the back, with  
-the nose and mouth projecting. Fo
+the nose and mouth projecting. For  
+apoplexy raise the head and body  
+for fainting, lay the person flat.&#x27;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82015854%2F00279528980%2F1874120301%2F0445.jp2/pct:75.973162,15.718253,14.760831,17.650280/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82015854%2F00279528980%2F1874120301%2F0445.jp2/pct:75.973162,15.718253,14.760831,18.761000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5228,7 +5818,18 @@ the nose and mouth projecting. Fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r. If an artery is cut, compress above  
+  
+could be found to exactly suit the case,  
+and let them ont on that compromise.&quot;  
+Presence of Jliud.  
+Prof. Wilder gives these short rules  
+for action in caw? of accident : For dust  
+in the eyes, avoid rubbing, dash water  
+into them; remove cinders, etc, with  
+the round point of a lead penoil. Re­  
+move insects from the ear by tepid water;  
+never put a hard instrument into the  
+ear. If an artery is cut, compress above  
 the wound ; if a vein is cut, comprecs  
 below. If choked, get npon all lours,  
 and cough. For lig) t burns, dip tbe  
@@ -5249,9 +5850,12 @@ tickling the throp.t, or by water or mus­
 tard. For acid poi-ons, give acids ; in  
 case of opium &quot;poisoning, give strong  
 coffee and keep moving. If in water,  
-float on the back, with the nose an
+float on the back, with the nose and  
+mouth projecticg. For apoplexy, raise  
+tho head acd body ; for faintiu, lay  
+the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1874120301%2F0414.jp2/pct:46.743555,84.224415,9.728630,8.891693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1874120301%2F0414.jp2/pct:46.743555,79.290959,9.742198,15.041303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5349,7 +5953,9 @@ float ou the back, with the nose an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-inders,  
+  
+For dust in the eye#, avoid rubbing,  
+dash water in.o them ; remove cinders,  
 Ac., with the rontid point of a lead  
 pencil Kemova insects from the ear  
 by tepid water, never put a hard in­  
@@ -5375,9 +5981,12 @@ by tickling the throat, or by water or
 mustard. For acid poisons, give acids;  
 in case of opium poisoning, give strong  
 coffee ami keep moving. If in water,  
-float on the back w ith the nose pro
+float on the back w ith the nose pro­  
+jecting. For apoplexy, raise the head  
+and body ; for fainting lay the person  
+flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348458%2F1874121001%2F0599.jp2/pct:55.998637,64.228265,11.405078,16.548577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F00393348458%2F1874121001%2F0599.jp2/pct:55.913429,63.615473,11.490286,18.872080/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5389,7 +5998,10 @@ float on the back w ith the nose pro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rs etc., with the round  
+  
+of accident : For dust in the eyes,  
+avoid rubbing, dash water into them;  
+remove cinders etc., with the round  
 point of a lead pencil. Iteniove insects  
 from the ear by tepid water; never put  
 a bard instrument into the ear. If an  
@@ -5414,9 +6026,11 @@ the throat, or by water and mustard
 For acid poison*, give acids; in case of  
 opium poisoning, give strong coffee and  
 keep moving. If in water, float on the  
-back, with the nose and mouth projec
+back, with the nose and mouth project  
+ing. For apoplexy, raise the head and  
+body; for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1874121201%2F0407.jp2/pct:69.623580,75.472258,13.399981,14.558402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1874121201%2F0407.jp2/pct:69.623580,74.420598,13.399981,16.777107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5451,9 +6065,13 @@ unless your mouth is sore. Enlarge tbe
 wound, or better, cut out the part with­  
 out delay. Hold tbe wounded part as  
 long as can be borne to a hot coal, or  
-end of a cigar. In case of
+end of a cigar. In case of poisoning,  
+excite vomiting by tickling the throat or  
+by water or mustard. For acid poisons  
+give acids ; in case off opium poisoniDg  
+give strong c.ffee andkeep moving. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1874121801%2F0632.jp2/pct:40.897098,73.114264,13.009945,14.906647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1874121801%2F0632.jp2/pct:40.876801,73.114264,13.030242,17.550411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5504,15 +6122,17 @@ the throat, or by water or mustard. For
 acid poisons, give acids; in case of opium  
 poisoning, give strong coffee, and keep  
 moving. If in water, float on the back.  
-with the nose and mouth projectin
+with the nose and mouth projecting  
+For apoplexy, raise the head and body  
+for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028903%2F1874122501%2F0263.jp2/pct:74.272658,51.103854,9.702970,14.996734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028903%2F1874122501%2F0263.jp2/pct:74.272658,51.103854,9.702970,16.054866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Silent World 1871-1876_](https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1?page=2)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1?page=2)
 
 #### 1875-01-01
 
@@ -5538,9 +6158,11 @@ a cigar. In case of poisoning, excite vomiting by tickling the
   
 throat, or by water or mustard. For acid poisons give acids; in  
 case of opium poisoning, give strong coffee and keep moving. If in  
-water float on the back, with the nose and mouth projecting. Fo
+water float on the back, with the nose and mouth projecting. For  
+apoplexy raise the head and body; for fainting lay the person  
+flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1&#0036;2/pct:48.951468,64.005413,35.560216,19.598557/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1&#0036;2/pct:48.951468,64.005413,35.560216,21.718539/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5581,9 +6203,11 @@ the throat, or by water or mustard. For
 acid poisons, give aeids; in case of opium  
 poisoning, give strong coffee and keep  
 moving. If in water, float on the back,  
-with the nose and mouth projecting
+with the nose and mouth projecting.  
+For appoplexy, raise the head and body;  
+for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_dole_ver01%2Fdata%2Fsn83040340%2F00237283132%2F1875010901%2F0007.jp2/pct:56.010979,13.755796,11.546203,17.254461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_dole_ver01%2Fdata%2Fsn83040340%2F00237283132%2F1875010901%2F0007.jp2/pct:56.010979,13.755796,11.546203,18.434734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5636,9 +6260,13 @@ In case of poisoning, excite vomiting
 by tickling the throat, or by hot water  
 or mustard. For acid poisons, give  
 acids; in case of opium poisoning, give  
-strong coffee and keep moving. If yo
+strong coffee and keep moving. If you  
+fall into the water, float on the back,  
+with the nose and mouth projecting.  
+For apoplexy, raise the head and body;  
+for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1875011301%2F0431.jp2/pct:35.044499,71.341172,14.698596,16.830768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1875011301%2F0431.jp2/pct:35.044499,71.341172,14.698596,18.937004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5650,8 +6278,7 @@ strong coffee and keep moving. If yo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-er gives tlicso sliort rules  
-for action in caso ol accident : I or diut  
+  
 the eyes, avoid rubbing, dash water into  
   
 them ; remove cinders, etc., with the rounJ An&#x27; requests he has to mako will doubtless  
@@ -5673,7 +6300,7 @@ unless your mouth is sore, hnlargo the
 wound, or better, cutout the part without  
 delay Hold the wounded part a long us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F0023728799A%2F1875012901%2F0245.jp2/pct:73.800350,81.203209,23.152364,9.732620/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F0023728799A%2F1875012901%2F0245.jp2/pct:73.800350,82.219251,23.152364,8.716578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5705,9 +6332,10 @@ end of acigar. In case of poisoning, excite vomiting by
 tickling the throat, or by water and mustard. For acid  
 poisons, give acids. In case of opium{poisoning, give strong  
 coffee, and keep moving. If in water, float on the back,  
-with the nose and mouth projecting. For apoplexy, rais
+with the nose and mouth projecting. For apoplexy, raise  
+the head and body, For fainting, lay the person flat.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_peterson-magazine_1875-02_67_2&#0036;55/pct:55.856643,64.754566,35.402098,21.147260/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_peterson-magazine_1875-02_67_2&#0036;55/pct:55.856643,64.754566,35.402098,22.231735/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5797,9 +6425,11 @@ of egg is good in most cases; in case of
 opium poisoning, give strong coffee and  
 keep moving.  
 If in the water, float on the back, with  
-the nose and mouth projecting
+the nose and mouth projecting.  
+For apoplexy, raise the head and body;  
+for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1875031801%2F0047.jp2/pct:73.207728,50.246914,10.845441,17.040123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1875031801%2F0047.jp2/pct:73.207728,50.246914,10.845441,18.064815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5898,9 +6528,11 @@ water or mustard. For acid poisons
 give acids; in case of opium poisoning  
 give strong coBee and keep ntovisg. It  
 in water, Boat on the back with the nose  
-and mouth projecting. For apoplexy
+and mouth projecting. For apoplexy,  
+raise the head and body; for fainting lay &quot;  
+the person flat. ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F0028077943A%2F1875051201%2F0446.jp2/pct:77.060343,52.607809,14.627847,15.530303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F0028077943A%2F1875051201%2F0446.jp2/pct:77.060343,52.607809,14.886124,16.564685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5913,6 +6545,11 @@ and mouth projecting. For apoplexy
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+them to return to Paris, to makehis  
+home and fortune their*.  
+  
+Presence of Xiad*  
+Professor Wilder gives these short  
 rales for action in case of son dec t :  
 For dust in the eye, avoid robbing;  
 dash water into them ; remove cin­  
@@ -5941,9 +6578,12 @@ mouth i sore. Enlarge the wound, or,
 t *tttT, cut out the part affected, or hold  
 the wound as long as can be borne to a  
 hot coal, or end of a cigar.  
-In c
+In cane of poisoning, excite vomiting  
+by tickling the throat, or by water or  
+uiustard.  
+For acid poisons, give strong coffe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1875052001%2F0227.jp2/pct:76.513169,60.388763,9.746206,11.635415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1875052001%2F0227.jp2/pct:76.495726,57.988186,9.763649,15.347895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5984,9 +6624,11 @@ ling the throat, or by water or mustard.
 For acid poison give acids; in case of op­  
 ium poisoning give strong coffee and keep  
 moving. If in water, float on the hack  
-with the nose and mouth projecting. Fo
+with the nose and mouth projecting. For  
+apoplexy, raise the head and body; for  
+fainting lay tlie person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1875052801%2F0295.jp2/pct:74.278260,45.770891,10.889184,13.293914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1875052801%2F0295.jp2/pct:74.278260,45.770891,10.889184,14.129881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6032,9 +6674,11 @@ cite vomiting by tickling the throat,
 or by hot water or mustard. For  
 acid poisons, give acids; in case of  
 ipium poisoning, give strong coffee  
-and keep moving. If you fall into th
+and keep moving. If you fall into the  
+water, float on the back, with the  
+nose and month projecting. For apo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159385%2F1875062401%2F0300.jp2/pct:70.772947,49.898545,10.735373,17.719703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159385%2F1875062401%2F0300.jp2/pct:70.772947,49.898545,10.735373,18.744752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6087,7 +6731,18 @@ cover with varnish.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, while giving his  
+od place to stay away from,  
+rnd Europeans are finding it out.  
+The very latest project is a pneumatic  
+tube to be laid between Newfoundland  
+and Ireland, through which letters nd  
+parcels are to be transmitted from ona  
+country to the esr, under tho Atlantic,  
+at a velocity estimated at from one hun  
+dred and fifty to two hundred miles per  
+hour.  
+A good brother in a Baptist church of  
+Miama county, Indiana, while giving his  
 experience, not long ago, said:-&#x27;Brcth-erin,  
 I&#x27;ve been a tryin&#x27; this nigh onto to  
 forty years, to serve the Lord and get  
@@ -6115,7 +6770,7 @@ For slight burns, dip iho part in cold
 water; if the ekia is destroyed, cover  
 with varnish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470120%2F1875090301%2F0343.jp2/pct:75.484414,26.224182,11.274923,14.121606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470120%2F1875090301%2F0343.jp2/pct:75.484414,18.229288,11.359169,22.116500/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6127,7 +6782,20 @@ with varnish
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y newspaper correfpondent in this  
+, in Democratic  
+Conventions of roaring vulgarity, drunk­  
+enness, blasphemy, cheating, lighting and  
+factious recklessness, and they have pre­  
+ceded tho most exemplary defeats of the  
+party.&quot;  
+a  
+Tin-: Clarksvillo Tobacco Lf-nf is  
+guilty of this cold-blooded cruelty :  
+All that tho Kev. Sir. Copcland, Esq.,  
+alias Warren, et altcri Colyer, Doctor,  
+Preacher, etc., etc., had done was to be a  
+fraud.  
+If every newspaper correfpondent in this  
 couutry who is a fraud, a cold-blooded, de­  
 liberate fraud, is to be tarred and feath­  
 ered, what will become of Dr. II. V. Ited­  
@@ -6149,7 +6817,7 @@ For slight burns, dip the part in cold
 water : if the skin is destroyed, cover with  
 varnish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85042534%2F00200293575%2F1875090801%2F1116.jp2/pct:50.193754,83.826060,14.246638,11.387455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85042534%2F00200293575%2F1875090801%2F1116.jp2/pct:50.193754,75.410605,14.246638,19.802909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6184,9 +6852,11 @@ or, better, cut out tha part without
 delay. It old the wonnded part as long  
 aa can be born, to a hot ooal or ond of  
 a cigar. In case of poisoning, axcite  
-vomiting
+vomiting by tickling th. throat or by  
+hot mustard. - For acid poisons, glv.  
+acids ; in csm of opium poisoning, giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1875092201%2F0859.jp2/pct:33.505359,83.134632,10.063517,10.351846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1875092201%2F0859.jp2/pct:33.505359,83.134632,10.063517,11.224193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6214,9 +6884,16 @@ Itemove . iumhis irom tne ear oy
 tepid water. Never put a hard instru  
 ruent into the ear.  
 If an artery is cut, compress it abov  
-tbe wound: if a vein is
+tbe wound: if a vein iseut, compress  
+it I dow.  
+. choked, go upon all fours and  
+cough. &#x27; 1  
+Fur slight burns, din the p art in cold  
+water; if the skin is destroyed, unver  
+-.1 u &#x27;  
+wii ii varniMi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1875100201%2F0781.jp2/pct:65.904486,58.846497,9.797395,7.797858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1875100201%2F0781.jp2/pct:65.904486,58.846497,9.797395,10.330210/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6249,9 +6926,17 @@ Remove insects from tbe ear by tepid water.
 Never put a bard instrument into tbe ear.  
 If an artery iscnt, compress it above the wonnd;  
 if a vein is cut, compress it below.  
-If choked, go npon all fours and congh.
+If choked, go npon all fours and congh.  
+lor slight burns, dip tbe part in cold water; if  
+the skiu is destroyed, cover with varnish.  
+For apoplexy, raise tbe head and body; for  
+fainting, lay tbe person flat.  
+Citocp. Cronp can be cured in one minute,  
+aud the remedy is simply alnm and sugar. The  
+way to accomplish the deed is to take a knife or  
+grater and shave off in small particles about 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555651%2F1875112501%2F0513.jp2/pct:30.353545,82.213494,12.511449,4.586899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555651%2F1875112501%2F0513.jp2/pct:30.335226,82.213494,12.566404,8.248001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6323,9 +7008,12 @@ vomiting by tickling the throat, or by
 water or mustard. For acid poisons give  
 acids; in case of opium poisoning give  
 strong coffee and keep moving. If in  
-water, float on the back with the nose an
+water, float on the back with the nose and  
+mouth projecting. For apoplexy, raise the  
+head and body; for fainting lay the person  
+flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48&#0036;6/pct:49.835886,33.729569,19.064551,21.563893/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48&#0036;6/pct:49.835886,33.729569,19.064551,23.904160/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6371,7 +7059,17 @@ For apoplexy, raise the head an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- etc.  
+uld  
+a sponge; then rub it over the surface of  
+the glass, taking care that it is not so  
+wet as to run down in streams; in fact,  
+the paper must only be completely moist­  
+ened, or dampened, all through. Let it  
+rest a few minutes, then go over the  
+glass with a fresh newspaper, ti 1 it looks  
+clear and bright. The insides of win­  
+dows may be cleaned in the same way;  
+also spectacle glasses, lamp glasses, etc.  
 White paper that has not been printed  
 on is better; but in the absence of that a  
 very old newspaper, on which the ink  
@@ -6396,7 +7094,7 @@ For slight burns, dip the part in cold
 water; if the skin is destroyed, cover  
 with varnish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1875120201%2F0234.jp2/pct:5.525847,28.473669,14.429361,13.213660/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1875120201%2F0234.jp2/pct:5.525847,22.866872,14.429361,18.820457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6466,9 +7164,11 @@ ing by tickling the throat, or by water and
 mustard. For acid poisons, give acids; in  
 case of opium poisoning, give strong coffee  
 and keep moving. If in water, float on the  
-back with the mouth and nose projecting
+back with the mouth and nose projecting.  
+For apoplexy, raise the head and body;  
+for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349529%2F1876012801%2F0198.jp2/pct:73.785935,77.541787,11.194575,14.418122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349529%2F1876012801%2F0198.jp2/pct:73.785935,77.541787,11.194575,15.436094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6480,7 +7180,19 @@ back with the mouth and nose projecting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-burned a few  
+ine recently  
+attempted to chastise a boy, when he  
+turned upon her and stabbed her with  
+a gimlet. She has quit teaching 6ince  
+it has become such a bore to her.  
+They have a strange cattle disease  
+in Champaign county. 111. There are  
+no signs of illness, but after eating  
+heartily all day, the animals lie qui­  
+etly down and die the next morning.  
+i  
+A man in Berks county, Pennsyl­  
+vania, was dangerously burned a few  
 nights ago. His bed caught Are from  
 a lamp. Sever take alighted lamp to  
 bed with you.  
@@ -6638,7 +7350,14 @@ If an artery is cut compress it above the wound ;
   
 | if a vein is cut, compress it below.  
   
-| If choked go upon all fours an
+| If choked go upon all fours and cough,  
+  
+  
+  
+80  
+  
+For slight burns dip the part in cold water; if  
+the skin is destroyed, cover with varnish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oneida-circular_1876-03-09_13_10&#0036;6/pct:59.061135,79.100318,26.282751,10.987261/600,/0/default.jpg"/>
 </td>
@@ -6646,7 +7365,7 @@ If an artery is cut compress it above the wound ;
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-03-11_8_247?page=11)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-03-11_8_247?page=11)
 
 #### 1876-03-11
 
@@ -6672,9 +7391,12 @@ If choked go upon all fours and cough.
   
 For slight burns dip the part in cold  
 water; if the skin is destroyed, cover with  
-varnish.
+varnish.  
+  
+For raise the head and body,  
+for fainting lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-03-11_8_247&#0036;11/pct:8.350785,59.512103,19.528796,12.972769/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-03-11_8_247&#0036;11/pct:8.350785,59.512103,19.528796,14.844932/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6897,6 +7619,9 @@ ng varnish
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+what is to be done with this wide-spread  
+corruption ? Washington Chronicle.  
+Presence of Mind.  
 Professor Wilder eives these short rules  
 for action in case of accident :  
 For dust in the eye, avoid rubbing; dash  
@@ -6921,7 +7646,7 @@ suspected, walk erect.
 is sore. Enlarge the wound, or, better, cut  
 out the part as long as ean be born to a ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1876041701%2F0276.jp2/pct:80.472016,75.840947,14.349292,12.697259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1876041701%2F0276.jp2/pct:80.458530,73.411545,14.362778,15.126661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7145,7 +7870,9 @@ a bard instrument into the ear. If any
 artery is cut compress it above the  
 wound ; if a vein is cut, compress it  
 below. If choked go on all fours and  
-cough.
+cough. For alight burns dip the part in  
+cold water ; if the akin is destroyed,  
+cover with varnish. For apoplexy rai
 </td></tr></table>
 
 ---
@@ -7182,9 +7909,13 @@ ease of poisoning, excite vomiting- by
 tickling the throat, or by hot water or  
 mustard. For acid poisons, give acids;  
 in case of opium poisoning, give strong  
-coffee and keep moving. If you fall int
+coffee and keep moving. If you fall into  
+water, float on the back with the nose  
+and mouth projecting. For apoplexy,  
+raise the head and body; for .fainting lay  
+the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876090701%2F0184.jp2/pct:85.980590,67.879869,12.116844,12.530592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876090701%2F0184.jp2/pct:85.980590,67.879869,12.116844,14.425565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7222,9 +7953,13 @@ case of poisoning, excite vomiting by
 tickling the throat, or by hot water or  
 mustard. For acid poisons, give acids;  
 in case of opium poisoning, give strong  
-coffee and keep moving. If you fall int
+coffee and keep moving. If you fall into  
+water, float on the back with the nose  
+and mouth projecting. For apoplexy,  
+raise the head and body ; for fainting lay  
+the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876090701%2F0185.jp2/pct:86.167007,67.896883,12.141538,12.433478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876090701%2F0185.jp2/pct:86.167007,67.896883,12.141538,14.306448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7348,9 +8083,11 @@ ease of poisoning, excite vomiting by tickling the
 throat, or by water or mustard, For acid poisons  
 give acids; in case of opium poisoning give strong  
 Coffee and kee p moving. If in water, float on the  
-back with the nose and mouth projecting. Fo
+back with the nose and mouth projecting. For  
+apoplexy, raise the head and body; for fainting, lay  
+the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1876-12-21_49_51&#0036;7/pct:7.975113,71.806912,21.464932,14.124718/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1876-12-21_49_51&#0036;7/pct:7.975113,71.806912,21.464932,15.195342/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7425,7 +8162,6 @@ skin is destroyed, cover it with varnish
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-What to do in Case of  
 fessor Wilder, of Cornell University, gives  
 these short rules for action in case of  
 dents ;  
@@ -7443,7 +8179,7 @@ For slight burns, dip the part in cold
 water ; if the skin is destroyed, cover with  
 varnish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894961%2F1877071101%2F0241.jp2/pct:79.872713,15.090316,12.171838,9.984947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894961%2F1877071101%2F0241.jp2/pct:79.872713,15.667336,12.171838,9.407928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7551,9 +8287,16 @@ four mouth is sore; enlarge the
 wound, or better, eat the part with­  
 cat delay; bold the wp/nded part,  
 as long as can e be ane, to a beo  
-coal or the end of a ciga
+coal or the end of a cigar.  
+In ease of poiseulag, excite eom­  
+tting by tickling the threat, or by  
+warm water asd mastard.  
+For acid poisons, gve alkalls;  
+for alkaline poltsg e sda-v -  
+whit of egg good in mot eases  
+In a eae ao m Iag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_karma_ver01%2Fdata%2Fsn88064118%2F00280761783%2F1878082101%2F0209.jp2/pct:81.688223,57.426542,14.703880,22.876978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_karma_ver01%2Fdata%2Fsn88064118%2F00280761783%2F1878082101%2F0209.jp2/pct:81.620150,57.426542,14.771954,27.236035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7599,9 +8342,14 @@ is sore; enlarge the wound, or, better,
 cut out the part without delay. Hold  
 the wounded part as long as can be borne  
 to a hot coal, or end of a cigar. In case  
-of 
+of poisoning excito vomiting by tickling  
+the throat or br water or mustard. For  
+acid poisons give acids ; in case of opium  
+poison give strong coffee and keep mov­  
+ing. If in water float on the back, with  
+the nose and mouth projecting. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_grandfather_ver01%2Fdata%2Fsn85042098%2F00415667425%2F1879052201%2F0156.jp2/pct:64.615813,51.254954,14.838530,13.961996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_grandfather_ver01%2Fdata%2Fsn85042098%2F00415667425%2F1879052201%2F0156.jp2/pct:64.587973,51.254954,14.866370,16.888528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7637,7 +8385,11 @@ stoop low, but if carbon is suspected, walk erect. Suck
 poison wounds, unless your mouth is sore; enlarge the  
 wound, or, better, cut out the part without delay. Hold the  
 wounded part as long as can be borne to a hot coal, or end  
-of acigar. In case of p
+of acigar. In case of poisoning excite vomiting by tick-  
+ling the throat or by water or mustard. For acid poisons  
+give acids; in case of opium poison give strong coffee and  
+keep moving. If in water float on the back, with the nose  
+and mouth projecting. For apoplexy raise the head an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1879-05-24_40_21&#0036;11/pct:37.209877,7.059829,55.407407,87.521368/,600/0/default.jpg"/>
 </td>
@@ -7673,9 +8425,11 @@ unless your mouth is sore; enlarge the
 wound, or, better, cut out the part without  
 delay. Hold the wounded part as long as  
 can be borne to a hot coal, or end of a cigar.  
-In case o
+In case of poisoning exe&#x27;te vomiting by  
+tickling the throat or by water or mustard.  
+For acid poisons give acids; in case o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1879060601%2F0302.jp2/pct:64.119694,35.338025,14.572025,12.092131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1879060601%2F0302.jp2/pct:64.119694,35.338025,14.572025,13.339731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7688,6 +8442,9 @@ In case o
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+wash water, etc. An immense amount of  
+the very best of fertilizers can be made in  
+this way.  
 In case of poisoning, excite vomiting by  
 tickling the throat, or by warm water and 1  
 mustard. For acid poisons, give alkali; for  
@@ -7696,7 +8453,7 @@ is good in most cases; in a case of opium i
 poisoning, give strong coffee and keep mov­  
 ing about
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529595%2F1879061201%2F0099.jp2/pct:72.598095,31.414330,11.484741,3.517134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529595%2F1879061201%2F0099.jp2/pct:72.581947,29.856698,11.500888,5.074766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7709,6 +8466,9 @@ ing about
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+of both city and country.  
+Presence of Mini.  
+Professor Wilder gives these short rules  
 for action in case of jiccident: For dust in  
 the eyes, avoid rubbing, dash water into  
 them. Remove cinders, etc., with the round  
@@ -7729,9 +8489,12 @@ unless your mouth is sore; enlarge the
 wound, or, hotter, cut out the part without  
 * delay. Hold the wounded part as long as  
 I can be Isirne to a hot coal, or end of a cigar.  
-* In e
+* In ease of )oisoning, excite vomiting by  
+tickling the throat by water or mustard.  
+For acid jioisous, give acids; iu ease of opium  
+1 poison, give strong coffee and keep moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624566%2F1879070501%2F0076.jp2/pct:76.496433,83.834985,10.266436,9.391163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624566%2F1879070501%2F0076.jp2/pct:76.496433,81.389045,10.266436,13.220540/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7768,9 +8531,12 @@ mouth is sore: enlarge the wound, or
 better, cut out the part without delay.  
 Hold the wounded part os long as can be  
 borne on a hot coal, or end of a cigar.  
-In caso of p
+In caso of poisoning, excite vomiting  
+by tickling tho throat, or by water or  
+mustard. For acid poisonings, give  
+acids; in case of opium poisonings, giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1879072401%2F0723.jp2/pct:60.799790,51.339148,10.856792,13.849838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1879072401%2F0723.jp2/pct:60.799790,51.339148,10.856792,15.546434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7810,9 +8576,14 @@ poison wounds, unless your mouth i--
 sorc; enlarge the wounds, or better still,  
 cut out the wound without delay, holding  
 the wounded pnrt as long as can be bovnc  
-to a hot coal, or end of a cigar. 
+to a hot coal, or end of a cigar. In otise  
+of poisoning, excite vomiting by tickling  
+the throat or by water and mustard. In  
+case of opium poison, give strong coffee  
+and keep moving. If in &#x27;water, fioat oti  
+the back, with the mouth and nose pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104272%2F1879080201%2F0588.jp2/pct:20.759494,12.141834,14.086799,14.231137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104272%2F1879080201%2F0588.jp2/pct:20.705244,12.141834,14.177215,17.585960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7881,11 +8652,7 @@ ong as can be borne to a hot coal, or end of a cigar.
   
 In case of poisoning, excite vomiting by tickling |  
 the throat by water or mustard. For acid poisons,  
-give alkalies; in case of opium poison, give strong  
-coffee, and keep moving. If in water, float on the  
-back, with the nose and mouth projecting. For  
-apoplexy, raise the head and body; for fainting, lay  
-the 
+give alkalies; in case of opium poison, give stron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34&#0036;7/pct:10.356347,11.056604,42.455457,82.075472/,600/0/default.jpg"/>
 </td>
@@ -7987,7 +8754,11 @@ enlarge the wound, or better cat out the
 parm without delay. Hold the wounded  
 part as lng as can bh borns to a hot  
 coal, or end of a cigar. In case of  
-poi
+poisoning, excite vomiting by tickling  
+the ithroar, or by water or mns&#x27;ard. For  
+acid poisons, give acidd; in caco of  
+opium poisons, give otreng coffee, and  
+keep mov;ng I, in water float on th
 </td></tr></table>
 
 ---
@@ -7998,7 +8769,17 @@ poi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e skin is  
+n case of accidents: For dust in  
+the eyes, avoid rubbing; dash water  
+Into them. Remove cinders, etc, with  
+the round point of a led pencil. Re­  
+move insects from the ear by tepid wa­  
+ter: never put a hard instrument Into  
+the ear. If an artery is cut, compress  
+above the wound; if a vein is cut,com­  
+press below. II choked, get on all  
+fours and cough. For light burns, dip  
+the part in cold water; If the skin is  
 destroyed, cover with varnish.—  
 Smother a tire with carpets, etc.; wa­  
 ter will often spread the burning oil  
@@ -8015,12 +8796,9 @@ of poisoning, excite vomiting by tick­
 ling the throat by water or mustard.  
 For acid poisons, give alkalies; in the  
 caseof opium poison, give strong coffee,  
-and keep moving. If in water, float on  
-the hack, with the nose and mouth pro­  
-jecting. For apoplexy, raise tlie head  
-and body; lor fainting, la
+and keep moving. If in water, float o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_floyd_ver01%2Fdata%2Fsn86092245%2F00414186580%2F1879092701%2F0398.jp2/pct:30.178787,35.978558,12.062553,9.662953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_floyd_ver01%2Fdata%2Fsn86092245%2F00414186580%2F1879092701%2F0398.jp2/pct:30.192230,31.290729,12.049111,13.005396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8098,9 +8876,11 @@ opium poison, give strong coffee, and keep
 moving. If in water, float on the back, with ,  
 the nose and mouth projecting. For apoplexy,  
 raise the head and body; for fainting,  
-la
+lay the body flat.  
+A Strange Sect.-?Benjamin Roe, a former,  
+of Osakona, Wisconsin, has started one o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879102301%2F0349.jp2/pct:83.728770,26.705195,15.774234,13.566311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879102301%2F0349.jp2/pct:83.728770,26.705195,15.774234,15.209801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8114,7 +8894,11 @@ la
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- &amp;c, \vi|li thc round point of a  
+  
+Wilder for action in thc case of  
+accidents. For dust .iu the pyes-avoid ,  
+rubbing, dash water into them.&#x27; Kcioovo  
+calders, &amp;c, \vi|li thc round point of a  
 lead pencil. Iteinovc insects from thc  
 car by tepid water, never put a hard  
 instrument into the car. If any artery  
@@ -8132,7 +8916,11 @@ ot better, cut ont tho part without
 delay. Hold thc wounded part as lonf[ as  
 can be borne to a hot coal, or end of a  
 cigar. In case of poisoning, excite  
-vomiti
+vomiting by tickling the throat, or by  
+water or mustard. In case of opium  
+poisining give strong coffee and ,keep  
+moving. If in the water float on the  
+back, with tho 1109e and mont
 </td></tr></table>
 
 ---
@@ -8197,7 +8985,9 @@ tickling tlie throat, or by -water and
 mustard. In caso.of_opium,_ poisoning,  
 give strong coffee and keep moving. If  
 in the water float on the back, &#x27; with  
-the nose and mouth projecting. Fo
+the nose and mouth projecting. For  
+apoplexy, raise,; the head and body ;  
+for fainting lay the person flat. 
 </td></tr></table>
 
 ---
@@ -8210,7 +9000,11 @@ the nose and mouth projecting. Fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s, tte, with tho round 2&gt;omt of a  
+  
+Wilder for notion in tho enso of  
+accidents. For dust in tho eyes-avoid  
+nibbing, dash water into thom. llemovo  
+cinders, tte, with tho round 2&gt;omt of a  
 lead pencil, licmovo insects from tho  
 ear by tepid water, never put a hard  
 instrument into tho ear. If any artery  
@@ -8244,6 +9038,10 @@ and mouth projecting. For apoplexy rnis
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Vinegar is drawn in a tin basin, and  
+allowed to stand till lioth basin and vine  
+gar are spoiled.  
+Cold pudding&#x27;s are considered good  
 for nothing, when often they can be  
 steamed lor next day.  
 For dust in the eyes, avoid rubbing;  
@@ -8253,9 +9051,11 @@ Remove insects from the ear by tepid water;
 never put a hard instrument into the ear.  
 If an arterv is cut compress it above the  
 wound; if a vein is cut, compress it below  
-If choked slo on all fours and cough. For
+If choked slo on all fours and cough. For  
+slight bums dip the part in cold water; if  
+the skin is destroyed cover with varnis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877650%2F1879121001%2F0234.jp2/pct:30.365660,35.888237,10.559089,4.707545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877650%2F1879121001%2F0234.jp2/pct:30.352411,33.800826,10.598834,7.642966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8290,9 +9090,13 @@ wounds, unless your month is sore ; en
 large the wound, or, better, cut out the  
 part without delay. Hold the wounded  
 part as long as can be borne to a hot  
-coal, or end of a cigar. In case
+coal, or end of a cigar. In case of  
+poisoning, excite vomiting by tickling  
+the throat by water or mustard. For  
+acid poisona, give alkalies; in case of  
+opium poison, give strong coffee, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn88077272%2F00296027236%2F1879122501%2F0443.jp2/pct:52.746310,31.110531,10.624785,10.465875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn88077272%2F00296027236%2F1879122501%2F0443.jp2/pct:52.746310,31.110531,10.624785,12.266736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8332,12 +9136,9 @@ poisoning, excite vomiting by tickling
 the throat by water or mustard. For  
 acid poisons, give alkalies; in case of  
 opium poison, give strong coffee, and  
-keep moving. If in water, float on the  
-back, with the nose and mouth project­  
-ing. For apoplexy, raise the head and  
-body; fcr fainting, lay th
+keep moving. If in water, float on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_anoka_ver02%2Fdata%2Fsn83025287%2F0010049386A%2F1880010401%2F0016.jp2/pct:71.144628,43.051555,13.065591,16.510123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_anoka_ver02%2Fdata%2Fsn83025287%2F0010049386A%2F1880010401%2F0016.jp2/pct:71.144628,43.051555,13.065591,14.911292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8388,6 +9189,14 @@ coal, or of a cigar. I case o
 
   
   
+avoid rubbing dash water into them, i be the let. ln rl.eaniiu..  
+  
+Remove cinders, etc., with the round pain demanded re-t, and­  
+point of a lead pencil, liemove insects to be just the tiling notliin:  
+from the ear by tepid water never put articular symptom pruve  
+  
+hurA •!,« It  
+  
 a hard instrument into the ear. If an  
 artery is cut, compress above the wound  
 if a vein is cut, compress below. If  
@@ -8408,13 +9217,9 @@ coal, or end of a cigar. In case of
 poisoning, excite vomiting by tickling  
 the thro11 by water or mustard. For  
 acid poisons, give alkalies in cast- of  
-pium poison, give strong coffee, and  
-keep moving, [f in water, float on t!.  
-1 ack, with ti*e nose aud mouth projrc  
-m«T. For apoplexy, raise the head ai.  
-body: fer fainting, lay the
+pium poison, give strong coffee, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065151%2F00279523350%2F1880011001%2F0153.jp2/pct:66.224633,41.243740,18.243922,14.838913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065151%2F00279523350%2F1880011001%2F0153.jp2/pct:66.224633,38.877716,33.768669,14.838913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8426,7 +9231,10 @@ body: fer fainting, lay the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-einove  
+  
+caso of accident are good: For  
+dust in the eyes, avoid rubbing,  
+and dash water in them. Keinove  
 cinder, etc., with tho point of a  
 pencil. Remove insectsifrom the  
 ear by tepid water; never put a  
@@ -8466,7 +9274,10 @@ opium poison give Btrong coffee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-em; re-  
+  
+  
+Caszs or Accipast —For dust in the  
+eyos, avolu rubving, dash water into them; re-  
 move cip‘ers, etc . with the reund of a lead  
 pencil. K»move inre*ts from the ear by —  
 water; never put a bard instrament toto  
@@ -8486,9 +9297,11 @@ hot coal, or the end of acigar. In case of pol-
 soning excite vomiting by tickling \he throat,  
 or Dy mastard and water. For scid poisons,  
 give acide; in case of Opium poisoning, giva  
-strong coffee and keep movsnal if in the wa
+strong coffee and keep movsnal if in the wa-  
+ter, float on the beck, with the nose and  
+moata proj onee For ap x0lex7, raiss ta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1881-07-16_60_52&#0036;6/pct:68.700632,37.703963,18.977093,10.081585/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1881-07-16_60_52&#0036;6/pct:68.700632,37.004662,18.977093,11.786131/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8598,9 +9411,12 @@ For acid poisons give alkalies;
 for alkaline poisons give acids;  
 white of egg is good in most cases;  
 in case jof opium poisoning, give  
-strong coffee, and keep moving
+strong coffee, and keep moving.  
+If in the water, float on the back,  
+with the nose and mouth project­  
+iug.For apoplexy, raise the head an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882081001%2F0573.jp2/pct:16.152528,8.034597,10.197087,20.450666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882081001%2F0573.jp2/pct:16.152528,8.034597,10.197087,22.362581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8646,7 +9462,10 @@ poiBona give acids ; white of an ^ egg
 ia good in most oaaea ; in a oaae of  
 opium poison-ing give strong coffee and  
 keep moving. If in water, float on the  
-baok, with the noae and mouth project
+baok, with the noae and mouth project-  
+ing. For apoplexy, raise the head and  
+body j for* fainting, lay the person  
+flat
 </td></tr></table>
 
 ---
@@ -8660,6 +9479,9 @@ baok, with the noae and mouth project
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+in one hour and a half. What to do in  
+Case op Accidents.— The following short  
+rules for action, in cases of accident,  
 will be found useful to remember : — For  
 dust in the eyes, avoid rubbing ; dash  
 water in them ; remove cinders, &amp;c, with  
@@ -8699,7 +9521,20 @@ good in most cases. For apoplexy, rais
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, pupa,” was the i  
+, 1 find that there  
+are twelve picture cards in pack,  
+representing the number of months  
+iua .war, and in counting the  
+tricks 1 find thiiteen, the number  
+of weeks in a quarter. So you  
+see a pack of cands serves for a  
+bible, almanac and common pray­  
+er-book.  
+“My son,” said a stein father to  
+a so wn-yeai-old hopeful “I must  
+discipline you. Your teacher said  
+you was the worst hoy in the  
+school.” “Well, pupa,” was the i  
 reply, “only yesterdav she said I  
 was ilist like my father.”-Mon­  
 treal Witness ._  
@@ -8840,9 +9675,12 @@ For acid poisons give alkalies, for
 alkaline poisons give acids; white of  
 an egg is good in most cases; in case  
 of opium poisoning give* strong coffee  
-and keep moving
+and keep moving.  
+If in the water float on the back,  
+with nose and month projecting.  
+For apoplexy raise the head an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_flareon_ver01%2Fdata%2Fsn88064492%2F00295874715%2F1888012101%2F0024.jp2/pct:36.302947,34.258178,17.472376,24.956192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_flareon_ver01%2Fdata%2Fsn88064492%2F00295874715%2F1888012101%2F0024.jp2/pct:36.302947,34.258178,17.472376,26.781542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8854,7 +9692,19 @@ and keep moving
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+he world is that now in use  
+in a dam at Austin, Tex. The main  
+cable is 1,350 feet long and two and  
+one-half inches in diameter. The  
+hoisting apparatus will lift a weight  
+of seven tons and carry it the entire  
+length of the span in about a minute  
+and a half.  
   
+The largest diamond in the world  
+is the Braganza, which weighs 1,880  
+carats, and is one of the Portuguese  
+crown jewels. It was found in Brazil  
 in 1731. The celebrated Koh-i-noor  
 has been known to history since 1526.  
 It was captured by the British troops  
@@ -8889,7 +9739,7 @@ lay; hold the wounded part as long
 as can be borne to a hot coal or end  
 of a cigar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_bullfrog_ver01%2Fdata%2Fsn84022060%2F00332890566%2F1892033001%2F0305.jp2/pct:25.463918,32.233934,17.454897,26.304828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_bullfrog_ver01%2Fdata%2Fsn84022060%2F00332890566%2F1892033001%2F0305.jp2/pct:25.463918,22.747365,17.557990,35.791397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8947,7 +9797,20 @@ mustard
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- New Jersey  
+ carry away.  
+  
+Hofttou&#x27;* Now Fad#  
+Boston has a new fad. At the Muse­  
+um of Arts two statues, one nf Hermes  
+of Praxiteles, the other the Venus Gen­  
+atrix, both colored In the manner of the  
+ancient Greek statues, are displayed.  
+; The statues are in the color of nature,  
+&#x27; and the critic* are enthusiastic as to  
+their beauty. The artist is Joseph Liu­  
+don Smith.  
+A Record Breaker.  
+The Central Railroad of New Jersey  
 is the proud possessor of a new engine  
 which is a record breaker. Running  
 light the other day, that is, with no  
@@ -8980,19 +9843,9 @@ better, cut out the part without delay;
 hold the wounded part as long as can  
 be borne to a hot coal or end of a cigar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gore_ver01%2Fdata%2Fsn86092518%2F0041418666A%2F1892041201%2F0222.jp2/pct:28.517569,37.998747,12.702961,16.527401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gore_ver01%2Fdata%2Fsn86092518%2F0041418666A%2F1892041201%2F0222.jp2/pct:28.200875,31.449760,13.019655,23.076387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Emergency Notes
-
-#### From _The Atchison daily globe._
-
-#### 1892-04-20 &middot; Atchison, Kan.
-
-[This text is not available under an open license.]
 
 ---
 
@@ -9030,7 +9883,18 @@ cil.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-u will be compelled  
+ed, sank on  
+his knees, his fierce eye.s rolling in mad  
+fury at me. I moved around to his side  
+and put another ball into him, when he  
+went clean down and stretched himself  
+in the last struggle.  
+&quot;Come down and visit me, and as you  
+step across my threshold there in the  
+vestibule confronting you will be his  
+enormous head, as lifelike as the art of  
+taxidermy can present. Look at that  
+orrand head and you will be compelled  
 to mve credence to a part of my story,  
 at least, and your regrets will join mine  
 that no more of tne noblest American  
@@ -9070,7 +9934,7 @@ In case of poisoning excite vomiting
 by tickling the throat or by warm water  
 and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_elk_ver01%2Fdata%2Fsn91068084%2F00296023218%2F1892042201%2F0517.jp2/pct:38.745211,59.619130,16.570881,25.957585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_elk_ver01%2Fdata%2Fsn91068084%2F00296023218%2F1892042201%2F0517.jp2/pct:38.697318,52.705042,16.618774,32.871673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9082,7 +9946,18 @@ and mustard
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+years to  
+come. The solution of the puzzle is  
+to be found in the fact, which does  
+not appear to be very widely known,  
+that the year 1800 was not a leap-year  
+and 1900 will not be. The February  
+of the present year had twenty-nine  
+days; but in all the seven years in­  
+tervening between 189S and 1904, as  
+well as in the three between 1S92 and  
+and 1896, that month will have only  
+twenty-eight. St. Nicholas.  
 Catarrh  
 In the head  
 Is a constitutional  
@@ -9169,7 +10044,18 @@ if carbonic acid gas is suspected walk erect
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ing the best of it? It  
+&#x27;s way is  
+decidely the liest. He gets rid of the  
+cause of the headache, and as the en­  
+tire household has been moaning,  
+“l’oor papal&quot; lie has their sympathy.  
+The woman just lets the headache go  
+away ; irritates and upsets everybody,  
+and it is certain tiiat it will rome hack  
+another day. Why are the women  
+sucli geese &#x27;.’ W&#x27;hy, when they feel  
+ill, don’t they just have it out by going  
+to tied and making the best of it? It  
 is a much more sensible way and  
 much more satisfactory. Headaches  
 are alisoiutely the skeletons in some  
@@ -9201,29 +10087,24 @@ mouth is sore ; enlarge the wound or
 better, cut out the part without delay;  
 hold tiie woundod part aa long as can  
 be borne to a hot coal or end of a  
-cigar
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554103%2F1892043001%2F0075.jp2/pct:4.384520,41.745317,12.458831,16.149993/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1892-04-30/ed-1/seq-1)
-
-#### 1892-04-30 &middot; Eureka, Nev.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+cigar.  
 Smother fire with carpets, etc.;  
 water will often spread burning oil  
 and increase danger. Before passing  
 through smoke take a full breath And  
 then stoop low, but if carbolic acid gas  
-is suspected walk erect.—From a Boo
+is suspected walk erect.—From a Book  
+of l’rofessor B. (4. Wilder of Cornell.  
+  
+A Mo** Vail.  
+Mr. J. P. Blaise, an extensive real  
+estate dealer in this city, narrowly es­  
+caped one of the severest attacks of  
+pneumonia while in the northern part  
+ot the State during the recent blixxard.  
+Mr. Blaize had occasion to driv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554103%2F1892043001%2F0075.jp2/pct:4.384520,57.862640,12.355908,2.835052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554103%2F1892043001%2F0075.jp2/pct:4.384520,36.634238,12.520585,28.492087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9241,9 +10122,11 @@ dash water in them; remove cinders,
 etc., with the round point of a lead pen­  
 cil.  
 “Jack Frost&quot; is the leading flour in the  
-West.
+West.  
+  
+Labor and the Third I’arty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wyu_diamondville_ver05%2Fdata%2Fsn86072173%2F00514150060%2F1892043001%2F0091.jp2/pct:43.635449,48.833424,12.304426,3.142521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wyu_diamondville_ver05%2Fdata%2Fsn86072173%2F00514150060%2F1892043001%2F0091.jp2/pct:43.635449,5.620365,23.021904,46.355580/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9265,7 +10148,18 @@ West.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ou will be compelled  
+gered, sank on  
+his knees, his florce eyes rolling in mad  
+fury at mo. I mjved around to his side  
+and put another ball into him, when he  
+went clean down and stretched himself  
+in tho last struggle.  
+&quot;Come down aud visit me, and as you  
+step across my threshold there in tho  
+vestibule confronting you will be his  
+enormous head, as lifelike as the art of  
+taxidermy can present. Look at that  
+grand head and you will be compelled  
 to give credence to a part of my story,  
 at least, and your regrets will join mine  
 that no more of tho noblost American  
@@ -9305,7 +10199,7 @@ In case of poisoning excito vomiting
 by tickling the throat or by warm water  
 and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1100.jp2/pct:44.046467,43.261061,12.139400,21.432757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1100.jp2/pct:44.046467,37.547612,12.178122,27.146206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9317,7 +10211,9 @@ and mustard
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rs,  
+  
+ber:For dust in the eyes, avoid rubbing;  
+dash water into them; remove cinders,  
 etc., with the round point of a lead pen­  
 cil.Remove matter from the ear with  
   
@@ -9345,7 +10241,7 @@ In case of poisoning excite vomiting
 by tickling the throat or by warm water  
 and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1102.jp2/pct:45.048286,50.718897,11.778072,13.952465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1102.jp2/pct:45.048286,49.545188,11.778072,15.126174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9357,7 +10253,18 @@ and mustard
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ou will be compelled  
+ered, sank on  
+bis knees, his fierce eyes rolling in mad  
+fury at me. I injved around to his side  
+and put another ball into him, when he  
+went clean down and stretched himself  
+in the last struggle.  
+&quot;Come down and visit me, and as you  
+step across my threshold there in the  
+vestibule confronting you will be his  
+enormous head, as lifelike as the art of  
+taxidermy can present. Look at that  
+grand head and you will be compelled  
 to give credence to a part of my story,  
 at least, and your regrets will join mine  
 that no more of the noblest American  
@@ -9397,7 +10304,7 @@ In case of poisoning excite vomiting
 by tickling the throat or by warm water  
 and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1104.jp2/pct:44.714367,43.747270,11.804897,21.269472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776142%2F1892050401%2F1104.jp2/pct:44.714367,38.084146,11.842854,26.932596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9417,9 +10324,15 @@ For dust in the eyes, avoid rubbing;
 dash water in them; remove cinders,  
 etc., with the round point of a leadpencil.  
   
-SENSITIVE MACHINES
+SENSITIVE MACHINES.  
+  
+TYPEWRITERS ARE JEALOUS OF  
+  
+THEIR INSTRUMENTS.  
+  
+Why It Is That the Expert Manipulator
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775319%2F1892050501%2F0077.jp2/pct:28.229270,4.720144,21.489924,91.243229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775319%2F1892050501%2F0077.jp2/pct:28.229270,4.720144,21.539478,91.243229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9515,6 +10428,10 @@ cil.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+In Cask of Alvjdknt.?Professor  
+Wilder, of Cornell university, gives the  
+following short rules for action in ease |  
+of accident, which it will be found useful  
 to preserve ami remember :  
 For dust in the eyes, avoid rubbing; j  
 dash water in them; remove cinders, j  
@@ -9543,9 +10460,11 @@ better, cut out the part without delay ;
 hold the wounded part as long as can  
 he home to a hot coal or end of a cigar.  
 In case of poisoning excite vomiting  
-i
+i by tickling the throat or by warm waj  
+tor and mustard.  
+j If iu water, Moat on the hack, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1892052501%2F0305.jp2/pct:76.614078,74.214701,11.877023,12.748046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861472%2F1892052501%2F0305.jp2/pct:76.557443,72.470864,11.933657,15.519858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9582,6 +10501,10 @@ acid gas is suspected walk erect.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+makes a pretty dressing table cover  
+or scarf. The edge can be hem­  
+stitched. and then have a lace frill  
+sewed around it   
   
 Smother fire with carpets, etc.;  
 water will often spread burning oil  
@@ -9590,7 +10513,7 @@ through smoko taka a full breath and
 then stoop low. but if carbonic gas is  
 suspected walk erect—Prof. B. U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gardevoir_ver02%2Fdata%2Fsn85049838%2F00340584399%2F1892072801%2F0563.jp2/pct:52.373547,88.951894,10.615485,2.691924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gardevoir_ver02%2Fdata%2Fsn85049838%2F00340584399%2F1892072801%2F0563.jp2/pct:52.336716,87.023305,10.652316,4.620513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9631,7 +10554,8 @@ wound, or better, cut out the part
 without delay; hold the wounded part as  
 long as can be borne to ashot coal er  
 end of a cigar. In case of poisoning  
-ex
+excite vomiting by tickling Che throat  
+by warm water and mu« I ard. If in
 </td></tr></table>
 
 ---
@@ -9643,6 +10567,11 @@ ex
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+mouth is sore ; enlarge the wound,  
+or better, cut out the part without  
+delay; hold the wounded parts us  
+long as can be borne to a but coal or  
+end of a cigar.  
 Smother fire with carpets etc.;  
 water will often spread burning oil  
 and increase danger. Before passing  
@@ -9650,7 +10579,7 @@ through smoke take a full breath and
 then sloop low, but if carbonic acid  
 | gas is suspected walk erect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_belair_ver01%2Fdata%2Fsn89060136%2F00279522564%2F1892081201%2F0152.jp2/pct:43.092689,82.188266,12.465121,4.689681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_belair_ver01%2Fdata%2Fsn89060136%2F00279522564%2F1892081201%2F0152.jp2/pct:43.092689,78.641766,12.465121,8.236182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9697,7 +10626,14 @@ A METAMORPHOSI
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ove  
+  
+.-ii.,.: For dust in- the eyes,  
+iivojd|irubbing; dash water into thom í  
+remove cinders, etc., with the round  
+part of it lend pencil. .^Remove ,mutter  
+from the eur with tepid water ; never  
+put a hard&#x27; instrument into thé oar. ...  
+&#x27;?A If an artery bo cut compress above  
 the wound ; if n. vein is cut compress  
 below. . ... If choked get;iipon all  
 fours arid cough. For slight liui&#x27;iis  
@@ -9714,7 +10650,9 @@ sore ; enlarge the wound, or better,
 cutout tile part without delay : hold  
 tho1 wounded part as long as can bo  
 borne: to a hot coal or end of ii  
-cigar.. ..« ? Jn case of ; p
+cigar.. ..« ? Jn case of ; poisoning  
+.excite vomiting hy tickling tho  
+throut,by¡,warm water and mus-tard., 
 </td></tr></table>
 
 ---
@@ -9762,9 +10700,13 @@ out the part without delay; hold the wound­
 ed part as long as can be borne to a hot coal  
 or end of a cigar.  
   
-Incase of poisoning excite vo
+Incase of poisoning excite vomlilng by  
+  
+ticklise tee throit or bv warm wler and  
+  
+mustard.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295868351%2F1893021701%2F0163.jp2/pct:27.863597,28.428172,9.909647,12.733209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295868351%2F1893021701%2F0163.jp2/pct:27.863597,28.428172,9.909647,13.642724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9826,7 +10768,18 @@ pected walk erect
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hings seen  
+does not some silversmith invent  
+a combination candlestick, matchbox  
+and tray? Thero aro such things in Eng­  
+land.Silver and leather aro a strong combin­  
+ation in bag tags, umbrella straps, dog  
+collars and leadoM and railroad ticket  
+cases.  
+Tho holly in chrysopraso aud diamond  
+and tho mistletoe in somiprecious stones,  
+with jewels, havo been promiuont dur­  
+ing the holidays.  
+Ono of the most amusing things seen  
 was an architect&#x27;s rule mounted in sil­  
 ver, to which was affixed a spray of for­  
 getmenots. How tho man who got that  
@@ -9852,7 +10805,7 @@ will often spread burning oil and in­
 crease dangor.  
 Remove matter from tho ear wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063954%2F0028076033A%2F1894012901%2F0733.jp2/pct:14.945754,75.260380,12.813318,16.635754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063954%2F0028076033A%2F1894012901%2F0733.jp2/pct:14.927048,68.198031,12.832024,23.698102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9864,7 +10817,9 @@ Remove matter from tho ear wit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s,  
+  
+Fcr dust in the eyes, avoid rubbmg;  
+dash water into them; remove cinders,  
 etc., with a round point of a lead pen­  
 cil.  
 Remove matter from the ear with  
@@ -9893,7 +10848,7 @@ In case of poisoning, excite vomiting
 by tickling the throat, or by warm  
 water and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159233%2F1894030101%2F1342.jp2/pct:36.243506,19.035648,14.490341,18.557313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159233%2F1894030101%2F1342.jp2/pct:36.243506,18.326874,14.510516,19.266087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9937,9 +10892,11 @@ poisons give acids; white of egg is
 good in most cases; in case of opium  
 poisoning give strong coffe and keep  
 moving. If in water float on the back  
-with nose and mouth projecting. Fo
+with nose and mouth projecting. For  
+apoplexy, raise the head and body; for  
+fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85040310%2F00514152135%2F1895120501%2F0589.jp2/pct:52.013301,46.283133,14.288968,18.358449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85040310%2F00514152135%2F1895120501%2F0589.jp2/pct:52.013301,46.283133,14.288968,19.451553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9961,9 +10918,11 @@ poisons pive acid. ; wklto of c?:g Is
 good in most cases; la enre of opium  
 poironing Rive stiong cofle and keep  
 moving. If in water float on the back  
-with nose and mouth projecting. Fo
+with nose and mouth projecting. For  
+apoplexy, raise the head and body; for  
+fainting, lay the person flat. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn87056250%2F00202191320%2F1896010401%2F0026.jp2/pct:81.563594,88.197816,14.060677,5.602751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn87056250%2F00202191320%2F1896010401%2F0026.jp2/pct:81.563594,88.197816,14.060677,6.755663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9975,7 +10934,11 @@ with nose and mouth projecting. Fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- load pencil. Remove was  
+  
+tul to remember. For dust In tho eyes  
+avoid rubbing dash wntor In them; re­  
+move cindors, otc, with tho round  
+point of a load pencil. Remove was  
 from tho car with tepid water; never  
 put n hard instrument In the ear. If  
 any artery is cut comprcs3 abovo the  
@@ -10003,9 +10966,10 @@ poisons glvo acldsf whito of egg is
 good in most casos; in caso ot opium  
 poisoning give strong coffo and keep  
 moving. If in water float on tho baok  
-with nose and mouth projecting. Fo
+with nose and mouth projecting. For  
+iipoplexy, raise the head and body, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_ellis_ver01%2Fdata%2Fsn86063952%2F00237281214%2F1896012901%2F0794.jp2/pct:17.447247,32.675184,12.163321,15.034198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_ellis_ver01%2Fdata%2Fsn86063952%2F00237281214%2F1896012901%2F0794.jp2/pct:17.395780,31.100787,12.214788,17.163505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1,7 +1,7 @@
 
 # None (Sometimes "Maxims to Guide a Young Man")
 
-### 65 reprints from 1852-02-20 to 1899-01-27
+### 64 reprints from 1852-02-20 to 1899-01-27
 
 ## [None (Sometimes "Maxims to Guide a Young Man")](https://chroniclingamerica.loc.gov/lccn/sn88077413/1859-06-23/ed-1/seq-2/)
 
@@ -35,6 +35,16 @@ The following has been handed to us by a friend who has carried it in his purse 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ll things else. Your  
+character cannot be essentially injured ex­  
+cept by your own acts. If any one speaks  
+ill of you, let your life be so that none will  
+believo him. Drink no kind of intoxicating  
+liquors. Ever live (misfortunes excepted,)  
+wilhin your income. When you retire to  
+bed, think over what you have been doing  
+during the day. Make no haste to be rich,  
+if you would prosper. Small and steady  
 gains give competency with tranquillity of  
 mind. Never play at any kind of game ot  
 chance. Avoid temptation ; through fear  
@@ -50,7 +60,7 @@ you are young lo spend when you are old.
 Read over the above maxims al least once a  
 week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1852081401%2F0543.jp2/pct:81.045637,33.130867,12.327330,8.255108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1852081401%2F0543.jp2/pct:81.045637,27.139702,12.327330,14.246273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -62,7 +72,15 @@ week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y gains give competency  
+ll things.  
+Your character cannot be essentially injured except  
+by your own acts. If acy one speaks evil of you,  
+let your life be so that none will believe him. Drink ;  
+no kind of intoxicating liquors. Ever live (misfor­  
+tunes excepted) within. your income. When you re­  
+tire to bed, think over what you have been doing dur­  
+ing the day. Make no haste to be rich, if you would  
+prosper. Small and steady gains give competency  
 with tranquility of mind. Never play at any kind of  
 game of chance. Avoid temptation, through fear you  
 may not withstand it. Earn money before you spend  
@@ -75,7 +93,7 @@ you would be happy. Save when you are young, to
 to spend when you are old. Read over the above  
 maxims at least once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024518%2F00296022718%2F1852082501%2F0271.jp2/pct:16.546537,51.178075,15.261673,5.716766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024518%2F00296022718%2F1852082501%2F0271.jp2/pct:16.546537,47.333829,15.355688,9.561012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +107,17 @@ maxims at least once a week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-give  
+ things else. Your character  
+cannot be essentially injured except by  
+your own acts. If any one speaks ill of  
+you, let your life be so that none will  
+believo him. Drink no kind of  
+intoxicating liquors. Ever live,  
+misfortune excepted, within your income.  
+When you retire to bed, think over what  
+you have been doing during the day. Make  
+no haste to be rich, if you would  
+prosper. Small and steady gains give  
 competency with tranquillity of mind.  
 Never play at any kind of game of  
 chance. Avoid temptation, through fear  
@@ -121,6 +149,9 @@ one.&#x27; Fxtinction of &#x27; Jumperism.&#x27; — I
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Keep your own secrets, if you have any.  
+Drink no kind of intoxicating liquor.  
+Never play at any game of chance.  
 Never run in debt unless you see a way to  
 get out of it.  
 Never borrow if you can possibly avoid it.  
@@ -131,7 +162,7 @@ Be just before you are generous.
 Keep yourself innocent if you would be  
 happy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ibizanhound_ver01%2Fdata%2Fsn83045461%2F00280654000%2F1853012101%2F0102.jp2/pct:1.580739,44.082100,19.799773,8.306418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ibizanhound_ver01%2Fdata%2Fsn83045461%2F00280654000%2F1853012101%2F0102.jp2/pct:1.580739,41.242967,19.799773,11.145551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,6 +175,14 @@ happy
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+|your life be such as that none will believe him,  
+| Drink no kind of intoxicating liquors. Ever live,  
+‘misfortune excepted, within your income. When  
+| you retire to bed, think over what you have been  
+&#x27;doing during the day. Never speak lightly of re-  
+\ligion. Make no haste to be rich, if you would  
+‘prosper. Small and steady gains give competency,  
 with tranquillity of mind. Never play at any kind  
 of game of chance. Avoid temptation, through fear  
 that you may not be able to withstand it. Earn  
@@ -153,9 +192,11 @@ row if you can possibly avoid it. Do not marry
 until you are able to support a wife. Never speak  
 evil of any one. Be just before you are generous.  
 Keep yourself innocent, if you would be happy.  
-Save when youar
+Save when youare young, to spend when you are old.  
+Never think that what you do for religion is time,  
+or money mis-spent. Always go to meeting whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1857-07-18_30_45&#0036;3/pct:66.992665,34.450338,28.270171,11.427194/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1857-07-18_30_45&#0036;3/pct:66.442543,26.398264,28.820293,21.793635/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,9 +233,14 @@ not stand it. turn money before you spend it.
 .Never run into dent unless you sec a way to get.  
 out again. Never borrow if yon can possibly  
 avoid it. Do not marry until you are able to  
-kee
+keep a wife. Never speak evil of any one. Be  
+)ust before yon are generous. Keep yourSel&#x27;  
+innocent, if yon would bo happy. Save when  
+you are young, to spend when you are old.  
+Bead over the above maxims at least once a  
+week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190601%2F1857100601%2F0337.jp2/pct:29.994147,31.337594,14.104565,11.970584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190601%2F1857100601%2F0337.jp2/pct:29.974639,31.337594,14.124073,14.273063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +252,14 @@ kee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ce. Good company and conversation are the very  
+  
+&#x27;Keep good company, or none. Never be idle.  
+If your bands can&#x27;t be usefully employed, attend to  
+tbe cultivation of your mind. Always speak the  
+truth. Make few promises. Live up to your en­  
+gagements. Keep your own s crets, if you have  
+any. When yon speak to a person, look him in the  
+face. Good company and conversation are the very  
 sinews of virtue. Good character is above all  
 things eke. Your character cannot be essentially  
 injured except by your own acts. If any one speaks  
@@ -229,7 +282,7 @@ Save hen you are young to spend when you are
 old. Read over the above maxims at least once a  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kitty_ver01%2Fdata%2Fsn96091000%2F00212470223%2F1857101601%2F0371.jp2/pct:6.033810,40.594943,11.690507,8.527516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kitty_ver01%2Fdata%2Fsn96091000%2F00212470223%2F1857101601%2F0371.jp2/pct:6.033810,38.225087,11.703511,10.897372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +294,15 @@ week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mpany and good conversa­  
+  
+“Keep food ensumny, or none. Never  
+ho idle. If your hands can&#x27;t he Usefully  
+employed, .attend So the cultivation of your  
+mind. Always speak the truth. Make few  
+promises. lave np to your engagements.  
+Keep your own secrets, if you have any.—  
+When you speak to a person look him in the  
+face. Good company and good conversa­  
 tion are the very sinews of virtue. Good  
 character- is above all things else. Your  
 character cannot bo essentially injured ex­  
@@ -260,9 +321,14 @@ not withstand it. Earn money before you
 spend it. Never run into debt unless you  
 see a way to get oat again. Never borrow&#x27;  
 if you can possibly avoid if. l)o not marry  
-until yon arc able to support a wifo. Nc
+until yon arc able to support a wifo. Ncv­  
+epeak evil of any one. 15e just before you  
+arc generous. Keep yourself innocent if  
+you would be happy. Save when you are  
+young, to spend when you arc old. Head  
+over the above maxims at least once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024652%2F00393348781%2F1857101701%2F0376.jp2/pct:29.041046,12.306460,12.917726,10.481180/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024652%2F00393348781%2F1857101701%2F0376.jp2/pct:29.022884,8.622531,13.044860,16.661105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +340,18 @@ until yon arc able to support a wifo. Nc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-sation are  
+  
+{{jeep good company or none.  
+Never be idle; if your handsean’t be usefully  
+employed, attend to the cultivation of your  
+mind.  
+Always speak the truth.  
+Make few promises.  
+Live up to yeur engagements.  
+Keep yeur own secrets, if you have any.  
+When yeu speak to a person, look him in the  
+face.  
+Good company and good conversation are  
 the very sinews of virtue.  
 Good character is above all things else; yonr  
 character cannot be materially injured except  
@@ -301,9 +378,12 @@ wife.
 Never speak evil of any one.  
 Be just befere you are generous.  
 Keep yourself innocent, if you would be  
-Hare when yon
+Hare when yon are young that yon may  
+spend when you are old.  
+Head over the above maxims at least once a  
+week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1857122301%2F0296.jp2/pct:36.721734,14.129111,14.935065,14.115577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1857122301%2F0296.jp2/pct:36.702636,8.888212,14.973262,20.747056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,6 +396,15 @@ Hare when yon
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+State for the instruction of his child, whether  
+that instruction has to be given through the eye,  
+or the sar, or the touch.  
+  
+This is the true view to take of these institu-  
+tions; and it is one which saves the self-respect  
+of pupils and of parents.  
+  
+(To be continued.)  
   
 MAXIMS FOR YOUNG MEN.  
   
@@ -368,9 +457,11 @@ happy. Save when you are young, to spend
 apostolic language feelingly quoted by our fathers  
 and mothers in the Truth, which we are now  
   
-when
+when youareold. Read over the above maxims | ully prepared to adopt and reiterate: “ That  
+  
+at least once a week.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-12-26_14_41&#0036;6/pct:49.238782,56.997012,39.302885,32.395418/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-12-26_14_41&#0036;6/pct:49.238782,46.190239,39.302885,43.202191/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +483,18 @@ when
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gains give competency,  
+things else ; your  
+character cannot be materially injured except by  
+your own acts.  
+If any one speaks evil of you, let your life be  
+such that no one will believe him.  
+vDrink no kind of intoxicating liquors.  
+Ever live (misfortune excepted) within your  
+income.  
+When you retire to bed, think over what you  
+have been doing during the day.  
+Make no haste to be rich, if you would pros­  
+per; small and steady gains give competency,  
 with tranquility of mind.  
 Never play at any game of chance.  
 Avoid temptations, for fear you may not be  
@@ -412,7 +514,7 @@ spend when you are old.
 Read over the above maxims at least once a  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556653%2F1858010201%2F0005.jp2/pct:62.712406,42.025003,12.602777,8.404314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556653%2F1858010201%2F0005.jp2/pct:62.648456,37.027751,12.666728,13.401566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +526,16 @@ week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-any and good con­  
+  
+  
+Sound Advice to Young Men.—Keep good  
+company, or none. Never be idle. If yonr  
+hands can’t bo usefully employed, attend to the  
+cultivation of your mind. Always speak the  
+truth. Make few promises. Live up to your  
+engagements. Keep your own secrets, if you  
+have uny. When you speak to a person, look  
+him in the face. Good company and good con­  
 versation are the very sinews of virtue. Good  
 character is above all things else. Your char­  
 ; acter cannot be essentially injured, except by  
@@ -449,7 +560,7 @@ when you are young that you may spend when
 you are old. Read over the above maxims at  
 i least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_loons_ver01%2Fdata%2Fsn84024718%2F00414183773%2F1858010601%2F0007.jp2/pct:56.863780,65.994475,12.794791,10.666053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_loons_ver01%2Fdata%2Fsn84024718%2F00414183773%2F1858010601%2F0007.jp2/pct:56.863780,62.909761,12.794791,13.750767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +572,15 @@ i least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- doing during the day. Make do haste to  
+d good conversation are  
+the vcr| sinews of virtue. Good Character 2s above  
+all things else. Your character cannot be essential­  
+ly injured, except by your owu acts. If any one  
+speaks; 111 of you, let yonr life be bo that no one wil&#x27;  
+believa biin. Drink no kind of intoxicating liquors.  
+Ever life (ttlsfortuno excepted J within your in­  
+come. fjft&#x27;be&#x27;n yota retire to bed think over what you  
+have b6?n doing during the day. Make do haste to  
 be rich, if you would prosper. Small and steady  
 gain gijre competency, with tranquility of mind.?  
 Sever Vlay at any game of chance. Avoid tempta­  
@@ -476,7 +595,7 @@ Save w|&gt;en yon are young that you may spend when
 yon arjj old. Read over the above maxims at least  
 once a&#x27;fteek
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192300%2F1858011201%2F0370.jp2/pct:28.704342,71.845026,14.024810,7.683612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192300%2F1858011201%2F0370.jp2/pct:28.704342,67.549329,14.024810,11.979309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +687,7 @@ kind of intoxicating liquors. Ever live
 come. When you retire to bed think  
 over what you have been doing during  
 the day. Make no haste to be rich if  
-you wo
+you would prosper. Small and steady
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1858011601%2F0098.jp2/pct:50.428332,15.526650,22.857143,20.669806/!600,600/0/default.jpg"/>
 </td>
@@ -638,6 +757,13 @@ least once a week
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+“ Keep good company. Never be idle.  
+If your hands cannot be usefully em­  
+ployed, attend to the cultivation of your  
+mind. Always speak the truth. Make  
+few promises. Live up to your engage­  
+ments. Keep secrets, if you have any.  
+hen you speak to a person, look him in  
 the face. Good company and good char­  
 acter is above all things else. Your char­  
 acter cannot be essentially injured except  
@@ -648,9 +774,18 @@ cating liquors. Ever live (misfortune
 excepted) within your income. When  
 you retire to bed, think over what you have  
 been doing during the day. Make no  
-haste to be rich, if you would
+haste to be rich, if you would prosper.—  
+Small and steady gains give competency,  
+with tranquility of mind. Never play at  
+any game of chance. Avoid temptation,  
+through fear you might not withstand it.  
+Earn your money before you spend it.—  
+Never run in debt unless you can see a  
+way to get out again. Never borrow, if  
+you can avoid it. Never speak evil of  
+any one. Be just before you are gener
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025090%2F00279557463%2F1858061901%2F0377.jp2/pct:70.114304,76.165470,12.351335,6.280141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025090%2F00279557463%2F1858061901%2F0377.jp2/pct:70.026378,72.168042,12.485538,15.389562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,9 +807,17 @@ him. Drink no intoxicating liquors. Evir
 live (misfortunes excepted) within your iu&quot;  
 come. When you retire to bed, think over  
 what you have been doing through the day.  
-Make no hasto to be rich it you woul
+Make no hasto to be rich it you would pros  
+per, omaii ana sieaay gains trive ereat  
+competency, with tranquility of mind. Never  
+play at any game of chance. Avoid temp­  
+tation, through fear you might not withstand  
+it. Never run iu debt unless you can see a  
+way to get out again. Never borrow if you  
+can possibly avoid it. Never speak evil ot  
+any one. Be just before you are generous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1858080501%2F0937.jp2/pct:32.041111,51.454453,12.152903,5.192651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1858080501%2F0937.jp2/pct:32.041111,51.454453,12.188965,9.390151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +829,14 @@ Make no hasto to be rich it you woul
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mpany and good con­  
+  
+  
+Always spcaK iub iiulu. ixajs.c iw pub­  
+ises. Live up to your own engagements.  
+Keep your own secrets if you have any.  
+When vou speak to a person, look him in  
+  
+the face. Good company and good con­  
 versation are the very sinews of virtue.  
   
 Good character is above anything else.  
@@ -730,7 +880,7 @@ young, that you may spend when you are
 old. Read over the above maxims at least  
 once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667826%2F1859051801%2F0091.jp2/pct:18.981247,72.282661,12.633046,13.719072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667826%2F1859051801%2F0091.jp2/pct:18.867207,70.376432,12.747086,15.625301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +892,17 @@ once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- what you  
+o &lt;1 cohtpany and good conversation are the  
+j very sinews of vir&#x27;ue.  
+Good character is above anything else.  
+| Your character cannot he essentially injured,  
+; except by your own acts.  
+j If any one speaks evil of you, let your life  
+1 ba &lt;o that no one will believe him.  
+Brink no ki.n l of intoxicating liquors,  
+j Ever live (misfortune excepted) within your  
+j income.  
+| When you retire tubei, thiuk over what you  
 j have beet, .doing diyyfcg the day.  
 M ■ no IflSUWtb be rich, if you would pcos­  
 xf&#x27;l ii  
@@ -765,7 +925,7 @@ when you are old.
 Road over the above maxims at least once a  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028551%2F1859052001%2F0567.jp2/pct:62.579660,47.098197,14.430926,12.036381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028551%2F1859052001%2F0567.jp2/pct:62.579660,41.519017,14.457260,17.615560/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +990,9 @@ over the above maxims at least ence a week.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s you see a way to got  
+  
+3 you may not withstand it. Never run  
+into debt unless you see a way to got  
 ^ out of it. Do not marry until you are  
 able to support a wi£p. Never speak  
 r evil of any one. Be just before you are  
@@ -840,7 +1002,7 @@ are young, that you may spend when
 &#x27; you are old. Read over the above max­  
 ■ ims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn86053686%2F00295874405%2F1859082701%2F0345.jp2/pct:50.833333,52.134801,15.388889,5.263158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn86053686%2F00295874405%2F1859082701%2F0345.jp2/pct:50.833333,51.436627,15.388889,5.961332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,8 +1014,7 @@ are young, that you may spend when
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tranquility of mind. Never play at  
-any game of chance. Avoid temptatiou,  
+  
 through fear you may not withstand it.  
 Never run. into debt unless you see a way to  
 get out again. Earn money before you  
@@ -866,7 +1027,7 @@ le happy. Save when you are young, to
 spend when you &#x27; are old. Read over the  
 above maxims once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775393%2F1859101301%2F0064.jp2/pct:43.933210,53.518036,12.430427,6.857770/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775393%2F1859101301%2F0064.jp2/pct:43.933210,54.615279,12.430427,5.760527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,6 +1040,15 @@ above maxims once a week
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Maxims of Life:  
+Oil, J low TO UK Hal&#x27;l&#x27;V.  
+Keep good company, or none?. Never be  
+idle.  
+If your bands cannot bo usefully employed,  
+attend to the cultivation of your mind.  
+Live up to your engagements. Keep your  
+own secrets, if you hnve any.  
+When you speak to a person, look him in  
 the face.  
 flood character is above all things else.  
 •Your character cannot he essentially in­  
@@ -890,9 +1060,19 @@ Ever live (misfortunes excepted) within
 yonr income.  
 When you retire to bed think over what  
 you have been doing during the day.  
-Make no haste to be rich, if ytu wo
+Make no haste to be rich, if ytu would  
+prosper.  
+tSmMI and steady gains give competency  
+with tranquility of mind.  
+Never play at any game of chance.  
+Avoid temptation, through fear you may  
+not withstand it.  
+Earn money before you spend it.  
+Never run into debt unless you see y way  
+to gut out again.  
+Never borrow, if you can possibly avoid it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026189%2F1860080201%2F0311.jp2/pct:49.066522,64.106532,11.135279,5.298448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026189%2F1860080201%2F0311.jp2/pct:49.066522,59.764618,11.135279,14.155765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +1084,16 @@ Make no haste to be rich, if ytu wo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d  
+  
+forethought and courage.  
+Advice to Young People.—Keep good  
+romnany or none. Never be idle. If your  
+lianas cannot be usefully employed attend  
+to the cultivation of the mind. Always  
+speak the truth. Make few promises. Live  
+up to your engagement. Keep your own  
+secrets, if you have any. When you speak  
+to a person, look him in the face. Good  
 company ami good conversation are the very j  
 sinews of virtue. Good character is above  
 anything else. Your character cannot be  
@@ -930,7 +1119,7 @@ happy. Save when you areyounar, that you
 irtay spend when you arc old. Read over  
 the above maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624517%2F1865070801%2F0413.jp2/pct:5.784962,73.091903,12.637766,11.074077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624517%2F1865070801%2F0413.jp2/pct:5.716385,68.275785,12.706343,15.890195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -942,7 +1131,16 @@ the above maxims at least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ompa­  
+  
+  
+ADVICE TO YOUNG PEOPLE.—Keep good  
+company or none. Never be idle. It your  
+hands cannot be usefully employed attend to  
+the cultivation of your mina. Always speak  
+the truth. Make few promises. Live up to  
+your engagement. Keep your own secrets,  
+if you nave any. When you speak to a  
+person, look him in the face. Good compa­  
 ny and good conversation are the very sinews  
 of virtue. Good character is above any­  
 thing eke. Your character cannot be essen­  
@@ -968,7 +1166,7 @@ when you are young, that you may spend
 when you are old. Read over the above  
 maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1865071401%2F0538.jp2/pct:80.519343,76.378282,12.739799,11.436605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1865071401%2F0538.jp2/pct:80.519343,72.970098,12.739799,14.844789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1247,19 @@ once a wee^
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-od conversation are the very sinews ot*  
+  
+  
+ADVICE TO YOfSIO PEOPLE.  
+  
+Keep good company or none. Never  
+be idle- If your hands cannot be nsefully  
+employed, attend to tbe cultivation of  
+your mind. Always speak the truth.—  
+Make few promises. Live up to ycur en­  
+gagement Keep your own secrets if you  
+have any. When you speak to a person,  
+look him in the face. Good company and  
+good conversation are the very sinews ot*  
 virtue. Good character is above anything  
 else. Your character cannot be essen­  
 tially injured, exctpt by your acts. If  
@@ -1069,7 +1279,7 @@ spend it. Never run in debt unless you
 see a way to get out of it. Io not marry  
 until you are able to support a wife.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529315%2F1865072201%2F0414.jp2/pct:76.609442,65.154927,13.099666,12.197563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529315%2F1865072201%2F0414.jp2/pct:76.609442,58.839927,13.099666,18.512562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1132,6 +1342,15 @@ once a week
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+who, in the terrible disaster which occurred to the  
+North River steamer “Henry Clay,” was drowned.  
+Stephen Allen was formerly Mayor of the city. A man  
+of the purest character, and loved and esteemed by ail.  
+When the intelligence reached the city that Stephen  
+Allen was among the numerous victims who perished,  
+the citizens of New York felt that a good man was  
+  
+‘one.  
 &quot; We commend these golden words to all our readers.  
 Do as Mr. Allen did—cut them out—let them be indeli-  
 bly graven on your hearts.  
@@ -1163,7 +1382,7 @@ would be happy. Save when you are young to spend
 when yon are old. Read over the above maxims at  
 least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1866-05-10_39_19&#0036;2/pct:7.064128,43.377276,21.793587,15.065913/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1866-05-10_39_19&#0036;2/pct:7.014028,39.673572,21.843687,18.769617/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1404,17 @@ least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to bed think over what  
+ him in  
+the face, (rood company and good conver­  
+sation arc.* the very sinews of virtue. tbxid  
+character is above all tilings else. Your  
+character cannot be essentially injured, ex­  
+cept by your own acts. If any one speaks  
+evil of you, let your life be so that to* one  
+will believe him. brink no kind &lt;&gt;f intoxi­  
+cating liquors, liver live (misfortune ex  
+cepfed) within your income.  
+When you re tire to bed think over what  
 you have been doing during the day. .&#x27;lake  
 no haste to be rich, if you would prosper.  
 Small and steady gains give competency,  
@@ -1203,7 +1432,7 @@ happy. Nave when you are young, that
 you may spend when you are old. Read  
 over the above maxims at least one a wee k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187134%2F1866122101%2F0004.jp2/pct:4.773697,75.047659,14.532031,10.202641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187134%2F1866122101%2F0004.jp2/pct:4.773697,68.926075,14.532031,16.324225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1444,11 @@ over the above maxims at least one a wee k
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tire to bed think over what you  
+  
+one will believe him. Drink  
+kind of intoxicating liquors. Ever live  
+(misfortune excepted) within your income.  
+When you retire to bed think over what you  
 have been doing during the day. Make  
 haste to be rich, if you would prosper.  
 Small and steady gains give competency,  
@@ -1234,9 +1467,9 @@ avoid It.
 generous.  
 Keep yourself innocent, if you would be  
 bappy. Save when you  
-you
+you may spend when yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741145%2F1867073001%2F0260.jp2/pct:80.630631,76.122975,10.878378,9.885862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741145%2F1867073001%2F0260.jp2/pct:80.630631,76.122975,10.878378,9.941090/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1481,16 @@ you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e to  
+k lo a person look him in the face.—  
+Hood company and good conversation nrc  
+.mi very sinews ..Lite, tiuotl character  
+is above till things else. \ our character  
+cannot he essentially injured- except by  
+your own netH any one speaks evil of  
+you, lot your life be so that no ouc will be­  
+lieve him. Drink no kind of intoxicating  
+liquors. Ever live (mi-fortune excepted)  
+within your income. When you retire to  
 bed think over what you have been doing  
 during the day. Make no haste to be rich,  
 if vou would prosper. Small and steady  
@@ -1267,7 +1509,7 @@ young, that you may spend when you are
 old. Head over the above maxims at least  
 once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1867081701%2F0129.jp2/pct:44.038679,61.775037,12.403672,8.068012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1867081701%2F0129.jp2/pct:44.038679,57.414051,12.428214,12.428999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1279,7 +1521,26 @@ once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-on are tbe very sinews of  
+  
+  
+Sound Advice to Young Hen.  
+  
+Keep cood company, or none. Never  
+  
+aw  
+  
+be idle. If your hands can&#x27;t be ps&amp;Hy  
+  
+eprployed, attend to the cultivon ot your  
+  
+mind. Always speak the truth. Make  
+  
+few promises. Live up to your engage  
+  
+ments.. Keep your own secrets, if you  
+have any. Wbn yu speak to a person,  
+look him in the face. Good company and  
+good conversation are tbe very sinews of  
   
 virtue. Good character is above all things  
 else. Your character cannot be essentially  
@@ -1320,7 +1581,7 @@ old. Read over the above maxims at . least
   
 pace a week.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1867110101%2F0387.jp2/pct:49.403305,79.352997,14.504284,16.722169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1867110101%2F0387.jp2/pct:49.296206,73.263559,14.611383,22.811608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1352,9 +1613,18 @@ toxicating liquor. Kver live (misfor­
 tunes excepted J within your income.  
 W hen you retire to bed, think over  
 what you have been doing during the  
-day Make no haste to be rich, if y
+day Make no haste to be rich, if you  
+would prosper. Small and s&#x27;oa ygainsgive  
+conqu t.iic., with a ran | il mind. Nevir  
+play at any game of chance. Avoid temp­  
+tation, through fear you may iot with­  
+stand it. Karr, money before you spend  
+it. Never run into debt unless you see  
+a way to get out again. Never borrow  
+if you can possibly avoid it. Do not pit  
+off until to-morrow that which should I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769714%2F1870060201%2F0671.jp2/pct:15.773183,42.840245,10.882753,9.131772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769714%2F1870060201%2F0671.jp2/pct:15.752548,42.840245,10.903388,13.170435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1366,7 +1636,17 @@ day Make no haste to be rich, if y
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ion, are the very sinews  
+  
+of God, and lost his hope of heaven at last.  
+To be Carried in Your Pocket.?Keep  
+good company or none. Never be idle. If  
+your hand cannot be usefully employed, attend  
+to the cultivation of the mind. Always  
+speak the truth. Make few promises. Live  
+up to your engagements. Keep your own  
+secrets, if you have any. When you speak to  
+a person, look him in the face. Good company  
+and good conversation, are the very sinews  
 of virtue. Good character is above all things  
 else. Your character cannot be essentially  
 injured, except by your own acts. If any  
@@ -1388,9 +1668,9 @@ you can possibly avoid it. Do not marry j
 until you arc able to support a wife. Never 1  
 speak evil of any one. Be just before you j  
 are generous. Keep yourself innoceut, if you &#x27;  
-would be happy. Head ove
+would be happy. Head over the above max-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1873100201%2F0386.jp2/pct:28.320244,77.482543,17.617801,11.018409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1873100201%2F0386.jp2/pct:28.320244,72.679181,17.617801,15.821771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1412,7 +1692,17 @@ would be happy. Head ove
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to bed, think over what  
+ a person look him in  
+the face. Good company and conversa­  
+tion are the very sinews of virtue. Good  
+character is u’-ovc all things else. Youf  
+character connot bo crsontially injured,  
+except by your own acts. If any ono  
+speaks evil of you, lof yonr life bo such  
+that no ono will believe him. Prink 00  
+; kind ol intoxicating liquors. -Ever lira  
+(misfortune rxeepteo) within your income.  
+When you retire to bed, think over what  
 you have been doing during the day.  
 Make no haste to be rich, if you would  
 prosper. Small and steady gains give  
@@ -1431,7 +1721,7 @@ j Save when you arc young, that you may
 spend when you are old. Read over tho  
 above maxims at least oucc a week —L&#x27;x
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623513%2F1873121801%2F0677.jp2/pct:75.562569,57.287833,11.713319,9.378834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623513%2F1873121801%2F0677.jp2/pct:75.562569,51.912568,11.713319,14.754098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1733,18 @@ above maxims at least oucc a week —L&#x27;x
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-the very sinews of virtue, (iood  
+  
+To Be Carried in Your Pocket.  
+Keep good company or none. Never  
+be idle. If your hand cannot be use­  
+fully employed, attend to the cultiva­  
+tion of your mind. Always speak the  
+truth. Make few promises. Live up  
+to your engagements. Keep your owu  
+secrets, if you have any. When you  
+speak to a person, look him in the face.  
+(iood company and good conversation  
+I are the very sinews of virtue, (iood  
 t character is above all things else. Your  
 I character cauuot be essentially injured,  
 except by your own acts. If any ono  
@@ -1471,7 +1772,7 @@ Save when you are young, that you may
 spend when you are old, Read over the  
 above maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1874010201%2F0317.jp2/pct:78.827408,54.073393,13.804472,13.779004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1874010201%2F0317.jp2/pct:78.827408,48.839824,13.804472,19.012573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,21 +1798,13 @@ men just starting&#x27; out in lif. Cut it
 out and paste it in your hatr )&#x27;  
 &quot;Keep good .company&quot; &#x27;or .none.  
 Never be, idle.; ; If your Jiania can&#x27;t  
-be usef
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874010801%2F0411.jp2/pct:55.385757,28.460726,9.703264,8.007514/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1874-01-08/ed-1/seq-1)
-
-#### 1874-01-08 &middot; Hillsborough [Hillsboro], Highland County, Ohio
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-nd  
+be usefully ehiploted, - attend to the  
+:ultivation of your mind. Always  
+speak- the truth. Make few promises.  
+Live up to your engagements. , Keep  
+your own&#x27; secrets, if you have : any.  
+When you speak to a person, look  
+him m the face. &#x27;&#x27; Goodcompany and  
 good conversation, are the very sin  
 ews of vurtua . fcrood character as  
 above all . things-else. Your charac­  
@@ -1544,7 +1837,7 @@ may spend when you are old. Read
 over the above maxims at least once  
 week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874010801%2F0411.jp2/pct:55.148368,39.579664,9.821958,17.799695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283624%2F1874010801%2F0411.jp2/pct:55.148368,28.460726,9.940653,28.918633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1556,7 +1849,18 @@ week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ion &#x27;  
+  
+To be Carried in Your Pocket.  
+  
+Keen good com pan y or none. Never  
+be idle. If your hand cannot be usefal-  
+y employed, attend to the cultivation  
+of your mind. Always speak the  
+truth. Al ike few promises. Live up  
+toyourengteinenU. Keep vour own  
+secrets, if you have any.- when you  
+peak toa person, look him in the face.  
+Good coupany and good conversttion &#x27;  
 are the very sinews of virtue. Good  
 character is above all things else. Your  
 character cannot be essentially injured,-except  
@@ -1581,9 +1885,12 @@ Do not marry until you are able to sup
 port a wife. Never speak evil of any  
 one. lie just before you are generous.  
 Keep yourself innocent, if you would -  
-be happy. Save when y
+be happy. Save when you are young.  
+hat you may spend when you are eld.  
+Head over the above maxims at least  
+once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775435%2F1874040901%2F0281.jp2/pct:84.204545,48.858389,11.314935,11.557209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775435%2F1874040901%2F0281.jp2/pct:84.172078,44.689584,11.347403,16.970241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,7 +1902,17 @@ be happy. Save when y
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tion are the  
+  
+To be Carried In Yonr Pocket.  
+Keep good company or none. Never  
+be idle. If yonr hand cannot be use­  
+fully employed, attend to the cultivation  
+of your mind. Always speak the truth.  
+Make few promises. Live up to your  
+engagements. Keep yonr own secrets,  
+if you have any. When you speak to a  
+person look him in the face. Good  
+company and good conversation are the  
 very sinews of virtue. Good character  
 is above all things else. Your character  
 cannot be essentially injured, except by  
@@ -1624,7 +1941,7 @@ are young, that you may spend when
 yon are old. Read over the above  
 mtTima at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1874042901%2F0113.jp2/pct:49.569263,81.371505,11.026878,12.543276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1874042901%2F0113.jp2/pct:49.569263,76.817577,11.026878,17.097204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1636,7 +1953,28 @@ mtTima at least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gains give  
+r cannot be essen­  
+tially injured except by your own  
+acts.  
+  
+If anyone speaks evil of you let  
+your life be so virtuous that none  
+will believe him.  
+  
+Drink no intoxicating liquors.  
+Ever live, misfortune excepted,  
+within your income.  
+  
+When you retire to Led think  
+)ver what you have done during  
+the day.  
+  
+Never speak lightly of relig­  
+ion.  
+Make no haste to be rich if you  
+would prosper.  
+  
+Small and steady gains give  
 competency with tranquility of  
 mind.  
   
@@ -1652,7 +1990,7 @@ see away to get out of it.
 Never borrow if you can posi­  
 bly avoid i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_alamo_ver01%2Fdata%2Fsn84022129%2F00212470806%2F1875122901%2F0440.jp2/pct:57.949652,30.991212,16.423761,9.197200/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_alamo_ver01%2Fdata%2Fsn84022129%2F00212470806%2F1875122901%2F0440.jp2/pct:57.927570,18.763032,16.589378,21.425380/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1664,7 +2002,21 @@ bly avoid i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-sation are the very sinews of vir­  
+  
+  
+stantial a stylo as can bo dono any  
+where.  
+To Be Carried in Your Pocket.  
+Keep eood company or none. Never  
+be idle. If your hand cannot be use­  
+fullv employed, attend to the cultiva  
+tion of your mind. Always speak the  
+truth. Make few prompts. Jjive  
+ii n to vnnr flno.ii?enients. Keen vour  
+own secrets, if you havo any. When  
+you ppeak to a person look him in the  
+faco. (iood company and good con­  
+versation are the very sinews of vir­  
 tue. Good character is above all  
 things else. Your character cannot  
 be essentially injured, except by your  
@@ -1694,7 +2046,7 @@ Save when you are young that you
 may spend when you are old. Read  
 over tae above maxims at least once 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F00280779490%2F1881020301%2F0113.jp2/pct:58.360129,31.641671,12.560289,14.608998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F00280779490%2F1881020301%2F0113.jp2/pct:58.360129,24.879486,12.600482,21.371184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,9 +2058,7 @@ over tae above maxims at least once
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gains.  
-t give comipetency, with tranqmility of  
-if mind. Never play att any gaiii of chance,  
+  
 .0 Avoid all temiptation, Earn money befort  
 &#x27;0 you spend it. Never run into debt unless  
 ii you can see your way to get out of it.  
@@ -1721,7 +2071,7 @@ ms port a wife. Nove?&#x27;speak evil of any one,
 .0 spenmd when you are old. Read over th&lt;  
 above maxIms at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288427%2F1881052801%2F0600.jp2/pct:58.292125,89.231501,13.649267,7.293610/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288427%2F1881052801%2F0600.jp2/pct:58.292125,90.654377,13.649267,5.870734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,7 +2083,20 @@ above maxIms at least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tion are the very sinews  
+  
+the vitality of the hair.  
+  
+To oe carried In Your Pocket.  
+  
+Keep good company or none. Never be  
+Idle, if your hands cannot be usefully  
+employed, attend to the cultivation of  
+your mind. Always speak the truth.  
+Make few promises. Live up to your en­  
+gagements. Keep your own secrets if  
+you have any. When you speak to a per­  
+son, look him in the face. Good company  
+and good conversation are the very sinews  
 of virtue. Good character is above all  
 things else. Your character cannot be  
 essentially injured, except by your own  
@@ -1759,7 +2122,7 @@ Save when you are young, that you may
 spend when you are old. Kead over the  
 above maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881060201%2F0289.jp2/pct:69.451175,83.760290,12.570676,12.378671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881060201%2F0289.jp2/pct:69.429920,77.841258,12.613187,18.297702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1771,7 +2134,16 @@ above maxims at least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ation are  
+  
+To be Carried in Your Pocket.?Kfcep  
+good company or none. Never be idle. If  
+your hands cannot be usefully employed, attend  
+to the cultivation of your mind. Always  
+speakfthe truth. Make few promises.  
+Live up to your engagements. Keep your  
+own secrets if you have any. When you  
+speak to a person, look him in the face.  
+Good company and good conversation are  
 the very sinews of virtue. Good character is  
 above all things else. Your character caunot  
 be essentially injured except by your own  
@@ -1796,7 +2168,7 @@ Save when you are young, that you may
 spend when you are old. Read over the  
 above maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861915%2F1881060901%2F0248.jp2/pct:55.338001,27.121294,15.335408,12.075290/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861915%2F1881060901%2F0248.jp2/pct:55.338001,23.125263,15.335408,16.071321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +2180,18 @@ above maxims at least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Never play at any game of chance,  
+  
+quors.  
+Ever live fnintortune exccpteu)  
+within your income.  
+in- Wbea y° a rc | iie lo , , ,* cd &#x27; , lllink ov , er  
+&quot;I»»&#x27; 7«&quot; &#x27;*»&#x27;« l « en Jt&gt;ln S Jurln - ll,e  
+a da y; . , ,  
+a Make no baste to be rich, il you  
+would prosper.  
+Small and steady gains give com­  
+« potency with tranquility of mind.  
+ol Never play at any game of chance,  
 Avoid v ,. m ptation through fear you  
 mi)y not wUhsUnd It.  
 ^ lirn money tl elnre you spend it.  
@@ -1858,21 +2241,64 @@ no kind of intoxicating liquors. Ever live
 (adversity excepted) within your income.  
 When you retire to bed, think over what  
 you have been doing during the day. Make  
-no haste to be rich, if you wou
+no haste to be rich, if you would prosper.  
+Small and steady gains give competency  
+with tranquility of mind. Never play at  
+any game of chance. Avoid temptation,  
+through fear you may not withstand it.  
+Earn money before you spend it. Never  
+run into debt, unless you see plainly a way  
+to get out again. Never borrow if you can  
+possibly avoid it. Do not marry until you  
+are able to support a wife. Never speak  
+evil of anyone. Be just be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1891091701%2F0154.jp2/pct:30.972758,25.024795,14.879454,4.025787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1891091701%2F0154.jp2/pct:30.922414,25.024795,14.929798,9.904427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1893-04-01_46_13?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1893-04-01_46_13?page=21)
 
 #### 1893-04-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+tention. Point out their value and elicit further  
+discussion.  
   
+THE RULES.  
+  
+Keep good company or none.  
+  
+Never be idle. ’  
+  
+If your hands cannot be usefully employed, attend to the culti-  
+vation of your mind.  
+  
+Always speak the truth.  
+  
+Make few promises.  
+  
+Live up to your engagements.  
+  
+Keep your own secrets if you have any.  
+  
+When you speak to a person look him in the face, ‘ ‘  
+  
+Good company and good conversation are the very sinews ©  
+virtue.  
+  
+Good character is above all things else.  
+  
+  
+  
+  
+  
+  
+  
+April 1, 1893  
   
 Your character cannot be essentially injured except by your own  
 acts.  
@@ -1882,7 +2308,7 @@ believe him.
   
 Drink no kind of intoxicating liquors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1893-04-01_46_13&#0036;22/pct:12.437811,10.286678,36.722637,4.068297/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1893-04-01_46_13&#0036;21/pct:56.641604,78.309444,37.186717,12.858347/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1970,9 +2396,13 @@ sibly avoid It. Do not marry until
 you are able to support a wlf*.  
 Never speak evil of anyone, lie just  
 before you are generous,  
-when you are youi g and enjoy you
+when you are youi g and enjoy your  
+savings when you ure old.— N. Y.  
+Weekly.  
+Keep your own |  
+When you speak to a per- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_karakul_ver02%2Fdata%2Fsn87065071%2F00199917596%2F1895060101%2F0750.jp2/pct:10.105519,75.892857,11.931818,9.451970/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_karakul_ver02%2Fdata%2Fsn87065071%2F00199917596%2F1895060101%2F0750.jp2/pct:10.105519,75.815887,11.931818,10.637315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2086,9 +2516,12 @@ it. Do no! marry until you are able to
 support a wife. Never speak evil of  
 anyone. Be just before you are gener­  
 ous. Save when you are young and en­  
-joy your savings when you are o
+joy your savings when you are old.— Ex  
+The ways of the Woedbine justice  
+are somewhat peculiar. George Os­  
+borne and Clarence Oliver had a littl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gardevoir_ver02%2Fdata%2Fsn87057928%2F00340584405%2F1895122601%2F0443.jp2/pct:65.646503,17.716451,13.782479,8.761707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gardevoir_ver02%2Fdata%2Fsn87057928%2F00340584405%2F1895122601%2F0443.jp2/pct:65.646503,17.716451,13.808154,10.774290/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2102,7 +2535,14 @@ joy your savings when you are o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Advice to Young Men. I Keep good company  
+or none. x Never be idle. If your hands  
+^cannot be usefully employed, attend to  
+the cultivation of your mind. Always  
+speak the truth. Make few promises Live  
+up to .your engagements. Keep &#x27; your own  
+3ecrqts, it you nave any. When you speak  
+to a person look him in the face. Good  
 company and good conversation are the  
 very sinews of virtue. Good character is  
 above all things else/ Your character  
@@ -2114,7 +2554,14 @@ intoxicating liquors. Ever live,
 misfortune excepted, within your income.  
 When you retire to bed, think of what  
 you have done during ? the day. Make no  
-haste to be rich; if you would pr
+haste to be rich; if you would prosper,  
+small and steady gains give competency,  
+with tranquility of &#x27;mind. Never play at  
+any game of chance. Avoid temptation  
+through fear you may not withstand it.  
+Never run into debt, unless you see a  
+way to get out again. Never speak evil  
+of any one. Be just before you are
 </td></tr></table>
 
 ---

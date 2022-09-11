@@ -57,7 +57,28 @@ P. A., A. T. &amp;. S. F. Ry., Topeka, Kan.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. De Motte  
+ssius  
+Collin Kemper as Caesar  
+John Stepplmg as Antony  
+A Superb Company! A Great Scenic Pro­  
+duction!Prices: $L00, 75c, 50c, 25c.  
+Sale opens &quot;Wednesday, at 9 a. m., at  
+Mosbacher&#x27;s.  
+  
+IHiero Are att Present 18,000 to,  
+  
+the TJSaited States.  
+  
+Increasing; in Xnmner Very Rapidly  
+Tney ana the Italians Do  
+STot Get Along: Well To-  
+srether.  
+  
+sooHi  
+  
+Cirst riethodist Church  
+FRIDAT EVE., APRIL 9TH.  
+Prof. John B. De Motte  
 In His Great Lecture  
 Harp of the Senses;  
 or The Secret of....  
@@ -88,7 +109,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897040901%2F0542.jp2/pct:5.266317,23.016216,12.348087,17.427027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897040901%2F0542.jp2/pct:5.266317,7.329730,25.506377,33.113514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +121,18 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-for $1,600;  
+Stewart to Rankin Mason, for  
+$600; same property.  
+Amy Stanley to Elmer O. Young, for  
+$3,000; the west one-half of the north­  
+east quarter of section 4, township 11  
+and range 13. containing 65 acres.  
+Fred Blocker to Theo. H. Polack, for  
+$7,000; the south half of section 25, town­  
+ship 13, south of range 13, less one acre  
+used for cemetery purposes, containing  
+319 acres.  
+L.. M. Travis to Ada Noble, for $1,600;  
 lot 419 East Sixth street, Parkdale.  
 C. K. Holliday to Mary S. Black of  
 Detroit, Mich., for $5; lot No. 245 Kan&#x27;  
@@ -128,7 +160,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_inge_ver01%2Fdata%2Fsn82016014%2F00295871350%2F1897041001%2F0073.jp2/pct:17.179215,79.181413,12.495581,12.263425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_inge_ver01%2Fdata%2Fsn82016014%2F00295871350%2F1897041001%2F0073.jp2/pct:17.179215,74.411448,12.530930,17.033390/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +172,27 @@ P. A., A. T. &amp; S. F. Ry Topeka, Kan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-welry  
+&quot; -jirJ  
+  
+- -u- v&quot;s;  
+v --- Yr-5i j--  
+v  
+3  
+lite WLicMin gailtj gagle: jgatiwjlau fronting, &amp;ptxl iO, 1897. ..  
+  
+AMUSEMENTS.  
+  
+Crawford Grand  
+E. L. Martling, Manager  
+..Weston&#x27;s  
+Comedians  
+TCLLsTIGKHIT  
+&#x27;Reuben Glue&#x27;  
+Popular Prices. 10, 20 and 30 c  
+Matinee This Afternoon  
+2:30 O&#x27;clock.  
+&#x27;MABLE HEATH&#x27;  
+Seats on Sale at Mosbacher&#x27;s jewelry  
 store.  
 Mrs. Koher&#x27;s millinery opening next  
 Tuesday, April 13, should be attended by  
@@ -165,9 +217,9 @@ Fe Route offer a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. W. J. Black, G.  
-P. A., A. T. &amp; S. F. Ry., Topeka, Ivan
+P. A., A. T. &amp; S. F. Ry., Topeka, Ivan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897041001%2F0550.jp2/pct:5.954492,18.545259,12.041962,13.351293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897041001%2F0550.jp2/pct:5.939716,1.670259,86.746454,30.226293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +297,18 @@ P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aluable one in this sec­  
+tional bank to re­  
+cover $242,000 of bonds hypothecated or  
+sold to these institutions by Spalding  
+personally or through brokers.  
+Nashua, N. H.. April 15. Solomon  
+Spalding, president of the New Hamp­  
+shire Banking company, and father of  
+C. W. Spalding, president of the de­  
+funct Globe Savings bank of Chicago,  
+has attached his son&#x27;s farm at Merri­  
+mac as security for his bond. The farm  
+is the most valuable one in this sec­  
 tion and has been used for a long time  
 by Mr. Spalding as a stock farm.  
 A car load of horses from Red Oak.  
@@ -272,7 +335,7 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A. T. &amp; S. F. Ry., Topeka, Kan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_inge_ver01%2Fdata%2Fsn82016014%2F00295871350%2F1897041501%2F0098.jp2/pct:17.605132,82.846329,12.544547,11.582135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_inge_ver01%2Fdata%2Fsn82016014%2F00295871350%2F1897041501%2F0098.jp2/pct:17.533856,78.092354,12.615823,16.336109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +432,7 @@ The macalflcent trains of the Santa
 inanv beaut&#x27;fol spots to Colorado, New  
 Mexkn. Arizona, and California. Frc  
 desciiptiv literature. W J Black. G.  
-P 
+P A., A. T. Sz S. F. Ry.. Topek. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897041701%2F0604.jp2/pct:55.691847,73.311137,12.610322,9.075287/!600,600/0/default.jpg"/>
 </td>
@@ -383,7 +446,18 @@ P
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ottles was up and about again.  
+ed Es Liife.  
+Mr. G. Cailloutte, druggist, Beavers­  
+ville, 111., says: &quot;To Dr. King&#x27;s New  
+Discovery I owe my life. &quot;as taken  
+with La Grippe and tried all the phy­  
+sicians for mlies about, but of no avail,  
+and was given up and told I could not  
+live. Having Dr. King&#x27;s New Discov­  
+ery in my store I sent for a bottle and  
+began its use and from the first dose  
+beean to get better, and after using  
+three bottles was up and about again.  
 It is worth its weight in gold. We won&#x27;t  
 keep store or house without it.&quot; Get a  
 free trial at J. K. Jones&#x27; drug store,5th  
@@ -410,7 +484,7 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_inge_ver01%2Fdata%2Fsn82016014%2F00295871350%2F1897042001%2F0137.jp2/pct:70.325418,78.501975,12.436236,11.637800/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_inge_ver01%2Fdata%2Fsn82016014%2F00295871350%2F1897042001%2F0137.jp2/pct:70.325418,73.549073,12.524186,16.590702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,12 +562,6 @@ P. A., A. T. &amp; S. F. Ry.. Topeka. Kan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aximum rate bill to  
-fix maximum rates for reform votes in  
-the Legislature is the right thing. It  
-harmonizes with the reform principles,  
-&quot;aqrrul rights for all, special privileges to  
-none.&quot; Capital.  
   
 - Hawthorne Truly Says: &quot;These  
 railroads are positively the greatest  
@@ -516,7 +584,7 @@ descriptive lrteratme. W..J. Black, G.
   
 P.-A., A. T. &amp; S. F. Ky., Tppeja Kas. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897042201%2F0585.jp2/pct:8.648649,17.265258,29.256757,77.863850/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897042201%2F0585.jp2/pct:8.648649,83.122066,14.729730,12.007042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +795,17 @@ P. A., A. T. &amp; S. F. Ry Topeka, Kan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ele­  
+week. It Is an 8-page, 56-column paper. It  
+elves as much general new as any weekly  
+paper published &quot;back east,&quot; and will reach  
+you from two to four days earlier.  
+By taking the Hutchinson Weekly News  
+you are also patronizing a paper that is de­  
+voting its time in working for Kansas.  
+6iS-Send your subscriptions to the Globe­  
+Republican office.  
+THE DAILY NEWS  
+Is an 8-nage, c-column Associated Press tele­  
 graph daily, 54.00 a year.  
   
 it  
@@ -942,7 +1020,17 @@ P. A, A. T. &amp;. S. F. Ry.. Topeka. Kan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-er.  
+ working on his  
+own capital is safe from the dangers inci­  
+dent to a business life. The Clark county  
+cattle owner has a splendid credit in  
+Kansas City, our principal marketing  
+point. Let it be known that the stock­  
+man is from Clark county, and his credit  
+is unlimited at the bank counter. Ford  
+county cattle grower or dealer has yet  
+to obtain the financial standing given the  
+Clark county cattle owner.  
 I have shipped to Dodge City this sea­  
 son 9,600 head of cattle, and have 8000  
 head more contracted that I am looking  
@@ -966,7 +1054,7 @@ Fe Route offers a facile tranaitleu to
 ataav beantiful spots&#x27; to .Colorado, New  
 atw1m. Arises, and California. Fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897050601%2F0594.jp2/pct:18.887582,80.925199,14.451353,15.519087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897050601%2F0594.jp2/pct:18.820366,74.384588,14.518568,22.059698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +1066,31 @@ atw1m. Arises, and California. Fre
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+;i:hl lamnia ir.aiKl liv. A.!.  
   
+Sterling Remedy C&#x27;n.,CtiiL-uu at New York.  
+  
+Mrs. S. E. Hunt sustained a painful  
+injury Saturday bv stenninff unon a  
+  
+nail. She is quite lame from the ac  
+  
+cident.  
+  
+Thi fu  
+  
+ll ai:  
+  
+CASTOniA.  
+  
+The wheat in the vicinity of Drury  
+  
+and South Haven is the finest in the  
+  
+land. Much of it is knee high.  
+  
+The petition for the pardon of Iaac  
+G. Reed will not be considered until  
   
 the July session of the board.  
   
@@ -1016,7 +1128,7 @@ Free descriptive literature. W. J.
 Black, G. P. A., A.T. &amp;S. F. Railway,  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897050601%2F0332.jp2/pct:37.734681,50.737086,28.533113,41.021474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897050601%2F0332.jp2/pct:37.610893,50.737086,28.656901,41.021474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1127,7 +1239,22 @@ P. A, A. T. &amp; S. F. Ry.. Topeka, Kan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-er Heads  
+ be­  
+ginning at S o&#x27;clock a. m.  
+Applicants should bring their supplies,  
+pencils, paper,etc.  
+Before the examination begins each  
+appl.cant will be required to pay a fee  
+of one dollar. By order of  
+150-2t COMMITTEE.  
+A good smoke &quot;Gen. Knox,&quot; at Graf­  
+ton&#x27;s.The man whose cause is wrong is sure  
+to be the loer if he gains it. Eam&#x27;s Horn.  
+Remember the name. &quot;Gen. Knox.&quot;  
+WHEN IT COMES  
+to  
+Bill Heads or  
+Letter Heads  
 We outstrip everybody in  
 quality and priq . . .  
 We buy our paper in car lota  
@@ -1159,7 +1286,7 @@ Mexico, Arizona, and California. Free
 desciiptive literature. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897050901%2F0122.jp2/pct:17.240352,6.018270,25.048428,89.156368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897050901%2F0122.jp2/pct:17.150946,6.018270,25.137833,89.156368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1395,17 @@ Maxtoes Arhwha, and Caltforaia.&#x27; Trs
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-day evening, of con­  
+t won­  
+derful medical discovery of liie ae. p.as­  
+ant and refresbm? to the Uue, aei poutly  
+and positively on kitii.evs. liver unu bowels,  
+cleansin? the entire systf-as. disjcl colds  
+cum headache, lever. Lahitunl ronstieatioi  
+and biliousness. P1ps?o bay and try a ine  
+of CC.C toViuy; 13, .&quot;, :,u&#x27;teE:s. bokiani:  
+guaranteed to cure by all ri-r.v fists.  
+Mrs. Leslie Combs died at her home  
+in Perth Thursday evening, of con­  
 sumption, after a long illness. The  
 funeral services were held over the  
 remains Friday afternoon at 3 o&#x27;clock  
@@ -1509,7 +1646,26 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-edicine l ever  
+Cure&quot; for rheumatism and  
+  
+neuralgia radically cures in one to  
+three days. Its action upon the sys  
+  
+tem is remarkable and mysterious  
+  
+It removes at once the cause and the  
+  
+disease immediately disappears. The  
+  
+first dose greatly benefits.  
+  
+T F. Anthony, ex-postmaster of  
+  
+Promise City, Iowa, bays: &quot;I bought  
+one bottle of &#x27;Mystic Cure&#x27; for rheu­  
+matism, and two doses of it did me  
+  
+more good than any medicine l ever  
   
 took.&quot; Seventy-five cents. Sold by  
   
@@ -1543,7 +1699,7 @@ Free descriptive literature. W. J.
 Black, G. P. A., A.T. &amp;S. F. Railway,  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897052001%2F0349.jp2/pct:35.287980,50.578203,28.777129,44.223806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897052001%2F0349.jp2/pct:35.246244,50.578203,28.818865,44.223806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1727,7 +1883,20 @@ P. A., A. T. &amp; S. F. By., Topeka. Kan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-able Grove, IU.,  
+eoX.IIeaton.7thU. S. Cavalry 10 23  
+Wm Perry, 5th Illinois cav 9 29  
+G. W. Corey, 4th Minn 9 23  
+WmGribben, 3d Illinois 8 22  
+John Welch, 199 Pa 8 ..  
+Saml Ott, 151st Ind. tHovey&#x27;s babies) 7 2  
+Michael O&#x27;Shea, 4th Kas. car 6 27  
+Isaac Sharp, 2d Kansas cav 6 15  
+Thos Roberts, 17th Kas. cav 4 ..  
+Lawrence Wheeler, 3d Colorado 4 ..  
+Hiram Bronson, 1st Ky cav 3 ..  
+John Fie, 6th Pa H  
+SCIPIO.  
+W. D. Caritbers of Table Grove, IU.,  
 is in the city. Mr. Caritbers, spent the  
 winter in California aud gives some  
 pleasant experiences of a winter&#x27;s so­  
@@ -1753,7 +1922,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G,  
 P. A., A. T. &amp; S. F. Ky., Topeka, Kas,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897052701%2F0618.jp2/pct:77.016537,79.223717,14.225447,16.656745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897052701%2F0618.jp2/pct:77.016537,71.365639,14.259197,24.514823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1765,7 +1934,36 @@ P. A., A. T. &amp; S. F. Ky., Topeka, Kas,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rena Van Ausd.tll.  
+don purple  
+and one pound of lime in fifty gallons  
+of water will cover about 100 ordinary  
+  
+trees and thoroughly cover all the  
+leaves.  
+  
+OASTOniA.  
+  
+Tit fw-  
+  
+limilt  
+  
+n  
+  
+iterf  
+  
+pu.  
+  
+Mayfield Local Union  
+Christain Endeavor Local Union to  
+  
+be held atMaytlold. June 6th, 1S8T.  
+  
+oluntary Miss lo!a Allen.  
+Recitation Miss Gr ici Heasty.  
+Address-Mr. II. J. McNair.  
+Sung.  
+Recitation Andrew .i irdner  
+Paper Miss Irena Van Ausd.tll.  
 Reeitation Miss Clara Freeman.  
 Song.  
 Paper-O. H. Attebury.  
@@ -1806,7 +2004,7 @@ Free descriptive literature. W. J.
 Black, G. P.A., A.T. &amp;S. F. Railway,  
 Topeka, KaS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897052701%2F0357.jp2/pct:36.740618,51.120139,28.882438,35.844457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897052701%2F0357.jp2/pct:36.388140,51.120139,29.234916,35.844457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +2115,20 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-turday night.  
+e immediately disappears. The  
+first dose greatly oeneuts.  
+T. F. Anthony, ex-postmaster of  
+Promise City, Iowa, t,ays: &quot;I bought  
+one bottle of &#x27;Mystic Cure&#x27; for rheu­  
+matism, and two doses of it did me  
+more good than any medicine I ever  
+took.&quot; Seventy-five cents. Sold by  
+H. F. Smith, Druggist. Wellington  
+CASTORIA  
+For Infants and Children.  
+1 bn  
+Miss Grace Alex mder returned to  
+her home in Wlnfleld Saturday night.  
   
   
 Don&#x27;t be deceived by Low  
@@ -1953,7 +2164,7 @@ Iree descriptive literature. W. J.
 Black, G. P. A., A.T. &amp;S. F. Railway,  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897060301%2F0365.jp2/pct:45.915842,30.228225,48.391089,65.684676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897060301%2F0365.jp2/pct:37.665017,30.228225,56.641914,65.684676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1965,7 +2176,18 @@ Topeka, Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o River thirteen miles long,  
+Santa Fe has commenced the  
+work of building the stock yards at Syra­  
+cuse. They will be 150 feet square. A  
+new siding will be constructed and other  
+improvements made.  
+Sek Your Own Land First. Ouly a  
+few hours journey by stage from Flag­  
+staff, Arizona, on the Santa Fe Route,  
+is the most marvelous scenic wonder of  
+the American continent, a veritable Ti­  
+tan of chasms the Grand Cauyon of the  
+Colorado River thirteen miles long,  
 over a mile deep, and painted like a  
 flower. Profusely illustrated descriptive  
 book, &quot;The Grand Canyon,&quot; mailed free  
@@ -1991,7 +2213,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A., A. T. ft S. F. Ry., Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897061001%2F0634.jp2/pct:33.887381,79.207686,14.314790,15.680228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897061001%2F0634.jp2/pct:33.836499,71.592931,14.365672,23.294983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2003,7 +2225,30 @@ P. A., A. T. ft S. F. Ry., Topeka, Kas.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e sup  
+enth district  
+to Mr. Long a-ises from the general  
+  
+oeueitiiat the fellows who are run  
+  
+ning his campaign have manifested a  
+desire to corral everything in sight  
+  
+ior inemseives.  
+  
+Jim Simpson wants to get back on  
+  
+the railroad board.  
+  
+Morton Albaugh would like to be&#x27;  
+  
+re-appointed as a member of the state  
+board of charities.  
+  
+Charles Jobes wants to be bank  
+  
+commissioner.  
+  
+W. Y. Morgan is promised the sup  
   
 port of the others for state printer.  
   
@@ -2045,7 +2290,7 @@ Black, G. P.A., A.T. &amp;S. F. Railway.
   
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897061001%2F0373.jp2/pct:37.008355,56.822953,14.244956,15.185444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897061001%2F0373.jp2/pct:23.007948,52.297644,28.265743,43.655237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2195,7 +2440,20 @@ Topeka, Ka
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ake, Baker&#x27;s man;  
+r. Prt  
+The salary of xe United States  
+marshal, W. E. ie, will be $4,000  
+per year. He h&amp;power to appoint  
+whatever number of deputies he  
+thinks the services demands.  
+There are now three deputy mar  
+shals in Topeka, with others located  
+in different parts of the state who do  
+emergency work, receiving pay as  
+field marshals.  
+Wichita Eagle: Tom Anderson  
+has a new version for children:  
+&quot;Pat a cake, pat a cake, Baker&#x27;s man;  
 is Leland and Lambert and Sutton  
 and Sterne. Pat-a-cake, patacake  
 I can&#x27;t see how Finley can say he  
@@ -2222,7 +2480,7 @@ Mexico, Arizona, and California. Free­
 descriptive literature. W. J. Black, G  
 P. A., A. T. &amp; S. F. By., Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897062401%2F0009.jp2/pct:76.888594,76.585766,14.129172,18.841599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897062401%2F0009.jp2/pct:76.888594,65.939735,14.129172,29.487630/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2269,7 +2527,18 @@ Topeka, Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-could  
+im from a hor  
+rible death. Suspicion rested upon a  
+mail carrier who was seen to coto Mr.  
+Hecker&#x27;s house during his absence  
+- - uuiiu Ilia aU3tlJl,C  
+and rem .in there for some time. He  
+was piacea unaer arrest and as a re  
+sult of his preliminary examination  
+was bound over to court. If guilty of  
+the crime charged, he should be made  
+to suffer the severest penalty In such  
+cases. What object the fellow could  
 have had in poisoning Mr. Hecker is  
 not known. The latter is a quiet,  
 peaceful citizen, always attending  
@@ -2298,7 +2567,7 @@ Free descriptive literature. W. J.
 Black, G. P. A., A.T. &amp;S. F.Railwav,  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897070801%2F0402.jp2/pct:48.469706,50.426452,14.303560,15.340577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897070801%2F0402.jp2/pct:48.469706,44.117303,14.303560,21.649725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2310,7 +2579,18 @@ Topeka, Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- are aborted in a  
+t themsolves  
+with each test whether expermenters  
+believe them or not.  
+The Globe-Republicax has no in­  
+terest in imparting this this information.  
+except as a matter of news. .Epilepsy  
+has been cured with the simple readjust  
+ment of a bone out of position that para  
+lyzed some functional bone or artery.  
+Neryous prostrations are cured, and the  
+whole catalogue of womau&#x27;s ills have  
+been banished. Fevers are aborted in a  
 few hours, and acute diseases yield with  
 mathematical precision to this new meth  
 od, with no other outside agency than  
@@ -2336,7 +2616,7 @@ Mexico, Arizona, and California. Free
 descriptive literatme. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897071501%2F0033.jp2/pct:19.090010,75.000000,14.029014,16.596834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897071501%2F0033.jp2/pct:19.090010,67.923650,14.029014,23.673184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2383,7 +2663,18 @@ Topeka, Kas.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-he name of the Home  
+enefit of the Home  
+and Hospital of the YV. R. C. This ap­  
+propriation h for repairs, improvements  
+and furnishing of the Home. The ex­  
+pense of maintaining the Home must,, for  
+the present, be met by private contribu­  
+tions or whatevei resources are available.  
+The numerous gift? tendered for the  
+Home is solving the question of ways-and  
+means.  
+Mother Bickerdyke is living at the are  
+of SO years, and the name of the Home  
 and Hospital in her honor is proper and  
 right. She was au army nurse who de­  
 voted all her time iu relieving the wants  
@@ -2409,7 +2700,7 @@ Mexico, Arizona, and California. Free
 descriptive literatu.e. W. J. Black, G.  
 P. A.,-A. T. &amp; S. F. By., Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897072201%2F0041.jp2/pct:48.133400,80.007023,14.086610,16.738851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897072201%2F0041.jp2/pct:48.133400,72.901791,14.086610,23.844083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2421,7 +2712,17 @@ P. A.,-A. T. &amp; S. F. By., Topeka, Kas.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ry.  
+retary of said con­  
+vention are authorized, empowered and di­  
+rected to make and ble the proper and neces­  
+sary legal certificate, that said nominee of  
+this convention is the nominee of the People&#x27;s  
+party and of the Democratic party for Judge  
+of tho Nineteenth Judicial District of the  
+state of Kansas, to be voted for at tbe ensu­  
+ing November election.  
+W 9. PILE, Chairman,  
+QU1NCY A. GLASS, Secretary.  
 People&#x27;s Party Judiciary Committee of Nine­  
 teenth Judicial District.  
 JAMES T. 1IEKKICK. Chairman.  
@@ -2450,7 +2751,7 @@ Free descriptive literature. W. J.
 Black, G. P. A., A.T. &amp;S. F. Railway,  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897072201%2F0418.jp2/pct:49.495366,59.492779,14.109166,14.030762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897072201%2F0418.jp2/pct:49.495366,55.723846,14.129763,17.799695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2462,7 +2763,20 @@ Topeka, Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ker of Wichita,  
+e prospects.  
+George Hilton went to Toneka last  
+Saturday with his engine, which is  
+broken down. It will be overhauled  
+in the shops at Topeka.  
+Mrs. James Haas returned to her  
+home near Kremlin, O.T., last Satur­  
+day, after a pleasant visit in the city  
+witn Mrs. J. li. Davis.  
+The Modern Wood men lodge showed  
+the sights to Webb Davis last week.  
+Webb is now a full Hedged wood-  
+chopper.  
+Miss J. Bell Walker of Wichita,  
 was here last Saturday on her way to  
 Argooia to visit her brother, Dr.  
 walker.  
@@ -2491,7 +2805,7 @@ Free descriptive literature. W. J.
 Black. G. P. A.. A. T. S. F. Railway.  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897072901%2F0429.jp2/pct:36.802820,25.859457,14.368650,14.998252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897072901%2F0429.jp2/pct:36.802820,17.305675,14.451586,23.552034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2503,7 +2817,23 @@ Topeka, Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- or  
+dvance in the  
+price of his products?  
+  
+Tax Globe Bxtuslicav k on dollar  
+7 r, jcyble in mdvmrtce.  
+  
+and a spirit of progressiveness.&quot;  
+m  
+Rock Island Route Playing Cards. &#x27;  
+The slickest cards on the market are  
+the &quot;RockIsland&#x27;s.&quot; They are also the  
+cheapest, and we will send you these ex  
+  
+cellent standard goods at the low rate of  
+  
+9 cents per pack if you order five or more  
+packs. Send money order, draft or  
 stamps and they will be sent promptly by  
 express, charges prepaid? Orders for  
 single packs must contain 12 cents in  
@@ -2533,7 +2863,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, 6.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897082601%2F0084.jp2/pct:22.089301,71.872396,14.372367,16.652779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897082601%2F0084.jp2/pct:7.295703,67.111058,29.233361,28.817998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2545,7 +2875,26 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ck rais­  
+F. Ry., Topeka, Kas.  
+  
+W. T. COOL I DC E,  
+AlsitiTi.ote:r,  
+  
+Real Estate and Insurance Apt,  
+  
+Good farms and City Property for  
+  
+sale or trade. Pay taxes for non  
+  
+residents. Examine lands.  
+Only set of abstract books in Ford  
+County up to date.  
+DODGE CITY, KAS.  
+  
+The Globe-Republican and Kansas  
+City Packer are both offered at $1.25 a  
+year. The Packer is just such a paper  
+that will interest fanners and stock rais­  
 ers. It is tlie largest commercial and  
 market newspaper published in the  
 world. It gives weekly an accurate and  
@@ -2575,7 +2924,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897090201%2F0092.jp2/pct:22.160989,77.452364,28.891116,18.866149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897090201%2F0092.jp2/pct:22.160989,58.233357,43.770875,38.085156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2587,7 +2936,20 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- terms.  
+  
+packs. Send money order, draft or  
+stamps and they will be sent promptly by  
+express, charges prepaid? Orders for  
+single packs must contain 12 cents in  
+stamps, as they will be sent by mail.  
+Address,  
+John Sebastin, G, P. A.,  
+Chicago.  
+It Saves the Croupy Children.  
+Seaview, Va. We have a splendid  
+sale on Chamberlain&#x27;s Cough Remedy,  
+and our customers coming from far and  
+near, speak of it in the highest terms.  
 Many have said that their children would  
 have died of croup if Chamberlain&#x27;s  
 uroup Remedy bad not been given.  
@@ -2614,7 +2976,7 @@ Mexico, Arizona, and California. Free
 descriptive literatme. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897090901%2F0100.jp2/pct:36.184430,71.164271,14.166388,16.768796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897090901%2F0100.jp2/pct:36.184430,63.587085,14.216505,24.345982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2626,7 +2988,20 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t terms.  
+cks. Send money order, draft or  
+stamps and they will be sent promptly by  
+express, charges prepaid? Orders for  
+single packs must contain 12 cents in  
+stamps, as they will be sent by mail.  
+Address,  
+John Sebastin, O, P. A.,  
+Chicago.  
+a  
+It Saves the Cronpy Children.  
+Skavtew, Va. We have a splendid  
+sale on Chamberlain&#x27;s Cough Remedy,  
+and our customers coming from far and  
+near, speak of it in the &#x27; highest terms.  
 Many have said that their children would  
 have died of croup if Chamberlain&#x27;s  
 Croup Remedy had not been given.  
@@ -2653,7 +3028,7 @@ Mexico, Arizona, and Califoraia. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. 4 S. F. By., Tofeka, Kan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897091601%2F0108.jp2/pct:36.762254,77.796033,14.154718,16.758596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897091601%2F0108.jp2/pct:36.762254,69.933106,14.154718,24.621523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2702,7 +3077,18 @@ P. A., A. T. &amp; S. F. Ry. , Topeka, Km.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-re will be that  
+imply from the  
+newspaper articles on the subject, we  
+have received thousands of applica­  
+tions. They come mostly from the  
+better class of working people, skilled  
+laborers, people who have a little  
+money laid up, perhaps, people who  
+have had good positions and good  
+salaries in the past, but have been  
+stranded by the financial depression  
+of the last few years. As these peo­  
+ple leave the cities, there will be that  
 many more places and opportunities  
 for those left behind. To relieve the  
 crush of population in the cities, and  
@@ -2729,7 +3115,7 @@ Mexico, Arizona, and California. Free
 descriptive literatme. W. J. Black, b.  
 P. A., A. T. &amp; S. F. By., Topeka, Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897093001%2F0124.jp2/pct:21.925851,80.793295,14.309680,15.854090/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897093001%2F0124.jp2/pct:21.925851,72.553418,14.309680,24.093968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2807,6 +3193,26 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+h  
+any part of the city, or for a five cent  
+  
+fare can be taken immediately to any  
+  
+of the large stores in the downtown dis  
+  
+trict. A train will stop at the Rock Is  
+  
+land Station every minute. These facili  
+  
+ties can only be afforded by the &quot;Great  
+Rock Island Route.&quot;  
+Address  
+John Skbastian, 6. P. &#x27;A.  
+Chicago.  
+  
+To Cattlemen.  
+I have for sale 75 to 100 tons of hay,  
+with use of pasture, and one and one­  
 half miles of river front; good brush  
 shelter. Plenty of outside range. A  
 good winter range with abundance of  
@@ -2835,7 +3241,7 @@ Mexico, Arizona, and California. Free
 descriptive literatine. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897112501%2F0188.jp2/pct:36.643263,38.276149,14.326312,15.873204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897112501%2F0188.jp2/pct:36.643263,28.908940,14.326312,25.240413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2880,7 +3286,20 @@ P. A., A. T. &amp; S. F. Ky., Topeka. Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ristian church.  
+lical Alliance, and the place of  
+meeting each evening:  
+Monday, January 3d. Confession and  
+Thanksgiving of the year. Psalm cxiv.  
+1-13; 1 Cor. ii. 7-1G. M. E. church.  
+Tuesday, January 4th. The Church.  
+Universal. Cluistiau chinch.  
+Wednesday, Januaiy ,&quot;th. Nations  
+Their Rulers. Presbyterian church.  
+Thursday, January 6th. Families and  
+  
+Schools. M. E. chinch.  
+Friday, Januaiy 7tli. Foreign Mis­  
+sions. Christian church.  
 Satuulay, January 8th. Mome Mis  
 sions. Pre&amp;byteiian church­  
 Sunday, January 0th. Sermous; God&#x27;s  
@@ -2911,7 +3330,7 @@ ateAico, Arizona, ana uauiorma. Free
 descriptive literatme. W. J. Black, G.  
 P. A., A. T. &amp; S. F. By., Topeka. Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897123001%2F0225.jp2/pct:32.056690,44.737781,60.047241,35.699845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897123001%2F0225.jp2/pct:32.056690,36.603639,60.165345,43.833987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2923,7 +3342,25 @@ P. A., A. T. &amp; S. F. By., Topeka. Kas.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ey treat of alti­  
+on Weekly News  
+as the weekly papers of St.  
+Louis, Chicago aud other eastern  
+cities.  
+  
+It Has Just  
+  
+as Much  
+  
+Climate Cure If you go soon enough  
+  
+to the right climate, say to the Salt River  
+Valley of Arizona or the New Mexico  
+health resorts. Uurivaled for the relief  
+  
+or cure of chronic lung and throat dis­  
+eases. Constant sunshine, dry air,  
+equable temperature. Descriptive pam­  
+phlets mailed free. They treat of alti­  
 tude, temperature, humidity, hor springs,  
 sanatoriums, cost of living, medical at­  
 tendance, social advantages, etc. Ad­  
@@ -2955,7 +3392,7 @@ Mexico, Arizona, and California. Free
 descriptive literatme. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898020301%2F0268.jp2/pct:67.607550,69.500178,14.419316,14.899679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898020301%2F0268.jp2/pct:67.607550,58.779532,29.297738,25.620325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2967,7 +3404,18 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-bey treat of alti­  
+for visiting Xew Mex­  
+ico.Inquire of F. Gardner, Agt., A. T. &amp;  
+S. F. R&#x27;y., Dodge City.  
+w. J. black, (i. r. A.  
+Climate Cure If you go soon enough  
+to the right climate, say to the Salt River  
+Valley of Arizona or tbe New Mexico  
+health resorts. Unrivaled for the relief  
+or cure of chronic lung and throat dis­  
+eases. Constant sunshine, dry air,  
+equable temperature. Descriptive pam­  
+phlets mailed free. Tbey treat of alti­  
 tude, temperature, humidity, hot springs,  
 sanatoriums, cost of living, medical at­  
 tendance, social advantages, etc. Ad­  
@@ -2993,7 +3441,7 @@ Mexico, Arizona, and California. Free
 descriptive literatme. W. J. Black, Cr.  
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898021001%2F0276.jp2/pct:66.576041,71.641262,14.460493,14.817441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898021001%2F0276.jp2/pct:66.576041,63.062744,14.630416,23.395959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3005,7 +3453,18 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-They treat of alti­  
+on for visiting New Mex­  
+ico.Inquire of F. Gardner, Agt., A. T. &amp;  
+S. F. R&#x27;y., Dodge City.  
+W. J. Black, G. P. A.  
+Climate Cure If you go soon enough  
+to the right climate, say to the Salt River  
+Valley of Arizona or the New Mexico  
+health resorts. Unrivaled for the relief  
+or cure of chronic lung and throat dis­  
+eases. Constant sunshine, dry air,  
+equable temperature. Descriptive pam  
+phlets mailed free. They treat of alti­  
 tude, temperature, humidity, hot springs,  
 sanatoriums, cost of living, medical at  
 tendance, social advantages, etc. -Ad  
@@ -3031,7 +3490,7 @@ Mexico. Arizona, and California. Free
 descriptive literatine. W. J. Black, (y.  
 P.&#x27;A., A. T. &amp; S. F. Ry., Topeka. Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898021701%2F0284.jp2/pct:66.786694,71.378423,14.523320,14.661830/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898021701%2F0284.jp2/pct:66.786694,62.894922,14.591907,23.145331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3043,7 +3502,18 @@ P.&#x27;A., A. T. &amp; S. F. Ry., Topeka. Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hey treat of alti­  
+n for visiting New Mex­  
+ico.Inquire of F. Gardner, Agt., A. T. &amp;  
+S. F. R&#x27;y., Dodge City.  
+. J. Black, G. P. A.  
+Climate Cure If you go soon enough  
+to the right climate, say to the Salt River  
+Valley of Arizona or the New Mexico  
+health resorts. Unrivaled for the relief  
+or cure of chronic lung and throat dis­  
+eases. Constant sunshine, dry air,  
+equable temperature. Descriptive pam­  
+phlets mailed free. They treat of alti­  
 tude, temperature, humidity, hot springs,  
 sanatoriums, cost of living, medical at­  
 tendance, social advantages, etc. Ad­  
@@ -3069,7 +3539,7 @@ Mexico, Arizona, and California. Free
 descriptive literatme. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898022401%2F0292.jp2/pct:67.365729,70.930646,14.509804,14.807350/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898022401%2F0292.jp2/pct:67.365729,62.216953,14.578005,23.521043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3081,7 +3551,20 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ndersigned will be glad to tell you when  
+led.  
+U &#x27; m  
+  
+Only one fare.plns S2.00 and customary  
+X. . A. membership fee, for ticket to  
+Washington, I. C, and return. They  
+will be on sale July 3, 4 aud 5, 1894, at  
+Santa Fe Route ticket offices. Pullman  
+Palace and Tourist Sleepers and free  
+ChairCars will leave points in Kaunas  
+ou July 4, Ik&#x27;Jo. for accommodation ot  
+teachers and friends, and go through to  
+Washington, D. C, tcttJiout change. The  
+undersigned will be glad to tell you when  
 train will pass this station.  
 Itinerary and list of desirable low rate  
 excursious from Washington free onapplication.  
@@ -3108,7 +3591,7 @@ Mexico. Arizona, and Califoruia. Free
 descriptive litemtiiie. W. J. Black. O.  
 P. A., A. T. it S. F. Ky., Topeka. Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898061601%2F0422.jp2/pct:81.937437,11.477932,14.446687,17.453556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898061601%2F0422.jp2/pct:66.616213,7.573068,29.767911,89.445036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3120,7 +3603,21 @@ P. A., A. T. it S. F. Ky., Topeka. Kas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o make it success­  
+iket.&#x27; Palace Drug Co.  
+  
+fiiiiiii!iirimiiiimim!lim&#x27;WWttwii!muiiu.iwunnM3:  
+  
+Last year 29S6 vessels passed  
+through the Suez Canal, of which  
+1905 were British and 48 Spanish.  
+England&#x27;s interests in the Mediter­  
+ranean have a substantial basis.  
+  
+The readiness of the people to  
+subscribe for the war loan is another  
+evidence that they believe the war  
+to be righteous, and will cheerfully  
+meet the demands to make it success­  
 ful. t  
   
 The foreign exports of the country  
@@ -3153,7 +3650,7 @@ descriptive literatme. W. J. Black, Or.
   
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898062301%2F0430.jp2/pct:37.392332,24.200426,29.201148,18.490879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898062301%2F0430.jp2/pct:37.392332,8.445866,42.425266,34.245439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3199,7 +3696,17 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aud the  
+ board the Bourgogne.  
+The Allan line steamer Grecian, Cap  
+tain Nunau, which sailed from Glasgow  
+on June 24th, for New York, arrived at  
+Halifax yesterday, towing the Britiek.  
+ship Cromartyshire, which had been in  
+collision with La Bourgogne. She report  
+that the latter sank almost immediately  
+The passengers aud cicw saed number  
+200 passengers. in all. Of this number  
+170 of the saved were passengers aud the  
 other 30 rescued were members of tbo  
 crew of the French steamer. Only one  
 woman was saved. All the officers of  
@@ -3226,7 +3733,7 @@ Mexico, Arizona, and California. Free
 descriptive literatme. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ky., Topeka. Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898070701%2F0443.jp2/pct:79.605263,68.071791,14.574899,15.775180/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898070701%2F0443.jp2/pct:79.520918,61.660172,14.659244,22.186799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3239,7 +3746,6 @@ P. A., A. T. &amp; S. F. Ky., Topeka. Kas
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-obne Tkuly Says : &#x27;-These  
 are positively the greatest  
 that the ages have wrought out  
 for us. &#x27;. Lheygive us wings; tncy anni­  
@@ -3269,7 +3775,7 @@ e literature. W. J. Black. .
 T. &amp; S. F. Ry., Topeka. Kas.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898071401%2F0451.jp2/pct:78.902459,64.655274,14.856952,11.974072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898071401%2F0451.jp2/pct:78.902459,65.350619,14.856952,11.278727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

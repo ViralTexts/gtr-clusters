@@ -166,12 +166,13 @@ ny is not Ruth Hall, who is Fanny Fern ? The life an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Those who have read-the advance copy, pronounce it the  
 wittiest, spiciest book of the season.  
 It presents vivid, life-like pictures of the charming and  
 brilliant  
 AUTHOR OF FERN LEAVES AND RUTH HALL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855022201%2F0034.jp2/pct:42.602366,27.554999,12.361237,1.493317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855022201%2F0034.jp2/pct:42.602366,27.192982,12.361237,1.855333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,11 +263,7 @@ j teh VI [Pied W hig \ Rockingham Reg
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-C.  
-A~ LL THE WORLD WILL READ THIS  
-BOOK.  
-NOW READY TO SEND BY MAIL TO ANY ONE ON RECEIPT OF ONE  
-’DOLLAR.  
+  
 THE LIFE AND BEAUTIES  
 OF  
 F A M 28 Y F K It N .  
@@ -277,7 +274,7 @@ OR SOMEBODY ELSE?
 AND IF FANNY FERN IS NOT RUTH HALL,  
 WHO 18 FANNY FERN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_barnes_ver02%2Fdata%2Fsn83030364%2Fprint00211110053%2F1855022501%2F0001.jp2/pct:58.047458,14.109068,12.260043,5.754597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_barnes_ver02%2Fdata%2Fsn83030364%2Fprint00211110053%2F1855022501%2F0001.jp2/pct:58.656239,16.477489,10.998045,3.386176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,14 +333,13 @@ ny is not Ruth Hall, who is Fanny Fern ? The life an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-DETAILS.  
 Those who have read the advance copy, pronounce it the  
 wittiest, spiciest book of the season.  
 It presents vivid, life-like pictures of the charming and  
 brilliant  
 AUTHOR OF PERN LEAVES AND RUTII HALL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855030101%2F0038.jp2/pct:29.967249,69.916898,12.413574,2.344183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855030101%2F0038.jp2/pct:29.967249,70.346260,12.413574,1.914820/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

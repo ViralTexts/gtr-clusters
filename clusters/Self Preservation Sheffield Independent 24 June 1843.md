@@ -1,7 +1,7 @@
 
 # From _Sheffield Independent_
 
-### 580 reprints from 1841-05-22 to 1896-11-10
+### 565 reprints from 1841-05-22 to 1896-11-10
 
 ## [From _Sheffield Independent_](https://link-gale-com.ezproxy.lib.ryerson.ca/apps/doc/R3212004854/BNCN?u=rpu_main&sid=bookmark-BNCN&xid=846d399a.)
 
@@ -783,16 +783,6 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 ## Advertisements & Notices
 
-#### From _Preston Chronicle_
-
-#### 1842-05-14 &middot; Preston, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1842-05-21 &middot; Manchester, England
@@ -916,16 +906,6 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 #### From _Manchester Times_
 
 #### 1842-06-04 &middot; Manchester, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Preston Chronicle_
-
-#### 1842-06-04 &middot; Preston, England
 
 [This text is not available under an open license.]
 
@@ -1283,26 +1263,6 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
-
-#### 1842-07-16 &middot; Manchester, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Preston Chronicle_
-
-#### 1842-07-16 &middot; Preston, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Preston Chronicle_
 
 #### 1842-07-16 &middot; Preston, England
@@ -1356,16 +1316,6 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 #### From _Manchester Times_
 
 #### 1842-07-23 &middot; Manchester, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Preston Chronicle_
-
-#### 1842-07-23 &middot; Preston, England
 
 [This text is not available under an open license.]
 
@@ -1486,16 +1436,6 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 #### From _Bristol Mercury_
 
 #### 1842-08-06 &middot; Bristol, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1842-08-06 &middot; Manchester, England
 
 [This text is not available under an open license.]
 
@@ -2343,16 +2283,6 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 ## Advertisements & Notices
 
-#### From _Preston Chronicle_
-
-#### 1843-02-25 &middot; Preston, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1843-03-04 &middot; Manchester, England
@@ -2381,13 +2311,14 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-04_16_766?page=21)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-04_16_766?page=21)
 
 #### 1843-03-04
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Samuet La Mert, Surgeon, 9, Bedtord Street, Bedford  
 Square, London ; Matriculated Member of the University  
 of Edimburgh; Licentiate of Apothecaries’ Hall, Lon-  
 don, &amp;c.  
@@ -2406,7 +2337,7 @@ or premature decay. Mr. La’Mert, who is a regularly
 educated member of the medical professi.n, has treated  
 the subject in a very scientific and intelligible manner.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-04_16_766&#0036;21/pct:63.835616,78.712248,26.198630,10.046141/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-04_16_766&#0036;21/pct:63.835616,78.187919,26.198630,10.570470/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2492,17 +2423,7 @@ the subject in a very scientific and intelligible manner.
 
 ---
 
-## Advertisements & Notices
-
-#### From _Preston Chronicle_
-
-#### 1843-03-18 &middot; Preston, England
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-18_16_768?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-18_16_768?page=22)
 
 #### 1843-03-18
 
@@ -2524,23 +2445,11 @@ by all B okseilers.
 ‘* We consider this book really ought, as a matter of  
 safety, to be placed in the hands of every youth whose  
 appearance indicates any teudency to vervous debility,  
-or premature decay. Mr. La&#x27;Mert, who is a ae  
-  
-d d ber of the medical professi.n, ha
+or premature decay. Mr. La&#x27;Mert, who is a a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-18_16_768&#0036;22/pct:61.404110,79.966887,26.027397,9.271523/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1843-03-25 &middot; Manchester, England
-
-[This text is not available under an open license.]
 
 ---
 
@@ -2604,14 +2513,13 @@ d d ber of the medical professi.n, ha
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-04-29_16_774?page=21)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-04-29_16_774?page=21)
 
 #### 1843-04-29
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Matricul: ited Member of the University of Edinburg eh;  
 Licentiate of Apothecaries’ Hall, London, &amp;c.  
   
 Published by the Author; aud Sold by 8.  
@@ -2674,7 +2582,7 @@ aud alleviate.’— Wakefield Journal
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-13_16_776?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-13_16_776?page=22)
 
 #### 1843-05-13
 
@@ -2708,13 +2616,14 @@ and alleviate. Wakefield Journal,
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-20_16_777?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-20_16_777?page=22)
 
 #### 1843-05-20
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Surgeon, 9, Bedford Street, Bedford Square, London ;  
 Matriculated Member of the University of Edinburgh ;  
 Licentiate of Apothecaries’ Hall, London, &amp;c.  
   
@@ -2732,21 +2641,29 @@ safety, to be placed in the hands of every youth whose
 appearance in‘licates any teudeucy to vervous debility,  
 or premature decay. Mr, La’ Mert, who is a regularly  
 educated member of the medical profession, has treated  
-the subject in a very scientific aud intelligible manne
+the subject in a very scientific aud intelligible manner  
+  
+By Samvet La’Merrt, |  
+  
+and we are certainly amazed at the prevalence and the |  
+  
+consequences of those evils itis in his province to portray  
+aud alleviate.’— Vahkefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-20_16_777&#0036;22/pct:9.178082,46.732955,25.753425,9.496753/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-20_16_777&#0036;22/pct:9.178082,45.616883,26.472603,12.398539/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-03_16_779?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-03_16_779?page=22)
 
 #### 1843-06-03
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Surgeon, 9, Bedford Street, Bedford Square, London;  
 Matriculated Member of the University of Edinburgh;  
 Licentiate of Apothecaries’ Hall, London, &amp;c.  
   
@@ -2766,21 +2683,23 @@ or premature decay. Mr. La’Mert, who is a regularly
 educated member of the medical profession, has treated  
 the subject in a very scientific aud intelligible manner,  
 and we are certainly amazed at the prevalence aud the  
-consequences of those evils i
+consequences of those evils itis in his province to portray  
+aud alleviate.’— Waketield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-03_16_779&#0036;22/pct:32.568493,45.404412,25.856164,10.743464/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-03_16_779&#0036;22/pct:32.534247,44.812092,25.890411,11.805556/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-17_16_781?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-17_16_781?page=22)
 
 #### 1843-06-17
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+4, Bedford Street, Bedford Square, Londou ; Matriculated  
 Member of the University of Edinburgh; Licentiate of  
   
 Apothecaries’ Hall, London, &amp;c.  
@@ -2801,15 +2720,16 @@ or premature decay. Mr. La’Mert, who is a regularly
 educated member of the medical profession, has treated  
 the subject in a very scientific and intelligible manner,  
 and we are certainly amazed at the prevalence and the  
-consequences of those evils i
+consequences of those evils itis in his province to portray  
+aud alleviate.’— Waketield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-17_16_781&#0036;22/pct:62.500000,45.256515,25.890411,10.749186/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-17_16_781&#0036;22/pct:62.465753,44.666124,25.924658,11.787459/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-07-29_16_787?page=21)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-07-29_16_787?page=21)
 
 #### 1843-07-29
 
@@ -2832,7 +2752,7 @@ alleviate.”—WakeFIELD JOURNAL,
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1843-09-09_1_2?page=15)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1843-09-09_1_2?page=15)
 
 #### 1843-09-09
 
@@ -2844,9 +2764,11 @@ norary Member of the London Hospital Medical Society ;
 Licentiate of Apothecaries’ Hall, London, &amp;c.  
   
 Published by the Author; and sold in London by S. Gilbert,  
-51 and 52 Paternoster row; Field, 65 Quadrant ; Gordon, 14
+51 and 52 Paternoster row; Field, 65 Quadrant ; Gordon, 146  
+Leadenhall street; Noble, 109 Chancery lane; and by all  
+Booksellers. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1843-09-09_1_2&#0036;15/pct:67.401669,32.071269,25.357569,2.579807/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1843-09-09_1_2&#0036;15/pct:67.401669,32.071269,25.357569,3.711952/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2977,6 +2899,16 @@ Published by the Author; and sold in London by S. Gilbert,
 #### From _Preston Chronicle_
 
 #### 1843-11-04 &middot; Preston, England
+
+[This text is not available under an open license.]
+
+---
+
+## Multiple Classified Advertisements
+
+#### From _The Ohio statesman._
+
+#### 1843-11-08 &middot; Columbus, Ohio
 
 [This text is not available under an open license.]
 
@@ -3232,7 +3164,7 @@ Published by the Author; and sold in London by S. Gilbert,
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25?page=22)
 
 #### 1844-02-17
 
@@ -3274,7 +3206,7 @@ vince to portray and alleviate.”— Wakefield Journal.
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882?page=13)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882?page=13)
 
 #### 1844-02-24
 
@@ -3516,7 +3448,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 ---
 
-## [From _British and Foreign Review; Or European Quarterly Journal 1835-1844_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17?page=24)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17?page=24)
 
 #### 1844-04-01
 
@@ -3718,7 +3650,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 ---
 
-## [From _British and Foreign Review; Or European Quarterly Journal 1835-1844_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17?page=20)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17?page=20)
 
 #### 1844-07-01
 
@@ -3794,16 +3726,6 @@ prevalence and the consequences of these evils it is his province to portray and
 #### From _Preston Chronicle_
 
 #### 1844-07-27 &middot; Preston, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Preston Chronicle_
-
-#### 1844-08-03 &middot; Preston, England
 
 [This text is not available under an open license.]
 
@@ -4001,16 +3923,6 @@ prevalence and the consequences of these evils it is his province to portray and
 
 ## Advertisements & Notices
 
-#### From _Preston Chronicle_
-
-#### 1844-10-05 &middot; Preston, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _The Era_
 
 #### 1844-10-06 &middot; London, England
@@ -4069,13 +3981,13 @@ prevalence and the consequences of these evils it is his province to portray and
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60?page=22)
 
 #### 1844-10-19
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ire Gazette.  
+  
   
 ‘‘ We consider this book really ought, as a matter of  
 safety, to be placed in the hands of every youth whose  
@@ -4087,7 +3999,7 @@ and we are certainly amazed at the prevalence and con-
 sequences of those evils it is his province to portray  
 and alleviate.”— Wakefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60&#0036;22/pct:59.695603,74.249812,24.295378,6.226557/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60&#0036;22/pct:59.695603,74.868717,24.295378,5.607652/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4113,13 +4025,13 @@ and alleviate.”— Wakefield Journal.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=21)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=21)
 
 #### 1844-10-26
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hire Gazette.  
+  
   
 “ We consider this book really ought, as a matter of  
 safety, to be placed in the hands of every youth whose  
@@ -4131,7 +4043,7 @@ and we are certainly amazed at the prevalence and con-
 sequences of those evils it is his province to portray  
 and alleviate.”— Wakefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61&#0036;21/pct:40.586246,75.371747,24.633596,6.542751/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61&#0036;21/pct:40.586246,76.078067,24.633596,5.836431/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4292,26 +4204,6 @@ and alleviate.”— Wakefield Journal.
 #### From _Preston Chronicle_
 
 #### 1844-11-23 &middot; Preston, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Preston Chronicle_
-
-#### 1844-11-23 &middot; Preston, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1844-11-24 &middot; London, England
 
 [This text is not available under an open license.]
 
@@ -4497,12 +4389,17 @@ and alleviate.”— Wakefield Journal.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1845-01-11_3_2?page=23)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1845-01-11_3_2?page=23)
 
 #### 1845-01-11
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+  
+member of the medical pri  
+  
+regularly  
   
 educated fession, has treated  
   
@@ -4515,7 +4412,7 @@ and we are certainly amazed at the prevalence and con-
 sequences of those evils it is his province to pourtray and  
 alleviate. Wakefield Journ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1845-01-11_3_2&#0036;23/pct:66.725352,75.109729,24.970657,3.054133/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1845-01-11_3_2&#0036;23/pct:66.725352,74.579371,24.970657,3.584492/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4561,7 +4458,7 @@ alleviate. Wakefield Journ
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-01-18_15_491?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-01-18_15_491?page=3)
 
 #### 1845-01-18
 
@@ -4575,9 +4472,10 @@ to any address, fo:
   
 ELF-PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary habits, youthful excess,  
-or infection, and terminating in local and constitutional weakness, nervous debility, me
+or infection, and terminating in local and constitutional weakness, nervous debility, me-  
+consum: &amp;c.,with plai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-01-18_15_491&#0036;3/pct:6.868932,82.569975,27.912621,2.592239/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-01-18_15_491&#0036;3/pct:6.868932,82.569975,27.912621,3.117048/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4623,13 +4521,13 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1845-01-25_3_4?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1845-01-25_3_4?page=22)
 
 #### 1845-01-25
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hire Gazette.  
+  
   
 ‘*We consider this book really ought, as a matter of  
 safety, to be placed in the hands of every youth whose  
@@ -4641,7 +4539,7 @@ and we are certainly amazed at the prevalence and con-
 sequences of those evils it is his province to pourtray and  
 alleviate.” — Wakefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1845-01-25_3_4&#0036;22/pct:34.712441,73.664960,25.176056,6.016825/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1845-01-25_3_4&#0036;22/pct:34.712441,74.268471,25.176056,5.413314/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4677,16 +4575,13 @@ alleviate.” — Wakefield Journal.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1845-02-01_3_5?page=22)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1845-02-01_3_5?page=22)
 
 #### 1845-02-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-‘We consider book really ought  
-safety, to be placed in the hands of ev  
 appearance indicates any tendency to &#x27; erv  
   
 this as a matter of  
@@ -4713,7 +4608,7 @@ alleviate.”— Wakefield Journal.
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-02-01_15_493?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-02-01_15_493?page=3)
 
 #### 1845-02-01
 
@@ -4883,17 +4778,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 ---
 
-## Advertisements & Notices
-
-#### From _Preston Chronicle_
-
-#### 1845-03-08 &middot; Preston, England
-
-[This text is not available under an open license.]
-
----
-
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-03-08_15_498?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-03-08_15_498?page=3)
 
 #### 1845-03-08
 
@@ -4909,16 +4794,6 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-03-08_15_498&#0036;3/pct:4.293425,73.425573,28.876349,2.639949/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-03-09 &middot; London, England
-
-[This text is not available under an open license.]
 
 ---
 
@@ -5682,24 +5557,32 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-07-26_15_518?page=1)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-07-26_15_518?page=1)
 
 #### 1845-07-26
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+LA’MERT ON DEBILITY, NERVOUSNESS, AND ALL DISORDERS ARISING  
+FROM EXC &amp;e.  
+  
+* He who in pleasure’s arms | ‘A hero lives, and just]  
+Ne’er lost his health, or youthful charms, Exclaim, ‘ In me  
+Jat pealieel, the Seven Disa, t&#x27;s See areee: price 2s. 6d. ;  
+  
+to; address, 5  
 ELF-PRESERVATION : A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary hahits, youthful excess,  
 terminating weakness, ner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-07-26_15_518&#0036;1/pct:4.990263,84.398855,27.190847,2.099237/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-07-26_15_518&#0036;1/pct:3.578384,82.029262,28.602726,4.468830/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-02_15_519?page=8)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-02_15_519?page=8)
 
 #### 1845-08-02
 
@@ -5710,8 +5593,7 @@ Just published, the Seventh Edition, in a sealed envelope, price 2s. 6d.; or fre
 to any address, for 3s. 6d.  
 ELF- PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary hahits, youthful excess,  
-es a oad terminating in local ete constitutional bape hae neigh eae me-  
-jancholy, incapacity, gonorrhea, syphil digestion, insani
+es a oad terminating in local ete constitutional bape hae neigh eae me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-02_15_519&#0036;8/pct:5.990338,75.938295,28.115942,3.244275/600,/0/default.jpg"/>
 </td>
@@ -5739,7 +5621,7 @@ jancholy, incapacity, gonorrhea, syphil digestion, insani
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-09_15_520?page=8)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-09_15_520?page=8)
 
 #### 1845-08-09
 
@@ -5753,9 +5635,10 @@ to any address, for 3s. 6d. :
 ELF-PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary hahits, youthful excess,  
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
-lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plai
+lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plain  
+directions for their treatment and cure. Iustrated with cases. By SAMUEL LA’MERT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-09_15_520&#0036;8/pct:7.163462,72.121501,28.197115,2.989822/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-09_15_520&#0036;8/pct:7.163462,72.121501,28.197115,3.419211/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5791,7 +5674,7 @@ lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-16_15_521?page=8)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-16_15_521?page=8)
 
 #### 1845-08-16
 
@@ -5831,7 +5714,7 @@ lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-30_15_523?page=8)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-30_15_523?page=8)
 
 #### 1845-08-30
 
@@ -5843,9 +5726,10 @@ to any address, for 3s. 6d.
 ELF-PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary hahits, youthful excess,  
 or infection, and terminating in local and Pesca wregmad = Prager me  
-Jancholy, inca , gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.
+Jancholy, inca , gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,  
+directions for thely iveatmnent und cure’ Ilustrated with caves, By SAMUEL LA’MERT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-30_15_523&#0036;8/pct:5.255545,75.031807,28.037608,3.053435/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-30_15_523&#0036;8/pct:5.255545,75.031807,28.037608,3.594148/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5881,12 +5765,13 @@ Jancholy, inca , gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-06_15_524?page=12)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-06_15_524?page=12)
 
 #### 1845-09-06
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 ust published, the Seventh Edition, in a sealed anrtlen. price 2s. 6d. ; or free by post  
   
@@ -5894,9 +5779,11 @@ to any address, for 3s. 6d.
 wi ELF-PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary hahits, youthful excess,  
 or in and terminating in local and constitutional weakness, nervous debility, me-  
-lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plai
+lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plain  
+directions for their treatment and cure. Illustrated with cases. SAMUEL LA T,  
+consulting surgeon, 9, Bedford-street, ry Member of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-06_15_524&#0036;12/pct:4.927885,73.870865,27.692308,3.117048/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-06_15_524&#0036;12/pct:4.903846,73.870865,27.716346,3.975827/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5912,17 +5799,7 @@ lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &
 
 ---
 
-## Advertisements & Notices
-
-#### From _Preston Chronicle_
-
-#### 1845-09-13 &middot; Preston, England
-
-[This text is not available under an open license.]
-
----
-
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-13_15_525?page=10)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-13_15_525?page=10)
 
 #### 1845-09-13
 
@@ -5983,7 +5860,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-10-11_15_529?page=8)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-10-11_15_529?page=8)
 
 #### 1845-10-11
 
@@ -6183,7 +6060,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-10_16_542?page=11)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-10_16_542?page=11)
 
 #### 1846-01-10
 
@@ -6197,10 +6074,9 @@ disorders of the generativesystem, originating in solitary hahits, eXCeSS,
   
   
   
-or infection, and terminating in local and constitutional weakness, nervous ,me-&quot;  
-lancholy, incapacity, gonorrhea, syphilis, indigesti
+or infection, and terminating in local and constitutional weakness, nervous ,me-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-10_16_542&#0036;11/pct:65.063477,72.462406,29.614258,3.054511/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-10_16_542&#0036;11/pct:65.063477,72.462406,29.614258,2.521930/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6226,7 +6102,7 @@ lancholy, incapacity, gonorrhea, syphilis, indigesti
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-24_16_544?page=7)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-24_16_544?page=7)
 
 #### 1846-01-24
 

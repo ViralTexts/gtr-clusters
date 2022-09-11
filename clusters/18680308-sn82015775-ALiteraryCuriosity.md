@@ -1,7 +1,7 @@
 
 # A Literary Curiosity
 
-### 198 reprints from 1868-02-26 to 1899-07-20
+### 187 reprints from 1868-02-26 to 1899-07-20
 
 ## [A Literary Curiosity](http://chroniclingamerica.loc.gov/lccn/sn82015775/1868-03-08/ed-1/seq-3/)
 
@@ -106,10 +106,7 @@ LIFE.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aithlessw p as lay.  
-d 22-Wih erau t ad lto ruin and betray ;  
-. 23--ort ntee ho b to fall, but stoop to rise,  
-it 26-We m1s to ii a itht we despise.  
+  
 S26-0. the, ehat Impious self-esteem ;  
 I 2-Rches have wings, and grandeur is a dream.  
 27-Think net ambitibon wi beaouse &#x27;ti brave,  
@@ -128,9 +125,9 @@ had.
 1­  
 37-The trust that&#x27;s glves guard; and to your­  
 S self be just ;  
-
+S38-For, live we how we na, yet die we mua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_psylocke_ver01%2Fdata%2Fsn82015775%2F00200299899%2F1868030801%2F0467.jp2/pct:78.395296,20.694022,16.160850,12.613982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_psylocke_ver01%2Fdata%2Fsn82015775%2F00200299899%2F1868030801%2F0467.jp2/pct:78.395296,23.226950,16.160850,10.081054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,6 +140,8 @@ S self be just ;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+and fitting togetlrar tlie following thirtr-f jtbt  
+lines from thirty-eight English poets The  
 names of the authors are given below: &#x27; &#x27; ,  
 V Life. .. . , .:  
 1 Why all this toil for triumphs of aa kourri  
@@ -177,21 +176,17 @@ IS Vile intercourse where virtue has e 4 place;
 27 Til Ink not ambition wise beeaaisJtls brave,  
 28 Tho paths of glory lead but to ths grave.  
 29 What is ambition ?&#x27;tii a glorioui cheat,  
-300aly destruotive to the brave ani great.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_article_ver01%2Fdata%2Fsn84038628%2F00295879932%2F1868030901%2F0492.jp2/pct:45.256048,63.628589,11.907006,18.900428/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1868-03-09/ed-1/seq-2)
-
-#### 1868-03-09 &middot; Rock Island, Ill.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+300aly destruotive to the brave ani great.  
+31i-Whafs all the gaudy glitter of crown ? ,J  
+32 lbe way to Miss lias aot en beds os &quot;  
+33 How long we lire not years, but aotions, teli;  
+34 That man lives twtee wh4ivcs the nnt life  
+well. : &#x27;&quot; , &quot; r .  
+35 Make then wfciVyef re may, J God your  
+friend, . &#x27; r f ? A , &#x27;  
+SS Whom christian , worships compre­  
+hend. . f ? W&#x27; - . j &#x27;I  
+. - ir. . . .., . - J- v;  
 37 The trust that giTeB. gaard, d o your­  
 self be Just;&#x27; f,V,vtO.  
 .!8 For, lire we tow tie can, yet die we must.  
@@ -207,7 +202,7 @@ Crabbe; 23, Masstager; 24. CowUe 25, Beastia;
 Qaarles;S37Watkins:ai, Herrick; 35, William  
 Mason; 36, Hill; 37, Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_article_ver01%2Fdata%2Fsn84038628%2F00295879932%2F1868030901%2F0492.jp2/pct:45.303173,87.587049,11.907006,6.120953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_article_ver01%2Fdata%2Fsn84038628%2F00295879932%2F1868030901%2F0492.jp2/pct:45.256048,62.687844,11.954131,31.020159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,9 +301,11 @@ $0 Whom Christians worship, Wk wctiuemercaand.
 live we how we can, yet die we must. .  
   
 SSEET SS Srmes; 8 Pope; 4. Prior; 6 Sewell ; 6. coaching vil festival. .  
-Spencer ; ’ Daniel ; 8. Sir Walter ; low ; 10. PP Mister, her busband ; “ why do you call him Mis
+Spencer ; ’ Daniel ; 8. Sir Walter ; low ; 10. PP Mister, her busband ; “ why do you call him Mis-  
+Southwell; 11. Congreve ; 12 13. ter; 14 ter, if you please? He is no more a gentieman than | am.  
+ae 316 Milsons 16. Bailes ; 17. Trench ; 18. yo Von’t you know he and I were bora to follow the ploag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13&#0036;2/pct:7.594563,20.096463,54.639480,43.709807/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13&#0036;2/pct:7.594563,20.096463,54.639480,45.196945/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,6 +318,8 @@ Spencer ; ’ Daniel ; 8. Sir Walter ; low ; 10. PP Mister, her busband ; “ wh
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ad fitting together the following thirty-eight  
+lines from thirty-eight English poets. The  
 mmes of the authors are given below:  
   
 LIFE.  
@@ -362,20 +361,17 @@ il—Her sensual snares let faithless pleasures lay,
 —We masters grow of all that we despise.  
   
 %—0 then renounce that impious self-esteem ;  
-4—Riches have wi
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4&#0036;12/pct:4.595588,43.252595,33.014706,30.947232/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4?page=12)
-
-#### 1868-03-28 &middot; Philadelphia
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+4—Riches have wings, and grandeur is a dream.  
+%—Think not ambition wise because ’tis brave,  
+  
+3—The paths of glory lead but to the grave.  
+4—What&#x27;s ambition ? ‘tis a glorious cheat,  
+  
+nly destructive to the brave and great.  
+  
+‘l-What’s all the gaudy glitter of a crown?  
+  
+Tie way to bliss lies not on beds of down.  
   
 ‘How long we live, not years, but actions, tell ;  
   
@@ -405,7 +401,7 @@ den, 32 Francis Quarles, 33 Watkins. 34 H. rrick,
 35 William Mason, 36 Hill, 37 Dana, 33 Shak-  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4&#0036;12/pct:5.257353,15.895329,67.867647,67.301038/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4&#0036;12/pct:4.558824,15.895329,68.566176,67.301038/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +423,12 @@ speare.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- an hour  
+  
+up and fitting together the following thirty  
+eight tinea from thirty-eight Eagiiah poets.  
+The names of tbe authora are given beiow  
+  
+I- -Why all this toil for triumphs nf an hour  
 I.if* a a abort summer, man a^owcr  
 *—Hy turns waratuh tba vital uraalh aaS die,  
   
@@ -452,9 +453,22 @@ b«aven
 18 -Thev who forget most ahall be most for­  
 given.  
 17--Sin nisv be clasped so close we canoot  
-nee i
+nee its face  
+IS -Vile Intercourse where virtue baa not  
+placo  
+1«--Then Keep eaeh passioa down, howsver  
+dear,  
+2C—Tliiu pendulum, bet wilt a smile aad War.  
+&#x27;.1-ller acosn&amp;l snares let faithless pleasure  
+  
+{j,- 1 —Wil&#x27;li craft and skill, to ruin and betray,  
+&#x27;.&quot;t- Soar net too high to fill,  
+but stoop to rias,  
+  
+We masters grow of all that we deapis*.  
+1. —Oh, then renounce tlist impious eell&#x27;-es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528621%2F1868040401%2F0498.jp2/pct:24.690664,51.463560,9.697225,8.374403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528621%2F1868040401%2F0498.jp2/pct:24.268841,49.719982,10.119048,14.288381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +480,9 @@ nee i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, yet aot com­  
+  
+  
+It—Whom I&#x27;hristiaaa worship, yet aot com­  
 prehend  
 17—The trust tbat&#x27;o given gaard aad to yonr­  
 eelf be just  
@@ -498,7 +514,6 @@ kins :H, Horrick 35, Willi mi Maeon
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-aAlWr th- fonowtog thirty-eigtit lines from thirtt  
 efffht EngKah poeta. The names of the author n  
 gireo below : ,..&#x27;v5iK 11 1 11 1 1  
 LIFE.  
@@ -556,7 +571,7 @@ Dryden; 32, Francis Quarles; 33, Watkins ; 34, Her­
 rick; 35, William Mason; 86, Hill; 37, Dana; 38,  
 Shakspeare.&#x27; &#x27; . &#x27; . ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744808%2F1868040901%2F0155.jp2/pct:16.407236,12.885053,12.677044,32.266571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744808%2F1868040901%2F0155.jp2/pct:16.407236,13.424428,12.677044,31.727196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +583,21 @@ Shakspeare.&#x27; &#x27; . &#x27; . !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iims of Jewelry, ia sela and a.ng!e peicea, from  
+Ilollows Falls. Nov. 8. 1ST;  
+JOOK, SEE AXD REAP.  
+That the best place ta buy  
+TOYS, PRESENTS. DIARIES, Ac,  
+For the Holidays, Is at  
+O. F. WOODS&#x27; STORE.  
+Becaoe he has a better and larger assortment and  
+will sell rhaper tbaa any one else in this vicinity.  
+Come and see. ol  
+JJAPER AND ENVELOPES.  
+Paper and Envelopes very cheap at  
+O. F. W00D3&#x27;.  
+NEW JEWELRY. r  
+THE largest assortment of new and handsome d­  
+aiims of Jewelry, ia sela and a.ng!e peicea, from  
 Bogwl to lue gold prices to at wi&#x27;t satisfycuato-atn-isit  
 received by . &quot; &quot; r-i  
 fMter. V 1  
@@ -639,21 +668,25 @@ Milton; 16, Bailey; 17, Trench, 1, Esornemiie; 39,
 Thompson; 20, Bryant; 21, Smollet; 22, Crabbe;  
 23, Massinger;24, Crowlt-y; 25, Ueattie; 26, Cowper;  
 27. Sir Waiter Davenant; 28. Grav: 29. Willis; 30,  
-Add
+Addison; 81, Drvden; 32, Francis liuaries; 88, Wat-  
+kius; 84, Hernck; 35, William Uasou; as, mu; a,  
+i Dana; its, bhakespearo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1868042401%2F0513.jp2/pct:16.338851,11.083346,36.845180,84.286344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562847A%2F1868042401%2F0513.jp2/pct:16.241480,11.083346,36.942551,84.286344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
 #### 1868-04-25
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+fitting together the following thirty-eight lines  
+from thirty-eight English poets. ‘The names of  
 the authors are given below. |  
   
 1—Why all this toil for triumphs of an hour?  
@@ -679,13 +712,13 @@ dumb,
   
 hastenea up among the rioters. But now cries of | 14—And throw a cruel sunshine on a fool
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34&#0036;3/pct:18.921053,69.769576,23.434211,7.320555/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34&#0036;3/pct:18.921053,68.994698,23.592105,8.095432/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
 #### 1868-04-25
 
@@ -725,7 +758,7 @@ the door-way, and in a few moments more the 54 we masters grow ot ail Geek we de
 
 ---
 
-## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
 #### 1868-04-25
 
@@ -773,7 +806,8 @@ Dryden, 32 Francis Quarles, 33 Watkins, 34 Her
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-g reatarkaUa little peeai la a  
+  
+The fonowing reatarkaUa little peeai la a  
 ntribatatloa to the San Franelseo Tim.  
 . &#x27;root the pea of Mr. Q. A. DeaWag. The  
 &#x27;eader wlH notice that eaeh line ie a quota  
@@ -884,7 +918,10 @@ l.Youne: 3, Dr. Johnson; .3, Pope ; 4
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l notice that each Une It a  
+  
+[Tbs It.laving remarkable UUle poem Is a contribu­  
+tion ta tht Sau Francisco Timet, f-vm tbs pea of Mrs. H.  
+A. I)*ootng. Tit* ruder will notice that each Une It a  
 quotation frocn eons one of tbs standard anthers of Eng  
 la«&gt;d and America. 1 his Is the result of a jear&#x27;e labori­  
 ous sea. h aa. ig the voluminous writings of thlrtj­  
@@ -893,9 +930,18 @@ ber of each line refers to Its author below.
 1 —Why all thli toil for triumphs of an hour f  
 2- - T.fb&#x27;a a sho t rammer, man a Sower.  
 9— By turns we cat*.&#x27; * he v**al breath ard die—  
-4—The ‘radio *nd u tor.b, alas, t
+4—The ‘radio *nd u tor.b, alas, to nigh.  
+6—To be Is better fs &#x27;han *&#x27;rvt to be.  
+•—Though all »a*e .tie miy *-e;u a tragedy ;  
+T~Bu» Hfht car»s speak when u.ig‘ ty gTiefi are dumb,  
+%— T**e b * -ai bu; sha&quot;aw whence me? corn*  
+®— Yr it fate f* t ut the c- niraon fate of all;  
+!• —lf..»:agied joys hwre to »*» man c-dail.  
+11— Malar* t •aoh ailote his proper sphere ;  
+12— ronaos make^folty her peculiar care.  
+18— Custom does not ofr-&#x27;*.on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.789408,7.762287,11.309986,4.138114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.789408,6.923440,11.309986,9.407491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +953,15 @@ ber of each line refers to Its author below.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-in beJe of down.  
+—TY* makers grow of all that we despite.  
+2*1—0, »*»ea 1 ren ..ace tha* laipl &gt;us self-esteem ;  
+24- hk ea i.av&lt; wings, and gr»nd. xr is a dream.  
+27—Thtak not amhiii &gt;n win# because *tis brave,  
+22—The pains of glory lead but to the gra.e;  
+2f—What is ambition ? &#x27;Tin glorious cheat 1  
+•0—Ualy aestructivc to the bravo and great.  
+81—Whafc&#x27;s si the ixreat glitter of a er &gt;wn f  
+8U—The way u bliss lie* uot in beJe of down.  
 83—H w |o » we live, not ysa~§, but actbns tell,  
 84*-Tm; i .an Uv-•* tw.ee who live* the dree life well.  
 83— 2!alie, then, while y»t we nr.y, our Ood your  
@@ -920,9 +974,13 @@ W—Tor, live we how w* c*a yet die we must.
 •evtl. 6, 8p tcer. 7, Daniel, b 8!r Walter Raleigh.  
 W. h.uffiito*. 10, Pou.iiweil. 11, Congreve. 12.  
 CrurcMIl. ?t, loctiwtor, 14. Armstrong 13, Mxlton.  
-14 Bs If. 1*.
+14 Bs If. 1*. ’h**och. 18, Somerville, lw, Sampson.  
+5T. Byron. 21, gmullet. 22, Crabbo. 29, Monger  
+9S, «&#x27;*&gt;wl#t. tf. Beattie. 26, Co»p*-. 27. Sir Walter  
+0*v*ni i. 28, forsy 2ii, Willie. SO, Addison. 81.  
+Drjdeii. 84. Fr«ncU Quarles- 3J, Watkins. 34, Wm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.835999,25.212665,11.263395,5.579513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897883%2F1868053001%2F0250.jp2/pct:3.804939,21.408318,11.294456,10.707112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,15 +1044,31 @@ Ood your friend,
 89 Whom ChiisUuus worship, )&#x27;ot not com­  
 prehend;37 The trust that&#x27;sglveu guard and to your­  
 self be Just:  
-38 For, live how we can, yet die wo must
+38 For, live how we can, yet die wo must.  
+f, ..Ml.,.., A, r, . ,&#x27;. l&#x27;ll, o,  
+v ........ . n T - T .. v. ...... ..  
+pe ; 4. 1,  
+iel ; S. h  
+or; o. Spwi&#x27;ll ; H, Hpenner; 7, lem  
+Kir  
+Walter ltalelgh; 0, Ijongtellow; Ki.Houtliey; i  
+II, congreve; 12, i uiircniu ; j.i. iiociieaier;  
+14, Armstrong; 1&quot;, Milton; HI, Bully; 17,  
+Trench; 18, Honu&#x27;rville: 10, Thomson; 20,  
+Bynin; 21, Hinollet ; 22, (&quot;rahtie; Zi, Maaaln­  
+ger; 2l.(wlis; , Beattle; 20, Cowper; 27,  
+Sir Waller Uavenant; 2s!, Carey; 2,Villi;  
+30, Aldlmin;Hl, llrydon: 32, Francis Quarles;  
+31, Watklun; 84, llerrlcli; William Ma­  
+son; 30; Hill; 37, lUua; 38
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061077%2F00212470302%2F1868062601%2F0420.jp2/pct:60.441124,20.750931,11.205977,22.585268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061077%2F00212470302%2F1868062601%2F0420.jp2/pct:60.441124,20.750931,11.205977,26.984809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Sphinx. A Journal of Humour and Criticism 1868-1871_](https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2?page=12)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2?page=12)
 
 #### 1868-08-01
 
@@ -1116,7 +1190,9 @@ Dana; 38, Shakspere.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-of the authors  
+  
+together the following thirty-eight lides from thir­  
+ty eight Engliehpoets. The names of the authors  
 aro given below :  
   
 1 Why all this toil for thotriumplis of an Ijpur?  
@@ -1156,19 +1232,30 @@ race
 84 That man lives twice who lives the  
 well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1868091101%2F0563.jp2/pct:48.744090,16.364871,13.903664,19.703486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F0021247020A%2F1868091101%2F0563.jp2/pct:48.744090,15.866908,13.903664,20.201449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39?page=3)
 
 #### 1868-09-26
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Baker, Gabriel Harvey, &amp;c.  
+terioris Templi.”  
+  
+Can this Richard Baker have been in any wa  
+connected with the Nonjuror Thomas? It is we  
+known that many of Baker&#x27;s books are still pre-  
+served in the library of St. John’s College, Cam-  
+bridge, having been presented to the college by  
+its Socius Ejectus. It would be interesting ©  
+have had lists, as perfect as they could be made,  
+of the libraries formerly possessed by such mea  
+  
+as Baker, Gabriel Harvey, &amp;c.  
 W. Carew Haziirt.  
   
   
@@ -1292,7 +1379,7 @@ fellow; 10. Southwell; 11, Congreve; 12, Churchill;
 Francis Quarles ; 33. Watkins ; 34, Herrick: 35, William  
 Mason ; 36, Hill; 37. Dana; 38. Shakspere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39&#0036;3/pct:55.906149,86.291349,31.674757,2.353690/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39&#0036;3/pct:53.883495,74.236641,34.506472,14.408397/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1374,9 +1461,17 @@ i3. Far, live we how we can, die we mat.
 5,eweii; fi.tspenser; 7,Danieil; S, Sir Walter  
 Ha&#x27;.elga; 9, longfellow; 10, Couth well ; II, Cen­  
 tre ve; is Churchill; U, Bchenter; 14, Arm­  
-stronz: 15. Milloa: lti. BaPey: 17. &#x27;
+stronz: 15. Milloa: lti. BaPey: 17. &#x27;trench: IS,  
+  
+Sjmervllle; 19, Thomsou ; 20, Byioo; 21, nmol­  
+lu ; 32, crabbe; 23, Massing r; -.4, Cowley ; 6,  
+Beattle; 28, Cowper; 27,Blr waiter Davenant;  
+,Gray; 2, Willis; SO, Addlaon; 31, Dryden;  
+  
+32, rauc.siiaaries; iss, waixins; 31, uernc&amp;;  
+Jo, William Mason; 3G, HUI; 37, Dsna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200292984%2F1868092701%2F0385.jp2/pct:51.005143,12.500000,10.674770,23.362235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200292984%2F1868092701%2F0385.jp2/pct:50.973975,12.500000,10.705937,25.204721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1429,9 +1524,11 @@ lt-Cusloin does not often reason overrule.
 II And throw a cruel sun.liluuon nlool.  
 I.W.Ivo well, how long or short permit to Heaven,  
 10 1 he)&#x27; who forgive most shall lie most fnrglteii.  
-17 Sin may be clasped so clo.o that we can not se
+17 Sin may be clasped so clo.o that we can not see  
+  
+nice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559905%2F1868100201%2F0666.jp2/pct:40.804020,16.435289,12.160804,12.016719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559905%2F1868100201%2F0666.jp2/pct:40.804020,16.435289,12.160804,12.270488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,7 +1611,9 @@ Congreve; 12, Churchill; 13, Rochester;
 Massinger; 24, Cowley; 25, Beattie ; 26,  
 Cowper; 27, Sir Wm. Davenant; 28, Gray;  
 29, Willis ; 30, Addison; 31, Dryden;  
-32, Francis Quarles; -33, 
+32, Francis Quarles; -33, Watkins; 34,  
+Herri ck; 35, William Mason; 3G, Hill;  
+37, Dana; 38, Shake speare.
 </td></tr></table>
 
 ---
@@ -1527,7 +1626,17 @@ Cowper; 27, Sir Wm. Davenant; 28, Gray;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lose that we cannot see  
+y come. (8) Your fate is but  
+the common fate of aU ; (9) Unmingled  
+joys here to no man befall, (10) Nature  
+to each allots his proper sphere; (11)  
+Fortune makes folly her perculiar care:  
+(12) Custom does often reason overrule,  
+(13) And throw a cruel sunshine on a  
+fool. (14) Live weU; how long or short,  
+permit to heaven ; (15) They who forgive  
+most shaU be most forgiven. (16) Sin may  
+be clasped so close that we cannot see  
 its face (17) Vile intercourse where  
 virture has no place. (18) Then keep  
 each passion down, however dear, (19)  
@@ -1677,7 +1786,7 @@ Hill; 37, Dana; 38, Shakspeare
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+A LITERARY CURIOSITY&quot;. The following  
 remarkaDle little noem is a contribution  
 of the San Francisco Times, from the pea  
 of Mrs. H. A. Deming. The reader ■will  
@@ -1748,7 +1857,9 @@ Tli3mson; 20, Byron; 21, Smollett; ■ j
 25, Ji?a:tie; I 26. Cowper; 27, Sir Win.  
 Davenant; £8, Gr.;y; co, I Willis; 3&#x27;l.  
 Addison; 31, Dry den; 32, Francis j :  
-Quarles; 3-3,
+Quarles; 3-3, Watkins; 34, Herrick; 3-5,  
+William i Mason; 3b\ Hill; 37. Dana; 3S,  
+Sliakspeare.
 </td></tr></table>
 
 ---
@@ -1761,7 +1872,7 @@ Quarles; 3-3,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+A LITERARY CURIOSITY. The following  
 remarkable little poem is a contribution  
 of the San Francisco Times, from the pen  
 of Mrs. fL A. Deming. The reader will  
@@ -1827,7 +1938,8 @@ Smollett; 22, Crabb;23, Mametip 24,
 Cowley; 25, Beattie; 26, Cowper; 21 ;  
 Wm. Davenant; 28, Gray, 29, Willie; 30,&#x27;  
 j dison ; 31, Dryden ; 32, Francis  
-Quades
+Quades-Watkins; 34, Herrick; 35, William  
+Mason&#x27;-5 Hill; 37, Dana; 38, Shakgpeare.
 </td></tr></table>
 
 ---
@@ -1838,7 +1950,19 @@ Quades
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ssed  
+to die.  
+Bathed in the crimson flood.  
+Oh God ! as thou art good and just.  
+And clothed with power and might,  
+Hear our loud wailings from the dust.  
+Give victory to the Right!  
+Bid all tliis war and strife to cease,  
+Dry up these floods of tears,  
+And let Thy glorious bow of Peace,  
+Link tirst with latest years.  
+August 24th. 18(14.  
+*The army under command of Washing- •  
+ton and Lafayette is said to have passed  
 &quot;through Annapolis on its way from the  
 north just previous to the battle of York­  
 town, and the tent of the two Generals is I  
@@ -1936,7 +2060,7 @@ enant: 28, Gray: 29, Willis; 30. Addison:
 kins: 34, Herrick; 35, William Mason; 3(1.  
 Hill: 37, Dana; 38. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1869051501%2F0491.jp2/pct:38.289979,44.480333,11.526711,42.302526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624529%2F1869051501%2F0491.jp2/pct:38.289979,38.768788,11.526711,48.014071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1969,7 +2093,20 @@ poets of the past and present time :
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-udy glitter of a crown?  
+stoop to rise;  
+Massinger.  
+We masters grow of all that we despise. Cowley.  
+Then, I renounce that impious self-esteem ;  
+Beattie.  
+Riches have wings, and grandeur is a dream.  
+Cowper.  
+Think not ambition wise because ’tis brave,  
+Davenant,  
+The paths of glory lead but to the grave. Gray.  
+What is ambition 1—’tis a glorious cheat !—  
+Willis.  
+Only destructive to the brave and great. Addison.  
+What’s all the gaudy glitter of a crown?  
 Dryden.  
 The way to bliss lies not on beds of down.  
 Quarles.  
@@ -1987,7 +2124,7 @@ Dana,
   
 For, live we how we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468&#0036;56/pct:50.468019,57.771630,44.617785,12.399396/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468&#0036;56/pct:50.468019,47.032193,44.617785,23.138833/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1999,16 +2136,7 @@ For, live we how we can, yet die we must
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tuti iu.  
-v ~  
-* A smart thiti^—a u-uitu t jlastci  
   
-__  
-A LITERARY CURISOITY.  
-W.* copy from tire Charleston Cmirirr  
-tre following ingenious lines, bdreeing  
-&#x27;hev will be real with interest —I -  
-: change.  
 “The following remarkable little poem  
 s a eontributi &gt;a to the San Fruneis.’o  
 , Times from the pen of M s. H. A. D m­  
@@ -2031,20 +2159,14 @@ nigh.
 edy.  
 715 at light care* speak when mighty  
 grief* are dumb,&#x27;  
-S The b ,’ttom is but shallow whence t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623501%2F1869061701%2F0558.jp2/pct:41.659427,14.248483,25.041027,78.327562/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1869-06-17/ed-1/seq-1)
-
-#### 1869-06-17 &middot; Leonard Town, Md.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+S The b ,’ttom is but shallow whence they  
+come.  
+9 Y ur fate is but the common fate of  
+all ;  
+19 I’limingleJ joys here no man bet ill.  
+11 Nit tire ti e ich all its its :r;• r sphere;  
+1-J Fortune rnuk s tolly her peculiar care,  
+13 Cu*toiu dies often roas &gt;n overrule.  
 1 I And throw a cruel sunshine on a to &gt;1;  
 15 Live wa ll ; how long ur sli rt, permit  
 ti* Heaven ;  
@@ -2109,7 +2231,7 @@ Charles&#x27;: -JJ, Watkins; 34, Herrick:
 35, William M ison ; 3tj. ILU ; m , Dana:  
 38, Shak.-pero
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623501%2F1869061701%2F0558.jp2/pct:54.295781,34.632712,12.404672,33.824789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_cain_ver02%2Fdata%2Fsn82006687%2F00415623501%2F1869061701%2F0558.jp2/pct:54.295781,18.433300,12.404672,50.024200/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2394,7 +2516,16 @@ Diana; 3b, Shakspeare
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to a froth, and mix with the  
+parts. The doctor has  
+noted numerous cases of complete success obtained by  
+this method of treatment.  
+  
+Pium Puppine.—Pulverize sufficient crackers to fill  
+a pint vessel, and put them into a quart of swect milk.  
+When they become soft, add half a teacup of melted  
+butter, four teaspeonfuls of sugar, a gill of flour, half  
+a wine- glass of grape or currant wine, and half a grated  
+nutmeg. Beat five eggs to a froth, and mix with the  
 milk. To this add a quarter of a pound each of seeded  
 raisins and Zaute currants, and two ounces of citron  
 cut in strips. Bake or boil two hours,  
@@ -2411,7 +2542,7 @@ America. This is the result of a year’s laborious
 search among the voluminous writings of thirty-eight  
 leading poets of the past and present :—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19&#0036;11/pct:68.389225,36.141304,24.683892,10.514214/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19&#0036;11/pct:68.389225,29.619565,24.766355,17.035953/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2464,9 +2595,12 @@ strong. IS, Milton. 18, Bally, If, Traaeh.
 18, Somirville. IV, Thompson. 10, Byren.  
 21, Smollett. ll.Crabbe. S3, Muslnger. 24,  
 Cowley. 24, Beat tie. 28, Cawper. ST, Sir Wal  
-ter Devenant. 18
+ter Devenant. 18, Grey. 1, Willi.&#x27;. 30, Addi­  
+son. 31, Dryden. 82, Francis Quarts. S3, Wat­  
+kins. S4,Uerrlok. 3i, William Mason. 3,niU.  
+37,Daha. 88, Sfaakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1869121601%2F0851.jp2/pct:19.681557,24.369616,14.329943,22.772122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1869121601%2F0851.jp2/pct:19.681557,24.369616,14.329943,24.416601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2532,9 +2666,10 @@ Somerville; 19, Thompson ; 20, Bryant ; 21. Smol­
 let; 22, Ci abbe; 23, Alassinger; 24, Cowlev; 25,  
 Heattie; 20. Cow per; 27, Sir Walter Davcnant;  
 28, (irav; 20, Willis; 30, Addison; 31, Drydcn:  
-32, Francis Quark&#x27;s; 33, 
+32, Francis Quark&#x27;s; 33, Watkins; 34. Derrick;  
+35, Mason; 30, Hill; 37, Dana; 38, Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1870030101%2F0080.jp2/pct:23.032630,17.057026,17.298464,36.965377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776798%2F1870030101%2F0080.jp2/pct:23.032630,17.057026,17.322457,37.423625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2617,7 +2752,17 @@ yet die we must. Shakslenae
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ glorious cheat,  
+(29) Only destructive to tho brave and  
+great. (SO) What&#x27;s nil the gaudy glitior  
+of a crowu ? (31) The way to bliss liua  
+uot on beds o( down. (32) How long wb  
+live, liot yoaYs, but actions tell ;  
+(83) That man lives twieo who lives the  
+first life well (84) Mate then, wbilo  
+yet ye may, your Ood yonr friend &#x27;-&#x27;?  
+(85) ? &#x27; ?? Whom Cnii-stiana worship,  
+yet not comprehond (3C) ? Tbejruot  
 that&#x27;s given guard, and to yourself bo  
 &#x27;&#x27; just; (37) j For, live we how we may,  
 yet aie wo must&#x27;. (38) I Young, 2 Dr.  
@@ -2628,7 +2773,12 @@ Con greve, 12 Churchill, 13 Rochester,
 14 Armstrong, 15 Milton, 16 Baily, 17  
 Trench, .13 Somerville, 19 Thompson, 20  
 Byron, 21 Swollen, 22 Crabbe, 23  
-Massieger, 24 Cowley, 25 Bsattie,: 2G
+Massieger, 24 Cowley, 25 Bsattie,: 2G  
+Cowper, &#x27;27 Sir Walter Davenant, ^8  
+Gray, 29 WiHh, 30 Addi.-on, 31 Dryden,32  
+Francis Qoarlos, 33 &#x27;Wutkins, 34  
+Harriet, 35 William Mason, 36 Hill, 37  
+vDnua, 3S Shakespeare
 </td></tr></table>
 
 ---
@@ -2639,7 +2789,18 @@ Massieger, 24 Cowley, 25 Bsattie,: 2G
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ to no man »&gt;efa!l— 10  
+Nature to each allots Ilia proper sphere, il  
+Fortune makes folly her peculiar care 12  
+Custom docs not olten reason overrule, lit  
+And throw a cruel sunshine on a fnnf. 14  
+Live well—how long or short ]&gt;erinit to llair­  
+en ; is  
+They who forgive most shall l»e most forgir­  
+en. 1C  
+Sin may be clasped so close we can not see its  
+lace— 17  
+Vile intercourse where virtue has not place. 18  
 Then keep-eaHh passion down, however dear, 19  
 Thou pendulum betwixt a smile and tear: 20  
 Her sensual snares let faithless pleasure lav, 21  
@@ -2678,7 +2839,7 @@ Davenant—28, &lt;JiHy —_&gt;:*, WiBis — 30, Addison
 — 34,Herrick—35,William Mason—3C, Hill—37,  
 Dana—38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873032801%2F0612.jp2/pct:18.043043,36.377358,12.829496,21.523810/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1873032801%2F0612.jp2/pct:18.043043,29.185984,12.879546,28.715184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2690,7 +2851,15 @@ Dana—38, Shakespeare
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ngled joys, here, to no man befall, 10  
+Nature to each allots his proper sphere, ll  
+Fortune makes folly her peculiar care, 12  
+Custom does often reason overrule, 13  
+And throw a cruel sunshine on a fool. M4  
+Live well—how long or short permit to Heaven; 15  
+They who forgive most shall be most forgiven. 16  
+Sin may be clapped so close we cannot sce its face—17  
+Vile intercourse where virtue has not place. 18  
 Then keep each passion down, however dear, 19  
 Thou pendulum, betwixt a smile and tear; 20  
 Her sensual snares let faithless pleasure lay, 21  
@@ -2723,13 +2892,13 @@ Walter Davenant; 28 G 29 Willis; 30 Addison; 31
 Dryden; 32 Francis Quarles; 33 Watkins; 34 Herrick; 35  
 Wiliam Mason; 36 Hill; 37 Dana; 38 Shakespeare,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22&#0036;5/pct:9.292035,33.024924,20.879425,15.256798/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22&#0036;5/pct:9.264381,28.266616,20.907080,20.015106/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1873-09-13_12_298?page=2)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1873-09-13_12_298?page=2)
 
 #### 1873-09-13
 
@@ -2737,10 +2906,9 @@ Wiliam Mason; 36 Hill; 37 Dana; 38 Shakespeare,
 
   
 have been a contribution to the San Francisco  
-Times from the pen of Mrs. H. A. Deming, and  
-to be the result of a year’s search.
+Times from the pen of Mrs. H. A. Deming, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1873-09-13_12_298&#0036;2/pct:47.474315,66.813602,37.671233,3.872796/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1873-09-13_12_298&#0036;2/pct:47.559932,66.813602,37.585616,2.581864/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2835,7 +3003,17 @@ nant; 28, Gray; 29, Willis; 30, Addison; 31, Dryden;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hen keep each paion down, however dear,  
+no man fall.  
+11. Nature to each allots here proper aphero,  
+11. Fortune makes fully her peculiar care ;  
+IS. Cmitotu dooa uot often reaaon overrule,  
+14. Aud throw a cruel aumtuine on a fool.  
+15, Live oil how long or abort, penult to heaven ;  
+Id. 1 hey who forgive moat shall be niont forgiven.  
+17. 8m may be claptted so cloae we cannot see it  
+fo  
+13. Vilo iutercourrto where rirtue has not place ;  
+1). Then keep each paion down, however dear,  
 70. TUou pendulum betwixt a euitle aud tear;  
 21. Her sensual anarea let laithleaa pleasure lay,  
 22. With cratt and skill, t J nun and betray ;  
@@ -2858,9 +3036,17 @@ lrieud,
 87. The truut that&#x27;s given guard, and to yourself be  
 jut,  
 38. F r, live we how we can, die we must.  
-1, Young; 2, Dr. Huru Jo
+1, Young; 2, Dr. Huru Johnson; 3, Alexander  
+Pope; 4, Prior: 5, hewell; 6, Spencer; 7, Daniel;  
+8, Hir Walter Raleigh: 9, II. V. Longcllow: 10.  
+HiiuUiwcll ; 11, Oongrevj; 12, Churchill; 13, Rochra-  
+fr; J4, ArniHtroiifr ; 13, Mi.ton ; 10, Rally; 17,  
+lrencn;is, Homuiemue ; iv, Thompson; 20. Ry  
+ron ; 21, MiiolMt; 22. Crabbe; 2), Massmger; 21,  
+CYowi. y ; -a, ueatue : 20, uowper ; 27, hir w. Dave  
+iiant; 28, Gray; 2., Willis; 31
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1876090801%2F0202.jp2/pct:6.063782,21.945239,14.343465,12.535758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1876090801%2F0202.jp2/pct:6.063782,16.469146,14.358437,20.964446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2873,6 +3059,16 @@ jut,
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Around the hoary tower ;  
+Nor the shrieking swifts devonr  
+The distance In their plays. . , . .  
+Tis now the voiceless hour  
+4 Of Autumn days. .,,,,..  
+1- .. 1&#x27; i  
+A POETICAL&quot; &quot;MELANGE.  
+The following poem is composed ol quota­  
+tions from thirty-eigbt different authors,  
+eactrof the thirty-eight lines being a distinct  
 Jiuotation, as will be seen byreferencqtotbe  
 oot-note appended:  
 life. 1 MVt;  
@@ -2941,7 +3137,7 @@ Davenant; 28. -Gray; 89. Willis; 30. Addison;
 rick; 35. Mason; 36. Hill; 37.. Dana; 38. Shak­  
 . speare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556266%2F1876101201%2F0028.jp2/pct:5.783891,25.398997,14.882333,30.654355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556266%2F1876101201%2F0028.jp2/pct:5.783891,20.428637,14.882333,35.624715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2954,6 +3150,18 @@ rick; 35. Mason; 36. Hill; 37.. Dana; 38. Shak­
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Tiaone! you hear no more  
+The bee hum in ihe flow rr;  
+Nor nee the an allow toar  
+Around the hoary Ower;  
+Nor tle ahraLirjr a wit ta devour  
+The distance In their plays.  
+i TJ now the voiceless hour  
+01 Autumn days. t  
+A 1&#x27;OETIOAL MELANGE.  
+The follow Inc poem is crnnpod of quota­  
+tions from thirty-eipbt different authors  
+each of the tblrty-eigiit linen being a distinct  
 -quotation, at will beeen by reference to the  
 foot-note appended;  
 LIFE.  
@@ -3025,21 +3233,28 @@ ZS. For, live wehow uccan,diewemust,
 1. Younc; 2. lr. bam Johnson; 3. Alexander  
   
 rope; inor;o. ewcu;i. spencer; 7. iantei;  
--3. &amp;it Walter ltaleieh;3. II. W. Longfel
+-3. &amp;it Walter ltaleieh;3. II. W. Longfellow; Jo.  
+Southwell; 11. Cmijtreve; 15. Churchill; 13.  
+tftrhibtfr;l4. Armstrong; 15 Milton; IG.lfculy;  
+17. Trench; l. .nomerville; 19. Thompson; 20.  
+Jlyron;il. Muollett, 2t. Crabbe;23 Maesingrr;  
+-t. Cowley; ?5. lWattie; .fi. Cowper;27. Sir W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029838%2F00237283089%2F1876101401%2F0006.jp2/pct:14.736465,30.853659,21.333811,38.463415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029838%2F00237283089%2F1876101401%2F0006.jp2/pct:14.736465,22.195122,21.369667,49.853659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278?page=9)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278?page=9)
 
 #### 1876-11-11
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+said to have occupied a year in hunting up  
+and fitting together the following thirty-  
 eight lines from thirty-eight English poets.  
 The names of the authors are given below.  
 How many can place them without referring  
@@ -3163,8 +3378,6 @@ Shakspeare.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-putting1 together tlio thirty-eight  
-lines from thirty-eight English poets.  
 The panics o{ tho authors  
 arogivenbolow&gt;. . ..... | &quot; LIFE,&quot; 1,;  
 Why all this toil for triumphs of nn  
@@ -3212,7 +3425,11 @@ actions toll; 84. That&#x27; man&#x27; lives twico
 who lives the first lifo woll, 85. Mako  
 then, whilo yot yo may, your God your  
 iriond, 80. Whom Christians worship, yet  
-not c
+not comprehend. 87i-Tho trust  
+that&#x27;sgivon guard, and toyoiirsclf bo  
+just, .©8.&#x27; For, livo wo how wo may, yet  
+dio wo must;. 1 Young 14 Armstrong 27  
+SirW.Davouant 2 Dr. Johnson 15 Milto
 </td></tr></table>
 
 ---
@@ -3292,9 +3509,10 @@ lett; 22, Crabbe; 23, Massinger; 21, Cowley; 25,
 Benttie; 20, Cowper; 27, Sir Walter Devenant;  
 28, Gray; 29. Willis; &quot;30, Addison; 31, Drydcn ;  
 32, Francis Charles; 33, Watklns; 31, Herrick : j  
-35, William Mason; 33, P
+35, William Mason; 33, Pill; 37, Dana; .33,Shak- |  
+speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762337%2F1877050101%2F0070.jp2/pct:49.378608,16.867397,11.116902,28.737835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762337%2F1877050101%2F0070.jp2/pct:49.378608,16.867397,11.116902,29.096715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3365,13 +3583,23 @@ Dana; 38 Shakespeare.
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350?page=5)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350?page=5)
 
 #### 1878-04-27
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+feelings will bless the world. For great is the power and  
+majesty of the eternal God, the ever present tather of love.  
+  
+  
+  
+A Curious Life Poem.  
+  
+Mrs. H. A. Deming, of San Francisco, is said to have oc-  
+cupied a year in hunting up and fitting together the follow-  
+ing thirty-eight lines from thirty-eight English poets. The  
 names of the authors are given below :  
   
 1—Why all this toil for triumphs of an hour?  
@@ -3448,7 +3676,7 @@ Addison ; 31, Dryden ; 82, Francis Quarles ; 33, Watkins; 84,
 Herrick; 35, William Mason; 36, Hill; 37, Dana; 38,  
 Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350&#0036;5/pct:63.705972,29.740894,27.309852,44.442358/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350&#0036;5/pct:63.603880,22.699962,27.411945,51.483290/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3554,21 +3782,15 @@ tt. Your fate la but the common fate of all;
 10. I&#x27;uminRled joya hera to mail befall.  
 11. Naturo to each allot hi proper sphere  
 It. Fortune makes folly her peculiar care.  
-5. Cus
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1878100401%2F1056.jp2/pct:6.570657,5.863159,14.176418,7.188743/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1878-10-04/ed-1/seq-6)
-
-#### 1878-10-04 &middot; Paw Paw, Mich.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ile and tear.  
+5. Custom does often reason overrule,  
+1. And throw a cruel sunshine on a fool.  
+15. IJve well, how lonj? or short, ix rmit to heaven;  
+IK, They who foivive moat shall be uiost forgiven.  
+17. bin may tw clasped ao clone we cannot see It  
+face  
+tbTVilo intercourse where virtue haa not place;  
+IS. Then keep your passions down, however dear,  
+). Thou pendulum betwixt a amile and tear.  
 1. Her setsnal snares let faitldcss Tleaaure lay  
 . With craft and skill, to ruin aud betray.  
 1. Hoar not too hiph to fall, but itoop to rise.  
@@ -3593,9 +3815,16 @@ just;
 fl, Youua; 2. Dr. Johnson; 8. Pope; 4, Prior; 5,  
 So well; 0, Spenser; 7, Daniel; S, Kir Walter ltuleich:  
 , Lonptcllow: 10. Southwell; 11. Concreve; VI,  
-Churchil
+Churchill; 1H. Rochester: 14, Armstrong; l. Milton;  
+1H, Hailey; IT, Trench; IS. Koiuvrvillc: l&#x27;.. Thomson;  
+3), Byron; 11. Smollett; Xi. Crabbc; !. Massincer;  
+24, Crowley: 25. DcatUe: . Cowper; 27. Sir Walter  
+Dacnaut: &#x27;. Gray; 21, Willis; 0. Addison: 81,  
+Drvd.-n; :. Francis Quarles: Watkins; 84, Her­  
+Tik: 3.1, William Mason, 3H, Hill; T, Daua;88,  
+SlAkspi-are.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1878100401%2F1056.jp2/pct:6.660666,15.244213,14.131413,10.033649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023759%2F1878100401%2F1056.jp2/pct:6.570657,5.863159,14.221422,22.035281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3655,9 +3884,17 @@ be Just ;
 34. For, lite how we van, yet die He must.  
 I, Touug ; &#x27;J, Dr. Johnson ; 3, Tope ; , Pn.rv .  
 5, Hewell ; tl. Spencer ; 7, lauiel ; H. Kir Waif -1  
-llaleigh ; 9, Longf
+llaleigh ; 9, Longfellow ; Hi, Southwell ; 11. t!r-greve  
+; 1&#x27;.&#x27;. Churchill; 13, Kocheater ; H. Ane  
+strong; 15, Milton ; It llailey ; 17, Trench ; 1  
+HomerviMe ; 111, Thomson; Sil, li run ; Ml, Bil­  
+let!; V2, Crabbe ; S3, Massiiuter ; U4, Crowley ; &#x27;.  
+Iloiittie ; 111, Cowper J &#x27;J7, Sir Walter Daveuam  
+an, may; .&#x27;O.Willis; 30, Addison; 81. Dryd. :  
+3J, Francis l.iilarles : I ,-t, WatUins ; 34, Herri, k  
+3.&#x27;., Wlliiam Maso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776129%2F1878103001%2F0500.jp2/pct:81.259720,52.280852,14.171851,19.919920/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776129%2F1878103001%2F0500.jp2/pct:81.259720,52.280852,14.210731,23.051623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3668,16 +3905,6 @@ llaleigh ; 9, Longf
 #### From _The Congregationalist._
 
 #### 1879-01-15 &middot; Boston, Mass.
-
-[This text is not available under an open license.]
-
----
-
-## Notes and Queries.
-
-#### From _New York Observer and Chronicle (1833-1912)_
-
-#### 1879-08-21 &middot; New York
 
 [This text is not available under an open license.]
 
@@ -3753,7 +3980,17 @@ yet you may yoor God your Friend; 86
 Whom Christians worship, yet not ootn.  
 prehend. 87 The trust that&#x27;s givon  
 gnard, and to yonnelf beJust; 88 For  
-l
+live wo how we can yet die we most&#x27; !  
+Young; 2 Dr. Johnson; 8 Pope; 4 Prior ;  
+6 Seweil, 6 Spencer: 7 Daniel; 8 Sir  
+Walter Balelgh; 6 Longfellow; 10  
+Southwell; 11 Oongrere; 12 Churchill; 13  
+Broweeter; 14 Armstrong; 16 Milton ; 16  
+Bailey; 17 Trench ; 18Somerville; IS  
+Thompson; 20 Bryant; 21 Smollet; 22  
+Crabbe; 28 HaSsinger; 24 Cowley ; 26  
+Beattie; 26 Oowper; 27 Sir Walter  
+Daveaant; 28 Gray; 2ft Willi
 </td></tr></table>
 
 ---
@@ -3766,7 +4003,17 @@ l
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- cruel  
+ rnnn&#x27;s lite mnv BPPm a tMRn  
+iy ; r 7_ Unt llpht &#x27;aici«p_enk whpn  
+mltrht. griefs are dumb. S The bottom N  
+hut «lwllow wli&#x27;hpe they&#x27;c&#x27;6iiie. ,: 0 ?  
+Yotir fnte is huUthintfmm nt fnteiof  
+all,i i: , ? .v it 10 l!nmlnB-  
+lpdjoy«h&#x27;re nnma&#x27;n befnil ; ? 11 Vnture  
+tu pnch Wluto hie propprsphnre, 12  
+Fortune mnkes folly her ppculiarVare. &#x27;J  
+&#x27; ;13 H&#x27;&#x27;,&#x27;.0&#x27; «lfiej- often ^enson^  
+overrule, , , , . 14 And&#x27; thrown cruel  
 siinshinp on a fool; ? &#x27; ?-15&#x27;I4vp  
 wellhnW loncor slinrtnnrmit toheaven,&#x27;  
 ?&#x27; ? ]2 .Tfiey^irfiinrlvpViinsr. shall  
@@ -3802,7 +4049,16 @@ given guard, ami to&#x27; ymtr-clf liejuit;
 mu«t. 1 Young; &#x27;3 Dr Johnson; 3 Vo&#x27; p;  
 4&#x27; Prior; u Sewell; 0 Spem-er; 7 Dnnielj  
 8 Sir Walter Raleigh: 0 Longfellow; 10  
-Southwel
+Southwell;&#x27; 11 Cnng&#x27;revp;&#x27; 12  
+CWrrfi&#x27;ll;&#x27; Fa Bfowestrr;  
+-]4-;A&#x27;rmstronu&#x27;; lfl- Milton;- 1G  
+-Hailev. 17 Trench; 18 Someivillp; . 19  
+Thompson; 20 Bryant; 21 Smolle&#x27;t; &#x27; 22  
+Cralibe; 23 &#x27;Mnssiiiirer; &#x27;? 24 Cowley,  
+&#x27;25 Benttip;,26 Cowper; .27 Sir.Wiilter  
+Onvenant; 28 Qrav; 20 Willis; 30  
+Aifdisin; 31 Dryden; 32 I&#x27;pmcB Quarics ;  
+!l3.\Vatkii» v»4 HarriokT;35 ilason ; 3
 </td></tr></table>
 
 ---
@@ -3833,7 +4089,19 @@ a year&#x27;s laborious search among the leading poet* o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-udy glitter of a crown?  
+  
+Then I renounce that impious self-esteem  
+Beattte.  
+Riches have wings, and grandeur isa dream. $ &amp;-  
+Think not ambition wise becauee &#x27;tis brave  
+Davenant.  
+The pathB of glory lead but to the grave. jp*  
+GrayC^­  
+What is ambition ?&#x27;Us a glorious cheat I  
+Willis.  
+Only destructive to the brave and great.  
+Addison.,  
+What&#x27;s all the gaudy glitter of a crown?  
 Dryien.,  
 The way to bliss lies not on beds of down.  
 Quarles.*  
@@ -3849,7 +4117,7 @@ The trust that&#x27;s given guard, and to yourself bejust
 Dana.  
 For, live we how we can, yet die we mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_goshen_ver01%2Fdata%2Fsn83016758%2F00280767979%2F1880081201%2F0189.jp2/pct:37.138920,31.516893,13.780675,6.775727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_goshen_ver01%2Fdata%2Fsn83016758%2F00280767979%2F1880081201%2F0189.jp2/pct:37.138920,26.395490,13.780675,11.897130/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3883,7 +4151,7 @@ the past and present tim
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o be ia bettor far than not to lie,   
+  
 J” Tl*&quot;&#x27;W** nian’&quot; We may accui a tragedy;   
 &quot;• But light care* ajxiak when mighty grief* arc  
 dumb,   
@@ -3928,9 +4196,13 @@ Hew. II; K, Spencer; 7, Daniel; x, Hir Walter llaleigh;
 Churchill; 13, Rochester; 14, Yrmatrong; IS, Milton;  
 IK, Bailey; 17, Trench; 13, Homerville, 19, Thomson;  
 20, Byron; 21, Smollett; 22, Crabble; 23, Maaaiuger;  
-24, Crowley; 25, Hattie; 2(1, Cowpvr; 27, Sir Walle
+24, Crowley; 25, Hattie; 2(1, Cowpvr; 27, Sir Waller  
+Daveuant; 2H, Gray; 2!&#x27;, W Illis; 30, Vddiaou; 31. Dry­  
+den; 32, Francis Quarlea; 33, Watkins; 34, lit rrnk;  
+33, William Maaon; 30. Hill; 37, Dana; 33, Shake­  
+*pe*re.)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_fencing_ver02%2Fdata%2Fsn83016589%2F00393340654%2F1880092401%2F0179.jp2/pct:4.734802,6.947150,9.725316,13.527464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_fencing_ver02%2Fdata%2Fsn83016589%2F00393340654%2F1880092401%2F0179.jp2/pct:4.734802,7.223088,9.725316,14.400727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3963,7 +4235,22 @@ ous search among the leading pouts ot th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n ly g-ittor ol a crown t  
+  
+Wo innate! 8 grow ol all that we despise.  
+Cowley.  
+Thui I ic i. nrcc tl at imj ions sell-esteem;  
+Beatlie.  
+Itiches have wingo, and grandeur is a dream.  
+Cowper.  
+Think not ambition wife because &#x27;tis brave;  
+Davenant.  
+The p I&#x27;hfi ot plory loud but to the grave.  
+Gray.  
+What i.i ninl.iti.ui ? &#x27; 1 is a glorious cheat !  
+H Wit.  
+Only destructive to the brave and great.  
+A Idison.  
+Wliat&#x27;s nil tbe nn ly g-ittor ol a crown t  
 Dryden.  
 Tho way to bliss lies not on beds ol down.  
 Quart&#x27;s.  
@@ -3979,7 +4266,7 @@ The trust that&#x27;s given guard, and to yourseli
 be just, Dana.  
 For, live we how we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776105%2F1880093001%2F0164.jp2/pct:4.597489,51.282051,12.241507,7.872488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776105%2F1880093001%2F0164.jp2/pct:4.523634,43.922384,12.315362,15.232155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4057,9 +4344,10 @@ son; 20, Kyron; 21, Smollett; 22, Crabbe;
 Cowper; 27, Sir Walter levcnant; 2S, Grav;  
 2ii. VilKs; 30, Addison; 31, Drvdeu; 32.  
 Francis Charles; 3, Watkins; 34, Ilerrick;  
-3. William Mason; 3U, rill; 3J,
+3. William Mason; 3U, rill; 3J, Dana; 3S,  
+auakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_charlie_ver01%2Fdata%2Fsn83045160%2F0028077960A%2F1881032701%2F0281.jp2/pct:32.159748,72.361024,9.012086,19.362898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_charlie_ver01%2Fdata%2Fsn83045160%2F0028077960A%2F1881032701%2F0281.jp2/pct:32.159748,72.361024,9.012086,19.706433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4079,16 +4367,9 @@ will notice that each line is a quotation from
 some of the standard authors of England and  
 America. This is the result tf a year&#x27;s labor­  
 ious search among the leading poets of the past  
-and present time:  
-&quot;Why all this toil for triumphs of an hour?  
-: r -- . r- Younjj.-life&#x27;s  
-a 9hort summer, man a flower. -  
-- - -r-Dr. Johnson. .  
-By turns we catch the vital breath and die  
-Pope.  
-The cradle ani
+and present time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881052101%2F0556.jp2/pct:6.292563,10.886850,11.958594,6.422018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881052101%2F0556.jp2/pct:6.292563,10.886850,11.958594,3.363914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4100,7 +4381,26 @@ The cradle ani
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+t we despise.  
+Cowley.  
+Then I reoonuce that impious self-esteem; -j i  
+M ! V&#x27;ii &#x27; Beattie,&#x27;  
+Riches have wbgs, and grandeur is a dream.  
+v - - - Cowper.  
+Think not ambition wise because &#x27;tis brave;  
+- 1 ... &#x27; DavenanL &#x27;  
+The paths of glory-lead bnt to the grave. ;  
+Gray.  
+What is ambition? &#x27;tis a glorious cheat!  
+Willis.  
+Only destructive to the brave and great  
+Addison.  
+What&#x27;s all the gaudy glitter of a crown?  
+Dryden.-The  
+way to bliss lies not on beds of down.  
+&#x27; . Quarles. -  
+How long we live, not years but actions tell;  
+, k : . ,-. . - Watkins.  
 That man lives twice who lives the first life well.  
 Herrick.  
 Make then, while yet we may, your God your  
@@ -4113,7 +4413,7 @@ A jUSt. , ! &#x27; j &#x27; &#x27;
 - : ! f , : Dana.&quot;  
 For; live we how we can, yet die we mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881052101%2F0556.jp2/pct:6.387905,41.457696,11.849632,4.464832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881052101%2F0556.jp2/pct:6.360665,33.598369,12.026696,12.324159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4148,7 +4448,23 @@ and present time
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-udy glitter of a crown?  
+ut stoop to rise;  
+Messenger.  
+We roasters grow of all that we despise.  
+Cowley.  
+Theu I renounce that impious self-esteem;  
+Beattie.  
+Riches have wings, and grandeur is a dream.  
+Cowper.  
+Think not ambition wise because ’tts brave;  
+Davenport.  
+The paths of glory lead but to the grave.  
+Gray.  
+What is ambition? &#x27;Tis a glorious cheat!  
+Willis.  
+Only destructive to the brave and great.  
+Addison.  
+What’s all the gaudy glitter of a crown?  
 Dryden.  
 The way to bliss lies not on beds of down.  
 Quarle s  
@@ -4164,7 +4480,7 @@ The trust-that’s given guard, and to yourself be just,
 Dana.  
 For, live we how we can. yet die we mus t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024653%2F00393349554%2F1881110401%2F0179.jp2/pct:40.404201,45.661342,10.809198,6.303514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024653%2F00393349554%2F1881110401%2F0179.jp2/pct:40.404201,38.964856,10.809198,13.000000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4178,7 +4494,17 @@ For, live we how we can. yet die we mus t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ve to the  
+  
+faithlecs pleasunr la.. With craft and  
+skill, to ruin and bOwrry. Soar not too  
+high to fall, but stoop to «t,, We  
+masters grow of all that we dpi-&#x27;. Oh,  
+then, I renounce that imp?e?o esteem;  
+Riches have wing and grandeur i a dram.  
+Think not ambition mi?e because &#x27;tii  
+bravt The paths of rlory lead but to the  
+C?rate. What is ambition ?--&#x27;t a  
+gloreiou chestr Ontvdestruetive to the  
 brave and grtatWhat&#x27;s all the gaudy  
 glitter of a crown! The way to blis lies  
 not on bels of dcen. How long we live,  
@@ -4196,7 +4522,11 @@ Coagre;rt 12, Chare13, Rochester; 14
 Armstreono; 13. 1 llt 16, Bailey; 17,  
 Trench; 1t, Somerville: Thomson; 20,  
 Byron; 3I, Smollnet: &#x27; Crabbei; 23,  
-Massinger: ;2, t&#x27;owley 
+Massinger: ;2, t&#x27;owley Beattie: 2G,  
+Cowper; 27, Sir Walter ar nant;  
+2S,,Gray; 29, W1&#x27;illis: .w. Addsc 31,  
+Dryden; 32, Francis Quarls: *1 flill 37,  
+Dana; 33, Shakspere.-Gu
 </td></tr></table>
 
 ---
@@ -4332,21 +4662,70 @@ Life&#x27;s a shoit summer, man a flower.
 By turns wo catch tho vital breath and  
 die.  
 The cradle and the tomb, alus! so nigh.  
-To
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882083101%2F0582.jp2/pct:64.857183,31.848807,9.990053,9.238324/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1882-08-31/ed-1/seq-1)
-
-#### 1882-08-31 &middot; Pulaski, Tenn.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+To be is better far than not to be.  
+Though all man &#x27;a lifo may soem a  
+tragedy;  
+But light cares speak whon mighty  
+griefs are dumb,  
+The bottom is but shallow whence they  
+come.  
+Your fate ia but the common &#x27;ate of all;  
+TJnmingled joys hete no man befall.  
+Nature to each allots its proper sphere;  
+Fortune makes folly hor peculiar care,  
+Custom does often reason overate,  
+And throw a cruel sunshine on a fool.  
+Live well; how long or short, permit to  
+heaven,  
+They who forgivo most shall be roost  
+forgiven.  
+Si a may be clasped so close we cannot  
+see its face  
+Vile intercourse where virtuo has no  
+place.  
+Then keep each passion down, however  
+dear,  
+Thou pendulum botwizt a smilo and a  
+tear.  
+Her sensual snaros lot faithless pleasure  
+lay,  
+With craft and skill to ruin and betray ;  
+2  
+8  
+4  
+6  
+6  
+7  
+8  
+9  
+10  
+11  
+12  
+13  
+14  
+15  
+18  
+17  
+13  
+19  
+20  
+21  
+22  
+23  
+24  
+5  
+26  
+27  
+28  
+29  
+80  
+81  
+82  
+83  
+84  
+85  
+3d  
+87  
 33  
 Soar not too high to fall, but stoop to  
 rise;  
@@ -4390,7 +4769,7 @@ Francis Charles; 33, Watkins; 31,
 Herrick; 3o, William Mason; 3G,  
 Pill; 37, Dana; 3S, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882083101%2F0582.jp2/pct:64.928236,50.531004,9.961631,16.569601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1882083101%2F0582.jp2/pct:64.857183,31.848807,10.032684,35.251799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4505,7 +4884,8 @@ Daua; 3S, Shakespeare
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-g vory romarkablo llttlo poom  
+  
+Tbo following vory romarkablo llttlo poom  
 Is a contribution to tho San rrauclsco Tim&#x27;s  
 from tbo&#x27; pen ot Mr. H. A. Doming. Tho reader  
 will seo that each lino Is a quotation from somo  
@@ -4702,9 +5082,9 @@ f« r ; 27, Sir Walter Devenant; 28,
 29, Willis; 30, Addis&#x27; n; 31,  
 llry den ; 32, Francis Charles; 33, Wat­  
 kl &quot;»; 34, Herrick; 35. William Mason;  
-з
+зб, Pill; 3T ( Dana; 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869604%2F1882101701%2F0674.jp2/pct:2.171815,33.828125,17.977799,59.484375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_eliot_ver01%2Fdata%2Fsn84022135%2F00295869604%2F1882101701%2F0674.jp2/pct:2.171815,33.828125,17.977799,59.828125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4802,22 +5182,12 @@ Dana; 38, Shakespeare,
 
 ---
 
-## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391?page=6)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391?page=6)
 
 #### 1882-10-26
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- He cannot  
-promise to return rejected MSS., or correspond with the writers. Cor-  
-respondents should aim at brevity; the pressure on our columns impera-  
-tively demands it.]  
-  
-  
-  
-  
-  
-A LITERARY CURIOSITY.  
   
 [The following remarkable little poem is a contribution to  
 the San Francisco Times from the pen of Mrs. H. A. Deming.  
@@ -4825,21 +5195,26 @@ The reader will notice that each line is a quotation from some
 one of the standard authors of England and America. This is  
 the result of a year’s laborious search among the voluminous  
 writings of thirty-eight leading poets of ‘the past and present.  
-We would be glad to hear from any person who can tell th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391&#0036;6/pct:34.352900,18.062827,28.094059,10.157068/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391?page=6)
-
-#### 1882-10-26
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-but shallow whence they come.  
+We would be glad to hear from any person who can tell the  
+authorship of each line.—ED. ]  
+  
+LIFE.  
+  
+. Why all this toil for triumphs of an hour ?  
+  
+. Life’s a short summer, man a flower. —  
+  
+. By turns we catch the vital breath and die,—  
+  
+The cradle and the tomb, alas, so nigh.  
+  
+To be is better far than not to be,  
+  
+. Though all man’s life may seem a tragedy.  
+  
+But light cares speak when mighty griefs are dumb;  
+  
+. The bottom is but shallow whence they come.  
   
 . Your fate is but the common fate of all;  
   
@@ -4901,7 +5276,7 @@ What is ambition ? ’tis a glorious cheat!
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391&#0036;6/pct:34.989392,35.680628,25.795615,23.952880/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391&#0036;6/pct:34.352900,22.356021,28.076379,37.277487/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5152,21 +5527,30 @@ lay.
 With craft and skill to ruin and betray.  
 Soar not too high to fall, but stoop to rise.  
 We roasters grow of all that we despise.  
-Oh, then, renoucce that Impiousself-estee
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1882120801%2F0202.jp2/pct:36.113500,17.711561,11.278303,19.034565/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1882-12-08/ed-1/seq-1)
-
-#### 1882-12-08 &middot; Ebensburg, Pa.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-is lies not on besls of down.  
+Oh, then, renoucce that Impiousself-esteem  
+1  
+Riches have wings and grandeur is a  
+22.  
+23.  
+24.  
+25.  
+26.  
+dream.  
+37. Think not ambition wise because &#x27;tis  
+brave  
+28.  
+29.  
+30.  
+31.  
+32.  
+33.  
+34.  
+35.  
+The paths of glory lead but to the grave.  
+What is ambition ? &#x27;Tis a glorious eheat  
+Only destructive to tbe brave and great.  
+What&#x27;s all the gaudy glitter of a crown ?  
+The way of blis lies not on besls of down.  
 IIow long we live not years but actions  
 tell­  
 That man lives twice who lives tbe first  
@@ -5191,7 +5575,7 @@ Francis Charles ; 33, Watkint ; 34. Ilerrick ;
 33, William Mason ; 36, Pill ; 37, Dana; 38,  
 Sbakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1882120801%2F0202.jp2/pct:36.084838,39.964243,11.235311,11.239571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477722%2F1882120801%2F0202.jp2/pct:36.084838,17.711561,11.306965,33.492253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5283,7 +5667,9 @@ Win. Mlason; 36. Pill; 37, Dana; 38, Shakespeare
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-keep eaeh peeeit*n down, however dear.  
+  
+IK. VII# iiUreoirN where virtue bat do plaee.  
+19. Then keep eaeh peeeit*n down, however dear.  
 20. Thou peudulum betwixt a entile and tear.  
 31. Iler eeneual eaare* let faltlileee pleasure lejr,  
 22. With craft aad shill to ruin and betrajr.  
@@ -5315,9 +5701,10 @@ let t; 22, Crabbe ; 23, Massingtr ; 24, Cowley: 24,
 Heattie: 26, Cow per; 27, Sir Walter hetrnant;  
 26, Gray : 29. Willis : .10, Addison : 31. Dry den ;  
 32, Frances Charles; 33, Watkins; 31, llerrick;  
-34, Wm. Meson: 36,
+34, Wm. Meson: 36, Pill: 37, Dana; 36. Shahs,  
+peare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627609%2F1882120901%2F0739.jp2/pct:51.376070,24.119322,10.979191,13.749834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627609%2F1882120901%2F0739.jp2/pct:51.376070,23.745199,10.979191,14.656999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5494,9 +5881,20 @@ Jn. Tin* paths of glory lead but to the grave.
 2. 2 Only destructive to tin* brave and great.  
 21. What’s all tin gaudy glitter of a crown?  
 22. Tin- way of bliss lies not on beds of down.  
-22. How
+22. How long we live not years but actions tell—  
+•2 1. That man lives twice who lives the first lib­  
+well.  
+2.7. Make, tln-n. while yet you may- your God  
+\ ur friend.  
+22.. Whom Christians worship, yet not compre­  
+hend.  
+27. Tin* trust that&#x27;s given guard, and to yourself  
+be jllst,  
+l- oi ii\e we how we can. die we must.  
+: Young: 2. l&gt;r. Johnson: 3, Rope: 4, Prior:  
+. &quot;&#x27;•well: 2. Spencer; 7. Daniel; s. Sir Wal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1883010401%2F0437.jp2/pct:16.892207,6.115892,10.892052,17.593230/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524706%2F1883010401%2F0437.jp2/pct:16.892207,6.115892,10.892052,21.655192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5782,7 +6180,6 @@ peare
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-LITERARY RECREATION. The following 38  
 lines are from 33 English poets. Oar.  
 Pastime Page readers are invited to give  
 the names of the authors : LIFE. 1. Why  
@@ -5957,7 +6354,10 @@ Thomsor, 20, Byron; 21, Smollett; 22,
 Crabbe; 23, ilassiuger ; 24, Cowley ;  
 25, Beattie ; 26, Cowper ; 27* Sir  
 Walter Davenant; 28/ Gray s 29, Wiilis;  
-80, Addi-son ; 31, Dryden ; 32, Franois
+80, Addi-son ; 31, Dryden ; 32, Franois  
+Quarles ? 33, Watkins ; 34, Herrick j  
+35, William Mason ; 86, Hill; 37, Dana;  
+38, ShakBpere
 </td></tr></table>
 
 ---
@@ -6005,9 +6405,17 @@ its far©—
 ?.’• With craft an«l skill to ruin and U tray.  
 23. &gt;&lt;&gt;ar not too high to fall, but -tom. to rise,  
 21. We masters grow nf all that we despise.  
-2- &#x27;*. * »h, th
+2- &#x27;*. * »h, then renounce that Impion* -ell esteem ’  
+2*. lilches have wing* and grandeur is a ilnitni.  
+-’7 Think not ambition wi-e I (©cause ’ll* brave,  
+The paths of glory lead hut t** th*- grave.  
+».* W hat is ambition.&#x27; Tip a gloriole* cheat  
+*&#x27; i inly ile-truetive to tin- braie and great,  
+tl. W hat*- all th© gaudy glitter of a crown ?  
+2 The way of bits- Ilea not on beds of down,  
+-i. ll**w long we live not year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895357%2F1883091301%2F0166.jp2/pct:35.610946,18.040966,11.177445,11.978072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895357%2F1883091301%2F0166.jp2/pct:35.610946,18.040966,11.177445,14.538472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6091,7 +6499,10 @@ winuit. 1. Young; 2.-Dr. Jofas0n ;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-pen of Mr. If. A. l&gt;em·  
+  
+[The following very remarkable little  
+1&#x27;iH&#x27;iu Is a contribution to the Sau Francis­  
+co Timet, from the pen of Mr. If. A. l&gt;em·  
 ing. The reader will nee that each line 1»  
 a iju&gt;&gt;tation from eome one of the staudard  
 mi thorn of Euglaud ami America. This h  
@@ -6115,9 +6526,21 @@ come.
 to. t&#x27;ninli glril joys here no man run befall;  
 li. Nature to each allots It» proper sphere;  
 I.·. rmtuiiK makes folly her particular care.  
-) 1. Cu»t&lt; ui doea often reason overrule,
+) 1. Cu»t&lt; ui doea often reason overrule,  
+II. ΛιιιΙ thrown a cruel sunahlne on a fool.  
+15 Litre well; how long or abort, j&gt;erinlt to  
+heaven ;  
+1 |ii. They w ho forgive most shall be moat for­  
+given.  
+IT. Sin may be claspcd so close we cannot see  
+Its face­  
+&#x27;s. Vile Intercourse » here virtu·· ha· no place,  
+j it*. 1 lien keep each passion down, however  
+«tear,  
+&#x27; .0. Tbou peinlulum betwixt a «mile ami tear,  
+-1. 11*·r sensual unarms let faitblea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F0027952407a%2F1883102301%2F0538.jp2/pct:28.224355,16.079159,12.482503,11.207311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F0027952407a%2F1883102301%2F0538.jp2/pct:27.864427,15.244280,12.857429,17.422525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6244,9 +6667,10 @@ ley; 25, Beattie; 2l&#x27;&gt;, (Viwper; 27. Sir Wal­
 ter Devenaut; 2H, Grey; HI, Willis; :VO,  
 Addison; HI, Drydeu; 32, FrancisCharbs;  
 38, Watkms; :M, llerrick; .&#x27;&lt;s, William  
-Mason; :!*», Fill; 87, Dana, 3*. Shak
+Mason; :!*», Fill; 87, Dana, 3*. Shake  
+speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_dungeness_ver03%2Fdata%2Fsn83045611%2F00202198892%2F1883102701%2F0521.jp2/pct:7.125136,7.390079,10.931927,39.270011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_dungeness_ver03%2Fdata%2Fsn83045611%2F00202198892%2F1883102701%2F0521.jp2/pct:7.125136,7.390079,10.931927,39.681511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6408,7 +6832,8 @@ Massinger; 24 Cowley; 25 Beattie; 20
 Cowper; 27 ir; Walter Davenant; 28 Gray;  
 29 Willis; 80 Addison; 81 Dryden; 82  
 Francis Quarles; 88 Watkins; 81 Harrick;  
-35 Mason; 86 Hill; 87 Dana; 8
+35 Mason; 86 Hill; 87 Dana; 88  
+Shakespeare
 </td></tr></table>
 
 ---
@@ -6425,7 +6850,7 @@ the San Francisco Times from the pen of Mrs. H. A. Deming.
 The reader will notice that each line ix a quotation from some  
 of the standard authors of England ana America.  
   
-Why all this toil for triumphs of an hour?—[Young
+Why all this toil for triumphs of an hour?—[Young.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1885-11-26_77_48&#0036;1/pct:9.969325,8.437730,26.738241,3.850405/600,/0/default.jpg"/>
 </td>
@@ -6580,6 +7005,8 @@ Dana 3S Shakespher
 
   
   
+together the following thirty-eight lines from  
+  
 thirty-eight English poets The names of the  
   
 authors are given below:  
@@ -6697,7 +7124,7 @@ Dryden ; 82, Francis Quarles: 33, Watkins; 34,
 Herrick ; 35, William Mason ; 36, Hill ; 87, Dana»  
 33, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-02-17_35_7&#0036;30/pct:31.505771,11.800574,20.304302,46.682209/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-02-17_35_7&#0036;30/pct:31.505771,11.119082,20.304302,47.363702/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6909,7 +7336,23 @@ peare
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ht cares speak when mighty cares are dumb,  
+  
+lines from thirty-eight English poets. The names of the authors  
+are given below:  
+  
+-— Why all this toil for triumphs of an hour?  
+  
+. — Life’s a short summer, man a flower.  
+  
+. — By turns we catch the vital breath, and die,  
+  
+. — The cradle and the tomb, alas! so nigh.  
+  
+.— To be is better far than not to be,  
+  
+. —’Though all man’s life may seem a tragedy ;  
+  
+- — But light cares speak when mighty cares are dumb,  
   
 . — The bottom is but shallow whence they come.  
   
@@ -6927,21 +7370,15 @@ ht cares speak when mighty cares are dumb,
   
 . — Live well, how long or short, permit to heaven,  
   
-. — They who forgive most shall be most f
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_world-affairs-us_march-april-1887_49_2&#0036;19/pct:12.073670,27.199191,33.697135,9.681496/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Advocate of Peace (1847-1906)_](https://iiif.archivelab.org/iiif/sim_world-affairs-us_march-april-1887_49_2?page=19)
-
-#### 1887-03-01 &middot; Washington
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-r;  
+. — They who forgive most shall be most forgiven.  
+  
+. — Sin may be clasped so close we cannot see its face —  
+  
+. — Vile intercourse where virtue has not place;  
+  
+.— Then keep each passion down, however dear:  
+  
+. — Thou pendulum betwixt a smile and tear;  
   
 - — Her sensual snares let faithless pleasure lay  
   
@@ -6986,7 +7423,7 @@ Thomson; 20, Byron; 21, Smollett; 22, Crabbe; 23, Massinger;
 Quarles; 33, Watkins; 34, Herrick; 35, William Mason; 36, Hill;  
 37, Dana; 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_world-affairs-us_march-april-1887_49_2&#0036;19/pct:11.016371,39.939333,39.802183,27.477250/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_world-affairs-us_march-april-1887_49_2&#0036;19/pct:11.016371,18.958544,40.211460,48.458038/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7076,6 +7513,8 @@ Shakespeare.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ting together the following thirty-eight lines  
+from thirty-eight English poets. The names  
 of the author* arc given helow :  
 1 —Why all this toil for triumphs of an hour?  
 2 —Life&#x27;s a short summer, man a flower.  
@@ -7109,21 +7548,15 @@ dear;
 lay  
 22 W itli craft and ‘kill to ruin and betray ;  
 23 s,,j,r ii&lt;&gt;r too high to fal:. but stoop to ri*. .  
-24 We niH‘b r* gn»vv &quot;f all 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895333%2F1887030301%2F0039.jp2/pct:24.888036,4.674693,9.920825,11.785989/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1887-03-03/ed-1/seq-4)
-
-#### 1887-03-03 &middot; Ellsworth, Me.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-to the brave and great.  
+24 We niH‘b r* gn»vv &quot;f all that vv c ilespj,.  
+25 i *. th&lt; n renounce that impious self-esteem ;  
+2t» Kicli •*« lisv» v\ ings. and grandeur i- a  
+dream.  
+27 Think not ambition *vi*« because ’ti*  
+brav i .  
+2s Th* path «*f g’oi v |&lt; a.I* hut to the grave.  
+2b W bat i‘ ambition!’ ’Ti** a gloriou* cheat.  
+30 Onlv destructive to the brave and great.  
 31 \\ hat’s all the gaudy glitter of a crown!  
 ;42 Tin* wav tobli** lie* not on be*!* of down.  
 33 - How long we llv***. ii&quot;f vear*. but actions.  
@@ -7144,9 +7577,13 @@ Congreve; 12. Churchill; 13, Rochester; 14.
 Armstmng: 15. Milton ; b*. Bailey ; 1.. I reneh ;  
 Is. Soinerv ille ; lb. 1’ltoiU‘on ; 2&quot;. Bvr«»n;21.  
 Smolh tt: 22, &lt; mbb* ; 25. Massing* r; 24. f row -  
-|. \ 25. B* ittie; 2* &lt; owp« r; 27. s.r Wa
+|. \ 25. B* ittie; 2* &lt; owp« r; 27. s.r Waiter j  
+I *.»v * ii.m; ; 2s. (i* ay ; 2b. \Vill:- ; -b•. Xodis.m;;  
+31. 1 n Vilen : 52. I i&#x27;-&#x27;.i - Quark’s ; .5.;. W &lt;t kills;  
+54 H* ri* k ; 35. William M i-on ; :4 ■. 11 ill: 57.  
+I &gt;an:»: 5*. sliakspeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895333%2F1887030301%2F0039.jp2/pct:24.808061,18.903689,10.160749,7.585169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F00332895333%2F1887030301%2F0039.jp2/pct:24.792067,3.752561,10.176743,24.145108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7169,6 +7606,8 @@ Smolh tt: 22, &lt; mbb* ; 25. Massing* r; 24. f row -
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+hunting up and fitting together the fol­  
+lowing thirty-eight lines from thirty­  
 eight -English poets. The names of  
 the authors are given below:  
 1 Why all this toil for triumphs of nn hour?  
@@ -7241,7 +7680,7 @@ Drydeii&quot;; 32. Francis Quarle.i: 33. Wat­
 kius; 31. Derrick; 3o. William Mason;  
 36, Hill; 37, Dana; 3J, Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296026839%2F1887031701%2F0052.jp2/pct:40.288693,8.617308,10.761828,23.620986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296026839%2F1887031701%2F0052.jp2/pct:40.288693,7.710223,10.761828,24.528071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7274,6 +7713,8 @@ kius; 31. Derrick; 3o. William Mason;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+hunting up and fitting together the fol­  
+lowing thirty-eight lines from thirty­  
 eight English poets. The names of  
 the authors are given below:  
 1— Why all this toil for triumphs &lt;&gt;fan hour?  
@@ -7346,7 +7787,7 @@ Dryden; 32, Francis Quarles; 33, Wat­
 kins; 34, Herrick; 35, William Mason;  
 36, Hill; 37, Dana; 38, Shakspeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159221%2F1887033101%2F0051.jp2/pct:26.031790,6.781485,10.672896,25.392896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159221%2F1887033101%2F0051.jp2/pct:26.031790,5.812702,10.672896,26.361679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7359,6 +7800,8 @@ kins; 34, Herrick; 35, William Mason;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+and fitting together the following thirty­  
+eight lines from thirty-eight English poets.  
 The names of the authors are given below:  
 1—Why all this toil for triumphs of an hour?  
 2—Life&#x27;s a short summer, man a flower.  
@@ -7427,7 +7870,7 @@ Dryden 32, Francis Quarles 33, Watkins
 34, Herrick 35, William Mason 36, Hill  
 37, Dana 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_antares_ver03%2Fdata%2Fsn90059959%2F00295876864%2F1887040201%2F0385.jp2/pct:36.424355,40.801240,13.969142,25.890668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_antares_ver03%2Fdata%2Fsn90059959%2F00295876864%2F1887040201%2F0385.jp2/pct:36.424355,39.899755,13.969142,26.792153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7439,7 +7882,15 @@ Dryden 32, Francis Quarles 33, Watkins
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- we catch the rital breath and  
+  
+ing up and fitting together the follow­  
+ing thirtyeight lines from thirtyeight  
+English poets Thc names of the au­  
+thors are given below  
+1 Why all this to 1 for triumphs of an  
+hourJ  
+2 1 fe s a short summer man a Cower­  
+S By turns we catch the rital breath and  
 I The cradle and the tomb nlas so nigh  
 r &gt; To be it bettr far than not tobe  
 6 Thonshall man s life may Mem a tras  
@@ -7513,7 +7964,7 @@ Quarles 33 Watkins 34 Herrick 31
 William Mason 37 Hillg7Dana 33  
 Shakespeare wf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_juliet_ver02%2Fdata%2Fsn84022097%2F00206536172%2F1887040801%2F0414.jp2/pct:71.963652,47.693329,10.527482,27.194656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_juliet_ver02%2Fdata%2Fsn84022097%2F00206536172%2F1887040801%2F0414.jp2/pct:71.963652,44.822436,10.549645,30.065549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7526,6 +7977,8 @@ Shakespeare wf
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+hunting up and fitting together the­  
+following thirty-eight lines from thirty­  
 eight English poets. The names of the­  
 authors are given below:&quot;  
 i_Why all this toil for triumphs of  
@@ -7619,7 +8072,7 @@ son 31, Dryden 35, Francis Quarles
 Mason 36, Hill 37, Dana 38, Shak­  
 speare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quiring_ver01%2Fdata%2Fsn89064939%2F00206537978%2F1887041301%2F0116.jp2/pct:81.226631,8.504801,14.939450,50.311581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quiring_ver01%2Fdata%2Fsn89064939%2F00206537978%2F1887041301%2F0116.jp2/pct:81.226631,7.419165,14.945030,51.397217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7632,6 +8085,8 @@ speare
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+hunting up and fitting together the  
+following thirty-eight lines from thirty­  
 eight English poets. The names of the  
 authors are given below:  
 1—Why all this toil for triumphs of  
@@ -7732,7 +8187,7 @@ son 31, Dryden 35, Francis Quarles
 Mason 30, Hill 37, Dana 3S, Shak­  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_hula_ver01%2Fdata%2Fsn91059392%2F00383348080%2F1887041401%2F0379.jp2/pct:83.062117,15.245584,10.844269,41.570510/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_hula_ver01%2Fdata%2Fsn91059392%2F00383348080%2F1887041401%2F0379.jp2/pct:83.062117,14.112121,10.844269,42.703972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7745,6 +8200,8 @@ speare.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+and lilting together the following thirty­  
+eight lines from thirty-eight English poets.  
 The names of the authors are given below:  
 1— Why all this toil for triumphs of an hour?  
 2— life&#x27;s a short summer, man a flower.  
@@ -7811,7 +8268,7 @@ Dryden; 32, Francis Quarles; 33, Watkins;
 34, Herrick; 35, William Mason; 33, Hill;  
 37, Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529637%2F1887041401%2F0540.jp2/pct:36.836379,41.094033,13.930592,25.787372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529637%2F1887041401%2F0540.jp2/pct:36.836379,40.144665,13.930592,26.736739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7824,6 +8281,8 @@ Dryden; 32, Francis Quarles; 33, Watkins;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+hunting up and lifting together the fol­  
+lowing thirty-eight lines from thirty­  
 eight English poets. The names of  
 the authors are given below:  
 1— Why all this toil tor triumphs of an hour?  
@@ -7896,7 +8355,7 @@ Dryden; 32, Francis Quarles: 33, Wat­
 kins; 34. Herrick: 35. William Muscat  
 36, Hill: 37, Dana; 38. Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768849%2F1887041401%2F0304.jp2/pct:67.818964,43.876791,14.563376,29.852969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768849%2F1887041401%2F0304.jp2/pct:67.818964,42.755444,14.563376,30.974316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7909,6 +8368,15 @@ kins; 34. Herrick: 35. William Muscat
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+the Elbe on tho 27 ult., and it is supposed  
+that she, too, has sunk. Her captain re­  
+lused the Elbe&#x27;s assistance.  
+  
+A. Veritable Poem of Poems.  
+Mrs. H. A. Deming of San Francisco  
+is said to have ocupied a year in  
+hunting up and fitting together the  
+following thirty-eight lines from thirty­  
 eight English poets. The names of the  
 authors are given below:  
   
@@ -8004,7 +8472,7 @@ son 81, Dryden 35, Francis Quarles:
 Mason 36, Hill 37, Dana 88, Shak­  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740839%2F1887041501%2F0880.jp2/pct:69.406204,9.222478,12.068649,42.861985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740839%2F1887041501%2F0880.jp2/pct:57.291667,6.172044,24.183186,85.110493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8019,6 +8487,8 @@ speare.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+fitting together the, fpllowing thirty-  
+eight lines from thirty-eight fenglish  
 poets. The names of the authors sire  
 given below. 1. Why all this toil for  
 triumphs of an hour? 2. Life&#x27;s a short  
@@ -8175,9 +8645,12 @@ Trench; IS, Sotuerville; 10, Thompson;
 2 , Byron; 21. Smoleit; 22, Crabbe; 23,  
 M.iSainer; 21, Crowley; 25, Battle; 20,  
 Coer; 27, Mr Walter Davenarr ; 28,  
-Gray: 2J. Willi
+Gray: 2J. Willis; 3), Addison; 31, Dry-  
+deu; 32, Francis (Juarles; 33, Watkins;  
+31, Herrick; 35, William Mason; 30,  
+Hill; 37, Dana; 33. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1887042001%2F0681.jp2/pct:39.876892,19.186720,10.913326,38.978252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1887042001%2F0681.jp2/pct:39.876892,19.186720,10.913326,40.355167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8369,7 +8842,7 @@ kins; 34. Herrick; 35. William Mason;
 
 ---
 
-## [From _American Printer 1883-2015_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8?page=39)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8?page=39)
 
 #### 1887-05-01
 
@@ -8454,6 +8927,8 @@ Watkins ; 34, Herrick; 35, William Mason; 36, Hill; 37, Dana;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+hunting up and fitting together the fol­  
+lowing thirt3-eight lines from thirty­  
 eight English poets. The names of  
 the authors are given below:  
 1 Why all this toll for triumphs of an hour?  
@@ -8523,7 +8998,7 @@ Dryden; S2, Francis Quarlcs; 33, Wat­
 kins; 34, Herrick; 35. William Mason;  
 36, Hill; 37, Dana; 38, Shakspeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_abbott_ver01%2Fdata%2Fsn95073194%2F00206539252%2F1887060101%2F0442.jp2/pct:60.318962,30.815172,10.663603,25.324811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_abbott_ver01%2Fdata%2Fsn95073194%2F00206539252%2F1887060101%2F0442.jp2/pct:60.318962,29.851215,10.663603,26.288768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8679,7 +9154,21 @@ SO. Thou pendulum betwixt a smile and tear:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+entire party to  
+the Tabor Grand Opera House, where  
+the boxes and choice seats had been re­  
+served, to witness the performance of  
+“She.” This is one of the finest opera  
+houses in the United States, of which  
+our Denver fraters are fitly proud, and  
+its appointments are all of the best.  
+At midnight we were speeding west­  
+ward to Salt Lake. P. G. S.  
   
+Mrs. H. A. Deming, ot San Francisco, Is said  
+to have occupied a year in hunting up and fit­  
+ting together the following thirty-eight lines  
+from thirty-eight English poets. The name of  
 the authors are given below.  
   
 1— Why all this toll for triumph of au hour;  
@@ -8752,7 +9241,7 @@ Potter; 26, Cowper; 27, Sir Walter Davenaut;
 35, William Mason;36, Hill; 37, Dana; 38, Shake­  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1888072601%2F0132.jp2/pct:78.812961,26.052639,8.647085,17.228709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1888072601%2F0132.jp2/pct:78.812961,19.133938,8.680731,24.147410/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8904,7 +9393,9 @@ Crabbe, 23 Messenger, 24 Crowley, 25
 Beattie, 26 Cowper, 27 Sir Walter  
 Davenant, 28 Grey, 29 Willis, 30  
 Addison, 31 Dryden, 32 Francis Quarles,  
-33 Watkins, 34 Herrick,
+33 Watkins, 34 Herrick, 35 William  
+Mason, 36 Hill, 37 Dans, 38 Shakes  
+peare
 </td></tr></table>
 
 ---
@@ -8916,6 +9407,7 @@ Addison, 31 Dryden, 32 Francis Quarles,
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Fbiexds of the C. C: Ora Annie Kost will find  
 the names of the poets who wrote the lines she  
 sent in Uie following:  
 POESI OP POEMS.  
@@ -8977,7 +9469,7 @@ Addison; 31, Dryden; S2, Francis Quarles; 33,
 Watkins; 34, Herrick; 35, William Mason; 36,  
 Hill; 37, Dana; 3S, Shaksperc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_franklin_ver01%2Fdata%2Fsn82016187%2F00211102950%2F1888112201%2F0414.jp2/pct:16.247974,16.059133,12.817396,21.132037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_franklin_ver01%2Fdata%2Fsn82016187%2F00211102950%2F1888112201%2F0414.jp2/pct:16.247974,15.684488,12.817396,21.506683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9177,7 +9669,7 @@ can, yet dio we tiut
 
 ---
 
-## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19?page=2)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19?page=2)
 
 #### 1889-04-06
 
@@ -9239,9 +9731,11 @@ greve; 12, Churchill; 13, Rochester; i4, Arm-
 strong; 15, Milton; 16, Bailey ; 17, Massinger ;  
 18, Cowley ; 19, Beattie; 20, Cowper; 21, Sir  
 Walter Davenant; 22, Gray; 23, Willis; 24,  
-Addison; 25, Dryden; 26, Francis Ch
+Addison; 25, Dryden; 26, Francis Charles;  
+27, Watkins; 28, Herrick ; 29, William Mason ;  
+31, Dana; 32, Shakes; eare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19&#0036;2/pct:23.515024,22.628032,15.216632,18.274933/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19&#0036;2/pct:23.497554,22.628032,15.234102,19.218329/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9315,8 +9809,7 @@ given guard, and to yotusslf be jrnt;
 Iv-&#x27;wii*- tf.t 38. For live we hpwtwe  
 oan.V.j^.flipj&#x27;we . _ 1, Yonng; 2,  
 Johnson? 3, Prior; 5,&#x27;Sewell; fij  
-SpSncW;^% ;t Vtmn; 8, Sir WalteV  
-Italteig&amp; : ;&#x27;ty Irffogfe
+SpSncW;^% ;t Vtmn; 8, Sir Walte
 </td></tr></table>
 
 ---
@@ -9409,7 +9902,8 @@ LMas. singer; 24, Cowley; 25, Beattie;
 26, Cowper; 27, Sir Walter Davenant ;  
 28, Gray; 29, Willis; 30, Addison ; 31,  
 Dryden ; 382, Francis Charles ; 33,  
-Watkins; 
+Watkins; 34, Herrick; 35, William Mason  
+; 36, Pitt; 37, Dana; 38, Shakespeare.
 </td></tr></table>
 
 ---
@@ -9489,7 +9983,11 @@ Congreve; 12, Churchill; 13, Itchester;
 20, Bron ; 21, .Smollett ; 22, Crabbe;  
 23, Lefas singer; 24, Cowley; 25,  
 lieattie; 26, Cowper; 27, Sir Walter  
-Davenant ;2?8, Gray ; 29, Willis
+Davenant ;2?8, Gray ; 29, Willis 30,  
+Addison ; 31. Dryden ; 32, Francis  
+Charles 33, Watkins; 34, Herriek; 25,  
+William Iaston 36, Pitt ; 37, Dan ; 38,  
+Shakespeare
 </td></tr></table>
 
 ---
@@ -9571,7 +10069,8 @@ MaIssinger; 24, Cowley ; 25, Beattie;
 26, Cowper; 27, Sir Walter Davenant; 28,  
 Gray; 29, Willis; 30, Addison ; 31.  
 Dryden; 32, Francis Charles; 33,  
-Watkins;
+Watkins; 34, Herrick; 35, William Mason;  
+36, Pitt; 37, Dana ; 38, Shakespeare
 </td></tr></table>
 
 ---
@@ -9672,7 +10171,9 @@ Crabbe; 23, Massinger; 24, Cowley; 25,
 Beattie; 26, Cowper; 27,, Sir Walter  
 Davenant; 28, Gray; 29, Willis ; 30,  
 Addison; 31. Dryden; 32,&#x27;Francis  
-Charles; 31, Watkins;
+Charles; 31, Watkins; 34, Herrick; 35,  
+William Mason; 36, Pitt; 37, Dana; 38,  
+Shakespeare
 </td></tr></table>
 
 ---
@@ -9683,7 +10184,18 @@ Charles; 31, Watkins;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- itch the fatal breath  
+  
+X thirty-tight lines from English  
+  
+ami American poeun. &#x27;the whole  
+reads almost as it it had been writ­  
+ten at one lime and by one author :  
+I.IFK.  
+1. Why all this toil forthe triumph  
+of an hour&#x27;.&#x27;  
+1. Life&#x27;s short summer .nan is but  
+but a llower;  
+:!. Uy turns wee itch the fatal breath  
 and die.  
   
 The cradle and the tomb, alas! so  
@@ -9772,9 +10284,12 @@ Make, then, while yet ye may,
 your God your mend.  
 Whom Christians worship, yet  
 not comprehend.  
-The trust that&#x27;sgiv
+The trust that&#x27;sgiven guard, and  
+to yourself be just ;  
+For live we how we may, yet die  
+we must.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_haw_ver01%2Fdata%2Fsn91068245%2F00295878757%2F1890042401%2F0277.jp2/pct:28.187559,20.559279,11.232030,32.760788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_haw_ver01%2Fdata%2Fsn91068245%2F00295878757%2F1890042401%2F0277.jp2/pct:28.106946,15.982405,11.312643,38.709677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9853,7 +10368,11 @@ Congrcve ; 12, Churchill ; 13, Kochester
 17, Trench; 18, Somerville; 19, Thomson;  
 20, Byron; 21, Smollett22, Crabbe ; 28,  
 Massinger ; 24, Cowley; 25, lieattie;  
-26,
+26, Cowper; 27, Sir Walter Davenant ;  
+28, Gray ; 29, Willis ; 80, Addinon ;  
+81, Dryden j 82, Francis CUarles; S3,  
+Watkins, 34, Herrick ; 85, William Mason  
+; 36, Pitt ; 87, Dana ; 38, Shakespeare
 </td></tr></table>
 
 ---
@@ -9866,7 +10385,17 @@ Massinger ; 24, Cowley; 25, lieattie;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-0 Uiolnogled  
+1 Why oil this  
+toil for triumphs of anu hour? 2 Life a  
+short surrmer, man&#x27;s a flour. 3 Dy turns  
+we catch tIh vital breath and die. I The  
+cradle nnd tomb, alas I so nigh. 5 To b  
+is obetter far than not 1o be, G Tough  
+all men&#x27;s lives may seem a tranedy; 7  
+Dut light oareO opealk hen mighty griefs  
+are doInti, 8 Tihu Iotoon is but shallow  
+whence they come. II Your nate is b;lt  
+the common fate of nl ; 10 Uiolnogled  
 joyo I .re no moo co bhefall. tI Naturo  
 to each allots its proper sphero; 12  
 Fortuno inskcofolly her particular oare.  
@@ -9905,7 +10434,17 @@ just, 18 For live we how we oan, die we
 must. 1,Young; 2, Dr. Jolhnonn; ,  
 l&#x27;Pope; 4 Prior; , SeIwell; 6 .Spenler;  
 7,D)eel; 8, Sir Wafter Scott ; l,  
-Loongfellow ; 10, Saouthl
+Loongfellow ; 10, Saouthl well; II,  
+Congroveo 12, Churchill; 13 Itocheeter I  
+I, Arnmstrong; 10, lltaon; 1l1, Ilailoy;  
+17, Trenclh 18, Soomerville 10,  
+Th&#x27;lonpson; 20, ]yron; 21t Smollett; 22,  
+Ornbbo; 23, linmnger ; 21, Cowley; 22,  
+Ianttie; 21l, (owpoer; 27, Sir Welttr  
+IDoven. ait ; 2H, G(ray; 203, Willis ;  
+:10, Addison; 31, l)rydeu ; 32, Francia  
+Charls; :1 I, Wathine; :I , ferrion 5.  
+William lano ; 311, Pill 37, Dana; :II,
 </td></tr></table>
 
 ---
@@ -9982,7 +10521,11 @@ Rlochester; 14, Armstrong; 15, Milton;
 19, Thompson; 20, Byron; 21, Smollett;  
 22, Crabbe; 23, MaIsemger; 21, Cowley;  
 25, I Beattie; 20. Cowper; 27, Sir  
-Walter Deven. I aut; 28, Gray; 29,
+Walter Deven. I aut; 28, Gray; 29,  
+Willis; 30, Addison; 31, Dryden; 32,  
+Fruncis Charles; 3;, Watkins; 3I,  
+Herrick: 35 William Mason ; G, lill 37,  
+Dana; 3S, Shakespceare
 </td></tr></table>
 
 ---
@@ -9993,7 +10536,19 @@ Walter Deven. I aut; 28, Gray; 29,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hat they can  
+ra3rer meeting.  
+People who get their backs up at one  
+another and stay that way, year after year,  
+without taking the Lord’s way to be  
+reconciled.  
+People who always have to go back  
+forty-seven years to find anything worth  
+speaking of that the Lord has done for  
+them.  
+The woman who cries her eyes out if  
+she sees another woman at church who has  
+on a better bonnet than she has.  
+People who have an idea that they can  
 get into heaven on their good behavior.  
 The man who lets the sun clean the  
 snow off his sidewalk.  
@@ -10073,7 +10628,7 @@ det: 28, Gray; 29, Willis; 30, Addison;
 kins; 34. Herrick. 35, William Mason; 36,  
 Pill; 37, Dana; 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_belle_ver01%2Fdata%2Fsn85033078%2F00271768539%2F1891031901%2F0413.jp2/pct:56.123841,34.046699,12.520458,31.609366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_belle_ver01%2Fdata%2Fsn85033078%2F00271768539%2F1891031901%2F0413.jp2/pct:56.123841,28.584167,12.525005,37.071898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10159,7 +10714,7 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 
 ---
 
-## [From _Journal of Education 1875-1876_](https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11?page=9)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11?page=9)
 
 #### 1892-03-17
 
@@ -10246,9 +10801,24 @@ ura.
 1. Why all this tatl for triumph of aa bourt  
 t. Life&#x27;s a aaort summer, mas a Oowar.  
 S. By tarns we rates Lha vti-tl braeta ana die.  
-4. 1 oe Oracle and
+4. 1 oe Oracle and the tomb, alas: ao etch.  
+  
+6. To be M better far tbas act to be.  
+a Tsourh all rasa&#x27;s Ufa suv seem a trasedv;  
+  
+nut Urnt cares apse bea mituy gratis ars  
+dumb.  
+  
+8. Tbs bottom ta but shallow wbeocstbey eosae.  
+  
+. Taor esi is out Ukecooitnoa ratsoi sji:  
+  
+10. l&#x27;amlanlsd toys bars so aaaa oaa barall;  
+11. Nature to eacs allots Its proper spbsrs;  
+  
+is. roriuas sasaea roily oer pseuuar oar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_forest_ver01%2Fdata%2Fsn82015483%2F00271764091%2F1893032001%2F0267.jp2/pct:74.373301,64.635487,9.710057,6.691904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_forest_ver01%2Fdata%2Fsn82015483%2F00271764091%2F1893032001%2F0267.jp2/pct:74.373301,64.635487,9.740260,9.292954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10261,6 +10831,17 @@ S. By tarns we rates Lha vti-tl braeta ana die.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+The following very remarkable Iei -.- AftfcAnaloVesnme  
+poem is a contribution from tho pen of,,. 1ixi. . , nbtt.tiMm t  
+  
+Sirs. H. A. Doming.  
+The reader will  
+ill  
+  
+1, ,i ... , ii iney reiuctanny uuhul-u mo icjjuiuuuu  
+ee that each line isn quotation from pne , rf notatnll particular as  
+of tuestandard abrs of, England ind Whatever, happened to bo­  
+&amp;&amp;: . l8! JTE L J . nearest at hand was gabbed up and put  
   
 laborious search among tho voluminous l  
 writings of 88 leading poets of the past  
@@ -10286,9 +10867,19 @@ come. &#x27;
 IB. live well; how long or short, permit ta  
 -&quot;heaven.  
 18. They who forgive most shall be most for­  
-given.IT. Sin may be cl
+given.IT. Sin may be clasped ao close we cannot see  
+Its face­  
+ts. Vile Intercourse where virtue baa no place.  
+10. Then keep each passion down, however dear,  
+SOL Thou pendulum betwixt a smile and a tear.  
+HI. Her sensual snares let falthleas pleasure  
+lay,  
+IS. With craft and skill to ruin and betray.  
+M Hn, not too hlorh to falL but atoOD to rise.  
+ti. We masters grow of all that we daaplse. 1  
+. Oh, then, renounce that Impio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063952%2F00280760328%2F1893052401%2F1204.jp2/pct:19.682660,16.453860,13.241405,11.767266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063952%2F00280760328%2F1893052401%2F1204.jp2/pct:19.682660,13.174695,26.048357,19.399304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10300,7 +10891,18 @@ given.IT. Sin may be cl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to your­  
+ cheat  
+aa Only, destructive to the brave and great.  
+St. What&#x27;aall the gaudy glitter of a crown?  
+82. The way of bliss lies not on beds of down. ,  
+8S. Uow long we live, not years but actions  
+tell-  
+84. That man Uvea twice who lives the first life  
+well.  
+85; Make, then, while yet, ye may, your God.  
+i your friend. &#x27;  
+Oft.&#x27; Whom Christians worship, yet not compre­  
+hend.8T. The trust that&#x27;s given guard and to your­  
 self be Just.  
 88. For live we how we can, but die we must.  
 1. Young. 8. Dr. Johnson. 8. Pope. 4. Pry-  
@@ -10312,9 +10914,11 @@ Trench. 18. Bomerville. 19. Thompson. 2a
 Byron. 21. Smollett. 22. Crabbe. 20. Mas­  
 Singer. 24. Crowley; 25. Beattio. 26. Cowper.  
 2T. Sir Walter Davenant. 28. Gray. 29. Wil­  
-lis. 80.
+lis. 80. Addison. 81. Dryden. 82. Francis  
+Charles. 83. Watklns. 84. Herrick. 35. Wil­  
+liam Mason. 86. Pill. 87. Dana. 08. Shake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063952%2F00280760328%2F1893052401%2F1204.jp2/pct:19.928221,39.059779,12.712505,5.673244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063952%2F00280760328%2F1893052401%2F1204.jp2/pct:19.833774,33.836332,12.825841,11.767266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10427,9 +11031,14 @@ um
 L Why all this toil for triumph, of aa hour?  
 A Ufa&#x27;s a short rammer, man a flower.  
 A Br turne w* aatch the vital breath and die.  
-A The cradle and the tomb, alaeleo nig
+A The cradle and the tomb, alaeleo nigh.  
+A To ba la better far then not to be.  
+A Theagh all men’s life may teem a tragedy;  
+f. Bat light cares apeak when mighty griefs  
+are dumb.  
+A Tito bottom Is but shallow whence they
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_gabbs_ver01%2Fdata%2Fsn86076126%2F0033289108A%2F1893061701%2F0194.jp2/pct:34.713529,17.147053,14.979538,9.110520/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_gabbs_ver01%2Fdata%2Fsn86076126%2F0033289108A%2F1893061701%2F0194.jp2/pct:34.713529,17.147053,14.979538,11.662383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10443,7 +11052,17 @@ A The cradle and the tomb, alaeleo nig
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nnot Melts face—  
+  
+iisSBmSmgmd JO. .Uunhigledjoya bete no  
+man can befall ; *]. Nature to ?ten  
+allot* ite proper t pbere ; *8.  
+Fortonemtxe* tolly ber peculiar oare.  
+&#x27;3. Costom does often reason evermlr,  
+J*. And tbrow a cruel tunahtaa on a  
+loot. 35. Live well ; how long or ehort.  
+permit to bitaven. Jfl. They who forgive  
+meat shall be most fOTSiren. 17. Sin may  
+be dacped ao dote we cannot Melts face—  
 -8. Vile inMrcoursa where virtue baa no  
 plaor. 19. Then keep each pastion down,  
 bowevar dear, zo. Thou pendulum betwixt  
@@ -10471,7 +11090,18 @@ not comprehend. 57. Tbe trust tbaVa
 given gu&amp;rd, and to joureell be jrut.  
 58. For live we now we on, but die we  
 must. 1. Young. 2. Dr. Jobneon. 3. Pope.  
-4. Prior, e. Sfltrell. 6. 
+4. Prior, e. Sfltrell. 6. -Sproaer. 7.  
+Daniel. 8. Sir Walter Soott. 9.  
+Longfellow 10. Southwell. 11. Oongrere.  
+12. ChurontU. 13. Bocheater. 14.  
+Armstrong. IS. Hilton. 16. Bailey. 17.  
+Trench, li Somtrville. 10. Thompson. SO.  
+Bvron. 21. Smollett-. £2. Crabba. S3.  
+Maseinger. 24. Ooaler. 25. Beattfe. 26.  
+Oowper. 27. Sir Walter Davenant 28.  
+Gray. 20. Willis. SO. Addiion. 31  
+DrrdeD. 32. Francis Cbarlea. S3 Watklna  
+3t. Herrick. 3
 </td></tr></table>
 
 ---
@@ -10483,9 +11113,6 @@ must. 1. Young. 2. Dr. Jobneon. 3. Pope.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-the pen of Mrs. H. A. Doming. Each line hi  
-said to be a nuotatlon from someone of tlie  
-standard autiiors of Kngland or America,  
 aud tlie result of laborious search among the  
 voluminous writings of thirty-eight leading  
 poets of the past and present. The number  
@@ -10551,12 +11178,9 @@ Raleigh; Longfellow; ! , Southwell; 11,
 Congreve; 12, Churchill; 13, Rochester; It,  
 Armstrong; 15, Milton; hi, Hailev; 17, 1 reiieii;  
 IS, Somcrville; ]Thomson; 2ii, liryaid; 21,  
-&gt;moli.m 22. Crabhe: 23. MasMiiuer: 21. Cow­  
-  
-ISt.&#x27;iillIt;Cow per; Si, sir Waiter  
-Daven
+&gt;moli.m 22. Crabhe: 23. MasMiiuer: 21. Cow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_bones_ver01%2Fdata%2Fsn84026824%2F00271767857%2F1893081101%2F0541.jp2/pct:49.341871,11.937200,14.345429,34.705463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_bones_ver01%2Fdata%2Fsn84026824%2F00271767857%2F1893081101%2F0541.jp2/pct:49.341871,12.958998,14.345429,32.914883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10584,21 +11208,15 @@ below:
 1. Why all this toll for triumphs nf nu hour?  
 l ife&#x27;s a short summer, man a llower.  
 :i. Tty turns we catch the vital breath nnil die  
-I. The cradl
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297507%2F1894031501%2F0407.jp2/pct:36.439909,28.278689,14.693878,8.474824/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Austin weekly statesman._](https://chroniclingamerica.loc.gov/lccn/sn86088296/1894-03-15/ed-1/seq-4)
-
-#### 1894-03-15 &middot; Austin, Tex.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- l io,s here no man can befall.  
+I. The cradle iiml the tomb, alas! so nigh,  
+&quot;i. To be is better far than not to be.  
+ti. Though all men&#x27;s life may seem a tragedy;  
+7. lint light cares speak when mighty griefs  
+aro ilumb.  
+S. The bottom Is but shallow whence they  
+come.  
+fi. Your fate is but the common fate of all;  
+111 Unmincle l io,s here no man can befall.  
 11, Nature to each a loti its proi cr sphere.  
 1.!. Fortune makes fo ly her peculiar care.  
 l:t. Custom does often reason overrule  
@@ -10652,7 +11270,7 @@ Francis Charles; 33, Watkins; 84, Her­
 rick: 35, William Mason; 30, Pill; 37,  
 Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297507%2F1894031501%2F0407.jp2/pct:36.371882,39.475995,14.784580,22.570258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_audi_ver01%2Fdata%2Fsn86088296%2F00200297507%2F1894031501%2F0407.jp2/pct:36.371882,28.278689,14.784580,33.767564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10665,14 +11283,22 @@ Dana; 38, Shakespeare
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+tributed by Mrs. H. A. Deming to the  
+San Francisco Times, is an exhibitioti  
+of skill and ability, and is worthy of a  
+-careful study by all our readers.  
+Each line is a quotation from one of  
+the stadard authors of England and  
 America, and the number of the line  
 refers to the name of its author below.  
 This poem is the result of a year&#x27;s ex­  
 tensive reading of the voluminous  
 writings of thirty-eight leading poets  
-of the past and present
+of the past and present.  
+We advise our young folks to com­  
+mit to memory each line and the nam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn93067777%2F00237287034%2F1894051601%2F0378.jp2/pct:3.606771,12.750319,11.970486,3.444517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn93067777%2F00237287034%2F1894051601%2F0378.jp2/pct:3.576389,9.433492,12.070312,7.810894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10685,6 +11311,11 @@ of the past and present
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+thing of each poet and the connection  
+in which the thought is expressed.  
+These sayings will often come handy  
+afterward in the broad field of human  
+experience.  
 LIFE.  
 1. Whf all this toil for triumphs of an  
 hour?  
@@ -10777,7 +11408,7 @@ cis Quarles; 33. W atkins; 34. Herrick;
 35. William Mason; 36. Pill; 37. Dana;  
 38. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn93067777%2F00237287034%2F1894051601%2F0378.jp2/pct:2.842882,20.470896,12.638889,50.524775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn93067777%2F00237287034%2F1894051601%2F0378.jp2/pct:2.842882,17.683516,12.725694,53.312155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10789,7 +11420,22 @@ cis Quarles; 33. W atkins; 34. Herrick;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ach line is a quotation from one of the  
   
+standard authors 01 bngianu auu .viuenai,  
+ar:?l the number of the Hue refers to the  
+ba^e of Its author below.  
+This poem .Is the result of a year&#x27;s extensive  
+reading of-the voluminous writing of  
+thirty-eight lading poets of the past and I  
+: . present. &gt; &#x27; . &#x27; I  
+We advise our young folks to commit to  
+memory each line and the name of its au- 1  
+thor. Then seek to learn something of each I  
+poet and the connection in which the  
+thought is expressed. These sayings will  
+olten come handy alterward.in the broad  
+fleld of human experience.  
 LIFE.  
 1. Why all this toll for triumphs of an  
 hour ?  
@@ -10876,9 +11522,10 @@ Hon: 20. Byron ; 21. Smollett; 22. Crabbe; f,
 Oowper; 27. Sir Walter Davenant: 26. Gray; K  
 29. iWillis; 80. Addison; 31. Dryden; 32. 1]  
 Francis Quarles; 33. Walking; 34 Herrlck ; ?,  
-35. 
+35. William Mason; 3C. Pill: 37. Dana; 38.  
+.Shakespeare. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F0023728737A%2F1894062001%2F0168.jp2/pct:2.986317,11.257808,16.149004,31.406161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F0023728737A%2F1894062001%2F0168.jp2/pct:0.270537,5.582765,18.864783,37.492902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10901,6 +11548,8 @@ Francis Quarles; 33. Walking; 34 Herrlck ; ?,
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ing up and fitting together the follow­  
+ing 38 lines from 38 English poets. The  
 names of the authors are given below:  
 1— Why all this toil for triumphs of an hour?  
 2— Life’s a short summer, man a flower.  
@@ -10966,7 +11615,7 @@ Davenant; 28, Gray; 29, Willis; 30, Addison;
 34, Herrick; 35, William Mason; 36, Hill; 37,  
 Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529686%2F1897070101%2F0637.jp2/pct:35.189651,11.315266,14.410217,28.912111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529686%2F1897070101%2F0637.jp2/pct:35.189651,10.182208,14.410217,30.045169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10978,7 +11627,11 @@ Dana; 38, Shakespeare
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o. The reader  
+  
+The following ven remarkable poem  
+was a contribution to the San 1 ran­  
+cisoo Tlmea from the pen of II. H.  
+uoming some years ago. The reader  
 will see that each Uno la a quotation  
 from some of the standard authors ot  
 England and Amerli a. This Is the re.  
@@ -11079,7 +11732,7 @@ Dry den; 32, Francis Charles; 33, Wal­
 kins; 34, Herrick; 35, William Mason;  
 36, Phil; 37, Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562850A%2F1897071401%2F0480.jp2/pct:63.236225,8.025548,10.861305,48.611497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562850A%2F1897071401%2F0480.jp2/pct:63.236225,6.498195,10.861305,50.138850/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11103,9 +11756,70 @@ Eult of years of laborious search among
 the voluminous writings of leading  
 poets of the past and present The  
 number of each line refers to its au­  
-thor below:
+thor below:  
+  
+LOST MINES AND SPRINGS.  
+  
+1.  
+2.  
+3.  
+4.  
+6.  
+6.  
+1.  
+8.  
+9.  
+10.  
+11.  
+12.  
+13.  
+14.  
+15.  
+16.  
+17.  
+18.  
+19.  
+20.  
+21.  
+22.  
+23.  
+24.  
+25.  
+26.  
+27.  
+28.  
+29.  
+30.  
+31.  
+32.  
+33.  
+34.  
+35.  
+36.  
+37.  
+  
+38.  
+  
+Why all this toil for triumphs of  
+an hour?  
+Life&#x27;s a short summer, man&#x27;s a  
+flower. &#x27;  
+By turnt- we catch the vital breath  
+and d :  
+The crad i and the tomb, alas! so  
+nigh.  
+To be is better far than not to be,  
+Though all men&#x27;s lives may seem  
+a tragedy;  
+But light cares speak when.  
+mighty griefs are dumb.  
+The bottom ie but shallow whence  
+they come.  
+Your fate is but the common fate  
+of all;  
+Unmlngled joys 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_hickory_ver01%2Fdata%2F2016270502%2F00271762781%2F1897092301%2F0588.jp2/pct:70.822527,22.491562,12.763987,6.090825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_hickory_ver01%2Fdata%2F2016270502%2F00271762781%2F1897092301%2F0588.jp2/pct:70.822527,20.098190,24.323824,47.146364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11148,6 +11862,14 @@ kins; 34, Herrick; 35, William Mason;:
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+And throw a cruel sunshine on a fool. —Armstrong.  
+Live well, how long or short, permit to heaven— —Milton.  
+They who forgive most shall be most forgiven. —Bailey.  
+Sin may be clasped so close we cannot see its face— —French  
+Vile intercourse where virtue has no place, — Somerville.  
+Then keep each passion down, however dear; —Thomson.  
+Thou pendulum betwixt a smile and tear: —Byron.  
+Her sensual snares let faithless pleasure lay, —Smollett.  
 With craft and skill to ruin and betray. —Crabbe.  
 Soar not too high to fall, but stoop to rise, —Majwingrer.  
 We masters grow of all that we despise. —Crowley.  
@@ -11166,19 +11888,34 @@ Whom Christians worship, yet not comprehend . —Hill
 The trust that&#x27;s given guard, and to yourself be just, —Dana.  
 For live we how we can, yet die we must. —SJieAespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_firebaugh_ver01%2Fdata%2Fsn82015104%2F00280768777%2F1897101701%2F0561.jp2/pct:9.724888,72.480333,27.148646,6.018274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_firebaugh_ver01%2Fdata%2Fsn82015104%2F00280768777%2F1897101701%2F0561.jp2/pct:9.698230,69.749885,27.175304,8.748721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _American Fruit Grower 1897-2015_](https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1?page=1)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1?page=1)
 
 #### 1898-01-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ throw a cruel sunshine on a fool,  
+—Armstrong.  
+Live well, how long or short, permit to  
+heaven— ,— Milton.  
+They who forgive most shall be. most for-  
+given. Bailey.  
+Sin may be clasped so close we cannot see  
+its face— &#x27; — French  
+Vile intercourse where virtue has no place,  
+—Somervilie.  
+Then keep each passion down, however dear;  
+: —Thomson.  
+Thou pendulum betwixt a smile and tear;  
+‘ —Byron.  
+Her sensual snares let faithless pleasure  
+ay, —Smollett.  
 With craft and skill to ruin and betray.  
 —Crabbe.  
 Soar not too high to fall, but “, to rise,  
@@ -11219,7 +11956,7 @@ The trust that’s given guard, and to your-
 self be just, —Dana.  
 For live we how ‘we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1&#0036;1/pct:66.346407,23.933599,11.621479,11.798697/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1&#0036;1/pct:66.346407,18.186594,11.660963,17.545703/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11242,6 +11979,8 @@ For live we how ‘we can, yet die we must
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Literary Curiosity—The following re­  
+markable little poem, says the New York  
 Tribune was originally a contribution to  
 the San Francisco Times, from the pen of  
 Mrs. H. A. Deming. The readers will  
@@ -11321,7 +12060,7 @@ yourself lie just;
 38. For, live how we can, yet die we  
 must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_fletcher_ver01%2Fdata%2Fsn86063034%2F00414182239%2F1898022001%2F0542.jp2/pct:31.449646,36.125729,12.789564,43.564216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_fletcher_ver01%2Fdata%2Fsn86063034%2F00414182239%2F1898022001%2F0542.jp2/pct:31.449646,35.229697,12.789564,44.460247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11335,7 +12074,17 @@ must
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-pendulum, betwixt  
+ not often reason overriilo, v 14.  
+And throw it oruel sunshinii on ti fool.  
+.. 15. Live woll, how long or «hort  
+permit to ? lina ven ; 10. They who  
+forgivo most ahull bo must forgiven, J  
+7. Sin may ho cliip|*&gt;d SO close wo  
+cannot son ita face- &#x27; .?&#x27; 18.1»VI|ov  
+intoroourso whore* vlrtuo&#x27; ha» no * *  
+plnm ¡ ¿i - *. I&#x27;*1&#x27;. &gt;\ &#x27; , i 10. Then  
+koop ouch i&gt;iisrilon- clown,&#x27; however  
+deal, &quot; &#x27; ; 20.f Thiiu pendulum, betwixt  
 » «mihi ti ti tl tear : 21. Uer sensual  
 an area lut faithless ploaauro -«y.. 22.  
 With cruft und skill to ruin uiul  
@@ -11369,7 +12118,14 @@ Congreve; 12, Churchill ; 13,
 .Rochester; 14, Armstrong; Iß, iMIIton;  
 10, Bulley ; 17; I&#x27;Yonoh ; 18.  
 Somerville; ; 10, Thtmtpann ; 20, Kyron  
-; 21, SiiMll.it ; 22, Cirtliliti; 23
+; 21, SiiMll.it ; 22, Cirtliliti; 23,  
+Ataaaitigur ; 24, Cowley; 20, lieattiu ;  
+20, Cowper ; 27, Sir Waitui Davifiiaiit  
+;;28, day ; 20, Willis; 30, AildUon ;  
+31, Drytlou ; 32, Kruuuia Quailes ; 33,  
+Wat kins ; 34, Herrick ; Hb, Wiitin tit  
+Allison ; I 30, Hil! ; 37, Dann ; 38,  
+Shakespeare
 </td></tr></table>
 
 ---
@@ -11477,6 +12233,7 @@ Mason; 36, PilJ; 37, Dana; 38,Shakespeare.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+reading the poem and letting each one guess who  
 i&lt; the author of th± different lines. Then refer  
 to the key given below and see who is right.  
 l_Why all this toll for triumphs of an hour?  
@@ -11536,7 +12293,7 @@ Francis Quarles; 33. vVatkies; 34, Herrick; 35,
 William Mason; 36, Hill; 37, Dana; 38, Shakos&#x27;  
 peare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_abolitionist_ver02%2Fdata%2Fsn86074033%2F00199916385%2F1898111901%2F0063.jp2/pct:51.019121,15.556887,11.197052,18.460540/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_abolitionist_ver02%2Fdata%2Fsn86074033%2F00199916385%2F1898111901%2F0063.jp2/pct:51.019121,15.132450,11.197052,18.884977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11625,7 +12382,11 @@ Quarles ; 33, Wat-, kins ; 34. Herrick ;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-by reading the poem and letting  
+  
+line of different poems, is quite interesting. It is said that  
+the author spent one year in hunting up and titling together  
+the lines, and quite an instructive and interesting evening  
+entertainment can be had by reading the poem and letting  
 each in the social gathering guess who is the author of the  
 different lines. Then refer to the key given beloxx and see  
 how many are right.  
@@ -11680,7 +12441,7 @@ Davenant: 28. Gray; 29. Willis: 30. Addison; 31. Drxden: 32,
 Fi-anei- (Quarles: 33. Watkins; 31. Herrick: 35. Wiilu.m  
 Mason; 36 Hill: 37 Dana: 38. Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159257%2F1899072001%2F0225.jp2/pct:40.316089,58.780556,18.389277,36.402778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jyme_ver01%2Fdata%2Fsn85033133%2F00514159257%2F1899072001%2F0225.jp2/pct:40.316089,56.811111,18.389277,38.372222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

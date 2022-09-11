@@ -125,7 +125,10 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-er say*: “The crmeiery at Pare  
+  
+Americans.”  
+  
+Another letter say*: “The crmeiery at Pare  
 La Chaise preetuts a deplorable aigot. Toe  
 monuments nave been greatly injured by the flr­  
 leg. Cofflni have been broken, and mo remaloi  
@@ -136,7 +139,7 @@ vttQ a coating of lime. There are many women
 among them, and faces tne ferocity of which  
 males cue aid to lock upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1871061501%2F0001.jp2/pct:32.359551,54.155990,8.717228,2.838725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1871061501%2F0001.jp2/pct:32.336142,53.627482,8.740637,3.367233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,6 +177,7 @@ to look npon
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+The Cemetery of Pere-la-Chafse presenta  
 a deplorable sight; the restingplacesof the  
 dead are much defiled; the monuments  
 havebeeu greatly injured by the firing;  
@@ -186,7 +190,7 @@ lime. &quot;There are&#x27; many womerramong
 them, and faces the ; ferocity of which  
 makes one sick to&#x27;look upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293708%2F1871061701%2F0596.jp2/pct:22.467091,8.468126,14.480106,5.349403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293708%2F1871061701%2F0596.jp2/pct:22.467091,7.971244,14.480106,5.846284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,6 +203,9 @@ makes one sick to&#x27;look upon
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A lato Puris letter states that the cem?  
+etery of Piero la Chase presents a de?  
+plorable sight; the resting places of the  
 dead are much defiled; the monuments  
 have been greatly injured by the firing;  
 coffins have been broken, and the re?  
@@ -211,7 +218,7 @@ women among them, and faces, the fe?
 rocity of which makes ono sick to look  
 upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551554%2F1871061801%2F0270.jp2/pct:65.791280,61.009322,16.334821,7.126785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551554%2F1871061801%2F0270.jp2/pct:65.791280,59.135785,16.334821,9.000321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,8 +322,6 @@ city of which makes ona sick to look
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-tery of Pere-la-Chaise presents a deplorable  
-sight ; the resting places of the dead are  
 much defiled ; the monuments have been  
 greatly injured by the firing ; coffins have  
 been broken, and the remains lie scattered  
@@ -328,7 +333,7 @@ over with a coating of lime. There are many
 women among them, and faces the ferocity  
 of which makes one sick to look upon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022974%2F1871062701%2F0523.jp2/pct:52.000000,78.477718,14.808219,6.205748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022974%2F1871062701%2F0523.jp2/pct:52.000000,79.612661,14.808219,5.070804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +345,13 @@ of which makes one sick to look upon.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ave been greatly injred by the  
+  
+A larte Paris letter stat(es that  
+the cemetery of Pierre la Chas~e  
+presenrts a deplorable sigM ;th  
+resting laces of the deadl are  
+munch dlefi;ed ; the mniumnents­  
+have been greatly injred by the  
 fi. j:n: coffins have becn brokeun,  
 arid the remarins lie sctteredP  
 over the ground. You nmay mean­  
@@ -352,7 +363,7 @@ manry women among them, andi
 faces, the ferocity of which makes&#x27;  
 one sick to look uponms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286984%2F1871062801%2F0531.jp2/pct:86.047567,76.779707,11.905410,6.486341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286984%2F1871062801%2F0531.jp2/pct:86.047567,73.909972,11.905410,9.356076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,6 +376,7 @@ one sick to look uponms
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+?A late Paris letter states that the cemetery  
 of Pere la Chaise presents a deplorable sight;  
 the resting places of the dead are much defiled  
 ; the monuments have been greatly injured  
@@ -377,7 +389,7 @@ Iim&lt;h There are many women among them,
 and faces the ferocity of which makes one sick  
 to look upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:83.079913,58.971494,16.729545,4.987824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:83.079913,58.518837,16.729545,5.440481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,6 +429,10 @@ look upon
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+are now opening fast everywhere,  
+especially those devoted to the sale of  
+funeral wreaths. Perela-Chaise presents  
+a deplorable sight; the resting-places  
 of the dead are much defiled; the  
 monuments have been greatly injured&quot;by  
 the firing; coffins have been broken,  
@@ -440,6 +456,13 @@ ferocity of which makes one sick to loo
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+fire at the Hotel de Ville. At every  
+corner prisoners might be seen ranged  
+against a wall and shot .by the score.  
+At three places they were executed in  
+batches of 50 and 100, with mitrailleuse  
+as the instrument, the work by the rifle  
+being too slow.&#x27; The dead in the streets  
 had to be measured not by numbers, but  
 by the rod. &#x27; They lie (wrote one) in a  
 double tier, powdered over with a  
@@ -459,6 +482,8 @@ which makes one sick to look upon. I
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+eastern corner. Here, close to the  
+boundary wall, is a natural hollow. It  
 is full of dead. You may measure the  
 dead, not hy the head, but by the yard  
 and rood. There they lie in a double  
@@ -489,7 +514,8 @@ numbers but by the rod. They lie in a
 double tier on the grass, powdered over  
 with a coating of lime. . There are many  
 women among them, and fiicea the  
-ferocity of which makes one sick- to
+ferocity of which makes one sick- to,  
+look upon.&#x27; In one place there was 
 </td></tr></table>
 
 ---
@@ -526,12 +552,16 @@ which makes.one sick to look upon.. I
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+oastorn corner. Here,&#x27;close to the  
+boundary, wall, is a natural hollow.  
 It..is full of dead.. Ton may measure  
 the deadj not by the; head, but by the  
 yard and rood. There thoy&#x27;lio in a  
 double&#x27; tier on the grass,, powdered  
 over with a. coating of chloride of  
-lime—a hundred and fifty of them paten
+lime—a hundred and fifty of them patent  
+to the eye, besides: what have been  
+hidden by, the earth which th
 </td></tr></table>
 
 ---
@@ -568,12 +598,18 @@ ferocity of which makes ono Bick to loo
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+the vaults. But the sight of Perb la  
+Chaise in ghastliness is reserved to the  
+last. We come down on the south-eastern  
+corner. .Here, close by the boundary  
+wall, is a natural hollow. It is full of  
 dead. You may measure the dead, not by  
 the head, but by the yard and rood.  
 There they lie in a double tier on the  
 grass, powdered over with a coating of  
 chloride of lime-a hundred and fifty of  
-them patent to the eye, besides wha
+them patent to the eye, besides what  
+have been hidden by the earth which th
 </td></tr></table>
 
 ---
@@ -587,6 +623,7 @@ them patent to the eye, besides wha
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+a deplorable sight; the restingplaces of  
 the dead are much defiled ; the  
 monuments have been greatly injured by  
 the firing; coffins have been broken,  
@@ -610,12 +647,15 @@ ot which makes one sick to look upon. I
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+to the bonndary wall, is a natural  
 hollow. It is full of dead. You may  
 measure tho dead, not by the head, but  
 by the. yard and rood. Thero they lio in  
 a double tier on the grass,- powdered  
 over with a coating of chloride of lime  
-— a hundred and fifty of them patent t
+— a hundred and fifty of them patent to  
+the eye, besides .what have been hidden  
+by tho onrth which the gravediggorshav
 </td></tr></table>
 
 ---
@@ -629,13 +669,15 @@ over with a coating of chloride of lime
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+eastern corner. Here, close to the  
 boundary wall, is a natural hollow. It  
 is full of dead. You may measure the  
 dead, not by the head, but by the yard  
 aud rood. There they lie in a double  
 tier on the grass, powdered over with a  
 coating of chloride of lime- a hundred  
-and fiftv of them natentto the eye
+and fiftv of them natentto the eye.  
+besides what have been bidden by th
 </td></tr></table>
 
 ---
@@ -649,6 +691,7 @@ and fiftv of them natentto the eye
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+eastern corner. Here, close to the  
 boundary wall, is a natural hollow. It  
 is full of dead. You may measure the  
 dead, not by the head, but by the yard  

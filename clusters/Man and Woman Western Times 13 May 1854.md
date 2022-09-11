@@ -9,7 +9,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-IN RELIEF FOR BOTH SEXES.  
+F FOR BOTH SEXES.  
   
 Illustrated with Seventy Coloured Anatomical Engravings on Steel, price 2s 6d, or post free from the Author, on receipt of 42 postage stamps, a Medical Work, entitled MAN AND WOMAN: Their Physiology, Functions, and Sexual Disorders.   
   
@@ -32,7 +32,7 @@ By HORACE GOSS, M.D., SURGEON, &amp;C.,
   
 55, GREAT QUEEN STREET, LINCOLN&#x27;S INN FIELDS, LONDON.  
   
-Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims Alley, Bristol; Chaffin, 10, Old 
+Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims Alley, Bristol;
 </td></tr></table>
 
 ---

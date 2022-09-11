@@ -1,7 +1,7 @@
 
 # From _Bucks Chronicle and Bucks Gazette_
 
-### 162 reprints from 1850-08-24 to 1855-12-08
+### 159 reprints from 1850-08-24 to 1855-12-08
 
 ## [From _Bucks Chronicle and Bucks Gazette_](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002197/18510621/003/0001)
 
@@ -37,7 +37,7 @@ See also a thrilling and harrowing chapter in “Rush, on Diseases of the Mind;�
   
 Published by the Author, sold also in sealed envelopes, by Strange, 21, Paternoster-row; Hannay, 63, Oxford-street; Mann, 39, Cornhill, London; Heywood, Oldham-street, and Armstrong, 23, Bond street, Manchester; Howell, 6, Church-street, Liverpool; Campbell, 136, Argyle-street, Glasgow; Robinson, 11, Greenside street, Edinburgh; Berry and Co., Capel-street, Dublin; and all the Booksellers and Chemists in the United Kingdom.  
   
-Sold also by Mr. W.W. Walker, Hair-dre
+Sold also by Mr. W.W. Walker, Hair-dress
 </td></tr></table>
 
 ---
@@ -52,7 +52,7 @@ Sold also by Mr. W.W. Walker, Hair-dre
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1850-09-21_20_787?page=1)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1850-09-21_20_787?page=1)
 
 #### 1850-09-21
 
@@ -94,7 +94,7 @@ United Kingdom.
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-15_21_808?page=1)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-15_21_808?page=1)
 
 #### 1851-02-15
 
@@ -116,7 +116,7 @@ United Kingdom
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-22_21_809?page=1)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-22_21_809?page=1)
 
 #### 1851-02-22
 
@@ -182,16 +182,6 @@ United Kingdom. 41
 #### From _Manchester Times_
 
 #### 1851-05-07 &middot; Manchester, England
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Preston Chronicle_
-
-#### 1851-05-10 &middot; Preston, England
 
 [This text is not available under an open license.]
 
@@ -432,16 +422,6 @@ United Kingdom. 41
 #### From _Aberdeen Journal_
 
 #### 1851-06-18 &middot; Aberdeen, Scotland
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1851-06-18 &middot; Manchester, England
 
 [This text is not available under an open license.]
 
@@ -882,16 +862,6 @@ United Kingdom. 41
 #### From _North Wales Chronicle_
 
 #### 1851-09-18 &middot; Bangor, Wales
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Jackson's Oxford Journal_
-
-#### 1851-09-20 &middot; Oxford, England
 
 [This text is not available under an open license.]
 
@@ -1677,13 +1647,16 @@ United Kingdom. 41
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1855-12-08_13_641?page=25)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1855-12-08_13_641?page=25)
 
 #### 1855-12-08
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ic and scientific maxims here  
+  
+  
+* Fortunate for a country would it be did its youth pat  
+into practice the philanthropic and scientific maxims here  
 laid down. One cause of matrimonial misery might they  
   
 be banished trom our land, and the race of the enervate be |  
@@ -1708,7 +1681,7 @@ sold also by Sherwood, »
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1855-12-08_13_641&#0036;25/pct:67.061611,83.513011,27.991706,9.219331/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1855-12-08_13_641&#0036;25/pct:67.061611,82.862454,27.991706,9.869888/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

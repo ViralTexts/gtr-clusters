@@ -1,7 +1,7 @@
 
 # A Parody Parodied
 
-### 21 reprints from 1857-02-27 to 1890-12-20
+### 22 reprints from 1857-02-27 to 1892-03-10
 
 ## [A Parody Parodied](https://chroniclingamerica.loc.gov/lccn/sn83045462/1857-06-23/ed-1/seq-4/)
 
@@ -79,7 +79,8 @@ Waved their bright wings and answered &quot;Yes, in Heaven.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?&gt;taiitto6 on the parodist ^  
+  
+Some fair writer thus r?&gt;taiitto6 on the parodist ^  
 whose produeti.-n we published some days since. I  
 Roth sides must be beard, and we give the lady a ,  
 ehatice:?  
@@ -182,7 +183,19 @@ Waved their bright wings, and answered, “Yes, i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, s**m n *t moon,  
+ distant 1- a—   
+A o# flad tone which whispered, 4* No-sir-eu. ’  
+Tell mo, thou misty deep,  
+W 1,0.40 billows round me flay,  
+K ior sI thou some f.u red spot,  
+Soi.iC Island far away,  
+VThore weary girls may find  
+A re* t from soft dough-faces,  
+And h-ar tlieiuseh . 3 called woman,  
+Nor likened to tiie graces?  
+S • n did the r six deep Its ausiver give,  
+Hy murmari.ig, v.LIe brandy fi mashes lire. •  
+And thou, s**m n *t moon,  
 Wnat hmjjOHge dost thou utter,  
 * do g-i/ing 011 the gentlemen,  
 Wrue beil is in the gutter,  
@@ -204,7 +217,7 @@ I aith, Truth and II &gt;pe—Lest boons to mortal given
 Wav’d their bright vuugs, and whispered, 44 Vos in  
 Heaven/’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1857051201%2F0708.jp2/pct:15.984081,25.594446,12.550326,9.860067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1857051201%2F0708.jp2/pct:15.984081,19.612216,12.550326,15.842296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +229,19 @@ Heaven/’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t  
+t dougli-fa-res.  
+And bear tbemaelvea rail d wumen,  
+Sot likened to tbe (trace.  
+Fwo did the miaty deep it. answer rive.  
+vy murmuring, ot while brandy smash?, live.&quot;  
+And thon, acrenest moon,  
+What lauguage doet thon ntter,  
+While eziuirun the gentlenu-n  
+Whoae bed ia in the gutter 1  
+Car, halt tbuu in thy round  
+Gated on some favored .pot,  
+W here hate knew notlho weight of bricks,  
+And where ri..r are wot t  
 H-hind a cloud the ntoon withdraw In woe,  
 but in itaJica answered, &quot;No, no, no .&#x27;&quot;  
 Tell me. my eerret soul  
@@ -230,7 +255,7 @@ And where the girls m.y reatP
 F.ith. Truth and Hope best boons to mortal, given  
 Waved their bright wingsand whimpered, &quot;Unly Heaven:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F00280776373%2F1857051501%2F0138.jp2/pct:2.215062,48.989353,12.323802,4.536337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F00280776373%2F1857051501%2F0138.jp2/pct:2.215062,44.159852,12.323802,9.365839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +267,9 @@ Waved their bright wingsand whimpered, &quot;Unly Heaven:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- thou utter,  
+  
+And thou, eereneat moon,  
+What language doat thou utter,  
 . While gating on the f (  
 WhoM bd a in the gutter,  
 Say, hait thou in thy round  
@@ -263,7 +290,7 @@ Fnlth, Trulh and Ilpp beat boons to mortals given­
 Waved thel- bright winga and whlapcred, &quot;I&#x27;m, in  
 ears a.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668156%2F1857051901%2F0043.jp2/pct:21.737854,25.102437,12.476149,8.982100/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668156%2F1857051901%2F0043.jp2/pct:21.737854,24.660341,12.476149,9.424197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,9 +352,14 @@ W here womankind are blest—
 Where man majy nevercoffle,  
 id eir  
 And where the girls may rest?  
-F£th. Truili aud Hope—best boons to mortal
+F£th. Truili aud Hope—best boons to mortals  
+_j ■; given -.j» r&#x27;,&#x27;V&#x27; ,  
+Wjayed the.ir bright yvinga aiid answered  
+in Heaven.&quot;  
+yes,  
+i.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_hogan_ver01%2Fdata%2Fsn85059862%2F00514157376%2F1857051901%2F0016.jp2/pct:16.170934,17.645513,13.822477,21.327684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_hogan_ver01%2Fdata%2Fsn85059862%2F00514157376%2F1857051901%2F0016.jp2/pct:16.170934,17.645513,13.822477,22.983182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +371,8 @@ F£th. Truili aud Hope—best boons to mortal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-odist i  
+  
+Some fair writor thus retaliates op the parodist i  
 &#x27; whose production wo published some dsys since, s  
 Hull, side* must be heard, and wo give the lat  
 dy ii chnnco :? &lt;  
@@ -388,7 +421,7 @@ gi*rn
 Waved their bright wings and answered, &#x27;yes in  
 heaven.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1857060601%2F0455.jp2/pct:34.611797,6.921026,16.400549,25.017436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1857060601%2F0455.jp2/pct:34.611797,6.822564,16.400549,25.115897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,6 +434,9 @@ heaven.&#x27;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+agfe ^&#x27;iviMflf 8?^ writer On* retaliates on the  
+&amp; ; j*r&lt;3#to4 ?hoee orodoctkm *e published  
+Bpfc ;.. t^anK&#x27; dap* since, - * ,  
 t&amp;V V Both side* must be lic-jm), and we glrc  
 the lady a chsnce :  
 ^ * Tell me, ye winged winds  
@@ -451,7 +487,7 @@ given,
 m Waved their bright wings and answered  
 44yes, in Heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1857061101%2F0589.jp2/pct:-0.776593,6.976443,21.509434,31.806023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1857061101%2F0589.jp2/pct:-0.776593,5.151437,21.509434,33.631029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,8 +556,7 @@ iu litavc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-EVENING STAR,  
-A PARODY PARODIED.  
+  
 |?7* Some fair writer thus retaliates oil the  
 parodist whoe* production we published some  
 days since. Both sidea must be heard, and we  
@@ -566,9 +601,9 @@ Where man may never come.
 And where the girls may rest *  
 Faiih. Truth and Hope?best noon to mortals given.  
 Waved their bright wings and answered &quot;Yes, in  
-Heaven.&quot;
+Heaven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654097%2F1857062301%2F0402.jp2/pct:1.352517,2.503790,16.445821,18.936331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654097%2F1857062301%2F0402.jp2/pct:1.352517,4.391107,16.445821,17.049015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,6 +616,10 @@ Heaven.&quot;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+. TeB me to winged winds  
+m a J il 1  
+xiuu ronnu mj wuwsy iw.  
 Do je mot bow moat spot  
 j rr  
 Vhere bachelors come no  
@@ -623,7 +662,7 @@ Faith, Truth and Hope beats boons to mortals
 Waived their bright wings and answered &quot;yes in  
 ffemat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028820%2F00280775460%2F1857070201%2F0189.jp2/pct:6.078360,17.055948,12.321494,22.786529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028820%2F00280775460%2F1857070201%2F0189.jp2/pct:6.078360,16.078218,12.321494,23.764259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,6 +962,9 @@ navti tneir ongm wings ana answerem
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+To Mankind generally, and Thunder A, Shunn  
+particularly.  
+BY MOLLIE BLT.  
 Tell me ye winged winds,  
 That round my pathway roar,  
 Do ye not know some spot  
@@ -966,7 +1008,7 @@ given,
 Waved their bright wings and answered, Yes,  
 in heaven.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1867122401%2F0424.jp2/pct:5.908336,7.930121,12.542640,16.769719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1867122401%2F0424.jp2/pct:5.908336,5.905061,12.542640,18.794779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,6 +1066,10 @@ in Heaven
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+ready to afford assistance to the  
+poor and afflicted, so in the language  
+of the poet, her loved ones may well  
+exclaim:  
 “Tell me. my secret soul, oh tell me, Hope  
 and Faith,  
 Is there no resting place from sorrow, sin  
@@ -1037,7 +1083,28 @@ given.
 Waved their bright wings and answered,  
 yes, in Heaven.” Refoktkr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_duval_ver01%2Fdata%2Fsn84038206%2F00393349232%2F1890122001%2F0692.jp2/pct:26.711681,31.596281,10.766374,4.186846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_duval_ver01%2Fdata%2Fsn84038206%2F00393349232%2F1890122001%2F0692.jp2/pct:26.698177,29.600930,10.793383,6.182197/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1892-03-10/ed-1/seq-3)
+
+#### 1892-03-10 &middot; Ellsworth, Me.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+&quot;Tell me. my secret soul,—oh&#x27; tell me, Hope and  
+Faith,  
+Is there no resting place from sorrow, sin ai d  
+death ?—  
+Is there no happy spot where mortal- mav l*e  
+blessed.  
+Where grief may find a halm and weariness 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F0033289531A%2F1892031001%2F0268.jp2/pct:22.389525,49.484667,9.840426,2.064512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

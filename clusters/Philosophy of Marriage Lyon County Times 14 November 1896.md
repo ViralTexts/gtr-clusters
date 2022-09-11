@@ -67,7 +67,9 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-T] t II! be cured l  
+  
+M C id I You can {  
+IT] t II! be cured l  
 Tf you suffer from any of the f  
 I ills of nu n, come to the oldest \
 I specialists on the Pacific Coast, w  
@@ -88,7 +90,7 @@ T made- howvto avoid aickness and disease. T
 linually. Catalogue sent free. \
 1051 Marksl Street. San Francltoo. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F00332890748%2F1896102801%2F0165.jp2/pct:50.739958,85.251241,14.100305,9.060949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F00332890748%2F1896102801%2F0165.jp2/pct:50.739958,84.506824,14.123796,9.805366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,9 +307,6 @@ GREAT MUSEUM OF ANATOMY.
 
   
   
-mercury. reui&quot;&#x27;-&quot;- &quot;-&quot; . - . -  
-&#x27; letter. Srnd for book &quot;The Philosophy  
-  
 DR. JORDAN &amp; CO.&#x27;S  
 GREAT MUSEUM OF ANATOMY.  
   
@@ -319,7 +318,7 @@ tinually. Catalogue sent free.
   
 1 051 Market Slreat, san rranoisco, uai.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1896112801%2F0029.jp2/pct:47.275799,12.661147,10.277348,4.014254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1896112801%2F0029.jp2/pct:47.275799,13.835028,10.235112,2.840373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +366,19 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tise ( sealed i containing foil  
+ warned.  
+Ladies Who Value  
+A refined complexion mnstnso PozxonTs Powi  
+der. It produces a soft and beautiful aMri.  
+v.  
+FORFEIT  
+If It does not cnT3  
+. eu.-ci, at Mr, mbw, Eny nana, UJnH, .-r :  
+r. LeetoThcual row. Imlnn.iM UUKiiUtk: , .  
+uiince-jia. Ail Mb- J2 XliXUHl trra It r.-,m.  
+Snftnrc from the effects of youth fcl errors, early  
+decay, wasting weakness, lost manhood, eta, I will  
+end a valuable, treatise ( sealed i containing foil  
 parurulars fur come cure. F ft cfc ox cnarga, A  
 TOlandid medical work : sbould be read by ovsh  
 lean vho la nerrooa and deoilitaied. Addm  
@@ -394,7 +405,7 @@ Thousands of new objects. Additions con
 tinually. Catalogue sent nee.  
 IC51 Market Straat. San Fraaclsc. Cat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_hedgehog_ver01%2Fdata%2Fsn82015133%2F00211104673%2F1896120501%2F0764.jp2/pct:84.972334,76.753728,10.110664,11.007705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_hedgehog_ver01%2Fdata%2Fsn82015133%2F00211104673%2F1896120501%2F0764.jp2/pct:84.972334,67.167017,10.726861,20.594416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,6 +524,7 @@ tOBj Market Street. San Francises. Cal.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+m r il f You can i  
 lf| L W ! be cured $  
 If you suffer from any of the 9  
 , ills of men, come to the oldest \
@@ -534,7 +546,7 @@ made: how to avoid sickness and disease. T
 tinually. Catalogue sent free. \
 1 1051 Market Street, San Francleco, Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1896121901%2F0411.jp2/pct:5.019060,84.823229,16.015460,10.246673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1896121901%2F0411.jp2/pct:5.019060,84.177981,16.036637,10.891921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +558,22 @@ tinually. Catalogue sent free. \
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-al. (Vsluntary observer&#x27;s  
+ us.  
+Juoiter, Fla., 73.  
+Mean maximum temperature during  
+month of July. Yuma, 106.6: iPfioenix.  
+107.3  
+Mean minimum temperature during  
+month of July. Yuma, 77; Galveston.  
+Tex., 79.  
+Mean minimum temperature durisg  
+month of January. Yuma, ..42; Tucson,  
+35 ; Phoenix, 32.  
+Highest temperature recorded. Yuraa,  
+118; Phoenix, 119&#x27;; Fort Lapwai, Idah.  
+115.  
+Lowest temperature reeorded. Yuma,  
+22; Riverside,&#x27; Cal. (Vsluntary observer&#x27;s  
 record.), 21; Jacksonville, Fla., 15&#x27;; Gal­  
 veston, Tex., 11.  
 Mean relative humidity. Yuma, 44g  
@@ -573,7 +600,7 @@ Thousands of new objects. Additions con­
 tinually. Catalogue sent free.  
 1051 Market S treat, San Franelsco, Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1896122601%2F0046.jp2/pct:83.865074,30.830820,11.932537,13.101799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1896122601%2F0046.jp2/pct:83.851019,24.238328,12.016866,19.694291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +612,15 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&amp; Co. Tbooaands  
+  
+  
+von suffer from any of the  
+  
+1 iQs of men. come to tbe oldest  
+  
+ipedausu on the Pacific Coast. 1  
+  
+Dr. Jordan &amp; Co. Tbooaands  
   
 now live nappy uresust we  
 1 saved from tbe grave.  
@@ -613,7 +648,7 @@ Thousands of new objects. Additions 000- ,
 Usually. Catalogue sent tree.  
 1051 Market Street. Saa FraKlsee. Cat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_hedgehog_ver01%2Fdata%2Fsn82015133%2F00211104673%2F1896122601%2F0777.jp2/pct:86.359576,54.418466,9.416869,5.924311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_hedgehog_ver01%2Fdata%2Fsn82015133%2F00211104673%2F1896122601%2F0777.jp2/pct:86.359576,53.407965,9.493429,6.934813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,6 +697,7 @@ tp51 Market Street. San Francisco. Cal.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+yr&gt;nf I You can 1  
 lv| LN 1 be cured 1  
 \ * If yon suffer from any of the I 1  
 #il)S of men, come to the oldest  
@@ -683,7 +719,7 @@ made how to avoid sicknesa and disease.
 Usually. Catalogue sent free. \
 1 toft 3 MarkM ftt-Mt tan transits.. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F00332890748%2F1896123001%2F0197.jp2/pct:36.415094,81.826698,14.487028,9.074941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F00332890748%2F1896123001%2F0197.jp2/pct:36.415094,81.202186,14.487028,9.699454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +982,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t NEK.  
   
   
 You can  
@@ -971,7 +1006,7 @@ Thousands of new objects. Additions on-
 Unually. Catalogue sent tree.  
 1051 Market Slreat, San Francisco, Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897013001%2F0068.jp2/pct:82.113707,5.835516,14.142978,88.632792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897013001%2F0068.jp2/pct:85.674078,5.835516,10.582606,8.768989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1175,19 @@ a 1051 &#x27;Market Street, San Franolsco, Cat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hrough our agency. Branch offices In ell the  
+ls at all hours.  
+tATENIi  
+Patents Wanted.  
+  
+Parties having invention* they wish to pro*  
+tect stiouM procure their patents through our  
+agency, inventor’s Manual, a book containing  
+cost ol patents, mode of procedure, etc., and  
+otherinlormation, sent lorfc. stamp.  
+Our list of patents wanted, for which large sums  
+of money are offered, sent with the Manual, tree.  
+Wo find purchasers for patents procured  
+through our agency. Branch offices In ell the  
 principal cities and in all foreign countries.  
 THE WORLD’S PROGRESS,  
 -O. J. Bailey, Manager,—  
@@ -1171,7 +1218,7 @@ Thousands of new objects. Additions con- |
 tiuuatly. Catalogue sent free.  
 1051 Market Street, San Francisco. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897021301%2F0444.jp2/pct:78.780013,70.275378,17.375081,16.890524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897021301%2F0444.jp2/pct:78.736751,58.558315,17.483236,28.607586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1291,6 +1338,9 @@ tinually. Catalogue sent free.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+specialists on the Pacific Coast,  
+ir. joraan ec to. rnousanas  
+til UL COW IIVC llitlJHJf &quot; C3 UMl  
 f&amp; saved from tne errave.  
 ( w Stricture, loss of manhood,  
 Zi dLaases of the skin and kid  
@@ -1306,7 +1356,7 @@ Thousands of new objects. Additions eoa­
 tinually. Catalogue sent free.  
 1051 Market Street, San Franelsco, CaJ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897030601%2F0092.jp2/pct:83.597142,9.057744,10.421628,5.493016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897030601%2F0092.jp2/pct:83.597142,8.088389,10.421628,6.462372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1509,9 +1559,21 @@ Dr. Jordan &amp; Co. Thousands \
 . now live happy lives that we W  
 \ saved from the grave. \
 &#x27; Stricture, loss of manhood, $  
-. diseases of the skin and kid- 
+. diseases of the skin and kid- \
+  
+Jucyv quickly cured without the use of #  
+mercury Treatment personally or by \
+irt£l&#x27;~i8et,d..£or book “The Philosophy f  
+^ I ©f Marriage,” free. J  
+#DR. JORDAN Sc CO.*8 i  
+GREAT MUSEUM OF ANATOMY, f  
+* 1 *9? aJ?d learn h?,w w°nderfully you are A  
+?i?^;ho7travoid8fckn«,» and disease. Y  
+, I Thousand* of new objects. Additions con- d  
+tinuaHy. Catalogue sent free/^ f  
+I 1061 Marks! Strsst, tan Francises. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F0033289075A%2F1897032401%2F0049.jp2/pct:71.674230,79.965833,10.180320,5.159963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F0033289075A%2F1897032401%2F0049.jp2/pct:67.351326,79.965833,14.503224,10.083087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,6 +1731,7 @@ I 1051 Market Street. San Franelaea. Cal.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+fin r if v Vou can  
 If] L ri ! be cured  
 . Tf you suffer from any of the I  
 \ ills of men, come to the oldest  
@@ -1691,7 +1754,7 @@ Thousands of new objects. Additions cou-I
 tinuady. Catalogue sent free.  
 1051 Market Street, Sen Francisco. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897041701%2F0482.jp2/pct:82.496161,78.503788,15.381663,10.379464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897041701%2F0482.jp2/pct:82.496161,78.084416,15.381663,10.798837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1713,9 +1776,20 @@ Dr. Jordan &amp; Co. Thousands \
 now live happy lives that we 9  
 saved from the grave. \
 * Stricture, l°s, of manhood, w  
-, , _-- —L . . diseases of the skin and kid- 
+, , _-- —L . . diseases of the skin and kid- \
+| &#x27; ney* quickly cured without the use of 9  
+A mercury. Treatment personally or by \
+r ’V*&quot;. Send for b00* &quot;The Philosophy 9  
+of Marriage,” free.  
+#DB. JORDAN* CO.&#x27;S  
+GREAT MUSEUM OT ANATOMY. I  
+I Go and learn how wonderfully you ere , I  
+made: how to avoid sickness and disease. 1  
+| 1 Thousand* of new objects. Additions con- , 1  
+tinually. Catalogue lent free. 1  
+| 1051 Market Street, San Fnnclioo.Cil. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F0033289075A%2F1897042101%2F0065.jp2/pct:67.273157,79.189944,14.065454,4.721446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F0033289075A%2F1897042101%2F0065.jp2/pct:67.225898,79.189944,14.112713,9.563160/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1728,7 +1802,6 @@ saved from the grave. \
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-i Stricture, loss of ra sua hood, -  
 aevs ouicklv cured witirout the use of  
 cusoases oi me skib anu juu  
 mercury. Treatment personally or.by-)  
@@ -1743,7 +1816,7 @@ tinuallv. Catalogue sent free.
 1051  
 Market strait, San Franauc, csi.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897042401%2F0121.jp2/pct:84.335333,11.679817,10.545404,5.191030/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897042401%2F0121.jp2/pct:84.335333,12.167774,10.545404,4.703073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,15 +1899,28 @@ tiuua.ly. Catalogue sent free.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+r (£) You can #  
+f be cured f  
+▼ you puffer from mny of the A  
+X 1 ibs of men, couie to the oldest \
+# 7 QkMA ■ apecialistson the Pacific Coast. #  
+\ f « Dr. Jordan U Co. Thousauds \
+w vlp^T/ \ T,ow live happy lives that we #  
+\ V\\ fl Hv Mve^ from the grave. \
+T &#x27; fit /( .Stricture, 1 osh of manhood, #  
+\ « 43 diseases of the skin arul kid- \
 r neya quickly cured without the use of#  
 \ mercu.y. Treatment personally or by \
 w letter. Send for book “The Philosophy #  
 \ of Marriage,*’ free. \
 \ DU. JORDAN A CO.’S j,  
 f GREAT Ml’SKCM Off ANATOMY, f  
-A Go and learn how wonderfully you ar« 
+A Go and learn how wonderfully you ar« A  
+\ made* how to avoid sickness and disease. \
+A Thousauds of new objects. Additions C04- A  
+\ tinually. Catalogue sent free. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F0033289075A%2F1897051201%2F0077.jp2/pct:20.470588,87.030717,14.429412,3.370307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F0033289075A%2F1897051201%2F0077.jp2/pct:20.447059,82.407695,14.617647,9.032733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1847,6 +1933,11 @@ A Go and learn how wonderfully you ar«
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+1 G&amp;s H i-:e-iai.sioctIi?PacificCoast, W  
+a lJr J --n &amp;Co- Thousands  
+lVTw&quot;ff a no?? livri happy Hve3 that we  
+uh h fewtsav -d from the grave.  
+V i( C&#x27;rieture.I&#x27;iSi of manhood, w  
 a J ai-&#x27;7to3 ot Inc skin and kid­  
 2eys quickly cured viti.oi.t the use of i,  
 BKTCttry. Troatji-.ort personally or by  
@@ -1860,7 +1951,7 @@ Thousands of new objects. Additics3 con­
 tinually. Catalogue sent free.  
 1 051 Market Sirest, San Franoitco, Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897051501%2F0134.jp2/pct:84.488222,11.643408,10.290674,4.728182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897051501%2F0134.jp2/pct:84.488222,9.883358,10.676402,6.488232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1909,6 +2000,7 @@ k Co and learn how wonderfully you are f
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+r |j| b You can t  
 L n i be cured t  
 Tf you suffer from any of the w  
 | ills of nicTi, come to the oldest \
@@ -1930,7 +2022,7 @@ f Thousands of new objects. Additions con- M
 \ tinuaily. Catalogue sent free. Y  
 P 1031 Market Si. set, San Francisco. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F0033289075A%2F1897051901%2F0081.jp2/pct:21.270066,85.236769,14.311851,9.072269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F0033289075A%2F1897051901%2F0081.jp2/pct:21.270066,84.617765,14.335458,9.691272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2013,7 +2105,20 @@ I* 1051 Market Street, San Franclsee. Cel.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ry. Treatment personally or by  
+  
+cm  
+cared  
+f voa suSer i  
+ills of men, come to the. oldest  
+apecsuustionthePacinc Coast,  
+nr. jorcaa tz. to. xC&#x27;.-usana3  
+now live liappy lives that we  
+saved irom tiie grave.  
+Stricture, losi of manhood.  
+diseases of the sfein and kid-  
+aeys  
+: quickly curtd without the tisa cf  
+r.iry. Treatment personally or by  
 mercurv  
 letter. Scad for took &quot;The Pliiloopby  
 ot .Marriage,&quot; trco.  
@@ -2025,7 +2130,7 @@ Thousands of new objects. Additions con­
 tinually. Catalogue sent free.  
 1051 Kizrkot Streai, Szn Francisco, Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897052901%2F0143.jp2/pct:84.621837,10.517547,10.121627,4.113298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897052901%2F0143.jp2/pct:84.621837,6.123087,10.219488,8.507758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2074,6 +2179,13 @@ tinually. Catalogue sent free.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+iip||| You can {  
+lv|Ln! be cured f  
+If you suffer from any of the f  
+ills of men, come to the oldest i  
+specialists on the PacificCoast, W  
+Dr. Jordan &amp; Co. Thousands A  
+L now live happy lives that we W  
 h saved from the grave. A  
 i&#x27; Stricture, loss of manhood, «■  
 diseases of the skin and kid- 1  
@@ -2090,7 +2202,7 @@ Thousands of new ob)ects. Additions con­
 tinually. Catalogue sent free. *  
 10B1 Market Street, San Francisco, Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897061901%2F0518.jp2/pct:79.295346,82.380696,16.012397,6.905500/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897061901%2F0518.jp2/pct:79.295346,78.255594,16.077642,11.030601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2174,7 +2286,17 @@ f 051 Market Street. San Francisco. Cal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- part of  
+e vast stretches of rich  
+soil to be reclaimed by the construction of  
+irrigating canals.  
+Because there are large tracts of grasa  
+lands that can be utilized by the sinking ot  
+artesian wells.  
+Because there are many openings in a new­  
+country which cannot exist in older com­  
+munities.Because the opportunities for engaging in  
+the successful cultivation of semi-tropic  
+fruits are better than in any other part of  
 the United States.  
 Because property values are rapidly ad­  
 vancing.Because Arizona&#x27;s boom Is yet to come.  
@@ -2202,7 +2324,7 @@ Thousands of new objects. Additions con
 tinually, catalogue sent tree.  
 1051 Market Street, San Franslsce, Ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897070301%2F0165.jp2/pct:82.725367,71.709975,11.879804,14.186924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897070301%2F0165.jp2/pct:82.725367,65.433780,11.977638,20.463118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2215,6 +2337,7 @@ tinually, catalogue sent tree.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+M r iJ V You can ^  
 I lf| Lll! be cured f  
 l If you suffer from may of the f  
 fe ills of men, come to the oldest \
@@ -2237,7 +2360,7 @@ f GREAT MUSEUM OF ANATOMY, f
 \ tinually. Catalogue sent free. \
 #1051 Market Street, San Francisco, Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897070301%2F0526.jp2/pct:78.438900,78.502775,16.640009,10.156356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897070301%2F0526.jp2/pct:78.438900,77.622851,16.661335,11.036280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2353,7 +2476,18 @@ I Thousands of new objects. Additions con­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r part o  
+are vast stretches of rich  
+soil to be reclaimed by the construction of  
+irrigating canals.  
+Because there are large tracts of grass  
+lands that can be utilized by the sinking ot  
+artesian wells.  
+Because there are many openings in a new  
+country which cannot exist in older com  
+munities.  
+Because the opportunities for engaging in  
+the successful cultivation of semi-tropie  
+fruits are better than in any other part o  
 the United States.  
 Because property values are rapidly ad  
 vancing.  
@@ -2382,7 +2516,7 @@ Thousands cf new objects. Additions con- ,
 Unually. Catalogue sent free.  
 1051 Market S!?sst, San Franelsce, Col. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897080701%2F0186.jp2/pct:82.619612,71.522146,11.870554,13.609898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897080701%2F0186.jp2/pct:82.619612,65.294240,11.982145,19.837804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2430,7 +2564,8 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e of  
+  
+2ey3 quickly cured vrithost the-irse of  
 mercury. Treatment &#x27;personally evr&#x27;byk  
 letter. xd : for book &quot;The Philosophy f  
 of Marriage,&quot; free.  
@@ -2548,9 +2683,10 @@ ORRAT MUSEUM OW ANATOMY.
 I Go and learn how wonderfullv yon a™  
 made; how to avoid sickneaa and diaeaae­  
 I Thousand* of new object*. Addition* con- ,  
-tinually. Catalogue aent free
+tinually. Catalogue aent free.  
+IOSI Market Street, San Franeleee, Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897090401%2F0558.jp2/pct:81.300108,77.881494,15.606717,10.325352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897090401%2F0558.jp2/pct:81.300108,77.881494,15.606717,10.812365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2579,9 +2715,12 @@ of Marriage,&quot; free.
 DE. JOED AST &amp; CO.&#x27;S  
 GHEAT aiTJSETJaC OF AXAT02CT.  
 Co ana learn now wosdernill- veu ar  
-made; hoiv to avoid sickness and
+made; hoiv to avoid sickness and disease.  
+Thousands of new objects. Adomoascoa-  
+unuauy. waiaiogue sens tree.  
+I0Sf Bfarkst Strut. San Fransffei, Ct.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897091101%2F0205.jp2/pct:83.254520,84.534362,10.431154,6.830744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_gilachub_ver01%2Fdata%2Fsn84021912%2F00211104326%2F1897091101%2F0205.jp2/pct:83.240612,84.534362,10.445063,7.988320/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2702,6 +2841,19 @@ tinually. Catalogue sent free.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+II IT il I *ou can  
+, ff|LllI be cured  
+i If you suffer from any of the  
+L ills of men, come to the oldest  
+I specialists on the Pacific Coast,  
+1 Dr. Jordan &amp; Co. Thousands  
+1 now live happy lives that we  
+A saved from the grave.  
+W Stricture, lav &#x27;&gt;t “‘“P??*?’  
+diseases of the skin and kid­  
+vie. wUitMt* the uie of 1  
+  
+f neys quickly curea wunoui inc  
 . mercury. Treatment personally or toy  
 • letter. 8end for book &quot;The Philosophy  
 I of Marriage,&quot;free.  
@@ -2713,7 +2865,7 @@ i Thousands of new objects. Additions con* |
 tinually. Catalogue sent free.  
 1 I OBI Market Street, San Fraaeleee. Ca!.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897092501%2F0570.jp2/pct:80.511811,83.565347,15.906605,5.166239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554516%2F1897092501%2F0570.jp2/pct:80.511811,78.010542,15.906605,10.721043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2763,9 +2915,14 @@ unuauy. waiaiogue sent tree.
 CHARGES VERV REASONABLE. Treat­  
 ■tent personally or by letter. Send for book.  
 ‘&#x27;The Philosophy of Marriage,**  
-free. (A valuable book tor men.
+free. (A valuable book tor men.)  
+▼MIT DR. JORDAN&#x27;S  
+Great Museum of Anatomy  
+the finest and largest Museum of its kind in the  
+world. Come and learn how wonderfully you  
+are made; how to avoid sickness and disease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1897112001%2F0388.jp2/pct:52.340426,56.416577,13.646572,1.667694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1897112001%2F0388.jp2/pct:52.340426,56.416577,13.646572,3.932368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2781,9 +2938,14 @@ free. (A valuable book tor men.
 CHARGES VERY REASONABLE. Treat­  
 ment personally or by letter. Send for book.  
 “The Philosophy of Marriage,  
-free. (A valuable book for men.
+free. (A valuable book for men.)  
+VISIT DR. JORDAITR  
+Great Museum of Anatomy  
+the finest and largest Museum of its kind in the  
+‘world. Come and learn how wonderfully you  
+are made; how to avoid sickness and disease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1897121801%2F0406.jp2/pct:38.541667,78.284672,13.665956,1.630931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1897121801%2F0406.jp2/pct:38.352273,78.284672,13.855350,3.881539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2799,9 +2961,14 @@ free. (A valuable book for men.
 CHARGES VERY REASONABLE. Treat­  
 ment personally or by letter. Send for book.  
 &quot;The Philosophy of Marriage,  
-free. (A valuable book for men.
+free. (A valuable book for men.)  
+VISIT DB. JORDAN&#x27;S  
+Great Museum of Anatomy &gt;  
+the finest and largest Museum of its kind in the  
+world. Come and learn how wonderfully you  
+are made; how to avoid sickness and disease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898011501%2F0422.jp2/pct:36.541176,72.925630,13.464706,1.663337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898011501%2F0422.jp2/pct:36.541176,72.925630,14.194118,3.891364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2817,9 +2984,17 @@ free. (A valuable book for men.
 CHARGES VERY REASONABLE. Treat­  
 ment personally or by letter. Send for book.  
 “The Philosophy of Marriage,&quot;  
-free. (A valuable book for men.
+free. (A valuable book for men.)  
+TINIT DB. JORDAN&#x27;S  
+Great Museum of Anatomy  
+the finest and largest Museum of its kind in the  
+world. Come and learn how wonderfully you ’  
+are made; how to avoid sickness and disease.  
+We are continually adding new specimens.  
+CA TALOO UM FREE. Call or write.  
+105 f Market street, San Francisco, Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898012201%2F0426.jp2/pct:36.617056,72.807018,13.589653,1.665897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898012201%2F0426.jp2/pct:36.617056,72.807018,13.802268,5.205448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2835,9 +3010,14 @@ free. (A valuable book for men.
 CHARGES VERY REASONABLE. Treat­  
 ment personally or by letter. Send for book.  
 “The Philosophy of Marriage,**  
-free. (A valuable book for men.
+free. (A valuable book for men.)  
+VISIT I&gt;K. JORDAN&#x27;S  
+Great Museum of Anatomy  
+the finest and largest Museum of its kind in the  
+world. Come and learn how wonderfully you  
+are made; how to avoid sickness and disease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898031901%2F0458.jp2/pct:21.860907,61.457852,13.677902,1.652797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898031901%2F0458.jp2/pct:21.837171,61.457852,13.725374,3.902759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2853,9 +3033,14 @@ free. (A valuable book for men.
 CHARGES VERY&quot; REASONABLE. Treat- 1  
 ment personally or by letter. Send for book.  
 &quot;The Philosophy of Marriage,&#x27;  
-free valuable book for men.
+free valuable book for men.)  
+VISIT DR. JRI IN&#x27;-  
+Great Museum of Anatomy i  
+tha fiae-t and largest Museumof its kind in the  
+world. Come and learn how wonderfully you  
+are made; how to avoid sickness and disease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_goldfield_ver01%2Fdata%2Fsn86076999%2F00271740943%2F1898071401%2F0045.jp2/pct:10.187891,79.319265,13.862213,1.620150/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_goldfield_ver01%2Fdata%2Fsn86076999%2F00271740943%2F1898071401%2F0045.jp2/pct:10.187891,79.319265,13.903967,3.880191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2871,9 +3056,15 @@ free valuable book for men.
 CHARGES VERY REASONABLE. Treat­  
 ment personally or by letter. Send for book,  
 &quot;The Philosophy of Marriage,**  
-free* (A valuable book for men.
+free* (A valuable book for men.)  
+VISIT DB. JORDAN**  
+Great Museum of Anatomy  
+the finest and largest Museum of its kind in the  
+world. Come and learn how wonderfully you  
+are made; how to avoid sickness and disease.  
+Wt are continually adding new specimens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898080601%2F0538.jp2/pct:52.207294,88.820068,13.873560,1.660731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898080601%2F0538.jp2/pct:52.207294,88.820068,13.873560,4.386033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2886,12 +3077,21 @@ free* (A valuable book for men.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+We will Guarantee a WSITl VK CURE in I  
+every case we undertake, or jorjett use  
+Tlionaana jonar.  
+FREE and strictly private.  
 CHARGES VERY REASONABLE. Treat­  
 ment personally or by letter. Send for book,  
 &quot;The Philosophy of Marriage,&quot;  
-free (A valuable book for men.
+free (A valuable book for men.)  
+TISIT IK- JOBDAS&#x27;M  
+Great Museum of Anatomy  
+the finest and largest Museumof its kind in the  
+world. Come and learn how wonderfully you  
+are made; how to avoid sickness and disease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_goldfield_ver01%2Fdata%2Fsn86076999%2F00271740943%2F1898090801%2F0237.jp2/pct:9.870516,81.466340,13.797495,1.621695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_goldfield_ver01%2Fdata%2Fsn86076999%2F00271740943%2F1898090801%2F0237.jp2/pct:9.764381,79.803761,14.179580,5.464704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2906,9 +3106,17 @@ free (A valuable book for men.
   
 !inent personally or by letter. Send for book. \
 &quot;The Philosophy of Marriage, #  
-free. (A valuable book for men.) 
+free. (A valuable book for men.) \
+VI**IT DK. JO 12I&gt;AN&#x27;S f  
+Great Museum ol‘Anatomy , &gt;  
+the finest and largest Museum of its kind iuthc  
+world. Come and learn how wonderfully you {  
+are made; how to avoid sickness and disease.  
+We are continually adding new specimens, I &#x27;  
+CAT.I LOGIE FEES. Calior write.  
+^ ^ K)5^M^kerStreet. Ean^rareistxb Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F00332890761%2F1898100501%2F0157.jp2/pct:52.871662,84.698175,14.494209,4.511777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_empire_ver01%2Fdata%2Fsn86091319%2F00332890761%2F1898100501%2F0157.jp2/pct:52.800756,84.698175,14.565115,4.995321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2924,9 +3132,14 @@ free. (A valuable book for men.)
 CHARGES VERY REASON ABLE. Treat­  
 ment personally or by letter. Send for book.  
 “ The Philosophy of Marriage,**  
-free. (A valuable book for men.
+free. (A valuable book for men.)  
+VISIT DR. JORDAN&#x27;S  
+Great Museum of Anatomy  
+the finest and largest Museum of its kind in the  
+world. Come and learn how wonderfully you  
+are made; how to avoid sickness and disease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898110501%2F0587.jp2/pct:81.624438,78.399378,13.692872,1.651127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898110501%2F0587.jp2/pct:81.624438,78.399378,13.692872,3.904429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2942,9 +3155,14 @@ free. (A valuable book for men.
 CHARGE VERY REASONABLE. Treat­  
 ment personally or by letter. Send for book.  
 &quot;The Philosophy of Marriage.  
-fres. (A valuable book for men.
+fres. (A valuable book for men.)  
+YINIT DB. JOBDAN**  
+Great Museum of Anatomy  
+the finest and largest Museum of its kind in the  
+world. Come and learn how wonderfully you  
+are made; how to avoid sickness and disease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898122401%2F0618.jp2/pct:84.466252,86.058360,13.888224,1.702177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898122401%2F0618.jp2/pct:84.466252,86.058360,13.912159,3.987185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

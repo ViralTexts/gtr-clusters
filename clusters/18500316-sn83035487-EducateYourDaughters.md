@@ -242,7 +242,7 @@ ol educution. IUv. S. Dyer
 
 ---
 
-## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27?page=3)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27?page=3)
 
 #### 1850-03-16
 
@@ -268,9 +268,21 @@ would choose the girls: for when they be
 come mothers, they wo; ducete ‘thei  
 sons.” This on ¢ b , would educ ate their  
 sons. This is to the point, and it js true  
-So nation can become fully and pe
+So nation can become fully and per  
+ly civil: Ze | i) ; es » “asaacguet- el  
+J ized and enlightencd. whe  
+mothers are Y Ph — =  
+Crs ¢ a good degree alifi  
+ca £ : Qualit-  
+  
+‘ not. tu  
+edto discharge the duties of the home work  
+S. Dyer, :  
+  
+of education.— Rer,  
+—_ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27&#0036;3/pct:52.113063,79.058160,13.474204,10.123698/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27&#0036;3/pct:52.113063,79.058160,13.474204,12.630208/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,6 +421,7 @@ ties of the homework of education.&#x27; Rev.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Edixati: Yocb Dacgutebs.—A writer  
 snvs:—&quot; \\ In n I livs &lt;1 among&quot; the Choctaw  
 Indians I held a consultation with one of  
 their duets r&lt; spotting thesuccossive stages  
@@ -432,7 +445,7 @@ are not, to a good degree, qualified to dis­
 charge tlie duties of the home work of ed­  
 ucation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn84024649%2F00393347946%2F1851031301%2F0018.jp2/pct:38.141391,60.590922,11.559293,10.837140/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn84024649%2F00393347946%2F1851031301%2F0018.jp2/pct:38.141391,60.077077,11.559293,11.350985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,6 +633,7 @@ home work of education.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Educate your Daughters. A wri-  
 ! ter savs : &quot; When I lived among the.  
 ! Choctaw Indians, I held a consultation  
 &#x27; with one of their chiefs respecting thc  
@@ -641,7 +655,7 @@ nation can become fully and permanent-
 ly civilized and enlightened, when the  
 1 things he informed me at their first star
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1851070301%2F0205.jp2/pct:64.989749,61.596583,15.313042,12.275515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1851070301%2F0205.jp2/pct:64.989749,60.983355,15.313042,12.888743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +705,18 @@ discharge the duties of home education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-on as possible.&quot;  
+me if I have killed her.  
+Here the prisoner became thought­  
+ful, nnd the conversation ceased. On  
+being removed for the purpose of  
+conveving him to Rrooklyti.be said :  
+&quot;There is no use for you to handcuff  
+me; 1 do not wish to leave you. 1  
+only wish to die. There will be no  
+necessity to try me by a jury; it will  
+he only putting the State to expense  
+1 have committed the murder, and 1  
+want to die as soon as possible.&quot;  
 The girl. Elizabeth Conroy, who he  
 stabbed whilst she was attempting to  
 shield his wife from him. is severely  
@@ -725,7 +750,7 @@ to a good decree, qualified to dis­
 charge the duties of the home woik  
 of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779210%2F1851071801%2F0306.jp2/pct:20.117228,53.492809,13.941804,21.162313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779210%2F1851071801%2F0306.jp2/pct:20.117228,46.712650,13.941804,27.942471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +762,17 @@ of education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- prejudice are employed against  
+of age, and did not appear to be  
+much affected by the proceedings against him.  
+Richmond Republican.  
+GREELY FOR STANLY!  
+The last number of that infamous Abolition, agra­  
+rian print, the New York Tribune, contains the fol­  
+lowing :  
+&quot; Perhaps the bitterest contest in these States is  
+that against Edward Stanly, in the Eighth Distric  
+of North Carolina. All the resources of personal  
+hostility and public prejudice are employed against  
 Hm, but though our good wishes would be of little  
 service we earnestly trust Mr. Stanly may be success­  
 UU though the vote must be a close one.&quot;  
@@ -762,7 +797,7 @@ n i&#x27;fiWj en lJ,e mother8 are not, to a good degree
 quaiined to discharge the duties of the home work of  
 education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022627%2F1851080601%2F0363.jp2/pct:1.038259,76.182932,14.677855,11.649768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022627%2F1851080601%2F0363.jp2/pct:1.038259,70.532319,14.692078,17.300380/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,10 +821,9 @@ ligent men, but they married uneducated and uncivili­
 zea w,veS; anu the uniform result was, that the chil­  
 li hi! 6 . hk.elha mother; and 80011 tha father  
 now&quot; nDeKe8t..ln,bolh wife and children. &quot;And  
-of oil, t!fi ,f we cou,d educate only one class  
-?he bi &quot;&#x27;T&quot; Would choo8e Ae girl. ; for whe
+of oil, t!fi ,f we cou,d educate only one clas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024517%2F00296022706%2F1851080601%2F0324.jp2/pct:1.268834,79.096257,14.369548,6.383778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024517%2F00296022706%2F1851080601%2F0324.jp2/pct:1.268834,79.096257,14.369548,5.883089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,9 +895,10 @@ rs. lTney would educate their sons. This
 become fully and permanently civilized and  
 f nlightened, when the mothers are not, to a  
 good degree, qualified to discharge the du­  
-ties oihome education
+ties oihome education.  
+&#x27; CrTo raise an orchard of grafted frui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85042199%2F00296026670%2F1851082701%2F0155.jp2/pct:3.976956,53.835979,13.529084,14.246032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85042199%2F00296026670%2F1851082701%2F0155.jp2/pct:3.976956,53.835979,13.529084,15.039683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,6 +1031,9 @@ of the home work of education.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+EDUCATE YOUR DAUGHTERS.  
+  
+A writer in the Farmer and Pianter says :—  
 “ When I lived among the Choctaw Indians, I  
 | held a consultation with one of their principal  
 chiefs respecting the successive stages of their  
@@ -1009,7 +1047,7 @@ were all like the mother, and soon the father lost
 his interest in both wife and children. ‘  
 | now,’ said he, ‘if we could educate only one class
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-01-06_10_1&#0036;1/pct:61.003717,79.613466,12.788104,5.782419/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-01-06_10_1&#0036;1/pct:61.003717,78.460100,12.788104,6.935786/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1260,10 @@ It is stated American priuted muslin d
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-chief* rc*part­  
+  
+tba Farmer and Planlir rey* : “Whrn I lived  
+among the Cburtaw Iwliao* I held a orggtlta­  
+tlna with on* of their principal chief* rc*part­  
 ing tba aucriawlre atagea of their pregrewt In  
 the arte and virtuea of civilian! lilr, awl, among  
 other thing*, ha Informed im at their first atart  
@@ -1235,9 +1276,9 @@ luat hi* Interest in both mih and children.-
 -And now,&quot; mid he, “If w* coaid educate only  
 ana clras of our children, w* would cboose tbs  
 girls; for when Omy become mother* they  
-woald edoeatc t
+woald edoeatc their aooa.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016751%2F00383347269%2F1856040301%2F0090.jp2/pct:79.470199,83.158640,12.071902,6.355052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016751%2F00383347269%2F1856040301%2F0090.jp2/pct:79.413434,82.195467,12.128666,7.318225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,6 +1291,7 @@ woald edoeatc t
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Educate vour Daughters. A writer in  
 tho Farmer and Planter, says: When I  
 lived among tlio Chocktaw Indians, I held a  
 consultation with one of thelf principle chiefs,  
@@ -1267,7 +1309,7 @@ cato only ono class of our children, we would
 choose tho girls; for when they becomo moth­  
 ers, they would educate the sons.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1856040801%2F0926.jp2/pct:65.072464,65.227103,13.710145,8.775662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1856040801%2F0926.jp2/pct:65.072464,64.663334,13.710145,9.339432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,6 +1322,8 @@ ers, they would educate the sons.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Educate Your Daughters.—a  
+writer in the Farmer and Planter says:  
 &quot;When I lived among tbe Choctaw In­  
 dians, I held a consultation with one of  
 theîr principal chiefs respecting tbe  
@@ -1299,10 +1343,9 @@ class of our children, would obooee tke
 girls, for when they become mothers,  
 they would educate their sons.&quot;  
 Can&#x27;t tou Throw a Littlbo* tbat  
-in — Can yon take off my bafrd bete I&quot;  
-said a grave, tall slab-sided Yankee t
+in — Can yon take off my bafrd bete I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn88064473%2F00295872445%2F1856041701%2F0219.jp2/pct:60.078278,67.242462,16.780822,15.734925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn88064473%2F00295872445%2F1856041701%2F0219.jp2/pct:60.127202,65.813442,16.731898,16.488693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,6 +1476,8 @@ fully and permatfe
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Educate your Daughters.—A renowned  
+writer says :  
 “ When I lived among the Choctaw Indians,  
 I held a consultation with one of the chiefs re­  
 specting the successive stages of their progress  
@@ -1454,7 +1499,7 @@ enlightened, when the mothers are not in a
 good degree qualified to discharge the duties  
 of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182987%2F1857030501%2F0456.jp2/pct:50.386883,55.842986,15.093036,10.762548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182987%2F1857030501%2F0456.jp2/pct:50.386883,54.749035,15.093036,11.856499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,9 +1511,7 @@ of the home work of education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e  
-0 ioctaw Indians. I held a consociation  
-with &#x27;no of their chicfc icbj,acting the  
+  
 successive stages of their progress in  
 the art of civilization and amongt  
 other thiugs he informed me, that a(  
@@ -1492,7 +1535,7 @@ mothers are not iu a good degree
 qualified to discharge the duties of the  
 home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_kingler_ver01%2Fdata%2Fsn87058152%2F00279529236%2F1857030701%2F0288.jp2/pct:15.451505,11.447007,11.315496,12.207751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_kingler_ver01%2Fdata%2Fsn87058152%2F00279529236%2F1857030701%2F0288.jp2/pct:15.451505,12.506472,11.248606,11.148285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,9 +1605,22 @@ A ml now Hfi ti I
 &quot;..V..... ........... -  
 i. t... ,..,, i j... k.a ..  
 cjw öf our chiidron we should choose  
-the girls, for. when they become moth
+the girls, for. when they become moth-  
+t t?w. tili. 1ftll1 lllllnotn tli.tll llillb &quot;  
+  
+An lilt VI. 11 VUI4V MtV VII VI . I7VIII7. U 1(1 llrv 111 (Jill  
+Thj- j(. ;e jnt nf(J ., js ,ni( NoiülC V0Uni;  
+nilt- hrM.(imn .uu. Ärl rwtvma J in evcrrthi  
+  
+aiiio is tut; immiii. unu 11 i&quot; nur.  
+. . ,  
+tf ehelwlS  
+the mothers are not. in a full d,  
+.... a . a. a . a a .a  
+qualified to discharge the duties of  
+tbo home-work ol education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857041701%2F0303.jp2/pct:71.993931,55.465914,10.835757,8.229125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857041701%2F0303.jp2/pct:71.993931,55.465914,13.946137,11.688181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1602,9 +1658,12 @@ ers. Thus the father soon lost all his in­
 terests in both wL ami children. &#x27;And,  
 now,&#x27; &#x27;said he, if we would educate but  
 ono class of our children, vo should  
-choose the girls, fr, when
+choose the girls, fr, when they beeomo  
+mothers, thov educate their sons.&#x27; This is  
+tho point, an l it is truo. No nation can  
+become fully enlightened whon tho moth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F0020029452A%2F1857042301%2F0256.jp2/pct:44.128878,79.217877,12.863962,10.614525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F0020029452A%2F1857042301%2F0256.jp2/pct:44.128878,79.217877,12.863962,12.597765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,9 +1690,10 @@ both wife and children. &quot;And now,&quot; taid he, &quot;ii
 we could edjeate onlv one&#x27; thss of our children,  
 we would choose the pirls; Jor when they become  
 mothers, they would educate their sons.&quot;  
-And this reminds me that there is one most im
+And this reminds me that there is one most im­  
+portant item in the education of giils which th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn96091000%2F00212470089%2F1857052901%2F0517.jp2/pct:46.937631,27.513068,11.983181,6.232409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn96091000%2F00212470089%2F1857052901%2F0517.jp2/pct:46.937631,27.513068,11.983181,6.735022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1818,7 +1878,8 @@ of the home-work of education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rts of civilized  
+  
+of their progress in the arts of civilized  
 ife, and ittiiiong other things ho informed  
 roc that, nt their start, they fell into a grout  
 mistake; they pntvsent their boys to school.  
@@ -1838,7 +1899,7 @@ when mother* are not, in a good degree,
 qualified to discharge the duties of the  
 homework of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1857091201%2F0513.jp2/pct:65.653882,7.149374,16.182412,11.101435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1857091201%2F0513.jp2/pct:65.653882,7.062287,16.182412,11.188521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2028,7 +2089,8 @@ for, when they become mothers. the, d
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-thmcs no iniormeu mo  
+  
+and anions other thmcs no iniormeu mo  
 that at their start, they loll into a great  
 mistake; they oub-sent their boys to school,  
 Tboso bys camo hemo intelligent men, but  
@@ -2073,9 +2135,12 @@ est in both wife and children. ‘ And now,” said the
 chief, ‘‘ if we could educate but one class of our children,  
 we should choose the girls; for when they become  
 mothers they would educate their sons.” If any nation  
-would become fully and permanently civilized, its mother
+would become fully and permanently civilized, its mothers  
+must be qualified to discharge the duties of the home-  
+work of education. However competent for any special  
+work in the intellectual field of human existence woma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_universalist-quarterly-and-general-review_january-october-1858_15&#0036;238/pct:16.931217,15.187891,66.137566,22.677453/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_universalist-quarterly-and-general-review_january-october-1858_15&#0036;238/pct:16.931217,15.187891,66.137566,27.087683/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2290,7 +2355,16 @@ education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d crops asany State in  
+to enrich tha lands already  
+open, and thev are much more easy of culti­  
+vation. Wilf not some man of capital step  
+forward and help the farming interest of the  
+State, by making lime and selling it by the  
+tna, or otherwise i Will not the Agricultural  
+Society assist in furnishing the farmers of  
+North Carolina with this great fertiliser?  
+Give as plenty of lime on cheap terms, and  
+we can produce as good crops asany State in  
 the Union.  
 Tub Monnn Mortng ma M. That it  
 it tha mother who moatds the man, it a sen­  
@@ -2317,7 +2391,7 @@ enlightened when mothers ara not ia a good
 degree qualified to discharge thg cjatisg of  
 the home work of edscation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156372%2F1858051901%2F0697.jp2/pct:33.047809,76.149794,14.402390,15.093265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156372%2F1858051901%2F0697.jp2/pct:33.047809,71.237363,14.402390,20.005696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2375,7 +2449,15 @@ can-become fully &#x27;enlightened when l
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-round continually ; and each guest had t  
+n times in their efforts to rival the Bacchan­  
+alian extravagance of the ancient masters of the  
+world ; yet even they must be reckoned mere slip­  
+pers in comparison. Till a very late periid. enor­  
+mous goblets, that would put that of the Baron  
+Bradwardine to open shame, were among the  
+chief ornaments of the rooms and tables of the Ger­  
+man nobility : at their feists the bottle used to be  
+j pushed round continually ; and each guest had t  
 open his goblet on pain of being Condemned as a  
 talse Iriena and nroiner.  
 The Mother Moi lds the Max. The following  
@@ -2399,7 +2481,7 @@ no nation can fail to become fully enlightened when
 its mothers are in a good degree qualified to dis­  
 charge the duties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00212471380%2F1858100201%2F0523.jp2/pct:64.801035,72.881155,14.978971,12.476326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00212471380%2F1858100201%2F0523.jp2/pct:64.542219,68.868371,15.302491,16.489110/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2728,7 +2810,21 @@ become fully enlightened, whon mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eir child en were all like thv-ir moth era. The  
+  
+H&#x27;g tbe s ocressi ve stage of their pro­  
+i tbe aria of civilized life : and among  
+linirs, he informed me that at thir ear  
+Thv  
+aenim  
+I- g re;  
+Wbe  
+I held  
+reat mistake tbey only sent  
+Tbeie boys came borne intel- .  
+boy to school  
+lice-1 men, but they marri d uneducated and  
+nncivuizec wive and tne unirorm result was,  
+their child en were all like thv-ir moth era. The  
 father soon lost all his interest hi bob wife  
 and children. 1 And now, said be, &#x27;if we  
 would educate but one class of our children,  
@@ -2739,7 +2835,7 @@ come fully enlightened, when motiiers are not
 in a good degree qualified to discharge the du­  
 ties of the bom work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_archie_ver01%2Fdata%2Fsn83045160%2F00200290070%2F1859081401%2F0151.jp2/pct:24.198167,44.726027,8.834479,3.116438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_archie_ver01%2Fdata%2Fsn83045160%2F00200290070%2F1859081401%2F0151.jp2/pct:24.198167,40.901826,8.863116,6.940639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2872,9 +2968,10 @@ the girls, for when they become mothers, they
 educate their sons.” This is the point, and it is  
 true. No nation can become fully enlightened,  
   
-celebrated in physics for the invention of the! when mothers are not in a good degree quali
+celebrated in physics for the invention of the! when mothers are not in a good degree quali-  
+thermometer, held it as a principle that a healthy | fied to discharge the duties of the hom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1859-09-24_16_28&#0036;13/pct:16.757812,16.721082,75.273438,22.294776/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1859-09-24_16_28&#0036;13/pct:16.757812,16.721082,75.273438,23.577425/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2938,7 +3035,6 @@ home work of education
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-taw Indians, I held uconsulta&#x27;i n v i.&quot;e  
 of their chiefs respecting the arts oi i iv­  
 iliz&quot;d life; and, among other tilings, ho  
 informed me that at their s art they n .1  
@@ -2954,9 +3050,11 @@ one class of our children, we should choose
 the girls,* for when they become mothers  
 they educate their sons.” This is tho  
 point, and it is true. No nation ran l e­  
-eoni ■ fully enlightened w ;i mothers ar
+eoni ■ fully enlightened w ;i mothers aro  
+not in a good degree qua!! d to discharge  
+the duties of the home w&lt; of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_charmander_ver01%2Fdata%2Fsn82014282%2F0041421244A%2F1860030701%2F0015.jp2/pct:83.867778,45.761089,10.979658,7.757153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_charmander_ver01%2Fdata%2Fsn82014282%2F0041421244A%2F1860030701%2F0015.jp2/pct:83.867778,46.229125,11.007911,8.129454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2975,7 +3073,7 @@ I held a consultation with one of their prin-
 ciI)al &quot;H&quot;&#x27;.,!&quot; re?ard t0 ,the ProSs in the  
 arts ofcivihzed life ; and among other thmgs  
 he informed me lhat nl lhe starftt they feU  
-- to a gre
+- to a great mistake they only scnt boys t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296230%2F1860033001%2F0264.jp2/pct:68.069414,86.118777,13.058568,2.954104/!600,600/0/default.jpg"/>
 </td>
@@ -2990,8 +3088,6 @@ he informed me lhat nl lhe starftt they feU
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-: lhe c,lilllren alt iike lhe;r m?lhers. The  
-father soon lost all interest in wife and chil  
 ers lhcv eduCate their sons.&quot;  
 I This is the point, and it is true. No na­  
 tion can become fully enlightentd when the  
@@ -2999,7 +3095,7 @@ mothers are not in a goqd degree qualified to
 discharge the duties of the home work. of  
 j educatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296230%2F1860033001%2F0264.jp2/pct:68.488792,90.565266,12.783803,5.417561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296230%2F1860033001%2F0264.jp2/pct:68.546638,92.987836,12.725958,2.994991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3021,7 +3117,16 @@ j educatio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-before we write too much about it.  
+s. Burt&#x27;s ad­  
+vertisement in another column. Mr. Burt has  
+adopted the Cash System exclusively, and is sel­  
+ling for small profits. This is a good arrange­  
+ment and would be of great advantage if it were  
+practiced by all of our business men. We shall  
+have something to say on the cash system soon.  
+In the meantime, let all who owe ns call and  
+settle up, so as to enable us to practice the cash  
+system before we write too much about it.  
 The Mother Moulds the Man.  
 That it is the mother who moulds the man,  
 is a sentiment beautifully illustrated by the  
@@ -3048,13 +3153,13 @@ thers are not, in a good degree, qualified to
 discharge the duties of the home-work of  
 education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340597%2F1860051201%2F0286.jp2/pct:4.835050,77.741761,12.624367,17.088736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340597%2F1860051201%2F0286.jp2/pct:4.835050,72.879525,12.711643,21.950972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _National Principia 1858-1866_](https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31?page=7)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31?page=7)
 
 #### 1860-06-16
 
@@ -3137,7 +3242,6 @@ tion
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-aries first fell into the mistake of teach­  
 ing the boys only. They became intelli­  
 gent men, but married uneducated and  
 uncivilized wives. The result was, that  
@@ -3149,7 +3253,7 @@ choose the girls, for when they become
 mothers, thev educate their sous.  
 This is the true principle of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F0041566350A%2F1860072701%2F0304.jp2/pct:69.743082,40.237741,14.087179,6.594819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F0041566350A%2F1860072701%2F0304.jp2/pct:69.743082,40.786822,14.087179,6.045737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3431,7 +3535,7 @@ enlightened when mothers are no
 
 ---
 
-## [From _Twice a Week. An Illustrated London Journal of Entertaining Literature and Useful Information 1862_](https://iiif.archivelab.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31?page=7)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31?page=7)
 
 #### 1862-08-20
 
@@ -3533,10 +3637,6 @@ true. No nation can become full
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-When I lived among tho Choctaw Indians,  
-  
-says one, I had a consultation with nnanf il.a  
-  
 chiefs respecting tho successive atages of their  
 progress in the arta of civilized lira; and am.  
   
@@ -3557,7 +3657,7 @@ mothers they educate their sons.&quot; ThU is the
 point, ana u is true. - cio nation can becomo  
 fully enlightened when mothers aro not in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668168%2F1863051201%2F0164.jp2/pct:55.934226,74.277001,12.412147,9.001998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668168%2F1863051201%2F0164.jp2/pct:55.934226,75.328636,12.412147,7.950363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3653,6 +3753,7 @@ homework of education
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+l--&quot;When I lived among&#x27; the Chbotaw  
 Indians,&quot; says a traveller, &quot;I: lheld a  
 consultation with one of their chiefs  
 respecting the successive :stnages of  
@@ -3672,7 +3773,7 @@ class ofour&#x27;ochildron, &#x27;we should hdoseo
 the girls, for &#x27;Wibnj they&#x27; bi&#x27;oomo;  
 imothims; they educate thelthasons&#x27;  
 .&quot;li&#x27;his is&quot;&#x27;tho&#x27; point, and it is  
-tr
+triie:: Nb nation can beooome fully ei
 </td></tr></table>
 
 ---
@@ -3873,9 +3974,9 @@ educate but one class of our children, we I
 should oil ousts the girls, foe whan (Key be­  
 com* mother* they educate their aooa,— i  
 This is the point, and it is tru*. No na- j  
-l
+lion can become fully enlightened whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn89060120%2F00415623628%2F1865011901%2F0006.jp2/pct:60.831837,63.484848,13.689408,12.954545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn89060120%2F00415623628%2F1865011901%2F0006.jp2/pct:60.831837,63.484848,13.689408,13.041126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3965,9 +4066,7 @@ it is true No nation can become fully
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ated as true.  
-DON&#x27;T FORGET YOUR GIRLS.—When I lived among  
-the Chocktaw Indians, (say a a traveler,) I held aeon  
+  
 saltation with one of their chiefs respecting the sta­  
 ges of their progress in the arts of civilized life,  
 and among other things he informed me that at their  
@@ -3983,7 +4082,7 @@ they become mothers, they educate their sons. This
 is the point, and it is true. No nation can become  
 fully enlightened when mothers are not qualified t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1865021001%2F0450.jp2/pct:7.816712,66.177252,14.708525,9.477199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1865021001%2F0450.jp2/pct:7.816712,67.967979,14.708525,7.686471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4042,11 +4141,7 @@ intelligent men. but they married
 uneducated and uncivilized wives; and  
 the uniform result was, the children  
 were all like their rno^her^ The father  
-soon lost all his interest &#x27;_ri&amp; In wife  
-and children. And now, s^d ue. if we  
-would educate but one class c^ our  
-children, we should choose the tir!3(  
-far wh^n they become
+soon lost all his interest &#x27;_ri&amp; In wif
 </td></tr></table>
 
 ---
@@ -4156,11 +4251,9 @@ girls ; for when they become mothers
 they educate their sons.” This is the  
 point, and it is true. No nation can be­  
 come fully enlightened when the mot hers  
-are not qualified to discharge the duties  
-of home education.  
-Tin-: Pi?avers or Joux Knox.—Dur
+are not qualified to discharge the dutie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_naomi_ver01%2Fdata%2Fsn85033019%2F00271769118%2F1865082401%2F0382.jp2/pct:64.869387,58.011893,14.383636,15.280456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_naomi_ver01%2Fdata%2Fsn85033019%2F00271769118%2F1865082401%2F0382.jp2/pct:64.869387,58.011893,14.383636,13.436194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4217,9 +4310,17 @@ phosed, and no one unaccustomed to such&gt;men, but they married uneducated and 
 nd the uniform result was,  
   
 changes would have recognized in the tidy (civilized wives; a  
-like their mothers, Th
+like their mothers, The  
+  
+school children repeating so gravely, for the?the childron were  
+first time, the children’s text—‘ Suffer little S father soon lost all his interest both in wife and  
+  
+children to come unto me,” the shivering, @ children. ‘And now,” says he, “if we would  
+  
+half naked children who, a few weeks before, ¢ educate but one class of our children, we should  
+for when they become mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1865-09_26&#0036;33/pct:25.822368,64.563365,68.174342,12.326944/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1865-09_26&#0036;33/pct:25.740132,64.563365,68.256579,17.651757/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4277,15 +4378,20 @@ class of our children, we would choose
 tho girls, lor when thev become  
 mothers, thev educate their isons.  
 This is the point, ami it is true. No  
-nation can become luily enlightene
+nation can become luily enlightened  
+when mothers are not qualified to  
+discharge the duties of the home work  
+education. Parents, give your  
+daughters, as well as your sons, the  
+best education in yonr power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F0023728687A%2F1865092001%2F0026.jp2/pct:27.338129,86.733716,10.713169,6.752874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F0023728687A%2F1865092001%2F0026.jp2/pct:27.291211,86.733716,10.760088,9.255268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _American Freedmen's Bulletin 1864-1866_](https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2?page=26)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2?page=26)
 
 #### 1866-01-01
 

@@ -31,7 +31,17 @@ PRINTERS PROVERBS
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hey had committed, from  
+rk, and demanded his  
+funds in specie. It cannot be had was the  
+prompt reply. &quot;It must bo had&quot; was the  
+laconic response of Mr. Randolph. The  
+The bank was incorrigible till the succeed­  
+ing day, when the columns of the New  
+York Columbian announced by advertise­  
+ment, that that afternoon at 2 o&#x27;clock the  
+Hon. Johri Randolph of Roanoke, would  
+address tho people on the subject of banks  
+and the frauds they had committed, from  
 the steps of the bank of America! It is  
 scarcely necessary to say that before tho  
 hour arrived every farthing demanded by  
@@ -258,7 +268,20 @@ well with thee and thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- least  
+o maintain an hon-  
+  
+bis sole dependence was on bis pay  
+&quot;&quot;Maker, be must avoid all extra expenses, in  
+feasts are likewise included.  
+8ettionately reached bim my hand, and invi­  
+aua to be roy guest.  
+l! i?!1 ,ike lo&#x27;feast upon others expense, replied  
+7JlrT-Ttt.od partK-krfy t the expense  
+ry.InBO- I hope you will not consider mv  
+  
+&#x27;u from a. motive of pride my poverty is  
+  
+lucrciore aocs ii not tnrow the least  
   
 firm as a rock, but his anUgouist was not less per-  
   
@@ -277,7 +300,7 @@ o WKon thou tlnat write for his paper never i , hepi,y to mk. biddle
   
 say unto him, whatthinkest thou of my piece I j We hav acconiplisbed an arduous task of read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837100701%2F0643.jp2/pct:14.059280,68.962888,62.688223,28.126589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058213%2F00271744730%2F1837100701%2F0643.jp2/pct:1.030274,68.962888,75.717229,28.126589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +501,7 @@ thy lit&#x27; lo onus, llrornsrillc Banner
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.. :  
+  
 Vkister&#x27;s J&#x27;coyERr.s. Never inquire thou l  
 Uie editor (or the. news, tor behold it is hjs duty lit  
 Uio appointed time to give it unto thee wolhotit  
@@ -515,7 +538,7 @@ t . i- .....&quot;..-. . t. . , . . . . . 1 .
 subscribe immediately for it, and pay hi advance, uud 1  
 it&quot;shall be welf with thee and thy littte ooes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1838010601%2F0095.jp2/pct:33.155503,66.475801,15.649081,12.024540/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1838010601%2F0095.jp2/pct:33.155503,66.966599,15.649081,11.533742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,9 +589,12 @@ not touch, the typo ; tor thou mayett causa
 mo printer much trouble.  
 Look ihou not at the copy which is in th  
 hands of tho compositors ; for it is not moot  
-in tho sight of th
+in tho sight of the printer. &#x27; v &#x27;  
+Neither examine thou the proof-sheet ;  
+for it is not roadv to meet thino eye, ihlt  
+thou may est understand it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn83016620%2F00202197991%2F1838052301%2F0410.jp2/pct:83.117057,67.628866,12.173913,10.051546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn83016620%2F00202197991%2F1838052301%2F0410.jp2/pct:83.117057,67.628866,12.173913,11.659794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +606,8 @@ in tho sight of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rs PltO YEIIBS.  
+  
+PKINTEirs PltO YEIIBS.  
 lst. Never inquiro thou of tho Editor for the  
 news, for behold it is his diny at the appomicd  
 timc to ;;ive it unlo theo without aking.  
@@ -596,9 +623,13 @@ touolrthoypo for thou uia&#x27;st cause the Innter
 much trouble.  
 5th. f.ook thou not nt the cnpy which is in  
 the banils of tho Compositors ; for that is not  
-uiciit i
+uiciit in tho f-ijjlii of tho Printcr.  
+(rh. Neither i.&#x27;xnmine tliou tho proof sheer,  
+for it is not rendy to mect thine eye, that thou  
+may&#x27;st undorstnnil it.  
+7th. Prefor ihj&#x27; County Paper to nny other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296187%2F1838061201%2F0183.jp2/pct:58.303555,44.565064,17.397028,10.009869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_londonderry_ver01%2Fdata%2Fsn84023252%2F00200296187%2F1838061201%2F0183.jp2/pct:58.303555,44.565064,17.397028,12.448893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1010,9 +1041,16 @@ When thou dost enter a Printing office
 have a care upon thyself, that thou dost not  
 touch the type; for thou mayest cause the  
 printer much trouble.  
-And when thou goest out, tee to it tha
+And when thou goest out, tee to it that  
+thou leavest the door not open; else the  
+wind entereth and scaltereili the pupers  
+ana tnou becomes i an a Domination, tven as  
+  
+The following ore the Yei nd on  
+  
+the passage-of the bill to repea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn83016957%2F0020029242A%2F1842021201%2F0400.jp2/pct:65.853179,87.004104,14.524700,5.289558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn83016957%2F0020029242A%2F1842021201%2F0400.jp2/pct:65.853179,4.575163,28.931313,89.466484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1259,9 +1297,11 @@ Look not at the copy which is in the hands
 of the compositor ; for that is not meet in the  
 eyes of the printer.  
   
-Neither peep over the outside while it is be
+Neither peep over the outside while it is be-  
+ing struck off, or look over the shoulders of  
+the editor while he is reading proof,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1844-04-19_25_16&#0036;3/pct:40.713802,14.576547,12.077131,8.740499/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1844-04-19_25_16&#0036;3/pct:40.713802,14.576547,12.127876,9.880565/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1307,9 +1347,11 @@ Look not at the copy which is in the hands of
 the compositor ; for that is not meet in the eyes  
 of the printer.  
   
-Neither peep over the outside while it is bein
+Neither peep over the outside while it is being  
+struck off, or look over the shoulders of the editor  
+while he is reading proof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7&#0036;3/pct:55.245283,26.448066,15.723270,3.730611/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7&#0036;3/pct:55.194969,26.448066,15.773585,4.938150/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1337,7 +1379,7 @@ dost not touch the type, toi thou mayest
 cause the pi inter much trouble.  
 Look not at the copy which is in tha  
 hands of the compositor, for that is not  
-meet in tne aig
+meet in tne aigiu 01 me prime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_kingsombra_ver01%2Fdata%2Fsn83016863%2F00415662051%2F1844042701%2F0284.jp2/pct:77.271807,73.226612,14.693382,10.104274/!600,600/0/default.jpg"/>
 </td>
@@ -1410,9 +1452,11 @@ Look cot at the copy which U in the
   
 nanus 01 the compositor, for that is not meet  
 in the sight of the pt inter.  
-Neither peep over the outside while it i
+Neither peep over the outside while it in  
+being struck ofT or look over the shoulders  
+0: the editor while he is reading proof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn87090028%2F00295877959%2F1844052501%2F0390.jp2/pct:4.068430,65.790068,15.439908,9.334086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_goldenharvest_ver01%2Fdata%2Fsn87090028%2F00295877959%2F1844052501%2F0390.jp2/pct:3.982174,65.790068,15.526164,10.722348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1457,6 +1501,9 @@ Neither peep over the outside while it i
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A asm a r.r an. — &#x27;Never inquire thou of  
+the printer for the news ; for behold it  
+is nis auty at liio appointeu time to  
 give it unto thce without asking. It is  
 not fit that thou shoulflst ask of him  
 who is the author of an article, for his  
@@ -1574,6 +1621,8 @@ ones.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+thou of the printer for tho news ; foi  
+behold it is his duty at tho ap-pointed  
 time to give it unto theo without  
 asking. It is not fit that thou shouldst  
 ask of him who is tho author of an  
@@ -1599,12 +1648,7 @@ typos for thou majst causo the printer
 much trouble. Look not at tho copy which  
 is in the hands of the composi-tor, for  
 it is nqt meet in the sight of the  
-printer. Neither peep ovtr the outside  
-while it is being struck off, nor look  
-over the shoulders of the editor while  
-ho is reading a proof. Prefer the town  
-paper to any other-subscribo immediately  
-ib
+printer. Neither peep ovtr the outsid
 </td></tr></table>
 
 ---
@@ -1937,9 +1981,15 @@ sight of the printer.
   
 3. Neither examine the proof-sheet; for it  
 is not ready to meet thine eye, that thou may- |  
-est read it clearly.
+est read it clearly.  
+  
+4. When thou proposest to write for a pa-  
+per, never send beforehand to the editor to in- |  
+quire whether he will admit thy article; for |  
+thou dost not inquire wisely concerning this,  
+He will let thee know -when he has first rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50&#0036;3/pct:9.149146,47.072193,12.302891,5.481283/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50&#0036;3/pct:9.149146,47.072193,12.302891,8.221925/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1962,9 +2012,21 @@ piece?” for the truth might offend thee. |
 who is the author of any article; for bis duty |  
 often requires him to keep such things to him-  
 self.  
-7. Never say to the publisher that thou wilt 
+7. Never say to the publisher that thou wilt |  
+take his paper, if be will send it to thee on con-  
+ditions differing from his published terms, lest  
+he be tempted to do an unwise thing, or to  
+think less highly of thee. j  
+8. It is not wise for thee to say, “Stop my  
+  
+|  
+  
+paper ;” because of something which does not  
+quite please thee, for this is not a rule by which |  
+thou thyself wouldst wish to be treated, and it |  
+shows thee to be a person of violent and hasty 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50&#0036;3/pct:9.067017,55.494652,12.385020,4.893048/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50&#0036;3/pct:9.034166,55.494652,12.417871,10.080214/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1986,9 +2048,19 @@ it may be that the truth might often t thee.
 III It i. no&#x27; lit th it th u t‘&gt;oul tst asc fiom ‘ m  
 who is the author ol any artirle, lor hisduty require*  
 him to keep such things to brinseil.  
-IV Wuen thou do-t enter in:&lt;&gt; a pi
+IV Wuen thou do-t enter in:&lt;&gt; a piiirjjg office,  
+have a csre unto thyself, that thou d.wt nor touch a  
+t . su»e • l;W Ikm, mat a! a- ■ US t’.n r,s . ’.. »T~ .&lt; K I. m:V.  
+  
+V. Look not t&#x27;xiu a, the ropy which is in the  
+band? of compositors, torfha’ i« . rt in itw sig-b! ol  
+the printer.  
+VI. .Neither exinnw thou the proof-sheet; for i&#x27;  
+is not ready to ox-et the rye. that thru mayst un­  
+der-raml it.  
+VII. Prefer thy own city newspaper to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_devo_ver01%2Fdata%2Fsn82007022%2F00393342894%2F1847121301%2F0225.jp2/pct:28.392889,29.582256,13.417532,4.602667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_devo_ver01%2Fdata%2Fsn82007022%2F00393342894%2F1847121301%2F0225.jp2/pct:28.375286,29.582256,13.435135,9.147503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2000,6 +2072,14 @@ IV Wuen thou do-t enter in:&lt;&gt; a pi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+might offend thee. coldeal and d.rke.t hour of fate, ..ill twine  
+2 II i not fit thai thou ahould.l ask ofi its tanditls around the crumbling altars and  
+him who ia the author nf any article, for broken arcbra of the desolate lemp&#x27;.ee of  
+  
+hia dutu rrouires htm to keep such things tbo huinau h.ail I  
+  
+j i -  
   
 to hiinaelf.  
   
@@ -2022,7 +2102,7 @@ to any other; end subscribe immediately
 for it, and pay in advance, end it ahall be  
 well with Ibce end thy little onei. Ex. pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_chestnut_ver01%2Fdata%2Fsn84020716%2F00415667711%2F1848051001%2F0070.jp2/pct:32.745866,83.743701,14.708442,8.552916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_chestnut_ver01%2Fdata%2Fsn84020716%2F00415667711%2F1848051001%2F0070.jp2/pct:32.702350,81.223902,29.590949,11.072714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2218,9 +2298,13 @@ to him, -what third-.-. • * thou uf my piece.&#x27;’ for it
 may be that the tr uth \ id ofionu thee. It is not  
 fit tie;? that 1:.! U ‘hold i-T f;. i, him who is the E&#x27;.&#x27;-  
 thor of ,;n ad ’ for h! d&quot;ty require., him to k; ■ p  
-such things to hint elf. When thou dost ente
+such things to hint elf. When thou dost enter in­  
+to his office, have a cure unto thy .-.elf that thou do t  
+not look at w hut m - v be Iv ir g open, for it is not  
+meet in the oi 1 breeding. Neither cs­  
+• amine thou the proof beet?, tor it Is not ie dy t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086768%2F00271769751%2F1849042701%2F0111.jp2/pct:77.274102,72.346426,13.819628,4.349008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086768%2F00271769751%2F1849042701%2F0111.jp2/pct:77.170390,72.346426,13.949268,6.309459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2343,9 +2427,12 @@ It is not fit that thou shouldst ask him who is the author of an article,
 for his duty requires hint to keep such things to himself.  
   
 When thou dost enter into his office, have a care unto thyselfthat thou  
-dost not look at what gay be lying open, for that is not meet in the sigh
+dost not look at what gay be lying open, for that is not meet in the sight  
+of good breeding.  
+  
+Neither examine thou the proof sheet, for it is not yet ready to mee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25&#0036;4/pct:68.699597,85.211268,27.032930,4.412412/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25&#0036;4/pct:68.699597,85.211268,27.032930,5.424736/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2461,9 +2548,21 @@ It is not fit that thou shouldst a&gt;k him
 who is the author of an articlc, for his  
 elutv requires to ke-ep such things to liiiu­  
 self.  
-Wlien thou doest enter into his o
+Wlien thou doest enter into his office  
+take heed unto thyself that thou doest  
+not look at what may be lying open: for  
+that is not meet in the sight of good breed­  
+ing. Neither examine ihou the proof  
+sheet, for it is not ready to meet thine  
+eye, that thou mayest understand it.  
+  
+THE BOSTOW POST OW BEHM.il.  
+The venerable Bennett, of the New  
+York Hrroltl. appears to be fearfully ex­  
+ercised in mind ?t this time, partly in  
+eonsequenoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045461%2F00280654024%2F1853102801%2F0404.jp2/pct:64.468157,85.201461,16.110738,7.778792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045461%2F00280654024%2F1853102801%2F0404.jp2/pct:64.468157,9.085721,31.965216,87.581326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2488,9 +2587,16 @@ is the author of an article, for his duty requires
 to keep such things to himself.  
 When thou does enter into his office taku  
 heed unto thyself that thou does not look at  
-what may be lying open; for that is not mee
+what may be lying open; for that is not meet  
+in the sight of good breeding® Neither exa­  
+mine thou the proof sheet, for it is not readv  
+to meet thine eye, that thou mayest understand  
+it.  
+  
+ICrThis paragraph from the German, most  
+happilty hits the attributes of wife, mistres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853111201%2F0398.jp2/pct:79.963768,48.942006,14.275362,6.831243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853111201%2F0398.jp2/pct:79.873188,48.942006,14.365942,10.749739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2592,9 +2698,10 @@ quires hi in lo keep such things to himself.
 Wheil thou dost enter into hia office, lake  
 heed unto hy self thai thou dost not look al  
 what in-iy be lying open;, for that is not meet  
-in the sight of 
+in the sight of good breeding. Neilhet tx  
+amine thou the prouf :-luet, for it is not read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn84028570%2F00280774790%2F1856022801%2F0363.jp2/pct:49.226964,77.372475,13.481756,7.484377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn84028570%2F00280774790%2F1856022801%2F0363.jp2/pct:49.226964,77.372475,13.481756,7.920360/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2617,9 +2724,18 @@ never say u i o I im &#x27;wt t thinker thou
 ofmypiec ?&#x27; fori&#x27;, may Le th.t tc  
 truth would ff ndtluje.  
 It is not fit that thou svouldst ask  
-him who is the au hor 
+him who is the au hor of an article, for  
+his duty requhes him to keep suck  
+things to himself.  
+When thou do?t enter his office, take  
+heed unto thyself that thou dost not  
+look at what may be ling open; for  
+that is not raett in the sight of good  
+breedii-g. Neither examine thou the  
+proof sheet&#x27; for it is not ready t meet  
+thine eye, that thou mayest understan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065523%2F00295878174%2F1856032901%2F0462.jp2/pct:62.485227,53.698342,14.857336,8.041590/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065523%2F00295878174%2F1856032901%2F0462.jp2/pct:62.485227,53.698342,14.857336,15.569887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2910,9 +3026,18 @@ thou dost not touch the types; for thou
 mayest cause the printer much trouble.  
 5. Look thou not at the copy which is  
 in the hands of the compositors; for that  
-is not meet in the sight of the printer
+is not meet in the sight of the printer,  
+and he might knock thee down.  
+6. Neither examine the proof-sheet  
+for it is not ready to meet thine eye, that  
+thou mayest understand it.  
+7, Prefer jour own county paper, the  
+&quot;Home Journal,&quot; to all other journals;  
+subscribe immediately, and pay for it in  
+advance, and it shall be well with ibee  
+and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1857080101%2F0311.jp2/pct:16.847826,37.970027,14.975845,15.517711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1857080101%2F0311.jp2/pct:16.847826,37.970027,14.975845,22.152589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2984,9 +3109,10 @@ for his duty requires him to keep such things to him­
 Zlt. When thou dost enter into his office, have a  
 caxe unto thyself that thou dost not look at what may  
 belrinz open, for that is not meet in thesight of good  
-bSr Neither examine thou
+bSr Neither examine thou the prootsheet, for  
+it iot ready to meet thine eye, that thou mayes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474216%2F1857091701%2F0047.jp2/pct:14.904933,89.332904,13.003590,5.403373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474216%2F1857091701%2F0047.jp2/pct:14.891637,89.332904,13.016886,5.833065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3019,9 +3145,15 @@ thou dost not touch the type; fay thou
 msyett cause the Dsril much trouble.  
 5. Look thou not at the copy which is  
 in the hands of the compos1 ton; for thafr  
-is not meet in the sight of the Devil an
+is not meet in the sight of the Devil and  
+4; f . t a * t- if - * -  
+  
+ne mignt kqook iue aown.  
+6. Neither examine the prno&amp;heet, for it  
+is not ready to meet thine eyet that thou  
+may est noderUencMt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85026945%2F00202194278%2F1857091701%2F0669.jp2/pct:82.359598,74.423877,16.890649,12.882843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85026945%2F00202194278%2F1857091701%2F0669.jp2/pct:82.213420,74.423877,17.036827,15.324859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3034,7 +3166,6 @@ is not meet in the sight of the Devil an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Printers&#x27; ProTerba.  
   
 1. Never inquire thou for the news  
 fof behold, it is his duty at the appoin­  
@@ -3045,7 +3176,7 @@ per, never say unto him, &quot;Whatthink­
 eat thou of my piece V for it may be  
 that the truth would offend thee.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gastly_ver01%2Fdata%2Fsn82014134%2F00279529261%2F1857101701%2F0155.jp2/pct:4.927413,83.061939,9.646758,4.542480/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gastly_ver01%2Fdata%2Fsn82014134%2F00279529261%2F1857101701%2F0155.jp2/pct:4.927413,83.573931,9.646758,4.030489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3076,9 +3207,13 @@ not touch the type for thou mayest cause the
 printer much trouble.  
 5. Look thou not at the copy which is in  
 the hands of the compositors for that is  
-not meet in the sight of the printer, and h
+not meet in the sight of the printer, and he  
+might knock thee dowu.  
+6. Never examine the proof-sheet, for it  
+is not ready to meet thine eye, that thou  
+mayest understand i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86060019%2F00415668892%2F1857102801%2F0069.jp2/pct:29.205029,68.731073,11.147411,7.736908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn86060019%2F00415668892%2F1857102801%2F0069.jp2/pct:29.165429,68.731073,11.187011,9.398774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3091,7 +3226,6 @@ not meet in the sight of the printer, and h
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-PRINTERS&quot; PROVERBS.  
 1. Never inquire thou for the news  
 for behold, it is his duty at the appoint­  
 ed time to give unto thee without ask­  
@@ -3112,9 +3246,12 @@ mayest cause the printer much trouble.
 5. Look thou not at the copy which  
 is in the hands of tho compositors for  
 that is not meet in the sight of the prin­  
-ter, and he might knock thee down
+ter, and he might knock thee down.  
+6. Never examine tho proof-sheet,  
+for it is not ready to meet thine eye,  
+that thou mayest understand it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027238%2F0027952942A%2F1857110401%2F0236.jp2/pct:84.128413,39.381693,11.375423,11.887923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027238%2F0027952942A%2F1857110401%2F0236.jp2/pct:84.128413,40.334748,11.375423,12.507577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3420,9 +3557,14 @@ does not touch the type or the press, for
 thou mayest cause the printer much trouble.  
 &#x27; 6. Look thou not at copy which is in the  
 bands or the compositors, for that - is not  
-meet iu the sight of the printer, and he migh
+meet iu the sight of the printer, and he might  
+knock thee down.  
+  
+6. Never examine the proof sheets, for  
+1 is not readj to meet thine eye, that thou  
+naysfc understand it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862695%2F1858061001%2F0021.jp2/pct:83.631702,77.755109,14.377622,13.811976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862695%2F1858061001%2F0021.jp2/pct:83.631702,77.755109,14.377622,16.082127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3497,9 +3639,13 @@ not touch - the type or the pres3, for thou
 mayest cause the the printer much trouble.  
 5. Look thou not at copy which is in the  
 hands of the compositors, for that is not  
-meet iu the sight of the printer, and h
+meet iu the sight of the printer, and he  
+might knock thee down.  
+6. Never examine the proof sheets, for  
+it is not ready to meet thine eye, that thou  
+mayest understand it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn85030219%2F00212472803%2F1858062601%2F0204.jp2/pct:47.245536,80.826776,14.802381,12.235398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_anthony_ver01%2Fdata%2Fsn85030219%2F00212472803%2F1858062601%2F0204.jp2/pct:47.230276,80.826776,14.817641,14.396542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3529,9 +3675,18 @@ himself.
 4. When thou dost enier ih!o a print­  
 ing office, thou shouldest avoid loud talk­  
 ing, and have a care unto thyself that  
-thou dost not touch the type or tho press
+thou dost not touch the type or tho press,  
+for thou raayest cause the printer mueh  
+trouble.  
+5. Look thou not at copy which is in  
+the hands of tho compositors, for teat is  
+not meto in tho sight of tho printer, and  
+he might knock theo down.  
+G. Never examine the proof sheet, for  
+it is not ready to meet thine eye, that thou  
+raayest understand it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F00200294531%2F1858070101%2F0337.jp2/pct:70.651531,61.706294,12.380277,11.132867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056247%2F00200294531%2F1858070101%2F0337.jp2/pct:70.651531,61.706294,12.380277,16.121212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3572,7 +3727,7 @@ and thy little ones. THE PATRIOTI
 
 ---
 
-## [From _Theatrical Journal 1839-1871_](https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974?page=6)
+## [From _None_](https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974?page=6)
 
 #### 1858-08-11
 
@@ -3621,7 +3776,15 @@ it may bo that tbo truth »ill offend
 thee. It is not fit that thou shouldest  
 ask him who is the author of an article,  
 for his duty require:, bim to keep such  
-things to lnmself. When thou dost
+things to lnmself. When thou dost enter  
+into hil office havo caro unto thyself  
+that thou dost not look at what may be h  
+ing upon, .r for that ii not meet in the  
+sight of good* breeding. .4 Neither  
+examine thou the proof sheet, for it is  
+not Í ready to meet thine eye, thnt thou  
+mayst undei ttanil it. Prefer the paper  
+of thy town to aay other, and subscrib
 </td></tr></table>
 
 ---
@@ -3643,9 +3806,10 @@ the truth will offend thee. It is not fit that thou
 for his dutv requires him to keep such things to  
 himself. When thou dost enter into his office, have  
 j carc to thyself that thou dost not look at what may  
-be lying open, for that is not meet in the sight o
+be lying open, for that is not meet in the sight of  
+good breeding. Neither examine thou the proo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83009573%2F00296026335%2F1858082101%2F0184.jp2/pct:43.270114,91.686924,13.092343,3.948435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83009573%2F00296026335%2F1858082101%2F0184.jp2/pct:43.270114,91.686924,13.092343,4.279926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3668,9 +3832,11 @@ that thou shouldst ask him who is the author of an article, for his duty | tore 
   
 requires him to keep such things to himself. When thou dost enter into l  
 his office, have care to thyself that thou dost not look at what may be ly- |  
-ing open, for that is not meet in the sight of good breeding. Neither ex
+ing open, for that is not meet in the sight of good breeding. Neither ex-  
+  
+amine thou the proof sheet, for it isnot ready to meet thine eye, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28&#0036;9/pct:15.945406,74.864499,37.300266,4.076332/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28&#0036;9/pct:15.945406,74.864499,37.300266,4.652213/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3697,9 +3863,21 @@ on fr&amp;hjeett of puhlio esocernment, for
 duty requites bim to keep such thing un­  
 to himself.  
 4. When thou dost enter into tbe  
-printing office, thou shouldst avoid lou
+printing office, thou shouldst avoid loud  
+talking. And have a care unto thyself that  
+thdu dost riot touch the type or the press  
+for thou mayest &#x27;cause the ptioter mueb  
+trouDle.  
+  
+6i Never examine tbe proof absets, for  
+it is not ready to meet I bine eye, lltat tbou  
+may eft understand it. . . .  
+9. Look thou not it copy which is in  
+the bands of tbe compositor, for that is  
+not meet in the sight ol the printer, and  
+be might knot tbee down. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1858090201%2F0828.jp2/pct:69.467584,25.096366,12.296269,8.177313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1858090201%2F0828.jp2/pct:69.467584,25.096366,12.332488,14.151982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3727,9 +3905,14 @@ to keep such things to himself. When
 thou dost enter into his office, have eare  
 to thyself that thou dost not look at  
 wlmt mav be lvinir open, for that is not  
-meet in the sight of good breeding
+meet in the sight of good breeding.  
+Neither examine thou the proof sheet  
+for it is not ready to meet thine eye, that  
+thou mayest understand it-  
+  
+Sr- The primary elections of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85026031%2F00280774807%2F1858090901%2F0385.jp2/pct:17.309218,8.543794,11.534190,9.027405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85026031%2F00280774807%2F1858090901%2F0385.jp2/pct:17.229891,8.543794,11.613517,11.700699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3742,6 +3925,7 @@ meet in the sight of good breeding
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+they will read and profit thereby:  
   
 1. Never inquire thou of the Editor for  
   
@@ -3782,7 +3966,7 @@ mayest understand it.
 the hands of the compositor, for thai is  
 not meet in the sight of the printer, aud h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85038183%2F00296027546%2F1858113001%2F0358.jp2/pct:4.993065,81.255845,11.958699,14.094856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85038183%2F00296027546%2F1858113001%2F0358.jp2/pct:4.993065,80.774883,11.958699,14.575818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3809,9 +3993,14 @@ tr his duty requires him to keep such
 thing&#x27;s to himself.  
 When thou dost enter into his office,  
 hive care to thyself that thou tlost not  
-look at what may belying open, for i
+look at what may belying open, for it  
+is not mete in the eyes of good breed­  
+ing.Neither examine the proof sheet, for  
+it is not ready to meet thine eye, until  
+  
+thou mayest understand it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn86058541%2F00202191472%2F1859022401%2F0257.jp2/pct:16.837402,28.607897,11.061465,8.585773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn86058541%2F00202191472%2F1859022401%2F0257.jp2/pct:16.837402,28.607897,11.083261,11.172566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3823,7 +4012,28 @@ look at what may belying open, for i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ morning they look like starved  
+Arabs. The old man calls tbem  
+round him, nnd, wilh an air of gravi­  
+ty, asks;  
+&quot; Who&#x27;ll give a cent to have a nice  
+warm biscuit for brenkfust f&quot;  
+It is needless to say that the cents  
+wcro forthcoming. Good plan.  
+&quot;This world is all a fleeting show,&quot;  
+said a priest lo a culprit on the gal.  
+low. &quot; Ve.&quot; was the prompt reply,  
+.... :r 1M ...i...  
+f i- &quot; &quot; &#x27;&quot;  
+i ee lie bov a little longer !n  
   
+Number 529.  
+  
+PRINTER&#x27;S PROVERBS. .  
+Wo give tho following for the bene­  
+fit of thoso who are in Iho habit of  
+hanging around printing offices. Wo  
+hope they will read and profit there  
 by:  
 1. Never enquire thou of the Edi­  
 tor for the news, for behold it is his  
@@ -3839,9 +4049,20 @@ article upon public concernment, for&#x27;
 duty requires him to keep such things  
 unto himself.  
 1. When thou dost enter into tho  
-printing office, thou shouldst avoi
+printing office, thou shouldst avoid  
+loud talking und have care unto thy  
+self that thou dost not touch the typo  
+or the press for thou mayest cause tho  
+printer much trouble.  
+5. Never examine the proof sheet,  
+for it is not ready to meet thine eyes  
+that thou mnyest understand it.  
+(i. hook thou not at tho copy which  
+is in the hand of the compositor, for  
+that is not meet in tho sight of a prin­  
+ter, and ho might knock thee down
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00212470478%2F1859072801%2F0731.jp2/pct:79.888268,14.050999,12.444616,10.318086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00212470478%2F1859072801%2F0731.jp2/pct:66.461183,9.660883,26.025814,84.095689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3877,9 +4098,11 @@ it is not ready to meet thine eyes that thou
 mayest understand it.  
 6. Look thou not at the copy which is in  
 the hand of the compositor, for that is not  
-me
+meet in the sight of a printer, and he  
+might knock thee down.  
+Scraping the North with a Fine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051343%2F00414212578%2F1859091401%2F0351.jp2/pct:54.964985,66.509052,12.879332,12.716158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051343%2F00414212578%2F1859091401%2F0351.jp2/pct:54.964985,66.509052,12.879332,14.188733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4085,9 +4308,11 @@ printer more trouble than thou thinkest.
 Look then not at the copy which is in the  
 hands of the compositor, for tUot is not  
 meet io the eight tf the printer.  
-Pain People. There is a set of peopl
+Pain People. There is a set of people  
+whom we cannot bear the pinks of fash­  
+ionable propriety whose every word i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84024082%2F00212471616%2F1861041601%2F0064.jp2/pct:72.121604,68.397097,11.335705,9.189322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84024082%2F00212471616%2F1861041601%2F0064.jp2/pct:72.121604,68.397097,11.335705,10.050437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4114,9 +4339,14 @@ When thou dost enter a printing office,
 have a care upon thyself that thou dost not  
 tnnfh tliA trnfl ; Fur thou mavest causo me  
 - -j i , j  
-printer more trouble than thou thinkest
+printer more trouble than thou thinkest.  
+Look not at the copy that is in the hinds  
+of the emimositnr. for that is not&#x27;nicet in the  
+eight of the printer.  
+Sigs of Hank The relative rank of offi  
+cers in the regular army is designated in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477643%2F1861081401%2F0364.jp2/pct:8.540069,21.245296,14.178319,7.560725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477643%2F1861081401%2F0364.jp2/pct:8.540069,21.245296,14.193354,10.730984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4185,9 +4415,14 @@ hav u a caro unto thyself, that thou touch not the
 type, to. hou mayest cause the printer much troub­  
 le, and beside,it is pi-ous matter and suffers not the  
 touch of profane hands,   
-1, Look thou not at the copy which is in th
+1, Look thou not at the copy which is in the  
+ands of the compositor; for that is not meet in the  
+in of the printer end he might knock thee down.   
+5. Never examine the proof sheet, for it is not  
+ready to meet thine eye, that ibou mayest under­  
+stand it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151386%2F1862082101%2F0185.jp2/pct:84.509216,75.629471,10.791792,5.239628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151386%2F1862082101%2F0185.jp2/pct:84.509216,75.629471,10.791792,6.895565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4216,9 +4451,13 @@ thou do not touch the typo, for thou
 inayest cause the printer much trouble.  
 4. Look thou not at the copy which is  
 in the bands of the compositor; for that  
-is not meet in the sight of the printer, an
+is not meet in the sight of the printer, and  
+he might knock thee down.  
+5. Never examine the proof sheet, for it  
+is not ready to meet thine eye, that thou  
+mayest understand it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F0051415935A%2F1862082601%2F0465.jp2/pct:70.422062,58.985178,12.988010,9.250243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F0051415935A%2F1862082601%2F0465.jp2/pct:70.422062,58.985178,12.988010,11.601572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4249,9 +4488,13 @@ print much trouble.
 which is in tho  
 hands of the compositor for that is not  
 ineot  
-in the sight of tho priuter and ho migh
+in the sight of tho priuter and ho might  
+knock thee down.  
+5. Never examine tho proof sheet, for it la  
+not ready to meet thiue eye, that thou tnay­  
+est undurstand it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025161%2F00279529327%2F1862091201%2F0504.jp2/pct:84.203151,41.641840,12.902291,7.521424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025161%2F00279529327%2F1862091201%2F0504.jp2/pct:84.203151,41.641840,13.008602,9.485454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4273,9 +4516,30 @@ may be that tbe trutn would offend, thee.
   
 2. It is not fit that thou shouldat aik  
   
-him who is tbe author of an &quot;article npon sub
+him who is tbe author of an &quot;article npon sub  
+  
+jects of public concernment, for duty requires  
+  
+uiui io aenp rucn taings to nimseii.  
+  
+3. Wben thou dost enter tbe printing ofn  
+  
+ce, have a care unto thyself, that thou touch  
+  
+not tbe type, for thou mayest cause the prin  
+  
+ter mucu trouble, and beside, it is pt-ous mat  
+  
+ter and sutler not tbe touch of profane hand  
+  
+war, and not in tbe execution  
+  
+of any military duty, is &quot;in tbe executon of  
+his office;&quot; and whether having resorted to  
+  
+personal violence, be did not put himself on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668168%2F1862100701%2F0044.jp2/pct:69.253373,64.780467,12.421531,3.059834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668168%2F1862100701%2F0044.jp2/pct:69.159877,62.055957,25.363964,9.535785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4306,9 +4570,13 @@ and beside, it is pi ous matter and sutlers
 not the touch of profane hands.  
 4 Look thou not at the copy which  
 is in the hands of &quot;he compositor; for that  
-is not meet in the -iglil of the printer
+is not meet in the -iglil of the printer,  
+and he might knock thee down,  
+5. Never examine the proof sheet, for  
+it is not ready to meet thine eve, tint  
+thou mayest understand it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769301%2F1862101701%2F0639.jp2/pct:69.562347,62.695803,12.719298,10.522966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769301%2F1862101701%2F0639.jp2/pct:69.562347,62.695803,12.724014,12.694035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4403,9 +4671,17 @@ his duty requires him to keep such
 tilings to himself. .  
 When thou dost enter into his oilice,  
 take heed unto thyself that thou dost  
-not look at&#x27;wbat may bo lying open an
+not look at&#x27;wbat may bo lying open and  
+concerneih thoe uot, for that is not meet  
+in the sight of good breeding.  
+Neither examine thou tho prooi succt.  
+for it isnot ready to meet thine eye,  
+that thoumaveM not understand.  
+Prefer thine own town paper to any  
+other, and subscribe for it immedi­  
+ately. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn84024443%2F00200293861%2F1871080301%2F1231.jp2/pct:76.518139,56.858503,13.466088,5.553152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn84024443%2F00200293861%2F1871080301%2F1231.jp2/pct:76.518139,56.858503,13.466088,9.591807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4436,9 +4712,18 @@ unto himself.
 printing office, thou shouldst avoid loud  
 talking, and have a care unto thyself  
 that thou do not touch the type or the  
-press, for thou mayest cause the 
+press, for thou mayest cause the printer  
+niuchjtrouble.  
+5. Look thou not at a copy which is  
+in the hands of the compositors, for that  
+la notineef lnlhe,slgbt of. the printer,  
+and he might khock uiee uowu.  
+C. ever examine me prooi sueets, ior  
+l&quot; in ninnt flitim tl.nf  
+it IS not ready to meet tllltie ejO, tlWt  
+thou&#x27;mavest Utldeistanil It.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_lyonsport_ver02%2Fdata%2Fsn84022673%2F00200298433%2F1872051701%2F0128.jp2/pct:19.074532,75.274725,12.045214,8.362369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_lyonsport_ver02%2Fdata%2Fsn84022673%2F00200298433%2F1872051701%2F0128.jp2/pct:19.074532,75.274725,12.045214,11.846690/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4476,6 +4761,8 @@ not look at what may be lying open an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+efit of &quot;parties intererested&quot; the follow  
+ing is inserted:  
 I. When thou dost write for this pa  
 per, never say unto the editor thereof,  
 &quot;What thinkest thou of my piece?&quot; for  
@@ -4494,9 +4781,10 @@ it is not ready to meet thine eye that
 thou mayest understand it  
 V. Look not thou at the copy which  
 is in the hands of the compositor, for it  
-is not mete,
+is not mete, in the eyes of the printer,  
+ana lie might Knoca tnee down.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775265%2F1881041401%2F0213.jp2/pct:17.710548,86.935713,10.923957,8.498254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775265%2F1881041401%2F0213.jp2/pct:17.677841,85.810374,10.956664,10.115121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4519,9 +4807,16 @@ his duty requires him to keep such
 things to himself.  
 \\Tien thou doest enter into his oflico,  
 take heed unto thyself that thou doest  
-not look at what may be lving open an
+not look at what may be lving open and  
+concerneth thee not, for that ns not meet  
+in the sight of good breeding.  
+Neither examine thou the proof-sheet,  
+for it is not ready to meet thy sight as  
+thou mayest understand.  
+Prefer thine own town paper to any  
+other, and be sure to subscribe for i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wyu_baggs_ver01%2Fdata%2Fsn84022149%2F00393349967%2F1881051201%2F0450.jp2/pct:28.754814,30.957964,10.740265,4.963523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wyu_baggs_ver01%2Fdata%2Fsn84022149%2F00393349967%2F1881051201%2F0450.jp2/pct:28.733419,30.957964,10.761660,8.064096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
