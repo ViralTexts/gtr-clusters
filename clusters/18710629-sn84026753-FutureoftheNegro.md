@@ -186,7 +186,7 @@ It was not made for political effect, bu
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1871-07-01_9_44?page=0)
+## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1871-07-01_9_44?page=0)
 
 #### 1871-07-01
 

@@ -1895,7 +1895,7 @@ cr
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_southern-teacher_1861-05_2_10?page=19)
+## [From _Southern Teacher 1859-1861_](https://iiif.archivelab.org/iiif/sim_southern-teacher_1861-05_2_10?page=19)
 
 #### 1861-05-01
 
@@ -2483,7 +2483,7 @@ mother.&#x27;&#x27;&quot;
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_revolution_1868-10-29_2_17?page=10)
+## [From _Revolution 1868-1872_](https://iiif.archivelab.org/iiif/sim_revolution_1868-10-29_2_17?page=10)
 
 #### 1868-10-29
 
@@ -3091,7 +3091,7 @@ all time I owe to my mother.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_revolution_1870-08-18_6_7?page=11)
+## [From _Revolution 1868-1872_](https://iiif.archivelab.org/iiif/sim_revolution_1870-08-18_6_7?page=11)
 
 #### 1870-08-18
 

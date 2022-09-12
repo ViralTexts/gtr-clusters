@@ -3727,7 +3727,7 @@ and thy little ones. THE PATRIOTI
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974?page=6)
+## [From _Theatrical Journal 1839-1871_](https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974?page=6)
 
 #### 1858-08-11
 

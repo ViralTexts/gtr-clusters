@@ -2609,7 +2609,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-10_1_24?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-10_1_24?page=22)
 
 #### 1844-02-10
 
@@ -2649,7 +2649,7 @@ courage.”——The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25?page=22)
 
 #### 1844-02-17
 
@@ -3147,7 +3147,7 @@ Dublin; and all booksellers.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
 
 #### 1844-10-05
 
@@ -3165,7 +3165,7 @@ street, Dublin; and all booksellers
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
 
 #### 1844-10-05
 
@@ -3223,7 +3223,7 @@ courage.”&quot;— The New Bell&#x27;s We ekly Messe nger
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-12_1_59?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-12_1_59?page=22)
 
 #### 1844-10-12
 
@@ -3262,7 +3262,7 @@ courage.”—The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60?page=22)
 
 #### 1844-10-19
 
@@ -3300,7 +3300,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
 
 #### 1844-10-26
 
@@ -3318,7 +3318,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
 
 #### 1844-10-26
 
@@ -3357,7 +3357,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-02_1_62?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-02_1_62?page=22)
 
 #### 1844-11-02
 
@@ -3395,7 +3395,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-09_1_63?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-09_1_63?page=22)
 
 #### 1844-11-09
 
@@ -3443,7 +3443,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
 
 #### 1844-12-21
 
@@ -3461,7 +3461,7 @@ street, Dublin; and all booksellers
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
 
 #### 1844-12-21
 
@@ -3640,7 +3640,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960?page=13)
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960?page=13)
 
 #### 1845-08-23
 
@@ -3699,7 +3699,7 @@ Dublin ; and all Booksellers.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984?page=13)
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984?page=13)
 
 #### 1846-02-07
 
@@ -3756,7 +3756,7 @@ st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011?page=13)
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011?page=13)
 
 #### 1846-08-15
 

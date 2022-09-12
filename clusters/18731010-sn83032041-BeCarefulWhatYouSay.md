@@ -888,7 +888,7 @@ Wehave none of our own
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210?page=1)
+## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210?page=1)
 
 #### 1875-02-27
 
@@ -3423,7 +3423,7 @@ others&#x27; faults until We have none of ou
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8?page=4)
+## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8?page=4)
 
 #### 1877-08-01
 
@@ -3820,7 +3820,7 @@ We have none of our owr
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10?page=16)
+## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10?page=16)
 
 #### 1878-10-01
 

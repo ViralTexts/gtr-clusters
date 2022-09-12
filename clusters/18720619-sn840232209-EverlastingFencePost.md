@@ -420,7 +420,7 @@ rotten.&quot;
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4?page=2)
+## [From _Railway Age 1870-2016_](https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4?page=2)
 
 #### 1872-12-14
 

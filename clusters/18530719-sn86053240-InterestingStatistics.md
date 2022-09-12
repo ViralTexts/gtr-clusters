@@ -1900,7 +1900,7 @@ fused lo one-half the Lilian sneciiV ToarvllsS
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-11-05_9_12?page=0)
+## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-11-05_9_12?page=0)
 
 #### 1853-11-05
 
@@ -2956,7 +2956,7 @@ by day. 1 be number ot men capable or bearin
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1854-06-10_9_43?page=3)
+## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1854-06-10_9_43?page=3)
 
 #### 1854-06-10
 
@@ -4899,7 +4899,7 @@ are generally more robust than others. Birth
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2?page=42)
+## [From _Metropolitan; A Monthly Magazine Devoted to Religion, Education, Literature, and General Information 1853-1859_](https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2?page=42)
 
 #### 1856-03-01
 
@@ -6409,7 +6409,7 @@ that of women. The average duratio
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1869-02-06_12_300?page=15)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1869-02-06_12_300?page=15)
 
 #### 1869-02-06
 

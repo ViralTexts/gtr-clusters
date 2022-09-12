@@ -2768,7 +2768,7 @@ Had not befallen him
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9?page=8)
+## [From _Printers' Circular and Stationers' and Publishers' Gazette 1866-1890_](https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9?page=8)
 
 #### 1878-11-01
 

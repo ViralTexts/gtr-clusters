@@ -168,7 +168,7 @@ life.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_illustrated-london-news_1859-11-05_35_1001?page=2)
+## [From _Illustrated London News 1842-2003_](https://iiif.archivelab.org/iiif/sim_illustrated-london-news_1859-11-05_35_1001?page=2)
 
 #### 1859-11-05
 

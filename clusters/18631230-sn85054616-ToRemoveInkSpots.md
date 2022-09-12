@@ -326,7 +326,7 @@ ly in cold wate
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25?page=6)
+## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25?page=6)
 
 #### 1871-06-24
 

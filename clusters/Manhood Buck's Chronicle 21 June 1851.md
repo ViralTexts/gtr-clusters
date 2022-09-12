@@ -52,7 +52,7 @@ Sold also by Mr. W.W. Walker, Hair-dress
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1850-09-21_20_787?page=1)
+## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1850-09-21_20_787?page=1)
 
 #### 1850-09-21
 
@@ -94,7 +94,7 @@ United Kingdom.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-15_21_808?page=1)
+## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-15_21_808?page=1)
 
 #### 1851-02-15
 
@@ -116,7 +116,7 @@ United Kingdom
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-22_21_809?page=1)
+## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-22_21_809?page=1)
 
 #### 1851-02-22
 
@@ -1647,7 +1647,7 @@ United Kingdom. 41
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_economist_1855-12-08_13_641?page=25)
+## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1855-12-08_13_641?page=25)
 
 #### 1855-12-08
 

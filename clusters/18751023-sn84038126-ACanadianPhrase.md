@@ -47,7 +47,7 @@ A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Du
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413?page=0)
+## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413?page=0)
 
 #### 1874-09-26
 
@@ -1217,7 +1217,7 @@ telling L.raily. Harper i
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207?page=13)
+## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207?page=13)
 
 #### 1875-02-06
 

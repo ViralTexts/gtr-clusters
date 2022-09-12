@@ -80,7 +80,7 @@ When age comes on!
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78?page=151)
+## [From _The Edinburgh Review, or Critical Journal 1802-1910_](https://iiif.archivelab.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78?page=151)
 
 #### 1824-01-01
 
@@ -224,7 +224,7 @@ When age comes on.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
+## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
 
 #### 1824-01-01
 
@@ -241,7 +241,7 @@ odes of Luis de Leon. The flow of the verse, and the fine an
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
+## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
 
 #### 1824-01-01
 
@@ -3857,7 +3857,7 @@ When age come on.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36?page=3)
+## [From _Christian Intelligencer 1821-1836_](https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36?page=3)
 
 #### 1831-09-09
 
@@ -4048,7 +4048,7 @@ When age comes on.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_literary-journal-and-weekly-register-of-science_1834-12-28_1_30?page=7)
+## [From _Literary Journal and Weekly Register of Science and the Arts 1833-1834_](https://iiif.archivelab.org/iiif/sim_literary-journal-and-weekly-register-of-science_1834-12-28_1_30?page=7)
 
 #### 1834-12-28
 
@@ -4220,7 +4220,7 @@ When age comes on,
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1836-02-06_5_210?page=7)
+## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1836-02-06_5_210?page=7)
 
 #### 1836-02-06
 
@@ -5044,7 +5044,7 @@ The cheek’s pure glow of red and white
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1?page=11)
+## [From _School Friend and Ohio School Journal 1846-1851_](https://iiif.archivelab.org/iiif/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1?page=11)
 
 #### 1847-10-01
 
@@ -9199,7 +9199,7 @@ When age comes on !
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_proof-sheet_1869-09_3_14?page=4)
+## [From _Proof Sheet 1867-1880_](https://iiif.archivelab.org/iiif/sim_proof-sheet_1869-09_3_14?page=4)
 
 #### 1869-09-01
 
@@ -12965,7 +12965,7 @@ solemn and impressive. We are nearin
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_reedys-mirror_1899-07-13_9_22?page=8)
+## [From _Reedy's Mirror 1899-1920_](https://iiif.archivelab.org/iiif/sim_reedys-mirror_1899-07-13_9_22?page=8)
 
 #### 1899-07-13
 

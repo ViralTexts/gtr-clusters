@@ -4206,7 +4206,7 @@ paper. from the common place advertisemen
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10?page=20)
+## [From _Pennsylvania School Journal 1852-1980_](https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10?page=20)
 
 #### 1859-04-01
 
@@ -4575,7 +4575,7 @@ greater fluency, clearness and correctness
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48?page=3)
+## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48?page=3)
 
 #### 1865-07-29
 
@@ -5950,7 +5950,7 @@ variety in the newspaper, from th
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-11-14_8_194?page=2)
+## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-11-14_8_194?page=2)
 
 #### 1878-11-14
 

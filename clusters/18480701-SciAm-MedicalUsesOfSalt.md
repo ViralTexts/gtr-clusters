@@ -4473,7 +4473,7 @@ tior ; but salt mei.t is injurious if use
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744?page=23)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744?page=23)
 
 #### 1877-08-04
 
@@ -6273,7 +6273,7 @@ a day with salt and water.—
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973?page=23)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973?page=23)
 
 #### 1881-12-24
 

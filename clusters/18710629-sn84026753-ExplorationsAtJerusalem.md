@@ -38,7 +38,7 @@ Further explorations disclosed a subterranean passage, perhaps orginally constru
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4?page=248)
+## [From _The Journal of Sacred Literature 1848-1868_](https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4?page=248)
 
 #### 1868-01-01
 
@@ -107,7 +107,7 @@ only 6 feet deep, though it looked black enough for anything. Climb
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64?page=65)
+## [From _British and Foreign Evangelical Review 1852-1888_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64?page=65)
 
 #### 1868-04-01
 
@@ -221,7 +221,7 @@ looked black enough for anything. Climbing down, we found ourselve
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144?page=9)
+## [From _Quiver 1861-1926_](https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144?page=9)
 
 #### 1868-06-20
 
@@ -319,7 +319,7 @@ looked black enough for anything. On.climbin
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80?page=9)
+## [From _The Art Journal 1839-1912_](https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80?page=9)
 
 #### 1868-08-01
 

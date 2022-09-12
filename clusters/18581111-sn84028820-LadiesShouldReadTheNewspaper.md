@@ -3215,7 +3215,7 @@ childrzti read the neaspaper
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127?page=3)
+## [From _National Principia 1858-1866_](https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127?page=3)
 
 #### 1862-06-05
 
@@ -3249,7 +3249,7 @@ Our thoughts and our concerns should be for
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127?page=3)
+## [From _National Principia 1858-1866_](https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127?page=3)
 
 #### 1862-06-05
 

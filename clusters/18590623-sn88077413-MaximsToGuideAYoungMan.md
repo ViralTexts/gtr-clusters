@@ -2259,7 +2259,7 @@ evil of anyone. Be just be
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1893-04-01_46_13?page=21)
+## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1893-04-01_46_13?page=21)
 
 #### 1893-04-01
 

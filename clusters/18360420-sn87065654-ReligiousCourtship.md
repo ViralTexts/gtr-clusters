@@ -956,7 +956,7 @@ riage took place the ensuing week.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1834-12-06_3_149?page=7)
+## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1834-12-06_3_149?page=7)
 
 #### 1834-12-06
 
@@ -5071,7 +5071,7 @@ took place the ensuing month in th
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_american-magazine_1886-02_3_5?page=38)
+## [From _The American Magazine 1884-1888_](https://iiif.archivelab.org/iiif/sim_american-magazine_1886-02_3_5?page=38)
 
 #### 1886-02-01
 
@@ -6965,7 +6965,7 @@ coming week. Scottish American
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_saturday-night_1895-09-21_8_44?page=8)
+## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1895-09-21_8_44?page=8)
 
 #### 1895-09-21
 

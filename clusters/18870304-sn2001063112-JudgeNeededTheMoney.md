@@ -2122,7 +2122,7 @@ your hair cut.&quot; The last battle o
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2?page=22)
+## [From _Instructor 1996-1998_](https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2?page=22)
 
 #### 1896-12-01
 

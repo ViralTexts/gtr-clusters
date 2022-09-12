@@ -1783,7 +1783,7 @@ for which I long to-night.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1877-02-03_8_5?page=5)
+## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1877-02-03_8_5?page=5)
 
 #### 1877-02-03
 
@@ -2375,7 +2375,7 @@ friends !, I pray to-hight, . Keep
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_sunday-school-times_1878-06-22_20_25?page=15)
+## [From _Sunday School Times 1859-1966_](https://iiif.archivelab.org/iiif/sim_sunday-school-times_1878-06-22_20_25?page=15)
 
 #### 1878-06-22
 
@@ -3722,7 +3722,7 @@ for which I long to-night
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_smalleys-magazine_1887-07_5_7?page=22)
+## [From _Smalley's Magazine 1883-1903_](https://iiif.archivelab.org/iiif/sim_smalleys-magazine_1887-07_5_7?page=22)
 
 #### 1887-07-01
 
@@ -3916,7 +3916,7 @@ for which I long to-night
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1887-10_36_4?page=8)
+## [From _Pennsylvania School Journal 1852-1980_](https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1887-10_36_4?page=8)
 
 #### 1887-10-01
 
@@ -4519,7 +4519,7 @@ B. S
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_london-society_1891-11_60_359?page=83)
+## [From _London Society: A Monthly Magazine of Light and Amusing Literature for the Hours of Relaxation 1862-1898_](https://iiif.archivelab.org/iiif/sim_london-society_1891-11_60_359?page=83)
 
 #### 1891-11-01
 
@@ -4967,7 +4967,7 @@ night
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_saturday-night_1893-02-18_6_13?page=1)
+## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1893-02-18_6_13?page=1)
 
 #### 1893-02-18
 
@@ -5488,7 +5488,7 @@ The tenderness for which I long tonigh
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_colliers-the-national-weekly_1896-03-26_16_25?page=14)
+## [From _Collier's: The National Weekly 1891-1915_](https://iiif.archivelab.org/iiif/sim_colliers-the-national-weekly_1896-03-26_16_25?page=14)
 
 #### 1896-03-26
 
@@ -5623,7 +5623,7 @@ need
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_midland-monthly-magazine_1897-03_7_3?page=63)
+## [From _The Midland Monthly Magazine 1894-1899_](https://iiif.archivelab.org/iiif/sim_midland-monthly-magazine_1897-03_7_3?page=63)
 
 #### 1897-03-01
 
@@ -5773,7 +5773,7 @@ Belle E. Smith, in N. Y. Christia
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_jama_1897-11-20_29_21?page=5)
+## [From _JAMA: The Journal of the American Medical Association 1883-2014_](https://iiif.archivelab.org/iiif/sim_jama_1897-11-20_29_21?page=5)
 
 #### 1897-11-20
 

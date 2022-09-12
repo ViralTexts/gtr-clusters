@@ -678,7 +678,7 @@ i Dana; its, bhakespearo
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
 #### 1868-04-25
 
@@ -718,7 +718,7 @@ hastenea up among the rioters. But now cries of | 14—And throw a cruel sunshin
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
 #### 1868-04-25
 
@@ -758,7 +758,7 @@ the door-way, and in a few moments more the 54 we masters grow ot ail Geek we de
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
 #### 1868-04-25
 
@@ -1068,7 +1068,7 @@ son; 30; Hill; 37, lUua; 38
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2?page=12)
+## [From _Sphinx. A Journal of Humour and Criticism 1868-1871_](https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2?page=12)
 
 #### 1868-08-01
 
@@ -1238,7 +1238,7 @@ well
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39?page=3)
+## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39?page=3)
 
 #### 1868-09-26
 
@@ -2898,7 +2898,7 @@ Wiliam Mason; 36 Hill; 37 Dana; 38 Shakespeare,
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1873-09-13_12_298?page=2)
+## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1873-09-13_12_298?page=2)
 
 #### 1873-09-13
 
@@ -3246,7 +3246,7 @@ Jlyron;il. Muollett, 2t. Crabbe;23 Maesingrr;
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278?page=9)
+## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278?page=9)
 
 #### 1876-11-11
 
@@ -3583,7 +3583,7 @@ Dana; 38 Shakespeare.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350?page=5)
+## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350?page=5)
 
 #### 1878-04-27
 
@@ -5182,7 +5182,7 @@ Dana; 38, Shakespeare,
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391?page=6)
+## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391?page=6)
 
 #### 1882-10-26
 
@@ -8842,7 +8842,7 @@ kins; 34. Herrick; 35. William Mason;
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8?page=39)
+## [From _American Printer 1883-2013_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8?page=39)
 
 #### 1887-05-01
 
@@ -9669,7 +9669,7 @@ can, yet dio we tiut
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19?page=2)
+## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19?page=2)
 
 #### 1889-04-06
 
@@ -10714,7 +10714,7 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11?page=9)
+## [From _Journal of Education 1875-1876_](https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11?page=9)
 
 #### 1892-03-17
 
@@ -11894,7 +11894,7 @@ For live we how we can, yet die we must. —SJieAespeare.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1?page=1)
+## [From _American Fruit Grower 1897-2014_](https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1?page=1)
 
 #### 1898-01-01
 

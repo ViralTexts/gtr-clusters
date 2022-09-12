@@ -8335,7 +8335,7 @@ Colored men iu tbe Southern State
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1873-10-18_10_512?page=1)
+## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1873-10-18_10_512?page=1)
 
 #### 1873-10-18
 

@@ -1220,7 +1220,7 @@ doned. There is none that surpasses it, if so good.— | the remed, be made know
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141?page=30)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141?page=30)
 
 #### 1866-01-20
 
@@ -2974,7 +2974,7 @@ that surpass it, if so good
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409?page=22)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409?page=22)
 
 #### 1871-03-04
 
@@ -4066,7 +4066,7 @@ Some omit boiling the pickle and fin
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_farm-journal_1879-12_4_3?page=1)
+## [From _Farm Journal 1877-2015_](https://iiif.archivelab.org/iiif/sim_farm-journal_1879-12_4_3?page=1)
 
 #### 1879-12-01
 
@@ -4196,7 +4196,7 @@ only a single trial to prove its superiorit
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2?page=23)
+## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2?page=23)
 
 #### 1881-02-01
 

@@ -536,7 +536,7 @@ Of salt, III ty pounds
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1851-11-15_7_9?page=3)
+## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1851-11-15_7_9?page=3)
 
 #### 1851-11-15
 
@@ -4787,7 +4787,7 @@ Dried peaches, 33 pounds.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1865-11-11_6_131?page=30)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1865-11-11_6_131?page=30)
 
 #### 1865-11-11
 

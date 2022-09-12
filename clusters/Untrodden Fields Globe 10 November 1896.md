@@ -19,7 +19,7 @@ Observations On The Esoteric Manners and Customs of Semi-Civilised Peoples Being
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_nature-uk_1896-10-22_54_1408?page=22)
+## [From _Nature 1869-2016_](https://iiif.archivelab.org/iiif/sim_nature-uk_1896-10-22_54_1408?page=22)
 
 #### 1896-10-22
 
@@ -38,7 +38,7 @@ army surgeon of thirty years’ experience in Asia, Africa, and
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
+## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
 
 #### 1896-11-21
 
@@ -61,7 +61,7 @@ OF SEMI-CIVILISED PEOPLES.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
+## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
 
 #### 1896-11-21
 
@@ -84,7 +84,7 @@ three stamps for postage.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-28_3605?page=42)
+## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-28_3605?page=42)
 
 #### 1896-11-28
 
@@ -136,7 +136,7 @@ three stamps for Postage.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_american-anthropologist_1896-12_9_12?page=30)
+## [From _American Anthropologist 1888-2016_](https://iiif.archivelab.org/iiif/sim_american-anthropologist_1896-12_9_12?page=30)
 
 #### 1896-12-01
 
@@ -159,7 +159,7 @@ C. Carrington. roy. 8°.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-american-folklore_january-march-1897_10_36?page=81)
+## [From _Journal of American Folklore 1888-2016_](https://iiif.archivelab.org/iiif/sim_journal-of-american-folklore_january-march-1897_10_36?page=81)
 
 #### 1897-01-01
 

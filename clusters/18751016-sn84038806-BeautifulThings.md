@@ -311,7 +311,7 @@ Over worn-out hands! O beautiful sleep
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47?page=5)
+## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47?page=5)
 
 #### 1875-11-20
 
@@ -412,7 +412,7 @@ Over worn-out hands Oh,-beautiful sleep
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18?page=3)
+## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18?page=3)
 
 #### 1876-01-01
 
@@ -452,7 +452,7 @@ Over worn-out hands—Oh, beautiful sleep !
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8?page=1)
+## [From _Woodhull and Claflin's Weekly 1870-1876_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8?page=1)
 
 #### 1876-01-22
 
@@ -573,7 +573,7 @@ Over woru-out hands. Oh I beautiful sleep!
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33?page=3)
+## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33?page=3)
 
 #### 1876-04-15
 
@@ -795,7 +795,7 @@ beautiful slee?
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11?page=7)
+## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11?page=7)
 
 #### 1876-11-01
 
@@ -1076,7 +1076,7 @@ Over worn-out hands—oh, beautiful sleep I
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169?page=2)
+## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169?page=2)
 
 #### 1878-05-09
 
@@ -1634,7 +1634,7 @@ Over worn out hands oh, beautiful sleep !
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16?page=4)
+## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16?page=4)
 
 #### 1880-04-17
 
@@ -1668,7 +1668,7 @@ Over worn-out hands; O beautiful sleep!’’
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_missionary-helper_january-february-1881_4_1?page=26)
+## [From _Missionary Helper 1878-1919_](https://iiif.archivelab.org/iiif/sim_missionary-helper_january-february-1881_4_1?page=26)
 
 #### 1881-01-01
 
@@ -2481,7 +2481,7 @@ Over worn-out hands? oh. beautiful sleep
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7?page=22)
+## [From _Good Housekeeping 1885-2015_](https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7?page=22)
 
 #### 1888-08-04
 
@@ -3230,7 +3230,7 @@ worn-out hands— oh, beautiful sleep.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12?page=17)
+## [From _Farm Journal 1877-2015_](https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12?page=17)
 
 #### 1897-12-01
 

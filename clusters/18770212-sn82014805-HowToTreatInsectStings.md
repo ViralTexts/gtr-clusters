@@ -373,7 +373,7 @@ Baklna Meats. Baking is a mor
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5?page=6)
+## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5?page=6)
 
 #### 1877-05-01
 

@@ -861,7 +861,7 @@ But build upon the sand
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-01-22_8_18?page=3)
+## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1853-01-22_8_18?page=3)
 
 #### 1853-01-22
 
@@ -6358,7 +6358,7 @@ the sand.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652?page=3)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652?page=3)
 
 #### 1875-10-30
 
@@ -7299,7 +7299,7 @@ I
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_silent-world_1876-02-01_6_3?page=0)
+## [From _Silent World 1871-1876_](https://iiif.archivelab.org/iiif/sim_silent-world_1876-02-01_6_3?page=0)
 
 #### 1876-02-01
 
@@ -9195,7 +9195,7 @@ But build upon the sand
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_practical-teacher-teachers-art-monthly_1885-08_5_6?page=36)
+## [From _Practical Teacher: With Which Is Incorporated the Practical Teacher's Art Monthly 1881-1911_](https://iiif.archivelab.org/iiif/sim_practical-teacher-teachers-art-monthly_1885-08_5_6?page=36)
 
 #### 1885-08-01
 

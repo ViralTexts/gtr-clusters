@@ -718,7 +718,7 @@ Ihe impression bves through an eteanaJag
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12?page=57)
+## [From _American Printer 1883-2013_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12?page=57)
 
 #### 1887-09-01
 

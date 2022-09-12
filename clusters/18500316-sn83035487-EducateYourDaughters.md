@@ -242,7 +242,7 @@ ol educution. IUv. S. Dyer
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27?page=3)
+## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27?page=3)
 
 #### 1850-03-16
 
@@ -3159,7 +3159,7 @@ education
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31?page=7)
+## [From _National Principia 1858-1866_](https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31?page=7)
 
 #### 1860-06-16
 
@@ -3535,7 +3535,7 @@ enlightened when mothers are no
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31?page=7)
+## [From _Twice a Week. An Illustrated London Journal of Entertaining Literature and Useful Information 1862_](https://iiif.archivelab.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31?page=7)
 
 #### 1862-08-20
 
@@ -4391,7 +4391,7 @@ best education in yonr power
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2?page=26)
+## [From _American Freedmen's Bulletin 1864-1866_](https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2?page=26)
 
 #### 1866-01-01
 

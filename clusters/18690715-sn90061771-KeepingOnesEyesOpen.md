@@ -25,7 +25,7 @@ You&#x27;ll have peace to your end,
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_saturday-review_1869-06-12_27_711?page=14)
+## [From _Saturday Review 1973-1986_](https://iiif.archivelab.org/iiif/sim_saturday-review_1869-06-12_27_711?page=14)
 
 #### 1869-06-12
 

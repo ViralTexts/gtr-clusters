@@ -4275,7 +4275,7 @@ projecting. For apoplexy, raise the hea
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10?page=3)
+## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10?page=3)
 
 #### 1873-10-01
 
@@ -6132,7 +6132,7 @@ for fainting, lay the person flat
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1?page=2)
+## [From _Silent World 1871-1876_](https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1?page=2)
 
 #### 1875-01-01
 
@@ -7365,7 +7365,7 @@ the skin is destroyed, cover with varnish.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-03-11_8_247?page=11)
+## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-03-11_8_247?page=11)
 
 #### 1876-03-11
 

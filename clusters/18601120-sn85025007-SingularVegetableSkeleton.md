@@ -1019,7 +1019,7 @@ crook at the knee, which makes the whole l&gt;e.i
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8?page=3)
+## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8?page=3)
 
 #### 1866-10-27
 

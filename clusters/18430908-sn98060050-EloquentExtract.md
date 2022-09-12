@@ -17,7 +17,7 @@
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_university-magazine_1842-05_19_113?page=73)
+## [From _The University Magazine 1833-1880_](https://iiif.archivelab.org/iiif/sim_university-magazine_1842-05_19_113?page=73)
 
 #### 1842-05-01
 
@@ -4864,7 +4864,7 @@ onr children will cease to think of us, and
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239?page=22)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239?page=22)
 
 #### 1867-12-07
 
@@ -7921,7 +7921,7 @@ names.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1875-06-05_10_1?page=5)
+## [From _Woodhull and Claflin's Weekly 1870-1876_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1875-06-05_10_1?page=5)
 
 #### 1875-06-05
 

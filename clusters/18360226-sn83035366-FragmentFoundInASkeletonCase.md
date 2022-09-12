@@ -64,7 +64,7 @@ And tread the palace of the sky!
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_european-magazine-and-london-review_1815-11_68?page=60)
+## [From _European Magazine and London Review 1782-1826_](https://iiif.archivelab.org/iiif/sim_european-magazine-and-london-review_1815-11_68?page=60)
 
 #### 1815-11-01
 
@@ -205,7 +205,7 @@ To cheer the ag’d man’s friendless bed
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_gentlemans-magazine_1817-07_88?page=66)
+## [From _The Gentleman's Magazine 1731-1907_](https://iiif.archivelab.org/iiif/sim_gentlemans-magazine_1817-07_88?page=66)
 
 #### 1817-07-01
 
@@ -278,7 +278,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57?page=19)
+## [From _The Weekly Entertainer, and West of England Miscellany 1783-1824_](https://iiif.archivelab.org/iiif/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57?page=19)
 
 #### 1817-08-18
 
@@ -1026,7 +1026,7 @@ And tread the palace of the sky!
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89?page=7)
+## [From _Calcutta Journal, or Political, Commercial and Literary Gazette 1819-1823_](https://iiif.archivelab.org/iiif/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89?page=7)
 
 #### 1822-04-13
 
@@ -1094,7 +1094,7 @@ And tread tlie palace of the&#x27;sky.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173?page=3)
+## [From _Kaleidoscope; Or, Literary and Scientific Mirror 1818-1831_](https://iiif.archivelab.org/iiif/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173?page=3)
 
 #### 1823-10-21
 
@@ -3064,7 +3064,7 @@ They sought the straight and narrow road
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_new-england-journal-of-medicine_1852-12-29_47_22?page=7)
+## [From _The New England Journal of Medicine 1828-2014_](https://iiif.archivelab.org/iiif/sim_new-england-journal-of-medicine_1852-12-29_47_22?page=7)
 
 #### 1852-12-29
 
@@ -4026,7 +4026,7 @@ Theeo feet with Angel&#x27;s&#x27;wings shall vie,
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_sixpenny-magazine_1865-11-01_11_2?page=87)
+## [From _Sixpenny Magazine 1861-1868_](https://iiif.archivelab.org/iiif/sim_sixpenny-magazine_1865-11-01_11_2?page=87)
 
 #### 1865-11-01
 
@@ -4434,7 +4434,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1871-06-03_3_3?page=2)
+## [From _Woodhull and Claflin's Weekly 1870-1876_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1871-06-03_3_3?page=2)
 
 #### 1871-06-03
 
@@ -5512,7 +5512,7 @@ And tread the palace ol the sky
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1881-06-30_14_326?page=7)
+## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1881-06-30_14_326?page=7)
 
 #### 1881-06-30
 
@@ -6376,7 +6376,7 @@ When death unveils eternity.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_saturday-night_1891-01-31_4_10?page=0)
+## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1891-01-31_4_10?page=0)
 
 #### 1891-01-31
 
@@ -6444,7 +6444,7 @@ To tread the palace of the sky
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1891-12-19_12_312?page=0)
+## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1891-12-19_12_312?page=0)
 
 #### 1891-12-19
 
@@ -6522,7 +6522,7 @@ And tread the palace of the sky !
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_music-magazine-and-musical-courier_1893-01-18_26_672?page=15)
+## [From _The Music Magazine and Musical Courier 1880-1962_](https://iiif.archivelab.org/iiif/sim_music-magazine-and-musical-courier_1893-01-18_26_672?page=15)
 
 #### 1893-01-18
 

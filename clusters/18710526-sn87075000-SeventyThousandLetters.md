@@ -68,7 +68,7 @@ mulate in the New York Post-oflice.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5?page=2)
+## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5?page=2)
 
 #### 1871-02-04
 

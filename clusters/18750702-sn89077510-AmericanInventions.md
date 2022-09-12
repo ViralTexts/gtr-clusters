@@ -454,7 +454,7 @@ and the essential features anl mos
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2?page=54)
+## [From _Republic; A Monthly Magazine Devoted to the Dissemination of Political Information 1873-1877_](https://iiif.archivelab.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2?page=54)
 
 #### 1875-02-01
 
@@ -1034,7 +1034,7 @@ for printers
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15?page=4)
+## [From _Chilton's Iron Age 1873-1983_](https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15?page=4)
 
 #### 1875-10-07
 
@@ -1080,7 +1080,7 @@ cessful composing machine for printers.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234?page=5)
+## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234?page=5)
 
 #### 1875-10-09
 
@@ -1598,7 +1598,7 @@ machine for prihters
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244?page=0)
+## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244?page=0)
 
 #### 1876-02-19
 
@@ -1881,7 +1881,7 @@ machine for printers. It is not ofte
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17?page=2)
+## [From _American Machinist 1877-2009_](https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17?page=2)
 
 #### 1879-08-30
 
@@ -3102,7 +3102,7 @@ horse-shoes.
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5?page=3)
+## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5?page=3)
 
 #### 1884-08-16
 
@@ -3446,7 +3446,7 @@ vator; 13, artificial ice-making on
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370?page=14)
+## [From _American: A National Journal 1880-1900_](https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370?page=14)
 
 #### 1887-09-10
 
@@ -4605,7 +4605,7 @@ grain elevator; 13, artificial ice
 
 ---
 
-## [From _None_](https://iiif.archivelab.org/iiif/sim_industry-week_1888-05-03_21_19?page=10)
+## [From _Industry Week 1880-2016_](https://iiif.archivelab.org/iiif/sim_industry-week_1888-05-03_21_19?page=10)
 
 #### 1888-05-03
 
