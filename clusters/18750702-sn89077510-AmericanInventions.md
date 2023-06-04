@@ -1,7 +1,7 @@
 
 # American Inventions
 
-### 170 reprints from 1872-10-24 to 1891-01-17
+### 172 reprints from 1872-10-24 to 1891-01-17
 
 ## [American Inventions](https://chroniclingamerica.loc.gov/lccn/sn89077510/1875-08-21/ed-1/seq-1/)
 
@@ -3273,6 +3273,33 @@ grain elevator; IS. artificial ice making on
 
 ---
 
+## [From _The Marietta journal._](https://chroniclingamerica.loc.gov/lccn/sn85034082/1887-08-04/ed-1/seq-2)
+
+#### 1887-08-04 &middot; Marietta, Ga.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+The fifteen great American inven­  
+tions of wide-world adoption are: 1,  
+The cotton gin; 2 planing machine  
+3, the grass mower and reaper ; 4 the  
+Fatary orinting press: 5 mnavigation  
+by steam ; 6, the hot air engine; &amp;,  
+the sewing machine ; 8, the India  
+rubber industry:!, the wmachine  
+wmonnfacture of horseshoes; 10, the  
+sandblast for carving; 11, the guage  
+lathe ; 12, the grain elevator; 13, ar­  
+tiicial ice making on a large scale
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_drteeth_ver01%2Fdata%2Fsn85034082%2F00517177295%2F1887080401%2F0523.jp2/pct:32.374361,83.749229,11.349346,7.268715/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## Popular Science
 
 #### From _Daily evening bulletin._
@@ -4780,6 +4807,28 @@ shoes.
 13. Artificial ice making on a large sea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2F2012218613%2F00237280842%2F1888103101%2F0054.jp2/pct:38.154042,58.143213,11.054530,5.822230/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The evening telegram._](https://chroniclingamerica.loc.gov/lccn/sn86077146/1888-11-12/ed-1/seq-2)
+
+#### 1888-11-12 &middot; Camden, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+8. The planting machine. 3. The grass  
+mower and reaper. 4. The rotary printing  
+press. 5. Navigation by steam. C. Hot air  
+engine. 7. Tho sewing machine, rt. The  
+India rubber industry, i). The machine  
+manufacture of horse shoes. 10. Tho sand  
+blast for carving. 11. The gauge lathe. 12.  
+The grain elevator. 13. Artificial ice makin
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_deal_ver01%2Fdata%2Fsn86077146%2F00513685130%2F1888111201%2F0872.jp2/pct:4.012945,87.558176,13.985976,4.409711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

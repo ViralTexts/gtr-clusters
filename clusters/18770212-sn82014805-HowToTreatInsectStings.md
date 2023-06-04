@@ -1,7 +1,7 @@
 
 # How to Treat Insect Stings
 
-### 64 reprints from 1874-10-09 to 1898-04-23
+### 65 reprints from 1874-10-09 to 1898-04-23
 
 ## [How to Treat Insect Stings](https://chroniclingamerica.loc.gov/lccn/sn82014805/1877-02-12/ed-1/seq-4/)
 
@@ -2363,6 +2363,31 @@ with water, the juice of an onion, tobac­
 co juke, bruised dock leaves aad carbo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_dunning_ver01%2Fdata%2Fsn84022835%2F00237285013%2F1880040101%2F0338.jp2/pct:40.899609,88.897868,10.638853,4.869179/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Monmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032307/1880-05-27/ed-1/seq-1)
+
+#### 1880-05-27 &middot; Freehold, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The paiu caused by (he stiug of 9 plant  
+or insect is the result of a certain amount ^  
+of acid poison injected into the blood. Tho  
+poison being acid, common sense points to  
+the alkalies as the proper means of cure.  
+AmoDg the most essily procured may ho  
+mentioned soft soap, liquor of ammonia, t  
+smelling salts, washing soda, quicklime  
+made into a paste with water, the juice of  
+an onion, tobacco juice, chewed tobaeoo,  
+bruised dock leaves and carbon of soda
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_eggharbor_ver01%2Fdata%2Fsn83032307%2F00513685294%2F1880052701%2F0092.jp2/pct:84.166533,26.395007,13.297701,4.824400/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

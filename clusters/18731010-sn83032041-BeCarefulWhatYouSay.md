@@ -1,7 +1,7 @@
 
 # Be Careful What You Say
 
-### 206 reprints from 1873-10-10 to 1899-04-01
+### 203 reprints from 1873-10-10 to 1899-04-01
 
 ## [Be Careful What You Say](http://chroniclingamerica.loc.gov/lccn/sn83032041/1873-10-10/ed-1/seq-1/)
 
@@ -1111,16 +1111,6 @@ We have none of our own.
 
 ---
 
-## GOSPEL INCREASE
-
-#### From _Shaker and Shakeress Monthly (1873-1875)_
-
-#### 1875-06-01 &middot; Shakers
-
-[This text is not available under an open license.]
-
----
-
 ## [Poetry. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/130909090)
 
 #### From _The Mining Record and Grenfell General Advertiser (NSW : 1867 - 1876)_
@@ -1598,52 +1588,6 @@ Don&#x27;t speak of others&#x27; faults until
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1876011701%2F0224.jp2/pct:33.388180,15.402323,13.794049,18.666946/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1876-02-02/ed-1/seq-1)
-
-#### 1876-02-02 &middot; Mifflintown, Juniata County, Pa.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Id speaking of a person&#x27;s faults,  
-rrmy don&#x27;t forget jour own.  
-Remember those with homes of glass.  
-Should never throw atone.  
-If we hare nothing; else to do  
-Than talk of those who sin.  
-Yes. better we commence at borne.  
-And from that point begin.  
-We hare no right to judge a man -  
-Until he&#x27;s fairly tried ;  
-Should ws not like hie company.  
-We know the world is wide.  
-Some may have fsalts, and who has cot ?  
-The old a well as young.  
-Perhaps we may. for ou-ht we know.  
-Hare fifty to their one.  
-Til tell you of a better plan.  
-And find it wore full well.  
-To try my own defects to cure  
-Ere other&#x27;s fault to tell.  
-And though I sometimes hope to be  
-No worse than some 1 know.  
-My own shortcoming bid me let  
-The faults of others go.  
-Then let us all, when we begin  
-To slander friend or foe.  
-Think of the barm otte word may do  
-To those we little know ;  
-Remember sometime cones, like  
-Our chickens, roost at home ;  
-Don&#x27;t speak of other&#x27;s faults until  
-We hare neue of our own
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1876020201%2F0477.jp2/pct:5.423729,13.332449,9.661017,15.985673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2326,6 +2270,31 @@ Don&#x27;t speak of others&#x27; faults until
 Wo have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_evadeestruction_ver01%2Fdata%2Fsn84026965%2F00294550847%2F1876110902%2F0039.jp2/pct:2.401858,4.610876,11.902439,14.511462/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Marietta journal._](https://chroniclingamerica.loc.gov/lccn/sn85034082/1876-11-10/ed-1/seq-1)
+
+#### 1876-11-10 &middot; Marietta, Ga.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+—IIN speaking of a person’s faults,  
+Pray don’t forget your owu  
+Remember those with homes of glass  
+Should seldom throw a stone.  
+If we have nothing else to do  
+But talk of those who sin.  
+&quot;Tis better we commence at home,  
+And from that puint begin,  
+e — @ C— .  
+A waiter advertising for asituation  
+says he can ‘fold napkins in thre
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_drteeth_ver01%2Fdata%2Fsn85034082%2F00517177283%2F1876111001%2F0535.jp2/pct:43.929431,44.538597,11.724393,5.213837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3627,47 +3596,6 @@ You&#x27;ve tried to see your own.
 
 ---
 
-## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1878-04-04/ed-1/seq-1)
-
-#### 1878-04-04 &middot; Ravenna, O. [Ohio]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-In speaking of a person&#x27;s faults.  
-Pray, don&#x27;t forget your own ;  
-Remember those with house ot glass,  
-Should seldom throw a stone.  
-If we have nothing else to do  
-Bat talk of those who nn,  
-Tis bettor we should look at home,  
-A ad from that point begin.  
-We have no right to judge a man  
-Until be Is fairly tried;  
-Should we not like his company.  
-We know the world is wide.  
-Boom any have faults and who has not?  
-The old as well as you ng.  
-Perhaps, we have, lor aught we know.  
-Full Oft j to the one.  
-I&#x27;ll teU you of a bettor plan.  
-I And It works full well.  
-To try my own delects to cure.  
-Before of others&#x27; tell ;  
-And though sometimes hope to be  
-No worse than some I know.  
-My own shortcomings bid me let  
-The faults of others go  
-Then let us all when we commence  
-T6 slander Mead or foe.  
-&#x27; Thinker tbaevw
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027194%2F1878040401%2F0182.jp2/pct:26.988966,15.105455,9.857724,11.476376/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [SELECT POETRY. BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/108500449)
 
 #### From _The Record and Emerald Hill and Sandridge Advertiser (Vic. : 1872 - 1881)_
@@ -4649,6 +4577,49 @@ Doni&#x27;t h eps akli of ,,the;s a tlts m.il
 
 ---
 
+## [From _The Marietta journal._](https://chroniclingamerica.loc.gov/lccn/sn85034082/1880-09-02/ed-1/seq-1)
+
+#### 1880-09-02 &middot; Marietta, Ga.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+IN SPEAKING of a person’s favlts,  
+pray dou&#x27;t forget your own, remem­  
+ber these with homes of glass, should  
+never throw a stone; if we bave  
+nothing else to do but talk of those  
+who sin, &#x27;tis batter we commencs at  
+home, and from that poiot begin.  
+~ We have no right to judge a man,  
+‘uotil he&#x27;s fairly tried, should we not  
+like his company, we know the  
+world is wide. Some may have  
+faults, and who have not ¥ the old as  
+well as young ; perhaps we may, for  
+all we know, have fifty to their one.  
+&#x27;l tell you of a better plan, and  
+find it works full well, to try our  
+own defects to cure, before of others  
+tell. Aund though I sometime hope  
+to be not worse than some 1 koow,  
+my own short~comings bid me let  
+the faults of others go,  
+Then let us all, when we com­  
+mence to slander friend or foe, think  
+of the harm one word may be, to  
+those who little know ; remewmber  
+curses, frequeotly, like chickens,  
+roost at home ; doo’t speak of oth­  
+ec’s faults until youv&#x27;e tried to seol  
+your own,
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_drteeth_ver01%2Fdata%2Fsn85034082%2F00517177283%2F1880090201%2F0841.jp2/pct:56.843786,31.752832,12.091220,16.713725/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1880-09-09/ed-1/seq-1)
 
 #### 1880-09-09 &middot; Mechanicstown, Md.
@@ -4870,52 +4841,6 @@ To those who better know
 
 ---
 
-## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1881-03-26/ed-1/seq-1)
-
-#### 1881-03-26 &middot; Shepherdstown, Va. [W. Va.]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ng of a person&#x27;s fault.*.  
-Pray iloa&#x27;t forget your own;  
-Remember, those with homes of glass  
-Should never throw a stone.  
-If we have nothing else to ilo  
-Than talk ot those who sin,  
-&#x27;Tis better to commence at home,  
-Aud from that poiut begin.  
-We have uo right to judge a man  
-Until he&#x27;s fairly tried ?  
-Should ue not like his company,  
-We know the world is wide.  
-I  
-Some may have faults (who lias not?)  
-The old as well as young;  
-Perhaps we may, for all we know,  
-llaye fifty to their one.  
-I&#x27;ll tell you of a better plan ?  
-I find it works full well;  
-To try my own defects to cure,  
-Ere others&#x27; faults 1 tell.  
-And though I sometimes hope to be  
-No worse than some I know.  
-My own short coinings bid ine let  
-The faults of others go.  
-Then let us all when uj begin  
-To slander friend or foe,  
-Think of the harm one word may do  
-To those who better know.  
-Kemember, blunders sometimes, like  
-Our chickens, &quot;roost at home;&quot;  
-Don&#x27;t speak of others&#x27; faults until  
-We have none of onr own. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F0027176781A%2F1881032601%2F0463.jp2/pct:69.689289,10.039887,12.991646,17.420631/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1881-03-31/ed-1/seq-6)
 
 #### 1881-03-31 &middot; Mineral Point, Wis.
@@ -4955,52 +4880,6 @@ Remember curses, chicken like,
 Sometime to roost come home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271768825%2F1881033101%2F0955.jp2/pct:10.947892,4.901254,13.564277,16.207775/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Las Vegas daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn90051703/1881-07-06/ed-1/seq-2)
-
-#### 1881-07-06 &middot; [Las Vegas, N.M.]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&quot;lit cpcHklnir of persona&#x27; fault.  
-1thv don&#x27;t forget your own:  
-llemember, those with home of  
-Should seldom throw a stone,  
-if we hHvc nothing olsc to do  
-Than talk of thorn who Bin,  
-Tin M&quot;ttT to commence at home,  
-And from that point begin,  
-&#x27;We have no riirht to Judge a man  
-Until he&#x27;s fairly tried.  
-Should wc not like his company.  
-We know tho world is wide,  
-Sunn may have fuults but who has not?  
-The old as well as younir ;  
-Perhaps vo may, for aught wc know.  
-Have fifty to their one.  
--I&#x27;ll tell you of a better plan.  
-And find It works as well.  
-To try my own defects to cure.  
-Ere others&#x27; faults I tell;  
-And though I sometimes hopo to be  
-No worse than some I know,  
-My own shortcomings bid me let  
-The faultaof others go.  
-&quot;Then let us all, when we begin.  
-To slander friend or foe,  
-Think of the harm one word may do  
-To those we little know.  
-Remember curses sometimes, like  
-Our chickens roost at home!  
-Don&#x27;t speak of others&#x27; faults until  
-We have none of our own.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_elk_ver01%2Fdata%2Fsn90051703%2F00296024831%2F1881070601%2F0192.jp2/pct:11.798513,15.335503,11.088573,16.912869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5947,6 +5826,52 @@ We have none of our own. —Ex
 
 ---
 
+## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1888-11-01/ed-1/seq-1)
+
+#### 1888-11-01 &middot; Jamesburg, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Ik speaking of a person’s faults,  
+Pray, don’t forget your own;  
+Remember those in houses glass  
+Should never throw a stone.  
+If you have nothing else to do  
+But talk of those who sin,  
+*Tis better to commence at home,  
+And from that point begin.  
+We have no right to judge a man  
+Until he’s fairly tried;  
+Should we not like his company,  
+We know the world is wide.  
+Some may have faultar-and who has not—  
+The old as well as young;  
+We may, perhaps, for aught we know,  
+Have fifty to their one.  
+I’ll tell you of a better plan.  
+And find it works fiill well;  
+To try my own defects to cure,  
+Ere I of others tell;  
+And though I sometimes hope to be  
+No worse than some I know,  
+Mv own shortcomings bid me let  
+The faults of others go.  
+Then let us all. when we commence  
+To slander friend or foe,  
+Think of the harm one word may do  
+To those we little know.  
+Remember curses, sometimes like  
+Our chickens. “ roost at home.”  
+Don’t speak of others’ faults until  
+We have none of our own.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_deal_ver01%2Fdata%2Fsn91064026%2F00513685142%2F1888110101%2F0073.jp2/pct:11.055678,15.877169,15.213198,15.578812/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## Look within
 
 #### From _Southwestern Christian advocate._
@@ -6354,45 +6279,6 @@ Reemember cursmes; sometimes, likeOur
 clhickens &quot;roost at home;&quot; Don&#x27;t speak  
 of others&#x27; faults until TWe bave none of  
 our own. .. . ..:.
-</td></tr></table>
-
----
-
-## [BE CAREFUL WHAT YOU SAY.](http://trove.nla.gov.au/ndp/del/article/66177195)
-
-#### From _Oakleigh Leader (North Brighton, Vic. : 1888 - 1902)_
-
-#### 1890-04-26 &middot; Oakleigh, Victoria
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-of a person&#x27;s faults &#x27;ray don t forget  
-your own; Ilem~en!lbc those with hoomes  
-of glass Should seldom thr w , stonle,  
-If we have nothing elso to do But talk  
-of those who sin, &#x27;Tis better we should  
-look at home, And from that point  
-begin.&#x27;, We have no right to judge a man  
-Until he&#x27;s fairly tried ; Should we not  
-like lis company We know the world is  
-wide. Some may have faults - and who has  
-not&#x27;i-The old as weoll as young;  
-Perhaplg .as np y, fop.R apght we know!  
-IHave fifty to their ope. I&#x27;ll tell you  
-of a better plan, And one that works  
-full well; I try my owl dlofects to eoro  
-I&#x27;ro I of othllers&#x27; toll, And, though I  
-hope some timo to be No worse than some  
-I know, My own shortpomnipgsbid 14 ia lt  
-The faults of others go, Then lot us  
-all,, when we commence To slander friend  
-or foe, Think of the harm one word may  
-do &#x27; To those who little know, Remlember  
-curses, sometimes, like Onr chickens  
-&quot;roost at home;&quot; &#x27;Don&#x27;t spealihof  
-others&#x27; faults until oWe ha~ aoneo of ur  
-O9wn.?;&#x27;_,: &quot; : 
 </td></tr></table>
 
 ---
@@ -7468,6 +7354,52 @@ We have none of our own.
 
 ---
 
+## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1893-09-07/ed-1/seq-1)
+
+#### 1893-09-07 &middot; Jamesburg, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+In speaking of a person’s faults  
+Pray don’t forget your own ;  
+Remember those in houses glass, -  
+Should never throw a stone.  
+If you have nothing else to do,  
+But talk of those who sin,  
+’Tis better we commence at home,  
+And from that point begin.  
+We have no right to judge a man,  
+Until he’s fairly tried ;  
+Should we not like his company,  
+We know the world is wide.  
+Some may have faults—and who has not?  
+The old as well as the young:  
+We may, perhaps, we ought to know,  
+Have fitty to their one.  
+I’ll tell you of a better plan,  
+And find it works full well;  
+To try my own defects to cure,  
+Ere I of others tell;  
+And though I sometimes hope to be  
+No worse than some I know,  
+My own shortcomings bid me let  
+The faults of others go.  
+Then let us all, when we commence  
+To slander friend or foe,  
+Think of the harm one word may do,  
+To those we little know;  
+Remember curses sometimes, like  
+Our chickens, “ roost at home  
+Don’t speak of others’ faults until  
+We have none of our own.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_deal_ver01%2Fdata%2Fsn91064026%2F00513685154%2F1893090701%2F0153.jp2/pct:11.078717,17.472272,14.447684,15.436579/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [Be Careful What You Say.](http://trove.nla.gov.au/ndp/del/article/58879682)
 
 #### From _The Broadford Courier and Reedy Creek Times (Broadford, Vic. : 1893 - 1916)_
@@ -8447,52 +8379,6 @@ Hemcinber, curses, chicken-like,
 Sometimes to roost come home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn84037217%2F00271764856%2F1897061701%2F0525.jp2/pct:12.943843,14.052486,11.613364,15.077919/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Shoshone journal._](https://chroniclingamerica.loc.gov/lccn/sn86063039/1897-08-06/ed-1/seq-4)
-
-#### 1897-08-06 &middot; Shoshone, Idaho
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-In speaking of others faults  
-Pray dan&#x27;t forget our own,  
-Keinem bering those in house glass  
-Should never throw a stone.  
-If wc have nothing else to do  
-Dut talk of those who sin,  
-&#x27;Tis better to commence at home,  
-And from that point begin.  
-We have no right to judge a man  
-d&#x27;ntil he&#x27;s fairly tried,  
-Should we not like his company  
-We know the world is wide,  
-Some mnv have faults,—who has not.  
-The old, as well as young,  
-We may, perhaps, for ail we know  
-Have flftv to their one.  
-I&#x27;ll tell you ol a better plan,  
-And tind it works full well,  
-To try our own defects to scan  
-Before of others&#x27; tell,  
-And though I sometimes hope to be  
-No worse than some I know,  
-Mv ow n shortcomings bid me let  
-The faults of others go.  
-Then let us all, when we commence  
-To slander friend or toe,  
-Think of the harm one word may do  
-To those we little know;  
-Keinem b«ring curses, sometimes like  
-Our chickens, roost at home,  
-Djn&#x27;t speak of others faults, until,  
-tVe have none of our own
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_galapagos_ver01%2Fdata%2Fsn86063039%2F00414211306%2F1897080601%2F0637.jp2/pct:11.777978,27.974034,16.290614,21.950483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

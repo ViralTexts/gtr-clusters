@@ -1,7 +1,7 @@
 
 # Eloquent Extract
 
-### 261 reprints from 1842-05-01 to 1898-07-23
+### 244 reprints from 1842-05-01 to 1898-07-23
 
 ## [Eloquent Extract](https://chroniclingamerica.loc.gov/lccn/sn98060050/1843-09-08/ed-1/seq-1/)
 
@@ -1262,6 +1262,47 @@ have felt as we feel, and their fellows wer
 
 ---
 
+## [From _The true American._](https://iiif.archivelab.org/iiif/xt7wh707xj1t?page=3)
+
+#### 1846-05-13 &middot; Lexington, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Ei.oacENT Extract. — &quot;Generation af-  
+ter generation,&quot; says an eloquent writer,  
+&quot;have felt as we feel, and tbcir froliuffs  
+■were as active as our own. They passed  
+away like a vapor, while nature wore the  
+same aspect of beauty as when her Creator  
+commanded her to he. The heavens shall  
+be as bright over our graves as they are  
+around our paths. The world will have  
+the same attractions for our ofl&#x27;spring yet  
+tmborn, that she had once for ourselves  
+and that she has now for our children. —  
+Yet a little while and all this will have hap-  
+pened. The throbbing heart will be stifled,  
+and we sliall be at rest. Our funeral will  
+wind on its way, and the prayers will be  
+said, and our friends will all return, and we  
+shall be left in darkness. And it may be  
+for a short time that we shall be spoken of,  
+but the things of life will creep in, and our i  
+names will soon be forgotten. Days will |  
+continue to move on, and laughter and song :  
+will be heard in llie place in which wc died;  
+and the eye that mourned for us will be &#x27;  
+dried, and glisten again with joy ; and even  
+our children will cease to think of us, and  
+will not remember to lisp our names.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7wh707xj1t&#0036;3/pct:4.206139,74.393764,12.694202,14.289838/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-05-15_9_10?page=3)
 
 #### 1846-05-15 &middot; Hartford [Conn.]
@@ -2355,14 +2396,9 @@ time we shall be spoken of, but the fchihii&#x27;S of
 life will creep in, and our names will soon be for­  
 gotten. Days will continue to move on, an  
 laughter and song will be heard in; the otH in  
-which we died; and the eye that mourned for us  
-will be dried, and glisten again with joy; and  
-even our children will cease to think of us, and;  
-win not rememoer to nsp our names.  
-Richmond Agricultural PlffiE-  
-pliance with an order from the Secre
+which we died; and the eye that mourned for u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_price_ver01%2Fdata%2Fsn84026547%2F00296022962%2F1858102801%2F0005.jp2/pct:60.973908,62.930005,16.534115,13.619099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_price_ver01%2Fdata%2Fsn84026547%2F00296022962%2F1858102801%2F0005.jp2/pct:60.973908,62.930005,16.534115,10.330982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2678,14 +2714,6 @@ touching language of the Psalmist, &quot;Forgot
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-as we feci now, and their lives were as  
-active as our own. They passed away  
-like a vapor, while Nature wore the same  
-aspect of beauty as when her Creator com­  
-manded her to be. The heavens shall  
-be as bright over our graves as they now  
-are around our paths. The world shall  
-have the same attractions for our offspring  
 yet unborn, that she had once for our  
 ehiloron Yet a hgtfe while all this will  
 be stihed, and we shall be at rest Our  
@@ -2706,7 +2734,7 @@ names. Then we shall have become, in
 m the touching language of tlie’Psalmist. 1  
 “forgotten and clean gone out of mind.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn86086437%2F00514152329%2F1859031601%2F0340.jp2/pct:45.277778,67.109670,12.115741,14.363407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn86086437%2F00514152329%2F1859031601%2F0340.jp2/pct:45.277778,71.345219,12.115741,10.127859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2719,15 +2747,6 @@ m the touching language of tlie’Psalmist. 1
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-we feel now, and their lives were as active as  
-t:y as our own. They passed away like a  
-vopor, wuii? Nature wore the same aspect of  
-beauty as when her CiCZ&#x27;r commanded her  
-to be. The heavens shall be as bright err?  
-our graves as they now are around our paths.  
-The world shall have the same attractions for  
-our offsprings yet unborn that she had once  
-for our children . Yet a little while and all  
 this will be stilled, and we shall be at rest.  
 Our funeral will find its way, and the prayers  
 will be ssid, end our friends will all return,  
@@ -2745,7 +2764,7 @@ to lisp our names. When we shali become, ia
 the touching language cf the Psalmist, &#x27;for­  
 gotten and clean gone cut cf mind.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477631%2F1859040601%2F0432.jp2/pct:74.499489,53.492277,14.028935,13.476606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F00212477631%2F1859040601%2F0432.jp2/pct:74.528715,58.350123,13.999708,8.618760/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2977,16 +2996,6 @@ ing Dutch maiden, who was tending bar in
 
 ---
 
-## Moral and Religious
-
-#### From _New Hampshire statesman._
-
-#### 1859-05-14 &middot; Concord [N.H.]
-
-[This text is not available under an open license.]
-
----
-
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1859-05-19/ed-1/seq-1)
 
 #### 1859-05-19 &middot; Towanda, Pa.
@@ -3014,12 +3023,9 @@ spoken of, but the things of life will creep in,
 und our names will soon be forgotten. Days  
 will contiuue to move on, and laughter and  
 song will be heard in the room in which we  
-died ; and the eye that mourned for us will be  
-dried, and glisten again with joy ; and eevn  
-our children will cease to think of us, and will  
-not remember to lisp our names.
+died ; and the e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1859051901%2F0206.jp2/pct:76.613904,40.473523,14.690668,13.354246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1859051901%2F0206.jp2/pct:76.613904,40.473523,14.664804,11.677496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3156,16 +3162,6 @@ with joy, and even our own child ren will ceas
 
 ---
 
-## An Eloquent Extract
-
-#### From _Dover gazette & Strafford advertiser._
-
-#### 1859-07-23 &middot; Dover, N.H.
-
-[This text is not available under an open license.]
-
----
-
 ## [From _The Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026192/1859-07-28/ed-1/seq-1)
 
 #### 1859-07-28 &middot; Perrysburg, Ohio
@@ -3241,107 +3237,37 @@ and clean gone out of mind.
 
 ---
 
-## [From _The Abbeville banner._](https://chroniclingamerica.loc.gov/lccn/sn85026945/1859-09-15/ed-1/seq-1)
+## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1859-08-17/ed-1/seq-1)
 
-#### 1859-09-15 &middot; Abbeville, S.C.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ty as when her Creator commanded lier tc  
-be. Tiie heavens shall he as bright ovei  
-our graves as they are now around our paths  
-I The world will have the same attractions  
-for our oll&#x27;spriii^ yet uuboru that she  
-had ouce for our children. Vet a little  
-while and what will have happened? The  
-throbbing heart will be stilled and we shal  
-be at rest,  
-Our funeral will find its wav, and the  
-prayers will be said, and then we Khali In  
-  
-left behind in silence anil daikncss fur tin  
-worm. And, it may be for a short linn  
-we shall be spoken of. hilt the thing of lift  
-will creep in, and our names will soon hi  
-forgotten. Days will cuntiiiuc to move on,  
-laughter and songs will be heard in llic  
-room in which we died ; and the eye tha  
-mourned for us will be dried, and glistei  
-again with joy; and even our children wil  
-cease to think of u?, aud will not rcmejnber  
-our names.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85026945%2F00202194278%2F1859091501%2F0937.jp2/pct:16.390584,81.892816,13.900998,15.089320/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1859-09-20/ed-1/seq-4)
-
-#### 1859-09-20 &middot; Alexandria, D.C.
+#### 1859-08-17 &middot; Van Buren, Ark.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Ax Eloquent Extract.?Generation af­  
-ter generation have felt as we do now and  
+An Eloquent Extract.—Generation af­  
+ter generation have felt as we do now, and  
 their lives were as active as our own. The  
-1 tea Venn shall be as bright over our graves as  
-they are around our paths. Yet a little  
-while and all this will have happened. The  
-throbbing heart will be stilled, and we shall be  
-at rest. Our funeral will wend its way, aud  
-the prayers will be said, and we shall be left  
-?ii the darkness and silence of the tomb.?  
-Ami it- may be that for a short time we shall  
-bo spoken of, but the things of life shall  
-creep on and our names shall be forgotten,  
-hays will continue to move on, and laugh­  
-ter aud songs will be heard in the room  
-where we died : and the eyes that mourned  
-for us be dried and animated with joy, and  
-even our children will cease to think of us,  
-and will remember to lisp our names no more
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F00415663481%2F1859092001%2F0034.jp2/pct:4.770616,59.813857,14.035088,9.986212/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## An Eloquent Extract
-
-#### From _The Weekly Raleigh register._
-
-#### 1859-09-28 &middot; Raleigh, N.C.
-
-[This text is not available under an open license.]
-
----
-
-## [From _The penny press._](https://chroniclingamerica.loc.gov/lccn/sn85025750/1859-10-27/ed-1/seq-4)
-
-#### 1859-10-27 &middot; Cincinnati [Ohio]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+heavens shall be as bright over our graves  
+as they are around our paths. Yet a little  
+while and all this will have happened.—  
+The throbbing heart will be stilled, and we  
+shall be at rest. Our funeral will wend its  
+way, and the prayers will be said, and we  
+shall be left in the darkness and silence of  
+the tomb. And it may be that for a short  
+time we shall bespoken of, but the things  
+of life shall creep on and our names shall  
+be forgotten. Days will continue to move  
+on, and laughter and songs will be heard in  
+the room where we died ; and the eyes that  
+mourned for us be dried and animated with  
+pleasure, and even our children will cease to  
+think of us, and will remember to lisp our  
+names no more ~~—  
   
-An Eloqubnt Extract. Generation  
-after generation have felt as we now feel,  
-and their lives were as active as our own.  
-The heavens shall be as bright over our  
-graves as they are around our paths.  
-Yet a little while and all this shall have  
-happened. : The throbbing heart will be  
-stilled, and we shall be at rest Our fu  
-neral will wend its way; and the prayers  
-will be said, and we, shall be left in the  
-darkness and silence of the tomb. And  
-it may bo but for short time we shall b
+The Cork Oak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85025750%2F00280774650%2F1859102701%2F0243.jp2/pct:21.572450,16.138246,14.056747,6.583833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn84022991%2F00513688052%2F1859081701%2F0025.jp2/pct:53.340775,12.010422,21.798756,81.837284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3357,74 +3283,40 @@ it may bo but for short time we shall b
 
 ---
 
-## [From _Saint Paul weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn90059500/1859-11-05/ed-1/seq-3)
+## [From _The weekly Anglo-African._](https://chroniclingamerica.loc.gov/lccn/sn83030179/1859-12-03/ed-1/seq-4)
 
-#### 1859-11-05 &middot; Saint Paul, Minn.
+#### 1859-12-03 &middot; New York [N.Y.]
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-An Eloquent Extract,  
-  
-Generation after generation have felt as we  
-now feel, and their lives were as active as our  
-own. The heavens shall be as bright over  
-our graves as they are aroun-l our paths. Yet  
-a little while and all this shall have happened.  
+A~ Eroquent Extract.—Generation af­  
+ter generation have felt as we do now, and  
+their lives were as active as our own. The  
+heavens shall be as bright over our graves  
+as they are aronnd our paths. Yet a lit­  
+tle while, and all this will have happened.  
 The throbbing heart will be stilled, and we  
-shall be at rest. Our funeral will wend its  
-way ; and the prayers will be said, aud we  
-shall be left in the darkness and silence of the  
-tomb. And it may be but for a short time  
-we shall be spoken of—but the things of life  
-shall creep on, and our names will be forgot­  
-ten. Days will continue to move on, and  
-laughter and songs will he heard in the room  
-where he died; and the eyes that mourned  
-for us shall be dried and animated with joy,  
-and even our children will cease to think o
+shall be at rest. Our funeral will wend  
+its way, and the prayers will be said, and  
+we shall be left in the darkness and silence  
+of the tomb. And it may be that, for a  
+short time, we shall be spoken of ; but the  
+things of life shall ereep on, and our names  
+shall be forgotten. Days will continue to  
+move on, and laughter and songs will be  
+heard in the room where we died,and the  
+eyes that mourned for us be dried and an­  
+mated with joy; and even our children  
+will cease to think of us, and will remem­  
+ber to lisp our names no more |  
+  
+No Twe o Hesitate.— An independent  
+minister, as much distinguished for his ec­  
+centricity as for his piety, dined one day  
+with the senior d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn90059500%2F00383347191%2F1859110501%2F0186.jp2/pct:39.598525,66.676662,10.908558,7.979344/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The American farmer._](https://iiif.archivelab.org/iiif/sim_american-farmer-devoted-to-agriculture-horticulture_1859-12_1_6?page=10)
-
-#### 1859-12-01 &middot; Baltimore [Md.]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An Eloquent Extract,  
-Generation after generation have felt as we now  
-feel, and their lives were as active as our OWn, .  
-The heavens shall be as bright over our graves  
-as they are around our paths. Yet a little while,  
-  
-and all this shall have h 7 The  
-heart will be stilled, and we shall be at rest.  
-Our funeral will wend its way, and the prayers  
-will be said, and we shall be left in the darkness  
-and silence of the tomb. And it may be vee for a  
-  
-  
-  
-  
-  
-  
-short time we shall be spoken of—but the  
-  
-of life shall creep on, ‘and our names will  
-forgotten. ° Days will continue to move Fase}  
-and pre eg be odode be heard in the  
-where we died; and 1 yb toe mourned ‘for us  
-will be dried and with and ‘even  
-our children will cease to think of us!&quot; and will  
-remember to lisp’ our names no more.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-farmer-devoted-to-agriculture-horticulture_1859-12_1_6&#0036;10/pct:47.916667,71.773008,38.498264,20.993825/600,/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_superior_ver01%2Fdata%2Fsn83030179%2F00220720445%2F1859120301%2F0004.jp2/pct:18.755556,74.363948,12.834568,14.177600/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3437,15 +3329,6 @@ remember to lisp’ our names no more.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-naturo wore tho same aspect of beauty  
-as when her creator commanded hor to  
-be. The heavens shall be as bright over  
-our graves ns they are now nround our  
-paths. The world will havo the nttrac­  
-tions for our offspring yet unborn, that  
-she had onco for ourselves, nnd tbntehe  
-now has for our children. Yet a little  
-while and all this will nnvo happened.  
 The throbbing heart will bo stilled, nnd  
 wo shall bo at rest. Our funeral will  
 wind its way, nnd tho prayers will be  
@@ -3466,7 +3349,7 @@ Then shall wo have become, in the
 touching language of tho Psalmist, &#x27;for­  
 gotten and clean gone out of mind.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1859121501%2F0603.jp2/pct:55.616438,19.392034,11.952055,14.832285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237286911%2F1859121501%2F0603.jp2/pct:55.616438,24.122117,11.917808,10.102201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3479,43 +3362,6 @@ gotten and clean gone out of mind.&#x27;
 #### 1859-12-28 &middot; Chambersburg, Pa.
 
 [This text is not available under an open license.]
-
----
-
-## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1860-01-07/ed-1/seq-7)
-
-#### 1860-01-07 &middot; New York [N.Y.]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An Eloquent Extract.—“ Generation after  
-generation,” says a fine writer, “ have felt as we now  
-feel, and their lives were as active as our own. They  
-passed like a vapor, while nature wore the same as­  
-pect of beauty as when her Creator commanded her  
-to be. The heavens shall be as bright over our graves  
-as they now are around our paths. The world will  
-have the same attractions for our offspring yet un­  
-born, that she had once for us as children. Yet a little  
-while, and all will have happened. The throbbing  
-heart will be stifled and we shall be atre;t Our  
-funeral will wind its way, and prayers will be  
-said, and then we shall be left alone in silence and  
-darkness for the worms. And, it may be for a short  
-time we shall be spoken of, but the things of life will  
-creep in, and our names will soon be forgotten.  
-Days will continue to move on, and laughter and  
-song will be heard in the room in which we died : and  
-the eye that mourned for us will be dried, and glisten  
-again with joy; and even our children will cease to  
-think of us, and will not remember to lisp our names.”  
-All a Mistake.—The wife of a well-to-do  
-German, the other day, gave birth to an infant, whos
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_collins_ver01%2Fdata%2Fsn83030364%2Fprint00205958186%2F1860010701%2F0007.jp2/pct:57.420152,35.309668,12.171343,7.924220/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -3610,55 +3456,6 @@ ber to lisp our names.
 
 ---
 
-## [From _The River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn86086437/1860-09-05/ed-1/seq-1)
-
-#### 1860-09-05 &middot; River Falls, Pierce County, Wis.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-fine writer, ‘have felt as we now feel,and  
-their lives were as active as our own.  
-They passed like a vapor, while nature  
-wore the same aspect ol beauty as when  
-;her Creator commanded her to be. The  
-’heavens shall beat bright ever our graves  
-m they now are aiound our paths. The  
-World will have the same attractions for  
-4B*r offspring yet unborn, that she had  
-once for us as children. Yet a little  
-while, and all will have happened. The  
-throbing heart will be stilled and we shall  
-at rest. Our funeral will find its way,  
-and prayers will bo said, and then we  
-shall be left alone in silence and darkness  
-for the worms. And it may be for a  
-short time we shall be spoken of, but the  
-things of life will creep in. and our names  
-will soon be forgotten- Days will con­  
-tinue to move on, and laughter and song  
-&#x27; will bo heard in the room in which we  
-died; and the eye that mourned for us  
-will be dried, and glisten again with joy;  
-and oven our children will cease to think  
-wf ua» and will Sot remeipber to l&gt;p our
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn86086437%2F00514152330%2F1860090501%2F0225.jp2/pct:4.693349,80.538074,12.649966,14.169519/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Moral and Religious
-
-#### From _New Hampshire statesman._
-
-#### 1860-09-08 &middot; Concord [N.H.]
-
-[This text is not available under an open license.]
-
----
-
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1860-09-22/ed-1/seq-4)
 
 #### 1860-09-22 &middot; New-Lisbon, Ohio
@@ -3695,42 +3492,6 @@ no
 Licuens. And os the earth&#x27;s first mercy, s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn83035487%2F00211100485%2F1860092201%2F0127.jp2/pct:51.430113,53.128834,14.427055,22.453988/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The weekly Butte record._](https://chroniclingamerica.loc.gov/lccn/sn86058108/1861-03-23/ed-1/seq-1)
-
-#### 1861-03-23 &middot; Oroville [Calif.]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-and the axiom regarding “ edged tools ” and  
-“children” should be borne in mind by minute  
-men in the present crisis.  
-Geneeation after generation have felt as  
-they now feel, and their lives were as active as  
-our own. They passed like a vapor, while na­  
-ture wore the same aspect of beauty as when  
-her Creator commanded her to be. The hea­  
-vens shall be as bright over our graves as they  
-are now around onr paths. The world will  
-have the same attractions for our offspring yet  
-unborn that she had once for oar progenitors.  
-Yet a little while and all will have happened.  
-The throbbing heart will be stifled, and we  
-shall bo at rest. Our funeral will wind its  
-way, and prayers will be said, and then we  
-shall bo left alone in darkness for the worms.  
-And it may be, for a short time, we shall be  
-spoken of; but the things of life will creep in,  
-and our names will soon be forgotten. Days  
-will move on, and laugh and song will be heard  
-in the room in which we died : and the eye
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn86058108%2F00279557384%2F1861032301%2F0048.jp2/pct:28.908109,64.739403,12.927878,13.573047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4098,33 +3859,46 @@ gone out of mind.
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1863-10-29_31_46?page=3)
+## [From _Monmouth herald & inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032312/1863-10-29/ed-1/seq-1)
 
-#### 1863-10-29 &middot; Augusta, Maine
+#### 1863-10-29 &middot; Freehold, N.J.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-Generation after generation have felt as we do  
-now, and their lives were as active as our own.  
-The heavens will be as bright over our graves as  
-they are about our paths. Yet a little while and  
-all this will have happened. The throbbing heart  
-will be stilled, and we shall be at rest. Our fu-  
-neral will wend its way, and the prayers will be  
-said, we shall be left in the darkness and silence  
-of the tomb, and it may be but a short time we  
-shall be spoken of, but the things of life shall  
-creep on and our names shall be furgutten. Days  
-shall continue to move on, and laughter and songs  
-will be heard in the room where we died; and  
-the eyes that mourned for us be dry and animated  
-with joy, and even our children will cease to  
-think of us, and will remember to lisp our names  
-no more
+A Beautiful Extract.—Generation  
+after generation, says a fine writer, have  
+felt as we feel now, and their lives were  
+as active as our own. They passed away  
+like a vapor while Nature wore the same  
+aspect of beauty as when her Creator  
+commanded her to be. The heavens shall  
+be as bright over our graves as they are  
+now around our paths. The world will  
+have the same attractions for ouf off­  
+spring yet unborn, that she once had for  
+ourselves, and that she has now for our  
+children. Yet a little while and all will  
+have happened. The throbbing heart will  
+be stilled, and we shall be at rest. Our  
+funeral will wind its way, and the prayers  
+will be said, and our friends will ail re­  
+turn, and we shall be left behind In si­  
+lence and dafkness for the worm. And  
+it may be for a short time we shall be  
+spoken of, but the things of life will  
+creep in, and our names will soon be for­  
+gotten. Days will continue to move on,  
+and laughter will be heard in the room in  
+which we died; and the eye that mourned  
+for us will be dried and glisten with joy;  
+and even our children will cease to think  
+of us, and will not remember to lisp our  
+names. Then shall we have become, in  
+the touching language of the psalmist,  
+“ forgotten and gone out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1863-10-29_31_46&#0036;3/pct:51.069863,64.862698,12.000516,7.265985/600,/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_eggharbor_ver01%2Fdata%2Fsn83032312%2F00513685257%2F1863102901%2F0134.jp2/pct:68.647575,69.721632,12.369641,19.524062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4175,37 +3949,6 @@ mind.”
 
 ---
 
-## [From _Muscatine weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027253/1863-12-04/ed-1/seq-1)
-
-#### 1863-12-04 &middot; Muscatine, Iowa
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-as they are about our paths. Yet a little  
-while and all this will have happened. The  
-throbbing heart will be stilled, and we shall  
-be at rest. Our funeral will wend its way,  
-and the prayers will be said we shall be  
-left in the darkness and silence of the tomb,  
-and it may be but a short time we shall be  
-spoken ofj but the things of life shall oreep  
-on, and our names shall be forgotten. Days  
-shall continue to move on, and laughter and  
-songs will be heard in the room where we  
-died anif his eyes that mourned for us be  
-dry and animated with joy, and even our chil­  
-dren will ceaae to think of us, and will re­  
-member to lisp our names no more.  
-  
-At New Orleans on the 13th, superfin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528529%2F1863120401%2F0555.jp2/pct:27.347722,85.632904,11.213429,7.701948/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1864-06-24/ed-1/seq-1)
 
 #### 1864-06-24 &middot; Bel Air, Md.
@@ -4243,204 +3986,6 @@ dren will cease to think of us and will not |
 remember to lisp our names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625479%2F1864062401%2F0069.jp2/pct:63.577505,62.479835,15.115844,16.604765/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1864-08-10/ed-1/seq-1)
-
-#### 1864-08-10 &middot; Clearfield, Pa.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-we would have peace and content through­  
-out the land again, soon, let us have the  
-500,000 new rceruita.  
-Timee Generation after generation have  
-felt as we do now, and tlreir lives were as  
-active as our own. The heavens will be as  
-bright over our graves as they are about our  
-paths. Yet a little while and all this will  
-have happened. The throbing heart will be  
-stilled, and we shall be at rest. Our funer­  
-al will wend its way, and the prayers will be  
-said ; we shall be left in the darkness and si­  
-lence of the tomb, and it may be for a short  
-time we shall be epoken of, but the things  
-of life shall creep on and our names shall Ce  
-forgotten. Days shall continue to move too,  
-and laughter and songs will be heard in the  
-room where we died ; and the eyes that  
-mourned for us be dry and animated with  
-joy, and even our children will cease to think  
-of us, and will remember to lisp our names  
-no more.  
-A Proper Rebuke. In the 5th ward cf  
-Harrisburg, on Tuesday Aug 2d, a son of  
-the &quot; Emerald Isle,&quot; came to the Polls t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477801%2F1864081001%2F0401.jp2/pct:65.809458,60.002598,14.670349,14.029618/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Article 1 -- No Title
-
-#### From _German reformed messenger._
-
-#### 1864-11-16 &middot; Chambersburg, Pa.
-
-[This text is not available under an open license.]
-
----
-
-## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-02-18_21_50?page=4)
-
-#### 1865-02-18 &middot; Philadelphia
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-paths. Yet a little while, and all this will  
-have happened. The throbbing heart will be  
-stilled, and we shall be at rest. Our funeral  
-will wend its way and the prayers will be said,  
-we shall be left in the darkness and the sileace  
-of the tomb, and it may be, for a short time we  
-shall be spoken of, but the things of life shall  
-creep on, and our names shall be forgotten.  
-Days shall continue to move on, and laughter  
-and songs will be heard in the room where we  
-died; and the eyes that mourned for us be dry  
-and animated with joy, and even our children  
-will cease to think of us, and remember to lis
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-02-18_21_50&#0036;4/pct:12.305516,43.323996,33.486563,15.312792/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1865-03-09/ed-1/seq-1)
-
-#### 1865-03-09 &middot; Towanda, Pa.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-GENERATION after generation have felt as  
-we do now, and their lives were an active  
-as our own. The heavens will be as bright  
-over our graves as tliey are about our  
-paths. Yet a little while and all this will  
-have happened. The throbbing heart will  
-bo stilled, and we shall be at rest. Our  
-funeral train wiil wend its way, and the  
-prayers will be said, we shall be left in the  
-darkness and silence of the tomb&quot;, and it  
-may be but for a short time we shall be  
-spoken of but the things of lilts shall creep  
-on and our names shdll be forgotten. Days  
-shall continue to move on. and laughter  
-and song will be heard in the room where  
-we died ; and the eyes that mourned for us  
-be dry and animated with joy, and even  
-our children will cease to think ot us, an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028654%2F1865030901%2F0245.jp2/pct:41.555722,80.430774,12.979307,9.268275/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1865-04-26/ed-1/seq-1)
-
-#### 1865-04-26 &middot; Woodsfield, Ohio
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-years of blood and darkness, we had  
-  
-brought back to them the same hearts of  
-  
-love that they had smitten in these long  
-four years.  
-  
-Our Turn Must Come. &quot; Generation  
-after generation,&quot; says a fine writer,  
-&quot;have felt as wo now feel, and their  
-lives were active as our own. They pass­  
-ed like a vapor, while nature wore the  
-same aspect of beauty as when her Crea­  
-tor commanded her to be. The heavens  
-shall be bright over our graves as they  
-are now around our paths. The world  
-will have the same attractions for our  
-offspring yet unborn, that she had once  
-for us as children. Yet a little while  
-  
-aud all will have happened. The throb­  
-bing heart will be satisfied, and we shall  
-be at rest. Our funeral will find its way,  
-and prayers will be said, and then we  
-shall be left alone in silence and darkness  
-for the worms. And it may be for a  
-short time we shall be spoken of, but the  
-  
-things ot life will creep in, and our  
-names will soon be forgotten. Days will  
-continue to move on, and laughter and  
-song will be heard iu the room in which  
-we died ; and the eyes that mourned fo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027467%2F1865042601%2F0392.jp2/pct:69.122443,59.281366,24.399644,24.256894/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Howard union._](https://chroniclingamerica.loc.gov/lccn/sn89066162/1865-06-15/ed-1/seq-3)
-
-#### 1865-06-15 &middot; Glasgow, Mo.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-writer, &quot;have felt as we now feel, and their  
-lives were as active as our own. They  
-passed like a vapor, while nature wore the  
-same aspect of beauty as when her Creator  
-  
-commanded her to be. I he world wilt  
-have the same attraction for our offspring  
-yet unborn, that she had once for us as chil­  
-dren. Yet a little while, and all will have  
-happened. The throbbing heart will be  
-  
-s&#x27;lfled, and we shall be at rest. Our fune­  
-ral will find its way, and prayers be said,  
-and we shall be left alone in - silence and  
-  
-darkness for the worms.&#x27; And it may be  
-  
-for abort tlu to wilt W vka of, btrt  
-  
-the tninga of lite will creep in, and our  
-  
-names will soon be forgotten. Days will  
-  
-continue to move on, and laughter and song  
-  
-win be heard in me room in wmcu we  
-died ; and the eyes that mourned for us will
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn89066162%2F00200292479%2F1865061501%2F0458.jp2/pct:35.050929,43.262519,13.241462,10.242792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4937,6 +4482,39 @@ our name
 
 ---
 
+## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt7c2f7jqr32?page=3)
+
+#### 1868-03-19 &middot; Mount Sterling, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+eration after generation, says an eloquent  
+modern writer, have felt as we feel, and  
+their bellows were as active in life ns oui-s  
+are now. They passed away as a v.apov.  
+while nature wore the same aspect of beau-  
+ty as when her Creator commanded her to  
+be. And so likewise shall it bo when we  
+are gone. The heavens will be bright over  
+our graves as they are now around onr path  
+the world will have the same attraction for  
+onr offspring yet unborn that she had once  
+for purselve.s, and that she lias now for onr  
+children. Yet a little while, and all this  
+will have happened! Days will continue  
+to move on, and laughter and song will re-  
+sound ill the very chamber in which we died  
+and the eye that mourned for ns will be dry  
+and will glisten for joy; and oven our chil-  
+dren will cease to think of us, and will no
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7c2f7jqr32&#0036;3/pct:18.909024,55.077553,12.429068,12.979222/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1868-04-09/ed-1/seq-1)
 
 #### 1868-04-09 &middot; Troy, Lincoln County, Mo.
@@ -5215,45 +4793,9 @@ for the worms. And, it may be, for a short
 time we shall be spoken of but the things  
 cf life will creep in, and our names will soon  
 be forgotten. Days will continue to move  
-ou, and laughter and song will be heard in  
-the room in which we died ; and the eye  
-that mourned for us w ill be dried, and  
-glisten again with joy ; and even our child­  
-ren will cease to think of us, and will  
-not remember ‘ o lisp our names.”
+ou, and laughter and song will be heard i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151209%2F1868060401%2F0161.jp2/pct:49.173593,84.316300,11.106334,11.700770/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1868-06-09/ed-1/seq-1)
-
-#### 1868-06-09 &middot; Staunton, Va.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Yet a little while all will have happened. The  
-throbbing heart will be stilled, and all will be c  
-at rest. Our funeral will wind its way; and I  
-prayers will be said, and then we shall be left  
-alone in silence and darkness for the worms.— c  
-And, it may be, for a short time we shall be I  
-spoken of, but the things of life will creep in,  
-and our names will soon be forgotten. Days c  
-will continue to moye on, and laughter and f  
-sons: will be heard in the room in which we  
-died : and the eye that mourned for us will be *  
-dried, and glisten again with joy ; and even our  
-children will cease to think of us. and will not I  
-remember to lisp our names.&quot;  
-  
-ft- J  
-Silent Influences.—lt is the bubblin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762489%2F1868060901%2F0098.jp2/pct:70.021299,44.992966,13.334221,7.171132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151209%2F1868060401%2F0161.jp2/pct:49.173593,84.316300,11.106334,9.494109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5304,79 +4846,6 @@ will cease to think and will not remember
 to lisp onr names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769325%2F1868061201%2F0290.jp2/pct:70.892807,30.819357,12.697080,13.022113/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1868-06-16/ed-1/seq-1)
-
-#### 1868-06-16 &middot; Charles Town, Va. [W. Va.]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Yet a little while all will have happened.  
-The throbbing heart will be stilled, and all  
-will be at rest. Our futeral will wind its  
-way ; ancT prayers will be said, and then we  
-shall be left alone in silence and darkness  
-for the worms. And, may it be, for a short  
-time we shall be spoken of, but things of life  
-will creep in, and our names will Eoon be  
-forgotten. Days will continue to move oa,  
-and laughter and song will be heard in the  
-room in which we died; and the eye that  
-mourned for us will be dried, and glisten  
-again with joy; and even our children will  
-cease to think of us, and will not remember  
-to lisp our names.&quot;  
-? Two Irishmen were travelling, when  
-they stopped to examine a guide-board,  
-&quot;Twelve miles to Portland.&quot; i?aid one
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192324%2F1868061601%2F0100.jp2/pct:57.182820,83.587318,13.225168,10.187058/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1868-06-19/ed-1/seq-1)
-
-#### 1868-06-19 &middot; Irasburgh, Vt.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-their lives were as active as our own.  
-They passed like vapor, while nature  
-wore the same aspect of beauty as  
-when her Creator commanded her to  
-be. The heavens shall be as bright  
-over our graves as they are How  
-around our paths. The world will  
-have the same attractions for our off­  
-spring yet unborn as she had once for  
-our ancestors. Yet a little while, and  
-all will have happened. The throb­  
-bing heart will be stifled, and all will  
-be at rest. Our funeral will wind it3  
-way, and prayers will be said and  
-then we shall be left alone in silence  
-and darkness for the worms. And, it  
-may be for a short time we shall be  
-spoken of but the things of life will  
-creep in, and our names will soon be  
-forgotten. Days will continue to move  
-on, and laughter and song will be  
-heard in the room in which we died ;  
-and the eye that monrneth for us will  
-be dried, and glisten again with joy;  
-and even our children will cease , to  
-think of us, and will not remember to  
-lisp our names.&quot; . 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194953%2F1868061901%2F0503.jp2/pct:83.281383,71.825566,11.107963,14.749893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5989,16 +5458,6 @@ lisp our name
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn84027696%2F0041421258A%2F1868121501%2F0353.jp2/pct:26.554250,78.833333,10.956396,13.253472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Passing Away
-
-#### From _Vermont chronicle._
-
-#### 1869-01-09 &middot; Bellows Falls, Vt.
-
-[This text is not available under an open license.]
 
 ---
 
@@ -6975,6 +6434,49 @@ touching language of the psalmist,
 
 ---
 
+## [From _The Weekly Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn89051253/1872-04-03/ed-1/seq-1)
+
+#### 1872-04-03 &middot; Washington, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Generation after generation, nays an  
+eloquent writer, have felt as we feel,  
+nnd their fellows were as active in life  
+as ours nre now. They passed awny  
+us a vapor, while nature wore the same  
+aspect of beauty as when the Creator  
+commanded her to bo. The heavens  
+will be as bright over our graves as  
+they nre now mound our path; the  
+world will have the same attraction for  
+offsprings yet unborn thnt she hnd once  
+for ourselves, nnd that she has now for  
+our children.  
+“Mother, where is the man to sleep?*  
+asked a girl of fifteen of her mother,  
+who had just offered a traveler a night’s  
+rest in their out of-the way hut. “I’ll  
+put him in with you and .lack and Sue  
+and Kate and Bet, I suppose,* was  
+the reply, “and if it is too crowded,  
+one of yon must turn in with mo and  
+dad and Dick nnd Tom and the twins.”  
+A bill has been introduced in the  
+| Missouri senate which practically aM­  
+ishes the death penalty, by leaving the  
+mode of punishment to the jury so far  
+ns to allow them to decide whether the  
+prisoner shall bo hanged or imprisoned  
+tor life.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn89051253%2F0051368826A%2F1872040301%2F0173.jp2/pct:36.146887,71.966320,14.167433,22.904628/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1872-04-17/ed-1/seq-1)
 
 #### 1872-04-17 &middot; Warren, Ohio
@@ -6998,6 +6500,45 @@ that It baa now for our children.
 It is said the more clumsy, awk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872041701%2F0164.jp2/pct:25.102298,90.459592,9.490085,6.132197/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Weekly Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn89051253/1872-05-15/ed-1/seq-1)
+
+#### 1872-05-15 &middot; Washington, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+soon forgotten. Generation after gen­  
+eration, says an eloquent writer, have  
+felt as we feel, and their fellows were  
+as active in life as ours arc now. They  
+passed away as a vapor, while nature  
+wore tho same aspect of beauty as  
+when the Creator commanded her to  
+be. The heavens will be as bright  
+over our graves as they are now around  
+our path; the world have the same at­  
+traction for offsprings yet unborn that  
+she had once for ourselves, and that  
+she has now for our children.  
+XXThat XVashington knew about farm­  
+ing was worth knowing. In 1787 ho  
+diad five hundred and eighty acres in  
+grasstsowed six hundred bushels of oats;  
+seven hundred acres of wheat, and as  
+much more in corn, barley, potatoes,  
+beans, peas, Ac., and one hundred and  
+fifty with turnips. His stock consisted  
+of one hundred and forty horses ; one  
+hundred and twelve cows; one hundred  
+and thirty six working oxen, heifers,  
+and steers, and five hundred sheep
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn89051253%2F0051368826A%2F1872051501%2F0197.jp2/pct:48.937153,50.120105,14.125077,19.792190/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8107,12 +7648,9 @@ short time we shall be spoken of, but
 the things of life will creep in, and our  
 names will soon bo forgotten. Days  
 will continue to move on, and laughter  
-and song will he heard in the room in  
-which we died; and the eye that  
-mourned for ns will lie dried, and glisten  
-again with joy. Our turn must come
+and song will he heard in the room i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624542%2F1876022601%2F0326.jp2/pct:15.171452,53.049358,11.363339,16.777102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624542%2F1876022601%2F0326.jp2/pct:15.171452,53.049358,11.363339,14.753212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8148,12 +7686,9 @@ lisp our names.—Goodrich.
 Celery is the greatest food in the world  
 for nerves. Persons doing much brain  
 work find it invaluable. In cities, where  
-the brain and nerves are called to severe  
-exercise, people hunger for it, and the de­  
-mand for it grows so that ignorant people  
-cannot understand why it should be so. I
+the brain and nerves are called to sever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340688%2F1877070501%2F0111.jp2/pct:71.555134,40.486232,10.745926,14.478417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340688%2F1877070501%2F0111.jp2/pct:71.555134,40.486232,10.745926,12.853510/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

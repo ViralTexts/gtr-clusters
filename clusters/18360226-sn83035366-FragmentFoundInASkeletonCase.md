@@ -1,7 +1,7 @@
 
 # A Fragment Found in a Skeleton Case
 
-### 174 reprints from 1815-11-01 to 1899-06-05
+### 176 reprints from 1815-11-01 to 1899-06-05
 
 ## [A Fragment Found in a Skeleton Case](http://chroniclingamerica.loc.gov/lccn/sn83035366/1836-02-26/ed-1/seq-4/)
 
@@ -757,6 +757,120 @@ And tread the palace of the sky
 #### 1820-11-29 &middot; Louisville, Ky.
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt776h4cp57q?page=2)
+
+#### 1820-12-14 &middot; [Lexington, Ky.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+FOR  
+  
+18 2 1 ,  
+  
+POIi SALE at THE G.iHTTE OFFICE.  
+  
+g aum.  
+  
+The following stanzas - ere handed to us by :.  
+friend a lew d^ia since He did not know  
+the author ; nor’ do w&#x27;e recollect to have  
+ever read’ them betore 1 he note of Uic  
+transcriber remarked that tlwse lines art:  
+the production of no ordinary mind, to  
+which every one will readily assent— he  
+picture was undoubtedl&#x27; suggested by one  
+of the finest passages m Hamlet : but the  
+thoughts are tiappilv conceived and elegant-  
+ly expressed.  
+  
+A FRAGMENT,  
+  
+roCSU 1* * 8IKLXTOX CASE-  
+  
+Behold this &quot;bn ! &quot;t w a, a scull  
+Once of eternal spirit full !  
+  
+That narrow cell was fife’s retreat!  
+  
+This space was thought’s mysterious seat!  
+What beauteous pictures fill’d the spot •  
+  
+What dreams of pleasure long firgot &gt;  
+  
+Nor Love, norJoy.nor flope nor I- ear.  
+  
+Has left no trace or record here !  
+  
+Beneath this mouldering canopy  
+Once shone the bright and busy eye —  
+  
+But start not at the dismal void !  
+  
+If social love that eye employ’d,  
+  
+If with no lawless fire it gleam’d,  
+  
+But through the due -of kindness beam&#x27;d.  
+  
+That eye sha 1 be forever bright,  
+  
+V h n stars and suns have lost their light !  
+  
+/  
+  
+Here in this silent ca, cm hung,  
+  
+That ready, swift and tuneful tongue,’  
+  
+Iff. sehood’s honey it disdain’d,  
+  
+Ai.d where it could not pra.se w as chain’d ;  
+  
+If bold in virtue’s cause it spi ke,  
+  
+Yeigtntle concord never bloke ;  
+  
+T .at tuneful tongue shall pleau for thee,  
+  
+V hen death unveils eternity f  
+  
+Ss- , did thest fing rsdelve the mine.  
+  
+Or w ith its i nvieu rubies shine 1  
+To hew the rock nr wear the gem.  
+  
+Can nothing now&#x27; avail to them.  
+  
+But if the page of truth they sought,  
+Orcomfortto the mourn. r brought,  
+  
+These hands a richer meed shall claim.  
+  
+Than all that wails on wealth or fame !  
+  
+Av.tils it whether bare or shod.  
+  
+These feet the path of virtue trod ?  
+  
+If from the boyver of| 0 &gt; they fled.  
+  
+To sooth affliction’s humble bed  
+If grandeur’s guilty bribes they spum’d,  
+  
+And home to virtue’s lap return’d ;  
+  
+These feet with angels’ wings shall vie,  
+  
+And tread the palace ot the sk\ ! 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt776h4cp57q&#0036;2/pct:78.665828,94.255713,13.698343,2.285361/600,/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6860,6 +6974,52 @@ These feet with angel&#x27;s wings shall vie
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_endeavour_ver01%2Fdata%2Fsn86063034%2F00414182148%2F1895041501%2F1256.jp2/pct:58.421078,54.898971,12.522650,13.938239/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Dawson news._](https://chroniclingamerica.loc.gov/lccn/sn89053283/1895-04-24/ed-1/seq-3)
+
+#### 1895-04-24 &middot; Dawson, Ga.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+record here.  
+Beneath this moualdering canopy  
+Once shown the bright and busy eye;  
+But start not at the dismal void—  
+If social love that eye employed,  
+If with no lawless fire it gleamed,  
+But thro’ the dews of kindness beamed,  
+That eye shall be forever bright,  
+When stars and sun are sunk in night.  
+Within this hollow cavern hung  
+The ready, switt and tunefcl tongue;  
+If falsehood’s honey it disdained,  
+And when it could not praise was chained;  
+If bold in virtue&#x27;s cause it spoke,  
+Yet gentle concords never broke,  
+This silent tongue shall plead for thee  
+When Time unveils Eternity.  
+Say, did those fingers delve the mine?  
+Or with its envied rubies shine?  
+To hew the rock or wear the gem  
+Can little now avail to them.  
+But if the page of truth they sought,  
+Or comfort to the mourner brought, -  
+These hands a richer meed shall claim  
+Than all that wait on Wealth or Fame.  
+Avails i% whether bare or shod,  
+These feet the path of duty trod?  
+If from the bows of ease they fled  
+To seek affliction’s humble shed;  
+If grandeur’s guilty bribe they spurned,  
+And home to virtue’s cot returned, -  
+These feet with angel&#x27;s wings shall vie  
+And tread the palace of the sky
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_abby_ver02%2Fdata%2Fsn89053283%2F00517177003%2F1895042401%2F1030.jp2/pct:19.564747,56.821444,17.285621,20.312448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

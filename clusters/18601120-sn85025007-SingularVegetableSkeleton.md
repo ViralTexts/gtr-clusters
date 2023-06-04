@@ -1,7 +1,7 @@
 
 # A Singular Vegetable Skeleton
 
-### 79 reprints from 1860-11-17 to 1877-09-23
+### 80 reprints from 1860-11-17 to 1877-09-23
 
 ## [A Singular Vegetable Skeleton](http://chroniclingamerica.loc.gov/lccn/sn85025007/1860-11-20/ed-1/seq-4/)
 
@@ -1019,9 +1019,9 @@ crook at the knee, which makes the whole l&gt;e.i
 
 ---
 
-## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8?page=3)
+## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8?page=3)
 
-#### 1866-10-27
+#### 1866-10-27 &middot; Boston [Mass.]
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1473,6 +1473,30 @@ toes. . One of these roots formed a
 slight crook at the knee, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033395%2F00212470363%2F1867013101%2F0291.jp2/pct:55.720721,63.810861,12.027027,10.849719/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Shelby sentinel._](https://iiif.archivelab.org/iiif/xt76125qbf9s?page=0)
+
+#### 1867-02-20 &middot; Shelbyville, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+two of its roots through the earth till it  
+reached tin precise spot occupied by the  
+skull of Roger Williams. There making  
+a tnrn. as if going round the skull, it fol-  
+lowed tho direction of the back-bone to  
+the hips. Here it divided into two branch-  
+es, sending one along each leg to the heel,  
+where they both turned upward to the toes.  
+One of these ro..ts formed a slight crook  
+at the knee, which makes the whole bear 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt76125qbf9s&#0036;0/pct:82.461024,40.969435,12.402561,5.063291/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

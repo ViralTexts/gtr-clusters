@@ -186,9 +186,9 @@ It was not made for political effect, bu
 
 ---
 
-## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1871-07-01_9_44?page=0)
+## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1871-07-01_9_44?page=0)
 
-#### 1871-07-01
+#### 1871-07-01 &middot; Boston [Mass.]
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

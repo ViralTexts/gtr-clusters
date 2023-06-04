@@ -1,7 +1,7 @@
 
 # The Properties of the Tomato
 
-### 222 reprints from 1834-08-22 to 1897-02-19
+### 228 reprints from 1834-08-22 to 1897-01-19
 
 ## [The Properties of the Tomato](https://chroniclingamerica.loc.gov/lccn/sn84023127/1852-08-20/ed-1/seq-1/)
 
@@ -282,6 +282,45 @@ article of the Materia Alimentaria, &amp;c. &amp;ce,
 #### 1835-08-22 &middot; Boston [Mass.]
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7k6d5p940c?page=0)
+
+#### 1835-08-22 &middot; [Lexington, Ky.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+in the cure of di.seasc.  
+  
+3d. That he has .successfully treated  
+serious dianhera with this article alone.  
+  
+4th. That when used as an article of  
+diet it i.s almost a sov^eign remedv for  
+dyspepsia or indigestion.  
+  
+5th. That persons removing from tlio  
+East or North, to the West or South,  
+should by all means, make use of it as an  
+aliment, as it would, in that event, save  
+them from the&#x27; danger attendant upon  
+those violent bilious attacks to which al-  
+most all unacclimalcd jicrsons are liable.  
+  
+0th. That the citizens in general should  
+make use of it, either raw, cooked, or in  
+form of a catsup, with their daily food, as  
+it is the most healthy article of the Ma-  
+teria Alimentara. &amp;e.  
+  
+Now if these jiositions he true, it is o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7k6d5p940c&#0036;0/pct:79.810661,25.708855,13.871167,11.785205/,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1358,6 +1397,60 @@ lents that belong to the vegetable kingdom.”
 
 ---
 
+## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt76m901zv8k?page=1)
+
+#### 1837-08-10 &middot; [Lexington, Ky.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+: w ili dry enough iu three or hair days to pack  
+juwiiy in hag*, which should hang in a dry  
+, loom.” We consider the Tomato and Rheu-  
+burb the most healthy products of the garden.  
+  
+Professor Kafinesqiie says of the &#x27;1 omato, “it  
+is every where deemed a very healthy vegeta-  
+ble, and an invaluable article for food.”  
+  
+Ptclessor Dickinson writes — “l think it more  
+wholesome than any other acid sauce.”  
+  
+Professor Dunglison says — “It may be look-  
+ed upon as one ot&#x27; the most wholsome and valu-  
+able * sculciit? that belong to the vegetable  
+kingdom .” — Columbus , Mississi/rjri, Democrat.  
+  
+THE TOMATO.— YVe arc receiving new  
+evidence of the utility of this grateful garden  
+vegetable in preserving health, and in curing  
+indigestions, and disease- of the liver ahd lungs.  
+A writer iu the Fanner&#x27;s Register, sftys it has’  
+been tried by several persons, to his knowledge,  
+with decided success. They were afflicted, says  
+he, with chronic cough, the primary cause of,  
+which, in one case, was supposed to be a dis-  
+eased liver — in another, diseased lungs. It&#x27;  
+mitigates, and sometimes effectually checks, a  
+fit of coughing. It was used in a dried state,!  
+with a little sugar mixed with it, to render it  
+more agreeable to the taste. The writer ex* j  
+presses a conviction, that freely used in July, !  
+August, and Septemor r, it would prove a com- 1  
+plete antidote to bilious fever. The Tomato,  
+to have it in early use, should be started wilh  
+us in a hot bed ; though if raised in abundance  
+it may be dried, whirh ir- our practice, and  
+may be at command through the year. The  
+mode of drying is as follows: “Full ripe Toma-  
+toes nro scalded in hot water, to facilitate th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt76m901zv8k&#0036;1/pct:51.246073,5.774980,28.565445,86.199843/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-08-19/ed-1/seq-2)
 
 #### 1837-08-19 &middot; Richmond, Ind.
@@ -1654,6 +1747,70 @@ mitigates, a sometimes effectually el
 fit of coughing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-10-13_22_41&#0036;3/pct:49.721494,83.122986,14.728047,4.390440/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7d251fjt2w?page=1)
+
+#### 1838-06-28 &middot; [Lexington, Ky.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+2nl. That a chemical er tract wiii  
+  
+probably soon be obtained from it, which  
+will altogether supersede the use of calt»-  
+mei in the cure of discuse.  
+  
+3d. That lie lias successfully treated  
+•erious diarihma with this article Alone. .  
+  
+4;h. That when used as an article of  
+diet, it is almost a sovereign remedy for  
+dyspepsia or indigestion.  
+  
+5lh. That persons removing from the  
+east or north to west or south, should bv  
+all means make use of it as an aliment,  
+as it would in that event save them from  
+the danger attendant upon ihose violent  
+bilious attacks to which almost all unac-  
+climated persons are liable.  
+  
+Gih, That the citizens in general  
+should make use of it either raw, cooked,  
+or m the form of catsup in their daily  
+food, as it is the most heally article of  
+the Materia Alimentnria.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7d251fjt2w&#0036;1/pct:80.300501,4.571696,14.482471,12.529256/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7d251fjt2w?page=1)
+
+#### 1838-06-28 &middot; [Lexington, Ky.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The doctor says:  
+  
+1st. That it is one of the most power-  
+ful deobstruents of the Materia Medico,  
+and that in ihose affections of the liver,  
+nnd other organs where calomel is indi.  
+cated, it is probably the most effective,  
+and least harmful remedial agent, known  
+by the profession;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7d251fjt2w&#0036;1/pct:66.339733,88.079264,14.065109,4.852551/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2639,7 +2796,7 @@ cation of its effects, dependent upon the s
 
 ---
 
-## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1852-07-31_7_46?page=1)
+## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1852-07-31_7_46?page=1)
 
 #### 1852-07-31 &middot; New York
 
@@ -2682,6 +2839,89 @@ crumbed, or a couple of crackers pulverized.
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1852-07-31_7_46&#0036;1/pct:49.245473,71.528728,19.642857,20.776334/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Worcester daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021205/1852-08-05/ed-1/seq-1)
+
+#### 1852-08-05 &middot; Worcester [Mass.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+The Tomato.—To many persons there is some­  
+thing unpleasant, not to say disgusting, in the flavor  
+of this excellent fruit. It has, however, lung been  
+used for culinary purposes, in various countries ol  
+Euiope, and has ot late years been exlcusively cul­  
+tivated, and become a general favorite in this coun­  
+try. Dr. Bennett, a professor of some celebiily,  
+considers it an invaluable article of diet, and as­  
+cribes to it very important medicinal properties.  
+He declares:  
+1. That the Tomato is one of the most powerful  
+deobstruents of the Materia Medic a, and that in all  
+those affections of the liver and other organs where  
+calomel is indicated, it is probably the most effective  
+and least harmful remedial agent known to the pro­  
+fession.  
+2. That a chemical extract will he obtained from  
+it, which will altogether supersede the use of calo­  
+mel in the cure of diseases.  
+3. That he has successfully treated diarrhoea,  
+with this article aioue.  
+4. That, when used as an article of diet, it is al­  
+most a sovereign remedy (or dyspepsia and indi­  
+gestion.  
+5. That persons arriving from the east or north,  
+to the south or west, should by all means make use  
+of it as an aliment, as it would, in that event, save  
+them the danger attendant upon those violent billions  
+attacks to which almost all unacclimated persons are  
+liable.  
+6. That the citizens in ordinary should make use  
+of it, t iiher raw, cooked, or in the form of a catsup,  
+with their daily food, as it is the most healthy arti­  
+cle in the materia aliment aria.  
+Professor Rafiuegqiie, of France, says:—“It is  
+everywhere deemed a very healing vegetable, and  
+an invaluable article of food.”  
+Dungleson says:—“lt may be looked upon as one  
+of the most wholerome and valuable esculents that  
+b -long to the vegetable kingdom.”  
+Professor Dickens asserts that it may be consid«  
+ered more wholes . ie than any other acrid sauce.  
+A writer in the Farmer&#x27;s Register says:—“lt has  
+been tried by several persons, with decided success.  
+They were afflicted with a chronic cough, the pri­  
+mary cause of which, m one case, was supposed to  
+be diseased liver—in another, diseased lungs. It  
+mitigates, and sometimes effectually checks a fit of  
+coughing.  
+The method most commonly adopted in preparing  
+this liuit for daily use, is to cut them in slices,  
+and serve with salt, pepper and vinegar, as you do  
+cucumbers.  
+To stew them, remove them ripe from the vines,  
+slice up, and put them in a pot over the stove or  
+fire, without water. Slew them slowly, and when  
+done, put in a 6tnall piece ot good butter, and eat  
+them as you do apple sauce. Some add a little  
+flour bread, finely crumbled, or a couple of crackers  
+pulverized.  
+The Tomato is a fruit very easily raised. If the  
+seed be sown in May, in good rich soil, of a warm  
+nature, with a sufficiency of old, well-rotted manure,  
+there will rarely be any danger of failure. When  
+tne vines begin to lean, they should be provided with  
+a trellis, or tied to stakes fixed in the soil, to keep  
+the fruit from being injured by coming in contact  
+with the dirt.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mb_artemis_ver01%2Fdata%2Fsn83021205%2F00517172145%2F1852080501%2F0271.jp2/pct:63.536181,61.872366,14.555295,32.858833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4872,6 +5112,26 @@ powerful aperients of the liver and othe
 
 ---
 
+## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1859-08-31/ed-1/seq-2)
+
+#### 1859-08-31 &middot; Van Buren, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+1 he Tomato.—Bennett, a professor  
+of some celebrity, considers the tomato an  
+invaluable article of diet, and ascribes to it  
+very important medical properties :  
+Ist. That the tomato is one of the most  
+powerful aHperients of the liver and othe
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn84022991%2F00513688052%2F1859083101%2F0034.jp2/pct:72.210943,70.943443,12.468114,3.556434/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1859-08-31/ed-1/seq-4)
 
 #### 1859-08-31 &middot; Ashland, Ashland County, Ohio
@@ -6291,6 +6551,46 @@ Healthy article.—fRepository.
 
 ---
 
+## [From _The Weekly Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn89051253/1871-12-13/ed-1/seq-2)
+
+#### 1871-12-13 &middot; Washington, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The Tomato and its ProfertieM  
+Dr. Bennett, a professor of some cele­  
+brity, considers itnn invaluable article  
+of diet, and ascribes to it very impor­  
+tant and medicinal properties:  
+1. Timt the tomato is one of the!  
+most powerful aperients of materia  
+medica, nnd that in all these affections  
+of the liver nnd organs where calomel  
+is indispensable, it is probably the  
+most effective and least harmful rem­  
+edial agent known to the profession.  
+2. x hat a chemical extract pill can  
+I&#x27;e obtained from it which will alto­  
+gether supercede the use of calomel in  
+the cure of disease.  
+3. That hehns successfully treated  
+diarrhea with this article alone.  
+4. That when used ns an article of  
+diet, it is almost a sovereign remedy  
+for dyspepsia and indigestion.  
+5. That the citzens in ordinary  
+should make use of it, either raw,  
+cooked or in the form of a catsup,  
+with their daily food, as it is a most  
+healthy article
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn89051253%2F0051368826A%2F1871121301%2F0114.jp2/pct:65.670515,31.389890,13.621613,19.680096/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1871-12-29/ed-1/seq-3)
 
 #### 1871-12-29 &middot; Nashville, Tenn.
@@ -7535,31 +7835,6 @@ the most effective and least harmful
 remedial agent known. When used as an  
 article of diet it is almost a sovereign  
 remedy for dyspepsia and indigestion.
-</td></tr></table>
-
----
-
-## [Tomatoes and Cancer](http://trove.nla.gov.au/ndp/del/article/126298464)
-
-#### From _The Richmond River Herald and Northern Districts Advertiser (NSW : 1886 - 1942)_
-
-#### 1897-02-19 &middot; Coraki, New South Wales
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Of the numerous tributes paid to its  
-value by medical men, I quote from the  
-eminent physiciuu Dr. Bennutt, who says  
-: — &#x27; The tomato is one of the most  
-powerful deohstruents [medicines for  
-removing obstructions] of the Materia  
-Medico, and in all affections of the  
-liver, it is probably tho most effective  
-and least harmful remedial agent known,  
-when used as an article of diet, it is  
-almost a sovereign remedy for dyspepsia  
-and indigestion.&#x27; In the Times and othe
 </td></tr></table>
 
 ---

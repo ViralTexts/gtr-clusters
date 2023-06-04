@@ -1,7 +1,7 @@
 
 # A Parody Parodied
 
-### 22 reprints from 1857-02-27 to 1892-03-10
+### 23 reprints from 1857-02-27 to 1892-03-10
 
 ## [A Parody Parodied](https://chroniclingamerica.loc.gov/lccn/sn83045462/1857-06-23/ed-1/seq-4/)
 
@@ -889,6 +889,94 @@ W red their bright wings, and whispered, “Yes
 in Heaven 1”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1858030301%2F0008.jp2/pct:3.391591,5.374476,12.884433,20.404618/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Frankfort commonwealth._](https://iiif.archivelab.org/iiif/xt7djh3d006k?page=0)
+
+#### 1865-05-05 &middot; Frankfort, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A PARODY.  
+  
+BY LOU.  
+  
+Tell me ye winged winds.  
+  
+That round my pathway roar.  
+  
+Do ye not know some spot  
+Where dandies come no more?  
+  
+Some lone and pleasant dell  
+With fresher, greener sod,  
+  
+Whore coats were never seen.  
+  
+And boots have never trod?  
+  
+The loud winds blow more soft and low,  
+  
+And gently murmured, “Maiden, so.&quot;  
+  
+Tell me, thou mighty deep,  
+  
+Whose billows round me roll,  
+  
+Know’st thou some favored spot,  
+  
+Beyond a man’s control;  
+  
+Where weary girls may find  
+The bliss for which they sigh?  
+  
+Whero lovers never tease,  
+  
+And beaux are never nigh?  
+  
+The waves a moment ceased to flow,  
+  
+And in their sorrow, whispered, “No.”  
+  
+And thou, 0 gentle moon,  
+  
+Though marr’d by man’s grim face,  
+Which look’st upon the earth,  
+  
+By lovely woman graced.  
+  
+Tell me — if in thy round  
+Some spot thou dost not know,  
+  
+Where whiskers are not found,  
+  
+And a moustache will not grow?  
+  
+The face within the moon was hid.  
+  
+And moon sighed, “No — but wish I did ”  
+  
+Tell me, my secret soul.  
+  
+Oh tell me, Hope and Faith,  
+  
+Is there no resting place  
+From dandies, fops and death?  
+  
+Where we poor girls can find  
+A happy, quiet home,  
+  
+To eat and drink in peace.  
+  
+And boys shall never come?  
+  
+Faith, Hope and Love, best boons to girls e’e
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7djh3d006k&#0036;0/pct:20.824742,15.573398,14.164948,21.648235/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

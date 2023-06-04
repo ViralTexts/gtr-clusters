@@ -1,7 +1,7 @@
 
 # Our Recipe for Curing Meat
 
-### 131 reprints from 1856-12-03 to 1884-11-20
+### 132 reprints from 1856-12-03 to 1884-11-20
 
 ## [Our Recipe for Curing Meat](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-11-08/ed-1/seq-1/)
 
@@ -1024,9 +1024,9 @@ be abandoned, @fhere is none that surpasses it,
 
 ## ODDS AND ENDS.
 
-#### From _Prairie Farmer (1843-1877)_
+#### From _Prairie farmer._
 
-#### 1865-12-02 &middot; Chicago
+#### 1865-12-02 &middot; Chicago, Ill.
 
 [This text is not available under an open license.]
 
@@ -1251,7 +1251,28 @@ is none that surpasses it, if so good
 
 ---
 
-## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20?page=2)
+## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7jdf6k385r?page=0)
+
+#### 1866-11-01 &middot; Louisville, Kentucky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+i rum is was Washington] bur by ming-  
+  
+iu sail snd sugar If this receipt is prop  
+  
+erly tried, it will never be abandoned  
+There is none that surpasses it, if so good  
+[Germ-intown Telegraph
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7jdf6k385r&#0036;0/pct:69.051852,43.992691,19.807407,3.586112/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20?page=2)
 
 #### 1866-11-10 &middot; New York
 

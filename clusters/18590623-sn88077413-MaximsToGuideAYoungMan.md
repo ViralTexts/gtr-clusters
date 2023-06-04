@@ -1,7 +1,7 @@
 
 # None (Sometimes "Maxims to Guide a Young Man")
 
-### 64 reprints from 1852-02-20 to 1899-01-27
+### 65 reprints from 1852-02-20 to 1899-01-27
 
 ## [None (Sometimes "Maxims to Guide a Young Man")](https://chroniclingamerica.loc.gov/lccn/sn88077413/1859-06-23/ed-1/seq-2/)
 
@@ -2314,7 +2314,7 @@ Drink no kind of intoxicating liquors.
 
 ---
 
-## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1894-12-08_71_23?page=8)
+## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1894-12-08_71_23?page=8)
 
 #### 1894-12-08 &middot; New York
 
@@ -2368,6 +2368,40 @@ of any one. Be just before you are gen­
 erous. Save when you are young an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn91068247%2F0029602305A%2F1894121401%2F0419.jp2/pct:17.197964,16.947027,12.831503,6.634625/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Daily Texarkanian._](https://chroniclingamerica.loc.gov/lccn/sn86090500/1895-01-15/ed-1/seq-2)
+
+#### 1895-01-15 &middot; Texarkana, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+him in the face, if any one speaks  
+ill of you, let your life be so that no  
+one will believe him. Live within  
+your income. Small and steady  
+gains brings the kind of riches that  
+do not take wings and fly away.  
+Earn money before yon spend It.  
+Never run Into debt unless you see  
+a sure way to get out of it. Never  
+borrow if you can possibly avoid It.  
+Do not marry until yon can support  
+a wife. Never speak evil of any  
+one. Be just before you are gener­  
+ous. Save when you are young and  
+enjoy when you are old,—[Boon­  
+ville Advertiser.  
+Very Much Off Color  
+Are people who are toubled with  
+chronic liver complaint. Bile in  
+the blood tinges the euticule an
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_eclipse_ver01%2Fdata%2Fsn86090500%2F00513687953%2F1895011501%2F0243.jp2/pct:8.833899,68.169952,12.505821,13.313530/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

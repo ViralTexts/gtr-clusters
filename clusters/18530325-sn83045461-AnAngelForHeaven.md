@@ -1,7 +1,7 @@
 
 # Wanted--An Angel For Heaven
 
-### 103 reprints from 1853-01-27 to 1879-08-16
+### 110 reprints from 1853-01-27 to 1879-08-16
 
 ## [Wanted--An Angel For Heaven](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-03-25/ed-1/seq-1/)
 
@@ -1383,6 +1383,47 @@ Qgli they may not return to thee
 
 ---
 
+## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1853-09-07/ed-1/seq-1)
+
+#### 1853-09-07 &middot; Washington, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+“You have two children?”  
+“I have four,” was the reply; “two on  
+earth and two in Heaven.” ,  
+Thus epoke the mother. Still hers!—  
+only “gone before!” Still remembered,  
+loved and cherished, by the hearth and the  
+board; their place not yet filled; even I  
+though their successors draw life from the &#x27;  
+same faithful breast where their dying heads  
+were pillowed.  
+“Two in Heaven!”  
+Safely housed from the storm and the  
+tempest; no sickness there, nor fading eyes,  
+no rweary feet. By the green pastures,  
+tended by the Good Shepherd, linger the  
+little lambs of the Heavenly fold.  
+“Two in Heaven !”  
+Earth less attractive&#x27;. Eternity nearer .  
+Invisible cords, drawing the maternal soul i  
+upwards. Still small voices, ever whisper- j  
+ing “come,&quot; to the world-weary spirit.  
+“Two in Heaven!”  
+“Mother of angels.” Walk softly  
+Holy eyes watch your footsteps&#x27;. Cherub  
+forms bend to listen! Keep thy spirit free  
+from earthly taint; so sbalt thy soul go to  
+them, though the
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn82014751%2F00513688234%2F1853090701%2F0133.jp2/pct:63.188244,71.451943,14.645337,17.155192/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Muscatine journal._](https://chroniclingamerica.loc.gov/lccn/sn88059754/1853-09-16/ed-1/seq-4)
 
 #### 1853-09-16 &middot; Bloomington, Iowa
@@ -1625,6 +1666,71 @@ dren of earth
 #### 1855-04-26 &middot; Fayetteville, N.C.
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1855-05-16/ed-1/seq-1)
+
+#### 1855-05-16 &middot; Washington, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ gentle- &#x27;  
+man so unmercifully, and still live to laugh &#x27;  
+and grow fat afterward, is a great proof of |  
+the advancing philosophy of cur times. A  
+Roman tailor incapable of collecting his I  
+. debts would, bcathen-like. have fallen upon  
+his sword or bung himself. Why do you  
+: not do likewise.  
+«»***#  
+I’. S.—My humanity suggests this advice  
+to you. Don&#x27;t go to any law cxjiCDses, a­  
+your letter found me dead broke. 1 was  
+just making up my list to go into bankrupt­  
+cy. and, by an old coincidence, was j ist  
+thinking of you, and that you would never  
+be paid, when your letter airived.  
+I. A. M. SHORT.  
+e—  
+Wanted—An Angel for Heaven.—  
+And so Death closed those little &lt; yes—  
+shrouded their bright glances. Oh! that  
+th..&#x27; sun would nut come streaming in ou that  
+shrouded form, as if there were no grief in  
+the world.  
+How sweetly he sleeps, tint little coveted  
+angel! How lightly curl the glossy ring­  
+lets on his white forehead ! \uu could weep ■  
+your very soul away to think those cherub  
+lips will never, never unclose. Vainly’ you  
+clasp and unclasp that passive,&#x27;darling hand i  
+that lias wandered so often over your cheek.  
+X&#x27;ainly your anguished glance strives to i  
+read the dim story of love in those faded  
+orbs. The voice, sweet as winds blowing i  
+through wreathed shells, slumbers forever. ,  
+Ar.d still the busy world knocks at your  
+door, and will let you have no peace. It  
+shouts in your ear ; its chariots rumble by ;  
+it smiles broadly iu your care worn face ; it  
+mocks you at the coffin, at the grave, and  
+its heavy footsteps tramp up and down in  
+the empty rooms from whence you have  
+borne your dead. But it comes never in  
+the hush of night, so wipe away your tears !  
+Wanted—an angel for Heaven! Can  
+you look up? Can yon bear the splendor  
+of that sight ? Ten thousand celestial be­  
+ings, and your own radiant child in their  
+midst.  
+Wanted—angels for Heaven ! Cling not  
+too closely to your beautiful treasures, chil­  
+: dren of earth 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn82014751%2F00513688246%2F1855051601%2F0057.jp2/pct:43.329405,40.454313,13.919291,29.564404/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1998,6 +2104,115 @@ closely to your beautiful treasures, children
 of Earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn84024443%2F00200293861%2F1855062201%2F0014.jp2/pct:17.323151,13.972269,23.874598,79.033978/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
+
+#### 1855-07-25 &middot; Lebanon, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Earth and IIeavek. — &quot;You have two  
+children,” said I.  
+  
+“I have four,” was the reply. &quot;Two  
+on earth, two in heaven.”  
+  
+There spoke the mother! Still her’s
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dr785jf2h&#0036;0/pct:65.295739,62.761251,14.288743,3.051106/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
+
+#### 1855-07-25 &middot; Lebanon, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+me that, gieat as were his intellectual j only &quot;gone before!” Still remembered,  
+powers, when the subject of religion was! loved and sherished, by the hearth and  
+presented to him, he was ever ready tolat the board; their places not yet filled;  
+respond toil; and was humble, teachable even though their successors draw life  
+and loving as a little child. from the same faithful breast where their
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dr785jf2h&#0036;0/pct:50.519398,65.797101,29.086284,3.081617/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
+
+#### 1855-07-25 &middot; Lebanon, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+for eye, and heart for heart, telegraphed  
+backwards and forwards like ’iled ligh!-  
+1 ning . — Sam Slick.  
+  
+Safely housed from storm and tempest,  
+no sickness there, nor drooping head, nor  
+fading eye, nor weary feet. By the green  
+  
+...» . . I -i — pastures, tended by the Good Shepherd,  
+  
+ling serpent in the garden of Laen, an jjjg face? Nothintj less than that j^^®^* The bargain being made, and thel^g Eastern travels, and as 1 rose to linger the little lambs of th® heavenly
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dr785jf2h&#0036;0/pct:6.275175,61.800153,87.979648,11.380625/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
+
+#### 1855-07-25 &middot; Lebanon, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+fold.  
+  
+&quot;Two in heaven!”  
+  
+Earth is less attractive! Eternity near-  
+er! Invisible cords drawing the mater-  
+nal soul upwards. &quot;Still small” voices.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dr785jf2h&#0036;0/pct:65.359339,73.165523,14.246343,2.959573/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
+
+#### 1855-07-25 &middot; Lebanon, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Mother of angels! Walk softly! holy j hardly give Mr. Morehead credit for a  
+eves watch thy feotsteps! cherub forms&#x27; great deal of sincerity, when they know  
+  
+bend to listen! Keep thy spirit free from  
+earth’s taint; so shall thou &quot;go to them,”  
+though “they may not return to thee.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dr785jf2h&#0036;0/pct:65.316939,77.879481,29.001484,3.127384/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

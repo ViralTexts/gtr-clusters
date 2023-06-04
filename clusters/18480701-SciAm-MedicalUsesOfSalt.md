@@ -31,7 +31,7 @@ It is reasonable to suppose that what is most plentiful on earth, is most essent
 
 ---
 
-## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
+## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
 #### 1848-07-01 &middot; New York
 
@@ -48,7 +48,7 @@ spoonful of salt taken three times a day is a
 
 ---
 
-## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
+## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
 #### 1848-07-01 &middot; New York
 
@@ -103,7 +103,7 @@ We burrow in the earth to obtain gold from
 
 ---
 
-## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
+## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
 #### 1848-07-01 &middot; New York
 
@@ -133,7 +133,7 @@ the Persian Gulf or the wilds of Hindostan.
 
 ---
 
-## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
+## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
 #### 1848-07-01 &middot; New York
 
@@ -348,7 +348,7 @@ pins. Each pin has a hole in it like a violin pin, to
 
 ---
 
-## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1850-03-16_5_26?page=1)
+## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1850-03-16_5_26?page=1)
 
 #### 1850-03-16 &middot; New York
 

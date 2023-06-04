@@ -1,7 +1,7 @@
 
 # The Footsteps of Decay
 
-### 245 reprints from 1824-01-01 to 1899-07-13
+### 249 reprints from 1824-01-01 to 1899-07-13
 
 ## [The Footsteps of Decay](http://chroniclingamerica.loc.gov/lccn/sn82015407/1864-12-17/ed-1/seq-1/)
 
@@ -1502,6 +1502,121 @@ And joy grows wearisome and wo
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11&#0036;1/pct:65.484880,26.079734,25.130344,56.270764/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7sbc3svk62?page=3)
+
+#### 1825-07-29 &middot; [Lexington, Ky.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Tlie fpllowinjr •&gt; a Iranslatioo from an ancient Sfian-  
+&quot;uh poem, wliivli say* ttie Falinbiirgli JU view is  
+siirpassoit by nothing which we are ac.p&#x27;ainted  
+with, in the dpajiish language, except the Odes  
+of Ijcwis dc Leon.  
+  
+O! let the *onl It* slumber break,  
+  
+Arouse its senses and awake,.  
+  
+&#x27;I’o see how soon  
+  
+Life with its glories glides away.  
+  
+And the stern footsteps of decay.  
+  
+Come stealing on.  
+  
+And while we eye the rolling tide,  
+  
+Down which oiir flowing minntes glide  
+Always so fast;  
+  
+Let IIS the present hour employ.  
+  
+And deem each future dream a joy  
+Already past.  
+  
+Let no rain hope dcceire the miud*—  
+  
+No happier let ns hope to And,  
+  
+To-morrow than to-day;  
+  
+Onr golden dreams of yore were bright,  
+  
+Lilli- them the present shall delight—  
+iiii:u them decay.  
+  
+I  
+  
+Ourilircs like hasting strwams must be,  
+riiak into one eugulphiug sea.  
+  
+Ale doomed to fail—  
+fTlic sea of death whose waves roll on.  
+  
+O’er king and kingdom, crown and throne,  
+And swallow all.  
+  
+Alike the river’s lordly tide,  
+  
+Aliks (he bumble riv’lcts glide  
+To that sad wave.  
+  
+Deall^ levels poverty and pride.  
+  
+And ^ir.h and poor sleep side by side  
+Within tlie grave.  
+  
+Our birth is but a starting place:  
+  
+Life is the running oflhe race;  
+  
+And death the goal.-  
+  
+There all HiiAe gliltering toys are brought,  
+Thai path alone, of all iiuiuvigbl,  
+  
+Js found of all.  
+  
+Jay tl.cn how pour and little #orth  
+Are ali tliosegiiUcriiigtoys of earth,  
+  
+That hire iia bare.&#x27;  
+  
+Dreams ofa sleep that death must break,  
+^lasl before it bids us wake,  
+  
+Ve disappear!  
+  
+Long ere the damp of death can blight.  
+  
+The cheek’s pure glow of red and white  
+Has pass&#x27;d away;  
+  
+Tuiilh smiled and all was heavenly fair;  
+  
+Age came and laid, his Anger there.  
+  
+And Where are they!  
+  
+dVherc is the strength that ipiirned decay,  
+The step that rolled so Jiglit and gay,  
+  
+The heart’s blithe tone}  
+  
+The strength is gone, the step is slow,  
+  
+And joy grows weariness and wo  
+When age comes on.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7sbc3svk62&#0036;3/pct:6.304954,15.507202,17.006219,35.611401/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4220,75 +4335,6 @@ When age comes on,
 
 ---
 
-## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1836-02-06_5_210?page=7)
-
-#### 1836-02-06
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Seems, to the wayward fancy, less  
-Than what is past.  
-  
-And while we eye the rolling tide,  
-  
-Down which our flying minutes glide  
-Away so fast ;  
-  
-Let us the present hour employ,  
-  
-And deem each future dream of joy  
-Already past.  
-  
-Let no vain hope deceive the mind—  
-No happier let us hope to find  
-) olan than to-day.  
-Our golden dreams of yore were bright,  
-Like them the present shall delight—  
-Like them decay.  
-Our lives like hasting streams must be,  
-That into one engulfing sea  
-Are doomed to fall :  
-The Sea of Death, whose waves roll on,  
-  
-O’er king and kingdom, crown and throne,  
-And swallow all, ~  
-  
-Alike the river’s lordly tide,  
-Alike the humble riv’lets glide  
-To that sad wave ;  
-Death levels poverty and pride,  
-And rich and poor sleep side by side  
-Within the grave.  
-Our birth is but a starting place,  
-Life is the running of the race,  
-  
-And death the goal :  
-There all our steps at fase are brought,  
-That path alone, of all unsought,  
-  
-Is found of all.  
-Long ere the damps of d can blight  
-The cheek’s pure glow of ¥ed and w  
-  
-Hath away:  
-Youth smiled, and all was heav’nly fair ;  
-Age came, and laid his finger there,  
-And where are they ?  
-  
-Where are the strength that mocked decay,  
-The step that rose so‘light and gay,  
-heart&#x27;s blithe tone ?—  
-The strength is gone, the step is slow,  
-And joy grows weariness and woe  
-se age comes on,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal_1836-02-06_5_210&#0036;7/pct:43.173077,51.808511,23.012821,36.340426/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## Poetry
 
 #### From _New-Hampshire statesman and state journal._
@@ -5133,6 +5179,59 @@ And joy grows wearisome and wo,
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1&#0036;11/pct:36.239368,12.464046,28.219927,72.291467/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Herald of the times, and Rhode Islander._](https://chroniclingamerica.loc.gov/lccn/sn83021168/1848-02-10/ed-1/seq-4)
+
+#### 1848-02-10 &middot; Newport, R.I.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+And while we eye the rolling tide,  
+Down which our flying minutes glido  
+Away so fast,  
+Let us the present hour employ,  
+And deem each dream of future joy  
+Already past.  
+  
+INM l&#x27;l‘:p vain ll;opc deceive the mind—  
+o happier let us hope to find  
+To-morrow than to-day.  
+Qur golden dreans of yore were bright ;  
+Like them the present shall delighs—  
+Like thein decay.  
+  
+Qur lives like lasting streams most be,  
+That o one engulphing sea  
+  
+Are doomed to fall;  
+The Sea of Death, whose waves roll on  
+Oer king and kingdom, crown and throne,  
+And swallow all.  
+  
+Alike the river&#x27;s lordly tide,  
+Alike the humble riv&#x27;lets glide  
+T&#x27;o that sad wave :  
+Death levels property and pride,  
+« And rich and poor slecp side by side  
+Within the grave.  
+  
+Our birth is but a starting place,  
+Life is the runuing of the race,  
+And d:ath the goal ;  
+There all our steps at lagt are brought ;  
+That path, of all unwuézl,  
+Is found of all.  
+  
+Long cre the damps of carth can Wight,  
+The cheek’s pure glow of red and whit
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021168%2F00514152779%2F1848021001%2F0408.jp2/pct:3.486185,13.263143,13.235932,17.723185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6019,6 +6118,43 @@ And joy cruns wearisome and, wo 1
 mien age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1864051301%2F0034.jp2/pct:2.829849,32.291947,10.850757,22.932938/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7rxw47sm6m?page=3)
+
+#### 1864-09-11 &middot; Louisville, Kentucky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Alike the river&#x27;* lordly tide.  
+Alike the hum h • r . . .: r , .1  
+  
+To that aad wave.  
+Death level* poverty and pride,  
+And rich and |&gt;oor rlcrp tide by *ide  
+  
+Within the grave.  
+  
+our birth 1* hut a Mart log pi  
+Life is the rousing of th«- race,  
+  
+And death the goal;  
+There all our glittering tor* arc  
+The path alone of all uuaoughl  
+  
+la found of all.  
+  
+See. then, how poor and little worth  
+Are all those glittering tor* of earth  
+That lure u* here;  
+&gt; of aleep that death mul break
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7rxw47sm6m&#0036;3/pct:7.084964,17.317308,9.949693,5.826923/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7129,6 +7265,116 @@ To that »oi wave
 #### 1865-10-12 &middot; Bangor, Me.
 
 [This text is not available under an open license.]
+
+---
+
+## [From _The Frankfort commonwealth._](https://iiif.archivelab.org/iiif/xt7jm61bkx1w?page=0)
+
+#### 1865-10-17 &middot; Frankfort, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+[The following is a translation from an ancient  
+Spanish Poem, which, says the Edinsburg Re-  
+view, is surpassed by nothing with which we are  
+acquainted in the Spanish language, except the  
+“$do of Louis do Leon.”]  
+  
+Oh! let tho soul its slumbers break —  
+  
+Arouse its senses and awake,  
+  
+To see how soon  
+Life, in glories glides away,  
+  
+And the stern footsteps of decay,  
+  
+Come stealing on.  
+  
+And while we view the rolling tide,  
+  
+Down which our flowing minutes glide  
+Away so fast.  
+  
+Lot us the present hour employ,  
+  
+And deem each future dream a joy  
+Already past.  
+  
+Let no vuin hopes deceive tho miud —  
+  
+No happior let us hope to find  
+To-morrow than to-day.  
+  
+Our golden dreams of yoro wero bright,  
+  
+Liko the present shall delight —  
+  
+Liko them decay.  
+  
+Our lives liko hasting streams must be,  
+  
+That into one engulphing sea  
+Are doomoi to fall —  
+  
+Tho sea of doath, whoso waves roll on  
+O’er king and kingdom, crown and throne, r  
+And swallow all.  
+  
+Alike the river’s lorlly tide,  
+  
+Alike the humble rivulets glide  
+To that sad wave ;  
+  
+Death levels poverty and prido,  
+  
+And rich and poor sleep side by side  
+Within the grave.  
+  
+Our birth is but a starting place ;  
+  
+Life is tho running of the race,  
+  
+And death the goal ;  
+  
+Thero all our glittering toys aro brought —  
+The path alone of all unsought,  
+  
+Is found of all.  
+  
+Seo, then, how poor and littlo worth  
+Aro all these glittering toys of earth  
+That lure us here!  
+  
+Dreams of a sleep that death must break,  
+Alas ! before it bids us wako,  
+  
+We disappear.  
+  
+Lung ere the dump of oartli can blight,  
+  
+Tho cheek’s puro glow of rod and white  
+Has passed away.  
+  
+Youth smiled and all was Heavenly fair —  
+Age came and laid his finger there,  
+  
+And where are they ?  
+  
+Where is tho strength that spurnod decay,  
+The step that roved so light and gay,  
+  
+Tho heart’s blithe tone?  
+  
+Tho strength is gone, tho step is slow,  
+  
+And joy grows wearisome and woe 1  
+When age comes on I
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7jm61bkx1w&#0036;0/pct:20.838496,17.063856,14.394878,31.179346/,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8686,9 +8932,9 @@ When age comes on !
 
 ## LITERATURE.
 
-#### From _Prairie Farmer (1843-1877)_
+#### From _Prairie farmer._
 
-#### 1868-11-28 &middot; Chicago
+#### 1868-11-28 &middot; Chicago, Ill.
 
 [This text is not available under an open license.]
 
@@ -8814,6 +9060,122 @@ And joy grows wearisome, and woe!
 Whea age conies on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065409%2F00212470417%2F1868121701%2F0123.jp2/pct:9.404264,9.662599,13.687986,31.715721/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt7cnp1wf20m?page=0)
+
+#### 1868-12-17 &middot; Mount Sterling, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The following is a translation from an an-  
+cient Spanish poem, which, says the Edinbu-gli  
+Review, is surpassed hy nothing wiih which we  
+are acquainted in Spanish language, except the  
+‘Ode o^Lduis dc Leon.”  
+  
+Obi let the soul its slumbers break —  
+  
+Arouse its senses, and awake  
+To see. bow soon  
+Life, in its glories, glides away,  
+  
+And ihe stern footsteps of decay  
+Come stealing on.  
+  
+And while we view the rolling tide,  
+  
+Down which our flowing minutes glide  
+Away so fast .  
+  
+Let us the presfnthour employ,  
+  
+Aud deem each future dream a joy  
+Already past.  
+  
+Let no vain hope deceive the mind,  
+  
+No hn’ppier let U3 hope to find  
+To-morrow than to-day;  
+  
+Our golden dreams of yore were bright,  
+  
+Like them the preset l shall delight —  
+  
+Like thorn decay.  
+  
+Our lires like hastening streams tit ;sl be,  
+  
+That into one engulfing sea  
+Are doomed to fall —  
+  
+The sea of death, whose waves roll on  
+O ef king and kingdpw, crown and throne,  
+  
+Ana swallow all.  
+  
+Alike the river&#x27;s lordly tide.  
+  
+Alike the humble rivulets glide,  
+  
+To that &#x27;sad wave!  
+  
+Death levels poverty and pride,  
+  
+And rich and poor sleep siJe hy s ; de,  
+  
+Within thegrave;  
+  
+Our birth is but a starting-place;  
+  
+Life is hut the running of the race;  
+  
+And death the go&#x27;.l;  
+  
+There all our glittering toys are brought—  
+That path alone, of all unsought,  
+  
+Is found of all.  
+  
+See, then, how poor ami little worth  
+Are, all those glittering toys of earth,  
+  
+That lure ns here;  
+  
+Dreams of a sleep ll.nl ih*aih mer&#x27; break,  
+  
+Ales! before it bids us wake,  
+  
+We disappear.  
+  
+Long ere the JJhlp of death can blight,  
+  
+Tim cheek&#x27;s pure glow of red and w hAe  
+Has passed aw &#x27;ay,  
+  
+Youth &quot;smiled and all was heavenly fair —  
+  
+A&#x27;ge came, and laid lr is fiuger there,  
+  
+Anil where are they?  
+  
+Where is the iptrengiu that spurned decay,  
+  
+The step that roved so light and gay;  
+  
+The heart&#x27;s blithe tone?  
+  
+The strength is goue, the step is slow,  
+  
+And joy grows wearisome , and woe!  
+  
+IV lieu age comes on!
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7cnp1wf20m&#0036;0/pct:18.064516,14.419421,12.516129,37.013747/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

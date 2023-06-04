@@ -1,7 +1,7 @@
 
 # Printers and Printing
 
-### 144 reprints from 1849-01-01 to 1898-11-26
+### 153 reprints from 1849-01-01 to 1898-11-26
 
 ## [Printers and Printing](https://chroniclingamerica.loc.gov/lccn/sn84026472/1851-01-15/ed-1/seq-2/)
 
@@ -561,6 +561,60 @@ would be puzzled to read.&quot;
 #### 1849-11-17 &middot; Aurora, Ind.
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1849-11-21/ed-1/seq-3)
+
+#### 1849-11-21 &middot; Washington, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Printers.- AKihP&amp;WNHiGi.—»J. T-, Buck­  
+ingham, esq., in his series of remmisences,  
+in course of publication, in the Boston  
+Courier,, speaks of the importance of the  
+printer to the author, as follows:  
+“Many who condescend to illumine  
+the dark worl.d with the fire of their  
+genius, through the columns of a news­  
+paper, little think of the 10l of the printer,  
+who, almost suffocated&#x27;by the smoke of a  
+lamp, sits up till michiighf to correct his  
+false grammar, bad orthography, and  
+worse punctuation. I have seen the ar­  
+guments of lawyers, in high repute as  
+scholars, sent to the printer in their own  
+hand-writing, many words—and especial­  
+ly technical and foreign terms—abbre-  
+viated, words mispelled, ar.d few or no  
+points, and those few, if there were any,  
+entirely ant of place. I have seen the  
+sermons of eminent ‘divines’ sent to tlye  
+press, without points or capitals to des­  
+ignate the division of lhe sentences,  
+which, if published with the imperfections  
+of the manuscript, would disgrace tire  
+printers devil if h,e were the author.—  
+Suppose they had. been so printed. The  
+printer would, have been treated with,  
+scorn and con tempt as an illiterate block­  
+head—as a fellow better fitted to be a  
+wood sawyer than a printer. Nobody  
+would have believed that such gross and  
+palpable faults were owing to the ignor­  
+ance or carelessness of the author. And  
+no one but the practical printer knows  
+how many hours a compositor, and after  
+him a proof-reader, is compelled to  
+spend in reducing to a readable condition  
+manuscripts that the writers themselves  
+would be puzzled to read.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn82014751%2F00513688222%2F1849112101%2F0133.jp2/pct:16.559106,4.343387,14.355423,24.599434/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1759,6 +1813,66 @@ be puzzled to read
 
 ---
 
+## [From _Worcester daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021205/1851-02-03/ed-1/seq-2)
+
+#### 1851-02-03 &middot; Worcester [Mass.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ ns a fact, though it has |er appeared in prim  
+before, may afford some J.  
+the Atlantic s loss, if such, wu ereitlv f..,,. i  
+been her fate. One of the ’  
+♦ , i r i । &#x27; rs OI flteninrr  
+stated, after her last pnsstuhome, that during u  
+esvy gale on tho voyngo, J,. wont so mad, by  
+the head, plunging deeper adeeper that it senm  
+ed ns though she would rmider The Engines  
+had to be stopped several Hmt, allow b .r o&gt; .  
+infield lUpMi,^&#x27;V b&#x27;;rto c 0,,,,!  
+Melancthon was m„nc OUB wi|h  
+changing Ins views. y&lt;|;, sir, replied he  
+that 1 huvebeen studying iiMidUy fl,, thirty yollrs  
+without having learned anythin  
+  
+Printers And Printing.—J. T. Bucking  
+ham, in his Reminiscenes, in the course of publica  
+lion in the “ Boston Courier” speaks of the impor­  
+tance of the printer to authors, as follows :  
+“ Many who condescend to illuminate the dark  
+, world with the fire of their genius through the col­  
+umns of a newspaper, little think of the lot of the  
+printer, who, almost suffocated by the smoke of a  
+lamp, sits up till midnight to correct his false gram­  
+mar, bad orthography, and worse punctuation. 1  
+have seen the arguments of lawyers, in high repute  
+as scholars, sent to the printer in their own hand­  
+writing, many words—and especially technical and  
+foreign terms—abbreviated ; words mis-spelled, and  
+a few or no points, and those few, if there are any,  
+entirely out of place. I have seen the sermons of  
+diviuesrsent to the press without points or capitals to  
+designate the division of sentences; sermons which,  
+if published with the imperfections of the manuscript,  
+w&lt; uld disgrace the printer’s devil if he were the au­  
+thor. Suppose they had been printed. The printer  
+would have been treated with scorn and contempt,  
+as an illiterate blockhead—as a fellow better fitted  
+to be a wood-sawer than a printer. Nobody would  
+have believed that such gross and palpable faults  
+were owing to the ignorance and carelessness of the  
+author. And no one but the practical printer knows  
+how many hours the compositor, and after him the  
+proof reader, is compelled to spend in reducing to a  
+readible condition, manuscripts that the writer him­  
+self wouid be puzzled to read.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mb_artemis_ver01%2Fdata%2Fsn83021205%2F00517172170%2F1851020301%2F0092.jp2/pct:43.500788,7.891799,34.484118,85.555886/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## MISCELLANEA.
 
 #### From _Trewman's Exeter Flying Post_
@@ -1859,6 +1973,66 @@ puzzled to read.&quot;
 #### 1851-02-15 &middot; Bangor, Wales
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1851-02-19/ed-1/seq-3)
+
+#### 1851-02-19 &middot; Washington, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Printers asd Printing—J. T. Buckingham*  
+in his series of reminiscences, in course of publi­  
+cation in tl&gt;e Boston Courier, speaks of Hie im­  
+portance of the printer to authors, ns follows:  
+Many who condescend to illiimillate the dark  
+world with the tire of their genius* thri’i”&lt;fli the  
+columns of a newspaper, little think of the lot ol  
+the printer, who almost suffocated by the smoke &gt;  
+of a lamp, sits up till midnight to correct his false  
+grammar, bad orthography, and worse punctua­  
+tion. I have seen the arguments of lawyers, in &#x27;  
+high repute as scholars, sent to the printer in their ■  
+own hand writing, many words—and especially  
+technical and foreign terms—abbreviated, words ■  
+mis-spelled, and few or no points, and those few, ,  
+if there are any, entirely out of place. I have  
+seen the sermons of divines sent to the press with- |  
+out points or capitals to designate the division of  
+sentences;sermons which, if published with th&quot; 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn82014751%2F00513688222%2F1851021901%2F0377.jp2/pct:46.890254,56.768439,14.506902,9.823569/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1851-02-19/ed-1/seq-3)
+
+#### 1851-02-19 &middot; Washington, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+imperfections of manuscript, Would disgrace the  
+printer’s devil if he were the author. Suppose  
+they had been so printed. The printer would  
+have been treated with scorn and contempt, as an  
+illiterate blockhead—as a fellow betted fitted Io  
+be a wood-sawyer than a printer. No dne would  
+have belivedthit such gross and palpable faults  
+were owing to the ignorance and carelessness of ,  
+the author. And no one but the practical prin­  
+ter knows how many hours t1 e compositor, add  
+after him the proof reader, is compelled to spend  
+in reducing to a readable condition manuscripts  
+that the writer himself would be puzzled to rea
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn82014751%2F00513688222%2F1851021901%2F0377.jp2/pct:46.837768,66.627372,14.559387,6.330308/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2874,6 +3048,90 @@ ter himself would bo puzzlod to read
 
 ---
 
+## [From _The Weekly Shelby news._](https://iiif.archivelab.org/iiif/xt77wm13qk34?page=3)
+
+#### 1855-05-02 &middot; Shelbyville, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+&quot;Manv who condescend to illuminate • part, possibly they may find themselves at  
+the dark world with the fire of their genius, j the bottom of the ocean in double quick  
+through the columns of a newspaper, little &#x27; time. They will deserve to. The job  
+think of the lot of the printer, who, almost i will be effectually performed by McCauley,  
+suffocated by the smoke of a lamp, sits up i and that will be the end to the S  
+till midnight to correct their false grammar claim to the right of  
+bad orthography, and worse punctuation. | seas.&quot;  
+I have seen the arguments of lawyers, in  
+high repute, as scholars, sent to the printer  
+in their own hand writing, with many words  
+j and especially technical and foreign terms, .  
+! abreviated, words mispelletl. and few or no &#x27;  
+points. I have seen the sermons of divines &#x27;  
+  
+end to the Spanis
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt77wm13qk34&#0036;3/pct:30.424906,9.019376,25.467664,6.639127/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Weekly Shelby news._](https://iiif.archivelab.org/iiif/xt77wm13qk34?page=3)
+
+#### 1855-05-02 &middot; Shelbyville, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+THE FA KM, containing 234 acre*, and a fine  
+ra»RK.HOUSE,in Shelbyville. belonging to  
+sent to the press, without points or capitals | of Dr R W. O b aa. dee&#x27;d, is offered ot pri-  
+  
+to designate the sentences — sermons which I  
+if published with the imperfections of the |  
+manuscript, would disgrace the printer&#x27;s  
+devil, if he were the author. Suppose they  
+had been printed ? The printer would have  
+been treated with scorn and contempt, as  
+an illiterate blockhead, as a fellow better  
+fitted for a wood-sawyer than a printer. —  
+Nobody would have believed that such gross  
+and palpable faults were owing to the igno-  
+rance and carelessness of the author. And  
+bodv but the practical printer, knows
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt77wm13qk34&#0036;3/pct:30.692143,14.842136,25.213789,7.416150/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Weekly Shelby news._](https://iiif.archivelab.org/iiif/xt77wm13qk34?page=3)
+
+#### 1855-05-02 &middot; Shelbyville, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+ti« oiogical  
+School Books  
+  
+how many hours the compositor, and after  
+Mm the proof-reader, are compelled to spend  
+in reducing to a readable condition manu-  
+scripts that the writer himself would be  
+puzzled to read.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt77wm13qk34&#0036;3/pct:17.744522,22.297630,25.307322,3.501525/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [UNIVERSITY AND KING'S COLLEGES IN LONDON.](http://trove.nla.gov.au/ndp/del/article/115553667)
 
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
@@ -3160,6 +3418,51 @@ manuscript that often the writers themselves
 would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_frost_ver02%2Fdata%2Fsn85026213%2Fprint00211110090%2F1861120101%2F0006.jp2/pct:57.134612,47.767521,12.275795,12.518839/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7rr49g770c?page=1)
+
+#### 1862-01-21 &middot; Frankfort, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+ago!  
+  
+Printers and Printing. — Many who con-  
+descend to illuminate the dark world with the  
+fire of their genius, through the columns of a  
+newspaper, littlo think of the lot of the print-  
+er, who sits up till midnight to correct their  
+false grammer, bad orthography, and worse  
+punctuation. I have seen the urguments of  
+lawyers in high repute as scholars, sent to the  
+printer in their own handwriting — many  
+words, especially technical and foreign terms,  
+abbreviated, words misspelled, and a few or  
+no points, and those few, if there wcro any,  
+certainly out of place. I have seen the ser-  
+mons of eminent &quot;divines&quot; sent to press with-  
+out points or capitals to designate the devU-  
+ion of tho sentences ; also, the letters of the  
+political and scientific correspondents. Sup-  
+pose all these had been so printed, the printer  
+would havo been treated with scorn and con-  
+tempt. Nobody would have believed that  
+such gross and palpable faults were owing to  
+the ignorance or carelessness of the author!  
+And no one but the practical printer knows  
+how many hours a compositor and after him  
+a good proof-reader, is compelled to spend in  
+reducing to readblc condition manuscript that  
+often the writers themselves would be puzzled  
+to road. — A Proof-Rcader
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7rr49g770c&#0036;1/pct:34.962020,81.233323,14.103880,14.512304/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4982,6 +5285,55 @@ ers themselves would be puzzled to
 read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn2006060001%2F00202198077%2F1886052001%2F0872.jp2/pct:31.017475,76.811139,12.147689,17.797320/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Marietta journal._](https://chroniclingamerica.loc.gov/lccn/sn85034082/1888-08-30/ed-1/seq-2)
+
+#### 1888-08-30 &middot; Marietta, Ga.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Many who write for newspapers  
+little think of the lot of the printer,  
+who spends bours of toil over their  
+false grammar, bad orthography and  
+poor punctuation. How often are  
+arguments of lawyers in high repute  
+as scholars given to the printer in  
+their own handwriting——many words,  
+and especially technical and foreign  
+terms, abbreviated, words misspell­  
+ed, and few or no points, and those  
+few, if there are any, entirely out of  
+place. Thesermous of eminent di­  
+vines are frequently sent to the  
+pfess without points or capitals to  
+designate the division ot sentences—  
+sermons which, it published with  
+the impertections of the manuseript,  
+would disgrace the printer’&#x27;s devil,  
+if he were the author. Suppose  
+they had been so printed? The  
+printer would have been treated with  
+contempt as an illiterate block­  
+head—as a fellow better fitted to be  
+a wood-sawyer than a printer. No­  
+body would have believed that such  
+gross and palpable faults were owing  
+to the carelessness of the author.  
+And no one but the practical printer  
+knows how many hours a composi­  
+tor, and, after him a proof, is com­  
+pelled to spend in reducing to a  
+readable condition manuscript that  
+the writers themselves would be  
+puzzled to read.—Printers Circular
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_drteeth_ver01%2Fdata%2Fsn85034082%2F00517177295%2F1888083001%2F0768.jp2/pct:8.256967,71.147972,14.237128,23.820003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

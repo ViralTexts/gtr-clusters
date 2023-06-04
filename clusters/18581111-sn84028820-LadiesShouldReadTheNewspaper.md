@@ -1,7 +1,7 @@
 
 # Ladies Should Read the Newspaper
 
-### 213 reprints from 1846-10-21 to 1896-11-26
+### 220 reprints from 1846-10-21 to 1896-11-26
 
 ## [Ladies Should Read the Newspaper](https://chroniclingamerica.loc.gov/lccn/sn84028820/1858-11-11/ed-1/seq-4/)
 
@@ -1105,6 +1105,46 @@ laniily bjcd, women and children-read the
 newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1858071401%2F0225.jp2/pct:3.491402,75.559628,15.233629,14.727059/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1858-08-04/ed-1/seq-1)
+
+#### 1858-08-04 &middot; Washington, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Ladies Should read Newspapers  
+It is one great mistake in female educa­  
+tion to keep a young lady’s time and at­  
+tention devoted to only the fashionable  
+liter.tureof tbeday. If you would qu^k  
+ify her A&gt;« conversation, you must give  
+nor something to ti.H. about &lt;nvc her  
+• du. ati-1. &#x27;■ id  
+,r.. &lt; *&quot;°K L rgc her to read  
+newspapers ami become familiar with tho  
+present character and improvement of our  
+race. History is of some importance;  
+but the past world is dead, and we have  
+nothing to do with it. Our thoughts and  
+our concerns should be fur the present  
+world, to know what it is, and improve  
+the condition us it. Ix?t her have an in­  
+telligent opinion, and be able to sustain  
+an intelligent conversation concerning the  
+mental, moral, political, and religious im­  
+provements us our times Let the gilded  
+annuals and poems on the centre-table be  
+kept a part of the time covered with week­  
+ly and daily journals. Let the whole  
+family—men, women, and children—read  
+I the newspapers
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn82014751%2F00513688210%2F1858080401%2F0651.jp2/pct:80.970967,72.499438,12.681457,14.177343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3655,6 +3695,44 @@ read the newspapers Gxhy.
 
 ---
 
+## [From _The Frankfort commonwealth._](https://iiif.archivelab.org/iiif/xt7xd21rgk70?page=0)
+
+#### 1865-02-28 &middot; Frankfort, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Ladies Should Read Newspapers. — It is a  
+great mistake, in female education, to keep  
+a young lady&#x27;s time and attention devoted to  
+ihe fashionable literature of the day. If you  
+would qualify her for conversation you mu6t  
+give her something to talk about — give her  
+education with this actual world and its  
+transpiring events Urge her to read the  
+newspapers and become familiar with the  
+present character and improvement of our  
+race. History is of some importance ; but  
+the past world is dead and we have. nothing  
+to do with it. Our thoughts and our concerns  
+should be for the present world, to know  
+hat i. is and improve the condition of it.  
+Let Iter have an intelligent opinion, and be  
+able to sustain an intelligent conversation,  
+concerning the menial, moral, political and  
+religious improvement of our times. Let the  
+gilded annais and poems of the centre-table  
+be kept part of the time covered with weekly  
+and daily journals. Let the whole family —  
+men, women and children — read the news-  
+papers. — Godtry
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7xd21rgk70&#0036;0/pct:36.209016,35.577508,14.098361,12.902736/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1865-03-02/ed-1/seq-3)
 
 #### 1865-03-02 &middot; Keokuk, Iowa
@@ -4082,6 +4160,44 @@ times.
 - *leflhe gilded a&amp;sab and p-&gt;crjs c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn84026789%2F00271768047%2F1865062101%2F0146.jp2/pct:0.971519,79.918063,14.470522,14.429701/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Frankfort commonwealth._](https://iiif.archivelab.org/iiif/xt7zpc2t5d8p?page=1)
+
+#### 1865-11-28 &middot; Frankfort, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Ladies .Should Read Newsuapeus. — It is a  
+great mjslake in lemale education to keep a  
+young lady&#x27;s lime and attention devoted to  
+only the fashionable literature of the day  
+If you will qualify her for conversation, you  
+must give her something to talk about —  
+give her education with this actual world  
+and its transpiring events. Urge her to  
+read the netvspapers, and become familiar  
+with the present character and improvements  
+of our race. History is of some importance  
+but the past world is dead, and we have  
+nothing to do svith it. Our thoughts and  
+our concerns should be for the present world  
+to know what it is and improve the con  
+dition of it. Let her have an intelligent  
+opinion, and be able to sustain an inlelli&#x27;  
+gent conversation concerning the mental  
+moral, and political improvements of our  
+times. Let the gilded annuals and poems  
+on the centre be kept a part of tlic timocov  
+ered with weekly and daily journals. Let  
+the whole family, men, women and children  
+read the newspapers. — Godey
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7zpc2t5d8p&#0036;1/pct:7.951007,71.998146,14.386548,15.793540/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5118,6 +5234,41 @@ and thoughts and actions are pure and true :
 
 ---
 
+## [From _The Monmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032307/1868-08-06/ed-1/seq-1)
+
+#### 1868-08-06 &middot; Freehold, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Ladies Should Read Newspapers.—It is a  
+great mistake in female education to keep a  
+young lady&#x27;s time and attention devoted to  
+the fashionable literature ol the day. If you  
+would qualify her for conversation, you must  
+give her someting to talk—give her educa­  
+tion with this actual world, with its transpir­  
+ing events—urge her to read the newspa­  
+pers and become familiar with the present  
+character and improvements of trade. History  
+is of some importance, but the past world is  
+dead, andjwe have nothing to do with it. Our  
+thoughts and our concerns should be for tho  
+present World—to know what it is, and to  
+improve the condition of it Let us have  
+an intelligent opinion, and be able to sustain  
+a conversation concerning the mental, moral,  
+political and religious improvements of our  
+times—see that each other’s feelings, and  
+thoughts, and actions are pure and true ;  
+then will our life be such, Tho wide past
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_eggharbor_ver01%2Fdata%2Fsn83032307%2F00513685269%2F1868080601%2F0440.jp2/pct:68.450026,80.024246,12.029073,10.119208/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1868-08-08/ed-1/seq-2)
 
 #### 1868-08-08 &middot; Gold Hill, N.T. [Nev.]
@@ -5195,6 +5346,44 @@ women and children, read newspa­
 pers. _
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eyelet_ver02%2Fdata%2Fsn85034375%2F0019991716A%2F1868110701%2F0306.jp2/pct:28.214856,78.852740,11.122204,13.099315/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Marietta journal._](https://chroniclingamerica.loc.gov/lccn/sn85034082/1868-11-13/ed-1/seq-1)
+
+#### 1868-11-13 &middot; Marietta, Ga.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+LADIES SHOULD READ NEWSPA­  
+PZRS. |  
+It is a great mistake in female edu­  
+cation to keep &amp;youn[rr lady’s time and  
+atteniion devoted to the fashionable lit­  
+erature of the day. 1f you woald quali­  
+fy her for conversation, you must give  
+her something to talk ; give her educa­  
+tion with this actual world, with its trans­  
+piring events; urge her to read the  
+newspapers and become familiar with  
+the present character and improvements  
+of trade. History is of some importance,  
+but the past world is dead, and we have  
+nothing to do with it. _ Onr thoughts  
+and our concerns should be for the  
+present world—to know what it is, and  
+to improve the condition of it. et us  
+hiave an iutelligent opinion, and be able  
+to susizin a conversation concerning the  
+mental, woral, political and religious im+  
+provements of our times ; see that each  
+other&#x27;s feelings, thoughts and actions  
+are pure and true ; then will our life b
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_drteeth_ver01%2Fdata%2Fsn85034082%2F00517177271%2F1868111301%2F0017.jp2/pct:56.950150,71.525357,15.883158,15.035341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5623,6 +5812,44 @@ nals. Let the whole famMy—men. wo­
 men and children—read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn84027696%2F0041421258A%2F1869011901%2F0365.jp2/pct:83.698465,39.040714,12.493531,14.964445/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1869-01-19/ed-1/seq-1)
+
+#### 1869-01-19 &middot; Van Buren, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+; It is s great miatake fw fimale  
+; to keep a young lady’s tunc sad stMlaa  
+devoted to only fashionable litorntnra at  
+i the day. If you would qualify her far  
+conversation, you must give her eoan-  
+i thing to talk about—give her edneaHM  
+1 with the actual world, with the onhsr  
+world, and its transpiring evento. Una  
+her to read newspapers, and becoaw m­  
+miliar with the present character aud im­  
+provement of our rrce. History la of  
+some importance; but tbe paat world to  
+dead—wo have nothing to do with R.  
+Our thoughts aod our concerns ahoaM  
+be for the present world; to knew what  
+it in and improve tbe condition of it Let  
+her have an intelligent opinion, and be  
+able to sustain intelligent conversation  
+concerning the mental, moral and religi­  
+ous improvemeuta of our time. Let the  
+gilded annuals and poems on tbe eenter  
+table be kept part of the time covered  
+with weekly and daily Journals. Let the  
+whole family—men, women and children  
+—read ncwapajicrß.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn84022991%2F00513688064%2F1869011901%2F0607.jp2/pct:81.457983,13.180206,13.310941,13.366208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6288,6 +6515,44 @@ cording to the mental, moral and r
 #### 1871-03-11 &middot; Bellows Falls, Vt.
 
 [This text is not available under an open license.]
+
+---
+
+## [From _The Marietta journal._](https://chroniclingamerica.loc.gov/lccn/sn85034082/1871-03-24/ed-1/seq-1)
+
+#### 1871-03-24 &middot; Marietta, Ga.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+WOMEN SHOULD READ NEWS  
+PAPERS.  
+It is a great mistake in female ed­  
+ucation ‘o keep a young lady’s time  
+and attention devoted only to the  
+fashionable literature of the day. If  
+you would qualify her for conversa­  
+tion, you must give her something  
+to talk about, give her education in  
+the actual world and its transpiring  
+events. Urge her to read the news­  
+papers, and become familiar with  
+the present character and improve­  
+ments of our age. History is of  
+some importance; but the past  
+world is dead; we have nothing to  
+do with it. Our thoughts and our  
+concerns should be for the present  
+world ; to know what it is, and im­  
+prove its condition. Let her have  
+an intelligent opinion, and be able  
+to sustain conversation according to  
+the mental, moral and religious im­  
+provement of our times
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_drteeth_ver01%2Fdata%2Fsn85034082%2F00517177271%2F1871032401%2F0455.jp2/pct:80.727554,77.157175,11.851211,13.845745/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 

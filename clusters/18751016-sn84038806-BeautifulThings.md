@@ -1,7 +1,7 @@
 
 # Beautiful Things
 
-### 105 reprints from 1875-08-19 to 1899-08-02
+### 107 reprints from 1875-08-19 to 1899-08-02
 
 ## [Beautiful Things](http://chroniclingamerica.loc.gov/lccn/sn84038806/1875-10-16/ed-1/seq-3/)
 
@@ -211,6 +211,39 @@ sleep!
 
 ---
 
+## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1875-10-12/ed-1/seq-1)
+
+#### 1875-10-12 &middot; Van Buren, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+heart like songs of birds,  
+Yet whose utterances prudence girds.  
+Beautiful hands are those that do  
+Work that is earnest and brave and true.  
+Moment by moment, the long day through.  
+Beautiful feet are those that go  
+Un kindly ministries to mid fro—  
+Down lowliest ways, if God wills it so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care.  
+With patient gra’ce and daily prayer.  
+Beautiful lives are those that bless  
+Silent rivers of happiness,  
+Whose hidden fountains but few may guess.  
+Beautiful twilight, at set of sun.  
+Beautiful goal, with race well won,  
+Bemitiiul rest, with work well done.  
+Beautiful graves, where grasses creep,  
+hero brown leave* fall, where drifts lie deep  
+Over worn out hands I O. beautiful sleep ! 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn84022991%2F00513688088%2F1875101201%2F0052.jp2/pct:29.851051,17.792527,12.181188,8.643068/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1875-11-04/ed-1/seq-4)
 
 #### 1875-11-04 &middot; Point Pleasant, Va. [W. Va.]
@@ -412,9 +445,9 @@ Over worn-out hands Oh,-beautiful sleep
 
 ---
 
-## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18?page=3)
+## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18?page=3)
 
-#### 1876-01-01
+#### 1876-01-01 &middot; Boston [Mass.]
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -573,9 +606,9 @@ Over woru-out hands. Oh I beautiful sleep!
 
 ---
 
-## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33?page=3)
+## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33?page=3)
 
-#### 1876-04-15
+#### 1876-04-15 &middot; Boston [Mass.]
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -645,9 +678,9 @@ Over worn-out hands. Oh! beautiful sleep
 
 ## HOUSEHOLD
 
-#### From _Prairie Farmer (1843-1877)_
+#### From _Prairie farmer._
 
-#### 1876-04-22 &middot; Chicago
+#### 1876-04-22 &middot; Chicago, Ill.
 
 [This text is not available under an open license.]
 
@@ -922,7 +955,7 @@ Over worn-out hands—O, beautiful sleep
 
 ---
 
-## [From _Littell's living age_](https://iiif.archivelab.org/iiif/sim_living-age_1878-04-27_137_1767?page=1)
+## [From _Littell's Living Age (1844-1896)_](https://iiif.archivelab.org/iiif/sim_living-age_1878-04-27_137_1767?page=1)
 
 #### 1878-04-27 &middot; Boston
 
@@ -2516,6 +2549,38 @@ Where brown leaves fall, where drifts lie deep
 Over worn-out hands,—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7&#0036;22/pct:12.917182,72.544434,65.760198,17.609916/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Woman's chronicle._](https://chroniclingamerica.loc.gov/lccn/sn90050094/1888-08-18/ed-1/seq-1)
+
+#### 1888-08-18 &middot; Little Rock, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+e girds.  
+Beautiful hands are those that do  
+Work that Is earnest and brave and true  
+Moment by moment the long day through.  
+Beautiful feet arc those that go  
+On kindly ministry to and fro  
+Down lowliest ways if God wills It so.  
+Beautiful shoulders are those that bear  
+Ceaseless burdens of homely care  
+With patience, grace and daily prayer.  
+Beautiful lives arc those that bless—  
+Silent rivers of happiness,  
+Whose hidden fountains but few may guess.  
+Beautiful twilight at set of sun,  
+Beautiful goal, with race well run,  
+Beautiful rest, with work well done.  
+Beautiful grave, where grasses creep,  
+Where brown leaves fall, where drifts lie deep,  
+Over worn-out hands—oh, beautiful sleep
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_blackhole_ver01%2Fdata%2Fsn90050094%2F00513687886%2F1888081801%2F0177.jp2/pct:15.177714,23.331958,20.823994,15.497317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

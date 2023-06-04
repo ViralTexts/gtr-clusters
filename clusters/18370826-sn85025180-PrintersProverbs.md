@@ -1,7 +1,7 @@
 
 # Printers Proverbs
 
-### 157 reprints from 1837-08-26 to 1881-11-03
+### 159 reprints from 1837-08-26 to 1881-11-03
 
 ## [Printers Proverbs](https://chroniclingamerica.loc.gov/lccn/sn85025180/1837-08-26/ed-1/seq-1/)
 
@@ -1960,6 +1960,45 @@ wilh thee and thy little &quot;, ones. Extr
 
 ---
 
+## [From _Arkansas intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82016488/1847-12-04/ed-1/seq-1)
+
+#### 1847-12-04 &middot; Van Buren, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+I. Never Inquire, thoo?&quot;of the editor for the I  
+nows for, behold, it is his duty nt tiie appointed  
+lime, to give it unto thee without asking.  
+11. When thou dost write for his paper, never  
+say unto him, ‘ what thinkest thou of my piece?’  
+. for it may be that .the- truth might offend tllee.  
+111. It is not fit that thou shculdst ask of him  
+whe is the author of any article, for his duty re­  
+quires him to keep such things to himself.  
+IV. When thou dost enter into a printing of-&#x27;  
+fice, nave a care unu&gt; thyself, that thou dost not ,  
+touch a type ; for thou mayst cause tiie printer  
+much trouble.  
+V. Look not tlicu nt the copy which is in the&#x27;  
+hands of compositors, for that is meet in lhe sight  
+of the printer.  
+VI. Neither examine thou tho proof-sheet ;-for  
+it is not ready to meet the eye, that thou mayst  
+understand it.  
+VII. Prefer thv own city newspaper to any  
+  
+» ati y DU n catty |  
+other—subscribe immediately and pay for it in ’ ,  
+’ advance, nnd it shall be well with thee and thy  
+■ little ones.—E.ceter News Letlsr. I
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_eclipse_ver01%2Fdata%2Fsn82016488%2F00513688039%2F1847120401%2F0045.jp2/pct:62.476460,60.598123,15.646579,12.992796/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50?page=3)
 
 #### 1847-12-10 &middot; Boston
@@ -2191,7 +2230,7 @@ with thee and thy liitle ones.
 
 ---
 
-## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1849-03-17_4_26?page=5)
+## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1849-03-17_4_26?page=5)
 
 #### 1849-03-17 &middot; New York
 
@@ -2702,6 +2741,50 @@ in the sight of good breeding. Neilhet tx
 amine thou the prouf :-luet, for it is not read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn84028570%2F00280774790%2F1856022801%2F0363.jp2/pct:49.226964,77.372475,13.481756,7.920360/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Cynthiana news._](https://iiif.archivelab.org/iiif/xt7b5m627k3q?page=1)
+
+#### 1856-03-13 &middot; Cynthiana, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+I&#x27;ri nets I&#x27;roverba.  
+  
+Never inquire thou of the editor, the  
+news, lor beh dd it is his duty at the ap  
+pointedl time to give it unto thee without  
+asking.  
+  
+When thou dost write for his paper,  
+never say unio him &#x27; what thinkest thou  
+of my piece/&quot; for it may be that the  
+truth would offend thee.  
+  
+il is not lit tliMt thou abealdsl ask him  
+who is the author of an article, for his  
+duty requires him to keep such things to  
+himself.  
+  
+When thou dost enter into his office,  
+take heed unto thyself that thou dost  
+not look at what may be lying open; for  
+that is not meet in the sight of food  
+breeding. Neither examine thou the  
+proof sheet, for it is not ready to meet  
+thine eye, that thou mayest understand  
+it.  
+  
+Prefer thine own county paper to any  
+other, and sub-cribe immediately for il  
+and pay in advance, and it shall be well  
+with thee and thy littie ones
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7b5m627k3q&#0036;1/pct:34.011063,79.714855,14.785469,14.550791/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

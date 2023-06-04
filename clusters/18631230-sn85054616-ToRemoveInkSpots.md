@@ -1,7 +1,7 @@
 
 # To Remove Ink Spots
 
-### 26 reprints from 1863-10-03 to 1871-09-16
+### 27 reprints from 1863-10-03 to 1871-11-07
 
 ## [To Remove Ink Spots](https://chroniclingamerica.loc.gov/lccn/sn85054616/1863-12-30/ed-1/seq-3/)
 
@@ -671,6 +671,27 @@ in cold
 water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028193%2F00296028988%2F1871091601%2F0045.jp2/pct:25.980958,5.514354,18.869013,90.011962/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7dv40jwh07?page=3)
+
+#### 1871-11-07 &middot; Frankfort, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+To Rkmovb Ink Spots. — Put the article  
+stained over a warm flat-iron, stretch it well,  
+then su,uee/.e a few drops of lemon juice on it,  
+and the spot will disappear at once. Wash  
+immediately in cold water.  
+  
+L. HITS..
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dv40jwh07&#0036;3/pct:7.195876,81.972548,17.731959,14.645536/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

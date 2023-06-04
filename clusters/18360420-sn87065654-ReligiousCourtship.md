@@ -1,7 +1,7 @@
 
 # Religious Courtship
 
-### 245 reprints from 1803-12-31 to 1899-12-16
+### 250 reprints from 1803-12-31 to 1899-12-16
 
 ## [Religious Courtship](https://chroniclingamerica.loc.gov/lccn/sn87065654/1839-04-20/ed-1/seq-4/)
 
@@ -956,7 +956,7 @@ riage took place the ensuing week.
 
 ---
 
-## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1834-12-06_3_149?page=7)
+## [From _Chambers' Edinburgh Journal 1832-1853_](https://iiif.archivelab.org/iiif/sim_chambers-edinburgh-journal_1834-12-06_3_149?page=7)
 
 #### 1834-12-06
 
@@ -974,14 +974,14 @@ but the place not suiting a formal declaration, the exi-
 gency suggested the following plan :—He politely  
 handed his fair neighbour a bible, open, with a pin  
 stuck in the following text:—2d Epistle of John,  
-verse Sth—‘‘and now I beseech thee, lady, not as  
+verse Sth—‘‘ and now I beseech thee, lady, not as  
 though I wrote a new commandment unto thee, but  
 that which we had from the beginning, that we love  
 one another.” She returned it with the following :—  
-2d chap. of Ruth, 10th v.— Then she fell on her face  
+2d chap. of Ruth, 10th v.—‘ Then she fell on her face  
 and bowed herself to the ground, and said unto him,  
 why have I found grace in thine eyes, that thou  
-shouldst take notice of me, seeing I am a stranger ?”’  
+shouldst take notice of me, seeing I am a stranger ?”  
 He returned the book, pointing to the 12th verse of  
 the 3d Epistle of John :—“‘ Having many things to  
 write unto you, I would not write with paper and  
@@ -989,7 +989,7 @@ ink: but I trust to come unto you, and speak face to
 face.” From the above interview, the marriage took  
 place the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal_1834-12-06_3_149&#0036;7/pct:37.859712,59.190283,26.109113,17.145749/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-edinburgh-journal_1834-12-06_3_149&#0036;7/pct:37.859712,59.190283,26.109113,17.145749/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2797,6 +2797,35 @@ nerselt to the grour.d end said uat
 
 ---
 
+## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7dbr8mgc04?page=0)
+
+#### 1864-02-09 &middot; Louisville, Kentucky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+now to Court in Church.— A young gen-  
+tleman, happening to sit at church in a pew  
+adjoining one in which sat s young lady for  
+whom he conceived a sudden and violent pas-  
+ion, was desirous of entering into a court-  
+ship on the spot; but the place not suiting a  
+formal declaration, the exigency of the case  
+suggested the following plat : He politely  
+handed his fair neighbor a bible, opened, with  
+a pin st ick in the follow ng text— second  
+epistle ot John, verse fifth: &quot;And now I be-  
+seech thee, lady, not as though I wrote a new  
+commandment unto thee, but that we had  
+from the beginning, that we love one anoth-  
+r.&quot; She returned&#x27;it. poin ieg to the secoo
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dbr8mgc04&#0036;0/pct:83.582304,68.810102,12.295317,5.536668/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Cleveland morning leader._](https://chroniclingamerica.loc.gov/lccn/sn83035143/1864-03-05/ed-1/seq-3)
 
 #### 1864-03-05 &middot; Cleveland [Ohio]
@@ -3570,6 +3599,59 @@ place the ensuing week
 
 ---
 
+## [From _The Weekly Maysville eagle._](https://iiif.archivelab.org/iiif/xt7b2r3nzd11?page=3)
+
+#### 1870-02-16 &middot; Maysville, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+to Court In H111r. l1.  
+  
+A young gentleman happening to ait Bt  
+church in a pew adjoining one in which sat  
+a young lady for whom he conceived a sud-  
+den and ardent attachment, was desirous of  
+entering into a courtship on the spot, but the  
+place not being suitable for a formal declara-  
+tion, the case suggested the following plan:  
+  
+He politely handed his fair neighbor a Bi-  
+ble, opened, with a piu stuck in the following  
+text: Second Epistle of John, verse 5:  
+  
+&quot;And now I beseech thee, lady, not as  
+though I a wrote a new commandment unto  
+thee, but that which we had from the begin-  
+ning, that we love oue another.&quot;  
+  
+She returned it. pointing to the second  
+chapter of Ruth, tenth verse:  
+  
+&quot;Then she fell upon her face, and bowed  
+her self to the ground, and said unto him:  
+&quot;Why have I found grace in thioe eyes, that  
+thou shouldest take knowledge of me, seeing  
+I am a stranger?&#x27;  
+  
+He turned the book, pointing to the thir-  
+teenth and fourteenth verses of the Third  
+Epistle of John:  
+  
+&quot;I had many to write, but I will not with  
+pen and ink write unto thee But I trust I  
+sball shortly see thee, and we shall speak face  
+to face.&quot;  
+  
+From the above interview a marriage took  
+place.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7b2r3nzd11&#0036;3/pct:31.278417,81.654089,12.142284,15.959617/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1870-02-25/ed-1/seq-1)
 
 #### 1870-02-25 &middot; Emporia, Kan.
@@ -3883,6 +3965,39 @@ following week
 #### 1871-04-10 &middot; Little Rock, Ark.
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7pc824f173?page=0)
+
+#### 1871-04-11 &middot; Frankfort, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+I gested the following plan: He politely handed  
+his neighbor a itible, open, with a pin stuck in  
+the following verse: Second Epistle of St.  
+John, verse 7th — &quot;And now I beseech thee,  
+lady, not as though I wrote a new command-  
+ment unto thee, but that which we had from  
+j the beginning, that we love one another.&#x27;  
+She returned it with the following: Secoud  
+chapter of Ruth, loth verse — &quot;Then she fell on  
+ber face, and bowed herself to the ground, and  
+said unto him, why have I found grace in  
+thine eyes, that thou shouldest take knowledge  
+of me, seeing I am a stranger?&quot; He returned  
+the book, pointing to the 12th verse of the  
+Second Epistle of John — &quot;Having many things  
+to write unto you, I would not with paper and  
+ink, but I trust to come unto you, and speak  
+face to face. &quot;&quot; From the above Interview, the  
+marriage took place the following week.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7pc824f173&#0036;0/pct:19.836735,14.544180,14.244898,8.863955/600,/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6198,6 +6313,52 @@ the ensuing week,-D. D. Gazette. Large
 
 ---
 
+## [From _Sharp County record._](https://chroniclingamerica.loc.gov/lccn/sn87091045/1888-11-15/ed-1/seq-1)
+
+#### 1888-11-15 &middot; Evening Shade, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+An exchange relates that a young  
+gentleman happened to sit at church  
+in a pew adjoining one in which sat a  
+young lady, for whom he conceived  
+a sudden and violent passion, was de­  
+sirous of entering .into a courtship  
+on the spot, but the place not suiting  
+a formal declaration, the exigency of  
+the case suggested the following  
+plan: He politely handed his fair  
+neighbor a Bible (open) with a pin  
+stuck in the following text;  
+“Now I beseech thee, lady, not as though  
+I wrote a new commandment ui&gt;t&lt;&gt; thee,  
+but that which we hud from the beginning  
+that we love one another.” St. John ii-5,  
+She returned it, pointing to the 2d  
+chapter of Ruth, 10th verse:  
+&#x27;Then she fell on her face, and bowed  
+herself to the ground, and said unto him.  
+Why have 1 found graca iu thine eyvs,  
+that thou sbouldst take knowledge of me,  
+seeing that I am a stranger?”  
+He returned the book, pointing to  
+the 13th verse of the third Epistle  
+of John—  
+&quot;l had many things to write. I will not  
+with pen and ink write unto thee, but I  
+trust 1 shall shortly seo thee, and we shall  
+speak face to face.”  
+From the above interview a mar­  
+riage took place the ensuing week.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_deepspace_ver01%2Fdata%2Fsn87091045%2F00513688155%2F1888111501%2F1202.jp2/pct:18.117699,70.939453,14.613181,18.247971/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1889-01-03/ed-1/seq-1)
 
 #### 1889-01-03 &middot; Manitowoc, Wis.
@@ -6839,6 +7000,39 @@ I trust to come unto you and speak face
 to faee.&#x27; From the above interview the  
 marriage took place tho coming week. 
 </td></tr></table>
+
+---
+
+## [From _The Dawson news._](https://chroniclingamerica.loc.gov/lccn/sn89053283/1893-05-24/ed-1/seq-6)
+
+#### 1893-05-24 &middot; Dawson, Ga.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+5, ‘“And now I beseech thee, lady, not as  
+though I wrote a new commandment un­  
+to thee, but that which we had from the  
+beginning, that we love one another.”  
+She replied with the following: Secoind  
+chapter of Ruth, 10 v.: “Then she fell  
+on her face and bowed herself to the  
+ground, and said unto him, why have 1  
+found grace in thy eyes, that thou  
+shouldst take notice of r:e, seeing I am a  
+st:anger?”” He returned the book, point­  
+ing te the 12th verse of the Second Epis­  
+tle of John: ‘“Having many things to  
+write unto you, I would not write with  
+piper- and jink: but I trust to come unto  
+you and speak face to face.”” From the  
+above interview the marriage took place  
+the coming week.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_abby_ver02%2Fdata%2Fsn89053283%2F00517177003%2F1893052401%2F0263.jp2/pct:45.065386,31.730423,17.726181,12.869178/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 

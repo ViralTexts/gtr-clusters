@@ -1,7 +1,7 @@
 
 # Advantage of Taking a Newspaper
 
-### 121 reprints from 1839-09-26 to 1894-03-22
+### 118 reprints from 1839-09-26 to 1894-03-22
 
 ## [Advantage of Taking a Newspaper](http://chroniclingamerica.loc.gov/lccn/sn85054702/1841-07-03/ed-1/seq-1/)
 
@@ -1096,58 +1096,6 @@ I&#x27;ll bet a cent this accident
 Would not have happened him, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472037%2F1845081501%2F0389.jp2/pct:51.888912,76.301268,14.028997,8.530947/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The lynx._](https://chroniclingamerica.loc.gov/lccn/sn87065517/1845-08-16/ed-1/seq-1)
-
-#### 1845-08-16 &middot; Panola, Mi. [i.e. Miss.]
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-One took a pAper, tM Ms&#x27; tife  
-Was happier than a king&#x27;s,  
-; &#x27;His -children all coufd read and rllcr,  
-Ahd ralkof men and things.  
-The other took no paper, and  
-While strojlingthrough the woorlJ  
-A tree fell down upon his crown,  
-And killed him a3 it should.  
-Had he been reading of the news  
-- At home, like neighbor Jim,  
-Fll bet a cent that accident  
-Would not have happened hiiri
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065517%2F00295878174%2F1845081601%2F0082.jp2/pct:46.295722,50.599276,14.011159,9.023066/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Sunbury American and Shamokin journal._](https://chroniclingamerica.loc.gov/lccn/sn85054702/1845-08-16/ed-1/seq-4)
-
-#### 1845-08-16 &middot; Sunbury, Northumberland Co., Pa.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-One took a paper, and his life  
-Was happier than a King&#x27;s ; r  
-His children all could read and write,  
-And talk of men and things.  
-The other took no paper, and  
-While strolling through the wood,  
-A tree fell down upon his crown,  
-And killed him as it should.  
-Had he heen reading of the news  
-At home, like neighbor Jim,  
-I&#x27;ll het a cent that accident  
-Would not have happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn85054702%2F00280776014%2F1845081601%2F0068.jp2/pct:6.606943,14.480797,11.198208,7.837838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2860,36 +2808,6 @@ I&#x27;d bet a cent, this accident
 Had not befallen him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029038%2F1878121901%2F0139.jp2/pct:7.455429,5.880173,8.486813,5.966646/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1879-01-01/ed-1/seq-4)
-
-#### 1879-01-01 &middot; Salisbury, Litchfield Co., Conn.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-i 1 tnow two irienos as mucu aiita  
-fc As ever you saw two stamps ;  
-And no phrenologist could find  
-1 . y f A difference in their iiaiupi. &#x27; &quot;  
-One took a paper, and his lif  
-Was happier than a king&#x27;s ;  
-His children all could read and writ, &#x27;&#x27;  
-And talk of men and things.  
-The other took no paper, and, &#x27;  
-Tx While strolling through the wood, :  
-A tree fell down upon his crown,  
-, - , - . . And killed him as it should.  
-i . Had he been reading. of the news,, i i  
-- &#x27; At home, like neighbor Jim,  
-.&#x27; .I&#x27;d bet a tent this accident  
-Had not befallen, him..1 ,.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763839%2F1879010101%2F0246.jp2/pct:26.974665,54.194471,10.819672,8.019542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

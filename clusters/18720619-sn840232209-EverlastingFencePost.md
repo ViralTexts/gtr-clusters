@@ -2604,9 +2604,9 @@ who Will live to see it rot.&quot; &quot; TH
 
 ## AGRICULTURAL ITEMS.
 
-#### From _Prairie Farmer (1843-1877)_
+#### From _Prairie farmer._
 
-#### 1874-11-28 &middot; Chicago
+#### 1874-11-28 &middot; Chicago, Ill.
 
 [This text is not available under an open license.]
 

@@ -1,7 +1,7 @@
 
 # Keeping One's Eyes Open
 
-### 308 reprints from 1869-06-12 to 1896-06-18
+### 313 reprints from 1869-06-12 to 1896-06-18
 
 ## [Keeping One's Eyes Open](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
 
@@ -3826,6 +3826,54 @@ can not see the bottom.”
 
 ---
 
+## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1871-01-10/ed-1/seq-2)
+
+#### 1871-01-10 &middot; Van Buren, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Set ugkon’s Advice Gratis.—Nobody  
+i« tnars like on lioneii man tiian n thorough  
+rogue.  
+When you ace a man with a great deal  
+of religion displayed in his shop window,  
+you may depend upon it he keeps a very  
+small slock of it within.  
+Do not i-liooae your friend by his looks :  
+; handsome shoes often pinch the feet.  
+Do not be fond of compliments; tenioin­  
+bcr “thank you pussy, ami thunk you,  
+pussy,&quot; kill the eat.  
+Don&#x27;t believe the man who talks most,  
+for mewing cats are very seldom goad)  
+mothers.  
+By no means put yourself in another I  
+parsens&#x27; power; it you put your thumb!  
+iietweon two grinders, they are very apt to |  
+bile.  
+Drink nothing without seeing it; sign :  
+nothing without rending it; and make sure  
+that it means no more than it says. i  
+Don&#x27;t go to law unless yon have noth­  
+ing to lost; lawyer&#x27;s houses ai« built on &#x27;  
+fool&#x27;s heads.  
+Put no dependence ou the label of a bag,  
+and count money after your own kind. In  
+any businesa never wade into water where  
+yon connot see the bottom.  
+Seo the sack epon before you buy what  
+is in it, for he who trades iu the dark asks  
+to l&gt;o cheated.  
+Koop clear of a man who does not value  
+hit awn character
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn84022991%2F00513688076%2F1871011001%2F0348.jp2/pct:31.540342,79.783117,13.271895,17.985061/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## Wise and Witty
 
 #### From _Daily evening bulletin._
@@ -4778,6 +4826,66 @@ his own character
 
 ---
 
+## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7gf18sf03v?page=3)
+
+#### 1871-03-28 &middot; Frankfort, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+When you see a man with a great deal of  
+religion displayed in his shop window, vou  
+may depend upon it he keeps a verv small  
+.-lock ol it within.  
+  
+Do not choose your friend by his looks-  
+bandsome shoes often pinch the feet  
+  
+liy no means put yourself in another per-  
+son s power; if you put your thumb between  
+two grinders, they are very ant t 0 bite  
+  
+Drink nothing without seeing it; B ig n n , n!l .  
+ing without reading It; and make sure that it  
+means no more tlian is says.  
+  
+Don&#x27;t go to law unless you I  
+lose; lawyers&#x27; houses are built
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7gf18sf03v&#0036;3/pct:6.421074,83.085554,14.118131,6.507714/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7gf18sf03v?page=3)
+
+#### 1871-03-28 &middot; Frankfort, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+In any business never wade into the water  
+where you cuuuotsee the bottom.  
+  
+See the sack open before you bur what is in  
+it; for he who trades iu the dark asks to be  
+cheated.  
+  
+Keep clear of a man w ho does not value his  
+own churacter.  
+  
+are nothing to  
+on fools heads.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7gf18sf03v&#0036;3/pct:6.421074,88.892006,13.932908,4.754558/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1871-03-30/ed-1/seq-4)
 
 #### 1871-03-30 &middot; Woodstock, Va.
@@ -4865,6 +4973,23 @@ Keep clear of a innn that does not val­
 ue his own character. The Aje
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_bird_ver02%2Fdata%2Fsn84023963%2F00200295924%2F1871033101%2F0837.jp2/pct:4.837618,35.494450,14.732747,19.248234/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt71jw86ks3d?page=0)
+
+#### 1871-04-15 &middot; Frankfort, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+JrafDo not choose your friend by his looks ;  
+handsome shoes often pinch the feet.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt71jw86ks3d&#0036;0/pct:22.176759,12.104231,13.932079,0.910619/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6858,6 +6983,24 @@ A gentleman advertised for
 #### 1872-09-21 &middot; San Francisco [Calif.]
 
 [This text is not available under an open license.]
+
+---
+
+## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1872-09-24/ed-1/seq-4)
+
+#### 1872-09-24 &middot; Van Buren, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+jy Always give up the road to bulls  
+and madmen ; and never tight with a coal- .  
+heaver, or contend with a bad character,  
+for they will be sure to blacken you.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn84022991%2F00513688076%2F1872092401%2F0670.jp2/pct:5.770691,84.526694,13.243483,2.077165/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 

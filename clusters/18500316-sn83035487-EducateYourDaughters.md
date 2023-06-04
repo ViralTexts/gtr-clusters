@@ -1,7 +1,7 @@
 
 # Educate Your Daughters
 
-### 150 reprints from 1849-07-28 to 1870-06-15
+### 151 reprints from 1849-07-28 to 1870-06-15
 
 ## [Educate Your Daughters](http://chroniclingamerica.loc.gov/lccn/sn83035487/1850-03-16/ed-1/seq-4/)
 
@@ -237,52 +237,6 @@ ed to discharge the duties of the homo work
 ol educution. IUv. S. Dyer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1850031601%2F0051.jp2/pct:52.713178,79.580988,13.810690,12.038774/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Anti-Slavery Bugle 1845-1861_](https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27?page=3)
-
-#### 1850-03-16
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-_Epvcate your DavGuters.—When 1!  
-lived among the Choctaw Indians, TI held a!  
-consultation with one of their principal  
-chiefs, respecting the successive stace of  
-their progress in the arts and virtues of Civi-  
-s, he inform- |  
-_ at hey fell into a |  
-great mistake—they only sent their boys to |  
-school. They became intelligent men, but |  
-they married uneducated and uncivilized  
-wives; and the uniform result Was, that the |  
-children Were all like the mother: and soon  
-the father lost his interest in both wilt and |  
-children. * And now,’ said he, ‘if we could |  
-educate only one class of our children we  
-would choose the girls: for when they be  
-come mothers, they wo; ducete ‘thei  
-sons.” This on ¢ b , would educ ate their  
-sons. This is to the point, and it js true  
-So nation can become fully and per  
-ly civil: Ze | i) ; es » “asaacguet- el  
-J ized and enlightencd. whe  
-mothers are Y Ph — =  
-Crs ¢ a good degree alifi  
-ca £ : Qualit-  
-  
-‘ not. tu  
-edto discharge the duties of the home work  
-S. Dyer, :  
-  
-of education.— Rer,  
-—_ 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_anti-slavery-bugle_1850-03-16_5_27&#0036;3/pct:52.113063,79.058160,13.474204,12.630208/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1795,6 +1749,39 @@ education
 
 ---
 
+## [From _Tri-weekly commonwealth._](https://iiif.archivelab.org/iiif/xt7f4q7qr46k?page=2)
+
+#### 1857-08-03 &middot; Frankfort, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+&quot;When I lived among the Choctaw Indiaus, I  
+held a consultation with one of their chiefs res  
+peeling the successive stages of their progress in  
+the arts of civilized life, and among other things,  
+be informed me that, at their start they fell into  
+* great mistake: they Mill sent their, boys to  
+school. These bo&gt;- came home intelligent men,  
+but they married uneducated an uncivilized wives,  
+and the uniform rWMtll was. thai the childi en were  
+all like their mothers. Thus the father soon  
+lost all his interest in both wife and children. —  
+And now. said he. if we would educate but one  
+clam of our children, we should choose the girls,  
+for. when lh«*» I. -come mothers, they educate I  
+their sons This ; s the i tint, and U is true No]  
+nation cau become uillv enlightened whim moth  
+ei&gt; are not. in a good degree, qualified to dis- 1  
+charge the duties of (he home-work of educa  
+tion 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7f4q7qr46k&#0036;2/pct:5.876951,83.661553,14.493419,9.102359/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## The Mother Moulds the Man
 
 #### From _The Charleston mercury._
@@ -2635,7 +2622,7 @@ education.
 
 ---
 
-## [From _Scientific American_](https://iiif.archivelab.org/iiif/sim_scientific-american_1859-07-30_1_5?page=2)
+## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1859-07-30_1_5?page=2)
 
 #### 1859-07-30 &middot; New York
 
@@ -3372,6 +3359,43 @@ Long Sermons ?Rev. Wm Taylor, i
 
 ---
 
+## [From _The Louisville daily courier._](https://iiif.archivelab.org/iiif/xt734t6f2g5n?page=1)
+
+#### 1861-01-23 &middot; Louisville, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+writer:  
+  
+‘ When I lived among the Choctaw Indi-  
+ans, I held a consultation with one of their  
+chiefs respecting the successive- stages of  
+their progress in the arts of civilized life;  
+and among other things, lie informed me  
+Hint at their start they fell into a great mis-  
+take — they only sent boys to school. Those  
+boy.~ came home intelligent men, but they  
+married uneducated and uncivilized wives  
+and the uniform result was the children  
+were all like their mothers. The father  
+-.oon lost all his interest iu both wife and  
+children. “And uow,&quot; said, he “if wc would  
+educate but one class of our children, we  
+should choos the girls, lor when they be  
+come mothers they educate tlieir sons.”  
+Tliis is tin- point, and it is true No nation  
+can become fully enlightened when moth-  
+ers a rr not in a good degree qualified to  
+discharge the duties of the home work of  
+education
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt734t6f2g5n&#0036;1/pct:25.229730,77.876468,9.405405,7.309852/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1861-03-23/ed-1/seq-1)
 
 #### 1861-03-23 &middot; Weaverville, Calif.
@@ -3780,9 +3804,9 @@ triie:: Nb nation can beooome fully ei
 
 ## MRS. FUDGE EXPLAINS MATTERS.
 
-#### From _Prairie Farmer (1843-1877)_
+#### From _Prairie farmer._
 
-#### 1864-11-26 &middot; Chicago
+#### 1864-11-26 &middot; Chicago, Ill.
 
 [This text is not available under an open license.]
 

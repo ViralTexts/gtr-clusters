@@ -1,7 +1,7 @@
 
 # If I Should Die To-night
 
-### 137 reprints from 1873-06-18 to 1899-11-16
+### 123 reprints from 1873-06-18 to 1899-11-16
 
 ## [If I Should Die To-night](http://chroniclingamerica.loc.gov/lccn/sn84028385/1873-07-09/ed-1/seq-1/)
 
@@ -207,7 +207,7 @@ The tenderness for which 1 long to-night.
 
 ---
 
-## [From _Littell's living age_](https://iiif.archivelab.org/iiif/sim_living-age_1873-07-05_118_1517?page=1)
+## [From _Littell's Living Age (1844-1896)_](https://iiif.archivelab.org/iiif/sim_living-age_1873-07-05_118_1517?page=1)
 
 #### 1873-07-05 &middot; Boston
 
@@ -271,7 +271,6 @@ The tenderness for which I long to-night.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 If I should die to-night.  
 My friends would look upon my quiet fuco  
 Bufore they laid it in its resting place,  
@@ -380,13 +379,6 @@ The tenderness for which I long to-niffht
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-If I should die to-night, - . !  
-My friends would look upon my quiet face  
-Before they laid it in its restiDg plaoa,  
-And deem that death had left it almost fair;  
-And, laying snow-white flowers against my hair.  
-Would smooth it down with tcartui tenderness. . ,  
-And fold inv hands with linirerini? caress.  
 Poor hands, so empty and cold to night 1  
 Tf T should die to-nirht.  
 My friends would oall to mind, with loving thought  
@@ -414,7 +406,7 @@ When dreamless rest is mine I shall not need
 The tenderness for which I long to-night.  
 B. !., in the Christian Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1873080101%2F0340.jp2/pct:39.574385,25.322581,12.397501,11.744868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1873080101%2F0340.jp2/pct:39.574385,27.668622,12.397501,9.398827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,15 +418,7 @@ B. !., in the Christian Union
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-If I should die to-night.  
-My friend* would look upon my quiet face  
-Before they laid it in its resting place,  
-And deem that death had left it almost fair ;  
-And, laying snow-white flowers against my hair.  
-Would smooth it down with tearful tenderness,  
-And fold ray hands with lingering caress.  
-Poor hands, so empty and so cola to-night!  
+ cola to-night!  
 If I should die to-night,  
 My friends would call to mind, with loving  
 thought.  
@@ -462,7 +446,7 @@ Forgive, oh, hearts estranged, forgive 1 plead!
 When dreamless rest is mine I shall not need  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873092701%2F0585.jp2/pct:9.008152,17.044369,11.725543,14.283276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn85025132%2F00279556690%2F1873092701%2F0585.jp2/pct:9.008152,19.720137,11.725543,11.607509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,54 +585,6 @@ The tenderness for which I long to-night.
 
 ---
 
-## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1874-02-06/ed-1/seq-4)
-
-#### 1874-02-06 &middot; Fremont, Sandusky County, Ohio
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-If I should die to-night,  
-My friends would look upon my qnietface  
-Before they laid It in its resting plate,  
-And deem that death had left it almost fair;  
-And, laying snow-white flowers against my hair,  
-Wonld smooth it down with tearful tenderness.  
-And fold n-.y hands with lingering caress.  
-Poor bauds, so empty and so cold ta-nightl .  
-If I Bhould die to-night,  
-My friends would call to mind, with loving thought,  
-Some kindly deed the icy hand had wrought;  
-Some gentle word the frozen lips had said;  
-Errands on which the willing feet had sped;  
-The memory of my selfishness and pride,  
-M hasty words would all be put aside,  
-And so I should he loved and mourned to-night.  
-If I srioulddie tc-night,  
-Sven hearts estranged would turn once more to me,  
-Recalling other tinys remorsefully.  
-The eyes -that chill me with averted glance  
-Woald look npon me as of yore, perchance,  
-And soften in the old familiar way,  
-For who could war with dumb unconscious clay?  
-So I might rest forgiven of all, to-night.  
-t&#x27;h, frkndu, I pruy to-night.  
-Keep r.ot yoi:r kiss r for mydead, cold brow,  
-The way is Ion K , -t cib feel them now.  
-Think gently of iiic; I am travel-worn;  
-My falteriiig fe t arj pierced with many r thom.  
-Forgive, oh hearts ef.tr jiged, forgive, I plead!  
-When dreaiul; : rc?t is mine I shall not need  
-Tha tenderness for wl)i-&#x27;i I long to-night.  
-  
-HUMOROU
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874020601%2F0136.jp2/pct:35.526518,6.117619,9.684858,14.187670/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1874-02-07_30_50?page=15)
 
 #### 1874-02-07 &middot; Philadelphia
@@ -706,17 +642,7 @@ The tenderness for which I long to-night.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-If I should dio to-night, . My friends  
-would look upon my quiet faco Before  
-they laid it in its resting-place, And  
-deem that death had loft it almost fair  
-; And, laying snow-white flowers against  
-my hair, ? - Would smooth it down with  
-tearful tendornoss, ? ? And fold my  
-hands with lingering caress. ?&#x27; . ?  
--Poor hands, so empty and so cold t  
-J-night ! jli x snouia cue to-mgnp, My  
+t ! jli x snouia cue to-mgnp, My  
 friends would call to mind, with loving  
 thought, Some kindly deod the icy hand  
 had wrought ; . . Some gentle word the  
@@ -753,8 +679,7 @@ for which I long to-night.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Il I should die to-uight,  
+o-uight,  
 My friends would lo..?k upon my quiet face,  
 Before they laid it id its resting pli-.ce,  
 Aud deem that death had left it almost fair;  
@@ -792,7 +717,7 @@ Forgive,oh hearts estranged ! forgive, I plead !
 When dreamless rest is mine I shall not ueed  
 The tenderness fjr which 1 long to-night 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663730%2F1874032001%2F0272.jp2/pct:66.116734,5.128936,15.601460,19.891656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663730%2F1874032001%2F0272.jp2/pct:66.116734,5.214471,15.601460,19.806121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,18 +869,9 @@ Oh, friends, I pray t*-night,
 Keep not your k Isses for my dead, cold brow;  
 Tho Way is lonely, let me feel them now.  
 Think gently of me, I am travel-worn;  
-My feet are pierced with many a thorn;  
-forgive,Ohearts estranged, lorgivo, 1 plead;  
-When dreamless rest is mine, 1 shall not  
-need  
-The tenderness for which 1 long to-night.  
-  
-EDUCATIONAL COLUMN.  
-  
-I tinted by tbe Teachers 01&#x27; Ihe Public Schools  
-of Los Angeles county.
+My feet are pierced with many a thorn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_nicasio_ver01%2Fdata%2Fsn84038806%2F00280768959%2F1875011401%2F0051.jp2/pct:31.605148,7.133461,11.894933,16.864984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_nicasio_ver01%2Fdata%2Fsn84038806%2F00280768959%2F1875011401%2F0051.jp2/pct:31.625384,7.133461,11.874696,12.640517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,57 +1041,6 @@ My feet are-pierced with many a thorn
 
 ---
 
-## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1876-05-20/ed-1/seq-4)
-
-#### 1876-05-20 &middot; Weaverville, Calif.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-If I should die to-ni«ht.  
-My friends would look upon my quiot faco  
-Before thoy laid it in its resting place,  
-And deem that death had left it almost fair ;  
-And laying snow-white flowers against my  
-hair  
-Would smooth it down with tearful tenderness,  
-And fold iny hands with linger&#x27;ng caress—  
-Poor hands! so ouipty and so cold to-night!  
-If I should die to-night,  
-My friends would call to mind, with loving  
-thought,  
-Some kindly deed the icy hand had wrought;  
-Some gentle word the frozen lips hud said ;  
-Krrands on which the willing foot had spod.  
-The memory of my selfishness and pride.  
-My hasty words, would all he laid aside ;  
-And so 1 should ho loved and mournod  
-to-night 1  
-If 1 should die to-aight,  
-K’en hearts estranged would turn onoe more  
-to mo,  
-Recalling other days roinorscfully ;  
-The eyes that chili me with averted glance  
-Would look upon mo as of yore, porchaneo,  
-And soflcn in the old familiar way—  
-lor who would war with dull, unconscious  
-clay 1  
-Bo I might rest, forgave by all, to-night  
-Oh friends ! I pray to-night,  
-Keep not your kisses for iny dead, cold brow ;  
-The way is lonely—let mo feel thorn now ;  
-Think gontly of mo ; I am travel-worn ;  
-My faltorlng foot ore pierced by many a thorn,  
-.forgive, © hearts estranged—forgive, I plead!  
-Whun dreamless rest is mine, I shall not nood  
-The tenderness lor which I long to-night
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557311%2F1876052001%2F0522.jp2/pct:9.138030,13.608765,12.790363,18.132920/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Rocky Mountain husbandman._](https://chroniclingamerica.loc.gov/lccn/sn83025309/1876-05-25/ed-1/seq-5)
 
 #### 1876-05-25 &middot; Diamond City, Mont.
@@ -1276,6 +1141,8 @@ The tenderness for which I long to-night.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+If I Should Hie To-night.  
 If I should die to-night,  
 My friends would look upon my quiet face,  
 Before they laid it in its resting place,  
@@ -1322,7 +1189,7 @@ My faltering feet arc pierced with many
 a thorn.  
 Forgive! O hearts estranged, forgive, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349190%2F1876070101%2F1029.jp2/pct:4.181530,17.790449,15.185295,26.945830/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349190%2F1876070101%2F1029.jp2/pct:4.181530,16.650036,15.185295,28.086244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1533,71 +1400,13 @@ The tenderness for which I long to-night.
 
 ---
 
-## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1876-09-18/ed-1/seq-1)
-
-#### 1876-09-18 &middot; Barton, Vt.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-If I (hould die to-night.  
-My friends wuuld look upon my quiet lace.  
-Before they laid It In It final retting place.  
-And deem that death bad left it almont f-iir ;  
-And laying uow while (lower againtt my hair.  
-Would tmoolh It down with tearful tenderness  
-And fold my hand with lingering care.  
-Poor hand, to empty and to cold to-night.  
-If I tliould die to-night.  
-My friend would call la mind, with loving thought.  
-Some kindly deed the icy hand had wrought;  
-Some gentle word the frozen lip had (aid ;  
-Erraud on which the willing feet had ipcd;  
-The memory of wy teliUhnea aud pride.  
-My baty word, would be put aside.  
-And ao I thould be loved and mourned to-night.  
-If 1 (hould die to-night.  
-  
-Ere. hearts estranged would turn once more to me.  
-Recalling other day remorsefully;  
-The eye that chill me with averted glance  
-Would look uon me as of yore, perchance.  
-And soften. In the old familiar way.  
-For who could war with dumb, unconscious clay?  
-So I might rest, forgiven of all to-nighL  
-Oh ! friends, I pray to-night  
-Keep not your kisses for my dead, cold brow  
-The way Is loucly, let me feel them now.  
-Think gently of me; I am travel worn;  
-My faltering feet are pierced with many a thorn.  
-Forgive, oh ! heart estranged; forgive, I plead!  
-When dreamless rest Is mine I (hall not seed  
-The tenderness for which I long to-night
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1876091801%2F0348.jp2/pct:14.253710,16.500000,10.207225,14.588889/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1876-09-21/ed-1/seq-7)
 
 #### 1876-09-21 &middot; Lake Charles, Parish of Calcasieu, La.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-If I should die to-night,  
-My friends would look upon my quiet face  
-Before they laid it in its resting place,  
-And deem that death had left it almost fair;  
-And, laying snow-white flowers against my  
-hair,  
-Would smooth it down with tearful ten­  
-derness.  
-And fold my hands with lingering caress.  
-Poor hands, so empty and so cold to-night.  
-If I should die to-night,  
+ould die to-night,  
 My friends won-a call to mind, with loving  
 thought,  
 Some kindly deed the icy hand had  
@@ -1632,7 +1441,7 @@ plead !
 When dreamless rest is mine I shall not need  
 The tendernes for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F00295873826%2F1876092101%2F1299.jp2/pct:2.923977,7.136252,17.470760,23.520345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F00295873826%2F1876092101%2F1299.jp2/pct:2.923977,12.839088,17.422027,17.817509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1646,7 +1455,7 @@ The tendernes for which I long to-night
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-IF I SHOULD DIE TO NIGHT. If I should  
+ should  
 die to-night, My friends would look upon  
 my quiet face Before they laid it iu its  
 resting-place, And deem that death had  
@@ -1681,7 +1490,7 @@ are pierced with many a thorn. Forgive,
 oh, hearts estranged, forgive, I plead !  
 When dreamless rest is mine I shall not  
 need The tenderness for which I long to-  
-night.
+night
 </td></tr></table>
 
 ---
@@ -1694,7 +1503,7 @@ night.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-IF I SIIOULD DIE TO-NIGHT. If I should  
+. If I should  
 die tonight, My friends would look upon  
 my quiet faoe Before they laid it in its  
 resting-plsce, And deem that death had  
@@ -1729,56 +1538,7 @@ piereed with many a thorn. Forgive, oh,
 hearts estranged ; forgive, I pleadl  
 When dreamless rest is mine I shell not  
 need The tenderness for which I long to-  
-night. -Publie Opinion.
-</td></tr></table>
-
----
-
-## [POETRY. IF I SHOULD THE TO NIGHT.](http://trove.nla.gov.au/ndp/del/article/101484643)
-
-#### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
-
-#### 1876-10-10 &middot; Kiama, New South Wales
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Ir I sholh /die to.night, My, friends  
-would ~okl upon my quiet face Before  
-they laid i ~in its resting lace, And  
-dooeem that d ath had lcft it almost  
-fair; And, laying snow- &#x27;hite flowers  
-against &#x27;.ny hair, 1 NWounf smooth it do  
-l&#x27;n with tearful tenderness,  And fold  
-my hand fwith lingering caress, Poor  
-hands, so emlly and so cold to-night !  
-I..f,I,should die to-night, MIy fr  
-ifdYcbildd ca to niifid, with loving  
-thought.. : &quot;&#x27;: Some kindly deed f?the  
-icy hancd lne . . rou ht;,. I .,Sqmo  
-gentlo word tfe frozon lips had said ;  
-Errand on which thle willing feet had  
-sped; The memory of lhy elfishness and  
-pride, Mfy:histy words, wo ld all be&#x27;  
-put aside, And so I should:belr ed.and  
-mourhod tonight.  If I should Jie  
-to:night, Even hearts estran d would  
-turn once more to me, Ilecalling other  
-days remorsefully, The:eyes that chill  
-mie with averted glance Would look upon  
-mg as of yore perchance, And sbften in  
-tho olci familiar way. For who could war  
-with dumb, unconscious .clay? ,. So I  
-might rest, forgiven of all, to-night.  
-Oh I friends, I pray to.night Keep not  
-your kissgs from my dead, cold brow way  
-is lonely 1 t me feel them now. Think  
-gently of me; I am travel.worn;  
-IMlyfaltering feet are pierced with many  
-a thorn. &#x27;Foigive, oh, hearts estranged,  
-forgie,&#x27; I plead I Whoa dreamless rese  
-is mine I shall not need The tenderness  
-for which I long to-night.
+night. -Publie Opinion
 </td></tr></table>
 
 ---
@@ -1985,9 +1745,7 @@ The tenderness for which I long to-night.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-should die to-night ? &quot;?&#x27; &gt; , My friends  
-would look upon my quiet face, . Before  
+iet face, . Before  
 they, laid it in its resting place, -And  
 deem that death had left it almost fair,  
 And laying snow-white flowers, against  
@@ -2257,94 +2015,6 @@ The tenderness for which I long to night
 
 ---
 
-## [Poetry. FORGIVE.](http://trove.nla.gov.au/ndp/del/article/77560463)
-
-#### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
-
-#### 1878-01-05 &middot; Melbourne, Victoria
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-FORGIVE. If I should die to-night My  
-friends would look upon my quiet face,  
-Before they laid it in its resting  
-place, And deem that death had left it  
-almost fair; And, laying- snow-whits  
-flowers against my hair, &quot;Would smooth  
-it down with tearful tender ness And  
-fold my hands with lingering caress.Poor  
-hands, so empty and so cold to-night! If  
-I should die to-night My friends would  
-call to mind, with loving thought, Some  
-kindly deed the icy handhad wrought,  
-Some gentle word the frozen lips had  
-said. Errands on which the willing feet  
-had sped, The memory of my selfishness  
-and pride, My hasty words, would all he  
-put aside, And so I should be loved and  
-mom&#x27;ned to night. If I should die to-  
-night &quot;Even hearts estranged would burn  
-once more to me, Recalling other days  
-remorsefully, The eyes that chill me  
-with averted glance &quot;Would look upon me  
-as of yore, perchance, And soften in the  
-old, familiar way. For who would war  
-with dumb, unconscious clay ? So I might  
-rest, forgiven of all to-uiglit. 0  
-friends! I pray to-night Keep not your  
-kisses for my dead, cold brow, The way  
-is lonely ; let mo feel thein now. Think  
-gently of me; I am travel-worn ; My  
-faltering feet are pierced with many a  
-tlxom, Forgive! Oh, hearts estranged,  
-forgive, I plead! &quot;When dreamless rest  
-is^. mine I shall not need I &quot;The  
-tenderness for which I long to-night.
-</td></tr></table>
-
----
-
-## [POETRY.](http://trove.nla.gov.au/ndp/del/article/143908160)
-
-#### From _Cootamundra Herald (NSW : 1877 - 1954)_
-
-#### 1878-03-19 &middot; Cootamundra, New South Wales
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-?», ... POETRY. ( Ip liehoulfi die to-  
-night&#x27; My friends Svoulfl look- upon  
-rajl qiuet^face, Before tliejr liidjit  
-in itsjrcstihgplace^  
-And,dce^^t)iat!dealh&#x27;lirt(lvl^ftit&#x27;&#x27;rtlmost  
-fair ; And,f laying snow-white ilowe&#x27;rs  
-against my hair, Would smooth it down  
-with tearful tenderness And fold my  
-hands with lingering caress — I&#x27;oor  
-hands, so empty and so, cold to-night ?  
-If I should die to-night My friends  
-would call to niiiul, with loving  
-thought Some;kindly deed the icy hand  
-had wrought, Some gentle word the frozen  
-lips had said, Errands on which the  
-willing feet had sped, The meinorj;*,pf  
-my selfishness and pride, 5Iy hasty  
-words, would all be xmt aside, And so I  
-should be loved and mourned to-night. If  
-I should-die to-night Even hearts  
-esti\inged . would burn once more to me,  
-Recalling other days remorsefully, The  
-eyes that&#x27; chill&#x27; ino with &#x27;averted-  
-giahco Would look upon me as of yore,  
-perchance, And soften in the&#x27; olcU  
-faiiiilinr&#x27; &#x27;way, lW r For who , would  
-war &#x27;with dumb, unconscious clay I So I  
-might rest, forgiven of all to-night. 0  
-friends !, I pray to-hight, . Keep 
-</td></tr></table>
-
----
-
 ## Gone to His Death
 
 #### From _Inter ocean._
@@ -2360,16 +2030,6 @@ friends !, I pray to-hight, . Keep
 #### From _Milwaukee daily sentinel._
 
 #### 1878-04-09 &middot; Milwaukee, Wis.
-
-[This text is not available under an open license.]
-
----
-
-## If I Should Die To-Night.
-
-#### From _Christian Advocate (1866-1905)_
-
-#### 1878-05-09 &middot; Chicago
 
 [This text is not available under an open license.]
 
@@ -2518,48 +2178,6 @@ The tenderness lor which I long to-tilgliL
 
 ---
 
-## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-04-03/ed-1/seq-1)
-
-#### 1879-04-03 &middot; Pulaski, Tenn.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-If 1 should di t.n-niirfif  
-iij friends would call to mind, with&#x27; loving  
-, tnougnt,  
-Some kindly deed the icv hand had wroncht.  
-8omo gentle word the frozen lips had said:  
-biiuuauu wuicu biiu wining ieut naa speu  
-1 he memory or my selhshncHS and pride,  
-Mv hajttv wnrilM. would all ha nut. ..iitn  
-And so 1 shoo-ld be loved and mourned to  
-night.  
-If I should die to-night,  
-1 Even hearts estranged wonld turn onoe more  
-to me,  
-Becalling other days remorsefully.  
-The eyes that chill me with averted glance  
-V ould look upon me as of yore, perchance,  
-And Bol&#x27;ten in the old. familiar wuy.  
-Eor who would war with dumb, unconscious  
-clay?  
-So. I might rest, forgiven of all to-night.  
-Oh, friends, I pray to nigat.  
-Keep not your kisses lor my dead, cold brow,  
-The way is lonely; let me feci them now.  
-Think gently of me; I am travel worn,  
-My faltering feet are pierced with many a  
-ti.orn.  
-Forgive! oh. hearts cg&#x27;runged,torgive,I plead!  
-v hen dreamless rest is mine I shall not need  
-Tf e tenderness for which 1 long to-night
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879040301%2F0476.jp2/pct:44.097750,29.339548,9.982052,10.810504/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## If I Should Die To-Night
 
 #### From _Daily evening bulletin._
@@ -2624,7 +2242,7 @@ The tenderness fur which I long to-night
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+POEWILY. If I should die to-night. If I  
 should die to-night, My friends would  
 look upon my quiet face Before they laid  
 it in its restiug placa, And deem that  
@@ -2659,7 +2277,7 @@ faltering feet are pierced with many a
 thorn. Forgive, oh, hearts estranged,  
 forgive, I plead 1 When rdreamlesa  
 rests-imine-Isha!l-not need The  
-tenderness for which I long to-night
+tenderness for which I long to-night.
 </td></tr></table>
 
 ---
@@ -2708,10 +2326,7 @@ The tenderness for which I long to-night
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-hair,  
-Would smooth it down with tearful tenderness,  
-Poor hands, so empty and so cold to-night  
+d to-night  
 &quot;If I should die to-nipht  
 My friends would call to mind with lorinj  
 thought,  
@@ -2741,7 +2356,7 @@ Forgive, oh hearts estranged, forgive I plead!
 When dreamless rest is mine I shall not need  
 . . The tenderness for which I long to-night&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881022601%2F0507.jp2/pct:9.501599,12.011459,11.687100,13.310825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881022601%2F0507.jp2/pct:9.501599,12.819726,11.687100,12.502558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2857,21 +2472,6 @@ The tenderness for which I long to-night
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-And fold my hands with lingering caress,  
-If I should die to-night,  
-My li&#x27;lends would call to mind with loving  
-thought  
-Some kindly deed the icy hand had wrought,  
-Some gentle woid the frozen lips had said ;  
-Errands on which the willing feet had sped ;  
-The memory of my selfishness and orlde,  
-Mv hasty words would all lie put aside,  
-And I should be loved and mourned tonight.  
-It 1 should die to-night,  
-Even hearts estranged would turn once more  
-to me.  
-Recalling other days remorsefully.  
-The eyes that chill me with averted glance.  
   
 And otten In the old laminar way;  
 For who could war Avith dumb, unconscious  
@@ -2888,7 +2488,7 @@ Forgive, oh hearts estiauged, forgive, 1 plead,
 When dreamless rest is mine I shall not need.  
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_ishtar_ver01%2Fdata%2Fsn86069125%2F00206534242%2F1882060301%2F0649.jp2/pct:49.211978,24.142857,20.705280,17.900000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_ishtar_ver01%2Fdata%2Fsn86069125%2F00206534242%2F1882060301%2F0649.jp2/pct:49.211978,34.142857,20.621552,7.900000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3008,15 +2608,7 @@ The tenderness for which I long to-night.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-If I should die to-nieht,  
-My friends would look upon my quiet face  
-Before they laid it in its renting place.  
-And deem that death had left it almost fair;  
-And, laying snow-white flowers against my hair,  
-Would smooth it down with tearful tenderness,  
-And fold my hands with lingering caress;  
-Poor hands, so empty and so cold to-night.  
+to-night.  
 If I should dio to-night,  
 My friends would cull to mind with loving  
 thought.  
@@ -3046,7 +2638,7 @@ Forgive, oh heart estranged, forgive, I plead!
 When dreamless rest Is mine I shall not need  
 The tenderness for which I long to-night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_dassel_ver01%2Fdata%2Fsn90059522%2F00175035424%2F1884072601%2F0390.jp2/pct:70.878342,5.052372,13.196945,15.015766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_dassel_ver01%2Fdata%2Fsn90059522%2F00175035424%2F1884072601%2F0390.jp2/pct:70.878342,7.705411,13.196945,12.362727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3190,51 +2782,6 @@ The tenderuess for which I long to-night
 
 ---
 
-## [From _The Arkansaw traveler._](https://chroniclingamerica.loc.gov/lccn/sn90050009/1886-01-09/ed-1/seq-7)
-
-#### 1886-01-09 &middot; Little Rock, Ark.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-If I should die to nig it  
-Mr friends would look upon my quiet face  
-Before they laid it in its resting place,  
-And, laying snow-white flowers against my  
-hair.  
-Would smooth it down with tearful tender­  
-ness.  
-And fold my hands with lingering caress.  
-Poor hands, so empty and so cold to night.  
-If I should die to-night  
-My friends would call to mind, with loving  
-thought.  
-Some kindly deed the icy hand had wrought,  
-Some gentle word the frosen lips had said.  
-Errands on which the willing feet had sped;  
-The memory of my selfishness and pride.  
-My hasty words, would all be put aside.  
-And so l should be lored and mourned to­  
-night 1  
-If I should die to-night  
-Even hearts estranged would turn once more  
-to me,  
-Recalling other days remorsefully ;  
-The eyes that chill me with averted glance  
-Would look upon me as of yore, perchance,  
-And soften, in the old, familiar way,  
-For who could war with dumb, unconscious  
-clay!  
-So l might rest, forgiven of all to-night.  
-Ob, friends! I pray to night,  
-Keep not your kisses for my 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_devo_ver01%2Fdata%2Fsn90050009%2F00393342936%2F1886010901%2F0476.jp2/pct:2.317812,4.687725,14.830862,15.465888/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1886-06-06/ed-1/seq-6)
 
 #### 1886-06-06 &middot; New York [N.Y.]
@@ -3278,55 +2825,6 @@ The tenderness for wlricb I long to-night
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_hughes_ver01%2Fdata%2Fsn85026214%2Fprint00205958289%2F1886060601%2F0006.jp2/pct:7.442988,6.127231,11.810918,10.765182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [SELECTED POETRY. IF I SHOULD DIE TO-NIGHT.](http://trove.nla.gov.au/ndp/del/article/107361148)
-
-#### From _Kapunda Herald (SA : 1878 - 1951)_
-
-#### 1886-10-22 &middot; Kapunda, South Australia
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-NIGHT. If I should die to-night, My  
-friends would look upon my quiet face,  
-Before they laid it in its resting-  
-place, And deem that death bad left it  
-almost fair; And, laying snow-white  
-flowers against my hair, Would smooth  
-itdown with tearful tenderness, And-  
-fold-my hands-with lingering caress—  
-Poor hands, so empty and so cold to-  
-night. If I ehould die to night, My  
-friends would -call to mind with loving  
-thought Some kindly deed the icy hand  
-had wrought, Some gentle word the frozen  
-lip had said ; Errands on which the  
-willing feet has sped— The memory of my  
-selfishness and pride, My basfcy words,  
-would all be put aside, Andeo I&#x27;should  
-be loved and mourned to night. If I  
-should die to-night, Even hearts  
-estranged would torn once more to me,  
-Recalling other days remorsefully. The  
-eyes that chill me with averted glance,  
-Would look upon me as of yore,  
-perchance, And soften in the old  
-familiar way, iFor who would war with  
-dumb unconscious clay? So I might rest,  
-forgiven of all to-night. , O, friends,  
-I pray to-night, Seep not your kisses  
-for my dead cold brow, The way is lonely  
-; let me feel them now; Think gently of  
-me, I am travel-worn. My faltering feet  
-are pierced with many a thorn. Forgive!  
-O hearts estranged, forgive, I plead!  
-When dreamless rest is mine I shall not  
-need The tenderness for which I long to-  
-night
-</td></tr></table>
 
 ---
 
@@ -3628,52 +3126,6 @@ The tenderness for which I long to-night !’’
 
 ---
 
-## ["IF I SHOULD DIE TO-NIGHT."](http://trove.nla.gov.au/ndp/del/article/149483309)
-
-#### From _Daily Telegraph (Launceston, Tas. : 1883 - 1928)_
-
-#### 1887-06-09 &middot; Launceston, Tasmania
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-die to-night, My friends would look upon  
-my quiet faca Before they laid it in its  
-resting-place, ^nd deem that death bad  
-left it almost fair : And, layinp snow  
-white flowers against my hair, Would  
-smooth it down with tearful tenderness,  
-And fold my bauds with linjrerinsr  
-caressPoor hands, so empty and so cold  
-to-night ! If I should die to-night My  
-friends would call to mind, with loring  
-thought, Some kindly deed the icy hand  
-had wiou^ht ; Some gentle word the  
-frozen lips had : si 1 ; Errands on  
-wfcich the willing feet had sped ; The  
-memory of my selfishness and pride, My  
-hasty words, would all be put aside. And  
-so I should be loved and mourned to-  
-nigh^ If I should die to-night, Even  
-hearts estranged would turn once more to  
-me, Recalling other days remorsefully ;  
-The eyes that chill me with averted  
-glanca Would look upon me as of yore,  
-perchance, And soften, in the old  
-familiar way. For who could war with  
-dumb, unconscious clay? So I mifcht  
-rest, forgiven of all, to-night. Oil !  
-friends, I pray tn-night, Keep not y-ur  
-i isses for my dead, cold brow— The way  
-is io-jely, let me feel them now.  
-Tliiufc gentiy of me ; I am trnvnl-worn  
-; My filtering feet are pierced with  
-many a Forgive, ol), hearts estranged,  
-f^rg
-</td></tr></table>
-
----
-
 ## [A Poem of Disputed Authorship.](http://trove.nla.gov.au/ndp/del/article/171025199)
 
 #### From _Darling Downs Gazette (Qld. : 1881 - 1922)_
@@ -3819,55 +3271,6 @@ which I tong to-night. &quot;Twenty year
 
 ---
 
-## [IF I SHOULD DIE TO-NIGHT.](http://trove.nla.gov.au/ndp/del/article/65608810)
-
-#### From _Kerang Times and Swan Hill Gazette (Vic. : 1877 - 1889)_
-
-#### 1887-08-26 &middot; Kerang, Victoria
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-IF I SHOULD DIE TO-NIGHT. If I should  
-die to-night C&#x27;My friends would look  
-upon my quiet face Before they laid it  
-in its resting-place, And deem that  
-death haul left it almost fair; And,  
-laying snowv-white fldwers against.my  
-S.:ould smooth it down with tearful  
-tenderness,  And fold my hands with  
-lingering caresscs&#x27;?, -Poor bands so  
-empty aid so cold to-nightu e If I  
-should die to-night? &#x27;My friends  
-would.call to minid with loving thought  
-Some kindly deed the icy hand had  
-wrought, Some gentle words the frozen  
-lips had said, Errands on which the  
-willing feet had sped. The memory of my  
-selfishness and pride, My hasty words,  
-would allbe put aside, And . l so, I  
-shall be loved and mourned toSnight.  If  
-I should die to-nigbt I Even hearts  
-estranged&#x27;would turn onice more to meic  
-SRecalling other days remorsefully ; The  
-eves that chid me, with averted glance,  
-Would look upon me as of yore,  
-perchance, And soften in old familiar  
-way ; For who could&#x27;war with dumb  
-unconscious clay, ISo might rest  
-forgiven of all to-night. Oh, friends, I  
-pray to-night,. Keep not your kisses for  
-my dead, cold brow; The way is lonely,  
-let me feel them now Think gently of me,  
-I am travel-worn, My faltering feet are  
-pierced with many a thorn. Forgive, oh  
-iheartsestranged,forgive, I plead. V.  
-When dreamiless rest is mine,I shall not  
-need The tenderness for which I long to-  
-night I&quot; A Veterany gambler, in a
-</td></tr></table>
-
----
-
 ## [IF I SHOULD DIE TO-NIGHT. If I should die, to-night,](http://trove.nla.gov.au/ndp/del/article/98471806)
 
 #### From _Goulburn Evening Penny Post (NSW : 1881 - 1940)_
@@ -3923,6 +3326,13 @@ for which I long to-night
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+IF I SHOULD DIE TO-NIGHT.  
+  
+  
+  
+  
+  
 If I should die to-night,  
   
 My friends would look upon my quiet face,  
@@ -3965,7 +3375,7 @@ When dreamless rest is mine, I shall not need
   
 The tenderness for which I long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1887-10_36_4&#0036;8/pct:7.223054,53.214286,37.537425,35.619048/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1887-10_36_4&#0036;8/pct:7.223054,51.095238,37.537425,37.738095/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4024,52 +3434,6 @@ The tenderness for which I long tonight
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624591%2F1887122401%2F0589.jp2/pct:45.246736,19.706830,10.269887,19.691335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [Poetry. If I Should Die To-night.](http://trove.nla.gov.au/ndp/del/article/77499870)
-
-#### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
-
-#### 1888-03-24 &middot; Melbourne, Victoria
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-If I Should Die To-night. If I should  
-die to-night My friends would look upon  
-my quiet face Before they laid it in its  
-resting place And deem that; death had  
-left it almost fair ; ? - . - ? And,  
-laying snow white flowers against my  
-hair, &quot;Would smooth it down, with  
-tearful tender ness, . . - .. And fold  
-my hands with lingering caress. Poor  
-hands, so empty and so cold to-night. If  
-I should die to-night My friends would  
-call to mind, with loving - thought, . .  
-Some kindly deed the icy hand had  
-wrought; ; Some gentle word the frozen  
-lips had said; Errands on which the  
-willing feet had &quot;&#x27;sped-&#x27; r-;&#x27; The  
-memory of my selfishness and pride, My  
-hasty&#x27;words, would all be put aside. And  
-so I should Be loved and mourned to-  
-night. ?&#x27; If I should die to-night Even  
-hearts estranged would turn once more to  
-me, j ? _ Recalling other days  
-remorsefully, The eyes .that chill.me  
-with averted glance Would look, upon me  
-as of yore, perchance, And.often in the  
-old, familiar way, For who could war  
-with dumb, unconscious clay:?&#x27;r : So* I  
-might rest, forgiven of all, to-night. 0  
-friends, I pray to-night, j &lt; Keep not  
-your kisses for my dead, cold -brow:;\
-.&#x27; . The way is lonely, let me feel them  
-now. Think gently of me; 1 am travel  
-worn; My faltering feet&#x27; are pierced  
-with many a ?&quot;thorn. Forgive, 0 
-</td></tr></table>
 
 ---
 
@@ -4268,6 +3632,8 @@ The tenderness for which I Jong to-nigh
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+IF 1 SHOULD DIE TO-NIGHT.  
 If I should die to-night  
 My friends would look upon my quiet face.  
 Before they laid it iu its resting place.  
@@ -4310,7 +3676,45 @@ Forgive. O hearts estranged, forgive, I plead!
 When dreamless rest is mine I shall not need  
 The teuderness for which 1 long to-night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1889022101%2F0348.jp2/pct:33.090790,16.790984,8.348083,10.915626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1889022101%2F0348.jp2/pct:33.090790,16.420734,8.348083,11.285876/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Woman's chronicle._](https://chroniclingamerica.loc.gov/lccn/sn90050094/1889-05-04/ed-1/seq-3)
+
+#### 1889-05-04 &middot; Little Rock, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ght!  
+If I should die to night,  
+My friends would call to mind with loving thonght  
+Sotno kindly de( d the icy hands had wrought;  
+Some gentle word those frozen lips had said.  
+Errands on which the willing feet had sped.  
+The memory of my selfishness and pride,  
+My hasty words should all be set aside,  
+And so I should be loved and mourned, to-night.  
+If I should die to-night,  
+E’en hearts estranged would turn once moro to me,  
+Recalling other days, remorsefully.  
+The eye that chills me with averted glanco,  
+Would look upon me as of yore, perchance,  
+And often In the old, familiar way,  
+For who could war with dumb, unconscious clay?*  
+So I might rest forgiven of all, to-night.  
+So friends, I pray to-night,  
+Keep not your kisses for my dead, cold brow,  
+The way is lonely: let me feel them now.  
+Think gently of inc; I am travel worn,  
+My faltering feet are pierced with many a thorn,  
+Forgive, oh, hearts estranged, forgive I plead!  
+When dreamless rest Is mine, I shall not need  
+The tenderness for which I long, to-night
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_blackhole_ver01%2Fdata%2Fsn90050094%2F00513687886%2F1889050401%2F0451.jp2/pct:10.833604,14.273755,22.975457,19.973490/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4463,62 +3867,6 @@ The tenderness for which I long to-night.
 
 ---
 
-## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1891-03-18/ed-1/seq-12)
-
-#### 1891-03-18 &middot; Abbeville, S.C.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-If I should uie to-night,  
-My friends would look upon my quiet face,  
-Before they laid it in its resting-place.  
-And deem that death bad left it almost fair;  
-And, laying snow-white flowers against my  
-balr,  
-Would smooth it down with tearful tenderness,  
-And fold my hands with lingering caress.  
-Poor hands, so empty and so cold to-night!  
-If I should die to-night,  
-My friends would call to mind, with loving  
-thought,  
-Some kindly deed the Icy hand had wrought;  
-Some gentle word the frozen lips had said;  
-Errands on which the willing leet had sped?  
-The memory of my selfishness and pride;  
-* ?wnni/i oil hp nut aside.  
-  
-my nasi; wuiuo hvm.v. ? -?  
-And so I should be loved and mourned tonight.  
-If I should die to-night,  
-Even hearts estranged would turn once more  
-to me,  
-Recalling other days remorsefully.  
-The eyes that chill me with averted glance  
-Would look upon me as of yore, perchance,  
-And soften in the old. familiar way,  
-For who could war with dumb, unconscious  
-clay?  
-So I might rest, forgiven of all, to-night.  
-0! friends, I pray to-night,  
-Keep not your kisses for my dead, cold brow;  
-The way is lonely; let me feel thein now.  
-Think gently of me; 1 am travel-worn :  
-My faltering feet are pierced with many n  
-thorn.  
-Forelve. O! hearts estranged, forgive, 1  
-  
-plead!  
-When dreamless rest Is mine I shall not need  
-The tenderness lor which I long to-ni(iht.  
-B. S
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287290%2F1891031801%2F0148.jp2/pct:2.229481,4.730473,15.891533,15.465418/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _London Society: A Monthly Magazine of Light and Amusing Literature for the Hours of Relaxation 1862-1898_](https://iiif.archivelab.org/iiif/sim_london-society_1891-11_60_359?page=83)
 
 #### 1891-11-01
@@ -4552,6 +3900,51 @@ My hasty words, would all be put aside,
 And so I should be loved and mourned to-night !”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-society_1891-11_60_359&#0036;83/pct:31.273063,36.319018,43.911439,25.644172/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1891-11-19/ed-1/seq-1)
+
+#### 1891-11-19 &middot; Jamesburg, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ie to-night,  
+My friends would look upon my quiet face  
+Before they laid it in tts resting-place,  
+And deem that Death had left it almost fair;  
+And, laying snow-white.flowers against my hair,  
+Would smooth it down with tearful tenderness,  
+And fold my hands with lingering caress,  
+Poor hands, so empty and so cold to-night.  
+If I should die to-night,  
+&#x27;My friends would call to mind, with loving thought,  
+,‘Some kindly deed the icylhand had wrought,  
+Some gentle word the frozen lips have said;  
+&#x27;Errands on which the wilting feet had sped;  
+The memory of my selfishness and pride,  
+My hasty words, would alltoe put aside,  
+And so I should be loved and mourned to-night.  
+If I should die to-night,  
+Even hearts estranged would turn once more to me;  
+Recalling other days remorsefully;  
+The eyes that chill me with averted glance,  
+Would look upon me as of yore, percnance,  
+And soften in the old, familiar way,  
+For who could war with dumb, unconscious clay ?  
+So I might rest, forgiven of alfl to-night.  
+Oh, friends, I pray to-night,  
+Keep not your kisses for my dead, cold brow,  
+The way is lonely, let me feel them now,  
+Think gently of me; I am travel-worn ;  
+My faltering feet are pierced with many a thorn,  
+Forgive, oh, hearts estranged, forgive, I plead!  
+When dreamless rest is mine, I shall not need  
+The tenderness for which I long to-night.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_deal_ver01%2Fdata%2Fsn91064026%2F00513685142%2F1891111901%2F0645.jp2/pct:7.720803,18.639935,18.314161,15.393299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4608,50 +4001,6 @@ B. S
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762258%2F1892020301%2F0030.jp2/pct:27.254631,13.029941,10.842541,17.071330/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [Poetry. If I Should Die To-night.](http://trove.nla.gov.au/ndp/del/article/66899696)
-
-#### From _The Coburg Leader (Vic. : 1890 - 1913)_
-
-#### 1892-04-20 &middot; Coburg, Victoria
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-usOnpe. If I should die to.night, My  
-friends would look upon my quiet fast  
-SBefore they laid it in its resting  
-place, &quot;&#x27;tAnd deem that death had left  
-it almost fair; And laying snow-white  
-flowers against my hair, Would smooth it  
-down with trarful tende?ness,  And fold  
-my hands with lingering careesPoor  
-hands, so empty and so cold to.night. If  
-I should die tonight, My friends would  
-call to mind with loving thought Some  
-kindly deed the icy hand had wrought,  
-Some gentle word the frozen lips had  
-said, Errands on whiob the willin? feet  
-had sped; o4ty&#x27;.di.auld all&#x27; be pu&#x27;,ate  
-&quot;, And eo I should be loved rnd mourned  
-t.night.  If I should die to-night, Even  
-hearts estrarngcd would turn once more  
-to me, Recalling other days reronr  
-eulily; The oyes that chill ran with  
-averted glance Would look upon mte a of  
-yore, perchance, And soften in the old,  
-farnilier way : For who would war with  
-dumb, unconceious clay ? So I might  
-rest, forgiven of all, to-night. Oh  
-friends, I pray to-night, &#x27;leap not yobr  
-kisses for my dead, cold brow I The way  
-is lonely; let me Ic el them now; &quot;My  
-faltering feet are pierced with many a  
-thorn. Forgivel oh, hearts estrangedl  
-forgivoe.I plead I When dreamless res
-</td></tr></table>
 
 ---
 
@@ -4753,16 +4102,7 @@ The tenderness for which I long to-night.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-If I Should-Die To-night. If I should  
-die to-night My friends would look upon  
-my quiet face Before they laid-it in its  
-resting-place.And deem that death-had  
-left it almost fair; rnd, laying  
-snow.white flowers against my hair,  
-Would smooth it down with tearful  
-tenderness,  And fold my hands with  
-lingering caressPoor hands, so empty and  
-so cold to-night! If I should die to-  
+o-night! If I should die to-  
 night . My friends would call to mind  
 with loving thought Some kindly deed the  
 icy hand had wrought ; Some gentle word  
@@ -4788,7 +4128,7 @@ faltering feet are pierced with many &#x27;a
 thorn. Forgive, oh hearts estranged,  
 forgive, I plead ! When dreamless rest  
 is mine I shall not need The tenderness  
-for which I long to-night. --&quot;Public
+for which I long to-night. --&quot;Publi
 </td></tr></table>
 
 ---
@@ -5027,7 +4367,7 @@ And I might rest forgiven of all to-night.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+TO-NIGHT. &quot; If I should  
 die to-night, My friends would look upon  
 my quiet face Before they laid it in its  
 resting-place, And deem that death had  
@@ -5110,16 +4450,6 @@ The tenderness for which I long to-night.
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_beaver_ver01%2Fdata%2F45043535%2F00237280350%2F1893070101%2F0072.jp2/pct:13.391137,14.764777,36.673089,45.235223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Miscellaneous
-
-#### From _Boston investigator._
-
-#### 1893-11-01 &middot; Boston, Mass.
-
-[This text is not available under an open license.]
 
 ---
 
@@ -5436,11 +4766,6 @@ Korglve. oh hearts estranged! forglvo,
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-I Iface  
-And deem that death had left it almost  
-I fair  
-And laying snowwhite flowers against  
-my hair  
 Would smooth It down with tearful  
 tenderness  
 And fold my hands with lingering caress  
@@ -5482,7 +4807,7 @@ When dreamless rest Is made I shall
 not need  
 The tenderness for which I long tonigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/uuml_collins_ver01%2Fdata%2Fsn85058130%2F2065344540%2F1896010501%2F0050.jp2/pct:43.857725,36.340909,12.942651,17.431818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/uuml_collins_ver01%2Fdata%2Fsn85058130%2F2065344540%2F1896010501%2F0050.jp2/pct:44.155437,38.215909,12.644939,15.556818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5569,75 +4894,13 @@ Recalling other days remorsefu
 
 ---
 
-## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1896-12-23/ed-1/seq-4)
-
-#### 1896-12-23 &middot; Abbeville, S.C.
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-If I should die to-night  
-rly friends would look upon my quiet face  
-iefore they laid it in its resting place,  
-ind deem that death had left It almost fair,  
-Ind laying snow-white flowers against my  
-hair,  
-Vould smooth it down with tearful tendernPflfi  
-  
-i.nd fold my hands with lingering caress,  
-&gt;oor hands so empty and so cold to night.  
-If I should die to-night  
-Ay friends would call to mind with loving  
-thought.  
-5ome kindly deed the Icy hand had wrought,  
-some gentle word the frozen lips had said,  
-Errands on which the willing leet bad sped ;  
-Che memory of my selfishness and pride,  
-Hy hasty words, would all be put aside,  
-ind so I should be loved and mourned tonight.  
-If I should die to-night.  
-Sven hearts estranged would turn once more  
-to me,  
-Recalling other dayB remorsefully;  
-rtie eyes that chill me with averted glance,  
-kVould look upon me as of yore, perchance,  
-Vnd soften in the old lam 1 liar way,  
-Tot who could war with dumb, unconscious  
-clay ?  
-So I might rest, forgiven all, to-night.  
-Oh friends ! I pray to-night,  
-Ceep not your kisses for my dead, cold brow ;  
-L&#x27;he way Is lonely! let me feel them now;  
-rhlnk gently of me! I am travel-worn ,  
-Hy faltering feet are pierced with many a  
-thorn !  
-?&#x27;orgrve! oh, heart estranged? Forgive! I  
-plead.  
-tVhen dreamless rest is mlue, I shall not  
-need  
-[*be tenderness for which I long to-night
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287162%2F1896122301%2F0039.jp2/pct:15.097207,70.020920,15.595032,16.097578/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Midland Monthly Magazine 1894-1899_](https://iiif.archivelab.org/iiif/sim_midland-monthly-magazine_1897-03_7_3?page=63)
 
 #### 1897-03-01
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-If I should die to-night,  
-My friends would look upon my quiet face  
-Before they laid it in its final resting place,  
-And deem that death had left it almost fair;  
-And laying snow-white flowers against my hair,  
-Would smooth it down with careful tenderness,  
-And fold my hands with lingering caress,  
-Poor hands, so empty and so cold to-night.  
+ to-night.  
   
 If I should die to-night,  
 My friends would call to mind with loving thought  
@@ -5667,7 +4930,7 @@ When dreamless rest is mine I shall not need
 The tenderness for which I long to-night.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_midland-monthly-magazine_1897-03_7_3&#0036;63/pct:54.646018,24.646643,33.274336,37.779741/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_midland-monthly-magazine_1897-03_7_3&#0036;63/pct:54.646018,32.685512,33.274336,29.740872/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5731,8 +4994,7 @@ The tenderness for which I Ions tonight.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-NIGHT. If I should die to-night, My  
+GHT. If I should die to-night, My  
 friends would look upon my quiet face  
 Before they laid it in its resting  
 place, And deem that death had left it  
@@ -5805,6 +5067,43 @@ When dreamless rest is theirs they will not need
 The tenderness for which they long tonight.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_jama_1897-11-20_29_21&#0036;5/pct:52.042683,9.231749,38.719512,15.959253/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1899-05-04/ed-1/seq-3)
+
+#### 1899-05-04 &middot; Jamesburg, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+“ If I should die to-night,  
+My friends would call to mind with loving thought,  
+Some kindly deed the icy hand had wrought;  
+Some gentle words the frozen lips had said.  
+Errands on which the willing feet had sped;  
+The memory of my selfishness and pride,  
+My hasty words would be put aside,  
+And so I should be loved and mourned to-night.  
+M If I should die to-night,  
+Even hearts estranged would turn once more to me.  
+Recalling other days remorsefully;  
+The eye that chilled me with averted glance.  
+Would look upon me as of yore, perchance,  
+And softened in the old familiar way,  
+For who could war with dumb, unconscious clay ?  
+M Oh, friends, I pray to-night,  
+Keep not your kisses for my dead cold brow,  
+The way is lonely—let me feel them now ;  
+Speak kindly to me; lam travel-worn;  
+My faltering feet are pierced with many a thorn.  
+Forgive, oh hearts estranged: forgive, I plead!  
+When dreamless rest is mine, I shall not need  
+The tenderness for which I long to-night.*
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_deal_ver01%2Fdata%2Fsn91064026%2F00513685166%2F1899050401%2F0545.jp2/pct:71.847431,62.301013,18.039699,10.930716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

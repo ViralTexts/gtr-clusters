@@ -1,7 +1,7 @@
 
 # A Philosophical Darkey
 
-### 241 reprints from 1862-03-21 to 1898-10-01
+### 247 reprints from 1862-03-21 to 1898-10-01
 
 ## [A Philosophical Darkey](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-06-20/ed-1/seq-1/)
 
@@ -2190,6 +2190,51 @@ carnage
 
 ---
 
+## [From _Worcester daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021205/1862-05-22/ed-1/seq-2)
+
+#### 1862-05-22 &middot; Worcester [Mass.]
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+upon his bundle, toasting himself against the  
+chimney, and apparently plunged into a state  
+ot profound meditation. Finding upon in­  
+quiry that he belonged to the ninth Illinois,  
+one ot the most gallantly behaved and heavy­  
+losing regiments at the fort Donelson battle,  
+and part of which was aboard, I began to in­  
+terrogate him on the subject. His philosophy  
+was so much in the Falstaffian vein that I will  
+give his views in his own words, as near as my  
+memory serves me. ‘Were you in the fight?’  
+‘Had a little taste of it. sa.’ ‘Stood your ground,  
+did you?’ ‘No, sa, I runs.’ ‘Run at the first  
+fire, did you t&#x27; A es, sa, and would have run  
+soona, had I known it war comin.’ ‘Why,  
+that was not very creditable to your courage.’  
+•Dat isn’t in my line, sa—cookin’s my perfesh­  
+un.’ ‘Well, but have you no regard for your  
+reputation?’ ‘Reputation’s nuffin to me by  
+de side ob life.’ ‘Do you consider your life  
+worth more than other people’s ?’ ‘lt is worth  
+more to me. sa.’ ‘Then you must value it  
+very highly.’ ‘Yes, sa, I does—more dan all  
+this wuld—more dan a million ob dollars, sa;  
+for what would dat be worth to a man wid de  
+href out of him? Self-preserbashum am de  
+first law wid me.’ ‘Then patriotism and hon­  
+or are nothing to you?’ ‘Nuffin, whatever,  
+sa—I regard dem as among de vanities.’ It  
+is safe to say that the dusky corpse of that Af­  
+rican will never darken the field of carnage.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mb_artemis_ver01%2Fdata%2Fsn83021205%2F00517172157%2F1862052201%2F0482.jp2/pct:69.875936,52.612962,12.350046,14.034687/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1862-05-23/ed-1/seq-1)
 
 #### 1862-05-23 &middot; Bellows Falls, Vt.
@@ -3692,6 +3737,33 @@ carnage.
 
 ---
 
+## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7w3r0psv6k?page=3)
+
+#### 1863-11-20 &middot; Louisville, Kentucky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+for no government could ever replace de loss and seven others, released from Castle T n  
+tame.” der on parole, have reached Washington.  
+  
+“Do yon think any of yonr company would They state that the removal of twelve thou  
+have mUaed you if you had been killed?” sand U nion prisoners from Richmond to Dan  
+“May be not, sa; a dead white man alnt ville has commenced, and already twenty-five  
+ranch to dese sogers, let alone a dead nigger; hundred have gone.  
+  
+but I’d m as myself, and dat was de pint wid There ia great compliant among the people  
+me ” In Richmond at the high prices and the scarci-  
+  
+lt is safe to say that the dusky corpse of ty of provisions, and they are forced to adopt  
+that African will never darken the field of car- the advice of the papers to live without ea
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7w3r0psv6k&#0036;3/pct:6.143640,31.121486,25.310066,3.923711/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-11-21/ed-1/seq-3)
 
 #### 1863-11-21 &middot; Chicago, Ill.
@@ -4161,7 +4233,7 @@ the field of carnage
 
 ---
 
-## [From _Littell's living age_](https://iiif.archivelab.org/iiif/sim_living-age_1863-12-26_79_1021?page=26)
+## [From _Littell's Living Age (1844-1896)_](https://iiif.archivelab.org/iiif/sim_living-age_1863-12-26_79_1021?page=26)
 
 #### 1863-12-26 &middot; Boston
 
@@ -5695,6 +5767,49 @@ dead nigga—but I’d a missed myself, and dat was de pint wid me.’”
 
 ---
 
+## [From _The Monmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032307/1865-10-12/ed-1/seq-1)
+
+#### 1865-10-12 &middot; Freehold, N.J.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+‘‘ Were you in the fight ?”  
+“ Had a little taste of it, sa.”  
+“ Stood your ground, did you ?”  
+‘ No, sa, I runs.”  
+“ Run at the first fire, did you ?&quot;  
+“Yes, sa, and would hab run soona, had  
+I knowed it was corning.”  
+“ Why that was not very creditable to  
+your courage.”  
+“ Dat isn’t in my line, sa—cookin’s ray  
+perfe-hnn.”  
+“ Well have you no regard for yonr  
+reputation ?’f  
+‘‘ Reputation’s nuflin to me by the side  
+ob life.”  
+‘•)Do you consider your life worth more  
+than other people’s ?”  
+“It’s worth more to me, sa.”  
+“ Then you must value it very highly?&quot;  
+“ Yes, sa, I does—more dan all dii  
+will5 — more dan a million of dollars, sa.;  
+for what would dat he worth to a man  
+wid de href out ob him ? Self-preserba­  
+slmn am de first law wid me.”  
+“Then patriotism and honor are noth  
+ing to von ?”  
+  
+&quot; Auffin whatever, sa—I regard dent aB  
+among do vanities.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_eggharbor_ver01%2Fdata%2Fsn83032307%2F00513685257%2F1865101201%2F0398.jp2/pct:35.449077,32.722551,13.923460,16.105180/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-10-13/ed-1/seq-1)
 
 #### 1865-10-13 &middot; Portland, Me.
@@ -5733,6 +5848,93 @@ you?”
 among de vanities.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525206%2F1865101301%2F0604.jp2/pct:3.041579,77.136346,10.940786,11.283074/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1866-02-10/ed-1/seq-1)
+
+#### 1866-02-10 &middot; Van Buren, Ark.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A Philosophical Sambo.—l noticed,  
+upon the hurricane deck, today, an el­  
+derly darkey, with a very philosophical  
+and retrospective cast of countenance,  
+squatted upon his bundle, toasting his  
+shins against the chimney and apparent­  
+ly plunged in a state of meditation.—  
+Finding, upon inquiry, that he belonged  
+to the 9th Illinois, one of the most gal­  
+lantly behaved and heavily losing regi­  
+ments at the Fort Donnelson battle, and  
+part of which was aboard, I began to in­  
+terrogate him upon the subject. His phi­  
+losophy was so much in the FalstafHan  
+vein, that I will give his views in his own  
+words as near ns my memory serves me.  
+“ Were you in the light ?”  
+“ Had a little taste of it. sa.”  
+“ Stood your ground, did you ?”  
+“ No, sa, I runs.”  
+“ Run at the first, did you ?”  
+“ Yes, sa—and 1 would had run soon­  
+er had 1 knoad it was coming.”  
+“ Why, that wasn&#x27;t very creditable to  
+yonr courage.”  
+“Dat isn’t in my line, sa—cookin’s my  
+profeshun.” \
+“Well, but have you no regard for  
+your reputation ?”  
+“ Reputation’s nofin by the de side of  
+life.”  
+“Do you consider your life worth  
+more than other people&#x27;s ?”  
+“ It&#x27;s wuth more to me, sa.”  
+“ Then you must value it very highly ?”  
+“ Yes, sa, 1 does—more dan all dis  
+world ; more dan a million ob dollars sa,  
+for what would that be wuth to a man wid  
+de bref out of him ? Seif-preserbashun  
+am de fust law wid me.”  
+“ But why should you act upon a dif­  
+ferent rule from other men ?”  
+•• Because different men set different  
+values upon dar lives—mine is not in de  
+market,”  
+“ But if you lost it, you would have  
+the satisfaction of knowingthat you died  
+for your country.”  
+“.Whatsatisfaction would dat be tome  
+when de power of feeling was gone?  
+“ Then patriotism and honor are noth­  
+ing to you ?”  
+“ Nullln, whatever, sa—l regard dem  
+as among de vanites.”  
+“If our soldiers were like you, trai­  
+tors might h:ive broken up the Govern­  
+ment without resistance.”  
+“Yes. sa, dar would have been no help  
+for it. I wouldn&#x27;t ptti my life in de scale  
+&#x27;gainst no gobernment dafr eber existed  
+for no gobernment could replace the loss  
+to me.”  
+“Do you think any of your company  
+would have missed you if you had been  
+killed ?”  
+“ May be not, sa—a dead white man  
+ain’t much to these sogers, let alone ?»  
+  
+dead nigga—but I’d missed mVself and |  
+dat was de pint wid me.”  
+it is safe to say that the dusky corpse  
+of that African will never darken the  
+field of carnage.— Correspondence Cincin
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn84022991%2F00513688064%2F1866021001%2F0005.jp2/pct:20.724638,15.241299,35.079051,78.953724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6226,6 +6428,97 @@ that negro will never darken the field of
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555134%2F1868070101%2F0010.jp2/pct:56.837682,6.495661,13.080021,27.322614/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt734t6f2c27?page=3)
+
+#### 1869-03-11 &middot; Mount Sterling, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Utation?’ at the  
+  
+•Reputation’s ntifiin by do siile ob life.’  
+  
+‘Do you consider your life worth more  
+than otlF* ^&gt;e 6 £le’»?’ Our Stock of  
+  
+•It’s worth more to me, sa ’ ^ j . ^  
+  
+•Then you must value it very highly  
+  
+•Yes, sa, I d uz tnore&#x27;n all tl is worlj Is unusuallr fine and attractive. The nssort-  
+m ore’ll a million dollars, sa; for what &quot; -•  
+  
+would dat be wuth to a man wid de lire 1  
+knocked out uv him? Self-presscrwasliun
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt734t6f2c27&#0036;3/pct:3.649635,18.336237,25.091241,6.736353/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt734t6f2c27?page=3)
+
+#### 1869-03-11 &middot; Mount Sterling, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+atn de fust law wid me.’  
+  
+‘tint why shotihl J’oU act upon a differ-  
+ent rule frotu other men?’  
+  
+•Because different men set different wai-  
+ves on thar lives — mine is not iu do rnar-j  
+ket.’  
+  
+‘But if you lost it, yon would have the  
+satisfaction of knowing you died for your  
+  
+country.’  
+  
+‘What satisfaeshtin dat be to me when  
+do power of filin’ gone?’  
+  
+‘Then patriotism and honor are nothing  
+to you?’  
+  
+‘Nuffin whateber, sa; I regard ’em as  
+among-do wnnities.’  
+  
+‘If all our soldiers were like yon, trait-  
+ors would break up the Government with-  
+out resistance.’  
+  
+•Yes, sa; dar would luivo been no help  
+lor it. I wouldn’t put my head iu de scale  
+igin no gubberment dat ebber existed; for  
+no gubberment could replace the loss to  
+  
+me.’  
+  
+•Do you think any of your company  
+would liavo missed you if you had been  
+killed?’  
+  
+‘May be not, sa; a dead white titan isn’t  
+much to dese sogers, let alone a dead nigga.  
+But I’d miss myself, and dat was de pint  
+  
+wid me.’  
+  
+It is safe to say that the dusky corpse  
+of that negro will never daiken the field ol
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt734t6f2c27&#0036;3/pct:3.412409,25.261324,12.737226,22.052846/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8335,7 +8628,7 @@ Colored men iu tbe Southern State
 
 ---
 
-## [From _Chamber's Journal 1832-1956_](https://iiif.archivelab.org/iiif/sim_chambers-journal_1873-10-18_10_512?page=1)
+## [From _Chambers's Journal of Popular Literature, Science and Arts 1854-1897_](https://iiif.archivelab.org/iiif/sim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512?page=1)
 
 #### 1873-10-18
 
@@ -8344,7 +8637,7 @@ Colored men iu tbe Southern State
   
 run sonna had I knowed it comin’’ ‘If our sol-  
 diers were all like you, traitors might have broken  
-up the government without resistance.’ ‘ Yes, sa;  
+up the government without resistance.’ ‘ Yes, sa ;  
 dar would hab been no help for it. I wouldn’t  
 put my life in de scale ’gainst any gobernment dat  
 ever existed, for no gobernment could make up  
@@ -8354,7 +8647,7 @@ sa; a dead white man ain’t much to dese sogers, let
 alone a dead nigga; but I’d ha’ missed myself, and  
 dat was de pint wid me!’ Mr Planché’s Iris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal_1873-10-18_10_512&#0036;1/pct:51.235585,22.489083,36.573311,12.336245/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512&#0036;1/pct:51.235585,22.489083,36.573311,12.336245/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1,7 +1,7 @@
 
 # Household Economy
 
-### 152 reprints from 1852-01-20 to 1879-01-25
+### 154 reprints from 1852-01-20 to 1879-01-25
 
 ## [Household Economy](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-02-05/ed-1/seq-4/)
 
@@ -4487,6 +4487,41 @@ familiar with every variety in th
 
 ---
 
+## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt78sf2m8j1h?page=3)
+
+#### 1865-05-10 &middot; Louisville, Kentucky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+4. They are better grammarians, for Bat  
+In* become to familiar of every Tnriety of  
+•tyle in the newspaper from the common-  
+- BJv u rU*emeat to Use finished and  
+  
+cal oration of the statesman, they  
+mere readily comprehend the meaning of the  
+text, And ooMexiuently Analyze its con-  
+struction with accuracy.  
+  
+6. They write better compoeitions, using  
+bett«r language, containing more thoughts,  
+more clearly and connectedly expressed.  
+  
+6. Those young men who have for years  
+been renders of the newspapers are Always  
+tnking the lead in the debating societies,  
+eaLiLitiug n more extensive knowledge up-  
+•* ^greater TAriety of subject*, and ex-  
+thcir view 3 with greater fluency,  
+And correctness in their use o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt78sf2m8j1h&#0036;3/pct:17.808045,3.594181,10.730652,7.283446/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1865-06-22/ed-1/seq-1)
 
 #### 1865-06-22 &middot; Pomeroy, Meigs County, Ohio
@@ -4525,6 +4560,54 @@ their views with great fluency, clearness and
 correctness in their use of language, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026797%2F1865062201%2F0330.jp2/pct:82.755741,23.232944,13.048017,13.998156/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Louisville daily union press._](https://iiif.archivelab.org/iiif/xt7r4x54hv4v?page=0)
+
+#### 1865-07-04 &middot; Louisville, Ky.
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+tion, aud consequently re id more under-  
+stand ingly.  
+  
+2. They are lx«tter spellers, aud define  
+words with ease and accuracy.  
+  
+3. Tbey obtain practical knowledge of  
+geography in almost half the time it re-  
+quires others, as the newspaper has made  
+them acquainted with the location of the  
+important places, nations, their govern-  
+ments and doings on the globe.  
+  
+4. They are better grammarians, forhaviug  
+be ome so familiar with every variety of  
+style iu the newspaper, from the common  
+place advertisement to the finished and  
+classical oration of the statesman, they more  
+readily comprehend the meaning of the text  
+and consequently analyze its construction  
+with accuracy.  
+  
+•&quot;«. They write better compositions, using  
+better language, containing more thoughts,  
+more clearly and more connectedly ex-  
+pressed.  
+  
+6. Those young men who have for years  
+been readers of the newspapers are always  
+taking the lead in the debating societies, ex-  
+hibiting a more extensive knowledge upon  
+a greater variety of subjects, and express-  
+ing their views with greater fluency, clear-  
+ness and correctness in the use of language.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7r4x54hv4v&#0036;0/pct:42.400896,38.018286,12.494747,12.098660/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4575,9 +4658,9 @@ greater fluency, clearness and correctness
 
 ---
 
-## [From _Boston Commonwealth 1862-1896_](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48?page=3)
+## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48?page=3)
 
-#### 1865-07-29
+#### 1865-07-29 &middot; Boston [Mass.]
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
