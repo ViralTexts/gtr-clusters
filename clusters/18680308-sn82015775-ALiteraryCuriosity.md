@@ -84,7 +84,7 @@ LIFE.
 
 #### From _The Hawaiian gazette._
 
-#### 1868-02-26 &middot; Honolulu [Oahu, Hawaii]
+#### 1868-02-26 &middot; [Honolulu [Oahu, Hawaii]](http://dbpedia.org/resource/Honolulu)
 
 [This text is not available under an open license.]
 
@@ -94,7 +94,7 @@ LIFE.
 
 #### From _Daily national intelligencer._
 
-#### 1868-03-02 &middot; Washington City [D.C.]
+#### 1868-03-02 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -102,7 +102,7 @@ LIFE.
 
 ## [From _The New Orleans crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015775/1868-03-08/ed-1/seq-3)
 
-#### 1868-03-08 &middot; New Orleans, La.
+#### 1868-03-08 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -135,7 +135,7 @@ S38-For, live we how we na, yet die we mua
 
 ## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1868-03-09/ed-1/seq-2)
 
-#### 1868-03-09 &middot; Rock Island, Ill.
+#### 1868-03-09 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -212,7 +212,7 @@ Mason; 36, Hill; 37, Dana; 38, Shakespeare
 
 #### From _The Independent press._
 
-#### 1868-03-20 &middot; Ripley, Ohio
+#### 1868-03-20 &middot; [Ripley, Ohio](http://dbpedia.org/resource/Ripley%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -220,7 +220,7 @@ Mason; 36, Hill; 37, Dana; 38, Shakespeare
 
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13?page=2)
 
-#### 1868-03-28 &middot; New York
+#### 1868-03-28 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -313,7 +313,7 @@ ae 316 Milsons 16. Bailes ; 17. Trench ; 18. yo Von’t you know he and I were b
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4?page=12)
 
-#### 1868-03-28 &middot; Philadelphia
+#### 1868-03-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -411,7 +411,7 @@ speare.
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
-#### 1868-04-02 &middot; New York
+#### 1868-04-02 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -419,7 +419,7 @@ speare.
 
 ## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1868-04-04/ed-1/seq-2)
 
-#### 1868-04-04 &middot; Davenport, Iowa
+#### 1868-04-04 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -476,7 +476,7 @@ We masters grow of all that we deapis*.
 
 ## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1868-04-04/ed-1/seq-2)
 
-#### 1868-04-04 &middot; Davenport, Iowa
+#### 1868-04-04 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -509,7 +509,7 @@ kins :H, Horrick 35, Willi mi Maeon
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1868-04-09/ed-1/seq-1)
 
-#### 1868-04-09 &middot; Richmond, Ind.
+#### 1868-04-09 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -579,7 +579,7 @@ Shakspeare.&#x27; &#x27; . &#x27; . !
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1868-04-24/ed-1/seq-1)
 
-#### 1868-04-24 &middot; Bellows Falls, Vt.
+#### 1868-04-24 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -680,7 +680,7 @@ i Dana; its, bhakespearo
 
 ## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
-#### 1868-04-25 &middot; Boston [Mass.]
+#### 1868-04-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -720,7 +720,7 @@ hastenea up among the rioters. But now cries of | 14—And throw a cruel sunshin
 
 ## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
-#### 1868-04-25 &middot; Boston [Mass.]
+#### 1868-04-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -760,7 +760,7 @@ the door-way, and in a few moments more the 54 we masters grow ot ail Geek we de
 
 ## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
 
-#### 1868-04-25 &middot; Boston [Mass.]
+#### 1868-04-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -802,7 +802,7 @@ Dryden, 32 Francis Quarles, 33 Watkins, 34 Her
 
 ## [From _The Hancock Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85042591/1868-05-01/ed-1/seq-1)
 
-#### 1868-05-01 &middot; Findlay, Ohio
+#### 1868-05-01 &middot; [Findlay, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -896,7 +896,7 @@ l.Youne: 3, Dr. Johnson; .3, Pope ; 4
 
 #### From _Bangor daily Whig & courier._
 
-#### 1868-05-13 &middot; Bangor, Me.
+#### 1868-05-13 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -906,7 +906,7 @@ l.Youne: 3, Dr. Johnson; .3, Pope ; 4
 
 #### From _The Union and Dakotaian._
 
-#### 1868-05-16 &middot; Yankton, Dakota Territory [S.D.]
+#### 1868-05-16 &middot; [Yankton, Dakota Territory [S.D.]](http://dbpedia.org/resource/Yankton%2C_South_Dakota)
 
 [This text is not available under an open license.]
 
@@ -914,7 +914,7 @@ l.Youne: 3, Dr. Johnson; .3, Pope ; 4
 
 ## [From _The workingman's advocate._](https://chroniclingamerica.loc.gov/lccn/sn89077510/1868-05-30/ed-1/seq-4)
 
-#### 1868-05-30 &middot; Chicago [Ill.]
+#### 1868-05-30 &middot; [Chicago [Ill.]](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -949,7 +949,7 @@ T~Bu» Hfht car»s speak when u.ig‘ ty gTiefi are dumb,
 
 ## [From _The workingman's advocate._](https://chroniclingamerica.loc.gov/lccn/sn89077510/1868-05-30/ed-1/seq-4)
 
-#### 1868-05-30 &middot; Chicago [Ill.]
+#### 1868-05-30 &middot; [Chicago [Ill.]](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -988,7 +988,7 @@ Drjdeii. 84. Fr«ncU Quarles- 3J, Watkins. 34, Wm
 
 ## [From _Clarksville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061077/1868-06-26/ed-1/seq-1)
 
-#### 1868-06-26 &middot; Clarksville, Tenn.
+#### 1868-06-26 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1178,7 +1178,7 @@ Dana; 38, Shakspere.
 
 #### From _Bristol Mercury_
 
-#### 1868-08-22 &middot; Bristol, England
+#### 1868-08-22 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1186,7 +1186,7 @@ Dana; 38, Shakspere.
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1868-09-11/ed-1/seq-1)
 
-#### 1868-09-11 &middot; Pulaski, Tenn.
+#### 1868-09-11 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1240,7 +1240,7 @@ well
 
 ## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39?page=3)
 
-#### 1868-09-26
+#### 1868-09-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1387,7 +1387,7 @@ Mason ; 36, Hill; 37. Dana; 38. Shakspere.
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1868-09-27/ed-1/seq-1)
 
-#### 1868-09-27 &middot; Memphis, Tenn.
+#### 1868-09-27 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1481,7 +1481,7 @@ Jo, William Mason; 3G, HUI; 37, Dsna
 
 #### From _Derby Mercury_
 
-#### 1868-09-30 &middot; Derby, England
+#### 1868-09-30 &middot; [Derby, England](http://dbpedia.org/resource/Derby)
 
 [This text is not available under an open license.]
 
@@ -1489,7 +1489,7 @@ Jo, William Mason; 3G, HUI; 37, Dsna
 
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1868-10-02/ed-1/seq-1)
 
-#### 1868-10-02 &middot; Oregon, Missouri.
+#### 1868-10-02 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1538,7 +1538,7 @@ nice
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1868-11-25 &middot; Melbourne, Victoria
+#### 1868-11-25 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1622,7 +1622,7 @@ Herri ck; 35, William Mason; 3G, Hill;
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
-#### 1868-12-19 &middot; Brisbane, Queensland
+#### 1868-12-19 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1685,7 +1685,7 @@ Shakespeare. What if you fail i
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1869-01-06/ed-1/seq-1)
 
-#### 1869-01-06 &middot; Alexandria, D.C.
+#### 1869-01-06 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1782,7 +1782,7 @@ Hill; 37, Dana; 38, Shakspeare
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1869-03-27 &middot; Adelaide, South Australia
+#### 1869-03-27 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1868,7 +1868,7 @@ Sliakspeare.
 
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
-#### 1869-04-10 &middot; Melbourne, Victoria
+#### 1869-04-10 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1946,7 +1946,7 @@ Mason&#x27;-5 Hill; 37, Dana; 38, Shakgpeare.
 
 ## [From _The Marietta journal._](https://chroniclingamerica.loc.gov/lccn/sn85034082/1869-04-30/ed-1/seq-1)
 
-#### 1869-04-30 &middot; Marietta, Ga.
+#### 1869-04-30 &middot; [Marietta, Ga.](http://dbpedia.org/resource/Marietta%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2020,7 +2020,7 @@ Willtam Mason; 36, Hill; 37, Dana; 38, Shakespeare.
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1869-05-15/ed-1/seq-1)
 
-#### 1869-05-15 &middot; Elkton, Md.
+#### 1869-05-15 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2142,7 +2142,7 @@ Hill: 37, Dana; 38. Shakespeare
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468?page=56)
 
-#### 1869-06-01 &middot; New York
+#### 1869-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2163,7 +2163,7 @@ poets of the past and present time :
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468?page=56)
 
-#### 1869-06-01 &middot; New York
+#### 1869-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2206,7 +2206,7 @@ For, live we how we can, yet die we must
 
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1869-06-17/ed-1/seq-1)
 
-#### 1869-06-17 &middot; Leonard Town, Md.
+#### 1869-06-17 &middot; [Leonard Town, Md.](http://dbpedia.org/resource/Leonardtown%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2313,7 +2313,7 @@ Charles&#x27;: -JJ, Watkins; 34, Herrick:
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1869-07-03/ed-1/seq-4)
 
-#### 1869-07-03 &middot; Middletown, Del.
+#### 1869-07-03 &middot; [Middletown, Del.](http://dbpedia.org/resource/Middletown%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2432,7 +2432,7 @@ Dunn ; 39, Shakspearc.
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1869-08-03/ed-1/seq-1)
 
-#### 1869-08-03 &middot; Lancaster, Wis.
+#### 1869-08-03 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2504,7 +2504,7 @@ den ; 32, Francis Quarles; 33. Watkins; 34 Herrick;
 
 ## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1869-10-22/ed-1/seq-4)
 
-#### 1869-10-22 &middot; Burlington, Vt.
+#### 1869-10-22 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2586,7 +2586,7 @@ Diana; 3b, Shakspeare
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19?page=11)
 
-#### 1869-11-06 &middot; St. Louis, Mo.
+#### 1869-11-06 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2624,7 +2624,7 @@ leading poets of the past and present :—
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-12-16/ed-1/seq-1)
 
-#### 1869-12-16 &middot; Troy, Lincoln County, Mo.
+#### 1869-12-16 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2682,7 +2682,7 @@ kins. S4,Uerrlok. 3i, William Mason. 3,niU.
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1870-03-01/ed-1/seq-3)
 
-#### 1870-03-01 &middot; New Bloomfield, Pa.
+#### 1870-03-01 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2753,7 +2753,7 @@ Heattie; 20. Cow per; 27, Sir Walter Davcnant;
 
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
 
-#### 1870-10-15 &middot; Goulburn, New South Wales
+#### 1870-10-15 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2822,7 +2822,7 @@ yet die we must. Shakslenae
 
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
 
-#### 1872-08-06 &middot; Wollongong, New South Wales
+#### 1872-08-06 &middot; [Wollongong, New South Wales](http://dbpedia.org/resource/Wollongong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2859,7 +2859,7 @@ vDnua, 3S Shakespeare
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1873-03-28/ed-1/seq-1)
 
-#### 1873-03-28 &middot; Romney, Va. [W. Va.]
+#### 1873-03-28 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2921,7 +2921,7 @@ Dana—38, Shakespeare
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22?page=5)
 
-#### 1873-05-29 &middot; Boston
+#### 1873-05-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2974,7 +2974,7 @@ Wiliam Mason; 36 Hill; 37 Dana; 38 Shakespeare,
 
 ## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1873-09-13_12_298?page=2)
 
-#### 1873-09-13
+#### 1873-09-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2992,7 +2992,7 @@ Times from the pen of Mrs. H. A. Deming, an
 
 #### From _St. Louis globe-Democrat._
 
-#### 1876-07-16 &middot; St. Louis [Mo.]
+#### 1876-07-16 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -3000,7 +3000,7 @@ Times from the pen of Mrs. H. A. Deming, an
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-09-07/ed-1/seq-6)
 
-#### 1876-09-07 &middot; Kenosha, Wis.
+#### 1876-09-07 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3073,7 +3073,7 @@ nant; 28, Gray; 29, Willis; 30, Addison; 31, Dryden;
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1876-09-08/ed-1/seq-6)
 
-#### 1876-09-08 &middot; Paw Paw, Mich.
+#### 1876-09-08 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3128,7 +3128,7 @@ iiant; 28, Gray; 2., Willis; 31
 
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1876-10-12/ed-1/seq-2)
 
-#### 1876-10-12 &middot; Mexico, Mo.
+#### 1876-10-12 &middot; [Mexico, Mo.](http://dbpedia.org/resource/Mexico%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3219,7 +3219,7 @@ rick; 35. Mason; 36. Hill; 37.. Dana; 38. Shak­
 
 ## [From _Dodge City times._](https://chroniclingamerica.loc.gov/lccn/sn84029838/1876-10-14/ed-1/seq-6)
 
-#### 1876-10-14 &middot; Dodge City, Kan.
+#### 1876-10-14 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3322,7 +3322,7 @@ Jlyron;il. Muollett, 2t. Crabbe;23 Maesingrr;
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278?page=9)
 
-#### 1876-11-11
+#### 1876-11-11 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3447,7 +3447,7 @@ Shakspeare.
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1877-03-03 &middot; Melbourne, Victoria
+#### 1877-03-03 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3510,7 +3510,7 @@ SirW.Davouant 2 Dr. Johnson 15 Milto
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1877-05-01/ed-1/seq-1)
 
-#### 1877-05-01 &middot; Staunton, Va.
+#### 1877-05-01 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3594,7 +3594,7 @@ speare.
 
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1877-08-03/ed-1/seq-4)
 
-#### 1877-08-03 &middot; Ashtabula, Ohio
+#### 1877-08-03 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3651,7 +3651,7 @@ Dana; 38 Shakespeare.
 
 #### From _Aberdeen Journal_
 
-#### 1878-04-03 &middot; Aberdeen, Scotland
+#### 1878-04-03 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -3659,7 +3659,7 @@ Dana; 38 Shakespeare.
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350?page=5)
 
-#### 1878-04-27
+#### 1878-04-27 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3760,7 +3760,7 @@ Shakespeare.
 
 #### From _Lowell daily citizen._
 
-#### 1878-09-26 &middot; Lowell, Mass.
+#### 1878-09-26 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -3768,7 +3768,7 @@ Shakespeare.
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1878-10-03/ed-1/seq-6)
 
-#### 1878-10-03 &middot; Kenosha, Wis.
+#### 1878-10-03 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3837,7 +3837,7 @@ rick; 35, William Mason, 36, Hill; 37. Dana; 38,
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1878-10-04/ed-1/seq-6)
 
-#### 1878-10-04 &middot; Paw Paw, Mich.
+#### 1878-10-04 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3906,7 +3906,7 @@ SlAkspi-are.
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1878-10-30/ed-1/seq-1)
 
-#### 1878-10-30 &middot; Tionesta, Pa.
+#### 1878-10-30 &middot; [Tionesta, Pa.](http://dbpedia.org/resource/Tionesta%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3978,7 +3978,7 @@ an, may; .&#x27;O.Willis; 30, Addison; 81. Dryd. :
 
 #### From _The Congregationalist._
 
-#### 1879-01-15 &middot; Boston, Mass.
+#### 1879-01-15 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -3988,7 +3988,7 @@ an, may; .&#x27;O.Willis; 30, Addison; 81. Dryd. :
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
-#### 1879-08-21 &middot; New York
+#### 1879-08-21 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -3998,7 +3998,7 @@ an, may; .&#x27;O.Willis; 30, Addison; 81. Dryd. :
 
 #### From _Warwick Examiner and Times (Qld. : 1867 - 1919)_
 
-#### 1879-09-03 &middot; Warwick, Queensland
+#### 1879-09-03 &middot; [Warwick, Queensland](http://dbpedia.org/resource/Warwick%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4073,7 +4073,7 @@ Daveaant; 28 Gray; 2ft Willi
 
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
 
-#### 1879-11-19 &middot; Riverina Region, New South Wales
+#### 1879-11-19 &middot; [Riverina Region, New South Wales](http://dbpedia.org/resource/Hay%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4139,7 +4139,7 @@ Aifdisin; 31 Dryden; 32 I&#x27;pmcB Quarics ;
 
 ## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1880-08-12/ed-1/seq-6)
 
-#### 1880-08-12 &middot; Princeton, Minn.
+#### 1880-08-12 &middot; [Princeton, Minn.](http://dbpedia.org/resource/Princeton%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4159,7 +4159,7 @@ a year&#x27;s laborious search among the leading poet* o
 
 ## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1880-08-12/ed-1/seq-6)
 
-#### 1880-08-12 &middot; Princeton, Minn.
+#### 1880-08-12 &middot; [Princeton, Minn.](http://dbpedia.org/resource/Princeton%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4199,7 +4199,7 @@ For, live we how we can, yet die we mus
 
 ## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1880-08-13/ed-1/seq-2)
 
-#### 1880-08-13 &middot; Little Falls, Morrison County, Minn.
+#### 1880-08-13 &middot; [Little Falls, Morrison County, Minn.](http://dbpedia.org/resource/Little_Falls%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4221,7 +4221,7 @@ the past and present tim
 
 ## [From _The Mankato free press._](https://chroniclingamerica.loc.gov/lccn/sn83016589/1880-09-24/ed-1/seq-1)
 
-#### 1880-09-24 &middot; Mankato, Blue Earth County, Minn.
+#### 1880-09-24 &middot; [Mankato, Blue Earth County, Minn.](http://dbpedia.org/resource/Mankato%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4284,7 +4284,7 @@ den; 32, Francis Quarlea; 33, Watkins; 34, lit rrnk;
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1880-09-30/ed-1/seq-1)
 
-#### 1880-09-30 &middot; Ridgway, Pa.
+#### 1880-09-30 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4305,7 +4305,7 @@ ous search among the leading pouts ot th
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1880-09-30/ed-1/seq-1)
 
-#### 1880-09-30 &middot; Ridgway, Pa.
+#### 1880-09-30 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4348,7 +4348,7 @@ For, live we how we can, yet die we must
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1881-03-27/ed-1/seq-2)
 
-#### 1881-03-27 &middot; Memphis, Tenn.
+#### 1881-03-27 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4429,7 +4429,7 @@ auakespeare
 
 ## [From _Northern tribune._](https://chroniclingamerica.loc.gov/lccn/sn85026455/1881-05-21/ed-1/seq-3)
 
-#### 1881-05-21 &middot; Cheboygan, Mich.
+#### 1881-05-21 &middot; [Cheboygan, Mich.](http://dbpedia.org/resource/Cheboygan%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4451,7 +4451,7 @@ and present time
 
 ## [From _Northern tribune._](https://chroniclingamerica.loc.gov/lccn/sn85026455/1881-05-21/ed-1/seq-3)
 
-#### 1881-05-21 &middot; Cheboygan, Mich.
+#### 1881-05-21 &middot; [Cheboygan, Mich.](http://dbpedia.org/resource/Cheboygan%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4495,7 +4495,7 @@ For; live we how we can, yet die we mus
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1881-11-04/ed-1/seq-1)
 
-#### 1881-11-04 &middot; Staunton, Va.
+#### 1881-11-04 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4518,7 +4518,7 @@ and present time
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1881-11-04/ed-1/seq-1)
 
-#### 1881-11-04 &middot; Staunton, Va.
+#### 1881-11-04 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4564,7 +4564,7 @@ For, live we how we can. yet die we mus t
 
 #### From _South Bourke and Mornington Journal (Richmond, Vic. : 1872 - 1920)_
 
-#### 1882-08-23 &middot; South Bourke, Victoria
+#### 1882-08-23 &middot; [South Bourke, Victoria](http://dbpedia.org/resource/Richmond%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4607,7 +4607,7 @@ Dana; 33, Shakspere.-Gu
 
 ## [From _The daily Cairo bulletin._](https://chroniclingamerica.loc.gov/lccn/sn87082573/1882-08-27/ed-1/seq-1)
 
-#### 1882-08-27 &middot; Cairo, Ill.
+#### 1882-08-27 &middot; [Cairo, Ill.](http://dbpedia.org/resource/Cairo%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4710,7 +4710,7 @@ Dryden; 32, Francis Charles ; 33, Watkh s;
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1882-08-31/ed-1/seq-1)
 
-#### 1882-08-31 &middot; Pulaski, Tenn.
+#### 1882-08-31 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4851,7 +4851,7 @@ Pill; 37, Dana; 3S, Shakespeare
 
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1882-09-25/ed-1/seq-3)
 
-#### 1882-09-25 &middot; [Wilmington, Del.]
+#### 1882-09-25 &middot; [[Wilmington, Del.]](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4954,7 +4954,7 @@ Daua; 3S, Shakespeare
 
 ## [From _The Evening critic._](https://chroniclingamerica.loc.gov/lccn/sn82014424/1882-09-26/ed-1/seq-1)
 
-#### 1882-09-26 &middot; Washington, D.C.
+#### 1882-09-26 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5045,7 +5045,7 @@ Oil, Pill; 37, Dana; us, shakspoar
 
 #### From _The Cleveland herald._
 
-#### 1882-09-27 &middot; [Cleveland, Ohio]
+#### 1882-09-27 &middot; [[Cleveland, Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -5055,7 +5055,7 @@ Oil, Pill; 37, Dana; us, shakspoar
 
 #### From _St. Louis globe-Democrat._
 
-#### 1882-10-01 &middot; St. Louis [Mo.]
+#### 1882-10-01 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -5063,7 +5063,7 @@ Oil, Pill; 37, Dana; us, shakspoar
 
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1882-10-17/ed-1/seq-1)
 
-#### 1882-10-17 &middot; Idaho City, Idaho Territory
+#### 1882-10-17 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5166,7 +5166,7 @@ kl &quot;»; 34, Herrick; 35. William Mason;
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1882-10-17/ed-1/seq-1)
 
-#### 1882-10-17 &middot; Staunton, Va.
+#### 1882-10-17 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5258,7 +5258,7 @@ Dana; 38, Shakespeare,
 
 ## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391?page=6)
 
-#### 1882-10-26
+#### 1882-10-26 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5358,7 +5358,7 @@ What is ambition ? ’tis a glorious cheat!
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1882-11-18/ed-1/seq-1)
 
-#### 1882-11-18 &middot; McMinnville, Tenn.
+#### 1882-11-18 &middot; [McMinnville, Tenn.](http://dbpedia.org/resource/McMinnville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5459,7 +5459,7 @@ kins; 34, Herrick; 35, William Mason;
 
 ## [From _Charlotte home and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020714/1882-12-08/ed-1/seq-1)
 
-#### 1882-12-08 &middot; Charlotte, N.C.
+#### 1882-12-08 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5542,7 +5542,7 @@ Dana ; 38, Sbakspeare
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1882-12-08/ed-1/seq-1)
 
-#### 1882-12-08 &middot; Ebensburg, Pa.
+#### 1882-12-08 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5657,7 +5657,7 @@ Sbakspeare
 
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1882-12-09/ed-1/seq-1)
 
-#### 1882-12-09 &middot; Donaldsonville, La.
+#### 1882-12-09 &middot; [Donaldsonville, La.](http://dbpedia.org/resource/Donaldsonville%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5737,7 +5737,7 @@ Win. Mlason; 36. Pill; 37, Dana; 38, Shakespeare
 
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1882-12-09/ed-1/seq-1)
 
-#### 1882-12-09 &middot; Towsontown, Md.
+#### 1882-12-09 &middot; [Towsontown, Md.](http://dbpedia.org/resource/Towson%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5786,7 +5786,7 @@ peare
 
 ## [From _Phillipsburg herald._](https://chroniclingamerica.loc.gov/lccn/sn85029677/1883-01-04/ed-1/seq-2)
 
-#### 1883-01-04 &middot; Phillipsburg, Kan.
+#### 1883-01-04 &middot; [Phillipsburg, Kan.](http://dbpedia.org/resource/Phillipsburg%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5901,7 +5901,7 @@ Pill; 87. Dana ; SS Shakspeare
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1883-01-04/ed-1/seq-4)
 
-#### 1883-01-04 &middot; Belfast, Me.
+#### 1883-01-04 &middot; [Belfast, Me.](http://dbpedia.org/resource/Belfast%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5976,7 +5976,7 @@ l- oi ii\e we how we can. die we must.
 
 ## [From _Butler citizen._](https://chroniclingamerica.loc.gov/lccn/sn86071045/1883-03-21/ed-1/seq-1)
 
-#### 1883-03-21 &middot; Butler, Pa.
+#### 1883-03-21 &middot; [Butler, Pa.](http://dbpedia.org/resource/Butler%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6068,7 +6068,7 @@ peare
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1883-05-26/ed-1/seq-1)
 
-#### 1883-05-26 &middot; Westminster, Md.
+#### 1883-05-26 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6147,7 +6147,7 @@ Shakspeare
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1883-06-09/ed-1/seq-1)
 
-#### 1883-06-09 &middot; Elkton, Md.
+#### 1883-06-09 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6249,7 +6249,7 @@ peare
 
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
 
-#### 1883-07-14 &middot; Sydney, New South Wales
+#### 1883-07-14 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6310,7 +6310,7 @@ we may, yet die we must
 
 ## [From _The Hope pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87096037/1883-08-10/ed-1/seq-4)
 
-#### 1883-08-10 &middot; Hope, N.D.
+#### 1883-08-10 &middot; [Hope, N.D.](http://dbpedia.org/resource/Hope%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6412,7 +6412,7 @@ Herrick 85, William Mason 36, Pill
 
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
 
-#### 1883-09-08 &middot; Sydney, New South Wales
+#### 1883-09-08 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6438,7 +6438,7 @@ Quarles ? 33, Watkins ; 34, Herrick j
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1883-09-13/ed-1/seq-1)
 
-#### 1883-09-13 &middot; Ellsworth, Me.
+#### 1883-09-13 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6499,7 +6499,7 @@ tl. W hat*- all th© gaudy glitter of a crown ?
 
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
-#### 1883-09-15 &middot; Melbourne, Victoria
+#### 1883-09-15 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6569,7 +6569,7 @@ winuit. 1. Young; 2.-Dr. Jofas0n ;
 
 ## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1883-10-23/ed-1/seq-1)
 
-#### 1883-10-23 &middot; Paris, Me.
+#### 1883-10-23 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6622,7 +6622,7 @@ j it*. 1 lien keep each passion down, however
 
 ## [From _Seattle daily post-intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83045611/1883-10-27/ed-1/seq-4)
 
-#### 1883-10-27 &middot; Seattle, W.T. [Wash.]
+#### 1883-10-27 &middot; [Seattle, W.T. [Wash.]](http://dbpedia.org/resource/Seattle)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6752,7 +6752,7 @@ speare.
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1884-04-26/ed-1/seq-4)
 
-#### 1884-04-26 &middot; Clarksville, Tenn.
+#### 1884-04-26 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6846,7 +6846,7 @@ Addison; 31, Dryden; 32, &#x27;Francis Charles
 
 #### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
 
-#### 1885-11-03 &middot; Kiama, New South Wales
+#### 1885-11-03 &middot; [Kiama, New South Wales](http://dbpedia.org/resource/Kiama%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6914,7 +6914,7 @@ Shakespeare
 
 ## [From _Herald of gospel liberty._](https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1885-11-26_77_48?page=1)
 
-#### 1885-11-26 &middot; Portsmouth [N.H.]
+#### 1885-11-26 &middot; [Portsmouth [N.H.]](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6934,7 +6934,7 @@ Why all this toil for triumphs of an hour?—[Young.
 
 ## [From _San Antonio daily light._](https://chroniclingamerica.loc.gov/lccn/sn86090439/1886-10-30/ed-1/seq-6)
 
-#### 1886-10-30 &middot; San Antonio, Tex.
+#### 1886-10-30 &middot; [San Antonio, Tex.](http://dbpedia.org/resource/San_Antonio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7037,7 +7037,7 @@ Kerrick : 35, William Mason : 36, Hill; 37, Dana;
 
 ## [From _The Hawaiian gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025121/1886-11-02/ed-1/seq-7)
 
-#### 1886-11-02 &middot; Honolulu [Oahu, Hawaii]
+#### 1886-11-02 &middot; [Honolulu [Oahu, Hawaii]](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7148,7 +7148,7 @@ Dana 3S Shakespher
 
 #### From _St. Louis globe-Democrat._
 
-#### 1887-02-03 &middot; St. Louis [Mo.]
+#### 1887-02-03 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -7158,7 +7158,7 @@ Dana 3S Shakespher
 
 #### From _The Milwaukee sentinel._
 
-#### 1887-02-11 &middot; Milwaukee, Wis.
+#### 1887-02-11 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -7168,7 +7168,7 @@ Dana 3S Shakespher
 
 #### From _The daily inter ocean._
 
-#### 1887-02-13 &middot; Chicago, Ill.
+#### 1887-02-13 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -7176,7 +7176,7 @@ Dana 3S Shakespher
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-02-17_35_7?page=30)
 
-#### 1887-02-17 &middot; New York
+#### 1887-02-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7309,7 +7309,7 @@ Herrick ; 35, William Mason ; 36, Hill ; 87, Dana»
 
 ## [From _Iowa County democrat._](https://chroniclingamerica.loc.gov/lccn/sn86086852/1887-02-18/ed-1/seq-4)
 
-#### 1887-02-18 &middot; Mineral Point, Wis.
+#### 1887-02-18 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7409,7 +7409,7 @@ peare
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1887-02-24/ed-1/seq-5)
 
-#### 1887-02-24 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1887-02-24 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7509,7 +7509,7 @@ peare
 
 ## [From _Advocate of Peace (1847-1906)_](https://iiif.archivelab.org/iiif/sim_world-affairs-us_march-april-1887_49_2?page=19)
 
-#### 1887-03-01 &middot; Washington
+#### 1887-03-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7608,7 +7608,7 @@ Quarles; 33, Watkins; 34, Herrick; 35, William Mason; 36, Hill;
 
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1887-03-03/ed-1/seq-1)
 
-#### 1887-03-03 &middot; Oskaloosa, Mahaska County, Iowa
+#### 1887-03-03 &middot; [Oskaloosa, Mahaska County, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7685,7 +7685,7 @@ Shakespeare.
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1887-03-03/ed-1/seq-4)
 
-#### 1887-03-03 &middot; Ellsworth, Me.
+#### 1887-03-03 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7770,7 +7770,7 @@ I &gt;an:»: 5*. sliakspeare.
 
 #### From _Milwaukee daily journal._
 
-#### 1887-03-05 &middot; Milwaukee, Wis.
+#### 1887-03-05 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -7778,7 +7778,7 @@ I &gt;an:»: 5*. sliakspeare.
 
 ## [From _The Monmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032307/1887-03-17/ed-1/seq-1)
 
-#### 1887-03-17 &middot; Freehold, N.J.
+#### 1887-03-17 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7847,7 +7847,7 @@ den: 32 Francis Quarles; 33 Watkins; 34, Herrick
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1887-03-17/ed-1/seq-4)
 
-#### 1887-03-17 &middot; Ravenna, O. [Ohio]
+#### 1887-03-17 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7934,7 +7934,7 @@ kius; 31. Derrick; 3o. William Mason;
 
 ## [From _San Antonio daily light._](https://chroniclingamerica.loc.gov/lccn/sn86090439/1887-03-18/ed-1/seq-4)
 
-#### 1887-03-18 &middot; San Antonio, Tex.
+#### 1887-03-18 &middot; [San Antonio, Tex.](http://dbpedia.org/resource/San_Antonio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8044,7 +8044,7 @@ Shakspeare
 
 #### From _Hampshire/Portsmouth Telegraph_
 
-#### 1887-03-19 &middot; Portsmouth, England
+#### 1887-03-19 &middot; [Portsmouth, England](http://dbpedia.org/resource/Portsmouth)
 
 [This text is not available under an open license.]
 
@@ -8054,7 +8054,7 @@ Shakspeare
 
 #### From _The Galveston daily news._
 
-#### 1887-03-27 &middot; Houston [Tex.]
+#### 1887-03-27 &middot; [Houston [Tex.]](http://dbpedia.org/resource/Houston)
 
 [This text is not available under an open license.]
 
@@ -8062,7 +8062,7 @@ Shakspeare
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1887-03-31/ed-1/seq-3)
 
-#### 1887-03-31 &middot; Lancaster, Wis.
+#### 1887-03-31 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8149,7 +8149,7 @@ kins; 34, Herrick; 35, William Mason;
 
 ## [From _The Irish standard._](https://chroniclingamerica.loc.gov/lccn/sn90059959/1887-04-02/ed-1/seq-3)
 
-#### 1887-04-02 &middot; Minneapolis, Minn. ;
+#### 1887-04-02 &middot; [Minneapolis, Minn. ;](http://dbpedia.org/resource/Minneapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8232,7 +8232,7 @@ Dryden 32, Francis Quarles 33, Watkins
 
 ## [From _The San Saba news._](https://chroniclingamerica.loc.gov/lccn/sn84022097/1887-04-08/ed-1/seq-2)
 
-#### 1887-04-08 &middot; San Saba, Tex.
+#### 1887-04-08 &middot; [San Saba, Tex.](http://dbpedia.org/resource/San_Saba%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8326,7 +8326,7 @@ Shakespeare wf
 
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1887-04-13/ed-1/seq-2)
 
-#### 1887-04-13 &middot; New Ulm, Minn.
+#### 1887-04-13 &middot; [New Ulm, Minn.](http://dbpedia.org/resource/New_Ulm%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8434,7 +8434,7 @@ speare
 
 ## [From _The sun._](https://chroniclingamerica.loc.gov/lccn/sn91059392/1887-04-14/ed-1/seq-1)
 
-#### 1887-04-14 &middot; Morris, Stevens County, Minn.
+#### 1887-04-14 &middot; [Morris, Stevens County, Minn.](http://dbpedia.org/resource/Morris%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8549,7 +8549,7 @@ speare.
 
 ## [From _Bridgeton pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87068192/1887-04-14/ed-1/seq-6)
 
-#### 1887-04-14 &middot; Bridgeton, N.J.
+#### 1887-04-14 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8630,7 +8630,7 @@ Dryden; 32, Francis Quarles; 33, Watkins;
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1887-04-14/ed-1/seq-4)
 
-#### 1887-04-14 &middot; Mineral Point, Wis.
+#### 1887-04-14 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8717,7 +8717,7 @@ kins; 34. Herrick: 35. William Muscat
 
 ## [From _The Hope pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87096037/1887-04-15/ed-1/seq-2)
 
-#### 1887-04-15 &middot; Hope, N.D.
+#### 1887-04-15 &middot; [Hope, N.D.](http://dbpedia.org/resource/Hope%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8836,7 +8836,7 @@ speare.
 
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
-#### 1887-04-16 &middot; Melbourne, Victoria
+#### 1887-04-16 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8909,7 +8909,7 @@ Herrlck&#x27;: 35, William Mason ; 36, Hill;
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-04-20/ed-1/seq-1)
 
-#### 1887-04-20 &middot; Mifflintown, Juniata County, Pa.
+#### 1887-04-20 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9012,7 +9012,7 @@ Hill; 37, Dana; 33. Shakespeare
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1887-04-22/ed-1/seq-1)
 
-#### 1887-04-22 &middot; Olympia, Wash. Territory
+#### 1887-04-22 &middot; [Olympia, Wash. Territory](http://dbpedia.org/resource/Olympia%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9118,7 +9118,7 @@ Herrick; 35, William Mason ; 36, Hill;
 
 ## [From _The Universalist._](https://chroniclingamerica.loc.gov/lccn/sn90053049/1887-04-30/ed-1/seq-6)
 
-#### 1887-04-30 &middot; Chicago [Ill.]
+#### 1887-04-30 &middot; [Chicago [Ill.]](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9198,7 +9198,7 @@ kins; 34. Herrick; 35. William Mason;
 
 ## [From _American Printer 1883-2013_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8?page=39)
 
-#### 1887-05-01
+#### 1887-05-01 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9276,7 +9276,7 @@ Watkins ; 34, Herrick; 35, William Mason; 36, Hill; 37, Dana;
 
 ## [From _The Columbus journal._](https://chroniclingamerica.loc.gov/lccn/sn95073194/1887-06-01/ed-1/seq-1)
 
-#### 1887-06-01 &middot; Columbus, Neb.
+#### 1887-06-01 &middot; [Columbus, Neb.](http://dbpedia.org/resource/Columbus%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9360,7 +9360,7 @@ kins; 34, Herrick; 35. William Mason;
 
 ## [From _Evening capital._](https://chroniclingamerica.loc.gov/lccn/sn88065721/1887-10-26/ed-1/seq-1)
 
-#### 1887-10-26 &middot; Annapolis, Md.
+#### 1887-10-26 &middot; [Annapolis, Md.](http://dbpedia.org/resource/Annapolis%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9461,7 +9461,7 @@ Herrick; 35, William Mason; 36, Hill;
 
 ## [From _Waterbury evening Democrat._](https://chroniclingamerica.loc.gov/lccn/sn94053256/1888-03-15/ed-1/seq-1)
 
-#### 1888-03-15 &middot; Waterbury, Conn.
+#### 1888-03-15 &middot; [Waterbury, Conn.](http://dbpedia.org/resource/Waterbury%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9504,7 +9504,7 @@ SO. Thou pendulum betwixt a smile and tear:
 
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1888-07-26/ed-1/seq-1)
 
-#### 1888-07-26 &middot; Oskaloosa, Mahaska County, Iowa
+#### 1888-07-26 &middot; [Oskaloosa, Mahaska County, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9603,7 +9603,7 @@ speare.
 
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1888-07-26/ed-1/seq-2)
 
-#### 1888-07-26 &middot; Oskaloosa, Mahaska County, Iowa
+#### 1888-07-26 &middot; [Oskaloosa, Mahaska County, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9684,7 +9684,7 @@ speare.
 
 #### From _Windsor and Richmond Gazette (NSW : 1888 - 1954)_
 
-#### 1888-10-06 &middot; Richmond, New South Wales
+#### 1888-10-06 &middot; [Richmond, New South Wales](http://dbpedia.org/resource/Richmond%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9756,7 +9756,7 @@ peare
 
 ## [From _The National tribune._](https://chroniclingamerica.loc.gov/lccn/sn82016187/1888-11-22/ed-1/seq-7)
 
-#### 1888-11-22 &middot; Washington, D.C.
+#### 1888-11-22 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9831,7 +9831,7 @@ Hill; 37, Dana; 3S, Shaksperc
 
 ## [From _Ballou's Monthly Magazine (1866-1893)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1889-01_69_1?page=81)
 
-#### 1889-01-01 &middot; Boston
+#### 1889-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9955,7 +9955,7 @@ Shakespeare.
 
 #### From _Newcastle Courant_
 
-#### 1889-01-12 &middot; Newcastle-upon-Tyne, England
+#### 1889-01-12 &middot; [Newcastle-upon-Tyne, England](http://dbpedia.org/resource/Newcastle_upon_Tyne)
 
 [This text is not available under an open license.]
 
@@ -9965,7 +9965,7 @@ Shakespeare.
 
 #### From _Newcastle Morning Herald and Miners' Advocate (NSW : 1876 - 1954) _
 
-#### 1889-03-09 &middot; Newcastle, New South Wales
+#### 1889-03-09 &middot; [Newcastle, New South Wales](http://dbpedia.org/resource/Newcastle%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10025,7 +10025,7 @@ can, yet dio we tiut
 
 ## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19?page=2)
 
-#### 1889-04-06
+#### 1889-04-06 &middot; [Toronto, Canada](http://dbpedia.org/resource/Toronto)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10099,7 +10099,7 @@ Addison; 25, Dryden; 26, Francis Charles;
 
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
-#### 1889-04-20 &middot; Melbourne, Victoria
+#### 1889-04-20 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10172,7 +10172,7 @@ SpSncW;^% ;t Vtmn; 8, Sir Walte
 
 #### From _Weekly courier-journal._
 
-#### 1889-05-06 &middot; Louisville [Ky.]
+#### 1889-05-06 &middot; [Louisville [Ky.]](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 [This text is not available under an open license.]
 
@@ -10182,7 +10182,7 @@ SpSncW;^% ;t Vtmn; 8, Sir Walte
 
 #### From _Warragul Guardian and Buln Buln and Narracan Shire Advocate (Warragul, Vic. : 1879 - 1894)_
 
-#### 1889-05-17 &middot; Warragul, Victoria
+#### 1889-05-17 &middot; [Warragul, Victoria](http://dbpedia.org/resource/Warragul)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10266,7 +10266,7 @@ Watkins; 34, Herrick; 35, William Mason
 
 #### From _Fitzroy City Press (Vic. : 1881 - 1920)_
 
-#### 1889-07-19 &middot; Fitzroy, Victoria
+#### 1889-07-19 &middot; [Fitzroy, Victoria](http://dbpedia.org/resource/Fitzroy%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10350,7 +10350,7 @@ Shakespeare
 
 #### From _The Colac Herald (Vic. : 1875 - 1918)_
 
-#### 1889-07-26 &middot; Colac, Victoria
+#### 1889-07-26 &middot; [Colac, Victoria](http://dbpedia.org/resource/Colac%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10433,7 +10433,7 @@ Watkins; 34, Herrick; 35, William Mason;
 
 #### From _The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)_
 
-#### 1889-07-27 &middot; Caulfield, Victoria
+#### 1889-07-27 &middot; [Caulfield, Victoria](http://dbpedia.org/resource/Caulfield%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10493,7 +10493,7 @@ ambition wise because &#x27;tis brave
 
 #### From _The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)_
 
-#### 1889-07-27 &middot; Caulfield, Victoria
+#### 1889-07-27 &middot; [Caulfield, Victoria](http://dbpedia.org/resource/Caulfield%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10534,7 +10534,7 @@ Shakespeare
 
 ## [From _The Caucasian._](https://chroniclingamerica.loc.gov/lccn/sn91068245/1890-04-24/ed-1/seq-4)
 
-#### 1890-04-24 &middot; Clinton, N.C.
+#### 1890-04-24 &middot; [Clinton, N.C.](http://dbpedia.org/resource/Clinton%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10653,7 +10653,7 @@ we must.
 
 #### From _The Manaro Mercury, and Cooma and Bombala Advertiser (NSW : 1862 - 1931)_
 
-#### 1890-05-03 &middot; Monaro, New South Wales
+#### 1890-05-03 &middot; [Monaro, New South Wales](http://dbpedia.org/resource/Cooma)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10735,7 +10735,7 @@ Watkins, 34, Herrick ; 85, William Mason
 
 #### From _Evelyn Observer, and South and East Bourke Record (Vic. : 1882 - 1902)_
 
-#### 1890-08-01 &middot; Kangaroo Ground, Victoria
+#### 1890-08-01 &middot; [Kangaroo Ground, Victoria](http://dbpedia.org/resource/Shire_of_Nillumbik)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10807,7 +10807,7 @@ William lano ; 311, Pill 37, Dana; :II,
 
 #### From _The Coburg Leader (Vic. : 1890 - 1913)_
 
-#### 1890-09-24 &middot; Coburg, Victoria
+#### 1890-09-24 &middot; [Coburg, Victoria](http://dbpedia.org/resource/Coburg%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10886,7 +10886,7 @@ Dana; 3S, Shakespceare
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1891-03-19/ed-1/seq-5)
 
-#### 1891-03-19 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1891-03-19 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10992,7 +10992,7 @@ Pill; 37, Dana; 38, Shakespeare.
 
 #### From _Kapunda Herald (SA : 1878 - 1951)_
 
-#### 1891-09-11 &middot; Kapunda, South Australia
+#### 1891-09-11 &middot; [Kapunda, South Australia](http://dbpedia.org/resource/Kapunda)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11070,7 +11070,7 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 
 ## [From _Journal of Education 1875-1876_](https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11?page=9)
 
-#### 1892-03-17
+#### 1892-03-17 &middot; [Brooklyn, New York](http://dbpedia.org/resource/Brooklyn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11124,7 +11124,7 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 
 ## [From _Morning journal and courier._](https://chroniclingamerica.loc.gov/lccn/sn82015483/1893-03-20/ed-1/seq-1)
 
-#### 1893-03-20 &middot; New Haven [Conn.]
+#### 1893-03-20 &middot; [New Haven [Conn.]](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11180,7 +11180,7 @@ is. roriuas sasaea roily oer pseuuar oar
 
 ## [From _Evening capital journal._](https://chroniclingamerica.loc.gov/lccn/sn99063952/1893-05-24/ed-1/seq-3)
 
-#### 1893-05-24 &middot; Salem, Or.
+#### 1893-05-24 &middot; [Salem, Or.](http://dbpedia.org/resource/Salem%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11241,7 +11241,7 @@ ti. We masters grow of all that we daaplse. 1
 
 ## [From _Evening capital journal._](https://chroniclingamerica.loc.gov/lccn/sn99063952/1893-05-24/ed-1/seq-3)
 
-#### 1893-05-24 &middot; Salem, Or.
+#### 1893-05-24 &middot; [Salem, Or.](http://dbpedia.org/resource/Salem%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11280,7 +11280,7 @@ liam Mason. 86. Pill. 87. Dana. 08. Shake
 
 ## [From _Fairhaven herald._](https://chroniclingamerica.loc.gov/lccn/sn88085722/1893-06-07/ed-1/seq-4)
 
-#### 1893-06-07 &middot; Fairhaven, Wash.
+#### 1893-06-07 &middot; [Fairhaven, Wash.](http://dbpedia.org/resource/Fairhaven%2C_Bellingham%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11366,7 +11366,7 @@ speare. .
 
 ## [From _The Wadsworth dispatch._](https://chroniclingamerica.loc.gov/lccn/sn86076126/1893-06-17/ed-1/seq-1)
 
-#### 1893-06-17 &middot; Wadsworth, Nev.
+#### 1893-06-17 &middot; [Wadsworth, Nev.](http://dbpedia.org/resource/Wadsworth%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11402,7 +11402,7 @@ A Tito bottom Is but shallow whence they
 
 #### From _South Australian Chronicle  (Adelaide, SA : 1889 - 1895)_
 
-#### 1893-08-05 &middot; Adelaide, South Australia
+#### 1893-08-05 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11462,7 +11462,7 @@ DrrdeD. 32. Francis Cbarlea. S3 Watklna
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1893-08-11/ed-1/seq-1)
 
-#### 1893-08-11 &middot; Shepherdstown, Va. [W. Va.]
+#### 1893-08-11 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11542,7 +11542,7 @@ IS, Somcrville; ]Thomson; 2ii, liryaid; 21,
 
 ## [From _The Austin weekly statesman._](https://chroniclingamerica.loc.gov/lccn/sn86088296/1894-03-15/ed-1/seq-4)
 
-#### 1894-03-15 &middot; Austin, Tex.
+#### 1894-03-15 &middot; [Austin, Tex.](http://dbpedia.org/resource/Austin%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11632,7 +11632,7 @@ Dana; 38, Shakespeare
 
 ## [From _The Newberry herald and news._](https://chroniclingamerica.loc.gov/lccn/sn93067777/1894-05-16/ed-1/seq-4)
 
-#### 1894-05-16 &middot; Newberry, S.C.
+#### 1894-05-16 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11660,7 +11660,7 @@ mit to memory each line and the nam
 
 ## [From _The Newberry herald and news._](https://chroniclingamerica.loc.gov/lccn/sn93067777/1894-05-16/ed-1/seq-4)
 
-#### 1894-05-16 &middot; Newberry, S.C.
+#### 1894-05-16 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11770,7 +11770,7 @@ cis Quarles; 33. W atkins; 34. Herrick;
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1894-06-20/ed-1/seq-8)
 
-#### 1894-06-20 &middot; Abbeville, S.C.
+#### 1894-06-20 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11889,7 +11889,7 @@ Francis Quarles; 33. Walking; 34 Herrlck ; ?,
 
 #### From _The daily picayune._
 
-#### 1896-08-30 &middot; New Orleans, La.
+#### 1896-08-30 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -11897,7 +11897,7 @@ Francis Quarles; 33. Walking; 34 Herrlck ; ?,
 
 ## [From _Bridgeton pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87068192/1897-07-01/ed-1/seq-7)
 
-#### 1897-07-01 &middot; Bridgeton, N.J.
+#### 1897-07-01 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11977,7 +11977,7 @@ Dana; 38, Shakespeare
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1897-07-14/ed-1/seq-2)
 
-#### 1897-07-14 &middot; Bellows Falls, Vt.
+#### 1897-07-14 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12094,7 +12094,7 @@ kins; 34, Herrick; 35, William Mason;
 
 ## [From _The Monmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032307/1897-09-16/ed-1/seq-3)
 
-#### 1897-09-16 &middot; Freehold, N.J.
+#### 1897-09-16 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12211,7 +12211,7 @@ kins; 34, Herrick; 35. William Mason;.
 
 ## [From _Waterbury Democrat._](https://chroniclingamerica.loc.gov/lccn/2016270502/1897-09-23/ed-1/seq-6)
 
-#### 1897-09-23 &middot; Waterbury, Conn.
+#### 1897-09-23 &middot; [Waterbury, Conn.](http://dbpedia.org/resource/Waterbury%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12298,7 +12298,7 @@ Unmlngled joys
 
 ## [From _Waterbury Democrat._](https://chroniclingamerica.loc.gov/lccn/2016270502/1897-09-23/ed-1/seq-6)
 
-#### 1897-09-23 &middot; Waterbury, Conn.
+#### 1897-09-23 &middot; [Waterbury, Conn.](http://dbpedia.org/resource/Waterbury%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12328,7 +12328,7 @@ kins; 34, Herrick; 35, William Mason;:
 
 ## [From _The record-union._](https://chroniclingamerica.loc.gov/lccn/sn82015104/1897-10-17/ed-1/seq-16)
 
-#### 1897-10-17 &middot; Sacramento, Calif.
+#### 1897-10-17 &middot; [Sacramento, Calif.](http://dbpedia.org/resource/Sacramento%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12367,7 +12367,7 @@ For live we how we can, yet die we must. —SJieAespeare.
 
 ## [From _American Fruit Grower 1897-2014_](https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1?page=1)
 
-#### 1898-01-01
+#### 1898-01-01 &middot; [Rochester, New York](http://dbpedia.org/resource/Rochester%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12437,7 +12437,7 @@ For live we how ‘we can, yet die we must
 
 #### From _The Milwaukee journal._
 
-#### 1898-02-17 &middot; Milwaukee [Wis.]
+#### 1898-02-17 &middot; [Milwaukee [Wis.]](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -12445,7 +12445,7 @@ For live we how ‘we can, yet die we must
 
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1898-02-20/ed-1/seq-10)
 
-#### 1898-02-20 &middot; Savannah, Ga.
+#### 1898-02-20 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12541,7 +12541,7 @@ must
 
 #### From _Northern Star (Lismore, NSW : 1876 - 1954)_
 
-#### 1898-03-19 &middot; Lismore, New South Wales
+#### 1898-03-19 &middot; [Lismore, New South Wales](http://dbpedia.org/resource/Lismore%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12605,7 +12605,7 @@ Shakespeare
 
 #### From _Arkansas Democrat._
 
-#### 1898-07-23 &middot; Little Rock, Ark.
+#### 1898-07-23 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -12613,7 +12613,7 @@ Shakespeare
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1898-11-03/ed-1/seq-3)
 
-#### 1898-11-03 &middot; Salisbury, Litchfield Co., Conn.
+#### 1898-11-03 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12699,7 +12699,7 @@ Mason; 36, PilJ; 37, Dana; 38,Shakespeare.
 
 ## [From _The sea coast echo._](https://chroniclingamerica.loc.gov/lccn/sn86074033/1898-11-19/ed-1/seq-4)
 
-#### 1898-11-19 &middot; Bay Saint Louis, Miss.
+#### 1898-11-19 &middot; [Bay Saint Louis, Miss.](http://dbpedia.org/resource/Bay_St._Louis%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12774,7 +12774,7 @@ peare.
 
 #### From _Port Pirie Recorder and North Western Mail (SA : 1898 - 1918)_
 
-#### 1899-06-10 &middot; Port Pirie, South Australia
+#### 1899-06-10 &middot; [Port Pirie, South Australia](http://dbpedia.org/resource/Port_Pirie)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12849,7 +12849,7 @@ Quarles ; 33, Wat-, kins ; 34. Herrick ;
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1899-07-20/ed-1/seq-1)
 
-#### 1899-07-20 &middot; Lancaster, Wis.
+#### 1899-07-20 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

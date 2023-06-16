@@ -33,7 +33,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-01-30 &middot; London, England
+#### 1842-01-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -43,7 +43,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-02-06 &middot; London, England
+#### 1842-02-06 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -53,7 +53,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-02-13 &middot; London, England
+#### 1842-02-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -63,7 +63,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-03-13 &middot; London, England
+#### 1842-03-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -73,7 +73,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-03-27 &middot; London, England
+#### 1842-03-27 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -83,7 +83,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-04-10 &middot; London, England
+#### 1842-04-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -93,7 +93,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-04-17 &middot; London, England
+#### 1842-04-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -103,7 +103,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-04-24 &middot; London, England
+#### 1842-04-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -113,7 +113,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-05-08 &middot; London, England
+#### 1842-05-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -123,7 +123,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-05-15 &middot; London, England
+#### 1842-05-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -133,7 +133,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-05-22 &middot; London, England
+#### 1842-05-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -143,7 +143,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-06-05 &middot; London, England
+#### 1842-06-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -153,7 +153,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-06-12 &middot; London, England
+#### 1842-06-12 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -163,7 +163,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-06-19 &middot; London, England
+#### 1842-06-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -173,7 +173,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-06-26 &middot; London, England
+#### 1842-06-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -183,7 +183,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-07-03 &middot; London, England
+#### 1842-07-03 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -193,7 +193,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-07-10 &middot; London, England
+#### 1842-07-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -203,7 +203,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-07-10 &middot; London, England
+#### 1842-07-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -213,7 +213,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-07-17 &middot; London, England
+#### 1842-07-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -223,7 +223,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-07-24 &middot; London, England
+#### 1842-07-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -233,7 +233,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-08-07 &middot; London, England
+#### 1842-08-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -243,7 +243,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-08-14 &middot; London, England
+#### 1842-08-14 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -253,7 +253,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-08-21 &middot; London, England
+#### 1842-08-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -263,7 +263,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-08-28 &middot; London, England
+#### 1842-08-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -273,7 +273,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-09-04 &middot; London, England
+#### 1842-09-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -283,7 +283,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-09-10 &middot; Leeds, England
+#### 1842-09-10 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -293,7 +293,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-09-10 &middot; Leeds, England
+#### 1842-09-10 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -303,7 +303,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-09-11 &middot; London, England
+#### 1842-09-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -313,7 +313,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-09-17 &middot; Leeds, England
+#### 1842-09-17 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -323,7 +323,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-09-17 &middot; Leeds, England
+#### 1842-09-17 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -333,7 +333,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-09-18 &middot; London, England
+#### 1842-09-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -343,7 +343,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-09-24 &middot; Leeds, England
+#### 1842-09-24 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -353,7 +353,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-09-24 &middot; Leeds, England
+#### 1842-09-24 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -363,7 +363,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-09-25 &middot; London, England
+#### 1842-09-25 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -373,7 +373,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-01 &middot; Leeds, England
+#### 1842-10-01 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -383,7 +383,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-01 &middot; Leeds, England
+#### 1842-10-01 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -393,7 +393,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-01 &middot; Leeds, England
+#### 1842-10-01 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -403,7 +403,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-01 &middot; Leeds, England
+#### 1842-10-01 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -413,7 +413,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-08 &middot; Leeds, England
+#### 1842-10-08 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -423,7 +423,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-08 &middot; Leeds, England
+#### 1842-10-08 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -433,7 +433,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-08 &middot; Leeds, England
+#### 1842-10-08 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -443,7 +443,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _The Era_
 
-#### 1842-10-09 &middot; London, England
+#### 1842-10-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -453,7 +453,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-15 &middot; Leeds, England
+#### 1842-10-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -463,7 +463,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-15 &middot; Leeds, England
+#### 1842-10-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -473,7 +473,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-15 &middot; Leeds, England
+#### 1842-10-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -483,7 +483,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-15 &middot; Leeds, England
+#### 1842-10-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -493,7 +493,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-15 &middot; Leeds, England
+#### 1842-10-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -503,7 +503,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-22 &middot; Leeds, England
+#### 1842-10-22 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -513,7 +513,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-22 &middot; Leeds, England
+#### 1842-10-22 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -523,7 +523,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-22 &middot; Leeds, England
+#### 1842-10-22 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -533,7 +533,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-22 &middot; Leeds, England
+#### 1842-10-22 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -543,7 +543,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-22 &middot; Leeds, England
+#### 1842-10-22 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -553,7 +553,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-29 &middot; Leeds, England
+#### 1842-10-29 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -563,7 +563,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-29 &middot; Leeds, England
+#### 1842-10-29 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -573,7 +573,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-10-29 &middot; Leeds, England
+#### 1842-10-29 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -583,7 +583,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-05 &middot; Leeds, England
+#### 1842-11-05 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -593,7 +593,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-05 &middot; Leeds, England
+#### 1842-11-05 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -603,7 +603,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-05 &middot; Leeds, England
+#### 1842-11-05 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -613,7 +613,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-12 &middot; Leeds, England
+#### 1842-11-12 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -623,7 +623,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-12 &middot; Leeds, England
+#### 1842-11-12 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -633,7 +633,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-12 &middot; Leeds, England
+#### 1842-11-12 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -643,7 +643,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-19 &middot; Leeds, England
+#### 1842-11-19 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -653,7 +653,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-19 &middot; Leeds, England
+#### 1842-11-19 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -663,7 +663,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-19 &middot; Leeds, England
+#### 1842-11-19 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -673,7 +673,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-26 &middot; Leeds, England
+#### 1842-11-26 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -683,7 +683,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-26 &middot; Leeds, England
+#### 1842-11-26 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -693,7 +693,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-26 &middot; Leeds, England
+#### 1842-11-26 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -703,7 +703,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-11-26 &middot; Leeds, England
+#### 1842-11-26 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -713,7 +713,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-12-03 &middot; Leeds, England
+#### 1842-12-03 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -723,7 +723,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-12-03 &middot; Leeds, England
+#### 1842-12-03 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -733,7 +733,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-12-03 &middot; Leeds, England
+#### 1842-12-03 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -743,7 +743,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-12-10 &middot; Leeds, England
+#### 1842-12-10 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -753,7 +753,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-12-10 &middot; Leeds, England
+#### 1842-12-10 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -763,7 +763,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-12-17 &middot; Leeds, England
+#### 1842-12-17 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -773,7 +773,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-12-17 &middot; Leeds, England
+#### 1842-12-17 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -783,7 +783,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-12-24 &middot; Leeds, England
+#### 1842-12-24 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -793,7 +793,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-12-24 &middot; Leeds, England
+#### 1842-12-24 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -803,7 +803,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1842-12-31 &middot; Manchester, England
+#### 1842-12-31 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -813,7 +813,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-12-31 &middot; Leeds, England
+#### 1842-12-31 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -823,7 +823,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1842-12-31 &middot; Leeds, England
+#### 1842-12-31 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -833,7 +833,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-01-07 &middot; Leeds, England
+#### 1843-01-07 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -843,7 +843,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-01-14 &middot; Leeds, England
+#### 1843-01-14 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -853,7 +853,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-01-21 &middot; Leeds, England
+#### 1843-01-21 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -863,7 +863,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-01-28 &middot; Manchester, England
+#### 1843-01-28 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -873,7 +873,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-01-28 &middot; Leeds, England
+#### 1843-01-28 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -883,7 +883,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-02-04 &middot; Manchester, England
+#### 1843-02-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -893,7 +893,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-02-04 &middot; Manchester, England
+#### 1843-02-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -903,7 +903,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-02-04 &middot; Leeds, England
+#### 1843-02-04 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -913,7 +913,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-02-04 &middot; Leeds, England
+#### 1843-02-04 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -923,7 +923,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-02-11 &middot; Leeds, England
+#### 1843-02-11 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -933,7 +933,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-02-11 &middot; Leeds, England
+#### 1843-02-11 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -943,7 +943,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-02-11 &middot; Leeds, England
+#### 1843-02-11 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -953,7 +953,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-02-18 &middot; Leeds, England
+#### 1843-02-18 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -963,7 +963,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-02-25 &middot; Manchester, England
+#### 1843-02-25 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -973,7 +973,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-03-04 &middot; Leeds, England
+#### 1843-03-04 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -983,7 +983,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-03-04 &middot; Leeds, England
+#### 1843-03-04 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -993,7 +993,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-03-04 &middot; Leeds, England
+#### 1843-03-04 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1003,7 +1003,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-03-11 &middot; Manchester, England
+#### 1843-03-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1013,7 +1013,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-03-11 &middot; Leeds, England
+#### 1843-03-11 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1023,7 +1023,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-03-18 &middot; Leeds, England
+#### 1843-03-18 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1033,7 +1033,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-03-21 &middot; Dublin, Ireland
+#### 1843-03-21 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1043,7 +1043,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-03-25 &middot; Dublin, Ireland
+#### 1843-03-25 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1053,7 +1053,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-03-25 &middot; Dublin, Ireland
+#### 1843-03-25 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1063,7 +1063,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-03-25 &middot; Leeds, England
+#### 1843-03-25 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1073,7 +1073,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-03-25 &middot; Leeds, England
+#### 1843-03-25 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1083,7 +1083,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-03-25 &middot; Leeds, England
+#### 1843-03-25 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1093,7 +1093,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-03-30 &middot; Edinburgh, Scotland
+#### 1843-03-30 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1103,7 +1103,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-04-01 &middot; Leeds, England
+#### 1843-04-01 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1113,7 +1113,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-04-01 &middot; Leeds, England
+#### 1843-04-01 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1123,7 +1123,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-04-01 &middot; Leeds, England
+#### 1843-04-01 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1133,7 +1133,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-04-06 &middot; Edinburgh, Scotland
+#### 1843-04-06 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1143,7 +1143,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-04-08 &middot; Manchester, England
+#### 1843-04-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1153,7 +1153,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-04-08 &middot; Leeds, England
+#### 1843-04-08 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1163,7 +1163,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-04-08 &middot; Leeds, England
+#### 1843-04-08 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1173,7 +1173,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-04-10 &middot; Dublin, Ireland
+#### 1843-04-10 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1183,7 +1183,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-04-11 &middot; Dublin, Ireland
+#### 1843-04-11 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1193,7 +1193,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-04-15 &middot; Leeds, England
+#### 1843-04-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1203,7 +1203,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-04-15 &middot; Leeds, England
+#### 1843-04-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1213,7 +1213,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-04-22 &middot; Edinburgh, Scotland
+#### 1843-04-22 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1223,7 +1223,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-04-22 &middot; Manchester, England
+#### 1843-04-22 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1233,7 +1233,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-04-22 &middot; Leeds, England
+#### 1843-04-22 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1243,7 +1243,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-04-28 &middot; Dublin, Ireland
+#### 1843-04-28 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1253,7 +1253,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-04-29 &middot; Edinburgh, Scotland
+#### 1843-04-29 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1263,7 +1263,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-04-29 &middot; Manchester, England
+#### 1843-04-29 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1273,7 +1273,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-05-01 &middot; Dublin, Ireland
+#### 1843-05-01 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1283,7 +1283,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-05-06 &middot; Edinburgh, Scotland
+#### 1843-05-06 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1293,7 +1293,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-05-06 &middot; Leeds, England
+#### 1843-05-06 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1303,7 +1303,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-05-06 &middot; Leeds, England
+#### 1843-05-06 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1313,7 +1313,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-05-13 &middot; Manchester, England
+#### 1843-05-13 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1323,7 +1323,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-05-13 &middot; Leeds, England
+#### 1843-05-13 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1333,7 +1333,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-05-20 &middot; Manchester, England
+#### 1843-05-20 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1343,7 +1343,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-05-20 &middot; Leeds, England
+#### 1843-05-20 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1353,7 +1353,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-05-22 &middot; Dublin, Ireland
+#### 1843-05-22 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1363,7 +1363,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-05-22 &middot; Dublin, Ireland
+#### 1843-05-22 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1373,7 +1373,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-05-24 &middot; Dublin, Ireland
+#### 1843-05-24 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1383,7 +1383,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-05-27 &middot; Leeds, England
+#### 1843-05-27 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1393,7 +1393,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-06-03 &middot; Edinburgh, Scotland
+#### 1843-06-03 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1403,7 +1403,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-06-03 &middot; Manchester, England
+#### 1843-06-03 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1413,7 +1413,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-06-03 &middot; Leeds, England
+#### 1843-06-03 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1423,7 +1423,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-05 &middot; Dublin, Ireland
+#### 1843-06-05 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1433,7 +1433,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-06 &middot; Dublin, Ireland
+#### 1843-06-06 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1443,7 +1443,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-07 &middot; Dublin, Ireland
+#### 1843-06-07 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1453,7 +1453,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-09 &middot; Dublin, Ireland
+#### 1843-06-09 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1463,7 +1463,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-06-10 &middot; Edinburgh, Scotland
+#### 1843-06-10 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1473,7 +1473,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-06-10 &middot; Manchester, England
+#### 1843-06-10 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1483,7 +1483,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-06-10 &middot; Leeds, England
+#### 1843-06-10 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1493,7 +1493,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-06-10 &middot; Leeds, England
+#### 1843-06-10 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1503,7 +1503,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-12 &middot; Dublin, Ireland
+#### 1843-06-12 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1513,7 +1513,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-15 &middot; Dublin, Ireland
+#### 1843-06-15 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1523,7 +1523,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-16 &middot; Dublin, Ireland
+#### 1843-06-16 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1533,7 +1533,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-16 &middot; Dublin, Ireland
+#### 1843-06-16 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1543,7 +1543,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-06-17 &middot; Manchester, England
+#### 1843-06-17 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1553,7 +1553,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-06-17 &middot; Leeds, England
+#### 1843-06-17 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1563,7 +1563,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-06-17 &middot; Leeds, England
+#### 1843-06-17 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1573,7 +1573,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-19 &middot; Dublin, Ireland
+#### 1843-06-19 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1583,7 +1583,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-22 &middot; Dublin, Ireland
+#### 1843-06-22 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1593,7 +1593,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-22 &middot; Dublin, Ireland
+#### 1843-06-22 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1603,7 +1603,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-23 &middot; Dublin, Ireland
+#### 1843-06-23 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1613,7 +1613,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-06-24 &middot; Edinburgh, Scotland
+#### 1843-06-24 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1623,7 +1623,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-24 &middot; Dublin, Ireland
+#### 1843-06-24 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1633,7 +1633,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-06-24 &middot; Manchester, England
+#### 1843-06-24 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1643,7 +1643,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-06-24 &middot; Leeds, England
+#### 1843-06-24 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1653,7 +1653,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-06-24 &middot; Leeds, England
+#### 1843-06-24 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1663,7 +1663,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-27 &middot; Dublin, Ireland
+#### 1843-06-27 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1673,7 +1673,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-27 &middot; Dublin, Ireland
+#### 1843-06-27 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1683,7 +1683,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-28 &middot; Dublin, Ireland
+#### 1843-06-28 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1693,7 +1693,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-06-29 &middot; Dublin, Ireland
+#### 1843-06-29 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1703,7 +1703,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-07-01 &middot; Leeds, England
+#### 1843-07-01 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1713,7 +1713,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-07-03 &middot; Dublin, Ireland
+#### 1843-07-03 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1723,7 +1723,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-07-07 &middot; Dublin, Ireland
+#### 1843-07-07 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1733,7 +1733,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-07-08 &middot; Leeds, England
+#### 1843-07-08 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1743,7 +1743,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-07-10 &middot; Dublin, Ireland
+#### 1843-07-10 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1753,7 +1753,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-07-14 &middot; Dublin, Ireland
+#### 1843-07-14 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1763,7 +1763,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-07-15 &middot; Edinburgh, Scotland
+#### 1843-07-15 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1773,7 +1773,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-07-15 &middot; Manchester, England
+#### 1843-07-15 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1783,7 +1783,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-07-15 &middot; Leeds, England
+#### 1843-07-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1793,7 +1793,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-07-15 &middot; Leeds, England
+#### 1843-07-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1803,7 +1803,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-07-15 &middot; Leeds, England
+#### 1843-07-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1813,7 +1813,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-07-18 &middot; Dublin, Ireland
+#### 1843-07-18 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1823,7 +1823,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-07-22 &middot; Edinburgh, Scotland
+#### 1843-07-22 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1833,7 +1833,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-07-22 &middot; Manchester, England
+#### 1843-07-22 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1843,7 +1843,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-07-22 &middot; Leeds, England
+#### 1843-07-22 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1853,7 +1853,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-07-22 &middot; Leeds, England
+#### 1843-07-22 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1863,7 +1863,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-07-25 &middot; Dublin, Ireland
+#### 1843-07-25 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1873,7 +1873,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-07-29 &middot; Leeds, England
+#### 1843-07-29 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1883,7 +1883,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-07-31 &middot; Dublin, Ireland
+#### 1843-07-31 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1893,7 +1893,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-08-05 &middot; Leeds, England
+#### 1843-08-05 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1903,7 +1903,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-08-05 &middot; Leeds, England
+#### 1843-08-05 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1913,7 +1913,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-08-08 &middot; Dublin, Ireland
+#### 1843-08-08 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1923,7 +1923,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-08-12 &middot; Edinburgh, Scotland
+#### 1843-08-12 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1933,7 +1933,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-08-12 &middot; Manchester, England
+#### 1843-08-12 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1943,7 +1943,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-08-12 &middot; Leeds, England
+#### 1843-08-12 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1953,7 +1953,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-08-12 &middot; Leeds, England
+#### 1843-08-12 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1963,7 +1963,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-08-12 &middot; Leeds, England
+#### 1843-08-12 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1973,7 +1973,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-08-17 &middot; Dublin, Ireland
+#### 1843-08-17 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1983,7 +1983,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-08-19 &middot; Edinburgh, Scotland
+#### 1843-08-19 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1993,7 +1993,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-08-25 &middot; Dublin, Ireland
+#### 1843-08-25 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2003,7 +2003,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-08-28 &middot; Dublin, Ireland
+#### 1843-08-28 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2013,7 +2013,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-09-01 &middot; Dublin, Ireland
+#### 1843-09-01 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2023,7 +2023,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-09-02 &middot; Leeds, England
+#### 1843-09-02 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2033,7 +2033,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-09-09 &middot; Edinburgh, Scotland
+#### 1843-09-09 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2043,7 +2043,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-09-09 &middot; Leeds, England
+#### 1843-09-09 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2053,7 +2053,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-09-11 &middot; Dublin, Ireland
+#### 1843-09-11 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2063,7 +2063,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-09-15 &middot; Dublin, Ireland
+#### 1843-09-15 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2073,7 +2073,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-09-15 &middot; Dublin, Ireland
+#### 1843-09-15 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2083,7 +2083,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-09-16 &middot; Leeds, England
+#### 1843-09-16 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2093,7 +2093,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-09-18 &middot; Dublin, Ireland
+#### 1843-09-18 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2103,7 +2103,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-09-19 &middot; Dublin, Ireland
+#### 1843-09-19 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2113,7 +2113,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-09-23 &middot; Manchester, England
+#### 1843-09-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2123,7 +2123,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-09-23 &middot; Leeds, England
+#### 1843-09-23 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2133,7 +2133,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-09-26 &middot; Dublin, Ireland
+#### 1843-09-26 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2143,7 +2143,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Liverpool Mercury_
 
-#### 1843-09-29 &middot; Liverpool, England
+#### 1843-09-29 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -2153,7 +2153,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-09-30 &middot; Edinburgh, Scotland
+#### 1843-09-30 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2163,7 +2163,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-09-30 &middot; Manchester, England
+#### 1843-09-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2173,7 +2173,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-09-30 &middot; Leeds, England
+#### 1843-09-30 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2183,7 +2183,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-02 &middot; Dublin, Ireland
+#### 1843-10-02 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2193,7 +2193,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-03 &middot; Dublin, Ireland
+#### 1843-10-03 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2203,7 +2203,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-03 &middot; Dublin, Ireland
+#### 1843-10-03 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2213,7 +2213,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-05 &middot; Dublin, Ireland
+#### 1843-10-05 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2223,7 +2223,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-05 &middot; Dublin, Ireland
+#### 1843-10-05 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2233,7 +2233,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-06 &middot; Dublin, Ireland
+#### 1843-10-06 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2243,7 +2243,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-10-07 &middot; Leeds, England
+#### 1843-10-07 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2253,7 +2253,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-10-07 &middot; Leeds, England
+#### 1843-10-07 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2263,7 +2263,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-10 &middot; Dublin, Ireland
+#### 1843-10-10 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2273,7 +2273,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-13 &middot; Dublin, Ireland
+#### 1843-10-13 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2283,7 +2283,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-10-14 &middot; Edinburgh, Scotland
+#### 1843-10-14 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2293,7 +2293,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-10-14 &middot; Manchester, England
+#### 1843-10-14 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2303,7 +2303,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-10-14 &middot; Leeds, England
+#### 1843-10-14 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2313,7 +2313,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-17 &middot; Dublin, Ireland
+#### 1843-10-17 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2323,7 +2323,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-17 &middot; Dublin, Ireland
+#### 1843-10-17 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2333,7 +2333,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1843-10-19 &middot; Exeter, England
+#### 1843-10-19 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -2343,7 +2343,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-20 &middot; Dublin, Ireland
+#### 1843-10-20 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2353,7 +2353,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-20 &middot; Dublin, Ireland
+#### 1843-10-20 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2363,7 +2363,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-10-21 &middot; Leeds, England
+#### 1843-10-21 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2373,7 +2373,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-24 &middot; Dublin, Ireland
+#### 1843-10-24 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2383,7 +2383,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-27 &middot; Dublin, Ireland
+#### 1843-10-27 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2393,7 +2393,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-10-28 &middot; Edinburgh, Scotland
+#### 1843-10-28 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2403,7 +2403,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-10-28 &middot; Leeds, England
+#### 1843-10-28 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2413,7 +2413,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-10-31 &middot; Dublin, Ireland
+#### 1843-10-31 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2423,7 +2423,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-11-03 &middot; Dublin, Ireland
+#### 1843-11-03 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2433,7 +2433,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-11-04 &middot; Edinburgh, Scotland
+#### 1843-11-04 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2443,7 +2443,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-11-04 &middot; Leeds, England
+#### 1843-11-04 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2453,7 +2453,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-11-04 &middot; Leeds, England
+#### 1843-11-04 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2463,7 +2463,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-11-04 &middot; Leeds, England
+#### 1843-11-04 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2473,7 +2473,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-11-07 &middot; Dublin, Ireland
+#### 1843-11-07 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2483,7 +2483,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Freeman's Journal_
 
-#### 1843-11-10 &middot; Dublin, Ireland
+#### 1843-11-10 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2493,7 +2493,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-11-11 &middot; Edinburgh, Scotland
+#### 1843-11-11 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2503,7 +2503,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-11-11 &middot; Manchester, England
+#### 1843-11-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2513,7 +2513,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-11-11 &middot; Leeds, England
+#### 1843-11-11 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2523,7 +2523,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-11-18 &middot; Manchester, England
+#### 1843-11-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2533,7 +2533,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-11-18 &middot; Leeds, England
+#### 1843-11-18 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2543,7 +2543,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Northern Star_
 
-#### 1843-11-18 &middot; Leeds, England
+#### 1843-11-18 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2553,7 +2553,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Manchester Times_
 
-#### 1843-11-25 &middot; Manchester, England
+#### 1843-11-25 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2563,7 +2563,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-12-02 &middot; Edinburgh, Scotland
+#### 1843-12-02 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2573,7 +2573,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-12-09 &middot; Edinburgh, Scotland
+#### 1843-12-09 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2583,7 +2583,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-12-16 &middot; Edinburgh, Scotland
+#### 1843-12-16 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2593,7 +2593,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-12-23 &middot; Edinburgh, Scotland
+#### 1843-12-23 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2603,7 +2603,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 #### From _Caledonian Mercury_
 
-#### 1843-12-30 &middot; Edinburgh, Scotland
+#### 1843-12-30 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2611,7 +2611,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-10_1_24?page=22)
 
-#### 1844-02-10
+#### 1844-02-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2643,7 +2643,7 @@ courage.”——The New Bell’s Weekly Messenger.
 
 #### From _Caledonian Mercury_
 
-#### 1844-02-12 &middot; Edinburgh, Scotland
+#### 1844-02-12 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2651,7 +2651,7 @@ courage.”——The New Bell’s Weekly Messenger.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25?page=22)
 
-#### 1844-02-17
+#### 1844-02-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2671,7 +2671,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-02-24 &middot; Leeds, England
+#### 1844-02-24 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2681,7 +2681,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-03-09 &middot; Leeds, England
+#### 1844-03-09 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2691,7 +2691,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-03-16 &middot; Leeds, England
+#### 1844-03-16 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2701,7 +2701,7 @@ Dublin; and all booksellers.
 
 #### From _Manchester Times_
 
-#### 1844-03-23 &middot; Manchester, England
+#### 1844-03-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2711,7 +2711,7 @@ Dublin; and all booksellers.
 
 #### From _Manchester Times_
 
-#### 1844-03-23 &middot; Manchester, England
+#### 1844-03-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2721,7 +2721,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-03-23 &middot; Leeds, England
+#### 1844-03-23 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2731,7 +2731,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-03-30 &middot; Leeds, England
+#### 1844-03-30 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2741,7 +2741,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-04-06 &middot; Leeds, England
+#### 1844-04-06 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2751,7 +2751,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-04-13 &middot; Leeds, England
+#### 1844-04-13 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2761,7 +2761,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-04-20 &middot; Leeds, England
+#### 1844-04-20 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2771,7 +2771,7 @@ Dublin; and all booksellers.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-04-25 &middot; Exeter, England
+#### 1844-04-25 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -2781,7 +2781,7 @@ Dublin; and all booksellers.
 
 #### From _Caledonian Mercury_
 
-#### 1844-04-29 &middot; Edinburgh, Scotland
+#### 1844-04-29 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2791,7 +2791,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-05-04 &middot; Leeds, England
+#### 1844-05-04 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2801,7 +2801,7 @@ Dublin; and all booksellers.
 
 #### From _Caledonian Mercury_
 
-#### 1844-05-06 &middot; Edinburgh, Scotland
+#### 1844-05-06 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2811,7 +2811,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-05-11 &middot; Leeds, England
+#### 1844-05-11 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2821,7 +2821,7 @@ Dublin; and all booksellers.
 
 #### From _Manchester Times_
 
-#### 1844-05-25 &middot; Manchester, England
+#### 1844-05-25 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2831,7 +2831,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-05-25 &middot; Leeds, England
+#### 1844-05-25 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2841,7 +2841,7 @@ Dublin; and all booksellers.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-05-30 &middot; Exeter, England
+#### 1844-05-30 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -2851,7 +2851,7 @@ Dublin; and all booksellers.
 
 #### From _Manchester Times_
 
-#### 1844-06-01 &middot; Manchester, England
+#### 1844-06-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2861,7 +2861,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-06-01 &middot; Leeds, England
+#### 1844-06-01 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2871,7 +2871,7 @@ Dublin; and all booksellers.
 
 #### From _Caledonian Mercury_
 
-#### 1844-06-03 &middot; Edinburgh, Scotland
+#### 1844-06-03 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2881,7 +2881,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-06-08 &middot; Leeds, England
+#### 1844-06-08 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2891,7 +2891,7 @@ Dublin; and all booksellers.
 
 #### From _Caledonian Mercury_
 
-#### 1844-06-10 &middot; Edinburgh, Scotland
+#### 1844-06-10 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2901,7 +2901,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-06-15 &middot; Leeds, England
+#### 1844-06-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2911,7 +2911,7 @@ Dublin; and all booksellers.
 
 #### From _Caledonian Mercury_
 
-#### 1844-06-17 &middot; Edinburgh, Scotland
+#### 1844-06-17 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -2921,7 +2921,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-06-22 &middot; Leeds, England
+#### 1844-06-22 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2931,7 +2931,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-06-29 &middot; Leeds, England
+#### 1844-06-29 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2941,7 +2941,7 @@ Dublin; and all booksellers.
 
 #### From _Manchester Times_
 
-#### 1844-07-06 &middot; Manchester, England
+#### 1844-07-06 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2951,7 +2951,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-07-06 &middot; Leeds, England
+#### 1844-07-06 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2961,7 +2961,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-07-06 &middot; Leeds, England
+#### 1844-07-06 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2971,7 +2971,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-07-13 &middot; Leeds, England
+#### 1844-07-13 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2981,7 +2981,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-07-20 &middot; Leeds, England
+#### 1844-07-20 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2991,7 +2991,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-07-20 &middot; Leeds, England
+#### 1844-07-20 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3001,7 +3001,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-07-27 &middot; Leeds, England
+#### 1844-07-27 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3011,7 +3011,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-08-03 &middot; Leeds, England
+#### 1844-08-03 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3021,7 +3021,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-08-10 &middot; Leeds, England
+#### 1844-08-10 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3031,7 +3031,7 @@ Dublin; and all booksellers.
 
 #### From _Caledonian Mercury_
 
-#### 1844-08-12 &middot; Edinburgh, Scotland
+#### 1844-08-12 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -3041,7 +3041,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-08-17 &middot; Leeds, England
+#### 1844-08-17 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3051,7 +3051,7 @@ Dublin; and all booksellers.
 
 #### From _Caledonian Mercury_
 
-#### 1844-08-19 &middot; Edinburgh, Scotland
+#### 1844-08-19 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -3061,7 +3061,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-08-24 &middot; Leeds, England
+#### 1844-08-24 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3071,7 +3071,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-08-31 &middot; Leeds, England
+#### 1844-08-31 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3081,7 +3081,7 @@ Dublin; and all booksellers.
 
 #### From _Caledonian Mercury_
 
-#### 1844-09-02 &middot; Edinburgh, Scotland
+#### 1844-09-02 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -3091,7 +3091,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-09-07 &middot; Leeds, England
+#### 1844-09-07 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3101,7 +3101,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-09-14 &middot; Leeds, England
+#### 1844-09-14 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3111,7 +3111,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-09-21 &middot; Leeds, England
+#### 1844-09-21 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3121,7 +3121,7 @@ Dublin; and all booksellers.
 
 #### From _Caledonian Mercury_
 
-#### 1844-09-23 &middot; Edinburgh, Scotland
+#### 1844-09-23 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -3131,7 +3131,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-09-28 &middot; Leeds, England
+#### 1844-09-28 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3141,7 +3141,7 @@ Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-10-05 &middot; Leeds, England
+#### 1844-10-05 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3149,7 +3149,7 @@ Dublin; and all booksellers.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
 
-#### 1844-10-05
+#### 1844-10-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3167,7 +3167,7 @@ street, Dublin; and all booksellers
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
 
-#### 1844-10-05
+#### 1844-10-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3197,7 +3197,7 @@ courage.”&quot;— The New Bell&#x27;s We ekly Messe nger
 
 #### From _Manchester Times_
 
-#### 1844-10-12 &middot; Manchester, England
+#### 1844-10-12 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3207,7 +3207,7 @@ courage.”&quot;— The New Bell&#x27;s We ekly Messe nger
 
 #### From _Northern Star_
 
-#### 1844-10-12 &middot; Leeds, England
+#### 1844-10-12 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3217,7 +3217,7 @@ courage.”&quot;— The New Bell&#x27;s We ekly Messe nger
 
 #### From _Northern Star_
 
-#### 1844-10-12 &middot; Leeds, England
+#### 1844-10-12 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3225,7 +3225,7 @@ courage.”&quot;— The New Bell&#x27;s We ekly Messe nger
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-12_1_59?page=22)
 
-#### 1844-10-12
+#### 1844-10-12 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3256,7 +3256,7 @@ courage.”—The New Bell’s Weekly Messenger.
 
 #### From _Northern Star_
 
-#### 1844-10-19 &middot; Leeds, England
+#### 1844-10-19 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3264,7 +3264,7 @@ courage.”—The New Bell’s Weekly Messenger.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60?page=22)
 
-#### 1844-10-19
+#### 1844-10-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3284,7 +3284,7 @@ street, Dublin; and all booksellers.
 
 #### From _Manchester Times_
 
-#### 1844-10-26 &middot; Manchester, England
+#### 1844-10-26 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3294,7 +3294,7 @@ street, Dublin; and all booksellers.
 
 #### From _Northern Star_
 
-#### 1844-10-26 &middot; Leeds, England
+#### 1844-10-26 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3302,7 +3302,7 @@ street, Dublin; and all booksellers.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
 
-#### 1844-10-26
+#### 1844-10-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3320,7 +3320,7 @@ street, Dublin; and all booksellers.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
 
-#### 1844-10-26
+#### 1844-10-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3351,7 +3351,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _Northern Star_
 
-#### 1844-11-02 &middot; Leeds, England
+#### 1844-11-02 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -3359,7 +3359,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-02_1_62?page=22)
 
-#### 1844-11-02
+#### 1844-11-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3379,7 +3379,7 @@ street, Dublin; and all booksellers.
 
 #### From _The Era_
 
-#### 1844-11-03 &middot; London, England
+#### 1844-11-03 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3389,7 +3389,7 @@ street, Dublin; and all booksellers.
 
 #### From _Manchester Times_
 
-#### 1844-11-09 &middot; Manchester, England
+#### 1844-11-09 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3397,7 +3397,7 @@ street, Dublin; and all booksellers.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-09_1_63?page=22)
 
-#### 1844-11-09
+#### 1844-11-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3417,7 +3417,7 @@ street, Dublin; and all booksellers.
 
 #### From _Caledonian Mercury_
 
-#### 1844-11-11 &middot; Edinburgh, Scotland
+#### 1844-11-11 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -3427,7 +3427,7 @@ street, Dublin; and all booksellers.
 
 #### From _The Era_
 
-#### 1844-11-24 &middot; London, England
+#### 1844-11-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3437,7 +3437,7 @@ street, Dublin; and all booksellers.
 
 #### From _Caledonian Mercury_
 
-#### 1844-12-02 &middot; Edinburgh, Scotland
+#### 1844-12-02 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -3445,7 +3445,7 @@ street, Dublin; and all booksellers.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
 
-#### 1844-12-21
+#### 1844-12-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3463,7 +3463,7 @@ street, Dublin; and all booksellers
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
 
-#### 1844-12-21
+#### 1844-12-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3494,7 +3494,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _The Era_
 
-#### 1844-12-22 &middot; London, England
+#### 1844-12-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3504,7 +3504,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _Caledonian Mercury_
 
-#### 1844-12-23 &middot; Edinburgh, Scotland
+#### 1844-12-23 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -3514,7 +3514,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _The Era_
 
-#### 1845-01-05 &middot; London, England
+#### 1845-01-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3524,7 +3524,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _The Era_
 
-#### 1845-01-26 &middot; London, England
+#### 1845-01-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3534,7 +3534,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _The Era_
 
-#### 1845-03-09 &middot; London, England
+#### 1845-03-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3544,7 +3544,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _Manchester Times_
 
-#### 1845-04-19 &middot; Manchester, England
+#### 1845-04-19 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3554,7 +3554,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _The Era_
 
-#### 1845-05-04 &middot; London, England
+#### 1845-05-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3564,7 +3564,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _Manchester Times_
 
-#### 1845-05-17 &middot; Manchester, England
+#### 1845-05-17 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3574,7 +3574,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _The Era_
 
-#### 1845-05-18 &middot; London, England
+#### 1845-05-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3584,7 +3584,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _The Era_
 
-#### 1845-06-01 &middot; London, England
+#### 1845-06-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3594,7 +3594,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _Manchester Times_
 
-#### 1845-07-05 &middot; Manchester, England
+#### 1845-07-05 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3604,7 +3604,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _Manchester Times_
 
-#### 1845-07-05 &middot; Manchester, England
+#### 1845-07-05 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3614,7 +3614,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _Examiner_
 
-#### 1845-07-19 &middot; London, England
+#### 1845-07-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3624,7 +3624,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _The Era_
 
-#### 1845-08-17 &middot; London, England
+#### 1845-08-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3634,7 +3634,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 #### From _The Era_
 
-#### 1845-08-17 &middot; London, England
+#### 1845-08-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3642,7 +3642,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 ## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960?page=13)
 
-#### 1845-08-23
+#### 1845-08-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3663,7 +3663,7 @@ Dublin ; and all Booksellers.
 
 #### From _Examiner_
 
-#### 1845-09-20 &middot; London, England
+#### 1845-09-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3673,7 +3673,7 @@ Dublin ; and all Booksellers.
 
 #### From _The Era_
 
-#### 1845-12-21 &middot; London, England
+#### 1845-12-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3683,7 +3683,7 @@ Dublin ; and all Booksellers.
 
 #### From _The Era_
 
-#### 1846-01-04 &middot; London, England
+#### 1846-01-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3693,7 +3693,7 @@ Dublin ; and all Booksellers.
 
 #### From _The Era_
 
-#### 1846-01-04 &middot; London, England
+#### 1846-01-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3701,7 +3701,7 @@ Dublin ; and all Booksellers.
 
 ## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984?page=13)
 
-#### 1846-02-07
+#### 1846-02-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3720,7 +3720,7 @@ st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1846-03-05 &middot; Exeter, England
+#### 1846-03-05 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -3730,7 +3730,7 @@ st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1846-04-02 &middot; Exeter, England
+#### 1846-04-02 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -3740,7 +3740,7 @@ st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1846-04-09 &middot; Exeter, England
+#### 1846-04-09 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -3750,7 +3750,7 @@ st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1846-05-07 &middot; Exeter, England
+#### 1846-05-07 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -3758,7 +3758,7 @@ st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
 
 ## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011?page=13)
 
-#### 1846-08-15
+#### 1846-08-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3778,7 +3778,7 @@ Booksellera
 
 #### From _Manchester Times_
 
-#### 1846-08-21 &middot; Manchester, England
+#### 1846-08-21 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3788,7 +3788,7 @@ Booksellera
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1846-11-19 &middot; Exeter, England
+#### 1846-11-19 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -3798,7 +3798,7 @@ Booksellera
 
 #### From _The Era_
 
-#### 1847-12-05 &middot; London, England
+#### 1847-12-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3808,7 +3808,7 @@ Booksellera
 
 #### From _The Era_
 
-#### 1847-12-12 &middot; London, England
+#### 1847-12-12 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3818,7 +3818,7 @@ Booksellera
 
 #### From _The Era_
 
-#### 1847-12-19 &middot; London, England
+#### 1847-12-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 

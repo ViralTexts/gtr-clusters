@@ -55,7 +55,7 @@ We have none of our own.
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1873-10-10/ed-1/seq-1)
 
-#### 1873-10-10 &middot; Ebensburg, Pa.
+#### 1873-10-10 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -101,7 +101,7 @@ We have non of our own.
 
 ## [From _The Volcano lubricator._](https://chroniclingamerica.loc.gov/lccn/sn86092474/1874-02-26/ed-1/seq-3)
 
-#### 1874-02-26 &middot; Volcano, W. Va.
+#### 1874-02-26 &middot; [Volcano, W. Va.](http://dbpedia.org/resource/Volcano%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -149,7 +149,7 @@ We have none of our own.
 
 #### From _The Newcastle Chronicle (NSW : 1866 - 1876)_
 
-#### 1874-03-10 &middot; Newcastle, New South Wales
+#### 1874-03-10 &middot; [Newcastle, New South Wales](http://dbpedia.org/resource/Newcastle%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -186,7 +186,7 @@ faults until &#x27; We haye none of our own
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-03-20/ed-1/seq-1)
 
-#### 1874-03-20 &middot; Romney, Va. [W. Va.]
+#### 1874-03-20 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -234,7 +234,7 @@ I. ntil we have none of our own
 
 #### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
 
-#### 1874-04-10 &middot; Port Elliot, South Australia
+#### 1874-04-10 &middot; [Port Elliot, South Australia](http://dbpedia.org/resource/Port_Elliot%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -271,7 +271,7 @@ our own
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1874-05-22/ed-1/seq-1)
 
-#### 1874-05-22 &middot; Bellows Falls, Vt.
+#### 1874-05-22 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -319,7 +319,7 @@ We have none of our own
 
 #### From _Western Christian Advocate (1834-1883)_
 
-#### 1874-09-09 &middot; Cincinnati
+#### 1874-09-09 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 [This text is not available under an open license.]
 
@@ -327,7 +327,7 @@ We have none of our own
 
 ## [From _Vermont farmer._](https://chroniclingamerica.loc.gov/lccn/sn84023255/1874-09-11/ed-1/seq-1)
 
-#### 1874-09-11 &middot; Newport, Orleans County, Vt.
+#### 1874-09-11 &middot; [Newport, Orleans County, Vt.](http://dbpedia.org/resource/Newport%2C_Vermont_(town))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -375,7 +375,7 @@ We have nono of our own
 
 #### From _Boston investigator._
 
-#### 1874-09-16 &middot; Boston, Mass.
+#### 1874-09-16 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -383,7 +383,7 @@ We have nono of our own
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1874-11-05/ed-1/seq-1)
 
-#### 1874-11-05 &middot; Woodstock, Va.
+#### 1874-11-05 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -429,7 +429,7 @@ We have none of our own
 
 ## [From _The enquirer southerner._](https://chroniclingamerica.loc.gov/lccn/sn92073987/1874-11-06/ed-1/seq-4)
 
-#### 1874-11-06 &middot; Tarboro', N.C.
+#### 1874-11-06 &middot; [Tarboro', N.C.](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -475,7 +475,7 @@ We hare none of our own
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1874-11-06/ed-1/seq-1)
 
-#### 1874-11-06 &middot; Fremont, Sandusky County, Ohio
+#### 1874-11-06 &middot; [Fremont, Sandusky County, Ohio](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -521,7 +521,7 @@ We have none of our own.
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-11-06/ed-1/seq-1)
 
-#### 1874-11-06 &middot; Romney, Va. [W. Va.]
+#### 1874-11-06 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -568,7 +568,7 @@ Don t speak of others faults until
 
 ## [From _Huntington advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026801/1874-12-03/ed-1/seq-1)
 
-#### 1874-12-03 &middot; Huntington, W. Va.
+#### 1874-12-03 &middot; [Huntington, W. Va.](http://dbpedia.org/resource/Huntington%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -614,7 +614,7 @@ We have none of our own
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1875-01-14/ed-1/seq-4)
 
-#### 1875-01-14 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+#### 1875-01-14 &middot; [Washington [Washington Court House], Fayette County, O. [Ohio]](http://dbpedia.org/resource/Washington_Court_House%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -660,7 +660,7 @@ We hare none of onr own
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1875-01-21/ed-1/seq-4)
 
-#### 1875-01-21 &middot; Jackson C.H., Ohio
+#### 1875-01-21 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -706,7 +706,7 @@ We have none of our own
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1875-02-04/ed-1/seq-1)
 
-#### 1875-02-04 &middot; Ravenna, O. [Ohio]
+#### 1875-02-04 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -752,7 +752,7 @@ We have none of our own.
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1875-02-05/ed-1/seq-4)
 
-#### 1875-02-05 &middot; Findlay, Hancock County, Ohio
+#### 1875-02-05 &middot; [Findlay, Hancock County, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -798,7 +798,7 @@ We have none of our own.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1875-02-06/ed-1/seq-1)
 
-#### 1875-02-06 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1875-02-06 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -844,7 +844,7 @@ We have none of our own.
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-02-17/ed-1/seq-1)
 
-#### 1875-02-17 &middot; Richmond, Ind.
+#### 1875-02-17 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -890,7 +890,7 @@ Wehave none of our own
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210?page=1)
 
-#### 1875-02-27
+#### 1875-02-27 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -950,7 +950,7 @@ We have none of our own.
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-03-24/ed-1/seq-1)
 
-#### 1875-03-24 &middot; Richmond, Ind.
+#### 1875-03-24 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -996,7 +996,7 @@ We have none of our own
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1875-04-08/ed-1/seq-1)
 
-#### 1875-04-08 &middot; Fayetteville, Tenn.
+#### 1875-04-08 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1044,7 +1044,7 @@ We have none of our own.
 
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1875-04-23/ed-1/seq-3)
 
-#### 1875-04-23 &middot; Savannah, Mo.
+#### 1875-04-23 &middot; [Savannah, Mo.](http://dbpedia.org/resource/Savannah%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1067,7 +1067,7 @@ He didn&#x27;t tell the voung man not t
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1875-05-20/ed-1/seq-1)
 
-#### 1875-05-20 &middot; Jackson C.H., Ohio
+#### 1875-05-20 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1115,7 +1115,7 @@ We have none of our own.
 
 #### From _The Mining Record and Grenfell General Advertiser (NSW : 1867 - 1876)_
 
-#### 1875-06-05 &middot; Grenfell, New South Wales
+#### 1875-06-05 &middot; [Grenfell, New South Wales](http://dbpedia.org/resource/Grenfell%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1155,7 +1155,7 @@ own. &#x27; C. C. S
 
 #### From _Wagga Wagga Advertiser (NSW : 1875 - 1910)_
 
-#### 1875-06-12 &middot; Wagga Wagga, New South Wales
+#### 1875-06-12 &middot; [Wagga Wagga, New South Wales](http://dbpedia.org/resource/Wagga_Wagga)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1191,7 +1191,7 @@ faults until Wo have none of our own
 
 ## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1875-06-17/ed-1/seq-1)
 
-#### 1875-06-17 &middot; Chase, Mich.
+#### 1875-06-17 &middot; [Chase, Mich.](http://dbpedia.org/resource/Baldwin%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1241,7 +1241,7 @@ We hare none of our own
 
 #### From _Queanbeyan Age (NSW : 1867 - 1904)_
 
-#### 1875-06-23 &middot; Queanbeyan, New South Wales
+#### 1875-06-23 &middot; [Queanbeyan, New South Wales](http://dbpedia.org/resource/Queanbeyan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1277,7 +1277,7 @@ until We have none of our own. -. C. S.
 
 ## [From _Orangeburg news and times._](https://chroniclingamerica.loc.gov/lccn/sn86053227/1875-07-03/ed-1/seq-1)
 
-#### 1875-07-03 &middot; Orangeburg, S.C.
+#### 1875-07-03 &middot; [Orangeburg, S.C.](http://dbpedia.org/resource/Orangeburg%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1316,7 +1316,7 @@ h&#x27;hjen letjv^l?wlH&#x27;?we cni?frieuc
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1875-09-27/ed-1/seq-1)
 
-#### 1875-09-27 &middot; Charlotte, N.C.
+#### 1875-09-27 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1363,7 +1363,7 @@ We have none of our own
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1875-11-01/ed-1/seq-4)
 
-#### 1875-11-01 &middot; Charlotte, N.C.
+#### 1875-11-01 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1409,7 +1409,7 @@ We have none of our own
 
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1875-12-17/ed-1/seq-5)
 
-#### 1875-12-17 &middot; Jefferson City, Mo.
+#### 1875-12-17 &middot; [Jefferson City, Mo.](http://dbpedia.org/resource/Jefferson_City%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1455,7 +1455,7 @@ We have known our own.
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-01-06/ed-1/seq-1)
 
-#### 1876-01-06 &middot; Kenosha, Wis.
+#### 1876-01-06 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1503,7 +1503,7 @@ We have outgrown our ow
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1876-01-07/ed-1/seq-1)
 
-#### 1876-01-07 &middot; Mechanicstown, Md.
+#### 1876-01-07 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1549,7 +1549,7 @@ we have none of our own
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1876-01-17/ed-1/seq-1)
 
-#### 1876-01-17 &middot; Charlotte, N.C.
+#### 1876-01-17 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1595,7 +1595,7 @@ We have none of our own.
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1876-03-02/ed-1/seq-1)
 
-#### 1876-03-02 &middot; Bridgeton, N.J.
+#### 1876-03-02 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1641,7 +1641,7 @@ W&#x27;e have none of our own
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1876-03-03/ed-1/seq-1)
 
-#### 1876-03-03 &middot; Bellows Falls, Vt.
+#### 1876-03-03 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1689,7 +1689,7 @@ We have none of our own
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1876-04-05 &middot; Exeter, England
+#### 1876-04-05 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -1699,7 +1699,7 @@ We have none of our own
 
 #### From _Western Star and Roma Advertiser (Toowoomba, Qld. : 1875 - 1948)_
 
-#### 1876-04-22 &middot; Toowoomba, Queensland
+#### 1876-04-22 &middot; [Toowoomba, Queensland](http://dbpedia.org/resource/Toowoomba)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1737,7 +1737,7 @@ faults until We have none of our own
 
 #### From _Gippsland Times (Vic. : 1861 - 1954)_
 
-#### 1876-04-27 &middot; Gippsland, Victoria
+#### 1876-04-27 &middot; [Gippsland, Victoria](http://dbpedia.org/resource/Gippsland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1777,7 +1777,7 @@ of others&#x27; faults until We have none of
 
 #### From _Boston investigator._
 
-#### 1876-05-10 &middot; Boston, Mass.
+#### 1876-05-10 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -1785,7 +1785,7 @@ of others&#x27; faults until We have none of
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1876-05-27/ed-1/seq-1)
 
-#### 1876-05-27 &middot; Shepherdstown, Va. [W. Va.]
+#### 1876-05-27 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1831,7 +1831,7 @@ We h ave none of our own
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1876-06-15/ed-1/seq-4)
 
-#### 1876-06-15 &middot; Ravenna, O. [Ohio]
+#### 1876-06-15 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1880,7 +1880,7 @@ i
 
 ## [From _The new Northwest._](https://chroniclingamerica.loc.gov/lccn/sn84022673/1876-06-30/ed-1/seq-4)
 
-#### 1876-06-30 &middot; Portland, Or.
+#### 1876-06-30 &middot; [Portland, Or.](http://dbpedia.org/resource/Portland%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1928,7 +1928,7 @@ We have none of our own
 
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
-#### 1876-09-02 &middot; Melbourne, Victoria
+#### 1876-09-02 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1964,7 +1964,7 @@ none of her own. —The Country Gentleman.
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1876-09-27/ed-1/seq-1)
 
-#### 1876-09-27 &middot; Newberry, S.C.
+#### 1876-09-27 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2006,7 +2006,7 @@ With a heavy heart John agree
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1876-10-13/ed-1/seq-1)
 
-#### 1876-10-13 &middot; Salisbury, Litchfield Co., Conn.
+#### 1876-10-13 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2052,7 +2052,7 @@ We have none of oar own.
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1876-10-26/ed-1/seq-4)
 
-#### 1876-10-26 &middot; Centre Hall, Pa.
+#### 1876-10-26 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2091,7 +2091,7 @@ We hare none of our own
 
 ## [From _Port Royal standard and commercial._](https://chroniclingamerica.loc.gov/lccn/sn85026954/1876-10-26/ed-1/seq-1)
 
-#### 1876-10-26 &middot; Beaufort, S.C.
+#### 1876-10-26 &middot; [Beaufort, S.C.](http://dbpedia.org/resource/Beaufort%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2138,7 +2138,7 @@ Wo have none of our own
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1876-11-01/ed-1/seq-4)
 
-#### 1876-11-01 &middot; Abbeville, S.C.
+#### 1876-11-01 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2185,7 +2185,7 @@ We have none of our own
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-11-09/ed-1/seq-4)
 
-#### 1876-11-09 &middot; Anderson Court House, S.C.
+#### 1876-11-09 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2231,7 +2231,7 @@ We have none of our own.
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-11-09/ed-2/seq-4)
 
-#### 1876-11-09 &middot; Anderson Court House, S.C.
+#### 1876-11-09 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2277,7 +2277,7 @@ Wo have none of our own
 
 ## [From _The Marietta journal._](https://chroniclingamerica.loc.gov/lccn/sn85034082/1876-11-10/ed-1/seq-1)
 
-#### 1876-11-10 &middot; Marietta, Ga.
+#### 1876-11-10 &middot; [Marietta, Ga.](http://dbpedia.org/resource/Marietta%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2302,7 +2302,7 @@ says he can ‘fold napkins in thre
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1877-01-11/ed-1/seq-1)
 
-#### 1877-01-11 &middot; Staunton, Va.
+#### 1877-01-11 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2348,7 +2348,7 @@ We have none of our own
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1877-01-19/ed-1/seq-4)
 
-#### 1877-01-19 &middot; Bel Air, Md.
+#### 1877-01-19 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2394,7 +2394,7 @@ We have none of onr own
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1877-01-25/ed-1/seq-1)
 
-#### 1877-01-25 &middot; Woodstock, Va.
+#### 1877-01-25 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2442,7 +2442,7 @@ We have none of our own
 
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
 
-#### 1877-01-31 &middot; Riverina Region, New South Wales
+#### 1877-01-31 &middot; [Riverina Region, New South Wales](http://dbpedia.org/resource/Hay%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2478,7 +2478,7 @@ until We have none of our own.
 
 ## [From _Northern Ohio journal._](https://chroniclingamerica.loc.gov/lccn/sn84028194/1877-02-10/ed-1/seq-4)
 
-#### 1877-02-10 &middot; Painesville, Ohio
+#### 1877-02-10 &middot; [Painesville, Ohio](http://dbpedia.org/resource/Painesville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2524,7 +2524,7 @@ We aire none of our own.
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1877-03-08/ed-1/seq-1)
 
-#### 1877-03-08 &middot; Yorkville, S.C.
+#### 1877-03-08 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2573,7 +2573,7 @@ We have none of our own
 
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
 
-#### 1877-03-13 &middot; Launceston, Tasmania
+#### 1877-03-13 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2610,7 +2610,7 @@ until Weo have none of our own.
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1877-03-15/ed-1/seq-4)
 
-#### 1877-03-15 &middot; Manitowoc, Wis.
+#### 1877-03-15 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2656,7 +2656,7 @@ Vou’ve tried to see your own
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1877-03-18/ed-1/seq-6)
 
-#### 1877-03-18 &middot; Chicago, Ill.
+#### 1877-03-18 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2709,7 +2709,7 @@ W e have none of our own
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1877-03-21/ed-1/seq-7)
 
-#### 1877-03-21 &middot; Watertown, Wis.
+#### 1877-03-21 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2755,7 +2755,7 @@ You’ve tried to see your own.
 
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1877-03-22/ed-1/seq-8)
 
-#### 1877-03-22 &middot; Mexico, Mo.
+#### 1877-03-22 &middot; [Mexico, Mo.](http://dbpedia.org/resource/Mexico%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2802,7 +2802,7 @@ i &quot;Ife hare none of our own.
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1877-03-23/ed-1/seq-1)
 
-#### 1877-03-23 &middot; Emporia, Kan.
+#### 1877-03-23 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2848,7 +2848,7 @@ We have none of our own
 
 ## [From _Lincoln County advocate._](https://chroniclingamerica.loc.gov/lccn/sn2001063144/1877-03-28/ed-1/seq-2)
 
-#### 1877-03-28 &middot; Canton, Dakota Territory, [S.D.]
+#### 1877-03-28 &middot; [Canton, Dakota Territory, [S.D.]](http://dbpedia.org/resource/Canton%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2908,7 +2908,7 @@ You&#x27;ve tried to sec your own.
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1877-04-01/ed-1/seq-6)
 
-#### 1877-04-01 &middot; New York [N.Y.]
+#### 1877-04-01 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2954,7 +2954,7 @@ We have none of our own
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1877-04-06/ed-1/seq-4)
 
-#### 1877-04-06 &middot; Romney, Va. [W. Va.]
+#### 1877-04-06 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3001,7 +3001,7 @@ W o have none of our own.
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1877-04-13/ed-1/seq-1)
 
-#### 1877-04-13 &middot; Charlotte, N.C.
+#### 1877-04-13 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3047,7 +3047,7 @@ We have none of our own.
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1877-04-13/ed-1/seq-1)
 
-#### 1877-04-13 &middot; Findlay, Hancock County, Ohio
+#### 1877-04-13 &middot; [Findlay, Hancock County, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3097,7 +3097,7 @@ We have none of our own.
 
 #### From _Clarence and Richmond Examiner and New England Advertiser (Grafton, NSW : 1859 - 1889)_
 
-#### 1877-04-28 &middot; Grafton, New South Wales
+#### 1877-04-28 &middot; [Grafton, New South Wales](http://dbpedia.org/resource/Grafton%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3137,7 +3137,7 @@ faults until i We havo none of our own
 
 #### From _Northern Star (Lismore, NSW : 1876 - 1954)_
 
-#### 1877-05-05 &middot; Lismore, New South Wales
+#### 1877-05-05 &middot; [Lismore, New South Wales](http://dbpedia.org/resource/Lismore%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3176,7 +3176,7 @@ our.owit.
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1877-05-17/ed-1/seq-4)
 
-#### 1877-05-17 &middot; Anderson Court House, S.C.
+#### 1877-05-17 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3222,7 +3222,7 @@ We have none of our own
 
 ## [From _The weekly Union times._](https://chroniclingamerica.loc.gov/lccn/sn84026918/1877-05-25/ed-1/seq-4)
 
-#### 1877-05-25 &middot; Union C.H., South Carolina
+#### 1877-05-25 &middot; [Union C.H., South Carolina](http://dbpedia.org/resource/Union%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3269,7 +3269,7 @@ We have none of our own
 
 ## [From _The weekly Union times._](https://chroniclingamerica.loc.gov/lccn/sn84026918/1877-05-25/ed-2/seq-4)
 
-#### 1877-05-25 &middot; Union C.H., South Carolina
+#### 1877-05-25 &middot; [Union C.H., South Carolina](http://dbpedia.org/resource/Union%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3320,7 +3320,7 @@ We have none of our own
 
 #### From _The Burrowa News (NSW : 1874 - 1951)_
 
-#### 1877-06-02 &middot; Burrowa, New South Wales
+#### 1877-06-02 &middot; [Burrowa, New South Wales](http://dbpedia.org/resource/Boorowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3358,7 +3358,7 @@ hare none of our own
 
 #### From _The Grenfell Record and Lachlan District Advertiser (NSW : 1876 - 1951)_
 
-#### 1877-07-07 &middot; Grenfell, New South Wales
+#### 1877-07-07 &middot; [Grenfell, New South Wales](http://dbpedia.org/resource/Grenfell%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3394,7 +3394,7 @@ others&#x27; faults until We have none of ou
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8?page=4)
 
-#### 1877-08-01
+#### 1877-08-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3431,7 +3431,7 @@ Before of others’ tell.
 
 #### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
 
-#### 1877-08-03 &middot; Kiama, New South Wales
+#### 1877-08-03 &middot; [Kiama, New South Wales](http://dbpedia.org/resource/Kiama%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3469,7 +3469,7 @@ have none of our own
 
 #### From _Cootamundra Herald (NSW : 1877 - 1954)_
 
-#### 1877-09-25 &middot; Cootamundra, New South Wales
+#### 1877-09-25 &middot; [Cootamundra, New South Wales](http://dbpedia.org/resource/Cootamundra)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3505,7 +3505,7 @@ faults until We- have none of our own
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1877-12-06/ed-1/seq-1)
 
-#### 1877-12-06 &middot; Pulaski, Tenn.
+#### 1877-12-06 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3551,7 +3551,7 @@ We have tone of our own
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1878-01-31/ed-1/seq-1)
 
-#### 1878-01-31 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1878-01-31 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3600,7 +3600,7 @@ You&#x27;ve tried to see your own.
 
 #### From _The Record and Emerald Hill and Sandridge Advertiser (Vic. : 1872 - 1881)_
 
-#### 1878-07-05 &middot; Emerald Hill, Victoria
+#### 1878-07-05 &middot; [Emerald Hill, Victoria](http://dbpedia.org/resource/South_Melbourne%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3637,7 +3637,7 @@ faults until T We have none of our own
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1878-08-07/ed-1/seq-1)
 
-#### 1878-08-07 &middot; Mifflintown, Juniata County, Pa.
+#### 1878-08-07 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3683,7 +3683,7 @@ Sometimes to roost come home
 
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
 
-#### 1878-09-03 &middot; Wollongong, New South Wales
+#### 1878-09-03 &middot; [Wollongong, New South Wales](http://dbpedia.org/resource/Wollongong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3701,7 +3701,7 @@ that point begin..&#x27; He generousl
 
 ## [From _Salt River herald._](https://chroniclingamerica.loc.gov/lccn/sn87062081/1878-09-14/ed-1/seq-1)
 
-#### 1878-09-14 &middot; Phoenix, Salt River Valley, Maricopa County, A.T. [Ariz.]
+#### 1878-09-14 &middot; [Phoenix, Salt River Valley, Maricopa County, A.T. [Ariz.]](http://dbpedia.org/resource/Phoenix%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3742,7 +3742,7 @@ We have none of our owr
 
 #### From _Shaker Manifesto (1878-1883)_
 
-#### 1878-10-01 &middot; Shakers
+#### 1878-10-01 &middot; [Shakers](http://dbpedia.org/resource/New_Lebanon%2C_New_York)
 
 [This text is not available under an open license.]
 
@@ -3750,7 +3750,7 @@ We have none of our owr
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10?page=16)
 
-#### 1878-10-01
+#### 1878-10-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3808,7 +3808,7 @@ Sometimes to roost, come home
 
 ## [From _The New Bloomfield, Pa. times._](https://chroniclingamerica.loc.gov/lccn/sn90069164/1878-10-22/ed-1/seq-1)
 
-#### 1878-10-22 &middot; New Bloomfield, Pa.
+#### 1878-10-22 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3854,7 +3854,7 @@ We have none of our own
 
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1878-11-29/ed-1/seq-5)
 
-#### 1878-11-29 &middot; Jefferson City, Mo.
+#### 1878-11-29 &middot; [Jefferson City, Mo.](http://dbpedia.org/resource/Jefferson_City%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3899,7 +3899,7 @@ Remember, curses, chicken-like,-Sometime
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1879-02-05/ed-1/seq-1)
 
-#### 1879-02-05 &middot; Newberry, S.C.
+#### 1879-02-05 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3945,7 +3945,7 @@ We havei none of our own
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-03-20/ed-1/seq-1)
 
-#### 1879-03-20 &middot; Yorkville, S.C.
+#### 1879-03-20 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3992,7 +3992,7 @@ We have none of our own
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1879-04-08/ed-1/seq-1)
 
-#### 1879-04-08 &middot; Woodsfield, Ohio
+#### 1879-04-08 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4035,7 +4035,7 @@ Remember curses, chioken-like
 
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1879-06-12/ed-1/seq-3)
 
-#### 1879-06-12 &middot; Salina, Kan.
+#### 1879-06-12 &middot; [Salina, Kan.](http://dbpedia.org/resource/Salina%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4079,7 +4079,7 @@ Sometimes to roost come borne
 
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1879-06-25/ed-1/seq-1)
 
-#### 1879-06-25 &middot; Newtown, Conn.
+#### 1879-06-25 &middot; [Newtown, Conn.](http://dbpedia.org/resource/Newtown%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4125,7 +4125,7 @@ We have none of our own. Ezcharge
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-07-24/ed-1/seq-4)
 
-#### 1879-07-24 &middot; Yorkville, S.C.
+#### 1879-07-24 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4172,7 +4172,7 @@ We have none of our own
 
 ## [From _Rocky Mountain husbandman._](https://chroniclingamerica.loc.gov/lccn/sn83025309/1879-08-21/ed-1/seq-5)
 
-#### 1879-08-21 &middot; Diamond City, Mont.
+#### 1879-08-21 &middot; [Diamond City, Mont.](http://dbpedia.org/resource/Great_Falls%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4216,7 +4216,7 @@ Sometimes to roost conic home
 
 ## [From _The Hartford herald._](https://chroniclingamerica.loc.gov/lccn/sn84037890/1880-01-14/ed-1/seq-1)
 
-#### 1880-01-14 &middot; Hartford, Ky.
+#### 1880-01-14 &middot; [Hartford, Ky.](http://dbpedia.org/resource/Hartford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4264,7 +4264,7 @@ Wo have none of our ow
 
 #### From _The Galveston daily news._
 
-#### 1880-01-25 &middot; Houston [Tex.]
+#### 1880-01-25 &middot; [Houston [Tex.]](http://dbpedia.org/resource/Houston)
 
 [This text is not available under an open license.]
 
@@ -4272,7 +4272,7 @@ Wo have none of our ow
 
 ## [From _St. Tammany farmer._](https://chroniclingamerica.loc.gov/lccn/sn82015387/1880-02-07/ed-1/seq-4)
 
-#### 1880-02-07 &middot; Covington, La.
+#### 1880-02-07 &middot; [Covington, La.](http://dbpedia.org/resource/Covington%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4318,7 +4318,7 @@ We have none of our own.
 
 ## [From _Herald of Kansas._](https://chroniclingamerica.loc.gov/lccn/sn85067225/1880-02-13/ed-1/seq-4)
 
-#### 1880-02-13 &middot; Topeka, Kan.
+#### 1880-02-13 &middot; [Topeka, Kan.](http://dbpedia.org/resource/Topeka%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4364,7 +4364,7 @@ We have none of our own.
 
 ## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1880-02-19/ed-1/seq-2)
 
-#### 1880-02-19 &middot; Somerset, Ohio
+#### 1880-02-19 &middot; [Somerset, Ohio](http://dbpedia.org/resource/Somerset%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4411,7 +4411,7 @@ d
 
 ## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1880-03-03/ed-1/seq-6)
 
-#### 1880-03-03 &middot; Princeton, Minn.
+#### 1880-03-03 &middot; [Princeton, Minn.](http://dbpedia.org/resource/Princeton%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4455,7 +4455,7 @@ Sometimes to roost come home
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1880-03-11/ed-1/seq-1)
 
-#### 1880-03-11 &middot; Pulaski, Tenn.
+#### 1880-03-11 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4503,7 +4503,7 @@ We have none of our own.
 
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
 
-#### 1880-07-14 &middot; Riverina Region, New South Wales
+#### 1880-07-14 &middot; [Riverina Region, New South Wales](http://dbpedia.org/resource/Hay%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4534,7 +4534,7 @@ We have nono of our own
 
 ## [From _Louisiana capitolian._](https://chroniclingamerica.loc.gov/lccn/sn88064592/1880-08-21/ed-1/seq-2)
 
-#### 1880-08-21 &middot; Baton Rouge, La.
+#### 1880-08-21 &middot; [Baton Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4579,7 +4579,7 @@ Doni&#x27;t h eps akli of ,,the;s a tlts m.il
 
 ## [From _The Marietta journal._](https://chroniclingamerica.loc.gov/lccn/sn85034082/1880-09-02/ed-1/seq-1)
 
-#### 1880-09-02 &middot; Marietta, Ga.
+#### 1880-09-02 &middot; [Marietta, Ga.](http://dbpedia.org/resource/Marietta%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4622,7 +4622,7 @@ your own,
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1880-09-09/ed-1/seq-1)
 
-#### 1880-09-09 &middot; Mechanicstown, Md.
+#### 1880-09-09 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4668,7 +4668,7 @@ We have none of our own
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1880-09-24/ed-1/seq-1)
 
-#### 1880-09-24 &middot; Romney, Va. [W. Va.]
+#### 1880-09-24 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4705,7 +4705,7 @@ Wo bare a^ne of our ow
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1880-11-13/ed-1/seq-1)
 
-#### 1880-11-13 &middot; Frostburg, Md.
+#### 1880-11-13 &middot; [Frostburg, Md.](http://dbpedia.org/resource/Frostburg%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4751,7 +4751,7 @@ Wo have known our own
 
 ## [From _Towanda daily review._](https://chroniclingamerica.loc.gov/lccn/sn86081381/1881-03-08/ed-1/seq-3)
 
-#### 1881-03-08 &middot; Towanda, Pa.
+#### 1881-03-08 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4797,7 +4797,7 @@ We have none of our own
 
 ## [From _The Fremont County record._](https://chroniclingamerica.loc.gov/lccn/sn85067309/1881-03-12/ed-1/seq-3)
 
-#### 1881-03-12 &middot; Canon City, Colo.
+#### 1881-03-12 &middot; [Canon City, Colo.](http://dbpedia.org/resource/Ca%C3%B1on_City%2C_Colorado)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4843,7 +4843,7 @@ To those who better know
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1881-03-31/ed-1/seq-6)
 
-#### 1881-03-31 &middot; Mineral Point, Wis.
+#### 1881-03-31 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4889,7 +4889,7 @@ Sometime to roost come home
 
 #### From _Rocky Mountain news._
 
-#### 1882-02-26 &middot; Denver, Colo.
+#### 1882-02-26 &middot; [Denver, Colo.](http://dbpedia.org/resource/Denver)
 
 [This text is not available under an open license.]
 
@@ -4897,7 +4897,7 @@ Sometime to roost come home
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1882-03-14/ed-1/seq-1)
 
-#### 1882-03-14 &middot; Staunton, Va.
+#### 1882-03-14 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4941,7 +4941,7 @@ Sometimes to roost come home
 
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1882-03-23/ed-1/seq-1)
 
-#### 1882-03-23 &middot; Ironton, Iron County, Mo.
+#### 1882-03-23 &middot; [Ironton, Iron County, Mo.](http://dbpedia.org/resource/Ironton%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4971,7 +4971,7 @@ Hae fifty to their one
 
 ## [From _St. Tammany farmer._](https://chroniclingamerica.loc.gov/lccn/sn82015387/1882-08-19/ed-1/seq-1)
 
-#### 1882-08-19 &middot; Covington, La.
+#### 1882-08-19 &middot; [Covington, La.](http://dbpedia.org/resource/Covington%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5019,7 +5019,7 @@ We have none of o.q own.
 
 #### From _Southern Argus (Goulburn, NSW : 1881 - 1885)_
 
-#### 1883-10-27 &middot; Goulburn, New South Wales
+#### 1883-10-27 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5059,7 +5059,7 @@ until • &quot; We have &quot;none of our own
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1883-11-05/ed-1/seq-1)
 
-#### 1883-11-05 &middot; Barton, Vt.
+#### 1883-11-05 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5105,7 +5105,7 @@ We have none of our own
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1883-11-27/ed-1/seq-4)
 
-#### 1883-11-27 &middot; Staunton, Va.
+#### 1883-11-27 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5151,7 +5151,7 @@ We have none of our own.
 
 ## [From _The Easley messenger._](https://chroniclingamerica.loc.gov/lccn/sn93067656/1884-02-15/ed-1/seq-8)
 
-#### 1884-02-15 &middot; Easley, S.C.
+#### 1884-02-15 &middot; [Easley, S.C.](http://dbpedia.org/resource/Easley%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5197,7 +5197,7 @@ We have none of our own.
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1884-02-22/ed-1/seq-4)
 
-#### 1884-02-22 &middot; Bel Air, Md.
+#### 1884-02-22 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5243,7 +5243,7 @@ Wo have none of our own
 
 ## [From _The Hope pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87096037/1884-03-14/ed-1/seq-2)
 
-#### 1884-03-14 &middot; Hope, N.D.
+#### 1884-03-14 &middot; [Hope, N.D.](http://dbpedia.org/resource/Hope%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5278,7 +5278,7 @@ Have iifty to their one.
 
 ## [From _The Dillon tribune._](https://chroniclingamerica.loc.gov/lccn/sn85053040/1884-04-05/ed-1/seq-2)
 
-#### 1884-04-05 &middot; Dillon, Mont.
+#### 1884-04-05 &middot; [Dillon, Mont.](http://dbpedia.org/resource/Dillon%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5324,7 +5324,7 @@ We have none of our own.
 
 ## [From _Press and daily Dakotaian._](https://chroniclingamerica.loc.gov/lccn/sn91099608/1884-04-19/ed-1/seq-4)
 
-#### 1884-04-19 &middot; Yankton, Dakota Territory [S.D.]
+#### 1884-04-19 &middot; [Yankton, Dakota Territory [S.D.]](http://dbpedia.org/resource/Yankton%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5379,7 +5379,7 @@ We have uone of our own.
 
 ## [From _The Wahpeton times._](https://chroniclingamerica.loc.gov/lccn/sn84024779/1884-05-02/ed-1/seq-1)
 
-#### 1884-05-02 &middot; Wahpeton, Richland County, Dakota [N.D.]
+#### 1884-05-02 &middot; [Wahpeton, Richland County, Dakota [N.D.]](http://dbpedia.org/resource/Wahpeton%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5433,7 +5433,7 @@ We have none of our own.
 
 #### From _The new Mississippian._
 
-#### 1884-05-06 &middot; Jackson, Miss.
+#### 1884-05-06 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -5441,7 +5441,7 @@ We have none of our own.
 
 ## [From _The clarion._](https://chroniclingamerica.loc.gov/lccn/sn83016925/1884-05-14/ed-1/seq-1)
 
-#### 1884-05-14 &middot; Jackson, Miss.
+#### 1884-05-14 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5485,7 +5485,7 @@ Sometime to roost come home
 
 ## [From _Iowa County democrat._](https://chroniclingamerica.loc.gov/lccn/sn86086852/1885-02-13/ed-1/seq-2)
 
-#### 1885-02-13 &middot; Mineral Point, Wis.
+#### 1885-02-13 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5531,7 +5531,7 @@ Wo have none of our own
 
 ## [From _Charlotte home and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020714/1886-01-29/ed-1/seq-1)
 
-#### 1886-01-29 &middot; Charlotte, N.C.
+#### 1886-01-29 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5577,7 +5577,7 @@ We have none of our own
 
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1886-05-07/ed-1/seq-4)
 
-#### 1886-05-07 &middot; Pascagoula, Miss.
+#### 1886-05-07 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5645,7 +5645,7 @@ Sometimes to roost eome borne
 
 ## [From _The Delaware ledger._](https://chroniclingamerica.loc.gov/lccn/sn88053022/1886-05-15/ed-1/seq-4)
 
-#### 1886-05-15 &middot; Newark, Del.
+#### 1886-05-15 &middot; [Newark, Del.](http://dbpedia.org/resource/Newark%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5732,7 +5732,7 @@ vn.
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-02-14_18_7?page=5)
 
-#### 1887-02-14 &middot; Lansing
+#### 1887-02-14 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5782,7 +5782,7 @@ Sometimes to roost come home
 
 ## [From _The Delta independent._](https://chroniclingamerica.loc.gov/lccn/sn86063206/1888-01-10/ed-1/seq-3)
 
-#### 1888-01-10 &middot; Delta, Colo.
+#### 1888-01-10 &middot; [Delta, Colo.](http://dbpedia.org/resource/Delta%2C_Colorado)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5828,7 +5828,7 @@ We have none of our own. —Ex
 
 ## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1888-11-01/ed-1/seq-1)
 
-#### 1888-11-01 &middot; Jamesburg, N.J.
+#### 1888-11-01 &middot; [Jamesburg, N.J.](http://dbpedia.org/resource/Jamesburg%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5876,7 +5876,7 @@ We have none of our own.
 
 #### From _Southwestern Christian advocate._
 
-#### 1888-11-29 &middot; New Orleans, La.
+#### 1888-11-29 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -5884,7 +5884,7 @@ We have none of our own.
 
 ## [From _Fisherman & farmer._](https://chroniclingamerica.loc.gov/lccn/sn91068084/1889-04-19/ed-1/seq-1)
 
-#### 1889-04-19 &middot; Edenton, N.C.
+#### 1889-04-19 &middot; [Edenton, N.C.](http://dbpedia.org/resource/Edenton%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5930,7 +5930,7 @@ We have none of our ow
 
 ## [From _Herald of gospel liberty._](https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1889-05-09_81_19?page=1)
 
-#### 1889-05-09 &middot; Portsmouth [N.H.]
+#### 1889-05-09 &middot; [Portsmouth [N.H.]](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5953,7 +5953,7 @@ The old as well as young
 
 #### From _Boston investigator._
 
-#### 1889-06-12 &middot; Boston, Mass.
+#### 1889-06-12 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -5961,7 +5961,7 @@ The old as well as young
 
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1889-09-26/ed-1/seq-1)
 
-#### 1889-09-26 &middot; Stillwater, Minn.
+#### 1889-09-26 &middot; [Stillwater, Minn.](http://dbpedia.org/resource/Stillwater%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6007,7 +6007,7 @@ We have none of our own
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1889-10-17/ed-1/seq-3)
 
-#### 1889-10-17 &middot; Portland, Me.
+#### 1889-10-17 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6053,7 +6053,7 @@ W e have uonc of our own
 
 ## [From _Herald of gospel liberty._](https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1889-10-24_81_43?page=5)
 
-#### 1889-10-24 &middot; Portsmouth [N.H.]
+#### 1889-10-24 &middot; [Portsmouth [N.H.]](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6102,7 +6102,7 @@ Remember curses, chicken-like
 
 ## [From _The Irish standard._](https://chroniclingamerica.loc.gov/lccn/sn90059959/1889-11-02/ed-1/seq-3)
 
-#### 1889-11-02 &middot; Minneapolis, Minn. ;
+#### 1889-11-02 &middot; [Minneapolis, Minn. ;](http://dbpedia.org/resource/Minneapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6163,7 +6163,7 @@ We have none of our own.
 
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1890-02-20/ed-1/seq-7)
 
-#### 1890-02-20 &middot; Oskaloosa, Mahaska County, Iowa
+#### 1890-02-20 &middot; [Oskaloosa, Mahaska County, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6212,7 +6212,7 @@ We have none of our own. Si
 
 #### From _Warragul Guardian and Buln Buln and Narracan Shire Advocate (Warragul, Vic. : 1879 - 1894)_
 
-#### 1890-04-11 &middot; Warragul, Victoria
+#### 1890-04-11 &middot; [Warragul, Victoria](http://dbpedia.org/resource/Warragul)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6249,7 +6249,7 @@ faults until We have dons of oue own.
 
 #### From _Fitzroy City Press (Vic. : 1881 - 1920)_
 
-#### 1890-04-25 &middot; Fitzroy, Victoria
+#### 1890-04-25 &middot; [Fitzroy, Victoria](http://dbpedia.org/resource/Fitzroy%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6287,7 +6287,7 @@ our own. .. . ..:.
 
 #### From _The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)_
 
-#### 1890-04-26 &middot; Caulfield, Victoria
+#### 1890-04-26 &middot; [Caulfield, Victoria](http://dbpedia.org/resource/Caulfield%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6325,7 +6325,7 @@ f?,lta until We havIo noise fe ar on
 
 #### From _The Colac Herald (Vic. : 1875 - 1918)_
 
-#### 1890-05-09 &middot; Colac, Victoria
+#### 1890-05-09 &middot; [Colac, Victoria](http://dbpedia.org/resource/Colac%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6362,7 +6362,7 @@ faults until We have none of oun o .wn
 
 #### From _The Narracoorte Herald (SA : 1875 - 1954)_
 
-#### 1890-06-12 &middot; Naracoorte, South Australia
+#### 1890-06-12 &middot; [Naracoorte, South Australia](http://dbpedia.org/resource/Naracoorte%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6399,7 +6399,7 @@ faults until We have none of our own. *
 
 #### From _Petersburg Times (SA : 1887 - 1919)_
 
-#### 1890-07-25 &middot; Peterborough, South Australia
+#### 1890-07-25 &middot; [Peterborough, South Australia](http://dbpedia.org/resource/Peterborough%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6435,7 +6435,7 @@ sons of ova ova.
 
 ## [From _The Democrat._](https://chroniclingamerica.loc.gov/lccn/sn92073907/1890-08-07/ed-1/seq-1)
 
-#### 1890-08-07 &middot; Scotland Neck, Halifax Co., N.C.
+#### 1890-08-07 &middot; [Scotland Neck, Halifax Co., N.C.](http://dbpedia.org/resource/Scotland_Neck%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6483,7 +6483,7 @@ We have none of our own
 
 #### From _The Horsham Times (Vic. : 1882 - 1954)_
 
-#### 1890-10-17 &middot; Horsham, Victoria
+#### 1890-10-17 &middot; [Horsham, Victoria](http://dbpedia.org/resource/Horsham%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6521,7 +6521,7 @@ faults until We have none of our own
 
 #### From _Mackay Mercury (Qld. : 1887 - 1905)_
 
-#### 1890-10-25 &middot; Mackay, Queensland
+#### 1890-10-25 &middot; [Mackay, Queensland](http://dbpedia.org/resource/Mackay%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6558,7 +6558,7 @@ of onr own
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1890-11-20/ed-1/seq-1)
 
-#### 1890-11-20 &middot; Mechanicstown, Md.
+#### 1890-11-20 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6606,7 +6606,7 @@ You have u &#x27;He of your own
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1890-11-22 &middot; Melbourne, Victoria
+#### 1890-11-22 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6642,7 +6642,7 @@ faults until We have none of our own
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1890-12-24/ed-1/seq-8)
 
-#### 1890-12-24 &middot; Abbeville, S.C.
+#### 1890-12-24 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6689,7 +6689,7 @@ We bave none of our own
 
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1891-01-01/ed-1/seq-1)
 
-#### 1891-01-01 &middot; Stillwater, Minn.
+#### 1891-01-01 &middot; [Stillwater, Minn.](http://dbpedia.org/resource/Stillwater%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6738,7 +6738,7 @@ We have none of our own.
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1891-02-04/ed-1/seq-4)
 
-#### 1891-02-04 &middot; Yorkville, S.C.
+#### 1891-02-04 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6784,7 +6784,7 @@ We have none of our own
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1891-04-13/ed-1/seq-2)
 
-#### 1891-04-13 &middot; Barton, Vt.
+#### 1891-04-13 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6822,7 +6822,7 @@ We have none ot our own
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1891-05-14/ed-1/seq-2)
 
-#### 1891-05-14 &middot; Bellows Falls, Vt.
+#### 1891-05-14 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6860,7 +6860,7 @@ We have none of our own
 
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1891-05-21/ed-1/seq-1)
 
-#### 1891-05-21 &middot; Stillwater, Minn.
+#### 1891-05-21 &middot; [Stillwater, Minn.](http://dbpedia.org/resource/Stillwater%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6909,7 +6909,7 @@ We have none of our own
 
 ## [From _News and citizen._](https://chroniclingamerica.loc.gov/lccn/sn97067613/1891-05-28/ed-1/seq-1)
 
-#### 1891-05-28 &middot; Morrisville, Vt. ;
+#### 1891-05-28 &middot; [Morrisville, Vt. ;](http://dbpedia.org/resource/Morrisville%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6944,7 +6944,7 @@ To slander friend or foe
 
 #### From _The news and observer._
 
-#### 1891-06-14 &middot; Raleigh, N.C.
+#### 1891-06-14 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -6952,7 +6952,7 @@ To slander friend or foe
 
 ## [From _The news and observer._](https://chroniclingamerica.loc.gov/lccn/sn84024516/1891-06-14/ed-1/seq-5)
 
-#### 1891-06-14 &middot; Raleigh, N.C.
+#### 1891-06-14 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6992,7 +6992,7 @@ We have none of our own
 
 #### From _The St. Paul daily news._
 
-#### 1892-01-16 &middot; St. Paul, Minn.
+#### 1892-01-16 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 [This text is not available under an open license.]
 
@@ -7002,7 +7002,7 @@ We have none of our own
 
 #### From _The St. Paul daily news._
 
-#### 1892-01-16 &middot; St. Paul, Minn.
+#### 1892-01-16 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 [This text is not available under an open license.]
 
@@ -7012,7 +7012,7 @@ We have none of our own
 
 #### From _Independent (Footscray, Vic. : 1883 - 1922)_
 
-#### 1892-02-06 &middot; Footscray, Victoria
+#### 1892-02-06 &middot; [Footscray, Victoria](http://dbpedia.org/resource/Footscray%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7048,7 +7048,7 @@ until: We have none of our own. Landlady
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1892-02-10/ed-1/seq-1)
 
-#### 1892-02-10 &middot; Yorkville, S.C.
+#### 1892-02-10 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7094,7 +7094,7 @@ We have none of our own
 
 ## [From _St. Johnsbury Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023253/1892-04-28/ed-1/seq-3)
 
-#### 1892-04-28 &middot; St. Johnsbury, Vt.
+#### 1892-04-28 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7142,7 +7142,7 @@ We have none of our own
 
 #### From _Northern Star (Lismore, NSW : 1876 - 1954)_
 
-#### 1892-08-20 &middot; Lismore, New South Wales
+#### 1892-08-20 &middot; [Lismore, New South Wales](http://dbpedia.org/resource/Lismore%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7180,7 +7180,7 @@ Don&#x27;t speak of other&#x27;s faults until ¡ ,.
 
 ## [From _Freeland tribune._](https://chroniclingamerica.loc.gov/lccn/sn87080287/1892-09-05/ed-1/seq-3)
 
-#### 1892-09-05 &middot; Freeland, Pa.
+#### 1892-09-05 &middot; [Freeland, Pa.](http://dbpedia.org/resource/Freeland%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7228,7 +7228,7 @@ Wo have none of our own
 
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
 
-#### 1892-09-06 &middot; Wollongong, New South Wales
+#### 1892-09-06 &middot; [Wollongong, New South Wales](http://dbpedia.org/resource/Wollongong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7264,7 +7264,7 @@ faults until We&#x27; have none of our own.
 
 ## [From _The Roanoke times._](https://chroniclingamerica.loc.gov/lccn/sn86071868/1892-10-02/ed-1/seq-7)
 
-#### 1892-10-02 &middot; Roanoke, Va.
+#### 1892-10-02 &middot; [Roanoke, Va.](http://dbpedia.org/resource/Roanoke%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7310,7 +7310,7 @@ Wo have nouu of our own
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1893-01-30/ed-1/seq-6)
 
-#### 1893-01-30 &middot; Barton, Vt.
+#### 1893-01-30 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7356,7 +7356,7 @@ We have none of our own.
 
 ## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1893-09-07/ed-1/seq-1)
 
-#### 1893-09-07 &middot; Jamesburg, N.J.
+#### 1893-09-07 &middot; [Jamesburg, N.J.](http://dbpedia.org/resource/Jamesburg%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7404,7 +7404,7 @@ We have none of our own.
 
 #### From _The Broadford Courier and Reedy Creek Times (Broadford, Vic. : 1893 - 1916)_
 
-#### 1893-11-03 &middot; Broadford, Victoria
+#### 1893-11-03 &middot; [Broadford, Victoria](http://dbpedia.org/resource/Broadford%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7441,7 +7441,7 @@ faults until We have none of our own.
 
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
 
-#### 1893-11-04 &middot; Bendigo, Victoria
+#### 1893-11-04 &middot; [Bendigo, Victoria](http://dbpedia.org/resource/Bendigo)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7479,7 +7479,7 @@ faults until We have none of our own
 
 #### From _Camperdown Chronicle (Vic. : 1877 - 1954)_
 
-#### 1893-11-07 &middot; Camperdown, Victoria
+#### 1893-11-07 &middot; [Camperdown, Victoria](http://dbpedia.org/resource/Camperdown%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7516,7 +7516,7 @@ fault* until We have none of our own.
 
 #### From _Oakleigh Leader (North Brighton, Vic. : 1888 - 1902)_
 
-#### 1893-11-11 &middot; Oakleigh, Victoria
+#### 1893-11-11 &middot; [Oakleigh, Victoria](http://dbpedia.org/resource/Oakleigh%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7554,7 +7554,7 @@ until 7We have none of our own
 
 #### From _The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)_
 
-#### 1893-11-11 &middot; Caulfield, Victoria
+#### 1893-11-11 &middot; [Caulfield, Victoria](http://dbpedia.org/resource/Caulfield%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7592,7 +7592,7 @@ have none of our own. -&quot;Freeman.
 
 #### From _Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)_
 
-#### 1893-11-18 &middot; Queenscliff, Victoria
+#### 1893-11-18 &middot; [Queenscliff, Victoria](http://dbpedia.org/resource/Queenscliff%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7629,7 +7629,7 @@ faults until We have none of our own.
 
 #### From _Petersburg Times (SA : 1887 - 1919)_
 
-#### 1893-11-24 &middot; Peterborough, South Australia
+#### 1893-11-24 &middot; [Peterborough, South Australia](http://dbpedia.org/resource/Peterborough%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7666,7 +7666,7 @@ faults until We hive none of our own.
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
-#### 1893-12-01 &middot; Clare, South Australia
+#### 1893-12-01 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7705,7 +7705,7 @@ have none of our own. —&#x27;Freeman
 
 #### From _South Australian Chronicle  (Adelaide, SA : 1889 - 1895)_
 
-#### 1893-12-23 &middot; Adelaide, South Australia
+#### 1893-12-23 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7741,7 +7741,7 @@ until ?&#x27;?. We have none of our own.
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1894-02-28/ed-1/seq-1)
 
-#### 1894-02-28 &middot; Yorkville, S.C.
+#### 1894-02-28 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7787,7 +7787,7 @@ We have none of our own
 
 ## [From _The Hartford republican._](https://chroniclingamerica.loc.gov/lccn/sn86069313/1894-03-16/ed-1/seq-1)
 
-#### 1894-03-16 &middot; Hartford, Ky.
+#### 1894-03-16 &middot; [Hartford, Ky.](http://dbpedia.org/resource/Hartford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7834,7 +7834,7 @@ We have none of our own
 
 ## [From _Santa Fe daily New Mexican._](https://chroniclingamerica.loc.gov/lccn/sn84020631/1895-01-08/ed-1/seq-3)
 
-#### 1895-01-08 &middot; Santa Fe, N.M.
+#### 1895-01-08 &middot; [Santa Fe, N.M.](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7882,7 +7882,7 @@ We uavo nono of our own
 
 #### From _Healesville Guardian (Vic. : 1893 - 1898)_
 
-#### 1895-01-11 &middot; Healesville, Victoria
+#### 1895-01-11 &middot; [Healesville, Victoria](http://dbpedia.org/resource/Healesville)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7919,7 +7919,7 @@ faults until; We have none of our own.
 
 #### From _Dungog Chronicle : Durham and Gloucester Advertiser (NSW : 1894 - 1954)_
 
-#### 1895-03-29 &middot; Dungog, New South Wales
+#### 1895-03-29 &middot; [Dungog, New South Wales](http://dbpedia.org/resource/Dungog%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7956,7 +7956,7 @@ own. . *?
 
 ## [From _The Democrat._](https://chroniclingamerica.loc.gov/lccn/sn92073907/1895-04-25/ed-1/seq-1)
 
-#### 1895-04-25 &middot; Scotland Neck, Halifax Co., N.C.
+#### 1895-04-25 &middot; [Scotland Neck, Halifax Co., N.C.](http://dbpedia.org/resource/Scotland_Neck%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8003,7 +8003,7 @@ We have none of our own
 
 ## [From _Belding banner._](https://chroniclingamerica.loc.gov/lccn/sn96076641/1896-04-09/ed-1/seq-3)
 
-#### 1896-04-09 &middot; Belding, Mich.
+#### 1896-04-09 &middot; [Belding, Mich.](http://dbpedia.org/resource/Belding%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8051,7 +8051,7 @@ You have none of your own.
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1896-05-30 &middot; Adelaide, South Australia
+#### 1896-05-30 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8090,7 +8090,7 @@ our own. JAS. W. BOGIE
 
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
 
-#### 1896-06-13 &middot; Launceston, Tasmania
+#### 1896-06-13 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8126,7 +8126,7 @@ faults until We have none of our own
 
 ## [From _The mirror._](https://chroniclingamerica.loc.gov/lccn/sn90060762/1896-08-06/ed-1/seq-1)
 
-#### 1896-08-06 &middot; Stillwater, Minn.
+#### 1896-08-06 &middot; [Stillwater, Minn.](http://dbpedia.org/resource/Stillwater%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8174,7 +8174,7 @@ We have none of our own
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1896-08-15 &middot; Sydney, New South Wales
+#### 1896-08-15 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8213,7 +8213,7 @@ faults until We have none of our own
 
 #### From _The Colac Herald (Vic. : 1875 - 1918)_
 
-#### 1896-09-04 &middot; Colac, Victoria
+#### 1896-09-04 &middot; [Colac, Victoria](http://dbpedia.org/resource/Colac%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8250,7 +8250,7 @@ our own
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn96091104/1897-03-05/ed-1/seq-1)
 
-#### 1897-03-05 &middot; Columbia, Tenn.
+#### 1897-03-05 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8296,7 +8296,7 @@ We have none of our own
 
 ## [From _The Prince George's enquirer and southern Maryland advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060124/1897-03-19/ed-1/seq-1)
 
-#### 1897-03-19 &middot; Upper Marlborough, Md.
+#### 1897-03-19 &middot; [Upper Marlborough, Md.](http://dbpedia.org/resource/Upper_Marlboro%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8342,7 +8342,7 @@ We have none of our own
 
 ## [From _Greenbrier independent._](https://chroniclingamerica.loc.gov/lccn/sn84037217/1897-06-17/ed-1/seq-1)
 
-#### 1897-06-17 &middot; Lewisburg, Va. [W. Va.]
+#### 1897-06-17 &middot; [Lewisburg, Va. [W. Va.]](http://dbpedia.org/resource/Lewisburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8388,7 +8388,7 @@ Sometimes to roost come home
 
 #### From _The Arkansas gazette._
 
-#### 1898-03-11 &middot; Little Rock, Ark.
+#### 1898-03-11 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -8396,7 +8396,7 @@ Sometimes to roost come home
 
 ## [From _The Indian advocate._](https://chroniclingamerica.loc.gov/lccn/45043535/1899-04-01/ed-1/seq-10)
 
-#### 1899-04-01 &middot; [Sacred Heart, Okla.]
+#### 1899-04-01 &middot; [[Sacred Heart, Okla.]](http://dbpedia.org/resource/Sacred_Heart%2C_Oklahoma)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

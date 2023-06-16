@@ -19,7 +19,7 @@ TO REMOVE INK SPOTS.—Put the article stained over a warm flat-iron, streach it
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1863-10-03/ed-1/seq-4)
 
-#### 1863-10-03 &middot; Auburn, Placer County, Calif.
+#### 1863-10-03 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -40,7 +40,7 @@ may try it
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1863-12-30/ed-1/seq-3)
 
-#### 1863-12-30 &middot; Clearfield, Pa.
+#### 1863-12-30 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -61,7 +61,7 @@ try it. &quot;
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1871-01-20/ed-1/seq-3)
 
-#### 1871-01-20 &middot; Nashville, Tenn.
+#### 1871-01-20 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -83,7 +83,7 @@ ately in cold water
 
 #### From _Boston daily advertiser._
 
-#### 1871-06-07 &middot; Boston, Mass.
+#### 1871-06-07 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -91,7 +91,7 @@ ately in cold water
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1871-06-09/ed-1/seq-2)
 
-#### 1871-06-09 &middot; Bellows Falls, Vt.
+#### 1871-06-09 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -129,7 +129,7 @@ and will satisfy all who may try it
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1871-06-10/ed-1/seq-3)
 
-#### 1871-06-10 &middot; Richmond [Va.]
+#### 1871-06-10 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -164,7 +164,7 @@ That&#x27;s one way. Another method, whic
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1871-06-11/ed-1/seq-6)
 
-#### 1871-06-11 &middot; New York [N.Y.]
+#### 1871-06-11 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -197,7 +197,7 @@ try it
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1871-06-13/ed-1/seq-1)
 
-#### 1871-06-13 &middot; Memphis, Tenn.
+#### 1871-06-13 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -237,7 +237,7 @@ water.
 
 #### From _Daily evening bulletin._
 
-#### 1871-06-14 &middot; San Francisco [Calif.]
+#### 1871-06-14 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -245,7 +245,7 @@ water.
 
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-06-14/ed-1/seq-1)
 
-#### 1871-06-14 &middot; New Orleans, La
+#### 1871-06-14 &middot; [New Orleans, La](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -281,7 +281,7 @@ all who may try it.,
 
 ## [From _The weekly Caucasian._](https://chroniclingamerica.loc.gov/lccn/sn85033995/1871-06-17/ed-1/seq-4)
 
-#### 1871-06-17 &middot; Lexington, Lafayette County, Mo.
+#### 1871-06-17 &middot; [Lexington, Lafayette County, Mo.](http://dbpedia.org/resource/Lexington%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -308,7 +308,7 @@ will satisfy all who may try it.
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1871-06-23/ed-1/seq-4)
 
-#### 1871-06-23 &middot; Columbia, Tenn.
+#### 1871-06-23 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -328,7 +328,7 @@ ly in cold wate
 
 ## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25?page=6)
 
-#### 1871-06-24
+#### 1871-06-24 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -365,7 +365,7 @@ other method, which never fails, is to take
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1871-06-28/ed-1/seq-2)
 
-#### 1871-06-28 &middot; Newberry, S.C.
+#### 1871-06-28 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -399,7 +399,7 @@ mediately in cold water
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1871-06-29/ed-1/seq-3)
 
-#### 1871-06-29 &middot; Mineral Point, Wis.
+#### 1871-06-29 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -437,7 +437,7 @@ edy, and will satisfy all who may try it
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1871-06-30/ed-1/seq-1)
 
-#### 1871-06-30 &middot; Bolivar, Hardeman County, Tenn.
+#### 1871-06-30 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -457,7 +457,7 @@ ly in cold wate
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-07-04/ed-1/seq-6)
 
-#### 1871-07-04 &middot; New Bloomfield, Pa.
+#### 1871-07-04 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -476,7 +476,7 @@ once. Wash immediately in cold water.
 
 ## [From _The Daily state journal._](https://chroniclingamerica.loc.gov/lccn/sn84024670/1871-07-05/ed-1/seq-3)
 
-#### 1871-07-05 &middot; Alexandria, Va.
+#### 1871-07-05 &middot; [Alexandria, Va.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -510,7 +510,7 @@ That&#x27;s oneway. Another method which
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1871-07-06/ed-1/seq-4)
 
-#### 1871-07-06 &middot; Plymouth, Ind.
+#### 1871-07-06 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -534,7 +534,7 @@ fcatisfy all who mav tr i
 
 #### From _Lowell daily citizen and news._
 
-#### 1871-07-08 &middot; Lowell, Mass.
+#### 1871-07-08 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -542,7 +542,7 @@ fcatisfy all who mav tr i
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1871-07-15/ed-1/seq-1)
 
-#### 1871-07-15 &middot; Weaverville, Calif.
+#### 1871-07-15 &middot; [Weaverville, Calif.](http://dbpedia.org/resource/Weaverville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -561,7 +561,7 @@ diately in cold water.
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1871-07-27/ed-1/seq-4)
 
-#### 1871-07-27 &middot; Ravenna, O. [Ohio]
+#### 1871-07-27 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -597,7 +597,7 @@ ly in cold;water. . ... . ;
 
 ## [From _The weekly democratic statesman._](https://chroniclingamerica.loc.gov/lccn/sn83021327/1871-08-31/ed-1/seq-3)
 
-#### 1871-08-31 &middot; Austin, Tex.
+#### 1871-08-31 &middot; [Austin, Tex.](http://dbpedia.org/resource/Austin%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -618,7 +618,7 @@ Mbals and Health. Take the
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1871-09-14/ed-1/seq-8)
 
-#### 1871-09-14 &middot; Kenosha, Wis.
+#### 1871-09-14 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -637,7 +637,7 @@ at once. Wash immediately in cold water.”
 
 ## [From _Painesville journal._](https://chroniclingamerica.loc.gov/lccn/sn84028193/1871-09-16/ed-1/seq-4)
 
-#### 1871-09-16 &middot; Painesville, Ohio
+#### 1871-09-16 &middot; [Painesville, Ohio](http://dbpedia.org/resource/Painesville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -678,7 +678,7 @@ water
 
 ## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7dv40jwh07?page=3)
 
-#### 1871-11-07 &middot; Frankfort, Ky.
+#### 1871-11-07 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

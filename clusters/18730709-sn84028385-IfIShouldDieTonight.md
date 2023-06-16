@@ -56,7 +56,7 @@ The tenderness for which I long to-night.
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1873-06-18_7_25?page=0)
 
-#### 1873-06-18 &middot; New York
+#### 1873-06-18 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -106,7 +106,7 @@ The tenderness for which I long to-night. ae
 
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1873-06-28_51_26?page=9)
 
-#### 1873-06-28 &middot; New York
+#### 1873-06-28 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -160,7 +160,7 @@ The tenderness for which I loug to-night
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1873-07-04/ed-1/seq-1)
 
-#### 1873-07-04 &middot; Staunton, Va.
+#### 1873-07-04 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -209,7 +209,7 @@ The tenderness for which 1 long to-night.
 
 ## [From _Littell's Living Age (1844-1896)_](https://iiif.archivelab.org/iiif/sim_living-age_1873-07-05_118_1517?page=1)
 
-#### 1873-07-05 &middot; Boston
+#### 1873-07-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -267,7 +267,7 @@ The tenderness for which I long to-night.
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1873-07-09/ed-1/seq-8)
 
-#### 1873-07-09 &middot; Knoxville, Tenn.
+#### 1873-07-09 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -308,7 +308,7 @@ So I might rest, forgiven of nil, to-night
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1873-07-10/ed-1/seq-4)
 
-#### 1873-07-10 &middot; Richmond [Va.]
+#### 1873-07-10 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -346,7 +346,7 @@ The tenderness for which I long to-niffht
 
 #### From _Daily Arkansas gazette._
 
-#### 1873-07-13 &middot; Little Rock, Ark.
+#### 1873-07-13 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -356,7 +356,7 @@ The tenderness for which I long to-niffht
 
 #### From _Bangor daily Whig & courier._
 
-#### 1873-07-21 &middot; Bangor, Me.
+#### 1873-07-21 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -366,7 +366,7 @@ The tenderness for which I long to-niffht
 
 #### From _Little Rock daily republican._
 
-#### 1873-07-29 &middot; [Little Rock, Ark.]
+#### 1873-07-29 &middot; [[Little Rock, Ark.]](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -374,7 +374,7 @@ The tenderness for which I long to-niffht
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1873-08-01/ed-1/seq-1)
 
-#### 1873-08-01 &middot; Bellows Falls, Vt.
+#### 1873-08-01 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -414,7 +414,7 @@ B. !., in the Christian Union
 
 ## [From _The weekly Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn85025132/1873-09-27/ed-1/seq-1)
 
-#### 1873-09-27 &middot; Shasta, Calif.
+#### 1873-09-27 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -454,7 +454,7 @@ The tenderness for which I long to-night.
 
 ## [From _The Daily state journal._](https://chroniclingamerica.loc.gov/lccn/sn84024670/1873-12-08/ed-1/seq-4)
 
-#### 1873-12-08 &middot; Alexandria, Va.
+#### 1873-12-08 &middot; [Alexandria, Va.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -495,7 +495,7 @@ The tenderness for which I long to night
 
 #### From _The Australasian (Melbourne, Vic. : 1864 - 1946)_
 
-#### 1873-12-27 &middot; Melbourne, Victoria
+#### 1873-12-27 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -541,7 +541,7 @@ which I long to-nigh
 
 ## [From _The daily Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053942/1874-01-22/ed-1/seq-3)
 
-#### 1874-01-22 &middot; Rock Island, Ill.
+#### 1874-01-22 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -587,7 +587,7 @@ The tenderness for which I long to-night.
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1874-02-07_30_50?page=15)
 
-#### 1874-02-07 &middot; Philadelphia
+#### 1874-02-07 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -638,7 +638,7 @@ The tenderness for which I long to-night.
 
 #### From _The Newcastle Chronicle (NSW : 1866 - 1876)_
 
-#### 1874-03-05 &middot; Newcastle, New South Wales
+#### 1874-03-05 &middot; [Newcastle, New South Wales](http://dbpedia.org/resource/Newcastle%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -675,7 +675,7 @@ for which I long to-night.
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1874-03-20/ed-1/seq-2)
 
-#### 1874-03-20 &middot; Alexandria, D.C.
+#### 1874-03-20 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -725,7 +725,7 @@ The tenderness fjr which 1 long to-night
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1874-04-03/ed-1/seq-1)
 
-#### 1874-04-03 &middot; Ebensburg, Pa.
+#### 1874-04-03 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -780,7 +780,7 @@ Tli t-juderness for which I long to-night.
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1874-04-24/ed-1/seq-1)
 
-#### 1874-04-24 &middot; Bel Air, Md.
+#### 1874-04-24 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -829,7 +829,7 @@ The tenderness for which I long, to night
 
 ## [From _Los Angeles daily herald._](https://chroniclingamerica.loc.gov/lccn/sn84038806/1875-01-14/ed-1/seq-3)
 
-#### 1875-01-14 &middot; Los Angeles [Calif.]
+#### 1875-01-14 &middot; [Los Angeles [Calif.]](http://dbpedia.org/resource/Los_Angeles)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -879,7 +879,7 @@ My feet are pierced with many a thorn
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1875-01-29/ed-1/seq-1)
 
-#### 1875-01-29 &middot; Deer Lodge, Mont.
+#### 1875-01-29 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -927,7 +927,7 @@ The tenderness for which I long to-nighLt.
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1875-02-11/ed-1/seq-1)
 
-#### 1875-02-11 &middot; Jackson C.H., Ohio
+#### 1875-02-11 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -979,7 +979,7 @@ From the Phrenological Journal
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1875-04-08/ed-1/seq-1)
 
-#### 1875-04-08 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+#### 1875-04-08 &middot; [Washington [Washington Court House], Fayette County, O. [Ohio]](http://dbpedia.org/resource/Washington_Court_House%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1025,7 +1025,7 @@ My feet are-pierced with many a thorn
 
 #### From _The Messenger._
 
-#### 1876-04-05 &middot; Philadelphia, Pa.
+#### 1876-04-05 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -1035,7 +1035,7 @@ My feet are-pierced with many a thorn
 
 #### From _Norwich aurora._
 
-#### 1876-05-19 &middot; Norwich, Conn.
+#### 1876-05-19 &middot; [Norwich, Conn.](http://dbpedia.org/resource/Norwich%2C_Connecticut)
 
 [This text is not available under an open license.]
 
@@ -1043,7 +1043,7 @@ My feet are-pierced with many a thorn
 
 ## [From _Rocky Mountain husbandman._](https://chroniclingamerica.loc.gov/lccn/sn83025309/1876-05-25/ed-1/seq-5)
 
-#### 1876-05-25 &middot; Diamond City, Mont.
+#### 1876-05-25 &middot; [Diamond City, Mont.](http://dbpedia.org/resource/Great_Falls%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1089,7 +1089,7 @@ The tenderness for which I long to-night
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1876-06-02/ed-1/seq-1)
 
-#### 1876-06-02 &middot; Paw Paw, Mich.
+#### 1876-06-02 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1136,7 +1136,7 @@ The tenderness for which I long to-night.
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1876-07-01/ed-1/seq-1)
 
-#### 1876-07-01 &middot; Martinsburg, W. Va.
+#### 1876-07-01 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1197,7 +1197,7 @@ Forgive! O hearts estranged, forgive,
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1876-07-09/ed-1/seq-3)
 
-#### 1876-07-09 &middot; New York [N.Y.]
+#### 1876-07-09 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1244,7 +1244,7 @@ Forgive! Oh hearts estranged, forgive, I plead—
 
 ## [From _The daily free press._](https://chroniclingamerica.loc.gov/lccn/sn85025540/1876-08-22/ed-1/seq-1)
 
-#### 1876-08-22 &middot; Trenton, N.J.
+#### 1876-08-22 &middot; [Trenton, N.J.](http://dbpedia.org/resource/Trenton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1309,7 +1309,7 @@ The tenderness for which I long to-night.
 
 ## [From _The tribune._](https://chroniclingamerica.loc.gov/lccn/sn85042623/1876-09-13/ed-1/seq-1)
 
-#### 1876-09-13 &middot; Beaufort, S.C.
+#### 1876-09-13 &middot; [Beaufort, S.C.](http://dbpedia.org/resource/Beaufort%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1351,7 +1351,7 @@ The ton.l .lnesd for which I long to-night
 
 ## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1876-09-16_43_1094?page=5)
 
-#### 1876-09-16 &middot; New York, N.Y.
+#### 1876-09-16 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1402,7 +1402,7 @@ The tenderness for which I long to-night.
 
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1876-09-21/ed-1/seq-7)
 
-#### 1876-09-21 &middot; Lake Charles, Parish of Calcasieu, La.
+#### 1876-09-21 &middot; [Lake Charles, Parish of Calcasieu, La.](http://dbpedia.org/resource/Lake_Charles%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1451,7 +1451,7 @@ The tendernes for which I long to-night
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1876-09-30 &middot; Sydney, New South Wales
+#### 1876-09-30 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1499,7 +1499,7 @@ night
 
 #### From _Queensland Times, Ipswich Herald and General Advertiser (Qld. : 1861 - 1908)_
 
-#### 1876-10-07 &middot; Ipswich, Queensland
+#### 1876-10-07 &middot; [Ipswich, Queensland](http://dbpedia.org/resource/Ipswich%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1545,7 +1545,7 @@ night. -Publie Opinion
 
 ## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1877-02-03_8_5?page=5)
 
-#### 1877-02-03
+#### 1877-02-03 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1596,7 +1596,7 @@ o
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1877-03-08/ed-1/seq-4)
 
-#### 1877-03-08 &middot; Pulaski, Tenn.
+#### 1877-03-08 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1646,7 +1646,7 @@ The tendernusa for which I long to-night
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1877-05-17/ed-1/seq-1)
 
-#### 1877-05-17 &middot; Staunton, Va.
+#### 1877-05-17 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1691,7 +1691,7 @@ The tenderness for which I long to-night.
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1877-06-28_50_26?page=5)
 
-#### 1877-06-28 &middot; Boston
+#### 1877-06-28 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1741,7 +1741,7 @@ The tenderness for which I long to-night.
 
 #### From _Northern Star (Lismore, NSW : 1876 - 1954)_
 
-#### 1877-09-15 &middot; Lismore, New South Wales
+#### 1877-09-15 &middot; [Lismore, New South Wales](http://dbpedia.org/resource/Lismore%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1790,7 +1790,7 @@ tenderness for \yhich I long to-night.
 
 #### From _Newcastle Morning Herald and Miners' Advocate (NSW : 1876 - 1954) _
 
-#### 1877-09-22 &middot; Newcastle, New South Wales
+#### 1877-09-22 &middot; [Newcastle, New South Wales](http://dbpedia.org/resource/Newcastle%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1828,7 +1828,7 @@ long to-night
 
 ## [From _Bristol news._](https://chroniclingamerica.loc.gov/lccn/sn85026955/1877-10-09/ed-1/seq-1)
 
-#### 1877-10-09 &middot; Bristol, Va. & Tenn.
+#### 1877-10-09 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1871,7 +1871,7 @@ The tenderness for which I long to-night
 
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1877-10-11/ed-1/seq-1)
 
-#### 1877-10-11 &middot; Pickens Court House, S.C.
+#### 1877-10-11 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1922,7 +1922,7 @@ nee
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1877-10-27/ed-1/seq-1)
 
-#### 1877-10-27 &middot; Charlestown, Va. [W. Va.]
+#### 1877-10-27 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1968,7 +1968,7 @@ The tenderness for which I long to night
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1877-12-26/ed-1/seq-7)
 
-#### 1877-12-26 &middot; Watertown, Wis.
+#### 1877-12-26 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2019,7 +2019,7 @@ The tenderness for which I long to night
 
 #### From _Inter ocean._
 
-#### 1878-04-08 &middot; Chicago, Ill.
+#### 1878-04-08 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -2029,7 +2029,7 @@ The tenderness for which I long to night
 
 #### From _Milwaukee daily sentinel._
 
-#### 1878-04-09 &middot; Milwaukee, Wis.
+#### 1878-04-09 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -2096,7 +2096,7 @@ The tenderness for which I long to-night.
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1879-01-16/ed-1/seq-1)
 
-#### 1879-01-16 &middot; Bridgeton, N.J.
+#### 1879-01-16 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2142,7 +2142,7 @@ The tenderness for which I long to-night
 
 ## [From _The Stark County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028490/1879-02-13/ed-1/seq-7)
 
-#### 1879-02-13 &middot; Canton, Ohio
+#### 1879-02-13 &middot; [Canton, Ohio](http://dbpedia.org/resource/Canton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2182,7 +2182,7 @@ The tenderness lor which I long to-tilgliL
 
 #### From _Daily evening bulletin._
 
-#### 1879-05-17 &middot; San Francisco [Calif.]
+#### 1879-05-17 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -2190,7 +2190,7 @@ The tenderness lor which I long to-tilgliL
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1879-08-07/ed-1/seq-1)
 
-#### 1879-08-07 &middot; Bolivar, Hardeman County, Tenn.
+#### 1879-08-07 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2238,7 +2238,7 @@ The tenderness fur which I long to-night
 
 #### From _The Herald (Fremantle, WA : 1867 - 1886)_
 
-#### 1880-01-03 &middot; Fremantle, Western Australia
+#### 1880-01-03 &middot; [Fremantle, Western Australia](http://dbpedia.org/resource/Fremantle)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2284,7 +2284,7 @@ tenderness for which I long to-night.
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1880-02-25/ed-1/seq-3)
 
-#### 1880-02-25 &middot; Wheeling, W. Va.
+#### 1880-02-25 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2322,7 +2322,7 @@ The tenderness for which I long to-night
 
 ## [From _Northern tribune._](https://chroniclingamerica.loc.gov/lccn/sn85026455/1881-02-26/ed-1/seq-3)
 
-#### 1881-02-26 &middot; Cheboygan, Mich.
+#### 1881-02-26 &middot; [Cheboygan, Mich.](http://dbpedia.org/resource/Cheboygan%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2366,7 +2366,7 @@ When dreamless rest is mine I shall not need
 
 #### From _The news and observer._
 
-#### 1881-04-24 &middot; Raleigh, N.C.
+#### 1881-04-24 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -2374,7 +2374,7 @@ When dreamless rest is mine I shall not need
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1881-05-12/ed-1/seq-1)
 
-#### 1881-05-12 &middot; Staunton, Va.
+#### 1881-05-12 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2413,7 +2413,7 @@ The tenderness for which I long to-night
 
 #### From _Hull Packet_
 
-#### 1881-05-20 &middot; Hull, England
+#### 1881-05-20 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -2421,7 +2421,7 @@ The tenderness for which I long to-night
 
 ## [From _The Wellington enterprise._](https://chroniclingamerica.loc.gov/lccn/sn84028271/1882-05-31/ed-1/seq-3)
 
-#### 1882-05-31 &middot; Wellington, Ohio
+#### 1882-05-31 &middot; [Wellington, Ohio](http://dbpedia.org/resource/Wellington%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2467,7 +2467,7 @@ The tenderness for which I long to-night
 
 ## [From _Evening bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86069125/1882-06-03/ed-1/seq-1)
 
-#### 1882-06-03 &middot; Maysville [Ky.]
+#### 1882-06-03 &middot; [Maysville [Ky.]](http://dbpedia.org/resource/Maysville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2496,7 +2496,7 @@ The tenderness for which I long to-night.
 
 ## [From _Daily globe._](https://chroniclingamerica.loc.gov/lccn/sn83025287/1882-07-09/ed-1/seq-4)
 
-#### 1882-07-09 &middot; St. Paul, Minn.
+#### 1882-07-09 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2551,7 +2551,7 @@ The tenderness for which I long to-night.
 
 ## [From _The Wichita city eagle._](https://chroniclingamerica.loc.gov/lccn/sn85032573/1882-11-30/ed-1/seq-1)
 
-#### 1882-11-30 &middot; Wichita, Kan.
+#### 1882-11-30 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2604,7 +2604,7 @@ The tenderness for which I long to-night.
 
 ## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1884-07-26/ed-1/seq-7)
 
-#### 1884-07-26 &middot; Saint Paul, Minn.
+#### 1884-07-26 &middot; [Saint Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2646,7 +2646,7 @@ The tenderness for which I long to-night
 
 ## [From _The daily morning Astorian._](https://chroniclingamerica.loc.gov/lccn/sn96061150/1885-11-24/ed-1/seq-3)
 
-#### 1885-11-24 &middot; Astoria, Oregon
+#### 1885-11-24 &middot; [Astoria, Oregon](http://dbpedia.org/resource/Astoria%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2698,7 +2698,7 @@ The tenderness for which I long to-night.
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-11-28_59_17?page=4)
 
-#### 1885-11-28 &middot; Philadelphia
+#### 1885-11-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2738,7 +2738,7 @@ The tenderness for which I long to-night.
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1886-01-02/ed-1/seq-6)
 
-#### 1886-01-02 &middot; Washington, D.C.
+#### 1886-01-02 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2784,7 +2784,7 @@ The tenderuess for which I long to-night
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1886-06-06/ed-1/seq-6)
 
-#### 1886-06-06 &middot; New York [N.Y.]
+#### 1886-06-06 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2832,7 +2832,7 @@ The tenderness for wlricb I long to-night
 
 #### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
 
-#### 1886-11-11 &middot; Port Elliot, South Australia
+#### 1886-11-11 &middot; [Port Elliot, South Australia](http://dbpedia.org/resource/Port_Elliot%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2877,7 +2877,7 @@ jjJBorgive! O hearts estranged, forgive,
 
 #### From _The news and observer._
 
-#### 1887-03-11 &middot; Raleigh, N.C.
+#### 1887-03-11 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -2885,7 +2885,7 @@ jjJBorgive! O hearts estranged, forgive,
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1887-03-12/ed-1/seq-4)
 
-#### 1887-03-12 &middot; Martinsburg, W. Va.
+#### 1887-03-12 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2956,7 +2956,7 @@ night.
 
 #### From _The daily picayune._
 
-#### 1887-03-20 &middot; New Orleans, La.
+#### 1887-03-20 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -2966,7 +2966,7 @@ night.
 
 #### From _Pall Mall Gazette_
 
-#### 1887-03-24 &middot; London, England
+#### 1887-03-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -2976,7 +2976,7 @@ night.
 
 #### From _Pall Mall Gazette_
 
-#### 1887-03-24 &middot; London, England
+#### 1887-03-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -2984,7 +2984,7 @@ night.
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1887-03-25/ed-1/seq-1)
 
-#### 1887-03-25 &middot; Shepherdstown, Va. [W. Va.]
+#### 1887-03-25 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3037,7 +3037,7 @@ The tenderness for which I long to-night
 
 ## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1887-03-29/ed-1/seq-4)
 
-#### 1887-03-29 &middot; Savannah
+#### 1887-03-29 &middot; [Savannah](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3079,7 +3079,7 @@ The tenderness for which I long to-night
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-05-19_35_20?page=11)
 
-#### 1887-05-19 &middot; New York
+#### 1887-05-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3130,7 +3130,7 @@ The tenderness for which I long to-night !’’
 
 #### From _Darling Downs Gazette (Qld. : 1881 - 1922)_
 
-#### 1887-06-18 &middot; Darling Downs, Queensland
+#### 1887-06-18 &middot; [Darling Downs, Queensland](http://dbpedia.org/resource/Darling_Downs)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3176,7 +3176,7 @@ for which I long to-night
 
 ## [From _Smalley's Magazine 1883-1903_](https://iiif.archivelab.org/iiif/sim_smalleys-magazine_1887-07_5_7?page=22)
 
-#### 1887-07-01
+#### 1887-07-01 &middot; [Saint Paul, Minnesota](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3236,7 +3236,7 @@ The tenderness for which I long to-night.
 
 #### From _Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)_
 
-#### 1887-07-13 &middot; Rockhampton, Queensland
+#### 1887-07-13 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3275,7 +3275,7 @@ which I tong to-night. &quot;Twenty year
 
 #### From _Goulburn Evening Penny Post (NSW : 1881 - 1940)_
 
-#### 1887-08-27 &middot; Goulburn, New South Wales
+#### 1887-08-27 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3321,7 +3321,7 @@ for which I long to-night
 
 ## [From _Pennsylvania School Journal 1852-1980_](https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1887-10_36_4?page=8)
 
-#### 1887-10-01
+#### 1887-10-01 &middot; [Lancaster, Pennsylvania](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3383,7 +3383,7 @@ The tenderness for which I long to-night.
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1887-12-24/ed-1/seq-4)
 
-#### 1887-12-24 &middot; Elkton, Md.
+#### 1887-12-24 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3439,7 +3439,7 @@ The tenderness for which I long tonight
 
 ## [From _The new dominion._](https://chroniclingamerica.loc.gov/lccn/sn86092182/1888-09-15/ed-1/seq-1)
 
-#### 1888-09-15 &middot; Morgantown, W. Va.
+#### 1888-09-15 &middot; [Morgantown, W. Va.](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3485,7 +3485,7 @@ The tenderness for which I long to-night
 
 ## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1888-10_1_4?page=32)
 
-#### 1888-10-01 &middot; New York
+#### 1888-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3538,7 +3538,7 @@ The tenderness for which I long to-night.
 
 #### From _Atchison daily champion._
 
-#### 1888-12-01 &middot; Atchison City, Kan.
+#### 1888-12-01 &middot; [Atchison City, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -3546,7 +3546,7 @@ The tenderness for which I long to-night.
 
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1888-12-13/ed-1/seq-3)
 
-#### 1888-12-13 &middot; Oskaloosa, Mahaska County, Iowa
+#### 1888-12-13 &middot; [Oskaloosa, Mahaska County, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3570,7 +3570,7 @@ The tenderness for which I long to-night.
 
 ## [From _The Columbus journal._](https://chroniclingamerica.loc.gov/lccn/sn95073194/1889-01-02/ed-1/seq-4)
 
-#### 1889-01-02 &middot; Columbus, Neb.
+#### 1889-01-02 &middot; [Columbus, Neb.](http://dbpedia.org/resource/Columbus%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3619,7 +3619,7 @@ The tenderness for which I Jong to-nigh
 
 #### From _Rocky Mountain news._
 
-#### 1889-01-06 &middot; Denver, Colo.
+#### 1889-01-06 &middot; [Denver, Colo.](http://dbpedia.org/resource/Denver)
 
 [This text is not available under an open license.]
 
@@ -3627,7 +3627,7 @@ The tenderness for which I Jong to-nigh
 
 ## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1889-02-21/ed-1/seq-6)
 
-#### 1889-02-21 &middot; Oskaloosa, Mahaska County, Iowa
+#### 1889-02-21 &middot; [Oskaloosa, Mahaska County, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3684,7 +3684,7 @@ The teuderness for which 1 long to-night.
 
 ## [From _Woman's chronicle._](https://chroniclingamerica.loc.gov/lccn/sn90050094/1889-05-04/ed-1/seq-3)
 
-#### 1889-05-04 &middot; Little Rock, Ark.
+#### 1889-05-04 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3722,7 +3722,7 @@ The tenderness for which I long, to-night
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85047084/1889-10-26/ed-1/seq-1)
 
-#### 1889-10-26 &middot; Honolulu, Hawaiian Islands
+#### 1889-10-26 &middot; [Honolulu, Hawaiian Islands](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3784,7 +3784,7 @@ The tenderness for which I long to-night.
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1890-09-29/ed-1/seq-2)
 
-#### 1890-09-29 &middot; Barton, Vt.
+#### 1890-09-29 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3820,7 +3820,7 @@ The tenderness for which I long to-night
 
 ## [From _The Musical Visitor, a Magazine of Musical Literature and Music (1883-1897)_](https://iiif.archivelab.org/iiif/sim_the-musical-visitor-a-magazine-of-musical-literature_1891-01_20_1?page=0)
 
-#### 1891-01-01 &middot; Cincinnati
+#### 1891-01-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3869,7 +3869,7 @@ The tenderness for which I long to-night.
 
 ## [From _London Society: A Monthly Magazine of Light and Amusing Literature for the Hours of Relaxation 1862-1898_](https://iiif.archivelab.org/iiif/sim_london-society_1891-11_60_359?page=83)
 
-#### 1891-11-01
+#### 1891-11-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3907,7 +3907,7 @@ And so I should be loved and mourned to-night !”
 
 ## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1891-11-19/ed-1/seq-1)
 
-#### 1891-11-19 &middot; Jamesburg, N.J.
+#### 1891-11-19 &middot; [Jamesburg, N.J.](http://dbpedia.org/resource/Jamesburg%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3952,7 +3952,7 @@ The tenderness for which I long to-night.
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1892-02-03/ed-1/seq-1)
 
-#### 1892-02-03 &middot; Staunton, Va.
+#### 1892-02-03 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4006,7 +4006,7 @@ B. S
 
 ## [From _Semi-weekly interior journal._](https://chroniclingamerica.loc.gov/lccn/sn85052020/1892-05-24/ed-1/seq-4)
 
-#### 1892-05-24 &middot; Stanford, Ky.
+#### 1892-05-24 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4048,7 +4048,7 @@ The tenderness for which I long to-night.
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1892-06-30/ed-1/seq-3)
 
-#### 1892-06-30 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1892-06-30 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4098,7 +4098,7 @@ The tenderness for which I long to-night.
 
 #### From _Oakleigh Leader (North Brighton, Vic. : 1888 - 1902)_
 
-#### 1892-10-01 &middot; Oakleigh, Victoria
+#### 1892-10-01 &middot; [Oakleigh, Victoria](http://dbpedia.org/resource/Oakleigh%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4135,7 +4135,7 @@ for which I long to-night. --&quot;Publi
 
 ## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1892-10-27_46_14?page=10)
 
-#### 1892-10-27 &middot; Philadelphia
+#### 1892-10-27 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4224,7 +4224,7 @@ need
 
 #### From _Northern Star (Lismore, NSW : 1876 - 1954)_
 
-#### 1892-11-05 &middot; Lismore, New South Wales
+#### 1892-11-05 &middot; [Lismore, New South Wales](http://dbpedia.org/resource/Lismore%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4263,7 +4263,7 @@ tonight. &#x27; , . _. -Belle E. Smith
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1892-11-19 &middot; Adelaide, South Australia
+#### 1892-11-19 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4309,7 +4309,7 @@ night
 
 ## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1893-02-18_6_13?page=1)
 
-#### 1893-02-18
+#### 1893-02-18 &middot; [Toronto, Canada](http://dbpedia.org/resource/Toronto)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4363,7 +4363,7 @@ And I might rest forgiven of all to-night.
 
 #### From _Mercury and Weekly Courier (Vic. : 1878 - 1903)_
 
-#### 1893-02-23 &middot; Fitzroy, Victoria
+#### 1893-02-23 &middot; [Fitzroy, Victoria](http://dbpedia.org/resource/Fitzroy%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4409,7 +4409,7 @@ night
 
 ## [From _The Indian advocate._](https://chroniclingamerica.loc.gov/lccn/45043535/1893-07-01/ed-1/seq-14)
 
-#### 1893-07-01 &middot; [Sacred Heart, Okla.]
+#### 1893-07-01 &middot; [[Sacred Heart, Okla.]](http://dbpedia.org/resource/Sacred_Heart%2C_Oklahoma)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4457,7 +4457,7 @@ The tenderness for which I long to-night.
 
 #### From _News-observer-chronicle._
 
-#### 1893-11-26 &middot; Raleigh, N.C.
+#### 1893-11-26 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -4465,7 +4465,7 @@ The tenderness for which I long to-night.
 
 ## [From _News-observer-chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84042105/1893-11-26/ed-1/seq-3)
 
-#### 1893-11-26 &middot; Raleigh, N.C.
+#### 1893-11-26 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4531,7 +4531,7 @@ night
 
 ## [From _Santa Fe daily New Mexican._](https://chroniclingamerica.loc.gov/lccn/sn84020631/1894-11-24/ed-1/seq-3)
 
-#### 1894-11-24 &middot; Santa Fe, N.M.
+#### 1894-11-24 &middot; [Santa Fe, N.M.](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4587,7 +4587,7 @@ The tenderness for which I long tonight
 
 #### From _The Galveston daily news._
 
-#### 1895-01-06 &middot; Houston [Tex.]
+#### 1895-01-06 &middot; [Houston [Tex.]](http://dbpedia.org/resource/Houston)
 
 [This text is not available under an open license.]
 
@@ -4595,7 +4595,7 @@ The tenderness for which I long tonight
 
 ## [From _The representative._](https://chroniclingamerica.loc.gov/lccn/sn90059591/1895-05-08/ed-1/seq-7)
 
-#### 1895-05-08 &middot; St. Paul, Minn.
+#### 1895-05-08 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4655,7 +4655,7 @@ The tenderness for which I long tonight
 
 ## [From _The representative._](https://chroniclingamerica.loc.gov/lccn/sn90059591/1895-05-08/ed-1/seq-9)
 
-#### 1895-05-08 &middot; St. Paul, Minn.
+#### 1895-05-08 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4715,7 +4715,7 @@ The tenderness for which I long tonight
 
 ## [From _Kansas City daily journal._](https://chroniclingamerica.loc.gov/lccn/sn86063624/1895-12-22/ed-1/seq-11)
 
-#### 1895-12-22 &middot; Kansas City, Mo.
+#### 1895-12-22 &middot; [Kansas City, Mo.](http://dbpedia.org/resource/Kansas_City%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4761,7 +4761,7 @@ Korglve. oh hearts estranged! forglvo,
 
 ## [From _The Salt Lake herald._](https://chroniclingamerica.loc.gov/lccn/sn85058130/1896-01-05/ed-1/seq-12)
 
-#### 1896-01-05 &middot; Salt Lake City [Utah]
+#### 1896-01-05 &middot; [Salt Lake City [Utah]](http://dbpedia.org/resource/Salt_Lake_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4888,7 +4888,7 @@ Recalling other days remorsefu
 
 #### From _The Irish world and American industrial liberator._
 
-#### 1896-08-15 &middot; New York [N.Y.]
+#### 1896-08-15 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -4938,7 +4938,7 @@ The tenderness for which I long to-night.
 
 ## [From _The Scranton tribune._](https://chroniclingamerica.loc.gov/lccn/sn84026355/1897-05-22/ed-1/seq-13)
 
-#### 1897-05-22 &middot; Scranton, Pa.
+#### 1897-05-22 &middot; [Scranton, Pa.](http://dbpedia.org/resource/Scranton%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4990,7 +4990,7 @@ The tenderness for which I Ions tonight.
 
 #### From _The Methodist (Sydney, NSW : 1892 - 1954)_
 
-#### 1897-10-30 &middot; Sydney, New South Wales
+#### 1897-10-30 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5074,7 +5074,7 @@ The tenderness for which they long tonight.”’
 
 ## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1899-05-04/ed-1/seq-3)
 
-#### 1899-05-04 &middot; Jamesburg, N.J.
+#### 1899-05-04 &middot; [Jamesburg, N.J.](http://dbpedia.org/resource/Jamesburg%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5111,7 +5111,7 @@ The tenderness for which I long to-night.*
 
 ## [From _El Paso daily herald._](https://chroniclingamerica.loc.gov/lccn/sn86064199/1899-09-30/ed-1/seq-11)
 
-#### 1899-09-30 &middot; El Paso, Tex.
+#### 1899-09-30 &middot; [El Paso, Tex.](http://dbpedia.org/resource/El_Paso%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5173,7 +5173,7 @@ The tenderness for which I long to-night
 
 #### From _Arkansas Democrat._
 
-#### 1899-11-16 &middot; Little Rock, Ark.
+#### 1899-11-16 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 

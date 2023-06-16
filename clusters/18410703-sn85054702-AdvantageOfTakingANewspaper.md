@@ -41,7 +41,7 @@ Would not befallen him!
 
 #### From _Scioto gazette._
 
-#### 1839-09-26 &middot; Chillicothe, Ohio
+#### 1839-09-26 &middot; [Chillicothe, Ohio](http://dbpedia.org/resource/Chillicothe%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -49,7 +49,7 @@ Would not befallen him!
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1839-10-03/ed-1/seq-4)
 
-#### 1839-10-03 &middot; Romney, Va. [W. Va.]
+#### 1839-10-03 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -79,7 +79,7 @@ AC ho«(.^l{MU&#x27;iK,,|,o
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1839-12-20/ed-1/seq-4)
 
-#### 1839-12-20 &middot; Brattleboro, Vt.
+#### 1839-12-20 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -108,7 +108,7 @@ Would not have happened him
 
 #### From _Norwich aurora._
 
-#### 1841-03-10 &middot; Norwich, Conn.
+#### 1841-03-10 &middot; [Norwich, Conn.](http://dbpedia.org/resource/Norwich%2C_Connecticut)
 
 [This text is not available under an open license.]
 
@@ -118,7 +118,7 @@ Would not have happened him
 
 #### From _Boston investigator._
 
-#### 1841-03-17 &middot; Boston, Mass.
+#### 1841-03-17 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -128,7 +128,7 @@ Would not have happened him
 
 #### From _The New England weekly review._
 
-#### 1841-04-17 &middot; Hartford [Conn.]
+#### 1841-04-17 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
 [This text is not available under an open license.]
 
@@ -136,7 +136,7 @@ Would not have happened him
 
 ## [From _The North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042147/1841-05-12/ed-1/seq-4)
 
-#### 1841-05-12 &middot; Raleigh, N.C.
+#### 1841-05-12 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -168,7 +168,7 @@ Would not have happened him
 
 #### From _The New World; a Weekly Family Journal of Popular Literature, Science, Art and News (1840-1845)_
 
-#### 1841-05-15 &middot; New York
+#### 1841-05-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -178,7 +178,7 @@ Would not have happened him
 
 #### From _Cleveland daily herald._
 
-#### 1841-05-25 &middot; Cleveland [Ohio]
+#### 1841-05-25 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -186,7 +186,7 @@ Would not have happened him
 
 ## [From _Southport telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040303/1841-06-01/ed-1/seq-4)
 
-#### 1841-06-01 &middot; Southport, W.T. [i.e. Kenosha, Wis.]
+#### 1841-06-01 &middot; [Southport, W.T. [i.e. Kenosha, Wis.]](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -216,7 +216,7 @@ Would nut befallen him.
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1841-06-09/ed-1/seq-1)
 
-#### 1841-06-09 &middot; Stroudsburg, Pa.
+#### 1841-06-09 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -261,7 +261,7 @@ Would not have happened him
 
 #### From _The New England weekly review._
 
-#### 1841-07-03 &middot; Hartford [Conn.]
+#### 1841-07-03 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
 [This text is not available under an open license.]
 
@@ -269,7 +269,7 @@ Would not have happened him
 
 ## [From _Sunbury American and Shamokin journal._](https://chroniclingamerica.loc.gov/lccn/sn85054702/1841-07-03/ed-1/seq-1)
 
-#### 1841-07-03 &middot; Sunbury, Northumberland Co., Pa.
+#### 1841-07-03 &middot; [Sunbury, Northumberland Co., Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -303,7 +303,7 @@ H id be bee
 
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28?page=7)
 
-#### 1841-07-10 &middot; New York
+#### 1841-07-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -348,7 +348,7 @@ Had not befallen him!
 
 #### From _Raleigh register, and North-Carolina gazette._
 
-#### 1841-07-23 &middot; Raleigh, N.C.
+#### 1841-07-23 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -358,7 +358,7 @@ Had not befallen him!
 
 #### From _The Floridian._
 
-#### 1841-07-24 &middot; Tallahassee [Fla.]
+#### 1841-07-24 &middot; [Tallahassee [Fla.]](http://dbpedia.org/resource/Tallahassee%2C_Florida)
 
 [This text is not available under an open license.]
 
@@ -368,7 +368,7 @@ Had not befallen him!
 
 #### From _Pensacola gazette._
 
-#### 1841-08-07 &middot; [Pensacola, Fla.]
+#### 1841-08-07 &middot; [[Pensacola, Fla.]](http://dbpedia.org/resource/Pensacola%2C_Florida)
 
 [This text is not available under an open license.]
 
@@ -378,7 +378,7 @@ Had not befallen him!
 
 #### From _Colonial Times (Hobart, Tas. : 1828 - 1857)_
 
-#### 1842-04-05 &middot; Hobart, Tasmania
+#### 1842-04-05 &middot; [Hobart, Tasmania](http://dbpedia.org/resource/Hobart)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -405,7 +405,7 @@ befallen him
 
 #### From _The Australian (Sydney, NSW : 1824 - 1848)_
 
-#### 1842-04-23 &middot; Sydney, New South Wales
+#### 1842-04-23 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -433,7 +433,7 @@ of the news - At home, like neighbour
 
 #### From _Manchester Times_
 
-#### 1842-06-25 &middot; Manchester, England
+#### 1842-06-25 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -443,7 +443,7 @@ of the news - At home, like neighbour
 
 #### From _The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842)_
 
-#### 1842-07-16 &middot; Sydney, New South Wales
+#### 1842-07-16 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -470,7 +470,7 @@ befallen bim
 
 #### From _The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842)_
 
-#### 1842-09-03 &middot; Sydney, New South Wales
+#### 1842-09-03 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -497,7 +497,7 @@ befallen bim ! Contentment.-A contente
 
 #### From _The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842)_
 
-#### 1842-10-20 &middot; Sydney, New South Wales
+#### 1842-10-20 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -524,7 +524,7 @@ noihefalloii bim, nzcncn
 
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
 
-#### 1843-02-16 &middot; Sydney, New South Wales
+#### 1843-02-16 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -549,7 +549,7 @@ accident Had not befallen him
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1844-08-31_25_1205?page=3)
 
-#### 1844-08-31 &middot; Philadelphia
+#### 1844-08-31 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -584,7 +584,7 @@ Would not have happened hu
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn87082160/1844-09-14/ed-1/seq-1)
 
-#### 1844-09-14 &middot; Lancaster, W.T. [i.e. Wis.]
+#### 1844-09-14 &middot; [Lancaster, W.T. [i.e. Wis.]](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -635,7 +635,7 @@ Would not have happened him
 
 ## [From _Boston Cultivator (1839-1850)_](https://iiif.archivelab.org/iiif/sim_american-cultivator_1844-10-05_6_40?page=6)
 
-#### 1844-10-05 &middot; Boston
+#### 1844-10-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -754,7 +754,7 @@ Would not bave lbuppened him.
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1844-10-24_12_43?page=1)
 
-#### 1844-10-24 &middot; Augusta, Maine
+#### 1844-10-24 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -791,7 +791,7 @@ Would not have happened him
 
 ## [From _Boon's Lick times._](https://chroniclingamerica.loc.gov/lccn/sn83016957/1845-02-22/ed-1/seq-1)
 
-#### 1845-02-22 &middot; Fayette, Mo.
+#### 1845-02-22 &middot; [Fayette, Mo.](http://dbpedia.org/resource/Fayette%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -822,7 +822,7 @@ Would not have happened him
 
 ## [From _The Evansville journal._](https://chroniclingamerica.loc.gov/lccn/sn84023914/1845-07-10/ed-1/seq-2)
 
-#### 1845-07-10 &middot; Evansville, Ind.
+#### 1845-07-10 &middot; [Evansville, Ind.](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -852,7 +852,7 @@ Would not have happened him
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1845-07-11/ed-1/seq-4)
 
-#### 1845-07-11 &middot; Alexandria, D.C.
+#### 1845-07-11 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -880,7 +880,7 @@ Would not have happened him
 
 #### From _Weekly Ohio statesman._
 
-#### 1845-07-16 &middot; Columbus, Ohio
+#### 1845-07-16 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -890,7 +890,7 @@ Would not have happened him
 
 #### From _Emancipator and weekly chronicle._
 
-#### 1845-07-23 &middot; Boston [Mass.]
+#### 1845-07-23 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -898,7 +898,7 @@ Would not have happened him
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1845-07-24/ed-1/seq-1)
 
-#### 1845-07-24 &middot; Litchfield, Conn.
+#### 1845-07-24 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -924,7 +924,7 @@ Would not have happened him.
 
 ## [From _Boston Cultivator (1839-1850)_](https://iiif.archivelab.org/iiif/sim_american-cultivator_1845-07-26_7_30?page=3)
 
-#### 1845-07-26 &middot; Boston
+#### 1845-07-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -951,7 +951,7 @@ Would never have happened hi
 
 ## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82014301/1845-07-30/ed-1/seq-1)
 
-#### 1845-07-30 &middot; Indianapolis [Ind.]
+#### 1845-07-30 &middot; [Indianapolis [Ind.]](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -980,7 +980,7 @@ Would nut have happened him
 
 #### From _South Carolina temperance advocate and register of agriculture and general literature._
 
-#### 1845-07-31 &middot; Columbia, S.C.
+#### 1845-07-31 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -988,7 +988,7 @@ Would nut have happened him
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1845-08-07/ed-1/seq-1)
 
-#### 1845-08-07 &middot; Martinsburg, Va. [W. Va.]
+#### 1845-08-07 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1016,7 +1016,7 @@ Would not bare happened him,
 
 ## [From _The Columbia Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025180/1845-08-09/ed-1/seq-2)
 
-#### 1845-08-09 &middot; Bloomsburg, Pa.
+#### 1845-08-09 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1042,7 +1042,7 @@ Would not have happend him
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7?page=7)
 
-#### 1845-08-13 &middot; Boston
+#### 1845-08-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1074,7 +1074,7 @@ Would never have happened him.
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1845-08-15/ed-1/seq-2)
 
-#### 1845-08-15 &middot; Ottawa, Ill.
+#### 1845-08-15 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1103,7 +1103,7 @@ Would not have happened him,
 
 ## [From _Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035101/1845-09-10/ed-1/seq-4)
 
-#### 1845-09-10 &middot; Ravenna, Ohio
+#### 1845-09-10 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1130,7 +1130,7 @@ Would not have happened him
 
 ## [From _Burlington hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn82014327/1845-09-11/ed-1/seq-1)
 
-#### 1845-09-11 &middot; Burlington, Iowa
+#### 1845-09-11 &middot; [Burlington, Iowa](http://dbpedia.org/resource/Burlington%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1162,7 +1162,7 @@ Would not have happened him.
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1845-11-01/ed-1/seq-1)
 
-#### 1845-11-01 &middot; Alexandria, D.C.
+#### 1845-11-01 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1192,7 +1192,7 @@ Would not have happen’d him
 
 ## [From _The North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042147/1845-11-12/ed-1/seq-1)
 
-#### 1845-11-12 &middot; Raleigh, N.C.
+#### 1845-11-12 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1221,7 +1221,7 @@ Would not have happened him
 
 #### From _Liverpool Mercury_
 
-#### 1846-01-09 &middot; Liverpool, England
+#### 1846-01-09 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1229,7 +1229,7 @@ Would not have happened him
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1846-11-07/ed-1/seq-4)
 
-#### 1846-11-07 &middot; Woodsfield, Ohio
+#### 1846-11-07 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1261,7 +1261,7 @@ Had never happened him
 
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
 
-#### 1847-08-07 &middot; Sydney, New South Wales
+#### 1847-08-07 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1287,7 +1287,7 @@ accident, Had not befallen lum !
 
 #### From _Arkansas State Democrat._
 
-#### 1848-05-12 &middot; Little Rock, Ark.
+#### 1848-05-12 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -1295,7 +1295,7 @@ accident, Had not befallen lum !
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn85042796/1849-05-30/ed-1/seq-1)
 
-#### 1849-05-30 &middot; Camden, S.C.
+#### 1849-05-30 &middot; [Camden, S.C.](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1326,7 +1326,7 @@ Would not have huppen&#x27;d him
 
 ## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1849-07-21/ed-1/seq-1)
 
-#### 1849-07-21 &middot; Columbus, Miss.
+#### 1849-07-21 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1356,7 +1356,7 @@ not have happened him
 
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1849-07-21/ed-1/seq-4)
 
-#### 1849-07-21 &middot; Pickens Court House, S.C.
+#### 1849-07-21 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1390,7 +1390,7 @@ Would not hiTe happoued him.
 
 ## [From _The Planters' banner._](https://chroniclingamerica.loc.gov/lccn/sn86053688/1849-11-29/ed-1/seq-4)
 
-#### 1849-11-29 &middot; Franklin, Attakapas Co., Lou.
+#### 1849-11-29 &middot; [Franklin, Attakapas Co., Lou.](http://dbpedia.org/resource/Franklin%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1420,7 +1420,7 @@ Would not have happened him
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1856-12-10/ed-1/seq-4)
 
-#### 1856-12-10 &middot; Lancaster, S.C.
+#### 1856-12-10 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1450,7 +1450,7 @@ Would not have happen&#x27;d him
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1857-02-20/ed-1/seq-1)
 
-#### 1857-02-20 &middot; Clarksburg, Va. [W. Va.]
+#### 1857-02-20 &middot; [Clarksburg, Va. [W. Va.]](http://dbpedia.org/resource/Clarksburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1497,7 +1497,7 @@ Would not befallen him
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1857-12-31/ed-1/seq-1)
 
-#### 1857-12-31 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1857-12-31 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1527,7 +1527,7 @@ WoulJ not have happened b!ni
 
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1858-02-13/ed-1/seq-1)
 
-#### 1858-02-13 &middot; Saint Paul, Minn. Territory
+#### 1858-02-13 &middot; [Saint Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1561,7 +1561,7 @@ Would not have happened him
 
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1865-01-11/ed-1/seq-4)
 
-#### 1865-01-11 &middot; Ebensburg, Pa.
+#### 1865-01-11 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1591,7 +1591,7 @@ Woald not have befalien him.
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1865-09-27/ed-1/seq-1)
 
-#### 1865-09-27 &middot; Urbana, Ohio
+#### 1865-09-27 &middot; [Urbana, Ohio](http://dbpedia.org/resource/Urbana%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1621,7 +1621,7 @@ Would not have happened him
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1865-12-14/ed-1/seq-4)
 
-#### 1865-12-14 &middot; Yorkville, S.C.
+#### 1865-12-14 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1645,7 +1645,7 @@ The other took np paper,and
 
 ## [From _The tri-weekly news._](https://chroniclingamerica.loc.gov/lccn/sn84026922/1866-12-25/ed-1/seq-1)
 
-#### 1866-12-25 &middot; Winnsboro, S.C.
+#### 1866-12-25 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1671,7 +1671,7 @@ Would not have happeued him
 
 #### From _Hull Packet_
 
-#### 1867-04-26 &middot; Hull, England
+#### 1867-04-26 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -1679,7 +1679,7 @@ Would not have happeued him
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1867-05-23_40_21?page=2)
 
-#### 1867-05-23 &middot; Boston
+#### 1867-05-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1703,7 +1703,7 @@ cent that accident would not have happened him
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1867-06-28/ed-1/seq-4)
 
-#### 1867-06-28 &middot; Staunton, Va.
+#### 1867-06-28 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1735,7 +1735,7 @@ Would not have befallen him.
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1867-08-21/ed-1/seq-2)
 
-#### 1867-08-21 &middot; Newberry, S.C.
+#### 1867-08-21 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1758,7 +1758,7 @@ we&#x27;ll bet a cent that accident would no
 
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1867-09-04/ed-1/seq-2)
 
-#### 1867-09-04 &middot; Wheeling, W. Va.
+#### 1867-09-04 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1782,7 +1782,7 @@ would not have happened him.
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1867-09-14/ed-1/seq-1)
 
-#### 1867-09-14 &middot; Weaverville, Calif.
+#### 1867-09-14 &middot; [Weaverville, Calif.](http://dbpedia.org/resource/Weaverville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1804,7 +1804,7 @@ cent that accident would not have happened him
 
 ## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1867-09-18/ed-1/seq-4)
 
-#### 1867-09-18 &middot; Winnsboro, S.C.
+#### 1867-09-18 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1831,7 +1831,7 @@ cent that accident would not hav
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1867-09-21/ed-1/seq-1)
 
-#### 1867-09-21 &middot; Shasta, Calif.
+#### 1867-09-21 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1854,7 +1854,7 @@ dent would not have happened him.—Lyon
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1867-09-27/ed-1/seq-1)
 
-#### 1867-09-27 &middot; Fremont, Sandusky County, Ohio
+#### 1867-09-27 &middot; [Fremont, Sandusky County, Ohio](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1877,7 +1877,7 @@ accident would not have happened him
 
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1867-10-06/ed-1/seq-4)
 
-#### 1867-10-06 &middot; Keokuk, Iowa
+#### 1867-10-06 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1900,7 +1900,7 @@ cent that accident would not have happene
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1867-10-30/ed-1/seq-2)
 
-#### 1867-10-30 &middot; Anderson Court House, S.C.
+#### 1867-10-30 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1921,7 +1921,7 @@ reading of the news like brother Jim, we&#x27;ll bet
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1868-01-01/ed-1/seq-1)
 
-#### 1868-01-01 &middot; Warren, Ohio
+#### 1868-01-01 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1948,7 +1948,7 @@ accident would not have happened him
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1868-12-03/ed-1/seq-2)
 
-#### 1868-12-03 &middot; Westminster, Md.
+#### 1868-12-03 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1995,7 +1995,7 @@ Had not befallen hint
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1870-01-19/ed-1/seq-3)
 
-#### 1870-01-19 &middot; Urbana, Ohio
+#### 1870-01-19 &middot; [Urbana, Ohio](http://dbpedia.org/resource/Urbana%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2028,7 +2028,7 @@ Would not befallen him.
 
 #### From _Sydney Mail (NSW : 1860 - 1871)_
 
-#### 1870-09-10 &middot; Sydney, New South Wales
+#### 1870-09-10 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2054,7 +2054,7 @@ accident Had not befallen him
 
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
 
-#### 1870-10-08 &middot; Gundagai, New South Wales
+#### 1870-10-08 &middot; [Gundagai, New South Wales](http://dbpedia.org/resource/Gundagai)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2080,7 +2080,7 @@ accident Had not befallen him !
 
 #### From _Warwick Examiner and Times (Qld. : 1867 - 1919)_
 
-#### 1870-11-26 &middot; Warwick, Queensland
+#### 1870-11-26 &middot; [Warwick, Queensland](http://dbpedia.org/resource/Warwick%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2104,7 +2104,7 @@ accident Bad not befallen him I
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1871-01-19/ed-1/seq-2)
 
-#### 1871-01-19 &middot; Anderson Court House, S.C.
+#### 1871-01-19 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2129,7 +2129,7 @@ bet a cent this accident had not befallen him
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1871-01-24/ed-1/seq-4)
 
-#### 1871-01-24 &middot; Charlotte, N.C.
+#### 1871-01-24 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2173,7 +2173,7 @@ Had not befallen him
 
 ## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1871-01-27/ed-1/seq-3)
 
-#### 1871-01-27 &middot; Rock Island, Ill.
+#### 1871-01-27 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2243,7 +2243,7 @@ Usd not befallen him
 
 #### From _The Hinds County gazette._
 
-#### 1871-02-22 &middot; Raymond, Miss.
+#### 1871-02-22 &middot; [Raymond, Miss.](http://dbpedia.org/resource/Raymond%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -2251,7 +2251,7 @@ Usd not befallen him
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1871-03-02/ed-1/seq-4)
 
-#### 1871-03-02 &middot; Westminster, Md.
+#### 1871-03-02 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2283,7 +2283,7 @@ Had not befallen him
 
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
 
-#### 1871-03-11 &middot; Sydney, New South Wales
+#### 1871-03-11 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2316,7 +2316,7 @@ Hadnot befallen him ! . :: . . , ;.i -
 
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
 
-#### 1871-04-15 &middot; Launceston, Tasmania
+#### 1871-04-15 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2342,7 +2342,7 @@ accident Had not belallen him I
 
 #### From _The Newcastle Chronicle (NSW : 1866 - 1876)_
 
-#### 1871-07-22 &middot; Newcastle, New South Wales
+#### 1871-07-22 &middot; [Newcastle, New South Wales](http://dbpedia.org/resource/Newcastle%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2368,7 +2368,7 @@ him
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1871-09-15/ed-1/seq-1)
 
-#### 1871-09-15 &middot; Salisbury, Litchfield Co., Conn.
+#### 1871-09-15 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2394,7 +2394,7 @@ Would never have happened him.
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-09-28/ed-1/seq-4)
 
-#### 1871-09-28 &middot; Washington, D.C.
+#### 1871-09-28 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2421,7 +2421,7 @@ Would never have happened him
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1871-10-12_44_41?page=7)
 
-#### 1871-10-12 &middot; Boston
+#### 1871-10-12 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2453,7 +2453,7 @@ Would never have happened him.
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1871-10-14/ed-1/seq-1)
 
-#### 1871-10-14 &middot; Bellevue, Bossier Parish, La.
+#### 1871-10-14 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2482,7 +2482,7 @@ Would never have happened to him.
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1872-02-24/ed-1/seq-2)
 
-#### 1872-02-24 &middot; Frostburg, Md.
+#### 1872-02-24 &middot; [Frostburg, Md.](http://dbpedia.org/resource/Frostburg%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2530,7 +2530,7 @@ Had not 1 efallcn him
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1872-07-27/ed-1/seq-1)
 
-#### 1872-07-27 &middot; Opelousas, La.
+#### 1872-07-27 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2562,7 +2562,7 @@ Had not befallen 1dm
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
-#### 1872-08-17 &middot; Brisbane, Queensland
+#### 1872-08-17 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2588,7 +2588,7 @@ accident Had not beUlloa bim. A QUOD
 
 #### From _Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954)_
 
-#### 1872-08-21 &middot; Echuca, Victoria
+#### 1872-08-21 &middot; [Echuca, Victoria](http://dbpedia.org/resource/Echuca)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2615,7 +2615,7 @@ befallen him
 
 #### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
 
-#### 1872-08-30 &middot; Port Elliot, South Australia
+#### 1872-08-30 &middot; [Port Elliot, South Australia](http://dbpedia.org/resource/Port_Elliot%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2641,7 +2641,7 @@ cent this accident Had net befallen him
 
 #### From _Kapunda Herald and Northern Intelligencer (SA : 1864 - 1878)_
 
-#### 1872-09-03 &middot; Kapunda, South Australia
+#### 1872-09-03 &middot; [Kapunda, South Australia](http://dbpedia.org/resource/Kapunda)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2665,7 +2665,7 @@ accident Had not befallen him
 
 ## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1873-09-03/ed-1/seq-3)
 
-#### 1873-09-03 &middot; Lambertville, N.J.
+#### 1873-09-03 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2694,7 +2694,7 @@ Would never have happened him
 
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
 
-#### 1878-04-16 &middot; Portland, Victoria
+#### 1878-04-16 &middot; [Portland, Victoria](http://dbpedia.org/resource/Portland%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2718,7 +2718,7 @@ Had not befallen him
 
 ## [From _Printers' Circular and Stationers' and Publishers' Gazette 1866-1890_](https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9?page=8)
 
-#### 1878-11-01
+#### 1878-11-01 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2785,7 +2785,7 @@ Had not befallen him.
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1878-12-19/ed-1/seq-4)
 
-#### 1878-12-19 &middot; Jackson C.H., Ohio
+#### 1878-12-19 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2815,7 +2815,7 @@ Had not befallen him.
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1879-01-04/ed-1/seq-3)
 
-#### 1879-01-04 &middot; Westminster, Md.
+#### 1879-01-04 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2842,7 +2842,7 @@ had not befallen him. The moral of this i
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1879-01-10/ed-1/seq-1)
 
-#### 1879-01-10 &middot; Emporia, Kan.
+#### 1879-01-10 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2872,7 +2872,7 @@ Had not befallen him
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1879-01-17/ed-1/seq-4)
 
-#### 1879-01-17 &middot; Romney, Va. [W. Va.]
+#### 1879-01-17 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2902,7 +2902,7 @@ Had not befallen him
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1879-01-27/ed-1/seq-1)
 
-#### 1879-01-27 &middot; Barton, Vt.
+#### 1879-01-27 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2948,7 +2948,7 @@ Had not befallen him
 
 ## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1879-04-03_31_1583?page=7)
 
-#### 1879-04-03 &middot; New York
+#### 1879-04-03 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3004,7 +3004,7 @@ Had not befallen him:
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1879-04-10/ed-1/seq-11)
 
-#### 1879-04-10 &middot; Chicago, Ill.
+#### 1879-04-10 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3056,7 +3056,7 @@ Had out bofullon liitu.
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
-#### 1879-04-12 &middot; Brisbane, Queensland
+#### 1879-04-12 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3080,7 +3080,7 @@ accident Had not befallen him.
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1879-04-26/ed-1/seq-1)
 
-#### 1879-04-26 &middot; Opelousas, La.
+#### 1879-04-26 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3123,7 +3123,7 @@ The other took no papers, and
 
 #### From _The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)_
 
-#### 1879-05-16 &middot; Toowoomba, Queensland
+#### 1879-05-16 &middot; [Toowoomba, Queensland](http://dbpedia.org/resource/Toowoomba)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3149,7 +3149,7 @@ accident had not befallen him. — [Mora
 
 #### From _The Grenfell Record and Lachlan District Advertiser (NSW : 1876 - 1951)_
 
-#### 1879-05-17 &middot; Grenfell, New South Wales
+#### 1879-05-17 &middot; [Grenfell, New South Wales](http://dbpedia.org/resource/Grenfell%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3169,7 +3169,7 @@ accident Had not befallen him. ?
 
 ## [From _The Florida agriculturist._](https://chroniclingamerica.loc.gov/lccn/sn96027724/1879-05-28/ed-1/seq-2)
 
-#### 1879-05-28 &middot; DeLand, Fla.
+#### 1879-05-28 &middot; [DeLand, Fla.](http://dbpedia.org/resource/Jacksonville%2C_Florida)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3201,7 +3201,7 @@ Had not befalleu him. Hoi.mes
 
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
 
-#### 1879-05-30 &middot; Gundagai, New South Wales
+#### 1879-05-30 &middot; [Gundagai, New South Wales](http://dbpedia.org/resource/Gundagai)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3224,7 +3224,7 @@ cent tbia accident Had nnt befallen him.
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-06-19/ed-1/seq-1)
 
-#### 1879-06-19 &middot; Pulaski, Tenn.
+#### 1879-06-19 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3276,7 +3276,7 @@ Had not befallen him
 
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
 
-#### 1893-05-04 &middot; Launceston, Tasmania
+#### 1893-05-04 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3302,7 +3302,7 @@ this aooident Had not befallen him 1 S
 
 #### From _The Galveston daily news._
 
-#### 1893-07-21 &middot; Houston [Tex.]
+#### 1893-07-21 &middot; [Houston [Tex.]](http://dbpedia.org/resource/Houston)
 
 [This text is not available under an open license.]
 
@@ -3312,7 +3312,7 @@ this aooident Had not befallen him 1 S
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1893-09-30 &middot; Sydney, New South Wales
+#### 1893-09-30 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3336,7 +3336,7 @@ befallen him. — Published in the Herald
 
 ## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1894-03-22/ed-1/seq-5)
 
-#### 1894-03-22 &middot; Princeton, Minn.
+#### 1894-03-22 &middot; [Princeton, Minn.](http://dbpedia.org/resource/Princeton%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

@@ -64,7 +64,7 @@ It is safe to say that the darkey corpse of that African will never darken the f
 
 #### From _Daily national intelligencer._
 
-#### 1862-03-21 &middot; Washington City [D.C.]
+#### 1862-03-21 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -72,7 +72,7 @@ It is safe to say that the darkey corpse of that African will never darken the f
 
 ## [From _Cleveland morning leader._](https://chroniclingamerica.loc.gov/lccn/sn83035143/1862-03-22/ed-1/seq-1)
 
-#### 1862-03-22 &middot; Cleveland [Ohio]
+#### 1862-03-22 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -151,7 +151,7 @@ oarnage.
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1862-03-26/ed-1/seq-4)
 
-#### 1862-03-26 &middot; Warren, Ohio
+#### 1862-03-26 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -236,7 +236,7 @@ carnage
 
 ## [From _Daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026845/1862-03-26/ed-1/seq-1)
 
-#### 1862-03-26 &middot; Wheeling, Va. [W. Va.]
+#### 1862-03-26 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -309,7 +309,7 @@ aiqpng de vanities.&quot;
 
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1862-03-28/ed-1/seq-1)
 
-#### 1862-03-28 &middot; Upper Sandusky, Ohio
+#### 1862-03-28 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -394,7 +394,7 @@ field of carnage. J. G
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-03-29/ed-1/seq-1)
 
-#### 1862-03-29 &middot; Elkton, Md.
+#### 1862-03-29 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -468,7 +468,7 @@ among de vanities.
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-03-29/ed-1/seq-1)
 
-#### 1862-03-29 &middot; Elkton, Md.
+#### 1862-03-29 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -485,7 +485,7 @@ carnage
 
 ## [From _Sunday dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026213/1862-03-30/ed-1/seq-6)
 
-#### 1862-03-30 &middot; New York [N.Y.]
+#### 1862-03-30 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -566,7 +566,7 @@ African will never darken the field of carnage
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1862-04-01/ed-1/seq-3)
 
-#### 1862-04-01 &middot; Chicago, Ill.
+#### 1862-04-01 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -657,7 +657,7 @@ nage.
 
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1862-04-03/ed-1/seq-1)
 
-#### 1862-04-03 &middot; Cumberland, Md.
+#### 1862-04-03 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -723,7 +723,7 @@ field of carnage
 
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1862-04-03/ed-1/seq-1)
 
-#### 1862-04-03 &middot; Rutland, Vt.
+#### 1862-04-03 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -810,7 +810,7 @@ field of carnage.
 
 #### From _The Times_
 
-#### 1862-04-05 &middot; London, England
+#### 1862-04-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -818,7 +818,7 @@ field of carnage.
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-04-05_2123?page=7)
 
-#### 1862-04-05 &middot; Philadelphia
+#### 1862-04-05 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -870,7 +870,7 @@ him’ Self preecrbashun am de fust law
 
 #### From _Leeds Mercury_
 
-#### 1862-04-07 &middot; Leeds, England
+#### 1862-04-07 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -880,7 +880,7 @@ him’ Self preecrbashun am de fust law
 
 #### From _Aberdeen Journal_
 
-#### 1862-04-09 &middot; Aberdeen, Scotland
+#### 1862-04-09 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -888,7 +888,7 @@ him’ Self preecrbashun am de fust law
 
 ## [From _The Grand Haven news._](https://chroniclingamerica.loc.gov/lccn/sn85033622/1862-04-09/ed-1/seq-1)
 
-#### 1862-04-09 &middot; Grand Haven, Mich.
+#### 1862-04-09 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -973,7 +973,7 @@ of carnage
 
 ## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1862-04-09/ed-1/seq-2)
 
-#### 1862-04-09 &middot; Prescott, Wis.
+#### 1862-04-09 &middot; [Prescott, Wis.](http://dbpedia.org/resource/Prescott%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1062,7 +1062,7 @@ field of carnage
 
 #### From _Caledonian Mercury_
 
-#### 1862-04-10 &middot; Edinburgh, Scotland
+#### 1862-04-10 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -1072,7 +1072,7 @@ field of carnage
 
 #### From _Liverpool Mercury_
 
-#### 1862-04-10 &middot; Liverpool, England
+#### 1862-04-10 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1080,7 +1080,7 @@ field of carnage
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1862-04-11/ed-1/seq-1)
 
-#### 1862-04-11 &middot; Ellsworth, Me.
+#### 1862-04-11 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1144,7 +1144,7 @@ field of carnage.
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1862-04-11/ed-1/seq-4)
 
-#### 1862-04-11 &middot; Watertown, Wis.
+#### 1862-04-11 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1231,7 +1231,7 @@ of courage
 
 #### From _Jackson's Oxford Journal_
 
-#### 1862-04-12 &middot; Oxford, England
+#### 1862-04-12 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -1239,7 +1239,7 @@ of courage
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1862-04-12/ed-1/seq-1)
 
-#### 1862-04-12 &middot; Ottawa, Ill.
+#### 1862-04-12 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1291,7 +1291,7 @@ um de fust law wid me.
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1862-04-12/ed-1/seq-1)
 
-#### 1862-04-12 &middot; Ottawa, Ill.
+#### 1862-04-12 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1310,7 +1310,7 @@ field of carnage
 
 #### From _Reynolds's  Newspaper_
 
-#### 1862-04-13 &middot; London, England
+#### 1862-04-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1320,7 +1320,7 @@ field of carnage
 
 #### From _Reynolds's  Newspaper_
 
-#### 1862-04-13 &middot; London, England
+#### 1862-04-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1328,7 +1328,7 @@ field of carnage
 
 ## [From _The Goodhue volunteer._](https://chroniclingamerica.loc.gov/lccn/sn89064562/1862-04-16/ed-1/seq-1)
 
-#### 1862-04-16 &middot; Red Wing, Goodhue County, Minn.
+#### 1862-04-16 &middot; [Red Wing, Goodhue County, Minn.](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1413,7 +1413,7 @@ field of carnage.
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1862-04-17/ed-1/seq-4)
 
-#### 1862-04-17 &middot; Gallipolis, Ohio
+#### 1862-04-17 &middot; [Gallipolis, Ohio](http://dbpedia.org/resource/Gallipolis%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1499,7 +1499,7 @@ Il is 8afe to that tfce dustJ corps
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1862-04-19/ed-1/seq-4)
 
-#### 1862-04-19 &middot; Sunbury, Pa.
+#### 1862-04-19 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1583,7 +1583,7 @@ that African will never darken the field of
 
 #### From _Bangor daily Whig & courier._
 
-#### 1862-04-22 &middot; Bangor, Me.
+#### 1862-04-22 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -1591,7 +1591,7 @@ that African will never darken the field of
 
 ## [From _Juliet signal._](https://chroniclingamerica.loc.gov/lccn/sn84024082/1862-04-22/ed-1/seq-1)
 
-#### 1862-04-22 &middot; Juliet [i.e. Joliet], Ill.
+#### 1862-04-22 &middot; [Juliet [i.e. Joliet], Ill.](http://dbpedia.org/resource/Joliet%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1661,7 +1661,7 @@ carnage
 
 ## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1862-04-23/ed-1/seq-1)
 
-#### 1862-04-23 &middot; Mineral Point, Wis.
+#### 1862-04-23 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1740,7 +1740,7 @@ li Id of carnage
 
 #### From _Newark advocate._
 
-#### 1862-04-25 &middot; Newark [Ohio]
+#### 1862-04-25 &middot; [Newark [Ohio]](http://dbpedia.org/resource/Newark%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -1750,7 +1750,7 @@ li Id of carnage
 
 #### From _Newark advocate._
 
-#### 1862-04-25 &middot; Newark [Ohio]
+#### 1862-04-25 &middot; [Newark [Ohio]](http://dbpedia.org/resource/Newark%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -1758,7 +1758,7 @@ li Id of carnage
 
 ## [From _The Cadiz Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84028794/1862-04-30/ed-1/seq-4)
 
-#### 1862-04-30 &middot; Cadiz, Ohio
+#### 1862-04-30 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1837,7 +1837,7 @@ carnage
 
 ## [From _The Union and journal._](https://chroniclingamerica.loc.gov/lccn/sn83009571/1862-05-02/ed-1/seq-1)
 
-#### 1862-05-02 &middot; Biddeford, Me.
+#### 1862-05-02 &middot; [Biddeford, Me.](http://dbpedia.org/resource/Biddeford%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1919,7 +1919,7 @@ carnage.
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1862-05-06/ed-1/seq-4)
 
-#### 1862-05-06 &middot; Hillsdale, Mich.
+#### 1862-05-06 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1966,7 +1966,7 @@ wouici uai
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1862-05-08/ed-1/seq-1)
 
-#### 1862-05-08 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1862-05-08 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2034,7 +2034,7 @@ man wid de brcf out cb him? Self-pres
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1862-05-08/ed-1/seq-1)
 
-#### 1862-05-08 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1862-05-08 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2091,7 +2091,7 @@ field of carnage.
 
 #### From _New Hampshire statesman._
 
-#### 1862-05-17 &middot; Concord [N.H.]
+#### 1862-05-17 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -2101,7 +2101,7 @@ field of carnage.
 
 #### From _New Hampshire statesman._
 
-#### 1862-05-17 &middot; Concord [N.H.]
+#### 1862-05-17 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -2109,7 +2109,7 @@ field of carnage.
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1862-05-17/ed-1/seq-1)
 
-#### 1862-05-17 &middot; Auburn, Placer County, Calif.
+#### 1862-05-17 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2192,7 +2192,7 @@ carnage
 
 ## [From _Worcester daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021205/1862-05-22/ed-1/seq-2)
 
-#### 1862-05-22 &middot; Worcester [Mass.]
+#### 1862-05-22 &middot; [Worcester [Mass.]](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2237,7 +2237,7 @@ rican will never darken the field of carnage.
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1862-05-23/ed-1/seq-1)
 
-#### 1862-05-23 &middot; Bellows Falls, Vt.
+#### 1862-05-23 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2324,7 +2324,7 @@ carnage
 
 ## [From _The weekly mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014489/1862-05-24/ed-1/seq-4)
 
-#### 1862-05-24 &middot; Placerville, El Dorado County, Calif.
+#### 1862-05-24 &middot; [Placerville, El Dorado County, Calif.](http://dbpedia.org/resource/Placerville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2410,7 +2410,7 @@ of that African will never darken the Hel
 
 ## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1862-05-29_14_704?page=5)
 
-#### 1862-05-29 &middot; New York
+#### 1862-05-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2452,7 +2452,7 @@ feshun.” - Se
 
 ## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1862-05-31_14_346-347?page=10)
 
-#### 1862-05-31 &middot; New York, N.Y.
+#### 1862-05-31 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2507,7 +2507,7 @@ him? £el:-preserbeshun :m de fust law wid me.’ 4
 
 ## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6?page=17)
 
-#### 1862-06-01 &middot; Philadelphia
+#### 1862-06-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2548,7 +2548,7 @@ as my memory serves me.
 
 ## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6?page=18)
 
-#### 1862-06-01 &middot; Philadelphia
+#### 1862-06-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2623,7 +2623,7 @@ nage,
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1862-06-14/ed-1/seq-4)
 
-#### 1862-06-14 &middot; Emporia, Kan.
+#### 1862-06-14 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2696,7 +2696,7 @@ among de vanities.
 
 #### From _The South Australian Advertiser (Adelaide, SA : 1858 - 1889)_
 
-#### 1862-06-14 &middot; Adelaide, South Australia
+#### 1862-06-14 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2743,7 +2743,7 @@ nothing to you?&#x27; *N_t_u whatever,
 
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
 
-#### 1862-06-17 &middot; Wollongong, New South Wales
+#### 1862-06-17 &middot; [Wollongong, New South Wales](http://dbpedia.org/resource/Wollongong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2783,7 +2783,7 @@ preserbn.shnm am be fn.it bw wid me.
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1862-06-19/ed-1/seq-1)
 
-#### 1862-06-19 &middot; Smyrna, Del.
+#### 1862-06-19 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2884,7 +2884,7 @@ wid me.&quot;
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1862-06-21 &middot; Adelaide, South Australia
+#### 1862-06-21 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2928,7 +2928,7 @@ prcserhashum am de fust law wid me.
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1862-06-21 &middot; Adelaide, South Australia
+#### 1862-06-21 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2944,7 +2944,7 @@ African ■ will never darken the field o
 
 #### From _The Courier (Brisbane, Qld. : 1861 - 1864)_
 
-#### 1862-06-27 &middot; Brisbane, Queensland
+#### 1862-06-27 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2992,7 +2992,7 @@ field of carnage.&quot; - Mr. Powell,&#x27; one o
 
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn85029094/1862-06-28/ed-1/seq-2)
 
-#### 1862-06-28 &middot; Oskaloosa, Kan.
+#### 1862-06-28 &middot; [Oskaloosa, Kan.](http://dbpedia.org/resource/Oskaloosa%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3044,7 +3044,7 @@ bashun am de firs&#x27;, law wid me.
 
 ## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1862-07-01/ed-1/seq-4)
 
-#### 1862-07-01 &middot; Nevada, Calif.
+#### 1862-07-01 &middot; [Nevada, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3131,7 +3131,7 @@ carnage
 
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
 
-#### 1862-07-01 &middot; Adelaide, South Australia
+#### 1862-07-01 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3175,7 +3175,7 @@ fust law wid me.&#x27; &#x27;Then patriotism au
 
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
 
-#### 1862-07-01 &middot; Adelaide, South Australia
+#### 1862-07-01 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3191,7 +3191,7 @@ darken the field of carnage.
 
 #### From _North Australian and Queensland General Advertiser  (Ipswich, Qld. : 1862 - 1863)_
 
-#### 1862-07-01 &middot; Ipswich, Queensland
+#### 1862-07-01 &middot; [Ipswich, Queensland](http://dbpedia.org/resource/Ipswich%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3230,7 +3230,7 @@ Selfprcserbashum am de lust law wid me.
 
 #### From _Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)_
 
-#### 1862-07-03 &middot; Maryborough, Queensland
+#### 1862-07-03 &middot; [Maryborough, Queensland](http://dbpedia.org/resource/Maryborough%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3280,7 +3280,7 @@ neverdarkenthefield of carnage.&#x27;
 
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
 
-#### 1862-07-04 &middot; Sydney, New South Wales
+#### 1862-07-04 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3341,7 +3341,7 @@ out, by an effort which engaged most o
 
 #### From _Sydney Mail (NSW : 1860 - 1871)_
 
-#### 1862-07-05 &middot; Sydney, New South Wales
+#### 1862-07-05 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3388,7 +3388,7 @@ I regard dem as among de vanitieB.&#x27; I
 
 #### From _Bathurst Free Press and Mining Journal (NSW : 1851 - 1904)_
 
-#### 1862-07-16 &middot; Bathurst, New South Wales
+#### 1862-07-16 &middot; [Bathurst, New South Wales](http://dbpedia.org/resource/Bathurst%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3437,7 +3437,7 @@ darken the field of carnage.&#x27; A Ne
 
 #### From _The Inquirer and Commercial News (Perth, WA : 1855 - 1901)_
 
-#### 1862-07-16 &middot; Perth, Western Australia
+#### 1862-07-16 &middot; [Perth, Western Australia](http://dbpedia.org/resource/Perth)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3484,7 +3484,7 @@ I regard dem as among the vanities.&#x27; I
 
 #### From _Clarence and Richmond Examiner and New England Advertiser (Grafton, NSW : 1859 - 1889)_
 
-#### 1862-08-05 &middot; Grafton, New South Wales
+#### 1862-08-05 &middot; [Grafton, New South Wales](http://dbpedia.org/resource/Grafton%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3530,7 +3530,7 @@ him ?&quot;&#x27; &#x27;&#x27;^Se^preserbashunam defustlaw
 
 #### From _The Age (Melbourne, Vic. : 1854 - 1954)_
 
-#### 1862-08-15 &middot; Melbourne, Victoria
+#### 1862-08-15 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3578,7 +3578,7 @@ of carnage.&#x27;  Equalization of the Sugar
 
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1862-08-23/ed-1/seq-4)
 
-#### 1862-08-23 &middot; Honolulu [Oahu], Hawaii
+#### 1862-08-23 &middot; [Honolulu [Oahu], Hawaii](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3650,7 +3650,7 @@ African will never darken the field of carnage
 
 ## [From _The daily register._](https://chroniclingamerica.loc.gov/lccn/sn86092517/1863-11-07/ed-1/seq-1)
 
-#### 1863-11-07 &middot; Wheeling, W. Va.
+#### 1863-11-07 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3739,7 +3739,7 @@ carnage.
 
 ## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7w3r0psv6k?page=3)
 
-#### 1863-11-20 &middot; Louisville, Kentucky.
+#### 1863-11-20 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3766,7 +3766,7 @@ that African will never darken the field of car- the advice of the papers to liv
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-11-21/ed-1/seq-3)
 
-#### 1863-11-21 &middot; Chicago, Ill.
+#### 1863-11-21 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3792,7 +3792,7 @@ an vein that 1 will give his
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-11-21/ed-1/seq-3)
 
-#### 1863-11-21 &middot; Chicago, Ill.
+#### 1863-11-21 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3862,7 +3862,7 @@ carnage.
 
 ## [From _Holmes County farmer._](https://chroniclingamerica.loc.gov/lccn/sn84028822/1863-11-26/ed-1/seq-4)
 
-#### 1863-11-26 &middot; Millersburg, Ohio
+#### 1863-11-26 &middot; [Millersburg, Ohio](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3909,7 +3909,7 @@ to mo.
 
 ## [From _Juliet signal._](https://chroniclingamerica.loc.gov/lccn/sn84024082/1863-12-01/ed-1/seq-1)
 
-#### 1863-12-01 &middot; Juliet [i.e. Joliet], Ill.
+#### 1863-12-01 &middot; [Juliet [i.e. Joliet], Ill.](http://dbpedia.org/resource/Joliet%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3979,7 +3979,7 @@ It is safe to sav that tha ttn.L.
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1863-12-03/ed-1/seq-1)
 
-#### 1863-12-03 &middot; White Cloud, Kan.
+#### 1863-12-03 &middot; [White Cloud, Kan.](http://dbpedia.org/resource/White_Cloud%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4084,7 +4084,7 @@ field of carnage
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1863-12-09/ed-1/seq-1)
 
-#### 1863-12-09 &middot; Woodsfield, Ohio
+#### 1863-12-09 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4178,7 +4178,7 @@ field of carnage
 
 ## [From _Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn86059181/1863-12-24/ed-1/seq-4)
 
-#### 1863-12-24 &middot; Evansville, Ind.
+#### 1863-12-24 &middot; [Evansville, Ind.](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4235,7 +4235,7 @@ the field of carnage
 
 ## [From _Littell's Living Age (1844-1896)_](https://iiif.archivelab.org/iiif/sim_living-age_1863-12-26_79_1021?page=26)
 
-#### 1863-12-26 &middot; Boston
+#### 1863-12-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4337,7 +4337,7 @@ African will never darken the field of carnage.
 
 ## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1864-01-15/ed-1/seq-1)
 
-#### 1864-01-15 &middot; New Oregon, Iowa
+#### 1864-01-15 &middot; [New Oregon, Iowa](http://dbpedia.org/resource/New_Oregon_Township%2C_Howard_County%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4457,7 +4457,7 @@ field of «onwge.
 
 #### From _The Wisconsin state register._
 
-#### 1864-01-16 &middot; Portage, Columbia County, Wis.
+#### 1864-01-16 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
 
 [This text is not available under an open license.]
 
@@ -4465,7 +4465,7 @@ field of «onwge.
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1864-01-20/ed-1/seq-2)
 
-#### 1864-01-20 &middot; Clearfield, Pa.
+#### 1864-01-20 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4490,7 +4490,7 @@ I. mi, ih , Xnvcui&#x27;uer, for lb, mm of four.
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1864-01-29/ed-1/seq-1)
 
-#### 1864-01-29 &middot; Staunton, Va.
+#### 1864-01-29 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4554,7 +4554,7 @@ I 4 Repre-etitatives, the President has trans
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1864-02-05/ed-1/seq-1)
 
-#### 1864-02-05 &middot; Richmond [Va.]
+#### 1864-02-05 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4602,7 +4602,7 @@ replace .!&lt;■ loss to me.
 
 ## [From _The weekly intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn91068137/1864-02-10/ed-1/seq-1)
 
-#### 1864-02-10 &middot; Fayetteville, N.C.
+#### 1864-02-10 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4635,7 +4635,7 @@ Its worth more to me,&quot; : a.
 
 ## [From _The weekly intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn91068137/1864-02-10/ed-1/seq-1)
 
-#### 1864-02-10 &middot; Fayetteville, N.C.
+#### 1864-02-10 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4667,7 +4667,7 @@ no guhberment could replace dc loss tome.
 
 ## [From _The Abingdon Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84025980/1864-02-19/ed-1/seq-4)
 
-#### 1864-02-19 &middot; Abingdon [Va.]
+#### 1864-02-19 &middot; [Abingdon [Va.]](http://dbpedia.org/resource/Abingdon%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4721,7 +4721,7 @@ but I&#x27;d a .missed myself, sa, awl data de pin
 
 ## [From _Boise news._](https://chroniclingamerica.loc.gov/lccn/sn89055016/1864-03-05/ed-1/seq-3)
 
-#### 1864-03-05 &middot; Bannock City, I.T. [Idaho City, Idaho]
+#### 1864-03-05 &middot; [Bannock City, I.T. [Idaho City, Idaho]](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4803,7 +4803,7 @@ carnage
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1864-05-04/ed-1/seq-1)
 
-#### 1864-05-04 &middot; Yorkville, S.C.
+#### 1864-05-04 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4873,7 +4873,7 @@ data de pint wid me.&quot; 4
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1864-11-24/ed-1/seq-4)
 
-#### 1864-11-24 &middot; Litchfield, Conn.
+#### 1864-11-24 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4948,7 +4948,7 @@ Amcau will never darken the field ot carnage.
 
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1865-02-17/ed-1/seq-2)
 
-#### 1865-02-17 &middot; Raleigh, N.C.
+#### 1865-02-17 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5017,7 +5017,7 @@ How a Mak vebls With his Hkao orv. It i
 
 ## [From _Weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045706/1865-02-22/ed-1/seq-4)
 
-#### 1865-02-22 &middot; Raleigh, N.C.
+#### 1865-02-22 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5094,7 +5094,7 @@ dats depint with me.
 
 ## [From _Daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026845/1865-03-17/ed-1/seq-4)
 
-#### 1865-03-17 &middot; Wheeling, Va. [W. Va.]
+#### 1865-03-17 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5177,7 +5177,7 @@ carnage
 
 ## [From _Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn86059181/1865-04-01/ed-1/seq-4)
 
-#### 1865-04-01 &middot; Evansville, Ind.
+#### 1865-04-01 &middot; [Evansville, Ind.](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5215,7 +5215,7 @@ of carnage
 
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn86053370/1865-04-05/ed-1/seq-1)
 
-#### 1865-04-05 &middot; Butler, Butler County, Pa.
+#### 1865-04-05 &middot; [Butler, Butler County, Pa.](http://dbpedia.org/resource/Butler%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5300,7 +5300,7 @@ field of carnage.
 
 ## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1865-04-05_36_14?page=0)
 
-#### 1865-04-05 &middot; Boston
+#### 1865-04-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5396,7 +5396,7 @@ can will never darken the field of carnage.
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1865-04-20/ed-1/seq-1)
 
-#### 1865-04-20 &middot; Smyrna, Del.
+#### 1865-04-20 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5444,7 +5444,7 @@ try. &quot;
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1865-04-20/ed-1/seq-1)
 
-#### 1865-04-20 &middot; Smyrna, Del.
+#### 1865-04-20 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5483,7 +5483,7 @@ j that African will never dark et ti
 
 ## [From _The Burlington weekly hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn84027060/1865-06-03/ed-1/seq-1)
 
-#### 1865-06-03 &middot; Burlington [Iowa]
+#### 1865-06-03 &middot; [Burlington [Iowa]](http://dbpedia.org/resource/Burlington%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5587,7 +5587,7 @@ carnage.
 
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1865-06-13/ed-1/seq-1)
 
-#### 1865-06-13 &middot; Manchester, Vt.
+#### 1865-06-13 &middot; [Manchester, Vt.](http://dbpedia.org/resource/Bennington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5674,7 +5674,7 @@ en the field uf carnag
 
 ## [From _The United States Service Magazine (1864-1866)_](https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4?page=49)
 
-#### 1865-10-01 &middot; New York
+#### 1865-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5735,7 +5735,7 @@ for your country.’
 
 ## [From _The United States Service Magazine (1864-1866)_](https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4?page=50)
 
-#### 1865-10-01 &middot; New York
+#### 1865-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5769,7 +5769,7 @@ dead nigga—but I’d a missed myself, and dat was de pint wid me.’”
 
 ## [From _The Monmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032307/1865-10-12/ed-1/seq-1)
 
-#### 1865-10-12 &middot; Freehold, N.J.
+#### 1865-10-12 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5812,7 +5812,7 @@ among do vanities.
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-10-13/ed-1/seq-1)
 
-#### 1865-10-13 &middot; Portland, Me.
+#### 1865-10-13 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5855,7 +5855,7 @@ among de vanities.
 
 ## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1866-02-10/ed-1/seq-1)
 
-#### 1866-02-10 &middot; Van Buren, Ark.
+#### 1866-02-10 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5942,7 +5942,7 @@ field of carnage.— Correspondence Cincin
 
 ## [From _The Orangeburg news._](https://chroniclingamerica.loc.gov/lccn/sn84026920/1868-01-18/ed-1/seq-1)
 
-#### 1868-01-18 &middot; Orangeburg, S.C.
+#### 1868-01-18 &middot; [Orangeburg, S.C.](http://dbpedia.org/resource/Orangeburg%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5987,7 +5987,7 @@ African will never darkenthe ^$elotajf^ra
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1868-01-30/ed-1/seq-4)
 
-#### 1868-01-30 &middot; Yorkville, S.C.
+#### 1868-01-30 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6057,7 +6057,7 @@ carnage.?The Gray Jackets
 
 ## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1868-02-23/ed-1/seq-4)
 
-#### 1868-02-23 &middot; Nashville, Tenn.
+#### 1868-02-23 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6101,7 +6101,7 @@ market.&quot; -
 
 ## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1868-02-23/ed-1/seq-4)
 
-#### 1868-02-23 &middot; Nashville, Tenn.
+#### 1868-02-23 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6127,7 +6127,7 @@ carnage. 1 e (irtq Jaelets
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1868-02-29/ed-1/seq-1)
 
-#### 1868-02-29 &middot; Bolivar, Hardeman County, Tenn.
+#### 1868-02-29 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6199,7 +6199,7 @@ carnage. The-Gref Jackets
 
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1868-05-21/ed-1/seq-1)
 
-#### 1868-05-21 &middot; Upper Sandusky, Ohio
+#### 1868-05-21 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6295,7 +6295,7 @@ darken the field of carnage
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-06-27/ed-1/seq-1)
 
-#### 1868-06-27 &middot; Shepherdstown, Va. [W. Va.]
+#### 1868-06-27 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6366,7 +6366,7 @@ of carnage
 
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1868-07-01/ed-1/seq-3)
 
-#### 1868-07-01 &middot; Alexandria, La.
+#### 1868-07-01 &middot; [Alexandria, La.](http://dbpedia.org/resource/Alexandria%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6435,7 +6435,7 @@ carnage
 
 ## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt734t6f2c27?page=3)
 
-#### 1869-03-11 &middot; Mount Sterling, Ky.
+#### 1869-03-11 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6465,7 +6465,7 @@ knocked out uv him? Self-presscrwasliun
 
 ## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt734t6f2c27?page=3)
 
-#### 1869-03-11 &middot; Mount Sterling, Ky.
+#### 1869-03-11 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6526,7 +6526,7 @@ of that negro will never daiken the field ol
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1870-06-25_14_704?page=8)
 
-#### 1870-06-25 &middot; New York
+#### 1870-06-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6550,7 +6550,7 @@ than other people&#x27;s?” “It’s worth more to me, sah.&quot;
 
 ## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1870-07-28/ed-1/seq-3)
 
-#### 1870-07-28 &middot; Prescott, Wis.
+#### 1870-07-28 &middot; [Prescott, Wis.](http://dbpedia.org/resource/Prescott%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6582,7 +6582,7 @@ A Chinese maxim says: “We re
 
 ## [From _New national era._](https://iiif.archivelab.org/iiif/sim_new-national-era_1870-07-28_1_29?page=3)
 
-#### 1870-07-28 &middot; Washington, D.C.
+#### 1870-07-28 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6609,7 +6609,7 @@ ple’s?’’ **1t’s worth more to me, sah.”
 
 #### From _The Wisconsin state register._
 
-#### 1870-11-19 &middot; Portage, Columbia County, Wis.
+#### 1870-11-19 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
 
 [This text is not available under an open license.]
 
@@ -6617,7 +6617,7 @@ ple’s?’’ **1t’s worth more to me, sah.”
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1871-06-15/ed-1/seq-1)
 
-#### 1871-06-15 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1871-06-15 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6648,7 +6648,7 @@ more than other people&#x27;s ?&quot;
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1871-07-11/ed-1/seq-1)
 
-#### 1871-07-11 &middot; Woodsfield, Ohio
+#### 1871-07-11 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6681,7 +6681,7 @@ more than other people&#x27;s ?&quot;
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1871-10-14/ed-1/seq-1)
 
-#### 1871-10-14 &middot; Auburn, Placer County, Calif.
+#### 1871-10-14 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6713,7 +6713,7 @@ than other people’s?”
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1872-01-09/ed-1/seq-3)
 
-#### 1872-01-09 &middot; New Bloomfield, Pa.
+#### 1872-01-09 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6785,7 +6785,7 @@ de pint wid me.&quot;
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1872-06-09/ed-1/seq-3)
 
-#### 1872-06-09 &middot; New York [N.Y.]
+#### 1872-06-09 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6873,7 +6873,7 @@ carnage. . ...
 
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-06-20/ed-1/seq-1)
 
-#### 1872-06-20 &middot; Jonesborough, Tenn.
+#### 1872-06-20 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6990,7 +6990,7 @@ field of carungc
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1872-06-25/ed-1/seq-1)
 
-#### 1872-06-25 &middot; Tionesta, Pa.
+#### 1872-06-25 &middot; [Tionesta, Pa.](http://dbpedia.org/resource/Tionesta%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7104,7 +7104,7 @@ darken the field of carnage
 
 ## [From _Whig and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033435/1872-07-06/ed-1/seq-1)
 
-#### 1872-07-06 &middot; Jackson, Tenn.
+#### 1872-07-06 &middot; [Jackson, Tenn.](http://dbpedia.org/resource/Jackson%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7220,7 +7220,7 @@ darken the field of carnage
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1872-07-20/ed-1/seq-2)
 
-#### 1872-07-20 &middot; Shasta, Calif.
+#### 1872-07-20 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7310,7 +7310,7 @@ carnage.
 
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1872-07-27/ed-1/seq-1)
 
-#### 1872-07-27 &middot; Prescott, Ariz.
+#### 1872-07-27 &middot; [Prescott, Ariz.](http://dbpedia.org/resource/Prescott%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7398,7 +7398,7 @@ carnage
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1872-08-01/ed-1/seq-4)
 
-#### 1872-08-01 &middot; Yorkville, S.C.
+#### 1872-08-01 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7480,7 +7480,7 @@ wid me.
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1872-08-02/ed-1/seq-4)
 
-#### 1872-08-02 &middot; Brattleboro, Vt.
+#### 1872-08-02 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7569,7 +7569,7 @@ carnage
 
 #### From _Hampshire/Portsmouth Telegraph_
 
-#### 1872-08-03 &middot; Portsmouth, England
+#### 1872-08-03 &middot; [Portsmouth, England](http://dbpedia.org/resource/Portsmouth)
 
 [This text is not available under an open license.]
 
@@ -7577,7 +7577,7 @@ carnage
 
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1872-08-05/ed-1/seq-5)
 
-#### 1872-08-05 &middot; Chicago, Ill.
+#### 1872-08-05 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7666,7 +7666,7 @@ age*
 
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1872-08-15/ed-1/seq-4)
 
-#### 1872-08-15 &middot; Idaho City, Idaho Territory
+#### 1872-08-15 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7718,7 +7718,7 @@ _ üllr reputat j&#x27; n »
 
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1872-08-15/ed-1/seq-4)
 
-#### 1872-08-15 &middot; Idaho City, Idaho Territory
+#### 1872-08-15 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7763,7 +7763,7 @@ for it. I wouldn&#x27;t put inv life inde
 
 ## [From _Bozeman avant courier._](https://chroniclingamerica.loc.gov/lccn/sn84038123/1872-08-29/ed-1/seq-4)
 
-#### 1872-08-29 &middot; Bozeman, Mont.
+#### 1872-08-29 &middot; [Bozeman, Mont.](http://dbpedia.org/resource/Bozeman%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7851,7 +7851,7 @@ carnage
 
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1872-08-30/ed-1/seq-1)
 
-#### 1872-08-30 &middot; Albany, Linn County, Oregon
+#### 1872-08-30 &middot; [Albany, Linn County, Oregon](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7949,7 +7949,7 @@ field of carnage.
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
-#### 1872-10-21 &middot; Brisbane, Queensland
+#### 1872-10-21 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7993,7 +7993,7 @@ and dat was de pint wid me.
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1872-11-06 &middot; Melbourne, Victoria
+#### 1872-11-06 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8036,7 +8036,7 @@ me.&quot;
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1872-11-26/ed-1/seq-1)
 
-#### 1872-11-26 &middot; Lancaster, Wis.
+#### 1872-11-26 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8134,7 +8134,7 @@ the field of carnage.
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
-#### 1872-12-20 &middot; Clare, South Australia
+#### 1872-12-20 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8152,7 +8152,7 @@ profound meditation, iindin&quot;-. upo
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1872-12-30/ed-1/seq-1)
 
-#### 1872-12-30 &middot; Barton, Vt.
+#### 1872-12-30 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8263,7 +8263,7 @@ field of carnage
 
 #### From _Bristol Mercury_
 
-#### 1873-02-22 &middot; Bristol, England
+#### 1873-02-22 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -8273,7 +8273,7 @@ field of carnage
 
 #### From _Bristol Mercury_
 
-#### 1873-02-22 &middot; Bristol, England
+#### 1873-02-22 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -8283,7 +8283,7 @@ field of carnage
 
 #### From _Newcastle Courant_
 
-#### 1873-03-21 &middot; Newcastle-upon-Tyne, England
+#### 1873-03-21 &middot; [Newcastle-upon-Tyne, England](http://dbpedia.org/resource/Newcastle_upon_Tyne)
 
 [This text is not available under an open license.]
 
@@ -8291,7 +8291,7 @@ field of carnage
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1873-04-04/ed-1/seq-1)
 
-#### 1873-04-04 &middot; Bel Air, Md.
+#### 1873-04-04 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8361,7 +8361,7 @@ among the varieties
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-04-05/ed-1/seq-1)
 
-#### 1873-04-05 &middot; Westminster, Md.
+#### 1873-04-05 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8451,7 +8451,7 @@ carnage.— Chicago Tribune
 
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
 
-#### 1873-05-03 &middot; Maitland, New South Wales
+#### 1873-05-03 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8495,7 +8495,7 @@ wid me.&quot;
 
 #### From _South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)_
 
-#### 1873-06-07 &middot; Adelaide, South Australia
+#### 1873-06-07 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8538,7 +8538,7 @@ Caution.— One day at Blair Athol th
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1873-07-17/ed-1/seq-1)
 
-#### 1873-07-17 &middot; Ravenna, O. [Ohio]
+#### 1873-07-17 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8657,7 +8657,7 @@ dat was de pint wid me!’ Mr Planché’s Iris
 
 #### From _Milwaukee daily sentinel._
 
-#### 1873-12-05 &middot; Milwaukee, Wis.
+#### 1873-12-05 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -8665,7 +8665,7 @@ dat was de pint wid me!’ Mr Planché’s Iris
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1873-12-10/ed-1/seq-8)
 
-#### 1873-12-10 &middot; Knoxville, Tenn.
+#### 1873-12-10 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8688,7 +8688,7 @@ ed myself, and dat was dc pint wid mo !&quot; Mr
 
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1873-12-11/ed-1/seq-4)
 
-#### 1873-12-11 &middot; Tipton, Cedar Co., Iowa
+#### 1873-12-11 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8717,7 +8717,7 @@ self, aad dat was de pint wid me.
 
 ## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1874-03-11/ed-1/seq-1)
 
-#### 1874-03-11 &middot; Lambertville, N.J.
+#### 1874-03-11 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8804,7 +8804,7 @@ carnage.*
 
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1875-02-05/ed-1/seq-3)
 
-#### 1875-02-05 &middot; Wheeling, W. Va.
+#### 1875-02-05 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8896,7 +8896,7 @@ tield ut carnage.? Cincinnati (inzcttr
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1875-02-07/ed-1/seq-6)
 
-#### 1875-02-07 &middot; New York [N.Y.]
+#### 1875-02-07 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8977,7 +8977,7 @@ African will never darken the field of carnage
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-02-13/ed-1/seq-1)
 
-#### 1875-02-13 &middot; Shepherdstown, Va. [W. Va.]
+#### 1875-02-13 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9068,7 +9068,7 @@ field of carnage. ? Cincinnati Guzcltt
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1875-03-27_43_17?page=3)
 
-#### 1875-03-27 &middot; Augusta, Maine
+#### 1875-03-27 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9129,7 +9129,7 @@ et.”
 
 ## [From _Huntington advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026801/1875-04-15/ed-1/seq-4)
 
-#### 1875-04-15 &middot; Huntington, W. Va.
+#### 1875-04-15 &middot; [Huntington, W. Va.](http://dbpedia.org/resource/Huntington%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9224,7 +9224,7 @@ held ot carnage
 
 ## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1875-05-05/ed-1/seq-1)
 
-#### 1875-05-05 &middot; Lambertville, N.J.
+#### 1875-05-05 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9306,7 +9306,7 @@ wid me.&quot; !
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1875-05-20_48_20?page=5)
 
-#### 1875-05-20 &middot; Boston
+#### 1875-05-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9400,7 +9400,7 @@ will never darken the field of carnage.
 
 #### From _Advocate of Peace (1847-1906)_
 
-#### 1875-06-01 &middot; Washington
+#### 1875-06-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -9408,7 +9408,7 @@ will never darken the field of carnage.
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1875-06-01/ed-1/seq-1)
 
-#### 1875-06-01 &middot; Woodsfield, Ohio
+#### 1875-06-01 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9484,7 +9484,7 @@ of carnage.
 
 #### From _Daily evening bulletin._
 
-#### 1875-06-05 &middot; San Francisco [Calif.]
+#### 1875-06-05 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -9492,7 +9492,7 @@ of carnage.
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1875-06-10/ed-1/seq-6)
 
-#### 1875-06-10 &middot; Kenosha, Wis.
+#### 1875-06-10 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9564,7 +9564,7 @@ of carnage.
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1875-06-11/ed-1/seq-2)
 
-#### 1875-06-11 &middot; Paw Paw, Mich.
+#### 1875-06-11 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9637,7 +9637,7 @@ of carnage
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1875-06-19/ed-1/seq-7)
 
-#### 1875-06-19 &middot; Ottawa, Ill.
+#### 1875-06-19 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9702,7 +9702,7 @@ a aire
 
 ## [From _The Morristown gazette._](https://chroniclingamerica.loc.gov/lccn/sn85033681/1875-06-23/ed-1/seq-1)
 
-#### 1875-06-23 &middot; Morristown, Tenn.
+#### 1875-06-23 &middot; [Morristown, Tenn.](http://dbpedia.org/resource/Morristown%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9778,7 +9778,7 @@ field of carnage
 
 ## [From _Fair play._](https://chroniclingamerica.loc.gov/lccn/sn87052181/1875-06-24/ed-1/seq-6)
 
-#### 1875-06-24 &middot; Ste. Genevieve [Mo.]
+#### 1875-06-24 &middot; [Ste. Genevieve [Mo.]](http://dbpedia.org/resource/Ste._Genevieve%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9865,7 +9865,7 @@ dat was de pint wid me.&quot;
 
 ## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1875-06-25/ed-1/seq-4)
 
-#### 1875-06-25 &middot; Rockville, Md.
+#### 1875-06-25 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9950,7 +9950,7 @@ aud dat was de pint wid me.
 
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1875-06-25/ed-1/seq-6)
 
-#### 1875-06-25 &middot; Savannah, Mo.
+#### 1875-06-25 &middot; [Savannah, Mo.](http://dbpedia.org/resource/Savannah%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10043,7 +10043,7 @@ an
 
 #### From _Milwaukee daily sentinel._
 
-#### 1875-07-01 &middot; Milwaukee, Wis.
+#### 1875-07-01 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -10051,7 +10051,7 @@ an
 
 ## [From _The star of Pascagoula._](https://chroniclingamerica.loc.gov/lccn/sn85034469/1875-07-03/ed-1/seq-1)
 
-#### 1875-07-03 &middot; Pascagoula, Miss.
+#### 1875-07-03 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10124,7 +10124,7 @@ and dat was da pint wid me.
 
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1875-07-08/ed-1/seq-1)
 
-#### 1875-07-08 &middot; Manitowoc, Wis.
+#### 1875-07-08 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10214,7 +10214,7 @@ has deposited in the State Library o
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1875-07-15/ed-1/seq-4)
 
-#### 1875-07-15 &middot; Ravenna, O. [Ohio]
+#### 1875-07-15 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10246,7 +10246,7 @@ place, when I questioned further. Hi
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1875-07-15/ed-1/seq-4)
 
-#### 1875-07-15 &middot; Ravenna, O. [Ohio]
+#### 1875-07-15 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10293,7 +10293,7 @@ TBI ICEBKBGS L9f TUE SOUTH
 
 #### From _Inter ocean._
 
-#### 1875-07-23 &middot; Chicago, Ill.
+#### 1875-07-23 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -10301,7 +10301,7 @@ TBI ICEBKBGS L9f TUE SOUTH
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1875-08-26/ed-1/seq-1)
 
-#### 1875-08-26 &middot; Helena, Mont.
+#### 1875-08-26 &middot; [Helena, Mont.](http://dbpedia.org/resource/Helena%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10386,7 +10386,7 @@ the TVbr
 
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1875-09-03/ed-1/seq-4)
 
-#### 1875-09-03 &middot; Bloomsburg, Pa.
+#### 1875-09-03 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10468,7 +10468,7 @@ wld mo.&quot;
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1876-12-24/ed-1/seq-3)
 
-#### 1876-12-24 &middot; New Orleans [La.]
+#### 1876-12-24 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10542,7 +10542,7 @@ ed myself, and dat was de nint wid me &quot; M
 
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
 
-#### 1876-12-26 &middot; Portland, Victoria
+#### 1876-12-26 &middot; [Portland, Victoria](http://dbpedia.org/resource/Portland%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10596,7 +10596,7 @@ aoetifl&#x27;rent valte upou deselves ; liy
 
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
-#### 1877-02-17 &middot; Melbourne, Victoria
+#### 1877-02-17 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10669,7 +10669,7 @@ and dat was the pint wid me.&quot;
 
 #### From _Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954)_
 
-#### 1877-04-03 &middot; Echuca, Victoria
+#### 1877-04-03 &middot; [Echuca, Victoria](http://dbpedia.org/resource/Echuca)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10744,7 +10744,7 @@ myself, and dat was de piutwid me.&#x27;
 
 #### From _Advocate (Melbourne, Vic. : 1868 - 1954)_
 
-#### 1877-05-05 &middot; Melbourne, Victoria
+#### 1877-05-05 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10818,7 +10818,7 @@ wab de pint wid me.
 
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1878-06-20/ed-1/seq-1)
 
-#### 1878-06-20 &middot; Newtown, Conn.
+#### 1878-06-20 &middot; [Newtown, Conn.](http://dbpedia.org/resource/Newtown%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10892,7 +10892,7 @@ mo wlimi tlu powr of fiMIIit ww
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1878-07-24 &middot; Exeter, England
+#### 1878-07-24 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -10900,7 +10900,7 @@ mo wlimi tlu powr of fiMIIit ww
 
 ## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1879-02-06_56_6?page=0)
 
-#### 1879-02-06 &middot; Boston
+#### 1879-02-06 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10954,7 +10954,7 @@ I regard
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1879-03-26/ed-1/seq-4)
 
-#### 1879-03-26 &middot; Point Pleasant, Va. [W. Va.]
+#### 1879-03-26 &middot; [Point Pleasant, Va. [W. Va.]](http://dbpedia.org/resource/Point_Pleasant%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10985,7 +10985,7 @@ more than other people&#x27;s?&quot;
 
 ## [From _The Hickman courier._](https://chroniclingamerica.loc.gov/lccn/sn85052141/1879-07-11/ed-1/seq-1)
 
-#### 1879-07-11 &middot; Hickman, Ky.
+#### 1879-07-11 &middot; [Hickman, Ky.](http://dbpedia.org/resource/Hickman%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11008,7 +11008,7 @@ aoce indicated fmi iaruy with c
 
 ## [From _The Hickman courier._](https://chroniclingamerica.loc.gov/lccn/sn85052141/1879-07-11/ed-1/seq-1)
 
-#### 1879-07-11 &middot; Hickman, Ky.
+#### 1879-07-11 &middot; [Hickman, Ky.](http://dbpedia.org/resource/Hickman%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11044,7 +11044,7 @@ and dat was do piut wid roe.&quot; F
 
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1879-07-18/ed-1/seq-4)
 
-#### 1879-07-18 &middot; Stanford, Ky.
+#### 1879-07-18 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11143,7 +11143,7 @@ myself, nnd dat was de pint wid me.
 
 ## [From _The Hickman courier._](https://chroniclingamerica.loc.gov/lccn/sn85052141/1880-06-04/ed-1/seq-1)
 
-#### 1880-06-04 &middot; Hickman, Ky.
+#### 1880-06-04 &middot; [Hickman, Ky.](http://dbpedia.org/resource/Hickman%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11189,7 +11189,7 @@ of that African will never darken
 
 ## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn84022149/1880-11-14/ed-1/seq-2)
 
-#### 1880-11-14 &middot; Cheyenne, Wyo.
+#### 1880-11-14 &middot; [Cheyenne, Wyo.](http://dbpedia.org/resource/Cheyenne%2C_Wyoming)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11224,7 +11224,7 @@ guberument would be safe null if all d
 
 #### From _Daily evening bulletin._
 
-#### 1880-11-29 &middot; San Francisco [Calif.]
+#### 1880-11-29 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -11234,7 +11234,7 @@ guberument would be safe null if all d
 
 #### From _Aberdeen Journal_
 
-#### 1880-12-04 &middot; Aberdeen, Scotland
+#### 1880-12-04 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -11242,7 +11242,7 @@ guberument would be safe null if all d
 
 ## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1880-12-11/ed-1/seq-3)
 
-#### 1880-12-11 &middot; Wheeling, W. Va.
+#### 1880-12-11 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11280,7 +11280,7 @@ dtin.&quot;
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1881-01-07/ed-1/seq-3)
 
-#### 1881-01-07 &middot; Paw Paw, Mich.
+#### 1881-01-07 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11302,7 +11302,7 @@ ism and honor aro nothing to vou, Sam.&quot;
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1881-01-14/ed-1/seq-1)
 
-#### 1881-01-14 &middot; Kenosha, Wis.
+#### 1881-01-14 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11334,7 +11334,7 @@ Gubernment would be safe ’null if ail fin
 
 ## [From _Daily globe._](https://chroniclingamerica.loc.gov/lccn/sn83025287/1881-01-23/ed-1/seq-5)
 
-#### 1881-01-23 &middot; St. Paul, Minn.
+#### 1881-01-23 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11366,7 +11366,7 @@ soldiers were like me, cos den der
 
 ## [From _The Iowa plain dealer._](https://chroniclingamerica.loc.gov/lccn/sn83025167/1881-04-28/ed-1/seq-5)
 
-#### 1881-04-28 &middot; New Oregon, Howard County, Iowa
+#### 1881-04-28 &middot; [New Oregon, Howard County, Iowa](http://dbpedia.org/resource/Cresco%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11399,7 +11399,7 @@ and dat was de p&#x27;int wid m
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1881-04-29/ed-1/seq-6)
 
-#### 1881-04-29 &middot; Paw Paw, Mich.
+#### 1881-04-29 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11430,7 +11430,7 @@ aud dat was do p&#x27;int wid mo I
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1881-05-06/ed-1/seq-4)
 
-#### 1881-05-06 &middot; Kenosha, Wis.
+#### 1881-05-06 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11460,7 +11460,7 @@ and dat was de p’int wid me !
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
-#### 1881-08-05 &middot; Clare, South Australia
+#### 1881-08-05 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11476,7 +11476,7 @@ countenance, squatted upon his bundle
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
-#### 1881-08-05 &middot; Clare, South Australia
+#### 1881-08-05 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11532,7 +11532,7 @@ and dat was de pint wid me.&#x27; _ &#x27;Got an
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1881-08-06/ed-1/seq-1)
 
-#### 1881-08-06 &middot; Clarksville, Tenn.
+#### 1881-08-06 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11583,7 +11583,7 @@ like me, cos den dere couldn&#x27;t bo no
 
 ## [From _The Brookhaven ledger._](https://chroniclingamerica.loc.gov/lccn/sn86053968/1881-09-01/ed-1/seq-4)
 
-#### 1881-09-01 &middot; Brookhaven, Miss.
+#### 1881-09-01 &middot; [Brookhaven, Miss.](http://dbpedia.org/resource/Brookhaven%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11617,7 +11617,7 @@ mous preacher of the old Puritan schoo
 
 ## [From _The Morehouse clarion._](https://chroniclingamerica.loc.gov/lccn/sn86053659/1881-09-02/ed-1/seq-1)
 
-#### 1881-09-02 &middot; Bastrop, La.
+#### 1881-09-02 &middot; [Bastrop, La.](http://dbpedia.org/resource/Bastrop%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11650,7 +11650,7 @@ de pint wid me !&quot;
 
 ## [From _Sacramento daily record-union._](https://chroniclingamerica.loc.gov/lccn/sn82014381/1882-08-26/ed-1/seq-4)
 
-#### 1882-08-26 &middot; Sacramento [Calif.]
+#### 1882-08-26 &middot; [Sacramento [Calif.]](http://dbpedia.org/resource/Sacramento%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11756,7 +11756,7 @@ carnage.
 
 ## [From _The Phoenix herald._](https://chroniclingamerica.loc.gov/lccn/sn87062082/1882-09-08/ed-1/seq-4)
 
-#### 1882-09-08 &middot; Phoenix, Maricopa County, A.T. [Ariz.]
+#### 1882-09-08 &middot; [Phoenix, Maricopa County, A.T. [Ariz.]](http://dbpedia.org/resource/Phoenix%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11880,7 +11880,7 @@ ened the field of carnage.
 
 ## [From _Arizona silver belt._](https://chroniclingamerica.loc.gov/lccn/sn84021913/1883-06-16/ed-1/seq-1)
 
-#### 1883-06-16 &middot; Globe City, Pinal County, Ariz.
+#### 1883-06-16 &middot; [Globe City, Pinal County, Ariz.](http://dbpedia.org/resource/Globe%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11936,7 +11936,7 @@ out obhim? Self preservation am d
 
 ## [From _Arizona silver belt._](https://chroniclingamerica.loc.gov/lccn/sn84021913/1883-06-16/ed-1/seq-1)
 
-#### 1883-06-16 &middot; Globe City, Pinal County, Ariz.
+#### 1883-06-16 &middot; [Globe City, Pinal County, Ariz.](http://dbpedia.org/resource/Globe%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11975,7 +11975,7 @@ field ot callage.&quot; &quot;
 
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
 
-#### 1885-11-21 &middot; Launceston, Tasmania
+#### 1885-11-21 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12024,7 +12024,7 @@ you had been killed ?&quot; &quot;May be not, sa
 
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1885-12-19/ed-1/seq-8)
 
-#### 1885-12-19 &middot; Oakland, Md.
+#### 1885-12-19 &middot; [Oakland, Md.](http://dbpedia.org/resource/Oakland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12104,7 +12104,7 @@ tiettiug a Wife •‘on Tick.
 
 ## [From _The Bad Lands cow boy._](https://chroniclingamerica.loc.gov/lccn/sn84024777/1886-10-21/ed-1/seq-3)
 
-#### 1886-10-21 &middot; Little Missouri, Dakota [i.e. N.D.]
+#### 1886-10-21 &middot; [Little Missouri, Dakota [i.e. N.D.]](http://dbpedia.org/resource/Medora%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12148,7 +12148,7 @@ my profession.&quot;&#x27;&#x27;
 
 ## [From _The Bad Lands cow boy._](https://chroniclingamerica.loc.gov/lccn/sn84024777/1886-10-21/ed-1/seq-3)
 
-#### 1886-10-21 &middot; Little Missouri, Dakota [i.e. N.D.]
+#### 1886-10-21 &middot; [Little Missouri, Dakota [i.e. N.D.]](http://dbpedia.org/resource/Medora%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12206,7 +12206,7 @@ Eli Perkins&#x27; &quot;Wit and Humor of the
 
 ## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1886-10-22/ed-1/seq-7)
 
-#### 1886-10-22 &middot; Little Falls, Morrison County, Minn.
+#### 1886-10-22 &middot; [Little Falls, Morrison County, Minn.](http://dbpedia.org/resource/Little_Falls%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12294,7 +12294,7 @@ A Prayer for Coffee.
 
 ## [From _Emmons County record._](https://chroniclingamerica.loc.gov/lccn/sn87096040/1886-10-22/ed-1/seq-3)
 
-#### 1886-10-22 &middot; Williamsport, D.T. [i.e. N.D.]
+#### 1886-10-22 &middot; [Williamsport, D.T. [i.e. N.D.]](http://dbpedia.org/resource/Linton%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12378,7 +12378,7 @@ A Prayer for Coffee.
 
 ## [From _The Wahpeton times._](https://chroniclingamerica.loc.gov/lccn/sn84024779/1886-10-28/ed-1/seq-7)
 
-#### 1886-10-28 &middot; Wahpeton, Richland County, Dakota [N.D.]
+#### 1886-10-28 &middot; [Wahpeton, Richland County, Dakota [N.D.]](http://dbpedia.org/resource/Wahpeton%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12467,7 +12467,7 @@ A Prayer for Coffee.
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1886-10-30 &middot; Sydney, New South Wales
+#### 1886-10-30 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12518,7 +12518,7 @@ killed? &#x27; &#x27; May be not, sa ; but I&#x27;d
 
 ## [From _Jamestown weekly alert._](https://chroniclingamerica.loc.gov/lccn/sn85042405/1886-11-04/ed-1/seq-3)
 
-#### 1886-11-04 &middot; Jamestown, Stutsman County, D.T. [N.D.]
+#### 1886-11-04 &middot; [Jamestown, Stutsman County, D.T. [N.D.]](http://dbpedia.org/resource/Jamestown%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12608,7 +12608,7 @@ A Prayer for Coffee.
 
 #### From _Euroa Advertiser (Vic. : 1884 - 1920)_
 
-#### 1886-12-03 &middot; Euroa, Victoria
+#### 1886-12-03 &middot; [Euroa, Victoria](http://dbpedia.org/resource/Euroa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12661,7 +12661,7 @@ omised you if you had lieen killed?&#x27;
 
 #### From _Ipswich Journal_
 
-#### 1887-08-12 &middot; Ipswich, England
+#### 1887-08-12 &middot; [Ipswich, England](http://dbpedia.org/resource/Ipswich)
 
 [This text is not available under an open license.]
 
@@ -12669,7 +12669,7 @@ omised you if you had lieen killed?&#x27;
 
 ## [From _Turner County herald._](https://chroniclingamerica.loc.gov/lccn/sn2001063133/1888-08-09/ed-1/seq-3)
 
-#### 1888-08-09 &middot; Hurley, Dakota [S.D.]
+#### 1888-08-09 &middot; [Hurley, Dakota [S.D.]](http://dbpedia.org/resource/Hurley%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12778,7 +12778,7 @@ field of&quot; carnage.&quot;—Ohiaago Ledger
 
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-08-17/ed-1/seq-6)
 
-#### 1888-08-17 &middot; Wessington Springs, Aurora County, Dakota [S.D.]
+#### 1888-08-17 &middot; [Wessington Springs, Aurora County, Dakota [S.D.]](http://dbpedia.org/resource/Wessington_Springs%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12797,7 +12797,7 @@ field of carnage.&quot;—Chicago Ledger
 
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-08-17/ed-1/seq-6)
 
-#### 1888-08-17 &middot; Wessington Springs, Aurora County, Dakota [S.D.]
+#### 1888-08-17 &middot; [Wessington Springs, Aurora County, Dakota [S.D.]](http://dbpedia.org/resource/Wessington_Springs%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12896,7 +12896,7 @@ and dat was de pint wid me, sah.&quot;
 
 ## [From _The state republican._](https://chroniclingamerica.loc.gov/lccn/sn90061576/1891-12-31/ed-1/seq-4)
 
-#### 1891-12-31 &middot; Jefferson City, Mo.
+#### 1891-12-31 &middot; [Jefferson City, Mo.](http://dbpedia.org/resource/Jefferson_City%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12913,7 +12913,7 @@ plunged In a state of meditation. Fin
 
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1892-01-02/ed-1/seq-7)
 
-#### 1892-01-02 &middot; Perrysburg, Wood Co., O. [Ohio]
+#### 1892-01-02 &middot; [Perrysburg, Wood Co., O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12932,7 +12932,7 @@ plunged in a state of meditation. Find
 
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1892-01-02/ed-1/seq-7)
 
-#### 1892-01-02 &middot; Perrysburg, Wood Co., O. [Ohio]
+#### 1892-01-02 &middot; [Perrysburg, Wood Co., O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13008,7 +13008,7 @@ carnage. American Tribune
 
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1892-02-10/ed-1/seq-4)
 
-#### 1892-02-10 &middot; Savannah, Ga.
+#### 1892-02-10 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13029,7 +13029,7 @@ tation, says Eli Perkins’ &quot;Wit and Humor o
 
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1892-02-10/ed-1/seq-4)
 
-#### 1892-02-10 &middot; Savannah, Ga.
+#### 1892-02-10 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13096,7 +13096,7 @@ Hie Curiosity was Satisfied
 
 ## [From _Herald and news._](https://chroniclingamerica.loc.gov/lccn/sn86082061/1892-02-18/ed-1/seq-6)
 
-#### 1892-02-18 &middot; West Randolph, Vt.
+#### 1892-02-18 &middot; [West Randolph, Vt.](http://dbpedia.org/resource/Randolph%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13175,7 +13175,7 @@ carnage. American Tribune
 
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1892-04-13/ed-1/seq-10)
 
-#### 1892-04-13 &middot; Indianapolis
+#### 1892-04-13 &middot; [Indianapolis](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13248,7 +13248,7 @@ pint wid me
 
 ## [From _The Ketchum keystone._](https://chroniclingamerica.loc.gov/lccn/sn86091095/1893-07-22/ed-1/seq-4)
 
-#### 1893-07-22 &middot; Ketchum, Idaho
+#### 1893-07-22 &middot; [Ketchum, Idaho](http://dbpedia.org/resource/Ketchum%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13351,7 +13351,7 @@ of carnage.
 
 #### From _The Atchison daily globe._
 
-#### 1893-09-15 &middot; Atchison, Kan.
+#### 1893-09-15 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -13359,7 +13359,7 @@ of carnage.
 
 ## [From _The Kootenai herald._](https://chroniclingamerica.loc.gov/lccn/sn86091083/1893-10-07/ed-1/seq-6)
 
-#### 1893-10-07 &middot; Kootenai, Idaho
+#### 1893-10-07 &middot; [Kootenai, Idaho](http://dbpedia.org/resource/Kootenai%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13432,7 +13432,7 @@ found in the repartee of acknowledge
 
 ## [From _Saturday morning courier._](https://chroniclingamerica.loc.gov/lccn/2010270512/1893-10-07/ed-1/seq-4)
 
-#### 1893-10-07 &middot; Lincoln, Nebraska
+#### 1893-10-07 &middot; [Lincoln, Nebraska](http://dbpedia.org/resource/Lincoln%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13483,7 +13483,7 @@ It.
 
 ## [From _The Hawaiian star._](https://chroniclingamerica.loc.gov/lccn/sn82015415/1893-10-18/ed-1/seq-6)
 
-#### 1893-10-18 &middot; Honolulu [Oahu]
+#### 1893-10-18 &middot; [Honolulu [Oahu]](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13543,7 +13543,7 @@ ain&#x27;t much account, letaloneadead nlggab
 
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1893-10-20/ed-1/seq-4)
 
-#### 1893-10-20 &middot; Pascagoula, Miss.
+#### 1893-10-20 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13604,7 +13604,7 @@ manuln&#x27;t much account, let nln
 
 ## [From _Capital journal._](https://chroniclingamerica.loc.gov/lccn/sn99063954/1893-11-14/ed-1/seq-3)
 
-#### 1893-11-14 &middot; Salem, Or.
+#### 1893-11-14 &middot; [Salem, Or.](http://dbpedia.org/resource/Salem%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13662,7 +13662,7 @@ vanities.&quot;
 
 ## [From _Santa Fe daily New Mexican._](https://chroniclingamerica.loc.gov/lccn/sn84020631/1893-11-29/ed-1/seq-3)
 
-#### 1893-11-29 &middot; Santa Fe, N.M.
+#### 1893-11-29 &middot; [Santa Fe, N.M.](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13708,7 +13708,7 @@ ain&#x27;t much account, let alone a dead nigguh
 
 ## [From _The old Abe eagle._](https://chroniclingamerica.loc.gov/lccn/sn93061407/1893-12-14/ed-1/seq-2)
 
-#### 1893-12-14 &middot; White Oaks, Lincoln County, N.M.
+#### 1893-12-14 &middot; [White Oaks, Lincoln County, N.M.](http://dbpedia.org/resource/White_Oaks%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13751,7 +13751,7 @@ killed?&quot;
 
 ## [From _The Mt. Sterling advocate._](https://chroniclingamerica.loc.gov/lccn/sn86069675/1894-01-30/ed-1/seq-6)
 
-#### 1894-01-30 &middot; Mt. Sterling, Ky.
+#### 1894-01-30 &middot; [Mt. Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13804,7 +13804,7 @@ white man aint much account le
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1894-02-28/ed-1/seq-6)
 
-#### 1894-02-28 &middot; Wheeling, W. Va.
+#### 1894-02-28 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13838,7 +13838,7 @@ plnco do loss to me.
 
 ## [From _Life (1883-1936)_](https://iiif.archivelab.org/iiif/sim_life_1894-10-25_24_617?page=13)
 
-#### 1894-10-25 &middot; New York
+#### 1894-10-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13874,7 +13874,7 @@ plnco do loss to me.
 
 ## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1898-10_24_4?page=81)
 
-#### 1898-10-01 &middot; New York
+#### 1898-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

@@ -28,7 +28,7 @@ Go and learn how wonderfully you are made: how to avoid sickness and disease. Th
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1896-10-24/ed-1/seq-4)
 
-#### 1896-10-24 &middot; Silver City, Nev.
+#### 1896-10-24 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -63,7 +63,7 @@ tinually. Catalogue sent free.
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1896-10-28/ed-1/seq-2)
 
-#### 1896-10-28 &middot; Hawthorne, Nev.
+#### 1896-10-28 &middot; [Hawthorne, Nev.](http://dbpedia.org/resource/Hawthorne%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -98,7 +98,7 @@ linually. Catalogue sent free. \
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1896-10-31/ed-1/seq-1)
 
-#### 1896-10-31 &middot; Silver City, Nev.
+#### 1896-10-31 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -131,7 +131,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1896-11-07/ed-1/seq-1)
 
-#### 1896-11-07 &middot; Silver City, Nev.
+#### 1896-11-07 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -167,7 +167,7 @@ tinually. Catalogue sent free.
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1896-11-11/ed-1/seq-2)
 
-#### 1896-11-11 &middot; Hawthorne, Nev.
+#### 1896-11-11 &middot; [Hawthorne, Nev.](http://dbpedia.org/resource/Hawthorne%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -200,7 +200,7 @@ T tinuaily. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1896-11-14/ed-1/seq-1)
 
-#### 1896-11-14 &middot; Silver City, Nev.
+#### 1896-11-14 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -236,7 +236,7 @@ tinually. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1896-11-21/ed-1/seq-4)
 
-#### 1896-11-21 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1896-11-21 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -270,7 +270,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1896-11-21/ed-1/seq-1)
 
-#### 1896-11-21 &middot; Silver City, Nev.
+#### 1896-11-21 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -301,7 +301,7 @@ GREAT MUSEUM OF ANATOMY.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1896-11-28/ed-1/seq-4)
 
-#### 1896-11-28 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1896-11-28 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -326,7 +326,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1896-11-28/ed-1/seq-1)
 
-#### 1896-11-28 &middot; Silver City, Nev.
+#### 1896-11-28 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -362,7 +362,7 @@ tinually. Catalogue sent free.
 
 ## [From _Arizona weekly citizen._](https://chroniclingamerica.loc.gov/lccn/sn82015133/1896-12-05/ed-1/seq-2)
 
-#### 1896-12-05 &middot; Tucson, Ariz
+#### 1896-12-05 &middot; [Tucson, Ariz](http://dbpedia.org/resource/Tucson%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -413,7 +413,7 @@ IC51 Market Straat. San Fraaclsc. Cat
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1896-12-05/ed-1/seq-1)
 
-#### 1896-12-05 &middot; Silver City, Nev.
+#### 1896-12-05 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -450,7 +450,7 @@ tinually. Catalogue sent fire*
 
 ## [From _Arizona weekly citizen._](https://chroniclingamerica.loc.gov/lccn/sn82015133/1896-12-12/ed-1/seq-3)
 
-#### 1896-12-12 &middot; Tucson, Ariz
+#### 1896-12-12 &middot; [Tucson, Ariz](http://dbpedia.org/resource/Tucson%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -482,7 +482,7 @@ uaually. Catalogue sent tree.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1896-12-12/ed-1/seq-1)
 
-#### 1896-12-12 &middot; Silver City, Nev.
+#### 1896-12-12 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -519,7 +519,7 @@ tOBj Market Street. San Francises. Cal.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1896-12-19/ed-1/seq-1)
 
-#### 1896-12-19 &middot; Silver City, Nev.
+#### 1896-12-19 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -554,7 +554,7 @@ tinually. Catalogue sent free. \
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1896-12-26/ed-1/seq-4)
 
-#### 1896-12-26 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1896-12-26 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -608,7 +608,7 @@ tinually. Catalogue sent free.
 
 ## [From _Arizona weekly citizen._](https://chroniclingamerica.loc.gov/lccn/sn82015133/1896-12-26/ed-1/seq-2)
 
-#### 1896-12-26 &middot; Tucson, Ariz
+#### 1896-12-26 &middot; [Tucson, Ariz](http://dbpedia.org/resource/Tucson%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -656,7 +656,7 @@ Usually. Catalogue sent tree.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1896-12-26/ed-1/seq-1)
 
-#### 1896-12-26 &middot; Silver City, Nev.
+#### 1896-12-26 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -692,7 +692,7 @@ tp51 Market Street. San Francisco. Cal.
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1896-12-30/ed-1/seq-2)
 
-#### 1896-12-30 &middot; Hawthorne, Nev.
+#### 1896-12-30 &middot; [Hawthorne, Nev.](http://dbpedia.org/resource/Hawthorne%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -727,7 +727,7 @@ Usually. Catalogue sent free. \
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-01-02/ed-1/seq-4)
 
-#### 1897-01-02 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-01-02 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -762,7 +762,7 @@ tinually. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-01-09/ed-1/seq-4)
 
-#### 1897-01-09 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-01-09 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -798,7 +798,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-01-09/ed-1/seq-3)
 
-#### 1897-01-09 &middot; Silver City, Nev.
+#### 1897-01-09 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -835,7 +835,7 @@ tinually. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-01-16/ed-1/seq-4)
 
-#### 1897-01-16 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-01-16 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -870,7 +870,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-01-16/ed-1/seq-3)
 
-#### 1897-01-16 &middot; Silver City, Nev.
+#### 1897-01-16 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -906,7 +906,7 @@ linuakly. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-01-23/ed-1/seq-4)
 
-#### 1897-01-23 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-01-23 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -942,7 +942,7 @@ tinually. Catalogue sent tree.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-01-23/ed-1/seq-2)
 
-#### 1897-01-23 &middot; Silver City, Nev.
+#### 1897-01-23 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -978,7 +978,7 @@ tinually. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-01-30/ed-1/seq-4)
 
-#### 1897-01-30 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-01-30 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1014,7 +1014,7 @@ Unually. Catalogue sent tree.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-01-30/ed-1/seq-2)
 
-#### 1897-01-30 &middot; Silver City, Nev.
+#### 1897-01-30 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1051,7 +1051,7 @@ tinually. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-02-06/ed-1/seq-4)
 
-#### 1897-02-06 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-02-06 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1097,7 +1097,7 @@ tinually. Catalogue sent tree.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-02-06/ed-1/seq-2)
 
-#### 1897-02-06 &middot; Silver City, Nev.
+#### 1897-02-06 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1135,7 +1135,7 @@ tinually. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-02-13/ed-1/seq-4)
 
-#### 1897-02-13 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-02-13 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1171,7 +1171,7 @@ a 1051 &#x27;Market Street, San Franolsco, Cat
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-02-13/ed-1/seq-2)
 
-#### 1897-02-13 &middot; Silver City, Nev.
+#### 1897-02-13 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1226,7 +1226,7 @@ tiuuatly. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-02-20/ed-1/seq-2)
 
-#### 1897-02-20 &middot; Silver City, Nev.
+#### 1897-02-20 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1261,7 +1261,7 @@ tiuuaily. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-02-27/ed-1/seq-4)
 
-#### 1897-02-27 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-02-27 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1297,7 +1297,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-02-27/ed-1/seq-2)
 
-#### 1897-02-27 &middot; Silver City, Nev.
+#### 1897-02-27 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1333,7 +1333,7 @@ tinually. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-03-06/ed-1/seq-4)
 
-#### 1897-03-06 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-03-06 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1364,7 +1364,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-03-06/ed-1/seq-2)
 
-#### 1897-03-06 &middot; Silver City, Nev.
+#### 1897-03-06 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1400,7 +1400,7 @@ made: how to avoid sickness ana disease.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-03-13/ed-1/seq-4)
 
-#### 1897-03-13 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-03-13 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1446,7 +1446,7 @@ Unuauy. catalogue sent iree.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-03-13/ed-1/seq-2)
 
-#### 1897-03-13 &middot; Silver City, Nev.
+#### 1897-03-13 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1483,7 +1483,7 @@ liuua.ly. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-03-20/ed-1/seq-4)
 
-#### 1897-03-20 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-03-20 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1510,7 +1510,7 @@ msi H-.pfcelSJfeai. San Francisco, Cal
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-03-20/ed-1/seq-2)
 
-#### 1897-03-20 &middot; Silver City, Nev.
+#### 1897-03-20 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1544,7 +1544,7 @@ C 10131 Market St eat, Sen Francisco, Cal.
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1897-03-24/ed-1/seq-2)
 
-#### 1897-03-24 &middot; Hawthorne, Nev.
+#### 1897-03-24 &middot; [Hawthorne, Nev.](http://dbpedia.org/resource/Hawthorne%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1581,7 +1581,7 @@ I 1061 Marks! Strsst, tan Francises. Cal.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-03-27/ed-1/seq-2)
 
-#### 1897-03-27 &middot; Silver City, Nev.
+#### 1897-03-27 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1619,7 +1619,7 @@ Idol Market St ett, San Francisco, Cal.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-04-03/ed-1/seq-4)
 
-#### 1897-04-03 &middot; Silver City, Nev.
+#### 1897-04-03 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1656,7 +1656,7 @@ i Thousands of new objects. Additions con-|
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-04-10/ed-1/seq-4)
 
-#### 1897-04-10 &middot; Silver City, Nev.
+#### 1897-04-10 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1692,7 +1692,7 @@ tinuaily. Catalogue sent free.
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1897-04-14/ed-1/seq-2)
 
-#### 1897-04-14 &middot; Hawthorne, Nev.
+#### 1897-04-14 &middot; [Hawthorne, Nev.](http://dbpedia.org/resource/Hawthorne%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1726,7 +1726,7 @@ I 1051 Market Street. San Franelaea. Cal.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-04-17/ed-1/seq-4)
 
-#### 1897-04-17 &middot; Silver City, Nev.
+#### 1897-04-17 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1762,7 +1762,7 @@ tinuady. Catalogue sent free.
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1897-04-21/ed-1/seq-2)
 
-#### 1897-04-21 &middot; Hawthorne, Nev.
+#### 1897-04-21 &middot; [Hawthorne, Nev.](http://dbpedia.org/resource/Hawthorne%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1797,7 +1797,7 @@ tinually. Catalogue lent free. 1
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-04-24/ed-1/seq-4)
 
-#### 1897-04-24 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-04-24 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1824,7 +1824,7 @@ Market strait, San Franauc, csi.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-05-01/ed-1/seq-4)
 
-#### 1897-05-01 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-05-01 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1858,7 +1858,7 @@ tinually. Catalogue sent tree.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-05-01/ed-1/seq-4)
 
-#### 1897-05-01 &middot; Silver City, Nev.
+#### 1897-05-01 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1894,7 +1894,7 @@ tiuua.ly. Catalogue sent free.
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1897-05-12/ed-1/seq-2)
 
-#### 1897-05-12 &middot; Hawthorne, Nev.
+#### 1897-05-12 &middot; [Hawthorne, Nev.](http://dbpedia.org/resource/Hawthorne%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1928,7 +1928,7 @@ A Thousauds of new objects. Additions C04- A
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-05-15/ed-1/seq-4)
 
-#### 1897-05-15 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-05-15 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1959,7 +1959,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-05-15/ed-1/seq-4)
 
-#### 1897-05-15 &middot; Silver City, Nev.
+#### 1897-05-15 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1995,7 +1995,7 @@ k Co and learn how wonderfully you are f
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1897-05-19/ed-1/seq-2)
 
-#### 1897-05-19 &middot; Hawthorne, Nev.
+#### 1897-05-19 &middot; [Hawthorne, Nev.](http://dbpedia.org/resource/Hawthorne%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2030,7 +2030,7 @@ P 1031 Market Si. set, San Francisco. Cal.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-05-22/ed-1/seq-4)
 
-#### 1897-05-22 &middot; Silver City, Nev.
+#### 1897-05-22 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2066,7 +2066,7 @@ tinually. Catalogue sent free.
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1897-05-26/ed-1/seq-2)
 
-#### 1897-05-26 &middot; Hawthorne, Nev.
+#### 1897-05-26 &middot; [Hawthorne, Nev.](http://dbpedia.org/resource/Hawthorne%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2101,7 +2101,7 @@ I* 1051 Market Street, San Franclsee. Cel.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-05-29/ed-1/seq-4)
 
-#### 1897-05-29 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-05-29 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2138,7 +2138,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-06-05/ed-1/seq-4)
 
-#### 1897-06-05 &middot; Silver City, Nev.
+#### 1897-06-05 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2174,7 +2174,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-06-19/ed-1/seq-4)
 
-#### 1897-06-19 &middot; Silver City, Nev.
+#### 1897-06-19 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2210,7 +2210,7 @@ tinually. Catalogue sent free. *
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-06-26/ed-1/seq-4)
 
-#### 1897-06-26 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-06-26 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2245,7 +2245,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-06-26/ed-1/seq-4)
 
-#### 1897-06-26 &middot; Silver City, Nev.
+#### 1897-06-26 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2282,7 +2282,7 @@ f 051 Market Street. San Francisco. Cal
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-07-03/ed-1/seq-4)
 
-#### 1897-07-03 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-07-03 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2332,7 +2332,7 @@ tinually, catalogue sent tree.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-07-03/ed-1/seq-4)
 
-#### 1897-07-03 &middot; Silver City, Nev.
+#### 1897-07-03 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2368,7 +2368,7 @@ f GREAT MUSEUM OF ANATOMY, f
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-07-10/ed-1/seq-4)
 
-#### 1897-07-10 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-07-10 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2400,7 +2400,7 @@ tinuauy. catalogue sent tree.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-07-10/ed-1/seq-4)
 
-#### 1897-07-10 &middot; Silver City, Nev.
+#### 1897-07-10 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2436,7 +2436,7 @@ made: how to avoid sickness ana disease.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-07-24/ed-1/seq-4)
 
-#### 1897-07-24 &middot; Silver City, Nev.
+#### 1897-07-24 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2472,7 +2472,7 @@ I Thousands of new objects. Additions con­
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-08-07/ed-1/seq-4)
 
-#### 1897-08-07 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-08-07 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2524,7 +2524,7 @@ Unually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-08-07/ed-1/seq-4)
 
-#### 1897-08-07 &middot; Silver City, Nev.
+#### 1897-08-07 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2560,7 +2560,7 @@ tinually. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-08-14/ed-1/seq-4)
 
-#### 1897-08-14 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-08-14 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2585,7 +2585,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-08-21/ed-1/seq-4)
 
-#### 1897-08-21 &middot; Silver City, Nev.
+#### 1897-08-21 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2622,7 +2622,7 @@ made: how to avoid sickness and disease.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-08-28/ed-1/seq-4)
 
-#### 1897-08-28 &middot; Silver City, Nev.
+#### 1897-08-28 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2657,7 +2657,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-09-04/ed-1/seq-4)
 
-#### 1897-09-04 &middot; Silver City, Nev.
+#### 1897-09-04 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2694,7 +2694,7 @@ IOSI Market Street, San Franeleee, Cal
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-09-11/ed-1/seq-2)
 
-#### 1897-09-11 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-09-11 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2728,7 +2728,7 @@ I0Sf Bfarkst Strut. San Fransffei, Ct.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-09-11/ed-1/seq-4)
 
-#### 1897-09-11 &middot; Silver City, Nev.
+#### 1897-09-11 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2766,7 +2766,7 @@ Usually. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-09-18/ed-1/seq-2)
 
-#### 1897-09-18 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-09-18 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2799,7 +2799,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-09-18/ed-1/seq-4)
 
-#### 1897-09-18 &middot; Silver City, Nev.
+#### 1897-09-18 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2836,7 +2836,7 @@ tinually. Catalogue sent free.
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1897-09-25/ed-1/seq-4)
 
-#### 1897-09-25 &middot; Silver City, Nev.
+#### 1897-09-25 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2873,7 +2873,7 @@ tinually. Catalogue sent free.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1897-10-02/ed-1/seq-2)
 
-#### 1897-10-02 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1897-10-02 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2907,7 +2907,7 @@ unuauy. waiaiogue sent tree.
 
 ## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1897-11-20/ed-1/seq-2)
 
-#### 1897-11-20 &middot; Eureka, Nev.
+#### 1897-11-20 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2930,7 +2930,7 @@ are made; how to avoid sickness and disease
 
 ## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1897-12-18/ed-1/seq-4)
 
-#### 1897-12-18 &middot; Eureka, Nev.
+#### 1897-12-18 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2953,7 +2953,7 @@ are made; how to avoid sickness and disease
 
 ## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1898-01-15/ed-1/seq-4)
 
-#### 1898-01-15 &middot; Eureka, Nev.
+#### 1898-01-15 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2976,7 +2976,7 @@ are made; how to avoid sickness and disease
 
 ## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1898-01-22/ed-1/seq-4)
 
-#### 1898-01-22 &middot; Eureka, Nev.
+#### 1898-01-22 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3002,7 +3002,7 @@ CA TALOO UM FREE. Call or write.
 
 ## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1898-03-19/ed-1/seq-4)
 
-#### 1898-03-19 &middot; Eureka, Nev.
+#### 1898-03-19 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3025,7 +3025,7 @@ are made; how to avoid sickness and disease
 
 ## [From _Morning appeal._](https://chroniclingamerica.loc.gov/lccn/sn86076999/1898-07-14/ed-1/seq-4)
 
-#### 1898-07-14 &middot; Carson City, Nev.
+#### 1898-07-14 &middot; [Carson City, Nev.](http://dbpedia.org/resource/Carson_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3048,7 +3048,7 @@ are made; how to avoid sickness and disease
 
 ## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1898-08-06/ed-1/seq-4)
 
-#### 1898-08-06 &middot; Eureka, Nev.
+#### 1898-08-06 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3072,7 +3072,7 @@ Wt are continually adding new specimens
 
 ## [From _Morning appeal._](https://chroniclingamerica.loc.gov/lccn/sn86076999/1898-09-08/ed-1/seq-4)
 
-#### 1898-09-08 &middot; Carson City, Nev.
+#### 1898-09-08 &middot; [Carson City, Nev.](http://dbpedia.org/resource/Carson_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3099,7 +3099,7 @@ are made; how to avoid sickness and disease
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1898-10-05/ed-1/seq-2)
 
-#### 1898-10-05 &middot; Hawthorne, Nev.
+#### 1898-10-05 &middot; [Hawthorne, Nev.](http://dbpedia.org/resource/Hawthorne%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3124,7 +3124,7 @@ CAT.I LOGIE FEES. Calior write.
 
 ## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1898-11-05/ed-1/seq-1)
 
-#### 1898-11-05 &middot; Eureka, Nev.
+#### 1898-11-05 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3147,7 +3147,7 @@ are made; how to avoid sickness and disease
 
 ## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1898-12-24/ed-1/seq-4)
 
-#### 1898-12-24 &middot; Eureka, Nev.
+#### 1898-12-24 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3170,7 +3170,7 @@ are made; how to avoid sickness and disease
 
 ## [From _Morning appeal._](https://chroniclingamerica.loc.gov/lccn/sn86076999/1899-02-22/ed-1/seq-4)
 
-#### 1899-02-22 &middot; Carson City, Nev.
+#### 1899-02-22 &middot; [Carson City, Nev.](http://dbpedia.org/resource/Carson_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

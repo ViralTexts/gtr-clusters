@@ -46,7 +46,7 @@ Sold also by Mr. W.W. Walker, Hair-dress
 
 #### From _Preston Chronicle_
 
-#### 1850-08-24 &middot; Preston, England
+#### 1850-08-24 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -54,7 +54,7 @@ Sold also by Mr. W.W. Walker, Hair-dress
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1850-09-21_20_787?page=1)
 
-#### 1850-09-21
+#### 1850-09-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -78,7 +78,7 @@ United Kingdom.
 
 #### From _Manchester Times_
 
-#### 1850-10-30 &middot; Manchester, England
+#### 1850-10-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -88,7 +88,7 @@ United Kingdom.
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-01-04 &middot; Oxford, England
+#### 1851-01-04 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -96,7 +96,7 @@ United Kingdom.
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-15_21_808?page=1)
 
-#### 1851-02-15
+#### 1851-02-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -118,7 +118,7 @@ United Kingdom
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-22_21_809?page=1)
 
-#### 1851-02-22
+#### 1851-02-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -141,7 +141,7 @@ United Kingdom. 41
 
 #### From _Reynolds's  Newspaper_
 
-#### 1851-04-13 &middot; London, England
+#### 1851-04-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -151,7 +151,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-05-03 &middot; Oxford, England
+#### 1851-05-03 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -161,7 +161,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-05-03 &middot; Oxford, England
+#### 1851-05-03 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -171,7 +171,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-05-07 &middot; Aberdeen, Scotland
+#### 1851-05-07 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -181,7 +181,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1851-05-07 &middot; Manchester, England
+#### 1851-05-07 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -191,7 +191,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-05-10 &middot; Preston, England
+#### 1851-05-10 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -201,7 +201,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-05-14 &middot; Aberdeen, Scotland
+#### 1851-05-14 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -211,7 +211,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1851-05-15 &middot; Exeter, England
+#### 1851-05-15 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -221,7 +221,7 @@ United Kingdom. 41
 
 #### From _Hull Packet_
 
-#### 1851-05-16 &middot; Hull, England
+#### 1851-05-16 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -231,7 +231,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-05-17 &middot; Oxford, England
+#### 1851-05-17 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -241,7 +241,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-05-17 &middot; Bangor, Wales
+#### 1851-05-17 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -251,7 +251,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-05-17 &middot; Preston, England
+#### 1851-05-17 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -261,7 +261,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-05-24 &middot; Oxford, England
+#### 1851-05-24 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -271,7 +271,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-05-24 &middot; Preston, England
+#### 1851-05-24 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -281,7 +281,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1851-05-29 &middot; Exeter, England
+#### 1851-05-29 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -291,7 +291,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-05-31 &middot; Oxford, England
+#### 1851-05-31 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -301,7 +301,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-05-31 &middot; Oxford, England
+#### 1851-05-31 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -311,7 +311,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-05-31 &middot; Bangor, Wales
+#### 1851-05-31 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -321,7 +321,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-05-31 &middot; Preston, England
+#### 1851-05-31 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -331,7 +331,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1851-06-06 &middot; Liverpool, England
+#### 1851-06-06 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -341,7 +341,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-06-07 &middot; Oxford, England
+#### 1851-06-07 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -351,7 +351,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-06-07 &middot; Oxford, England
+#### 1851-06-07 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -361,7 +361,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-06-07 &middot; Preston, England
+#### 1851-06-07 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -371,7 +371,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1851-06-11 &middot; Manchester, England
+#### 1851-06-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -381,7 +381,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1851-06-11 &middot; Manchester, England
+#### 1851-06-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -391,7 +391,7 @@ United Kingdom. 41
 
 #### From _Hull Packet_
 
-#### 1851-06-13 &middot; Hull, England
+#### 1851-06-13 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -401,7 +401,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-06-14 &middot; Oxford, England
+#### 1851-06-14 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -411,7 +411,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-06-14 &middot; Preston, England
+#### 1851-06-14 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -421,7 +421,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-06-18 &middot; Aberdeen, Scotland
+#### 1851-06-18 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -431,7 +431,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1851-06-18 &middot; Manchester, England
+#### 1851-06-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -441,7 +441,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1851-06-19 &middot; Exeter, England
+#### 1851-06-19 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -451,7 +451,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-06-21 &middot; Oxford, England
+#### 1851-06-21 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -461,7 +461,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-06-21 &middot; Oxford, England
+#### 1851-06-21 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -471,7 +471,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1851-06-21 &middot; Manchester, England
+#### 1851-06-21 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -481,7 +481,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-06-21 &middot; Preston, England
+#### 1851-06-21 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -491,7 +491,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1851-06-26 &middot; Exeter, England
+#### 1851-06-26 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -501,7 +501,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-06-28 &middot; Preston, England
+#### 1851-06-28 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -511,7 +511,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-07-02 &middot; Aberdeen, Scotland
+#### 1851-07-02 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -521,7 +521,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1851-07-02 &middot; Manchester, England
+#### 1851-07-02 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -531,7 +531,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-07-03 &middot; Bangor, Wales
+#### 1851-07-03 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -541,7 +541,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1851-07-03 &middot; Exeter, England
+#### 1851-07-03 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -551,7 +551,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-07-05 &middot; Oxford, England
+#### 1851-07-05 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -561,7 +561,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-07-05 &middot; Oxford, England
+#### 1851-07-05 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -571,7 +571,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-07-05 &middot; Preston, England
+#### 1851-07-05 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -581,7 +581,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-07-09 &middot; Aberdeen, Scotland
+#### 1851-07-09 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -591,7 +591,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-07-10 &middot; Bangor, Wales
+#### 1851-07-10 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -601,7 +601,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1851-07-10 &middot; Exeter, England
+#### 1851-07-10 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -611,7 +611,7 @@ United Kingdom. 41
 
 #### From _Hull Packet_
 
-#### 1851-07-11 &middot; Hull, England
+#### 1851-07-11 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -621,7 +621,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-07-12 &middot; Oxford, England
+#### 1851-07-12 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -631,7 +631,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-07-12 &middot; Preston, England
+#### 1851-07-12 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -641,7 +641,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-07-17 &middot; Bangor, Wales
+#### 1851-07-17 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -651,7 +651,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-07-19 &middot; Oxford, England
+#### 1851-07-19 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -661,7 +661,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1851-07-24 &middot; Exeter, England
+#### 1851-07-24 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -671,7 +671,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-08-16 &middot; Oxford, England
+#### 1851-08-16 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -681,7 +681,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-08-16 &middot; Oxford, England
+#### 1851-08-16 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -691,7 +691,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-08-16 &middot; Preston, England
+#### 1851-08-16 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -701,7 +701,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1851-08-19 &middot; Liverpool, England
+#### 1851-08-19 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -711,7 +711,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1851-08-21 &middot; Exeter, England
+#### 1851-08-21 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -721,7 +721,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-08-23 &middot; Oxford, England
+#### 1851-08-23 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -731,7 +731,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-08-23 &middot; Preston, England
+#### 1851-08-23 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -741,7 +741,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-08-27 &middot; Aberdeen, Scotland
+#### 1851-08-27 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -751,7 +751,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-08-30 &middot; Oxford, England
+#### 1851-08-30 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -761,7 +761,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-08-30 &middot; Preston, England
+#### 1851-08-30 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -771,7 +771,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-09-03 &middot; Aberdeen, Scotland
+#### 1851-09-03 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -781,7 +781,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-09-04 &middot; Bangor, Wales
+#### 1851-09-04 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -791,7 +791,7 @@ United Kingdom. 41
 
 #### From _Bristol Mercury_
 
-#### 1851-09-06 &middot; Bristol, England
+#### 1851-09-06 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -801,7 +801,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-09-06 &middot; Oxford, England
+#### 1851-09-06 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -811,7 +811,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-09-06 &middot; Oxford, England
+#### 1851-09-06 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -821,7 +821,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-09-06 &middot; Preston, England
+#### 1851-09-06 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -831,7 +831,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-09-13 &middot; Oxford, England
+#### 1851-09-13 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -841,7 +841,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-09-13 &middot; Preston, England
+#### 1851-09-13 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -851,7 +851,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-09-17 &middot; Aberdeen, Scotland
+#### 1851-09-17 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -861,7 +861,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-09-18 &middot; Bangor, Wales
+#### 1851-09-18 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -871,7 +871,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-09-20 &middot; Oxford, England
+#### 1851-09-20 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -881,7 +881,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-09-20 &middot; Preston, England
+#### 1851-09-20 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -891,7 +891,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-09-25 &middot; Bangor, Wales
+#### 1851-09-25 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -901,7 +901,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1851-09-25 &middot; Exeter, England
+#### 1851-09-25 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -911,7 +911,7 @@ United Kingdom. 41
 
 #### From _Hull Packet_
 
-#### 1851-09-26 &middot; Hull, England
+#### 1851-09-26 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -921,7 +921,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-09-27 &middot; Oxford, England
+#### 1851-09-27 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -931,7 +931,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-09-27 &middot; Oxford, England
+#### 1851-09-27 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -941,7 +941,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-10-01 &middot; Aberdeen, Scotland
+#### 1851-10-01 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -951,7 +951,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-10-02 &middot; Bangor, Wales
+#### 1851-10-02 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -961,7 +961,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1851-10-02 &middot; Exeter, England
+#### 1851-10-02 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -971,7 +971,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-10-04 &middot; Oxford, England
+#### 1851-10-04 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -981,7 +981,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-10-04 &middot; Oxford, England
+#### 1851-10-04 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -991,7 +991,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-10-04 &middot; Preston, England
+#### 1851-10-04 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1001,7 +1001,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-10-09 &middot; Bangor, Wales
+#### 1851-10-09 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -1011,7 +1011,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1851-10-09 &middot; Exeter, England
+#### 1851-10-09 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -1021,7 +1021,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1851-10-10 &middot; Liverpool, England
+#### 1851-10-10 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1031,7 +1031,7 @@ United Kingdom. 41
 
 #### From _Bristol Mercury_
 
-#### 1851-10-11 &middot; Bristol, England
+#### 1851-10-11 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1041,7 +1041,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-10-11 &middot; Oxford, England
+#### 1851-10-11 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -1051,7 +1051,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-10-11 &middot; Oxford, England
+#### 1851-10-11 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -1061,7 +1061,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-10-11 &middot; Preston, England
+#### 1851-10-11 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1071,7 +1071,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-10-16 &middot; Bangor, Wales
+#### 1851-10-16 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -1081,7 +1081,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-10-18 &middot; Oxford, England
+#### 1851-10-18 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -1091,7 +1091,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-10-18 &middot; Oxford, England
+#### 1851-10-18 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -1101,7 +1101,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1851-10-18 &middot; Manchester, England
+#### 1851-10-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1111,7 +1111,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-10-18 &middot; Preston, England
+#### 1851-10-18 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1121,7 +1121,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-10-22 &middot; Aberdeen, Scotland
+#### 1851-10-22 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -1131,7 +1131,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1851-10-22 &middot; Manchester, England
+#### 1851-10-22 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1141,7 +1141,7 @@ United Kingdom. 41
 
 #### From _North Wales Chronicle_
 
-#### 1851-10-23 &middot; Bangor, Wales
+#### 1851-10-23 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -1151,7 +1151,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-10-25 &middot; Oxford, England
+#### 1851-10-25 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -1161,7 +1161,7 @@ United Kingdom. 41
 
 #### From _Preston Chronicle_
 
-#### 1851-10-25 &middot; Preston, England
+#### 1851-10-25 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1171,7 +1171,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-10-29 &middot; Aberdeen, Scotland
+#### 1851-10-29 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -1181,7 +1181,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-11-01 &middot; Oxford, England
+#### 1851-11-01 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -1191,7 +1191,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-11-05 &middot; Aberdeen, Scotland
+#### 1851-11-05 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -1201,7 +1201,7 @@ United Kingdom. 41
 
 #### From _Aberdeen Journal_
 
-#### 1851-11-12 &middot; Aberdeen, Scotland
+#### 1851-11-12 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -1211,7 +1211,7 @@ United Kingdom. 41
 
 #### From _Reynolds's  Newspaper_
 
-#### 1851-11-23 &middot; London, England
+#### 1851-11-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1221,7 +1221,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1851-12-09 &middot; Liverpool, England
+#### 1851-12-09 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1231,7 +1231,7 @@ United Kingdom. 41
 
 #### From _Reynolds's  Newspaper_
 
-#### 1851-12-14 &middot; London, England
+#### 1851-12-14 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1241,7 +1241,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1851-12-26 &middot; Liverpool, England
+#### 1851-12-26 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1251,7 +1251,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-01-09 &middot; Liverpool, England
+#### 1852-01-09 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1261,7 +1261,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1852-01-21 &middot; Manchester, England
+#### 1852-01-21 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1271,7 +1271,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-01-27 &middot; Liverpool, England
+#### 1852-01-27 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1281,7 +1281,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-02-03 &middot; Liverpool, England
+#### 1852-02-03 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1291,7 +1291,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1852-02-04 &middot; Manchester, England
+#### 1852-02-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1301,7 +1301,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1852-02-14 &middot; Manchester, England
+#### 1852-02-14 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1311,7 +1311,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-02-17 &middot; Liverpool, England
+#### 1852-02-17 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1321,7 +1321,7 @@ United Kingdom. 41
 
 #### From _The Era_
 
-#### 1852-04-04 &middot; London, England
+#### 1852-04-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1331,7 +1331,7 @@ United Kingdom. 41
 
 #### From _The Era_
 
-#### 1852-04-11 &middot; London, England
+#### 1852-04-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1341,7 +1341,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-04-13 &middot; Liverpool, England
+#### 1852-04-13 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1351,7 +1351,7 @@ United Kingdom. 41
 
 #### From _Manchester Times_
 
-#### 1852-04-17 &middot; Manchester, England
+#### 1852-04-17 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1361,7 +1361,7 @@ United Kingdom. 41
 
 #### From _Jackson's Oxford Journal_
 
-#### 1852-04-24 &middot; Oxford, England
+#### 1852-04-24 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -1371,7 +1371,7 @@ United Kingdom. 41
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1852-05-13 &middot; Exeter, England
+#### 1852-05-13 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -1381,7 +1381,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-05-18 &middot; Liverpool, England
+#### 1852-05-18 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1391,7 +1391,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-05-25 &middot; Liverpool, England
+#### 1852-05-25 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1401,7 +1401,7 @@ United Kingdom. 41
 
 #### From _Reynolds's  Newspaper_
 
-#### 1852-06-20 &middot; London, England
+#### 1852-06-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1411,7 +1411,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-09-03 &middot; Liverpool, England
+#### 1852-09-03 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1421,7 +1421,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-09-07 &middot; Liverpool, England
+#### 1852-09-07 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1431,7 +1431,7 @@ United Kingdom. 41
 
 #### From _Morning Chronicle_
 
-#### 1852-09-14 &middot; London, England
+#### 1852-09-14 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1441,7 +1441,7 @@ United Kingdom. 41
 
 #### From _Reynolds's  Newspaper_
 
-#### 1852-09-26 &middot; London, England
+#### 1852-09-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1451,7 +1451,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-09-28 &middot; Liverpool, England
+#### 1852-09-28 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1461,7 +1461,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-12-10 &middot; Liverpool, England
+#### 1852-12-10 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1471,7 +1471,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1852-12-14 &middot; Liverpool, England
+#### 1852-12-14 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1481,7 +1481,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-01-25 &middot; Liverpool, England
+#### 1853-01-25 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1491,7 +1491,7 @@ United Kingdom. 41
 
 #### From _The Era_
 
-#### 1853-01-30 &middot; London, England
+#### 1853-01-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1501,7 +1501,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-02-04 &middot; Liverpool, England
+#### 1853-02-04 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1511,7 +1511,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-04-08 &middot; Liverpool, England
+#### 1853-04-08 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1521,7 +1521,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-04-19 &middot; Liverpool, England
+#### 1853-04-19 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1531,7 +1531,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-05-06 &middot; Liverpool, England
+#### 1853-05-06 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1541,7 +1541,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-05-17 &middot; Liverpool, England
+#### 1853-05-17 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1551,7 +1551,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-05-20 &middot; Liverpool, England
+#### 1853-05-20 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1561,7 +1561,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-05-31 &middot; Liverpool, England
+#### 1853-05-31 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1571,7 +1571,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-06-03 &middot; Liverpool, England
+#### 1853-06-03 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1581,7 +1581,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-09-13 &middot; Liverpool, England
+#### 1853-09-13 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1591,7 +1591,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-09-16 &middot; Liverpool, England
+#### 1853-09-16 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1601,7 +1601,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-09-20 &middot; Liverpool, England
+#### 1853-09-20 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1611,7 +1611,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-09-30 &middot; Liverpool, England
+#### 1853-09-30 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1621,7 +1621,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-10-04 &middot; Liverpool, England
+#### 1853-10-04 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1631,7 +1631,7 @@ United Kingdom. 41
 
 #### From _Liverpool Mercury_
 
-#### 1853-10-07 &middot; Liverpool, England
+#### 1853-10-07 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1641,7 +1641,7 @@ United Kingdom. 41
 
 #### From _Hull Packet_
 
-#### 1855-02-23 &middot; Hull, England
+#### 1855-02-23 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -1649,7 +1649,7 @@ United Kingdom. 41
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1855-12-08_13_641?page=25)
 
-#### 1855-12-08
+#### 1855-12-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

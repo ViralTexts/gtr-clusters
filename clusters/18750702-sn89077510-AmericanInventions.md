@@ -19,7 +19,7 @@ The great American inventions, which have been adopted all over the world, are t
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1872-10-24/ed-1/seq-7)
 
-#### 1872-10-24 &middot; Kenosha, Wis.
+#### 1872-10-24 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -60,7 +60,7 @@ cessful composing machine for printers. Th
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1872-11-02/ed-1/seq-1)
 
-#### 1872-11-02 &middot; Frostburg, Md.
+#### 1872-11-02 &middot; [Frostburg, Md.](http://dbpedia.org/resource/Frostburg%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -97,7 +97,7 @@ yet to be
 
 ## [From _Essex County herald._](https://chroniclingamerica.loc.gov/lccn/sn84023416/1873-08-16/ed-1/seq-1)
 
-#### 1873-08-16 &middot; Guildhall, Vt.
+#### 1873-08-16 &middot; [Guildhall, Vt.](http://dbpedia.org/resource/Guildhall%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -144,7 +144,7 @@ facture of wool-cards is American. Ih
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-09-24/ed-1/seq-4)
 
-#### 1873-09-24 &middot; Somerset, Pa.
+#### 1873-09-24 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -191,7 +191,7 @@ cards is American. The whole I
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-10-04/ed-1/seq-4)
 
-#### 1873-10-04 &middot; Auburn, Placer County, Calif.
+#### 1873-10-04 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -217,7 +217,7 @@ machine is American The machine manu
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-11-01/ed-1/seq-1)
 
-#### 1873-11-01 &middot; Westminster, Md.
+#### 1873-11-01 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -263,7 +263,7 @@ of which the large capabilities are yet to
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-01-10_18_889?page=6)
 
-#### 1874-01-10 &middot; New York
+#### 1874-01-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -284,7 +284,7 @@ ited enlargement of the breadth of the web, The
 
 ## [From _Harper's weekly journal of civilization._](https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889?page=6)
 
-#### 1874-01-10 &middot; New York, N.Y.
+#### 1874-01-10 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -325,7 +325,7 @@ of ice was firet invented by an American; and the es
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1874-03-14/ed-1/seq-1)
 
-#### 1874-03-14 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1874-03-14 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -360,7 +360,7 @@ lieve, in A uerica. The machin
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
-#### 1874-05-01 &middot; Clare, South Australia
+#### 1874-05-01 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -382,7 +382,7 @@ engine ia American. The | sewing-machin
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1874-06-04/ed-1/seq-1)
 
-#### 1874-06-04 &middot; Helena, Mont.
+#### 1874-06-04 &middot; [Helena, Mont.](http://dbpedia.org/resource/Helena%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -421,7 +421,7 @@ ican. The sewing-machine is American. Th
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1874-06-12/ed-1/seq-3)
 
-#### 1874-06-12 &middot; Paw Paw, Mich.
+#### 1874-06-12 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -491,7 +491,7 @@ the large capabilities are yet to be
 
 ## [From _Appletons' Journal of Literature, Science and Art (1869-1876)_](https://iiif.archivelab.org/iiif/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326?page=28)
 
-#### 1875-06-19 &middot; New York
+#### 1875-06-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -530,7 +530,7 @@ composing-machine for printers is American
 
 ## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1875-07-02/ed-1/seq-2)
 
-#### 1875-07-02 &middot; Somerset, Ohio
+#### 1875-07-02 &middot; [Somerset, Ohio](http://dbpedia.org/resource/Somerset%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -563,7 +563,7 @@ cessful composing machine for printing
 
 ## [From _The workingman's advocate._](https://chroniclingamerica.loc.gov/lccn/sn89077510/1875-08-21/ed-1/seq-1)
 
-#### 1875-08-21 &middot; Chicago [Ill.]
+#### 1875-08-21 &middot; [Chicago [Ill.]](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -610,7 +610,7 @@ plication, by Hear Th
 
 #### From _Lowell daily citizen and news._
 
-#### 1875-08-27 &middot; Lowell, Mass.
+#### 1875-08-27 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -618,7 +618,7 @@ plication, by Hear Th
 
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1875-08-31/ed-1/seq-8)
 
-#### 1875-08-31 &middot; New Orleans [La.]
+#### 1875-08-31 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -664,7 +664,7 @@ successtul composing machine for printers
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1875-09-03/ed-1/seq-1)
 
-#### 1875-09-03 &middot; Dodgeville, Wis.
+#### 1875-09-03 &middot; [Dodgeville, Wis.](http://dbpedia.org/resource/Dodgeville%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -710,7 +710,7 @@ composing-machine for printers
 
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1875-09-04/ed-1/seq-1)
 
-#### 1875-09-04 &middot; Canton, Miss.
+#### 1875-09-04 &middot; [Canton, Miss.](http://dbpedia.org/resource/Canton%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -756,7 +756,7 @@ composing-machine for printers
 
 ## [From _Northern Ohio journal._](https://chroniclingamerica.loc.gov/lccn/sn84028194/1875-09-04/ed-1/seq-1)
 
-#### 1875-09-04 &middot; Painesville, Ohio
+#### 1875-09-04 &middot; [Painesville, Ohio](http://dbpedia.org/resource/Painesville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -804,7 +804,7 @@ composing-machine for printers
 
 #### From _Boston investigator._
 
-#### 1875-09-08 &middot; Boston, Mass.
+#### 1875-09-08 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -812,7 +812,7 @@ composing-machine for printers
 
 ## [From _Wilmington daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn84020594/1875-09-13/ed-1/seq-2)
 
-#### 1875-09-13 &middot; Wilmington, Del.
+#### 1875-09-13 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -876,7 +876,7 @@ practical application, by Henry and Morse
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1875-09-17/ed-1/seq-2)
 
-#### 1875-09-17 &middot; Salisbury, Litchfield Co., Conn.
+#### 1875-09-17 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -911,7 +911,7 @@ cessful composing machine for printers i
 
 #### From _The Galveston daily news._
 
-#### 1875-09-19 &middot; Houston [Tex.]
+#### 1875-09-19 &middot; [Houston [Tex.]](http://dbpedia.org/resource/Houston)
 
 [This text is not available under an open license.]
 
@@ -919,7 +919,7 @@ cessful composing machine for printers i
 
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1875-09-23/ed-1/seq-4)
 
-#### 1875-09-23 &middot; New Orleans [La.]
+#### 1875-09-23 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -955,7 +955,7 @@ application, by Henry and Morse
 
 ## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1875-09-28/ed-1/seq-1)
 
-#### 1875-09-28 &middot; Wheeling, W. Va.
+#### 1875-09-28 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -989,7 +989,7 @@ tor printer
 
 ## [From _The Leavenworth weekly times._](https://chroniclingamerica.loc.gov/lccn/sn84027691/1875-10-07/ed-1/seq-1)
 
-#### 1875-10-07 &middot; Leavenworth, Kan.
+#### 1875-10-07 &middot; [Leavenworth, Kan.](http://dbpedia.org/resource/Leavenworth%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1082,7 +1082,7 @@ cessful composing machine for printers.
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234?page=5)
 
-#### 1875-10-09
+#### 1875-10-09 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1147,7 +1147,7 @@ for printers.
 
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1875-10-22/ed-1/seq-1)
 
-#### 1875-10-22 &middot; Idaho City, Idaho Territory
+#### 1875-10-22 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1182,7 +1182,7 @@ printers
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-11-13/ed-1/seq-1)
 
-#### 1875-11-13 &middot; Shepherdstown, Va. [W. Va.]
+#### 1875-11-13 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1216,7 +1216,7 @@ Itfor priutera is American. The grai
 
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47?page=5)
 
-#### 1875-11-20 &middot; New York
+#### 1875-11-20 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1268,7 +1268,7 @@ for printers.
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1875-11-25/ed-1/seq-4)
 
-#### 1875-11-25 &middot; Superior, Wis.
+#### 1875-11-25 &middot; [Superior, Wis.](http://dbpedia.org/resource/Superior%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1323,7 +1323,7 @@ t
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-12-01/ed-1/seq-1)
 
-#### 1875-12-01 &middot; Mifflintown, Juniata County, Pa.
+#### 1875-12-01 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1341,7 +1341,7 @@ threw the goblet on the floor. The ufacture of ice on a large scale. 14 Th
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-12-01/ed-1/seq-1)
 
-#### 1875-12-01 &middot; Mifflintown, Juniata County, Pa.
+#### 1875-12-01 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1387,7 +1387,7 @@ printers,
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-12-09/ed-1/seq-1)
 
-#### 1875-12-09 &middot; Centre Hall, Pa.
+#### 1875-12-09 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1421,7 +1421,7 @@ printer*.
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1875-12-13/ed-1/seq-3)
 
-#### 1875-12-13 &middot; Barton, Vt.
+#### 1875-12-13 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1501,7 +1501,7 @@ inecouinon party at tue rronuer The only successful composing machine
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1876-01-13/ed-1/seq-1)
 
-#### 1876-01-13 &middot; Bridgeton, N.J.
+#### 1876-01-13 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1547,7 +1547,7 @@ successful composing machine for printers,
 
 ## [From _The daily Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053942/1876-01-20/ed-1/seq-2)
 
-#### 1876-01-20 &middot; Rock Island, Ill.
+#### 1876-01-20 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1600,7 +1600,7 @@ machine for prihters
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244?page=0)
 
-#### 1876-02-19
+#### 1876-02-19 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1654,7 +1654,7 @@ practical application, by Henry and Morse.
 
 #### From _St. Louis globe-Democrat._
 
-#### 1879-05-28 &middot; St. Louis [Mo.]
+#### 1879-05-28 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -1662,7 +1662,7 @@ practical application, by Henry and Morse.
 
 ## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1879-05-30/ed-1/seq-1)
 
-#### 1879-05-30 &middot; Iola, Allen County, Kansas
+#### 1879-05-30 &middot; [Iola, Allen County, Kansas](http://dbpedia.org/resource/Iola%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1695,7 +1695,7 @@ fifteenth, the composing machine fo
 
 ## [From _Morning appeal._](https://chroniclingamerica.loc.gov/lccn/sn86076999/1879-06-04/ed-1/seq-2)
 
-#### 1879-06-04 &middot; Carson City, Nev.
+#### 1879-06-04 &middot; [Carson City, Nev.](http://dbpedia.org/resource/Carson_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1728,7 +1728,7 @@ the composing machine for printers. It i
 
 ## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1879-06-10/ed-1/seq-3)
 
-#### 1879-06-10 &middot; Paris, Me.
+#### 1879-06-10 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1756,7 +1756,7 @@ for printers
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-06-11/ed-1/seq-3)
 
-#### 1879-06-11 &middot; Mifflintown, Juniata County, Pa.
+#### 1879-06-11 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1782,7 +1782,7 @@ the composing machine for printers
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1879-06-19/ed-1/seq-1)
 
-#### 1879-06-19 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+#### 1879-06-19 &middot; [Washington [Washington Court House], Fayette County, O. [Ohio]](http://dbpedia.org/resource/Washington_Court_House%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1814,7 +1814,7 @@ chine for printers. It is not rtea tna
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-06-26/ed-1/seq-3)
 
-#### 1879-06-26 &middot; Pulaski, Tenn.
+#### 1879-06-26 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1849,7 +1849,7 @@ posing machine for printers. It i
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1879-07-31/ed-1/seq-4)
 
-#### 1879-07-31 &middot; Ravenna, O. [Ohio]
+#### 1879-07-31 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1883,7 +1883,7 @@ machine for printers. It is not ofte
 
 ## [From _American Machinist 1877-2009_](https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17?page=2)
 
-#### 1879-08-30
+#### 1879-08-30 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1914,7 +1914,7 @@ composing machine for printers.
 
 ## [From _The Cincinnati daily star._](https://chroniclingamerica.loc.gov/lccn/sn85025759/1879-09-02/ed-1/seq-6)
 
-#### 1879-09-02 &middot; [Cincinnati, Ohio]
+#### 1879-09-02 &middot; [[Cincinnati, Ohio]](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1947,7 +1947,7 @@ the composing machine for printers. I
 
 #### From _Milwaukee daily sentinel._
 
-#### 1879-09-04 &middot; Milwaukee, Wis.
+#### 1879-09-04 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -1955,7 +1955,7 @@ the composing machine for printers. I
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-1)
 
-#### 1879-09-10 &middot; Watertown, Wis.
+#### 1879-09-10 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1988,7 +1988,7 @@ ers
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-2)
 
-#### 1879-09-10 &middot; Watertown, Wis.
+#### 1879-09-10 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2021,7 +2021,7 @@ composing machine for printers.
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-09-11/ed-1/seq-1)
 
-#### 1879-09-11 &middot; Lansing, Minn.
+#### 1879-09-11 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2048,7 +2048,7 @@ hone shoes tenth, the sand blast for
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-09-11/ed-1/seq-1)
 
-#### 1879-09-11 &middot; Lansing, Minn.
+#### 1879-09-11 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2067,7 +2067,7 @@ composing machine for printers.
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1879-09-13/ed-1/seq-2)
 
-#### 1879-09-13 &middot; Superior, Wis.
+#### 1879-09-13 &middot; [Superior, Wis.](http://dbpedia.org/resource/Superior%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2100,7 +2100,7 @@ composing machine for printers
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-10-02/ed-1/seq-2)
 
-#### 1879-10-02 &middot; Yorkville, S.C.
+#### 1879-10-02 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2127,7 +2127,7 @@ for printers
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1879-10-23/ed-1/seq-1)
 
-#### 1879-10-23 &middot; Helena, Mont.
+#### 1879-10-23 &middot; [Helena, Mont.](http://dbpedia.org/resource/Helena%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2159,7 +2159,7 @@ tbe composing machine for printers.
 
 #### From _The Wisconsin state register._
 
-#### 1879-11-29 &middot; Portage, Columbia County, Wis.
+#### 1879-11-29 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
 
 [This text is not available under an open license.]
 
@@ -2167,7 +2167,7 @@ tbe composing machine for printers.
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1880-04-14/ed-1/seq-2)
 
-#### 1880-04-14 &middot; Montpelier, Vt.
+#### 1880-04-14 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2191,7 +2191,7 @@ elevator. 13. Artificial ice making o
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1880-04-16/ed-1/seq-2)
 
-#### 1880-04-16 &middot; Wheeling, W. Va.
+#### 1880-04-16 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2213,7 +2213,7 @@ gaoge lathe. 12. The gram elevator. 13
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1880-04-21/ed-1/seq-1)
 
-#### 1880-04-21 &middot; Salisbury, Litchfield Co., Conn.
+#### 1880-04-21 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2253,7 +2253,7 @@ elevator. 13. Artificial ice making on
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1880-04-23/ed-1/seq-3)
 
-#### 1880-04-23 &middot; Paw Paw, Mich.
+#### 1880-04-23 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2279,7 +2279,7 @@ The composing machine for printers
 
 ## [From _Daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn93061632/1880-04-23/ed-1/seq-3)
 
-#### 1880-04-23 &middot; Las Vegas, N.M.
+#### 1880-04-23 &middot; [Las Vegas, N.M.](http://dbpedia.org/resource/Las_Vegas%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2306,7 +2306,7 @@ magnet and its practical application.
 
 ## [From _Northern Ohio journal._](https://chroniclingamerica.loc.gov/lccn/sn84028194/1880-05-01/ed-1/seq-4)
 
-#### 1880-05-01 &middot; Painesville, Ohio
+#### 1880-05-01 &middot; [Painesville, Ohio](http://dbpedia.org/resource/Painesville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2332,7 +2332,7 @@ The composing machine for printers. .
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1880-05-05/ed-1/seq-1)
 
-#### 1880-05-05 &middot; Abbeville, S.C.
+#### 1880-05-05 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2358,7 +2358,7 @@ lag on a large scale. 14. Th** electric
 
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1880-05-13/ed-1/seq-6)
 
-#### 1880-05-13 &middot; Ironton, Iron County, Mo.
+#### 1880-05-13 &middot; [Ironton, Iron County, Mo.](http://dbpedia.org/resource/Ironton%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2384,7 +2384,7 @@ The composing machine for printers.
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1880-05-20/ed-1/seq-4)
 
-#### 1880-05-20 &middot; Bellevue, Bossier Parish, La.
+#### 1880-05-20 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2413,7 +2413,7 @@ The composing machine for printers.
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1880-05-20/ed-1/seq-4)
 
-#### 1880-05-20 &middot; Pulaski, Tenn.
+#### 1880-05-20 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2450,7 +2450,7 @@ tvator. 1J. Artificial ice makin
 
 #### From _St. Louis globe-Democrat._
 
-#### 1880-05-23 &middot; St. Louis [Mo.]
+#### 1880-05-23 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -2458,7 +2458,7 @@ tvator. 1J. Artificial ice makin
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25?page=6)
 
-#### 1880-06-17 &middot; New York
+#### 1880-06-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2487,7 +2487,7 @@ for printers.
 
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1880-06-24/ed-1/seq-1)
 
-#### 1880-06-24 &middot; [Wilmington, Del.]
+#### 1880-06-24 &middot; [[Wilmington, Del.]](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2521,7 +2521,7 @@ fifteenth, the composing machine fo
 
 #### From _Boston investigator._
 
-#### 1880-07-14 &middot; Boston, Mass.
+#### 1880-07-14 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -2529,7 +2529,7 @@ fifteenth, the composing machine fo
 
 ## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1880-11-06/ed-1/seq-3)
 
-#### 1880-11-06 &middot; Rock Island, Ill.
+#### 1880-11-06 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2560,7 +2560,7 @@ the composing machine for printers. I
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4?page=6)
 
-#### 1881-01-27 &middot; New York
+#### 1881-01-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2585,7 +2585,7 @@ ing machine for printers. A sixteenth must b
 
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1881-04-21/ed-1/seq-1)
 
-#### 1881-04-21 &middot; Mexico, Mo.
+#### 1881-04-21 &middot; [Mexico, Mo.](http://dbpedia.org/resource/Mexico%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2616,7 +2616,7 @@ Artificial ice making on a large
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1881-04-26/ed-1/seq-1)
 
-#### 1881-04-26 &middot; Woodsfield, Ohio
+#### 1881-04-26 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2644,7 +2644,7 @@ The composing machine for printerst&#x27;
 
 #### From _Georgia weekly telegraph, journal & messenger._
 
-#### 1881-06-03 &middot; Macon, Ga.
+#### 1881-06-03 &middot; [Macon, Ga.](http://dbpedia.org/resource/Macon%2C_Georgia)
 
 [This text is not available under an open license.]
 
@@ -2652,7 +2652,7 @@ The composing machine for printerst&#x27;
 
 ## [From _The daily Cairo bulletin._](https://chroniclingamerica.loc.gov/lccn/sn87082573/1881-06-10/ed-1/seq-1)
 
-#### 1881-06-10 &middot; Cairo, Ill.
+#### 1881-06-10 &middot; [Cairo, Ill.](http://dbpedia.org/resource/Cairo%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2679,7 +2679,7 @@ calo
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1881-06-11/ed-1/seq-1)
 
-#### 1881-06-11 &middot; Opelousas, La.
+#### 1881-06-11 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2724,7 +2724,7 @@ horse-shoes.
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1881-06-15/ed-1/seq-1)
 
-#### 1881-06-15 &middot; Newberry, S.C.
+#### 1881-06-15 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2755,7 +2755,7 @@ machine for printers. A sixteent
 
 #### From _The Wisconsin state register._
 
-#### 1881-06-25 &middot; Portage, Columbia County, Wis.
+#### 1881-06-25 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
 
 [This text is not available under an open license.]
 
@@ -2763,7 +2763,7 @@ machine for printers. A sixteent
 
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1881-07-15/ed-1/seq-2)
 
-#### 1881-07-15 &middot; Albany, Linn County, Oregon
+#### 1881-07-15 &middot; [Albany, Linn County, Oregon](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2786,7 +2786,7 @@ am elevator; 1 artificial ice makin
 
 ## [From _The weekly miner._](https://chroniclingamerica.loc.gov/lccn/sn84036032/1881-08-09/ed-1/seq-6)
 
-#### 1881-08-09 &middot; Butte, Mont.
+#### 1881-08-09 &middot; [Butte, Mont.](http://dbpedia.org/resource/Butte%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2813,7 +2813,7 @@ horse-shoes.
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1881-08-25/ed-1/seq-4)
 
-#### 1881-08-25 &middot; Belfast, Me.
+#### 1881-08-25 &middot; [Belfast, Me.](http://dbpedia.org/resource/Belfast%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2835,7 +2835,7 @@ the grain elevator; Id, artifical ice-mak
 
 ## [From _The Stark County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028490/1881-08-25/ed-1/seq-7)
 
-#### 1881-08-25 &middot; Canton, Ohio
+#### 1881-08-25 &middot; [Canton, Ohio](http://dbpedia.org/resource/Canton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2861,7 +2861,7 @@ II, The gange lathe.
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1881-08-29/ed-1/seq-4)
 
-#### 1881-08-29 &middot; Memphis, Tenn.
+#### 1881-08-29 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2892,7 +2892,7 @@ tical application.-
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1881-09-07/ed-1/seq-1)
 
-#### 1881-09-07 &middot; Clearfield, Pa.
+#### 1881-09-07 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2924,7 +2924,7 @@ guugo lathe., 12, Tho grain elevator.
 
 #### From _Graphic_
 
-#### 1881-09-24 &middot; London, England
+#### 1881-09-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -2934,7 +2934,7 @@ guugo lathe., 12, Tho grain elevator.
 
 #### From _Daily evening bulletin._
 
-#### 1881-10-08 &middot; San Francisco [Calif.]
+#### 1881-10-08 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -2942,7 +2942,7 @@ guugo lathe., 12, Tho grain elevator.
 
 ## [From _Union County courier._](https://chroniclingamerica.loc.gov/lccn/sn84022137/1881-11-16/ed-1/seq-1)
 
-#### 1881-11-16 &middot; Elk Point, Union County, D.T. [S.D.]
+#### 1881-11-16 &middot; [Elk Point, Union County, D.T. [S.D.]](http://dbpedia.org/resource/Elk_Point%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2998,7 +2998,7 @@ practical application.
 
 ## [From _The Canton advocate._](https://chroniclingamerica.loc.gov/lccn/sn83025440/1882-01-05/ed-1/seq-5)
 
-#### 1882-01-05 &middot; Canton, D.T. [S.D.]
+#### 1882-01-05 &middot; [Canton, D.T. [S.D.]](http://dbpedia.org/resource/Canton%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3048,7 +3048,7 @@ cal application.
 
 ## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1882-10-12/ed-1/seq-4)
 
-#### 1882-10-12 &middot; Troy, Kan.
+#### 1882-10-12 &middot; [Troy, Kan.](http://dbpedia.org/resource/Troy%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3074,7 +3074,7 @@ li The grain elevator.
 
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1882-10-26/ed-1/seq-1)
 
-#### 1882-10-26 &middot; Salina, Kan.
+#### 1882-10-26 &middot; [Salina, Kan.](http://dbpedia.org/resource/Salina%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3104,7 +3104,7 @@ horse-shoes.
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5?page=3)
 
-#### 1884-08-16
+#### 1884-08-16 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3128,7 +3128,7 @@ tical application. 15. The telephone.
 
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3?page=50)
 
-#### 1884-09-01 &middot; Philadelphia
+#### 1884-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3160,7 +3160,7 @@ chine for printers.
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1885-04-23/ed-1/seq-4)
 
-#### 1885-04-23 &middot; Anderson Court House, S.C.
+#### 1885-04-23 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3204,7 +3204,7 @@ shoes.
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1885-04-23/ed-2/seq-4)
 
-#### 1885-04-23 &middot; Anderson Court House, S.C.
+#### 1885-04-23 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3231,7 +3231,7 @@ Ki, Artificial ice-making on a larg
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1886-04-13/ed-1/seq-1)
 
-#### 1886-04-13 &middot; Woodsfield, Ohio
+#### 1886-04-13 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3254,7 +3254,7 @@ II. Tbe grain elevator.. 13 Artificia
 
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1887-07-26/ed-1/seq-4)
 
-#### 1887-07-26 &middot; Savannah, Ga.
+#### 1887-07-26 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3275,7 +3275,7 @@ grain elevator; IS. artificial ice making on
 
 ## [From _The Marietta journal._](https://chroniclingamerica.loc.gov/lccn/sn85034082/1887-08-04/ed-1/seq-2)
 
-#### 1887-08-04 &middot; Marietta, Ga.
+#### 1887-08-04 &middot; [Marietta, Ga.](http://dbpedia.org/resource/Marietta%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3304,7 +3304,7 @@ tiicial ice making on a large scale
 
 #### From _Daily evening bulletin._
 
-#### 1887-08-13 &middot; San Francisco [Calif.]
+#### 1887-08-13 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -3312,7 +3312,7 @@ tiicial ice making on a large scale
 
 ## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1887-08-13_64_1665?page=10)
 
-#### 1887-08-13 &middot; New York, N.Y.
+#### 1887-08-13 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3335,7 +3335,7 @@ electric magnet and its practical application ; and
 
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1887-08-20/ed-1/seq-7)
 
-#### 1887-08-20 &middot; Oakland, Md.
+#### 1887-08-20 &middot; [Oakland, Md.](http://dbpedia.org/resource/Oakland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3358,7 +3358,7 @@ elevator; 13, artificial ice making on
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1887-08-24/ed-1/seq-1)
 
-#### 1887-08-24 &middot; Watertown, Wis.
+#### 1887-08-24 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3381,7 +3381,7 @@ elevator; 13, artificial ice making on
 
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1887-08-27/ed-1/seq-4)
 
-#### 1887-08-27 &middot; Penn's Grove, Salem Co., N.J.
+#### 1887-08-27 &middot; [Penn's Grove, Salem Co., N.J.](http://dbpedia.org/resource/Penns_Grove%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3411,7 +3411,7 @@ elevator; 13, artificial ice-making on
 
 ## [From _The Indianapolis journal._](https://chroniclingamerica.loc.gov/lccn/sn82015679/1887-08-29/ed-1/seq-4)
 
-#### 1887-08-29 &middot; Indianapolis [Ind.]
+#### 1887-08-29 &middot; [Indianapolis [Ind.]](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3434,7 +3434,7 @@ the grain elevator; 13, artificial ice-making on
 
 #### From _Hampshire/Portsmouth Telegraph_
 
-#### 1887-09-03 &middot; Portsmouth, England
+#### 1887-09-03 &middot; [Portsmouth, England](http://dbpedia.org/resource/Portsmouth)
 
 [This text is not available under an open license.]
 
@@ -3442,7 +3442,7 @@ the grain elevator; 13, artificial ice-making on
 
 ## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1887-09-07_64_36?page=6)
 
-#### 1887-09-07 &middot; Boston
+#### 1887-09-07 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3467,7 +3467,7 @@ vator; 13, artificial ice-making on
 
 #### From _The Atchison daily globe._
 
-#### 1887-09-10 &middot; Atchison, Kan.
+#### 1887-09-10 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -3475,7 +3475,7 @@ vator; 13, artificial ice-making on
 
 ## [From _American: A National Journal 1880-1900_](https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370?page=14)
 
-#### 1887-09-10
+#### 1887-09-10 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3496,7 +3496,7 @@ facture of horseshoes; 10, the sand-blast for carving; 11, the gauge lathe:
 
 ## [From _The Atlanta constitution._](https://chroniclingamerica.loc.gov/lccn/sn89053706/1887-09-13/ed-1/seq-6)
 
-#### 1887-09-13 &middot; Atlanta, Ga.
+#### 1887-09-13 &middot; [Atlanta, Ga.](http://dbpedia.org/resource/Atlanta)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3519,7 +3519,7 @@ magnet and its practical application; and,
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1887-09-15/ed-1/seq-4)
 
-#### 1887-09-15 &middot; Bellevue, Bossier Parish, La.
+#### 1887-09-15 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3542,7 +3542,7 @@ elevator; 13, artificial ice making on
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1887-09-15_58_37?page=6)
 
-#### 1887-09-15 &middot; New York
+#### 1887-09-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3563,7 +3563,7 @@ grain elevator; 13, artificial ice-making on a larg
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1887-09-21/ed-1/seq-7)
 
-#### 1887-09-21 &middot; Abbeville, S.C.
+#### 1887-09-21 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3590,7 +3590,7 @@ elevator; 13, artificial ice-making on
 
 ## [From _Fort Worth daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn86064205/1887-09-22/ed-1/seq-3)
 
-#### 1887-09-22 &middot; Fort Worth, Tex.
+#### 1887-09-22 &middot; [Fort Worth, Tex.](http://dbpedia.org/resource/Fort_Worth%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3637,7 +3637,7 @@ shoes
 
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1887-09-23/ed-1/seq-2)
 
-#### 1887-09-23 &middot; Perrysburg, Wood Co., O. [Ohio]
+#### 1887-09-23 &middot; [Perrysburg, Wood Co., O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3656,7 +3656,7 @@ the grain elevator ; 13, artificial ice mak
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1887-09-23/ed-1/seq-2)
 
-#### 1887-09-23 &middot; Ebensburg, Pa.
+#### 1887-09-23 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3679,7 +3679,7 @@ gaug lathe. (12) the rain elevator, (13) arti-
 
 ## [From _Iowa County democrat._](https://chroniclingamerica.loc.gov/lccn/sn86086852/1887-09-23/ed-1/seq-4)
 
-#### 1887-09-23 &middot; Mineral Point, Wis.
+#### 1887-09-23 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3710,7 +3710,7 @@ tical application.
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1887-09-24/ed-1/seq-6)
 
-#### 1887-09-24 &middot; Ottawa, Ill.
+#### 1887-09-24 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3732,7 +3732,7 @@ artillcial ice making on a large scale; 11, th
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1887-09-29/ed-1/seq-4)
 
-#### 1887-09-29 &middot; St. Clairsville, Ohio
+#### 1887-09-29 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3754,7 +3754,7 @@ artificial ice making on a large scale; 14, tb
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1887-10-01/ed-1/seq-6)
 
-#### 1887-10-01 &middot; McMinnville, Tenn.
+#### 1887-10-01 &middot; [McMinnville, Tenn.](http://dbpedia.org/resource/McMinnville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3801,7 +3801,7 @@ horseshoes.
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1887-10-05/ed-1/seq-6)
 
-#### 1887-10-05 &middot; Abbeville, S.C.
+#### 1887-10-05 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3825,7 +3825,7 @@ elevator, (13) artificial ice-making on
 
 ## [From _Savannah courier._](https://chroniclingamerica.loc.gov/lccn/sn89058248/1887-10-06/ed-1/seq-2)
 
-#### 1887-10-06 &middot; Savannah, Tenn.
+#### 1887-10-06 &middot; [Savannah, Tenn.](http://dbpedia.org/resource/Savannah%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3850,7 +3850,7 @@ artificial ice-making on a larg
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1887-10-06/ed-1/seq-1)
 
-#### 1887-10-06 &middot; Lancaster, Wis.
+#### 1887-10-06 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3874,7 +3874,7 @@ gage lathe, (12) the grain elevator,
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1887-10-07/ed-1/seq-2)
 
-#### 1887-10-07 &middot; Kenosha, Wis.
+#### 1887-10-07 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3911,7 +3911,7 @@ horseshoes.
 
 #### From _The Wisconsin state register._
 
-#### 1887-10-08 &middot; Portage, Columbia County, Wis.
+#### 1887-10-08 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
 
 [This text is not available under an open license.]
 
@@ -3919,7 +3919,7 @@ horseshoes.
 
 ## [From _The Ouachita telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85034336/1887-10-08/ed-1/seq-2)
 
-#### 1887-10-08 &middot; Monroe, La.
+#### 1887-10-08 &middot; [Monroe, La.](http://dbpedia.org/resource/Monroe%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3945,7 +3945,7 @@ tor; (13) artificial ice making on
 
 #### From _The daily picayune._
 
-#### 1887-10-09 &middot; New Orleans, La.
+#### 1887-10-09 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -3953,7 +3953,7 @@ tor; (13) artificial ice making on
 
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1887-10-13/ed-1/seq-7)
 
-#### 1887-10-13 &middot; Ironton, Iron County, Mo.
+#### 1887-10-13 &middot; [Ironton, Iron County, Mo.](http://dbpedia.org/resource/Ironton%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3976,7 +3976,7 @@ grain elevator; 13. artificial ice-makin
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1887-10-13/ed-1/seq-1)
 
-#### 1887-10-13 &middot; Manitowoc, Wis.
+#### 1887-10-13 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4002,7 +4002,7 @@ gage lathe, (12) the grain elevator,
 
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
 
-#### 1887-10-15 &middot; Sydney, New South Wales
+#### 1887-10-15 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4019,7 +4019,7 @@ grain elevator ; 18, artificial ice
 
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1887-10-19/ed-1/seq-1)
 
-#### 1887-10-19 &middot; Russellville, Ark.
+#### 1887-10-19 &middot; [Russellville, Ark.](http://dbpedia.org/resource/Russellville%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4042,7 +4042,7 @@ grain elevator; 13, artificial ice-makin
 
 ## [From _The Lebanon express._](https://chroniclingamerica.loc.gov/lccn/sn97071028/1887-10-21/ed-1/seq-1)
 
-#### 1887-10-21 &middot; Lebanon, Linn County, Or.
+#### 1887-10-21 &middot; [Lebanon, Linn County, Or.](http://dbpedia.org/resource/Lebanon%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4065,7 +4065,7 @@ elevator; 13, artificial ice making on
 
 ## [From _The Iowa plain dealer._](https://chroniclingamerica.loc.gov/lccn/sn83025167/1887-10-27/ed-1/seq-1)
 
-#### 1887-10-27 &middot; New Oregon, Howard County, Iowa
+#### 1887-10-27 &middot; [New Oregon, Howard County, Iowa](http://dbpedia.org/resource/Cresco%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4088,7 +4088,7 @@ grain elevator 13, artificial ice-makin
 
 ## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1887-10-27/ed-1/seq-2)
 
-#### 1887-10-27 &middot; River Falls, Pierce County, Wis.
+#### 1887-10-27 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4111,7 +4111,7 @@ rrninelcra 13. ar ificial ic -makiu
 
 ## [From _The Kimball graphic._](https://chroniclingamerica.loc.gov/lccn/sn99068076/1887-10-28/ed-1/seq-4)
 
-#### 1887-10-28 &middot; Kimball, Brule County, Dakota [S.D.]
+#### 1887-10-28 &middot; [Kimball, Brule County, Dakota [S.D.]](http://dbpedia.org/resource/Kimball%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4138,7 +4138,7 @@ tificial ice-making on a large scale
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1887-10-29/ed-1/seq-4)
 
-#### 1887-10-29 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1887-10-29 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4161,7 +4161,7 @@ grain elevator, 13, artificial ice-makin
 
 ## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1887-10-30/ed-1/seq-15)
 
-#### 1887-10-30 &middot; Saint Paul, Minn.
+#### 1887-10-30 &middot; [Saint Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4185,7 +4185,7 @@ elevator, (13) artificial ice making on
 
 ## [From _Custer chronicle._](https://chroniclingamerica.loc.gov/lccn/sn97065762/1887-11-05/ed-1/seq-3)
 
-#### 1887-11-05 &middot; Custer City, Black Hills, D.T. [S.D.]
+#### 1887-11-05 &middot; [Custer City, Black Hills, D.T. [S.D.]](http://dbpedia.org/resource/Custer%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4212,7 +4212,7 @@ g lathe, (12) the grain elevator,
 
 ## [From _The Clifton clarion._](https://chroniclingamerica.loc.gov/lccn/sn94050557/1887-11-09/ed-1/seq-1)
 
-#### 1887-11-09 &middot; Clifton, Graham County, A.T., Ariz.
+#### 1887-11-09 &middot; [Clifton, Graham County, A.T., Ariz.](http://dbpedia.org/resource/Clifton%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4246,7 +4246,7 @@ artificial ice-making on a larg
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1887-11-12 &middot; Sydney, New South Wales
+#### 1887-11-12 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4266,7 +4266,7 @@ artificial icemakinp on a large scale ;
 
 ## [From _Semi-weekly interior journal._](https://chroniclingamerica.loc.gov/lccn/sn85052020/1887-12-13/ed-1/seq-4)
 
-#### 1887-12-13 &middot; Stanford, Ky.
+#### 1887-12-13 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4291,7 +4291,7 @@ The grain elevator. 13 Artificial ice ma
 
 ## [From _Morris tribune._](https://chroniclingamerica.loc.gov/lccn/sn91059394/1887-12-14/ed-1/seq-3)
 
-#### 1887-12-14 &middot; Morris, Minn.
+#### 1887-12-14 &middot; [Morris, Minn.](http://dbpedia.org/resource/Morris%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4318,7 +4318,7 @@ grain elevator, (13) artificial ice-mak
 
 ## [From _Morris tribune._](https://chroniclingamerica.loc.gov/lccn/sn91059394/1887-12-14/ed-1/seq-4)
 
-#### 1887-12-14 &middot; Morris, Minn.
+#### 1887-12-14 &middot; [Morris, Minn.](http://dbpedia.org/resource/Morris%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4345,7 +4345,7 @@ grain elevator, (13) artificial ice-mak
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1887-12-16/ed-1/seq-1)
 
-#### 1887-12-16 &middot; Olympia, Wash. Territory
+#### 1887-12-16 &middot; [Olympia, Wash. Territory](http://dbpedia.org/resource/Olympia%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4374,7 +4374,7 @@ ficial ice-making on a 1 irge scale; 14
 
 #### From _South Australian Weekly Chronicle (Adelaide, SA : 1881 - 1889)_
 
-#### 1887-12-24 &middot; Adelaide, South Australia
+#### 1887-12-24 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4403,7 +4403,7 @@ gatspe lathe; 12. The grain elevator;
 
 #### From _The South Australian Advertiser (Adelaide, SA : 1858 - 1889)_
 
-#### 1887-12-28 &middot; Adelaide, South Australia
+#### 1887-12-28 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4424,7 +4424,7 @@ carving; lL The f&quot; 5?? M* 6* 12- The
 
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-01-13/ed-1/seq-6)
 
-#### 1888-01-13 &middot; Wessington Springs, Aurora County, Dakota [S.D.]
+#### 1888-01-13 &middot; [Wessington Springs, Aurora County, Dakota [S.D.]](http://dbpedia.org/resource/Wessington_Springs%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4469,7 +4469,7 @@ KANSAS railroads ar
 
 ## [From _Lake Charles commercial._](https://chroniclingamerica.loc.gov/lccn/2013271051/1888-01-14/ed-1/seq-3)
 
-#### 1888-01-14 &middot; Lake Charles, Calcasieu Parish, La.
+#### 1888-01-14 &middot; [Lake Charles, Calcasieu Parish, La.](http://dbpedia.org/resource/Lake_Charles%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4496,7 +4496,7 @@ tor; (13) artificial ice making on
 
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
 
-#### 1888-01-21 &middot; Maitland, New South Wales
+#### 1888-01-21 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4519,7 +4519,7 @@ artifical ice-making on a large scale
 
 #### From _Mackay Mercury (Qld. : 1887 - 1905)_
 
-#### 1888-03-24 &middot; Mackay, Queensland
+#### 1888-03-24 &middot; [Mackay, Queensland](http://dbpedia.org/resource/Mackay%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4543,7 +4543,7 @@ artificial iee-makingon a. larg
 
 #### From _Kapunda Herald (SA : 1878 - 1951)_
 
-#### 1888-03-27 &middot; Kapunda, South Australia
+#### 1888-03-27 &middot; [Kapunda, South Australia](http://dbpedia.org/resource/Kapunda)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4563,7 +4563,7 @@ elevator; 13. artificial icc-making on
 
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1888-03-30/ed-1/seq-3)
 
-#### 1888-03-30 &middot; Idaho City, Idaho Territory
+#### 1888-03-30 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4586,7 +4586,7 @@ j grain elevator; 13. artificial ice-makin
 
 ## [From _The Magnolia gazette._](https://chroniclingamerica.loc.gov/lccn/sn85034447/1888-04-28/ed-1/seq-1)
 
-#### 1888-04-28 &middot; Magnolia, Miss.
+#### 1888-04-28 &middot; [Magnolia, Miss.](http://dbpedia.org/resource/Magnolia%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4614,7 +4614,7 @@ lath ; (12) the grain elevator ;
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1888-04-28 &middot; Melbourne, Victoria
+#### 1888-04-28 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4660,7 +4660,7 @@ the grain elevator; 13, artificial ice making on a larg
 
 #### From _Mercury and Weekly Courier (Vic. : 1878 - 1903)_
 
-#### 1888-08-24 &middot; Fitzroy, Victoria
+#### 1888-08-24 &middot; [Fitzroy, Victoria](http://dbpedia.org/resource/Fitzroy%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4683,7 +4683,7 @@ grain elevator ; 13, artificial ice
 
 #### From _Boston investigator._
 
-#### 1888-08-29 &middot; Boston, Mass.
+#### 1888-08-29 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -4691,7 +4691,7 @@ grain elevator ; 13, artificial ice
 
 ## [From _Arizona silver belt._](https://chroniclingamerica.loc.gov/lccn/sn84021913/1888-09-29/ed-1/seq-4)
 
-#### 1888-09-29 &middot; Globe City, Pinal County, Ariz.
+#### 1888-09-29 &middot; [Globe City, Pinal County, Ariz.](http://dbpedia.org/resource/Globe%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4717,7 +4717,7 @@ Tho gauge lathe 12 Th
 
 ## [From _Omaha daily bee._](https://chroniclingamerica.loc.gov/lccn/sn99021999/1888-09-30/ed-1/seq-12)
 
-#### 1888-09-30 &middot; Omaha [Neb.]
+#### 1888-09-30 &middot; [Omaha [Neb.]](http://dbpedia.org/resource/Omaha%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4742,7 +4742,7 @@ blast&#x27;for carving. 11. The gauge-lathe.
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1888-10-04_59_40?page=7)
 
-#### 1888-10-04 &middot; New York
+#### 1888-10-04 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4766,7 +4766,7 @@ grain elevator; 13, Artifictal ice-making on a larg
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1888-10-31/ed-1/seq-3)
 
-#### 1888-10-31 &middot; Mifflintown, Juniata County, Pa.
+#### 1888-10-31 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4786,7 +4786,7 @@ ficial ice making on a Urge scale ; 14. Tb
 
 ## [From _The Fairfield news and herald._](https://chroniclingamerica.loc.gov/lccn/2012218613/1888-10-31/ed-1/seq-4)
 
-#### 1888-10-31 &middot; Winnsboro, S.C.
+#### 1888-10-31 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4814,7 +4814,7 @@ shoes.
 
 ## [From _The evening telegram._](https://chroniclingamerica.loc.gov/lccn/sn86077146/1888-11-12/ed-1/seq-2)
 
-#### 1888-11-12 &middot; Camden, N.J.
+#### 1888-11-12 &middot; [Camden, N.J.](http://dbpedia.org/resource/Camden%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4836,7 +4836,7 @@ The grain elevator. 13. Artificial ice makin
 
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1888-11-14/ed-1/seq-2)
 
-#### 1888-11-14 &middot; New Ulm, Minn.
+#### 1888-11-14 &middot; [New Ulm, Minn.](http://dbpedia.org/resource/New_Ulm%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4870,7 +4870,7 @@ The Cream of the Sews Gleaned Fro
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1888-11-30/ed-1/seq-4)
 
-#### 1888-11-30 &middot; Shepherdstown, Va. [W. Va.]
+#### 1888-11-30 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4894,7 +4894,7 @@ tor; 13, Artilicial ice making on
 
 ## [From _Wheeling Sunday register._](https://chroniclingamerica.loc.gov/lccn/sn86092523/1889-01-06/ed-1/seq-3)
 
-#### 1889-01-06 &middot; Wheeling, W. Va.
+#### 1889-01-06 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4915,7 +4915,7 @@ blast for carving: 11th, tbe gauge lathe;
 
 #### From _Petersburg Times (SA : 1887 - 1919)_
 
-#### 1889-03-01 &middot; Peterborough, South Australia
+#### 1889-03-01 &middot; [Peterborough, South Australia](http://dbpedia.org/resource/Peterborough%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4936,7 +4936,7 @@ Artificial icemaking on a large scale
 
 ## [From _Baxter Springs news._](https://chroniclingamerica.loc.gov/lccn/sn83040592/1891-01-17/ed-1/seq-7)
 
-#### 1891-01-17 &middot; Baxter Springs, Kan.
+#### 1891-01-17 &middot; [Baxter Springs, Kan.](http://dbpedia.org/resource/Baxter_Springs%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

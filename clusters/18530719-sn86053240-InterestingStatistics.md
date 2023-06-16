@@ -31,7 +31,7 @@ Some of these statements are rather singular, and yet many of them are susceptib
 
 #### From _Jackson's Oxford Journal_
 
-#### 1851-10-18 &middot; Oxford, England
+#### 1851-10-18 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -39,7 +39,7 @@ Some of these statements are rather singular, and yet many of them are susceptib
 
 ## [From _Semi-weekly Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn93067976/1851-11-11/ed-1/seq-3)
 
-#### 1851-11-11 &middot; Camden, South-Carolina
+#### 1851-11-11 &middot; [Camden, South-Carolina](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -57,7 +57,7 @@ in Africa, and 1264 in America. The numbe
 
 #### From _German reformed messenger._
 
-#### 1851-12-03 &middot; Chambersburg, Pa.
+#### 1851-12-03 &middot; [Chambersburg, Pa.](http://dbpedia.org/resource/Chambersburg%2C_Pennsylvania)
 
 [This text is not available under an open license.]
 
@@ -67,7 +67,7 @@ in Africa, and 1264 in America. The numbe
 
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
 
-#### 1852-02-28 &middot; Launceston, Tasmania
+#### 1852-02-28 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -82,7 +82,7 @@ Africa, and 1,264 in America. AUSTRALIA
 
 #### From _The Argus (Melbourne, Vic. : 1848 - 1957)_
 
-#### 1852-03-09 &middot; Melbourne, Victoria
+#### 1852-03-09 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -109,7 +109,7 @@ learned Jacob Bryant, one of hi
 
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
 
-#### 1852-05-05 &middot; Maitland, New South Wales
+#### 1852-05-05 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -125,7 +125,7 @@ America. The number of males is nearl
 
 #### From _The Alta California._
 
-#### 1853-03-01 &middot; San Francisco, Calif.
+#### 1853-03-01 &middot; [San Francisco, Calif.](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -133,7 +133,7 @@ America. The number of males is nearl
 
 ## [From _The Rutland County herald._](https://chroniclingamerica.loc.gov/lccn/sn84022366/1853-05-14/ed-1/seq-1)
 
-#### 1853-05-14 &middot; Rutland, Vt.
+#### 1853-05-14 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -168,7 +168,7 @@ reath Ihe age of fifi, nnd not more than
 
 ## [From _The Rutland County herald._](https://chroniclingamerica.loc.gov/lccn/sn84022366/1853-05-14/ed-1/seq-1)
 
-#### 1853-05-14 &middot; Rutland, Vt.
+#### 1853-05-14 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -225,7 +225,7 @@ laallieHiali wi
 
 #### From _Boston investigator._
 
-#### 1853-07-06 &middot; Boston, Mass.
+#### 1853-07-06 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -233,7 +233,7 @@ laallieHiali wi
 
 ## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1853-07-10/ed-1/seq-2)
 
-#### 1853-07-10 &middot; Washington [D.C.]
+#### 1853-07-10 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -294,7 +294,7 @@ ier garment* M&quot;
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1853-07-15/ed-1/seq-2)
 
-#### 1853-07-15 &middot; Wilmington, N.C.
+#### 1853-07-15 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -321,7 +321,7 @@ IIS pot oi
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1853-07-15/ed-1/seq-2)
 
-#### 1853-07-15 &middot; Wilmington, N.C.
+#### 1853-07-15 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -384,7 +384,7 @@ flannel under-garments. N. Y. Dutchman
 
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1853-07-16/ed-1/seq-2)
 
-#### 1853-07-16 &middot; Fayetteville [N.C.]
+#### 1853-07-16 &middot; [Fayetteville [N.C.]](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -460,7 +460,7 @@ ue of flannel under-garments. A&quot;. Yor
 
 ## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-07-19/ed-1/seq-1)
 
-#### 1853-07-19 &middot; Sumterville, S.C.
+#### 1853-07-19 &middot; [Sumterville, S.C.](http://dbpedia.org/resource/Sumter%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -547,7 +547,7 @@ dergarments
 
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1853-07-23/ed-1/seq-3)
 
-#### 1853-07-23 &middot; Plaquemine, Parish of Iberville [La.]
+#### 1853-07-23 &middot; [Plaquemine, Parish of Iberville [La.]](http://dbpedia.org/resource/Plaquemine%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -617,7 +617,7 @@ the market value of flannel undcr-garments.
 
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-07-27/ed-1/seq-3)
 
-#### 1853-07-27 &middot; Dubuque, Iowa
+#### 1853-07-27 &middot; [Dubuque, Iowa](http://dbpedia.org/resource/Dubuque%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -668,7 +668,7 @@ frequently in June and December, than
 
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-07-27/ed-1/seq-3)
 
-#### 1853-07-27 &middot; Dubuque, Iowa
+#### 1853-07-27 &middot; [Dubuque, Iowa](http://dbpedia.org/resource/Dubuque%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -688,7 +688,7 @@ any
 
 ## [From _The miners' express._](https://chroniclingamerica.loc.gov/lccn/sn86083363/1853-07-27/ed-1/seq-3)
 
-#### 1853-07-27 &middot; Dubuque, Iowa
+#### 1853-07-27 &middot; [Dubuque, Iowa](http://dbpedia.org/resource/Dubuque%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -716,7 +716,7 @@ the market value of flannel under-garments.
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1853-08-03/ed-1/seq-5)
 
-#### 1853-08-03 &middot; Clarksburg, Va. [W. Va.]
+#### 1853-08-03 &middot; [Clarksburg, Va. [W. Va.]](http://dbpedia.org/resource/Clarksburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -787,7 +787,7 @@ degree, by mixing plain mathematics with
 
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1853-08-06/ed-1/seq-1)
 
-#### 1853-08-06 &middot; Thibodaux, La.
+#### 1853-08-06 &middot; [Thibodaux, La.](http://dbpedia.org/resource/Thibodaux%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -872,7 +872,7 @@ market value of flannel under-garments
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1853-08-10/ed-1/seq-2)
 
-#### 1853-08-10 &middot; Lancaster, S.C.
+#### 1853-08-10 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -951,7 +951,7 @@ nel under garments.?JV. Y. Dutchman
 
 ## [From _The Woodville Republican, and Wilkinson advertiser._](https://chroniclingamerica.loc.gov/lccn/sn87065674/1853-08-23/ed-1/seq-1)
 
-#### 1853-08-23 &middot; Woodville, Miss.
+#### 1853-08-23 &middot; [Woodville, Miss.](http://dbpedia.org/resource/Woodville%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1005,7 +1005,7 @@ tadr frequently in Jane and we
 
 ## [From _The Weekly Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn93052117/1853-08-27/ed-1/seq-2)
 
-#### 1853-08-27 &middot; Auburn, Placer Co. [Calif.]
+#### 1853-08-27 &middot; [Auburn, Placer Co. [Calif.]](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1083,7 +1083,7 @@ of flannel under-garments.—N. Y. Dutch
 
 ## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1853-09-07/ed-1/seq-1)
 
-#### 1853-09-07 &middot; Washington, Ark.
+#### 1853-09-07 &middot; [Washington, Ark.](http://dbpedia.org/resource/Washington%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1140,7 +1140,7 @@ day. The number of men capable of bear-
 
 ## [From _The Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022165/1853-09-10/ed-1/seq-1)
 
-#### 1853-09-10 &middot; Santa Fe, N.M.T. [i.e. N.M.]
+#### 1853-09-10 &middot; [Santa Fe, N.M.T. [i.e. N.M.]](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1235,7 +1235,7 @@ flanuel under-garmeuto
 
 ## [From _Wisconsin tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086768/1853-09-15/ed-1/seq-1)
 
-#### 1853-09-15 &middot; Mineral Point, Wis.
+#### 1853-09-15 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1313,7 +1313,7 @@ market value of flannel under garment
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1853-09-17/ed-1/seq-3)
 
-#### 1853-09-17 &middot; Nashville, Tenn.
+#### 1853-09-17 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1344,7 +1344,7 @@ to SO years of age
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1853-09-23/ed-1/seq-1)
 
-#### 1853-09-23 &middot; Athens, Tenn.
+#### 1853-09-23 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1377,7 +1377,7 @@ of age
 
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1853-09-24/ed-1/seq-1)
 
-#### 1853-09-24 &middot; Fremont, Sandusky County [Ohio]
+#### 1853-09-24 &middot; [Fremont, Sandusky County [Ohio]](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1439,7 +1439,7 @@ pable of bearing arm i calculated at on
 
 ## [From _Washington sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84020104/1853-09-28/ed-1/seq-2)
 
-#### 1853-09-28 &middot; Washington [D.C.]
+#### 1853-09-28 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1495,7 +1495,7 @@ States may l*e seen in the following example
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn83016866/1853-10-01/ed-1/seq-2)
 
-#### 1853-10-01 &middot; Columbus, Miss.
+#### 1853-10-01 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1536,7 +1536,7 @@ OOjeirsin life; .o every 100 T.fA. tb
 
 ## [From _Sunday dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030362/1853-10-02/ed-1/seq-1)
 
-#### 1853-10-02 &middot; New York [N.Y.]
+#### 1853-10-02 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1578,7 +1578,7 @@ vear.-. and not mme than or e iu 1000 live to CO years
 
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1853-10-08/ed-1/seq-3)
 
-#### 1853-10-08 &middot; Raleigh, N.C.
+#### 1853-10-08 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1608,7 +1608,7 @@ than one in 5000 live to 80 years of age
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1853-10-08/ed-1/seq-8)
 
-#### 1853-10-08 &middot; Richmond [Va.]
+#### 1853-10-08 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1638,7 +1638,7 @@ live to it) years of age.&quot; 4
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1853-10-10/ed-1/seq-2)
 
-#### 1853-10-10 &middot; Alexandria, D.C.
+#### 1853-10-10 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1670,7 +1670,7 @@ reach the age ot 60, and not more than one in
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1853-10-10/ed-1/seq-4)
 
-#### 1853-10-10 &middot; Richmond [Va.]
+#### 1853-10-10 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1700,7 +1700,7 @@ live to i 0 years of age.&quot;
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1853-10-12/ed-1/seq-1)
 
-#### 1853-10-12 &middot; Raleigh, N.C.
+#### 1853-10-12 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1730,7 +1730,7 @@ than one in 5000 live to 80 years of age
 
 ## [From _Daily evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-10-21/ed-1/seq-4)
 
-#### 1853-10-21 &middot; Washington [D.C.]
+#### 1853-10-21 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1764,7 +1764,7 @@ one in 500 live to 90 years of age.?Ex
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1853-10-27/ed-1/seq-1)
 
-#### 1853-10-27 &middot; Jackson C.H., Ohio
+#### 1853-10-27 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1792,7 +1792,7 @@ r.nk- six reach the ace of CO, and no
 
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1853-10-27/ed-1/seq-2)
 
-#### 1853-10-27 &middot; Upper Sandusky, Ohio
+#### 1853-10-27 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1826,7 +1826,7 @@ age
 
 ## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1853-11-03/ed-1/seq-2)
 
-#### 1853-11-03 &middot; [Ottumwa] Iowa
+#### 1853-11-03 &middot; [[Ottumwa] Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1867,7 +1867,7 @@ The news hab had a favoiable effec
 
 ## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1853-11-03/ed-1/seq-2)
 
-#### 1853-11-03 &middot; [Ottumwa] Iowa
+#### 1853-11-03 &middot; [[Ottumwa] Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1888,7 +1888,7 @@ life) to every 100, only seven reaeh the over forty families from the Muskingu
 
 ## [From _The Minnesota pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83025241/1853-11-03/ed-1/seq-1)
 
-#### 1853-11-03 &middot; St. Paul, Minn. Territory
+#### 1853-11-03 &middot; [St. Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1934,7 +1934,7 @@ The nutnlier of men capable of carrying anna is cal
 
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1853-11-05/ed-1/seq-1)
 
-#### 1853-11-05 &middot; New-Lisbon, Ohio
+#### 1853-11-05 &middot; [New-Lisbon, Ohio](http://dbpedia.org/resource/Salem%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1959,7 +1959,7 @@ fused lo one-half the Lilian sneciiV ToarvllsS
 
 ## [From _The Port Gibson reveille._](https://chroniclingamerica.loc.gov/lccn/sn87090152/1853-11-30/ed-1/seq-1)
 
-#### 1853-11-30 &middot; Port Gibson, Miss.
+#### 1853-11-30 &middot; [Port Gibson, Miss.](http://dbpedia.org/resource/Port_Gibson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2008,7 +2008,7 @@ capable of bearing arms is calculated a
 
 ## [From _Butte record._](https://chroniclingamerica.loc.gov/lccn/sn93052998/1853-12-10/ed-1/seq-1)
 
-#### 1853-12-10 &middot; Bidwell, Butte County, Cal.
+#### 1853-12-10 &middot; [Bidwell, Butte County, Cal.](http://dbpedia.org/resource/Oroville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2062,7 +2062,7 @@ population
 
 ## [From _Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040305/1853-12-23/ed-1/seq-3)
 
-#### 1853-12-23 &middot; Kenosha, Wis.
+#### 1853-12-23 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2118,7 +2118,7 @@ ber of men capable of carry.ng arms is ca
 
 #### From _Bangor daily Whig & courier._
 
-#### 1853-12-30 &middot; Bangor, Me.
+#### 1853-12-30 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -2126,7 +2126,7 @@ ber of men capable of carry.ng arms is ca
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1854-01-21/ed-2/seq-2)
 
-#### 1854-01-21 &middot; Opelousas, La.
+#### 1854-01-21 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2162,7 +2162,7 @@ ai Boston, with the surrounding cities an
 
 #### From _The Ohio observer._
 
-#### 1854-01-25 &middot; Hudson [Ohio]
+#### 1854-01-25 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -2172,7 +2172,7 @@ ai Boston, with the surrounding cities an
 
 #### From _Ipswich Journal_
 
-#### 1854-02-11 &middot; Ipswich, England
+#### 1854-02-11 &middot; [Ipswich, England](http://dbpedia.org/resource/Ipswich)
 
 [This text is not available under an open license.]
 
@@ -2180,7 +2180,7 @@ ai Boston, with the surrounding cities an
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1854-02-18_10_48?page=14)
 
-#### 1854-02-18 &middot; Philadelphia
+#### 1854-02-18 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2245,7 +2245,7 @@ P. M., when appearances threatened a terrible the spring are generally more robu
 
 #### From _North Wales Chronicle_
 
-#### 1854-02-25 &middot; Bangor, Wales
+#### 1854-02-25 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -2255,7 +2255,7 @@ P. M., when appearances threatened a terrible the spring are generally more robu
 
 #### From _Vermont chronicle._
 
-#### 1854-02-28 &middot; Bellows Falls, Vt.
+#### 1854-02-28 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -2263,7 +2263,7 @@ P. M., when appearances threatened a terrible the spring are generally more robu
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1854-03-09/ed-1/seq-1)
 
-#### 1854-03-09 &middot; Gallipolis, Ohio
+#### 1854-03-09 &middot; [Gallipolis, Ohio](http://dbpedia.org/resource/Gallipolis%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2315,7 +2315,7 @@ The number capable of bearing arms, is
 
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
 
-#### 1854-03-11 &middot; Sydney, New South Wales
+#### 1854-03-11 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2381,7 +2381,7 @@ more robust than others. B
 
 ## [From _The Weekly Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn93052117/1854-04-22/ed-1/seq-4)
 
-#### 1854-04-22 &middot; Auburn, Placer Co. [Calif.]
+#### 1854-04-22 &middot; [Auburn, Placer Co. [Calif.]](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2438,7 +2438,7 @@ The State Printing Spoils.—Of th
 
 ## [From _The Literary echo, and Pawcatuck advertiser._](https://chroniclingamerica.loc.gov/lccn/sn83021532/1854-04-27/ed-1/seq-2)
 
-#### 1854-04-27 &middot; Westerly, R.I.
+#### 1854-04-27 &middot; [Westerly, R.I.](http://dbpedia.org/resource/Westerly%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2491,7 +2491,7 @@ pable of bearing arms is calculated a
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5?page=19)
 
-#### 1854-05-01 &middot; Boston
+#### 1854-05-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2535,7 +2535,7 @@ sigs than by day. The number of men capa
 
 ## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18?page=14)
 
-#### 1854-05-06 &middot; Boston
+#### 1854-05-06 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2555,7 +2555,7 @@ America
 
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
 
-#### 1854-05-12 &middot; Sydney, New South Wales
+#### 1854-05-12 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2601,7 +2601,7 @@ capable of bearing arms is calculated a
 
 ## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1854-05-17/ed-1/seq-1)
 
-#### 1854-05-17 &middot; Sumterville, S.C.
+#### 1854-05-17 &middot; [Sumterville, S.C.](http://dbpedia.org/resource/Sumter%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2656,7 +2656,7 @@ i&#x27; capable of bearing arms i~s caibulat&#x27;e
 
 ## [From _Sunday dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030362/1854-05-21/ed-1/seq-4)
 
-#### 1854-05-21 &middot; New York [N.Y.]
+#### 1854-05-21 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2695,7 +2695,7 @@ the population
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1854-05-24/ed-1/seq-1)
 
-#### 1854-05-24 &middot; Staunton, Va.
+#### 1854-05-24 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2744,7 +2744,7 @@ The number of men capable of bearing arm
 
 ## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt75qf8jgv71?page=2)
 
-#### 1854-05-30 &middot; Frankfort, Ky.
+#### 1854-05-30 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2784,7 +2784,7 @@ deem his property, and at the expiratio
 
 #### From _German reformed messenger._
 
-#### 1854-05-31 &middot; Chambersburg, Pa.
+#### 1854-05-31 &middot; [Chambersburg, Pa.](http://dbpedia.org/resource/Chambersburg%2C_Pennsylvania)
 
 [This text is not available under an open license.]
 
@@ -2792,7 +2792,7 @@ deem his property, and at the expiratio
 
 ## [From _The Port Gibson reveille._](https://chroniclingamerica.loc.gov/lccn/sn87090152/1854-05-31/ed-1/seq-1)
 
-#### 1854-05-31 &middot; Port Gibson, Miss.
+#### 1854-05-31 &middot; [Port Gibson, Miss.](http://dbpedia.org/resource/Port_Gibson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2831,7 +2831,7 @@ number of men capable of bearing arms i
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1854-05-31/ed-1/seq-1)
 
-#### 1854-05-31 &middot; Martinsburg, Va. [W. Va.]
+#### 1854-05-31 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2880,7 +2880,7 @@ by day Tbe number of men capable of bear
 
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
 
-#### 1854-06-01 &middot; Sydney, New South Wales
+#### 1854-06-01 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2927,7 +2927,7 @@ capable of bearing arms is calculated a
 
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1854-06-10/ed-1/seq-1)
 
-#### 1854-06-10 &middot; Saint Paul, Minn. Territory
+#### 1854-06-10 &middot; [Saint Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2973,7 +2973,7 @@ day. The number of men capable of bearin
 
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1854-06-10/ed-1/seq-4)
 
-#### 1854-06-10 &middot; New-Lisbon, Ohio
+#### 1854-06-10 &middot; [New-Lisbon, Ohio](http://dbpedia.org/resource/Salem%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3024,7 +3024,7 @@ by day. 1 be number ot men capable or bearin
 
 #### From _The Courier (Hobart, Tas. : 1840 - 1859)_
 
-#### 1854-06-15 &middot; Hobart, Tasmania
+#### 1854-06-15 &middot; [Hobart, Tasmania](http://dbpedia.org/resource/Hobart)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3070,7 +3070,7 @@ number of men capable of bearing arms i
 
 ## [From _The Yazoo Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87065704/1854-06-21/ed-1/seq-3)
 
-#### 1854-06-21 &middot; Yazoo City, Miss.
+#### 1854-06-21 &middot; [Yazoo City, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3121,7 +3121,7 @@ by day. Ihe number of men capable o
 
 #### From _The Cornwall Chronicle (Launceston, Tas. : 1835 - 1880)_
 
-#### 1854-06-24 &middot; Launceston, Tasmania
+#### 1854-06-24 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3184,7 +3184,7 @@ capable of bearing arms is calculated a
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1854-07-05/ed-1/seq-2)
 
-#### 1854-07-05 &middot; Raleigh, N.C.
+#### 1854-07-05 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3229,7 +3229,7 @@ day. The number of men capable of bearing arm
 
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1854-07-05/ed-1/seq-2)
 
-#### 1854-07-05 &middot; Raleigh, N.C.
+#### 1854-07-05 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3273,7 +3273,7 @@ any. nc numi er oi men capable ot hearing arm
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1854-07-15/ed-1/seq-1)
 
-#### 1854-07-15 &middot; Elkton, Md.
+#### 1854-07-15 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3322,7 +3322,7 @@ men capable of hearing arms is calculated a
 
 ## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1854-07-22/ed-1/seq-3)
 
-#### 1854-07-22 &middot; Washington [D.C.]
+#### 1854-07-22 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3360,7 +3360,7 @@ The number of men capable of bearing arms i
 
 #### From _Fayetteville observer._
 
-#### 1854-07-27 &middot; Fayetteville, N.C.
+#### 1854-07-27 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -3370,7 +3370,7 @@ The number of men capable of bearing arms i
 
 #### From _The Perth Gazette and Independent Journal of Politics and News (WA : 1848 - 1864)_
 
-#### 1854-08-18 &middot; Perth, Western Australia
+#### 1854-08-18 &middot; [Perth, Western Australia](http://dbpedia.org/resource/Perth)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3417,7 +3417,7 @@ capable of bearing arms is calculated a
 
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1854-08-26/ed-1/seq-2)
 
-#### 1854-08-26 &middot; Thibodaux, La.
+#### 1854-08-26 &middot; [Thibodaux, La.](http://dbpedia.org/resource/Thibodaux%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3467,7 +3467,7 @@ man were in London, they were invited by th
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1854-09-14/ed-1/seq-1)
 
-#### 1854-09-14 &middot; Montpelier, Vt.
+#### 1854-09-14 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3503,7 +3503,7 @@ married ire lunger lived than the single, ani
 
 ## [From _Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040305/1854-09-29/ed-1/seq-1)
 
-#### 1854-09-29 &middot; Kenosha, Wis.
+#### 1854-09-29 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3553,7 +3553,7 @@ night than by day. The whole miKilie
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1854-10-12/ed-1/seq-1)
 
-#### 1854-10-12 &middot; Fayetteville, Tenn.
+#### 1854-10-12 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3586,7 +3586,7 @@ dred Vf:ns nf nrro f n pvwrv 1 Of) nri.
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1854-10-12/ed-1/seq-1)
 
-#### 1854-10-12 &middot; Fayetteville, Tenn.
+#### 1854-10-12 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3616,7 +3616,7 @@ e it religions. The number of men i the prison, of Egypt.
 
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1854-11-04/ed-1/seq-4)
 
-#### 1854-11-04 &middot; Saint Paul, Minn. Territory
+#### 1854-11-04 &middot; [Saint Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3657,7 +3657,7 @@ are more frequent afte r ihe t q
 
 #### From _Belfast News-Letter_
 
-#### 1854-11-29 &middot; Belfast, Ireland
+#### 1854-11-29 &middot; [Belfast, Ireland](http://dbpedia.org/resource/Belfast)
 
 [This text is not available under an open license.]
 
@@ -3665,7 +3665,7 @@ are more frequent afte r ihe t q
 
 ## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1854-12_31_6?page=98)
 
-#### 1854-12-01 &middot; New York
+#### 1854-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3698,7 +3698,7 @@ number of men capable of bearing arms is calculated at one-fourth of the populat
 
 ## [From _The south-western._](https://chroniclingamerica.loc.gov/lccn/sn83016483/1854-12-13/ed-1/seq-4)
 
-#### 1854-12-13 &middot; Shreveport, La.
+#### 1854-12-13 &middot; [Shreveport, La.](http://dbpedia.org/resource/Shreveport%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3726,7 +3726,7 @@ capable of bearing arms is calculated at one
 
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
 
-#### 1855-01-08 &middot; Adelaide, South Australia
+#### 1855-01-08 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3774,7 +3774,7 @@ number of men capable of bearing arms i
 
 #### From _Glasgow Herald_
 
-#### 1855-01-15 &middot; Glasgow, Scotland
+#### 1855-01-15 &middot; [Glasgow, Scotland](http://dbpedia.org/resource/Glasgow)
 
 [This text is not available under an open license.]
 
@@ -3782,7 +3782,7 @@ number of men capable of bearing arms i
 
 ## [From _Washington sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84020104/1855-02-04/ed-1/seq-2)
 
-#### 1855-02-04 &middot; Washington [D.C.]
+#### 1855-02-04 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3853,7 +3853,7 @@ nnder garments.?National Monitor
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1855-02-07/ed-1/seq-1)
 
-#### 1855-02-07 &middot; Clarksburg, Va. [W. Va.]
+#### 1855-02-07 &middot; [Clarksburg, Va. [W. Va.]](http://dbpedia.org/resource/Clarksburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3902,7 +3902,7 @@ The number of men capable of bearin
 
 ## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt73n58cgf77?page=0)
 
-#### 1855-02-14 &middot; Lebanon, Ky.
+#### 1855-02-14 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3928,7 +3928,7 @@ ute, or 1 every second. These lasses are
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1855-02-16/ed-1/seq-1)
 
-#### 1855-02-16 &middot; Charlotte, N.C.
+#### 1855-02-16 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4010,7 +4010,7 @@ maikel value of flannel under garments
 
 ## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1855-02-25/ed-1/seq-2)
 
-#### 1855-02-25 &middot; New York [N.Y.]
+#### 1855-02-25 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4063,7 +4063,7 @@ w
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1855-03-16/ed-1/seq-2)
 
-#### 1855-03-16 &middot; Greenville, S.C.
+#### 1855-03-16 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4100,7 +4100,7 @@ conduct. Tall men live longer tha
 
 ## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1855-04_15_13?page=57)
 
-#### 1855-04-01 &middot; Cincinnati
+#### 1855-04-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4126,7 +4126,7 @@ age of seven years. The population of the globe is esti
 
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
 
-#### 1855-04-07 &middot; Sydney, New South Wales
+#### 1855-04-07 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4173,7 +4173,7 @@ capable of bearing arms is calculate
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1855-04-18/ed-1/seq-1)
 
-#### 1855-04-18 &middot; Woodsfield, Ohio
+#### 1855-04-18 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4231,7 +4231,7 @@ capable of bearing arms is calculated a
 
 ## [From _Circular (1851-1870)_](https://iiif.archivelab.org/iiif/sim_oneida-circular_1855-05-03_4_15?page=3)
 
-#### 1855-05-03 &middot; Brooklyn
+#### 1855-05-03 &middot; [Brooklyn](http://dbpedia.org/resource/Brooklyn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4256,7 +4256,7 @@ The ‘population of the globe is estimated a
 
 ## [From _Monongalia mirror._](https://chroniclingamerica.loc.gov/lccn/sn86092163/1855-05-05/ed-1/seq-1)
 
-#### 1855-05-05 &middot; Morgantown, Va. [W. Va.]
+#### 1855-05-05 &middot; [Morgantown, Va. [W. Va.]](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4354,7 +4354,7 @@ ket value of flannel under garments.
 
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
 
-#### 1855-05-09 &middot; Maitland, New South Wales
+#### 1855-05-09 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4404,7 +4404,7 @@ Births and deaths are most frequent b
 
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
 
-#### 1855-05-10 &middot; Launceston, Tasmania
+#### 1855-05-10 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4452,7 +4452,7 @@ by day. The the number of men capablo o
 
 #### From _North American and United States gazette._
 
-#### 1855-05-24 &middot; Philadelphia, Pa.
+#### 1855-05-24 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -4462,7 +4462,7 @@ by day. The the number of men capablo o
 
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
 
-#### 1855-05-26 &middot; Sydney, New South Wales
+#### 1855-05-26 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4511,7 +4511,7 @@ capa-ble of bearing arras is calculate
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1855-06-02 &middot; Adelaide, South Australia
+#### 1855-06-02 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4560,7 +4560,7 @@ tire most robust. Births and deaths ar
 
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
 
-#### 1855-06-02 &middot; Adelaide, South Australia
+#### 1855-06-02 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4612,7 +4612,7 @@ one-fourth of the population.— Sunt&#x27;t
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1855-06-07 &middot; Exeter, England
+#### 1855-06-07 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4622,7 +4622,7 @@ one-fourth of the population.— Sunt&#x27;t
 
 #### From _Geelong Advertiser and Intelligencer (Vic. : 1851 - 1856)_
 
-#### 1855-06-07 &middot; Geelong, Victoria
+#### 1855-06-07 &middot; [Geelong, Victoria](http://dbpedia.org/resource/Geelong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4669,7 +4669,7 @@ capable of bearing arms is calculate
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1855-06-09/ed-1/seq-4)
 
-#### 1855-06-09 &middot; Shasta, Calif.
+#### 1855-06-09 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4692,7 +4692,7 @@ The above estimate presents a fearful though
 
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26?page=9)
 
-#### 1855-06-30 &middot; New York
+#### 1855-06-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4727,7 +4727,7 @@ spring are the most robust. Births and deaths are most frequent by night
 
 ## [From _The spirit of the times._](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23?page=7)
 
-#### 1855-07-21 &middot; New-York [N.Y.]
+#### 1855-07-21 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4749,7 +4749,7 @@ age of 7 years; one-half before reaching 17; and those who th
 
 #### From _The Inquirer and Commercial News (Perth, WA : 1855 - 1901)_
 
-#### 1855-09-12 &middot; Perth, Western Australia
+#### 1855-09-12 &middot; [Perth, Western Australia](http://dbpedia.org/resource/Perth)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4793,7 +4793,7 @@ by day. The number of men capable o
 
 ## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1855-09-16/ed-1/seq-6)
 
-#### 1855-09-16 &middot; New York [N.Y.]
+#### 1855-09-16 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4837,7 +4837,7 @@ others. The number of men capable of bearing arms i
 
 #### From _The daily Cleveland herald._
 
-#### 1855-10-30 &middot; Cleveland [Ohio]
+#### 1855-10-30 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -4847,7 +4847,7 @@ others. The number of men capable of bearing arms i
 
 #### From _The Daily Scioto gazette._
 
-#### 1855-10-31 &middot; Chillicothe, Ohio
+#### 1855-10-31 &middot; [Chillicothe, Ohio](http://dbpedia.org/resource/Chillicothe%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -4855,7 +4855,7 @@ others. The number of men capable of bearing arms i
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-11-17_10_46?page=4)
 
-#### 1855-11-17 &middot; Boston [Mass.]
+#### 1855-11-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4873,7 +4873,7 @@ to the age of 7 years—one-half before reaching 17.
 
 ## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1856-01_3_1?page=94)
 
-#### 1856-01-01 &middot; Boston
+#### 1856-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4893,7 +4893,7 @@ to the age of 7 years—one-half before reaching 17.
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
-#### 1856-02-07 &middot; New York
+#### 1856-02-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -4901,7 +4901,7 @@ to the age of 7 years—one-half before reaching 17.
 
 ## [From _Minnesota weekly times._](https://chroniclingamerica.loc.gov/lccn/sn85025594/1856-02-23/ed-1/seq-2)
 
-#### 1856-02-23 &middot; St. Paul, Minn.
+#### 1856-02-23 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4940,7 +4940,7 @@ are generally more robust than others. Birth
 
 ## [From _Metropolitan; A Monthly Magazine Devoted to Religion, Education, Literature, and General Information 1853-1859_](https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2?page=42)
 
-#### 1856-03-01
+#### 1856-03-01 &middot; [Baltimore, Maryland](http://dbpedia.org/resource/Baltimore)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4983,7 +4983,7 @@ and December. Those born in the spring are the most robust. Births and deaths ar
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1856-04-24/ed-1/seq-1)
 
-#### 1856-04-24 &middot; Litchfield, Conn.
+#### 1856-04-24 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5030,7 +5030,7 @@ number of men capable of bearing arms is cal
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1856-07-12/ed-1/seq-1)
 
-#### 1856-07-12 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1856-07-12 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5052,7 +5052,7 @@ die previous to the age of 7 years, and
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1856-08-07/ed-1/seq-1)
 
-#### 1856-08-07 &middot; Honolulu, Hawaiian Islands
+#### 1856-08-07 &middot; [Honolulu, Hawaiian Islands](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5090,7 +5090,7 @@ mrxns. inc mameu are longer meu man tne sin
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1856-09-04/ed-1/seq-1)
 
-#### 1856-09-04 &middot; Honolulu, Hawaiian Islands
+#### 1856-09-04 &middot; [Honolulu, Hawaiian Islands](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5108,7 +5108,7 @@ The Espana announces the death of Donna Isabell
 
 ## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1857-02_17_5?page=52)
 
-#### 1857-02-01 &middot; Cincinnati
+#### 1857-02-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5142,7 +5142,7 @@ of cars instantly. If applied too tightly, they “lock th
 
 ## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1857-03-08/ed-1/seq-7)
 
-#### 1857-03-08 &middot; New York [N.Y.]
+#### 1857-03-08 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5183,7 +5183,7 @@ population
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1857-03-22/ed-1/seq-2)
 
-#### 1857-03-22 &middot; Memphis, Tenn.
+#### 1857-03-22 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5229,7 +5229,7 @@ day. The number of men capable of bearin
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1857-05-02/ed-1/seq-1)
 
-#### 1857-05-02 &middot; Auburn, Placer County, Calif.
+#### 1857-05-02 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5278,7 +5278,7 @@ capable of hearing arms is calculated at one
 
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
 
-#### 1857-07-11 &middot; Sydney, New South Wales
+#### 1857-07-11 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5325,7 +5325,7 @@ The number of i mon:capable of-bearin
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1857-09-03/ed-1/seq-2)
 
-#### 1857-09-03 &middot; Port Tobacco, Md.
+#### 1857-09-03 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5376,7 +5376,7 @@ number of men capable of bearing arms is !
 
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
 
-#### 1857-09-05 &middot; Sydney, New South Wales
+#### 1857-09-05 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5413,7 +5413,7 @@ number of men capnhle of bearing arms i
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1857-09-10/ed-1/seq-1)
 
-#### 1857-09-10 &middot; Fayetteville, Tenn.
+#### 1857-09-10 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5474,7 +5474,7 @@ is very amusing, or would be if th
 
 #### From _Northern Times (Newcastle, NSW : 1857 - 1918)_
 
-#### 1858-01-02 &middot; Newcastle, New South Wales
+#### 1858-01-02 &middot; [Newcastle, New South Wales](http://dbpedia.org/resource/Newcastle%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5504,7 +5504,7 @@ ones. Women have tnore chances of lif
 
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1858-03-18/ed-1/seq-1)
 
-#### 1858-03-18 &middot; Upper Sandusky, Ohio
+#### 1858-03-18 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5548,7 +5548,7 @@ of men capable of bearing arms is estima
 
 #### From _German reformed messenger._
 
-#### 1858-03-31 &middot; Chambersburg, Pa.
+#### 1858-03-31 &middot; [Chambersburg, Pa.](http://dbpedia.org/resource/Chambersburg%2C_Pennsylvania)
 
 [This text is not available under an open license.]
 
@@ -5556,7 +5556,7 @@ of men capable of bearing arms is estima
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1858-06-02/ed-1/seq-2)
 
-#### 1858-06-02 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1858-06-02 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5599,7 +5599,7 @@ number of men capable of bearing arm
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1858-09-04/ed-1/seq-2)
 
-#### 1858-09-04 &middot; Bridgeton, N.J.
+#### 1858-09-04 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5632,7 +5632,7 @@ The number of marriages is in proportion of
 
 #### From _Boston investigator._
 
-#### 1858-11-17 &middot; Boston, Mass.
+#### 1858-11-17 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -5640,7 +5640,7 @@ The number of marriages is in proportion of
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1858-12-15/ed-1/seq-4)
 
-#### 1858-12-15 &middot; Clearfield, Pa.
+#### 1858-12-15 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5671,7 +5671,7 @@ years than men, but fewer after. The numbe
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1859-03-05/ed-1/seq-1)
 
-#### 1859-03-05 &middot; Auburn, Placer County, Calif.
+#### 1859-03-05 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5694,7 +5694,7 @@ of men capable of bearing arms is calculate
 
 #### From _The Congregationalist._
 
-#### 1859-04-15 &middot; Boston, Mass.
+#### 1859-04-15 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -5702,7 +5702,7 @@ of men capable of bearing arms is calculate
 
 ## [From _Arkansas true Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014282/1859-05-04/ed-1/seq-2)
 
-#### 1859-05-04 &middot; Little Rock, Ark.
+#### 1859-05-04 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5742,7 +5742,7 @@ men capable of bearing arms is one-fourth o
 
 #### From _Christian Observer (1840-1910)_
 
-#### 1859-11-17 &middot; Louisville
+#### 1859-11-17 &middot; [Louisville](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 [This text is not available under an open license.]
 
@@ -5750,7 +5750,7 @@ men capable of bearing arms is one-fourth o
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1860-08-02/ed-1/seq-1)
 
-#### 1860-08-02 &middot; Towanda, Pa.
+#### 1860-08-02 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5792,7 +5792,7 @@ portion of 76 to 100. Marriages are more fre
 
 #### From _Boston investigator._
 
-#### 1860-08-08 &middot; Boston, Mass.
+#### 1860-08-08 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -5802,7 +5802,7 @@ portion of 76 to 100. Marriages are more fre
 
 #### From _Lowell daily citizen and news._
 
-#### 1860-09-10 &middot; Lowell, Mass.
+#### 1860-09-10 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -5810,7 +5810,7 @@ portion of 76 to 100. Marriages are more fre
 
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1861-03-06/ed-1/seq-4)
 
-#### 1861-03-06 &middot; Hillsborough, N.C.
+#### 1861-03-06 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5852,7 +5852,7 @@ pable of bearing arms is one-fourth of the po
 
 #### From _Freedom's champion._
 
-#### 1862-11-22 &middot; Atchison City [i.e. Atchison] Kan.
+#### 1862-11-22 &middot; [Atchison City [i.e. Atchison] Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -5860,7 +5860,7 @@ pable of bearing arms is one-fourth of the po
 
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn85029094/1863-03-21/ed-1/seq-1)
 
-#### 1863-03-21 &middot; Oskaloosa, Kan.
+#### 1863-03-21 &middot; [Oskaloosa, Kan.](http://dbpedia.org/resource/Oskaloosa%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5891,7 +5891,7 @@ ger than short ones. Women hae mor
 
 ## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1864-11-10_16_832?page=7)
 
-#### 1864-11-10 &middot; New York
+#### 1864-11-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5913,7 +5913,7 @@ in the on to ton might seem confusion worse confounded. Those
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1866-11-20/ed-1/seq-1)
 
-#### 1866-11-20 &middot; Charlotte, N.C.
+#### 1866-11-20 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5959,7 +5959,7 @@ The number of men capable of bearing arms i
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1866-11-24/ed-1/seq-4)
 
-#### 1866-11-24 &middot; Wheeling, W. Va.
+#### 1866-11-24 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6010,7 +6010,7 @@ The number of men capable of bearing
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1866-11-29/ed-1/seq-1)
 
-#### 1866-11-29 &middot; Yorkville, S.C.
+#### 1866-11-29 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6061,7 +6061,7 @@ ind deaths are more frequent by night than
 
 #### From _Ohio Farmer (1856-1906)_
 
-#### 1866-12-01 &middot; Cleveland
+#### 1866-12-01 &middot; [Cleveland](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -6069,7 +6069,7 @@ ind deaths are more frequent by night than
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1867-01-15/ed-1/seq-1)
 
-#### 1867-01-15 &middot; Charles Town, Va. [W. Va.]
+#### 1867-01-15 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6120,7 +6120,7 @@ posed for sale, and order any quantity of the
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3?page=15)
 
-#### 1867-01-19 &middot; Boston [Mass.]
+#### 1867-01-19 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6139,7 +6139,7 @@ to see her with her new grace, but they only smiled | one-half the human species
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3?page=15)
 
-#### 1867-01-19 &middot; Boston [Mass.]
+#### 1867-01-19 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6160,7 +6160,7 @@ minute, or one every second. These losses are about
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3?page=15)
 
-#### 1867-01-19 &middot; Boston [Mass.]
+#### 1867-01-19 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6178,7 +6178,7 @@ eoneee: - by day. The number of men capable of bearing arms The young man—well
 
 ## [From _The tri-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn85042146/1867-02-19/ed-1/seq-2)
 
-#### 1867-02-19 &middot; Raleigh, N.C.
+#### 1867-02-19 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6225,7 +6225,7 @@ number of men capable of bearing anus i
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1867-08-24/ed-1/seq-2)
 
-#### 1867-08-24 &middot; Gold Hill, N.T. [Nev.]
+#### 1867-08-24 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6263,7 +6263,7 @@ that of women. The average duratio
 
 #### From _Reynolds's  Newspaper_
 
-#### 1869-03-07 &middot; London, England
+#### 1869-03-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6271,7 +6271,7 @@ that of women. The average duratio
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-02-18/ed-1/seq-1)
 
-#### 1870-02-18 &middot; Columbia, Tenn.
+#### 1870-02-18 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6293,7 +6293,7 @@ The number of men capable of bearin
 
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
 
-#### 1871-05-05 &middot; Adelaide, South Australia
+#### 1871-05-05 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6339,7 +6339,7 @@ capable of bearing arms iscalculated a
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1871-05-06 &middot; Adelaide, South Australia
+#### 1871-05-06 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6384,7 +6384,7 @@ capable of bearing arms is calculated a
 
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1871-05-25/ed-1/seq-1)
 
-#### 1871-05-25 &middot; Tarboro', N.C.
+#### 1871-05-25 &middot; [Tarboro', N.C.](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6436,7 +6436,7 @@ of clen capable of bearing arua is cal
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1871-05-26/ed-1/seq-1)
 
-#### 1871-05-26 &middot; Deer Lodge, Mont.
+#### 1871-05-26 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6488,7 +6488,7 @@ of men capable 6f beaang a iea ut
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1871-07-13/ed-1/seq-1)
 
-#### 1871-07-13 &middot; Millersburg, Holmes Co., O. [Ohio]
+#### 1871-07-13 &middot; [Millersburg, Holmes Co., O. [Ohio]](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6534,7 +6534,7 @@ of age than men, afterwards
 
 #### From _Ipswich Journal_
 
-#### 1871-07-29 &middot; Ipswich, England
+#### 1871-07-29 &middot; [Ipswich, England](http://dbpedia.org/resource/Ipswich)
 
 [This text is not available under an open license.]
 
@@ -6542,7 +6542,7 @@ of age than men, afterwards
 
 ## [From _Oregon Republican._](https://chroniclingamerica.loc.gov/lccn/sn93051636/1871-08-19/ed-1/seq-4)
 
-#### 1871-08-19 &middot; Dallas, Or.
+#### 1871-08-19 &middot; [Dallas, Or.](http://dbpedia.org/resource/Dallas%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6596,7 +6596,7 @@ number of men capable of bearin
 
 #### From _The Milwaukee sentinel._
 
-#### 1871-08-23 &middot; Milwaukee, Wis.
+#### 1871-08-23 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -6604,7 +6604,7 @@ number of men capable of bearin
 
 ## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1871-10-18/ed-1/seq-4)
 
-#### 1871-10-18 &middot; Richmond, Va.
+#### 1871-10-18 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6649,7 +6649,7 @@ ber of men capable of bearing arm3 is eale
 
 ## [From _Semi-weekly Louisianian._](https://chroniclingamerica.loc.gov/lccn/sn83016631/1871-10-19/ed-1/seq-1)
 
-#### 1871-10-19 &middot; New Orleans, La.
+#### 1871-10-19 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6704,7 +6704,7 @@ one-fourth of the population
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1871-10-21/ed-2/seq-2)
 
-#### 1871-10-21 &middot; Opelousas, La.
+#### 1871-10-21 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6752,7 +6752,7 @@ ber of men capable of bearing arms is cal
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1871-11-10/ed-1/seq-1)
 
-#### 1871-11-10 &middot; Fremont, Sandusky County, Ohio
+#### 1871-11-10 &middot; [Fremont, Sandusky County, Ohio](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6813,7 +6813,7 @@ mittee formed ia Berlin for the re
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1871-11-27/ed-1/seq-2)
 
-#### 1871-11-27 &middot; Gold Hill, N.T. [Nev.]
+#### 1871-11-27 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6846,7 +6846,7 @@ second. The married are longer-live
 
 ## [From _Every Saturday: A Journal of Choice Reading (1866-1874)_](https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101?page=10)
 
-#### 1871-12-02 &middot; Boston
+#### 1871-12-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6875,7 +6875,7 @@ day. The number of men capable of bearin
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1871-12-27/ed-1/seq-1)
 
-#### 1871-12-27 &middot; Warren, Ohio
+#### 1871-12-27 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6916,7 +6916,7 @@ gle, and above all these who observ
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1871-12-27/ed-1/seq-1)
 
-#### 1871-12-27 &middot; Warren, Ohio
+#### 1871-12-27 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6937,7 +6937,7 @@ day. The number of men capable o
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1872-02-17/ed-1/seq-1)
 
-#### 1872-02-17 &middot; Mechanicstown, Md.
+#### 1872-02-17 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6993,7 +6993,7 @@ of hearing arms is calculated at one
 
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1872-04-04/ed-1/seq-2)
 
-#### 1872-04-04 &middot; Ottumwa, Iowa
+#### 1872-04-04 &middot; [Ottumwa, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7043,7 +7043,7 @@ men capable of Waring arms Is calcul
 
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1873-03-20/ed-1/seq-1)
 
-#### 1873-03-20 &middot; Idaho City, Idaho Territory
+#### 1873-03-20 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7077,7 +7077,7 @@ dustrious conduct. Tall men live longer tha
 
 #### From _Boston investigator._
 
-#### 1876-09-06 &middot; Boston, Mass.
+#### 1876-09-06 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -7085,7 +7085,7 @@ dustrious conduct. Tall men live longer tha
 
 ## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1876-12-20/ed-1/seq-1)
 
-#### 1876-12-20 &middot; Lambertville, N.J.
+#### 1876-12-20 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7129,7 +7129,7 @@ by day. The number of men capable of Bear
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1879-04-26/ed-1/seq-1)
 
-#### 1879-04-26 &middot; Westminster, Md.
+#### 1879-04-26 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7181,7 +7181,7 @@ of men capable of bearing arms is calculn-
 
 ## [From _The Silver state._](https://chroniclingamerica.loc.gov/lccn/sn84022060/1879-06-25/ed-1/seq-3)
 
-#### 1879-06-25 &middot; Unionville, Nev.
+#### 1879-06-25 &middot; [Unionville, Nev.](http://dbpedia.org/resource/Unionville%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7220,7 +7220,7 @@ more than 1,000 different religions.
 
 ## [From _Bristol news._](https://chroniclingamerica.loc.gov/lccn/sn85026955/1880-03-16/ed-1/seq-1)
 
-#### 1880-03-16 &middot; Bristol, Va. & Tenn.
+#### 1880-03-16 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7248,7 +7248,7 @@ The number of men capable of henrlu
 
 #### From _Logan Witness (Beenleigh, Qld. : 1878 - 1893)_
 
-#### 1880-12-25 &middot; Beenleigh, Queensland
+#### 1880-12-25 &middot; [Beenleigh, Queensland](http://dbpedia.org/resource/Beenleigh%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7271,7 +7271,7 @@ age of seven years ; and half before
 
 #### From _Wallaroo Times (Port Wallaroo, SA : 1882 - 1888)_
 
-#### 1882-02-15 &middot; Port Wallaroo, South Australia
+#### 1882-02-15 &middot; [Port Wallaroo, South Australia](http://dbpedia.org/resource/Wallaroo%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7299,7 +7299,7 @@ industrious conduct
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1883-01-03/ed-1/seq-3)
 
-#### 1883-01-03 &middot; Washington, D.C.
+#### 1883-01-03 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7330,7 +7330,7 @@ other seasons. Deaths are more frequent b
 
 ## [From _The clarion._](https://chroniclingamerica.loc.gov/lccn/sn83016925/1883-01-24/ed-1/seq-3)
 
-#### 1883-01-24 &middot; Jackson, Miss.
+#### 1883-01-24 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7370,7 +7370,7 @@ other seasons. Deaths are more frequent
 
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1884-02-07/ed-1/seq-1)
 
-#### 1884-02-07 &middot; Augusta, Me.
+#### 1884-02-07 &middot; [Augusta, Me.](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7396,7 +7396,7 @@ habitants of the earth number 1,000,000,­
 
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1884-02-07/ed-1/seq-1)
 
-#### 1884-02-07 &middot; Augusta, Me.
+#### 1884-02-07 &middot; [Augusta, Me.](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7423,7 +7423,7 @@ than by day.
 
 ## [From _Ballou's Monthly Magazine (1866-1893)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6?page=76)
 
-#### 1887-12-01 &middot; Boston
+#### 1887-12-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7469,7 +7469,7 @@ The number of men capable of bearing arms i
 
 #### From _Daily Telegraph (Launceston, Tas. : 1883 - 1928)_
 
-#### 1888-03-31 &middot; Launceston, Tasmania
+#### 1888-03-31 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7515,7 +7515,7 @@ capable of bearing arms is calculated a
 
 ## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1888-11-22_40_2086?page=28)
 
-#### 1888-11-22 &middot; New York
+#### 1888-11-22 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7559,7 +7559,7 @@ Births are more frequent by night tha
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1888-11-29/ed-1/seq-4)
 
-#### 1888-11-29 &middot; Anderson Court House, S.C.
+#### 1888-11-29 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7586,7 +7586,7 @@ ond, jj . ;:;:f^
 
 #### From _The Atchison daily globe._
 
-#### 1888-12-15 &middot; Atchison, Kan.
+#### 1888-12-15 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -7596,7 +7596,7 @@ ond, jj . ;:;:f^
 
 #### From _The Wisconsin state register._
 
-#### 1888-12-29 &middot; Portage, Columbia County, Wis.
+#### 1888-12-29 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
 
 [This text is not available under an open license.]
 
@@ -7604,7 +7604,7 @@ ond, jj . ;:;:f^
 
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1888-12-29/ed-1/seq-1)
 
-#### 1888-12-29 &middot; Oakland, Md.
+#### 1888-12-29 &middot; [Oakland, Md.](http://dbpedia.org/resource/Oakland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7647,7 +7647,7 @@ others. Births are more frequent b
 
 #### From _Morning Oregonian._
 
-#### 1889-01-08 &middot; Portland, Or.
+#### 1889-01-08 &middot; [Portland, Or.](http://dbpedia.org/resource/Portland%2C_Oregon)
 
 [This text is not available under an open license.]
 
@@ -7655,7 +7655,7 @@ others. Births are more frequent b
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1889-01-17/ed-1/seq-8)
 
-#### 1889-01-17 &middot; Washington, D.C.
+#### 1889-01-17 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7688,7 +7688,7 @@ bust constitution than others. Births are mor
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1889-01-17_39_3?page=30)
 
-#### 1889-01-17 &middot; New York
+#### 1889-01-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7730,7 +7730,7 @@ Births are more frequent by night tha
 
 ## [From _Nevada County picayune._](https://chroniclingamerica.loc.gov/lccn/sn87091048/1889-01-23/ed-1/seq-1)
 
-#### 1889-01-23 &middot; Prescott, Nev. County, Ark.
+#### 1889-01-23 &middot; [Prescott, Nev. County, Ark.](http://dbpedia.org/resource/Prescott%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7774,7 +7774,7 @@ The number of men capable o
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1889-01-31/ed-1/seq-2)
 
-#### 1889-01-31 &middot; Helena, Mont.
+#### 1889-01-31 &middot; [Helena, Mont.](http://dbpedia.org/resource/Helena%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7810,7 +7810,7 @@ than others. Births are more frequent b
 
 ## [From _Pullman herald._](https://chroniclingamerica.loc.gov/lccn/sn88085488/1889-02-09/ed-1/seq-4)
 
-#### 1889-02-09 &middot; Pullman, W.T. [Wash.]
+#### 1889-02-09 &middot; [Pullman, W.T. [Wash.]](http://dbpedia.org/resource/Pullman%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7835,7 +7835,7 @@ i above all, those who observe a sobe
 
 ## [From _Thomas County cat._](https://chroniclingamerica.loc.gov/lccn/sn85032814/1889-03-07/ed-1/seq-6)
 
-#### 1889-03-07 &middot; Colby, Kan.
+#### 1889-03-07 &middot; [Colby, Kan.](http://dbpedia.org/resource/Colby%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7874,7 +7874,7 @@ tian Union
 
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1889-03-29/ed-1/seq-3)
 
-#### 1889-03-29 &middot; Idaho City, Idaho Territory
+#### 1889-03-29 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7914,7 +7914,7 @@ tfan Union
 
 #### From _The Port Macquarie News and Hastings River Advocate (NSW : 1882 - 1950)_
 
-#### 1889-04-20 &middot; Port Macquarie, New South Wales
+#### 1889-04-20 &middot; [Port Macquarie, New South Wales](http://dbpedia.org/resource/Port_Macquarie)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7954,7 +7954,7 @@ of bearing arms is calculated at one
 
 #### From _Fayetteville observer._
 
-#### 1889-05-23 &middot; Fayetteville, N.C.
+#### 1889-05-23 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -7962,7 +7962,7 @@ of bearing arms is calculated at one
 
 ## [From _Walker Lake bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86091319/1889-05-29/ed-1/seq-1)
 
-#### 1889-05-29 &middot; Hawthorne, Nev.
+#### 1889-05-29 &middot; [Hawthorne, Nev.](http://dbpedia.org/resource/Hawthorne%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7988,7 +7988,7 @@ the single, mid, above nil, those wh
 
 ## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1889-07-11/ed-1/seq-4)
 
-#### 1889-07-11 &middot; Jamesburg, N.J.
+#### 1889-07-11 &middot; [Jamesburg, N.J.](http://dbpedia.org/resource/Jamesburg%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8012,7 +8012,7 @@ sixty every minute, or one every second.
 
 #### From _Mercury and Weekly Courier (Vic. : 1878 - 1903)_
 
-#### 1890-03-27 &middot; Fitzroy, Victoria
+#### 1890-03-27 &middot; [Fitzroy, Victoria](http://dbpedia.org/resource/Fitzroy%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8037,7 +8037,7 @@ longer than short ones. Women have mor
 
 ## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1890-07-10/ed-1/seq-2)
 
-#### 1890-07-10 &middot; Jamesburg, N.J.
+#### 1890-07-10 &middot; [Jamesburg, N.J.](http://dbpedia.org/resource/Jamesburg%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8076,7 +8076,7 @@ and the bricks of Ninevah and Babylon in th
 
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
 
-#### 1890-12-11 &middot; Wollongong, New South Wales
+#### 1890-12-11 &middot; [Wollongong, New South Wales](http://dbpedia.org/resource/Wollongong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8099,7 +8099,7 @@ or 1 every second. The married ar
 
 #### From _Kapunda Herald (SA : 1878 - 1951)_
 
-#### 1890-12-30 &middot; Kapunda, South Australia
+#### 1890-12-30 &middot; [Kapunda, South Australia](http://dbpedia.org/resource/Kapunda)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8130,7 +8130,7 @@ have, but fewer afterwards. The number
 
 ## [From _The Telegraph-courier._](https://chroniclingamerica.loc.gov/lccn/sn85040310/1891-01-29/ed-1/seq-3)
 
-#### 1891-01-29 &middot; Kenosha, Wis.
+#### 1891-01-29 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8182,7 +8182,7 @@ ers. Births are more frequent by nigh
 
 ## [From _Maryland independent._](https://chroniclingamerica.loc.gov/lccn/sn85025407/1891-03-20/ed-1/seq-3)
 
-#### 1891-03-20 &middot; Port Tobacco, Md.
+#### 1891-03-20 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Waldorf%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8225,7 +8225,7 @@ more frequent by night than hy day
 
 #### From _Barrier Miner (Broken Hill, NSW : 1888 - 1954)_
 
-#### 1891-05-27 &middot; Broken Hill, New South Wales
+#### 1891-05-27 &middot; [Broken Hill, New South Wales](http://dbpedia.org/resource/Broken_Hill)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8245,7 +8245,7 @@ the human species, and cannot be to
 
 #### From _Barrier Miner (Broken Hill, NSW : 1888 - 1954)_
 
-#### 1891-05-28 &middot; Broken Hill, New South Wales
+#### 1891-05-28 &middot; [Broken Hill, New South Wales](http://dbpedia.org/resource/Broken_Hill)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8265,7 +8265,7 @@ species, and cannot be too careful o
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1893-08-05 &middot; Melbourne, Victoria
+#### 1893-08-05 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8307,7 +8307,7 @@ niyht than bv dav.&quot; I Quarterly Review
 
 ## [From _The Mason County journal._](https://chroniclingamerica.loc.gov/lccn/sn88085081/1896-09-11/ed-1/seq-1)
 
-#### 1896-09-11 &middot; Shelton, W.T.
+#### 1896-09-11 &middot; [Shelton, W.T.](http://dbpedia.org/resource/Shelton%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8358,7 +8358,7 @@ also deaths. The number of me
 
 ## [From _The Norfolk Virginian._](https://chroniclingamerica.loc.gov/lccn/sn85025715/1897-10-03/ed-1/seq-12)
 
-#### 1897-10-03 &middot; Norfolk, Va.
+#### 1897-10-03 &middot; [Norfolk, Va.](http://dbpedia.org/resource/Norfolk%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8390,7 +8390,7 @@ SO years. There are on earth 1,000,000.00
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1897-10-09 &middot; Adelaide, South Australia
+#### 1897-10-09 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8424,7 +8424,7 @@ being a few of the places where they ma
 
 #### From _Clarence and Richmond Examiner (Grafton, NSW : 1889 - 1915)_
 
-#### 1897-10-09 &middot; Grafton, New South Wales
+#### 1897-10-09 &middot; [Grafton, New South Wales](http://dbpedia.org/resource/Grafton%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8450,7 +8450,7 @@ minute, or on« «very second. THE TE
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1897-10-27/ed-1/seq-1)
 
-#### 1897-10-27 &middot; Anderson Court House, S.C.
+#### 1897-10-27 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8481,7 +8481,7 @@ and (?0 every minute, or ? evory second
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1897-10-27/ed-2/seq-1)
 
-#### 1897-10-27 &middot; Anderson Court House, S.C.
+#### 1897-10-27 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8514,7 +8514,7 @@ and 60 every minute, or 1 every second
 
 #### From _Barrier Miner (Broken Hill, NSW : 1888 - 1954)_
 
-#### 1897-11-09 &middot; Broken Hill, New South Wales
+#### 1897-11-09 &middot; [Broken Hill, New South Wales](http://dbpedia.org/resource/Broken_Hill)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8542,7 +8542,7 @@ second. Scenes from Shakespeare a
 
 #### From _Worker (Brisbane, Qld. : 1890 - 1955)_
 
-#### 1897-11-20 &middot; Brisbane, Queensland
+#### 1897-11-20 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8570,7 +8570,7 @@ minute, or 1 every second
 
 #### From _Chronicle (Adelaide, SA : 1895 - 1954)_
 
-#### 1897-11-20 &middot; Adelaide, South Australia
+#### 1897-11-20 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8596,7 +8596,7 @@ every second. Tho railway revenue fo
 
 ## [From _The Dakota chief._](https://chroniclingamerica.loc.gov/lccn/sn99068086/1898-01-13/ed-1/seq-5)
 
-#### 1898-01-13 &middot; Gann Valley, Buffalo County, S.D.
+#### 1898-01-13 &middot; [Gann Valley, Buffalo County, S.D.](http://dbpedia.org/resource/Gann_Valley%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8630,7 +8630,7 @@ second.
 
 #### From _The Owyhee avalanche._
 
-#### 1898-02-04 &middot; Ruby City, I.T. [Idaho]
+#### 1898-02-04 &middot; [Ruby City, I.T. [Idaho]](http://dbpedia.org/resource/Ruby_City%2C_Idaho)
 
 [This text is not available under an open license.]
 
@@ -8638,7 +8638,7 @@ second.
 
 ## [From _The St. Johns herald._](https://chroniclingamerica.loc.gov/lccn/sn94051692/1898-02-19/ed-1/seq-2)
 
-#### 1898-02-19 &middot; St. Johns, Apache County, Arizona Territory [Ariz.]
+#### 1898-02-19 &middot; [St. Johns, Apache County, Arizona Territory [Ariz.]](http://dbpedia.org/resource/St._Johns%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8672,7 +8672,7 @@ year, 91,824 every day, 3,730 every hour, 1
 
 ## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1898-03_23_3?page=40)
 
-#### 1898-03-01 &middot; New York
+#### 1898-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8698,7 +8698,7 @@ of age, than men have, but fewer afterward. Th
 
 ## [From _The Winslow mail._](https://chroniclingamerica.loc.gov/lccn/sn96060765/1898-03-19/ed-1/seq-2)
 
-#### 1898-03-19 &middot; Winslow, Ariz.
+#### 1898-03-19 &middot; [Winslow, Ariz.](http://dbpedia.org/resource/Winslow%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8730,7 +8730,7 @@ second
 
 ## [From _Blackfoot news._](https://chroniclingamerica.loc.gov/lccn/sn88056017/1898-03-19/ed-1/seq-4)
 
-#### 1898-03-19 &middot; Blackfoot, Idaho
+#### 1898-03-19 &middot; [Blackfoot, Idaho](http://dbpedia.org/resource/Blackfoot%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8774,7 +8774,7 @@ also deaths. The number of men ca
 
 ## [From _The commonwealth._](https://chroniclingamerica.loc.gov/lccn/sn92073908/1898-04-28/ed-1/seq-4)
 
-#### 1898-04-28 &middot; Scotland Neck, N.C.
+#### 1898-04-28 &middot; [Scotland Neck, N.C.](http://dbpedia.org/resource/Scotland_Neck%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8798,7 +8798,7 @@ The married are longer-lived than th
 
 ## [From _The National tribune._](https://chroniclingamerica.loc.gov/lccn/sn82016187/1899-11-16/ed-1/seq-2)
 
-#### 1899-11-16 &middot; Washington, D.C.
+#### 1899-11-16 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

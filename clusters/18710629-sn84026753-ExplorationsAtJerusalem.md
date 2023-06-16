@@ -32,7 +32,7 @@ Further explorations disclosed a subterranean passage, perhaps orginally constru
 
 #### From _The Times_
 
-#### 1867-11-14 &middot; London, England
+#### 1867-11-14 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -321,7 +321,7 @@ looked black enough for anything. On.climbin
 
 ## [From _The Art Journal 1839-1912_](https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80?page=9)
 
-#### 1868-08-01
+#### 1868-08-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -346,7 +346,7 @@ sequent on this discovery. The depth of th
 
 ## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
 
-#### 1871-06-27 &middot; Middlebury, Vt.
+#### 1871-06-27 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -389,7 +389,7 @@ Nor is this all. A pcrfect nct-work of
 
 ## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
 
-#### 1871-06-27 &middot; Middlebury, Vt.
+#### 1871-06-27 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -433,7 +433,7 @@ in Warner&#x27;s Mayazinc fur Juhj.
 
 #### From _The Yankton press._
 
-#### 1871-06-28 &middot; Yankton, Dakota Territory [S.D.]
+#### 1871-06-28 &middot; [Yankton, Dakota Territory [S.D.]](http://dbpedia.org/resource/Yankton%2C_South_Dakota)
 
 [This text is not available under an open license.]
 
@@ -441,7 +441,7 @@ in Warner&#x27;s Mayazinc fur Juhj.
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
-#### 1871-06-29 &middot; Washington, D.C.
+#### 1871-06-29 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -558,7 +558,7 @@ straddle across it. Then can be seen that one
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
-#### 1871-06-29 &middot; Washington, D.C.
+#### 1871-06-29 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -599,7 +599,7 @@ July
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
 
-#### 1871-07-01 &middot; New York
+#### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -646,7 +646,7 @@ SORO
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
 
-#### 1871-07-01 &middot; New York
+#### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -726,7 +726,7 @@ fixed to keep these stones steady.
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=40)
 
-#### 1871-07-01 &middot; New York
+#### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -744,7 +744,7 @@ until they are lost in the darkness below; ob
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=41)
 
-#### 1871-07-01 &middot; New York
+#### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -803,7 +803,7 @@ get to a point where he could turn his head
 
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-07-02/ed-1/seq-4)
 
-#### 1871-07-02 &middot; New Orleans, La
+#### 1871-07-02 &middot; [New Orleans, La](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -865,7 +865,7 @@ The investigations for the eastern an
 
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-07-02/ed-1/seq-4)
 
-#### 1871-07-02 &middot; New Orleans, La
+#### 1871-07-02 &middot; [New Orleans, La](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -901,7 +901,7 @@ When these investigations shall hav
 
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-07-06/ed-1/seq-1)
 
-#### 1871-07-06 &middot; Eaton, Ohio
+#### 1871-07-06 &middot; [Eaton, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -951,7 +951,7 @@ Fthari - cDufirnls&#x27; Uit5 idea9 of iMjliitectunt
 
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-07-06/ed-1/seq-1)
 
-#### 1871-07-06 &middot; Eaton, Ohio
+#### 1871-07-06 &middot; [Eaton, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1065,7 +1065,7 @@ chough it looked black enough: for an
 
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-07-06/ed-1/seq-1)
 
-#### 1871-07-06 &middot; Eaton, Ohio
+#### 1871-07-06 &middot; [Eaton, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1096,7 +1096,7 @@ jorjuiy, .. f -
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1871-07-20/ed-1/seq-1)
 
-#### 1871-07-20 &middot; Point Pleasant, Va. [W. Va.]
+#### 1871-07-20 &middot; [Point Pleasant, Va. [W. Va.]](http://dbpedia.org/resource/Point_Pleasant%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1252,7 +1252,7 @@ in Harper&#x27;s Magazine fur July.
 
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1871-08-11/ed-1/seq-1)
 
-#### 1871-08-11 &middot; Oregon, Missouri.
+#### 1871-08-11 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

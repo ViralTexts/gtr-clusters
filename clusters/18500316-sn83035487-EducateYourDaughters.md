@@ -21,7 +21,7 @@ EDUCATE YOUR DAUGHTERS.—When I lived among the Choctaw Indians, I held a consu
 
 ## [From _The examiner._](https://chroniclingamerica.loc.gov/lccn/sn82015050/1849-07-28/ed-1/seq-4)
 
-#### 1849-07-28 &middot; Louisville, Ky.
+#### 1849-07-28 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -60,7 +60,7 @@ education.&quot; Rev. 8. Dyer
 
 #### From _Preston Chronicle_
 
-#### 1849-09-15 &middot; Preston, England
+#### 1849-09-15 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -68,7 +68,7 @@ education.&quot; Rev. 8. Dyer
 
 ## [From _The freeman._](https://chroniclingamerica.loc.gov/lccn/sn90068958/1849-10-20/ed-1/seq-2)
 
-#### 1849-10-20 &middot; Fremont [Ohio]
+#### 1849-10-20 &middot; [Fremont [Ohio]](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -117,7 +117,7 @@ Rev. S. Dyer.
 
 #### From _Greenville mountaineer._
 
-#### 1849-11-30 &middot; Greenville, S.C.
+#### 1849-11-30 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -125,7 +125,7 @@ Rev. S. Dyer.
 
 ## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1850-02-07_2_62?page=3)
 
-#### 1850-02-07 &middot; New York
+#### 1850-02-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -159,7 +159,7 @@ degree, qualified to discharge the duties of the
 
 ## [From _The North star._](https://iiif.archivelab.org/iiif/sim_frederick-douglass-paper_1850-02-08_3_7?page=2)
 
-#### 1850-02-08 &middot; Rochester, N.Y.
+#### 1850-02-08 &middot; [Rochester, N.Y.](http://dbpedia.org/resource/Rochester%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -198,7 +198,7 @@ Mr. Seward gave notice that be wopM, a
 
 #### From _Boston investigator._
 
-#### 1850-02-27 &middot; Boston, Mass.
+#### 1850-02-27 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -206,7 +206,7 @@ Mr. Seward gave notice that be wopM, a
 
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1850-03-16/ed-1/seq-4)
 
-#### 1850-03-16 &middot; New-Lisbon, Ohio
+#### 1850-03-16 &middot; [New-Lisbon, Ohio](http://dbpedia.org/resource/Salem%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -246,7 +246,7 @@ ol educution. IUv. S. Dyer
 
 #### From _The Ohio observer._
 
-#### 1850-03-20 &middot; Hudson [Ohio]
+#### 1850-03-20 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -254,7 +254,7 @@ ol educution. IUv. S. Dyer
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1850-03-21_23_47?page=3)
 
-#### 1850-03-21 &middot; Boston
+#### 1850-03-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -289,7 +289,7 @@ education.”—Rev. S. Dyer.
 
 ## [From _Sunday dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030362/1850-06-16/ed-1/seq-1)
 
-#### 1850-06-16 &middot; New York [N.Y.]
+#### 1850-06-16 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -324,7 +324,7 @@ education
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1851-02-21/ed-1/seq-2)
 
-#### 1851-02-21 &middot; Raleigh, N.C.
+#### 1851-02-21 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -370,7 +370,7 @@ ties of the homework of education.&#x27; Rev.
 
 ## [From _Lynchburg Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024649/1851-03-13/ed-1/seq-3)
 
-#### 1851-03-13 &middot; Lynchburg [Va.]
+#### 1851-03-13 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -407,7 +407,7 @@ ucation.
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1851-04-10/ed-1/seq-1)
 
-#### 1851-04-10 &middot; Edgefield, S.C.
+#### 1851-04-10 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -447,7 +447,7 @@ ktaism
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9?page=15)
 
-#### 1851-04-26 &middot; Boston
+#### 1851-04-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -485,7 +485,7 @@ fied to discharge the duties of home education.
 
 #### From _Bangor daily Whig & courier._
 
-#### 1851-05-14 &middot; Bangor, Me.
+#### 1851-05-14 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -495,7 +495,7 @@ fied to discharge the duties of home education.
 
 #### From _The Ohio observer._
 
-#### 1851-05-28 &middot; Hudson [Ohio]
+#### 1851-05-28 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -503,7 +503,7 @@ fied to discharge the duties of home education.
 
 ## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1851-06_3_6?page=30)
 
-#### 1851-06-01 &middot; St. Louis, Mo.
+#### 1851-06-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -538,7 +538,7 @@ ties of home education.
 
 ## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1851-07-02/ed-1/seq-1)
 
-#### 1851-07-02 &middot; Lewisburg, Pa.
+#### 1851-07-02 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -582,7 +582,7 @@ home work of education.
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1851-07-03/ed-1/seq-1)
 
-#### 1851-07-03 &middot; Stroudsburg, Pa.
+#### 1851-07-03 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -617,7 +617,7 @@ ly civilized and enlightened, when the
 
 ## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1851-07-10/ed-1/seq-1)
 
-#### 1851-07-10 &middot; Davenport, Scott Co., Iowa
+#### 1851-07-10 &middot; [Davenport, Scott Co., Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -655,7 +655,7 @@ discharge the duties of home education.
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1851-07-18/ed-1/seq-3)
 
-#### 1851-07-18 &middot; Athens, Tenn.
+#### 1851-07-18 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -712,7 +712,7 @@ of education
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1851-08-06/ed-1/seq-3)
 
-#### 1851-08-06 &middot; Raleigh, N.C.
+#### 1851-08-06 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -759,7 +759,7 @@ education
 
 ## [From _North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024517/1851-08-06/ed-1/seq-3)
 
-#### 1851-08-06 &middot; Raleigh, N.C.
+#### 1851-08-06 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -785,7 +785,7 @@ of oil, t!fi ,f we cou,d educate only one clas
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1851-08-06/ed-1/seq-1)
 
-#### 1851-08-06 &middot; Staunton, Va.
+#### 1851-08-06 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -821,7 +821,7 @@ ties #f the home work of education
 
 ## [From _The Democratic sentinel and Harrison County farmer._](https://chroniclingamerica.loc.gov/lccn/sn85042199/1851-08-27/ed-1/seq-4)
 
-#### 1851-08-27 &middot; Cadiz, Ohio
+#### 1851-08-27 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -860,7 +860,7 @@ ties oihome education.
 
 ## [From _Sunday dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030362/1851-10-19/ed-1/seq-4)
 
-#### 1851-10-19 &middot; New York [N.Y.]
+#### 1851-10-19 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -896,7 +896,7 @@ education; since the right direction of tha
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021169/1851-11-13/ed-1/seq-2)
 
-#### 1851-11-13 &middot; Newport, R.I.
+#### 1851-11-13 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -932,7 +932,7 @@ work ol educution
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1851-12-04/ed-1/seq-1)
 
-#### 1851-12-04 &middot; Edgefield, S.C.
+#### 1851-12-04 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -972,7 +972,7 @@ of the home work of education.
 
 #### From _The Ohio observer._
 
-#### 1854-05-31 &middot; Hudson [Ohio]
+#### 1854-05-31 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -980,7 +980,7 @@ of the home work of education.
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-01-06_10_1?page=1)
 
-#### 1855-01-06 &middot; Boston [Mass.]
+#### 1855-01-06 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1009,7 +1009,7 @@ his interest in both wife and children. ‘
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1855-06-14_29_8?page=3)
 
-#### 1855-06-14 &middot; Boston
+#### 1855-06-14 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1044,7 +1044,7 @@ of the home work of education.
 
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1855-09-01/ed-1/seq-2)
 
-#### 1855-09-01 &middot; Wheeling, Va. [W. Va.]
+#### 1855-09-01 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1078,7 +1078,7 @@ education.
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-09-07/ed-1/seq-1)
 
-#### 1855-09-07 &middot; Alexandria, D.C.
+#### 1855-09-07 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1114,7 +1114,7 @@ education.
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1856-02-09/ed-1/seq-1)
 
-#### 1856-02-09 &middot; Red Wing, M.T. [i.e. Minn.]
+#### 1856-02-09 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1147,7 +1147,7 @@ and it is true.
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1856-02-09/ed-1/seq-2)
 
-#### 1856-02-09 &middot; Red Wing, M.T. [i.e. Minn.]
+#### 1856-02-09 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1179,7 +1179,7 @@ and it is true.
 
 ## [From _Washington sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82014835/1856-03-27/ed-1/seq-2)
 
-#### 1856-03-27 &middot; City of Washington [D.C.]
+#### 1856-03-27 &middot; [City of Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1210,7 +1210,7 @@ It is stated American priuted muslin d
 
 ## [From _The weekly pioneer and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016751/1856-04-03/ed-1/seq-1)
 
-#### 1856-04-03 &middot; Saint Paul, Minn. Territory
+#### 1856-04-03 &middot; [Saint Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1240,7 +1240,7 @@ woald edoeatc their aooa.&quot;
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1856-04-08/ed-1/seq-1)
 
-#### 1856-04-08 &middot; Hillsdale, Mich.
+#### 1856-04-08 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1271,7 +1271,7 @@ ers, they would educate the sons.
 
 ## [From _The morning comet._](https://chroniclingamerica.loc.gov/lccn/sn88064473/1856-04-17/ed-1/seq-2)
 
-#### 1856-04-17 &middot; Baton Rouge, La.
+#### 1856-04-17 &middot; [Baton Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1309,7 +1309,7 @@ in — Can yon take off my bafrd bete I
 
 #### From _The Nebraskian._
 
-#### 1856-04-30 &middot; Omaha City, N.T. [i.e. Neb.]
+#### 1856-04-30 &middot; [Omaha City, N.T. [i.e. Neb.]](http://dbpedia.org/resource/Omaha%2C_Nebraska)
 
 [This text is not available under an open license.]
 
@@ -1319,7 +1319,7 @@ in — Can yon take off my bafrd bete I
 
 #### From _Preston Chronicle_
 
-#### 1856-07-05 &middot; Preston, England
+#### 1856-07-05 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1327,7 +1327,7 @@ in — Can yon take off my bafrd bete I
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1856-07-10/ed-1/seq-4)
 
-#### 1856-07-10 &middot; Greenville, S.C.
+#### 1856-07-10 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1363,7 +1363,7 @@ jvhite beaver, bluo coat and buff vest&#x27; ?
 
 #### From _The Argus (Melbourne, Vic. : 1848 - 1957)_
 
-#### 1856-12-01 &middot; Melbourne, Victoria
+#### 1856-12-01 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1393,7 +1393,7 @@ would educato their son-«.&#x27;
 
 ## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1857-02-24/ed-1/seq-1)
 
-#### 1857-02-24 &middot; Evansville, Ia. [i.e. Ind.]
+#### 1857-02-24 &middot; [Evansville, Ia. [i.e. Ind.]](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1425,7 +1425,7 @@ fully and permatfe
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1857-03-05/ed-1/seq-2)
 
-#### 1857-03-05 &middot; Litchfield, Conn.
+#### 1857-03-05 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1461,7 +1461,7 @@ of the home work of education
 
 ## [From _The Davenport daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn87058152/1857-03-07/ed-1/seq-1)
 
-#### 1857-03-07 &middot; Davenport, Iowa
+#### 1857-03-07 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1497,7 +1497,7 @@ home work of education
 
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1857-03-21/ed-1/seq-4)
 
-#### 1857-03-21 &middot; Plaquemine, Parish of Iberville [La.]
+#### 1857-03-21 &middot; [Plaquemine, Parish of Iberville [La.]](http://dbpedia.org/resource/Plaquemine%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1535,7 +1535,7 @@ work ofeduca&#x27;ion
 
 #### From _Preston Chronicle_
 
-#### 1857-04-04 &middot; Preston, England
+#### 1857-04-04 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1543,7 +1543,7 @@ work ofeduca&#x27;ion
 
 ## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-04-17/ed-1/seq-1)
 
-#### 1857-04-17 &middot; Brookville, Ind.
+#### 1857-04-17 &middot; [Brookville, Ind.](http://dbpedia.org/resource/Brookville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1584,7 +1584,7 @@ tbo home-work ol education
 
 #### From _Boston investigator._
 
-#### 1857-04-22 &middot; Boston, Mass.
+#### 1857-04-22 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -1592,7 +1592,7 @@ tbo home-work ol education
 
 ## [From _Marshall County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056247/1857-04-23/ed-1/seq-1)
 
-#### 1857-04-23 &middot; Plymouth, Ind.
+#### 1857-04-23 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1625,7 +1625,7 @@ become fully enlightened whon tho moth
 
 ## [From _Daily Nashville patriot._](https://chroniclingamerica.loc.gov/lccn/sn96091000/1857-05-29/ed-1/seq-2)
 
-#### 1857-05-29 &middot; Nashville, Tenn.
+#### 1857-05-29 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1655,7 +1655,7 @@ portant item in the education of giils which th
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1857-07-01/ed-1/seq-3)
 
-#### 1857-07-01 &middot; Raleigh, N.C.
+#### 1857-07-01 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1694,7 +1694,7 @@ when thev become mothers they would edu- a pleasant evening in batning in tne su
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1857-07-01/ed-1/seq-3)
 
-#### 1857-07-01 &middot; Raleigh, N.C.
+#### 1857-07-01 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1715,7 +1715,7 @@ of education
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1857-07-04/ed-1/seq-1)
 
-#### 1857-07-04 &middot; Lancaster, Wis.
+#### 1857-07-04 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1751,7 +1751,7 @@ education
 
 ## [From _Tri-weekly commonwealth._](https://iiif.archivelab.org/iiif/xt7f4q7qr46k?page=2)
 
-#### 1857-08-03 &middot; Frankfort, Ky.
+#### 1857-08-03 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1786,7 +1786,7 @@ tion
 
 #### From _The Charleston mercury._
 
-#### 1857-08-26 &middot; Charleston, S.C.
+#### 1857-08-26 &middot; [Charleston, S.C.](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -1794,7 +1794,7 @@ tion
 
 ## [From _The Abbeville banner._](https://chroniclingamerica.loc.gov/lccn/sn85026945/1857-09-03/ed-1/seq-2)
 
-#### 1857-09-03 &middot; Abbeville, S.C.
+#### 1857-09-03 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1828,7 +1828,7 @@ education.
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1857-09-09/ed-1/seq-1)
 
-#### 1857-09-09 &middot; Staunton, Va.
+#### 1857-09-09 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1861,7 +1861,7 @@ of the home-work of education.
 
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1857-09-12/ed-1/seq-4)
 
-#### 1857-09-12 &middot; Pickens Court House, S.C.
+#### 1857-09-12 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1894,7 +1894,7 @@ homework of education.
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1857-09-16/ed-1/seq-1)
 
-#### 1857-09-16 &middot; Raleigh, N.C.
+#### 1857-09-16 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1940,7 +1940,7 @@ education.&#x27; ,
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1857-09-16/ed-1/seq-4)
 
-#### 1857-09-16 &middot; Lancaster, S.C.
+#### 1857-09-16 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1977,7 +1977,7 @@ education.
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1857-09-26/ed-2/seq-2)
 
-#### 1857-09-26 &middot; Opelousas, La.
+#### 1857-09-26 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2006,7 +2006,7 @@ and it is traie No nation can become fall
 
 ## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1857-10-04/ed-1/seq-3)
 
-#### 1857-10-04 &middot; New York [N.Y.]
+#### 1857-10-04 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2036,7 +2036,7 @@ cation.
 
 ## [From _The weekly Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035102/1857-11-19/ed-1/seq-1)
 
-#### 1857-11-19 &middot; Ravenna, Ohio
+#### 1857-11-19 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2072,7 +2072,7 @@ for, when they become mothers. the, d
 
 ## [From _Columbia Democrat and Bloomsburg general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85025181/1857-12-12/ed-1/seq-1)
 
-#### 1857-12-12 &middot; Bloomsburg, Pa.
+#### 1857-12-12 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2104,7 +2104,7 @@ work of education,
 
 ## [From _The Universalist Quarterly and General Review (1844-1891)_](https://iiif.archivelab.org/iiif/sim_universalist-quarterly-and-general-review_january-october-1858_15?page=238)
 
-#### 1858-01-01 &middot; Boston
+#### 1858-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2137,7 +2137,7 @@ work in the intellectual field of human existence woma
 
 #### From _Christian Inquirer (1846-1864)_
 
-#### 1858-03-06 &middot; New York
+#### 1858-03-06 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -2147,7 +2147,7 @@ work in the intellectual field of human existence woma
 
 #### From _Fayetteville observer._
 
-#### 1858-03-29 &middot; Fayetteville, N.C.
+#### 1858-03-29 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -2157,7 +2157,7 @@ work in the intellectual field of human existence woma
 
 #### From _Fayetteville observer._
 
-#### 1858-03-29 &middot; Fayetteville, N.C.
+#### 1858-03-29 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -2165,7 +2165,7 @@ work in the intellectual field of human existence woma
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1858-04-03/ed-1/seq-2)
 
-#### 1858-04-03 &middot; Richmond [Va.]
+#### 1858-04-03 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2197,7 +2197,7 @@ the duties of the home work of education
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1858-04-14/ed-1/seq-1)
 
-#### 1858-04-14 &middot; Edgefield, S.C.
+#### 1858-04-14 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2232,7 +2232,7 @@ work of education
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1858-04-15/ed-1/seq-1)
 
-#### 1858-04-15 &middot; Litchfield, Conn.
+#### 1858-04-15 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2268,7 +2268,7 @@ work of education
 
 ## [From _The independent press._](https://chroniclingamerica.loc.gov/lccn/sn93067882/1858-04-30/ed-1/seq-4)
 
-#### 1858-04-30 &middot; Abbeville C.H., S.C.
+#### 1858-04-30 &middot; [Abbeville C.H., S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2305,7 +2305,7 @@ cation
 
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1858-05-14/ed-1/seq-1)
 
-#### 1858-05-14 &middot; Bedford, Pa.
+#### 1858-05-14 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2338,7 +2338,7 @@ education
 
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1858-05-19/ed-1/seq-1)
 
-#### 1858-05-19 &middot; Hillsborough, N.C.
+#### 1858-05-19 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2388,7 +2388,7 @@ the home work of edscation
 
 #### From _Newark advocate._
 
-#### 1858-05-26 &middot; Newark [Ohio]
+#### 1858-05-26 &middot; [Newark [Ohio]](http://dbpedia.org/resource/Newark%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -2396,7 +2396,7 @@ the home work of edscation
 
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1858-05-27/ed-1/seq-1)
 
-#### 1858-05-27 &middot; Lancaster, Ohio
+#### 1858-05-27 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2424,7 +2424,7 @@ can-become fully &#x27;enlightened when l
 
 #### From _The Universalist Quarterly and General Review (1844-1891)_
 
-#### 1858-07-01 &middot; Boston
+#### 1858-07-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -2432,7 +2432,7 @@ can-become fully &#x27;enlightened when l
 
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1858-10-02/ed-1/seq-1)
 
-#### 1858-10-02 &middot; Honolulu [Oahu], Hawaii
+#### 1858-10-02 &middot; [Honolulu [Oahu], Hawaii](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2478,7 +2478,7 @@ charge the duties of the home work of education
 
 #### From _Boston investigator._
 
-#### 1859-06-01 &middot; Boston, Mass.
+#### 1859-06-01 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -2488,7 +2488,7 @@ charge the duties of the home work of education
 
 #### From _German reformed messenger._
 
-#### 1859-06-01 &middot; Chambersburg, Pa.
+#### 1859-06-01 &middot; [Chambersburg, Pa.](http://dbpedia.org/resource/Chambersburg%2C_Pennsylvania)
 
 [This text is not available under an open license.]
 
@@ -2498,7 +2498,7 @@ charge the duties of the home work of education
 
 #### From _Christian Observer (1840-1910)_
 
-#### 1859-06-09 &middot; Louisville
+#### 1859-06-09 &middot; [Louisville](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 [This text is not available under an open license.]
 
@@ -2508,7 +2508,7 @@ charge the duties of the home work of education
 
 #### From _Semi-weekly Mississippian._
 
-#### 1859-06-21 &middot; Jackson, Miss.
+#### 1859-06-21 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -2516,7 +2516,7 @@ charge the duties of the home work of education
 
 ## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1859-06-24/ed-1/seq-1)
 
-#### 1859-06-24 &middot; Rockville, Md.
+#### 1859-06-24 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2552,7 +2552,7 @@ home-work of education
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1859-07-14/ed-1/seq-4)
 
-#### 1859-07-14 &middot; St. Clairsville, Ohio
+#### 1859-07-14 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2586,7 +2586,7 @@ charge the duties of the home work ofeducation
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1859-07-29/ed-1/seq-4)
 
-#### 1859-07-29 &middot; Bellevue, Bossier Parish, La.
+#### 1859-07-29 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2624,7 +2624,7 @@ education.
 
 ## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1859-07-30_1_5?page=2)
 
-#### 1859-07-30 &middot; New York
+#### 1859-07-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2659,7 +2659,7 @@ the duties of the home-work of education.
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1859-08-04/ed-1/seq-1)
 
-#### 1859-08-04 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1859-08-04 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2695,7 +2695,7 @@ the duties of the home work ofeducation,
 
 ## [From _Delaware gazette._](https://chroniclingamerica.loc.gov/lccn/sn83035595/1859-08-05/ed-1/seq-1)
 
-#### 1859-08-05 &middot; Delaware, Ohio
+#### 1859-08-05 &middot; [Delaware, Ohio](http://dbpedia.org/resource/Delaware%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2729,7 +2729,7 @@ the duties of the home ww qi eaucauon
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1859-08-06/ed-1/seq-4)
 
-#### 1859-08-06 &middot; Ashtabula, Ohio
+#### 1859-08-06 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2761,7 +2761,7 @@ t a ttoouie fully enlightened, when nioth
 
 ## [From _The Jeffersonian Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028083/1859-08-12/ed-1/seq-1)
 
-#### 1859-08-12 &middot; Chardon, Ohio
+#### 1859-08-12 &middot; [Chardon, Ohio](http://dbpedia.org/resource/Chardon%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2793,7 +2793,7 @@ become fully enlightened, whon mother
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1859-08-14/ed-1/seq-1)
 
-#### 1859-08-14 &middot; Memphis, Tenn.
+#### 1859-08-14 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2830,7 +2830,7 @@ ties of the bom work of education
 
 ## [From _Lady's Home Magazine (1857-1860)_](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1859-09_14?page=40)
 
-#### 1859-09-01 &middot; Philadelphia
+#### 1859-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2862,7 +2862,7 @@ duties of the home work of education
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1859-09-07/ed-1/seq-1)
 
-#### 1859-09-07 &middot; Lancaster, S.C.
+#### 1859-09-07 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2895,7 +2895,7 @@ can become fully enlightened, whe
 
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1859-09-22/ed-1/seq-1)
 
-#### 1859-09-22 &middot; Lancaster, Ohio
+#### 1859-09-22 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2930,7 +2930,7 @@ the bouse work of education.&#x27;
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1859-09-24_16_28?page=13)
 
-#### 1859-09-24 &middot; Philadelphia
+#### 1859-09-24 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2966,7 +2966,7 @@ thermometer, held it as a principle that a healthy | fied to discharge the dutie
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1859-12-03/ed-1/seq-1)
 
-#### 1859-12-03 &middot; Red Wing, M.T. [i.e. Minn.]
+#### 1859-12-03 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3009,7 +3009,7 @@ home work of education
 
 #### From _Christian Observer (1840-1910)_
 
-#### 1860-02-02 &middot; Louisville
+#### 1860-02-02 &middot; [Louisville](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 [This text is not available under an open license.]
 
@@ -3017,7 +3017,7 @@ home work of education
 
 ## [From _Arkansas true Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014282/1860-03-07/ed-1/seq-1)
 
-#### 1860-03-07 &middot; Little Rock, Ark.
+#### 1860-03-07 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3049,7 +3049,7 @@ the duties of the home w&lt; of education
 
 ## [From _The Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023252/1860-03-30/ed-1/seq-1)
 
-#### 1860-03-30 &middot; St. Johnsbury, Vt.
+#### 1860-03-30 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3070,7 +3070,7 @@ he informed me lhat nl lhe starftt they feU
 
 ## [From _The Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023252/1860-03-30/ed-1/seq-1)
 
-#### 1860-03-30 &middot; St. Johnsbury, Vt.
+#### 1860-03-30 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3092,7 +3092,7 @@ j educatio
 
 #### From _The Omaha Nebraskian._
 
-#### 1860-04-21 &middot; Omaha City, N.T. [i.e. Neb.]
+#### 1860-04-21 &middot; [Omaha City, N.T. [i.e. Neb.]](http://dbpedia.org/resource/Omaha%2C_Nebraska)
 
 [This text is not available under an open license.]
 
@@ -3100,7 +3100,7 @@ j educatio
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1860-05-12/ed-1/seq-2)
 
-#### 1860-05-12 &middot; Bridgeton, N.J.
+#### 1860-05-12 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3148,7 +3148,7 @@ education
 
 ## [From _National Principia 1858-1866_](https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31?page=7)
 
-#### 1860-06-16
+#### 1860-06-16 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3191,7 +3191,7 @@ homework of education.
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1860-07-19/ed-1/seq-1)
 
-#### 1860-07-19 &middot; Smyrna, Del.
+#### 1860-07-19 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3224,7 +3224,7 @@ tion
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1860-07-27/ed-1/seq-1)
 
-#### 1860-07-27 &middot; Alexandria, D.C.
+#### 1860-07-27 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3248,7 +3248,7 @@ This is the true principle of education
 
 ## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051343/1860-08-29/ed-1/seq-1)
 
-#### 1860-08-29 &middot; Des Arc, Ark.
+#### 1860-08-29 &middot; [Des Arc, Ark.](http://dbpedia.org/resource/Des_Arc%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3282,7 +3282,7 @@ gree qualified to discharge the duties of
 
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn85029094/1860-09-05/ed-1/seq-4)
 
-#### 1860-09-05 &middot; Oskaloosa, Kan.
+#### 1860-09-05 &middot; [Oskaloosa, Kan.](http://dbpedia.org/resource/Oskaloosa%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3320,7 +3320,7 @@ cduca&#x27;ian
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1860-09-25/ed-1/seq-4)
 
-#### 1860-09-25 &middot; Anderson Court House, S.C.
+#### 1860-09-25 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3361,7 +3361,7 @@ Long Sermons ?Rev. Wm Taylor, i
 
 ## [From _The Louisville daily courier._](https://iiif.archivelab.org/iiif/xt734t6f2g5n?page=1)
 
-#### 1861-01-23 &middot; Louisville, Ky.
+#### 1861-01-23 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3398,7 +3398,7 @@ education
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1861-03-23/ed-1/seq-1)
 
-#### 1861-03-23 &middot; Weaverville, Calif.
+#### 1861-03-23 &middot; [Weaverville, Calif.](http://dbpedia.org/resource/Weaverville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3428,7 +3428,7 @@ il is true. No nation can become fully enlight
 
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1861-06-08/ed-1/seq-2)
 
-#### 1861-06-08 &middot; Honolulu [Oahu], Hawaii
+#### 1861-06-08 &middot; [Honolulu [Oahu], Hawaii](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3461,7 +3461,7 @@ education
 
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
 
-#### 1862-06-03 &middot; Sydney, New South Wales
+#### 1862-06-03 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3497,7 +3497,7 @@ education. biMiucm oi Uni1-0 -1 cmal
 
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
 
-#### 1862-07-02 &middot; Sydney, New South Wales
+#### 1862-07-02 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3529,7 +3529,7 @@ is true. I nation can become full
 
 #### From _Sydney Mail (NSW : 1860 - 1871)_
 
-#### 1862-07-05 &middot; Sydney, New South Wales
+#### 1862-07-05 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3587,7 +3587,7 @@ they educate their sons.’ This is the point, and it is true
 
 ## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1863-02-05_15_740?page=6)
 
-#### 1863-02-05 &middot; New York
+#### 1863-02-05 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3620,7 +3620,7 @@ cation
 
 ## [From _The Morgantown monitor._](https://chroniclingamerica.loc.gov/lccn/sn86092176/1863-03-14/ed-1/seq-1)
 
-#### 1863-03-14 &middot; Morgantown, Va. [W. Va.]
+#### 1863-03-14 &middot; [Morgantown, Va. [W. Va.]](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3656,7 +3656,7 @@ true. No nation can become full
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1863-05-12/ed-1/seq-2)
 
-#### 1863-05-12 &middot; Hillsdale, Mich.
+#### 1863-05-12 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3691,7 +3691,7 @@ fully enlightened when mothers aro not in
 
 #### From _The Dover gazette._
 
-#### 1863-06-05 &middot; Dover, N.H.
+#### 1863-06-05 &middot; [Dover, N.H.](http://dbpedia.org/resource/Dover%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -3699,7 +3699,7 @@ fully enlightened when mothers aro not in
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1863-09-10/ed-1/seq-4)
 
-#### 1863-09-10 &middot; Honolulu, Hawaiian Islands
+#### 1863-09-10 &middot; [Honolulu, Hawaiian Islands](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3732,7 +3732,7 @@ the duties of the home-work of education
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1863-09-17/ed-1/seq-1)
 
-#### 1863-09-17 &middot; Dodgeville, Wis.
+#### 1863-09-17 &middot; [Dodgeville, Wis.](http://dbpedia.org/resource/Dodgeville%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3772,7 +3772,7 @@ homework of education
 
 #### From _South Bourke Standard (Vic. : 1861 - 1873)_
 
-#### 1864-01-29 &middot; South Bourke, Victoria
+#### 1864-01-29 &middot; [South Bourke, Victoria](http://dbpedia.org/resource/Hawthorn%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3806,7 +3806,7 @@ triie:: Nb nation can beooome fully ei
 
 #### From _Prairie farmer._
 
-#### 1864-11-26 &middot; Chicago, Ill.
+#### 1864-11-26 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Indianapolis)
 
 [This text is not available under an open license.]
 
@@ -3814,7 +3814,7 @@ triie:: Nb nation can beooome fully ei
 
 ## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1864-12_40_6?page=9)
 
-#### 1864-12-01 &middot; Philadelphia
+#### 1864-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3845,7 +3845,7 @@ is true. No nation can become fully enlightene
 
 ## [From _The Union and journal._](https://chroniclingamerica.loc.gov/lccn/sn83009571/1864-12-09/ed-1/seq-4)
 
-#### 1864-12-09 &middot; Biddeford, Me.
+#### 1864-12-09 &middot; [Biddeford, Me.](http://dbpedia.org/resource/Biddeford%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3877,7 +3877,7 @@ No nation can become fully enlightene
 
 ## [From _St. Cloud Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016836/1864-12-15/ed-1/seq-1)
 
-#### 1864-12-15 &middot; Saint Cloud, Stearns County, Minn.
+#### 1864-12-15 &middot; [Saint Cloud, Stearns County, Minn.](http://dbpedia.org/resource/St._Cloud%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3911,7 +3911,7 @@ when they become mothers, they edu
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1865-01-07 &middot; Adelaide, South Australia
+#### 1865-01-07 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3944,7 +3944,7 @@ nation can become fully enlightened whe
 
 #### From _Portland Guardian and Normanby General Advertiser (Vic. : 1842 - 1876)_
 
-#### 1865-01-16 &middot; Portland, Victoria
+#### 1865-01-16 &middot; [Portland, Victoria](http://dbpedia.org/resource/Portland%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3975,7 +3975,7 @@ No nation can become fully enlightene
 
 ## [From _St. Mary's gazette._](https://chroniclingamerica.loc.gov/lccn/sn89060120/1865-01-19/ed-1/seq-1)
 
-#### 1865-01-19 &middot; Leonard Town, Md.
+#### 1865-01-19 &middot; [Leonard Town, Md.](http://dbpedia.org/resource/Leonardtown%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4008,7 +4008,7 @@ lion can become fully enlightened whe
 
 ## [From _The mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014487/1865-01-21/ed-1/seq-1)
 
-#### 1865-01-21 &middot; Placerville, El Dorado County, Calif.
+#### 1865-01-21 &middot; [Placerville, El Dorado County, Calif.](http://dbpedia.org/resource/Placerville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4043,7 +4043,7 @@ true. No nation can become fully en
 
 #### From _Milwaukee daily sentinel._
 
-#### 1865-02-04 &middot; [Milwaukee, Wis.]
+#### 1865-02-04 &middot; [[Milwaukee, Wis.]](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -4051,7 +4051,7 @@ true. No nation can become fully en
 
 ## [From _Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn86059181/1865-02-10/ed-1/seq-4)
 
-#### 1865-02-10 &middot; Evansville, Ind.
+#### 1865-02-10 &middot; [Evansville, Ind.](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4086,7 +4086,7 @@ it is true No nation can become fully
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1865-02-10/ed-1/seq-4)
 
-#### 1865-02-10 &middot; Bedford, Pa.
+#### 1865-02-10 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4114,7 +4114,7 @@ fully enlightened when mothers are not qualified t
 
 ## [From _The weekly union record._](https://chroniclingamerica.loc.gov/lccn/sn86076422/1865-02-11/ed-1/seq-1)
 
-#### 1865-02-11 &middot; Oroville, Calif.
+#### 1865-02-11 &middot; [Oroville, Calif.](http://dbpedia.org/resource/Oroville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4147,7 +4147,7 @@ and it is true. No nation can become full
 
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
 
-#### 1865-02-27 &middot; Adelaide, South Australia
+#### 1865-02-27 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4172,7 +4172,7 @@ soon lost all his interest &#x27;_ri&amp; In wif
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1865-03-01/ed-1/seq-1)
 
-#### 1865-03-01 &middot; Clearfield, Pa.
+#### 1865-03-01 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4204,7 +4204,7 @@ and it is true. No nation can become full
 
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1865-03-08/ed-1/seq-1)
 
-#### 1865-03-08 &middot; Hyde Park, Vt.
+#### 1865-03-08 &middot; [Hyde Park, Vt.](http://dbpedia.org/resource/Hyde_Park_(town)%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4242,7 +4242,7 @@ true. No nation can become fully eulight
 
 #### From _Vermont chronicle._
 
-#### 1865-07-15 &middot; Bellows Falls, Vt.
+#### 1865-07-15 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -4250,7 +4250,7 @@ true. No nation can become fully eulight
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1865-08-24/ed-1/seq-1)
 
-#### 1865-08-24 &middot; Dodgeville, Wis.
+#### 1865-08-24 &middot; [Dodgeville, Wis.](http://dbpedia.org/resource/Dodgeville%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4285,7 +4285,7 @@ are not qualified to discharge the dutie
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34?page=0)
 
-#### 1865-08-24 &middot; New York
+#### 1865-08-24 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4311,7 +4311,7 @@ It is true. No nation can become folly en
 
 ## [From _Arthur's Home Magazine (1861-1870)_](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1865-09_26?page=33)
 
-#### 1865-09-01 &middot; Philadelphia
+#### 1865-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4352,7 +4352,7 @@ for when they become mo
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1865-09-07/ed-1/seq-2)
 
-#### 1865-09-07 &middot; Richmond, Ind.
+#### 1865-09-07 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4384,7 +4384,7 @@ i degree qualified to discharge the duties of the home
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1865-09-20/ed-1/seq-1)
 
-#### 1865-09-20 &middot; Warren, Ohio
+#### 1865-09-20 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4417,7 +4417,7 @@ best education in yonr power
 
 ## [From _American Freedmen's Bulletin 1864-1866_](https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2?page=26)
 
-#### 1866-01-01
+#### 1866-01-01 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4460,7 +4460,7 @@ are not in a good degree qualified to discharge
 
 #### From _Vermont chronicle._
 
-#### 1866-03-03 &middot; Bellows Falls, Vt.
+#### 1866-03-03 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -4468,7 +4468,7 @@ are not in a good degree qualified to discharge
 
 ## [From _The Semi-weekly Natchitoches times._](https://chroniclingamerica.loc.gov/lccn/sn86053712/1867-05-15/ed-1/seq-3)
 
-#### 1867-05-15 &middot; Natchitoches, La.
+#### 1867-05-15 &middot; [Natchitoches, La.](http://dbpedia.org/resource/Natchitoches%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4506,7 +4506,7 @@ QM on
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1870-06-15 &middot; Exeter, England
+#### 1870-06-15 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 

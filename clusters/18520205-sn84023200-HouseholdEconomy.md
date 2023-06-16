@@ -35,7 +35,7 @@ To the poor, the weekly newspaper is a precious boon. They cannot afford books, 
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1852-01-20/ed-1/seq-1)
 
-#### 1852-01-20 &middot; Grand Haven, Mich.
+#### 1852-01-20 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -88,7 +88,7 @@ rectness in the use of language
 
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-02-05/ed-1/seq-4)
 
-#### 1852-02-05 &middot; Montpelier, Vt.
+#### 1852-02-05 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -178,7 +178,7 @@ fccnlo of humanity.
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1852-02-11/ed-1/seq-3)
 
-#### 1852-02-11 &middot; Raleigh, N.C.
+#### 1852-02-11 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -228,7 +228,7 @@ Origin or Cbrtain Words. The bayonet tell
 
 ## [From _Semi-weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024518/1852-02-11/ed-1/seq-3)
 
-#### 1852-02-11 &middot; Raleigh, N.C.
+#### 1852-02-11 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -278,7 +278,7 @@ Origin or Certain Words. The bayonet tell
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1852-03-02/ed-1/seq-1)
 
-#### 1852-03-02 &middot; Hillsdale, Mich.
+#### 1852-03-02 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -330,7 +330,7 @@ rectness, in the use of language
 
 ## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1852-03-04/ed-1/seq-4)
 
-#### 1852-03-04 &middot; Davenport, Scott Co., Iowa
+#### 1852-03-04 &middot; [Davenport, Scott Co., Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -363,7 +363,7 @@ words with greater esse and accuracy.
 
 ## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1852-03-04/ed-1/seq-4)
 
-#### 1852-03-04 &middot; Davenport, Scott Co., Iowa
+#### 1852-03-04 &middot; [Davenport, Scott Co., Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -386,7 +386,7 @@ in the use of languag
 
 ## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1852-03-04/ed-1/seq-4)
 
-#### 1852-03-04 &middot; Davenport, Scott Co., Iowa
+#### 1852-03-04 &middot; [Davenport, Scott Co., Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -408,7 +408,7 @@ more clearly and connectedly e
 
 ## [From _Monongalia mirror._](https://chroniclingamerica.loc.gov/lccn/sn86092163/1852-05-13/ed-1/seq-1)
 
-#### 1852-05-13 &middot; Morgantown, Va. [W. Va.]
+#### 1852-05-13 &middot; [Morgantown, Va. [W. Va.]](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -474,7 +474,7 @@ eoirectness in the u&amp;o of language
 
 #### From _The Hinds County gazette._
 
-#### 1852-05-20 &middot; Raymond, Miss.
+#### 1852-05-20 &middot; [Raymond, Miss.](http://dbpedia.org/resource/Raymond%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -482,7 +482,7 @@ eoirectness in the u&amp;o of language
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1852-07-28/ed-1/seq-1)
 
-#### 1852-07-28 &middot; Martinsburg, Va. [W. Va.]
+#### 1852-07-28 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -545,7 +545,7 @@ and correctness in the use of language
 
 ## [From _The organ of the temperance reform._](https://chroniclingamerica.loc.gov/lccn/sn90068762/1852-08-06/ed-1/seq-3)
 
-#### 1852-08-06 &middot; Cincinnati, O. [Ohio]
+#### 1852-08-06 &middot; [Cincinnati, O. [Ohio]](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -603,7 +603,7 @@ ueo of language. - . w -, . ..,
 
 #### From _Newcastle Courant_
 
-#### 1852-09-10 &middot; Newcastle-upon-Tyne, England
+#### 1852-09-10 &middot; [Newcastle-upon-Tyne, England](http://dbpedia.org/resource/Newcastle_upon_Tyne)
 
 [This text is not available under an open license.]
 
@@ -613,7 +613,7 @@ ueo of language. - . w -, . ..,
 
 #### From _North Wales Chronicle_
 
-#### 1852-09-24 &middot; Bangor, Wales
+#### 1852-09-24 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -623,7 +623,7 @@ ueo of language. - . w -, . ..,
 
 #### From _The Ripley bee._
 
-#### 1852-09-25 &middot; Ripley [Ohio]
+#### 1852-09-25 &middot; [Ripley [Ohio]](http://dbpedia.org/resource/Ripley%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -631,7 +631,7 @@ ueo of language. - . w -, . ..,
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1852-10-09/ed-1/seq-1)
 
-#### 1852-10-09 &middot; Sunbury, Pa.
+#### 1852-10-09 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -688,7 +688,7 @@ Illinois, confirm the report of Ihe death, o
 
 ## [From _Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn93067980/1852-10-12/ed-1/seq-2)
 
-#### 1852-10-12 &middot; Camden, South-Carolina
+#### 1852-10-12 &middot; [Camden, South-Carolina](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -747,7 +747,7 @@ language
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1852-10-14/ed-1/seq-1)
 
-#### 1852-10-14 &middot; Stroudsburg, Pa.
+#### 1852-10-14 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -811,7 +811,7 @@ i , , ? , .
 
 #### From _North American and United States gazette._
 
-#### 1852-11-04 &middot; Philadelphia, Pa.
+#### 1852-11-04 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -819,7 +819,7 @@ i , , ? , .
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1852-11-04/ed-1/seq-4)
 
-#### 1852-11-04 &middot; Bath, Me.
+#### 1852-11-04 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -864,7 +864,7 @@ ils construction with accuracy
 
 ## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1852-11-06/ed-1/seq-2)
 
-#### 1852-11-06 &middot; Washington [D.C.]
+#### 1852-11-06 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -893,7 +893,7 @@ clearness and correctness in their uje of language
 
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1852-11-06/ed-1/seq-1)
 
-#### 1852-11-06 &middot; Saint Paul, Minn. Territory
+#### 1852-11-06 &middot; [Saint Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -926,7 +926,7 @@ of language.
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1852-11-06/ed-1/seq-4)
 
-#### 1852-11-06 &middot; Richmond [Va.]
+#### 1852-11-06 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -985,7 +985,7 @@ rectness in their use of languages.
 
 #### From _Daily national intelligencer._
 
-#### 1852-11-08 &middot; Washington City [D.C.]
+#### 1852-11-08 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -993,7 +993,7 @@ rectness in their use of languages.
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1852-11-10/ed-1/seq-4)
 
-#### 1852-11-10 &middot; Alexandria, D.C.
+#### 1852-11-10 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1031,7 +1031,7 @@ rectness in their use of languages._i
 
 #### From _Fayetteville observer._
 
-#### 1852-11-11 &middot; Fayetteville, N.C.
+#### 1852-11-11 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -1041,7 +1041,7 @@ rectness in their use of languages._i
 
 #### From _The Daily Ohio statesman._
 
-#### 1852-11-11 &middot; Columbus [Ohio]
+#### 1852-11-11 &middot; [Columbus [Ohio]](http://dbpedia.org/resource/Columbus%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -1049,7 +1049,7 @@ rectness in their use of languages._i
 
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1852-11-11/ed-1/seq-2)
 
-#### 1852-11-11 &middot; Wheeling, Va. [W. Va.]
+#### 1852-11-11 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1101,7 +1101,7 @@ guage
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1852-11-11_23_46?page=3)
 
-#### 1852-11-11 &middot; New York
+#### 1852-11-11 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1144,7 +1144,7 @@ p,. ....new™,,, m.«. .hem Snili.,-i.h’.b.
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1852-11-12/ed-1/seq-3)
 
-#### 1852-11-12 &middot; Wilmington, N.C.
+#### 1852-11-12 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1168,7 +1168,7 @@ ages, wno nave had access to newspapers at Home,
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1852-11-12/ed-1/seq-3)
 
-#### 1852-11-12 &middot; Wilmington, N.C.
+#### 1852-11-12 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1194,7 +1194,7 @@ The Consecration of Bishop Wainwkight. Th
 
 ## [From _The organ of the temperance reform._](https://chroniclingamerica.loc.gov/lccn/sn90068762/1852-11-12/ed-1/seq-1)
 
-#### 1852-11-12 &middot; Cincinnati, O. [Ohio]
+#### 1852-11-12 &middot; [Cincinnati, O. [Ohio]](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1248,7 +1248,7 @@ rectness ia their use ol language. -
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1852-11-13/ed-1/seq-1)
 
-#### 1852-11-13 &middot; Elkton, Md.
+#### 1852-11-13 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1306,7 +1306,7 @@ ness in their use of languag
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1852-11-16/ed-1/seq-2)
 
-#### 1852-11-16 &middot; Hillsdale, Mich.
+#### 1852-11-16 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1361,7 +1361,7 @@ rectness in their use of language.
 
 #### From _Boston investigator._
 
-#### 1852-11-17 &middot; Boston, Mass.
+#### 1852-11-17 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -1371,7 +1371,7 @@ rectness in their use of language.
 
 #### From _The Ohio observer._
 
-#### 1852-11-17 &middot; Hudson [Ohio]
+#### 1852-11-17 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -1379,7 +1379,7 @@ rectness in their use of language.
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1852-11-17/ed-1/seq-1)
 
-#### 1852-11-17 &middot; Martinsburg, Va. [W. Va.]
+#### 1852-11-17 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1432,7 +1432,7 @@ I correctness iu the use of language.
 
 ## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82015677/1852-11-18/ed-1/seq-4)
 
-#### 1852-11-18 &middot; Indianapolis
+#### 1852-11-18 &middot; [Indianapolis](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1484,7 +1484,7 @@ the ose of the language
 
 #### From _Bangor daily Whig & courier._
 
-#### 1852-11-20 &middot; Bangor, Me.
+#### 1852-11-20 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -1492,7 +1492,7 @@ the ose of the language
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1852-11-24/ed-1/seq-1)
 
-#### 1852-11-24 &middot; Grand Haven, Mich.
+#### 1852-11-24 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1535,7 +1535,7 @@ language, : - r ... , ,
 
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-11-25/ed-1/seq-1)
 
-#### 1852-11-25 &middot; Montpelier, Vt.
+#### 1852-11-25 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1591,7 +1591,7 @@ tiou with accuracy.
 
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1852-11-26/ed-1/seq-1)
 
-#### 1852-11-26 &middot; Carrollton [Ohio]
+#### 1852-11-26 &middot; [Carrollton [Ohio]](http://dbpedia.org/resource/Carrollton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1645,7 +1645,7 @@ general use of language
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1852-11-26/ed-1/seq-3)
 
-#### 1852-11-26 &middot; Athens, Tenn.
+#### 1852-11-26 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1699,7 +1699,7 @@ uud correctness in their use of languag
 
 ## [From _Burlington free press._](https://chroniclingamerica.loc.gov/lccn/sn84023127/1852-11-26/ed-1/seq-2)
 
-#### 1852-11-26 &middot; Burlington, Vt.
+#### 1852-11-26 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1752,7 +1752,7 @@ in their tue of language
 
 #### From _The Ripley bee._
 
-#### 1852-11-27 &middot; Ripley [Ohio]
+#### 1852-11-27 &middot; [Ripley [Ohio]](http://dbpedia.org/resource/Ripley%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -1760,7 +1760,7 @@ in their tue of language
 
 ## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1852-11-27/ed-1/seq-2)
 
-#### 1852-11-27 &middot; Saint Paul, Minn. Territory
+#### 1852-11-27 &middot; [Saint Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1816,7 +1816,7 @@ their use of language.
 
 ## [From _The southerner._](https://chroniclingamerica.loc.gov/lccn/sn90052434/1852-11-27/ed-1/seq-1)
 
-#### 1852-11-27 &middot; Tarboro', Edgecombe Co., (N.C.)
+#### 1852-11-27 &middot; [Tarboro', Edgecombe Co., (N.C.)](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1853,7 +1853,7 @@ their governments and doings on the
 
 ## [From _The southerner._](https://chroniclingamerica.loc.gov/lccn/sn90052434/1852-11-27/ed-1/seq-1)
 
-#### 1852-11-27 &middot; Tarboro', Edgecombe Co., (N.C.)
+#### 1852-11-27 &middot; [Tarboro', Edgecombe Co., (N.C.)](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1905,7 +1905,7 @@ with greater fluency, clearness and cor
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1852-12-01/ed-1/seq-1)
 
-#### 1852-12-01 &middot; Clarksburg, Va. [W. Va.]
+#### 1852-12-01 &middot; [Clarksburg, Va. [W. Va.]](http://dbpedia.org/resource/Clarksburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1959,7 +1959,7 @@ language
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1852-12-08/ed-1/seq-1)
 
-#### 1852-12-08 &middot; Woodsfield, Ohio
+#### 1852-12-08 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2018,7 +2018,7 @@ edge Upon a greater variety of subjecisl
 
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1852-12-11/ed-1/seq-1)
 
-#### 1852-12-11 &middot; Loudon, Tenn.
+#### 1852-12-11 &middot; [Loudon, Tenn.](http://dbpedia.org/resource/Loudon%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2069,7 +2069,7 @@ clearness and correctness in their use of lanjrua
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35?page=2)
 
-#### 1852-12-23 &middot; Boston
+#### 1852-12-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2132,7 +2132,7 @@ their use of language.
 
 #### From _North Wales Chronicle_
 
-#### 1853-01-21 &middot; Bangor, Wales
+#### 1853-01-21 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -2140,7 +2140,7 @@ their use of language.
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1853-01-26/ed-1/seq-2)
 
-#### 1853-01-26 &middot; Lancaster, S.C.
+#### 1853-01-26 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2192,7 +2192,7 @@ use of language.
 
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1853-02-09/ed-1/seq-3)
 
-#### 1853-02-09 &middot; Cadiz, Ohio
+#### 1853-02-09 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2238,7 +2238,7 @@ tion with accuracy
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1853-02-25/ed-1/seq-1)
 
-#### 1853-02-25 &middot; Athens, Tenn.
+#### 1853-02-25 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2270,7 +2270,7 @@ The foregoing article is trrie to tho letter
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1853-03-24/ed-1/seq-1)
 
-#### 1853-03-24 &middot; Charlestown, Va. [W. Va.]
+#### 1853-03-24 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2310,7 +2310,7 @@ and correctness iu tUir use of languages.
 
 #### From _The Courier (Hobart, Tas. : 1840 - 1859)_
 
-#### 1853-05-05 &middot; Hobart, Tasmania
+#### 1853-05-05 &middot; [Hobart, Tasmania](http://dbpedia.org/resource/Hobart)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2347,7 +2347,7 @@ doings, on the globe.&quot;-New York Tribune
 
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1853-10-22/ed-1/seq-2)
 
-#### 1853-10-22 &middot; Wheeling, Va. [W. Va.]
+#### 1853-10-22 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2372,7 +2372,7 @@ and elevate faun in the scale of humanity. IC i
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1853-10-26/ed-1/seq-1)
 
-#### 1853-10-26 &middot; Martinsburg, Va. [W. Va.]
+#### 1853-10-26 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2399,7 +2399,7 @@ elevate him in tbo scale of humanity. It i
 
 ## [From _Daily evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045461/1854-02-18/ed-1/seq-1)
 
-#### 1854-02-18 &middot; Washington [D.C.]
+#### 1854-02-18 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2444,7 +2444,7 @@ inalyze its construction with accuracy
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1854-03-08/ed-1/seq-1)
 
-#### 1854-03-08 &middot; Grand Haven, Mich.
+#### 1854-03-08 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2497,7 +2497,7 @@ uso of their language.&#x27; ; -:, r..,
 
 ## [From _The Union and eastern journal._](https://chroniclingamerica.loc.gov/lccn/sn83021380/1854-03-24/ed-1/seq-1)
 
-#### 1854-03-24 &middot; Biddeford [Me.]
+#### 1854-03-24 &middot; [Biddeford [Me.]](http://dbpedia.org/resource/Biddeford%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2551,7 +2551,7 @@ and correctness in their uso of language.
 
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15?page=3)
 
-#### 1854-04-13 &middot; Boston
+#### 1854-04-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2580,7 +2580,7 @@ ingly.
 
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15?page=3)
 
-#### 1854-04-13 &middot; Boston
+#### 1854-04-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2627,7 +2627,7 @@ rod may, to ou
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1854-04-20/ed-1/seq-1)
 
-#### 1854-04-20 &middot; Mineral Point, Wis.
+#### 1854-04-20 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2671,7 +2671,7 @@ its construction with accuracy
 
 ## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1854-04-28/ed-1/seq-2)
 
-#### 1854-04-28 &middot; Evansville, Ia. [i.e. Ind.]
+#### 1854-04-28 &middot; [Evansville, Ia. [i.e. Ind.]](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2703,7 +2703,7 @@ v ui c w 111 iiiru use 01 lanpuatr
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1854-06-24/ed-1/seq-1)
 
-#### 1854-06-24 &middot; Sunbury, Pa.
+#### 1854-06-24 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2727,7 +2727,7 @@ of Ihe meeting of the next Congress, it will I ,,on and emphasis, and consequent
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1854-06-24/ed-1/seq-1)
 
-#### 1854-06-24 &middot; Sunbury, Pa.
+#### 1854-06-24 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2754,7 +2754,7 @@ ness in then use of language.
 
 ## [From _Eaton Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028570/1854-10-19/ed-1/seq-1)
 
-#### 1854-10-19 &middot; Eaton, Ohio
+#### 1854-10-19 &middot; [Eaton, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2795,7 +2795,7 @@ nrehnd the mn.mine of the text, and conse
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1854-12-14/ed-1/seq-1)
 
-#### 1854-12-14 &middot; Port Tobacco, Md.
+#### 1854-12-14 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2822,7 +2822,7 @@ wiser and better, and elevate him in theacale
 
 ## [From _Star of the Kanawha Valley._](https://chroniclingamerica.loc.gov/lccn/sn85059861/1855-01-01/ed-1/seq-4)
 
-#### 1855-01-01 &middot; Buffalo, Va. [W. Va.]
+#### 1855-01-01 &middot; [Buffalo, Va. [W. Va.]](http://dbpedia.org/resource/Buffalo%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2883,7 +2883,7 @@ better language, containing more thought
 
 #### From _Boston investigator._
 
-#### 1855-01-31 &middot; Boston, Mass.
+#### 1855-01-31 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -2893,7 +2893,7 @@ better language, containing more thought
 
 #### From _Frederick Douglass' paper._
 
-#### 1855-02-02 &middot; Rochester, N.Y.
+#### 1855-02-02 &middot; [Rochester, N.Y.](http://dbpedia.org/resource/Rochester%2C_New_York)
 
 [This text is not available under an open license.]
 
@@ -2901,7 +2901,7 @@ better language, containing more thought
 
 ## [From _Republican vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024652/1855-02-03/ed-1/seq-1)
 
-#### 1855-02-03 &middot; Staunton, Va.
+#### 1855-02-03 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2935,7 +2935,7 @@ $5*A Washington letter say*:—‘‘Th
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1855-03-28/ed-1/seq-1)
 
-#### 1855-03-28 &middot; Woodsfield, Ohio
+#### 1855-03-28 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2970,7 +2970,7 @@ made them familiar with the location of th
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1855-03-28/ed-1/seq-1)
 
-#### 1855-03-28 &middot; Woodsfield, Ohio
+#### 1855-03-28 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3000,7 +3000,7 @@ use oflangusge. ; ;
 
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1855-11-02/ed-1/seq-1)
 
-#### 1855-11-02 &middot; Bedford, Pa.
+#### 1855-11-02 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3055,7 +3055,7 @@ rectness in their use of language.
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1855-12-05/ed-1/seq-1)
 
-#### 1855-12-05 &middot; Clearfield, Pa.
+#### 1855-12-05 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3115,7 +3115,7 @@ Three things that are as good as the best
 
 ## [From _The Georgetown news._](https://chroniclingamerica.loc.gov/lccn/sn93052972/1855-12-20/ed-1/seq-1)
 
-#### 1855-12-20 &middot; Georgetown, El Dorado County, Cal.
+#### 1855-12-20 &middot; [Georgetown, El Dorado County, Cal.](http://dbpedia.org/resource/Georgetown%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3140,7 +3140,7 @@ who have not, are better readers, excellin
 
 ## [From _The Georgetown news._](https://chroniclingamerica.loc.gov/lccn/sn93052972/1855-12-20/ed-1/seq-1)
 
-#### 1855-12-20 &middot; Georgetown, El Dorado County, Cal.
+#### 1855-12-20 &middot; [Georgetown, El Dorado County, Cal.](http://dbpedia.org/resource/Georgetown%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3175,7 +3175,7 @@ more clearly and connectedly expressed
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1856-01-10/ed-1/seq-1)
 
-#### 1856-01-10 &middot; Jackson C.H., Ohio
+#### 1856-01-10 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3228,7 +3228,7 @@ irets. ami i-vro-psintr tb.ir vir.w uirh
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1856-02-06/ed-1/seq-1)
 
-#### 1856-02-06 &middot; Raleigh, N.C.
+#### 1856-02-06 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3262,7 +3262,7 @@ them familiar with the location of the impor
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1856-02-06/ed-1/seq-1)
 
-#### 1856-02-06 &middot; Raleigh, N.C.
+#### 1856-02-06 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3293,7 +3293,7 @@ and correctness in their use of language.
 
 ## [From _Squatter sovereign._](https://chroniclingamerica.loc.gov/lccn/sn82015827/1856-02-26/ed-1/seq-2)
 
-#### 1856-02-26 &middot; Atchison, Kan. Terr.
+#### 1856-02-26 &middot; [Atchison, Kan. Terr.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3346,7 +3346,7 @@ In-view; of these facts, who jvill be s
 
 #### From _Geelong Advertiser and Intelligencer (Vic. : 1851 - 1856)_
 
-#### 1856-03-17 &middot; Geelong, Victoria
+#### 1856-03-17 &middot; [Geelong, Victoria](http://dbpedia.org/resource/Geelong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3392,7 +3392,7 @@ correctness in the use of language
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1856-04-03/ed-1/seq-1)
 
-#### 1856-04-03 &middot; Fayetteville, Tenn.
+#### 1856-04-03 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3458,7 +3458,7 @@ ency and clearness in their usv of lan
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1856-04-12/ed-1/seq-1)
 
-#### 1856-04-12 &middot; Towanda, Pa.
+#### 1856-04-12 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3510,7 +3510,7 @@ views with greater fluency aud clearness iu thei
 
 ## [From _The Winchester appeal._](https://chroniclingamerica.loc.gov/lccn/sn97065089/1856-04-12/ed-1/seq-4)
 
-#### 1856-04-12 &middot; Winchester, Tenn.
+#### 1856-04-12 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3578,7 +3578,7 @@ iews with greater fluency and clear
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1856-06-11/ed-1/seq-1)
 
-#### 1856-06-11 &middot; Grand Haven, Mich.
+#### 1856-06-11 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3621,7 +3621,7 @@ and conse
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1856-06-11/ed-1/seq-1)
 
-#### 1856-06-11 &middot; Grand Haven, Mich.
+#### 1856-06-11 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3646,7 +3646,7 @@ views with greater fluency and clearness i
 
 #### From _Merry's Museum and Parley's Magazine (1852-1857)_
 
-#### 1856-07-01 &middot; Boston
+#### 1856-07-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -3654,7 +3654,7 @@ views with greater fluency and clearness i
 
 ## [From _The weekly Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035102/1856-07-03/ed-1/seq-1)
 
-#### 1856-07-03 &middot; Ravenna, Ohio
+#### 1856-07-03 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3692,7 +3692,7 @@ of stylo in the newspaper, from
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1856-11-22/ed-1/seq-1)
 
-#### 1856-11-22 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1856-11-22 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3741,7 +3741,7 @@ TJNDES FOOT.
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1856-11-29/ed-1/seq-1)
 
-#### 1856-11-29 &middot; Ottawa, Ill.
+#### 1856-11-29 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3770,7 +3770,7 @@ tion, and consequently read more under
 
 ## [From _San Andreas independent._](https://chroniclingamerica.loc.gov/lccn/sn85025090/1856-12-13/ed-1/seq-4)
 
-#### 1856-12-13 &middot; San Andreas, Calif.
+#### 1856-12-13 &middot; [San Andreas, Calif.](http://dbpedia.org/resource/San_Andreas%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3826,7 +3826,7 @@ great correctness in their use of languages.
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1857-02_9_2?page=7)
 
-#### 1857-02-01 &middot; Boston
+#### 1857-02-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3865,7 +3865,7 @@ come so familiar with every variety in the newspa
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1857-02-12/ed-1/seq-6)
 
-#### 1857-02-12 &middot; Honolulu, Hawaiian Islands
+#### 1857-02-12 &middot; [Honolulu, Hawaiian Islands](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3906,7 +3906,7 @@ curacy.
 
 #### From _Newark advocate._
 
-#### 1857-02-25 &middot; Newark [Ohio]
+#### 1857-02-25 &middot; [Newark [Ohio]](http://dbpedia.org/resource/Newark%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -3914,7 +3914,7 @@ curacy.
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065087/1857-02-27/ed-1/seq-4)
 
-#### 1857-02-27 &middot; Winchester, Tenn.
+#### 1857-02-27 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3952,7 +3952,7 @@ so familiar with every variety in &#x27; th
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1857-02-28_1857?page=7)
 
-#### 1857-02-28 &middot; Philadelphia
+#### 1857-02-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3991,7 +3991,7 @@ paper, from the commonplace ad
 
 #### From _Daily morning news._
 
-#### 1857-03-10 &middot; Savannah, Ga.
+#### 1857-03-10 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 [This text is not available under an open license.]
 
@@ -4001,7 +4001,7 @@ paper, from the commonplace ad
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1857-03-12 &middot; Exeter, England
+#### 1857-03-12 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4009,7 +4009,7 @@ paper, from the commonplace ad
 
 ## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1857-03-21/ed-1/seq-4)
 
-#### 1857-03-21 &middot; Plaquemine, Parish of Iberville [La.]
+#### 1857-03-21 &middot; [Plaquemine, Parish of Iberville [La.]](http://dbpedia.org/resource/Plaquemine%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4035,7 +4035,7 @@ ter readers, excelling in pronunciation, an
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-04-02_25_15?page=0)
 
-#### 1857-04-02 &middot; Augusta, Maine
+#### 1857-04-02 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4069,7 +4069,7 @@ paper, from the commonplace advertisemen
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1857-10-24/ed-1/seq-2)
 
-#### 1857-10-24 &middot; Sunbury, Pa.
+#### 1857-10-24 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4130,7 +4130,7 @@ THE DUTCHMAN A.D THE PAMC.
 
 ## [From _San Andreas independent._](https://chroniclingamerica.loc.gov/lccn/sn85025090/1858-01-02/ed-1/seq-4)
 
-#### 1858-01-02 &middot; San Andreas, Calif.
+#### 1858-01-02 &middot; [San Andreas, Calif.](http://dbpedia.org/resource/San_Andreas%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4169,7 +4169,7 @@ variety in the newspaper, from the com
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1858-01-21/ed-1/seq-1)
 
-#### 1858-01-21 &middot; Towanda, Pa.
+#### 1858-01-21 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4208,7 +4208,7 @@ paper. from the common place advertisemen
 
 ## [From _Pennsylvania School Journal 1852-1980_](https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10?page=20)
 
-#### 1859-04-01
+#### 1859-04-01 &middot; [Lancaster, Pennsylvania](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4267,7 +4267,7 @@ and correctness in their use of language.—/bid
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1860-01-26/ed-1/seq-1)
 
-#### 1860-01-26 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1860-01-26 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4305,7 +4305,7 @@ variety of reading, from thecommon-plac
 
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1860-02-22/ed-1/seq-1)
 
-#### 1860-02-22 &middot; Ashland, Ashland County, Ohio
+#### 1860-02-22 &middot; [Ashland, Ashland County, Ohio](http://dbpedia.org/resource/Ashland%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4341,7 +4341,7 @@ variety in .the newspaper, from the commo
 
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1861-02-20/ed-1/seq-1)
 
-#### 1861-02-20 &middot; Ebensburg, Pa.
+#### 1861-02-20 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4361,7 +4361,7 @@ tion and consequently read more understand-
 
 ## [From _The Alleghanian._](https://chroniclingamerica.loc.gov/lccn/sn85054845/1861-03-07/ed-1/seq-1)
 
-#### 1861-03-07 &middot; Ebensburg, Pa.
+#### 1861-03-07 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4397,7 +4397,7 @@ its construction with accuracy
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1863-11-14/ed-1/seq-1)
 
-#### 1863-11-14 &middot; Gold Hill, N.T. [Nev.]
+#### 1863-11-14 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4454,7 +4454,7 @@ use of language.
 
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
 
-#### 1864-01-27 &middot; Sydney, New South Wales
+#### 1864-01-27 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4489,7 +4489,7 @@ familiar with every variety in th
 
 ## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt78sf2m8j1h?page=3)
 
-#### 1865-05-10 &middot; Louisville, Kentucky.
+#### 1865-05-10 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4524,7 +4524,7 @@ And correctness in their use o
 
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1865-06-22/ed-1/seq-1)
 
-#### 1865-06-22 &middot; Pomeroy, Meigs County, Ohio
+#### 1865-06-22 &middot; [Pomeroy, Meigs County, Ohio](http://dbpedia.org/resource/Pomeroy%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4567,7 +4567,7 @@ correctness in their use of language,
 
 ## [From _Louisville daily union press._](https://iiif.archivelab.org/iiif/xt7r4x54hv4v?page=0)
 
-#### 1865-07-04 &middot; Louisville, Ky.
+#### 1865-07-04 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4615,7 +4615,7 @@ ness and correctness in the use of language.
 
 ## [From _The West Virginia journal._](https://chroniclingamerica.loc.gov/lccn/sn84026789/1865-07-05/ed-1/seq-4)
 
-#### 1865-07-05 &middot; Charleston, W. Va.
+#### 1865-07-05 &middot; [Charleston, W. Va.](http://dbpedia.org/resource/Charleston%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4660,7 +4660,7 @@ greater fluency, clearness and correctness
 
 ## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48?page=3)
 
-#### 1865-07-29 &middot; Boston [Mass.]
+#### 1865-07-29 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4715,7 +4715,7 @@ rectness in the use of language.
 
 ## [From _North Branch democrat._](https://chroniclingamerica.loc.gov/lccn/sn86081912/1865-08-02/ed-1/seq-1)
 
-#### 1865-08-02 &middot; Tunkhannock, Pa.
+#### 1865-08-02 &middot; [Tunkhannock, Pa.](http://dbpedia.org/resource/Tunkhannock%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4764,7 +4764,7 @@ own house being oTerrun with the rertnin,
 
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn85029094/1865-08-05/ed-1/seq-1)
 
-#### 1865-08-05 &middot; Oskaloosa, Kan.
+#### 1865-08-05 &middot; [Oskaloosa, Kan.](http://dbpedia.org/resource/Oskaloosa%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4822,7 +4822,7 @@ eye, though dissembled by the lips.
 
 #### From _The Daily Mississippian._
 
-#### 1865-09-13 &middot; Jackson, Miss.
+#### 1865-09-13 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -4830,7 +4830,7 @@ eye, though dissembled by the lips.
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1865-10-06/ed-1/seq-1)
 
-#### 1865-10-06 &middot; Brattleboro, Vt.
+#### 1865-10-06 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4859,7 +4859,7 @@ rectness in the use of language
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1865-10-11/ed-1/seq-2)
 
-#### 1865-10-11 &middot; Urbana, Ohio
+#### 1865-10-11 &middot; [Urbana, Ohio](http://dbpedia.org/resource/Urbana%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4918,7 +4918,7 @@ A First-rate Notice.
 
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1865-12-02/ed-1/seq-1)
 
-#### 1865-12-02 &middot; Towsontown, Md.
+#### 1865-12-02 &middot; [Towsontown, Md.](http://dbpedia.org/resource/Towson%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4954,7 +4954,7 @@ clearness and correctness in their use of
 
 ## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1866-01-12/ed-1/seq-4)
 
-#### 1866-01-12 &middot; New Oregon, Iowa
+#### 1866-01-12 &middot; [New Oregon, Iowa](http://dbpedia.org/resource/New_Oregon_Township%2C_Howard_County%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5012,7 +5012,7 @@ use of language.
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1867-03-19/ed-1/seq-1)
 
-#### 1867-03-19 &middot; Lancaster, Wis.
+#### 1867-03-19 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5070,7 +5070,7 @@ of language
 
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1867-08-08/ed-1/seq-4)
 
-#### 1867-08-08 &middot; Keokuk, Iowa
+#### 1867-08-08 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5113,7 +5113,7 @@ more correct language
 
 ## [From _Baton Rouge tri-weekly gazette & comet._](https://chroniclingamerica.loc.gov/lccn/sn86053661/1868-03-19/ed-1/seq-2)
 
-#### 1868-03-19 &middot; Baton Rouge, La.
+#### 1868-03-19 &middot; [Baton Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5150,7 +5150,7 @@ ever ? x l ^ e news
 
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1868-04-16/ed-1/seq-1)
 
-#### 1868-04-16 &middot; Tarboro', N.C.
+#### 1868-04-16 &middot; [Tarboro', N.C.](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5217,7 +5217,7 @@ The Tarboro&#x27; Southerner
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1868-04-17/ed-1/seq-4)
 
-#### 1868-04-17 &middot; Bellows Falls, Vt.
+#### 1868-04-17 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5272,7 +5272,7 @@ use of language
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1868-07-21/ed-1/seq-4)
 
-#### 1868-07-21 &middot; Staunton, Va.
+#### 1868-07-21 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5313,7 +5313,7 @@ the use of language.
 
 ## [From _The Cadiz sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034406/1868-11-18/ed-1/seq-1)
 
-#### 1868-11-18 &middot; Cadiz, Ohio
+#### 1868-11-18 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5342,7 +5342,7 @@ elected President by the so-called votes o
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1868-12-24/ed-1/seq-1)
 
-#### 1868-12-24 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1868-12-24 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5387,7 +5387,7 @@ correctness in the use of language.
 
 ## [From _Harper's Bazaar (1867-1912)_](https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1869-05-29_2_22?page=13)
 
-#### 1869-05-29 &middot; New York
+#### 1869-05-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5422,7 +5422,7 @@ with every variety in the newspaper, from th
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-06-11/ed-1/seq-3)
 
-#### 1869-06-11 &middot; Bedford, Pa.
+#### 1869-06-11 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5449,7 +5449,7 @@ celling in punctuation, and consequently rea
 
 #### From _Geelong Advertiser (Vic. : 1859 - 1924)_
 
-#### 1869-09-25 &middot; Geelong, Victoria
+#### 1869-09-25 &middot; [Geelong, Victoria](http://dbpedia.org/resource/Geelong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5494,7 +5494,7 @@ correctness. &#x27; .Josephine.—We are gla
 
 #### From _The Benalla Ensign and Farmer's and Squatter's Journal (Vic. : 1869 - 1872)_
 
-#### 1869-10-22 &middot; Benalla, Victoria
+#### 1869-10-22 &middot; [Benalla, Victoria](http://dbpedia.org/resource/Benalla)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5542,7 +5542,7 @@ correctness.&quot; &amp;nbsp
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
-#### 1869-10-22 &middot; Clare, South Australia
+#### 1869-10-22 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5581,7 +5581,7 @@ correctness. Printed by the proprietors
 
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
 
-#### 1869-11-13 &middot; Goulburn, New South Wales
+#### 1869-11-13 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5624,7 +5624,7 @@ fluency, clearness, and correctness.
 
 #### From _Gippsland Times (Vic. : 1861 - 1954)_
 
-#### 1869-12-07 &middot; Gippsland, Victoria
+#### 1869-12-07 &middot; [Gippsland, Victoria](http://dbpedia.org/resource/Gippsland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5669,7 +5669,7 @@ commenced in the Legislative Assembly o
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-12-11_23_24?page=11)
 
-#### 1869-12-11 &middot; St. Louis, Mo.
+#### 1869-12-11 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5707,7 +5707,7 @@ become so familiar with every variety in th
 
 #### From _The Newcastle Chronicle (NSW : 1866 - 1876)_
 
-#### 1869-12-21 &middot; Newcastle, New South Wales
+#### 1869-12-21 &middot; [Newcastle, New South Wales](http://dbpedia.org/resource/Newcastle%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5740,7 +5740,7 @@ tho meaning of tho text. They writ
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1872-06-12/ed-1/seq-1)
 
-#### 1872-06-12 &middot; Warren, Ohio
+#### 1872-06-12 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5778,7 +5778,7 @@ language. -
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1872-11-17/ed-1/seq-1)
 
-#### 1872-11-17 &middot; Knoxville, Tenn.
+#### 1872-11-17 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5815,7 +5815,7 @@ of the newspaper, from the common plac
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1872-11-20/ed-1/seq-8)
 
-#### 1872-11-20 &middot; Knoxville, Tenn.
+#### 1872-11-20 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5852,7 +5852,7 @@ of the newspaper, from the common plac
 
 ## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1873-03-05/ed-1/seq-1)
 
-#### 1873-03-05 &middot; Lambertville, N.J.
+#### 1873-03-05 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5899,7 +5899,7 @@ in the newspaper, from the common plac
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1874-05-05/ed-1/seq-1)
 
-#### 1874-05-05 &middot; Charles Town, Va. [W. Va.]
+#### 1874-05-05 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5951,7 +5951,7 @@ and correctness.
 
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1876-04-06/ed-1/seq-3)
 
-#### 1876-04-06 &middot; Russellville, Ark.
+#### 1876-04-06 &middot; [Russellville, Ark.](http://dbpedia.org/resource/Russellville%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6004,7 +6004,7 @@ struction with accuracy
 
 #### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
 
-#### 1878-08-02 &middot; Kiama, New South Wales
+#### 1878-08-02 &middot; [Kiama, New South Wales](http://dbpedia.org/resource/Kiama%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6035,7 +6035,7 @@ variety in the newspaper, from th
 
 ## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-11-14_8_194?page=2)
 
-#### 1878-11-14
+#### 1878-11-14 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6074,7 +6074,7 @@ use of language, than those whoare unfamiliar with thi
 
 #### From _The Wisconsin state register._
 
-#### 1879-01-25 &middot; Portage, Columbia County, Wis.
+#### 1879-01-25 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
 
 [This text is not available under an open license.]
 

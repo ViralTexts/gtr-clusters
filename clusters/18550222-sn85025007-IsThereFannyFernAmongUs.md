@@ -26,7 +26,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### From _The daily Cleveland herald._
 
-#### 1855-02-17 &middot; Cleveland [Ohio]
+#### 1855-02-17 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -36,7 +36,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### From _The daily Cleveland herald._
 
-#### 1855-02-17 &middot; Cleveland [Ohio]
+#### 1855-02-17 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -46,7 +46,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### From _The Boston daily Atlas._
 
-#### 1855-02-17 &middot; Boston [Mass.]
+#### 1855-02-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -56,7 +56,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### From _The Boston daily Atlas._
 
-#### 1855-02-17 &middot; Boston [Mass.]
+#### 1855-02-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -66,7 +66,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 #### From _The daily Cleveland herald._
 
-#### 1855-02-19 &middot; Cleveland [Ohio]
+#### 1855-02-19 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -74,7 +74,7 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 ## [From _Daily American organ._](https://chroniclingamerica.loc.gov/lccn/sn85042002/1855-02-21/ed-1/seq-3)
 
-#### 1855-02-21 &middot; Washington, D.C.
+#### 1855-02-21 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -93,7 +93,7 @@ and Ruth Hall; and the reader will find that the
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-21/ed-1/seq-3)
 
-#### 1855-02-21 &middot; Alexandria, D.C.
+#### 1855-02-21 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -121,7 +121,7 @@ cure a copy. GEO. e. y ren&lt; h.
 
 ## [From _The national era._](https://chroniclingamerica.loc.gov/lccn/sn84026752/1855-02-22/ed-1/seq-3)
 
-#### 1855-02-22 &middot; Washington [D.C.]
+#### 1855-02-22 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -142,7 +142,7 @@ Fanny Fern
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-02-22/ed-1/seq-3)
 
-#### 1855-02-22 &middot; Bath, Me.
+#### 1855-02-22 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -161,7 +161,7 @@ ny is not Ruth Hall, who is Fanny Fern ? The life an
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-02-22/ed-1/seq-3)
 
-#### 1855-02-22 &middot; Bath, Me.
+#### 1855-02-22 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -180,7 +180,7 @@ AUTHOR OF FERN LEAVES AND RUTH HALL
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-02-22/ed-1/seq-2)
 
-#### 1855-02-22 &middot; Nashville, Tenn.
+#### 1855-02-22 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -202,7 +202,7 @@ THE LIFE and BEAUTIES ofFANJi Y FER
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-02-22/ed-1/seq-2)
 
-#### 1855-02-22 &middot; Nashville, Tenn.
+#### 1855-02-22 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -221,7 +221,7 @@ Author or Fern I.enes and Ruth Hal
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-22/ed-1/seq-3)
 
-#### 1855-02-22 &middot; Alexandria, D.C.
+#### 1855-02-22 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -251,7 +251,7 @@ j teh VI [Pied W hig \ Rockingham Reg
 
 #### From _Daily national intelligencer._
 
-#### 1855-02-23 &middot; Washington City [D.C.]
+#### 1855-02-23 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -259,7 +259,7 @@ j teh VI [Pied W hig \ Rockingham Reg
 
 ## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1855-02-25/ed-1/seq-1)
 
-#### 1855-02-25 &middot; New York [N.Y.]
+#### 1855-02-25 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -282,7 +282,7 @@ WHO 18 FANNY FERN
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-26/ed-1/seq-4)
 
-#### 1855-02-26 &middot; Alexandria, D.C.
+#### 1855-02-26 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -310,7 +310,7 @@ teb v.&#x27; 1 [Pied. Whig A Rockingham Reg
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-03-01/ed-1/seq-3)
 
-#### 1855-03-01 &middot; Bath, Me.
+#### 1855-03-01 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -328,7 +328,7 @@ ny is not Ruth Hall, who is Fanny Fern ? The life an
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-03-01/ed-1/seq-3)
 
-#### 1855-03-01 &middot; Bath, Me.
+#### 1855-03-01 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -347,7 +347,7 @@ AUTHOR OF PERN LEAVES AND RUTII HALL
 
 ## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3?page=19)
 
-#### 1855-03-01 &middot; Philadelphia
+#### 1855-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

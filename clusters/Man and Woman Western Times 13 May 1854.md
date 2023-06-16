@@ -41,7 +41,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _Morning Chronicle_
 
-#### 1853-05-28 &middot; London, England
+#### 1853-05-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -51,7 +51,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _The Era_
 
-#### 1854-04-23 &middot; London, England
+#### 1854-04-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -61,7 +61,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _The Era_
 
-#### 1854-06-18 &middot; London, England
+#### 1854-06-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -71,7 +71,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _The Era_
 
-#### 1854-07-09 &middot; London, England
+#### 1854-07-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -81,7 +81,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _The Era_
 
-#### 1854-07-16 &middot; London, England
+#### 1854-07-16 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -91,7 +91,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _The Era_
 
-#### 1854-07-23 &middot; London, England
+#### 1854-07-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -101,7 +101,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _The Era_
 
-#### 1854-07-30 &middot; London, England
+#### 1854-07-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -111,7 +111,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _Reynolds's  Newspaper_
 
-#### 1854-08-27 &middot; London, England
+#### 1854-08-27 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -121,7 +121,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _Reynolds's  Newspaper_
 
-#### 1854-09-03 &middot; London, England
+#### 1854-09-03 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -131,7 +131,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _Reynolds's  Newspaper_
 
-#### 1854-10-15 &middot; London, England
+#### 1854-10-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -141,7 +141,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _Hull Packet_
 
-#### 1854-12-15 &middot; Hull, England
+#### 1854-12-15 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -151,7 +151,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _Reynolds's  Newspaper_
 
-#### 1854-12-31 &middot; London, England
+#### 1854-12-31 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -161,7 +161,7 @@ Published and Sold by the Author; by Piper, 23, Paternoster Row; Cook, 5, Sims A
 
 #### From _Hull Packet_
 
-#### 1855-02-16 &middot; Hull, England
+#### 1855-02-16 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 

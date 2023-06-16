@@ -50,7 +50,7 @@ Mr. R. B. Sorrell was next introduced and said, fifteen years ago the stevedores
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
-#### 1871-06-29 &middot; Washington, D.C.
+#### 1871-06-29 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

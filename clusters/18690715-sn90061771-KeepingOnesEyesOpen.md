@@ -50,7 +50,7 @@ within us.” In a word, asin all these bundles of conceits, th
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
-#### 1869-06-24 &middot; New York
+#### 1869-06-24 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -58,7 +58,7 @@ within us.” In a word, asin all these bundles of conceits, th
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
 
-#### 1869-07-15 &middot; Troy, Lincoln County, Mo.
+#### 1869-07-15 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -134,7 +134,7 @@ Her. C. II- Spergeon
 
 ## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1869-08-21/ed-1/seq-1)
 
-#### 1869-08-21 &middot; Prescott, Ariz.
+#### 1869-08-21 &middot; [Prescott, Ariz.](http://dbpedia.org/resource/Prescott%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -199,7 +199,7 @@ Yeull have peae t ysaieaJ
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1869-08-27/ed-1/seq-4)
 
-#### 1869-08-27 &middot; Alexandria, D.C.
+#### 1869-08-27 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -249,7 +249,7 @@ never fight with a coal-heaver, or contend wit
 
 ## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022168/1869-08-28/ed-1/seq-4)
 
-#### 1869-08-28 &middot; Santa Fe, N.M.
+#### 1869-08-28 &middot; [Santa Fe, N.M.](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -287,7 +287,7 @@ ing without reading it, and make suro it -apply ihemeivts in San Kram-isco tb.-y
 
 ## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022168/1869-08-28/ed-1/seq-4)
 
-#### 1869-08-28 &middot; Santa Fe, N.M.
+#### 1869-08-28 &middot; [Santa Fe, N.M.](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -316,7 +316,7 @@ never fight with coalhuavor, or contend in it. ra. hut th-y have gre it i ll&#x2
 
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1869-09-02/ed-1/seq-1)
 
-#### 1869-09-02 &middot; Tarboro', N.C.
+#### 1869-09-02 &middot; [Tarboro', N.C.](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -405,7 +405,7 @@ wiil be sure to blacken von. Her. C
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1869-09-05/ed-1/seq-8)
 
-#### 1869-09-05 &middot; New Orleans [La.]
+#### 1869-09-05 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -470,7 +470,7 @@ will be sure to blacken you.- -
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1869-09-05/ed-2/seq-8)
 
-#### 1869-09-05 &middot; New Orleans [La.]
+#### 1869-09-05 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -544,7 +544,7 @@ the fo efiM stateessnW, &quot;iwheh; we ar
 
 #### From _Daily evening bulletin._
 
-#### 1869-09-08 &middot; San Francisco [Calif.]
+#### 1869-09-08 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -552,7 +552,7 @@ the fo efiM stateessnW, &quot;iwheh; we ar
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1869-09-08/ed-1/seq-2)
 
-#### 1869-09-08 &middot; M'arthur, Vinton County, Ohio
+#### 1869-09-08 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -617,7 +617,7 @@ for they will be sure to blacken yon, Ikv
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1869-09-08/ed-1/seq-1)
 
-#### 1869-09-08 &middot; Watertown, Wis.
+#### 1869-09-08 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -697,7 +697,7 @@ for they will be sure to blacken you.—Rev
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1869-09-09/ed-1/seq-1)
 
-#### 1869-09-09 &middot; Plymouth, Ind.
+#### 1869-09-09 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -716,7 +716,7 @@ LmivUk Ckninmr ,lmmml. heaver, or contend with a base character,
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1869-09-09/ed-1/seq-1)
 
-#### 1869-09-09 &middot; Plymouth, Ind.
+#### 1869-09-09 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -783,7 +783,7 @@ for they w ill be sure to blacken you.
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1869-09-09/ed-1/seq-2)
 
-#### 1869-09-09 &middot; Lansing, Minn.
+#### 1869-09-09 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -849,7 +849,7 @@ for they will be sure to blacken you.—Rev
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1869-09-09/ed-1/seq-1)
 
-#### 1869-09-09 &middot; Staunton, Va.
+#### 1869-09-09 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -908,7 +908,7 @@ formly agree to this
 
 ## [From _The Conservative._](https://chroniclingamerica.loc.gov/lccn/sn87075001/1869-09-10/ed-1/seq-2)
 
-#### 1869-09-10 &middot; M'connelsville, Ohio
+#### 1869-09-10 &middot; [M'connelsville, Ohio](http://dbpedia.org/resource/McConnelsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -973,7 +973,7 @@ Tor I hey will be sure to blacken you.-- Ur
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1869-09-10/ed-1/seq-1)
 
-#### 1869-09-10 &middot; Athens, Tenn.
+#### 1869-09-10 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1013,7 +1013,7 @@ Corn
 
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1869-09-17/ed-1/seq-4)
 
-#### 1869-09-17 &middot; Tiffin, Ohio
+#### 1869-09-17 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1097,7 +1097,7 @@ to blacken vou.
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1869-09-18/ed-1/seq-1)
 
-#### 1869-09-18 &middot; Bellevue, Bossier Parish, La.
+#### 1869-09-18 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1200,7 +1200,7 @@ blackeu you.— [C. H. Spurgeon
 
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1869-09-21/ed-1/seq-1)
 
-#### 1869-09-21 &middot; Hyde Park, Vt.
+#### 1869-09-21 &middot; [Hyde Park, Vt.](http://dbpedia.org/resource/Hyde_Park_(town)%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1222,7 +1222,7 @@ or they will be sure to blacken you.
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1869-09-24/ed-1/seq-1)
 
-#### 1869-09-24 &middot; Deer Lodge, Mont.
+#### 1869-09-24 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1280,7 +1280,7 @@ be cheated.
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1869-09-24/ed-1/seq-1)
 
-#### 1869-09-24 &middot; Bellows Falls, Vt.
+#### 1869-09-24 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1372,7 +1372,7 @@ ter, for they will be sure to blacken you
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-2)
 
-#### 1869-09-30 &middot; Kenosha, Wis.
+#### 1869-09-30 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1393,7 +1393,7 @@ Do not choose your friends by thei
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-6)
 
-#### 1869-09-30 &middot; Kenosha, Wis.
+#### 1869-09-30 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1414,7 +1414,7 @@ sure that it means no more than it says.
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1869-09-30/ed-1/seq-7)
 
-#### 1869-09-30 &middot; Kenosha, Wis.
+#### 1869-09-30 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1463,7 +1463,7 @@ is now on exhibition at the
 
 #### From _Vermont chronicle._
 
-#### 1869-10-09 &middot; Bellows Falls, Vt.
+#### 1869-10-09 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -1471,7 +1471,7 @@ is now on exhibition at the
 
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1869-10-12/ed-1/seq-4)
 
-#### 1869-10-12 &middot; Manchester, Vt.
+#### 1869-10-12 &middot; [Manchester, Vt.](http://dbpedia.org/resource/Bennington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1490,7 +1490,7 @@ Not long since s premium was of
 
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1869-10-12/ed-1/seq-1)
 
-#### 1869-10-12 &middot; Hyde Park, Vt.
+#### 1869-10-12 &middot; [Hyde Park, Vt.](http://dbpedia.org/resource/Hyde_Park_(town)%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1510,7 +1510,7 @@ employment
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-2)
 
-#### 1869-10-12 &middot; Irasburgh, Vt.
+#### 1869-10-12 &middot; [Irasburgh, Vt.](http://dbpedia.org/resource/Irasburg%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1532,7 +1532,7 @@ gilt on l
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-2)
 
-#### 1869-10-12 &middot; Irasburgh, Vt.
+#### 1869-10-12 &middot; [Irasburgh, Vt.](http://dbpedia.org/resource/Irasburg%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1552,7 +1552,7 @@ DIM).
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1869-10-12/ed-1/seq-3)
 
-#### 1869-10-12 &middot; Irasburgh, Vt.
+#### 1869-10-12 &middot; [Irasburgh, Vt.](http://dbpedia.org/resource/Irasburg%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1575,7 +1575,7 @@ they will be sure to blacken you
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1869-10-14/ed-1/seq-1)
 
-#### 1869-10-14 &middot; St. Clairsville, Ohio
+#### 1869-10-14 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1643,7 +1643,7 @@ ir they will be sure to blacken you
 
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
 
-#### 1869-10-14 &middot; Rutland, Vt.
+#### 1869-10-14 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1689,7 +1689,7 @@ water where you cannot see the bottom
 
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
 
-#### 1869-10-14 &middot; Rutland, Vt.
+#### 1869-10-14 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1716,7 +1716,7 @@ dark asks to be cheated.
 
 ## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1869-10-14/ed-1/seq-2)
 
-#### 1869-10-14 &middot; Rutland, Vt.
+#### 1869-10-14 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1744,7 +1744,7 @@ ter danger. In tho midst of peril it i
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1869-10-20/ed-1/seq-3)
 
-#### 1869-10-20 &middot; Urbana, Ohio
+#### 1869-10-20 &middot; [Urbana, Ohio](http://dbpedia.org/resource/Urbana%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1810,7 +1810,7 @@ ter for they will be sure to blacken yon
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1869-11-02/ed-1/seq-1)
 
-#### 1869-11-02 &middot; Charles Town, Va. [W. Va.]
+#### 1869-11-02 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1874,7 +1874,7 @@ be sure to blacken you.&quot; .
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-11-05/ed-1/seq-1)
 
-#### 1869-11-05 &middot; Bedford, Pa.
+#### 1869-11-05 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1945,7 +1945,7 @@ once.
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1869-11-05/ed-1/seq-4)
 
-#### 1869-11-05 &middot; Pulaski, Tenn.
+#### 1869-11-05 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2037,7 +2037,7 @@ The man who, on last Wednesda
 
 #### From _The Owyhee avalanche._
 
-#### 1869-11-06 &middot; Ruby City, I.T. [Idaho]
+#### 1869-11-06 &middot; [Ruby City, I.T. [Idaho]](http://dbpedia.org/resource/Ruby_City%2C_Idaho)
 
 [This text is not available under an open license.]
 
@@ -2045,7 +2045,7 @@ The man who, on last Wednesda
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1869-11-11/ed-1/seq-4)
 
-#### 1869-11-11 &middot; Ravenna, O. [Ohio]
+#### 1869-11-11 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2142,7 +2142,7 @@ blacken you.
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1869-11-27/ed-1/seq-1)
 
-#### 1869-11-27 &middot; Shepherdstown, Va. [W. Va.]
+#### 1869-11-27 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2202,7 +2202,7 @@ eaiHe of the g:!t on i&gt;
 
 #### From _The Brisbane Courier (Qld. : 1864 - 1933)_
 
-#### 1869-12-01 &middot; Brisbane, Queensland
+#### 1869-12-01 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2266,7 +2266,7 @@ to blacken you.-SrintaBaif
 
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153?page=11)
 
-#### 1869-12-04 &middot; Boston
+#### 1869-12-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2284,7 +2284,7 @@ to blacken you.-SrintaBaif
 
 #### From _Bangor daily Whig & courier._
 
-#### 1869-12-06 &middot; Bangor, Me.
+#### 1869-12-06 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -2292,7 +2292,7 @@ to blacken you.-SrintaBaif
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1869-12-15/ed-1/seq-1)
 
-#### 1869-12-15 &middot; Smyrna, Del.
+#### 1869-12-15 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2352,7 +2352,7 @@ geon
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1869-12-16/ed-1/seq-4)
 
-#### 1869-12-16 &middot; Woodstock, Va.
+#### 1869-12-16 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2372,7 +2372,7 @@ Beware of no uiau more than yourself ,
 
 ## [From _The democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026840/1869-12-20/ed-1/seq-1)
 
-#### 1869-12-20 &middot; Weston, W. Va.
+#### 1869-12-20 &middot; [Weston, W. Va.](http://dbpedia.org/resource/Weston%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2426,7 +2426,7 @@ we carry onr worst enemies within u?
 
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157?page=16)
 
-#### 1870-01-01 &middot; Boston
+#### 1870-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2442,7 +2442,7 @@ we carry our worst enemies with us.
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1870-01-06/ed-1/seq-1)
 
-#### 1870-01-06 &middot; Westminster, Md.
+#### 1870-01-06 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2463,7 +2463,7 @@ because of tho gilt on it
 
 #### From _Bangor daily Whig & courier._
 
-#### 1870-01-25 &middot; Bangor, Me.
+#### 1870-01-25 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -2471,7 +2471,7 @@ because of tho gilt on it
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1870-02-03/ed-1/seq-1)
 
-#### 1870-02-03 &middot; Point Pleasant, Va. [W. Va.]
+#### 1870-02-03 &middot; [Point Pleasant, Va. [W. Va.]](http://dbpedia.org/resource/Point_Pleasant%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2492,7 +2492,7 @@ very small Block of it within
 
 #### From _Morning republican._
 
-#### 1870-02-05 &middot; Little Rock, Ark.
+#### 1870-02-05 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -2500,7 +2500,7 @@ very small Block of it within
 
 ## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162?page=12)
 
-#### 1870-02-05 &middot; Boston
+#### 1870-02-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2530,7 +2530,7 @@ taining.
 
 #### From _Morning republican._
 
-#### 1870-02-12 &middot; Little Rock, Ark.
+#### 1870-02-12 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -2538,7 +2538,7 @@ taining.
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1870-02-27/ed-1/seq-4)
 
-#### 1870-02-27 &middot; New Orleans [La.]
+#### 1870-02-27 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2579,7 +2579,7 @@ to be cheated. I
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1870-03-01/ed-1/seq-1)
 
-#### 1870-03-01 &middot; Richmond, Ind.
+#### 1870-03-01 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2651,7 +2651,7 @@ ter, for they will be sure to blacken you
 
 #### From _Bell’s Life in Sydney and Sporting Chronicle (NSW : 1860 - 1870)_
 
-#### 1870-03-12 &middot; Sydney, New South Wales
+#### 1870-03-12 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2714,7 +2714,7 @@ OINTMENT ANI&gt; PILLS.-Tho wors
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1870-03-17_43_11?page=7)
 
-#### 1870-03-17 &middot; Boston
+#### 1870-03-17 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2731,7 +2731,7 @@ Do not choose your friend by his looks.
 
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1870-03-23/ed-1/seq-2)
 
-#### 1870-03-23 &middot; Augusta, Me.
+#### 1870-03-23 &middot; [Augusta, Me.](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2749,7 +2749,7 @@ Alexander II. Stephens has *o far recover
 
 ## [From _The Plymouth Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84038005/1870-03-24/ed-1/seq-4)
 
-#### 1870-03-24 &middot; Plymouth, Ind.
+#### 1870-03-24 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2766,7 +2766,7 @@ yers&#x27; houses are built on fools&#x27; heads.
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1870-03-25/ed-1/seq-4)
 
-#### 1870-03-25 &middot; Dodgeville, Wis.
+#### 1870-03-25 &middot; [Dodgeville, Wis.](http://dbpedia.org/resource/Dodgeville%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2783,7 +2783,7 @@ yers’ houses are built on fools’ heads.
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1870-04-03/ed-1/seq-1)
 
-#### 1870-04-03 &middot; Nashville, Tenn.
+#### 1870-04-03 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2800,7 +2800,7 @@ yers&#x27; houses arc built on.fools&#x27; heads.
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1870-04-28/ed-1/seq-1)
 
-#### 1870-04-28 &middot; Gallipolis, Ohio
+#### 1870-04-28 &middot; [Gallipolis, Ohio](http://dbpedia.org/resource/Gallipolis%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2827,7 +2827,7 @@ lungs alone; use the lungs of the Press.
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-05-13/ed-1/seq-4)
 
-#### 1870-05-13 &middot; Columbia, Tenn.
+#### 1870-05-13 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2865,7 +2865,7 @@ It, r &#x27; -
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-05-13/ed-1/seq-4)
 
-#### 1870-05-13 &middot; Columbia, Tenn.
+#### 1870-05-13 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2909,7 +2909,7 @@ tom. - -
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1870-05-14/ed-1/seq-1)
 
-#### 1870-05-14 &middot; Columbia, S.C.
+#### 1870-05-14 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2960,7 +2960,7 @@ for they will be sure to blacken you
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1870-06-02/ed-1/seq-4)
 
-#### 1870-06-02 &middot; Yorkville, S.C.
+#### 1870-06-02 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3012,7 +3012,7 @@ sure to blacken you.?Rev. G. H. Spurgeon
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1870-06-22/ed-1/seq-1)
 
-#### 1870-06-22 &middot; Clearfield, Pa.
+#### 1870-06-22 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3030,7 +3030,7 @@ houses are built on fools&#x27; heads.&quot;
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1870-10-13/ed-1/seq-1)
 
-#### 1870-10-13 &middot; Millersburg, Holmes Co., O. [Ohio]
+#### 1870-10-13 &middot; [Millersburg, Holmes Co., O. [Ohio]](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3106,7 +3106,7 @@ You&#x27;ll have peace to your end
 
 ## [From _The Sumter watchman._](https://chroniclingamerica.loc.gov/lccn/sn84026917/1870-11-09/ed-1/seq-1)
 
-#### 1870-11-09 &middot; Sumterville, S.C.
+#### 1870-11-09 &middot; [Sumterville, S.C.](http://dbpedia.org/resource/Sumter%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3190,7 +3190,7 @@ ter, for thoy will bo sure to blackcu you
 
 ## [From _The Plymouth Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84038005/1870-11-10/ed-1/seq-1)
 
-#### 1870-11-10 &middot; Plymouth, Ind.
+#### 1870-11-10 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3237,7 +3237,7 @@ hi- ow n ehiiwets
 
 ## [From _Iowa voter._](https://chroniclingamerica.loc.gov/lccn/sn84027183/1870-11-17/ed-1/seq-6)
 
-#### 1870-11-17 &middot; Knoxville, Iowa
+#### 1870-11-17 &middot; [Knoxville, Iowa](http://dbpedia.org/resource/Knoxville%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3296,7 +3296,7 @@ Orchard and Nursery.
 
 ## [From _The evening Argus._](https://chroniclingamerica.loc.gov/lccn/sn84038628/1870-12-02/ed-1/seq-2)
 
-#### 1870-12-02 &middot; Rock Island, Ill.
+#### 1870-12-02 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3373,7 +3373,7 @@ his own character
 
 ## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn84022149/1870-12-08/ed-1/seq-3)
 
-#### 1870-12-08 &middot; Cheyenne, Wyo.
+#### 1870-12-08 &middot; [Cheyenne, Wyo.](http://dbpedia.org/resource/Cheyenne%2C_Wyoming)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3415,7 +3415,7 @@ built on fool’s heads.
 
 #### From _Lowell daily citizen and news._
 
-#### 1870-12-17 &middot; Lowell, Mass.
+#### 1870-12-17 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -3423,7 +3423,7 @@ built on fool’s heads.
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1870-12-21/ed-1/seq-4)
 
-#### 1870-12-21 &middot; Urbana, Ohio
+#### 1870-12-21 &middot; [Urbana, Ohio](http://dbpedia.org/resource/Urbana%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3474,7 +3474,7 @@ value his own character.
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1870-12-21/ed-1/seq-1)
 
-#### 1870-12-21 &middot; M'arthur, Vinton County, Ohio
+#### 1870-12-21 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3535,7 +3535,7 @@ The Tariff on Plows.
 
 ## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1870-12-21/ed-1/seq-4)
 
-#### 1870-12-21 &middot; Prescott, Wis.
+#### 1870-12-21 &middot; [Prescott, Wis.](http://dbpedia.org/resource/Prescott%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3596,7 +3596,7 @@ ter for they will be sure to blacken you.
 
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1871-01-05/ed-1/seq-2)
 
-#### 1871-01-05 &middot; Eaton, Ohio
+#### 1871-01-05 &middot; [Eaton, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3679,7 +3679,7 @@ not value his own character.
 
 #### From _Morning republican._
 
-#### 1871-01-06 &middot; Little Rock, Ark.
+#### 1871-01-06 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -3687,7 +3687,7 @@ not value his own character.
 
 ## [From _Centre Hall reporter._](https://chroniclingamerica.loc.gov/lccn/sn85054524/1871-01-06/ed-1/seq-1)
 
-#### 1871-01-06 &middot; Centre Hall, Pa.
+#### 1871-01-06 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3750,7 +3750,7 @@ bag, and oonnt money after your ow
 
 ## [From _Centre Hall reporter._](https://chroniclingamerica.loc.gov/lccn/sn85054524/1871-01-06/ed-1/seq-1)
 
-#### 1871-01-06 &middot; Centre Hall, Pa.
+#### 1871-01-06 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3774,7 +3774,7 @@ value his own character.
 
 #### From _Daily evening bulletin._
 
-#### 1871-01-07 &middot; San Francisco [Calif.]
+#### 1871-01-07 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -3782,7 +3782,7 @@ value his own character.
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-01-07_15_732?page=10)
 
-#### 1871-01-07 &middot; New York
+#### 1871-01-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3811,7 +3811,7 @@ money after your own kind.”
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-01-07_15_732?page=10)
 
-#### 1871-01-07 &middot; New York
+#### 1871-01-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3828,7 +3828,7 @@ can not see the bottom.”
 
 ## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1871-01-10/ed-1/seq-2)
 
-#### 1871-01-10 &middot; Van Buren, Ark.
+#### 1871-01-10 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3878,7 +3878,7 @@ hit awn character
 
 #### From _Daily evening bulletin._
 
-#### 1871-01-14 &middot; San Francisco [Calif.]
+#### 1871-01-14 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -3888,7 +3888,7 @@ hit awn character
 
 #### From _Daily evening bulletin._
 
-#### 1871-01-14 &middot; San Francisco [Calif.]
+#### 1871-01-14 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -3898,7 +3898,7 @@ hit awn character
 
 #### From _Vermont chronicle._
 
-#### 1871-01-14 &middot; Bellows Falls, Vt.
+#### 1871-01-14 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -3908,7 +3908,7 @@ hit awn character
 
 #### From _Daily Central City register._
 
-#### 1871-01-15 &middot; Central City, Colo.
+#### 1871-01-15 &middot; [Central City, Colo.](http://dbpedia.org/resource/Central_City%2C_Colorado)
 
 [This text is not available under an open license.]
 
@@ -3916,7 +3916,7 @@ hit awn character
 
 ## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn84022149/1871-01-18/ed-1/seq-3)
 
-#### 1871-01-18 &middot; Cheyenne, Wyo.
+#### 1871-01-18 &middot; [Cheyenne, Wyo.](http://dbpedia.org/resource/Cheyenne%2C_Wyoming)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3972,7 +3972,7 @@ types of any font answer, to inden
 
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1871-01-19/ed-1/seq-4)
 
-#### 1871-01-19 &middot; Idaho City, Idaho Territory
+#### 1871-01-19 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4043,7 +4043,7 @@ value his own character.
 
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
 
-#### 1871-01-19 &middot; Jonesborough, Tenn.
+#### 1871-01-19 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4097,7 +4097,7 @@ conferences. 72 traveling preachera
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1871-01-20/ed-1/seq-1)
 
-#### 1871-01-20 &middot; Bridgeton, N.J.
+#### 1871-01-20 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4164,7 +4164,7 @@ value his own character
 
 #### From _Boston investigator._
 
-#### 1871-01-25 &middot; Boston, Mass.
+#### 1871-01-25 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -4172,7 +4172,7 @@ value his own character
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1871-01-25/ed-1/seq-1)
 
-#### 1871-01-25 &middot; Memphis, Tenn.
+#### 1871-01-25 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4209,7 +4209,7 @@ dark askt to be cheated.
 
 ## [From _Iowa voter._](https://chroniclingamerica.loc.gov/lccn/sn84027183/1871-01-26/ed-1/seq-3)
 
-#### 1871-01-26 &middot; Knoxville, Iowa
+#### 1871-01-26 &middot; [Knoxville, Iowa](http://dbpedia.org/resource/Knoxville%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4262,7 +4262,7 @@ Bee the sack open before you buy w
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1871-01-28_2583?page=5)
 
-#### 1871-01-28 &middot; Philadelphia
+#### 1871-01-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4283,7 +4283,7 @@ Cc’ eated,
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1871-02-08/ed-1/seq-1)
 
-#### 1871-02-08 &middot; Watertown, Wis.
+#### 1871-02-08 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4306,7 +4306,7 @@ cheated
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1871-02-09/ed-1/seq-1)
 
-#### 1871-02-09 &middot; Manitowoc, Wis.
+#### 1871-02-09 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4331,7 +4331,7 @@ cheated
 
 #### From _Kilmore Free Press (Kilmore, Vic. : 1870 - 1954)_
 
-#### 1871-02-09 &middot; Kilmore, Victoria
+#### 1871-02-09 &middot; [Kilmore, Victoria](http://dbpedia.org/resource/Kilmore%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4351,7 +4351,7 @@ states that a man, named Neville is i
 
 #### From _Kilmore Free Press (Kilmore, Vic. : 1870 - 1954)_
 
-#### 1871-02-09 &middot; Kilmore, Victoria
+#### 1871-02-09 &middot; [Kilmore, Victoria](http://dbpedia.org/resource/Kilmore%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4372,7 +4372,7 @@ stock of it within. Always give up th
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1871-02-15/ed-1/seq-4)
 
-#### 1871-02-15 &middot; Warren, Ohio
+#### 1871-02-15 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4405,7 +4405,7 @@ bottom.
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1871-02-17/ed-1/seq-6)
 
-#### 1871-02-17 &middot; Paw Paw, Mich.
+#### 1871-02-17 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4422,7 +4422,7 @@ water where you cannot see the bottom
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1871-02-18/ed-1/seq-2)
 
-#### 1871-02-18 &middot; Superior, Wis.
+#### 1871-02-18 &middot; [Superior, Wis.](http://dbpedia.org/resource/Superior%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4445,7 +4445,7 @@ j cheated
 
 ## [From _The weekly echo._](https://chroniclingamerica.loc.gov/lccn/sn85034325/1871-02-23/ed-1/seq-4)
 
-#### 1871-02-23 &middot; Lake Charles, Parish of Calcasieu, La.
+#### 1871-02-23 &middot; [Lake Charles, Parish of Calcasieu, La.](http://dbpedia.org/resource/Lake_Charles%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4489,7 +4489,7 @@ the&#x27;feet
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1871-02-23/ed-1/seq-4)
 
-#### 1871-02-23 &middot; St. Clairsville, Ohio
+#### 1871-02-23 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4509,7 +4509,7 @@ water where you cannot see the bot
 
 #### From _Vermont chronicle._
 
-#### 1871-02-25 &middot; Bellows Falls, Vt.
+#### 1871-02-25 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -4519,7 +4519,7 @@ water where you cannot see the bot
 
 #### From _The Cleveland morning herald._
 
-#### 1871-03-04 &middot; Cleveland, Ohio
+#### 1871-03-04 &middot; [Cleveland, Ohio](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -4527,7 +4527,7 @@ water where you cannot see the bot
 
 ## [From _The Daily telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88064499/1871-03-08/ed-1/seq-2)
 
-#### 1871-03-08 &middot; Monroe, La.
+#### 1871-03-08 &middot; [Monroe, La.](http://dbpedia.org/resource/Monroe%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4567,7 +4567,7 @@ keeps a very small stock of it within
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1871-03-09/ed-1/seq-1)
 
-#### 1871-03-09 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+#### 1871-03-09 &middot; [Washington [Washington Court House], Fayette County, O. [Ohio]](http://dbpedia.org/resource/Washington_Court_House%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4621,7 +4621,7 @@ not value his own character Aye.
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
 
-#### 1871-03-15 &middot; Clearfield, Pa.
+#### 1871-03-15 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4641,7 +4641,7 @@ dom good monsors. , . . ,i.iil .i.;, -,,v ,nJ ... v,. &#x27; .
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
 
-#### 1871-03-15 &middot; Clearfield, Pa.
+#### 1871-03-15 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4662,7 +4662,7 @@ valuo his own rlinrnctcr
 
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1871-03-16/ed-1/seq-1)
 
-#### 1871-03-16 &middot; Tarboro', N.C.
+#### 1871-03-16 &middot; [Tarboro', N.C.](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4713,7 +4713,7 @@ a iacttr. for thev will be aiie i-j jb
 
 ## [From _The Stark County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028490/1871-03-16/ed-1/seq-4)
 
-#### 1871-03-16 &middot; Canton, Ohio
+#### 1871-03-16 &middot; [Canton, Ohio](http://dbpedia.org/resource/Canton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4744,7 +4744,7 @@ handsome shoes often pinch the feet.-
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1871-03-23/ed-1/seq-1)
 
-#### 1871-03-23 &middot; St. Clairsville, Ohio
+#### 1871-03-23 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4779,7 +4779,7 @@ We are told there is nothing made i
 
 ## [From _The Daily state journal._](https://chroniclingamerica.loc.gov/lccn/sn84024670/1871-03-25/ed-1/seq-3)
 
-#### 1871-03-25 &middot; Alexandria, Va.
+#### 1871-03-25 &middot; [Alexandria, Va.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4828,7 +4828,7 @@ his own character
 
 ## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7gf18sf03v?page=3)
 
-#### 1871-03-28 &middot; Frankfort, Ky.
+#### 1871-03-28 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4861,7 +4861,7 @@ lose; lawyers&#x27; houses are built
 
 ## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7gf18sf03v?page=3)
 
-#### 1871-03-28 &middot; Frankfort, Ky.
+#### 1871-03-28 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4888,7 +4888,7 @@ on fools heads.
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1871-03-30/ed-1/seq-4)
 
-#### 1871-03-30 &middot; Woodstock, Va.
+#### 1871-03-30 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4925,7 +4925,7 @@ sure that it means no more than it says
 
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1871-03-31/ed-1/seq-4)
 
-#### 1871-03-31 &middot; Jasper, Ind.
+#### 1871-03-31 &middot; [Jasper, Ind.](http://dbpedia.org/resource/Jasper%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4980,7 +4980,7 @@ ue his own character. The Aje
 
 ## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt71jw86ks3d?page=0)
 
-#### 1871-04-15 &middot; Frankfort, Ky.
+#### 1871-04-15 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4997,7 +4997,7 @@ handsome shoes often pinch the feet.
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-04-16/ed-1/seq-3)
 
-#### 1871-04-16 &middot; Knoxville, Tenn.
+#### 1871-04-16 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5054,7 +5054,7 @@ his own character. - &#x27; ;
 
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1871-04-20/ed-1/seq-4)
 
-#### 1871-04-20 &middot; Upper Sandusky, Ohio
+#### 1871-04-20 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5073,7 +5073,7 @@ The Directors of the Washington Lif
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1871-04-22/ed-1/seq-1)
 
-#### 1871-04-22 &middot; Middletown, Del.
+#### 1871-04-22 &middot; [Middletown, Del.](http://dbpedia.org/resource/Middletown%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5106,7 +5106,7 @@ th
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-04-22/ed-1/seq-1)
 
-#### 1871-04-22 &middot; Charlestown, Va. [W. Va.]
+#### 1871-04-22 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5153,7 +5153,7 @@ If farmers would look at the theory of roll
 
 ## [From _The democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026840/1871-04-24/ed-1/seq-1)
 
-#### 1871-04-24 &middot; Weston, W. Va.
+#### 1871-04-24 &middot; [Weston, W. Va.](http://dbpedia.org/resource/Weston%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5191,7 +5191,7 @@ ue his own character
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1871-04-28/ed-1/seq-5)
 
-#### 1871-04-28 &middot; Paw Paw, Mich.
+#### 1871-04-28 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5209,7 +5209,7 @@ Kpurgeon
 
 ## [From _The herald._](https://chroniclingamerica.loc.gov/lccn/sn88053095/1871-04-29/ed-1/seq-1)
 
-#### 1871-04-29 &middot; Smyrna, Del.
+#### 1871-04-29 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5273,7 +5273,7 @@ ue his own character
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1871-05-05/ed-1/seq-1)
 
-#### 1871-05-05 &middot; Port Tobacco, Md.
+#### 1871-05-05 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5337,7 +5337,7 @@ ue bis own character,—The Age. &#x27;
 
 #### From _The Perth Gazette and West Australian Times (WA : 1864 - 1874)_
 
-#### 1871-05-05 &middot; Perth, Western Australia
+#### 1871-05-05 &middot; [Perth, Western Australia](http://dbpedia.org/resource/Perth)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5356,7 +5356,7 @@ conclusion to be drawn from them, or th
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1871-05-06/ed-2/seq-3)
 
-#### 1871-05-06 &middot; Opelousas, La.
+#### 1871-05-06 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5398,7 +5398,7 @@ Hold On to your foot when you are on th
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1871-05-21/ed-1/seq-7)
 
-#### 1871-05-21 &middot; New Orleans [La.]
+#### 1871-05-21 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5422,7 +5422,7 @@ A doctor was asked to dance the lancers
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1871-05-24/ed-1/seq-1)
 
-#### 1871-05-24 &middot; M'arthur, Vinton County, Ohio
+#### 1871-05-24 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5503,7 +5503,7 @@ A CRADLE SONG.
 
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1871-05-25/ed-1/seq-4)
 
-#### 1871-05-25 &middot; Tipton, Cedar Co., Iowa
+#### 1871-05-25 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5526,7 +5526,7 @@ keeps a very small stock within.
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1871-06-08/ed-1/seq-6)
 
-#### 1871-06-08 &middot; Point Pleasant, Va. [W. Va.]
+#### 1871-06-08 &middot; [Point Pleasant, Va. [W. Va.]](http://dbpedia.org/resource/Point_Pleasant%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5545,7 +5545,7 @@ bile
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-06-20/ed-1/seq-3)
 
-#### 1871-06-20 &middot; New Bloomfield, Pa.
+#### 1871-06-20 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5584,7 +5584,7 @@ my first appearance iu tho courtroo
 
 #### From _Reynolds's  Newspaper_
 
-#### 1871-06-25 &middot; London, England
+#### 1871-06-25 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5592,7 +5592,7 @@ my first appearance iu tho courtroo
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1871-07-13/ed-1/seq-1)
 
-#### 1871-07-13 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1871-07-13 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5615,7 +5615,7 @@ they are very apt to bite
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1871-07-13/ed-1/seq-1)
 
-#### 1871-07-13 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1871-07-13 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5632,7 +5632,7 @@ the feet.
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-07-18/ed-1/seq-2)
 
-#### 1871-07-18 &middot; New Bloomfield, Pa.
+#### 1871-07-18 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5650,7 +5650,7 @@ small stock within.
 
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1871-07-21/ed-1/seq-4)
 
-#### 1871-07-21 &middot; Oregon, Missouri.
+#### 1871-07-21 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5687,7 +5687,7 @@ fools&#x27; heads
 
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
 
-#### 1871-07-25 &middot; Maitland, New South Wales
+#### 1871-07-25 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5706,7 +5706,7 @@ sum to remain under tho Dutah rul
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1871-09-14/ed-1/seq-4)
 
-#### 1871-09-14 &middot; Woodstock, Va.
+#### 1871-09-14 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5726,7 +5726,7 @@ keeps a very small stock of it within
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-09-16/ed-1/seq-1)
 
-#### 1871-09-16 &middot; Opelousas, La.
+#### 1871-09-16 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5745,7 +5745,7 @@ keeps a very small stock of it within
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1871-09-22/ed-1/seq-1)
 
-#### 1871-09-22 &middot; Nashville, Tenn.
+#### 1871-09-22 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5768,7 +5768,7 @@ HVe often omit the good wa might do i
 
 #### From _Daily evening bulletin._
 
-#### 1871-09-23 &middot; San Francisco [Calif.]
+#### 1871-09-23 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -5778,7 +5778,7 @@ HVe often omit the good wa might do i
 
 #### From _Daily evening bulletin._
 
-#### 1871-09-23 &middot; San Francisco [Calif.]
+#### 1871-09-23 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -5788,7 +5788,7 @@ HVe often omit the good wa might do i
 
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
 
-#### 1871-09-23 &middot; Gundagai, New South Wales
+#### 1871-09-23 &middot; [Gundagai, New South Wales](http://dbpedia.org/resource/Gundagai)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5804,7 +5804,7 @@ tho feet. r Some tnilors would mak
 
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
 
-#### 1871-09-23 &middot; Gundagai, New South Wales
+#### 1871-09-23 &middot; [Gundagai, New South Wales](http://dbpedia.org/resource/Gundagai)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5823,7 +5823,7 @@ than to reduce them, be it ever s
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1871-09-27 &middot; Exeter, England
+#### 1871-09-27 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5831,7 +5831,7 @@ than to reduce them, be it ever s
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1871-09-30/ed-1/seq-1)
 
-#### 1871-09-30 &middot; Mechanicstown, Md.
+#### 1871-09-30 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5899,7 +5899,7 @@ Keep clear of a man who does not
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1871-10-01/ed-1/seq-2)
 
-#### 1871-10-01 &middot; Memphis, Tenn.
+#### 1871-10-01 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5918,7 +5918,7 @@ keeps a very small stock of it within
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1871-10-05/ed-1/seq-2)
 
-#### 1871-10-05 &middot; Winchester, Tenn.
+#### 1871-10-05 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5937,7 +5937,7 @@ keeps a ven small stock of it within.
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1871-10-06/ed-1/seq-1)
 
-#### 1871-10-06 &middot; Bolivar, Hardeman County, Tenn.
+#### 1871-10-06 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5960,7 +5960,7 @@ storms of fortune, it i the first on
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-07/ed-1/seq-1)
 
-#### 1871-10-07 &middot; Opelousas, La.
+#### 1871-10-07 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6008,7 +6008,7 @@ tight boots—Cor
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-07/ed-1/seq-5)
 
-#### 1871-10-07 &middot; Opelousas, La.
+#### 1871-10-07 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6031,7 +6031,7 @@ mouscrs.—[Spur^eon,
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-14/ed-1/seq-1)
 
-#### 1871-10-14 &middot; Opelousas, La.
+#### 1871-10-14 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6069,7 +6069,7 @@ bottom,—[ Spurgeon,
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1871-10-14/ed-1/seq-2)
 
-#### 1871-10-14 &middot; Albany, Or.
+#### 1871-10-14 &middot; [Albany, Or.](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6090,7 +6090,7 @@ within
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-11-18/ed-1/seq-1)
 
-#### 1871-11-18 &middot; Knoxville, Tenn.
+#### 1871-11-18 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6123,7 +6123,7 @@ Handsome shoes often pinch the feet.
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1871-11-22/ed-1/seq-4)
 
-#### 1871-11-22 &middot; Knoxville, Tenn.
+#### 1871-11-22 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6140,7 +6140,7 @@ Handsome shoes often pinch tne feet.
 
 ## [From _Tama County Republican._](https://chroniclingamerica.loc.gov/lccn/sn87058333/1871-11-23/ed-1/seq-1)
 
-#### 1871-11-23 &middot; Toledo, Tama County, Iowa
+#### 1871-11-23 &middot; [Toledo, Tama County, Iowa](http://dbpedia.org/resource/Toledo%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6158,7 +6158,7 @@ vhe feet.
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1871-11-26/ed-1/seq-3)
 
-#### 1871-11-26 &middot; Columbia, S.C.
+#### 1871-11-26 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6176,7 +6176,7 @@ keeps a very small stock of it within
 
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-12-07/ed-1/seq-4)
 
-#### 1871-12-07 &middot; Tiffin, Ohio
+#### 1871-12-07 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6248,7 +6248,7 @@ will lie sure to blacken you.
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1871-12-09/ed-1/seq-8)
 
-#### 1871-12-09 &middot; Albany, Or.
+#### 1871-12-09 &middot; [Albany, Or.](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6277,7 +6277,7 @@ tom, i &quot; -f&quot;.
 
 ## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1871-12-13/ed-1/seq-1)
 
-#### 1871-12-13 &middot; Richmond, Va.
+#### 1871-12-13 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6340,7 +6340,7 @@ his own character
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1871-12-29/ed-1/seq-1)
 
-#### 1871-12-29 &middot; Dodgeville, Wis.
+#### 1871-12-29 &middot; [Dodgeville, Wis.](http://dbpedia.org/resource/Dodgeville%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6360,7 +6360,7 @@ within
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1872-01-06/ed-1/seq-1)
 
-#### 1872-01-06 &middot; Frostburg, Md.
+#### 1872-01-06 &middot; [Frostburg, Md.](http://dbpedia.org/resource/Frostburg%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6382,7 +6382,7 @@ within
 
 #### From _Daily evening bulletin._
 
-#### 1872-02-03 &middot; San Francisco [Calif.]
+#### 1872-02-03 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -6392,7 +6392,7 @@ within
 
 #### From _Daily evening bulletin._
 
-#### 1872-02-13 &middot; San Francisco [Calif.]
+#### 1872-02-13 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -6400,7 +6400,7 @@ within
 
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1872-02-17/ed-1/seq-1)
 
-#### 1872-02-17 &middot; Donaldsonville, La.
+#### 1872-02-17 &middot; [Donaldsonville, La.](http://dbpedia.org/resource/Donaldsonville%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6482,7 +6482,7 @@ you.-Exchanle.
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1872-02-17/ed-1/seq-1)
 
-#### 1872-02-17 &middot; Olympia, Wash. Territory
+#### 1872-02-17 &middot; [Olympia, Wash. Territory](http://dbpedia.org/resource/Olympia%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6501,7 +6501,7 @@ rWHOLE NO. 588;
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1872-03-01/ed-1/seq-1)
 
-#### 1872-03-01 &middot; Bridgeton, N.J.
+#### 1872-03-01 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6521,7 +6521,7 @@ small stock of it within.
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1872-03-01/ed-1/seq-1)
 
-#### 1872-03-01 &middot; Staunton, Va.
+#### 1872-03-01 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6542,7 +6542,7 @@ Handsome shoes often pinch the feet
 
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1872-03_54_3?page=62)
 
-#### 1872-03-01 &middot; Philadelphia
+#### 1872-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6559,7 +6559,7 @@ some shoes often pinch your feet.
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1872-03-07/ed-1/seq-1)
 
-#### 1872-03-07 &middot; Staunton, Va.
+#### 1872-03-07 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6606,7 +6606,7 @@ his own character
 
 #### From _Daily evening bulletin._
 
-#### 1872-03-21 &middot; San Francisco [Calif.]
+#### 1872-03-21 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -6614,7 +6614,7 @@ his own character
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1872-04-27/ed-1/seq-2)
 
-#### 1872-04-27 &middot; Gold Hill, N.T. [Nev.]
+#### 1872-04-27 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6633,7 +6633,7 @@ keep· «very small stock of it within.
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1872-06-19/ed-1/seq-4)
 
-#### 1872-06-19 &middot; Warren, Ohio
+#### 1872-06-19 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6662,7 +6662,7 @@ In conversation, a wise man ma
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1872-06-20/ed-1/seq-1)
 
-#### 1872-06-20 &middot; Ravenna, O. [Ohio]
+#### 1872-06-20 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6704,7 +6704,7 @@ bag, and count monev after vour ow
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1872-06-20/ed-1/seq-1)
 
-#### 1872-06-20 &middot; Ravenna, O. [Ohio]
+#### 1872-06-20 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6726,7 +6726,7 @@ value his character.-&#x27; &quot;
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1872-07-31/ed-1/seq-1)
 
-#### 1872-07-31 &middot; Washington, D.C.
+#### 1872-07-31 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6744,7 +6744,7 @@ sure te&quot;&#x27;
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1872-08-16/ed-1/seq-1)
 
-#### 1872-08-16 &middot; Bridgeton, N.J.
+#### 1872-08-16 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6780,7 +6780,7 @@ iy eggs ? I tried it, aud since then hav
 
 ## [From _The Charleston daily news._](https://chroniclingamerica.loc.gov/lccn/sn84026994/1872-08-20/ed-1/seq-3)
 
-#### 1872-08-20 &middot; Charleston, S.C.
+#### 1872-08-20 &middot; [Charleston, S.C.](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6820,7 +6820,7 @@ Chested.
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1872-08-28/ed-1/seq-1)
 
-#### 1872-08-28 &middot; Nashville, Tenn.
+#### 1872-08-28 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6863,7 +6863,7 @@ tan) Presidency aro consideriag. the expe
 
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1872-08-29/ed-1/seq-3)
 
-#### 1872-08-29 &middot; Ottumwa, Iowa
+#### 1872-08-29 &middot; [Ottumwa, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6886,7 +6886,7 @@ the North Carolina election, th
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1872-08-29/ed-1/seq-4)
 
-#### 1872-08-29 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+#### 1872-08-29 &middot; [Washington [Washington Court House], Fayette County, O. [Ohio]](http://dbpedia.org/resource/Washington_Court_House%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6907,7 +6907,7 @@ blacken yow-SpurgooT
 
 #### From _Georgia weekly telegraph and Georgia journal & messenger._
 
-#### 1872-09-03 &middot; Macon, Ga.
+#### 1872-09-03 &middot; [Macon, Ga.](http://dbpedia.org/resource/Macon%2C_Georgia)
 
 [This text is not available under an open license.]
 
@@ -6917,7 +6917,7 @@ blacken yow-SpurgooT
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
-#### 1872-09-05 &middot; New York
+#### 1872-09-05 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -6925,7 +6925,7 @@ blacken yow-SpurgooT
 
 ## [From _The Vinton record._](https://chroniclingamerica.loc.gov/lccn/sn85038222/1872-09-19/ed-1/seq-4)
 
-#### 1872-09-19 &middot; M'arthur, Vinton County, Ohio
+#### 1872-09-19 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6958,7 +6958,7 @@ cheated.
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1872-09-19/ed-1/seq-1)
 
-#### 1872-09-19 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+#### 1872-09-19 &middot; [Washington [Washington Court House], Fayette County, O. [Ohio]](http://dbpedia.org/resource/Washington_Court_House%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6980,7 +6980,7 @@ A gentleman advertised for
 
 #### From _Daily evening bulletin._
 
-#### 1872-09-21 &middot; San Francisco [Calif.]
+#### 1872-09-21 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -6988,7 +6988,7 @@ A gentleman advertised for
 
 ## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1872-09-24/ed-1/seq-4)
 
-#### 1872-09-24 &middot; Van Buren, Ark.
+#### 1872-09-24 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7006,7 +7006,7 @@ for they will be sure to blacken you.
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1872-09-25/ed-1/seq-1)
 
-#### 1872-09-25 &middot; Troy, Lincoln County, Mo.
+#### 1872-09-25 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7025,7 +7025,7 @@ for they will bo snre lo blaeken yon
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1872-10-05/ed-1/seq-4)
 
-#### 1872-10-05 &middot; Westminster, Md.
+#### 1872-10-05 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7058,7 +7058,7 @@ to bit
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1872-10-10/ed-1/seq-4)
 
-#### 1872-10-10 &middot; Point Pleasant, Va. [W. Va.]
+#### 1872-10-10 &middot; [Point Pleasant, Va. [W. Va.]](http://dbpedia.org/resource/Point_Pleasant%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7078,7 +7078,7 @@ The mother of the Worrell sisters turned
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1872-10-12/ed-1/seq-1)
 
-#### 1872-10-12 &middot; Charlestown, Va. [W. Va.]
+#### 1872-10-12 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7110,7 +7110,7 @@ means no more than it. says
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1872-11-14_45_46?page=7)
 
-#### 1872-11-14 &middot; Boston
+#### 1872-11-14 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7129,7 +7129,7 @@ you.—Spurgeon.
 
 ## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1873-01-03/ed-1/seq-4)
 
-#### 1873-01-03 &middot; River Falls, Pierce County, Wis.
+#### 1873-01-03 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7148,7 +7148,7 @@ mies with us.
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1873-01-04/ed-1/seq-2)
 
-#### 1873-01-04 &middot; Columbia, S.C.
+#### 1873-01-04 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7177,7 +7177,7 @@ When they are ready, /or sleighing
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1873-01-21/ed-1/seq-3)
 
-#### 1873-01-21 &middot; New Bloomfield, Pa.
+#### 1873-01-21 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7199,7 +7199,7 @@ on fools&#x27; heads, &#x27; &#x27; : ;
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1873-02-20/ed-1/seq-6)
 
-#### 1873-02-20 &middot; Plymouth, Ind.
+#### 1873-02-20 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7219,7 +7219,7 @@ not a name for hog cholera
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1873-04-12/ed-1/seq-4)
 
-#### 1873-04-12 &middot; Weaverville, Calif.
+#### 1873-04-12 &middot; [Weaverville, Calif.](http://dbpedia.org/resource/Weaverville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7292,7 +7292,7 @@ tor they will be sure to blacken you
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-04-12/ed-1/seq-1)
 
-#### 1873-04-12 &middot; Auburn, Placer County, Calif.
+#### 1873-04-12 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7365,7 +7365,7 @@ A Fearful Vistou.—The Paris Sob- r
 
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1873-06-13/ed-1/seq-1)
 
-#### 1873-06-13 &middot; Savannah, Mo.
+#### 1873-06-13 &middot; [Savannah, Mo.](http://dbpedia.org/resource/Savannah%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7388,7 +7388,7 @@ dark asks to be cheate
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1873-06-14/ed-1/seq-1)
 
-#### 1873-06-14 &middot; Frostburg, Md.
+#### 1873-06-14 &middot; [Frostburg, Md.](http://dbpedia.org/resource/Frostburg%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7410,7 +7410,7 @@ dark asks to be cheated
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1874-06-20/ed-1/seq-2)
 
-#### 1874-06-20 &middot; Mechanicstown, Md.
+#### 1874-06-20 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7427,7 +7427,7 @@ feet
 
 ## [From _The Rutland daily globe._](https://chroniclingamerica.loc.gov/lccn/sn84022473/1874-08-08/ed-1/seq-4)
 
-#### 1874-08-08 &middot; Rutland, Vt.
+#### 1874-08-08 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7447,7 +7447,7 @@ heads
 
 ## [From _Wilmington daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn84020594/1874-08-24/ed-1/seq-1)
 
-#### 1874-08-24 &middot; Wilmington, Del.
+#### 1874-08-24 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7463,7 +7463,7 @@ loose ; lawyers&#x27; houses are built on fools&#x27; heads
 
 ## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1874-08-28/ed-1/seq-1)
 
-#### 1874-08-28 &middot; Somerset, Ohio
+#### 1874-08-28 &middot; [Somerset, Ohio](http://dbpedia.org/resource/Somerset%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7487,7 +7487,7 @@ mind with awe, it is the eipresnlon o
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-08-28/ed-1/seq-3)
 
-#### 1874-08-28 &middot; Romney, Va. [W. Va.]
+#### 1874-08-28 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7505,7 +7505,7 @@ lose; lawyers&#x27; houses are built cn fools’ heads
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1874-09-02/ed-1/seq-1)
 
-#### 1874-09-02 &middot; Smyrna, Del.
+#### 1874-09-02 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7524,7 +7524,7 @@ lose ; lawyers&#x27; houses are built on fools&#x27; heads
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1874-09-02/ed-1/seq-4)
 
-#### 1874-09-02 &middot; Abbeville, S.C.
+#### 1874-09-02 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7544,7 +7544,7 @@ built on fools&#x27;.heads
 
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1874-09-04/ed-1/seq-3)
 
-#### 1874-09-04 &middot; Manitowoc, Wis.
+#### 1874-09-04 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7565,7 +7565,7 @@ place. The latter thought she scrape
 
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1874-09-05/ed-1/seq-4)
 
-#### 1874-09-05 &middot; Idaho City, Idaho Territory
+#### 1874-09-05 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7598,7 +7598,7 @@ nothing to lose; lawyer&#x27;s houses ar
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1874-09-10/ed-1/seq-4)
 
-#### 1874-09-10 &middot; Belfast, Me.
+#### 1874-09-10 &middot; [Belfast, Me.](http://dbpedia.org/resource/Belfast%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7618,7 +7618,7 @@ heads
 
 ## [From _Puget Sound dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84022793/1874-09-10/ed-1/seq-4)
 
-#### 1874-09-10 &middot; Seattle, Wash. Terr.
+#### 1874-09-10 &middot; [Seattle, Wash. Terr.](http://dbpedia.org/resource/Seattle)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7636,7 +7636,7 @@ heads.
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1874-09-12/ed-1/seq-1)
 
-#### 1874-09-12 &middot; Middletown, Del.
+#### 1874-09-12 &middot; [Middletown, Del.](http://dbpedia.org/resource/Middletown%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7657,7 +7657,7 @@ fools&#x27; heads,
 
 ## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1874-09-24/ed-1/seq-4)
 
-#### 1874-09-24 &middot; Chase, Mich.
+#### 1874-09-24 &middot; [Chase, Mich.](http://dbpedia.org/resource/Baldwin%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7689,7 +7689,7 @@ heads
 
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1874-10-29/ed-1/seq-3)
 
-#### 1874-10-29 &middot; Ottumwa, Wapello County, Iowa
+#### 1874-10-29 &middot; [Ottumwa, Wapello County, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7709,7 +7709,7 @@ own character. Bo virtuous and yo
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1874-11-19/ed-1/seq-4)
 
-#### 1874-11-19 &middot; Jackson C.H., Ohio
+#### 1874-11-19 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7729,7 +7729,7 @@ fools&#x27; heads
 
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1874-11-25/ed-1/seq-3)
 
-#### 1874-11-25 &middot; Alexandria, La.
+#### 1874-11-25 &middot; [Alexandria, La.](http://dbpedia.org/resource/Alexandria%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7746,7 +7746,7 @@ pinch the feet
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-12-04/ed-1/seq-3)
 
-#### 1874-12-04 &middot; Romney, Va. [W. Va.]
+#### 1874-12-04 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7762,7 +7762,7 @@ handsome shoes often pinch the feet
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1874-12-17/ed-1/seq-4)
 
-#### 1874-12-17 &middot; Anderson Court House, S.C.
+#### 1874-12-17 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7778,7 +7778,7 @@ handsome shoes often pinch the feet..
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1875-04-02/ed-1/seq-1)
 
-#### 1875-04-02 &middot; Staunton, Va.
+#### 1875-04-02 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7807,7 +7807,7 @@ who kept away from where they were. I
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-05-27/ed-1/seq-4)
 
-#### 1875-05-27 &middot; Centre Hall, Pa.
+#### 1875-05-27 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7833,7 +7833,7 @@ kind
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1875-07-08/ed-1/seq-4)
 
-#### 1875-07-08 &middot; Litchfield, Conn.
+#### 1875-07-08 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7854,7 +7854,7 @@ small stock of it within
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
 
-#### 1875-09-08 &middot; Richmond, Ind.
+#### 1875-09-08 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7871,7 +7871,7 @@ the feet
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
 
-#### 1875-09-08 &middot; Richmond, Ind.
+#### 1875-09-08 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7911,7 +7911,7 @@ keeps a very small stock of it within
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1875-09-23/ed-1/seq-2)
 
-#### 1875-09-23 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1875-09-23 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7934,7 +7934,7 @@ heads.
 
 #### From _Williamstown Chronicle (Vic. : 1856 - 1954)_
 
-#### 1876-06-24 &middot; Williamstown, Victoria
+#### 1876-06-24 &middot; [Williamstown, Victoria](http://dbpedia.org/resource/Williamstown%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7971,7 +7971,7 @@ means no more than it says
 
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
 
-#### 1876-07-11 &middot; Portland, Victoria
+#### 1876-07-11 &middot; [Portland, Victoria](http://dbpedia.org/resource/Portland%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8008,7 +8008,7 @@ no more than it says. &amp;nbsp
 
 #### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
 
-#### 1876-09-28 &middot; Port Elliot, South Australia
+#### 1876-09-28 &middot; [Port Elliot, South Australia](http://dbpedia.org/resource/Port_Elliot%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8043,7 +8043,7 @@ no more than it says.
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1877-08-08/ed-1/seq-6)
 
-#### 1877-08-08 &middot; Watertown, Wis.
+#### 1877-08-08 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8131,7 +8131,7 @@ The Largest Book in the World
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1877-08-09/ed-1/seq-4)
 
-#### 1877-08-09 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1877-08-09 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8218,7 +8218,7 @@ will be sure to blacken you.—Rev. C. H
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1877-09-19/ed-1/seq-1)
 
-#### 1877-09-19 &middot; Smyrna, Del.
+#### 1877-09-19 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8300,7 +8300,7 @@ base character; for they will b
 
 ## [From _Alpena weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn85033549/1878-04-03/ed-1/seq-4)
 
-#### 1878-04-03 &middot; Alpena, Mich.
+#### 1878-04-03 &middot; [Alpena, Mich.](http://dbpedia.org/resource/Alpena%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8370,7 +8370,7 @@ the bottom
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1878-05-10/ed-1/seq-4)
 
-#### 1878-05-10 &middot; Findlay, Hancock County, Ohio
+#### 1878-05-10 &middot; [Findlay, Hancock County, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8444,7 +8444,7 @@ his own character.
 
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1878-05-24/ed-1/seq-1)
 
-#### 1878-05-24 &middot; Ashtabula, Ohio
+#### 1878-05-24 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8485,7 +8485,7 @@ kind
 
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1878-05-24/ed-1/seq-1)
 
-#### 1878-05-24 &middot; Ashtabula, Ohio
+#### 1878-05-24 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8506,7 +8506,7 @@ value his own character.
 
 ## [From _The Troy herald._](https://chroniclingamerica.loc.gov/lccn/sn86063984/1878-05-29/ed-1/seq-3)
 
-#### 1878-05-29 &middot; Troy, Mo.
+#### 1878-05-29 &middot; [Troy, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8567,7 +8567,7 @@ is in it ; for ho who trades in tho dar
 
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1878-09-04/ed-1/seq-2)
 
-#### 1878-09-04 &middot; Ottumwa, Wapello County, Iowa
+#### 1878-09-04 &middot; [Ottumwa, Wapello County, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8591,7 +8591,7 @@ farmer, who kept out of debt, goin
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1878-11-28/ed-1/seq-1)
 
-#### 1878-11-28 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1878-11-28 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8652,7 +8652,7 @@ kind
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1878-11-28/ed-1/seq-1)
 
-#### 1878-11-28 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1878-11-28 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8686,7 +8686,7 @@ sirens who drag men&#x27;s soulsdown to per
 
 #### From _The Singleton Argus and Upper Hunter General Advocate (NSW : 1874 - 1880)_
 
-#### 1879-07-09 &middot; Singleton, New South Wales
+#### 1879-07-09 &middot; [Singleton, New South Wales](http://dbpedia.org/resource/Singleton%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8755,7 +8755,7 @@ you may depend You&#x27;ll have pence to you
 
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
 
-#### 1879-07-14 &middot; Goulburn, New South Wales
+#### 1879-07-14 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8830,7 +8830,7 @@ You&#x27;ll have peoice to your eld.&#x27;: &#x27;
 
 #### From _The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881)_
 
-#### 1879-07-17 &middot; Nowra, New South Wales
+#### 1879-07-17 &middot; [Nowra, New South Wales](http://dbpedia.org/resource/Nowra)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8900,7 +8900,7 @@ dopond e You&#x27;ll havo pcaco to your end.
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-08-06/ed-1/seq-4)
 
-#### 1879-08-06 &middot; Mifflintown, Juniata County, Pa.
+#### 1879-08-06 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8943,7 +8943,7 @@ kind
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-08-06/ed-1/seq-4)
 
-#### 1879-08-06 &middot; Mifflintown, Juniata County, Pa.
+#### 1879-08-06 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8964,7 +8964,7 @@ value bis character
 
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1879-09-10/ed-1/seq-1)
 
-#### 1879-09-10 &middot; Newtown, Conn.
+#### 1879-09-10 &middot; [Newtown, Conn.](http://dbpedia.org/resource/Newtown%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8982,7 +8982,7 @@ for they will be sure to blackeu you
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1879-09-10/ed-1/seq-1)
 
-#### 1879-09-10 &middot; Smyrna, Del.
+#### 1879-09-10 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9005,7 +9005,7 @@ Horatio Seymour walks through th
 
 ## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1879-10-18/ed-1/seq-1)
 
-#### 1879-10-18 &middot; Walla Walla, Wash. Terr.
+#### 1879-10-18 &middot; [Walla Walla, Wash. Terr.](http://dbpedia.org/resource/Walla_Walla%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9074,7 +9074,7 @@ You&#x27;ll hare peace to your rial.
 
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
 
-#### 1880-04-30 &middot; Gundagai, New South Wales
+#### 1880-04-30 &middot; [Gundagai, New South Wales](http://dbpedia.org/resource/Gundagai)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9141,7 +9141,7 @@ you may depend You&#x27;ll bare peace to you
 
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1881-06-30/ed-1/seq-1)
 
-#### 1881-06-30 &middot; Mexico, Mo.
+#### 1881-06-30 &middot; [Mexico, Mo.](http://dbpedia.org/resource/Mexico%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9208,7 +9208,7 @@ he keeps a very small stock of it within
 
 ## [From _The Meridional._](https://chroniclingamerica.loc.gov/lccn/sn88064005/1881-07-16/ed-1/seq-2)
 
-#### 1881-07-16 &middot; Abbeville, La.
+#### 1881-07-16 &middot; [Abbeville, La.](http://dbpedia.org/resource/Abbeville%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9242,7 +9242,7 @@ coffee house is to be erected i
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1881-09-24/ed-1/seq-1)
 
-#### 1881-09-24 &middot; Shepherdstown, Va. [W. Va.]
+#### 1881-09-24 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9274,7 +9274,7 @@ built on fools&#x27; heads
 
 ## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1881-09-26/ed-1/seq-3)
 
-#### 1881-09-26 &middot; Wheeling, W. Va.
+#### 1881-09-26 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9332,7 +9332,7 @@ A New Firm
 
 ## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1883-05_15_5?page=57)
 
-#### 1883-05-01 &middot; New York
+#### 1883-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9349,7 +9349,7 @@ lawyers’ houses are built on fools’ heads.
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1884-04-07/ed-1/seq-1)
 
-#### 1884-04-07 &middot; Barton, Vt.
+#### 1884-04-07 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9441,7 +9441,7 @@ WONDERFUL PHENOMENA I
 
 #### From _North Wales Chronicle_
 
-#### 1884-11-08 &middot; Bangor, Wales
+#### 1884-11-08 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -9451,7 +9451,7 @@ WONDERFUL PHENOMENA I
 
 #### From _North Wales Chronicle_
 
-#### 1884-11-08 &middot; Bangor, Wales
+#### 1884-11-08 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -9459,7 +9459,7 @@ WONDERFUL PHENOMENA I
 
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1887-02-05/ed-1/seq-4)
 
-#### 1887-02-05 &middot; Penn's Grove, Salem Co., N.J.
+#### 1887-02-05 &middot; [Penn's Grove, Salem Co., N.J.](http://dbpedia.org/resource/Penns_Grove%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9479,7 +9479,7 @@ to bite
 
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1887-02-05/ed-1/seq-4)
 
-#### 1887-02-05 &middot; Penn's Grove, Salem Co., N.J.
+#### 1887-02-05 &middot; [Penn's Grove, Salem Co., N.J.](http://dbpedia.org/resource/Penns_Grove%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9499,7 +9499,7 @@ vantages offered by the Okand Unio
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-02-09/ed-1/seq-4)
 
-#### 1887-02-09 &middot; Mifflintown, Juniata County, Pa.
+#### 1887-02-09 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9521,7 +9521,7 @@ to bite.
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-02-09/ed-1/seq-4)
 
-#### 1887-02-09 &middot; Mifflintown, Juniata County, Pa.
+#### 1887-02-09 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9542,7 +9542,7 @@ vantages offered by the Grand Uxio
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1888-09-06/ed-1/seq-4)
 
-#### 1888-09-06 &middot; St. Clairsville, Ohio
+#### 1888-09-06 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9564,7 +9564,7 @@ keeps a very small stock of it within.
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1889-04-11/ed-1/seq-4)
 
-#### 1889-04-11 &middot; St. Clairsville, Ohio
+#### 1889-04-11 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9605,7 +9605,7 @@ There are no principles but those o
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1889-10-28/ed-1/seq-4)
 
-#### 1889-10-28 &middot; Barton, Vt.
+#### 1889-10-28 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9696,7 +9696,7 @@ thing, be on your guard ; M t th
 
 ## [From _Chariton courier._](https://chroniclingamerica.loc.gov/lccn/sn88068010/1889-12-05/ed-1/seq-4)
 
-#### 1889-12-05 &middot; Keytesville, Chariton County, Mo.
+#### 1889-12-05 &middot; [Keytesville, Chariton County, Mo.](http://dbpedia.org/resource/Keytesville%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9724,7 +9724,7 @@ tn the dark asks to be cheated
 
 ## [From _Union County courier._](https://chroniclingamerica.loc.gov/lccn/sn84022137/1889-12-11/ed-1/seq-3)
 
-#### 1889-12-11 &middot; Elk Point, Union County, D.T. [S.D.]
+#### 1889-12-11 &middot; [Elk Point, Union County, D.T. [S.D.]](http://dbpedia.org/resource/Elk_Point%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9756,7 +9756,7 @@ At a regular meeting of Stephe
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1889-12-12/ed-1/seq-1)
 
-#### 1889-12-12 &middot; Mineral Point, Wis.
+#### 1889-12-12 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9790,7 +9790,7 @@ to the W. C. T. U. of this city fro
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1890-01-10/ed-1/seq-1)
 
-#### 1890-01-10 &middot; Woodstock, Va.
+#### 1890-01-10 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9841,7 +9841,7 @@ in the net
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1890-02-20/ed-1/seq-4)
 
-#### 1890-02-20 &middot; Mechanicstown, Md.
+#### 1890-02-20 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9934,7 +9934,7 @@ are first cousins
 
 ## [From _The prison mirror._](https://chroniclingamerica.loc.gov/lccn/sn86063465/1890-03-20/ed-1/seq-4)
 
-#### 1890-03-20 &middot; Stillwater, Minn.
+#### 1890-03-20 &middot; [Stillwater, Minn.](http://dbpedia.org/resource/Stillwater%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9953,7 +9953,7 @@ Handsome shoes often pinch the feet
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1890-03-21/ed-1/seq-1)
 
-#### 1890-03-21 &middot; Shepherdstown, Va. [W. Va.]
+#### 1890-03-21 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10000,7 +10000,7 @@ fi?ti till they are caught in the net
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1890-04-11/ed-1/seq-4)
 
-#### 1890-04-11 &middot; Romney, Va. [W. Va.]
+#### 1890-04-11 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10048,7 +10048,7 @@ ftab till they sre caught in the net
 
 ## [From _Barton County democrat._](https://chroniclingamerica.loc.gov/lccn/sn83040198/1890-04-24/ed-1/seq-1)
 
-#### 1890-04-24 &middot; Great Bend, Kan.
+#### 1890-04-24 &middot; [Great Bend, Kan.](http://dbpedia.org/resource/Great_Bend%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10075,7 +10075,7 @@ I no alls, according to the papers
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1890-04-24/ed-1/seq-3)
 
-#### 1890-04-24 &middot; St. Clairsville, Ohio
+#### 1890-04-24 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10102,7 +10102,7 @@ Godey&#x27;s Lady&#x27;s Book for May pr
 
 ## [From _The gold leaf._](https://chroniclingamerica.loc.gov/lccn/sn91068402/1890-05-29/ed-1/seq-3)
 
-#### 1890-05-29 &middot; Henderson, N.C.
+#### 1890-05-29 &middot; [Henderson, N.C.](http://dbpedia.org/resource/Henderson%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10131,7 +10131,7 @@ The call for an election to vote o
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1890-08-21/ed-1/seq-4)
 
-#### 1890-08-21 &middot; St. Clairsville, Ohio
+#### 1890-08-21 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10150,7 +10150,7 @@ of God and of men is the only certificat
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1891-08-21/ed-1/seq-3)
 
-#### 1891-08-21 &middot; Woodstock, Va.
+#### 1891-08-21 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10173,7 +10173,7 @@ who trade? in the dark asks to be cheated.
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1891-09-29/ed-1/seq-2)
 
-#### 1891-09-29 &middot; Charles Town, Va. [W. Va.]
+#### 1891-09-29 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10203,7 +10203,7 @@ Mr. Aaron Lynn, of Woodsboro
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1891-10-02/ed-1/seq-1)
 
-#### 1891-10-02 &middot; Romney, Va. [W. Va.]
+#### 1891-10-02 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10229,7 +10229,7 @@ ly see some work that tome othe
 
 ## [From _Fair play._](https://chroniclingamerica.loc.gov/lccn/sn87052181/1891-12-12/ed-1/seq-2)
 
-#### 1891-12-12 &middot; Ste. Genevieve [Mo.]
+#### 1891-12-12 &middot; [Ste. Genevieve [Mo.]](http://dbpedia.org/resource/Ste._Genevieve%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10254,7 +10254,7 @@ asks to be cheated. Never r
 
 ## [From _Blackfoot news._](https://chroniclingamerica.loc.gov/lccn/sn88056017/1892-01-23/ed-1/seq-1)
 
-#### 1892-01-23 &middot; Blackfoot, Idaho
+#### 1892-01-23 &middot; [Blackfoot, Idaho](http://dbpedia.org/resource/Blackfoot%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10282,7 +10282,7 @@ to lie cheated. Never repeat slander
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1892-03-09/ed-1/seq-3)
 
-#### 1892-03-09 &middot; Tionesta, Pa.
+#### 1892-03-09 &middot; [Tionesta, Pa.](http://dbpedia.org/resource/Tionesta%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10309,7 +10309,7 @@ cheated
 
 ## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1892-04-08/ed-1/seq-1)
 
-#### 1892-04-08 &middot; Rockville, Md.
+#### 1892-04-08 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10354,7 +10354,7 @@ fish till tbsy are caught in thu net
 
 ## [From _Warren sheaf._](https://chroniclingamerica.loc.gov/lccn/sn90059228/1892-05-12/ed-1/seq-5)
 
-#### 1892-05-12 &middot; Warren, Marshall County, Minn.
+#### 1892-05-12 &middot; [Warren, Marshall County, Minn.](http://dbpedia.org/resource/Warren%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10386,7 +10386,7 @@ The May term of district cour
 
 #### From _The McIvor Times and Rodney Advertiser (Heathcote, Vic. : 1863 - 1918)_
 
-#### 1893-11-16 &middot; McIvor, Victoria
+#### 1893-11-16 &middot; [McIvor, Victoria](http://dbpedia.org/resource/Heathcote%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10404,7 +10404,7 @@ stock of it within
 
 #### From _The Narracoorte Herald (SA : 1875 - 1954)_
 
-#### 1893-11-17 &middot; Naracoorte, South Australia
+#### 1893-11-17 &middot; [Naracoorte, South Australia](http://dbpedia.org/resource/Naracoorte%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10422,7 +10422,7 @@ Btock of it within
 
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
 
-#### 1893-11-17 &middot; Portland, Victoria
+#### 1893-11-17 &middot; [Portland, Victoria](http://dbpedia.org/resource/Portland%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10439,7 +10439,7 @@ a very small stock of it within
 
 #### From _Euroa Advertiser (Vic. : 1884 - 1920)_
 
-#### 1893-11-17 &middot; Euroa, Victoria
+#### 1893-11-17 &middot; [Euroa, Victoria](http://dbpedia.org/resource/Euroa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10457,7 +10457,7 @@ within
 
 #### From _The Horsham Times (Vic. : 1882 - 1954)_
 
-#### 1893-11-17 &middot; Horsham, Victoria
+#### 1893-11-17 &middot; [Horsham, Victoria](http://dbpedia.org/resource/Horsham%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10489,7 +10489,7 @@ small stock of it within
 
 #### From _Camperdown Chronicle (Vic. : 1877 - 1954)_
 
-#### 1893-11-18 &middot; Camperdown, Victoria
+#### 1893-11-18 &middot; [Camperdown, Victoria](http://dbpedia.org/resource/Camperdown%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10505,7 +10505,7 @@ stock of it within. ;&#x27; •&quot; &#x27; ■;&#x27; -&#x27;■&quot;■
 
 ## [From _Mohave County miner._](https://chroniclingamerica.loc.gov/lccn/sn84024828/1894-04-07/ed-1/seq-3)
 
-#### 1894-04-07 &middot; Mineral Park, A.T. [Ariz.]
+#### 1894-04-07 &middot; [Mineral Park, A.T. [Ariz.]](http://dbpedia.org/resource/Mineral_Park_mine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10529,7 +10529,7 @@ trades in the dark auks to be cheated &quot;
 
 ## [From _Brookings register._](https://chroniclingamerica.loc.gov/lccn/sn2001063544/1894-05-25/ed-1/seq-5)
 
-#### 1894-05-25 &middot; Brookings, S.D.
+#### 1894-05-25 &middot; [Brookings, S.D.](http://dbpedia.org/resource/Brookings%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10559,7 +10559,7 @@ asks to be cheated.—Ex
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1894-05-30/ed-1/seq-4)
 
-#### 1894-05-30 &middot; Yorkville, S.C.
+#### 1894-05-30 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10577,7 +10577,7 @@ houses are built on fools&#x27; heads.
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1894-06-06/ed-1/seq-1)
 
-#### 1894-06-06 &middot; Anderson Court House, S.C.
+#### 1894-06-06 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10599,7 +10599,7 @@ giants, the latter unusually havin
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1894-06-13/ed-1/seq-1)
 
-#### 1894-06-13 &middot; Edgefield, S.C.
+#### 1894-06-13 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10620,7 +10620,7 @@ bor, but it proposes to make hi
 
 ## [From _Reporter and farmer._](https://chroniclingamerica.loc.gov/lccn/sn99068116/1894-06-14/ed-1/seq-5)
 
-#### 1894-06-14 &middot; Webster, Day County, Dakota [S.D.]
+#### 1894-06-14 &middot; [Webster, Day County, Dakota [S.D.]](http://dbpedia.org/resource/Webster%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10647,7 +10647,7 @@ be cheated.— Plankinton Herald.
 
 ## [From _Western Kansas world._](https://chroniclingamerica.loc.gov/lccn/sn82015485/1894-06-16/ed-1/seq-3)
 
-#### 1894-06-16 &middot; WaKeeney, Kan.
+#### 1894-06-16 &middot; [WaKeeney, Kan.](http://dbpedia.org/resource/WaKeeney%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10679,7 +10679,7 @@ els to the acre.
 
 ## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1894-07-12/ed-1/seq-1)
 
-#### 1894-07-12 &middot; River Falls, Pierce County, Wis.
+#### 1894-07-12 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10707,7 +10707,7 @@ id the dark asks to be cheated.”—sx
 
 ## [From _The Prince George's enquirer and southern Maryland advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060124/1894-07-13/ed-1/seq-1)
 
-#### 1894-07-13 &middot; Upper Marlborough, Md.
+#### 1894-07-13 &middot; [Upper Marlborough, Md.](http://dbpedia.org/resource/Upper_Marlboro%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10733,7 +10733,7 @@ One swallow does not make a sum
 
 ## [From _The Mount Holly news._](https://chroniclingamerica.loc.gov/lccn/sn85035801/1894-11-13/ed-1/seq-4)
 
-#### 1894-11-13 &middot; Mount Holly, Burlington Co., N.J.
+#### 1894-11-13 &middot; [Mount Holly, Burlington Co., N.J.](http://dbpedia.org/resource/Mount_Holly%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10752,7 +10752,7 @@ where you can not see the bottom
 
 #### From _The Council Grove Republican._
 
-#### 1894-11-30 &middot; Council Grove, Kan.
+#### 1894-11-30 &middot; [Council Grove, Kan.](http://dbpedia.org/resource/Council_Grove%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -10760,7 +10760,7 @@ where you can not see the bottom
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1895-05-17/ed-1/seq-3)
 
-#### 1895-05-17 &middot; Ebensburg, Pa.
+#### 1895-05-17 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10789,7 +10789,7 @@ cheated.
 
 ## [From _Chariton courier._](https://chroniclingamerica.loc.gov/lccn/sn88068010/1895-05-24/ed-1/seq-3)
 
-#### 1895-05-24 &middot; Keytesville, Chariton County, Mo.
+#### 1895-05-24 &middot; [Keytesville, Chariton County, Mo.](http://dbpedia.org/resource/Keytesville%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10821,7 +10821,7 @@ ladies&#x27; shoes, just r
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1895-06-05/ed-1/seq-4)
 
-#### 1895-06-05 &middot; Tionesta, Pa.
+#### 1895-06-05 &middot; [Tionesta, Pa.](http://dbpedia.org/resource/Tionesta%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10849,7 +10849,7 @@ in the dark aides to be cheated.
 
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1896-06-18/ed-1/seq-8)
 
-#### 1896-06-18 &middot; Bloomsburg, Pa.
+#### 1896-06-18 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

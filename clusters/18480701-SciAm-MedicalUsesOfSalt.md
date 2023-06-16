@@ -25,7 +25,7 @@ It is reasonable to suppose that what is most plentiful on earth, is most essent
 
 #### From _Liverpool Mercury_
 
-#### 1848-05-16 &middot; Liverpool, England
+#### 1848-05-16 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -33,7 +33,7 @@ It is reasonable to suppose that what is most plentiful on earth, is most essent
 
 ## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
-#### 1848-07-01 &middot; New York
+#### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -50,7 +50,7 @@ spoonful of salt taken three times a day is a
 
 ## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
-#### 1848-07-01 &middot; New York
+#### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -105,7 +105,7 @@ We burrow in the earth to obtain gold from
 
 ## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
-#### 1848-07-01 &middot; New York
+#### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -135,7 +135,7 @@ the Persian Gulf or the wilds of Hindostan.
 
 ## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
 
-#### 1848-07-01 &middot; New York
+#### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -152,7 +152,7 @@ warrior, so it is with men atthe present day,
 
 ## [From _The daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015378/1848-07-12/ed-1/seq-1)
 
-#### 1848-07-12 &middot; [New Orleans, La.]
+#### 1848-07-12 &middot; [[New Orleans, La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -212,7 +212,7 @@ water. In swelled riert, wash the
 
 #### From _Pensacola gazette._
 
-#### 1848-07-15 &middot; [Pensacola, Fla.]
+#### 1848-07-15 &middot; [[Pensacola, Fla.]](http://dbpedia.org/resource/Pensacola%2C_Florida)
 
 [This text is not available under an open license.]
 
@@ -222,7 +222,7 @@ water. In swelled riert, wash the
 
 #### From _Pensacola gazette._
 
-#### 1848-07-15 &middot; [Pensacola, Fla.]
+#### 1848-07-15 &middot; [[Pensacola, Fla.]](http://dbpedia.org/resource/Pensacola%2C_Florida)
 
 [This text is not available under an open license.]
 
@@ -230,7 +230,7 @@ water. In swelled riert, wash the
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1850-02-21/ed-1/seq-1)
 
-#### 1850-02-21 &middot; Stroudsburg, Pa.
+#### 1850-02-21 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -281,7 +281,7 @@ moderate degree, and aids digestion, but &quot;alt meat
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5?page=10)
 
-#### 1850-03-02 &middot; Boston
+#### 1850-03-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -350,7 +350,7 @@ pins. Each pin has a hole in it like a violin pin, to
 
 ## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1850-03-16_5_26?page=1)
 
-#### 1850-03-16 &middot; New York
+#### 1850-03-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -408,7 +408,7 @@ salt meat is injurious if used much.
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1850-03-28/ed-1/seq-4)
 
-#### 1850-03-28 &middot; Montpelier, Vt.
+#### 1850-03-28 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -460,7 +460,7 @@ S. 1 . Amir
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1850-04-11/ed-1/seq-1)
 
-#### 1850-04-11 &middot; Stroudsburg, Pa.
+#### 1850-04-11 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -518,7 +518,7 @@ ith the bran. It is said to b
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1850-05-08/ed-1/seq-1)
 
-#### 1850-05-08 &middot; Staunton, Va.
+#### 1850-05-08 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -573,7 +573,7 @@ of the body. For the relief ot the animal, thus af
 
 #### From _Pensacola gazette._
 
-#### 1850-05-25 &middot; [Pensacola, Fla.]
+#### 1850-05-25 &middot; [[Pensacola, Fla.]](http://dbpedia.org/resource/Pensacola%2C_Florida)
 
 [This text is not available under an open license.]
 
@@ -581,7 +581,7 @@ of the body. For the relief ot the animal, thus af
 
 ## [From _The Madisonian._](https://chroniclingamerica.loc.gov/lccn/sn86074079/1850-05-30/ed-1/seq-1)
 
-#### 1850-05-30 &middot; Canton, Miss.
+#### 1850-05-30 &middot; [Canton, Miss.](http://dbpedia.org/resource/Canton%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -646,7 +646,7 @@ our population, but they are by n
 
 #### From _Greenville mountaineer._
 
-#### 1850-05-31 &middot; Greenville, S.C.
+#### 1850-05-31 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -654,7 +654,7 @@ our population, but they are by n
 
 ## [From _The spirit of the times._](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-03_20_24?page=9)
 
-#### 1850-08-03 &middot; New-York [N.Y.]
+#### 1850-08-03 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -697,7 +697,7 @@ gree, and aids digestion ; but salt meat is injurious if used much.
 
 #### From _The Daily Ohio statesman._
 
-#### 1850-08-07 &middot; Columbus [Ohio]
+#### 1850-08-07 &middot; [Columbus [Ohio]](http://dbpedia.org/resource/Columbus%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -705,7 +705,7 @@ gree, and aids digestion ; but salt meat is injurious if used much.
 
 ## [From _Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035101/1850-08-19/ed-1/seq-1)
 
-#### 1850-08-19 &middot; Ravenna, Ohio
+#### 1850-08-19 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -755,7 +755,7 @@ salt meat is injurious if used much. Sci
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn85042796/1850-08-23/ed-1/seq-1)
 
-#### 1850-08-23 &middot; Camden, S.C.
+#### 1850-08-23 &middot; [Camden, S.C.](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -798,7 +798,7 @@ salt water.?[Scicntiiiic American.
 
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1850-09-04/ed-1/seq-2)
 
-#### 1850-09-04 &middot; Hillsborough, N.C.
+#### 1850-09-04 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -842,7 +842,7 @@ Wah litem twice a day with salt water
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1850-12-18/ed-1/seq-1)
 
-#### 1850-12-18 &middot; Port Tobacco, Md.
+#### 1850-12-18 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -891,7 +891,7 @@ salt meat in injurious if used much.— Scien
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1851-01-25/ed-1/seq-2)
 
-#### 1851-01-25 &middot; Sunbury, Pa.
+#### 1851-01-25 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -911,7 +911,7 @@ in a pint of cold water, taken as soon as pos
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1851-01-25/ed-1/seq-2)
 
-#### 1851-01-25 &middot; Sunbury, Pa.
+#### 1851-01-25 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -939,7 +939,7 @@ ed the blood. New York Courier
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1851-01-31/ed-1/seq-3)
 
-#### 1851-01-31 &middot; Athens, Tenn.
+#### 1851-01-31 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -975,7 +975,7 @@ staved the blood
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1851-02-01/ed-1/seq-1)
 
-#### 1851-02-01 &middot; Alexandria, D.C.
+#### 1851-02-01 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1009,7 +1009,7 @@ A MODEL EDITOR
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1851-02-01_30_1540?page=3)
 
-#### 1851-02-01 &middot; Philadelphia
+#### 1851-02-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1036,7 +1036,7 @@ jent from the
 
 ## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1851-02-19/ed-1/seq-1)
 
-#### 1851-02-19 &middot; Middlebury, Vt.
+#### 1851-02-19 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1057,7 +1057,7 @@ from lellinray. In case nf severe bleed
 
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn87070038/1851-03-06/ed-1/seq-2)
 
-#### 1851-03-06 &middot; Lancaster, Ohio
+#### 1851-03-06 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1081,7 +1081,7 @@ ofaaltcompletly stayed the blood. . A le
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1851-03-07/ed-1/seq-2)
 
-#### 1851-03-07 &middot; Wilmington, N.C.
+#### 1851-03-07 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1111,7 +1111,7 @@ the blood.
 
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1851-03-15/ed-1/seq-4)
 
-#### 1851-03-15 &middot; Honolulu [Oahu], Hawaii
+#### 1851-03-15 &middot; [Honolulu [Oahu], Hawaii](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1169,7 +1169,7 @@ or five feet, then seared and yellowed by th
 
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1851-06-21/ed-1/seq-1)
 
-#### 1851-06-21 &middot; Fayetteville [N.C.]
+#### 1851-06-21 &middot; [Fayetteville [N.C.]](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1195,7 +1195,7 @@ from receiving a heavy fall.&quot;
 
 #### From _German reformed messenger._
 
-#### 1851-09-17 &middot; Chambersburg, Pa.
+#### 1851-09-17 &middot; [Chambersburg, Pa.](http://dbpedia.org/resource/Chambersburg%2C_Pennsylvania)
 
 [This text is not available under an open license.]
 
@@ -1205,7 +1205,7 @@ from receiving a heavy fall.&quot;
 
 #### From _Liverpool Mercury_
 
-#### 1851-11-11 &middot; Liverpool, England
+#### 1851-11-11 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1215,7 +1215,7 @@ from receiving a heavy fall.&quot;
 
 #### From _Liverpool Mercury_
 
-#### 1851-11-11 &middot; Liverpool, England
+#### 1851-11-11 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1225,7 +1225,7 @@ from receiving a heavy fall.&quot;
 
 #### From _Freeman's Journal_
 
-#### 1851-11-26 &middot; Dublin, Ireland
+#### 1851-11-26 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1235,7 +1235,7 @@ from receiving a heavy fall.&quot;
 
 #### From _Freeman's Journal_
 
-#### 1851-11-26 &middot; Dublin, Ireland
+#### 1851-11-26 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -1243,7 +1243,7 @@ from receiving a heavy fall.&quot;
 
 ## [From _Semi-weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024518/1852-02-14/ed-1/seq-2)
 
-#### 1852-02-14 &middot; Raleigh, N.C.
+#### 1852-02-14 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1287,7 +1287,7 @@ tartar, wash them twice a day with salt water
 
 #### From _Vermont patriot & State gazette._
 
-#### 1854-04-28 &middot; Montpelier [Vt.]
+#### 1854-04-28 &middot; [Montpelier [Vt.]](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -1295,7 +1295,7 @@ tartar, wash them twice a day with salt water
 
 ## [From _Demoine courier._](https://chroniclingamerica.loc.gov/lccn/sn88059762/1854-11-23/ed-1/seq-1)
 
-#### 1854-11-23 &middot; Ottumwa, Iowa
+#### 1854-11-23 &middot; [Ottumwa, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1353,7 +1353,7 @@ but salt meal is injurious, if used mu elk
 
 ## [From _Georgetown weekly news._](https://chroniclingamerica.loc.gov/lccn/sn93052971/1854-11-30/ed-1/seq-1)
 
-#### 1854-11-30 &middot; Georgetown, El Dorado County, Cal.
+#### 1854-11-30 &middot; [Georgetown, El Dorado County, Cal.](http://dbpedia.org/resource/Georgetown%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1407,7 +1407,7 @@ Here is a very beautiful thought of tha
 
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51?page=3)
 
-#### 1854-12-21 &middot; Boston
+#### 1854-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1445,7 +1445,7 @@ in a manner characterized by the pulpit and press as
 
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51?page=3)
 
-#### 1854-12-21 &middot; Boston
+#### 1854-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1465,7 +1465,7 @@ me a very beavy fall, A
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1855-01-06/ed-1/seq-1)
 
-#### 1855-01-06 &middot; Towanda, Pa.
+#### 1855-01-06 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1516,7 +1516,7 @@ injurious il used much
 
 #### From _Southern Cultivator (1843-1906)_
 
-#### 1855-03-01 &middot; Atlanta
+#### 1855-03-01 &middot; [Atlanta](http://dbpedia.org/resource/Atlanta)
 
 [This text is not available under an open license.]
 
@@ -1524,7 +1524,7 @@ injurious il used much
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1855-03_50_3?page=69)
 
-#### 1855-03-01 &middot; New York
+#### 1855-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1553,7 +1553,7 @@ two teaspoonfuls of salt completely stayed the blood.
 
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1855-04-07/ed-1/seq-3)
 
-#### 1855-04-07 &middot; Thibodaux, La.
+#### 1855-04-07 &middot; [Thibodaux, La.](http://dbpedia.org/resource/Thibodaux%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1609,7 +1609,7 @@ meats is injurious if used mueli
 
 ## [From _The south-western._](https://chroniclingamerica.loc.gov/lccn/sn83016483/1855-04-11/ed-1/seq-1)
 
-#### 1855-04-11 &middot; Shreveport, La.
+#### 1855-04-11 &middot; [Shreveport, La.](http://dbpedia.org/resource/Shreveport%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1671,7 +1671,7 @@ the head of Mr. Allen, who was foremost in T
 
 ## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1855-04-22/ed-1/seq-7)
 
-#### 1855-04-22 &middot; New York [N.Y.]
+#### 1855-04-22 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1715,7 +1715,7 @@ violent stages
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1855-04-26/ed-1/seq-1)
 
-#### 1855-04-26 &middot; Fayetteville, Tenn.
+#### 1855-04-26 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1776,7 +1776,7 @@ if used much. : &#x27;. . .
 
 ## [From _Demoine courier._](https://chroniclingamerica.loc.gov/lccn/sn88059762/1855-10-18/ed-1/seq-4)
 
-#### 1855-10-18 &middot; Ottumwa, Iowa
+#### 1855-10-18 &middot; [Ottumwa, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1838,7 +1838,7 @@ cureu, i
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1855-10-20/ed-1/seq-1)
 
-#### 1855-10-20 &middot; Ottawa, Ill.
+#### 1855-10-20 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1882,7 +1882,7 @@ but salt meat is injurious if used much
 
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1855-10-25/ed-1/seq-1)
 
-#### 1855-10-25 &middot; Lancaster, Ohio
+#### 1855-10-25 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1925,7 +1925,7 @@ briaet Wr4, drink ft tw.i0.&quot; fVi d
 
 #### From _The Goulburn Herald and County of Argyle Advertiser (NSW : 1848 - 1859)_
 
-#### 1856-01-19 &middot; Goulburn, New South Wales
+#### 1856-01-19 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1973,7 +1973,7 @@ meat is injurious.
 
 ## [From _The Panola star._](https://chroniclingamerica.loc.gov/lccn/sn87065521/1856-06-21/ed-1/seq-4)
 
-#### 1856-06-21 &middot; [Panola] Panola County, Miss.
+#### 1856-06-21 &middot; [[Panola] Panola County, Miss.](http://dbpedia.org/resource/Batesville%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2062,7 +2062,7 @@ of the machinery and its prin
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1856-07-17_24_30?page=0)
 
-#### 1856-07-17 &middot; Augusta, Maine
+#### 1856-07-17 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2128,7 +2128,7 @@ tight.
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8?page=12)
 
-#### 1856-08-01 &middot; Boston
+#### 1856-08-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2162,7 +2162,7 @@ all bandages removed from the neck, and a cool
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8?page=12)
 
-#### 1856-08-01 &middot; Boston
+#### 1856-08-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2212,7 +2212,7 @@ erate degree, and aids digestion, but salt meat is kindly and perverse as that o
 
 #### From _Lowell daily citizen and news._
 
-#### 1856-08-06 &middot; Lowell, Mass.
+#### 1856-08-06 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -2220,7 +2220,7 @@ erate degree, and aids digestion, but salt meat is kindly and perverse as that o
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1856-08-09/ed-1/seq-2)
 
-#### 1856-08-09 &middot; Sunbury, Pa.
+#### 1856-08-09 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2271,7 +2271,7 @@ A very flue young mare, belonging to Dr
 
 ## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6?page=6)
 
-#### 1856-08-09 &middot; Boston
+#### 1856-08-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2308,7 +2308,7 @@ salt and water .—Mtdiad Joormd.
 
 ## [From _The independent press._](https://chroniclingamerica.loc.gov/lccn/sn93067882/1856-08-15/ed-1/seq-2)
 
-#### 1856-08-15 &middot; Abbeville C.H., S.C.
+#### 1856-08-15 &middot; [Abbeville C.H., S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2362,7 +2362,7 @@ salt meat is injurious, if used much.?Kx
 
 ## [From _Houma Ceres._](https://chroniclingamerica.loc.gov/lccn/sn83026391/1856-08-23/ed-1/seq-3)
 
-#### 1856-08-23 &middot; Houma, Parish of Terrebonne, La.
+#### 1856-08-23 &middot; [Houma, Parish of Terrebonne, La.](http://dbpedia.org/resource/Houma%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2414,7 +2414,7 @@ salt meat i; injurious, if used much.
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1856-09-18/ed-1/seq-1)
 
-#### 1856-09-18 &middot; Montpelier, Vt.
+#### 1856-09-18 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2469,7 +2469,7 @@ meat is injurious, if used much.
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-10_53_4?page=69)
 
-#### 1856-10-01 &middot; New York
+#### 1856-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2529,7 +2529,7 @@ used much.
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1856-10-08/ed-1/seq-4)
 
-#### 1856-10-08 &middot; Raleigh, N.C.
+#### 1856-10-08 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2590,7 +2590,7 @@ the best articles that can.be given to swine,
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1856-11-06/ed-1/seq-4)
 
-#### 1856-11-06 &middot; Fayetteville, Tenn.
+#### 1856-11-06 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2626,7 +2626,7 @@ sal
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1856-11-06/ed-1/seq-4)
 
-#### 1856-11-06 &middot; Fayetteville, Tenn.
+#### 1856-11-06 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2669,7 +2669,7 @@ if used much
 
 ## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-03-20/ed-1/seq-1)
 
-#### 1857-03-20 &middot; Brookville, Ind.
+#### 1857-03-20 &middot; [Brookville, Ind.](http://dbpedia.org/resource/Brookville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2716,7 +2716,7 @@ Mit and water
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065087/1857-03-27/ed-1/seq-1)
 
-#### 1857-03-27 &middot; Winchester, Tenn.
+#### 1857-03-27 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2763,7 +2763,7 @@ salt and water
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1857-04-01/ed-1/seq-2)
 
-#### 1857-04-01 &middot; Raleigh, N.C.
+#### 1857-04-01 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2803,7 +2803,7 @@ wash them twice a day with salt and water
 
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1857-04-01/ed-1/seq-2)
 
-#### 1857-04-01 &middot; Raleigh, N.C.
+#### 1857-04-01 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2843,7 +2843,7 @@ wash them twice a day with salt and water
 
 ## [From _Weekly hawk-eye and telegraph._](https://chroniclingamerica.loc.gov/lccn/sn84037930/1857-05-27/ed-1/seq-3)
 
-#### 1857-05-27 &middot; Burlington, Iowa
+#### 1857-05-27 &middot; [Burlington, Iowa](http://dbpedia.org/resource/Burlington%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2896,7 +2896,7 @@ and water
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1857-06-02/ed-1/seq-1)
 
-#### 1857-06-02 &middot; Mineral Point, Wis.
+#### 1857-06-02 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2944,7 +2944,7 @@ them twice a day with sail an! water
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-06_12_23?page=6)
 
-#### 1857-06-06 &middot; Boston [Mass.]
+#### 1857-06-06 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2973,7 +2973,7 @@ stiff enough to drop.
 
 #### From _Lowell daily citizen and news._
 
-#### 1857-06-08 &middot; Lowell, Mass.
+#### 1857-06-08 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -2981,7 +2981,7 @@ stiff enough to drop.
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-13_12_24?page=6)
 
-#### 1857-06-13 &middot; Boston [Mass.]
+#### 1857-06-13 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3003,7 +3003,7 @@ who seems almost dead from a heavy fall.
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1857-06-25/ed-1/seq-1)
 
-#### 1857-06-25 &middot; Towanda, Pa.
+#### 1857-06-25 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3052,7 +3052,7 @@ meat is injurious, when used much
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1857-06-25/ed-1/seq-4)
 
-#### 1857-06-25 &middot; Clearfield, Pa.
+#### 1857-06-25 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3092,7 +3092,7 @@ The Joubsai. is publiihed eyery Wednesda
 
 #### From _Mississippian and state gazette._
 
-#### 1857-07-01 &middot; City of Jackson [Miss.]
+#### 1857-07-01 &middot; [City of Jackson [Miss.]](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -3102,7 +3102,7 @@ The Joubsai. is publiihed eyery Wednesda
 
 #### From _The Hinds County gazette._
 
-#### 1857-07-15 &middot; Raymond, Miss.
+#### 1857-07-15 &middot; [Raymond, Miss.](http://dbpedia.org/resource/Raymond%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -3110,7 +3110,7 @@ The Joubsai. is publiihed eyery Wednesda
 
 ## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-08_6_2?page=86)
 
-#### 1857-08-01 &middot; Boston
+#### 1857-08-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3144,7 +3144,7 @@ con on the top. The dish must be well seasoned wit
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-17_25_39?page=0)
 
-#### 1857-09-17 &middot; Augusta, Maine
+#### 1857-09-17 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3200,7 +3200,7 @@ is injurious, if used much.
 
 ## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1857-10-02/ed-1/seq-1)
 
-#### 1857-10-02 &middot; Paris, Me.
+#### 1857-10-02 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3227,7 +3227,7 @@ an 1 then bind on eome eolt with a rag
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1857-11-07_1893?page=3)
 
-#### 1857-11-07 &middot; Philadelphia
+#### 1857-11-07 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3253,7 +3253,7 @@ completely restore the patient from lethargy
 
 ## [From _The Emigrant aid journal of Minnesota._](https://chroniclingamerica.loc.gov/lccn/sn84024825/1857-12-05/ed-1/seq-1)
 
-#### 1857-12-05 &middot; Nininger City, Minn. Terr. [i.e. Minn.]
+#### 1857-12-05 &middot; [Nininger City, Minn. Terr. [i.e. Minn.]](http://dbpedia.org/resource/Nininger%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3309,7 +3309,7 @@ mortal spirits free, and for America to come out into
 
 ## [From _The Emigrant aid journal of Minnesota._](https://chroniclingamerica.loc.gov/lccn/sn84024825/1857-12-05/ed-1/seq-2)
 
-#### 1857-12-05 &middot; Nininger City, Minn. Terr. [i.e. Minn.]
+#### 1857-12-05 &middot; [Nininger City, Minn. Terr. [i.e. Minn.]](http://dbpedia.org/resource/Nininger%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3364,7 +3364,7 @@ prisoned the Spirits of Washington and Jackson, whos
 
 ## [From _The Emigrant aid journal of Minnesota._](https://chroniclingamerica.loc.gov/lccn/sn84024825/1857-12-05/ed-1/seq-3)
 
-#### 1857-12-05 &middot; Nininger City, Minn. Terr. [i.e. Minn.]
+#### 1857-12-05 &middot; [Nininger City, Minn. Terr. [i.e. Minn.]](http://dbpedia.org/resource/Nininger%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3419,7 +3419,7 @@ prisoned the Spirits of Washington and Jackson, whos
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1858-01-02/ed-1/seq-1)
 
-#### 1858-01-02 &middot; Auburn, Placer County, Calif.
+#### 1858-01-02 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3443,7 +3443,7 @@ tient from lethargy. Salt wille xpel worms, i
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1858-01-16/ed-1/seq-6)
 
-#### 1858-01-16 &middot; Red Wing, M.T. [i.e. Minn.]
+#### 1858-01-16 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3502,7 +3502,7 @@ with salt and water
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1858-01-16/ed-1/seq-7)
 
-#### 1858-01-16 &middot; Red Wing, M.T. [i.e. Minn.]
+#### 1858-01-16 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3555,7 +3555,7 @@ with salt and water
 
 ## [From _Muscatine weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027253/1858-01-30/ed-1/seq-2)
 
-#### 1858-01-30 &middot; Muscatine, Iowa
+#### 1858-01-30 &middot; [Muscatine, Iowa](http://dbpedia.org/resource/Muscatine%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3585,7 +3585,7 @@ lethargy. Salt will expel worms, i
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1858-07-03/ed-1/seq-1)
 
-#### 1858-07-03 &middot; Shepherdstown, Va. [W. Va.]
+#### 1858-07-03 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3652,7 +3652,7 @@ the house and asked the maiden for
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1859-12-01/ed-1/seq-1)
 
-#### 1859-12-01 &middot; Towanda, Pa.
+#### 1859-12-01 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3701,7 +3701,7 @@ salt meat is injurious if used too much.— .Sa
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028820/1860-02-02/ed-1/seq-1)
 
-#### 1860-02-02 &middot; Millersburg, Holmes County, Ohio
+#### 1860-02-02 &middot; [Millersburg, Holmes County, Ohio](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3755,7 +3755,7 @@ tion ; but salt meat is injurious if used to
 
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1860-02-14/ed-1/seq-1)
 
-#### 1860-02-14 &middot; Pomeroy, Meigs County, Ohio
+#### 1860-02-14 &middot; [Pomeroy, Meigs County, Ohio](http://dbpedia.org/resource/Pomeroy%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3810,7 +3810,7 @@ gestion; but salt meat is injurious&#x27; ifusc
 
 #### From _The Scioto gazette._
 
-#### 1860-02-28 &middot; Chillicothe, Ohio
+#### 1860-02-28 &middot; [Chillicothe, Ohio](http://dbpedia.org/resource/Chillicothe%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -3818,7 +3818,7 @@ gestion; but salt meat is injurious&#x27; ifusc
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1860-05-01/ed-1/seq-1)
 
-#### 1860-05-01 &middot; Staunton, Va.
+#### 1860-05-01 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3863,7 +3863,7 @@ In swelled neck, wash the part in brine twic
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1860-05-30/ed-1/seq-1)
 
-#### 1860-05-30 &middot; Lancaster, S.C.
+#### 1860-05-30 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3914,7 +3914,7 @@ brine twice a day until cured
 
 ## [From _The Alleghanian._](https://chroniclingamerica.loc.gov/lccn/sn85054845/1860-07-19/ed-1/seq-1)
 
-#### 1860-07-19 &middot; Ebensburg, Pa.
+#### 1860-07-19 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3970,7 +3970,7 @@ tion ; but salt meat is injurious if use
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1863-04-11/ed-1/seq-1)
 
-#### 1863-04-11 &middot; Emporia, Kan.
+#### 1863-04-11 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4008,7 +4008,7 @@ blood
 
 ## [From _The weekly Butte record._](https://chroniclingamerica.loc.gov/lccn/sn86058108/1863-05-16/ed-1/seq-1)
 
-#### 1863-05-16 &middot; Oroville [Calif.]
+#### 1863-05-16 &middot; [Oroville [Calif.]](http://dbpedia.org/resource/Oroville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4057,7 +4057,7 @@ tled by her attorney. She then brought a
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1863-05-16/ed-1/seq-1)
 
-#### 1863-05-16 &middot; Auburn, Placer County, Calif.
+#### 1863-05-16 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4107,7 +4107,7 @@ With their tails they then beat down roun
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1864-01-20/ed-1/seq-2)
 
-#### 1864-01-20 &middot; Edgefield, S.C.
+#### 1864-01-20 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4142,7 +4142,7 @@ completely stayed blood
 
 ## [From _The Weekly Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026193/1864-05-25/ed-1/seq-4)
 
-#### 1864-05-25 &middot; Perrysburg, O. [Ohio]
+#### 1864-05-25 &middot; [Perrysburg, O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4180,7 +4180,7 @@ completely stayed the blood.
 
 #### From _Vermont chronicle._
 
-#### 1865-01-21 &middot; Bellows Falls, Vt.
+#### 1865-01-21 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -4188,7 +4188,7 @@ completely stayed the blood.
 
 ## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1865-03-10/ed-1/seq-1)
 
-#### 1865-03-10 &middot; St. Albans, Vt.
+#### 1865-03-10 &middot; [St. Albans, Vt.](http://dbpedia.org/resource/St._Albans_(town)%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4216,7 +4216,7 @@ pletely stayed tho blood.
 
 ## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1865-04-11/ed-1/seq-1)
 
-#### 1865-04-11 &middot; Manchester, Vt.
+#### 1865-04-11 &middot; [Manchester, Vt.](http://dbpedia.org/resource/Bennington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4254,7 +4254,7 @@ j spoonfuls if salt completely slayed ih
 
 ## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1865-09-13_36_37?page=3)
 
-#### 1865-09-13 &middot; Boston
+#### 1865-09-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4292,7 +4292,7 @@ lungs, when other remedies failed, Dr. Rush found
 
 ## [From _Baltimore daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn83009569/1866-04-05/ed-1/seq-4)
 
-#### 1866-04-05 &middot; Baltimore, Md.
+#### 1866-04-05 &middot; [Baltimore, Md.](http://dbpedia.org/resource/Baltimore)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4328,7 +4328,7 @@ remedies failed, Dr. Rush found that twa
 
 #### From _The Hawaiian gazette._
 
-#### 1866-05-26 &middot; Honolulu [Oahu, Hawaii]
+#### 1866-05-26 &middot; [Honolulu [Oahu, Hawaii]](http://dbpedia.org/resource/Honolulu)
 
 [This text is not available under an open license.]
 
@@ -4336,7 +4336,7 @@ remedies failed, Dr. Rush found that twa
 
 ## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1866-05-30/ed-1/seq-2)
 
-#### 1866-05-30 &middot; East Saginaw, Mich.
+#### 1866-05-30 &middot; [East Saginaw, Mich.](http://dbpedia.org/resource/Saginaw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4375,7 +4375,7 @@ two toaspoonfuls of salt stayed th
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1866-07-07/ed-1/seq-1)
 
-#### 1866-07-07 &middot; Auburn, Placer County, Calif.
+#### 1866-07-07 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4422,7 +4422,7 @@ the Ist of June, 1849, to the Ist of Juno
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1867-10-24/ed-1/seq-4)
 
-#### 1867-10-24 &middot; Ebensburg, Pa.
+#### 1867-10-24 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4475,7 +4475,7 @@ tior ; but salt mei.t is injurious if use
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744?page=23)
 
-#### 1877-08-04
+#### 1877-08-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4504,7 +4504,7 @@ ble.
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1878-08-10/ed-1/seq-4)
 
-#### 1878-08-10 &middot; Washington, D.C.
+#### 1878-08-10 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4555,7 +4555,7 @@ Reader
 
 ## [From _The farmer and mechanic._](https://chroniclingamerica.loc.gov/lccn/sn85042098/1878-09-05/ed-1/seq-7)
 
-#### 1878-09-05 &middot; Raleigh, N.C.
+#### 1878-09-05 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4617,7 +4617,7 @@ The London World states tha
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1878-09-27/ed-1/seq-1)
 
-#### 1878-09-27 &middot; Charlotte, N.C.
+#### 1878-09-27 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4663,7 +4663,7 @@ baffle pursuit and pass unsuspected amon
 
 ## [From _Western sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026526/1878-10-10/ed-1/seq-1)
 
-#### 1878-10-10 &middot; Winston [i.e. Winston-Salem], N.C.
+#### 1878-10-10 &middot; [Winston [i.e. Winston-Salem], N.C.](http://dbpedia.org/resource/Winston-Salem%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4689,7 +4689,7 @@ he lost, in pourins down salt water, i
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-06-28_58_49?page=9)
 
-#### 1879-06-28 &middot; Philadelphia
+#### 1879-06-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4738,7 +4738,7 @@ digestion, but salt is injurious if used much.
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1879-08-28/ed-1/seq-4)
 
-#### 1879-08-28 &middot; Ravenna, O. [Ohio]
+#### 1879-08-28 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4797,7 +4797,7 @@ used much
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1879-12-18/ed-1/seq-4)
 
-#### 1879-12-18 &middot; Mechanicstown, Md.
+#### 1879-12-18 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4850,7 +4850,7 @@ injurious if used much
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1880-02-18/ed-1/seq-4)
 
-#### 1880-02-18 &middot; Mifflintown, Juniata County, Pa.
+#### 1880-02-18 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4903,7 +4903,7 @@ meat is injurious if u-ed much
 
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1880-03-09/ed-1/seq-4)
 
-#### 1880-03-09 &middot; Winnsboro, S.C.
+#### 1880-03-09 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4953,7 +4953,7 @@ me1Cat is ijtiriotis if used much
 
 ## [From _The New Bloomfield, Pa. times._](https://chroniclingamerica.loc.gov/lccn/sn90069164/1880-05-04/ed-1/seq-6)
 
-#### 1880-05-04 &middot; New Bloomfield, Pa.
+#### 1880-05-04 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5005,7 +5005,7 @@ if used much
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1880-05-07/ed-1/seq-4)
 
-#### 1880-05-07 &middot; Ebensburg, Pa.
+#### 1880-05-07 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5057,7 +5057,7 @@ but salt meat is injurious u used much
 
 ## [From _West Virginia argus._](https://chroniclingamerica.loc.gov/lccn/sn86092245/1880-05-08/ed-1/seq-4)
 
-#### 1880-05-08 &middot; Kingwood, W. Va.
+#### 1880-05-08 &middot; [Kingwood, W. Va.](http://dbpedia.org/resource/Kingwood%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5109,7 +5109,7 @@ If used much
 
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1880-05-22/ed-1/seq-4)
 
-#### 1880-05-22 &middot; Winnsboro, S.C.
+#### 1880-05-22 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5161,7 +5161,7 @@ aid digestion, but salt meat Is Injurious
 
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1880-05-29/ed-1/seq-4)
 
-#### 1880-05-29 &middot; Towsontown, Md.
+#### 1880-05-29 &middot; [Towsontown, Md.](http://dbpedia.org/resource/Towson%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5205,7 +5205,7 @@ it injurious if used mneh.—feeiunye
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1880-06-05/ed-1/seq-3)
 
-#### 1880-06-05 &middot; Elkton, Md.
+#### 1880-06-05 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5253,7 +5253,7 @@ used too much
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1880-07-01/ed-1/seq-4)
 
-#### 1880-07-01 &middot; Yorkville, S.C.
+#### 1880-07-01 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5300,7 +5300,7 @@ used much
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1880-08-06/ed-1/seq-4)
 
-#### 1880-08-06 &middot; Charlotte, N.C.
+#### 1880-08-06 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5346,7 +5346,7 @@ ate degree, and aid digestion.
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1881-01-12/ed-1/seq-4)
 
-#### 1881-01-12 &middot; Mifflintown, Juniata County, Pa.
+#### 1881-01-12 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5390,7 +5390,7 @@ wash twice a day with salt and wate
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1881-01-19/ed-1/seq-1)
 
-#### 1881-01-19 &middot; Montpelier, Vt.
+#### 1881-01-19 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5443,7 +5443,7 @@ commonest bgure lo-day 1 tear be is a
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84023296/1881-01-26/ed-1/seq-1)
 
-#### 1881-01-26 &middot; Woodstock, Vt.
+#### 1881-01-26 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5497,7 +5497,7 @@ tools for houso keeping a little mor
 
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1881-01-27/ed-1/seq-4)
 
-#### 1881-01-27 &middot; Winnsboro, S.C.
+#### 1881-01-27 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5541,7 +5541,7 @@ wash twice a day with salt and water
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1881-01-28/ed-1/seq-1)
 
-#### 1881-01-28 &middot; Staunton, Va.
+#### 1881-01-28 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5586,7 +5586,7 @@ comfort which a hot water bag or even
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1881-03-31/ed-1/seq-4)
 
-#### 1881-03-31 &middot; Mechanicstown, Md.
+#### 1881-03-31 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5610,7 +5610,7 @@ fall, etc
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1881-06-08/ed-1/seq-3)
 
-#### 1881-06-08 &middot; Watertown, Wis.
+#### 1881-06-08 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5638,7 +5638,7 @@ been added, and placed upon the ches
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1881-06-24/ed-1/seq-2)
 
-#### 1881-06-24 &middot; Ebensburg, Pa.
+#### 1881-06-24 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5659,7 +5659,7 @@ almost dead from a heavy fall
 
 ## [From _Gloucester County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87068079/1881-06-30/ed-1/seq-1)
 
-#### 1881-06-30 &middot; Woodbury, N.J.
+#### 1881-06-30 &middot; [Woodbury, N.J.](http://dbpedia.org/resource/Woodbury%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5686,7 +5686,7 @@ dead from a heavy fall
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1881-07-09/ed-1/seq-7)
 
-#### 1881-07-09 &middot; Martinsburg, W. Va.
+#### 1881-07-09 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5732,7 +5732,7 @@ twice a day until cured
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1881-07-09/ed-1/seq-7)
 
-#### 1881-07-09 &middot; Martinsburg, W. Va.
+#### 1881-07-09 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5754,7 +5754,7 @@ dead from a heavy fall
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1881-07-20/ed-1/seq-4)
 
-#### 1881-07-20 &middot; Mifflintown, Juniata County, Pa.
+#### 1881-07-20 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5777,7 +5777,7 @@ heavy fal
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1881-07-20/ed-1/seq-4)
 
-#### 1881-07-20 &middot; Winchester, Tenn.
+#### 1881-07-20 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5802,7 +5802,7 @@ the ciie.il ami throat changing ever
 
 ## [From _The Magnolia gazette._](https://chroniclingamerica.loc.gov/lccn/sn85034447/1881-07-22/ed-1/seq-4)
 
-#### 1881-07-22 &middot; Magnolia, Miss.
+#### 1881-07-22 &middot; [Magnolia, Miss.](http://dbpedia.org/resource/Magnolia%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5823,7 +5823,7 @@ dead from a heavy fall
 
 ## [From _The news and herald._](https://chroniclingamerica.loc.gov/lccn/sn93067705/1881-08-04/ed-1/seq-4)
 
-#### 1881-08-04 &middot; Winnsboro, S.C.
+#### 1881-08-04 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5844,7 +5844,7 @@ heavy fall
 
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1881-08-11/ed-1/seq-4)
 
-#### 1881-08-11 &middot; Millheim, Pa.
+#### 1881-08-11 &middot; [Millheim, Pa.](http://dbpedia.org/resource/Millheim%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5865,7 +5865,7 @@ cured
 
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1881-08-11/ed-1/seq-4)
 
-#### 1881-08-11 &middot; Millheim, Pa.
+#### 1881-08-11 &middot; [Millheim, Pa.](http://dbpedia.org/resource/Millheim%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5886,7 +5886,7 @@ heavy fall
 
 ## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1881-08-15/ed-1/seq-3)
 
-#### 1881-08-15 &middot; Rock Island, Ill.
+#### 1881-08-15 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5909,7 +5909,7 @@ vy fall
 
 ## [From _The Mankato free press._](https://chroniclingamerica.loc.gov/lccn/sn83016589/1881-08-19/ed-1/seq-1)
 
-#### 1881-08-19 &middot; Mankato, Blue Earth County, Minn.
+#### 1881-08-19 &middot; [Mankato, Blue Earth County, Minn.](http://dbpedia.org/resource/Mankato%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5932,7 +5932,7 @@ heavy fall
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1881-08-24/ed-1/seq-2)
 
-#### 1881-08-24 &middot; Lansing, Minn.
+#### 1881-08-24 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5953,7 +5953,7 @@ almost dead from a heavy fall.—Ex.
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1881-08-24/ed-1/seq-4)
 
-#### 1881-08-24 &middot; Newberry, S.C.
+#### 1881-08-24 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5975,7 +5975,7 @@ from a heavy fall
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1881-08-24/ed-2/seq-4)
 
-#### 1881-08-24 &middot; Newberry, S.C.
+#### 1881-08-24 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5997,7 +5997,7 @@ from a heavy fall
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1881-09-01/ed-1/seq-4)
 
-#### 1881-09-01 &middot; Yorkville, S.C.
+#### 1881-09-01 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6017,7 +6017,7 @@ seems almost dead from a heavy fall.
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1881-09-09/ed-1/seq-4)
 
-#### 1881-09-09 &middot; Charlotte, N.C.
+#### 1881-09-09 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6037,7 +6037,7 @@ almost dead from a heavy fall.
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1881-09-15/ed-1/seq-4)
 
-#### 1881-09-15 &middot; Pulaski, Tenn.
+#### 1881-09-15 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6065,7 +6065,7 @@ two eggs and beat them with tw
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1881-09-28/ed-1/seq-2)
 
-#### 1881-09-28 &middot; Watertown, Wis.
+#### 1881-09-28 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6113,7 +6113,7 @@ day with salt and water.—Medica
 
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1881-10-13/ed-1/seq-4)
 
-#### 1881-10-13 &middot; Millheim, Pa.
+#### 1881-10-13 &middot; [Millheim, Pa.](http://dbpedia.org/resource/Millheim%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6134,7 +6134,7 @@ heavy fall.
 
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1881-10-13/ed-1/seq-4)
 
-#### 1881-10-13 &middot; Millheim, Pa.
+#### 1881-10-13 &middot; [Millheim, Pa.](http://dbpedia.org/resource/Millheim%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6165,7 +6165,7 @@ cured
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1881-11-17_34_46?page=6)
 
-#### 1881-11-17 &middot; St. Louis, Mo.
+#### 1881-11-17 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6215,7 +6215,7 @@ day with salt and water.—From th
 
 ## [From _The weekly Copiahan._](https://chroniclingamerica.loc.gov/lccn/2018270504/1881-12-03/ed-1/seq-1)
 
-#### 1881-12-03 &middot; Hazlehurst, Copiah County, Miss.
+#### 1881-12-03 &middot; [Hazlehurst, Copiah County, Miss.](http://dbpedia.org/resource/Hazlehurst%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6275,7 +6275,7 @@ a day with salt and water.—
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973?page=23)
 
-#### 1881-12-24
+#### 1881-12-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6292,7 +6292,7 @@ of salt meat is regarded as very injurious.
 
 ## [From _Semi-weekly interior journal._](https://chroniclingamerica.loc.gov/lccn/sn85052020/1881-12-30/ed-1/seq-1)
 
-#### 1881-12-30 &middot; Stanford, Ky.
+#### 1881-12-30 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6356,7 +6356,7 @@ vastly better than it. There are tw
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1881-12-30/ed-1/seq-1)
 
-#### 1881-12-30 &middot; Staunton, Va.
+#### 1881-12-30 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6374,7 +6374,7 @@ dead from a heavy tall.
 
 ## [From _The new dominion._](https://chroniclingamerica.loc.gov/lccn/sn86092182/1881-12-31/ed-1/seq-4)
 
-#### 1881-12-31 &middot; Morgantown, W. Va.
+#### 1881-12-31 &middot; [Morgantown, W. Va.](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6423,7 +6423,7 @@ a day with salt and water
 
 ## [From _The new dominion._](https://chroniclingamerica.loc.gov/lccn/sn86092182/1882-01-07/ed-1/seq-4)
 
-#### 1882-01-07 &middot; Morgantown, W. Va.
+#### 1882-01-07 &middot; [Morgantown, W. Va.](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6473,7 +6473,7 @@ a day with salt and water
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1882-01-21/ed-1/seq-2)
 
-#### 1882-01-21 &middot; Martinsburg, W. Va.
+#### 1882-01-21 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6493,7 +6493,7 @@ heavy fall
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1882-01-29/ed-1/seq-4)
 
-#### 1882-01-29 &middot; Knoxville, Tenn.
+#### 1882-01-29 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6540,7 +6540,7 @@ salt and water
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1882-02-03/ed-1/seq-3)
 
-#### 1882-02-03 &middot; Knoxville, Tenn.
+#### 1882-02-03 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6587,7 +6587,7 @@ salt and water
 
 ## [From _Centre Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84009409/1882-03-23/ed-1/seq-6)
 
-#### 1882-03-23 &middot; Bellefonte, Pa.
+#### 1882-03-23 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6622,7 +6622,7 @@ ter, with water in which two or thre
 
 ## [From _Sacramento daily record-union._](https://chroniclingamerica.loc.gov/lccn/sn82014381/1882-04-15/ed-1/seq-6)
 
-#### 1882-04-15 &middot; Sacramento [Calif.]
+#### 1882-04-15 &middot; [Sacramento [Calif.]](http://dbpedia.org/resource/Sacramento%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6642,7 +6642,7 @@ who seems almost dead from a heavy fail.
 
 ## [From _The commonwealth._](https://chroniclingamerica.loc.gov/lccn/sn92073906/1883-07-12/ed-1/seq-4)
 
-#### 1883-07-12 &middot; Scotland Neck, N.C.
+#### 1883-07-12 &middot; [Scotland Neck, N.C.](http://dbpedia.org/resource/Scotland_Neck%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6665,7 +6665,7 @@ hoarseness : Bake a lemon or sou
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1884-05-29/ed-1/seq-4)
 
-#### 1884-05-29 &middot; Pulaski, Tenn.
+#### 1884-05-29 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6690,7 +6690,7 @@ fall.
 
 #### From _Hull Packet_
 
-#### 1884-08-22 &middot; Hull, England
+#### 1884-08-22 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -6698,7 +6698,7 @@ fall.
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1884-08-28/ed-1/seq-4)
 
-#### 1884-08-28 &middot; Pulaski, Tenn.
+#### 1884-08-28 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6750,7 +6750,7 @@ twice a day with salt and wate
 
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1885-03-07/ed-1/seq-4)
 
-#### 1885-03-07 &middot; Penn's Grove, Salem Co., N.J.
+#### 1885-03-07 &middot; [Penn's Grove, Salem Co., N.J.](http://dbpedia.org/resource/Penns_Grove%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6801,7 +6801,7 @@ but salt meat is iujurioua if used mrch
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1885-03-11/ed-1/seq-4)
 
-#### 1885-03-11 &middot; Mifflintown, Juniata County, Pa.
+#### 1885-03-11 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6857,7 +6857,7 @@ majority of colds in the whiter time ar
 
 ## [From _Peninsula enterprise._](https://chroniclingamerica.loc.gov/lccn/sn94060041/1885-06-27/ed-1/seq-1)
 
-#### 1885-06-27 &middot; Accomac, Va.
+#### 1885-06-27 &middot; [Accomac, Va.](http://dbpedia.org/resource/Accomac%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6916,7 +6916,7 @@ als:, until cured
 
 ## [From _The Hocking sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85038119/1885-10-29/ed-1/seq-1)
 
-#### 1885-10-29 &middot; Logan, Ohio
+#### 1885-10-29 &middot; [Logan, Ohio](http://dbpedia.org/resource/Logan%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6950,7 +6950,7 @@ completely stayed ihe blood
 
 ## [From _The Salt Lake herald._](https://chroniclingamerica.loc.gov/lccn/sn85058130/1886-02-21/ed-1/seq-5)
 
-#### 1886-02-21 &middot; Salt Lake City [Utah]
+#### 1886-02-21 &middot; [Salt Lake City [Utah]](http://dbpedia.org/resource/Salt_Lake_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6970,7 +6970,7 @@ almost dead from a heavy fal
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1886-05-21/ed-1/seq-1)
 
-#### 1886-05-21 &middot; Olympia, Wash. Territory
+#### 1886-05-21 &middot; [Olympia, Wash. Territory](http://dbpedia.org/resource/Olympia%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6999,7 +6999,7 @@ throw it into a tumbler of water
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1886-07-15/ed-1/seq-4)
 
-#### 1886-07-15 &middot; Pulaski, Tenn.
+#### 1886-07-15 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7020,7 +7020,7 @@ dead from a heavy fall
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1886-10-30/ed-1/seq-3)
 
-#### 1886-10-30 &middot; McMinnville, Tenn.
+#### 1886-10-30 &middot; [McMinnville, Tenn.](http://dbpedia.org/resource/McMinnville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7044,7 +7044,7 @@ from a heavy fall
 
 ## [From _The Salt Lake herald._](https://chroniclingamerica.loc.gov/lccn/sn85058130/1886-10-31/ed-1/seq-10)
 
-#### 1886-10-31 &middot; Salt Lake City [Utah]
+#### 1886-10-31 &middot; [Salt Lake City [Utah]](http://dbpedia.org/resource/Salt_Lake_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7064,7 +7064,7 @@ seems almost dead from a heavy fal
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1887-02-19/ed-1/seq-7)
 
-#### 1887-02-19 &middot; McMinnville, Tenn.
+#### 1887-02-19 &middot; [McMinnville, Tenn.](http://dbpedia.org/resource/McMinnville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7090,7 +7090,7 @@ dead from a heavy fall.
 
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-04-20/ed-1/seq-2)
 
-#### 1888-04-20 &middot; Wessington Springs, Aurora County, Dakota [S.D.]
+#### 1888-04-20 &middot; [Wessington Springs, Aurora County, Dakota [S.D.]](http://dbpedia.org/resource/Wessington_Springs%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7116,7 +7116,7 @@ ness on retiring to bed, eat three or fou
 
 ## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-04-20/ed-1/seq-3)
 
-#### 1888-04-20 &middot; Wessington Springs, Aurora County, Dakota [S.D.]
+#### 1888-04-20 &middot; [Wessington Springs, Aurora County, Dakota [S.D.]](http://dbpedia.org/resource/Wessington_Springs%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7142,7 +7142,7 @@ ness on retiring to bed, eat three or fou
 
 ## [From _Southern live-stock journal._](https://chroniclingamerica.loc.gov/lccn/sn87065614/1890-05-15/ed-1/seq-1)
 
-#### 1890-05-15 &middot; Starkville, Miss.
+#### 1890-05-15 &middot; [Starkville, Miss.](http://dbpedia.org/resource/Starkville%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7201,7 +7201,7 @@ jurious if used much.
 
 #### From _The Coburg Leader (Vic. : 1890 - 1913)_
 
-#### 1890-11-05 &middot; Coburg, Victoria
+#### 1890-11-05 &middot; [Coburg, Victoria](http://dbpedia.org/resource/Coburg%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7249,7 +7249,7 @@ injurious if used much.
 
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
 
-#### 1890-11-15 &middot; Sydney, New South Wales
+#### 1890-11-15 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7297,7 +7297,7 @@ Various Breeds of cattle, the Durham or
 
 #### From _Evening News (Sydney, NSW : 1869 - 1931)_
 
-#### 1890-11-18 &middot; Sydney, New South Wales
+#### 1890-11-18 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7340,7 +7340,7 @@ twice a^dw with ealt snawjiter. 5
 
 #### From _The Richmond River Herald and Northern Districts Advertiser (NSW : 1886 - 1942)_
 
-#### 1890-11-28 &middot; Coraki, New South Wales
+#### 1890-11-28 &middot; [Coraki, New South Wales](http://dbpedia.org/resource/Coraki%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7387,7 +7387,7 @@ salt meat&#x27; is injurious if used much.
 
 #### From _Clarence and Richmond Examiner (Grafton, NSW : 1889 - 1915)_
 
-#### 1890-12-06 &middot; Grafton, New South Wales
+#### 1890-12-06 &middot; [Grafton, New South Wales](http://dbpedia.org/resource/Grafton%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7434,7 +7434,7 @@ A Git EAT GOLD MINE IN ORINA.-W. Watson
 
 #### From _The Shoalhaven Telegraph (NSW : 1879 - 1937)_
 
-#### 1890-12-10 &middot; Nowra, New South Wales
+#### 1890-12-10 &middot; [Nowra, New South Wales](http://dbpedia.org/resource/Nowra)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7485,7 +7485,7 @@ j salt moat is injurious if usod.much.
 
 #### From _Bowral Free Press and Berrima District Intelligencer (NSW : 1884 - 1901)_
 
-#### 1891-02-11 &middot; Bowral, New South Wales
+#### 1891-02-11 &middot; [Bowral, New South Wales](http://dbpedia.org/resource/Bowral)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7532,7 +7532,7 @@ but salt moat is injurious if used much.
 
 #### From _The Telegraph (Brisbane, Qld. : 1872 - 1947)_
 
-#### 1894-01-17 &middot; Brisbane, Queensland
+#### 1894-01-17 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7580,7 +7580,7 @@ used much.
 
 #### From _Dungog Chronicle : Durham and Gloucester Advertiser (NSW : 1894 - 1954)_
 
-#### 1895-04-26 &middot; Dungog, New South Wales
+#### 1895-04-26 &middot; [Dungog, New South Wales](http://dbpedia.org/resource/Dungog%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7627,7 +7627,7 @@ injurio&#x27;da fl uted&#x27; muob.
 
 #### From _The Maitland Weekly Mercury (NSW : 1894 - 1931)_
 
-#### 1895-12-21 &middot; Maitland, New South Wales
+#### 1895-12-21 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7667,7 +7667,7 @@ when other remedies, fail tw
 
 #### From _Fitzroy City Press (Vic. : 1881 - 1920)_
 
-#### 1897-07-15 &middot; Fitzroy, Victoria
+#### 1897-07-15 &middot; [Fitzroy, Victoria](http://dbpedia.org/resource/Fitzroy%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

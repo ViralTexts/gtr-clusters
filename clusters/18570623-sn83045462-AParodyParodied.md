@@ -67,7 +67,7 @@ Waved their bright wings and answered &quot;Yes, in Heaven.&quot;
 
 #### From _The Daily Scioto gazette._
 
-#### 1857-02-27 &middot; Chillicothe, Ohio
+#### 1857-02-27 &middot; [Chillicothe, Ohio](http://dbpedia.org/resource/Chillicothe%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -75,7 +75,7 @@ Waved their bright wings and answered &quot;Yes, in Heaven.&quot;
 
 ## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1857-04-24/ed-1/seq-4)
 
-#### 1857-04-24 &middot; Richmond, Va.
+#### 1857-04-24 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -136,7 +136,7 @@ Heaven.
 
 ## [From _Lynchburg daily Virginian._](https://chroniclingamerica.loc.gov/lccn/sn85034360/1857-05-09/ed-1/seq-1)
 
-#### 1857-05-09 &middot; Lynchburg [Va.]
+#### 1857-05-09 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -179,7 +179,7 @@ Waved their bright wings, and answered, “Yes, i
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1857-05-12/ed-1/seq-1)
 
-#### 1857-05-12 &middot; Mineral Point, Wis.
+#### 1857-05-12 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -225,7 +225,7 @@ Heaven/’
 
 ## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1857-05-15/ed-1/seq-1)
 
-#### 1857-05-15 &middot; Lewisburg, Pa.
+#### 1857-05-15 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -263,7 +263,7 @@ Waved their bright wingsand whimpered, &quot;Unly Heaven:
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1857-05-19/ed-1/seq-1)
 
-#### 1857-05-19 &middot; Hillsdale, Mich.
+#### 1857-05-19 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -298,7 +298,7 @@ ears a.&quot;
 
 ## [From _Kanawha Valley star._](https://chroniclingamerica.loc.gov/lccn/sn85059862/1857-05-19/ed-1/seq-1)
 
-#### 1857-05-19 &middot; Charleston, Va. [W. Va.]
+#### 1857-05-19 &middot; [Charleston, Va. [W. Va.]](http://dbpedia.org/resource/Charleston%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -367,7 +367,7 @@ i.
 
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1857-06-06/ed-1/seq-6)
 
-#### 1857-06-06 &middot; Pickens Court House, S.C.
+#### 1857-06-06 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -429,7 +429,7 @@ heaven.&#x27;
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1857-06-11/ed-1/seq-4)
 
-#### 1857-06-11 &middot; Greenville, S.C.
+#### 1857-06-11 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -495,7 +495,7 @@ m Waved their bright wings and answered
 
 ## [From _Bedford inquirer and chronicle._](https://chroniclingamerica.loc.gov/lccn/sn86083444/1857-06-12/ed-1/seq-1)
 
-#### 1857-06-12 &middot; Bedford, Pa.
+#### 1857-06-12 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -552,7 +552,7 @@ iu litavc
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1857-06-23/ed-1/seq-4)
 
-#### 1857-06-23 &middot; Washington, D.C.
+#### 1857-06-23 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -611,7 +611,7 @@ Heaven.
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028820/1857-07-02/ed-1/seq-1)
 
-#### 1857-07-02 &middot; Millersburg, Holmes County, Ohio
+#### 1857-07-02 &middot; [Millersburg, Holmes County, Ohio](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -670,7 +670,7 @@ ffemat
 
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1857-07-09/ed-1/seq-1)
 
-#### 1857-07-09 &middot; Lewistown, Pa.
+#### 1857-07-09 &middot; [Lewistown, Pa.](http://dbpedia.org/resource/Lewistown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -728,7 +728,7 @@ in Haven!
 
 ## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1857-08-12/ed-1/seq-5)
 
-#### 1857-08-12 &middot; Nevada, Calif.
+#### 1857-08-12 &middot; [Nevada, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -786,7 +786,7 @@ Waved their, bright wlugs and answered &quot;Yes, in
 
 ## [From _The weekly Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035102/1857-08-13/ed-1/seq-1)
 
-#### 1857-08-13 &middot; Ravenna, Ohio
+#### 1857-08-13 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -840,7 +840,7 @@ Waved their wing und answered, &#x27; Ves, in Iteuocn!&#x27;&#x27;
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1858-03-03/ed-1/seq-4)
 
-#### 1858-03-03 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1858-03-03 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -896,7 +896,7 @@ in Heaven 1”
 
 ## [From _The Frankfort commonwealth._](https://iiif.archivelab.org/iiif/xt7djh3d006k?page=0)
 
-#### 1865-05-05 &middot; Frankfort, Ky.
+#### 1865-05-05 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -984,7 +984,7 @@ Faith, Hope and Love, best boons to girls e’e
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1867-04-18/ed-1/seq-1)
 
-#### 1867-04-18 &middot; M'arthur, Vinton County, Ohio
+#### 1867-04-18 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1045,7 +1045,7 @@ navti tneir ongm wings ana answerem
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1867-12-24/ed-1/seq-4)
 
-#### 1867-12-24 &middot; Staunton, Va.
+#### 1867-12-24 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1104,7 +1104,7 @@ in heaven.&quot;
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1872-09-26/ed-1/seq-1)
 
-#### 1872-09-26 &middot; Yorkville, S.C.
+#### 1872-09-26 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1149,7 +1149,7 @@ in Heaven
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1890-12-20/ed-1/seq-2)
 
-#### 1890-12-20 &middot; Martinsburg, W. Va.
+#### 1890-12-20 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1179,7 +1179,7 @@ yes, in Heaven.” Refoktkr
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1892-03-10/ed-1/seq-3)
 
-#### 1892-03-10 &middot; Ellsworth, Me.
+#### 1892-03-10 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

@@ -22,7 +22,7 @@ If women have one weakness more marked than another, it is towards veneration. T
 
 ## [From _New-York daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn83030213/1859-10-15/ed-1/seq-5)
 
-#### 1859-10-15 &middot; New-York [N.Y.]
+#### 1859-10-15 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -46,7 +46,7 @@ by heroic deeds and the rhetoric ot a noble lue
 
 ## [From _The Portage County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83035045/1859-10-26/ed-1/seq-1)
 
-#### 1859-10-26 &middot; Ravenna, Ohio
+#### 1859-10-26 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -88,7 +88,7 @@ life.
 
 #### From _Ohio Farmer (1856-1906)_
 
-#### 1859-11-05 &middot; Cleveland
+#### 1859-11-05 &middot; [Cleveland](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -96,7 +96,7 @@ life.
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1859-11-24/ed-1/seq-1)
 
-#### 1859-11-24 &middot; St. Clairsville, Ohio
+#### 1859-11-24 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -124,7 +124,7 @@ icof a noble life- Mrs. il- B. Stowe.
 
 ## [From _The River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn86086437/1860-01-04/ed-1/seq-2)
 
-#### 1860-01-04 &middot; River Falls, Pierce County, Wis.
+#### 1860-01-04 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -154,7 +154,7 @@ and the rhetoric of a noolc life
 
 ## [From _The weekly north Iowa times._](https://chroniclingamerica.loc.gov/lccn/sn84027238/1860-01-18/ed-1/seq-4)
 
-#### 1860-01-18 &middot; McGregor, Iowa
+#### 1860-01-18 &middot; [McGregor, Iowa](http://dbpedia.org/resource/McGregor%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -223,7 +223,7 @@ iieroic deeds and tho rhetoric of a noble
 
 ## [From _The River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn86086437/1860-01-18/ed-1/seq-1)
 
-#### 1860-01-18 &middot; River Falls, Pierce County, Wis.
+#### 1860-01-18 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -292,7 +292,7 @@ ble life.
 
 ## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1860-02-04/ed-1/seq-2)
 
-#### 1860-02-04 &middot; New York [N.Y.]
+#### 1860-02-04 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -365,7 +365,7 @@ who never wooed them except by heroic deeds
 
 ## [From _The Abbeville banner._](https://chroniclingamerica.loc.gov/lccn/sn85026945/1860-02-16/ed-1/seq-1)
 
-#### 1860-02-16 &middot; Abbeville, S.C.
+#### 1860-02-16 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -423,7 +423,7 @@ and the rhetoric ef a*noble life
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1860-03-22/ed-1/seq-1)
 
-#### 1860-03-22 &middot; Greenville, S.C.
+#### 1860-03-22 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -474,7 +474,7 @@ heroic deeds and the rhetoric of a noble life.
 
 ## [From _Mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014488/1860-04-14/ed-1/seq-1)
 
-#### 1860-04-14 &middot; Placerville, El Dorado Co., Cal.
+#### 1860-04-14 &middot; [Placerville, El Dorado Co., Cal.](http://dbpedia.org/resource/Placerville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -538,7 +538,7 @@ the rhetoric of a noble life.’
 
 ## [From _The Camden weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027851/1860-05-22/ed-1/seq-1)
 
-#### 1860-05-22 &middot; Camden, South-Carolina
+#### 1860-05-22 &middot; [Camden, South-Carolina](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -604,7 +604,7 @@ a genuine hero who never woo tbetn except hy
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1860-08-02/ed-1/seq-1)
 
-#### 1860-08-02 &middot; Greenville, S.C.
+#### 1860-08-02 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -678,7 +678,7 @@ ept by heroic deeds and the rhetoric o
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1861-10-02 &middot; Exeter, England
+#### 1861-10-02 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -688,7 +688,7 @@ ept by heroic deeds and the rhetoric o
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1861-10-02 &middot; Exeter, England
+#### 1861-10-02 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -698,7 +698,7 @@ ept by heroic deeds and the rhetoric o
 
 #### From _Boston investigator._
 
-#### 1861-12-04 &middot; Boston, Mass.
+#### 1861-12-04 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -706,7 +706,7 @@ ept by heroic deeds and the rhetoric o
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
 
-#### 1867-05-16 &middot; Jackson C.H., Ohio
+#### 1867-05-16 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -726,7 +726,7 @@ think fell straight down from heaven.
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
 
-#### 1867-05-16 &middot; Jackson C.H., Ohio
+#### 1867-05-16 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -749,7 +749,7 @@ harp, sackbut, and so forth,&quot; where th
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
 
-#### 1867-05-16 &middot; Jackson C.H., Ohio
+#### 1867-05-16 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -769,7 +769,7 @@ the rhetoric of a noble life&quot; a mos
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1867-05-16/ed-1/seq-1)
 
-#### 1867-05-16 &middot; Jackson C.H., Ohio
+#### 1867-05-16 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -791,7 +791,7 @@ climh by.&quot;
 
 ## [From _The New Orleans crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015775/1868-01-29/ed-1/seq-1)
 
-#### 1868-01-29 &middot; New Orleans, La.
+#### 1868-01-29 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -830,7 +830,7 @@ h,-t, e,&#x27;. In it the. faithful l&#x27;Panla, with her bean
 
 ## [From _Daily Ohio statesman._](https://chroniclingamerica.loc.gov/lccn/sn84028645/1868-02-05/ed-1/seq-1)
 
-#### 1868-02-05 &middot; Columbus, Ohio
+#### 1868-02-05 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -901,7 +901,7 @@ deeds and the rhetoric of noble life.-
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1868-02-12/ed-1/seq-4)
 
-#### 1868-02-12 &middot; Anderson Court House, S.C.
+#### 1868-02-12 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -971,7 +971,7 @@ and the rhetoric of noble life.? The Min
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1868-03-04/ed-1/seq-1)
 
-#### 1868-03-04 &middot; Smyrna, Del.
+#### 1868-03-04 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1039,7 +1039,7 @@ rhetoric of noble life.— T&#x27;A« Minister&#x27;s Wooing
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1868-03-28/ed-1/seq-1)
 
-#### 1868-03-28 &middot; Ashtabula, Ohio
+#### 1868-03-28 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1109,7 +1109,7 @@ the rhetoric ot noble lite.
 
 ## [From _The Hancock Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85042591/1868-04-24/ed-1/seq-4)
 
-#### 1868-04-24 &middot; Findlay, Ohio
+#### 1868-04-24 &middot; [Findlay, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1186,7 +1186,7 @@ rhetoric of noble life.
 
 #### From _Daily evening bulletin._
 
-#### 1868-05-02 &middot; San Francisco [Calif.]
+#### 1868-05-02 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -1194,7 +1194,7 @@ rhetoric of noble life.
 
 ## [From _The Grenada sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034375/1868-07-18/ed-1/seq-1)
 
-#### 1868-07-18 &middot; Grenada, Miss.
+#### 1868-07-18 &middot; [Grenada, Miss.](http://dbpedia.org/resource/Grenada%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1280,7 +1280,7 @@ deeds and rhetoric of noble life.-— 7*A
 
 ## [From _North Iowa times._](https://chroniclingamerica.loc.gov/lccn/sn84027239/1869-09-22/ed-1/seq-1)
 
-#### 1869-09-22 &middot; McGregor, Iowa
+#### 1869-09-22 &middot; [McGregor, Iowa](http://dbpedia.org/resource/McGregor%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

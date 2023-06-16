@@ -40,7 +40,7 @@ Of salt, fifty pounds.
 
 ## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1851-06-26/ed-1/seq-3)
 
-#### 1851-06-26 &middot; Davenport, Scott Co., Iowa
+#### 1851-06-26 &middot; [Davenport, Scott Co., Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -80,7 +80,7 @@ Ol salt, lilty pound*
 
 ## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1851-07-25/ed-1/seq-2)
 
-#### 1851-07-25 &middot; [Ottumwa] Iowa
+#### 1851-07-25 &middot; [[Ottumwa] Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -116,7 +116,7 @@ Of salt, fifty pounds
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1851-10-01/ed-1/seq-3)
 
-#### 1851-10-01 &middot; Raleigh, N.C.
+#### 1851-10-01 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -152,7 +152,7 @@ Of salt, fifty pounds.
 
 ## [From _North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024517/1851-10-01/ed-1/seq-3)
 
-#### 1851-10-01 &middot; Raleigh, N.C.
+#### 1851-10-01 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -188,7 +188,7 @@ Of salt, fifty pounds.
 
 ## [From _Tarboro' press._](https://chroniclingamerica.loc.gov/lccn/sn85042204/1851-10-18/ed-1/seq-1)
 
-#### 1851-10-18 &middot; Tarborough, (Edgecombe Co., N.C.)
+#### 1851-10-18 &middot; [Tarborough, (Edgecombe Co., N.C.)](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -224,7 +224,7 @@ Of salt, fifty pounds
 
 ## [From _The mountain sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071377/1851-10-23/ed-1/seq-2)
 
-#### 1851-10-23 &middot; Ebensburg, Pa.
+#### 1851-10-23 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -267,7 +267,7 @@ Of salt, fifty pounds
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1851-10-28/ed-1/seq-1)
 
-#### 1851-10-28 &middot; Martinsburg, Va. [W. Va.]
+#### 1851-10-28 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -304,7 +304,7 @@ Of salt, fi &#x27;ty pounds&#x27;
 
 ## [From _The Democratic sentinel and Harrison County farmer._](https://chroniclingamerica.loc.gov/lccn/sn85042199/1851-10-29/ed-1/seq-4)
 
-#### 1851-10-29 &middot; Cadiz, Ohio
+#### 1851-10-29 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -342,7 +342,7 @@ Of onions, iifty-seven pounds. f
 
 ## [From _The Portsmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn85026203/1851-11-07/ed-1/seq-1)
 
-#### 1851-11-07 &middot; Portsmouth, O. [Ohio]
+#### 1851-11-07 &middot; [Portsmouth, O. [Ohio]](http://dbpedia.org/resource/Portsmouth%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -386,7 +386,7 @@ Of salt, fifty pounds.
 
 #### From _The daily South Carolinian._
 
-#### 1851-11-08 &middot; Columbia, S.C.
+#### 1851-11-08 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -394,7 +394,7 @@ Of salt, fifty pounds.
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1851-11-12/ed-1/seq-4)
 
-#### 1851-11-12 &middot; Staunton, Va.
+#### 1851-11-12 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -431,7 +431,7 @@ Of salt, fifty pounds
 
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn87070038/1851-11-13/ed-1/seq-1)
 
-#### 1851-11-13 &middot; Lancaster, Ohio
+#### 1851-11-13 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -467,7 +467,7 @@ Of salt., fifty pound
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1851-11-13/ed-1/seq-3)
 
-#### 1851-11-13 &middot; Stroudsburg, Pa.
+#### 1851-11-13 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -501,7 +501,7 @@ Of castor beans, forty-six pounds
 
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1851-11-15/ed-1/seq-4)
 
-#### 1851-11-15 &middot; New-Lisbon, Ohio
+#### 1851-11-15 &middot; [New-Lisbon, Ohio](http://dbpedia.org/resource/Salem%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -538,7 +538,7 @@ Of salt, III ty pounds
 
 ## [From _Meigs County telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038183/1851-11-18/ed-1/seq-2)
 
-#### 1851-11-18 &middot; Pomeroy [Ohio]
+#### 1851-11-18 &middot; [Pomeroy [Ohio]](http://dbpedia.org/resource/Pomeroy%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -579,7 +579,7 @@ honor of the hospitality of your glorious lan
 
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1851-11-20/ed-1/seq-1)
 
-#### 1851-11-20 &middot; Bloomsburg, Pa.
+#### 1851-11-20 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -616,7 +616,7 @@ Of salt, fifty pounds
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1851-11-21/ed-1/seq-2)
 
-#### 1851-11-21 &middot; Athens, Tenn.
+#### 1851-11-21 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -650,7 +650,7 @@ Of caator beans, 46 pounds
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1851-11-26/ed-1/seq-2)
 
-#### 1851-11-26 &middot; Port Tobacco, Md.
+#### 1851-11-26 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -687,7 +687,7 @@ Of salt, fifty pounds
 
 ## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82015677/1851-11-27/ed-1/seq-1)
 
-#### 1851-11-27 &middot; Indianapolis
+#### 1851-11-27 &middot; [Indianapolis](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -728,7 +728,7 @@ Of Salt, fifty pounds
 
 #### From _Prairie farmer._
 
-#### 1851-12-01 &middot; Chicago, Ill.
+#### 1851-12-01 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Indianapolis)
 
 [This text is not available under an open license.]
 
@@ -736,7 +736,7 @@ Of Salt, fifty pounds
 
 ## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1851-12-03/ed-1/seq-1)
 
-#### 1851-12-03 &middot; Lewisburg, Pa.
+#### 1851-12-03 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -769,7 +769,7 @@ Of castor beans, forty-six pounds
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1851-12-03/ed-1/seq-4)
 
-#### 1851-12-03 &middot; Clarksburg, Va. [W. Va.]
+#### 1851-12-03 &middot; [Clarksburg, Va. [W. Va.]](http://dbpedia.org/resource/Clarksburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -804,7 +804,7 @@ Of castor beans, forty-six pounds
 
 #### From _Christian Observer (1840-1910)_
 
-#### 1851-12-06 &middot; Louisville
+#### 1851-12-06 &middot; [Louisville](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 [This text is not available under an open license.]
 
@@ -812,7 +812,7 @@ Of castor beans, forty-six pounds
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1851-12-06/ed-1/seq-1)
 
-#### 1851-12-06 &middot; Sunbury, Pa.
+#### 1851-12-06 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -849,7 +849,7 @@ Of salt, fifty pounds
 
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1851-12-18/ed-1/seq-1)
 
-#### 1851-12-18 &middot; Montpelier, Vt.
+#### 1851-12-18 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -886,7 +886,7 @@ Of salt, fifty pounds
 
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1851-12-19/ed-1/seq-1)
 
-#### 1851-12-19 &middot; Lewistown, Pa.
+#### 1851-12-19 &middot; [Lewistown, Pa.](http://dbpedia.org/resource/Lewistown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -920,7 +920,7 @@ Of castor beans, forty-six pounds
 
 ## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1852-01_4_1?page=17)
 
-#### 1852-01-01 &middot; St. Louis, Mo.
+#### 1852-01-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -975,7 +975,7 @@ Of salt, tifty pounds.
 
 #### From _Mississippian and state gazette._
 
-#### 1852-01-02 &middot; City of Jackson [Miss.]
+#### 1852-01-02 &middot; [City of Jackson [Miss.]](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -983,7 +983,7 @@ Of salt, tifty pounds.
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1852-01-02/ed-1/seq-4)
 
-#### 1852-01-02 &middot; Wilmington, N.C.
+#### 1852-01-02 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1023,7 +1023,7 @@ Of dried apples 21 pounds
 
 #### From _Vermont chronicle._
 
-#### 1852-01-06 &middot; Bellows Falls, Vt.
+#### 1852-01-06 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -1031,7 +1031,7 @@ Of dried apples 21 pounds
 
 ## [From _The Yazoo Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87065704/1852-01-14/ed-1/seq-1)
 
-#### 1852-01-14 &middot; Yazoo City, Miss.
+#### 1852-01-14 &middot; [Yazoo City, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1069,7 +1069,7 @@ Of salt, fifty pounds
 
 ## [From _Weekly messenger._](https://iiif.archivelab.org/iiif/xt7w6m334z0h?page=3)
 
-#### 1852-01-16 &middot; Richmond, Ky.
+#### 1852-01-16 &middot; [Richmond, Ky.](http://dbpedia.org/resource/Richmond%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1120,7 +1120,7 @@ Of salt, fifty pounds. — Merchant’
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1852-01-17_25_18?page=2)
 
-#### 1852-01-17 &middot; Philadelphia
+#### 1852-01-17 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1143,7 +1143,7 @@ Of timothy seed, forty-five pounds. the other officer and three men pursued an
 
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1852-01-22_33_4?page=3)
 
-#### 1852-01-22 &middot; Boston
+#### 1852-01-22 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1186,7 +1186,7 @@ Of salt, fifty pounds.
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-02-05_20_6?page=0)
 
-#### 1852-02-05 &middot; Augusta, Maine
+#### 1852-02-05 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1223,7 +1223,7 @@ Of salt, fifty pounds
 
 ## [From _Worcester daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021205/1852-02-11/ed-1/seq-2)
 
-#### 1852-02-11 &middot; Worcester [Mass.]
+#### 1852-02-11 &middot; [Worcester [Mass.]](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1257,7 +1257,7 @@ Of »alt,fiifty pounds
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1852-02-26/ed-1/seq-2)
 
-#### 1852-02-26 &middot; Lancaster, S.C.
+#### 1852-02-26 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1296,7 +1296,7 @@ Of salt, fifty ]&gt;ounds
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1852-03-04/ed-1/seq-4)
 
-#### 1852-03-04 &middot; Bath, Me.
+#### 1852-03-04 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1333,7 +1333,7 @@ Of salt, fifty pounds
 
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1852-03-05/ed-1/seq-1)
 
-#### 1852-03-05 &middot; Carrollton [Ohio]
+#### 1852-03-05 &middot; [Carrollton [Ohio]](http://dbpedia.org/resource/Carrollton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1369,7 +1369,7 @@ Of castor beans, foKf.tix pounds.
 
 #### From _Boston investigator._
 
-#### 1852-03-24 &middot; Boston, Mass.
+#### 1852-03-24 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -1377,7 +1377,7 @@ Of castor beans, foKf.tix pounds.
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1852-03-25/ed-1/seq-4)
 
-#### 1852-03-25 &middot; Montpelier, Vt.
+#### 1852-03-25 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1417,7 +1417,7 @@ Of salt, seventy five pounds
 
 ## [From _Hannibal journal._](https://chroniclingamerica.loc.gov/lccn/sn87091069/1852-04-01/ed-1/seq-2)
 
-#### 1852-04-01 &middot; Hannibal, Mo.
+#### 1852-04-01 &middot; [Hannibal, Mo.](http://dbpedia.org/resource/Hannibal%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1451,7 +1451,7 @@ Of salt, fifty p&#x27;xi.ils.
 
 ## [From _Burlington free press._](https://chroniclingamerica.loc.gov/lccn/sn84023127/1852-06-18/ed-1/seq-1)
 
-#### 1852-06-18 &middot; Burlington, Vt.
+#### 1852-06-18 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1487,7 +1487,7 @@ Of sail, fifty pounds
 
 #### From _Southern Planter (1841-1866)_
 
-#### 1852-08-01 &middot; Richmond
+#### 1852-08-01 &middot; [Richmond](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 [This text is not available under an open license.]
 
@@ -1495,7 +1495,7 @@ Of sail, fifty pounds
 
 ## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1852-08_27_2?page=95)
 
-#### 1852-08-01 &middot; New York
+#### 1852-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1515,7 +1515,7 @@ fifty pounds of cornmeal, fifty-seven pounds of onions, and fifty-six pounds of 
 
 ## [From _The Kalida venture._](https://chroniclingamerica.loc.gov/lccn/sn85038078/1852-09-24/ed-1/seq-1)
 
-#### 1852-09-24 &middot; Kalida, Ohio
+#### 1852-09-24 &middot; [Kalida, Ohio](http://dbpedia.org/resource/Kalida%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1548,7 +1548,7 @@ Of castor beans, forty .six ponnds
 
 ## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-04-12/ed-1/seq-4)
 
-#### 1853-04-12 &middot; Sumterville, S.C.
+#### 1853-04-12 &middot; [Sumterville, S.C.](http://dbpedia.org/resource/Sumter%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1597,7 +1597,7 @@ Of salt, fifty pounds
 
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1853-09-21/ed-1/seq-2)
 
-#### 1853-09-21 &middot; Cadiz, Ohio
+#### 1853-09-21 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1631,7 +1631,7 @@ Of salt, fifty pounds
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1853-09-21/ed-1/seq-2)
 
-#### 1853-09-21 &middot; Martinsburg, Va. [W. Va.]
+#### 1853-09-21 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1669,7 +1669,7 @@ Of salt, fifty pounds
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1853-09-22/ed-1/seq-2)
 
-#### 1853-09-22 &middot; Jackson C.H., Ohio
+#### 1853-09-22 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1706,7 +1706,7 @@ Of salt, fifty pounds
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1853-09-29/ed-1/seq-4)
 
-#### 1853-09-29 &middot; Gallipolis, Ohio
+#### 1853-09-29 &middot; [Gallipolis, Ohio](http://dbpedia.org/resource/Gallipolis%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1739,7 +1739,7 @@ Of salt, fifty pounds.
 
 ## [From _Washington sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84020104/1853-10-14/ed-1/seq-1)
 
-#### 1853-10-14 &middot; Washington [D.C.]
+#### 1853-10-14 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1773,7 +1773,7 @@ Of onions, fifty-seven pounds
 
 ## [From _The Belmont chronicle, and farmers, mechanics and manufacturers advocate._](https://chroniclingamerica.loc.gov/lccn/sn84028479/1853-11-04/ed-1/seq-2)
 
-#### 1853-11-04 &middot; St. Clairsville, Ohio
+#### 1853-11-04 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1811,7 +1811,7 @@ Of salt, fifty pound.
 
 ## [From _The Ohio union._](https://chroniclingamerica.loc.gov/lccn/sn83035172/1853-11-30/ed-1/seq-2)
 
-#### 1853-11-30 &middot; Ashland, Ohio
+#### 1853-11-30 &middot; [Ashland, Ohio](http://dbpedia.org/resource/Ashland%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1848,7 +1848,7 @@ Of tall, fifty poundt
 
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1853-12-01/ed-1/seq-1)
 
-#### 1853-12-01 &middot; Carrollton [Ohio]
+#### 1853-12-01 &middot; [Carrollton [Ohio]](http://dbpedia.org/resource/Carrollton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1887,7 +1887,7 @@ Of salt, fifty pounds
 
 #### From _Mississippian and state gazette._
 
-#### 1853-12-23 &middot; City of Jackson [Miss.]
+#### 1853-12-23 &middot; [City of Jackson [Miss.]](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -1895,7 +1895,7 @@ Of salt, fifty pounds
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1853-12-23/ed-1/seq-4)
 
-#### 1853-12-23 &middot; Wilmington, N.C.
+#### 1853-12-23 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1925,7 +1925,7 @@ Of onions, fifty-seven pounds
 
 ## [From _The Ohio star._](https://chroniclingamerica.loc.gov/lccn/sn83035044/1854-01-04/ed-1/seq-1)
 
-#### 1854-01-04 &middot; Ravenna, Ohio
+#### 1854-01-04 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1963,7 +1963,7 @@ Of salt, fifiy pounds. - - i &#x27;
 
 ## [From _The Belmont chronicle, and farmers, mechanics and manufacturers advocate._](https://chroniclingamerica.loc.gov/lccn/sn84028479/1854-01-27/ed-1/seq-3)
 
-#### 1854-01-27 &middot; St. Clairsville, Ohio
+#### 1854-01-27 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1997,7 +1997,7 @@ Of onions, fifty-seven pounds.
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1854-02-23/ed-1/seq-1)
 
-#### 1854-02-23 &middot; Mineral Point, Wis.
+#### 1854-02-23 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2037,7 +2037,7 @@ Of salt, fifty pounds
 
 #### From _Milwaukee daily sentinel._
 
-#### 1854-03-15 &middot; Milwaukee, [Wis.]
+#### 1854-03-15 &middot; [Milwaukee, [Wis.]](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -2045,7 +2045,7 @@ Of salt, fifty pounds
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1854-03-27/ed-1/seq-1)
 
-#### 1854-03-27 &middot; Lancaster, Wis.
+#### 1854-03-27 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2077,7 +2077,7 @@ Qf salt, fifty-six pounds.
 
 ## [From _The weekly Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn88078726/1854-05-11/ed-1/seq-4)
 
-#### 1854-05-11 &middot; Lancaster, Ohio
+#### 1854-05-11 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Fairfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2115,7 +2115,7 @@ Of salt, fifty pounds
 
 #### From _The Ohio observer._
 
-#### 1854-05-24 &middot; Hudson [Ohio]
+#### 1854-05-24 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -2123,7 +2123,7 @@ Of salt, fifty pounds
 
 ## [From _The Cedar County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85049614/1854-06-03/ed-1/seq-4)
 
-#### 1854-06-03 &middot; Tipton, Iowa
+#### 1854-06-03 &middot; [Tipton, Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2156,7 +2156,7 @@ Of salt, fifty pounds.
 
 ## [From _Minnesota weekly times._](https://chroniclingamerica.loc.gov/lccn/sn85025594/1854-06-06/ed-1/seq-3)
 
-#### 1854-06-06 &middot; St. Paul, Minn.
+#### 1854-06-06 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2189,7 +2189,7 @@ Of salt, fifty pounds.
 
 ## [From _Plymouth banner._](https://chroniclingamerica.loc.gov/lccn/sn87056241/1854-06-22/ed-1/seq-1)
 
-#### 1854-06-22 &middot; Plymouth, Marshall County, Ind.
+#### 1854-06-22 &middot; [Plymouth, Marshall County, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2228,7 +2228,7 @@ Of salt, fifty lbs
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1854-06-29/ed-1/seq-1)
 
-#### 1854-06-29 &middot; Jackson C.H., Ohio
+#### 1854-06-29 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2265,7 +2265,7 @@ Of salt, fifty pounds
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1854-09-27/ed-1/seq-1)
 
-#### 1854-09-27 &middot; Martinsburg, Va. [W. Va.]
+#### 1854-09-27 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2301,7 +2301,7 @@ i Of i &#x27; :is, fifty-seven pounds.
 
 ## [From _The weekly Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035102/1854-11-01/ed-1/seq-1)
 
-#### 1854-11-01 &middot; Ravenna, Ohio
+#### 1854-11-01 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2339,7 +2339,7 @@ Of salt, fifty pounds. .
 
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1854-11-02/ed-1/seq-4)
 
-#### 1854-11-02 &middot; Carrollton [Ohio]
+#### 1854-11-02 &middot; [Carrollton [Ohio]](http://dbpedia.org/resource/Carrollton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2376,7 +2376,7 @@ Of salt, filly poundt
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1854-11-29/ed-1/seq-1)
 
-#### 1854-11-29 &middot; Woodsfield, Ohio
+#### 1854-11-29 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2419,7 +2419,7 @@ alt. fifty pounds, ;j T i
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1855-02-10/ed-1/seq-2)
 
-#### 1855-02-10 &middot; Shepherdstown, Va. [W. Va.]
+#### 1855-02-10 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2458,7 +2458,7 @@ Of salt, fifty pounds
 
 #### From _Southern Planter (1841-1866)_
 
-#### 1855-04-01 &middot; Richmond
+#### 1855-04-01 &middot; [Richmond](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 [This text is not available under an open license.]
 
@@ -2466,7 +2466,7 @@ Of salt, fifty pounds
 
 ## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1855-05-04/ed-1/seq-2)
 
-#### 1855-05-04 &middot; Evansville, Ia. [i.e. Ind.]
+#### 1855-05-04 &middot; [Evansville, Ia. [i.e. Ind.]](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2499,7 +2499,7 @@ Of salt, filty pounds.&#x27; i. &#x27;
 
 ## [From _M'arthur Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87075163/1855-05-04/ed-1/seq-2)
 
-#### 1855-05-04 &middot; McArthur, Vinton County, Ohio
+#### 1855-05-04 &middot; [McArthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2532,7 +2532,7 @@ Of sM, 10 J poinds.
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1855-10-31/ed-1/seq-1)
 
-#### 1855-10-31 &middot; Staunton, Va.
+#### 1855-10-31 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2570,7 +2570,7 @@ Of salt fifty pounds
 
 ## [From _Star of the Kanawha Valley._](https://chroniclingamerica.loc.gov/lccn/sn85059861/1855-11-28/ed-1/seq-4)
 
-#### 1855-11-28 &middot; Buffalo, Va. [W. Va.]
+#### 1855-11-28 &middot; [Buffalo, Va. [W. Va.]](http://dbpedia.org/resource/Buffalo%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2610,7 +2610,7 @@ Of sfilt, fifty pounds
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1856-01-05/ed-1/seq-2)
 
-#### 1856-01-05 &middot; Red Wing, M.T. [i.e. Minn.]
+#### 1856-01-05 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2645,7 +2645,7 @@ Of onions, fifty-seven pounds.
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1856-07-31/ed-1/seq-4)
 
-#### 1856-07-31 &middot; Richmond, Ind.
+#### 1856-07-31 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2682,7 +2682,7 @@ Of salt, fifty pounds.
 
 ## [From _Nashville daily patriot._](https://chroniclingamerica.loc.gov/lccn/sn86053516/1856-08-06/ed-1/seq-2)
 
-#### 1856-08-06 &middot; Nashville, Tenn.
+#### 1856-08-06 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2716,7 +2716,7 @@ Blue Grass, seed, fourteen ponnds
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1856-08-14/ed-1/seq-4)
 
-#### 1856-08-14 &middot; Richmond, Ind.
+#### 1856-08-14 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2751,7 +2751,7 @@ Of, a, fifty pound
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1856-09-11/ed-1/seq-4)
 
-#### 1856-09-11 &middot; Richmond, Ind.
+#### 1856-09-11 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2781,7 +2781,7 @@ Of onions, forty-eight pounds.
 
 ## [From _The north Iowa times._](https://chroniclingamerica.loc.gov/lccn/sn84027237/1856-11-07/ed-1/seq-1)
 
-#### 1856-11-07 &middot; M'Gregor [i.e. McGregor], Iowa
+#### 1856-11-07 &middot; [M'Gregor [i.e. McGregor], Iowa](http://dbpedia.org/resource/McGregor%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2838,7 +2838,7 @@ Of |wpib6.
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-12_53_6?page=83)
 
-#### 1856-12-01 &middot; New York
+#### 1856-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2893,7 +2893,7 @@ Of salt, fifty pounds.
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1857-01-09/ed-1/seq-1)
 
-#### 1857-01-09 &middot; Alexandria, D.C.
+#### 1857-01-09 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2927,7 +2927,7 @@ Blue grass seed, fourteen pounds
 
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1857-01-28/ed-2/seq-1)
 
-#### 1857-01-28 &middot; Bloomsburg, Pa.
+#### 1857-01-28 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2962,7 +2962,7 @@ Dried peaches, thirty-three pound
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1857-02-25/ed-1/seq-1)
 
-#### 1857-02-25 &middot; Clearfield, Pa.
+#### 1857-02-25 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2998,7 +2998,7 @@ Blue grass seed, fourteen pounds
 
 #### From _Southern Cultivator (1843-1906)_
 
-#### 1857-03-01 &middot; Atlanta
+#### 1857-03-01 &middot; [Atlanta](http://dbpedia.org/resource/Atlanta)
 
 [This text is not available under an open license.]
 
@@ -3006,7 +3006,7 @@ Blue grass seed, fourteen pounds
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1857-03-14/ed-1/seq-4)
 
-#### 1857-03-14 &middot; Lancaster, Wis.
+#### 1857-03-14 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3041,7 +3041,7 @@ Blue grass seed, fourteen pounds
 
 ## [From _The evening bulletin._](https://iiif.archivelab.org/iiif/xt7hqb9v3q6j?page=1)
 
-#### 1857-03-17 &middot; Louisville, Ky.
+#### 1857-03-17 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3069,7 +3069,7 @@ five pounds; blue grass seed, fourteen pounds
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1857-03-18/ed-1/seq-4)
 
-#### 1857-03-18 &middot; Warren, Ohio
+#### 1857-03-18 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3104,7 +3104,7 @@ Dried peaches, thirty-three pounds
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1857-03-20/ed-1/seq-4)
 
-#### 1857-03-20 &middot; Clarksburg, Va. [W. Va.]
+#### 1857-03-20 &middot; [Clarksburg, Va. [W. Va.]](http://dbpedia.org/resource/Clarksburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3137,7 +3137,7 @@ Flax seed, forty five pounds
 
 ## [From _Republican vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024652/1857-03-28/ed-1/seq-1)
 
-#### 1857-03-28 &middot; Staunton, Va.
+#### 1857-03-28 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3176,7 +3176,7 @@ Salt, f
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1857-04-01/ed-1/seq-4)
 
-#### 1857-04-01 &middot; Grand Haven, Mich.
+#### 1857-04-01 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3211,7 +3211,7 @@ Paste this in Your donnet. No woman
 
 ## [From _Minnesota weekly times._](https://chroniclingamerica.loc.gov/lccn/sn85025594/1857-04-18/ed-1/seq-3)
 
-#### 1857-04-18 &middot; St. Paul, Minn.
+#### 1857-04-18 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3229,7 +3229,7 @@ to our re aders: Wheat, 80 l&gt;s; Corn, shelled, 68 »s; Corn
 
 ## [From _The National Magazine; Devoted to Literature, Art, and Religion (1852-1858)_](https://iiif.archivelab.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1857-05_10_5?page=85)
 
-#### 1857-05-01 &middot; New York
+#### 1857-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3259,7 +3259,7 @@ dried peaches, thirty-three pounds.
 
 ## [From _Minnesota weekly times._](https://chroniclingamerica.loc.gov/lccn/sn85025594/1857-05-02/ed-1/seq-3)
 
-#### 1857-05-02 &middot; St. Paul, Minn.
+#### 1857-05-02 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3277,7 +3277,7 @@ to our readers: Wheat, 60 Ms; Corn, shelled, 68 t&gt;&gt;; Corn
 
 ## [From _Minnesota weekly times._](https://chroniclingamerica.loc.gov/lccn/sn85025594/1857-05-09/ed-1/seq-3)
 
-#### 1857-05-09 &middot; St. Paul, Minn.
+#### 1857-05-09 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3294,7 +3294,7 @@ to our re aders: Wheat, 60 Ms; Corn, shelled, 66 as; Corn
 
 ## [From _Minnesota weekly times._](https://chroniclingamerica.loc.gov/lccn/sn85025594/1857-05-16/ed-1/seq-3)
 
-#### 1857-05-16 &middot; St. Paul, Minn.
+#### 1857-05-16 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3312,7 +3312,7 @@ to our re a .ere: Wheat, 60 be; Corn,shelled, 66 as; Corn
 
 ## [From _Minnesota weekly times._](https://chroniclingamerica.loc.gov/lccn/sn85025594/1857-05-23/ed-1/seq-3)
 
-#### 1857-05-23 &middot; St. Paul, Minn.
+#### 1857-05-23 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3332,7 +3332,7 @@ to our re a era: Wheat, 60 Ms} Corn, shelled, 66 hs; Corn
 
 #### From _Lowell daily citizen and news._
 
-#### 1857-06-20 &middot; Lowell, Mass.
+#### 1857-06-20 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -3340,7 +3340,7 @@ to our re a era: Wheat, 60 Ms} Corn, shelled, 66 hs; Corn
 
 ## [From _The Emigrant aid journal of Minnesota._](https://chroniclingamerica.loc.gov/lccn/sn84024825/1857-11-07/ed-1/seq-6)
 
-#### 1857-11-07 &middot; Nininger City, Minn. Terr. [i.e. Minn.]
+#### 1857-11-07 &middot; [Nininger City, Minn. Terr. [i.e. Minn.]](http://dbpedia.org/resource/Nininger%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3359,7 +3359,7 @@ be of interest to our readers:—Wheat, 60 lbs; Corn
 
 #### From _Bangor daily Whig & courier._
 
-#### 1858-03-19 &middot; Bangor, Me.
+#### 1858-03-19 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -3367,7 +3367,7 @@ be of interest to our readers:—Wheat, 60 lbs; Corn
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1858-03-19/ed-1/seq-3)
 
-#### 1858-03-19 &middot; Irasburgh, Vt.
+#### 1858-03-19 &middot; [Irasburgh, Vt.](http://dbpedia.org/resource/Irasburg%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3397,7 +3397,7 @@ Of salt fifty-six pounds.
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1858-04-03/ed-1/seq-4)
 
-#### 1858-04-03 &middot; Brattleboro, Vt.
+#### 1858-04-03 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3428,7 +3428,7 @@ Of salt fifty-six pounds
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1858-05-06/ed-1/seq-3)
 
-#### 1858-05-06 &middot; Yorkville, S.C.
+#### 1858-05-06 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3459,7 +3459,7 @@ i pounds. * *
 
 #### From _Dover gazette & Strafford advertiser._
 
-#### 1858-07-03 &middot; Dover, N.H.
+#### 1858-07-03 &middot; [Dover, N.H.](http://dbpedia.org/resource/Dover%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -3467,7 +3467,7 @@ i pounds. * *
 
 ## [From _The Cass County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85033611/1858-08-12/ed-1/seq-1)
 
-#### 1858-08-12 &middot; Dowagiac, Mich.
+#### 1858-08-12 &middot; [Dowagiac, Mich.](http://dbpedia.org/resource/Dowagiac%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3497,7 +3497,7 @@ blue grass seed, fourteen pounds ; drie
 
 ## [From _Clarksville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061076/1858-09-24/ed-1/seq-1)
 
-#### 1858-09-24 &middot; Clarksville, Tenn.
+#### 1858-09-24 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3531,7 +3531,7 @@ Dried Peaches, thirty-three pounds
 
 ## [From _St. Cloud Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016836/1858-10-28/ed-1/seq-4)
 
-#### 1858-10-28 &middot; Saint Cloud, Stearns County, Minn.
+#### 1858-10-28 &middot; [Saint Cloud, Stearns County, Minn.](http://dbpedia.org/resource/St._Cloud%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3549,7 +3549,7 @@ be of interest to our readers,— U&#x27;heat, lb
 
 ## [From _St. Cloud Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016836/1858-10-28/ed-1/seq-5)
 
-#### 1858-10-28 &middot; Saint Cloud, Stearns County, Minn.
+#### 1858-10-28 &middot; [Saint Cloud, Stearns County, Minn.](http://dbpedia.org/resource/St._Cloud%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3566,7 +3566,7 @@ be of interest to our readers,—Wheat, 60 ib
 
 ## [From _The weekly Arizonian._](https://chroniclingamerica.loc.gov/lccn/sn82014067/1859-04-14/ed-1/seq-1)
 
-#### 1859-04-14 &middot; Tubac, Ariz.
+#### 1859-04-14 &middot; [Tubac, Ariz.](http://dbpedia.org/resource/Tubac%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3607,7 +3607,7 @@ Of salt, fifty pounds
 
 ## [From _The Buchanan County guardian._](https://chroniclingamerica.loc.gov/lccn/sn87058348/1859-05-26/ed-1/seq-4)
 
-#### 1859-05-26 &middot; Independence, Buchanan County, Iowa
+#### 1859-05-26 &middot; [Independence, Buchanan County, Iowa](http://dbpedia.org/resource/Independence%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3647,7 +3647,7 @@ Of Salt, fifty pounds
 
 ## [From _St. Cloud Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016836/1859-06-02/ed-1/seq-3)
 
-#### 1859-06-02 &middot; Saint Cloud, Stearns County, Minn.
+#### 1859-06-02 &middot; [Saint Cloud, Stearns County, Minn.](http://dbpedia.org/resource/St._Cloud%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3665,7 +3665,7 @@ be of interest to our readers,—Wheat, GO lbs
 
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1859-06-18/ed-1/seq-1)
 
-#### 1859-06-18 &middot; Council Bluffs [Iowa]
+#### 1859-06-18 &middot; [Council Bluffs [Iowa]](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3702,7 +3702,7 @@ Of Salt, fifty pounds
 
 ## [From _Muscatine weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027253/1859-07-01/ed-1/seq-1)
 
-#### 1859-07-01 &middot; Muscatine, Iowa
+#### 1859-07-01 &middot; [Muscatine, Iowa](http://dbpedia.org/resource/Muscatine%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3741,7 +3741,7 @@ Of Salt, fiity pontic&#x27;s
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1859-09-24/ed-1/seq-2)
 
-#### 1859-09-24 &middot; Shepherdstown, Va. [W. Va.]
+#### 1859-09-24 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3759,7 +3759,7 @@ may be of interest to our readers, an
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1859-09-24/ed-1/seq-2)
 
-#### 1859-09-24 &middot; Shepherdstown, Va. [W. Va.]
+#### 1859-09-24 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3793,7 +3793,7 @@ Of Onions, fifty-seven pounds,
 
 ## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051343/1860-03-07/ed-1/seq-1)
 
-#### 1860-03-07 &middot; Des Arc, Ark.
+#### 1860-03-07 &middot; [Des Arc, Ark.](http://dbpedia.org/resource/Des_Arc%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3828,7 +3828,7 @@ Of salt, Afty pounds
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1860-03-28/ed-1/seq-2)
 
-#### 1860-03-28 &middot; Red Wing, M.T. [i.e. Minn.]
+#### 1860-03-28 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3866,7 +3866,7 @@ Of onions, fifty-seven pounds.
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1860-04-05/ed-1/seq-4)
 
-#### 1860-04-05 &middot; White Cloud, Kan.
+#### 1860-04-05 &middot; [White Cloud, Kan.](http://dbpedia.org/resource/White_Cloud%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3904,7 +3904,7 @@ Of oaioae, fifty-seven pounds
 
 #### From _The Manhattan express._
 
-#### 1860-04-07 &middot; Manhattan City, Kan.
+#### 1860-04-07 &middot; [Manhattan City, Kan.](http://dbpedia.org/resource/Manhattan%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -3912,7 +3912,7 @@ Of oaioae, fifty-seven pounds
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1860-04-14/ed-1/seq-2)
 
-#### 1860-04-14 &middot; Emporia, Kan.
+#### 1860-04-14 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3948,7 +3948,7 @@ r Of dnkns, fifty-seven pounds.
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1860-05-03/ed-1/seq-1)
 
-#### 1860-05-03 &middot; Smyrna, Del.
+#### 1860-05-03 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3983,7 +3983,7 @@ Of onions, fifty-seven pounds
 
 ## [From _The Oxford intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn87065471/1860-06-20/ed-1/seq-4)
 
-#### 1860-06-20 &middot; Oxford, Miss.
+#### 1860-06-20 &middot; [Oxford, Miss.](http://dbpedia.org/resource/Oxford%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4019,7 +4019,7 @@ Of sH, itv pounds.
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1860-06-23/ed-1/seq-1)
 
-#### 1860-06-23 &middot; Elkton, Md.
+#### 1860-06-23 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4055,7 +4055,7 @@ I Of dried apples, twenty-four pounds.
 
 ## [From _The Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn84026399/1860-06-28/ed-1/seq-1)
 
-#### 1860-06-28 &middot; Stroudsburg, Pa.
+#### 1860-06-28 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4089,7 +4089,7 @@ Of onions, fifty-sevea pounds
 
 ## [From _Pointe Coupee Democrat._](https://chroniclingamerica.loc.gov/lccn/sn86053686/1860-07-14/ed-1/seq-1)
 
-#### 1860-07-14 &middot; False River [i.e. New Roads], Parish of Pointe Coupee [La.]
+#### 1860-07-14 &middot; [False River [i.e. New Roads], Parish of Pointe Coupee [La.]](http://dbpedia.org/resource/False_River%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4125,7 +4125,7 @@ Of onions, fifty-seven pouuds!
 
 ## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1860-10_43_4?page=127)
 
-#### 1860-10-01 &middot; New York
+#### 1860-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4175,7 +4175,7 @@ Of salt, fifty pounds.
 
 ## [From _The Cadiz Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84028794/1860-12-05/ed-1/seq-1)
 
-#### 1860-12-05 &middot; Cadiz, Ohio
+#### 1860-12-05 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4201,7 +4201,7 @@ Of blue grass seed, fourteen pounds. .
 
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1860-12-05/ed-1/seq-4)
 
-#### 1860-12-05 &middot; Ebensburg, Pa.
+#### 1860-12-05 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4236,7 +4236,7 @@ Of onions, fifty-seven pounds
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1860-12-22/ed-1/seq-1)
 
-#### 1860-12-22 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1860-12-22 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4273,7 +4273,7 @@ Oi salt, fitly pounds.
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1861-01-02/ed-1/seq-1)
 
-#### 1861-01-02 &middot; Woodsfield, Ohio
+#### 1861-01-02 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4302,7 +4302,7 @@ Of hemp-seed, forty-four pounds.
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1861-01-09/ed-2/seq-3)
 
-#### 1861-01-09 &middot; Clearfield, Pa.
+#### 1861-01-09 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4335,7 +4335,7 @@ Of east r beans, thirty-three pounds.
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1861-01-16/ed-1/seq-1)
 
-#### 1861-01-16 &middot; Woodsfield, Ohio
+#### 1861-01-16 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4367,7 +4367,7 @@ Of blue grass seed, fourteen pounds
 
 #### From _Lowell daily citizen and news._
 
-#### 1861-04-30 &middot; Lowell, Mass.
+#### 1861-04-30 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -4375,7 +4375,7 @@ Of blue grass seed, fourteen pounds
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1861-05-02/ed-1/seq-4)
 
-#### 1861-05-02 &middot; White Cloud, Kan.
+#### 1861-05-02 &middot; [White Cloud, Kan.](http://dbpedia.org/resource/White_Cloud%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4413,7 +4413,7 @@ Storm Indicators
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1861-06-22/ed-1/seq-4)
 
-#### 1861-06-22 &middot; Olympia, Wash. Territory
+#### 1861-06-22 &middot; [Olympia, Wash. Territory](http://dbpedia.org/resource/Olympia%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4451,7 +4451,7 @@ Of salt, fifty lbs
 
 ## [From _The Louisville daily journal._](https://iiif.archivelab.org/iiif/xt7gms3jxj87?page=0)
 
-#### 1861-07-19 &middot; Louisville, Ky.
+#### 1861-07-19 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4521,7 +4521,7 @@ Of salt, fifty pounds.
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1862-09-04/ed-1/seq-4)
 
-#### 1862-09-04 &middot; Litchfield, Conn.
+#### 1862-09-04 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4561,7 +4561,7 @@ Dried apple, twenty-four pounds
 
 #### From _Southern Cultivator (1843-1906)_
 
-#### 1863-01-01 &middot; Atlanta
+#### 1863-01-01 &middot; [Atlanta](http://dbpedia.org/resource/Atlanta)
 
 [This text is not available under an open license.]
 
@@ -4569,7 +4569,7 @@ Dried apple, twenty-four pounds
 
 ## [From _North Branch democrat._](https://chroniclingamerica.loc.gov/lccn/sn86081912/1863-04-01/ed-1/seq-4)
 
-#### 1863-04-01 &middot; Tunkhannock, Pa.
+#### 1863-04-01 &middot; [Tunkhannock, Pa.](http://dbpedia.org/resource/Tunkhannock%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4605,7 +4605,7 @@ Dried apples, twenty-four pounds.
 
 ## [From _The daily register._](https://chroniclingamerica.loc.gov/lccn/sn86092517/1863-12-05/ed-1/seq-3)
 
-#### 1863-12-05 &middot; Wheeling, W. Va.
+#### 1863-12-05 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4643,7 +4643,7 @@ Dried apples, twenty- four pounds
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1864-02-12/ed-1/seq-2)
 
-#### 1864-02-12 &middot; Manitowoc, Wis.
+#### 1864-02-12 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4676,7 +4676,7 @@ Of castor fort\ -ix potirfdg
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1864-11-24/ed-1/seq-1)
 
-#### 1864-11-24 &middot; St. Clairsville, Ohio
+#### 1864-11-24 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4713,7 +4713,7 @@ Diicd peaches, thirty-three pounds.
 
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn84024207/1864-12-01/ed-1/seq-1)
 
-#### 1864-12-01 &middot; Lancaster, Ohio
+#### 1864-12-01 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4749,7 +4749,7 @@ Hemp seed, forty five pbUnds.
 
 #### From _Vermont chronicle._
 
-#### 1864-12-17 &middot; Bellows Falls, Vt.
+#### 1864-12-17 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -4759,7 +4759,7 @@ Hemp seed, forty five pbUnds.
 
 #### From _Newark advocate._
 
-#### 1864-12-30 &middot; Newark [Ohio]
+#### 1864-12-30 &middot; [Newark [Ohio]](http://dbpedia.org/resource/Newark%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -4769,7 +4769,7 @@ Hemp seed, forty five pbUnds.
 
 #### From _New Hampshire statesman._
 
-#### 1865-02-10 &middot; Concord [N.H.]
+#### 1865-02-10 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -4777,7 +4777,7 @@ Hemp seed, forty five pbUnds.
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1865-04-05/ed-1/seq-2)
 
-#### 1865-04-05 &middot; Woodsfield, Ohio
+#### 1865-04-05 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4811,7 +4811,7 @@ Blue-grass seed, fourteen pounds
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1865-04-07/ed-1/seq-4)
 
-#### 1865-04-07 &middot; Bel Air, Md.
+#### 1865-04-07 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4845,7 +4845,7 @@ Blue-grass seed, fourteen pounds
 
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1865-05-17/ed-1/seq-1)
 
-#### 1865-05-17 &middot; Bloomsburg, Pa.
+#### 1865-05-17 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4879,7 +4879,7 @@ Biae-gtasi seed fourteen pounds
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-06-15_17_12?page=1)
 
-#### 1865-06-15 &middot; St. Louis, Mo.
+#### 1865-06-15 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4917,7 +4917,7 @@ Dried peaches, 33 pounds.
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1865-11-11_6_131?page=30)
 
-#### 1865-11-11
+#### 1865-11-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4936,7 +4936,7 @@ may be of interest toour readers :—Wheat, 60 lbs.
 
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1865-12-09/ed-1/seq-1)
 
-#### 1865-12-09 &middot; Towsontown, Md.
+#### 1865-12-09 &middot; [Towsontown, Md.](http://dbpedia.org/resource/Towson%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4974,7 +4974,7 @@ Coal, seventy six pounds
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1866-01-18/ed-2/seq-1)
 
-#### 1866-01-18 &middot; Westminster, Md.
+#### 1866-01-18 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5011,7 +5011,7 @@ Dried Apples, twenty-four pounds
 
 ## [From _Dallas herald._](https://chroniclingamerica.loc.gov/lccn/sn84022278/1866-09-15/ed-1/seq-4)
 
-#### 1866-09-15 &middot; Dallas, Tex.
+#### 1866-09-15 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5049,7 +5049,7 @@ Of salt, fifty pounds
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1867-01-19/ed-1/seq-4)
 
-#### 1867-01-19 &middot; Auburn, Placer County, Calif.
+#### 1867-01-19 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5083,7 +5083,7 @@ Blue-grass seed, fourteen pounds
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-03-01_19_5?page=2)
 
-#### 1867-03-01 &middot; St. Louis, Mo.
+#### 1867-03-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5104,7 +5104,7 @@ readers.
 
 #### From _Bangor daily Whig & courier._
 
-#### 1867-03-12 &middot; Bangor, Me.
+#### 1867-03-12 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -5112,7 +5112,7 @@ readers.
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1867-03-23/ed-1/seq-2)
 
-#### 1867-03-23 &middot; Bolivar, Hardeman County, Tenn.
+#### 1867-03-23 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5130,7 +5130,7 @@ our readers
 
 ## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7fn29p5689?page=0)
 
-#### 1868-09-07 &middot; Louisville, Kentucky.
+#### 1868-09-07 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5152,7 +5152,7 @@ We don&#x27;t know that this is thestsndar
 
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1873-04-24/ed-1/seq-2)
 
-#### 1873-04-24 &middot; Ottumwa, Wapello County, Iowa
+#### 1873-04-24 &middot; [Ottumwa, Wapello County, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5194,7 +5194,7 @@ Of salt, fifty pound
 
 ## [From _The Rutland daily globe._](https://chroniclingamerica.loc.gov/lccn/sn84022473/1874-06-05/ed-1/seq-2)
 
-#### 1874-06-05 &middot; Rutland, Vt.
+#### 1874-06-05 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5212,7 +5212,7 @@ tercst
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-08-04/ed-1/seq-4)
 
-#### 1875-08-04 &middot; Mifflintown, Juniata County, Pa.
+#### 1875-08-04 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5251,7 +5251,7 @@ Of salt, fifty pounds. . 1
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1875-08-26/ed-1/seq-3)
 
-#### 1875-08-26 &middot; Ridgway, Pa.
+#### 1875-08-26 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5290,7 +5290,7 @@ Of salt fifty pounds
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-09-04/ed-1/seq-2)
 
-#### 1875-09-04 &middot; Shepherdstown, Va. [W. Va.]
+#### 1875-09-04 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5325,7 +5325,7 @@ teen pounds
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1879-03-27/ed-1/seq-1)
 
-#### 1879-03-27 &middot; Bridgeton, N.J.
+#### 1879-03-27 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5347,7 +5347,7 @@ of onions, fifty-seven pounds; of dried peaches, thirt
 
 ## [From _Gloucester County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87068079/1881-04-07/ed-1/seq-1)
 
-#### 1881-04-07 &middot; Woodbury, N.J.
+#### 1881-04-07 &middot; [Woodbury, N.J.](http://dbpedia.org/resource/Woodbury%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5372,7 +5372,7 @@ pounds, and of all other articles nsually sold b
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1881-04-07/ed-1/seq-1)
 
-#### 1881-04-07 &middot; Bridgeton, N.J.
+#### 1881-04-07 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5396,7 +5396,7 @@ of dried apples, twenty-five pounds, and of all other arti
 
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1882-02-23/ed-1/seq-2)
 
-#### 1882-02-23 &middot; Mexico, Mo.
+#### 1882-02-23 &middot; [Mexico, Mo.](http://dbpedia.org/resource/Mexico%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5435,7 +5435,7 @@ Of salt, fifty pounds.
 
 ## [From _The Grenada sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034375/1882-03-11/ed-1/seq-5)
 
-#### 1882-03-11 &middot; Grenada, Miss.
+#### 1882-03-11 &middot; [Grenada, Miss.](http://dbpedia.org/resource/Grenada%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5467,7 +5467,7 @@ Of salt, fifty pounds
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1882-05-16/ed-1/seq-2)
 
-#### 1882-05-16 &middot; Woodsfield, Ohio
+#### 1882-05-16 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5501,7 +5501,7 @@ Of barley, tout ty -eight pounds
 
 #### From _The Raleigh register._
 
-#### 1885-03-11 &middot; Raleigh, N.C.
+#### 1885-03-11 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -5509,7 +5509,7 @@ Of barley, tout ty -eight pounds
 
 ## [From _Democratic Northwest._](https://chroniclingamerica.loc.gov/lccn/sn84028296/1886-04-22/ed-1/seq-1)
 
-#### 1886-04-22 &middot; Napoleon, Ohio
+#### 1886-04-22 &middot; [Napoleon, Ohio](http://dbpedia.org/resource/Napoleon%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5541,7 +5541,7 @@ Of barley, forty-eight&#x27; pounds;
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1886-05-04/ed-1/seq-3)
 
-#### 1886-05-04 &middot; Woodsfield, Ohio
+#### 1886-05-04 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5573,7 +5573,7 @@ Of bailey, forty-eight pounds
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1890-08-14/ed-1/seq-7)
 
-#### 1890-08-14 &middot; Lancaster, Wis.
+#### 1890-08-14 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

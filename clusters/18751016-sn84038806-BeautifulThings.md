@@ -57,7 +57,7 @@ Over worn-out hands—Oh, beautiful sleep!
 
 #### From _Independent statesman._
 
-#### 1875-08-19 &middot; Concord, N.H.
+#### 1875-08-19 &middot; [Concord, N.H.](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -67,7 +67,7 @@ Over worn-out hands—Oh, beautiful sleep!
 
 #### From _Bangor daily Whig & courier._
 
-#### 1875-08-20 &middot; Bangor, Me.
+#### 1875-08-20 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -75,7 +75,7 @@ Over worn-out hands—Oh, beautiful sleep!
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1875-09-16/ed-1/seq-3)
 
-#### 1875-09-16 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1875-09-16 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -109,7 +109,7 @@ Over worn-out hands—Oh! beautiful sleep
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1875-09-17/ed-1/seq-1)
 
-#### 1875-09-17 &middot; Deer Lodge, Mont.
+#### 1875-09-17 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -142,7 +142,7 @@ Over worn-out hands--Oh! beautiful sleep
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1875-09-17/ed-1/seq-1)
 
-#### 1875-09-17 &middot; Ebensburg, Pa.
+#### 1875-09-17 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -177,7 +177,7 @@ sleep
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1875-10-02/ed-1/seq-1)
 
-#### 1875-10-02 &middot; Martinsburg, W. Va.
+#### 1875-10-02 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -213,7 +213,7 @@ sleep!
 
 ## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1875-10-12/ed-1/seq-1)
 
-#### 1875-10-12 &middot; Van Buren, Ark.
+#### 1875-10-12 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -246,7 +246,7 @@ Over worn out hands I O. beautiful sleep !
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1875-11-04/ed-1/seq-4)
 
-#### 1875-11-04 &middot; Point Pleasant, Va. [W. Va.]
+#### 1875-11-04 &middot; [Point Pleasant, Va. [W. Va.]](http://dbpedia.org/resource/Point_Pleasant%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -280,7 +280,7 @@ Over worn-out hands?Oh, beautiful sleep
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-11-06/ed-1/seq-1)
 
-#### 1875-11-06 &middot; Shepherdstown, Va. [W. Va.]
+#### 1875-11-06 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -312,7 +312,7 @@ Over worn-out hands-Oh, beautiful sleep
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-11-10/ed-1/seq-1)
 
-#### 1875-11-10 &middot; Mifflintown, Juniata County, Pa.
+#### 1875-11-10 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -346,7 +346,7 @@ Over worn-out hands! O beautiful sleep
 
 ## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47?page=5)
 
-#### 1875-11-20
+#### 1875-11-20 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -413,7 +413,7 @@ Over worn-out hands—Oh, beautiful sleep
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1875-12-04/ed-1/seq-1)
 
-#### 1875-12-04 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1875-12-04 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -447,7 +447,7 @@ Over worn-out hands Oh,-beautiful sleep
 
 ## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18?page=3)
 
-#### 1876-01-01 &middot; Boston [Mass.]
+#### 1876-01-01 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -487,7 +487,7 @@ Over worn-out hands—Oh, beautiful sleep !
 
 ## [From _Woodhull and Claflin's Weekly 1870-1876_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8?page=1)
 
-#### 1876-01-22
+#### 1876-01-22 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -526,7 +526,7 @@ Over worn-out hands—Oh, beautiful sleep!
 
 ## [From _The anti-monopolist._](https://chroniclingamerica.loc.gov/lccn/sn85025587/1876-02-03/ed-1/seq-2)
 
-#### 1876-02-03 &middot; Saint Paul, Minn.
+#### 1876-02-03 &middot; [Saint Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -565,7 +565,7 @@ Over worn-out hands—Oh, beautiful sleep!
 
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1876-04-06/ed-1/seq-1)
 
-#### 1876-04-06 &middot; Tipton, Cedar Co., Iowa
+#### 1876-04-06 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -608,7 +608,7 @@ Over woru-out hands. Oh I beautiful sleep!
 
 ## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33?page=3)
 
-#### 1876-04-15 &middot; Boston [Mass.]
+#### 1876-04-15 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -647,7 +647,7 @@ Over worn-out hands—oh, beautiful sleep
 
 ## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1876-04-21/ed-1/seq-1)
 
-#### 1876-04-21 &middot; Rockville, Md.
+#### 1876-04-21 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -680,7 +680,7 @@ Over worn-out hands. Oh! beautiful sleep
 
 #### From _Prairie farmer._
 
-#### 1876-04-22 &middot; Chicago, Ill.
+#### 1876-04-22 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Indianapolis)
 
 [This text is not available under an open license.]
 
@@ -688,7 +688,7 @@ Over worn-out hands. Oh! beautiful sleep
 
 ## [From _Bristol news._](https://chroniclingamerica.loc.gov/lccn/sn85026955/1876-06-27/ed-1/seq-1)
 
-#### 1876-06-27 &middot; Bristol, Va. & Tenn.
+#### 1876-06-27 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -723,7 +723,7 @@ Over worn-out hands oh, beautiful sleep
 
 #### From _Illustrated Sydney News and New South Wales Agriculturalist and Grazier (NSW : 1872 - 1881)_
 
-#### 1876-09-16 &middot; Sydney, New South Wales
+#### 1876-09-16 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -756,7 +756,7 @@ beautiful sleep
 
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
 
-#### 1876-09-30 &middot; Maitland, New South Wales
+#### 1876-09-30 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -789,7 +789,7 @@ beautiful sleep
 
 #### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
 
-#### 1876-10-13 &middot; Kiama, New South Wales
+#### 1876-10-13 &middot; [Kiama, New South Wales](http://dbpedia.org/resource/Kiama%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -822,7 +822,7 @@ beautiful slee?
 
 #### From _Shaker (1876-1877)_
 
-#### 1876-11-01 &middot; Shakers
+#### 1876-11-01 &middot; [Shakers](http://dbpedia.org/resource/New_Lebanon%2C_New_York)
 
 [This text is not available under an open license.]
 
@@ -830,7 +830,7 @@ beautiful slee?
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11?page=7)
 
-#### 1876-11-01
+#### 1876-11-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -869,7 +869,7 @@ Over worn out hands — Oh, beautiful sleep
 
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1877-07-12/ed-1/seq-2)
 
-#### 1877-07-12 &middot; Vancouver, W.T. [Wash.]
+#### 1877-07-12 &middot; [Vancouver, W.T. [Wash.]](http://dbpedia.org/resource/Vancouver%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -908,7 +908,7 @@ O&#x27;er worn-out hands—oh,beautiful sleep!.
 
 #### From _The Congregationalist._
 
-#### 1878-02-13 &middot; Boston, Mass.
+#### 1878-02-13 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -916,7 +916,7 @@ O&#x27;er worn-out hands—oh,beautiful sleep!.
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1878-04-13/ed-1/seq-1)
 
-#### 1878-04-13 &middot; Middletown, Del.
+#### 1878-04-13 &middot; [Middletown, Del.](http://dbpedia.org/resource/Middletown%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -957,7 +957,7 @@ Over worn-out hands—O, beautiful sleep
 
 ## [From _Littell's Living Age (1844-1896)_](https://iiif.archivelab.org/iiif/sim_living-age_1878-04-27_137_1767?page=1)
 
-#### 1878-04-27 &middot; Boston
+#### 1878-04-27 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1000,7 +1000,7 @@ Over worn-out hands—oh, beautiful sleep
 
 #### From _The Messenger._
 
-#### 1878-05-08 &middot; Philadelphia, Pa.
+#### 1878-05-08 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -1008,7 +1008,7 @@ Over worn-out hands—oh, beautiful sleep
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1878-05-09/ed-1/seq-4)
 
-#### 1878-05-09 &middot; Plymouth, Ind.
+#### 1878-05-09 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1041,7 +1041,7 @@ Over worn-out hands oh, beautiful Bleep
 
 ## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1878-05-09/ed-1/seq-4)
 
-#### 1878-05-09 &middot; Worthington, Minn.
+#### 1878-05-09 &middot; [Worthington, Minn.](http://dbpedia.org/resource/Worthington%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1079,7 +1079,7 @@ Over worn-out hands—oh, beautiful sleep!
 
 ## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1878-05-09/ed-1/seq-3)
 
-#### 1878-05-09 &middot; River Falls, Pierce County, Wis.
+#### 1878-05-09 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1111,7 +1111,7 @@ Over worn-out hands—oh, beautiful sleep I
 
 ## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169?page=2)
 
-#### 1878-05-09
+#### 1878-05-09 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1150,7 +1150,7 @@ Over worn-out hands,—oh, beautiful sleep!
 
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1878-05-15/ed-1/seq-6)
 
-#### 1878-05-15 &middot; Indianapolis
+#### 1878-05-15 &middot; [Indianapolis](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1183,7 +1183,7 @@ Over worn-out hands oh, beautiful sleep
 
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1878-05-23/ed-1/seq-1)
 
-#### 1878-05-23 &middot; Lake Charles, Parish of Calcasieu, La.
+#### 1878-05-23 &middot; [Lake Charles, Parish of Calcasieu, La.](http://dbpedia.org/resource/Lake_Charles%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1220,7 +1220,7 @@ sleep
 
 ## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1878-05-23_55_21?page=5)
 
-#### 1878-05-23 &middot; Boston
+#### 1878-05-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1262,7 +1262,7 @@ Over worn-out hands, — oh, beautiful sleep
 
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1878-05-31/ed-1/seq-1)
 
-#### 1878-05-31 &middot; Pascagoula, Miss.
+#### 1878-05-31 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1297,7 +1297,7 @@ Over worn-out hands oh, beautiful sleep
 
 ## [From _The Canton advocate._](https://chroniclingamerica.loc.gov/lccn/sn83025440/1878-06-04/ed-1/seq-2)
 
-#### 1878-06-04 &middot; Canton, D.T. [S.D.]
+#### 1878-06-04 &middot; [Canton, D.T. [S.D.]](http://dbpedia.org/resource/Canton%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1337,7 +1337,7 @@ Ovor worn-out hands—oh, beautiful sleep I
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1878-06-08/ed-1/seq-1)
 
-#### 1878-06-08 &middot; Westminster, Md.
+#### 1878-06-08 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1370,7 +1370,7 @@ Over worn-out hands—oh beautiful sleep
 
 ## [From _The daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83045610/1878-07-12/ed-1/seq-1)
 
-#### 1878-07-12 &middot; Seattle, Wash. Territory [i.e. Wash.]
+#### 1878-07-12 &middot; [Seattle, Wash. Territory [i.e. Wash.]](http://dbpedia.org/resource/Seattle)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1413,7 +1413,7 @@ bleep !
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1878-07-16/ed-1/seq-1)
 
-#### 1878-07-16 &middot; Charles Town, Va. [W. Va.]
+#### 1878-07-16 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1437,7 +1437,7 @@ Over worn-out hands?oh, beautiful sleep
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1878-07-26/ed-1/seq-4)
 
-#### 1878-07-26 &middot; Findlay, Hancock County, Ohio
+#### 1878-07-26 &middot; [Findlay, Hancock County, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1475,7 +1475,7 @@ Over worn out hands oh beautiful sleep!
 
 #### From _Queanbeyan Age (NSW : 1867 - 1904)_
 
-#### 1878-10-16 &middot; Queanbeyan, New South Wales
+#### 1878-10-16 &middot; [Queanbeyan, New South Wales](http://dbpedia.org/resource/Queanbeyan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1508,7 +1508,7 @@ oh, beautiful sleep
 
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
 
-#### 1878-10-29 &middot; Launceston, Tasmania
+#### 1878-10-29 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1540,7 +1540,7 @@ worn-out hands-ob, beautiful sleep
 
 #### From _Kapunda Herald (SA : 1878 - 1951)_
 
-#### 1878-12-10 &middot; Kapunda, South Australia
+#### 1878-12-10 &middot; [Kapunda, South Australia](http://dbpedia.org/resource/Kapunda)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1570,7 +1570,7 @@ hands—oh, beautiful sleep
 
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1879-01-31/ed-1/seq-1)
 
-#### 1879-01-31 &middot; Pascagoula, Miss.
+#### 1879-01-31 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1605,7 +1605,7 @@ Over worn-out hands oh, beautiful sleep
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1879-08-14/ed-1/seq-4)
 
-#### 1879-08-14 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1879-08-14 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1638,7 +1638,7 @@ Ove.- worn-out hands oh. beautiful sleep I
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1879-08-18/ed-1/seq-1)
 
-#### 1879-08-18 &middot; Barton, Vt.
+#### 1879-08-18 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1669,7 +1669,7 @@ Over worn out hands oh, beautiful sleep !
 
 ## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16?page=4)
 
-#### 1880-04-17
+#### 1880-04-17 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1737,7 +1737,7 @@ Whose hidden fountains few may gress.
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1882-01-24_13_4?page=5)
 
-#### 1882-01-24 &middot; Lansing
+#### 1882-01-24 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1780,7 +1780,7 @@ Over worn-out hands—oh, beautiful sleep
 
 #### From _The news and observer._
 
-#### 1882-01-25 &middot; Raleigh, N.C.
+#### 1882-01-25 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -1790,7 +1790,7 @@ Over worn-out hands—oh, beautiful sleep
 
 #### From _The daily inter ocean._
 
-#### 1882-02-27 &middot; Chicago, Ill.
+#### 1882-02-27 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -1798,7 +1798,7 @@ Over worn-out hands—oh, beautiful sleep
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1882-03-12/ed-1/seq-3)
 
-#### 1882-03-12 &middot; Knoxville, Tenn.
+#### 1882-03-12 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1832,7 +1832,7 @@ Over worn-out hands Oh, beautiful sleep
 
 ## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1882-03-31/ed-1/seq-1)
 
-#### 1882-03-31 &middot; Rockville, Md.
+#### 1882-03-31 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1859,7 +1859,7 @@ Over worn-out hands—oh, beautiful sleep
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1882-05-13/ed-1/seq-1)
 
-#### 1882-05-13 &middot; Frostburg, Md.
+#### 1882-05-13 &middot; [Frostburg, Md.](http://dbpedia.org/resource/Frostburg%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1893,7 +1893,7 @@ Over worn out-hands—oh, beautiful sleep.
 
 ## [From _Daily Los Angeles herald._](https://chroniclingamerica.loc.gov/lccn/sn85042459/1882-05-26/ed-1/seq-4)
 
-#### 1882-05-26 &middot; Los Angeles [Calif.]
+#### 1882-05-26 &middot; [Los Angeles [Calif.]](http://dbpedia.org/resource/Los_Angeles)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1926,7 +1926,7 @@ Over worn-out hands oh, beautifui sleep
 
 ## [From _The post._](https://chroniclingamerica.loc.gov/lccn/sn84026106/1882-07-20/ed-1/seq-1)
 
-#### 1882-07-20 &middot; Middleburg, Snyder County, Pa.
+#### 1882-07-20 &middot; [Middleburg, Snyder County, Pa.](http://dbpedia.org/resource/Middleburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1964,7 +1964,7 @@ leep
 
 ## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1882-07-22/ed-1/seq-4)
 
-#### 1882-07-22 &middot; Penn's Grove, Salem Co., N.J.
+#### 1882-07-22 &middot; [Penn's Grove, Salem Co., N.J.](http://dbpedia.org/resource/Penns_Grove%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1998,7 +1998,7 @@ Over worn-out hands; oh beautiful sleep
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1882-08-17/ed-1/seq-4)
 
-#### 1882-08-17 &middot; St. Clairsville, Ohio
+#### 1882-08-17 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2035,7 +2035,7 @@ sleep. Unknown Ej
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1883-01-27/ed-1/seq-1)
 
-#### 1883-01-27 &middot; McMinnville, Tenn.
+#### 1883-01-27 &middot; [McMinnville, Tenn.](http://dbpedia.org/resource/McMinnville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2062,7 +2062,7 @@ Over worn out handsoh, beautiful sleep!
 
 ## [From _Rocky Mountain husbandman._](https://chroniclingamerica.loc.gov/lccn/sn83025309/1883-03-15/ed-1/seq-5)
 
-#### 1883-03-15 &middot; Diamond City, Mont.
+#### 1883-03-15 &middot; [Diamond City, Mont.](http://dbpedia.org/resource/Great_Falls%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2095,7 +2095,7 @@ Over worn-out hands-oh, beautiful sleep
 
 ## [From _The weekly Thibodaux sentinel and journal of the 8th Senatorial District._](https://chroniclingamerica.loc.gov/lccn/sn88064492/1883-06-30/ed-1/seq-4)
 
-#### 1883-06-30 &middot; Thibodaux, Lna. [i.e. La.]
+#### 1883-06-30 &middot; [Thibodaux, Lna. [i.e. La.]](http://dbpedia.org/resource/Thibodaux%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2129,7 +2129,7 @@ Over worn hands—O.beautiful sleep
 
 ## [From _The Frankfort roundabout._](https://chroniclingamerica.loc.gov/lccn/sn86069848/1885-01-24/ed-1/seq-2)
 
-#### 1885-01-24 &middot; Frankfort, Ky.
+#### 1885-01-24 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2150,7 +2150,7 @@ M
 
 ## [From _Essex County herald._](https://chroniclingamerica.loc.gov/lccn/sn84023416/1885-09-11/ed-1/seq-1)
 
-#### 1885-09-11 &middot; Guildhall, Vt.
+#### 1885-09-11 &middot; [Guildhall, Vt.](http://dbpedia.org/resource/Guildhall%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2183,7 +2183,7 @@ Over worn-out hands oh, beautiful sleep
 
 ## [From _The Sunday tatler and Jersey City express._](https://chroniclingamerica.loc.gov/lccn/sn88071311/1885-09-27/ed-1/seq-3)
 
-#### 1885-09-27 &middot; Jersey City, N.J.
+#### 1885-09-27 &middot; [Jersey City, N.J.](http://dbpedia.org/resource/Jersey_City%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2216,7 +2216,7 @@ Over worn-out hands—Oh, beautiful sleep
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1885-10-01/ed-1/seq-3)
 
-#### 1885-10-01 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1885-10-01 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2248,7 +2248,7 @@ Over worn-out hands—oh, beautiful sleep
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1885-10-01/ed-1/seq-3)
 
-#### 1885-10-01 &middot; Mineral Point, Wis.
+#### 1885-10-01 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2281,7 +2281,7 @@ Over worn-out hands—oh, beautiful sleep!
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1885-10-14/ed-1/seq-1)
 
-#### 1885-10-14 &middot; Tionesta, Pa.
+#### 1885-10-14 &middot; [Tionesta, Pa.](http://dbpedia.org/resource/Tionesta%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2317,7 +2317,7 @@ Over worn-out hands oh, beautiful sloop
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1885-12-26 &middot; Sydney, New South Wales
+#### 1885-12-26 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2349,7 +2349,7 @@ hands — oh, beautiful sleep. ,S. F
 
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
 
-#### 1886-01-13 &middot; Riverina Region, New South Wales
+#### 1886-01-13 &middot; [Riverina Region, New South Wales](http://dbpedia.org/resource/Hay%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2381,7 +2381,7 @@ beautiful sleep. &#x27; S.F. Weekly Bulletin
 
 #### From _Euroa Advertiser (Vic. : 1884 - 1920)_
 
-#### 1886-03-02 &middot; Euroa, Victoria
+#### 1886-03-02 &middot; [Euroa, Victoria](http://dbpedia.org/resource/Euroa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2412,7 +2412,7 @@ beautiful sleep. - r. S.F. Weekl
 
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1886-12_83_6?page=21)
 
-#### 1886-12-01 &middot; Philadelphia
+#### 1886-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2452,7 +2452,7 @@ Over worn out hands—Oh, beautiful sleep
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1888-05-21/ed-1/seq-1)
 
-#### 1888-05-21 &middot; Barton, Vt.
+#### 1888-05-21 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2484,7 +2484,7 @@ Over worn-out handsoh, fceautiful sleep !
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1888-06-22/ed-1/seq-1)
 
-#### 1888-06-22 &middot; Shepherdstown, Va. [W. Va.]
+#### 1888-06-22 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2516,7 +2516,7 @@ Over worn-out hands? oh. beautiful sleep
 
 ## [From _Good Housekeeping 1885-2015_](https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7?page=22)
 
-#### 1888-08-04
+#### 1888-08-04 &middot; [Springfield, Massachusetts](http://dbpedia.org/resource/Springfield%2C_Massachusetts)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2556,7 +2556,7 @@ Over worn-out hands,—oh, beautiful sleep
 
 ## [From _Woman's chronicle._](https://chroniclingamerica.loc.gov/lccn/sn90050094/1888-08-18/ed-1/seq-1)
 
-#### 1888-08-18 &middot; Little Rock, Ark.
+#### 1888-08-18 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2590,7 +2590,7 @@ Over worn-out hands—oh, beautiful sleep
 
 #### From _Geelong Advertiser (Vic. : 1859 - 1924)_
 
-#### 1888-12-01 &middot; Geelong, Victoria
+#### 1888-12-01 &middot; [Geelong, Victoria](http://dbpedia.org/resource/Geelong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2620,7 +2620,7 @@ beautiful sleep
 
 ## [From _Sacramento daily record-union._](https://chroniclingamerica.loc.gov/lccn/sn82014381/1889-04-20/ed-1/seq-2)
 
-#### 1889-04-20 &middot; Sacramento [Calif.]
+#### 1889-04-20 &middot; [Sacramento [Calif.]](http://dbpedia.org/resource/Sacramento%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2653,7 +2653,7 @@ Over woru nut hands—oh, beautiful sleep&#x27;
 
 ## [From _Barton County democrat._](https://chroniclingamerica.loc.gov/lccn/sn83040198/1889-09-19/ed-1/seq-10)
 
-#### 1889-09-19 &middot; Great Bend, Kan.
+#### 1889-09-19 &middot; [Great Bend, Kan.](http://dbpedia.org/resource/Great_Bend%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2673,7 +2673,7 @@ Where brown leaves fall where, drifts lie deep
 
 ## [From _Alpena weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn85033549/1891-03-04/ed-1/seq-4)
 
-#### 1891-03-04 &middot; Alpena, Mich.
+#### 1891-03-04 &middot; [Alpena, Mich.](http://dbpedia.org/resource/Alpena%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2708,7 +2708,7 @@ Over worn our hands Oh, beautiful sleep
 
 #### From _The Atchison daily globe._
 
-#### 1891-07-06 &middot; Atchison, Kan.
+#### 1891-07-06 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -2718,7 +2718,7 @@ Over worn our hands Oh, beautiful sleep
 
 #### From _The Atchison daily globe._
 
-#### 1892-12-10 &middot; Atchison, Kan.
+#### 1892-12-10 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -2726,7 +2726,7 @@ Over worn our hands Oh, beautiful sleep
 
 ## [From _Freeland tribune._](https://chroniclingamerica.loc.gov/lccn/sn87080287/1892-12-15/ed-1/seq-3)
 
-#### 1892-12-15 &middot; Freeland, Pa.
+#### 1892-12-15 &middot; [Freeland, Pa.](http://dbpedia.org/resource/Freeland%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2760,7 +2760,7 @@ Over wornout hands—oh, beautiful sleep
 
 ## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1892-12-20/ed-1/seq-1)
 
-#### 1892-12-20 &middot; Point Pleasant, Va. [W. Va.]
+#### 1892-12-20 &middot; [Point Pleasant, Va. [W. Va.]](http://dbpedia.org/resource/Point_Pleasant%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2794,7 +2794,7 @@ Over wornout hands-oh, beautiful sleep
 
 ## [From _The National tribune._](https://chroniclingamerica.loc.gov/lccn/sn82016187/1893-02-02/ed-1/seq-11)
 
-#### 1893-02-02 &middot; Washington, D.C.
+#### 1893-02-02 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2830,7 +2830,7 @@ Over worn-out hands oh. beautiful bleep
 
 #### From _The daily picayune._
 
-#### 1893-06-04 &middot; New Orleans, La.
+#### 1893-06-04 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -2838,7 +2838,7 @@ Over worn-out hands oh. beautiful bleep
 
 ## [From _The Democrat._](https://chroniclingamerica.loc.gov/lccn/sn92073907/1893-06-08/ed-1/seq-1)
 
-#### 1893-06-08 &middot; Scotland Neck, Halifax Co., N.C.
+#### 1893-06-08 &middot; [Scotland Neck, Halifax Co., N.C.](http://dbpedia.org/resource/Scotland_Neck%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2874,7 +2874,7 @@ sletp
 
 ## [From _The Goodland republic._](https://chroniclingamerica.loc.gov/lccn/sn85030821/1893-09-08/ed-1/seq-2)
 
-#### 1893-09-08 &middot; Goodland, Kan.
+#### 1893-09-08 &middot; [Goodland, Kan.](http://dbpedia.org/resource/Goodland%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2902,7 +2902,7 @@ Over worn out hands oh, beautiful sleep
 
 #### From _The St. Paul daily news._
 
-#### 1893-09-09 &middot; St. Paul, Minn.
+#### 1893-09-09 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 [This text is not available under an open license.]
 
@@ -2910,7 +2910,7 @@ Over worn out hands oh, beautiful sleep
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1893-09-23_50_38?page=15)
 
-#### 1893-09-23 &middot; Philadelphia
+#### 1893-09-23 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2936,7 +2936,7 @@ Over worn out hands—oh, beautiful sleep.
 
 ## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4?page=81)
 
-#### 1893-12-01 &middot; New York
+#### 1893-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2990,7 +2990,7 @@ Over worn-out hands—oh, beautiful sleep!
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1894-12-01_51_48?page=13)
 
-#### 1894-12-01 &middot; Philadelphia
+#### 1894-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3029,7 +3029,7 @@ Over worn-out hands —oh, beautiful sleep!
 
 ## [From _Santa Fe daily New Mexican._](https://chroniclingamerica.loc.gov/lccn/sn84020631/1894-12-10/ed-1/seq-3)
 
-#### 1894-12-10 &middot; Santa Fe, N.M.
+#### 1894-12-10 &middot; [Santa Fe, N.M.](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3064,7 +3064,7 @@ Over wornout hands oh, beautiful sleep
 
 ## [From _The Goodland republic._](https://chroniclingamerica.loc.gov/lccn/sn85030821/1895-01-11/ed-1/seq-4)
 
-#### 1895-01-11 &middot; Goodland, Kan.
+#### 1895-01-11 &middot; [Goodland, Kan.](http://dbpedia.org/resource/Goodland%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3082,7 +3082,7 @@ Over worn out hands, oh beautiful sleep.
 
 ## [From _The Prince George's enquirer and southern Maryland advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060124/1895-05-17/ed-1/seq-1)
 
-#### 1895-05-17 &middot; Upper Marlborough, Md.
+#### 1895-05-17 &middot; [Upper Marlborough, Md.](http://dbpedia.org/resource/Upper_Marlboro%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3116,7 +3116,7 @@ Over worn out hands—Oh! beautiful sleep
 
 #### From _Warragul Guardian (Warragul, Vic. : 1895 - 1900)_
 
-#### 1895-08-23 &middot; Warragul, Victoria
+#### 1895-08-23 &middot; [Warragul, Victoria](http://dbpedia.org/resource/Warragul)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3136,7 +3136,7 @@ Sleep
 
 #### From _Oakleigh Leader (North Brighton, Vic. : 1888 - 1902)_
 
-#### 1895-08-24 &middot; Oakleigh, Victoria
+#### 1895-08-24 &middot; [Oakleigh, Victoria](http://dbpedia.org/resource/Oakleigh%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3157,7 +3157,7 @@ Beautiful Sleep
 
 #### From _The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)_
 
-#### 1895-08-24 &middot; Caulfield, Victoria
+#### 1895-08-24 &middot; [Caulfield, Victoria](http://dbpedia.org/resource/Caulfield%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3172,7 +3172,7 @@ Beautiful Sleep
 
 ## [From _The News-Herald._](https://chroniclingamerica.loc.gov/lccn/sn85038161/1897-07-01/ed-1/seq-3)
 
-#### 1897-07-01 &middot; Hillsboro, Highland Co., Ohio
+#### 1897-07-01 &middot; [Hillsboro, Highland Co., Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3199,7 +3199,7 @@ Over worn out lands. 0 beautiful sleep.&quot;
 
 ## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1897-08-20/ed-1/seq-1)
 
-#### 1897-08-20 &middot; Iola, Allen County, Kansas
+#### 1897-08-20 &middot; [Iola, Allen County, Kansas](http://dbpedia.org/resource/Iola%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3234,7 +3234,7 @@ Overwornout hands oh. beautiful sleep!&quot;
 
 #### From _Chronicle (Adelaide, SA : 1895 - 1954)_
 
-#### 1897-09-25 &middot; Adelaide, South Australia
+#### 1897-09-25 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3267,7 +3267,7 @@ beautiful Bleep !
 
 #### From _The Hebrew Standard of Australasia (Sydney, NSW : 1895 - 1953)_
 
-#### 1897-11-19 &middot; Sydney, New South Wales
+#### 1897-11-19 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3297,7 +3297,7 @@ worn-out hands— oh, beautiful sleep.
 
 ## [From _Farm Journal 1877-2015_](https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12?page=17)
 
-#### 1897-12-01
+#### 1897-12-01 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3318,7 +3318,7 @@ Over wornout hands—oh, beautiful sleep!
 
 #### From _Christian Observer (1840-1910)_
 
-#### 1899-08-02 &middot; Louisville
+#### 1899-08-02 &middot; [Louisville](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 [This text is not available under an open license.]
 

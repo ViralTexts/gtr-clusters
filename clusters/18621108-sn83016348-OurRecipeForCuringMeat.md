@@ -35,7 +35,7 @@ If this receipt is properly tried, it will never be abandoned. There is none tha
 
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1856-12-03/ed-1/seq-4)
 
-#### 1856-12-03 &middot; Ashland, Ashland County, Ohio
+#### 1856-12-03 &middot; [Ashland, Ashland County, Ohio](http://dbpedia.org/resource/Ashland%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -74,7 +74,7 @@ the operation, from the salt and sugar
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1856-12-06_1845?page=1)
 
-#### 1856-12-06 &middot; Philadelphia
+#### 1856-12-06 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -115,7 +115,7 @@ tion, from the salt and sugar, would surpris
 
 ## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-01-02/ed-1/seq-4)
 
-#### 1857-01-02 &middot; Brookville, Ind.
+#### 1857-01-02 &middot; [Brookville, Ind.](http://dbpedia.org/resource/Brookville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -174,7 +174,7 @@ saltpetre
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1860-12-13/ed-1/seq-4)
 
-#### 1860-12-13 &middot; Towanda, Pa.
+#### 1860-12-13 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -221,7 +221,7 @@ the surface blood, &amp;e., leaving the meat fres
 
 #### From _Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)_
 
-#### 1861-07-11 &middot; Maryborough, Queensland
+#### 1861-07-11 &middot; [Maryborough, Queensland](http://dbpedia.org/resource/Maryborough%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -250,7 +250,7 @@ clean.&#x27; Remkdv for Garget (o
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-11-08/ed-1/seq-1)
 
-#### 1862-11-08 &middot; Elkton, Md.
+#### 1862-11-08 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -289,7 +289,7 @@ surpasses it, if so good.—O&#x27;er. Telegraph
 
 ## [From _Columbia Democrat and Bloomsburg general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85025181/1862-11-22/ed-1/seq-4)
 
-#### 1862-11-22 &middot; Bloomsburg, Pa.
+#### 1862-11-22 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -328,7 +328,7 @@ Gamanloivn &#x27;Jtlegraph
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1862-11-22/ed-1/seq-3)
 
-#### 1862-11-22 &middot; Sunbury, Pa.
+#### 1862-11-22 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -359,7 +359,7 @@ it, if .,(., g.iod
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-11-22_2156?page=9)
 
-#### 1862-11-22 &middot; Philadelphia
+#### 1862-11-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -390,7 +390,7 @@ graph.
 
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1862-12-03/ed-1/seq-2)
 
-#### 1862-12-03 &middot; Keokuk, Iowa
+#### 1862-12-03 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -439,7 +439,7 @@ Telegraph.
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1862-12-03/ed-1/seq-4)
 
-#### 1862-12-03 &middot; Warren, Ohio
+#### 1862-12-03 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -465,7 +465,7 @@ egraph. -
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1862-12-05/ed-1/seq-1)
 
-#### 1862-12-05 &middot; Manitowoc, Wis.
+#### 1862-12-05 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -505,7 +505,7 @@ Tdtpraph.
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1862-12-11/ed-1/seq-4)
 
-#### 1862-12-11 &middot; Towanda, Pa.
+#### 1862-12-11 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -541,7 +541,7 @@ ses it, if so good
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1862-12-25/ed-1/seq-1)
 
-#### 1862-12-25 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1862-12-25 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -584,7 +584,7 @@ town Telegraph.
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1863-01-15/ed-1/seq-4)
 
-#### 1863-01-15 &middot; Gallipolis, Ohio
+#### 1863-01-15 &middot; [Gallipolis, Ohio](http://dbpedia.org/resource/Gallipolis%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -626,7 +626,7 @@ low Telegraph
 
 ## [From _The Cass County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85033611/1863-11-05/ed-1/seq-1)
 
-#### 1863-11-05 &middot; Dowagiac, Mich.
+#### 1863-11-05 &middot; [Dowagiac, Mich.](http://dbpedia.org/resource/Dowagiac%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -671,7 +671,7 @@ none that surpasses it, it so good
 
 ## [From _The Genesee Farmer (1845-1865)_](https://iiif.archivelab.org/iiif/sim_genesee-farmer_1863-12_24_12?page=16)
 
-#### 1863-12-01 &middot; Rochester
+#### 1863-12-01 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -705,7 +705,7 @@ surpasses it, if so good
 
 ## [From _The dollar weekly bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86069123/1863-12-10/ed-1/seq-1)
 
-#### 1863-12-10 &middot; Maysville, Ky.
+#### 1863-12-10 &middot; [Maysville, Ky.](http://dbpedia.org/resource/Maysville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -741,7 +741,7 @@ surpasses it, if so good
 
 ## [From _The Weekly Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026193/1863-12-30/ed-1/seq-4)
 
-#### 1863-12-30 &middot; Perrysburg, O. [Ohio]
+#### 1863-12-30 &middot; [Perrysburg, O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -776,7 +776,7 @@ surpasses it, if so good
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1863-12-31/ed-1/seq-1)
 
-#### 1863-12-31 &middot; Gallipolis, Ohio
+#### 1863-12-31 &middot; [Gallipolis, Ohio](http://dbpedia.org/resource/Gallipolis%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -796,7 +796,7 @@ none that surpasses, if so good
 
 ## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1?page=8)
 
-#### 1864-01-01 &middot; St. Louis, Mo.
+#### 1864-01-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -830,7 +830,7 @@ it, if so good
 
 ## [From _The southern aegis, and Harford County intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn88065733/1864-01-08/ed-1/seq-4)
 
-#### 1864-01-08 &middot; Bel Air, Md.
+#### 1864-01-08 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -872,7 +872,7 @@ surpasses if, if so good.— O&#x27;er. Telegraph
 
 #### From _Woonsocket patriot and Rhode-Island State register._
 
-#### 1864-11-24 &middot; Woonsocket, R.I.
+#### 1864-11-24 &middot; [Woonsocket, R.I.](http://dbpedia.org/resource/Woonsocket%2C_Rhode_Island)
 
 [This text is not available under an open license.]
 
@@ -880,7 +880,7 @@ surpasses if, if so good.— O&#x27;er. Telegraph
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1864-12-16/ed-1/seq-4)
 
-#### 1864-12-16 &middot; Bel Air, Md.
+#### 1864-12-16 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -912,7 +912,7 @@ Telegraph
 
 ## [From _The Cadiz sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034406/1864-12-21/ed-1/seq-1)
 
-#### 1864-12-21 &middot; Cadiz, Ohio
+#### 1864-12-21 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -944,7 +944,7 @@ graph. - &quot;1
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1864-12-29/ed-1/seq-4)
 
-#### 1864-12-29 &middot; St. Clairsville, Ohio
+#### 1864-12-29 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -977,7 +977,7 @@ mautowu Telegraph.
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-11-01_17_21?page=8)
 
-#### 1865-11-01 &middot; St. Louis, Mo.
+#### 1865-11-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1016,7 +1016,7 @@ be abandoned, @fhere is none that surpasses it,
 
 #### From _Colman's rural world._
 
-#### 1865-11-15 &middot; St. Louis, Mo.
+#### 1865-11-15 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -1026,7 +1026,7 @@ be abandoned, @fhere is none that surpasses it,
 
 #### From _Prairie farmer._
 
-#### 1865-12-02 &middot; Chicago, Ill.
+#### 1865-12-02 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Indianapolis)
 
 [This text is not available under an open license.]
 
@@ -1034,7 +1034,7 @@ be abandoned, @fhere is none that surpasses it,
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1865-12-05/ed-1/seq-1)
 
-#### 1865-12-05 &middot; Charles Town, Va. [W. Va.]
+#### 1865-12-05 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1071,7 +1071,7 @@ passes it, if so good
 
 #### From _Vermont chronicle._
 
-#### 1865-12-09 &middot; Bellows Falls, Vt.
+#### 1865-12-09 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -1079,7 +1079,7 @@ passes it, if so good
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-12-13/ed-1/seq-1)
 
-#### 1865-12-13 &middot; Portland, Me.
+#### 1865-12-13 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1114,7 +1114,7 @@ found in salt and sugar
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1865-12-21/ed-1/seq-1)
 
-#### 1865-12-21 &middot; White Cloud, Kan.
+#### 1865-12-21 &middot; [White Cloud, Kan.](http://dbpedia.org/resource/White_Cloud%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1146,7 +1146,7 @@ surpasses it, if so good
 
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1866-01-03/ed-1/seq-4)
 
-#### 1866-01-03 &middot; Hyde Park, Vt.
+#### 1866-01-03 &middot; [Hyde Park, Vt.](http://dbpedia.org/resource/Hyde_Park_(town)%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1189,7 +1189,7 @@ that surpasses it, if so good
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-01-04_34_4?page=0)
 
-#### 1866-01-04 &middot; Augusta, Maine
+#### 1866-01-04 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1214,7 +1214,7 @@ doned. There is none that surpasses it, if so good.— | the remed, be made know
 
 #### From _Vermont chronicle._
 
-#### 1866-01-06 &middot; Bellows Falls, Vt.
+#### 1866-01-06 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -1222,7 +1222,7 @@ doned. There is none that surpasses it, if so good.— | the remed, be made know
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141?page=30)
 
-#### 1866-01-20
+#### 1866-01-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1253,7 +1253,7 @@ is none that surpasses it, if so good
 
 ## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7jdf6k385r?page=0)
 
-#### 1866-11-01 &middot; Louisville, Kentucky.
+#### 1866-11-01 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1274,7 +1274,7 @@ There is none that surpasses it, if so good
 
 ## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20?page=2)
 
-#### 1866-11-10 &middot; New York
+#### 1866-11-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1311,7 +1311,7 @@ it, if any so good.
 
 ## [From _The Elk advocate._](https://chroniclingamerica.loc.gov/lccn/sn87079926/1866-11-15/ed-1/seq-3)
 
-#### 1866-11-15 &middot; Ridgway, Elk Co., Pa.
+#### 1866-11-15 &middot; [Ridgway, Elk Co., Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1350,7 +1350,7 @@ it, if any so good
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1866-11-15/ed-1/seq-1)
 
-#### 1866-11-15 &middot; Charlestown, Va. [W. Va.]
+#### 1866-11-15 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1375,7 +1375,7 @@ There is none that surpasses it, if so good
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-11-15_18_22?page=4)
 
-#### 1866-11-15 &middot; St. Louis, Mo.
+#### 1866-11-15 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1406,7 +1406,7 @@ surpasses it, if so good
 
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1866-11-21/ed-1/seq-1)
 
-#### 1866-11-21 &middot; Lewistown, Pa.
+#### 1866-11-21 &middot; [Lewistown, Pa.](http://dbpedia.org/resource/Lewistown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1463,7 +1463,7 @@ none that surpasses it, if so good
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1866-11-24/ed-1/seq-1)
 
-#### 1866-11-24 &middot; Portland, Me.
+#### 1866-11-24 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1500,7 +1500,7 @@ any so good. —Scientific American
 
 ## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1866-11-29/ed-1/seq-3)
 
-#### 1866-11-29 &middot; Dodgeville, Wis.
+#### 1866-11-29 &middot; [Dodgeville, Wis.](http://dbpedia.org/resource/Dodgeville%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1538,7 +1538,7 @@ Telegraph
 
 ## [From _Cedar Falls gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025161/1866-11-30/ed-1/seq-4)
 
-#### 1866-11-30 &middot; Cedar Falls, Iowa
+#### 1866-11-30 &middot; [Cedar Falls, Iowa](http://dbpedia.org/resource/Cedar_Falls%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1590,7 +1590,7 @@ manlouti Telegraph.
 
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn84024207/1866-12-06/ed-1/seq-1)
 
-#### 1866-12-06 &middot; Lancaster, Ohio
+#### 1866-12-06 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1623,7 +1623,7 @@ tWa JeUfra&amp;Li ..&#x27;
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-01-01_19_1?page=3)
 
-#### 1867-01-01 &middot; St. Louis, Mo.
+#### 1867-01-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1661,7 +1661,7 @@ passes it, if so good.—[ Germantown Telegraph.
 
 ## [From _The New era._](https://chroniclingamerica.loc.gov/lccn/sn84026851/1867-01-03/ed-1/seq-1)
 
-#### 1867-01-03 &middot; Martinsburg, W. Va.
+#### 1867-01-03 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1686,7 +1686,7 @@ loni d. There is none that surpasses it j
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1867-11-16/ed-1/seq-1)
 
-#### 1867-11-16 &middot; Sunbury, Pa.
+#### 1867-11-16 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1716,7 +1716,7 @@ surpasses it, if so good. Gcrmantotcn To&#x27;
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1867-11-30/ed-1/seq-2)
 
-#### 1867-11-30 &middot; Shepherdstown, Va. [W. Va.]
+#### 1867-11-30 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1748,7 +1748,7 @@ supasses it, if so good
 
 ## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1867-12-01/ed-1/seq-4)
 
-#### 1867-12-01 &middot; Nashville, Tenn.
+#### 1867-12-01 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1779,7 +1779,7 @@ bo good.
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1867-12-05/ed-1/seq-4)
 
-#### 1867-12-05 &middot; St. Clairsville, Ohio
+#### 1867-12-05 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1813,7 +1813,7 @@ Telegraph.
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1868-01_2_1?page=18)
 
-#### 1868-01-01 &middot; Boston
+#### 1868-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1842,7 +1842,7 @@ blood, &amp;c., leaving the meat fresh and clean
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1868-10-09/ed-1/seq-1)
 
-#### 1868-10-09 &middot; Staunton, Va.
+#### 1868-10-09 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1883,7 +1883,7 @@ is thrown off by the operation, from the sal
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1868-11-28/ed-1/seq-1)
 
-#### 1868-11-28 &middot; Sunbury, Pa.
+#### 1868-11-28 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1914,7 +1914,7 @@ passes it, if so good
 
 ## [From _The Ebensburg Alleghanian._](https://chroniclingamerica.loc.gov/lccn/sn85054846/1868-12-03/ed-1/seq-4)
 
-#### 1868-12-03 &middot; Ebensburg, Pa.
+#### 1868-12-03 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1949,7 +1949,7 @@ Telegraph.
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1868-12-11/ed-1/seq-3)
 
-#### 1868-12-11 &middot; Nashville, Tenn.
+#### 1868-12-11 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1983,7 +1983,7 @@ none ihat surpasses it, if so good.
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1868-12-19_2473?page=7)
 
-#### 1868-12-19 &middot; Philadelphia
+#### 1868-12-19 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2019,7 +2019,7 @@ it, if so good.— Germantown Tdegraph.
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1869-01-27/ed-1/seq-4)
 
-#### 1869-01-27 &middot; Watertown, Wis.
+#### 1869-01-27 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2050,7 +2050,7 @@ none that surpass it, if so good.-- German
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1869-02-06/ed-1/seq-1)
 
-#### 1869-02-06 &middot; Opelousas, La.
+#### 1869-02-06 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2082,7 +2082,7 @@ goqdj— &lt;3*HÄä®ß»c*.
 
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1869-04-17/ed-1/seq-4)
 
-#### 1869-04-17 &middot; Albany, Linn County, Oregon
+#### 1869-04-17 &middot; [Albany, Linn County, Oregon](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2114,7 +2114,7 @@ none that t urpasses it, if any so goo
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1869-11-04/ed-1/seq-1)
 
-#### 1869-11-04 &middot; St. Clairsville, Ohio
+#### 1869-11-04 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2149,7 +2149,7 @@ relegraph.
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1869-11-25/ed-1/seq-4)
 
-#### 1869-11-25 &middot; St. Clairsville, Ohio
+#### 1869-11-25 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2182,7 +2182,7 @@ own Teiegraph.
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1869-12-10/ed-1/seq-4)
 
-#### 1869-12-10 &middot; Alexandria, D.C.
+#### 1869-12-10 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2211,7 +2211,7 @@ if so good. — (.Wmcmtown (7‘t.) Idtgruph
 
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1870-01-28/ed-1/seq-4)
 
-#### 1870-01-28 &middot; Augusta, Me.
+#### 1870-01-28 &middot; [Augusta, Me.](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2242,7 +2242,7 @@ it, if so good
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1870-04-28/ed-1/seq-4)
 
-#### 1870-04-28 &middot; Ellsworth, Me.
+#### 1870-04-28 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2279,7 +2279,7 @@ is none that surpasses it. If auy as good.
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1870-10-29_2570?page=7)
 
-#### 1870-10-29 &middot; Philadelphia
+#### 1870-10-29 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2326,7 +2326,7 @@ graph.
 
 #### From _Bangor daily Whig & courier._
 
-#### 1870-10-31 &middot; Bangor, Me.
+#### 1870-10-31 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -2334,7 +2334,7 @@ graph.
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1870-11-03/ed-1/seq-1)
 
-#### 1870-11-03 &middot; Woodstock, Va.
+#### 1870-11-03 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2369,7 +2369,7 @@ omit boiling the pickle, and lind it to an
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45?page=0)
 
-#### 1870-11-05 &middot; Boston
+#### 1870-11-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2402,7 +2402,7 @@ dirt always to be found in salt and sugar.
 
 ## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1870-11-11/ed-1/seq-3)
 
-#### 1870-11-11 &middot; Independence, Iowa
+#### 1870-11-11 &middot; [Independence, Iowa](http://dbpedia.org/resource/Independence%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2420,7 +2420,7 @@ none that surpass it, if so good
 
 ## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1870-11-11/ed-1/seq-1)
 
-#### 1870-11-11 &middot; Paris, Me.
+#### 1870-11-11 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2456,7 +2456,7 @@ sugar.—Qtrmantousn Telegraph.
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1870-11-11/ed-1/seq-1)
 
-#### 1870-11-11 &middot; Staunton, Va.
+#### 1870-11-11 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2488,7 +2488,7 @@ surpasses it, if so good
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1870-11-17/ed-1/seq-6)
 
-#### 1870-11-17 &middot; Mineral Point, Wis.
+#### 1870-11-17 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2526,7 +2526,7 @@ surpass it, it so good
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-11-18/ed-1/seq-1)
 
-#### 1870-11-18 &middot; Columbia, Tenn.
+#### 1870-11-18 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2548,7 +2548,7 @@ uone that surpass it, if so good
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1870-11-18/ed-1/seq-4)
 
-#### 1870-11-18 &middot; Pulaski, Tenn.
+#### 1870-11-18 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2588,7 +2588,7 @@ none that surpass it, if so good
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1870-11-19_38_50?page=0)
 
-#### 1870-11-19 &middot; Augusta, Maine
+#### 1870-11-19 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2621,7 +2621,7 @@ good
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1870-11-24/ed-1/seq-1)
 
-#### 1870-11-24 &middot; White Cloud, Kan.
+#### 1870-11-24 &middot; [White Cloud, Kan.](http://dbpedia.org/resource/White_Cloud%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2659,7 +2659,7 @@ surpasses it, or is so good
 
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1870-11-24/ed-1/seq-1)
 
-#### 1870-11-24 &middot; Leonard Town, Md.
+#### 1870-11-24 &middot; [Leonard Town, Md.](http://dbpedia.org/resource/Leonardtown%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2682,7 +2682,7 @@ never he abandon-|. There is none that
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1870-11-25/ed-1/seq-1)
 
-#### 1870-11-25 &middot; Port Tobacco, Md.
+#### 1870-11-25 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2718,7 +2718,7 @@ in salt and sugar.—Germantown Teleg&#x27;h
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12?page=27)
 
-#### 1870-12-01 &middot; Boston
+#### 1870-12-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2768,7 +2768,7 @@ dirt always to be found in salt and sugar.
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1870-12-12/ed-1/seq-2)
 
-#### 1870-12-12 &middot; Paw Paw, Mich.
+#### 1870-12-12 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2805,7 +2805,7 @@ is none that surpasses it, if so good
 
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1871-01-19/ed-1/seq-4)
 
-#### 1871-01-19 &middot; Upper Sandusky, Ohio
+#### 1871-01-19 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2843,7 +2843,7 @@ so good
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1871-01-21/ed-1/seq-4)
 
-#### 1871-01-21 &middot; Auburn, Placer County, Calif.
+#### 1871-01-21 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2879,7 +2879,7 @@ good.
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1871-01-26/ed-1/seq-1)
 
-#### 1871-01-26 &middot; Millersburg, Holmes Co., O. [Ohio]
+#### 1871-01-26 &middot; [Millersburg, Holmes Co., O. [Ohio]](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2925,7 +2925,7 @@ none that surpass it, if so good
 
 #### From _Christian Advocate (1866-1905)_
 
-#### 1871-02-09 &middot; Chicago
+#### 1871-02-09 &middot; [Chicago](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -2933,7 +2933,7 @@ none that surpass it, if so good
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1871-02-25/ed-1/seq-3)
 
-#### 1871-02-25 &middot; Ottawa, Ill.
+#### 1871-02-25 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2964,7 +2964,7 @@ it so good
 
 ## [From _Oregon Republican._](https://chroniclingamerica.loc.gov/lccn/sn93051636/1871-03-04/ed-1/seq-2)
 
-#### 1871-03-04 &middot; Dallas, Or.
+#### 1871-03-04 &middot; [Dallas, Or.](http://dbpedia.org/resource/Dallas%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2997,7 +2997,7 @@ that surpass it, if so good
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409?page=22)
 
-#### 1871-03-04
+#### 1871-03-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3028,7 +3028,7 @@ if any 80 good
 
 #### From _South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)_
 
-#### 1871-06-17 &middot; Adelaide, South Australia
+#### 1871-06-17 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3063,7 +3063,7 @@ surpasses it, if theie is any as &#x27;gdod.
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1871-09-14/ed-1/seq-4)
 
-#### 1871-09-14 &middot; Ellsworth, Me.
+#### 1871-09-14 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3094,7 +3094,7 @@ surpass it. if so goo
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1871-09-14/ed-1/seq-1)
 
-#### 1871-09-14 &middot; Belfast, Me.
+#### 1871-09-14 &middot; [Belfast, Me.](http://dbpedia.org/resource/Belfast%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3116,7 +3116,7 @@ surpass it, if so goo
 
 #### From _South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)_
 
-#### 1872-03-30 &middot; Adelaide, South Australia
+#### 1872-03-30 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3150,7 +3150,7 @@ found in salt and sugar. Cleaning Ki
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1872-12-03/ed-1/seq-6)
 
-#### 1872-12-03 &middot; New Bloomfield, Pa.
+#### 1872-12-03 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3183,7 +3183,7 @@ graph
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1872-12-04/ed-1/seq-4)
 
-#### 1872-12-04 &middot; Somerset, Pa.
+#### 1872-12-04 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3225,7 +3225,7 @@ none that surpass it, if so pood
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1872-12-13/ed-1/seq-5)
 
-#### 1872-12-13 &middot; Port Tobacco, Md.
+#### 1872-12-13 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3265,7 +3265,7 @@ Telegraph- •
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1872-12-13/ed-1/seq-1)
 
-#### 1872-12-13 &middot; Staunton, Va.
+#### 1872-12-13 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3303,7 +3303,7 @@ Telegraph
 
 ## [From _The weekly Caucasian._](https://chroniclingamerica.loc.gov/lccn/sn85033995/1872-12-14/ed-1/seq-1)
 
-#### 1872-12-14 &middot; Lexington, Lafayette County, Mo.
+#### 1872-12-14 &middot; [Lexington, Lafayette County, Mo.](http://dbpedia.org/resource/Lexington%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3331,7 +3331,7 @@ there is none that surpassea it, If so good
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1872-12-19/ed-1/seq-1)
 
-#### 1872-12-19 &middot; Belfast, Me.
+#### 1872-12-19 &middot; [Belfast, Me.](http://dbpedia.org/resource/Belfast%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3368,7 +3368,7 @@ surpasses it. if so good
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1873-01-01/ed-1/seq-4)
 
-#### 1873-01-01 &middot; Montpelier, Vt.
+#### 1873-01-01 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3399,7 +3399,7 @@ There is none that surpasses it, if ever so
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1873-02-15/ed-1/seq-3)
 
-#### 1873-02-15 &middot; Opelousas, La.
+#### 1873-02-15 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3437,7 +3437,7 @@ if so good.--ernnantown Telegraph
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1873-03-13/ed-1/seq-3)
 
-#### 1873-03-13 &middot; Plymouth, Ind.
+#### 1873-03-13 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3471,7 +3471,7 @@ surpasses it, if as good
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1873-03-20/ed-1/seq-4)
 
-#### 1873-03-20 &middot; Millersburg, Holmes Co., O. [Ohio]
+#### 1873-03-20 &middot; [Millersburg, Holmes Co., O. [Ohio]](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3509,7 +3509,7 @@ is none that surpasses it if as good
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1873-11-06/ed-1/seq-1)
 
-#### 1873-11-06 &middot; Woodstock, Va.
+#### 1873-11-06 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3534,7 +3534,7 @@ that surpasses it, if so good
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1873-12-04/ed-1/seq-4)
 
-#### 1873-12-04 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1873-12-04 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3573,7 +3573,7 @@ There is none that surpasses it, if so good
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1873-12-05/ed-1/seq-4)
 
-#### 1873-12-05 &middot; Columbia, Tenn.
+#### 1873-12-05 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3598,7 +3598,7 @@ is none that surpasses it, if so good
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1873-12-25/ed-1/seq-1)
 
-#### 1873-12-25 &middot; Redwood Falls, Minn.
+#### 1873-12-25 &middot; [Redwood Falls, Minn.](http://dbpedia.org/resource/Redwood_Falls%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3623,7 +3623,7 @@ that surpasses it if so good
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1873-12-25/ed-1/seq-2)
 
-#### 1873-12-25 &middot; Redwood Falls, Minn.
+#### 1873-12-25 &middot; [Redwood Falls, Minn.](http://dbpedia.org/resource/Redwood_Falls%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3664,7 +3664,7 @@ that surpasses it if so good
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1874-01-07/ed-1/seq-7)
 
-#### 1874-01-07 &middot; Watertown, Wis.
+#### 1874-01-07 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3690,7 +3690,7 @@ good
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1874-10-31/ed-1/seq-4)
 
-#### 1874-10-31 &middot; Elkton, Md.
+#### 1874-10-31 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3730,7 +3730,7 @@ quire only a single trial to prove it
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1874-11-28/ed-1/seq-2)
 
-#### 1874-11-28 &middot; Shepherdstown, Va. [W. Va.]
+#### 1874-11-28 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3768,7 +3768,7 @@ trial to prove its superiority over th
 
 ## [From _The Weekly Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn84027329/1874-12-17/ed-1/seq-4)
 
-#### 1874-12-17 &middot; Oskaloosa, Iowa
+#### 1874-12-17 &middot; [Oskaloosa, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3795,7 +3795,7 @@ followed, it will require only a single tria
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1875-11-04/ed-1/seq-4)
 
-#### 1875-11-04 &middot; Ellsworth, Me.
+#### 1875-11-04 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3819,7 +3819,7 @@ is none that surpasses it, if »o good
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1876-12-07/ed-1/seq-3)
 
-#### 1876-12-07 &middot; Redwood Falls, Minn.
+#### 1876-12-07 &middot; [Redwood Falls, Minn.](http://dbpedia.org/resource/Redwood_Falls%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3855,7 +3855,7 @@ followed, it will require only a single tria
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1877-02-05/ed-1/seq-4)
 
-#### 1877-02-05 &middot; Portland, Me.
+#### 1877-02-05 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3903,7 +3903,7 @@ salt and sugar.—Germantown Telegraph
 
 #### From _Inter ocean._
 
-#### 1877-11-24 &middot; Chicago, Ill.
+#### 1877-11-24 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -3911,7 +3911,7 @@ salt and sugar.—Germantown Telegraph
 
 ## [From _The Troy herald._](https://chroniclingamerica.loc.gov/lccn/sn86063984/1878-05-08/ed-1/seq-6)
 
-#### 1878-05-08 &middot; Troy, Mo.
+#### 1878-05-08 &middot; [Troy, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3948,7 +3948,7 @@ trial to prove its superiority over th
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1878-10-31/ed-1/seq-4)
 
-#### 1878-10-31 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1878-10-31 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3994,7 +3994,7 @@ quire only a single trial to prove it
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1878-12-12/ed-1/seq-1)
 
-#### 1878-12-12 &middot; Redwood Falls, Minn.
+#### 1878-12-12 &middot; [Redwood Falls, Minn.](http://dbpedia.org/resource/Redwood_Falls%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4035,7 +4035,7 @@ prove its superiority over the com
 
 ## [From _The Florida agriculturist._](https://chroniclingamerica.loc.gov/lccn/sn96027724/1878-12-25/ed-1/seq-6)
 
-#### 1878-12-25 &middot; DeLand, Fla.
+#### 1878-12-25 &middot; [DeLand, Fla.](http://dbpedia.org/resource/Jacksonville%2C_Florida)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4089,7 +4089,7 @@ Some omit boiling the pickle and fin
 
 ## [From _Farm Journal 1877-2015_](https://iiif.archivelab.org/iiif/sim_farm-journal_1879-12_4_3?page=1)
 
-#### 1879-12-01
+#### 1879-12-01 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4116,7 +4116,7 @@ require only a single trial to prove its superiorit
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-12-11/ed-1/seq-1)
 
-#### 1879-12-11 &middot; Yorkville, S.C.
+#### 1879-12-11 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4142,7 +4142,7 @@ lowed, it will require only a single trial t
 
 ## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1880-05-26/ed-1/seq-4)
 
-#### 1880-05-26 &middot; Alexandria, La.
+#### 1880-05-26 &middot; [Alexandria, La.](http://dbpedia.org/resource/Alexandria%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4182,7 +4182,7 @@ trial to prove its superiority over th
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1881-01-27/ed-1/seq-4)
 
-#### 1881-01-27 &middot; Bridgeton, N.J.
+#### 1881-01-27 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4211,7 +4211,7 @@ only a single trial to prove its superiorit
 
 #### From _Shaker Manifesto (1878-1883)_
 
-#### 1881-02-01 &middot; Shakers
+#### 1881-02-01 &middot; [Shakers](http://dbpedia.org/resource/New_Lebanon%2C_New_York)
 
 [This text is not available under an open license.]
 
@@ -4219,7 +4219,7 @@ only a single trial to prove its superiorit
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2?page=23)
 
-#### 1881-02-01
+#### 1881-02-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4256,7 +4256,7 @@ followed it will require only a single trial t
 
 ## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1881-11-17/ed-1/seq-2)
 
-#### 1881-11-17 &middot; Chase, Mich.
+#### 1881-11-17 &middot; [Chase, Mich.](http://dbpedia.org/resource/Baldwin%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4293,7 +4293,7 @@ trial to prove its superiority over th
 
 ## [From _Lancaster daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83032300/1882-11-16/ed-1/seq-4)
 
-#### 1882-11-16 &middot; Lancaster, Pa.
+#### 1882-11-16 &middot; [Lancaster, Pa.](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4321,7 +4321,7 @@ nrove its suDcrioritv over the common wa
 
 ## [From _The herald._](https://chroniclingamerica.loc.gov/lccn/sn00065152/1884-01-04/ed-1/seq-1)
 
-#### 1884-01-04 &middot; Big Stone City, Dak. [S.D.]
+#### 1884-01-04 &middot; [Big Stone City, Dak. [S.D.]](http://dbpedia.org/resource/Big_Stone_City%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4362,7 +4362,7 @@ quire only a single trial to prove it
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1884-11-20/ed-1/seq-4)
 
-#### 1884-11-20 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1884-11-20 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

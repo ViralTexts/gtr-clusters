@@ -42,7 +42,7 @@ The Tomato is a fruit very easily raised. If the seed be sown in May, in good ri
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1834-08-22_14_54?page=3)
 
-#### 1834-08-22 &middot; Boston [Mass.]
+#### 1834-08-22 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -96,7 +96,7 @@ Expenses or Wars.—Since the year 100
 
 ## [From _The Cultivator._](https://iiif.archivelab.org/iiif/sim_cultivator_1835-03_1?page=93)
 
-#### 1835-03-01 &middot; Albany
+#### 1835-03-01 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -138,7 +138,7 @@ a grateful vegetable, and salutary to health, in the summer months
 
 #### From _Atkinson's Saturday Evening Post (1831-1839)_
 
-#### 1835-08-08 &middot; Philadelphia
+#### 1835-08-08 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -148,7 +148,7 @@ a grateful vegetable, and salutary to health, in the summer months
 
 #### From _United States' telegraph._
 
-#### 1835-08-12 &middot; Washington City [D.C.]
+#### 1835-08-12 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -158,7 +158,7 @@ a grateful vegetable, and salutary to health, in the summer months
 
 #### From _Western Christian Advocate (1834-1883)_
 
-#### 1835-08-21 &middot; Cincinnati
+#### 1835-08-21 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 [This text is not available under an open license.]
 
@@ -166,7 +166,7 @@ a grateful vegetable, and salutary to health, in the summer months
 
 ## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1835-08-21/ed-1/seq-1)
 
-#### 1835-08-21 &middot; Hillsborough, N.C.
+#### 1835-08-21 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -209,7 +209,7 @@ of the Materia Alunentnria
 
 ## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1835-08-21_3_29?page=2)
 
-#### 1835-08-21 &middot; Winthrop, Me.
+#### 1835-08-21 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -259,7 +259,7 @@ article of the Materia Alimentaria, &amp;c. &amp;ce,
 
 #### From _Cleveland Daily Herald_
 
-#### 1835-08-22 &middot; Cleveland, Ohio
+#### 1835-08-22 &middot; [Cleveland, Ohio](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -269,7 +269,7 @@ article of the Materia Alimentaria, &amp;c. &amp;ce,
 
 #### From _Cleveland Daily Herald_
 
-#### 1835-08-22 &middot; Cleveland, Ohio
+#### 1835-08-22 &middot; [Cleveland, Ohio](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -279,7 +279,7 @@ article of the Materia Alimentaria, &amp;c. &amp;ce,
 
 #### From _Christian register and Boston observer._
 
-#### 1835-08-22 &middot; Boston [Mass.]
+#### 1835-08-22 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -287,7 +287,7 @@ article of the Materia Alimentaria, &amp;c. &amp;ce,
 
 ## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7k6d5p940c?page=0)
 
-#### 1835-08-22 &middot; [Lexington, Ky.]
+#### 1835-08-22 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -328,7 +328,7 @@ Now if these jiositions he true, it is o
 
 #### From _Commercial bulletin and Missouri literary register._
 
-#### 1835-08-26 &middot; St. Louis [Mo.]
+#### 1835-08-26 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -336,7 +336,7 @@ Now if these jiositions he true, it is o
 
 ## [From _Lynchburg Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024649/1835-08-27/ed-1/seq-4)
 
-#### 1835-08-27 &middot; Lynchburg [Va.]
+#### 1835-08-27 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -374,7 +374,7 @@ article of the Materia \limentaria, Ar
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1835-08-27/ed-1/seq-1)
 
-#### 1835-08-27 &middot; Martinsburg, Va. [W. Va.]
+#### 1835-08-27 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -416,7 +416,7 @@ mentaria, &amp;c
 
 ## [From _The farmer & gardener._](https://iiif.archivelab.org/iiif/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18?page=5)
 
-#### 1835-09-01 &middot; Baltimore [Md.]
+#### 1835-09-01 &middot; [Baltimore [Md.]](http://dbpedia.org/resource/Baltimore)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -452,7 +452,7 @@ of the Materia Alimentaria, &amp;e.—[M. Y. Times
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-09-02_14_8?page=5)
 
-#### 1835-09-02 &middot; Boston
+#### 1835-09-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -489,7 +489,7 @@ taria, &amp;c.
 
 ## [From _The Arkansas advocate._](https://chroniclingamerica.loc.gov/lccn/sn87062070/1835-09-04/ed-1/seq-1)
 
-#### 1835-09-04 &middot; Little Rock, A.T. [Ark.]
+#### 1835-09-04 &middot; [Little Rock, A.T. [Ark.]](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -535,7 +535,7 @@ I Materia Alimentaria, &amp;c.
 
 #### From _New-York spectator._
 
-#### 1835-09-10 &middot; New-York [N.Y.]
+#### 1835-09-10 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -545,7 +545,7 @@ I Materia Alimentaria, &amp;c.
 
 #### From _Christian Advocate and Journal (1833-1865)_
 
-#### 1835-09-11 &middot; Chicago
+#### 1835-09-11 &middot; [Chicago](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -553,7 +553,7 @@ I Materia Alimentaria, &amp;c.
 
 ## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1835-09-19_5_38?page=7)
 
-#### 1835-09-19 &middot; Rochester
+#### 1835-09-19 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -603,7 +603,7 @@ healthy article of the materia alimentaria, &amp;c.
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1835-09-24/ed-1/seq-2)
 
-#### 1835-09-24 &middot; Litchfield, Conn.
+#### 1835-09-24 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -643,7 +643,7 @@ Materia Alimcutaria, Sic
 
 #### From _Atkinson's Saturday Evening Post (1831-1839)_
 
-#### 1835-09-26 &middot; Philadelphia
+#### 1835-09-26 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -653,7 +653,7 @@ Materia Alimcutaria, Sic
 
 #### From _Atkinson's Saturday Evening Post (1831-1839)_
 
-#### 1835-09-26 &middot; Philadelphia
+#### 1835-09-26 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -663,7 +663,7 @@ Materia Alimcutaria, Sic
 
 #### From _Arkansas gazette._
 
-#### 1835-09-29 &middot; Little Rock, Ark.
+#### 1835-09-29 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -671,7 +671,7 @@ Materia Alimcutaria, Sic
 
 ## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1835-10_8_10?page=62)
 
-#### 1835-10-01 &middot; Charleston
+#### 1835-10-01 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -707,7 +707,7 @@ the materia alimentaria, &amp;c.
 
 ## [From _Tennessee Farmer (1834-1839)_](https://iiif.archivelab.org/iiif/sim_tennessee-farmer-containing-original-and-selected-essays_1835-10_1_11?page=11)
 
-#### 1835-10-01 &middot; Jonesborough
+#### 1835-10-01 &middot; [Jonesborough](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -751,7 +751,7 @@ article af the Materia Alimentaria, §c. &quot;
 
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1835-10-09_16_41?page=3)
 
-#### 1835-10-09 &middot; Boston
+#### 1835-10-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -787,7 +787,7 @@ indigestion.
 
 #### From _Columbia telescope._
 
-#### 1835-10-24 &middot; Columbia, S.C.
+#### 1835-10-24 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -795,7 +795,7 @@ indigestion.
 
 ## [From _Farmer's Register; A Monthly Publication (1833-1843)_](https://iiif.archivelab.org/iiif/sim_farmers-register-a-monthly-publication_1835-11_3_7?page=9)
 
-#### 1835-11-01 &middot; Shellbanks
+#### 1835-11-01 &middot; [Shellbanks](http://dbpedia.org/resource/Petersburg%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -834,7 +834,7 @@ article of the Materia Alimentaria, &amp;c
 
 ## [From _Mechanics' Magazine, and Journal of the Mechanics' Institute (1833-1837)_](https://iiif.archivelab.org/iiif/sim_mechanics-magazine_1835-12_6_6?page=37)
 
-#### 1835-12-01 &middot; New York
+#### 1835-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -889,7 +889,7 @@ Now if these positions be true, it is o
 
 ## [From _New York Farmer (1828-1837)_](https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12?page=112)
 
-#### 1835-12-01 &middot; New York
+#### 1835-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -933,7 +933,7 @@ articles of the Materia Alimentaria, etc. etc.
 
 ## [From _New York Farmer (1828-1837)_](https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12?page=113)
 
-#### 1835-12-01 &middot; New York
+#### 1835-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -952,7 +952,7 @@ long to the vegetable kingdom.
 
 #### From _The Ohio observer._
 
-#### 1836-11-03 &middot; Hudson [Ohio]
+#### 1836-11-03 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -960,7 +960,7 @@ long to the vegetable kingdom.
 
 ## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1836-12-17_6_51?page=1)
 
-#### 1836-12-17 &middot; Rochester
+#### 1836-12-17 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -977,7 +977,7 @@ esculents that belong te the vegetable kingdom.”
 
 ## [From _Horticultural Register, and Gardener's Magazine (1835-1838)_](https://iiif.archivelab.org/iiif/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3?page=37)
 
-#### 1837-03-01 &middot; Boston
+#### 1837-03-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -994,7 +994,7 @@ lents that belong to the vegetable kingdom.”
 
 ## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1837-04_10_4?page=21)
 
-#### 1837-04-01 &middot; Charleston
+#### 1837-04-01 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1019,7 +1019,7 @@ getable kingdom.”
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42?page=0)
 
-#### 1837-04-26 &middot; Boston
+#### 1837-04-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1036,7 +1036,7 @@ that belorg to the vegetable kingdom.”
 
 ## [From _The Cultivator._](https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4?page=1)
 
-#### 1837-06-01 &middot; Albany
+#### 1837-06-01 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1052,7 +1052,7 @@ vey reproach, and are classed by moralists among the vices of humanity.) wholeso
 
 ## [From _The Cultivator._](https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4?page=1)
 
-#### 1837-06-01 &middot; Albany
+#### 1837-06-01 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1078,7 +1078,7 @@ fit of coughing. It was used in a dried state, with a little sugar mixed|| quiri
 
 #### From _Vermont chronicle._
 
-#### 1837-07-06 &middot; Bellows Falls, Vt.
+#### 1837-07-06 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -1088,7 +1088,7 @@ fit of coughing. It was used in a dried state, with a little sugar mixed|| quiri
 
 #### From _Vermont chronicle._
 
-#### 1837-07-06 &middot; Bellows Falls, Vt.
+#### 1837-07-06 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -1096,7 +1096,7 @@ fit of coughing. It was used in a dried state, with a little sugar mixed|| quiri
 
 ## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22?page=3)
 
-#### 1837-07-14 &middot; New Richmond, Ohio
+#### 1837-07-14 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1124,7 +1124,7 @@ the primary cause of which, in one. case, was supposed to
 
 ## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22?page=3)
 
-#### 1837-07-14 &middot; New Richmond, Ohio
+#### 1837-07-14 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1147,7 +1147,7 @@ and sometimes effectually checks, a fit of thaghime I
 
 ## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22?page=3)
 
-#### 1837-07-14 &middot; New Richmond, Ohio
+#### 1837-07-14 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1164,7 +1164,7 @@ belong to the vegetable kingdom.” — Cultivator.
 
 ## [From _Constantine republican._](https://chroniclingamerica.loc.gov/lccn/sn83016620/1837-07-19/ed-1/seq-1)
 
-#### 1837-07-19 &middot; Constantine, Mich.
+#### 1837-07-19 &middot; [Constantine, Mich.](http://dbpedia.org/resource/Constantine%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1192,7 +1192,7 @@ would provo a complete anuuoio to uniou
 
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1837-07-20/ed-1/seq-1)
 
-#### 1837-07-20 &middot; Staunton, Va.
+#### 1837-07-20 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1225,7 +1225,7 @@ getable kingdom.’*
 
 ## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1837-07-22/ed-1/seq-3)
 
-#### 1837-07-22 &middot; Columbus, Miss.
+#### 1837-07-22 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1250,7 +1250,7 @@ culents that belong to the vegetable kingdom.&quot;
 
 ## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1837-07-22/ed-1/seq-3)
 
-#### 1837-07-22 &middot; Columbus, Miss.
+#### 1837-07-22 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1288,7 +1288,7 @@ oe fined, which ii our practice, und may be n
 
 ## [From _Maumee express._](https://chroniclingamerica.loc.gov/lccn/sn85026142/1837-07-29/ed-1/seq-3)
 
-#### 1837-07-29 &middot; Maumee City, Ohio
+#### 1837-07-29 &middot; [Maumee City, Ohio](http://dbpedia.org/resource/Maumee%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1312,7 +1312,7 @@ n fit of coughing. It.was used in a dr
 
 ## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10?page=8)
 
-#### 1837-08-05 &middot; New Haven
+#### 1837-08-05 &middot; [New Haven](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1330,7 +1330,7 @@ that belong to the vegetable hingdom.&quot;—Cudtirato:.
 
 ## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10?page=8)
 
-#### 1837-08-05 &middot; New Haven
+#### 1837-08-05 &middot; [New Haven](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1353,7 +1353,7 @@ case, was supposed to be diseased liver—in another dis- that river, that the w
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5?page=2)
 
-#### 1837-08-09 &middot; Boston
+#### 1837-08-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1374,7 +1374,7 @@ July, August and September, it would prove
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5?page=2)
 
-#### 1837-08-09 &middot; Boston
+#### 1837-08-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1399,7 +1399,7 @@ lents that belong to the vegetable kingdom.”
 
 ## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt76m901zv8k?page=1)
 
-#### 1837-08-10 &middot; [Lexington, Ky.]
+#### 1837-08-10 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1453,7 +1453,7 @@ toes nro scalded in hot water, to facilitate th
 
 ## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-08-19/ed-1/seq-2)
 
-#### 1837-08-19 &middot; Richmond, Ind.
+#### 1837-08-19 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1476,7 +1476,7 @@ is. That a chemical extract will orobablv soo
 
 ## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-08-19/ed-1/seq-2)
 
-#### 1837-08-19 &middot; Richmond, Ind.
+#### 1837-08-19 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1499,7 +1499,7 @@ the mm T rmU, i , mu tf dijutaaa. iLdebU U t&#x27;--m r aonawir with a horse-
 
 ## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1837-08-19/ed-1/seq-2)
 
-#### 1837-08-19 &middot; Richmond, Ind.
+#### 1837-08-19 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1548,7 +1548,7 @@ nealtuv article ol the Materia Aiimentaria.
 
 #### From _Maryland gazette._
 
-#### 1837-08-31 &middot; Annapolis, Md.
+#### 1837-08-31 &middot; [Annapolis, Md.](http://dbpedia.org/resource/Annapolis%2C_Maryland)
 
 [This text is not available under an open license.]
 
@@ -1556,7 +1556,7 @@ nealtuv article ol the Materia Aiimentaria.
 
 ## [From _Boston recorder._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35?page=3)
 
-#### 1837-09-01 &middot; Boston [Mass.]
+#### 1837-09-01 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1589,7 +1589,7 @@ should be started with us in a hot hed; though
 
 ## [From _Boston recorder._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35?page=3)
 
-#### 1837-09-01 &middot; Boston [Mass.]
+#### 1837-09-01 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1621,7 +1621,7 @@ kingdom.” —Cultivater.
 
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36?page=3)
 
-#### 1837-09-08 &middot; Boston
+#### 1837-09-08 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1649,7 +1649,7 @@ sometimes effectually checks, a fit of coughing
 
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36?page=3)
 
-#### 1837-09-08 &middot; Boston
+#### 1837-09-08 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1682,7 +1682,7 @@ kingdom.”—Culltivator.
 
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1837-09-28/ed-1/seq-1)
 
-#### 1837-09-28 &middot; Staunton, Va.
+#### 1837-09-28 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1726,7 +1726,7 @@ teria Alimeutarsa
 
 ## [From _Boston recorder._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-10-13_22_41?page=3)
 
-#### 1837-10-13 &middot; Boston [Mass.]
+#### 1837-10-13 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1754,7 +1754,7 @@ fit of coughing
 
 ## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7d251fjt2w?page=1)
 
-#### 1838-06-28 &middot; [Lexington, Ky.]
+#### 1838-06-28 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1795,7 +1795,7 @@ the Materia Alimentnria.
 
 ## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7d251fjt2w?page=1)
 
-#### 1838-06-28 &middot; [Lexington, Ky.]
+#### 1838-06-28 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1820,7 +1820,7 @@ by the profession;
 
 #### From _Pennsylvania inquirer and daily courier._
 
-#### 1838-07-09 &middot; Philadelphia, Pa.
+#### 1838-07-09 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -1828,7 +1828,7 @@ by the profession;
 
 ## [From _Richmond Indiana palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058213/1838-07-21/ed-1/seq-3)
 
-#### 1838-07-21 &middot; Richmond, Ind.
+#### 1838-07-21 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1850,7 +1850,7 @@ gent, known by the profession. Baltimore Tran
 
 #### From _Fayetteville observer._
 
-#### 1838-07-25 &middot; Fayetteville, N.C.
+#### 1838-07-25 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -1860,7 +1860,7 @@ gent, known by the profession. Baltimore Tran
 
 #### From _Daily commercial bulletin._
 
-#### 1838-07-26 &middot; St. Louis [Mo.]
+#### 1838-07-26 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -1868,7 +1868,7 @@ gent, known by the profession. Baltimore Tran
 
 ## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1838-07-31_6_25?page=0)
 
-#### 1838-07-31 &middot; Winthrop, Me.
+#### 1838-07-31 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1891,7 +1891,7 @@ people ; and perhaps it is on this account that it i
 
 ## [From _Zion's Herald (1823-1841)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1838-09-12_9_37?page=0)
 
-#### 1838-09-12 &middot; Boston
+#### 1838-09-12 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1933,7 +1933,7 @@ teria Alimentaria.
 
 ## [From _The Graham Journal of Health and Longevity. Devoted to the Practical Illustration of the Science of Human Life, as Taught by Sylvester Graham and Others (1837-1839)_](https://iiif.archivelab.org/iiif/sim_graham-journal-of-health-and-longevity_1838-09-15_2_19?page=13)
 
-#### 1838-09-15 &middot; New York
+#### 1838-09-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1970,7 +1970,7 @@ healthy article of the Materia Alimeotaria.
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1838-10-10_17_14?page=5)
 
-#### 1838-10-10 &middot; Boston
+#### 1838-10-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1986,7 +1986,7 @@ valuable esculents that belong to the vegetable kingdom.’
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34?page=1)
 
-#### 1839-05-25 &middot; Philadelphia
+#### 1839-05-25 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2006,7 +2006,7 @@ cated, it is probably the most effective, and
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34?page=1)
 
-#### 1839-05-25 &middot; Philadelphia
+#### 1839-05-25 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2050,7 +2050,7 @@ Now, if these positions be true, it is of th
 
 #### From _The Cleveland observer._
 
-#### 1839-05-29 &middot; Cleveland [Ohio]
+#### 1839-05-29 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -2058,7 +2058,7 @@ Now, if these positions be true, it is of th
 
 ## [From _The native American._](https://chroniclingamerica.loc.gov/lccn/sn86053569/1839-06-29/ed-1/seq-2)
 
-#### 1839-06-29 &middot; Washington City [i.e. Washington, D.C.]
+#### 1839-06-29 &middot; [Washington City [i.e. Washington, D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2100,7 +2100,7 @@ Now, if these positions be true, it is of th
 
 #### From _New-Hampshire statesman and state journal._
 
-#### 1839-08-10 &middot; Concord [N.H.]
+#### 1839-08-10 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -2108,7 +2108,7 @@ Now, if these positions be true, it is of th
 
 ## [From _American Masonic Register and Literary Companion (1839-1847)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-08-15_1_50?page=2)
 
-#### 1840-08-15 &middot; Albany
+#### 1840-08-15 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2132,7 +2132,7 @@ checks, a fit of coughing. It was used ina drie
 
 #### From _Boston courier._
 
-#### 1840-09-03 &middot; [Boston, Mass.]
+#### 1840-09-03 &middot; [[Boston, Mass.]](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -2142,7 +2142,7 @@ checks, a fit of coughing. It was used ina drie
 
 #### From _Ohio observer._
 
-#### 1840-10-15 &middot; Hudson [Ohio]
+#### 1840-10-15 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -2152,7 +2152,7 @@ checks, a fit of coughing. It was used ina drie
 
 #### From _Dover gazette & Strafford advertiser._
 
-#### 1840-12-29 &middot; Dover, N.H.
+#### 1840-12-29 &middot; [Dover, N.H.](http://dbpedia.org/resource/Dover%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -2162,7 +2162,7 @@ checks, a fit of coughing. It was used ina drie
 
 #### From _Cleveland daily herald._
 
-#### 1841-09-13 &middot; Cleveland [Ohio]
+#### 1841-09-13 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -2170,7 +2170,7 @@ checks, a fit of coughing. It was used ina drie
 
 ## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39?page=2)
 
-#### 1841-09-25 &middot; Boston [Mass.]
+#### 1841-09-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2196,7 +2196,7 @@ harmful remedial agent known to the profession.
 
 ## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39?page=2)
 
-#### 1841-09-25 &middot; Boston [Mass.]
+#### 1841-09-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2229,7 +2229,7 @@ analiment; as it would in that event, save them from
 
 ## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39?page=2)
 
-#### 1841-09-25 &middot; Boston [Mass.]
+#### 1841-09-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2250,7 +2250,7 @@ either raw, cooked, or in the form of a catsup, with their
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13?page=3)
 
-#### 1841-09-29 &middot; Boston
+#### 1841-09-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2322,7 +2322,7 @@ checks, a fit of cough. It was used in a dry state
 
 ## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40?page=4)
 
-#### 1841-10-09 &middot; Winthrop, Me.
+#### 1841-10-09 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2366,7 +2366,7 @@ than from fever and consumption, and their conse-
 
 ## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40?page=4)
 
-#### 1841-10-09 &middot; Winthrop, Me.
+#### 1841-10-09 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2495,7 +2495,7 @@ use of it either raw, cooked, or in the } of a cet- ‘fine, sos ion Oda avec ib
 
 ## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15?page=3)
 
-#### 1841-10-13 &middot; New Richmond, Ohio
+#### 1841-10-13 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2571,7 +2571,7 @@ times effectually checks, a fitof cough. It wa
 
 ## [From _Southern Agriculturist, Horticulturist, and Register of Rural Affairs (1841-1846)_](https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6?page=52)
 
-#### 1842-06-01 &middot; Charleston
+#### 1842-06-01 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2635,7 +2635,7 @@ checks, a fit of coughing. It was used in a dry state, with a little
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1842-07-06/ed-1/seq-1)
 
-#### 1842-07-06 &middot; Edgefield, S.C.
+#### 1842-07-06 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2705,7 +2705,7 @@ times effectually cheeks, a fit of coughing
 
 #### From _Michigan Farmer (1843-1908)_
 
-#### 1843-10-10 &middot; Lansing
+#### 1843-10-10 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 [This text is not available under an open license.]
 
@@ -2713,7 +2713,7 @@ times effectually cheeks, a fit of coughing
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1843-10-15_1_17?page=5)
 
-#### 1843-10-15 &middot; Lansing
+#### 1843-10-15 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2753,7 +2753,7 @@ who has cooked tomatoes in many ways, is ex
 
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
-#### 1846-09-19 &middot; Boston
+#### 1846-09-19 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -2761,7 +2761,7 @@ who has cooked tomatoes in many ways, is ex
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1852-07-19/ed-1/seq-1)
 
-#### 1852-07-19 &middot; Richmond [Va.]
+#### 1852-07-19 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2798,7 +2798,7 @@ cation of its effects, dependent upon the s
 
 ## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1852-07-31_7_46?page=1)
 
-#### 1852-07-31 &middot; New York
+#### 1852-07-31 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2846,7 +2846,7 @@ crumbed, or a couple of crackers pulverized.
 
 ## [From _Worcester daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021205/1852-08-05/ed-1/seq-1)
 
-#### 1852-08-05 &middot; Worcester [Mass.]
+#### 1852-08-05 &middot; [Worcester [Mass.]](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2929,7 +2929,7 @@ with the dirt.
 
 ## [From _Burlington free press._](https://chroniclingamerica.loc.gov/lccn/sn84023127/1852-08-20/ed-1/seq-1)
 
-#### 1852-08-20 &middot; Burlington, Vt.
+#### 1852-08-20 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3012,7 +3012,7 @@ being injured by coming m contact with th
 
 ## [From _Wisconsin tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086768/1852-08-26/ed-1/seq-1)
 
-#### 1852-08-26 &middot; Mineral Point, Wis.
+#### 1852-08-26 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3100,7 +3100,7 @@ the fruit from being injured by coming in
 
 ## [From _The Kalida venture._](https://chroniclingamerica.loc.gov/lccn/sn85038078/1852-08-27/ed-1/seq-2)
 
-#### 1852-08-27 &middot; Kalida, Ohio
+#### 1852-08-27 &middot; [Kalida, Ohio](http://dbpedia.org/resource/Kalida%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3131,7 +3131,7 @@ fectually checks a fit of coughing,
 
 #### From _New Hampshire statesman._
 
-#### 1852-08-28 &middot; Concord [N.H.]
+#### 1852-08-28 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -3139,7 +3139,7 @@ fectually checks a fit of coughing,
 
 ## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1852-08-28_3_9?page=14)
 
-#### 1852-08-28 &middot; Boston
+#### 1852-08-28 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3158,7 +3158,7 @@ Just at this season this piece of information i
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36?page=0)
 
-#### 1852-09-02 &middot; Augusta, Maine
+#### 1852-09-02 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3191,7 +3191,7 @@ in the profession,
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36?page=0)
 
-#### 1852-09-02 &middot; Augusta, Maine
+#### 1852-09-02 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3277,7 +3277,7 @@ coming in contact with the dirt,
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1852-09-08/ed-1/seq-4)
 
-#### 1852-09-08 &middot; Woodsfield, Ohio
+#### 1852-09-08 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3371,7 +3371,7 @@ ing in contact wun tne out
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1852-09-16/ed-1/seq-4)
 
-#### 1852-09-16 &middot; Montpelier, Vt.
+#### 1852-09-16 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3478,7 +3478,7 @@ coming in contact with the dirt
 
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-09-23/ed-1/seq-1)
 
-#### 1852-09-23 &middot; Montpelier, Vt.
+#### 1852-09-23 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3563,7 +3563,7 @@ lettuce, endive, celery, radishes, an
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1852-09-29/ed-1/seq-1)
 
-#### 1852-09-29 &middot; Grand Haven, Mich.
+#### 1852-09-29 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3581,7 +3581,7 @@ ng to the vegetable kingdom. Prof. Rafines
 
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1852-10-01/ed-1/seq-4)
 
-#### 1852-10-01 &middot; Lewistown, Pa.
+#### 1852-10-01 &middot; [Lewistown, Pa.](http://dbpedia.org/resource/Lewistown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3665,7 +3665,7 @@ led, o. a couple of crackers pulverized
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021169/1852-10-07/ed-1/seq-1)
 
-#### 1852-10-07 &middot; Newport, R.I.
+#### 1852-10-07 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3773,7 +3773,7 @@ in contiret with the dirt.
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1852-11_10_11?page=24)
 
-#### 1852-11-01 &middot; Lansing
+#### 1852-11-01 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3872,7 +3872,7 @@ jured in coming in contact with the dirt.— Maine Far
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1853-09_5_9?page=5)
 
-#### 1853-09-01 &middot; Boston
+#### 1853-09-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3904,7 +3904,7 @@ report states that it grows well in almost every \cure of diseases. When used as
 
 ## [From _Windham County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022807/1853-10-12/ed-1/seq-4)
 
-#### 1853-10-12 &middot; Brattleboro, Vt.
+#### 1853-10-12 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3924,7 +3924,7 @@ extensively cultivated in this country. It is on
 
 ## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8?page=30)
 
-#### 1854-08-01 &middot; St. Louis, Mo.
+#### 1854-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3953,7 +3953,7 @@ er t when used aw an article of diet, it that I am unable to give you any satisf
 
 ## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8?page=30)
 
-#### 1854-08-01 &middot; St. Louis, Mo.
+#### 1854-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3995,7 +3995,7 @@ mitientes and sdmetimes effectually checks &amp;lacquires a brittle hardness nor
 
 ## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8?page=30)
 
-#### 1854-08-01 &middot; St. Louis, Mo.
+#### 1854-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4014,7 +4014,7 @@ stove or fire without water, Stew them elow- blended with it. and sometimes the 
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1855-06-28/ed-1/seq-4)
 
-#### 1855-06-28 &middot; Montpelier, Vt.
+#### 1855-06-28 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4070,7 +4070,7 @@ generally cultivated and used as an article o
 
 ## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-08_7_8?page=34)
 
-#### 1855-08-01 &middot; St. Louis, Mo.
+#### 1855-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4139,7 +4139,7 @@ are becoming more fayorably every week
 
 ## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-07-03/ed-1/seq-4)
 
-#### 1857-07-03 &middot; Brookville, Ind.
+#### 1857-07-03 &middot; [Brookville, Ind.](http://dbpedia.org/resource/Brookville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4194,7 +4194,7 @@ the materia alemntaria
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1857-08-22/ed-1/seq-1)
 
-#### 1857-08-22 &middot; Ottawa, Ill.
+#### 1857-08-22 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4250,7 +4250,7 @@ materia alituenturia
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-03_25_37?page=0)
 
-#### 1857-09-03 &middot; Augusta, Maine
+#### 1857-09-03 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4310,7 +4310,7 @@ healthy article in the materia c imentaria.
 
 #### From _New Hampshire statesman._
 
-#### 1857-09-12 &middot; Concord [N.H.]
+#### 1857-09-12 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -4318,7 +4318,7 @@ healthy article in the materia c imentaria.
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1857-11-12/ed-1/seq-1)
 
-#### 1857-11-12 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1857-11-12 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4365,7 +4365,7 @@ the materia a imenearia
 
 ## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1858-03_10_3?page=25)
 
-#### 1858-03-01 &middot; St. Louis, Mo.
+#### 1858-03-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4410,7 +4410,7 @@ most healthy article in the materia a imenearia.
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1858-08-12/ed-1/seq-1)
 
-#### 1858-08-12 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1858-08-12 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4454,7 +4454,7 @@ materia inienearvj
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1858-09-01/ed-1/seq-1)
 
-#### 1858-09-01 &middot; Warren, Ohio
+#### 1858-09-01 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4496,7 +4496,7 @@ healthy article no-.v in u
 
 ## [From _American Farmer's Magazine (1858-1859)_](https://iiif.archivelab.org/iiif/sim_american-farmers-magazine_1858-09_11_9?page=46)
 
-#### 1858-09-01 &middot; Philadelphia
+#### 1858-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4542,7 +4542,7 @@ food, as it is a most healthy article,—Ze
 
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1858-09-29/ed-1/seq-4)
 
-#### 1858-09-29 &middot; Ashland, Ashland County, Ohio
+#### 1858-09-29 &middot; [Ashland, Ashland County, Ohio](http://dbpedia.org/resource/Ashland%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4588,7 +4588,7 @@ most healthy article now in use.
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1858-10-13/ed-1/seq-2)
 
-#### 1858-10-13 &middot; Raleigh, N.C.
+#### 1858-10-13 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4623,7 +4623,7 @@ with their daily food, as it is a most healthy article
 
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1858-10-13/ed-1/seq-2)
 
-#### 1858-10-13 &middot; Raleigh, N.C.
+#### 1858-10-13 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4658,7 +4658,7 @@ with their daily food, as it is a most healthy article
 
 #### From _Lowell daily citizen and news._
 
-#### 1858-10-19 &middot; Lowell, Mass.
+#### 1858-10-19 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -4668,7 +4668,7 @@ with their daily food, as it is a most healthy article
 
 #### From _Fayetteville observer._
 
-#### 1858-10-21 &middot; Fayetteville, N.C.
+#### 1858-10-21 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -4676,7 +4676,7 @@ with their daily food, as it is a most healthy article
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1858-11-09/ed-1/seq-4)
 
-#### 1858-11-09 &middot; Charlotte, N.C.
+#### 1858-11-09 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4714,7 +4714,7 @@ JncWKUrr. The jewelry boaiacsa is one of th
 
 #### From _Southern Cultivator (1843-1906)_
 
-#### 1859-01-01 &middot; Atlanta
+#### 1859-01-01 &middot; [Atlanta](http://dbpedia.org/resource/Atlanta)
 
 [This text is not available under an open license.]
 
@@ -4722,7 +4722,7 @@ JncWKUrr. The jewelry boaiacsa is one of th
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1859-01-08/ed-1/seq-4)
 
-#### 1859-01-08 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1859-01-08 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4780,7 +4780,7 @@ A schoolmaster belonging to
 
 ## [From _American union._](https://chroniclingamerica.loc.gov/lccn/sn86092124/1859-02-04/ed-1/seq-4)
 
-#### 1859-02-04 &middot; Morgantown, Va. [W. Va.]
+#### 1859-02-04 &middot; [Morgantown, Va. [W. Va.]](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4798,7 +4798,7 @@ ledge, with decided success
 
 ## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1859-04-21/ed-1/seq-1)
 
-#### 1859-04-21 &middot; St. Charles City [Charles City], Iowa
+#### 1859-04-21 &middot; [St. Charles City [Charles City], Iowa](http://dbpedia.org/resource/Charles_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4848,7 +4848,7 @@ all when the Iaires are tirst touche
 
 #### From _Semi-weekly Mississippian._
 
-#### 1859-05-20 &middot; Jackson, Miss.
+#### 1859-05-20 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -4858,7 +4858,7 @@ all when the Iaires are tirst touche
 
 #### From _The Age (Melbourne, Vic. : 1854 - 1954)_
 
-#### 1859-07-04 &middot; Melbourne, Victoria
+#### 1859-07-04 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4888,7 +4888,7 @@ is a most healthy article. Loxgeviti&#x27; i
 
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1859-07-23/ed-1/seq-1)
 
-#### 1859-07-23 &middot; Fayetteville [N.C.]
+#### 1859-07-23 &middot; [Fayetteville [N.C.]](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4924,7 +4924,7 @@ daily food ; either cooked, raw, or in the for
 
 ## [From _Daily Iowa State Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014134/1859-08-03/ed-1/seq-2)
 
-#### 1859-08-03 &middot; Davenport, Iowa
+#### 1859-08-03 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4960,7 +4960,7 @@ diarrhea with this article alone.
 
 ## [From _The Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn84026399/1859-08-04/ed-1/seq-2)
 
-#### 1859-08-04 &middot; Stroudsburg, Pa.
+#### 1859-08-04 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4995,7 +4995,7 @@ raw, or in form of catsup, it is tho mo
 
 #### From _Bangor daily Whig & courier._
 
-#### 1859-08-05 &middot; Bangor, Me.
+#### 1859-08-05 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -5003,7 +5003,7 @@ raw, or in form of catsup, it is tho mo
 
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1859-08-05/ed-1/seq-2)
 
-#### 1859-08-05 &middot; Upper Sandusky, Ohio
+#### 1859-08-05 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5027,7 +5027,7 @@ and the least harmful remedial agent
 
 ## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1859-08-09/ed-1/seq-2)
 
-#### 1859-08-09 &middot; Evansville, Ia. [i.e. Ind.]
+#### 1859-08-09 &middot; [Evansville, Ia. [i.e. Ind.]](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5048,7 +5048,7 @@ powerful aperients of the liver and othe
 
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1859-08-11/ed-1/seq-1)
 
-#### 1859-08-11 &middot; Cumberland, Md.
+#### 1859-08-11 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5082,7 +5082,7 @@ daily food ; either cooked, raw, or in the form
 
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1859-08-12/ed-1/seq-1)
 
-#### 1859-08-12 &middot; Fremont, Sandusky County [Ohio]
+#### 1859-08-12 &middot; [Fremont, Sandusky County [Ohio]](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5106,7 +5106,7 @@ powerful aperients of the liver and othe
 
 #### From _Boston investigator._
 
-#### 1859-08-17 &middot; Boston, Mass.
+#### 1859-08-17 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -5114,7 +5114,7 @@ powerful aperients of the liver and othe
 
 ## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1859-08-31/ed-1/seq-2)
 
-#### 1859-08-31 &middot; Van Buren, Ark.
+#### 1859-08-31 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5134,7 +5134,7 @@ powerful aHperients of the liver and othe
 
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1859-08-31/ed-1/seq-4)
 
-#### 1859-08-31 &middot; Ashland, Ashland County, Ohio
+#### 1859-08-31 &middot; [Ashland, Ashland County, Ohio](http://dbpedia.org/resource/Ashland%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5158,7 +5158,7 @@ erful aperients of the liver and other organs
 
 #### From _The Argus (Melbourne, Vic. : 1848 - 1957)_
 
-#### 1859-08-31 &middot; Melbourne, Victoria
+#### 1859-08-31 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5219,7 +5219,7 @@ apple saUco. &#x27;Some add a little flou
 
 #### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
 
-#### 1859-09-06 &middot; Brisbane, Queensland
+#### 1859-09-06 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5249,7 +5249,7 @@ is a most healthy article.—Ibid &amp;nbsp
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1859-09-10/ed-1/seq-1)
 
-#### 1859-09-10 &middot; Auburn, Placer County, Calif.
+#### 1859-09-10 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5281,7 +5281,7 @@ the form of catsup, it is tho most health
 
 ## [From _Sugar planter._](https://chroniclingamerica.loc.gov/lccn/sn86079096/1859-09-10/ed-1/seq-1)
 
-#### 1859-09-10 &middot; West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]
+#### 1859-09-10 &middot; [West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]](http://dbpedia.org/resource/Port_Allen%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5314,7 +5314,7 @@ with this artiIle alone. 4th. Tha
 
 #### From _The Star (Ballarat, Vic. : 1855 - 1864)_
 
-#### 1859-09-26 &middot; Ballarat, Victoria
+#### 1859-09-26 &middot; [Ballarat, Victoria](http://dbpedia.org/resource/Ballarat)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5374,7 +5374,7 @@ a little flour, and fine crumbs o
 
 #### From _Gippsland Guardian (Vic. : 1855 - 1868)_
 
-#### 1859-09-30 &middot; Gippsland, Victoria
+#### 1859-09-30 &middot; [Gippsland, Victoria](http://dbpedia.org/resource/Gippsland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5432,7 +5432,7 @@ little flour and fine crumbs , o
 
 ## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1859-10_11_10?page=25)
 
-#### 1859-10-01 &middot; St. Louis, Mo.
+#### 1859-10-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5451,7 +5451,7 @@ properties :
 
 ## [From _Arkansas true Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014282/1860-02-15/ed-1/seq-1)
 
-#### 1860-02-15 &middot; Little Rock, Ark.
+#### 1860-02-15 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5471,7 +5471,7 @@ powerful aperients of the liver and othe
 
 ## [From _The Lansing state Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016318/1861-06-12/ed-1/seq-4)
 
-#### 1861-06-12 &middot; Lansing, Mich.
+#### 1861-06-12 &middot; [Lansing, Mich.](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5507,7 +5507,7 @@ neaithy article in the materia a imeneari
 
 ## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1861-07-04/ed-1/seq-1)
 
-#### 1861-07-04 &middot; East Saginaw, Mich.
+#### 1861-07-04 &middot; [East Saginaw, Mich.](http://dbpedia.org/resource/Saginaw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5553,7 +5553,7 @@ tho inuler ii a iinontari. . &#x27; &#x27;
 
 #### From _The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)_
 
-#### 1861-08-08 &middot; Toowoomba, Queensland
+#### 1861-08-08 &middot; [Toowoomba, Queensland](http://dbpedia.org/resource/Toowoomba)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5613,7 +5613,7 @@ line orumbs of bread.— Victoria
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1861-08-31/ed-1/seq-1)
 
-#### 1861-08-31 &middot; Weaverville, Calif.
+#### 1861-08-31 &middot; [Weaverville, Calif.](http://dbpedia.org/resource/Weaverville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5643,7 +5643,7 @@ ltd. That he lias successfully treated diarrliie
 
 #### From _The Courier (Brisbane, Qld. : 1861 - 1864)_
 
-#### 1861-09-26 &middot; Brisbane, Queensland
+#### 1861-09-26 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5701,7 +5701,7 @@ a little flour and fine crumbs o
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1862-08-21_30_36?page=0)
 
-#### 1862-08-21 &middot; Augusta, Maine
+#### 1862-08-21 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5719,7 +5719,7 @@ and ascribes to it very important properties
 
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1862-09_14_9?page=16)
 
-#### 1862-09-01 &middot; Boston
+#### 1862-09-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5739,7 +5739,7 @@ important properties
 
 #### From _Vermont chronicle._
 
-#### 1862-10-07 &middot; Bellows Falls, Vt.
+#### 1862-10-07 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -5747,7 +5747,7 @@ important properties
 
 ## [From _Washington statesman._](https://chroniclingamerica.loc.gov/lccn/sn84022799/1863-03-21/ed-1/seq-4)
 
-#### 1863-03-21 &middot; Walla Walla, Wash. Terr.
+#### 1863-03-21 &middot; [Walla Walla, Wash. Terr.](http://dbpedia.org/resource/Walla_Walla%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5783,7 +5783,7 @@ daily food; either cooked, raw, or in the form of
 
 #### From _The Brisbane Courier (Qld. : 1864 - 1933)_
 
-#### 1865-01-21 &middot; Brisbane, Queensland
+#### 1865-01-21 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5814,7 +5814,7 @@ That when used as a diet it ÍB almost
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1865-08-10/ed-1/seq-4)
 
-#### 1865-08-10 &middot; White Cloud, Kan.
+#### 1865-08-10 &middot; [White Cloud, Kan.](http://dbpedia.org/resource/White_Cloud%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5857,7 +5857,7 @@ eniv, ano looked at No. 1 as if he kne
 
 ## [From _The Norfolk post._](https://chroniclingamerica.loc.gov/lccn/sn85038624/1865-08-11/ed-1/seq-1)
 
-#### 1865-08-11 &middot; Norfolk, Va.
+#### 1865-08-11 &middot; [Norfolk, Va.](http://dbpedia.org/resource/Norfolk%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5892,7 +5892,7 @@ I healthy article now in use.
 
 #### From _Milwaukee daily sentinel._
 
-#### 1865-09-09 &middot; [Milwaukee, Wis.]
+#### 1865-09-09 &middot; [[Milwaukee, Wis.]](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -5900,7 +5900,7 @@ I healthy article now in use.
 
 ## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1865-09-09/ed-1/seq-2)
 
-#### 1865-09-09 &middot; Prescott, Wis.
+#### 1865-09-09 &middot; [Prescott, Wis.](http://dbpedia.org/resource/Prescott%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5940,7 +5940,7 @@ i ’
 
 #### From _Herald of Health (1864-1892)_
 
-#### 1865-12-01 &middot; New York
+#### 1865-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -5950,7 +5950,7 @@ i ’
 
 #### From _Lowell daily citizen and news._
 
-#### 1866-06-22 &middot; Lowell, Mass.
+#### 1866-06-22 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -5958,7 +5958,7 @@ i ’
 
 ## [From _Baton Rouge tri-weekly gazette & comet._](https://chroniclingamerica.loc.gov/lccn/sn86053661/1866-07-03/ed-1/seq-1)
 
-#### 1866-07-03 &middot; Baton Rouge, La.
+#### 1866-07-03 &middot; [Baton Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5996,7 +5996,7 @@ bany, was sitting at the window o
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1866-07-07/ed-1/seq-4)
 
-#### 1866-07-07 &middot; Bellevue, Bossier Parish, La.
+#### 1866-07-07 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6046,7 +6046,7 @@ striking its pang into the mind
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1866-08-01/ed-1/seq-1)
 
-#### 1866-08-01 &middot; Smyrna, Del.
+#### 1866-08-01 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6086,7 +6086,7 @@ l regular organization, and perform their wor
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1866-08-03/ed-1/seq-4)
 
-#### 1866-08-03 &middot; Bellows Falls, Vt.
+#### 1866-08-03 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6123,7 +6123,7 @@ some article in Use. &#x27; v &#x27; &quot;
 
 ## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1866-08-15/ed-1/seq-4)
 
-#### 1866-08-15 &middot; Winnsboro, S.C.
+#### 1866-08-15 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6161,7 +6161,7 @@ Tiu. CasS1 oF fit. DAVIs.--Tho Ile
 
 ## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1866-08-15/ed-1/seq-5)
 
-#### 1866-08-15 &middot; Winnsboro, S.C.
+#### 1866-08-15 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6201,7 +6201,7 @@ Friday, says the arrival o- Charle
 
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1866-09-01/ed-1/seq-1)
 
-#### 1866-09-01 &middot; Sioux City, Iowa
+#### 1866-09-01 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6237,7 +6237,7 @@ or in tbe forjs of catsup, U is the mos
 
 #### From _The Owyhee avalanche._
 
-#### 1866-10-06 &middot; Ruby City, I.T. [Idaho]
+#### 1866-10-06 &middot; [Ruby City, I.T. [Idaho]](http://dbpedia.org/resource/Ruby_City%2C_Idaho)
 
 [This text is not available under an open license.]
 
@@ -6247,7 +6247,7 @@ or in tbe forjs of catsup, U is the mos
 
 #### From _New Hampshire statesman._
 
-#### 1867-05-10 &middot; Concord [N.H.]
+#### 1867-05-10 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -6255,7 +6255,7 @@ or in tbe forjs of catsup, U is the mos
 
 ## [From _Buchanan County bulletin and guardian._](https://chroniclingamerica.loc.gov/lccn/sn87058351/1868-02-28/ed-1/seq-4)
 
-#### 1868-02-28 &middot; Independence, Iowa
+#### 1868-02-28 &middot; [Independence, Iowa](http://dbpedia.org/resource/Independence%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6288,7 +6288,7 @@ imd, a* n is a a.o#t healthy article.
 
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1868-03-12/ed-1/seq-4)
 
-#### 1868-03-12 &middot; Tipton, Cedar Co., Iowa
+#### 1868-03-12 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6347,7 +6347,7 @@ use of it, either raw, coo.&#x27;^fl, or in th
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1869-11-18/ed-1/seq-1)
 
-#### 1869-11-18 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1869-11-18 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6375,7 +6375,7 @@ most powerful aperients of the live
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1871-01-07/ed-1/seq-4)
 
-#### 1871-01-07 &middot; Elkton, Md.
+#### 1871-01-07 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6411,7 +6411,7 @@ the goods iu it, and hang them out withou
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1871-09-16/ed-1/seq-1)
 
-#### 1871-09-16 &middot; Bellevue, Bossier Parish, La.
+#### 1871-09-16 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6459,7 +6459,7 @@ liceman cries, when be make
 
 ## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1871-09-20/ed-1/seq-1)
 
-#### 1871-09-20 &middot; Winnsboro, S.C.
+#### 1871-09-20 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6502,7 +6502,7 @@ healthy article.--epository
 
 #### From _The Hinds County gazette._
 
-#### 1871-10-11 &middot; Raymond, Miss.
+#### 1871-10-11 &middot; [Raymond, Miss.](http://dbpedia.org/resource/Raymond%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -6510,7 +6510,7 @@ healthy article.--epository
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1871-10-21/ed-1/seq-4)
 
-#### 1871-10-21 &middot; Opelousas, La.
+#### 1871-10-21 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6553,7 +6553,7 @@ Healthy article.—fRepository.
 
 ## [From _The Weekly Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn89051253/1871-12-13/ed-1/seq-2)
 
-#### 1871-12-13 &middot; Washington, Ark.
+#### 1871-12-13 &middot; [Washington, Ark.](http://dbpedia.org/resource/Washington%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6593,7 +6593,7 @@ healthy article
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1871-12-29/ed-1/seq-3)
 
-#### 1871-12-29 &middot; Nashville, Tenn.
+#### 1871-12-29 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6632,7 +6632,7 @@ is a most healthy article.
 
 #### From _North American and United States gazette._
 
-#### 1871-12-30 &middot; Philadelphia, Pa.
+#### 1871-12-30 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -6640,7 +6640,7 @@ is a most healthy article.
 
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-01-25/ed-1/seq-1)
 
-#### 1872-01-25 &middot; Jonesborough, Tenn.
+#### 1872-01-25 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6680,7 +6680,7 @@ from the diamond lie I da of South Africa
 
 #### From _The Congregationalist._
 
-#### 1872-02-15 &middot; Boston, Mass.
+#### 1872-02-15 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -6688,7 +6688,7 @@ from the diamond lie I da of South Africa
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1872-02-23/ed-1/seq-4)
 
-#### 1872-02-23 &middot; Bolivar, Hardeman County, Tenn.
+#### 1872-02-23 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6709,7 +6709,7 @@ the use of calomel. He Bays .tha
 
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1872-04-03/ed-1/seq-4)
 
-#### 1872-04-03 &middot; Mifflintown, Pa.
+#### 1872-04-03 &middot; [Mifflintown, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6748,7 +6748,7 @@ daily food, as it is a most healthy article
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1874-05-21/ed-1/seq-4)
 
-#### 1874-05-21 &middot; Yorkville, S.C.
+#### 1874-05-21 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6785,7 +6785,7 @@ most healthy article
 
 ## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1874-06-19/ed-1/seq-2)
 
-#### 1874-06-19 &middot; Rockville, Md.
+#### 1874-06-19 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6821,7 +6821,7 @@ healthy article
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1874-06-25/ed-1/seq-4)
 
-#### 1874-06-25 &middot; Ravenna, O. [Ohio]
+#### 1874-06-25 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6865,7 +6865,7 @@ The following dialogue between
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-07-01/ed-1/seq-4)
 
-#### 1874-07-01 &middot; Somerset, Pa.
+#### 1874-07-01 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6909,7 +6909,7 @@ article
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1874-07-06/ed-1/seq-4)
 
-#### 1874-07-06 &middot; Charlotte, N.C.
+#### 1874-07-06 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6953,7 +6953,7 @@ is a most healthy article
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1874-07-09/ed-1/seq-1)
 
-#### 1874-07-09 &middot; Anderson Court House, S.C.
+#### 1874-07-09 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6990,7 +6990,7 @@ healthy article.
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1874-07-22/ed-1/seq-4)
 
-#### 1874-07-22 &middot; Abbeville, S.C.
+#### 1874-07-22 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7049,7 +7049,7 @@ Balsaru of Wild Cherry. It is nearl
 
 ## [From _The Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn84026399/1874-07-23/ed-1/seq-4)
 
-#### 1874-07-23 &middot; Stroudsburg, Pa.
+#### 1874-07-23 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7098,7 +7098,7 @@ food, as it is a most healthful article
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1874-07-23/ed-1/seq-2)
 
-#### 1874-07-23 &middot; Columbia, S.C.
+#### 1874-07-23 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7143,7 +7143,7 @@ ledged by every thinking man tha
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1874-08-07/ed-1/seq-4)
 
-#### 1874-08-07 &middot; Fremont, Sandusky County, Ohio
+#### 1874-08-07 &middot; [Fremont, Sandusky County, Ohio](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7186,7 +7186,7 @@ healthy article. Chickens are fon
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1874-08-19/ed-1/seq-1)
 
-#### 1874-08-19 &middot; Knoxville, Tenn.
+#### 1874-08-19 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7224,7 +7224,7 @@ article.
 
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1874-08-20/ed-1/seq-4)
 
-#### 1874-08-20 &middot; Jonesborough, Tenn.
+#### 1874-08-20 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7262,7 +7262,7 @@ daily food, as it is a most healthy articl
 
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1874-09-05/ed-1/seq-2)
 
-#### 1874-09-05 &middot; Idaho City, Idaho Territory
+#### 1874-09-05 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7298,7 +7298,7 @@ Thi
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1874-09-13/ed-1/seq-4)
 
-#### 1874-09-13 &middot; Silver City, Nev.
+#### 1874-09-13 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7338,7 +7338,7 @@ healthful article.
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1874-11-05/ed-1/seq-4)
 
-#### 1874-11-05 &middot; Yorkville, S.C.
+#### 1874-11-05 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7366,7 +7366,7 @@ disease.
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1876-08-17/ed-1/seq-2)
 
-#### 1876-08-17 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1876-08-17 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7397,7 +7397,7 @@ article alone. Fourth, that when use
 
 ## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1876-08-24/ed-1/seq-1)
 
-#### 1876-08-24 &middot; Chase, Mich.
+#### 1876-08-24 &middot; [Chase, Mich.](http://dbpedia.org/resource/Baldwin%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7442,7 +7442,7 @@ article alone. Fourth, that when use
 
 ## [From _The daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83045610/1877-03-17/ed-1/seq-4)
 
-#### 1877-03-17 &middot; Seattle, Wash. Territory [i.e. Wash.]
+#### 1877-03-17 &middot; [Seattle, Wash. Territory [i.e. Wash.]](http://dbpedia.org/resource/Seattle)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7467,7 +7467,7 @@ it very important medical properties
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1877-11-21 &middot; Melbourne, Victoria
+#### 1877-11-21 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7506,7 +7506,7 @@ materia oilmen. taria. THERE are stil
 
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1882-02-09/ed-1/seq-4)
 
-#### 1882-02-09 &middot; Salina, Kan.
+#### 1882-02-09 &middot; [Salina, Kan.](http://dbpedia.org/resource/Salina%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7556,7 +7556,7 @@ rhoea with this article alone. 4th, tha
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1892-06-29 &middot; Melbourne, Victoria
+#### 1892-06-29 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7596,7 +7596,7 @@ heavy manuring upon tomatoes. Th
 
 #### From _The Mount Barker Courier and Onkaparinga and Gumeracha Advertiser (SA : 1880 - 1954)_
 
-#### 1892-07-15 &middot; Mount Barker, South Australia
+#### 1892-07-15 &middot; [Mount Barker, South Australia](http://dbpedia.org/resource/Mount_Barker%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7628,7 +7628,7 @@ in the form of catsup; it is&#x27;the mos
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1892-11-30/ed-1/seq-11)
 
-#### 1892-11-30 &middot; Abbeville, S.C.
+#### 1892-11-30 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7684,7 +7684,7 @@ alone, and when used simply as an articl
 
 ## [From _The Lafayette advertiser._](https://chroniclingamerica.loc.gov/lccn/sn86079068/1893-01-28/ed-1/seq-6)
 
-#### 1893-01-28 &middot; Vermilionville [i.e. Lafayette], La.
+#### 1893-01-28 &middot; [Vermilionville [i.e. Lafayette], La.](http://dbpedia.org/resource/Lafayette%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7721,7 +7721,7 @@ remedial agent known to the medica
 
 #### From _Western Star and Roma Advertiser (Toowoomba, Qld. : 1875 - 1948)_
 
-#### 1893-02-15 &middot; Toowoomba, Queensland
+#### 1893-02-15 &middot; [Toowoomba, Queensland](http://dbpedia.org/resource/Toowoomba)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7776,7 +7776,7 @@ simply as an article of food, is said t
 
 #### From _Warwick Examiner and Times (Qld. : 1867 - 1919)_
 
-#### 1893-02-25 &middot; Warwick, Queensland
+#### 1893-02-25 &middot; [Warwick, Queensland](http://dbpedia.org/resource/Warwick%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7815,7 +7815,7 @@ simply as an article of food, is said t
 
 #### From _The Colac Herald (Vic. : 1875 - 1918)_
 
-#### 1897-01-19 &middot; Colac, Victoria
+#### 1897-01-19 &middot; [Colac, Victoria](http://dbpedia.org/resource/Colac%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

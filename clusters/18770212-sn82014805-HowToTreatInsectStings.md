@@ -23,7 +23,7 @@ If the sting be severe, rest the coolness (sic) should be added to the other rem
 
 ## [From _The herald and mail._](https://chroniclingamerica.loc.gov/lccn/sn86053406/1874-10-09/ed-1/seq-4)
 
-#### 1874-10-09 &middot; Columbia, Tenn.
+#### 1874-10-09 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -48,7 +48,7 @@ aweuing
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1877-01-06/ed-1/seq-11)
 
-#### 1877-01-06 &middot; Chicago, Ill.
+#### 1877-01-06 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -99,7 +99,7 @@ ble.”
 
 #### From _Daily evening bulletin._
 
-#### 1877-01-20 &middot; San Francisco [Calif.]
+#### 1877-01-20 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -107,7 +107,7 @@ ble.”
 
 ## [From _Puget Sound weekly Argus._](https://chroniclingamerica.loc.gov/lccn/sn84022761/1877-02-02/ed-1/seq-3)
 
-#### 1877-02-02 &middot; Port Townsend, W.T. [Wash.]
+#### 1877-02-02 &middot; [Port Townsend, W.T. [Wash.]](http://dbpedia.org/resource/Port_Townsend%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -140,7 +140,7 @@ as soon as possible.
 
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1877-02-02/ed-1/seq-7)
 
-#### 1877-02-02 &middot; Vancouver, W.T. [Wash.]
+#### 1877-02-02 &middot; [Vancouver, W.T. [Wash.]](http://dbpedia.org/resource/Vancouver%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -195,7 +195,7 @@ as soon as possible.
 
 ## [From _The daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014805/1877-02-12/ed-1/seq-4)
 
-#### 1877-02-12 &middot; Wilmington, Del.
+#### 1877-02-12 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -248,7 +248,7 @@ den
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1877-02-22/ed-1/seq-4)
 
-#### 1877-02-22 &middot; Ellsworth, Me.
+#### 1877-02-22 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -280,7 +280,7 @@ Ismilon (Jarilrn
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1877-03-22/ed-1/seq-4)
 
-#### 1877-03-22 &middot; Yorkville, S.C.
+#### 1877-03-22 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -319,7 +319,7 @@ of soda
 
 #### From _Christian Advocate (1866-1905)_
 
-#### 1877-03-29 &middot; Chicago
+#### 1877-03-29 &middot; [Chicago](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -327,7 +327,7 @@ of soda
 
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1877-04-13/ed-1/seq-3)
 
-#### 1877-04-13 &middot; Jasper, Ind.
+#### 1877-04-13 &middot; [Jasper, Ind.](http://dbpedia.org/resource/Jasper%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -367,7 +367,7 @@ Baklna Meats. Baking is a mor
 
 #### From _Shaker (1876-1877)_
 
-#### 1877-05-01 &middot; Shakers
+#### 1877-05-01 &middot; [Shakers](http://dbpedia.org/resource/New_Lebanon%2C_New_York)
 
 [This text is not available under an open license.]
 
@@ -375,7 +375,7 @@ Baklna Meats. Baking is a mor
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5?page=6)
 
-#### 1877-05-01
+#### 1877-05-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -461,7 +461,7 @@ London Garden.
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1877-06-05/ed-1/seq-4)
 
-#### 1877-06-05 &middot; Charles Town, Va. [W. Va.]
+#### 1877-06-05 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -532,7 +532,7 @@ as soon as possiblo.?London Garden
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1877-06-21/ed-1/seq-1)
 
-#### 1877-06-21 &middot; Pulaski, Tenn.
+#### 1877-06-21 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -591,7 +591,7 @@ ways be sought as soon as possible
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1877-06-29/ed-1/seq-4)
 
-#### 1877-06-29 &middot; Portland, Me.
+#### 1877-06-29 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -657,7 +657,7 @@ as soon as possible
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1877-06-29/ed-1/seq-4)
 
-#### 1877-06-29 &middot; Brattleboro, Vt.
+#### 1877-06-29 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -710,7 +710,7 @@ soon as possible. London Qardcn
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1877-08-11/ed-1/seq-1)
 
-#### 1877-08-11 &middot; Charlestown, Va. [W. Va.]
+#### 1877-08-11 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -760,7 +760,7 @@ is sooo as possible
 
 ## [From _Puget Sound weekly Argus._](https://chroniclingamerica.loc.gov/lccn/sn84022761/1878-05-17/ed-1/seq-6)
 
-#### 1878-05-17 &middot; Port Townsend, W.T. [Wash.]
+#### 1878-05-17 &middot; [Port Townsend, W.T. [Wash.]](http://dbpedia.org/resource/Port_Townsend%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -815,7 +815,7 @@ soon as possible.- -—Gorrlen
 
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1878-06-06/ed-1/seq-6)
 
-#### 1878-06-06 &middot; Vancouver, W.T. [Wash.]
+#### 1878-06-06 &middot; [Vancouver, W.T. [Wash.]](http://dbpedia.org/resource/Vancouver%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -869,7 +869,7 @@ soon as possible. Uanlen
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
 
-#### 1878-06-20 &middot; Boston
+#### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -888,7 +888,7 @@ blood. An exchange gives the following direc-
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
 
-#### 1878-06-20 &middot; Boston
+#### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -914,7 +914,7 @@ sissippi meridian for dramas of “Indian” life | points to the alkalies as th
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
 
-#### 1878-06-20 &middot; Boston
+#### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -933,7 +933,7 @@ cently, a boy, while out in search of some sad- ; Soda, quicklime made into a pa
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
 
-#### 1878-06-20 &middot; Boston
+#### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -974,7 +974,7 @@ as soon as possible.
 
 #### From _Boston daily advertiser._
 
-#### 1878-11-05 &middot; Boston, Mass.
+#### 1878-11-05 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -984,7 +984,7 @@ as soon as possible.
 
 #### From _Daily evening bulletin._
 
-#### 1878-11-09 &middot; San Francisco [Calif.]
+#### 1878-11-09 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -994,7 +994,7 @@ as soon as possible.
 
 #### From _The Galveston daily news._
 
-#### 1878-11-15 &middot; Houston [Tex.]
+#### 1878-11-15 &middot; [Houston [Tex.]](http://dbpedia.org/resource/Houston)
 
 [This text is not available under an open license.]
 
@@ -1004,7 +1004,7 @@ as soon as possible.
 
 #### From _Lowell daily citizen._
 
-#### 1878-11-19 &middot; Lowell, Mass.
+#### 1878-11-19 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -1012,7 +1012,7 @@ as soon as possible.
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1878-11-21/ed-1/seq-4)
 
-#### 1878-11-21 &middot; Ridgway, Pa.
+#### 1878-11-21 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1066,7 +1066,7 @@ always be sought as soon as possible
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1878-12-05/ed-1/seq-1)
 
-#### 1878-12-05 &middot; Centre Hall, Pa.
+#### 1878-12-05 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1119,7 +1119,7 @@ always be sought as soon as possible
 
 ## [From _San Marcos free press._](https://chroniclingamerica.loc.gov/lccn/sn86088181/1878-12-14/ed-1/seq-7)
 
-#### 1878-12-14 &middot; San Marcos, Tex.
+#### 1878-12-14 &middot; [San Marcos, Tex.](http://dbpedia.org/resource/San_Marcos%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1174,7 +1174,7 @@ for as soon as poasible. Grophu&#x27;
 
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1878-12-26/ed-1/seq-6)
 
-#### 1878-12-26 &middot; Vancouver, W.T. [Wash.]
+#### 1878-12-26 &middot; [Vancouver, W.T. [Wash.]](http://dbpedia.org/resource/Vancouver%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1228,7 +1228,7 @@ soon as possible. Partis*.
 
 ## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1879-01-02/ed-1/seq-6)
 
-#### 1879-01-02 &middot; Vancouver, W.T. [Wash.]
+#### 1879-01-02 &middot; [Vancouver, W.T. [Wash.]](http://dbpedia.org/resource/Vancouver%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1282,7 +1282,7 @@ j soon as possible. Garden.
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
 
-#### 1879-01-16 &middot; Lansing, Minn.
+#### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1299,7 +1299,7 @@ mon sharks.- Prairie Farmer. press the tube of a small key firmly on
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
 
-#### 1879-01-16 &middot; Lansing, Minn.
+#### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1322,7 +1322,7 @@ crude carbolic acid. Mix this into the I K^tly. increase the local irritation.
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
 
-#### 1879-01-16 &middot; Lansing, Minn.
+#### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1358,7 +1358,7 @@ rn the handling of milk. Wooden pails bacco bruised dock leaves, tomato juice
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
 
-#### 1879-01-16 &middot; Lansing, Minn.
+#### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1381,7 +1381,7 @@ sought for as soon as possible.—New,ten
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
 
-#### 1879-01-16 &middot; Lansing, Minn.
+#### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1408,7 +1408,7 @@ that high and low grades of sugar be ad- *ou^try houses- (spirits of hartshorn),
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
 
-#### 1879-01-16 &middot; Lansing, Minn.
+#### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1446,7 +1446,7 @@ lowing, clipped from a local paper, and quickened will increase both pain and ch
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
 
-#### 1879-01-16 &middot; Lansing, Minn.
+#### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1481,7 +1481,7 @@ whereby the circulation i-
 
 ## [From _The Red Cloud chief._](https://chroniclingamerica.loc.gov/lccn/sn84022835/1879-01-23/ed-1/seq-2)
 
-#### 1879-01-23 &middot; Red Cloud, Webster Co., Neb.
+#### 1879-01-23 &middot; [Red Cloud, Webster Co., Neb.](http://dbpedia.org/resource/Red_Cloud%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1538,7 +1538,7 @@ for as soon as possible
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
-#### 1879-02-28 &middot; Clare, South Australia
+#### 1879-02-28 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1604,7 +1604,7 @@ for as soon as possible. Melbourne
 
 #### From _Cootamundra Herald (NSW : 1877 - 1954)_
 
-#### 1879-03-15 &middot; Cootamundra, New South Wales
+#### 1879-03-15 &middot; [Cootamundra, New South Wales](http://dbpedia.org/resource/Cootamundra)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1672,7 +1672,7 @@ sought for as soon as possible.  Robber
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1879-03-15 &middot; Melbourne, Victoria
+#### 1879-03-15 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1727,7 +1727,7 @@ for as&#x27; soon as possible. THE Londo
 
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
 
-#### 1879-03-29 &middot; Goulburn, New South Wales
+#### 1879-03-29 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1783,7 +1783,7 @@ soughte for ac:c aseoi l possiblel.--Co
 
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1879-05-30/ed-1/seq-1)
 
-#### 1879-05-30 &middot; Oregon, Missouri.
+#### 1879-05-30 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1837,7 +1837,7 @@ ways bo sought for as soon us fJotwible
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1879-10-09/ed-1/seq-4)
 
-#### 1879-10-09 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1879-10-09 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1891,7 +1891,7 @@ ways be sought for as soon as possible,
 
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1879-10-17/ed-1/seq-1)
 
-#### 1879-10-17 &middot; Ashtabula, Ohio
+#### 1879-10-17 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1949,7 +1949,7 @@ ways be sought for as soon as possible.
 
 #### From _St. Louis globe-Democrat._
 
-#### 1880-02-03 &middot; St. Louis [Mo.]
+#### 1880-02-03 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -1959,7 +1959,7 @@ ways be sought for as soon as possible.
 
 #### From _St. Louis globe-Democrat._
 
-#### 1880-02-08 &middot; St. Louis [Mo.]
+#### 1880-02-08 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -1967,7 +1967,7 @@ ways be sought for as soon as possible.
 
 ## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1880-02-13/ed-1/seq-2)
 
-#### 1880-02-13 &middot; Little Falls, Morrison County, Minn.
+#### 1880-02-13 &middot; [Little Falls, Morrison County, Minn.](http://dbpedia.org/resource/Little_Falls%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2023,7 +2023,7 @@ sought as soon as possible.
 
 ## [From _The Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn00065151/1880-02-14/ed-1/seq-1)
 
-#### 1880-02-14 &middot; Big Stone City, Grant County, Dakota [S.D.]
+#### 1880-02-14 &middot; [Big Stone City, Grant County, Dakota [S.D.]](http://dbpedia.org/resource/Big_Stone_City%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2045,7 +2045,7 @@ the activity of the poison will be re
 
 ## [From _The Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn00065151/1880-02-14/ed-1/seq-1)
 
-#### 1880-02-14 &middot; Big Stone City, Grant County, Dakota [S.D.]
+#### 1880-02-14 &middot; [Big Stone City, Grant County, Dakota [S.D.]](http://dbpedia.org/resource/Big_Stone_City%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2109,7 +2109,7 @@ sought as soon as possible.
 
 ## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1880-02-19/ed-1/seq-3)
 
-#### 1880-02-19 &middot; Washington [Washington Court House], Fayette County, O. [Ohio]
+#### 1880-02-19 &middot; [Washington [Washington Court House], Fayette County, O. [Ohio]](http://dbpedia.org/resource/Washington_Court_House%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2151,7 +2151,7 @@ dock leaves and carbon of soda
 
 ## [From _The Milan exchange._](https://chroniclingamerica.loc.gov/lccn/sn86053488/1880-02-19/ed-1/seq-2)
 
-#### 1880-02-19 &middot; Milan, Gibson County, Tenn.
+#### 1880-02-19 &middot; [Milan, Gibson County, Tenn.](http://dbpedia.org/resource/Milan%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2193,7 +2193,7 @@ co juice, bruised dock leaves and carbo
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1880-02-20/ed-1/seq-2)
 
-#### 1880-02-20 &middot; Deer Lodge, Mont.
+#### 1880-02-20 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2228,7 +2228,7 @@ of acid poison injected into the system
 
 ## [From _The Florida agriculturist._](https://chroniclingamerica.loc.gov/lccn/sn96027724/1880-02-25/ed-1/seq-2)
 
-#### 1880-02-25 &middot; DeLand, Fla.
+#### 1880-02-25 &middot; [DeLand, Fla.](http://dbpedia.org/resource/Jacksonville%2C_Florida)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2274,7 +2274,7 @@ dark and gloomy out of doors,” sai
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1880-02-26/ed-1/seq-4)
 
-#### 1880-02-26 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1880-02-26 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2302,7 +2302,7 @@ leaves and carbon of soda
 
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1880-02-28/ed-1/seq-3)
 
-#### 1880-02-28 &middot; Oakland, Md.
+#### 1880-02-28 &middot; [Oakland, Md.](http://dbpedia.org/resource/Oakland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2328,7 +2328,7 @@ dock leaves and carbon of soda
 
 ## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1880-03-30/ed-1/seq-4)
 
-#### 1880-03-30 &middot; Rock Island, Ill.
+#### 1880-03-30 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2345,7 +2345,7 @@ acid poison injected into the blood,&quot; says
 
 ## [From _The Red Cloud chief._](https://chroniclingamerica.loc.gov/lccn/sn84022835/1880-04-01/ed-1/seq-2)
 
-#### 1880-04-01 &middot; Red Cloud, Webster Co., Neb.
+#### 1880-04-01 &middot; [Red Cloud, Webster Co., Neb.](http://dbpedia.org/resource/Red_Cloud%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2370,7 +2370,7 @@ co juke, bruised dock leaves aad carbo
 
 ## [From _The Monmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032307/1880-05-27/ed-1/seq-1)
 
-#### 1880-05-27 &middot; Freehold, N.J.
+#### 1880-05-27 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2395,7 +2395,7 @@ bruised dock leaves and carbon of soda
 
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1880-07-09/ed-1/seq-4)
 
-#### 1880-07-09 &middot; Perrysburg, Wood Co., O. [Ohio]
+#### 1880-07-09 &middot; [Perrysburg, Wood Co., O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2421,7 +2421,7 @@ bruised dock leaves and carbon o
 
 ## [From _Arthur's Home Magazine (1880-1897)_](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1881-09_49_9?page=21)
 
-#### 1881-09-01 &middot; Philadelphia
+#### 1881-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2486,7 +2486,7 @@ sible.
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1898-04-23 &middot; Adelaide, South Australia
+#### 1898-04-23 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

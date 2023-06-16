@@ -40,7 +40,7 @@ army surgeon of thirty years’ experience in Asia, Africa, and
 
 ## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
 
-#### 1896-11-21
+#### 1896-11-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -63,7 +63,7 @@ OF SEMI-CIVILISED PEOPLES.
 
 ## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
 
-#### 1896-11-21
+#### 1896-11-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -86,7 +86,7 @@ three stamps for postage.
 
 ## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-28_3605?page=42)
 
-#### 1896-11-28
+#### 1896-11-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -138,7 +138,7 @@ three stamps for Postage.
 
 ## [From _American Anthropologist 1888-2016_](https://iiif.archivelab.org/iiif/sim_american-anthropologist_1896-12_9_12?page=30)
 
-#### 1896-12-01
+#### 1896-12-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -179,7 +179,7 @@ of thirty years’ experience in Asia, Africa, and America’”’ (Paris
 
 ## [From _Bataviaasch nieuwsblad_](http://resolver.kb.nl/resolve?urn=ddd:011032225:mpeg21:p007:alto)
 
-#### 1898-10-25 &middot; Batavia
+#### 1898-10-25 &middot; [Batavia](http://dbpedia.org/resource/Batavia%2C_Dutch_East_Indies)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -212,7 +212,7 @@ Surgeon
 
 ## [From _Bataviaasch nieuwsblad_](http://resolver.kb.nl/resolve?urn=ddd:011032230:mpeg21:p016:alto)
 
-#### 1898-10-31 &middot; Batavia
+#### 1898-10-31 &middot; [Batavia](http://dbpedia.org/resource/Batavia%2C_Dutch_East_Indies)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

@@ -41,7 +41,7 @@ For apoplexy, raise the head and body; for fainting, lay the person flat.
 
 ## [From _Wilmington daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn84020594/1872-09-11/ed-1/seq-4)
 
-#### 1872-09-11 &middot; Wilmington, Del.
+#### 1872-09-11 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -108,7 +108,7 @@ Suck poisoned wounds, unles
 
 ## [From _The weekly Panola star._](https://chroniclingamerica.loc.gov/lccn/sn83016951/1872-10-26/ed-1/seq-3)
 
-#### 1872-10-26 &middot; Panola, Miss.
+#### 1872-10-26 &middot; [Panola, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -165,7 +165,7 @@ of an egg is good in most cases.
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1872-11-09/ed-1/seq-1)
 
-#### 1872-11-09 &middot; Middletown, Del.
+#### 1872-11-09 &middot; [Middletown, Del.](http://dbpedia.org/resource/Middletown%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -221,7 +221,7 @@ For n .&lt;1 poisons g
 
 ## [From _Wilmington daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn84026837/1872-11-16/ed-1/seq-4)
 
-#### 1872-11-16 &middot; Wilmington, Del.
+#### 1872-11-16 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -263,7 +263,7 @@ the throat with warm water
 
 ## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1872-11-19/ed-1/seq-1)
 
-#### 1872-11-19 &middot; Van Buren, Ark.
+#### 1872-11-19 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -312,7 +312,7 @@ fainting, lie flat
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1872-12-14/ed-1/seq-2)
 
-#### 1872-12-14 &middot; Wheeling, W. Va.
+#### 1872-12-14 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -366,7 +366,7 @@ Ior tainting, lay tbe person II it
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1872-12-18/ed-1/seq-1)
 
-#### 1872-12-18 &middot; Knoxville, Tenn.
+#### 1872-12-18 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -434,7 +434,7 @@ for fainting lay the person flat
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1872-12-25/ed-1/seq-2)
 
-#### 1872-12-25 &middot; Knoxville, Tenn.
+#### 1872-12-25 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -488,7 +488,7 @@ for fainting lay tho person llat
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1873-01-02/ed-1/seq-3)
 
-#### 1873-01-02 &middot; Plymouth, Ind.
+#### 1873-01-02 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -571,7 +571,7 @@ for fainting, lay the person flat.
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1873-01-03/ed-1/seq-7)
 
-#### 1873-01-03 &middot; Paw Paw, Mich.
+#### 1873-01-03 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -644,7 +644,7 @@ for fainting, lay the person tlat
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1873-01-03/ed-1/seq-1)
 
-#### 1873-01-03 &middot; Fremont, Sandusky County, Ohio
+#### 1873-01-03 &middot; [Fremont, Sandusky County, Ohio](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -724,7 +724,7 @@ nose and mouth projecting
 
 ## [From _The weekly Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn85025132/1873-01-04/ed-1/seq-1)
 
-#### 1873-01-04 &middot; Shasta, Calif.
+#### 1873-01-04 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -778,7 +778,7 @@ for fainting, lay the person flat
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1873-01-04/ed-1/seq-3)
 
-#### 1873-01-04 &middot; Ottawa, Ill.
+#### 1873-01-04 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -830,7 +830,7 @@ lainting, lay the person flit
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1873-01-07/ed-1/seq-1)
 
-#### 1873-01-07 &middot; Charles Town, Va. [W. Va.]
+#### 1873-01-07 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -873,7 +873,7 @@ projecting
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1873-01-09/ed-1/seq-4)
 
-#### 1873-01-09 &middot; Ravenna, O. [Ohio]
+#### 1873-01-09 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -932,7 +932,7 @@ body ; for fainting, lay Jibe person flat
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1873-01-24/ed-1/seq-3)
 
-#### 1873-01-24 &middot; Knoxville, Tenn.
+#### 1873-01-24 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -985,7 +985,7 @@ nose and mouth projecting
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1873-01-24/ed-1/seq-1)
 
-#### 1873-01-24 &middot; Memphis, Tenn.
+#### 1873-01-24 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1074,7 +1074,7 @@ body; for fainting, lay tha perwon flat.
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1873-01-25/ed-1/seq-3)
 
-#### 1873-01-25 &middot; Nashville, Tenn.
+#### 1873-01-25 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1126,7 +1126,7 @@ for fainting, lay the person flat
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1873-01-29/ed-1/seq-1)
 
-#### 1873-01-29 &middot; Troy, Lincoln County, Mo.
+#### 1873-01-29 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1180,7 +1180,7 @@ body ; for fainting, lay the person flat
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1873-01-29/ed-1/seq-2)
 
-#### 1873-01-29 &middot; Knoxville, Tenn.
+#### 1873-01-29 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1236,7 +1236,7 @@ nose and mouth projecting
 
 ## [From _The St. Cloud journal._](https://chroniclingamerica.loc.gov/lccn/sn85033526/1873-01-30/ed-1/seq-4)
 
-#### 1873-01-30 &middot; St. Cloud, Minn.
+#### 1873-01-30 &middot; [St. Cloud, Minn.](http://dbpedia.org/resource/St._Cloud%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1282,7 +1282,7 @@ body for fainting, lay the parson fiat.
 
 #### From _The Owyhee avalanche._
 
-#### 1873-02-01 &middot; Ruby City, I.T. [Idaho]
+#### 1873-02-01 &middot; [Ruby City, I.T. [Idaho]](http://dbpedia.org/resource/Ruby_City%2C_Idaho)
 
 [This text is not available under an open license.]
 
@@ -1290,7 +1290,7 @@ body for fainting, lay the parson fiat.
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1873-02-05/ed-1/seq-4)
 
-#### 1873-02-05 &middot; Warren, Ohio
+#### 1873-02-05 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1368,7 +1368,7 @@ i
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1873-02-06/ed-1/seq-4)
 
-#### 1873-02-06 &middot; Fayetteville, Tenn.
+#### 1873-02-06 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1433,7 +1433,7 @@ I person fiat
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1873-02-07/ed-1/seq-4)
 
-#### 1873-02-07 &middot; Emporia, Kan.
+#### 1873-02-07 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1530,7 +1530,7 @@ ing. For apoplexy, raise the hea
 
 ## [From _The Magnolia gazette._](https://chroniclingamerica.loc.gov/lccn/sn85034447/1873-02-07/ed-1/seq-1)
 
-#### 1873-02-07 &middot; Magnolia, Miss.
+#### 1873-02-07 &middot; [Magnolia, Miss.](http://dbpedia.org/resource/Magnolia%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1571,7 +1571,7 @@ good iu most cases
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1873-02-08/ed-1/seq-4)
 
-#### 1873-02-08 &middot; Deer Lodge, Mont.
+#### 1873-02-08 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1618,7 +1618,7 @@ and mouth projecting
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1873-02-16/ed-1/seq-6)
 
-#### 1873-02-16 &middot; New York [N.Y.]
+#### 1873-02-16 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1673,7 +1673,7 @@ ing, lay the person flat
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1873-02-21/ed-1/seq-4)
 
-#### 1873-02-21 &middot; Brattleboro, Vt.
+#### 1873-02-21 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1723,7 +1723,7 @@ for fainting lay tho person fiat
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1873-02-26/ed-1/seq-1)
 
-#### 1873-02-26 &middot; Tionesta, Pa.
+#### 1873-02-26 &middot; [Tionesta, Pa.](http://dbpedia.org/resource/Tionesta%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1782,7 +1782,7 @@ For a fit of apoplexy, raise th
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1873-02-27/ed-1/seq-3)
 
-#### 1873-02-27 &middot; Millersburg, Holmes Co., O. [Ohio]
+#### 1873-02-27 &middot; [Millersburg, Holmes Co., O. [Ohio]](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1857,7 +1857,7 @@ For fainting, lay the person flat.
 
 ## [From _National opinion._](https://chroniclingamerica.loc.gov/lccn/sn84022552/1873-02-28/ed-1/seq-4)
 
-#### 1873-02-28 &middot; Bradford, Vt.
+#### 1873-02-28 &middot; [Bradford, Vt.](http://dbpedia.org/resource/Bradford%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1882,7 +1882,7 @@ Remove insects from the ear by tepid
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1873-03-06/ed-1/seq-4)
 
-#### 1873-03-06 &middot; Ellsworth, Me.
+#### 1873-03-06 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1937,7 +1937,7 @@ for fainting, lay the person flat
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1873-03-07/ed-1/seq-4)
 
-#### 1873-03-07 &middot; Salisbury, Litchfield Co., Conn.
+#### 1873-03-07 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1984,7 +1984,7 @@ body ; for fainting, lie flat
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1873-03-07/ed-1/seq-4)
 
-#### 1873-03-07 &middot; Bellows Falls, Vt.
+#### 1873-03-07 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2041,7 +2041,7 @@ body; for faiotinj lay the person flat
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1873-03-08/ed-1/seq-4)
 
-#### 1873-03-08 &middot; Opelousas, La.
+#### 1873-03-08 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2096,7 +2096,7 @@ bo4y ; for tawtin« lay the person flat
 
 ## [From _Wilmington daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn84026837/1873-03-11/ed-1/seq-3)
 
-#### 1873-03-11 &middot; Wilmington, Del.
+#### 1873-03-11 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2129,7 +2129,7 @@ strong cofie© and keep moving
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1873-03-13/ed-1/seq-4)
 
-#### 1873-03-13 &middot; Centre Hall, Pa.
+#### 1873-03-13 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2178,7 +2178,7 @@ body; for fainting, lie flat
 
 ## [From _The Ouachita telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85034336/1873-03-15/ed-1/seq-4)
 
-#### 1873-03-15 &middot; Monroe, La.
+#### 1873-03-15 &middot; [Monroe, La.](http://dbpedia.org/resource/Monroe%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2235,7 +2235,7 @@ body; for fainting, lay the person fiat
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1873-03-18/ed-1/seq-4)
 
-#### 1873-03-18 &middot; Lancaster, Wis.
+#### 1873-03-18 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2288,7 +2288,7 @@ flat.
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1873-03-27/ed-1/seq-1)
 
-#### 1873-03-27 &middot; Ellsworth, Me.
+#### 1873-03-27 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2335,7 +2335,7 @@ for fainting, lie fiat
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1873-04-02/ed-1/seq-4)
 
-#### 1873-04-02 &middot; Clearfield, Pa.
+#### 1873-04-02 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2362,7 +2362,7 @@ If any artery is cut, compress belo
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1873-04-04/ed-1/seq-1)
 
-#### 1873-04-04 &middot; Staunton, Va.
+#### 1873-04-04 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2405,7 +2405,7 @@ is good in most cases
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1873-04-06/ed-1/seq-3)
 
-#### 1873-04-06 &middot; New Orleans [La.]
+#### 1873-04-06 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2445,7 +2445,7 @@ bhmr cm-a; or end of a cigar
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1873-04-09/ed-1/seq-3)
 
-#### 1873-04-09 &middot; Chicago, Ill.
+#### 1873-04-09 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2489,7 +2489,7 @@ and mouth projecting. -
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-04-10/ed-1/seq-1)
 
-#### 1873-04-10 &middot; Ridgway, Pa.
+#### 1873-04-10 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2550,7 +2550,7 @@ fee and keep moving
 
 ## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1873-04-11/ed-1/seq-1)
 
-#### 1873-04-11 &middot; Oregon, Missouri.
+#### 1873-04-11 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2594,7 +2594,7 @@ fee nnd keep moving.
 
 #### From _Little Rock daily republican._
 
-#### 1873-04-17 &middot; [Little Rock, Ark.]
+#### 1873-04-17 &middot; [[Little Rock, Ark.]](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -2604,7 +2604,7 @@ fee nnd keep moving.
 
 #### From _Ohio Farmer (1856-1906)_
 
-#### 1873-04-19 &middot; Cleveland
+#### 1873-04-19 &middot; [Cleveland](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -2612,7 +2612,7 @@ fee nnd keep moving.
 
 ## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1873-04-25/ed-1/seq-4)
 
-#### 1873-04-25 &middot; Independence, Iowa
+#### 1873-04-25 &middot; [Independence, Iowa](http://dbpedia.org/resource/Independence%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2682,7 +2682,7 @@ flat.&#x27;
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1873-04-26/ed-1/seq-4)
 
-#### 1873-04-26 &middot; Weaverville, Calif.
+#### 1873-04-26 &middot; [Weaverville, Calif.](http://dbpedia.org/resource/Weaverville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2739,7 +2739,7 @@ for fainting, lay the person flat
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-04-26/ed-1/seq-4)
 
-#### 1873-04-26 &middot; Auburn, Placer County, Calif.
+#### 1873-04-26 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2806,7 +2806,7 @@ for fainting, lay ibe person flat
 
 ## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1873-05-01/ed-1/seq-4)
 
-#### 1873-05-01 &middot; Troy, Kan.
+#### 1873-05-01 &middot; [Troy, Kan.](http://dbpedia.org/resource/Troy%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2842,7 +2842,7 @@ fainting, lay the person flat
 
 ## [From _Peterson's Magazine (1849-1892)_](https://iiif.archivelab.org/iiif/sim_peterson-magazine_1873-05_63_5?page=70)
 
-#### 1873-05-01 &middot; Philadelphia
+#### 1873-05-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2891,7 +2891,7 @@ on the back, with the nose and meuth projecting.
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1873-05-08/ed-1/seq-8)
 
-#### 1873-05-08 &middot; Helena, Mont.
+#### 1873-05-08 &middot; [Helena, Mont.](http://dbpedia.org/resource/Helena%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2938,7 +2938,7 @@ For apoplexy, raise the head and body ; fo
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1873-05-15/ed-1/seq-1)
 
-#### 1873-05-15 &middot; Belfast, Me.
+#### 1873-05-15 &middot; [Belfast, Me.](http://dbpedia.org/resource/Belfast%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2984,7 +2984,7 @@ for fainting, lay the person flat.
 
 ## [From _The weekly clarion._](https://chroniclingamerica.loc.gov/lccn/sn83016926/1873-05-15/ed-1/seq-2)
 
-#### 1873-05-15 &middot; Jackson, Miss.
+#### 1873-05-15 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3043,7 +3043,7 @@ for fainting lay the person flat.
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1873-05-16/ed-1/seq-4)
 
-#### 1873-05-16 &middot; Bellows Falls, Vt.
+#### 1873-05-16 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3100,7 +3100,7 @@ the nosj and ruouib projecting
 
 #### From _Idaho signal._
 
-#### 1873-05-17 &middot; Lewiston, North Idaho
+#### 1873-05-17 &middot; [Lewiston, North Idaho](http://dbpedia.org/resource/Lewiston%2C_Idaho)
 
 [This text is not available under an open license.]
 
@@ -3108,7 +3108,7 @@ the nosj and ruouib projecting
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1873-05-17/ed-1/seq-3)
 
-#### 1873-05-17 &middot; Washington, D.C.
+#### 1873-05-17 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3156,7 +3156,7 @@ fainting, lay the person fiat
 
 ## [From _Eureka daily sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84022044/1873-05-17/ed-1/seq-4)
 
-#### 1873-05-17 &middot; Eureka, Nev.
+#### 1873-05-17 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3217,7 +3217,7 @@ lor apoplexy, raise the hea
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-05-22/ed-1/seq-1)
 
-#### 1873-05-22 &middot; Ridgway, Pa.
+#### 1873-05-22 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3263,7 +3263,7 @@ better, cut out the part without dela
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1873-05-22/ed-1/seq-1)
 
-#### 1873-05-22 &middot; Ridgway, Pa.
+#### 1873-05-22 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3293,7 +3293,7 @@ for fainting lay the person flat.
 
 ## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1873-05-24/ed-1/seq-4)
 
-#### 1873-05-24 &middot; Richmond [Va.]
+#### 1873-05-24 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3339,7 +3339,7 @@ tor fjinting, lay the person flat
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1873-05-29/ed-1/seq-1)
 
-#### 1873-05-29 &middot; Port Tobacco, Md.
+#### 1873-05-29 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3412,7 +3412,7 @@ m
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1873-06-04/ed-1/seq-4)
 
-#### 1873-06-04 &middot; Montpelier, Vt.
+#### 1873-06-04 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3457,7 +3457,7 @@ for fainting, lay the person flit
 
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1873-06-05/ed-1/seq-1)
 
-#### 1873-06-05 &middot; Tiffin, Ohio
+#### 1873-06-05 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3534,7 +3534,7 @@ body; f r fainting lay the person i!a&#x27;.
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1873-06-10/ed-1/seq-1)
 
-#### 1873-06-10 &middot; Portland, Me.
+#### 1873-06-10 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3580,7 +3580,7 @@ fainting, lay the person flat
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1873-06-13/ed-1/seq-4)
 
-#### 1873-06-13 &middot; Bolivar, Hardeman County, Tenn.
+#### 1873-06-13 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3631,7 +3631,7 @@ l or apoplexy, raise the head an
 
 ## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1873-06-13/ed-1/seq-1)
 
-#### 1873-06-13 &middot; Burlington, Vt.
+#### 1873-06-13 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3682,7 +3682,7 @@ moving
 
 #### From _Lowell daily citizen and news._
 
-#### 1873-06-16 &middot; Lowell, Mass.
+#### 1873-06-16 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -3690,7 +3690,7 @@ moving
 
 ## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1873-06-19/ed-1/seq-2)
 
-#### 1873-06-19 &middot; Ottumwa, Wapello County, Iowa
+#### 1873-06-19 &middot; [Ottumwa, Wapello County, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3751,7 +3751,7 @@ body for faluting, lay the person flat.
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1873-06-19/ed-1/seq-4)
 
-#### 1873-06-19 &middot; Winchester, Tenn.
+#### 1873-06-19 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3793,7 +3793,7 @@ body; for fainting, lay the persAi flat
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1873-06-19/ed-1/seq-4)
 
-#### 1873-06-19 &middot; Pulaski, Tenn.
+#### 1873-06-19 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3842,7 +3842,7 @@ l)ody ; for fainting, lay the person flat
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1873-06-20/ed-1/seq-4)
 
-#### 1873-06-20 &middot; Bolivar, Hardeman County, Tenn.
+#### 1873-06-20 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3882,7 +3882,7 @@ for fainting, lay the person flat
 
 ## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1873-06-26/ed-1/seq-1)
 
-#### 1873-06-26 &middot; Winchester, Tenn.
+#### 1873-06-26 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3922,7 +3922,7 @@ for fainting, lay tho person flat
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1873-06-26/ed-1/seq-4)
 
-#### 1873-06-26 &middot; Pulaski, Tenn.
+#### 1873-06-26 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3964,7 +3964,7 @@ for fainting, lay the person flat.
 
 ## [From _The McArthur enquirer._](https://chroniclingamerica.loc.gov/lccn/sn87075167/1873-07-02/ed-1/seq-1)
 
-#### 1873-07-02 &middot; M'arthur, Vinton County, Ohio
+#### 1873-07-02 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4002,7 +4002,7 @@ and keep moving. nt-iiiyr. a h
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1873-07-03/ed-1/seq-4)
 
-#### 1873-07-03 &middot; Lancaster, Wis.
+#### 1873-07-03 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4056,7 +4056,7 @@ body fainting, lay the person flat
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1873-07-03_46_27?page=4)
 
-#### 1873-07-03 &middot; Boston
+#### 1873-07-03 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4104,7 +4104,7 @@ give acids; white of an egg is good in most cases.
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-07-05/ed-1/seq-4)
 
-#### 1873-07-05 &middot; Clarksville, Tenn.
+#### 1873-07-05 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4156,7 +4156,7 @@ body; for fainting, lay the person fla
 
 ## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1873-07-31/ed-1/seq-4)
 
-#### 1873-07-31 &middot; Tipton, Cedar Co., Iowa
+#### 1873-07-31 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4216,7 +4216,7 @@ body for fainting, lay the person fla
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1873-07-31/ed-1/seq-4)
 
-#### 1873-07-31 &middot; Fayetteville, Tenn.
+#### 1873-07-31 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4268,7 +4268,7 @@ ncrso
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1873-08-30 &middot; Sydney, New South Wales
+#### 1873-08-30 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4318,7 +4318,7 @@ projecting. For apoplexy, raise the hea
 
 #### From _Shaker and Shakeress Monthly (1873-1875)_
 
-#### 1873-10-01 &middot; Shakers
+#### 1873-10-01 &middot; [Shakers](http://dbpedia.org/resource/New_Lebanon%2C_New_York)
 
 [This text is not available under an open license.]
 
@@ -4326,7 +4326,7 @@ projecting. For apoplexy, raise the hea
 
 ## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10?page=3)
 
-#### 1873-10-01
+#### 1873-10-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4376,7 +4376,7 @@ in most cases.
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1873-10-04/ed-1/seq-4)
 
-#### 1873-10-04 &middot; Auburn, Placer County, Calif.
+#### 1873-10-04 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4434,7 +4434,7 @@ mustard
 
 ## [From _Pioche daily record._](https://chroniclingamerica.loc.gov/lccn/sn84022048/1873-10-14/ed-1/seq-1)
 
-#### 1873-10-14 &middot; Pioche, Nev.
+#### 1873-10-14 &middot; [Pioche, Nev.](http://dbpedia.org/resource/Pioche%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4488,7 +4488,7 @@ for fainting, lay the person flat
 
 #### From _Mackay Mercury and South Kennedy Advertiser (Qld. : 1867 - 1887)_
 
-#### 1873-10-18 &middot; Mackay, Queensland
+#### 1873-10-18 &middot; [Mackay, Queensland](http://dbpedia.org/resource/Mackay%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4535,7 +4535,7 @@ with the noso und mouth projecting. For
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1873-12-27/ed-1/seq-3)
 
-#### 1873-12-27 &middot; Albany, Or.
+#### 1873-12-27 &middot; [Albany, Or.](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4589,7 +4589,7 @@ body ; for tainting, lay the person flat
 
 ## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1874-01-21/ed-1/seq-1)
 
-#### 1874-01-21 &middot; Lambertville, N.J.
+#### 1874-01-21 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4629,7 +4629,7 @@ for fainting, lie Hat
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1874-01-22/ed-1/seq-7)
 
-#### 1874-01-22 &middot; Plymouth, Ind.
+#### 1874-01-22 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4681,7 +4681,7 @@ body ; for fainting, lay the peraou flat
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1874-01-23/ed-1/seq-4)
 
-#### 1874-01-23 &middot; Emporia, Kan.
+#### 1874-01-23 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4711,7 +4711,7 @@ bing; dash cold water in them
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1874-01-31/ed-1/seq-2)
 
-#### 1874-01-31 &middot; Ottawa, Ill.
+#### 1874-01-31 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4756,7 +4756,7 @@ give strong coifee, and keep moving
 
 ## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1874-01-31/ed-1/seq-1)
 
-#### 1874-01-31 &middot; Frostburg, Md.
+#### 1874-01-31 &middot; [Frostburg, Md.](http://dbpedia.org/resource/Frostburg%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4808,7 +4808,7 @@ body ; for fainting, lay tho persou flat
 
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1874-02-03/ed-1/seq-2)
 
-#### 1874-02-03 &middot; Manitowoc, Wis.
+#### 1874-02-03 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4851,7 +4851,7 @@ and mustard, if in water float on th
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1874-03-30/ed-1/seq-4)
 
-#### 1874-03-30 &middot; Barton, Vt.
+#### 1874-03-30 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4905,7 +4905,7 @@ for fainting, lay the person fiat
 
 #### From _The Goulburn Herald and Chronicle (NSW : 1864 - 1881)_
 
-#### 1874-04-08 &middot; Goulburn, New South Wales
+#### 1874-04-08 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4950,7 +4950,7 @@ and mouth projecting. For apoplexy
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1874-05-06/ed-1/seq-2)
 
-#### 1874-05-06 &middot; Memphis, Tenn.
+#### 1874-05-06 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5002,7 +5002,7 @@ body; for fainting, lay the person flat
 
 ## [From _The Fremont weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn85038229/1874-06-19/ed-1/seq-5)
 
-#### 1874-06-19 &middot; Fremont, Sandusky County, Ohio
+#### 1874-06-19 &middot; [Fremont, Sandusky County, Ohio](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5055,7 +5055,7 @@ apoplexy, raise the head and bod
 
 ## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1874-06-26/ed-1/seq-2)
 
-#### 1874-06-26 &middot; Perrysburg, Wood Co., O. [Ohio]
+#### 1874-06-26 &middot; [Perrysburg, Wood Co., O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5101,7 +5101,7 @@ water float on the back, with nose an
 
 ## [From _The weekly clarion._](https://chroniclingamerica.loc.gov/lccn/sn83016926/1874-09-03/ed-1/seq-4)
 
-#### 1874-09-03 &middot; Jackson, Miss.
+#### 1874-09-03 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5159,7 +5159,7 @@ for fainting, lay the person flat
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1874-11-05/ed-1/seq-1)
 
-#### 1874-11-05 &middot; Anderson Court House, S.C.
+#### 1874-11-05 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5201,7 +5201,7 @@ with the nose and mouth projecting. Fo
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1874-11-05/ed-1/seq-1)
 
-#### 1874-11-05 &middot; Camden, S.C.
+#### 1874-11-05 &middot; [Camden, S.C.](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5249,7 +5249,7 @@ person flat
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1874-11-06/ed-1/seq-2)
 
-#### 1874-11-06 &middot; Salisbury, Litchfield Co., Conn.
+#### 1874-11-06 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5293,7 +5293,7 @@ raise the bead and liocty; for fainting, la
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1874-11-11/ed-1/seq-1)
 
-#### 1874-11-11 &middot; Clearfield, Pa.
+#### 1874-11-11 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5336,7 +5336,7 @@ on the back, with tho nose and mout
 
 ## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1874-11-18/ed-1/seq-1)
 
-#### 1874-11-18 &middot; New Orleans [La.]
+#### 1874-11-18 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5377,7 +5377,7 @@ and body ; for fainting, lay the person flat
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1874-11-25/ed-1/seq-4)
 
-#### 1874-11-25 &middot; Mifflintown, Juniata County, Pa.
+#### 1874-11-25 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5425,7 +5425,7 @@ fla
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1874-11-25/ed-1/seq-6)
 
-#### 1874-11-25 &middot; Watertown, Wis.
+#### 1874-11-25 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5470,7 +5470,7 @@ body; for fainting, ley the person flat
 
 ## [From _The Milan exchange._](https://chroniclingamerica.loc.gov/lccn/sn86053488/1874-11-26/ed-1/seq-1)
 
-#### 1874-11-26 &middot; Milan, Gibson County, Tenn.
+#### 1874-11-26 &middot; [Milan, Gibson County, Tenn.](http://dbpedia.org/resource/Milan%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5513,7 +5513,7 @@ for fainting, lay the person flat.
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1874-11-26/ed-1/seq-6)
 
-#### 1874-11-26 &middot; Mineral Point, Wis.
+#### 1874-11-26 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5558,7 +5558,7 @@ fainting, lay the person flat
 
 ## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1874-11-27/ed-1/seq-1)
 
-#### 1874-11-27 &middot; Rockville, Md.
+#### 1874-11-27 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5596,7 +5596,7 @@ oning excite vomiting by tickling the
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1874-11-27/ed-1/seq-2)
 
-#### 1874-11-27 &middot; Albany, Or.
+#### 1874-11-27 &middot; [Albany, Or.](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5644,7 +5644,7 @@ for fainting, lay the person flat.
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1874-11-27/ed-1/seq-1)
 
-#### 1874-11-27 &middot; Bolivar, Hardeman County, Tenn.
+#### 1874-11-27 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5694,7 +5694,7 @@ the person flat
 
 #### From _Daily evening bulletin._
 
-#### 1874-11-28 &middot; San Francisco [Calif.]
+#### 1874-11-28 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -5702,7 +5702,7 @@ the person flat
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1874-11-28/ed-1/seq-4)
 
-#### 1874-11-28 &middot; Superior, Wis.
+#### 1874-11-28 &middot; [Superior, Wis.](http://dbpedia.org/resource/Superior%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5738,7 +5738,7 @@ without delay. 11 Mih m .&gt;u * a
 
 ## [From _Knoxville journal._](https://chroniclingamerica.loc.gov/lccn/sn82015854/1874-12-03/ed-1/seq-1)
 
-#### 1874-12-03 &middot; Knoxville, Iowa
+#### 1874-12-03 &middot; [Knoxville, Iowa](http://dbpedia.org/resource/Knoxville%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5788,7 +5788,7 @@ for fainting, lay the person flat.&#x27;*
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1874-12-03/ed-1/seq-4)
 
-#### 1874-12-03 &middot; Pulaski, Tenn.
+#### 1874-12-03 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5837,7 +5837,7 @@ the person flat
 
 ## [From _Martinsburg weekly independent._](https://chroniclingamerica.loc.gov/lccn/sn84026810/1874-12-05/ed-1/seq-1)
 
-#### 1874-12-05 &middot; Martinsburg, W. Va.
+#### 1874-12-05 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5880,7 +5880,7 @@ with the uese and mouth projecting. Eo
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1874-12-10/ed-1/seq-1)
 
-#### 1874-12-10 &middot; Memphis, Tenn.
+#### 1874-12-10 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5923,7 +5923,7 @@ float ou the back, with the nose an
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1874-12-10/ed-1/seq-1)
 
-#### 1874-12-10 &middot; Woodstock, Va.
+#### 1874-12-10 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5968,7 +5968,7 @@ flat.
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1874-12-12/ed-1/seq-1)
 
-#### 1874-12-12 &middot; Shepherdstown, Va. [W. Va.]
+#### 1874-12-12 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6012,7 +6012,7 @@ body; for fainting, lay the person flat
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1874-12-18/ed-1/seq-1)
 
-#### 1874-12-18 &middot; Bellows Falls, Vt.
+#### 1874-12-18 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6053,7 +6053,7 @@ give strong c.ffee andkeep moving. I
 
 ## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1874-12-22/ed-1/seq-1)
 
-#### 1874-12-22 &middot; Van Buren, Ark.
+#### 1874-12-22 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6097,7 +6097,7 @@ projecting For appoplexy, raise th
 
 #### From _Daily evening bulletin._
 
-#### 1874-12-23 &middot; San Francisco [Calif.]
+#### 1874-12-23 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -6105,7 +6105,7 @@ projecting For appoplexy, raise th
 
 ## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1874-12-25/ed-1/seq-1)
 
-#### 1874-12-25 &middot; Somerset, Ohio
+#### 1874-12-25 &middot; [Somerset, Ohio](http://dbpedia.org/resource/Somerset%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6150,7 +6150,7 @@ for fainting, lay the person flat
 
 ## [From _Silent World 1871-1876_](https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1?page=2)
 
-#### 1875-01-01
+#### 1875-01-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6186,7 +6186,7 @@ flat.
 
 ## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1875-01-09/ed-1/seq-1)
 
-#### 1875-01-09 &middot; Iola, Allen County, Kansas
+#### 1875-01-09 &middot; [Iola, Allen County, Kansas](http://dbpedia.org/resource/Iola%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6233,7 +6233,7 @@ for fainting, lay the person flat
 
 #### From _Lowell daily citizen and news._
 
-#### 1875-01-11 &middot; Lowell, Mass.
+#### 1875-01-11 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -6241,7 +6241,7 @@ for fainting, lay the person flat
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1875-01-13/ed-1/seq-3)
 
-#### 1875-01-13 &middot; Watertown, Wis.
+#### 1875-01-13 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6290,7 +6290,7 @@ for fainting, lay the person flat
 
 ## [From _Peterson's Magazine (1849-1892)_](https://iiif.archivelab.org/iiif/sim_peterson-magazine_1875-02_67_2?page=55)
 
-#### 1875-02-01 &middot; Philadelphia
+#### 1875-02-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6325,7 +6325,7 @@ the head and body, For fainting, lay the person flat.”
 
 ## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1875-03-05/ed-1/seq-1)
 
-#### 1875-03-05 &middot; Ashtabula, Ohio
+#### 1875-03-05 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6369,7 +6369,7 @@ give strong coffee and keep moving
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1875-03-18/ed-1/seq-1)
 
-#### 1875-03-18 &middot; Bridgeton, N.J.
+#### 1875-03-18 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6419,7 +6419,7 @@ for fainting, lay the person flat
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1875-04-02/ed-1/seq-1)
 
-#### 1875-04-02 &middot; Mechanicstown, Md.
+#### 1875-04-02 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6467,7 +6467,7 @@ I! give strong coliee and keep moving.
 
 #### From _Southwestern advocate._
 
-#### 1875-05-06 &middot; New Orleans, La.
+#### 1875-05-06 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -6475,7 +6475,7 @@ I! give strong coliee and keep moving.
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1875-05-12/ed-1/seq-3)
 
-#### 1875-05-12 &middot; Memphis, Tenn.
+#### 1875-05-12 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6522,7 +6522,7 @@ the person flat. ;
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-05-20/ed-1/seq-1)
 
-#### 1875-05-20 &middot; Centre Hall, Pa.
+#### 1875-05-20 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6573,7 +6573,7 @@ For acid poisons, give strong coffe
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1875-05-28/ed-1/seq-1)
 
-#### 1875-05-28 &middot; Bel Air, Md.
+#### 1875-05-28 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6618,7 +6618,7 @@ fainting lay tlie person flat
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1875-06-24/ed-1/seq-1)
 
-#### 1875-06-24 &middot; Lancaster, Wis.
+#### 1875-06-24 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6668,7 +6668,7 @@ nose and month projecting. For apo
 
 ## [From _The St. Cloud journal._](https://chroniclingamerica.loc.gov/lccn/sn85033526/1875-09-02/ed-1/seq-1)
 
-#### 1875-09-02 &middot; St. Cloud, Minn.
+#### 1875-09-02 &middot; [St. Cloud, Minn.](http://dbpedia.org/resource/St._Cloud%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6709,7 +6709,7 @@ cover with varnish.
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1875-09-03/ed-1/seq-1)
 
-#### 1875-09-03 &middot; Bolivar, Hardeman County, Tenn.
+#### 1875-09-03 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6760,7 +6760,7 @@ with varnish
 
 ## [From _Knoxville Whig and chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85042534/1875-09-08/ed-1/seq-4)
 
-#### 1875-09-08 &middot; Knoxville, Tenn.
+#### 1875-09-08 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6807,7 +6807,7 @@ varnish
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1875-09-22/ed-1/seq-1)
 
-#### 1875-09-22 &middot; Clearfield, Pa.
+#### 1875-09-22 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6846,7 +6846,7 @@ acids ; in csm of opium poisoning, giv
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1875-10-02/ed-1/seq-1)
 
-#### 1875-10-02 &middot; Clarksville, Tenn.
+#### 1875-10-02 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6885,7 +6885,7 @@ wii ii varniMi
 
 #### From _The Galveston daily news._
 
-#### 1875-11-21 &middot; Houston [Tex.]
+#### 1875-11-21 &middot; [Houston [Tex.]](http://dbpedia.org/resource/Houston)
 
 [This text is not available under an open license.]
 
@@ -6893,7 +6893,7 @@ wii ii varniMi
 
 ## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1875-11-25/ed-1/seq-4)
 
-#### 1875-11-25 &middot; Troy, Kan.
+#### 1875-11-25 &middot; [Troy, Kan.](http://dbpedia.org/resource/Troy%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6926,7 +6926,7 @@ grater and shave off in small particles about
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1875-11-25/ed-1/seq-1)
 
-#### 1875-11-25 &middot; Pulaski, Tenn.
+#### 1875-11-25 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6959,7 +6959,7 @@ For aioplexy, raise the head an
 
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48?page=6)
 
-#### 1875-11-27 &middot; New York
+#### 1875-11-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7003,7 +7003,7 @@ flat.
 
 ## [From _Knoxville Whig and chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85042534/1875-12-01/ed-1/seq-8)
 
-#### 1875-12-01 &middot; Knoxville, Tenn.
+#### 1875-12-01 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7037,7 +7037,7 @@ For apoplexy, raise the head an
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1875-12-02/ed-1/seq-3)
 
-#### 1875-12-02 &middot; Kenosha, Wis.
+#### 1875-12-02 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7084,7 +7084,7 @@ with varnish.
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-12-23/ed-1/seq-4)
 
-#### 1875-12-23 &middot; Centre Hall, Pa.
+#### 1875-12-23 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7114,7 +7114,7 @@ fee and keep moving. It you fall int
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1876-01-28/ed-1/seq-1)
 
-#### 1876-01-28 &middot; Staunton, Va.
+#### 1876-01-28 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7158,7 +7158,7 @@ for fainting, lay the person flat
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1876-02-24/ed-1/seq-4)
 
-#### 1876-02-24 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1876-02-24 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7214,7 +7214,7 @@ For apoplexy, raise the head an
 
 #### From _Milwaukee daily sentinel._
 
-#### 1876-02-26 &middot; Milwaukee, Wis.
+#### 1876-02-26 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -7222,7 +7222,7 @@ For apoplexy, raise the head an
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1876-03-05/ed-1/seq-6)
 
-#### 1876-03-05 &middot; New York [N.Y.]
+#### 1876-03-05 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7246,7 +7246,7 @@ the skin is distroyed, cover with varnish
 
 ## [From _The Weekly Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn84027329/1876-03-09/ed-1/seq-1)
 
-#### 1876-03-09 &middot; Oskaloosa, Iowa
+#### 1876-03-09 &middot; [Oskaloosa, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7272,7 +7272,7 @@ varnish.
 
 ## [From _The Milan exchange._](https://chroniclingamerica.loc.gov/lccn/sn86053488/1876-03-09/ed-1/seq-1)
 
-#### 1876-03-09 &middot; Milan, Gibson County, Tenn.
+#### 1876-03-09 &middot; [Milan, Gibson County, Tenn.](http://dbpedia.org/resource/Milan%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7305,7 +7305,7 @@ For apoplexy, raise the head an
 
 ## [From _Oneida Circular (1871-1876)_](https://iiif.archivelab.org/iiif/sim_oneida-circular_1876-03-09_13_10?page=6)
 
-#### 1876-03-09 &middot; Brooklyn
+#### 1876-03-09 &middot; [Brooklyn](http://dbpedia.org/resource/Brooklyn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7349,7 +7349,7 @@ the skin is destroyed, cover with varnish.
 
 ## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-03-11_8_247?page=11)
 
-#### 1876-03-11
+#### 1876-03-11 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7386,7 +7386,7 @@ for fainting lay the person flat
 
 ## [From _The anti-monopolist._](https://chroniclingamerica.loc.gov/lccn/sn85025587/1876-03-23/ed-1/seq-6)
 
-#### 1876-03-23 &middot; Saint Paul, Minn.
+#### 1876-03-23 &middot; [Saint Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7417,7 +7417,7 @@ with varnish
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1876-03-23/ed-1/seq-4)
 
-#### 1876-03-23 &middot; Lancaster, Wis.
+#### 1876-03-23 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7451,7 +7451,7 @@ For apoplexy, raise the head an
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1876-03-25/ed-1/seq-6)
 
-#### 1876-03-25 &middot; Martinsburg, W. Va.
+#### 1876-03-25 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7483,7 +7483,7 @@ ed cover with varnish
 
 ## [From _The Rutland daily globe._](https://chroniclingamerica.loc.gov/lccn/sn84022473/1876-03-29/ed-1/seq-1)
 
-#### 1876-03-29 &middot; Rutland, Vt.
+#### 1876-03-29 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7513,7 +7513,7 @@ varnish
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1876-04-01/ed-1/seq-2)
 
-#### 1876-04-01 &middot; Opelousas, La.
+#### 1876-04-01 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7541,7 +7541,7 @@ stroyed, cover with varnish. For apo
 
 ## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1876-04-08/ed-1/seq-1)
 
-#### 1876-04-08 &middot; Olympia, Wash. Territory
+#### 1876-04-08 &middot; [Olympia, Wash. Territory](http://dbpedia.org/resource/Olympia%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7565,7 +7565,7 @@ ter; if the skin is (b stroyeu, cover with va
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1876-04-14/ed-1/seq-4)
 
-#### 1876-04-14 &middot; Deer Lodge, Mont.
+#### 1876-04-14 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7596,7 +7596,7 @@ ng varnish
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1876-04-17/ed-1/seq-1)
 
-#### 1876-04-17 &middot; Charlotte, N.C.
+#### 1876-04-17 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7636,7 +7636,7 @@ out the part as long as ean be born to a ho
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1876-04-20/ed-1/seq-4)
 
-#### 1876-04-20 &middot; Lancaster, Wis.
+#### 1876-04-20 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7669,7 +7669,7 @@ For apoplexy, raise the head an
 
 ## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1876-04-21/ed-1/seq-4)
 
-#### 1876-04-21 &middot; Independence, Iowa
+#### 1876-04-21 &middot; [Independence, Iowa](http://dbpedia.org/resource/Independence%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7708,7 +7708,7 @@ cover with varnish.
 
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
 
-#### 1876-05-19 &middot; Bendigo, Victoria
+#### 1876-05-19 &middot; [Bendigo, Victoria](http://dbpedia.org/resource/Bendigo)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7734,7 +7734,7 @@ varnish. For apoplexy raise the head an
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1876-06_92_552?page=83)
 
-#### 1876-06-01 &middot; New York
+#### 1876-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7759,7 +7759,7 @@ if the skin is destroyed, cover with varnish. Fo
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1876-06-10_20_1015?page=6)
 
-#### 1876-06-10 &middot; New York
+#### 1876-06-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7782,7 +7782,7 @@ cold water ; if the skin is destroyed, cover with varnish
 
 ## [From _Harper's weekly journal of civilization._](https://iiif.archivelab.org/iiif/sim_harpers-weekly_1876-06-10_20_1015?page=6)
 
-#### 1876-06-10 &middot; New York, N.Y.
+#### 1876-06-10 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7807,7 +7807,7 @@ cold water ; if the skin is destroyed, cover with varnish
 
 #### From _Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)_
 
-#### 1876-07-13 &middot; Maryborough, Queensland
+#### 1876-07-13 &middot; [Maryborough, Queensland](http://dbpedia.org/resource/Maryborough%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7835,7 +7835,7 @@ cover with varnisli. ! For apoplexy
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
-#### 1876-08-12 &middot; Brisbane, Queensland
+#### 1876-08-12 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7861,7 +7861,7 @@ cover with varnish. For apoplexy rai
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-09-07/ed-1/seq-1)
 
-#### 1876-09-07 &middot; Anderson Court House, S.C.
+#### 1876-09-07 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7905,7 +7905,7 @@ the person flat
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-09-07/ed-1/seq-2)
 
-#### 1876-09-07 &middot; Anderson Court House, S.C.
+#### 1876-09-07 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7949,7 +7949,7 @@ the person flat
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1876-09-30/ed-1/seq-4)
 
-#### 1876-09-30 &middot; Elkton, Md.
+#### 1876-09-30 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7978,7 +7978,7 @@ skin is destroyed, cover with varnish
 
 #### From _Inter ocean._
 
-#### 1876-10-11 &middot; Chicago, Ill.
+#### 1876-10-11 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -7988,7 +7988,7 @@ skin is destroyed, cover with varnish
 
 #### From _Prairie farmer._
 
-#### 1876-10-28 &middot; Chicago, Ill.
+#### 1876-10-28 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Indianapolis)
 
 [This text is not available under an open license.]
 
@@ -7996,7 +7996,7 @@ skin is destroyed, cover with varnish
 
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1876-11-16/ed-1/seq-3)
 
-#### 1876-11-16 &middot; Russellville, Ark.
+#### 1876-11-16 &middot; [Russellville, Ark.](http://dbpedia.org/resource/Russellville%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8032,7 +8032,7 @@ For apoplexy raise the hea
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1876-12-21_49_51?page=7)
 
-#### 1876-12-21 &middot; Boston
+#### 1876-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8077,7 +8077,7 @@ the person flat.
 
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1877-03-08/ed-1/seq-1)
 
-#### 1877-03-08 &middot; Manitowoc, Wis.
+#### 1877-03-08 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8107,7 +8107,7 @@ cover it with varnish. For apoplexy, rais
 
 #### From _Southwestern Christian advocate._
 
-#### 1877-04-26 &middot; New Orleans, La.
+#### 1877-04-26 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -8115,7 +8115,7 @@ cover it with varnish. For apoplexy, rais
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1877-05-03/ed-1/seq-3)
 
-#### 1877-05-03 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1877-05-03 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8139,7 +8139,7 @@ skin is destroyed, cover it with varnish
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1877-07-11/ed-1/seq-1)
 
-#### 1877-07-11 &middot; Smyrna, Del.
+#### 1877-07-11 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8169,7 +8169,7 @@ varnish
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1877-07-28/ed-1/seq-6)
 
-#### 1877-07-28 &middot; Westminster, Md.
+#### 1877-07-28 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8200,7 +8200,7 @@ varnish
 
 ## [From _The Florida agriculturist._](https://chroniclingamerica.loc.gov/lccn/sn96027724/1878-05-29/ed-1/seq-2)
 
-#### 1878-05-29 &middot; DeLand, Fla.
+#### 1878-05-29 &middot; [DeLand, Fla.](http://dbpedia.org/resource/Jacksonville%2C_Florida)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8230,7 +8230,7 @@ varnish. For apoplexy, raise th
 
 ## [From _Claiborne guardian._](https://chroniclingamerica.loc.gov/lccn/sn88064118/1878-08-21/ed-1/seq-1)
 
-#### 1878-08-21 &middot; Homer, La.
+#### 1878-08-21 &middot; [Homer, La.](http://dbpedia.org/resource/Homer%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8288,7 +8288,7 @@ In a eae ao m Iag
 
 #### From _Boston investigator._
 
-#### 1879-03-26 &middot; Boston, Mass.
+#### 1879-03-26 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -8296,7 +8296,7 @@ In a eae ao m Iag
 
 ## [From _The farmer and mechanic._](https://chroniclingamerica.loc.gov/lccn/sn85042098/1879-05-22/ed-1/seq-5)
 
-#### 1879-05-22 &middot; Raleigh, N.C.
+#### 1879-05-22 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8339,7 +8339,7 @@ the nose and mouth projecting. F
 
 ## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1879-05-24_40_21?page=11)
 
-#### 1879-05-24 &middot; New York
+#### 1879-05-24 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8381,7 +8381,7 @@ and mouth projecting. For apoplexy raise the head an
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1879-06-06/ed-1/seq-3)
 
-#### 1879-06-06 &middot; Charlotte, N.C.
+#### 1879-06-06 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8419,7 +8419,7 @@ For acid poisons give acids; in case o
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1879-06-12/ed-1/seq-1)
 
-#### 1879-06-12 &middot; Bridgeton, N.J.
+#### 1879-06-12 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8443,7 +8443,7 @@ ing about
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1879-07-05/ed-1/seq-1)
 
-#### 1879-07-05 &middot; Elkton, Md.
+#### 1879-07-05 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8484,7 +8484,7 @@ For acid jioisous, give acids; iu ease of opium
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1879-07-24/ed-1/seq-1)
 
-#### 1879-07-24 &middot; Manitowoc, Wis.
+#### 1879-07-24 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8526,7 +8526,7 @@ acids; in case of opium poisonings, giv
 
 ## [From _The weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn86053402/1879-08-07/ed-1/seq-4)
 
-#### 1879-08-07 &middot; Cleveland, Tenn.
+#### 1879-08-07 &middot; [Cleveland, Tenn.](http://dbpedia.org/resource/Cleveland%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8551,7 +8551,7 @@ FiFn Frittebs. Take the remains o
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34?page=7)
 
-#### 1879-08-21 &middot; Boston
+#### 1879-08-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8597,7 +8597,7 @@ give alkalies; in case of opium poison, give stron
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34?page=7)
 
-#### 1879-08-21 &middot; Boston
+#### 1879-08-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8619,7 +8619,7 @@ If choked, get upon all fours and cough. For
 
 #### From _Aberdeen Journal_
 
-#### 1879-08-25 &middot; Aberdeen, Scotland
+#### 1879-08-25 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -8627,7 +8627,7 @@ If choked, get upon all fours and cough. For
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-08-30_59_6?page=6)
 
-#### 1879-08-30 &middot; Philadelphia
+#### 1879-08-30 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8661,7 +8661,7 @@ tard, In case of opium ison give stron
 
 #### From _Newcastle Morning Herald and Miners' Advocate (NSW : 1876 - 1954) _
 
-#### 1879-08-30 &middot; Newcastle, New South Wales
+#### 1879-08-30 &middot; [Newcastle, New South Wales](http://dbpedia.org/resource/Newcastle%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8700,7 +8700,7 @@ keep mov;ng I, in water float on th
 
 ## [From _West Virginia argus._](https://chroniclingamerica.loc.gov/lccn/sn86092245/1879-09-27/ed-1/seq-4)
 
-#### 1879-09-27 &middot; Kingwood, W. Va.
+#### 1879-09-27 &middot; [Kingwood, W. Va.](http://dbpedia.org/resource/Kingwood%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8741,7 +8741,7 @@ and keep moving. If in water, float o
 
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1879-10-17/ed-1/seq-1)
 
-#### 1879-10-17 &middot; Idaho City, Idaho Territory
+#### 1879-10-17 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8780,7 +8780,7 @@ i In case of opium poison give stron
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-10-23/ed-1/seq-1)
 
-#### 1879-10-23 &middot; Yorkville, S.C.
+#### 1879-10-23 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8825,7 +8825,7 @@ of Osakona, Wisconsin, has started one o
 
 #### From _Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)_
 
-#### 1879-10-24 &middot; Rockhampton, Queensland
+#### 1879-10-24 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8864,7 +8864,7 @@ back, with tho 1109e and mont
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1879-11-08 &middot; Sydney, New South Wales
+#### 1879-11-08 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8901,7 +8901,7 @@ float on the back, with the nose an
 
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
 
-#### 1879-11-22 &middot; Riverina Region, New South Wales
+#### 1879-11-22 &middot; [Riverina Region, New South Wales](http://dbpedia.org/resource/Hay%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8931,7 +8931,7 @@ for fainting lay the person flat.
 
 #### From _Clarence and Richmond Examiner and New England Advertiser (Grafton, NSW : 1859 - 1889)_
 
-#### 1879-11-22 &middot; Grafton, New South Wales
+#### 1879-11-22 &middot; [Grafton, New South Wales](http://dbpedia.org/resource/Grafton%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8968,7 +8968,7 @@ and mouth projecting. For apoplexy rnis
 
 ## [From _The Eaton Democrat._](https://chroniclingamerica.loc.gov/lccn/sn88077272/1879-12-25/ed-1/seq-4)
 
-#### 1879-12-25 &middot; Eaton, Ohio
+#### 1879-12-25 &middot; [Eaton, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9009,7 +9009,7 @@ opium poison, give strong coffee, an
 
 ## [From _Daily globe._](https://chroniclingamerica.loc.gov/lccn/sn83025287/1880-01-04/ed-1/seq-2)
 
-#### 1880-01-04 &middot; St. Paul, Minn.
+#### 1880-01-04 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9051,7 +9051,7 @@ keep moving. If in water, float on th
 
 ## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1880-01-08/ed-1/seq-1)
 
-#### 1880-01-08 &middot; Worthington, Minn.
+#### 1880-01-08 &middot; [Worthington, Minn.](http://dbpedia.org/resource/Worthington%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9088,7 +9088,7 @@ coal, or of a cigar. I case o
 
 ## [From _The Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn00065151/1880-01-10/ed-1/seq-6)
 
-#### 1880-01-10 &middot; Big Stone City, Grant County, Dakota [S.D.]
+#### 1880-01-10 &middot; [Big Stone City, Grant County, Dakota [S.D.]](http://dbpedia.org/resource/Big_Stone_City%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9132,7 +9132,7 @@ pium poison, give strong coffee, an
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1880-11-11/ed-1/seq-1)
 
-#### 1880-11-11 &middot; Pulaski, Tenn.
+#### 1880-11-11 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9175,7 +9175,7 @@ opium poison give Btrong coffee
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1881-07-16_60_52?page=6)
 
-#### 1881-07-16 &middot; Philadelphia
+#### 1881-07-16 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9216,7 +9216,7 @@ moata proj onee For ap x0lex7, raiss ta
 
 #### From _Cherokee advocate._
 
-#### 1881-12-09 &middot; Tahlequah, Cherokee Nation [Okla.]
+#### 1881-12-09 &middot; [Tahlequah, Cherokee Nation [Okla.]](http://dbpedia.org/resource/Tahlequah%2C_Oklahoma)
 
 [This text is not available under an open license.]
 
@@ -9224,7 +9224,7 @@ moata proj onee For ap x0lex7, raiss ta
 
 ## [From _The new dominion._](https://chroniclingamerica.loc.gov/lccn/sn86092182/1882-08-05/ed-1/seq-4)
 
-#### 1882-08-05 &middot; Morgantown, W. Va.
+#### 1882-08-05 &middot; [Morgantown, W. Va.](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9268,7 +9268,7 @@ nose and mouth projecting. For appo
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1882-08-10/ed-1/seq-4)
 
-#### 1882-08-10 &middot; Pulaski, Tenn.
+#### 1882-08-10 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9331,7 +9331,7 @@ iug.For apoplexy, raise the head an
 
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
 
-#### 1885-09-12 &middot; Sydney, New South Wales
+#### 1885-09-12 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9379,7 +9379,7 @@ flat
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
-#### 1885-10-30 &middot; Clare, South Australia
+#### 1885-10-30 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9422,7 +9422,7 @@ good in most cases. For apoplexy, rais
 
 ## [From _Nevada County picayune._](https://chroniclingamerica.loc.gov/lccn/sn87091048/1886-09-15/ed-1/seq-4)
 
-#### 1886-09-15 &middot; Prescott, Nev. County, Ark.
+#### 1886-09-15 &middot; [Prescott, Nev. County, Ark.](http://dbpedia.org/resource/Prescott%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9496,7 +9496,7 @@ j water float on the back with the]
 
 ## [From _Macon beacon._](https://chroniclingamerica.loc.gov/lccn/sn83016943/1886-09-25/ed-1/seq-4)
 
-#### 1886-09-25 &middot; Macon, Miss.
+#### 1886-09-25 &middot; [Macon, Miss.](http://dbpedia.org/resource/Macon%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9536,7 +9536,7 @@ poisons, give alkalies; for alka
 
 ## [From _The weekly Thibodaux sentinel and journal of the 8th Senatorial District._](https://chroniclingamerica.loc.gov/lccn/sn88064492/1888-01-21/ed-1/seq-1)
 
-#### 1888-01-21 &middot; Thibodaux, Lna. [i.e. La.]
+#### 1888-01-21 &middot; [Thibodaux, Lna. [i.e. La.]](http://dbpedia.org/resource/Thibodaux%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9593,7 +9593,7 @@ For apoplexy raise the head an
 
 ## [From _The Silver state._](https://chroniclingamerica.loc.gov/lccn/sn84022060/1892-03-30/ed-1/seq-2)
 
-#### 1892-03-30 &middot; Unionville, Nev.
+#### 1892-03-30 &middot; [Unionville, Nev.](http://dbpedia.org/resource/Unionville%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9652,7 +9652,7 @@ of a cigar
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1892-04-05/ed-1/seq-3)
 
-#### 1892-04-05 &middot; Portland, Me.
+#### 1892-04-05 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9698,7 +9698,7 @@ mustard
 
 ## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1892-04-12/ed-1/seq-4)
 
-#### 1892-04-12 &middot; Wheeling, W. Va.
+#### 1892-04-12 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9758,7 +9758,7 @@ be borne to a hot coal or end of a cigar
 
 #### From _The Atchison daily globe._
 
-#### 1892-04-20 &middot; Atchison, Kan.
+#### 1892-04-20 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -9766,7 +9766,7 @@ be borne to a hot coal or end of a cigar
 
 ## [From _The Sauk Centre herald._](https://chroniclingamerica.loc.gov/lccn/sn89064489/1892-04-21/ed-1/seq-4)
 
-#### 1892-04-21 &middot; Sauk Centre, Stearns County, Minn.
+#### 1892-04-21 &middot; [Sauk Centre, Stearns County, Minn.](http://dbpedia.org/resource/Sauk_Centre%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9784,7 +9784,7 @@ cil.
 
 ## [From _Fisherman & farmer._](https://chroniclingamerica.loc.gov/lccn/sn91068084/1892-04-22/ed-1/seq-3)
 
-#### 1892-04-22 &middot; Edenton, N.C.
+#### 1892-04-22 &middot; [Edenton, N.C.](http://dbpedia.org/resource/Edenton%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9847,7 +9847,7 @@ and mustard
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1892-04-25/ed-1/seq-2)
 
-#### 1892-04-25 &middot; Barton, Vt.
+#### 1892-04-25 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9918,7 +9918,7 @@ water and mustard
 
 ## [From _Gloucester County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87068079/1892-04-28/ed-1/seq-1)
 
-#### 1892-04-28 &middot; Woodbury, N.J.
+#### 1892-04-28 &middot; [Woodbury, N.J.](http://dbpedia.org/resource/Woodbury%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9945,7 +9945,7 @@ if carbonic acid gas is suspected walk erect
 
 ## [From _Eureka weekly sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86076200/1892-04-30/ed-1/seq-1)
 
-#### 1892-04-30 &middot; Eureka, Nev.
+#### 1892-04-30 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10017,7 +10017,7 @@ Mr. Blaize had occasion to driv
 
 ## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn86072173/1892-04-30/ed-1/seq-3)
 
-#### 1892-04-30 &middot; Cheyenne, Wyo.
+#### 1892-04-30 &middot; [Cheyenne, Wyo.](http://dbpedia.org/resource/Cheyenne%2C_Wyoming)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10041,7 +10041,7 @@ Labor and the Third I’arty
 
 #### From _Southern Cultivator (1843-1906)_
 
-#### 1892-05-01 &middot; Atlanta
+#### 1892-05-01 &middot; [Atlanta](http://dbpedia.org/resource/Atlanta)
 
 [This text is not available under an open license.]
 
@@ -10049,7 +10049,7 @@ Labor and the Third I’arty
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1892-05-04/ed-1/seq-1)
 
-#### 1892-05-04 &middot; Tionesta, Pa.
+#### 1892-05-04 &middot; [Tionesta, Pa.](http://dbpedia.org/resource/Tionesta%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10112,7 +10112,7 @@ and mustard
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1892-05-04/ed-1/seq-2)
 
-#### 1892-05-04 &middot; Tionesta, Pa.
+#### 1892-05-04 &middot; [Tionesta, Pa.](http://dbpedia.org/resource/Tionesta%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10154,7 +10154,7 @@ and mustard
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1892-05-04/ed-1/seq-3)
 
-#### 1892-05-04 &middot; Tionesta, Pa.
+#### 1892-05-04 &middot; [Tionesta, Pa.](http://dbpedia.org/resource/Tionesta%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10217,7 +10217,7 @@ and mustard
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1892-05-05/ed-1/seq-3)
 
-#### 1892-05-05 &middot; St. Clairsville, Ohio
+#### 1892-05-05 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10245,7 +10245,7 @@ Why It Is That the Expert Manipulator
 
 ## [From _Woman's chronicle._](https://chroniclingamerica.loc.gov/lccn/sn90050094/1892-05-07/ed-1/seq-4)
 
-#### 1892-05-07 &middot; Little Rock, Ark.
+#### 1892-05-07 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10263,7 +10263,7 @@ cil
 
 ## [From _The Salt Lake herald._](https://chroniclingamerica.loc.gov/lccn/sn85058130/1892-05-08/ed-1/seq-5)
 
-#### 1892-05-08 &middot; Salt Lake City [Utah]
+#### 1892-05-08 &middot; [Salt Lake City [Utah]](http://dbpedia.org/resource/Salt_Lake_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10285,7 +10285,7 @@ to a hot coal or end of ciga
 
 ## [From _The Roanoke times._](https://chroniclingamerica.loc.gov/lccn/sn86071868/1892-05-13/ed-1/seq-6)
 
-#### 1892-05-13 &middot; Roanoke, Va.
+#### 1892-05-13 &middot; [Roanoke, Va.](http://dbpedia.org/resource/Roanoke%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10328,7 +10328,7 @@ ter and mustard
 
 ## [From _Los Angeles herald._](https://chroniclingamerica.loc.gov/lccn/sn84025968/1892-05-17/ed-1/seq-10)
 
-#### 1892-05-17 &middot; Los Angeles [Calif.]
+#### 1892-05-17 &middot; [Los Angeles [Calif.]](http://dbpedia.org/resource/Los_Angeles)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10346,7 +10346,7 @@ cil.
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1892-05-25/ed-1/seq-1)
 
-#### 1892-05-25 &middot; Yorkville, S.C.
+#### 1892-05-25 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10395,7 +10395,7 @@ j If iu water, Moat on the hack, wit
 
 ## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1892-06-16/ed-1/seq-3)
 
-#### 1892-06-16 &middot; Jamesburg, N.J.
+#### 1892-06-16 &middot; [Jamesburg, N.J.](http://dbpedia.org/resource/Jamesburg%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10449,7 +10449,7 @@ ling the throat or by warm water and mustard.
 
 ## [From _Dakota farmers' leader._](https://chroniclingamerica.loc.gov/lccn/sn00065127/1892-06-24/ed-1/seq-3)
 
-#### 1892-06-24 &middot; Canton, S.D.
+#### 1892-06-24 &middot; [Canton, S.D.](http://dbpedia.org/resource/Canton%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10473,7 +10473,7 @@ acid gas is suspected walk erect.
 
 ## [From _Audubon County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85049838/1892-07-28/ed-1/seq-4)
 
-#### 1892-07-28 &middot; Audubon, Audubon Co., Iowa
+#### 1892-07-28 &middot; [Audubon, Audubon Co., Iowa](http://dbpedia.org/resource/Audubon%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10500,7 +10500,7 @@ suspected walk erect—Prof. B. U
 
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
 
-#### 1892-08-04 &middot; Maitland, New South Wales
+#### 1892-08-04 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10539,7 +10539,7 @@ by warm water and mu« I ard. If in
 
 ## [From _The midland journal._](https://chroniclingamerica.loc.gov/lccn/sn89060136/1892-08-12/ed-1/seq-4)
 
-#### 1892-08-12 &middot; Rising Sun, Md.
+#### 1892-08-12 &middot; [Rising Sun, Md.](http://dbpedia.org/resource/Rising_Sun%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10566,7 +10566,7 @@ then sloop low, but if carbonic acid
 
 #### From _The Emporia daily gazette._
 
-#### 1892-08-26 &middot; Emporia, Kan.
+#### 1892-08-26 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -10574,7 +10574,7 @@ then sloop low, but if carbonic acid
 
 ## [From _The Kootenai herald._](https://chroniclingamerica.loc.gov/lccn/sn86091083/1892-09-02/ed-1/seq-2)
 
-#### 1892-09-02 &middot; Kootenai, Idaho
+#### 1892-09-02 &middot; [Kootenai, Idaho](http://dbpedia.org/resource/Kootenai%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10599,7 +10599,7 @@ A METAMORPHOSI
 
 #### From _Clarence and Richmond Examiner (Grafton, NSW : 1889 - 1915)_
 
-#### 1892-09-06 &middot; Grafton, New South Wales
+#### 1892-09-06 &middot; [Grafton, New South Wales](http://dbpedia.org/resource/Grafton%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10636,7 +10636,7 @@ throut,by¡,warm water and mus-tard.,
 
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1893-02-17/ed-1/seq-4)
 
-#### 1893-02-17 &middot; Albany, Linn County, Oregon
+#### 1893-02-17 &middot; [Albany, Linn County, Oregon](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10691,7 +10691,7 @@ mustard.
 
 ## [From _The Roanoke times._](https://chroniclingamerica.loc.gov/lccn/sn86071868/1893-02-24/ed-1/seq-7)
 
-#### 1893-02-24 &middot; Roanoke, Va.
+#### 1893-02-24 &middot; [Roanoke, Va.](http://dbpedia.org/resource/Roanoke%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10711,7 +10711,7 @@ pected walk erect.
 
 ## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1893-03-02/ed-1/seq-3)
 
-#### 1893-03-02 &middot; Wichita, Kan.
+#### 1893-03-02 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10733,7 +10733,7 @@ pected walk erect
 
 #### From _Belfast News-Letter_
 
-#### 1893-11-25 &middot; Belfast, Ireland
+#### 1893-11-25 &middot; [Belfast, Ireland](http://dbpedia.org/resource/Belfast)
 
 [This text is not available under an open license.]
 
@@ -10741,7 +10741,7 @@ pected walk erect
 
 ## [From _Capital journal._](https://chroniclingamerica.loc.gov/lccn/sn99063954/1894-01-29/ed-1/seq-3)
 
-#### 1894-01-29 &middot; Salem, Or.
+#### 1894-01-29 &middot; [Salem, Or.](http://dbpedia.org/resource/Salem%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10790,7 +10790,7 @@ Remove matter from tho ear wit
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1894-03-01/ed-1/seq-8)
 
-#### 1894-03-01 &middot; Lancaster, Wis.
+#### 1894-03-01 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10833,7 +10833,7 @@ water and mustard
 
 ## [From _The Telegraph-courier._](https://chroniclingamerica.loc.gov/lccn/sn85040310/1895-12-05/ed-1/seq-6)
 
-#### 1895-12-05 &middot; Kenosha, Wis.
+#### 1895-12-05 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10881,7 +10881,7 @@ fainting, lay the person flat.
 
 ## [From _Semi-weekly independent._](https://chroniclingamerica.loc.gov/lccn/sn87056250/1896-01-04/ed-1/seq-5)
 
-#### 1896-01-04 &middot; Plymouth, Marshall County, Ind.
+#### 1896-01-04 &middot; [Plymouth, Marshall County, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10907,7 +10907,7 @@ fainting, lay the person flat.
 
 ## [From _The Guthrie daily leader._](https://chroniclingamerica.loc.gov/lccn/sn86063952/1896-01-29/ed-1/seq-3)
 
-#### 1896-01-29 &middot; Guthrie, Okla.
+#### 1896-01-29 &middot; [Guthrie, Okla.](http://dbpedia.org/resource/Guthrie%2C_Oklahoma)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

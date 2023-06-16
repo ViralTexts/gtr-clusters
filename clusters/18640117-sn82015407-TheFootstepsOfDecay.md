@@ -143,7 +143,7 @@ When age comes on.
 
 ## [From _The Museum of Foreign Literature, Science, and Art (1822-1842)_](https://iiif.archivelab.org/iiif/sim_museum-of-foreign-literature-science-and-art_1824_4_23?page=16)
 
-#### 1824-01-01 &middot; Philadelphia
+#### 1824-01-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -226,7 +226,7 @@ When age comes on.
 
 ## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
 
-#### 1824-01-01
+#### 1824-01-01 &middot; [Baltimore, Maryland](http://dbpedia.org/resource/Baltimore)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -243,7 +243,7 @@ odes of Luis de Leon. The flow of the verse, and the fine an
 
 ## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
 
-#### 1824-01-01
+#### 1824-01-01 &middot; [Baltimore, Maryland](http://dbpedia.org/resource/Baltimore)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -343,7 +343,7 @@ And where are they?
 
 #### From _The Museum of Foreign Literature, Science, and Art (1822-1842)_
 
-#### 1824-05-01 &middot; Philadelphia
+#### 1824-05-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -351,7 +351,7 @@ And where are they?
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41?page=3)
 
-#### 1824-05-21 &middot; Boston [Mass.]
+#### 1824-05-21 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -451,7 +451,7 @@ When age comes on.
 
 ## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347?page=3)
 
-#### 1824-06-04 &middot; Boston
+#### 1824-06-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -517,7 +517,7 @@ When age comes on.
 
 ## [From _The ladies' garland._](https://chroniclingamerica.loc.gov/lccn/sn85059803/1824-06-12/ed-1/seq-4)
 
-#### 1824-06-12 &middot; Harpers-Ferry, Va. [W. Va.]
+#### 1824-06-12 &middot; [Harpers-Ferry, Va. [W. Va.]](http://dbpedia.org/resource/Harpers_Ferry%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -548,7 +548,7 @@ How still our present happines
 
 #### From _Bangor register._
 
-#### 1824-06-17 &middot; Bangor, Me.
+#### 1824-06-17 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -556,7 +556,7 @@ How still our present happines
 
 ## [From _The Rhode-Island Republican._](https://chroniclingamerica.loc.gov/lccn/sn83025561/1824-08-05/ed-1/seq-4)
 
-#### 1824-08-05 &middot; Newport, R.I.
+#### 1824-08-05 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -623,7 +623,7 @@ Ani joy grows weariness and wo,
 
 ## [From _Constitutional Whig._](https://chroniclingamerica.loc.gov/lccn/sn83045110/1825-01-14/ed-1/seq-4)
 
-#### 1825-01-14 &middot; Richmond, Va.
+#### 1825-01-14 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -652,7 +652,7 @@ How still our piesent ham .nes
 
 ## [From _Constitutional Whig._](https://chroniclingamerica.loc.gov/lccn/sn83045110/1825-01-14/ed-1/seq-4)
 
-#### 1825-01-14 &middot; Richmond, Va.
+#### 1825-01-14 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -715,7 +715,7 @@ And joy g.o*;,S weariness and woe
 
 ## [From _Phenix gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025006/1825-02-05/ed-1/seq-4)
 
-#### 1825-02-05 &middot; Alexandria [D.C.]
+#### 1825-02-05 &middot; [Alexandria [D.C.]](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -795,7 +795,7 @@ When age comes on
 
 ## [From _Martinsburgh gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038455/1825-02-24/ed-1/seq-4)
 
-#### 1825-02-24 &middot; Martinsburgh, Va. [W. Va.]
+#### 1825-02-24 &middot; [Martinsburgh, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -821,7 +821,7 @@ How pleasure, like the pasa ng wind
 
 ## [From _Martinsburgh gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038455/1825-02-24/ed-1/seq-4)
 
-#### 1825-02-24 &middot; Martinsburgh, Va. [W. Va.]
+#### 1825-02-24 &middot; [Martinsburgh, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -883,7 +883,7 @@ When age conies on.
 
 ## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1?page=38)
 
-#### 1825-03-01 &middot; Philadelphia
+#### 1825-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -920,7 +920,7 @@ How still our present happines
 
 ## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1?page=39)
 
-#### 1825-03-01 &middot; Philadelphia
+#### 1825-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1003,7 +1003,7 @@ When age comes on.
 
 ## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1825-03-26_1_43?page=3)
 
-#### 1825-03-26 &middot; New York
+#### 1825-03-26 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1088,7 +1088,7 @@ When age comes on.
 
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
 
-#### 1825-04-26 &middot; Utica, N.Y.
+#### 1825-04-26 &middot; [Utica, N.Y.](http://dbpedia.org/resource/Utica%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1108,7 +1108,7 @@ cept the ode of Luis de Lean. 1
 
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
 
-#### 1825-04-26 &middot; Utica, N.Y.
+#### 1825-04-26 &middot; [Utica, N.Y.](http://dbpedia.org/resource/Utica%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1155,7 +1155,7 @@ Alike the humble riv’lets glide
 
 ## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
 
-#### 1825-04-26 &middot; Utica, N.Y.
+#### 1825-04-26 &middot; [Utica, N.Y.](http://dbpedia.org/resource/Utica%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1217,7 +1217,7 @@ When age comes on.
 
 #### From _Mutual Rights and Methodist Protestant (1824-1825)_
 
-#### 1825-05-01 &middot; Baltimore
+#### 1825-05-01 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
 [This text is not available under an open license.]
 
@@ -1227,7 +1227,7 @@ When age comes on.
 
 #### From _Mutual Rights and Methodist Protestant (1824-1825)_
 
-#### 1825-05-01 &middot; Baltimore
+#### 1825-05-01 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
 [This text is not available under an open license.]
 
@@ -1235,7 +1235,7 @@ When age comes on.
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19?page=0)
 
-#### 1825-05-14 &middot; Boston [Mass.]
+#### 1825-05-14 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1328,7 +1328,7 @@ When age comes on.
 
 #### From _New-Hampshire statesman._
 
-#### 1825-05-30 &middot; Concord, N.H.
+#### 1825-05-30 &middot; [Concord, N.H.](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -1336,7 +1336,7 @@ When age comes on.
 
 ## [From _The Cincinnati Literary Gazette (1824-1825)_](https://iiif.archivelab.org/iiif/sim_cincinnati-literary-gazette_1825-06-18_3_25?page=7)
 
-#### 1825-06-18 &middot; Cincinnati
+#### 1825-06-18 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1419,7 +1419,7 @@ eTHE CINCINNATI LITERARY GAZETTE.
 
 ## [From _The American Athenaeum:  A Repository of Belles Lettres, Science, and the Arts (1825-1825)_](https://iiif.archivelab.org/iiif/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11?page=1)
 
-#### 1825-07-07 &middot; New York
+#### 1825-07-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1509,7 +1509,7 @@ When age comes on.
 
 ## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7sbc3svk62?page=3)
 
-#### 1825-07-29 &middot; [Lexington, Ky.]
+#### 1825-07-29 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1626,7 +1626,7 @@ When age comes on.
 
 #### From _Missouri republican._
 
-#### 1825-10-31 &middot; St. Louis, Mo.
+#### 1825-10-31 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -1634,7 +1634,7 @@ When age comes on.
 
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35?page=3)
 
-#### 1825-11-26 &middot; Philadelphia, Pa.
+#### 1825-11-26 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1664,7 +1664,7 @@ How pleasure like the passing \vin»l
 
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35?page=3)
 
-#### 1825-11-26 &middot; Philadelphia, Pa.
+#### 1825-11-26 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1743,7 +1743,7 @@ And j
 
 ## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199?page=3)
 
-#### 1825-11-29 &middot; Pittsburgh
+#### 1825-11-29 &middot; [Pittsburgh](http://dbpedia.org/resource/Pittsburgh)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1760,7 +1760,7 @@ fs surpassed by nothing which we are acquainted
 
 ## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199?page=3)
 
-#### 1825-11-29 &middot; Pittsburgh
+#### 1825-11-29 &middot; [Pittsburgh](http://dbpedia.org/resource/Pittsburgh)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1864,7 +1864,7 @@ When age comes on
 
 ## [From _The Columbian star._](https://iiif.archivelab.org/iiif/sim_columbian-star_1825-12-10_4_50?page=3)
 
-#### 1825-12-10 &middot; Washington City
+#### 1825-12-10 &middot; [Washington City](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1957,7 +1957,7 @@ When age comes on.
 
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4?page=3)
 
-#### 1825-12-30 &middot; Boston
+#### 1825-12-30 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2002,7 +2002,7 @@ No hap} ier, let us hope to tind
 
 ## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4?page=3)
 
-#### 1825-12-30 &middot; Boston
+#### 1825-12-30 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2042,7 +2042,7 @@ When age comes o
 
 #### From _The Monitor (Sydney, NSW : 1826 - 1828)_
 
-#### 1826-05-26 &middot; Sydney, New South Wales
+#### 1826-05-26 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2095,7 +2095,7 @@ weariness and woe When age comes on
 
 ## [From _Washington Theological Repertory (1819-1828)_](https://iiif.archivelab.org/iiif/sim_theological-repertory-and-churchmans-guide_1826-09_8_2?page=17)
 
-#### 1826-09-01 &middot; Washington
+#### 1826-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2213,7 +2213,7 @@ When age come on
 
 ## [From _Christian telescope and Universalist miscellany._](https://iiif.archivelab.org/iiif/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9?page=6)
 
-#### 1826-10-07 &middot; Providence, R.I.
+#### 1826-10-07 &middot; [Providence, R.I.](http://dbpedia.org/resource/Providence%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2322,7 +2322,7 @@ When age comes on.
 
 #### From _Daily national intelligencer._
 
-#### 1826-11-01 &middot; Washington City [D.C.]
+#### 1826-11-01 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -2332,7 +2332,7 @@ When age comes on.
 
 #### From _Vermont chronicle._
 
-#### 1826-11-03 &middot; Bellows Falls, Vt.
+#### 1826-11-03 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -2340,7 +2340,7 @@ When age comes on.
 
 ## [From _The Wilmingtonian, and Delaware advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85042523/1826-11-09/ed-1/seq-1)
 
-#### 1826-11-09 &middot; Wilmington, Del.
+#### 1826-11-09 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2413,7 +2413,7 @@ When age cornea on
 
 ## [From _The Litchfield County post._](https://chroniclingamerica.loc.gov/lccn/sn82014309/1826-11-14/ed-1/seq-1)
 
-#### 1826-11-14 &middot; Litchfield, Conn.
+#### 1826-11-14 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2486,7 +2486,7 @@ When age comes on.
 
 ## [From _Casket (1826-1830)_](https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12?page=30)
 
-#### 1826-12-01 &middot; Philadelphia
+#### 1826-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2609,7 +2609,7 @@ When age comes on.
 
 ## [From _Phenix gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025006/1826-12-12/ed-1/seq-2)
 
-#### 1826-12-12 &middot; Alexandria [D.C.]
+#### 1826-12-12 &middot; [Alexandria [D.C.]](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2687,7 +2687,7 @@ When age comes on.
 
 #### From _Natchez gazette._
 
-#### 1827-01-20 &middot; Natchez, Miss.
+#### 1827-01-20 &middot; [Natchez, Miss.](http://dbpedia.org/resource/Natchez%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -2697,7 +2697,7 @@ When age comes on.
 
 #### From _Natchez gazette._
 
-#### 1827-02-10 &middot; Natchez, Miss.
+#### 1827-02-10 &middot; [Natchez, Miss.](http://dbpedia.org/resource/Natchez%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -2707,7 +2707,7 @@ When age comes on.
 
 #### From _United States Catholic Miscellany (1822-1835)_
 
-#### 1827-03-10 &middot; Charleston
+#### 1827-03-10 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -2715,7 +2715,7 @@ When age comes on.
 
 ## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1827-06-16_4_3?page=2)
 
-#### 1827-06-16 &middot; New York
+#### 1827-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2814,7 +2814,7 @@ When age comes on.
 
 ## [From _Gospel Advocate and Impartial Investigator (1823-1829)_](https://iiif.archivelab.org/iiif/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30?page=7)
 
-#### 1827-07-28 &middot; Boston
+#### 1827-07-28 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2900,7 +2900,7 @@ When age comes on.
 
 ## [From _North American. Or, Weekly Journal of Politics, Science and Literature (1827-1827)_](https://iiif.archivelab.org/iiif/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11?page=4)
 
-#### 1827-07-28 &middot; Baltimore
+#### 1827-07-28 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2999,7 +2999,7 @@ When age comes on
 
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37?page=7)
 
-#### 1828-03-22 &middot; New York
+#### 1828-03-22 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3072,7 +3072,7 @@ When age comes on. Flowarp.
 
 #### From _Louisville public advertiser._
 
-#### 1830-03-17 &middot; Louisville, Ky.
+#### 1830-03-17 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 [This text is not available under an open license.]
 
@@ -3082,7 +3082,7 @@ When age comes on. Flowarp.
 
 #### From _Daily national intelligencer._
 
-#### 1830-10-13 &middot; Washington City [D.C.]
+#### 1830-10-13 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -3090,7 +3090,7 @@ When age comes on. Flowarp.
 
 ## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1830-10-19/ed-1/seq-4)
 
-#### 1830-10-19 &middot; Richmond, Va.
+#### 1830-10-19 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3132,7 +3132,7 @@ Whsu ago cornea on.
 
 ## [From _Martinsburg gazette and public advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85059526/1830-10-21/ed-1/seq-1)
 
-#### 1830-10-21 &middot; Martinsburg, Va. [W. Va.]
+#### 1830-10-21 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3202,7 +3202,7 @@ When age comes on.
 
 ## [From _The Philadelphia Album and Ladies' Literary Portfolio (1830-1834)_](https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1830-10-23_4_43?page=0)
 
-#### 1830-10-23 &middot; Philadelphia
+#### 1830-10-23 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3294,7 +3294,7 @@ When age comes on.
 
 #### From _Providence patriot, Columbian phenix._
 
-#### 1830-11-10 &middot; Providence, R.I.
+#### 1830-11-10 &middot; [Providence, R.I.](http://dbpedia.org/resource/Providence%2C_Rhode_Island)
 
 [This text is not available under an open license.]
 
@@ -3304,7 +3304,7 @@ When age comes on.
 
 #### From _Daily Louisville public advertiser._
 
-#### 1830-11-19 &middot; Louisville, Ky.
+#### 1830-11-19 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 [This text is not available under an open license.]
 
@@ -3314,7 +3314,7 @@ When age comes on.
 
 #### From _Christian Advocate and Journal and Zion's Herald (1828-1833)_
 
-#### 1830-12-03 &middot; Chicago
+#### 1830-12-03 &middot; [Chicago](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -3322,7 +3322,7 @@ When age comes on.
 
 ## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1830-12-04_15_27?page=15)
 
-#### 1830-12-04 &middot; New Haven
+#### 1830-12-04 &middot; [New Haven](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3415,7 +3415,7 @@ When age comes on.
 
 #### From _Southern times & state gazette._
 
-#### 1830-12-11 &middot; Columbia, S.C.
+#### 1830-12-11 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -3425,7 +3425,7 @@ When age comes on.
 
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
-#### 1830-12-18 &middot; Boston
+#### 1830-12-18 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -3435,7 +3435,7 @@ When age comes on.
 
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
-#### 1830-12-18 &middot; Boston
+#### 1830-12-18 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -3443,7 +3443,7 @@ When age comes on.
 
 ## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38?page=3)
 
-#### 1830-12-18 &middot; Philadelphia, Pa.
+#### 1830-12-18 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3557,7 +3557,7 @@ Wlien age comes on.
 
 ## [From _The western luminary._](https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26?page=3)
 
-#### 1830-12-29 &middot; Lexington, Ky.
+#### 1830-12-29 &middot; [Lexington, Ky.](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3644,7 +3644,7 @@ When age comes on.
 
 #### From _Observer and telegraph._
 
-#### 1830-12-30 &middot; Hudson, Portage County, Ohio
+#### 1830-12-30 &middot; [Hudson, Portage County, Ohio](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -3652,7 +3652,7 @@ When age comes on.
 
 ## [From _Episcopal watchman._](https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34?page=2)
 
-#### 1831-01-01 &middot; Hartford
+#### 1831-01-01 &middot; [Hartford](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3759,7 +3759,7 @@ I When age comes on.
 
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51?page=3)
 
-#### 1831-01-08 &middot; Hartford [Conn.]
+#### 1831-01-08 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3775,7 +3775,7 @@ which, says the Euinburgh Review, is surpassed by nothing | talent to be able cl
 
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51?page=3)
 
-#### 1831-01-08 &middot; Hartford [Conn.]
+#### 1831-01-08 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3856,7 +3856,7 @@ And joy grows wearisome and wo
 
 #### From _The Arkansas gazette._
 
-#### 1831-06-01 &middot; Arkansas Post, Ark. Ter.
+#### 1831-06-01 &middot; [Arkansas Post, Ark. Ter.](http://dbpedia.org/resource/Arkansas_Post)
 
 [This text is not available under an open license.]
 
@@ -3866,7 +3866,7 @@ And joy grows wearisome and wo
 
 #### From _United States' telegraph._
 
-#### 1831-06-28 &middot; Washington City [D.C.]
+#### 1831-06-28 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -3876,7 +3876,7 @@ And joy grows wearisome and wo
 
 #### From _The globe._
 
-#### 1831-07-27 &middot; City of Washington [D.C.]
+#### 1831-07-27 &middot; [City of Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -3884,7 +3884,7 @@ And joy grows wearisome and wo
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1831-08-04/ed-1/seq-4)
 
-#### 1831-08-04 &middot; Newport, R.I.
+#### 1831-08-04 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3974,7 +3974,7 @@ When age come on.
 
 ## [From _Christian Intelligencer 1821-1836_](https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36?page=3)
 
-#### 1831-09-09
+#### 1831-09-09 &middot; [Portland, Maine](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4027,7 +4027,7 @@ When age comes on
 
 #### From _The Catholic Telegraph (1831-1846)_
 
-#### 1832-03-24 &middot; Cincinnati
+#### 1832-03-24 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 [This text is not available under an open license.]
 
@@ -4035,7 +4035,7 @@ When age comes on
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14?page=3)
 
-#### 1832-04-07 &middot; Boston [Mass.]
+#### 1832-04-07 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4106,7 +4106,7 @@ Long ere the lamp of death can blight,
 
 ## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14?page=3)
 
-#### 1832-04-07 &middot; Boston [Mass.]
+#### 1832-04-07 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4137,7 +4137,7 @@ When age comes on.
 
 #### From _United States Catholic Miscellany (1822-1835)_
 
-#### 1832-06-09 &middot; Charleston
+#### 1832-06-09 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -4147,7 +4147,7 @@ When age comes on.
 
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
-#### 1833-06-01 &middot; Boston
+#### 1833-06-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -4157,7 +4157,7 @@ When age comes on.
 
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
-#### 1833-06-01 &middot; Boston
+#### 1833-06-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -4251,7 +4251,7 @@ When age comes on.
 
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19?page=7)
 
-#### 1835-11-18 &middot; Boston
+#### 1835-11-18 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4339,7 +4339,7 @@ When age comes on,
 
 #### From _New-Hampshire statesman and state journal._
 
-#### 1836-02-13 &middot; Concord [N.H.]
+#### 1836-02-13 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -4349,7 +4349,7 @@ When age comes on,
 
 #### From _The Catholic Telegraph (1831-1846)_
 
-#### 1837-05-11 &middot; Cincinnati
+#### 1837-05-11 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 [This text is not available under an open license.]
 
@@ -4357,7 +4357,7 @@ When age comes on,
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42?page=7)
 
-#### 1837-07-22 &middot; Philadelphia
+#### 1837-07-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4442,7 +4442,7 @@ When age comes on.
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42?page=7)
 
-#### 1837-07-22 &middot; Philadelphia
+#### 1837-07-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4464,7 +4464,7 @@ in the Spanish language except the odes of Luis de | made to prevent the meeting
 
 #### From _The Colonist (Sydney, NSW : 1835 - 1840)_
 
-#### 1837-11-02 &middot; Sydney, New South Wales
+#### 1837-11-02 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4513,7 +4513,7 @@ and woe -, When age comes on. -&#x27;Say
 
 #### From _Southern Rose (1835-1839)_
 
-#### 1839-02-16 &middot; Charleston
+#### 1839-02-16 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -4521,7 +4521,7 @@ and woe -, When age comes on. -&#x27;Say
 
 ## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34?page=3)
 
-#### 1839-08-24 &middot; Boston [Mass.]
+#### 1839-08-24 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4610,7 +4610,7 @@ When age comes on.
 
 ## [From _American Masonic Register and Literary Companion (1839-1847)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47?page=7)
 
-#### 1840-07-25 &middot; Albany
+#### 1840-07-25 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4701,7 +4701,7 @@ hen age comes on.
 
 #### From _Boston investigator._
 
-#### 1840-10-28 &middot; Boston, Mass.
+#### 1840-10-28 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -4711,7 +4711,7 @@ hen age comes on.
 
 #### From _Australasian Chronicle (Sydney, NSW : 1839 - 1843)_
 
-#### 1840-11-03 &middot; Sydney, New South Wales
+#### 1840-11-03 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4772,7 +4772,7 @@ joy grows wearisome and wo When age
 
 #### From _Ohio observer._
 
-#### 1841-04-15 &middot; Hudson [Ohio]
+#### 1841-04-15 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -4782,7 +4782,7 @@ joy grows wearisome and wo When age
 
 #### From _Southern Australian (Adelaide, SA : 1838 - 1844)_
 
-#### 1841-10-29 &middot; Adelaide, South Australia
+#### 1841-10-29 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4829,7 +4829,7 @@ age cernes onV &#x27; Say, then,.bow poo
 
 #### From _The weekly herald._
 
-#### 1842-01-01 &middot; New York [N.Y.]
+#### 1842-01-01 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -4839,7 +4839,7 @@ age cernes onV &#x27; Say, then,.bow poo
 
 #### From _The North American and daily advertiser._
 
-#### 1842-02-17 &middot; Philadelphia [Pa.]
+#### 1842-02-17 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -4849,7 +4849,7 @@ age cernes onV &#x27; Say, then,.bow poo
 
 #### From _The weekly herald._
 
-#### 1842-03-05 &middot; New York [N.Y.]
+#### 1842-03-05 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -4859,7 +4859,7 @@ age cernes onV &#x27; Say, then,.bow poo
 
 #### From _The Ohio observer._
 
-#### 1842-06-02 &middot; Hudson [Ohio]
+#### 1842-06-02 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -4869,7 +4869,7 @@ age cernes onV &#x27; Say, then,.bow poo
 
 #### From _The Ohio observer._
 
-#### 1842-06-02 &middot; Hudson [Ohio]
+#### 1842-06-02 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -4879,7 +4879,7 @@ age cernes onV &#x27; Say, then,.bow poo
 
 #### From _Scioto gazette._
 
-#### 1842-06-30 &middot; Chillicothe, Ohio
+#### 1842-06-30 &middot; [Chillicothe, Ohio](http://dbpedia.org/resource/Chillicothe%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -4889,7 +4889,7 @@ age cernes onV &#x27; Say, then,.bow poo
 
 #### From _New-Hampshire statesman and state journal._
 
-#### 1842-08-12 &middot; Concord [N.H.]
+#### 1842-08-12 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -4899,7 +4899,7 @@ age cernes onV &#x27; Say, then,.bow poo
 
 #### From _The North American and daily advertiser._
 
-#### 1843-06-09 &middot; Philadelphia [Pa.]
+#### 1843-06-09 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -4907,7 +4907,7 @@ age cernes onV &#x27; Say, then,.bow poo
 
 ## [From _Cincinnati weekly herald and philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39?page=1)
 
-#### 1844-06-12 &middot; Cincinnati [Ohio]
+#### 1844-06-12 &middot; [Cincinnati [Ohio]](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4975,7 +4975,7 @@ We disappear.
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1844-08-15/ed-1/seq-4)
 
-#### 1844-08-15 &middot; Newport, R.I.
+#### 1844-08-15 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5026,7 +5026,7 @@ Alike the hamble riv&#x27;lot’s glide,
 
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1847-08-18/ed-1/seq-1)
 
-#### 1847-08-18 &middot; Staunton, Va.
+#### 1847-08-18 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5074,7 +5074,7 @@ The cheek’s pure glow of red and white
 
 #### From _Pensacola gazette._
 
-#### 1847-08-21 &middot; [Pensacola, Fla.]
+#### 1847-08-21 &middot; [[Pensacola, Fla.]](http://dbpedia.org/resource/Pensacola%2C_Florida)
 
 [This text is not available under an open license.]
 
@@ -5084,7 +5084,7 @@ The cheek’s pure glow of red and white
 
 #### From _Raleigh register, and North-Carolina gazette._
 
-#### 1847-08-28 &middot; Raleigh, N.C.
+#### 1847-08-28 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -5186,7 +5186,7 @@ When age comes on.
 
 ## [From _Herald of the times, and Rhode Islander._](https://chroniclingamerica.loc.gov/lccn/sn83021168/1848-02-10/ed-1/seq-4)
 
-#### 1848-02-10 &middot; Newport, R.I.
+#### 1848-02-10 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5239,7 +5239,7 @@ The cheek’s pure glow of red and whit
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1848-05-13_21_34?page=3)
 
-#### 1848-05-13 &middot; Philadelphia
+#### 1848-05-13 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5289,7 +5289,7 @@ hen age comes on.
 
 ## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1849-01-31_20_5?page=0)
 
-#### 1849-01-31 &middot; Boston
+#### 1849-01-31 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5357,7 +5357,7 @@ POLITY OF METHODISM.
 
 ## [From _Lynchburg Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024649/1849-03-08/ed-1/seq-1)
 
-#### 1849-03-08 &middot; Lynchburg [Va.]
+#### 1849-03-08 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5417,7 +5417,7 @@ The heart&#x27;s blithe torn
 
 ## [From _The American Quarterly Register and Magazine (1848-1849)_](https://iiif.archivelab.org/iiif/sim_strykers-american-register-and-magazine_1849-06_2_2?page=173)
 
-#### 1849-06-01 &middot; Philadelphia
+#### 1849-06-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5493,7 +5493,7 @@ W
 
 ## [From _Lower Sandusky freeman._](https://chroniclingamerica.loc.gov/lccn/sn90068957/1849-09-01/ed-1/seq-1)
 
-#### 1849-09-01 &middot; Lower Sandusky [i.e. Fremont, Ohio]
+#### 1849-09-01 &middot; [Lower Sandusky [i.e. Fremont, Ohio]](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5553,7 +5553,7 @@ When age comes ou
 
 #### From _German reformed messenger._
 
-#### 1852-11-03 &middot; Chambersburg, Pa.
+#### 1852-11-03 &middot; [Chambersburg, Pa.](http://dbpedia.org/resource/Chambersburg%2C_Pennsylvania)
 
 [This text is not available under an open license.]
 
@@ -5561,7 +5561,7 @@ When age comes ou
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1856-06-04/ed-1/seq-1)
 
-#### 1856-06-04 &middot; Smyrna, Del.
+#### 1856-06-04 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5605,7 +5605,7 @@ grave
 
 ## [From _The Winchester weekly appeal._](https://chroniclingamerica.loc.gov/lccn/sn97065090/1856-07-05/ed-1/seq-1)
 
-#### 1856-07-05 &middot; Winchester, Tenn.
+#### 1856-07-05 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5677,7 +5677,7 @@ The strength is gone, the step is slow,
 
 ## [From _The Winchester weekly appeal._](https://chroniclingamerica.loc.gov/lccn/sn97065090/1856-07-26/ed-1/seq-4)
 
-#### 1856-07-26 &middot; Winchester, Tenn.
+#### 1856-07-26 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5764,7 +5764,7 @@ When age comes on
 
 #### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
 
-#### 1857-01-13 &middot; Brisbane, Queensland
+#### 1857-01-13 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5814,7 +5814,7 @@ comes on
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1860-03-31/ed-1/seq-1)
 
-#### 1860-03-31 &middot; Bridgeton, N.J.
+#### 1860-03-31 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5875,7 +5875,7 @@ When age comes on
 
 #### From _Daily evening bulletin._
 
-#### 1861-10-26 &middot; San Francisco [Calif.]
+#### 1861-10-26 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -5883,7 +5883,7 @@ When age comes on
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1863-10-21/ed-1/seq-2)
 
-#### 1863-10-21 &middot; Urbana, Ohio
+#### 1863-10-21 &middot; [Urbana, Ohio](http://dbpedia.org/resource/Urbana%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5946,7 +5946,7 @@ When age comes on.
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16?page=3)
 
-#### 1863-12-19 &middot; Philadelphia
+#### 1863-12-19 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6039,7 +6039,7 @@ When age comes on.
 
 #### From _New Hampshire statesman._
 
-#### 1864-01-15 &middot; Concord [N.H.]
+#### 1864-01-15 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -6049,7 +6049,7 @@ When age comes on.
 
 #### From _Daily evening bulletin._
 
-#### 1864-05-12 &middot; San Francisco [Calif.]
+#### 1864-05-12 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -6057,7 +6057,7 @@ When age comes on.
 
 ## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1864-05-13/ed-1/seq-1)
 
-#### 1864-05-13 &middot; St. Albans, Vt.
+#### 1864-05-13 &middot; [St. Albans, Vt.](http://dbpedia.org/resource/St._Albans_(town)%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6125,7 +6125,7 @@ mien age comes on
 
 ## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7rxw47sm6m?page=3)
 
-#### 1864-09-11 &middot; Louisville, Kentucky.
+#### 1864-09-11 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6162,7 +6162,7 @@ That lure u* here;
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1864-11-14/ed-1/seq-1)
 
-#### 1864-11-14 &middot; Gold Hill, N.T. [Nev.]
+#### 1864-11-14 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6235,7 +6235,7 @@ When nge comes on t
 
 ## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1864-11-30/ed-1/seq-1)
 
-#### 1864-11-30 &middot; Lewistown, Pa.
+#### 1864-11-30 &middot; [Lewistown, Pa.](http://dbpedia.org/resource/Lewistown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6308,7 +6308,7 @@ When age comes on
 
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1864-12-01/ed-1/seq-1)
 
-#### 1864-12-01 &middot; Cumberland, Md.
+#### 1864-12-01 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6377,7 +6377,7 @@ When ago comes on
 
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1864-12-03/ed-1/seq-1)
 
-#### 1864-12-03 &middot; Sioux City, Iowa
+#### 1864-12-03 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6437,7 +6437,7 @@ Death levels poverty and pride
 
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1864-12-03/ed-1/seq-1)
 
-#### 1864-12-03 &middot; Sioux City, Iowa
+#### 1864-12-03 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6520,7 +6520,7 @@ The heart&#x27;s blithe ton
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1864-12-10/ed-1/seq-4)
 
-#### 1864-12-10 &middot; Ashtabula, Ohio
+#### 1864-12-10 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6582,7 +6582,7 @@ VV&#x27; hen age comes on.
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1864-12-15/ed-1/seq-1)
 
-#### 1864-12-15 &middot; Towanda, Pa.
+#### 1864-12-15 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6655,7 +6655,7 @@ When age comes on
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1864-12-17/ed-1/seq-1)
 
-#### 1864-12-17 &middot; Auburn, Placer County, Calif.
+#### 1864-12-17 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6728,7 +6728,7 @@ When age comes on
 
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1864-12-17/ed-1/seq-1)
 
-#### 1864-12-17 &middot; Idaho City, Idaho Territory
+#### 1864-12-17 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6800,7 +6800,7 @@ When age comes on !
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1865-01-07/ed-1/seq-1)
 
-#### 1865-01-07 &middot; Sunbury, Pa.
+#### 1865-01-07 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6875,7 +6875,7 @@ Yi ln,ti ages come on
 
 #### From _Milwaukee daily sentinel._
 
-#### 1865-01-31 &middot; [Milwaukee, Wis.]
+#### 1865-01-31 &middot; [[Milwaukee, Wis.]](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -6883,7 +6883,7 @@ Yi ln,ti ages come on
 
 ## [From _The mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014487/1865-02-04/ed-1/seq-4)
 
-#### 1865-02-04 &middot; Placerville, El Dorado County, Calif.
+#### 1865-02-04 &middot; [Placerville, El Dorado County, Calif.](http://dbpedia.org/resource/Placerville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6934,7 +6934,7 @@ When age comes on !
 
 ## [From _The Potter journal._](https://chroniclingamerica.loc.gov/lccn/sn86081096/1865-02-22/ed-1/seq-1)
 
-#### 1865-02-22 &middot; Coudersport, Pa.
+#### 1865-02-22 &middot; [Coudersport, Pa.](http://dbpedia.org/resource/Coudersport%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7002,7 +7002,7 @@ When age comes on
 
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1865-03-08/ed-1/seq-1)
 
-#### 1865-03-08 &middot; Bloomsburg, Pa.
+#### 1865-03-08 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7076,7 +7076,7 @@ When age comes on
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1865-04-04/ed-1/seq-1)
 
-#### 1865-04-04 &middot; Montpelier, Vt.
+#### 1865-04-04 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7138,7 +7138,7 @@ l.ile i the
 
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1865-07-29/ed-1/seq-1)
 
-#### 1865-07-29 &middot; Jasper, Ind.
+#### 1865-07-29 &middot; [Jasper, Ind.](http://dbpedia.org/resource/Jasper%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7214,7 +7214,7 @@ And joy gr
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-09-30/ed-1/seq-4)
 
-#### 1865-09-30 &middot; Portland, Me.
+#### 1865-09-30 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7262,7 +7262,7 @@ To that »oi wave
 
 #### From _Bangor daily Whig & courier._
 
-#### 1865-10-12 &middot; Bangor, Me.
+#### 1865-10-12 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -7270,7 +7270,7 @@ To that »oi wave
 
 ## [From _The Frankfort commonwealth._](https://iiif.archivelab.org/iiif/xt7jm61bkx1w?page=0)
 
-#### 1865-10-17 &middot; Frankfort, Ky.
+#### 1865-10-17 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7380,7 +7380,7 @@ When age comes on I
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1866-01-26/ed-1/seq-1)
 
-#### 1866-01-26 &middot; Bel Air, Md.
+#### 1866-01-26 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7455,7 +7455,7 @@ And joy grows wearisome and wo !
 
 #### From _Daily national intelligencer._
 
-#### 1866-04-14 &middot; Washington City [D.C.]
+#### 1866-04-14 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -7463,7 +7463,7 @@ And joy grows wearisome and wo !
 
 ## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1866-04-18/ed-1/seq-1)
 
-#### 1866-04-18 &middot; East Saginaw, Mich.
+#### 1866-04-18 &middot; [East Saginaw, Mich.](http://dbpedia.org/resource/Saginaw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7514,7 +7514,7 @@ Li
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-05-01_18_9?page=10)
 
-#### 1866-05-01 &middot; St. Louis, Mo.
+#### 1866-05-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7602,7 +7602,7 @@ When age comes on!
 
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1866-05-19/ed-1/seq-4)
 
-#### 1866-05-19 &middot; Sioux City, Iowa
+#### 1866-05-19 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7711,7 +7711,7 @@ When age comes on 1
 
 #### From _The daily miners' register._
 
-#### 1866-06-13 &middot; Central City, Colo.
+#### 1866-06-13 &middot; [Central City, Colo.](http://dbpedia.org/resource/Central_City%2C_Colorado)
 
 [This text is not available under an open license.]
 
@@ -7719,7 +7719,7 @@ When age comes on 1
 
 ## [From _Delaware gazette._](https://chroniclingamerica.loc.gov/lccn/sn83035595/1866-06-15/ed-1/seq-1)
 
-#### 1866-06-15 &middot; Delaware, Ohio
+#### 1866-06-15 &middot; [Delaware, Ohio](http://dbpedia.org/resource/Delaware%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7791,7 +7791,7 @@ When age comes on
 
 #### From _The Congregationalist._
 
-#### 1866-06-22 &middot; Boston, Mass.
+#### 1866-06-22 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -7799,7 +7799,7 @@ When age comes on
 
 ## [From _Weekly Calaveras chronicle._](https://chroniclingamerica.loc.gov/lccn/sn93052977/1866-06-23/ed-1/seq-4)
 
-#### 1866-06-23 &middot; Mokelumne Hill, Calaveras County, Cal.
+#### 1866-06-23 &middot; [Mokelumne Hill, Calaveras County, Cal.](http://dbpedia.org/resource/Mokelumne_Hill%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7870,7 +7870,7 @@ When age comes on
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1866-07-29/ed-1/seq-4)
 
-#### 1866-07-29 &middot; Columbia, S.C.
+#### 1866-07-29 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7944,7 +7944,7 @@ When age comes on
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1866-09-18/ed-1/seq-1)
 
-#### 1866-09-18 &middot; Staunton, Va.
+#### 1866-09-18 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8017,7 +8017,7 @@ When age comes 011
 
 ## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1866-12-26_37_52?page=3)
 
-#### 1866-12-26 &middot; Boston
+#### 1866-12-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8105,7 +8105,7 @@ When age comes on
 
 #### From _Bangor daily Whig & courier._
 
-#### 1866-12-29 &middot; Bangor, Me.
+#### 1866-12-29 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -8113,7 +8113,7 @@ When age comes on
 
 ## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1867-01-24/ed-1/seq-1)
 
-#### 1867-01-24 &middot; M'arthur, Vinton County, Ohio
+#### 1867-01-24 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8176,7 +8176,7 @@ Aiast 61 ore It bids ns wake,
 
 #### From _The Hawaiian gazette._
 
-#### 1867-03-20 &middot; Honolulu [Oahu, Hawaii]
+#### 1867-03-20 &middot; [Honolulu [Oahu, Hawaii]](http://dbpedia.org/resource/Honolulu)
 
 [This text is not available under an open license.]
 
@@ -8184,7 +8184,7 @@ Aiast 61 ore It bids ns wake,
 
 ## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1867-05_27_17?page=2)
 
-#### 1867-05-01 &middot; Cincinnati
+#### 1867-05-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8276,7 +8276,7 @@ When age comes on!
 
 ## [From _The Union and journal._](https://chroniclingamerica.loc.gov/lccn/sn83009571/1867-09-20/ed-1/seq-1)
 
-#### 1867-09-20 &middot; Biddeford, Me.
+#### 1867-09-20 &middot; [Biddeford, Me.](http://dbpedia.org/resource/Biddeford%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8332,7 +8332,7 @@ When age comes on !
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1867-09-25/ed-1/seq-1)
 
-#### 1867-09-25 &middot; Warren, Ohio
+#### 1867-09-25 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8401,7 +8401,7 @@ And joys grow wearisome aad wool
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1867-10-05/ed-1/seq-1)
 
-#### 1867-10-05 &middot; Ashtabula, Ohio
+#### 1867-10-05 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8480,7 +8480,7 @@ When age comes on. . .
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1868-11-03/ed-1/seq-1)
 
-#### 1868-11-03 &middot; Charles Town, Va. [W. Va.]
+#### 1868-11-03 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8553,7 +8553,7 @@ When age comes on
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1868-11-05/ed-1/seq-1)
 
-#### 1868-11-05 &middot; Jackson C.H., Ohio
+#### 1868-11-05 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8629,7 +8629,7 @@ When age comes on
 
 ## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1868-11-06/ed-1/seq-3)
 
-#### 1868-11-06 &middot; Davenport, Iowa
+#### 1868-11-06 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8697,7 +8697,7 @@ W ben aga cornea on 1
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1868-11-08/ed-1/seq-3)
 
-#### 1868-11-08 &middot; Nashville, Tenn.
+#### 1868-11-08 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8767,7 +8767,7 @@ When age comes on
 
 #### From _Daily national intelligencer._
 
-#### 1868-11-10 &middot; Washington City [D.C.]
+#### 1868-11-10 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -8777,7 +8777,7 @@ When age comes on
 
 #### From _The Charleston courier, tri-weekly._
 
-#### 1868-11-12 &middot; Charleston, S.C.
+#### 1868-11-12 &middot; [Charleston, S.C.](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -8785,7 +8785,7 @@ When age comes on
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-11-21/ed-1/seq-1)
 
-#### 1868-11-21 &middot; Shepherdstown, Va. [W. Va.]
+#### 1868-11-21 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8859,7 +8859,7 @@ W hi n age comes on !
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1868-11-25/ed-1/seq-1)
 
-#### 1868-11-25 &middot; Warren, Ohio
+#### 1868-11-25 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8934,7 +8934,7 @@ When age comes on !
 
 #### From _Prairie farmer._
 
-#### 1868-11-28 &middot; Chicago, Ill.
+#### 1868-11-28 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Indianapolis)
 
 [This text is not available under an open license.]
 
@@ -8942,7 +8942,7 @@ When age comes on !
 
 ## [From _The weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042148/1868-12-02/ed-1/seq-2)
 
-#### 1868-12-02 &middot; Raleigh, N.C.
+#### 1868-12-02 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8994,7 +8994,7 @@ m-&#x27;tf (&#x27; &quot;Tien age comes on
 
 ## [From _The Sweetwater forerunner._](https://chroniclingamerica.loc.gov/lccn/sn97065409/1868-12-17/ed-1/seq-4)
 
-#### 1868-12-17 &middot; Sweetwater, Tenn.
+#### 1868-12-17 &middot; [Sweetwater, Tenn.](http://dbpedia.org/resource/Sweetwater%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9067,7 +9067,7 @@ Whea age conies on
 
 ## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt7cnp1wf20m?page=0)
 
-#### 1868-12-17 &middot; Mount Sterling, Ky.
+#### 1868-12-17 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9183,7 +9183,7 @@ IV lieu age comes on!
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1868-12-26/ed-1/seq-4)
 
-#### 1868-12-26 &middot; Middletown, Del.
+#### 1868-12-26 &middot; [Middletown, Del.](http://dbpedia.org/resource/Middletown%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9259,7 +9259,7 @@ When age comes on
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1869-01-28/ed-1/seq-1)
 
-#### 1869-01-28 &middot; Westminster, Md.
+#### 1869-01-28 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9310,7 +9310,7 @@ Life ia th
 
 ## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1869-02-05/ed-1/seq-1)
 
-#### 1869-02-05 &middot; Walla Walla, Wash. Terr.
+#### 1869-02-05 &middot; [Walla Walla, Wash. Terr.](http://dbpedia.org/resource/Walla_Walla%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9384,7 +9384,7 @@ When ege comer on.
 
 #### From _Daily evening bulletin._
 
-#### 1869-02-20 &middot; San Francisco [Calif.]
+#### 1869-02-20 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -9392,7 +9392,7 @@ When ege comer on.
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1869-02-27/ed-1/seq-1)
 
-#### 1869-02-27 &middot; Bellevue, Bossier Parish, La.
+#### 1869-02-27 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9479,7 +9479,7 @@ When age comes on
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-04-03_22_14?page=9)
 
-#### 1869-04-03 &middot; St. Louis, Mo.
+#### 1869-04-03 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9647,7 +9647,7 @@ When age comes on.
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1869-10-15/ed-1/seq-1)
 
-#### 1869-10-15 &middot; Abbeville, S.C.
+#### 1869-10-15 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9693,7 +9693,7 @@ And rich and poor sleep
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1869-10-30/ed-1/seq-1)
 
-#### 1869-10-30 &middot; Ridgway, Pa.
+#### 1869-10-30 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9764,7 +9764,7 @@ When age come on
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1869-11-24/ed-1/seq-1)
 
-#### 1869-11-24 &middot; Warren, Ohio
+#### 1869-11-24 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9838,7 +9838,7 @@ Vi hen age comes on.
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1869-12-09/ed-1/seq-1)
 
-#### 1869-12-09 &middot; Westminster, Md.
+#### 1869-12-09 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9905,7 +9905,7 @@ I The strength is gone, the step is slow
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1870-01-28/ed-1/seq-1)
 
-#### 1870-01-28 &middot; Deer Lodge, Mont.
+#### 1870-01-28 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9976,7 +9976,7 @@ When age comes on.
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-02-05/ed-1/seq-1)
 
-#### 1870-02-05 &middot; Opelousas, La.
+#### 1870-02-05 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10094,7 +10094,7 @@ When age comes on
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1870-06-05/ed-1/seq-4)
 
-#### 1870-06-05 &middot; Columbia, S.C.
+#### 1870-06-05 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10164,7 +10164,7 @@ When ago comes on
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1870-06-15/ed-1/seq-1)
 
-#### 1870-06-15 &middot; Clearfield, Pa.
+#### 1870-06-15 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10218,7 +10218,7 @@ Yt lien age comes on
 
 ## [From _The Greenville enterprise._](https://chroniclingamerica.loc.gov/lccn/sn83025799/1870-09-21/ed-1/seq-1)
 
-#### 1870-09-21 &middot; Greenville, S.C.
+#### 1870-09-21 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10290,7 +10290,7 @@ When age comes on
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1870-11-24/ed-1/seq-1)
 
-#### 1870-11-24 &middot; Jackson C.H., Ohio
+#### 1870-11-24 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10363,7 +10363,7 @@ W&#x27;lu n age conies on !
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1870-12-31/ed-1/seq-1)
 
-#### 1870-12-31 &middot; Charlestown, Va. [W. Va.]
+#### 1870-12-31 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10437,7 +10437,7 @@ When age comes on
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-01-07/ed-1/seq-1)
 
-#### 1871-01-07 &middot; Charlestown, Va. [W. Va.]
+#### 1871-01-07 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10510,7 +10510,7 @@ When ace comas on !
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-01-31/ed-1/seq-1)
 
-#### 1871-01-31 &middot; Charles Town, Va. [W. Va.]
+#### 1871-01-31 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10583,7 +10583,7 @@ When age routes on
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1871-11-04/ed-1/seq-2)
 
-#### 1871-11-04 &middot; Washington, D.C.
+#### 1871-11-04 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10647,7 +10647,7 @@ When age routes on
 
 #### From _The Bacchus Marsh Express (Vic. : 1866 - 1918)_
 
-#### 1871-11-11 &middot; Bacchus Marsh, Victoria
+#### 1871-11-11 &middot; [Bacchus Marsh, Victoria](http://dbpedia.org/resource/Bacchus_Marsh)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10692,7 +10692,7 @@ And joy grows weariness and woe When ag
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1871-11-21/ed-1/seq-1)
 
-#### 1871-11-21 &middot; Charles Town, Va. [W. Va.]
+#### 1871-11-21 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10759,7 +10759,7 @@ When?lyiu ?&quot;&quot;.roes on
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1871-11-30/ed-1/seq-1)
 
-#### 1871-11-30 &middot; Staunton, Va.
+#### 1871-11-30 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10848,7 +10848,7 @@ When age comes on!
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1871-12-09/ed-1/seq-1)
 
-#### 1871-12-09 &middot; Charlestown, Va. [W. Va.]
+#### 1871-12-09 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10930,7 +10930,7 @@ When age comes on 1
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1872-03-14/ed-1/seq-1)
 
-#### 1872-03-14 &middot; White Cloud, Kan.
+#### 1872-03-14 &middot; [White Cloud, Kan.](http://dbpedia.org/resource/White_Cloud%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11002,7 +11002,7 @@ And jor grows wearisome and wo,
 
 ## [From _Delaware Republican._](https://chroniclingamerica.loc.gov/lccn/sn87062253/1873-02-24/ed-1/seq-1)
 
-#### 1873-02-24 &middot; Wilmington, Del.
+#### 1873-02-24 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11051,7 +11051,7 @@ That path alone of all unsough
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1874-02-10/ed-1/seq-1)
 
-#### 1874-02-10 &middot; Woodsfield, Ohio
+#### 1874-02-10 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11072,7 +11072,7 @@ Come stealing on.
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1874-08-27/ed-1/seq-4)
 
-#### 1874-08-27 &middot; St. Clairsville, Ohio
+#### 1874-08-27 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11152,7 +11152,7 @@ When age comes on.
 
 #### From _Reynolds's  Newspaper_
 
-#### 1874-11-08 &middot; London, England
+#### 1874-11-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -11160,7 +11160,7 @@ When age comes on.
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1874-11-12/ed-1/seq-2)
 
-#### 1874-11-12 &middot; Kenosha, Wis.
+#### 1874-11-12 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11234,7 +11234,7 @@ When age comes on I
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1874-11-13/ed-1/seq-6)
 
-#### 1874-11-13 &middot; Paw Paw, Mich.
+#### 1874-11-13 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11300,7 +11300,7 @@ And
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1874-11-19/ed-1/seq-2)
 
-#### 1874-11-19 &middot; Plymouth, Ind.
+#### 1874-11-19 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11373,7 +11373,7 @@ When age comes on !
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1874-12-04/ed-1/seq-6)
 
-#### 1874-12-04 &middot; Albany, Or.
+#### 1874-12-04 &middot; [Albany, Or.](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11448,7 +11448,7 @@ When age somes on I
 
 #### From _Inter ocean._
 
-#### 1874-12-20 &middot; Chicago, Ill.
+#### 1874-12-20 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -11456,7 +11456,7 @@ When age somes on I
 
 ## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1875-01-30/ed-1/seq-4)
 
-#### 1875-01-30 &middot; Clarksville, Tenn.
+#### 1875-01-30 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11530,7 +11530,7 @@ When age comes on
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1875-02-10/ed-1/seq-1)
 
-#### 1875-02-10 &middot; Somerset, Pa.
+#### 1875-02-10 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11598,7 +11598,7 @@ When arse cotucs on !
 
 ## [From _Martinsburg weekly independent._](https://chroniclingamerica.loc.gov/lccn/sn84026810/1875-03-13/ed-1/seq-1)
 
-#### 1875-03-13 &middot; Martinsburg, W. Va.
+#### 1875-03-13 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11678,7 +11678,7 @@ When age comes on
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1875-05-05/ed-1/seq-1)
 
-#### 1875-05-05 &middot; Mifflintown, Juniata County, Pa.
+#### 1875-05-05 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11751,7 +11751,7 @@ When age comes on
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1875-05-06/ed-1/seq-4)
 
-#### 1875-05-06 &middot; St. Clairsville, Ohio
+#### 1875-05-06 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11805,7 +11805,7 @@ And joy grows wearisome and woe,
 
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1875-05-13/ed-1/seq-6)
 
-#### 1875-05-13 &middot; Indianapolis
+#### 1875-05-13 &middot; [Indianapolis](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11876,7 +11876,7 @@ When age comes on
 
 ## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1875-05-23/ed-1/seq-3)
 
-#### 1875-05-23 &middot; New Orleans [La.]
+#### 1875-05-23 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11945,7 +11945,7 @@ When age comes on
 
 ## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1875-07-21/ed-1/seq-1)
 
-#### 1875-07-21 &middot; Lambertville, N.J.
+#### 1875-07-21 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12014,7 +12014,7 @@ When age conies on
 
 ## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1875-08-27/ed-1/seq-1)
 
-#### 1875-08-27 &middot; Savannah, Mo.
+#### 1875-08-27 &middot; [Savannah, Mo.](http://dbpedia.org/resource/Savannah%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12068,7 +12068,7 @@ Where is the strength that spumed decay
 
 ## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1875-09-23/ed-1/seq-1)
 
-#### 1875-09-23 &middot; Helena, Mont.
+#### 1875-09-23 &middot; [Helena, Mont.](http://dbpedia.org/resource/Helena%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12136,7 +12136,7 @@ When age comes on
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1876-03-23/ed-1/seq-4)
 
-#### 1876-03-23 &middot; Jackson C.H., Ohio
+#### 1876-03-23 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12201,7 +12201,7 @@ We disappear
 
 #### From _Christian secretary._
 
-#### 1876-04-27 &middot; Hartford [Conn.]
+#### 1876-04-27 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
 [This text is not available under an open license.]
 
@@ -12211,7 +12211,7 @@ We disappear
 
 #### From _St. Louis globe-Democrat._
 
-#### 1876-06-25 &middot; St. Louis [Mo.]
+#### 1876-06-25 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -12219,7 +12219,7 @@ We disappear
 
 ## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1876-06-29_28_1439?page=25)
 
-#### 1876-06-29 &middot; New York
+#### 1876-06-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12296,7 +12296,7 @@ Ye disappear
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1876-07-21/ed-1/seq-1)
 
-#### 1876-07-21 &middot; Brattleboro, Vt.
+#### 1876-07-21 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12352,7 +12352,7 @@ Ye disappear
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-08-03/ed-1/seq-1)
 
-#### 1876-08-03 &middot; Kenosha, Wis.
+#### 1876-08-03 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12410,7 +12410,7 @@ Ye disappear !
 
 #### From _Southwestern advocate._
 
-#### 1876-08-17 &middot; New Orleans, La.
+#### 1876-08-17 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -12420,7 +12420,7 @@ Ye disappear !
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1876-09-02 &middot; Sydney, New South Wales
+#### 1876-09-02 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12462,7 +12462,7 @@ that death must break, Alas ! befora i
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1876-09-15/ed-1/seq-1)
 
-#### 1876-09-15 &middot; Opelousas, La.
+#### 1876-09-15 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12534,7 +12534,7 @@ Mrs. Stedhurst&#x27;s geraniums in th
 
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1876-09-28/ed-1/seq-2)
 
-#### 1876-09-28 &middot; Lake Charles, Parish of Calcasieu, La.
+#### 1876-09-28 &middot; [Lake Charles, Parish of Calcasieu, La.](http://dbpedia.org/resource/Lake_Charles%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12590,7 +12590,7 @@ Ye disappear
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1876-11-18/ed-1/seq-1)
 
-#### 1876-11-18 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1876-11-18 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12647,7 +12647,7 @@ Ye disappear
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1877-02-22/ed-1/seq-1)
 
-#### 1877-02-22 &middot; Lancaster, Wis.
+#### 1877-02-22 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12703,7 +12703,7 @@ Ye disappear.
 
 ## [From _National Repository, Devoted to General and Religious Literature, Criticism, and Art (1877-1880)_](https://iiif.archivelab.org/iiif/sim_national-repository_1880-04_7?page=67)
 
-#### 1880-04-01 &middot; New York
+#### 1880-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12772,7 +12772,7 @@ To thee, O God, my thoughts arise;
 
 #### From _Southwestern Christian advocate._
 
-#### 1880-07-01 &middot; New Orleans, La.
+#### 1880-07-01 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -12782,7 +12782,7 @@ To thee, O God, my thoughts arise;
 
 #### From _Southwestern Christian advocate._
 
-#### 1880-07-01 &middot; New Orleans, La.
+#### 1880-07-01 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -12790,7 +12790,7 @@ To thee, O God, my thoughts arise;
 
 ## [From _The post._](https://chroniclingamerica.loc.gov/lccn/sn84026106/1882-06-22/ed-1/seq-1)
 
-#### 1882-06-22 &middot; Middleburg, Snyder County, Pa.
+#### 1882-06-22 &middot; [Middleburg, Snyder County, Pa.](http://dbpedia.org/resource/Middleburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12861,7 +12861,7 @@ When ago comes ou
 
 ## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1882-09-28/ed-1/seq-1)
 
-#### 1882-09-28 &middot; Ridgway, Pa.
+#### 1882-09-28 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -12934,7 +12934,7 @@ When age comes on.
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086770/1882-10-12/ed-1/seq-6)
 
-#### 1882-10-12 &middot; Mineral Point, Wis.
+#### 1882-10-12 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13005,7 +13005,7 @@ When age comeson.
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1882-10-27/ed-1/seq-2)
 
-#### 1882-10-27 &middot; Paw Paw, Mich.
+#### 1882-10-27 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13059,7 +13059,7 @@ When aire conns in.
 
 ## [From _The Donaldsonville chief._](https://chroniclingamerica.loc.gov/lccn/sn85034248/1883-03-24/ed-1/seq-1)
 
-#### 1883-03-24 &middot; Donaldsonville, La.
+#### 1883-03-24 &middot; [Donaldsonville, La.](http://dbpedia.org/resource/Donaldsonville%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13149,7 +13149,7 @@ When age comes on
 
 #### From _Fayetteville observer._
 
-#### 1885-05-07 &middot; Fayetteville, N.C.
+#### 1885-05-07 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -13157,7 +13157,7 @@ When age comes on
 
 ## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1885-11_20_5?page=46)
 
-#### 1885-11-01 &middot; New York
+#### 1885-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13247,7 +13247,7 @@ When age comes on!
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1887-08-12/ed-1/seq-1)
 
-#### 1887-08-12 &middot; Bel Air, Md.
+#### 1887-08-12 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13303,7 +13303,7 @@ Vo disappear
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1893-06-15_61_32?page=1)
 
-#### 1893-06-15 &middot; Augusta, Maine
+#### 1893-06-15 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

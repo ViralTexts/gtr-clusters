@@ -19,7 +19,7 @@
 
 ## [From _The University Magazine 1833-1880_](https://iiif.archivelab.org/iiif/sim_university-magazine_1842-05_19_113?page=73)
 
-#### 1842-05-01
+#### 1842-05-01 &middot; [Dublin, Republic of Ireland](http://dbpedia.org/resource/Dublin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -81,7 +81,7 @@ clean out of mind.”
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1842-06-16_13_24?page=3)
 
-#### 1842-06-16 &middot; New York
+#### 1842-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -113,7 +113,7 @@ the Psalmist—“ forgotten and clean out of mind.&quot;
 
 ## [From _The Knickerbocker; or New York Monthly Magazine (1833-1862)_](https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1842-07_20_1?page=105)
 
-#### 1842-07-01 &middot; New York
+#### 1842-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -151,7 +151,7 @@ remember to lisp our name.’ Then shall we have become, in the touching languag
 
 ## [From _Bloomington herald._](https://chroniclingamerica.loc.gov/lccn/sn85050801/1842-11-18/ed-1/seq-4)
 
-#### 1842-11-18 &middot; Bloomington, I. T. [Iowa]
+#### 1842-11-18 &middot; [Bloomington, I. T. [Iowa]](http://dbpedia.org/resource/Muscatine%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -200,7 +200,7 @@ ing language of the Psalmist,
 
 #### From _Daily national intelligencer._
 
-#### 1842-11-26 &middot; Washington City [D.C.]
+#### 1842-11-26 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -210,7 +210,7 @@ ing language of the Psalmist,
 
 #### From _Cleveland daily herald._
 
-#### 1842-12-30 &middot; Cleveland [Ohio]
+#### 1842-12-30 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -218,7 +218,7 @@ ing language of the Psalmist,
 
 ## [From _The Yazoo City Whig and political register._](https://chroniclingamerica.loc.gov/lccn/sn87065696/1843-02-03/ed-1/seq-1)
 
-#### 1843-02-03 &middot; Yazoo City, Miss.
+#### 1843-02-03 &middot; [Yazoo City, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -263,7 +263,7 @@ clean out of minde.&#x27;&quot;
 
 ## [From _Baton-Rouge gazette._](https://chroniclingamerica.loc.gov/lccn/sn82003383/1843-02-18/ed-1/seq-1)
 
-#### 1843-02-18 &middot; Baton-Rouge, La.
+#### 1843-02-18 &middot; [Baton-Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -309,7 +309,7 @@ Psrdmist, &#x27; forgotten and clean out of rnind!&#x27;
 
 #### From _The Ohio observer._
 
-#### 1843-03-09 &middot; Hudson [Ohio]
+#### 1843-03-09 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -319,7 +319,7 @@ Psrdmist, &#x27; forgotten and clean out of rnind!&#x27;
 
 #### From _Boston investigator._
 
-#### 1843-03-22 &middot; Boston, Mass.
+#### 1843-03-22 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -327,7 +327,7 @@ Psrdmist, &#x27; forgotten and clean out of rnind!&#x27;
 
 ## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7?page=2)
 
-#### 1843-04-01 &middot; Bradford
+#### 1843-04-01 &middot; [Bradford](http://dbpedia.org/resource/Bradford%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -376,7 +376,7 @@ clean out of mind.” —Knickerbucker
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24?page=2)
 
-#### 1843-06-16 &middot; New York
+#### 1843-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -403,7 +403,7 @@ now for our children; the village urchins will badly, except pinching his finger
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24?page=2)
 
-#### 1843-06-16 &middot; New York
+#### 1843-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -437,7 +437,7 @@ we meet with. ®
 
 ## [From _The Columbia Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025180/1843-06-17/ed-1/seq-4)
 
-#### 1843-06-17 &middot; Bloomsburg, Pa.
+#### 1843-06-17 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -488,7 +488,7 @@ mind I
 
 ## [From _Holly Springs gazette._](https://chroniclingamerica.loc.gov/lccn/sn87090028/1843-06-30/ed-1/seq-1)
 
-#### 1843-06-30 &middot; Holly Springs, Misp. [i.e. Miss.]
+#### 1843-06-30 &middot; [Holly Springs, Misp. [i.e. Miss.]](http://dbpedia.org/resource/Holly_Springs%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -533,7 +533,7 @@ mortality ; and enables us, in th
 
 ## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1843-09-08/ed-1/seq-1)
 
-#### 1843-09-08 &middot; Brattleboro, Vt.
+#### 1843-09-08 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -592,7 +592,7 @@ mind.
 
 ## [From _The guard._](https://chroniclingamerica.loc.gov/lccn/sn83016785/1843-12-27/ed-1/seq-1)
 
-#### 1843-12-27 &middot; Holly Springs, Miss.
+#### 1843-12-27 &middot; [Holly Springs, Miss.](http://dbpedia.org/resource/Holly_Springs%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -643,7 +643,7 @@ ihe (hing .of file will creep in, aud ou
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1844-01-11/ed-1/seq-1)
 
-#### 1844-01-11 &middot; Charlestown, Va. [W. Va.]
+#### 1844-01-11 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -693,7 +693,7 @@ clean out of mind.’ ”—Atylum Jour
 
 ## [From _Port-Gibson herald._](https://chroniclingamerica.loc.gov/lccn/sn87090149/1844-01-18/ed-1/seq-1)
 
-#### 1844-01-18 &middot; Port Gibson, Miss.
+#### 1844-01-18 &middot; [Port Gibson, Miss.](http://dbpedia.org/resource/Port_Gibson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -763,7 +763,7 @@ out of mind
 
 ## [From _The Port-Gibson correspondent._](https://chroniclingamerica.loc.gov/lccn/sn83016954/1844-01-20/ed-1/seq-3)
 
-#### 1844-01-20 &middot; Port Gibson, Miss.
+#### 1844-01-20 &middot; [Port Gibson, Miss.](http://dbpedia.org/resource/Port_Gibson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -799,7 +799,7 @@ ff rave dods will be thrown in an
 
 ## [From _The Port-Gibson correspondent._](https://chroniclingamerica.loc.gov/lccn/sn83016954/1844-01-20/ed-1/seq-3)
 
-#### 1844-01-20 &middot; Port Gibson, Miss.
+#### 1844-01-20 &middot; [Port Gibson, Miss.](http://dbpedia.org/resource/Port_Gibson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -821,7 +821,7 @@ and clean out of mind.
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1844-03-14/ed-1/seq-1)
 
-#### 1844-03-14 &middot; Litchfield, Conn.
+#### 1844-03-14 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -875,7 +875,7 @@ Psalmist, “ forgotten and clean out of mind.
 
 ## [From _The Ripley advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020048/1846-01-24/ed-1/seq-1)
 
-#### 1846-01-24 &middot; Ripley, Miss.
+#### 1846-01-24 &middot; [Ripley, Miss.](http://dbpedia.org/resource/Ripley%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -946,7 +946,7 @@ complete removal of the patient to another
 
 ## [From _The Huntress._](https://iiif.archivelab.org/iiif/sim_huntress_1846-01-24_9_50?page=1)
 
-#### 1846-01-24 &middot; Washington [D.C.]
+#### 1846-01-24 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -978,7 +978,7 @@ good natuied face would disarm a Nero.| worm. And it may be for some shor
 
 ## [From _The Cadiz sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84028793/1846-03-11/ed-1/seq-3)
 
-#### 1846-03-11 &middot; Cadiz, Ohio
+#### 1846-03-11 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1021,7 +1021,7 @@ Baltimore and Ohio Rail Road Comnanv. duss
 
 ## [From _Herald of the times, and Rhode Islander._](https://chroniclingamerica.loc.gov/lccn/sn83021168/1846-04-09/ed-1/seq-4)
 
-#### 1846-04-09 &middot; Newport, R.I.
+#### 1846-04-09 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1073,7 +1073,7 @@ Cforgotten and clean out of mind.””&quot;
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1846-04-09/ed-1/seq-4)
 
-#### 1846-04-09 &middot; Alexandria, D.C.
+#### 1846-04-09 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1111,7 +1111,7 @@ lisp our names.
 
 ## [From _The Yazoo City Whig._](https://chroniclingamerica.loc.gov/lccn/sn84020019/1846-04-10/ed-1/seq-1)
 
-#### 1846-04-10 &middot; Yazoo, Miss.
+#### 1846-04-10 &middot; [Yazoo, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1135,7 +1135,7 @@ around our paths. -The world Will have
 
 ## [From _The Yazoo City Whig._](https://chroniclingamerica.loc.gov/lccn/sn84020019/1846-04-10/ed-1/seq-1)
 
-#### 1846-04-10 &middot; Yazoo, Miss.
+#### 1846-04-10 &middot; [Yazoo, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1179,7 +1179,7 @@ will net remember to lisp our nain
 
 #### From _The Cleveland herald._
 
-#### 1846-04-13 &middot; Cleveland, Ohio
+#### 1846-04-13 &middot; [Cleveland, Ohio](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -1187,7 +1187,7 @@ will net remember to lisp our nain
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1846-04-23_17_17?page=3)
 
-#### 1846-04-23 &middot; New York
+#### 1846-04-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1207,7 +1207,7 @@ I be as bright over our graves as they are now around
 
 ## [From _Baton-Rouge gazette._](https://chroniclingamerica.loc.gov/lccn/sn82003383/1846-04-25/ed-1/seq-2)
 
-#### 1846-04-25 &middot; Baton-Rouge, La.
+#### 1846-04-25 &middot; [Baton-Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1248,7 +1248,7 @@ and not remember to lisp our names.
 
 ## [From _Wheeling times and advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84038585/1846-05-11/ed-1/seq-2)
 
-#### 1846-05-11 &middot; Wheeling, Va. [W. Va.]
+#### 1846-05-11 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1264,7 +1264,7 @@ have felt as we feel, and their fellows wer
 
 ## [From _The true American._](https://iiif.archivelab.org/iiif/xt7wh707xj1t?page=3)
 
-#### 1846-05-13 &middot; Lexington, Ky.
+#### 1846-05-13 &middot; [Lexington, Ky.](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1305,7 +1305,7 @@ will not remember to lisp our names.&quot;
 
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-05-15_9_10?page=3)
 
-#### 1846-05-15 &middot; Hartford [Conn.]
+#### 1846-05-15 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1351,7 +1351,7 @@ funeral will wind on its way, and our friends | tism, Hemorrhoids, Piles, Worms,
 
 ## [From _The Casket. Devoted to Literature, Science, the Arts, News, &c. (1846-1846)_](https://iiif.archivelab.org/iiif/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6?page=1)
 
-#### 1846-05-20 &middot; Cincinnati
+#### 1846-05-20 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1394,7 +1394,7 @@ Shi
 
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1846-06-18/ed-1/seq-2)
 
-#### 1846-06-18 &middot; Staunton, Va.
+#### 1846-06-18 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1432,7 +1432,7 @@ j otir names.
 
 ## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-07-17_9_19?page=0)
 
-#### 1846-07-17 &middot; Hartford [Conn.]
+#### 1846-07-17 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1449,7 +1449,7 @@ ee eee. Sylvia Katty, per Rev. aly concert, per Rev.Mr. Howard, ==! Sn egigg] «
 
 ## [From _Christian Parlor Magazine (1844-1855)_](https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12?page=25)
 
-#### 1846-12-01 &middot; New York
+#### 1846-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1486,7 +1486,7 @@ not remember to lisp our names.”
 
 ## [From _Burlington hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn82014327/1846-12-24/ed-1/seq-1)
 
-#### 1846-12-24 &middot; Burlington, Iowa
+#### 1846-12-24 &middot; [Burlington, Iowa](http://dbpedia.org/resource/Burlington%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1528,7 +1528,7 @@ remember to lisp our names.&#x27;
 
 ## [From _Baton-Rouge gazette._](https://chroniclingamerica.loc.gov/lccn/sn82003383/1847-01-23/ed-1/seq-1)
 
-#### 1847-01-23 &middot; Baton-Rouge, La.
+#### 1847-01-23 &middot; [Baton-Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1577,7 +1577,7 @@ clean out of mind Knickerbocker
 
 #### From _Greenville mountaineer._
 
-#### 1847-12-03 &middot; Greenville, S.C.
+#### 1847-12-03 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -1585,7 +1585,7 @@ clean out of mind Knickerbocker
 
 ## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1848-12-20/ed-1/seq-2)
 
-#### 1848-12-20 &middot; Evansville, Ia. [i.e. Ind.]
+#### 1848-12-20 &middot; [Evansville, Ia. [i.e. Ind.]](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1627,7 +1627,7 @@ dermine those foundations upon which th
 
 ## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1849-09-06/ed-1/seq-4)
 
-#### 1849-09-06 &middot; Glasgow, Mo.
+#### 1849-09-06 &middot; [Glasgow, Mo.](http://dbpedia.org/resource/Glasgow%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1676,7 +1676,7 @@ no ciean gone out or mind,
 
 ## [From _The Mississippi Creole._](https://chroniclingamerica.loc.gov/lccn/sn83016872/1849-09-08/ed-1/seq-1)
 
-#### 1849-09-08 &middot; Canton, Miss.
+#### 1849-09-08 &middot; [Canton, Miss.](http://dbpedia.org/resource/Canton%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1716,7 +1716,7 @@ and clean gone out of mind.&#x27;
 
 ## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1850-09-26/ed-1/seq-4)
 
-#### 1850-09-26 &middot; Gallipolis, Ohio
+#### 1850-09-26 &middot; [Gallipolis, Ohio](http://dbpedia.org/resource/Gallipolis%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1763,7 +1763,7 @@ ber to. lisp our names.&quot; .
 
 ## [From _Spirit of the times._](https://chroniclingamerica.loc.gov/lccn/sn84028880/1854-10-17/ed-1/seq-1)
 
-#### 1854-10-17 &middot; Ironton, Ohio
+#### 1854-10-17 &middot; [Ironton, Ohio](http://dbpedia.org/resource/Ironton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1805,7 +1805,7 @@ lisp our names.
 
 ## [From _The Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026192/1856-03-08/ed-1/seq-3)
 
-#### 1856-03-08 &middot; Perrysburg, Ohio
+#### 1856-03-08 &middot; [Perrysburg, Ohio](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1843,7 +1843,7 @@ our children will cease to think of us and lor
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1856-12-25/ed-1/seq-1)
 
-#### 1856-12-25 &middot; Greenville, S.C.
+#### 1856-12-25 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1891,7 +1891,7 @@ clean out of mind.&#x27;&#x27;
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1858-04-30/ed-1/seq-4)
 
-#### 1858-04-30 &middot; Irasburgh, Vt.
+#### 1858-04-30 &middot; [Irasburgh, Vt.](http://dbpedia.org/resource/Irasburg%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1937,7 +1937,7 @@ the touching language of the Psalmist,
 
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1858-06-17/ed-1/seq-1)
 
-#### 1858-06-17 &middot; Ottumwa, Iowa
+#### 1858-06-17 &middot; [Ottumwa, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1981,7 +1981,7 @@ yforgotton and clean gone out of mind.&quot;
 
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1858-07-16/ed-1/seq-1)
 
-#### 1858-07-16 &middot; Bedford, Pa.
+#### 1858-07-16 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2023,7 +2023,7 @@ gotten and out of mind.
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1858-07-24/ed-1/seq-1)
 
-#### 1858-07-24 &middot; Shepherdstown, Va. [W. Va.]
+#### 1858-07-24 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2069,7 +2069,7 @@ mind/ &quot;
 
 ## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1858-08-18/ed-1/seq-1)
 
-#### 1858-08-18 &middot; Nevada, Calif.
+#### 1858-08-18 &middot; [Nevada, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2111,7 +2111,7 @@ out of mind.’
 
 ## [From _Marshall County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056247/1858-08-19/ed-1/seq-1)
 
-#### 1858-08-19 &middot; Plymouth, Ind.
+#### 1858-08-19 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2144,7 +2144,7 @@ joy: and even our children will cease t
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1858-08-19/ed-1/seq-1)
 
-#### 1858-08-19 &middot; Port Tobacco, Md.
+#### 1858-08-19 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2187,7 +2187,7 @@ Psalmist, ‘forgotten and out of mind.’
 
 ## [From _The Kansas herald of freedom._](https://chroniclingamerica.loc.gov/lccn/sn82006863/1858-09-04/ed-1/seq-1)
 
-#### 1858-09-04 &middot; Wakarusa, Kan. Territory
+#### 1858-09-04 &middot; [Wakarusa, Kan. Territory](http://dbpedia.org/resource/Lawrence%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2233,7 +2233,7 @@ and clean gone out of mind.
 
 ## [From _Saint Paul weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn90059500/1858-09-18/ed-1/seq-1)
 
-#### 1858-09-18 &middot; Saint Paul, Minn.
+#### 1858-09-18 &middot; [Saint Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2273,7 +2273,7 @@ mind.”
 
 ## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1858-09-30/ed-1/seq-1)
 
-#### 1858-09-30 &middot; St. Charles City [Charles City], Iowa
+#### 1858-09-30 &middot; [St. Charles City [Charles City], Iowa](http://dbpedia.org/resource/Charles_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2328,7 +2328,7 @@ The throbbing heart will finduT^v,
 
 ## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1858-09-30/ed-1/seq-1)
 
-#### 1858-09-30 &middot; St. Charles City [Charles City], Iowa
+#### 1858-09-30 &middot; [St. Charles City [Charles City], Iowa](http://dbpedia.org/resource/Charles_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2372,7 +2372,7 @@ dencc in &quot;Virginia. It was in the ffuagc of the Psalmist, forgotten and
 
 ## [From _Newbern weekly progress._](https://chroniclingamerica.loc.gov/lccn/sn84026547/1858-10-28/ed-1/seq-4)
 
-#### 1858-10-28 &middot; Newbern, N.C.
+#### 1858-10-28 &middot; [Newbern, N.C.](http://dbpedia.org/resource/New_Bern%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2406,7 +2406,7 @@ which we died; and the eye that mourned for u
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1858-11-17/ed-1/seq-1)
 
-#### 1858-11-17 &middot; Raleigh, N.C.
+#### 1858-11-17 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2458,7 +2458,7 @@ and even our children will cease to think
 
 ## [From _The Nevada journal._](https://chroniclingamerica.loc.gov/lccn/sn84026884/1858-12-10/ed-1/seq-1)
 
-#### 1858-12-10 &middot; Nevada City, Calif.
+#### 1858-12-10 &middot; [Nevada City, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2501,7 +2501,7 @@ our names no more.
 
 ## [From _The North-Carolinian._](https://chroniclingamerica.loc.gov/lccn/sn84020750/1858-12-18/ed-1/seq-1)
 
-#### 1858-12-18 &middot; Fayetteville [N.C.]
+#### 1858-12-18 &middot; [Fayetteville [N.C.]](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2541,7 +2541,7 @@ hand is the readiest sign of voluntary courtes
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1859-01-01/ed-1/seq-1)
 
-#### 1859-01-01 &middot; Shepherdstown, Va. [W. Va.]
+#### 1859-01-01 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2583,7 +2583,7 @@ will remember to Ii*p our names no more
 
 ## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1859-02-22/ed-1/seq-2)
 
-#### 1859-02-22 &middot; Keokuk, Iowa
+#### 1859-02-22 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2627,7 +2627,7 @@ mind.&#x27;&quot;
 
 ## [From _The Jeffersonian Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028083/1859-03-04/ed-1/seq-1)
 
-#### 1859-03-04 &middot; Chardon, Ohio
+#### 1859-03-04 &middot; [Chardon, Ohio](http://dbpedia.org/resource/Chardon%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2658,7 +2658,7 @@ gotten and clean gone out of tuiud.&quot;
 
 ## [From _The weekly Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035102/1859-03-10/ed-1/seq-1)
 
-#### 1859-03-10 &middot; Ravenna, Ohio
+#### 1859-03-10 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2709,7 +2709,7 @@ touching language of the Psalmist, &quot;Forgot
 
 ## [From _The River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn86086437/1859-03-16/ed-1/seq-2)
 
-#### 1859-03-16 &middot; River Falls, Pierce County, Wis.
+#### 1859-03-16 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2742,7 +2742,7 @@ m the touching language of tlie’Psalmist. 1
 
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1859-04-06/ed-1/seq-1)
 
-#### 1859-04-06 &middot; Ebensburg, Pa.
+#### 1859-04-06 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2772,7 +2772,7 @@ gotten and clean gone cut cf mind.&#x27;
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1859-04-07/ed-1/seq-1)
 
-#### 1859-04-07 &middot; Port Tobacco, Md.
+#### 1859-04-07 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2816,7 +2816,7 @@ clean gone out of mind.’
 
 ## [From _Clarksville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061076/1859-04-08/ed-1/seq-1)
 
-#### 1859-04-08 &middot; Clarksville, Tenn.
+#### 1859-04-08 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2857,7 +2857,7 @@ out of mind.&quot; V&#x27;
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1859-05-07/ed-1/seq-1)
 
-#### 1859-05-07 &middot; Elkton, Md.
+#### 1859-05-07 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2900,7 +2900,7 @@ mist. “forgotten and clean gone out of mind.
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1859-05-07/ed-1/seq-1)
 
-#### 1859-05-07 &middot; Sunbury, Pa.
+#### 1859-05-07 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2925,7 +2925,7 @@ in silence and darkness for the worm. An
 
 ## [From _Arkansas true Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014282/1859-05-11/ed-1/seq-3)
 
-#### 1859-05-11 &middot; Little Rock, Ark.
+#### 1859-05-11 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2966,7 +2966,7 @@ our names.
 
 ## [From _The south-western._](https://chroniclingamerica.loc.gov/lccn/sn83016483/1859-05-11/ed-1/seq-1)
 
-#### 1859-05-11 &middot; Shreveport, La.
+#### 1859-05-11 &middot; [Shreveport, La.](http://dbpedia.org/resource/Shreveport%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2998,7 +2998,7 @@ ing Dutch maiden, who was tending bar in
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1859-05-19/ed-1/seq-1)
 
-#### 1859-05-19 &middot; Towanda, Pa.
+#### 1859-05-19 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3033,7 +3033,7 @@ died ; and the e
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1859-05-25/ed-1/seq-1)
 
-#### 1859-05-25 &middot; Raleigh, N.C.
+#### 1859-05-25 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3060,7 +3060,7 @@ pened. Roll back thc billowy tide of time!
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1859-05-25/ed-1/seq-1)
 
-#### 1859-05-25 &middot; Warren, Ohio
+#### 1859-05-25 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3091,7 +3091,7 @@ f.r&#x27;.n ri
 
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1859-06-01/ed-1/seq-1)
 
-#### 1859-06-01 &middot; Bloomsburg, Pa.
+#### 1859-06-01 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3132,7 +3132,7 @@ ber to lisp our names.&quot;
 
 ## [From _The Kanzas news._](https://chroniclingamerica.loc.gov/lccn/sn85030219/1859-06-25/ed-1/seq-1)
 
-#### 1859-06-25 &middot; Emporia, Kan.
+#### 1859-06-25 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3164,7 +3164,7 @@ with joy, and even our own child ren will ceas
 
 ## [From _The Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026192/1859-07-28/ed-1/seq-1)
 
-#### 1859-07-28 &middot; Perrysburg, Ohio
+#### 1859-07-28 &middot; [Perrysburg, Ohio](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3193,7 +3193,7 @@ And il may be lor a It r I time we shall
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1859-08-11/ed-1/seq-1)
 
-#### 1859-08-11 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1859-08-11 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3239,7 +3239,7 @@ and clean gone out of mind.
 
 ## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1859-08-17/ed-1/seq-1)
 
-#### 1859-08-17 &middot; Van Buren, Ark.
+#### 1859-08-17 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3277,7 +3277,7 @@ The Cork Oak
 
 #### From _Southern Planter (1841-1866)_
 
-#### 1859-11-01 &middot; Richmond
+#### 1859-11-01 &middot; [Richmond](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 [This text is not available under an open license.]
 
@@ -3285,7 +3285,7 @@ The Cork Oak
 
 ## [From _The weekly Anglo-African._](https://chroniclingamerica.loc.gov/lccn/sn83030179/1859-12-03/ed-1/seq-4)
 
-#### 1859-12-03 &middot; New York [N.Y.]
+#### 1859-12-03 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3324,7 +3324,7 @@ with the senior d
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1859-12-15/ed-1/seq-1)
 
-#### 1859-12-15 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1859-12-15 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3359,7 +3359,7 @@ gotten and clean gone out of mind.&#x27;
 
 #### From _German reformed messenger._
 
-#### 1859-12-28 &middot; Chambersburg, Pa.
+#### 1859-12-28 &middot; [Chambersburg, Pa.](http://dbpedia.org/resource/Chambersburg%2C_Pennsylvania)
 
 [This text is not available under an open license.]
 
@@ -3367,7 +3367,7 @@ gotten and clean gone out of mind.&#x27;
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1860-01-07/ed-1/seq-1)
 
-#### 1860-01-07 &middot; Bridgeton, N.J.
+#### 1860-01-07 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3415,7 +3415,7 @@ clean gone out of mind.
 
 #### From _Christian Observer (1840-1910)_
 
-#### 1860-01-12 &middot; Louisville
+#### 1860-01-12 &middot; [Louisville](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 [This text is not available under an open license.]
 
@@ -3423,7 +3423,7 @@ clean gone out of mind.
 
 ## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1860-04-14/ed-1/seq-6)
 
-#### 1860-04-14 &middot; New York [N.Y.]
+#### 1860-04-14 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3458,7 +3458,7 @@ ber to lisp our names.
 
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1860-09-22/ed-1/seq-4)
 
-#### 1860-09-22 &middot; New-Lisbon, Ohio
+#### 1860-09-22 &middot; [New-Lisbon, Ohio](http://dbpedia.org/resource/Salem%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3499,7 +3499,7 @@ Licuens. And os the earth&#x27;s first mercy, s
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1861-04-17/ed-1/seq-1)
 
-#### 1861-04-17 &middot; Woodsfield, Ohio
+#### 1861-04-17 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3541,7 +3541,7 @@ not remember to lisp our names.&quot;
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1861-05-18/ed-1/seq-1)
 
-#### 1861-05-18 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1861-05-18 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3576,7 +3576,7 @@ and our names will soon be forgotten
 
 ## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1861-09-26_13_669?page=6)
 
-#### 1861-09-26 &middot; New York
+#### 1861-09-26 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3642,7 +3642,7 @@ and clean out of mind.’ ”
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1861-10-12/ed-1/seq-2)
 
-#### 1861-10-12 &middot; Emporia, Kan.
+#### 1861-10-12 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3688,7 +3688,7 @@ clean out of mind,&#x27;
 
 ## [From _Delaware gazette._](https://chroniclingamerica.loc.gov/lccn/sn83035595/1861-11-01/ed-1/seq-1)
 
-#### 1861-11-01 &middot; Delaware, Ohio
+#### 1861-11-01 &middot; [Delaware, Ohio](http://dbpedia.org/resource/Delaware%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3733,7 +3733,7 @@ ist, &#x27;forgotten and clean out of mind.&#x27;&quot;,
 
 ## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1862-01-31/ed-1/seq-4)
 
-#### 1862-01-31 &middot; Pomeroy, Meigs County, Ohio
+#### 1862-01-31 &middot; [Pomeroy, Meigs County, Ohio](http://dbpedia.org/resource/Pomeroy%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3781,7 +3781,7 @@ gotten and clean out of mind.&#x27;
 
 ## [From _The weekly Butte record._](https://chroniclingamerica.loc.gov/lccn/sn86058108/1863-05-16/ed-1/seq-1)
 
-#### 1863-05-16 &middot; Oroville [Calif.]
+#### 1863-05-16 &middot; [Oroville [Calif.]](http://dbpedia.org/resource/Oroville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3823,7 +3823,7 @@ and gone on: of mind/
 
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1863-09-10/ed-1/seq-1)
 
-#### 1863-09-10 &middot; Cumberland, Md.
+#### 1863-09-10 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3861,7 +3861,7 @@ gone out of mind.
 
 ## [From _Monmouth herald & inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032312/1863-10-29/ed-1/seq-1)
 
-#### 1863-10-29 &middot; Freehold, N.J.
+#### 1863-10-29 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3906,7 +3906,7 @@ the touching language of the psalmist,
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1863-11-14/ed-1/seq-1)
 
-#### 1863-11-14 &middot; Bridgeton, N.J.
+#### 1863-11-14 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3951,7 +3951,7 @@ mind.”
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1864-06-24/ed-1/seq-1)
 
-#### 1864-06-24 &middot; Bel Air, Md.
+#### 1864-06-24 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3993,7 +3993,7 @@ remember to lisp our names.
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1867-04-07/ed-1/seq-4)
 
-#### 1867-04-07 &middot; Memphis, Tenn.
+#### 1867-04-07 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4032,7 +4032,7 @@ mourned for us will be dried and wil
 
 ## [From _North Branch democrat._](https://chroniclingamerica.loc.gov/lccn/sn86081912/1867-04-10/ed-1/seq-1)
 
-#### 1867-04-10 &middot; Tunkhannock, Pa.
+#### 1867-04-10 &middot; [Tunkhannock, Pa.](http://dbpedia.org/resource/Tunkhannock%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4078,7 +4078,7 @@ out of mind.&#x27;&quot;
 
 ## [From _The national Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053571/1867-04-11/ed-1/seq-1)
 
-#### 1867-04-11 &middot; Washington City [D.C.]
+#### 1867-04-11 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4114,7 +4114,7 @@ slumbercrs sleep without a monument
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1867-05-10/ed-1/seq-1)
 
-#### 1867-05-10 &middot; Romney, Va. [W. Va.]
+#### 1867-05-10 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4148,7 +4148,7 @@ remember to lisp our name.
 
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1867-05-18/ed-1/seq-1)
 
-#### 1867-05-18 &middot; Canton, Miss.
+#### 1867-05-18 &middot; [Canton, Miss.](http://dbpedia.org/resource/Canton%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4191,7 +4191,7 @@ rough usage of th
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1867-05-21/ed-1/seq-1)
 
-#### 1867-05-21 &middot; Lancaster, Wis.
+#### 1867-05-21 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4229,7 +4229,7 @@ r.s, and will not rem &#x27;ii,ber to lisp our
 
 ## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1867-05-25/ed-1/seq-1)
 
-#### 1867-05-25 &middot; Bolivar, Hardeman County, Tenn.
+#### 1867-05-25 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4265,7 +4265,7 @@ most inteibg&#x27;-i-it colored men in this plac
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1867-05-31/ed-1/seq-1)
 
-#### 1867-05-31 &middot; Bedford, Pa.
+#### 1867-05-31 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4299,7 +4299,7 @@ us, and will not remember to lisp our name
 
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn86053370/1867-06-12/ed-1/seq-1)
 
-#### 1867-06-12 &middot; Butler, Butler County, Pa.
+#### 1867-06-12 &middot; [Butler, Butler County, Pa.](http://dbpedia.org/resource/Butler%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4333,7 +4333,7 @@ remember to lisf our naoee.
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1867-08-14/ed-1/seq-1)
 
-#### 1867-08-14 &middot; Clearfield, Pa.
+#### 1867-08-14 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4371,7 +4371,7 @@ Hospitality Among Lions. &quot;I hav
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1867-08-18/ed-1/seq-1)
 
-#### 1867-08-18 &middot; Memphis, Tenn.
+#### 1867-08-18 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4411,7 +4411,7 @@ onr children will cease to think of us, and
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239?page=22)
 
-#### 1867-12-07
+#### 1867-12-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4442,7 +4442,7 @@ and will not remember to lisp our name.
 
 ## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-01_28_1?page=73)
 
-#### 1868-01-01 &middot; Cincinnati
+#### 1868-01-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4484,7 +4484,7 @@ our name
 
 ## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt7c2f7jqr32?page=3)
 
-#### 1868-03-19 &middot; Mount Sterling, Ky.
+#### 1868-03-19 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4517,7 +4517,7 @@ dren will cease to think of us, and will no
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1868-04-09/ed-1/seq-1)
 
-#### 1868-04-09 &middot; Troy, Lincoln County, Mo.
+#### 1868-04-09 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4551,7 +4551,7 @@ children will ooase to think of us, and wil
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1868-04-16/ed-1/seq-4)
 
-#### 1868-04-16 &middot; St. Clairsville, Ohio
+#### 1868-04-16 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4586,7 +4586,7 @@ cease to think of us, and will not remem
 
 ## [From _The Tiffin weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076793/1868-04-23/ed-1/seq-1)
 
-#### 1868-04-23 &middot; Tiffin, Ohio
+#### 1868-04-23 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4623,7 +4623,7 @@ and will not remember to lisp ou
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1868-05-26/ed-1/seq-1)
 
-#### 1868-05-26 &middot; Charles Town, Va. [W. Va.]
+#### 1868-05-26 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4659,7 +4659,7 @@ no fact more clearly established in the phy
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1868-05-26/ed-1/seq-2)
 
-#### 1868-05-26 &middot; Charles Town, Va. [W. Va.]
+#### 1868-05-26 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4695,7 +4695,7 @@ no fact more clearly established in the phy
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-05-30/ed-1/seq-1)
 
-#### 1868-05-30 &middot; Shepherdstown, Va. [W. Va.]
+#### 1868-05-30 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4722,7 +4722,7 @@ thai she lis* now for our children. \ et
 
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn84024207/1868-06-04/ed-1/seq-1)
 
-#### 1868-06-04 &middot; Lancaster, Ohio
+#### 1868-06-04 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4768,7 +4768,7 @@ ot the impeachment of Presiden
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1868-06-04/ed-1/seq-1)
 
-#### 1868-06-04 &middot; Kenosha, Wis.
+#### 1868-06-04 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4805,7 +4805,7 @@ ou, and laughter and song will be heard i
 
 #### From _The Hinds County gazette._
 
-#### 1868-06-12 &middot; Raymond, Miss.
+#### 1868-06-12 &middot; [Raymond, Miss.](http://dbpedia.org/resource/Raymond%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -4813,7 +4813,7 @@ ou, and laughter and song will be heard i
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1868-06-12/ed-1/seq-2)
 
-#### 1868-06-12 &middot; Manitowoc, Wis.
+#### 1868-06-12 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4853,7 +4853,7 @@ to lisp onr names.
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1868-06-20/ed-1/seq-1)
 
-#### 1868-06-20 &middot; Ashtabula, Ohio
+#### 1868-06-20 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4890,7 +4890,7 @@ name.-Littl
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1868-06-25/ed-1/seq-1)
 
-#### 1868-06-25 &middot; Kenosha, Wis.
+#### 1868-06-25 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4922,7 +4922,7 @@ not remember to lisp our names.”
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1868-07-01/ed-1/seq-1)
 
-#### 1868-07-01 &middot; Warren, Ohio
+#### 1868-07-01 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4961,7 +4961,7 @@ following entertaining picture of Broa
 
 ## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1868-07-02/ed-1/seq-4)
 
-#### 1868-07-02 &middot; St. Clairsville, Ohio
+#### 1868-07-02 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4994,7 +4994,7 @@ ue will fee dried and will tllte
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1868-07-02/ed-1/seq-1)
 
-#### 1868-07-02 &middot; Charlestown, Va. [W. Va.]
+#### 1868-07-02 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5032,7 +5032,7 @@ ind even our children will cease to think of us,
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1868-07-08/ed-1/seq-1)
 
-#### 1868-07-08 &middot; Watertown, Wis.
+#### 1868-07-08 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5065,7 +5065,7 @@ mourned for us be dry and will gliste
 
 ## [From _The weekly Panola star._](https://chroniclingamerica.loc.gov/lccn/sn83016951/1868-07-11/ed-1/seq-1)
 
-#### 1868-07-11 &middot; Panola, Miss.
+#### 1868-07-11 &middot; [Panola, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5103,7 +5103,7 @@ r
 
 ## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1868-07-17/ed-1/seq-1)
 
-#### 1868-07-17 &middot; Pulaski, Tenn.
+#### 1868-07-17 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5137,7 +5137,7 @@ and will nt remember to lisp our name
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1868-07-17/ed-1/seq-1)
 
-#### 1868-07-17 &middot; Bellows Falls, Vt.
+#### 1868-07-17 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5177,7 +5177,7 @@ not remember to lisp our names
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1868-07-18/ed-1/seq-2)
 
-#### 1868-07-18 &middot; Gold Hill, N.T. [Nev.]
+#### 1868-07-18 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5218,7 +5218,7 @@ the lute election Prosecuting Attorne
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1868-08-19/ed-1/seq-4)
 
-#### 1868-08-19 &middot; Greenville, S.C.
+#### 1868-08-19 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5254,7 +5254,7 @@ childteu will cease to l(rink of us, an
 
 ## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1868-09-25/ed-1/seq-1)
 
-#### 1868-09-25 &middot; Prescott, Wis.
+#### 1868-09-25 &middot; [Prescott, Wis.](http://dbpedia.org/resource/Prescott%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5294,7 +5294,7 @@ thing of the kind ever offered to the public
 
 #### From _Bangor daily Whig & courier._
 
-#### 1868-10-16 &middot; Bangor, Me.
+#### 1868-10-16 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -5302,7 +5302,7 @@ thing of the kind ever offered to the public
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1868-10-16/ed-1/seq-2)
 
-#### 1868-10-16 &middot; Manitowoc, Wis.
+#### 1868-10-16 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5340,7 +5340,7 @@ of sortie woman
 
 ## [From _The Iowa plain dealer._](https://chroniclingamerica.loc.gov/lccn/sn83025167/1868-11-13/ed-1/seq-1)
 
-#### 1868-11-13 &middot; New Oregon, Howard County, Iowa
+#### 1868-11-13 &middot; [New Oregon, Howard County, Iowa](http://dbpedia.org/resource/Cresco%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5384,7 +5384,7 @@ speak our names.
 
 ## [From _The Grenada sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034375/1868-12-05/ed-1/seq-1)
 
-#### 1868-12-05 &middot; Grenada, Miss.
+#### 1868-12-05 &middot; [Grenada, Miss.](http://dbpedia.org/resource/Grenada%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5425,7 +5425,7 @@ Prince. —The first Prince Mcnschi
 
 ## [From _Des Arc weekly citizen._](https://chroniclingamerica.loc.gov/lccn/sn84027696/1868-12-15/ed-1/seq-1)
 
-#### 1868-12-15 &middot; Des Arc, Ark.
+#### 1868-12-15 &middot; [Des Arc, Ark.](http://dbpedia.org/resource/Des_Arc%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5463,7 +5463,7 @@ lisp our name
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1869-03-06/ed-1/seq-4)
 
-#### 1869-03-06 &middot; Weaverville, Calif.
+#### 1869-03-06 &middot; [Weaverville, Calif.](http://dbpedia.org/resource/Weaverville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5504,7 +5504,7 @@ out of mind.
 
 ## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1869-05-13/ed-1/seq-1)
 
-#### 1869-05-13 &middot; Tarboro', N.C.
+#### 1869-05-13 &middot; [Tarboro', N.C.](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5551,7 +5551,7 @@ lisp our names. Thus spake a though
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1869-05-20/ed-1/seq-1)
 
-#### 1869-05-20 &middot; Anderson Court House, S.C.
+#### 1869-05-20 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5596,7 +5596,7 @@ come, in the language of the Psalmist,
 
 ## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1869-06-16/ed-1/seq-1)
 
-#### 1869-06-16 &middot; Greenville, S.C.
+#### 1869-06-16 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5648,7 +5648,7 @@ ten and clean out of in.ml.&quot;
 
 ## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-08_79_470?page=26)
 
-#### 1869-08-01 &middot; New York
+#### 1869-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5687,7 +5687,7 @@ children will cease to think of us, and will no
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1869-08-27/ed-1/seq-4)
 
-#### 1869-08-27 &middot; Columbia, Tenn.
+#### 1869-08-27 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5721,7 +5721,7 @@ Rule 1. Get up late in the morning an
 
 #### From _Lowell daily citizen and news._
 
-#### 1869-09-08 &middot; Lowell, Mass.
+#### 1869-09-08 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -5729,7 +5729,7 @@ Rule 1. Get up late in the morning an
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1869-09-29/ed-1/seq-1)
 
-#### 1869-09-29 &middot; Smyrna, Del.
+#### 1869-09-29 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5750,7 +5750,7 @@ be. And so likewise shall it be when we are
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1869-09-29/ed-1/seq-1)
 
-#### 1869-09-29 &middot; Smyrna, Del.
+#### 1869-09-29 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5790,7 +5790,7 @@ cisco that a document has been found on th
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1869-10-24/ed-1/seq-6)
 
-#### 1869-10-24 &middot; New York [N.Y.]
+#### 1869-10-24 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5834,7 +5834,7 @@ Mr. Campbell and his party, in the north o
 
 #### From _Preston Chronicle_
 
-#### 1869-11-20 &middot; Preston, England
+#### 1869-11-20 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5842,7 +5842,7 @@ Mr. Campbell and his party, in the north o
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1869-11-20/ed-1/seq-1)
 
-#### 1869-11-20 &middot; Shepherdstown, Va. [W. Va.]
+#### 1869-11-20 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5878,7 +5878,7 @@ our name.
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1869-12-02/ed-1/seq-1)
 
-#### 1869-12-02 &middot; Charlestown, Va. [W. Va.]
+#### 1869-12-02 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5921,7 +5921,7 @@ winter, is a native of Cracow, and reputed t
 
 ## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1869-12-18/ed-1/seq-1)
 
-#### 1869-12-18 &middot; Towsontown, Md.
+#### 1869-12-18 &middot; [Towsontown, Md.](http://dbpedia.org/resource/Towson%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5954,7 +5954,7 @@ Leisure is never so enjoyably as when i
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1870-01-07/ed-1/seq-1)
 
-#### 1870-01-07 &middot; Staunton, Va.
+#### 1870-01-07 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5980,7 +5980,7 @@ has now for our children.
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1870-02-01/ed-1/seq-1)
 
-#### 1870-02-01 &middot; Charles Town, Va. [W. Va.]
+#### 1870-02-01 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6006,7 +6006,7 @@ The Aim or Life.?The great controllin
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1870-02-09/ed-1/seq-1)
 
-#### 1870-02-09 &middot; Smyrna, Del.
+#### 1870-02-09 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6033,7 +6033,7 @@ now for our children.
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1870-02-17/ed-1/seq-1)
 
-#### 1870-02-17 &middot; Westminster, Md.
+#### 1870-02-17 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6060,7 +6060,7 @@ that the has now for our children.
 
 ## [From _Eaton weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85034457/1870-02-17/ed-1/seq-2)
 
-#### 1870-02-17 &middot; Eaton, Ohio
+#### 1870-02-17 &middot; [Eaton, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6109,7 +6109,7 @@ which we died; and the eyes wil
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1870-04-16/ed-1/seq-1)
 
-#### 1870-04-16 &middot; Opelousas, La.
+#### 1870-04-16 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6144,7 +6144,7 @@ weave tints seperately that our blin
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1870-09-22/ed-1/seq-2)
 
-#### 1870-09-22 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1870-09-22 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6173,7 +6173,7 @@ that ste haB now for our children
 
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-01-17/ed-1/seq-2)
 
-#### 1871-01-17 &middot; New Bloomfield, Pa.
+#### 1871-01-17 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6200,7 +6200,7 @@ she has now for our children.&quot;
 
 ## [From _The Greenville enterprise._](https://chroniclingamerica.loc.gov/lccn/sn83025799/1871-10-11/ed-1/seq-1)
 
-#### 1871-10-11 &middot; Greenville, S.C.
+#### 1871-10-11 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6253,7 +6253,7 @@ touching language of the psalmist,
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1871-12-09/ed-1/seq-1)
 
-#### 1871-12-09 &middot; Auburn, Placer County, Calif.
+#### 1871-12-09 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6296,7 +6296,7 @@ mind.
 
 ## [From _Alpena weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn85033549/1872-02-27/ed-1/seq-4)
 
-#### 1872-02-27 &middot; Alpena, Mich.
+#### 1872-02-27 &middot; [Alpena, Mich.](http://dbpedia.org/resource/Alpena%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6348,7 +6348,7 @@ the mind.&quot;
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1872-03-08/ed-1/seq-4)
 
-#### 1872-03-08 &middot; Athens, Tenn.
+#### 1872-03-08 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6379,7 +6379,7 @@ A health journal savs that, b
 
 #### From _Ohio Farmer (1856-1906)_
 
-#### 1872-03-23 &middot; Cleveland
+#### 1872-03-23 &middot; [Cleveland](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -6387,7 +6387,7 @@ A health journal savs that, b
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1872-03-30/ed-1/seq-1)
 
-#### 1872-03-30 &middot; Opelousas, La.
+#### 1872-03-30 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6436,7 +6436,7 @@ touching language of the psalmist,
 
 ## [From _The Weekly Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn89051253/1872-04-03/ed-1/seq-1)
 
-#### 1872-04-03 &middot; Washington, Ark.
+#### 1872-04-03 &middot; [Washington, Ark.](http://dbpedia.org/resource/Washington%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6479,7 +6479,7 @@ tor life.
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1872-04-17/ed-1/seq-1)
 
-#### 1872-04-17 &middot; Warren, Ohio
+#### 1872-04-17 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6507,7 +6507,7 @@ It is said the more clumsy, awk
 
 ## [From _The Weekly Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn89051253/1872-05-15/ed-1/seq-1)
 
-#### 1872-05-15 &middot; Washington, Ark.
+#### 1872-05-15 &middot; [Washington, Ark.](http://dbpedia.org/resource/Washington%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6548,7 +6548,7 @@ and steers, and five hundred sheep
 
 #### From _The Owyhee avalanche._
 
-#### 1872-06-01 &middot; Ruby City, I.T. [Idaho]
+#### 1872-06-01 &middot; [Ruby City, I.T. [Idaho]](http://dbpedia.org/resource/Ruby_City%2C_Idaho)
 
 [This text is not available under an open license.]
 
@@ -6558,7 +6558,7 @@ and steers, and five hundred sheep
 
 #### From _Boston investigator._
 
-#### 1872-08-07 &middot; Boston, Mass.
+#### 1872-08-07 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -6566,7 +6566,7 @@ and steers, and five hundred sheep
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1872-10-31/ed-1/seq-1)
 
-#### 1872-10-31 &middot; Yorkville, S.C.
+#### 1872-10-31 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6592,7 +6592,7 @@ and that it has now for our children.
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1872-12-19/ed-1/seq-1)
 
-#### 1872-12-19 &middot; Yorkville, S.C.
+#### 1872-12-19 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6619,7 +6619,7 @@ j that it has now for our children.
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1873-01-27/ed-1/seq-1)
 
-#### 1873-01-27 &middot; Barton, Vt.
+#### 1873-01-27 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6650,7 +6650,7 @@ with the death of Napoleon III, and th
 
 #### From _The Owyhee avalanche._
 
-#### 1873-02-01 &middot; Ruby City, I.T. [Idaho]
+#### 1873-02-01 &middot; [Ruby City, I.T. [Idaho]](http://dbpedia.org/resource/Ruby_City%2C_Idaho)
 
 [This text is not available under an open license.]
 
@@ -6658,7 +6658,7 @@ with the death of Napoleon III, and th
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1873-02-11/ed-1/seq-1)
 
-#### 1873-02-11 &middot; Woodsfield, Ohio
+#### 1873-02-11 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6685,7 +6685,7 @@ j for ourselves, aud that she has now for
 
 ## [From _Whig and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033435/1873-02-15/ed-1/seq-1)
 
-#### 1873-02-15 &middot; Jackson, Tenn.
+#### 1873-02-15 &middot; [Jackson, Tenn.](http://dbpedia.org/resource/Jackson%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6733,7 +6733,7 @@ woman we never think of her age
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1873-03-13/ed-1/seq-4)
 
-#### 1873-03-13 &middot; Ellsworth, Me.
+#### 1873-03-13 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6773,7 +6773,7 @@ the touching language of the psalmist,
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1873-03-28/ed-1/seq-1)
 
-#### 1873-03-28 &middot; Bridgeton, N.J.
+#### 1873-03-28 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6804,7 +6804,7 @@ cares for him, and that he is alone in
 
 #### From _Idaho signal._
 
-#### 1873-04-05 &middot; Lewiston, North Idaho
+#### 1873-04-05 &middot; [Lewiston, North Idaho](http://dbpedia.org/resource/Lewiston%2C_Idaho)
 
 [This text is not available under an open license.]
 
@@ -6812,7 +6812,7 @@ cares for him, and that he is alone in
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1873-05-09/ed-1/seq-6)
 
-#### 1873-05-09 &middot; Paw Paw, Mich.
+#### 1873-05-09 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6857,7 +6857,7 @@ with m arly two miles
 
 #### From _Reformed Church messenger /_
 
-#### 1873-08-27 &middot; Philadelphia, Pa.
+#### 1873-08-27 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -6865,7 +6865,7 @@ with m arly two miles
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1873-09-11/ed-1/seq-4)
 
-#### 1873-09-11 &middot; Ravenna, O. [Ohio]
+#### 1873-09-11 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6893,7 +6893,7 @@ The country will tender its thank
 
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1873-10-30/ed-1/seq-3)
 
-#### 1873-10-30 &middot; Jonesborough, Tenn.
+#### 1873-10-30 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6926,7 +6926,7 @@ One of tho greatest evils of tho world i
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-12-10/ed-1/seq-3)
 
-#### 1873-12-10 &middot; Somerset, Pa.
+#### 1873-12-10 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6949,7 +6949,7 @@ The Litti.u Cokpoiial comes to us thi
 
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1874-02-26/ed-1/seq-4)
 
-#### 1874-02-26 &middot; Millersburg, Holmes Co., O. [Ohio]
+#### 1874-02-26 &middot; [Millersburg, Holmes Co., O. [Ohio]](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6980,7 +6980,7 @@ that lay in the way. His mothe
 
 ## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1874-04-23/ed-1/seq-4)
 
-#### 1874-04-23 &middot; Chase, Mich.
+#### 1874-04-23 &middot; [Chase, Mich.](http://dbpedia.org/resource/Baldwin%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7012,7 +7012,7 @@ mat sno nas now lor our children.
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1874-08-07/ed-1/seq-1)
 
-#### 1874-08-07 &middot; Bellows Falls, Vt.
+#### 1874-08-07 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7057,7 +7057,7 @@ angel&#x27;s is a fine, tender, kind heart A
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1874-09-30/ed-1/seq-1)
 
-#### 1874-09-30 &middot; Mifflintown, Juniata County, Pa.
+#### 1874-09-30 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7084,7 +7084,7 @@ our children
 
 ## [From _The enquirer southerner._](https://chroniclingamerica.loc.gov/lccn/sn92073987/1874-10-30/ed-1/seq-1)
 
-#### 1874-10-30 &middot; Tarboro', N.C.
+#### 1874-10-30 &middot; [Tarboro', N.C.](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7115,7 +7115,7 @@ our children.
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16?page=2)
 
-#### 1874-11-14 &middot; Philadelphia
+#### 1874-11-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7162,7 +7162,7 @@ Will met remember to lisp our mam
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16?page=4)
 
-#### 1874-11-14 &middot; Philadelphia
+#### 1874-11-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7206,7 +7206,7 @@ ber in which we died; and the eyes wil
 
 ## [From _The People's vindicator._](https://chroniclingamerica.loc.gov/lccn/sn85038558/1874-11-28/ed-1/seq-1)
 
-#### 1874-11-28 &middot; Natchitoches, La.
+#### 1874-11-28 &middot; [Natchitoches, La.](http://dbpedia.org/resource/Natchitoches%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7250,7 +7250,7 @@ cease tothi k ofa uas, and.will not re
 
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1874-12-24/ed-1/seq-1)
 
-#### 1874-12-24 &middot; Leonard Town, Md.
+#### 1874-12-24 &middot; [Leonard Town, Md.](http://dbpedia.org/resource/Leonardtown%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7292,7 +7292,7 @@ will cease to think of us. and will no
 
 ## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1875-01-28/ed-1/seq-1)
 
-#### 1875-01-28 &middot; Russellville, Ark.
+#### 1875-01-28 &middot; [Russellville, Ark.](http://dbpedia.org/resource/Russellville%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7338,7 +7338,7 @@ ing language of the Psalmist,
 
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
 
-#### 1875-03-16 &middot; Wollongong, New South Wales
+#### 1875-03-16 &middot; [Wollongong, New South Wales](http://dbpedia.org/resource/Wollongong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7378,7 +7378,7 @@ lisp our name. Thk Insanity o
 
 ## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1875-03-24/ed-1/seq-1)
 
-#### 1875-03-24 &middot; Clearfield, Pa.
+#### 1875-03-24 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7419,7 +7419,7 @@ which wo died; nnd tho eyes will cli-
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-05-08/ed-1/seq-1)
 
-#### 1875-05-08 &middot; Shepherdstown, Va. [W. Va.]
+#### 1875-05-08 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7464,7 +7464,7 @@ names.
 
 ## [From _Woodhull and Claflin's Weekly 1870-1876_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1875-06-05_10_1?page=5)
 
-#### 1875-06-05
+#### 1875-06-05 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7489,7 +7489,7 @@ she now has for our children.--The Telegram.
 
 #### From _Southwestern advocate._
 
-#### 1875-06-17 &middot; New Orleans, La.
+#### 1875-06-17 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -7497,7 +7497,7 @@ she now has for our children.--The Telegram.
 
 ## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1875-06-25/ed-1/seq-1)
 
-#### 1875-06-25 &middot; Findlay, Hancock County, Ohio
+#### 1875-06-25 &middot; [Findlay, Hancock County, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7547,7 +7547,7 @@ of Blind.&#x27;&quot;
 
 ## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1875-11-28/ed-1/seq-2)
 
-#### 1875-11-28 &middot; Silver City, Nev.
+#### 1875-11-28 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7596,7 +7596,7 @@ touching language of the Psalmist,
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1875-12-10/ed-1/seq-1)
 
-#### 1875-12-10 &middot; Bel Air, Md.
+#### 1875-12-10 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7622,7 +7622,7 @@ our children
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1876-02-26/ed-1/seq-4)
 
-#### 1876-02-26 &middot; Elkton, Md.
+#### 1876-02-26 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7658,7 +7658,7 @@ and song will he heard in the room i
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1877-07-05/ed-1/seq-1)
 
-#### 1877-07-05 &middot; Bridgeton, N.J.
+#### 1877-07-05 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7696,7 +7696,7 @@ the brain and nerves are called to sever
 
 ## [From _The Beaufort tribune and Port Royal commercial._](https://chroniclingamerica.loc.gov/lccn/sn92065401/1877-07-12/ed-1/seq-1)
 
-#### 1877-07-12 &middot; Beaufort, S.C.
+#### 1877-07-12 &middot; [Beaufort, S.C.](http://dbpedia.org/resource/Beaufort%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7729,7 +7729,7 @@ and will glisten with joy, and even our
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1877-07-21/ed-1/seq-1)
 
-#### 1877-07-21 &middot; Middletown, Del.
+#### 1877-07-21 &middot; [Middletown, Del.](http://dbpedia.org/resource/Middletown%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7766,7 +7766,7 @@ will be heard in the room where w
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1877-07-26/ed-1/seq-1)
 
-#### 1877-07-26 &middot; Camden, S.C.
+#### 1877-07-26 &middot; [Camden, S.C.](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7806,7 +7806,7 @@ is the ruin of many of my neighbors
 
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1877-08-30/ed-1/seq-4)
 
-#### 1877-08-30 &middot; Centre Hall, Pa.
+#### 1877-08-30 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7843,7 +7843,7 @@ will not remember to lisp our names.
 
 #### From _The North American._
 
-#### 1877-09-05 &middot; Philadelphia, Pa.
+#### 1877-09-05 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -7851,7 +7851,7 @@ will not remember to lisp our names.
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1877-09-05/ed-1/seq-1)
 
-#### 1877-09-05 &middot; Mifflintown, Juniata County, Pa.
+#### 1877-09-05 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7883,7 +7883,7 @@ more.
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1877-09-06/ed-1/seq-1)
 
-#### 1877-09-06 &middot; Bridgeton, N.J.
+#### 1877-09-06 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7919,7 +7919,7 @@ to lisp our names—Ooodrich
 
 ## [From _The weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn86053402/1877-09-06/ed-1/seq-4)
 
-#### 1877-09-06 &middot; Cleveland, Tenn.
+#### 1877-09-06 &middot; [Cleveland, Tenn.](http://dbpedia.org/resource/Cleveland%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7956,7 +7956,7 @@ he heard In the room where wo died
 
 ## [From _Arizona citizen._](https://chroniclingamerica.loc.gov/lccn/sn82014896/1877-09-08/ed-1/seq-4)
 
-#### 1877-09-08 &middot; Tucson, Pima County, A.T. [i.e. Ariz.]
+#### 1877-09-08 &middot; [Tucson, Pima County, A.T. [i.e. Ariz.]](http://dbpedia.org/resource/Tucson%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7992,7 +7992,7 @@ will cease to think of us, and will no
 
 ## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1877-09-20/ed-1/seq-4)
 
-#### 1877-09-20 &middot; Belfast, Me.
+#### 1877-09-20 &middot; [Belfast, Me.](http://dbpedia.org/resource/Belfast%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8023,7 +8023,7 @@ cease to think of us, and will not remember t
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1877-10-03/ed-1/seq-4)
 
-#### 1877-10-03 &middot; Mifflintown, Juniata County, Pa.
+#### 1877-10-03 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8050,7 +8050,7 @@ gone.
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1877-10-03/ed-1/seq-4)
 
-#### 1877-10-03 &middot; Mifflintown, Juniata County, Pa.
+#### 1877-10-03 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8088,7 +8088,7 @@ names.
 
 ## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1877-10-04/ed-1/seq-1)
 
-#### 1877-10-04 &middot; Manitowoc, Wis.
+#### 1877-10-04 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8124,7 +8124,7 @@ lisp our name (?
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1877-10-13/ed-1/seq-2)
 
-#### 1877-10-13 &middot; Shepherdstown, Va. [W. Va.]
+#### 1877-10-13 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8160,7 +8160,7 @@ cease to think of us, and will not re-
 
 ## [From _Western sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026526/1877-10-25/ed-1/seq-1)
 
-#### 1877-10-25 &middot; Winston [i.e. Winston-Salem], N.C.
+#### 1877-10-25 &middot; [Winston [i.e. Winston-Salem], N.C.](http://dbpedia.org/resource/Winston-Salem%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8198,7 +8198,7 @@ where we died ; and the eye tha
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1877-11-10/ed-1/seq-2)
 
-#### 1877-11-10 &middot; Opelousas, La.
+#### 1877-11-10 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8237,7 +8237,7 @@ d acter, to pay our bills promptly, and t
 
 ## [From _Brenham weekly banner._](https://chroniclingamerica.loc.gov/lccn/sn86089443/1878-01-25/ed-1/seq-4)
 
-#### 1878-01-25 &middot; Brenham, Tex.
+#### 1878-01-25 &middot; [Brenham, Tex.](http://dbpedia.org/resource/Brenham%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8269,7 +8269,7 @@ think of us and will not remem
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1878-09-18/ed-1/seq-1)
 
-#### 1878-09-18 &middot; Montpelier, Vt.
+#### 1878-09-18 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8305,7 +8305,7 @@ names. Ooodrich
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1878-10-02/ed-1/seq-1)
 
-#### 1878-10-02 &middot; Montpelier, Vt.
+#### 1878-10-02 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8345,7 +8345,7 @@ law of nature, which bind men together a
 
 #### From _The Wisconsin state register._
 
-#### 1879-03-29 &middot; Portage, Columbia County, Wis.
+#### 1879-03-29 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
 
 [This text is not available under an open license.]
 
@@ -8353,7 +8353,7 @@ law of nature, which bind men together a
 
 ## [From _The Sedalia weekly bazoo._](https://chroniclingamerica.loc.gov/lccn/sn90061066/1879-05-27/ed-1/seq-1)
 
-#### 1879-05-27 &middot; Sedalia, Mo.
+#### 1879-05-27 &middot; [Sedalia, Mo.](http://dbpedia.org/resource/Sedalia%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8390,7 +8390,7 @@ childrea will cava to thiak of. na
 
 ## [From _The Sedalia weekly bazoo._](https://chroniclingamerica.loc.gov/lccn/sn90061066/1879-05-27/ed-1/seq-3)
 
-#### 1879-05-27 &middot; Sedalia, Mo.
+#### 1879-05-27 &middot; [Sedalia, Mo.](http://dbpedia.org/resource/Sedalia%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8431,7 +8431,7 @@ To all who are suffering from the error
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1879-12-13/ed-1/seq-4)
 
-#### 1879-12-13 &middot; Weaverville, Calif.
+#### 1879-12-13 &middot; [Weaverville, Calif.](http://dbpedia.org/resource/Weaverville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8457,7 +8457,7 @@ she now has for our children
 
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1880-04-16/ed-1/seq-4)
 
-#### 1880-04-16 &middot; Stanford, Ky.
+#### 1880-04-16 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8488,7 +8488,7 @@ touching language of iho IVamlist,
 
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1880-05-01/ed-1/seq-1)
 
-#### 1880-05-01 &middot; Lake Charles, Parish of Calcasieu, La.
+#### 1880-05-01 &middot; [Lake Charles, Parish of Calcasieu, La.](http://dbpedia.org/resource/Lake_Charles%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8533,7 +8533,7 @@ of mind.&#x27;
 
 ## [From _Western sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026526/1880-09-23/ed-1/seq-1)
 
-#### 1880-09-23 &middot; Winston [i.e. Winston-Salem], N.C.
+#### 1880-09-23 &middot; [Winston [i.e. Winston-Salem], N.C.](http://dbpedia.org/resource/Winston-Salem%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8571,7 +8571,7 @@ names. Goodrich
 
 ## [From _Democratic Northwest._](https://chroniclingamerica.loc.gov/lccn/sn84028296/1883-08-16/ed-1/seq-6)
 
-#### 1883-08-16 &middot; Napoleon, Ohio
+#### 1883-08-16 &middot; [Napoleon, Ohio](http://dbpedia.org/resource/Napoleon%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8610,7 +8610,7 @@ Mary Stuart Face Powder. Harmles
 
 ## [From _The Durham recorder._](https://chroniclingamerica.loc.gov/lccn/sn84020731/1891-11-18/ed-1/seq-4)
 
-#### 1891-11-18 &middot; Durham, N.C.
+#### 1891-11-18 &middot; [Durham, N.C.](http://dbpedia.org/resource/Durham%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8645,7 +8645,7 @@ she has now for our children.
 
 ## [From _Mesa free press._](https://chroniclingamerica.loc.gov/lccn/sn95060636/1893-12-14/ed-1/seq-1)
 
-#### 1893-12-14 &middot; Mesa, Ariz.
+#### 1893-12-14 &middot; [Mesa, Ariz.](http://dbpedia.org/resource/Mesa%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8684,7 +8684,7 @@ quickly will pass the memory o
 
 ## [From _Mohave County miner._](https://chroniclingamerica.loc.gov/lccn/sn84024828/1893-12-30/ed-1/seq-6)
 
-#### 1893-12-30 &middot; Mineral Park, A.T. [Ariz.]
+#### 1893-12-30 &middot; [Mineral Park, A.T. [Ariz.]](http://dbpedia.org/resource/Mineral_Park_mine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8720,7 +8720,7 @@ name. Thun quickly will pass he memor
 
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1896-03-20/ed-1/seq-8)
 
-#### 1896-03-20 &middot; Newtown, Conn.
+#### 1896-03-20 &middot; [Newtown, Conn.](http://dbpedia.org/resource/Newtown%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8761,7 +8761,7 @@ will not remember the lisp of names.&quot;
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1898-07-23/ed-1/seq-4)
 
-#### 1898-07-23 &middot; Westminster, Md.
+#### 1898-07-23 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

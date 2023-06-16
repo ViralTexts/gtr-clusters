@@ -19,7 +19,7 @@ A SINGULAR VEGETABLE SKELETON.—A singular story is told of an apple tree plant
 
 ## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1860-11-17/ed-1/seq-4)
 
-#### 1860-11-17 &middot; New York [N.Y.]
+#### 1860-11-17 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -46,7 +46,7 @@ indeed, molted thereto by the powers of vegetable life. Thi
 
 ## [From _Daily Nashville patriot._](https://chroniclingamerica.loc.gov/lccn/sn83025725/1860-11-20/ed-1/seq-2)
 
-#### 1860-11-20 &middot; Nashville, Tenn.
+#### 1860-11-20 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -78,7 +78,7 @@ moulded thereto by the powers of vegetabl
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1860-11-20/ed-1/seq-4)
 
-#### 1860-11-20 &middot; Alexandria, D.C.
+#### 1860-11-20 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -125,7 +125,7 @@ to by the powers of vegetable life
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1860-11-29/ed-1/seq-1)
 
-#### 1860-11-29 &middot; Plymouth, Ind.
+#### 1860-11-29 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -143,7 +143,7 @@ SSlfc -d nearly straight course, toward
 
 ## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1860-11-29/ed-1/seq-1)
 
-#### 1860-11-29 &middot; Plymouth, Ind.
+#### 1860-11-29 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -188,7 +188,7 @@ thereto by the powers of vegetable lif
 
 #### From _The Dover gazette._
 
-#### 1860-12-01 &middot; Dover, N.H.
+#### 1860-12-01 &middot; [Dover, N.H.](http://dbpedia.org/resource/Dover%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -198,7 +198,7 @@ thereto by the powers of vegetable lif
 
 #### From _Bangor daily Whig & courier._
 
-#### 1860-12-06 &middot; Bangor, Me.
+#### 1860-12-06 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -206,7 +206,7 @@ thereto by the powers of vegetable lif
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1860-12-06/ed-1/seq-1)
 
-#### 1860-12-06 &middot; Towanda, Pa.
+#### 1860-12-06 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -238,7 +238,7 @@ powers of vegetable life. This singularly form
 
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
 
-#### 1860-12-22 &middot; Sioux City, Iowa
+#### 1860-12-22 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -271,7 +271,7 @@ of ihe Cotiati ution, by States nullify u
 
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
 
-#### 1860-12-22 &middot; Sioux City, Iowa
+#### 1860-12-22 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -298,7 +298,7 @@ sr out of the lattefs lei&#x27;.isal to surrender I ties of lb# toes of the skel
 
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
 
-#### 1860-12-22 &middot; Sioux City, Iowa
+#### 1860-12-22 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -321,7 +321,7 @@ Much dissatisfaction is expressed at the of the skeleton of Roger Ui liams, as i
 
 ## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
 
-#### 1860-12-22 &middot; Sioux City, Iowa
+#### 1860-12-22 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -343,7 +343,7 @@ thence divided into two branches each one
 
 ## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1860-12-27/ed-1/seq-2)
 
-#### 1860-12-27 &middot; St. Charles City [Charles City], Iowa
+#### 1860-12-27 &middot; [St. Charles City [Charles City], Iowa](http://dbpedia.org/resource/Charles_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -372,7 +372,7 @@ ishment from the phosphates of th
 
 ## [From _The weekly pioneer and Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016751/1860-12-28/ed-1/seq-6)
 
-#### 1860-12-28 &middot; Saint Paul, Minn. Territory
+#### 1860-12-28 &middot; [Saint Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -397,7 +397,7 @@ cupied by the knee joint, and the entir
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1860-12-29/ed-1/seq-1)
 
-#### 1860-12-29 &middot; Auburn, Placer County, Calif.
+#### 1860-12-29 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -442,7 +442,7 @@ to by the powers of vegetable life. &#x27;This si
 
 ## [From _The Jeffersonian Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028083/1861-01-04/ed-1/seq-4)
 
-#### 1861-01-04 &middot; Chardon, Ohio
+#### 1861-01-04 &middot; [Chardon, Ohio](http://dbpedia.org/resource/Chardon%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -479,7 +479,7 @@ thereto by tho powers of vegetable life
 
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1861-02-14/ed-1/seq-1)
 
-#### 1861-02-14 &middot; Cumberland, Md.
+#### 1861-02-14 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -513,7 +513,7 @@ ded I hereto Ly tiio powers of vcgitable.
 
 ## [From _The hydraulic press._](https://chroniclingamerica.loc.gov/lccn/sn93051083/1861-03-23/ed-1/seq-1)
 
-#### 1861-03-23 &middot; North San Juan, Nev. Co., Cal.
+#### 1861-03-23 &middot; [North San Juan, Nev. Co., Cal.](http://dbpedia.org/resource/North_San_Juan%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -546,7 +546,7 @@ power of vegetable life. This singularl
 
 ## [From _The Texas Republican._](https://chroniclingamerica.loc.gov/lccn/sn83025730/1861-04-13/ed-1/seq-1)
 
-#### 1861-04-13 &middot; Marshall, Tex.
+#### 1861-04-13 &middot; [Marshall, Tex.](http://dbpedia.org/resource/Marshall%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -581,7 +581,7 @@ table life. This singular formed roo
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1862-09-27/ed-1/seq-1)
 
-#### 1862-09-27 &middot; Shasta, Calif.
+#### 1862-09-27 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -612,7 +612,7 @@ outlines of the skeleton as if, indeed, mould
 
 ## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1864-03-18/ed-1/seq-1)
 
-#### 1864-03-18 &middot; St. Albans, Vt.
+#### 1864-03-18 &middot; [St. Albans, Vt.](http://dbpedia.org/resource/St._Albans_(town)%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -649,7 +649,7 @@ slavery of six millions of white men
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1864-04-15/ed-1/seq-4)
 
-#### 1864-04-15 &middot; Irasburgh, Vt.
+#### 1864-04-15 &middot; [Irasburgh, Vt.](http://dbpedia.org/resource/Irasburg%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -680,7 +680,7 @@ of vegetable life. This singularly form
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1865-09-14/ed-1/seq-1)
 
-#### 1865-09-14 &middot; Towanda, Pa.
+#### 1865-09-14 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -713,7 +713,7 @@ by the powers of vegetable life. This sin
 
 ## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37?page=19)
 
-#### 1866-10-01 &middot; Cincinnati
+#### 1866-10-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -745,7 +745,7 @@ a slight crook at the knee, which makes th
 
 #### From _The daily Cleveland herald._
 
-#### 1866-10-04 &middot; Cleveland [Ohio]
+#### 1866-10-04 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -753,7 +753,7 @@ a slight crook at the knee, which makes th
 
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1866-10-14/ed-1/seq-3)
 
-#### 1866-10-14 &middot; Chicago, Ill.
+#### 1866-10-14 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -781,7 +781,7 @@ a slight crook at the knee, which makes th
 
 ## [From _The tri-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn85042146/1866-10-16/ed-1/seq-3)
 
-#### 1866-10-16 &middot; Raleigh, N.C.
+#### 1866-10-16 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -809,7 +809,7 @@ crook at the knee, which makes the whol
 
 ## [From _The weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042148/1866-10-17/ed-1/seq-2)
 
-#### 1866-10-17 &middot; Raleigh, N.C.
+#### 1866-10-17 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -837,7 +837,7 @@ crook at the knee, which makes the whol
 
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1866-10-17/ed-1/seq-1)
 
-#### 1866-10-17 &middot; Mifflintown, Pa.
+#### 1866-10-17 &middot; [Mifflintown, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -866,7 +866,7 @@ slight crook at the knee, which make
 
 ## [From _The Weekly Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn85026193/1866-10-19/ed-1/seq-1)
 
-#### 1866-10-19 &middot; Perrysburg, O. [Ohio]
+#### 1866-10-19 &middot; [Perrysburg, O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -895,7 +895,7 @@ ti e kneo, which makes the whole bear
 
 ## [From _The day book._](https://chroniclingamerica.loc.gov/lccn/sn85025697/1866-10-20/ed-1/seq-1)
 
-#### 1866-10-20 &middot; Norfolk, Va.
+#### 1866-10-20 &middot; [Norfolk, Va.](http://dbpedia.org/resource/Norfolk%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -926,7 +926,7 @@ care, not only as an illustration of the grea
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1866-10-23/ed-1/seq-1)
 
-#### 1866-10-23 &middot; Memphis, Tenn.
+#### 1866-10-23 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -957,7 +957,7 @@ slight crook at the knee, which make
 
 ## [From _The south-western._](https://chroniclingamerica.loc.gov/lccn/sn83016483/1866-10-24/ed-1/seq-6)
 
-#### 1866-10-24 &middot; Shreveport, La.
+#### 1866-10-24 &middot; [Shreveport, La.](http://dbpedia.org/resource/Shreveport%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -986,7 +986,7 @@ One of these roots formed a slight crook at th
 
 #### From _The Times_
 
-#### 1866-10-26 &middot; London, England
+#### 1866-10-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -994,7 +994,7 @@ One of these roots formed a slight crook at th
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1866-10-26/ed-1/seq-1)
 
-#### 1866-10-26 &middot; Portland, Me.
+#### 1866-10-26 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1021,7 +1021,7 @@ crook at the knee, which makes the whole l&gt;e.i
 
 ## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8?page=3)
 
-#### 1866-10-27 &middot; Boston [Mass.]
+#### 1866-10-27 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1050,7 +1050,7 @@ the knee, which made the whole bear a very clos
 
 #### From _Bangor daily Whig & courier._
 
-#### 1866-10-31 &middot; Bangor, Me.
+#### 1866-10-31 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -1060,7 +1060,7 @@ the knee, which made the whole bear a very clos
 
 #### From _Daily evening bulletin._
 
-#### 1866-11-02 &middot; San Francisco [Calif.]
+#### 1866-11-02 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -1068,7 +1068,7 @@ the knee, which made the whole bear a very clos
 
 ## [From _The Conservative._](https://chroniclingamerica.loc.gov/lccn/sn87075001/1866-11-02/ed-1/seq-4)
 
-#### 1866-11-02 &middot; M'connelsville, Ohio
+#### 1866-11-02 &middot; [M'connelsville, Ohio](http://dbpedia.org/resource/McConnelsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1098,7 +1098,7 @@ formed a slight crook at . the knee
 
 #### From _Glasgow Herald_
 
-#### 1866-11-03 &middot; Glasgow, Scotland
+#### 1866-11-03 &middot; [Glasgow, Scotland](http://dbpedia.org/resource/Glasgow)
 
 [This text is not available under an open license.]
 
@@ -1106,7 +1106,7 @@ formed a slight crook at . the knee
 
 ## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1866-11-07/ed-1/seq-1)
 
-#### 1866-11-07 &middot; Mineral Point, Wis.
+#### 1866-11-07 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1135,7 +1135,7 @@ slight crook at the knee, which make
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1866-11-13/ed-1/seq-4)
 
-#### 1866-11-13 &middot; Lancaster, Wis.
+#### 1866-11-13 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1168,7 +1168,7 @@ formed a slight crook at th
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1866-11-22/ed-1/seq-1)
 
-#### 1866-11-22 &middot; Towanda, Pa.
+#### 1866-11-22 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1199,7 +1199,7 @@ ed a slight crook at the knee, which mad
 
 #### From _Newcastle Courant_
 
-#### 1866-11-23 &middot; Newcastle-upon-Tyne, England
+#### 1866-11-23 &middot; [Newcastle-upon-Tyne, England](http://dbpedia.org/resource/Newcastle_upon_Tyne)
 
 [This text is not available under an open license.]
 
@@ -1207,7 +1207,7 @@ ed a slight crook at the knee, which mad
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1866-11-23/ed-1/seq-1)
 
-#### 1866-11-23 &middot; Bellows Falls, Vt.
+#### 1866-11-23 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1245,7 +1245,7 @@ formed a slight crook at the knee, whic
 
 ## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1866-11-29/ed-1/seq-1)
 
-#### 1866-11-29 &middot; Richmond, Ind.
+#### 1866-11-29 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1275,7 +1275,7 @@ these roots formed a slight crook at th
 
 ## [From _The Montana post._](https://chroniclingamerica.loc.gov/lccn/sn83025293/1866-12-01/ed-1/seq-1)
 
-#### 1866-12-01 &middot; Virginia City, Montana Territory [i.e. Mont.]
+#### 1866-12-01 &middot; [Virginia City, Montana Territory [i.e. Mont.]](http://dbpedia.org/resource/Helena%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1310,7 +1310,7 @@ at the knee, which made the whole bea
 
 #### From _Pall Mall Gazette_
 
-#### 1866-12-03 &middot; London, England
+#### 1866-12-03 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1320,7 +1320,7 @@ at the knee, which made the whole bea
 
 #### From _Glasgow Herald_
 
-#### 1866-12-05 &middot; Glasgow, Scotland
+#### 1866-12-05 &middot; [Glasgow, Scotland](http://dbpedia.org/resource/Glasgow)
 
 [This text is not available under an open license.]
 
@@ -1330,7 +1330,7 @@ at the knee, which made the whole bea
 
 #### From _Bristol Mercury_
 
-#### 1866-12-08 &middot; Bristol, England
+#### 1866-12-08 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1338,7 +1338,7 @@ at the knee, which made the whole bea
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1866-12-08/ed-1/seq-1)
 
-#### 1866-12-08 &middot; Shasta, Calif.
+#### 1866-12-08 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1367,7 +1367,7 @@ ward to the toes. One of these roots had
 
 #### From _The Ballarat Star (Vic. : 1865 - 1924)_
 
-#### 1867-01-02 &middot; Ballarat, Victoria
+#### 1867-01-02 &middot; [Ballarat, Victoria](http://dbpedia.org/resource/Ballarat)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1396,7 +1396,7 @@ crook at the knee, which makes the whol
 
 #### From _Empire (Sydney, NSW : 1850 - 1875)_
 
-#### 1867-01-19 &middot; Sydney, New South Wales
+#### 1867-01-19 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1425,7 +1425,7 @@ formed a slight crook at the knee, wblo
 
 #### From _South Australian Weekly Chronicle (Adelaide, SA : 1858 - 1867)_
 
-#### 1867-01-19 &middot; Adelaide, South Australia
+#### 1867-01-19 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1450,7 +1450,7 @@ slight crook at the knee, which make
 
 ## [From _Fayetteville observer._](https://chroniclingamerica.loc.gov/lccn/sn85033395/1867-01-31/ed-1/seq-1)
 
-#### 1867-01-31 &middot; Fayetteville, Tenn.
+#### 1867-01-31 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1480,7 +1480,7 @@ slight crook at the knee, whic
 
 ## [From _The Shelby sentinel._](https://iiif.archivelab.org/iiif/xt76125qbf9s?page=0)
 
-#### 1867-02-20 &middot; Shelbyville, Ky.
+#### 1867-02-20 &middot; [Shelbyville, Ky.](http://dbpedia.org/resource/Shelbyville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1506,7 +1506,7 @@ at the knee, which makes the whole bear
 
 #### From _The Hawaiian gazette._
 
-#### 1867-04-24 &middot; Honolulu [Oahu, Hawaii]
+#### 1867-04-24 &middot; [Honolulu [Oahu, Hawaii]](http://dbpedia.org/resource/Honolulu)
 
 [This text is not available under an open license.]
 
@@ -1516,7 +1516,7 @@ at the knee, which makes the whole bear
 
 #### From _The Herald (Fremantle, WA : 1867 - 1886)_
 
-#### 1867-07-13 &middot; Fremantle, Western Australia
+#### 1867-07-13 &middot; [Fremantle, Western Australia](http://dbpedia.org/resource/Fremantle)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1549,7 +1549,7 @@ crook at the knee, which makes the whol
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
-#### 1868-05-23 &middot; Brisbane, Queensland
+#### 1868-05-23 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1576,7 +1576,7 @@ at the knee, which makes the whole bea
 
 ## [From _The Historical Magazine, and Notes and Queries Concerning the Antiquities, History, and Biography of America (1857-1875)_](https://iiif.archivelab.org/iiif/sim_historical-magazine-biography-of-america_1870-07_8_1?page=57)
 
-#### 1870-07-01 &middot; Boston
+#### 1870-07-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1605,7 +1605,7 @@ One of these roots formed a slight crook at the
 
 #### From _The Milwaukee sentinel._
 
-#### 1871-06-15 &middot; Milwaukee, Wis.
+#### 1871-06-15 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -1613,7 +1613,7 @@ One of these roots formed a slight crook at the
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1871-09-13/ed-1/seq-1)
 
-#### 1871-09-13 &middot; Urbana, Ohio
+#### 1871-09-13 &middot; [Urbana, Ohio](http://dbpedia.org/resource/Urbana%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1644,7 +1644,7 @@ at the knee, which made the whole bea
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1871-09-29/ed-1/seq-1)
 
-#### 1871-09-29 &middot; Bridgeton, N.J.
+#### 1871-09-29 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1678,7 +1678,7 @@ principle of vegetation, but tor its hi
 
 ## [From _The Hawaiian gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025121/1871-11-15/ed-1/seq-3)
 
-#### 1871-11-15 &middot; Honolulu [Oahu, Hawaii]
+#### 1871-11-15 &middot; [Honolulu [Oahu, Hawaii]](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1706,7 +1706,7 @@ formed a slight crook at the knee, which made t
 
 ## [From _Wellman's Miscellany (1870-1873)_](https://iiif.archivelab.org/iiif/sim_wellmans-miscellany_1871-12_4_6?page=10)
 
-#### 1871-12-01 &middot; Detroit
+#### 1871-12-01 &middot; [Detroit](http://dbpedia.org/resource/Detroit)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1735,7 +1735,7 @@ a slight crook at the knee, which make
 
 ## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1872-09-27/ed-1/seq-2)
 
-#### 1872-09-27 &middot; Jasper, Ind.
+#### 1872-09-27 &middot; [Jasper, Ind.](http://dbpedia.org/resource/Jasper%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1773,7 +1773,7 @@ the powers of vegetable life. Thissingularly-forme
 
 #### From _Boston daily advertiser._
 
-#### 1874-03-05 &middot; Boston, Mass.
+#### 1874-03-05 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -1781,7 +1781,7 @@ the powers of vegetable life. Thissingularly-forme
 
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1874-04-01/ed-1/seq-4)
 
-#### 1874-04-01 &middot; New Orleans, La
+#### 1874-04-01 &middot; [New Orleans, La](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1811,7 +1811,7 @@ blance to the outlines of the skeleton; bu
 
 ## [From _The Grange advance._](https://chroniclingamerica.loc.gov/lccn/sn85025567/1874-04-08/ed-1/seq-10)
 
-#### 1874-04-08 &middot; Red Wing, Minn.
+#### 1874-04-08 &middot; [Red Wing, Minn.](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1843,7 +1843,7 @@ ton but not a fragment of Roger&#x27;s re
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1874-04-16/ed-1/seq-3)
 
-#### 1874-04-16 &middot; Nashville, Tenn.
+#### 1874-04-16 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1876,7 +1876,7 @@ blance to the outlines of the skeleton
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1874-06-20 &middot; Melbourne, Victoria
+#### 1874-06-20 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1904,7 +1904,7 @@ of the skeleton ; and not a fragment o
 
 #### From _The Brisbane Courier (Qld. : 1864 - 1933)_
 
-#### 1874-06-29 &middot; Brisbane, Queensland
+#### 1874-06-29 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1931,7 +1931,7 @@ skeloton ; but not a fragment of Roger&#x27;
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
-#### 1874-06-30 &middot; Clare, South Australia
+#### 1874-06-30 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1958,7 +1958,7 @@ the outlines of tie skeleton; and not
 
 #### From _Portland Guardian and Normanby General Advertiser (Vic. : 1842 - 1876)_
 
-#### 1874-07-03 &middot; Portland, Victoria
+#### 1874-07-03 &middot; [Portland, Victoria](http://dbpedia.org/resource/Portland%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1986,7 +1986,7 @@ skeleton ; and not a fragiment o
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
-#### 1874-07-04 &middot; Brisbane, Queensland
+#### 1874-07-04 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2014,7 +2014,7 @@ skeleton : but not a fragment of Roger&#x27;
 
 #### From _Clarence and Richmond Examiner and New England Advertiser (Grafton, NSW : 1859 - 1889)_
 
-#### 1874-07-14 &middot; Grafton, New South Wales
+#### 1874-07-14 &middot; [Grafton, New South Wales](http://dbpedia.org/resource/Grafton%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2041,7 +2041,7 @@ to thc outlines of the skeleton j bu
 
 #### From _Derby Mercury_
 
-#### 1874-07-22 &middot; Derby, England
+#### 1874-07-22 &middot; [Derby, England](http://dbpedia.org/resource/Derby)
 
 [This text is not available under an open license.]
 
@@ -2051,7 +2051,7 @@ to thc outlines of the skeleton j bu
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1874-07-22 &middot; Exeter, England
+#### 1874-07-22 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -2061,7 +2061,7 @@ to thc outlines of the skeleton j bu
 
 #### From _St. Louis globe-Democrat._
 
-#### 1877-09-23 &middot; St. Louis [Mo.]
+#### 1877-09-23 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 

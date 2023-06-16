@@ -45,7 +45,7 @@ Mother of angels walk softly! Holy eyes watch thy footsteps, cherub forms bend t
 
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1853-01-27_34_4?page=0)
 
-#### 1853-01-27 &middot; Boston
+#### 1853-01-27 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -94,7 +94,7 @@ them,” though “ they may not return to thee.”—(i
 
 ## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1853-01-28/ed-1/seq-1)
 
-#### 1853-01-28 &middot; Lewisburg, Pa.
+#### 1853-01-28 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -138,7 +138,7 @@ ings, and jour own radiant Isagel i
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1853-02-17_26_43?page=3)
 
-#### 1853-02-17 &middot; Boston
+#### 1853-02-17 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -184,7 +184,7 @@ from taint; so shalt thou ‘ go to them,’ though
 
 ## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1853-03-02/ed-1/seq-1)
 
-#### 1853-03-02 &middot; Cadiz, Ohio
+#### 1853-03-02 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -226,7 +226,7 @@ taint; so shalt thou &quot;goto them,&quot; tho&#x27;ttgl&quot;J
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1853-03-04/ed-1/seq-1)
 
-#### 1853-03-04 &middot; Athens, Tenn.
+#### 1853-03-04 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -267,7 +267,7 @@ not return to thee. i anny fern
 
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1853-03-23/ed-1/seq-1)
 
-#### 1853-03-23 &middot; Martinsburg, Va. [W. Va.]
+#### 1853-03-23 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -285,7 +285,7 @@ There spoke the mother
 
 ## [From _Lynchburg daily Virginian._](https://chroniclingamerica.loc.gov/lccn/sn85034360/1853-03-24/ed-1/seq-1)
 
-#### 1853-03-24 &middot; Lynchburg [Va.]
+#### 1853-03-24 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -326,7 +326,7 @@ return to thee.
 
 ## [From _Daily evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-03-25/ed-1/seq-1)
 
-#### 1853-03-25 &middot; Washington [D.C.]
+#### 1853-03-25 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -418,7 +418,7 @@ taint; so eha.lt thou &quot;go to them,&quot; though
 
 #### From _The Ripley bee._
 
-#### 1853-03-26 &middot; Ripley [Ohio]
+#### 1853-03-26 &middot; [Ripley [Ohio]](http://dbpedia.org/resource/Ripley%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -428,7 +428,7 @@ taint; so eha.lt thou &quot;go to them,&quot; though
 
 #### From _The daily South Carolinian._
 
-#### 1853-03-30 &middot; Columbia, S.C.
+#### 1853-03-30 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -436,7 +436,7 @@ taint; so eha.lt thou &quot;go to them,&quot; though
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1853-03-31/ed-1/seq-1)
 
-#### 1853-03-31 &middot; Montpelier, Vt.
+#### 1853-03-31 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -483,7 +483,7 @@ f -th
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-02_32_1653?page=0)
 
-#### 1853-04-02 &middot; Philadelphia
+#### 1853-04-02 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -528,7 +528,7 @@ your own radiant child-angel in their mids
 
 ## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-04-05/ed-1/seq-6)
 
-#### 1853-04-05 &middot; Sumterville, S.C.
+#### 1853-04-05 &middot; [Sumterville, S.C.](http://dbpedia.org/resource/Sumter%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -574,7 +574,7 @@ urn to thee. F.iNNY FsI. 0
 
 ## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-04-05/ed-1/seq-7)
 
-#### 1853-04-05 &middot; Sumterville, S.C.
+#### 1853-04-05 &middot; [Sumterville, S.C.](http://dbpedia.org/resource/Sumter%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -623,7 +623,7 @@ turn to thee. FANNY FFILN
 
 #### From _Daily morning news._
 
-#### 1853-04-06 &middot; Savannah, Ga.
+#### 1853-04-06 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 [This text is not available under an open license.]
 
@@ -631,7 +631,7 @@ turn to thee. FANNY FFILN
 
 ## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1853-04-07/ed-1/seq-1)
 
-#### 1853-04-07 &middot; Litchfield, Conn.
+#### 1853-04-07 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -684,7 +684,7 @@ ures, children of earth
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1853-04-07_26_50?page=3)
 
-#### 1853-04-07 &middot; Boston
+#### 1853-04-07 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -774,7 +774,7 @@ Can you
 
 #### From _New Hampshire statesman._
 
-#### 1853-04-09 &middot; Concord [N.H.]
+#### 1853-04-09 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -782,7 +782,7 @@ Can you
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1853-04-16/ed-1/seq-4)
 
-#### 1853-04-16 &middot; Alexandria, D.C.
+#### 1853-04-16 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -822,7 +822,7 @@ may not return to thee.--0/n*e Branch
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-16_32_1655?page=3)
 
-#### 1853-04-16 &middot; Philadelphia
+#### 1853-04-16 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -874,7 +874,7 @@ not return to thee.— Fanny Fern
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1853-04-21/ed-1/seq-2)
 
-#### 1853-04-21 &middot; Stroudsburg, Pa.
+#### 1853-04-21 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -946,7 +946,7 @@ children of earth
 
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1853-05-10/ed-1/seq-1)
 
-#### 1853-05-10 &middot; Charles Town, Va. [W. Va.]
+#### 1853-05-10 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -996,7 +996,7 @@ earth
 
 #### From _The Weekly Raleigh register._
 
-#### 1853-05-11 &middot; Raleigh, N.C.
+#### 1853-05-11 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -1006,7 +1006,7 @@ earth
 
 #### From _The daily register._
 
-#### 1853-05-11 &middot; Raleigh, N.C.
+#### 1853-05-11 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -1014,7 +1014,7 @@ earth
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1853-05-19/ed-1/seq-1)
 
-#### 1853-05-19 &middot; Bath, Me.
+#### 1853-05-19 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1074,7 +1074,7 @@ dren of earth !
 
 ## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1853-05-20/ed-1/seq-4)
 
-#### 1853-05-20 &middot; Wilmington, N.C.
+#### 1853-05-20 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1140,7 +1140,7 @@ ly to your beautiful treasures, children of earth
 
 ## [From _Hannibal journal._](https://chroniclingamerica.loc.gov/lccn/sn89067494/1853-05-21/ed-1/seq-2)
 
-#### 1853-05-21 &middot; Hannibal, Mo.
+#### 1853-05-21 &middot; [Hannibal, Mo.](http://dbpedia.org/resource/Hannibal%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1165,7 +1165,7 @@ tethers at Page &amp; Bacon&#x27;s tn bo counter- places not yet fillcJ; ant eve
 
 ## [From _Hannibal journal._](https://chroniclingamerica.loc.gov/lccn/sn89067494/1853-05-21/ed-1/seq-2)
 
-#### 1853-05-21 &middot; Hannibal, Mo.
+#### 1853-05-21 &middot; [Hannibal, Mo.](http://dbpedia.org/resource/Hannibal%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1189,7 +1189,7 @@ lut t?&#x27;d, J,a co,nlM,nwnhaltihou ifto them,&quot; thouKh -Uhcy may no
 
 ## [From _Hannibal journal._](https://chroniclingamerica.loc.gov/lccn/sn87091069/1853-05-26/ed-1/seq-4)
 
-#### 1853-05-26 &middot; Hannibal, Mo.
+#### 1853-05-26 &middot; [Hannibal, Mo.](http://dbpedia.org/resource/Hannibal%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1255,7 +1255,7 @@ return to thee
 
 ## [From _The Yazoo City weekly Whig._](https://chroniclingamerica.loc.gov/lccn/sn87065697/1853-06-24/ed-1/seq-1)
 
-#### 1853-06-24 &middot; Yazoo City, Miss.
+#### 1853-06-24 &middot; [Yazoo City, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1274,7 +1274,7 @@ long twined its - graceful foliage, about the their places &quot;not yet filled;
 
 ## [From _The Yazoo City weekly Whig._](https://chroniclingamerica.loc.gov/lccn/sn87065697/1853-06-24/ed-1/seq-1)
 
-#### 1853-06-24 &middot; Yazoo City, Miss.
+#### 1853-06-24 &middot; [Yazoo City, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1300,7 +1300,7 @@ though they may not &quot;return to thee,
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27?page=3)
 
-#### 1853-07-07 &middot; New York
+#### 1853-07-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1327,7 +1327,7 @@ i! fu! ^onl away to think those cherub lips will never, ‘I® *®
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27?page=3)
 
-#### 1853-07-07 &middot; New York
+#### 1853-07-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1348,7 +1348,7 @@ tressure.s. children of earth .—Lutheran Olks.
 
 ## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1853-08-25/ed-1/seq-4)
 
-#### 1853-08-25 &middot; Glasgow, Mo.
+#### 1853-08-25 &middot; [Glasgow, Mo.](http://dbpedia.org/resource/Glasgow%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1385,7 +1385,7 @@ Qgli they may not return to thee
 
 ## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1853-09-07/ed-1/seq-1)
 
-#### 1853-09-07 &middot; Washington, Ark.
+#### 1853-09-07 &middot; [Washington, Ark.](http://dbpedia.org/resource/Washington%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1426,7 +1426,7 @@ them, though the
 
 ## [From _Muscatine journal._](https://chroniclingamerica.loc.gov/lccn/sn88059754/1853-09-16/ed-1/seq-4)
 
-#### 1853-09-16 &middot; Bloomington, Iowa
+#### 1853-09-16 &middot; [Bloomington, Iowa](http://dbpedia.org/resource/Muscatine%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1454,7 +1454,7 @@ pillowed. &quot;Two in Heaven!&quot;
 
 #### From _The Daily Scioto gazette._
 
-#### 1853-10-03 &middot; Chillicothe, Ohio
+#### 1853-10-03 &middot; [Chillicothe, Ohio](http://dbpedia.org/resource/Chillicothe%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -1462,7 +1462,7 @@ pillowed. &quot;Two in Heaven!&quot;
 
 ## [From _Thibodaux minerva._](https://chroniclingamerica.loc.gov/lccn/sn86079110/1853-11-12/ed-1/seq-2)
 
-#### 1853-11-12 &middot; Thibodaux, La.
+#### 1853-11-12 &middot; [Thibodaux, La.](http://dbpedia.org/resource/Thibodaux%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1516,7 +1516,7 @@ beautiful treasures, children of earth !
 
 #### From _New Hampshire statesman._
 
-#### 1854-03-11 &middot; Concord [N.H.]
+#### 1854-03-11 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -1526,7 +1526,7 @@ beautiful treasures, children of earth !
 
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
 
-#### 1854-05-17 &middot; Sydney, New South Wales
+#### 1854-05-17 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1565,7 +1565,7 @@ them,&quot; though &quot; they may not return t
 
 #### From _Bell’s Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860)_
 
-#### 1854-09-02 &middot; Sydney, New South Wales
+#### 1854-09-02 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1606,7 +1606,7 @@ t&#x27;-nonreturn-to theo.&quot;&#x27; .&#x27; &#x27;
 
 #### From _The Ohio observer._
 
-#### 1854-09-27 &middot; Hudson [Ohio]
+#### 1854-09-27 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -1614,7 +1614,7 @@ t&#x27;-nonreturn-to theo.&quot;&#x27; .&#x27; &#x27;
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1855-04-14/ed-1/seq-1)
 
-#### 1855-04-14 &middot; Ottawa, Ill.
+#### 1855-04-14 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1663,7 +1663,7 @@ dren of earth
 
 #### From _Fayetteville observer._
 
-#### 1855-04-26 &middot; Fayetteville, N.C.
+#### 1855-04-26 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -1671,7 +1671,7 @@ dren of earth
 
 ## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1855-05-16/ed-1/seq-1)
 
-#### 1855-05-16 &middot; Washington, Ark.
+#### 1855-05-16 &middot; [Washington, Ark.](http://dbpedia.org/resource/Washington%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1738,7 +1738,7 @@ too closely to your beautiful treasures, chil­
 
 #### From _Daily morning news._
 
-#### 1855-05-17 &middot; Savannah, Ga.
+#### 1855-05-17 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 [This text is not available under an open license.]
 
@@ -1746,7 +1746,7 @@ too closely to your beautiful treasures, chil­
 
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1855-05-23/ed-1/seq-1)
 
-#### 1855-05-23 &middot; Ashland, Ashland County, Ohio
+#### 1855-05-23 &middot; [Ashland, Ashland County, Ohio](http://dbpedia.org/resource/Ashland%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1778,7 +1778,7 @@ sive, darling hand that has wandered s
 
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1855-05-23/ed-1/seq-1)
 
-#### 1855-05-23 &middot; Ashland, Ashland County, Ohio
+#### 1855-05-23 &middot; [Ashland, Ashland County, Ohio](http://dbpedia.org/resource/Ashland%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1800,7 +1800,7 @@ It shouts in your ear; its chariots rum
 
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1855-05-23/ed-1/seq-1)
 
-#### 1855-05-23 &middot; Ashland, Ashland County, Ohio
+#### 1855-05-23 &middot; [Ashland, Ashland County, Ohio](http://dbpedia.org/resource/Ashland%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1831,7 +1831,7 @@ sures, children of earth ! &#x27; :-
 
 ## [From _The weekly Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035102/1855-05-23/ed-1/seq-1)
 
-#### 1855-05-23 &middot; Ravenna, Ohio
+#### 1855-05-23 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1872,7 +1872,7 @@ taint; so shalt thou &quot; go to them;,,; though,
 
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1855-05-25/ed-1/seq-1)
 
-#### 1855-05-25 &middot; Fremont, Sandusky County [Ohio]
+#### 1855-05-25 &middot; [Fremont, Sandusky County [Ohio]](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1937,7 +1937,7 @@ children of earth!
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1855-05-30/ed-1/seq-1)
 
-#### 1855-05-30 &middot; Warren, Ohio
+#### 1855-05-30 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1984,7 +1984,7 @@ though they may not return to thee.
 
 ## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-06_7_6?page=43)
 
-#### 1855-06-01 &middot; St. Louis, Mo.
+#### 1855-06-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2037,7 +2037,7 @@ msy not return to thee.”’
 
 #### From _Jackson's Oxford Journal_
 
-#### 1855-06-16 &middot; Oxford, England
+#### 1855-06-16 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -2045,7 +2045,7 @@ msy not return to thee.”’
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1855-06-22/ed-1/seq-1)
 
-#### 1855-06-22 &middot; Athens, Tenn.
+#### 1855-06-22 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2111,7 +2111,7 @@ of Earth
 
 ## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
 
-#### 1855-07-25 &middot; Lebanon, Ky.
+#### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2133,7 +2133,7 @@ There spoke the mother! Still her’s
 
 ## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
 
-#### 1855-07-25 &middot; Lebanon, Ky.
+#### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2152,7 +2152,7 @@ and loving as a little child. from the same faithful breast where their
 
 ## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
 
-#### 1855-07-25 &middot; Lebanon, Ky.
+#### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2177,7 +2177,7 @@ ling serpent in the garden of Laen, an jjjg face? Nothintj less than that j^^®^
 
 ## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
 
-#### 1855-07-25 &middot; Lebanon, Ky.
+#### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2199,7 +2199,7 @@ nal soul upwards. &quot;Still small” voices.
 
 ## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
 
-#### 1855-07-25 &middot; Lebanon, Ky.
+#### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2220,7 +2220,7 @@ though “they may not return to thee.
 
 ## [From _The Camden weekly journal._](https://chroniclingamerica.loc.gov/lccn/sn84027851/1855-08-07/ed-1/seq-1)
 
-#### 1855-08-07 &middot; Camden, South-Carolina
+#### 1855-08-07 &middot; [Camden, South-Carolina](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2270,7 +2270,7 @@ earth.? Fanny Fkrn, in Olive Branch
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-08-19/ed-1/seq-1)
 
-#### 1855-08-19 &middot; Nashville, Tenn.
+#### 1855-08-19 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2316,7 +2316,7 @@ earth. Olive Branch
 
 ## [From _American union._](https://chroniclingamerica.loc.gov/lccn/sn86092124/1855-08-25/ed-1/seq-1)
 
-#### 1855-08-25 &middot; Morgantown, Va. [W. Va.]
+#### 1855-08-25 &middot; [Morgantown, Va. [W. Va.]](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2351,7 +2351,7 @@ though &quot; they may not return to thee.
 
 ## [From _True American._](https://chroniclingamerica.loc.gov/lccn/sn84028817/1855-08-29/ed-1/seq-4)
 
-#### 1855-08-29 &middot; Steubenville [Ohio]
+#### 1855-08-29 &middot; [Steubenville [Ohio]](http://dbpedia.org/resource/Steubenville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2393,7 +2393,7 @@ taint, so shalt thou &#x27;go to them,&#x27; though
 
 ## [From _Council Bluffs bugle._](https://chroniclingamerica.loc.gov/lccn/sn82014139/1855-10-02/ed-1/seq-5)
 
-#### 1855-10-02 &middot; City of Council Bluffs, Iowa
+#### 1855-10-02 &middot; [City of Council Bluffs, Iowa](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2423,7 +2423,7 @@ inrs, an 1 your own rclient child in tfceir
 
 ## [From _Spirit of the times._](https://chroniclingamerica.loc.gov/lccn/sn84028880/1855-10-23/ed-1/seq-1)
 
-#### 1855-10-23 &middot; Ironton, Ohio
+#### 1855-10-23 &middot; [Ironton, Ohio](http://dbpedia.org/resource/Ironton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2462,7 +2462,7 @@ Authority
 
 ## [From _Tribune and telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040307/1855-11-08/ed-1/seq-1)
 
-#### 1855-11-08 &middot; Kenosha, Wis.
+#### 1855-11-08 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2507,7 +2507,7 @@ On her brow a glory crown.
 
 #### From _German reformed messenger._
 
-#### 1855-11-21 &middot; Chambersburg, Pa.
+#### 1855-11-21 &middot; [Chambersburg, Pa.](http://dbpedia.org/resource/Chambersburg%2C_Pennsylvania)
 
 [This text is not available under an open license.]
 
@@ -2515,7 +2515,7 @@ On her brow a glory crown.
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1855-12-11/ed-1/seq-1)
 
-#### 1855-12-11 &middot; Charlotte, N.C.
+#### 1855-12-11 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2559,7 +2559,7 @@ On her brow a glory crown
 
 ## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1855-12-13/ed-1/seq-1)
 
-#### 1855-12-13 &middot; Bloomsburg, Pa.
+#### 1855-12-13 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2605,7 +2605,7 @@ On her brow a glory crown.&#x27;
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1856-01-01/ed-1/seq-1)
 
-#### 1856-01-01 &middot; Mineral Point, Wis.
+#### 1856-01-01 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2651,7 +2651,7 @@ On her brow a glory crown
 
 ## [From _Tribune and telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85040307/1856-01-10/ed-1/seq-1)
 
-#### 1856-01-10 &middot; Kenosha, Wis.
+#### 1856-01-10 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2695,7 +2695,7 @@ On her brow n glory crown.
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1856-05-16/ed-1/seq-4)
 
-#### 1856-05-16 &middot; Irasburgh, Vt.
+#### 1856-05-16 &middot; [Irasburgh, Vt.](http://dbpedia.org/resource/Irasburg%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2741,7 +2741,7 @@ thee
 
 #### From _Christian Observer (1840-1910)_
 
-#### 1856-10-16 &middot; Louisville
+#### 1856-10-16 &middot; [Louisville](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 [This text is not available under an open license.]
 
@@ -2749,7 +2749,7 @@ thee
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1857-02-26/ed-1/seq-1)
 
-#### 1857-02-26 &middot; Jackson C.H., Ohio
+#### 1857-02-26 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2790,7 +2790,7 @@ may not return to thee
 
 ## [From _Grass Valley telegraph._](https://chroniclingamerica.loc.gov/lccn/sn84026882/1857-02-28/ed-1/seq-1)
 
-#### 1857-02-28 &middot; Grass Valley [Calif.]
+#### 1857-02-28 &middot; [Grass Valley [Calif.]](http://dbpedia.org/resource/Grass_Valley%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2835,7 +2835,7 @@ though tb y may ; at return to thee
 
 #### From _German reformed messenger._
 
-#### 1857-03-04 &middot; Chambersburg, Pa.
+#### 1857-03-04 &middot; [Chambersburg, Pa.](http://dbpedia.org/resource/Chambersburg%2C_Pennsylvania)
 
 [This text is not available under an open license.]
 
@@ -2843,7 +2843,7 @@ though tb y may ; at return to thee
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1857-06-03/ed-1/seq-4)
 
-#### 1857-06-03 &middot; Edgefield, S.C.
+#### 1857-06-03 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2886,7 +2886,7 @@ they may not return to thee
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1857-08-13 &middot; Exeter, England
+#### 1857-08-13 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -2896,7 +2896,7 @@ they may not return to thee
 
 #### From _Hull Packet_
 
-#### 1857-08-28 &middot; Hull, England
+#### 1857-08-28 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -2906,7 +2906,7 @@ they may not return to thee
 
 #### From _German reformed messenger._
 
-#### 1857-12-16 &middot; Chambersburg, Pa.
+#### 1857-12-16 &middot; [Chambersburg, Pa.](http://dbpedia.org/resource/Chambersburg%2C_Pennsylvania)
 
 [This text is not available under an open license.]
 
@@ -2914,7 +2914,7 @@ they may not return to thee
 
 ## [From _Freeman's champion._](https://chroniclingamerica.loc.gov/lccn/sn95063180/1858-06-24/ed-1/seq-1)
 
-#### 1858-06-24 &middot; Prairie City, Kanzas
+#### 1858-06-24 &middot; [Prairie City, Kanzas](http://dbpedia.org/resource/Prairie_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2962,7 +2962,7 @@ nl return to thee
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1858-07-14/ed-1/seq-1)
 
-#### 1858-07-14 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1858-07-14 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3008,7 +3008,7 @@ turn to thee
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1858-08-19/ed-1/seq-1)
 
-#### 1858-08-19 &middot; Smyrna, Del.
+#### 1858-08-19 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3054,7 +3054,7 @@ not return to you
 
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1858-08-19/ed-1/seq-1)
 
-#### 1858-08-19 &middot; Ottumwa, Iowa
+#### 1858-08-19 &middot; [Ottumwa, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3100,7 +3100,7 @@ return to you
 
 ## [From _Marshall County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056247/1858-09-16/ed-1/seq-1)
 
-#### 1858-09-16 &middot; Plymouth, Ind.
+#### 1858-09-16 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3148,7 +3148,7 @@ may not return to yo
 
 ## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1859-06-23_11_551?page=5)
 
-#### 1859-06-23 &middot; New York
+#### 1859-06-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3184,7 +3184,7 @@ tears! In the solemn silence of the grave we fee
 
 ## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1859-06-23_11_551?page=5)
 
-#### 1859-06-23 &middot; New York
+#### 1859-06-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3212,7 +3212,7 @@ On her brow a glory crown.
 
 ## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1859-07-29/ed-1/seq-1)
 
-#### 1859-07-29 &middot; Montpelier, Vt.
+#### 1859-07-29 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3246,7 +3246,7 @@ away your teara ! In tho solcmn silenco o
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32?page=5)
 
-#### 1859-08-06 &middot; Lansing
+#### 1859-08-06 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3280,7 +3280,7 @@ uway your tear! In the solemn silence of th
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32?page=5)
 
-#### 1859-08-06 &middot; Lansing
+#### 1859-08-06 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3305,7 +3305,7 @@ On her brow ¢ glory crown
 
 ## [From _The River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn86086437/1859-08-10/ed-1/seq-1)
 
-#### 1859-08-10 &middot; River Falls, Pierce County, Wis.
+#### 1859-08-10 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3342,7 +3342,7 @@ night to wipe away your tears! In the
 
 ## [From _Sugar planter._](https://chroniclingamerica.loc.gov/lccn/sn86079096/1859-08-20/ed-1/seq-1)
 
-#### 1859-08-20 &middot; West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]
+#### 1859-08-20 &middot; [West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]](http://dbpedia.org/resource/Port_Allen%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3395,7 +3395,7 @@ On herb-ro a glory crown. &quot; -x
 
 ## [From _Mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014488/1859-09-03/ed-1/seq-1)
 
-#### 1859-09-03 &middot; Placerville, El Dorado Co., Cal.
+#### 1859-09-03 &middot; [Placerville, El Dorado Co., Cal.](http://dbpedia.org/resource/Placerville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3440,7 +3440,7 @@ On lier brow a glory crown
 
 #### From _New Hampshire statesman._
 
-#### 1859-09-10 &middot; Concord [N.H.]
+#### 1859-09-10 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -3450,7 +3450,7 @@ On lier brow a glory crown
 
 #### From _New Hampshire statesman._
 
-#### 1859-09-10 &middot; Concord [N.H.]
+#### 1859-09-10 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -3458,7 +3458,7 @@ On lier brow a glory crown
 
 ## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1861-09-22/ed-1/seq-1)
 
-#### 1861-09-22 &middot; Memphis, Tenn.
+#### 1861-09-22 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3501,7 +3501,7 @@ not re&#x27;. urn Lo thee
 
 #### From _Fayetteville observer._
 
-#### 1861-09-26 &middot; Fayetteville, N.C.
+#### 1861-09-26 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -3509,7 +3509,7 @@ not re&#x27;. urn Lo thee
 
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn85029094/1864-06-11/ed-1/seq-1)
 
-#### 1864-06-11 &middot; Oskaloosa, Kan.
+#### 1864-06-11 &middot; [Oskaloosa, Kan.](http://dbpedia.org/resource/Oskaloosa%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3562,7 +3562,7 @@ ures, children of earth
 
 ## [From _The weekly Butte record._](https://chroniclingamerica.loc.gov/lccn/sn84038763/1867-03-23/ed-1/seq-3)
 
-#### 1867-03-23 &middot; Oroville [Calif.]
+#### 1867-03-23 &middot; [Oroville [Calif.]](http://dbpedia.org/resource/Oroville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3580,7 +3580,7 @@ tures tended by the good Shepherd of the heavenly fold.
 
 ## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1?page=69)
 
-#### 1868-07-01 &middot; Cincinnati
+#### 1868-07-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3642,7 +3642,7 @@ to your beautiful treasures, children of earth !
 
 #### From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_
 
-#### 1868-07-07 &middot; Cincinnati
+#### 1868-07-07 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 [This text is not available under an open license.]
 
@@ -3652,7 +3652,7 @@ to your beautiful treasures, children of earth !
 
 #### From _Christian Advocate (1866-1905)_
 
-#### 1871-01-05 &middot; Chicago
+#### 1871-01-05 &middot; [Chicago](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -3662,7 +3662,7 @@ to your beautiful treasures, children of earth !
 
 #### From _Christian Advocate (1866-1905)_
 
-#### 1874-11-26 &middot; Chicago
+#### 1874-11-26 &middot; [Chicago](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -3670,7 +3670,7 @@ to your beautiful treasures, children of earth !
 
 ## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1874-12-09/ed-1/seq-4)
 
-#### 1874-12-09 &middot; Richmond, Va.
+#### 1874-12-09 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3710,7 +3710,7 @@ not return to thee.—Missionary Messenger
 
 #### From _Reformed Church messenger /_
 
-#### 1874-12-23 &middot; Philadelphia, Pa.
+#### 1874-12-23 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -3718,7 +3718,7 @@ not return to thee.—Missionary Messenger
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1875-01-07/ed-1/seq-4)
 
-#### 1875-01-07 &middot; Yorkville, S.C.
+#### 1875-01-07 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3756,7 +3756,7 @@ hough they may not rcturu to thee.?MissiontV
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1879-03-15/ed-1/seq-2)
 
-#### 1879-03-15 &middot; Shepherdstown, Va. [W. Va.]
+#### 1879-03-15 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3777,7 +3777,7 @@ row never enter that blest land
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1879-08-16/ed-1/seq-3)
 
-#### 1879-08-16 &middot; Shepherdstown, Va. [W. Va.]
+#### 1879-08-16 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

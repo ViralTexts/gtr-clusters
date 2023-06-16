@@ -50,7 +50,7 @@ From dark ignorance to Liberty’s shining light.
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
-#### 1871-06-29 &middot; Washington, D.C.
+#### 1871-06-29 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -191,7 +191,7 @@ From dark ignorance to Liberty&#x27;s shining light.
 
 ## [From _Semi-weekly Louisianian._](https://chroniclingamerica.loc.gov/lccn/sn83016631/1871-07-13/ed-1/seq-1)
 
-#### 1871-07-13 &middot; New Orleans, La.
+#### 1871-07-13 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -296,7 +296,7 @@ snB eizifty.ia b nosst5.gislatsewbrp
 
 ## [From _Semi-weekly Louisianian._](https://chroniclingamerica.loc.gov/lccn/sn83016631/1871-07-13/ed-1/seq-1)
 
-#### 1871-07-13 &middot; New Orleans, La.
+#### 1871-07-13 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

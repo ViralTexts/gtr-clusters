@@ -22,7 +22,7 @@ If women have one weakness more marked than another, it is towards veneration. T
 
 ## [From _Atlantic Monthly_](https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19?page=92)
 
-#### 1859-05-01 &middot; Boston
+#### 1859-05-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -54,7 +54,7 @@ sacred profession and a moral supremac
 
 ## [From _Atlantic Monthly_](https://iiif.archivelab.org/iiif/sim_atlantic_1859-05_3_19?page=92)
 
-#### 1859-05-01 &middot; Boston
+#### 1859-05-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -122,7 +122,7 @@ noblest in man? Does not
 
 #### From _The Age (Melbourne, Vic. : 1854 - 1954)_
 
-#### 1859-09-08 &middot; Melbourne, Victoria
+#### 1859-09-08 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -196,7 +196,7 @@ of n noble HIV Never wan there
 
 #### From _Lowell daily citizen and news._
 
-#### 1859-10-08 &middot; Lowell, Mass.
+#### 1859-10-08 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -204,7 +204,7 @@ of n noble HIV Never wan there
 
 ## [From _The press and tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014511/1859-10-27/ed-1/seq-3)
 
-#### 1859-10-27 &middot; Chicago, Ill.
+#### 1859-10-27 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -232,7 +232,7 @@ rhetoric of a noble life
 
 #### From _Caledonian Mercury_
 
-#### 1859-11-05 &middot; Edinburgh, Scotland
+#### 1859-11-05 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -293,7 +293,7 @@ heroic deeds and the rhetoric of a noble life, Te Minister&#x27;s Wooing
 
 ## [From _The press and tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014511/1860-01-04/ed-1/seq-3)
 
-#### 1860-01-04 &middot; Chicago, Ill.
+#### 1860-01-04 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -361,7 +361,7 @@ ofanohlelifr.
 
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1860-01-14/ed-1/seq-1)
 
-#### 1860-01-14 &middot; Council Bluffs [Iowa]
+#### 1860-01-14 &middot; [Council Bluffs [Iowa]](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -408,7 +408,7 @@ a moral eupreiuacy ara added la th.
 
 #### From _Weekly Scioto gazette._
 
-#### 1860-01-17 &middot; Chillicothe, Ohio
+#### 1860-01-17 &middot; [Chillicothe, Ohio](http://dbpedia.org/resource/Chillicothe%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -416,7 +416,7 @@ a moral eupreiuacy ara added la th.
 
 ## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1860-01-26/ed-1/seq-1)
 
-#### 1860-01-26 &middot; Lancaster, Ohio
+#### 1860-01-26 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -446,7 +446,7 @@ life.&quot; . . i ,
 
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
 
-#### 1860-01-27 &middot; Adelaide, South Australia
+#### 1860-01-27 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -474,7 +474,7 @@ deeds and the rhetoric of a noble life
 
 ## [From _Daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026845/1860-01-28/ed-1/seq-1)
 
-#### 1860-01-28 &middot; Wheeling, Va. [W. Va.]
+#### 1860-01-28 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -530,7 +530,7 @@ noble lire.
 
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1860-02-04/ed-1/seq-3)
 
-#### 1860-02-04 &middot; Weaverville, Calif.
+#### 1860-02-04 &middot; [Weaverville, Calif.](http://dbpedia.org/resource/Weaverville%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -573,7 +573,7 @@ lierrrio deeds and the rhetoric of a noble life*. -7Vi
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1860-03-01/ed-1/seq-1)
 
-#### 1860-03-01 &middot; Yorkville, S.C.
+#### 1860-03-01 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -643,7 +643,7 @@ leroic deeds and the rhetoric of a nobl
 
 #### From _Milwaukee daily sentinel._
 
-#### 1860-03-05 &middot; Milwaukee, [Wis.]
+#### 1860-03-05 &middot; [Milwaukee, [Wis.]](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -651,7 +651,7 @@ leroic deeds and the rhetoric of a nobl
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1860-05-17/ed-1/seq-1)
 
-#### 1860-05-17 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1860-05-17 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -680,7 +680,7 @@ of a noblo lif&#x27;o. f J.I. B. Stowo
 
 ## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1860-06-30/ed-1/seq-6)
 
-#### 1860-06-30 &middot; New York [N.Y.]
+#### 1860-06-30 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -707,7 +707,7 @@ aud the rhetoric of a noble life
 
 ## [From _Daily gazette and comet._](https://chroniclingamerica.loc.gov/lccn/sn88083120/1860-07-04/ed-1/seq-1)
 
-#### 1860-07-04 &middot; Baton Rouge, La.
+#### 1860-07-04 &middot; [Baton Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -787,7 +787,7 @@ n deeds and the rhetoric of a nobl
 
 ## [From _Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014140/1861-11-28/ed-1/seq-1)
 
-#### 1861-11-28 &middot; Charles City, Iowa
+#### 1861-11-28 &middot; [Charles City, Iowa](http://dbpedia.org/resource/Charles_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -895,7 +895,7 @@ roic deeds and the rhetoric Aobl
 
 #### From _Southern Cultivator (1843-1906)_
 
-#### 1861-12-01 &middot; Atlanta
+#### 1861-12-01 &middot; [Atlanta](http://dbpedia.org/resource/Atlanta)
 
 [This text is not available under an open license.]
 
@@ -903,7 +903,7 @@ roic deeds and the rhetoric Aobl
 
 ## [From _The Plymouth weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056248/1861-12-26/ed-1/seq-1)
 
-#### 1861-12-26 &middot; Plymouth, Ind.
+#### 1861-12-26 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -991,7 +991,7 @@ oiic of noble life
 
 ## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1868-01-26/ed-1/seq-1)
 
-#### 1868-01-26 &middot; Nashville, Tenn.
+#### 1868-01-26 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1073,7 +1073,7 @@ rhetoric ot noble lire. 2U Jfcafir
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1868-02-20/ed-1/seq-1)
 
-#### 1868-02-20 &middot; Camden, S.C.
+#### 1868-02-20 &middot; [Camden, S.C.](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1149,7 +1149,7 @@ rhetoric of nohle life
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-06-13/ed-1/seq-1)
 
-#### 1868-06-13 &middot; Shepherdstown, Va. [W. Va.]
+#### 1868-06-13 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1211,7 +1211,7 @@ and the rhetoric of ii i d? iifc
 
 ## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1868-07-17/ed-1/seq-1)
 
-#### 1868-07-17 &middot; Walla Walla, Wash. Terr.
+#### 1868-07-17 &middot; [Walla Walla, Wash. Terr.](http://dbpedia.org/resource/Walla_Walla%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1261,7 +1261,7 @@ leu sour and bitter then she expected I Th
 
 ## [From _North Iowa times._](https://chroniclingamerica.loc.gov/lccn/sn84027239/1869-09-22/ed-1/seq-2)
 
-#### 1869-09-22 &middot; McGregor, Iowa
+#### 1869-09-22 &middot; [McGregor, Iowa](http://dbpedia.org/resource/McGregor%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1370,7 +1370,7 @@ deeds aud the rhetoric of a noble life.
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1872-06-04/ed-1/seq-1)
 
-#### 1872-06-04 &middot; Lancaster, Wis.
+#### 1872-06-04 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1400,7 +1400,7 @@ worship ” She adds, “the most gift
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1872-06-04/ed-1/seq-1)
 
-#### 1872-06-04 &middot; Lancaster, Wis.
+#### 1872-06-04 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1433,7 +1433,7 @@ ladies appear with objects of devo
 
 #### From _Traralgon Record (Traralgon, Vic. : 1886 - 1932)  _
 
-#### 1893-08-18 &middot; Traralgon, Victoria
+#### 1893-08-18 &middot; [Traralgon, Victoria](http://dbpedia.org/resource/Traralgon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

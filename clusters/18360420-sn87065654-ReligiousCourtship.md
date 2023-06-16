@@ -29,7 +29,7 @@ From the above interview the marriage took place the ensuing week.
 
 ## [From _Weekly Visitor, or Ladies' Miscellany (1802-1806)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57?page=6)
 
-#### 1803-12-31 &middot; New York
+#### 1803-12-31 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -62,7 +62,7 @@ marriage took filace the week following.
 
 ## [From _Lady's Weekly Miscellany (1806-1810)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25?page=11)
 
-#### 1809-04-15 &middot; New York
+#### 1809-04-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -109,7 +109,7 @@ thut we love one another.~—2 EP
 
 ## [From _Lady's Weekly Miscellany (1806-1810)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25?page=11)
 
-#### 1809-04-15 &middot; New York
+#### 1809-04-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -146,7 +146,7 @@ lowing.
 
 ## [From _The Portland gazette._](https://chroniclingamerica.loc.gov/lccn/sn83016083/1823-07-08/ed-1/seq-1)
 
-#### 1823-07-08 &middot; Portland, Me.
+#### 1823-07-08 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -201,7 +201,7 @@ place tlic week following
 
 ## [From _Christian Repository (1821-1824)_](https://iiif.archivelab.org/iiif/sim_circular_1823-07-11_2_66?page=2)
 
-#### 1823-07-11 &middot; Wilmington
+#### 1823-07-11 &middot; [Wilmington](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -246,7 +246,7 @@ From the above interview the marriage
 
 ## [From _The Port folio /_](https://iiif.archivelab.org/iiif/sim_port-folio_1823-12_16_260?page=39)
 
-#### 1823-12-01 &middot; Philadelphia [Pa.]
+#### 1823-12-01 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -271,7 +271,7 @@ mother, and the land of thy nativity, and art come unto a peopl
 
 ## [From _Phenix gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025006/1826-10-31/ed-1/seq-3)
 
-#### 1826-10-31 &middot; Alexandria [D.C.]
+#### 1826-10-31 &middot; [Alexandria [D.C.]](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -327,7 +327,7 @@ the marriage took place the ensuing week
 
 #### From _Aurora and Franklin gazette._
 
-#### 1826-11-04 &middot; Philadelphia, Pa.
+#### 1826-11-04 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -335,7 +335,7 @@ the marriage took place the ensuing week
 
 ## [From _Martinsburg gazette and public advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85059526/1826-11-09/ed-1/seq-4)
 
-#### 1826-11-09 &middot; Martinsburg, Va. [W. Va.]
+#### 1826-11-09 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -380,7 +380,7 @@ place the ensuing wee
 
 ## [From _The Escritoir : or Masonic and miscellaneous album._](https://iiif.archivelab.org/iiif/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43?page=7)
 
-#### 1826-11-18 &middot; Albany, N.Y.
+#### 1826-11-18 &middot; [Albany, N.Y.](http://dbpedia.org/resource/Albany%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -419,7 +419,7 @@ look place the ensuing week.
 
 ## [From _The Album and Ladies' Weekly Gazette (1826-1827)_](https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1826-11-22_1_25?page=4)
 
-#### 1826-11-22 &middot; Philadelphia
+#### 1826-11-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -479,7 +479,7 @@ suing week.
 
 ## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1826-11-25_3_26?page=3)
 
-#### 1826-11-25 &middot; New York
+#### 1826-11-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -520,7 +520,7 @@ view, the marriage took place the ensuing week.--
 
 #### From _Bangor register._
 
-#### 1826-11-30 &middot; Bangor, Me.
+#### 1826-11-30 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -530,7 +530,7 @@ view, the marriage took place the ensuing week.--
 
 #### From _Christian Advocate (1826-1827)_
 
-#### 1826-12-02 &middot; Chicago
+#### 1826-12-02 &middot; [Chicago](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
 
@@ -538,7 +538,7 @@ view, the marriage took place the ensuing week.--
 
 ## [From _The Saturday evening post._](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49?page=0)
 
-#### 1826-12-09 &middot; Philadelphia [Pa.]
+#### 1826-12-09 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -590,7 +590,7 @@ thine eyes, t
 
 ## [From _The Saturday evening post._](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49_0?page=0)
 
-#### 1826-12-09 &middot; Philadelphia [Pa.]
+#### 1826-12-09 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -621,7 +621,7 @@ Sudden and violent passion, was desirous
 
 ## [From _Masonic mirror, and mechanic's intelligencer._](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=4)
 
-#### 1826-12-16 &middot; Boston [Mass.]
+#### 1826-12-16 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -645,7 +645,7 @@ spacc, that it might be painted or illuminated, at gency of the case suggested t
 
 ## [From _Masonic mirror, and mechanic's intelligencer._](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=4)
 
-#### 1826-12-16 &middot; Boston [Mass.]
+#### 1826-12-16 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -673,7 +673,7 @@ r i The Recuyel of ihe Historh of Troy, and dated i
 
 ## [From _Masonic mirror, and mechanic's intelligencer._](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=4)
 
-#### 1826-12-16 &middot; Boston [Mass.]
+#### 1826-12-16 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -691,7 +691,7 @@ the marriage took place the ensuing week,
 
 ## [From _Bowen's Boston News - Letter, and City Record (1825-1827)_](https://iiif.archivelab.org/iiif/sim_boston-news-letter-and-city-record_1826-12-16_2_24?page=1)
 
-#### 1826-12-16 &middot; Boston
+#### 1826-12-16 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -764,7 +764,7 @@ week.
 
 #### From _Aberdeen Journal_
 
-#### 1827-01-03 &middot; Aberdeen, Scotland
+#### 1827-01-03 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
 
 [This text is not available under an open license.]
 
@@ -774,7 +774,7 @@ week.
 
 #### From _The Australian (Sydney, NSW : 1824 - 1848)_
 
-#### 1827-05-30 &middot; Sydney, New South Wales
+#### 1827-05-30 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -816,7 +816,7 @@ marriage took place the ensuing week.
 
 ## [From _Delaware journal._](https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-07-31/ed-1/seq-3)
 
-#### 1827-07-31 &middot; Wilmington [Del.]
+#### 1827-07-31 &middot; [Wilmington [Del.]](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -852,7 +852,7 @@ marriage took place the ensuing week
 
 ## [From _Universalist Watchman, Repository and Chronicle (1831-1847)_](https://iiif.archivelab.org/iiif/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9?page=7)
 
-#### 1832-06-23 &middot; Woodstock
+#### 1832-06-23 &middot; [Woodstock](http://dbpedia.org/resource/Woodstock%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -892,7 +892,7 @@ place the ensuing week.
 
 ## [From _Wilmington expositor._](https://chroniclingamerica.loc.gov/lccn/sn88053122/1832-07-06/ed-1/seq-2)
 
-#### 1832-07-06 &middot; Wilmington, Del.
+#### 1832-07-06 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -927,7 +927,7 @@ ting to the 12th epistle of Joh
 
 ## [From _Wilmington expositor._](https://chroniclingamerica.loc.gov/lccn/sn88053122/1832-07-06/ed-1/seq-2)
 
-#### 1832-07-06 &middot; Wilmington, Del.
+#### 1832-07-06 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -950,7 +950,7 @@ riage took place the ensuing week.
 
 #### From _Vermont watchman and State gazette._
 
-#### 1832-07-16 &middot; Montpelier, Vt.
+#### 1832-07-16 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -997,7 +997,7 @@ place the ensuing week.
 
 ## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1835-01-15/ed-1/seq-4)
 
-#### 1835-01-15 &middot; Newport, R.I.
+#### 1835-01-15 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1040,7 +1040,7 @@ week.
 
 #### From _Indiana journal._
 
-#### 1835-04-17 &middot; Indianapolis [Ind.]
+#### 1835-04-17 &middot; [Indianapolis [Ind.]](http://dbpedia.org/resource/Indianapolis)
 
 [This text is not available under an open license.]
 
@@ -1050,7 +1050,7 @@ week.
 
 #### From _The Scioto gazette._
 
-#### 1835-04-22 &middot; Chillicothe, Ohio
+#### 1835-04-22 &middot; [Chillicothe, Ohio](http://dbpedia.org/resource/Chillicothe%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -1058,7 +1058,7 @@ week.
 
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46?page=7)
 
-#### 1835-05-16 &middot; New York
+#### 1835-05-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1092,7 +1092,7 @@ the above interview a marriage took place the ensuing week.
 
 #### From _The globe._
 
-#### 1835-05-21 &middot; City of Washington [D.C.]
+#### 1835-05-21 &middot; [City of Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
 
@@ -1102,7 +1102,7 @@ the above interview a marriage took place the ensuing week.
 
 #### From _The Western Examiner, a Journal Embodying a Full and Impartial Enquiry into the Truth or Falsity of the Christian Religion; Whether Philosophically or Historically Viewed (1833-1835)_
 
-#### 1835-07-02 &middot; St. Louis
+#### 1835-07-02 &middot; [St. Louis](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -1112,7 +1112,7 @@ the above interview a marriage took place the ensuing week.
 
 #### From _The Ohio observer._
 
-#### 1836-01-14 &middot; Hudson [Ohio]
+#### 1836-01-14 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -1122,7 +1122,7 @@ the above interview a marriage took place the ensuing week.
 
 #### From _Daily commercial bulletin._
 
-#### 1838-06-20 &middot; St. Louis [Mo.]
+#### 1838-06-20 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -1130,7 +1130,7 @@ the above interview a marriage took place the ensuing week.
 
 ## [From _Piney Woods planter._](https://chroniclingamerica.loc.gov/lccn/sn87065654/1839-04-20/ed-1/seq-4)
 
-#### 1839-04-20 &middot; Liberty, Mi. [i.e. Miss.]
+#### 1839-04-20 &middot; [Liberty, Mi. [i.e. Miss.]](http://dbpedia.org/resource/Liberty%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1198,7 +1198,7 @@ ge took place thn ensuing week
 
 ## [From _Holly Springs banner._](https://chroniclingamerica.loc.gov/lccn/sn87065188/1839-06-08/ed-1/seq-1)
 
-#### 1839-06-08 &middot; Holly Springs, Mi. [i.e. Miss.]
+#### 1839-06-08 &middot; [Holly Springs, Mi. [i.e. Miss.]](http://dbpedia.org/resource/Holly_Springs%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1243,7 +1243,7 @@ took place the ensjing week.
 
 ## [From _The New York State Mechanic, a Journal of the Manual Arts, Trades, and Manufactures (1841-1843)_](https://iiif.archivelab.org/iiif/sim_new-york-state-mechanic-a-journal-of-the-manual-arts_1842-01-08_1_7?page=5)
 
-#### 1842-01-08 &middot; Albany
+#### 1842-01-08 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1272,7 +1272,7 @@ the ensuing week, and the happy pair hired a chais
 
 #### From _Raleigh register, and North-Carolina gazette._
 
-#### 1842-04-26 &middot; Raleigh, N.C.
+#### 1842-04-26 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -1280,7 +1280,7 @@ the ensuing week, and the happy pair hired a chais
 
 ## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82015677/1845-06-19/ed-1/seq-1)
 
-#### 1845-06-19 &middot; Indianapolis
+#### 1845-06-19 &middot; [Indianapolis](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1301,7 +1301,7 @@ the following pi in : lie marked a text and handed th
 
 ## [From _True Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87065542/1845-08-06/ed-1/seq-3)
 
-#### 1845-08-06 &middot; Paulding, Miss.
+#### 1845-08-06 &middot; [Paulding, Miss.](http://dbpedia.org/resource/Paulding%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1337,7 +1337,7 @@ pointing to the third epistle ot John, lot
 
 #### From _Raymond gazette._
 
-#### 1845-08-15 &middot; Raymond, Miss.
+#### 1845-08-15 &middot; [Raymond, Miss.](http://dbpedia.org/resource/Raymond%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -1345,7 +1345,7 @@ pointing to the third epistle ot John, lot
 
 ## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1846-01-02/ed-1/seq-1)
 
-#### 1846-01-02 &middot; Ottawa, Ill.
+#### 1846-01-02 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1370,7 +1370,7 @@ handed the Eihle to hrr; 2.1 Epistl
 
 ## [From _The North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042147/1846-05-13/ed-1/seq-1)
 
-#### 1846-05-13 &middot; Raleigh, N.C.
+#### 1846-05-13 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1396,7 +1396,7 @@ exigency 8uggsted the following plan. He pe
 
 ## [From _The North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042147/1846-05-13/ed-1/seq-1)
 
-#### 1846-05-13 &middot; Raleigh, N.C.
+#### 1846-05-13 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1423,7 +1423,7 @@ view, the marriage took place the ensuing week.
 
 ## [From _Kosciusko chronicle._](https://chroniclingamerica.loc.gov/lccn/sn83016940/1846-05-21/ed-1/seq-1)
 
-#### 1846-05-21 &middot; Kosciusko, Miss.
+#### 1846-05-21 &middot; [Kosciusko, Miss.](http://dbpedia.org/resource/Kosciusko%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1446,7 +1446,7 @@ ration, llii exigency suggested the fol
 
 ## [From _Kosciusko chronicle._](https://chroniclingamerica.loc.gov/lccn/sn83016940/1846-05-21/ed-1/seq-1)
 
-#### 1846-05-21 &middot; Kosciusko, Miss.
+#### 1846-05-21 &middot; [Kosciusko, Miss.](http://dbpedia.org/resource/Kosciusko%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1482,7 +1482,7 @@ week
 
 #### From _Pensacola gazette._
 
-#### 1846-05-23 &middot; [Pensacola, Fla.]
+#### 1846-05-23 &middot; [[Pensacola, Fla.]](http://dbpedia.org/resource/Pensacola%2C_Florida)
 
 [This text is not available under an open license.]
 
@@ -1492,7 +1492,7 @@ week
 
 #### From _The North American._
 
-#### 1846-05-23 &middot; Philadelphia, Pa.
+#### 1846-05-23 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
 [This text is not available under an open license.]
 
@@ -1500,7 +1500,7 @@ week
 
 ## [From _The Columbian fountain._](https://chroniclingamerica.loc.gov/lccn/sn82014769/1846-06-25/ed-1/seq-4)
 
-#### 1846-06-25 &middot; Washington, D.C.
+#### 1846-06-25 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1539,7 +1539,7 @@ suing Week
 
 ## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1846-06-25/ed-1/seq-1)
 
-#### 1846-06-25 &middot; Staunton, Va.
+#### 1846-06-25 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1563,7 +1563,7 @@ took place the ensuing week
 
 ## [From _Sunday dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030362/1846-07-05/ed-1/seq-1)
 
-#### 1846-07-05 &middot; New York [N.Y.]
+#### 1846-07-05 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1598,7 +1598,7 @@ took place the ensuing week
 
 ## [From _Burlington hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn82014327/1846-07-23/ed-1/seq-1)
 
-#### 1846-07-23 &middot; Burlington, Iowa
+#### 1846-07-23 &middot; [Burlington, Iowa](http://dbpedia.org/resource/Burlington%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1641,7 +1641,7 @@ suing week.
 
 #### From _Hampshire/Portsmouth Telegraph_
 
-#### 1846-11-14 &middot; Portsmouth, England
+#### 1846-11-14 &middot; [Portsmouth, England](http://dbpedia.org/resource/Portsmouth)
 
 [This text is not available under an open license.]
 
@@ -1651,7 +1651,7 @@ suing week.
 
 #### From _Liverpool Mercury_
 
-#### 1847-06-15 &middot; Liverpool, England
+#### 1847-06-15 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1661,7 +1661,7 @@ suing week.
 
 #### From _Raymond gazette._
 
-#### 1847-07-09 &middot; Raymond, Miss.
+#### 1847-07-09 &middot; [Raymond, Miss.](http://dbpedia.org/resource/Raymond%2C_Mississippi)
 
 [This text is not available under an open license.]
 
@@ -1671,7 +1671,7 @@ suing week.
 
 #### From _Colonial Times (Hobart, Tas. : 1828 - 1857)_
 
-#### 1847-10-15 &middot; Hobart, Tasmania
+#### 1847-10-15 &middot; [Hobart, Tasmania](http://dbpedia.org/resource/Hobart)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1702,7 +1702,7 @@ ensuing week. *&gt; THE LEAST OF Tw
 
 #### From _The Moreton Bay Courier (Brisbane, Qld. : 1846 - 1861)_
 
-#### 1847-11-20 &middot; Brisbane, Queensland
+#### 1847-11-20 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1743,7 +1743,7 @@ mar-riage took place the ensuing week.
 
 #### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
 
-#### 1847-12-22 &middot; Adelaide, South Australia
+#### 1847-12-22 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1762,7 +1762,7 @@ took place the ensuing week, and th
 
 ## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1849-02-03/ed-1/seq-4)
 
-#### 1849-02-03 &middot; Honolulu [Oahu], Hawaii
+#### 1849-02-03 &middot; [Honolulu [Oahu], Hawaii](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1802,7 +1802,7 @@ week
 
 ## [From _Eaton Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028570/1855-09-06/ed-1/seq-1)
 
-#### 1855-09-06 &middot; Eaton, Ohio
+#### 1855-09-06 &middot; [Eaton, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1826,7 +1826,7 @@ verse of the epistle John : &quot;Havin
 
 ## [From _Star of the Kanawha Valley._](https://chroniclingamerica.loc.gov/lccn/sn85059861/1855-11-28/ed-1/seq-1)
 
-#### 1855-11-28 &middot; Buffalo, Va. [W. Va.]
+#### 1855-11-28 &middot; [Buffalo, Va. [W. Va.]](http://dbpedia.org/resource/Buffalo%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1870,7 +1870,7 @@ suing week. |&lt;;
 
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1858-07-31/ed-1/seq-1)
 
-#### 1858-07-31 &middot; Council Bluffs [Iowa]
+#### 1858-07-31 &middot; [Council Bluffs [Iowa]](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1893,7 +1893,7 @@ of years, with a faco radiant with smiles, exigency of the case suggested the fo
 
 ## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1858-07-31/ed-1/seq-1)
 
-#### 1858-07-31 &middot; Council Bluffs [Iowa]
+#### 1858-07-31 &middot; [Council Bluffs [Iowa]](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1921,7 +1921,7 @@ took place the following week.
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1859-04-29/ed-1/seq-1)
 
-#### 1859-04-29 &middot; Bellows Falls, Vt.
+#### 1859-04-29 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1949,7 +1949,7 @@ t that which we hud trom the beginning, tha
 
 ## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1859-07-06/ed-1/seq-1)
 
-#### 1859-07-06 &middot; Clearfield, Pa.
+#### 1859-07-06 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1992,7 +1992,7 @@ place tho ensuing week
 
 #### From _Daily morning news._
 
-#### 1859-10-05 &middot; Savannah, Ga.
+#### 1859-10-05 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 [This text is not available under an open license.]
 
@@ -2000,7 +2000,7 @@ place tho ensuing week
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1859-10-18/ed-1/seq-4)
 
-#### 1859-10-18 &middot; Charlotte, N.C.
+#### 1859-10-18 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2039,7 +2039,7 @@ took place the ensuing week.
 
 ## [From _The penny press._](https://chroniclingamerica.loc.gov/lccn/sn85025750/1859-10-18/ed-1/seq-4)
 
-#### 1859-10-18 &middot; Cincinnati [Ohio]
+#### 1859-10-18 &middot; [Cincinnati [Ohio]](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2085,7 +2085,7 @@ the ensuing week
 
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1859-11-02/ed-1/seq-1)
 
-#### 1859-11-02 &middot; Raleigh, N.C.
+#### 1859-11-02 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2118,7 +2118,7 @@ that we love one another.&quot; She returned
 
 #### From _Vermont patriot._
 
-#### 1860-08-18 &middot; Montpelier [Vt.]
+#### 1860-08-18 &middot; [Montpelier [Vt.]](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -2126,7 +2126,7 @@ that we love one another.&quot; She returned
 
 ## [From _The Lambertville press._](https://chroniclingamerica.loc.gov/lccn/sn85035610/1860-11-14/ed-1/seq-1)
 
-#### 1860-11-14 &middot; Lambertville, N.J.
+#### 1860-11-14 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2165,7 +2165,7 @@ riage took place the ensuing week
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1863-10-23/ed-1/seq-1)
 
-#### 1863-10-23 &middot; Bellows Falls, Vt.
+#### 1863-10-23 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2237,7 +2237,7 @@ the ensuing week.
 
 #### From _Milwaukee daily sentinel._
 
-#### 1863-10-29 &middot; [Milwaukee, Wis.]
+#### 1863-10-29 &middot; [[Milwaukee, Wis.]](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -2245,7 +2245,7 @@ the ensuing week.
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1863-10-31/ed-1/seq-1)
 
-#### 1863-10-31 &middot; Bridgeton, N.J.
+#### 1863-10-31 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2293,7 +2293,7 @@ on her face, and bowed herself to th
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1863-11-04/ed-1/seq-4)
 
-#### 1863-11-04 &middot; Alexandria, D.C.
+#### 1863-11-04 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2340,7 +2340,7 @@ have I found grace in thine eyes, seeing that
 
 ## [From _Orleans independent standard._](https://chroniclingamerica.loc.gov/lccn/sn84022548/1863-11-06/ed-1/seq-1)
 
-#### 1863-11-06 &middot; Irasburgh, Vt.
+#### 1863-11-06 &middot; [Irasburgh, Vt.](http://dbpedia.org/resource/Irasburg%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2389,7 +2389,7 @@ marriage took place ihe ensuing week
 
 ## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1863-11-08/ed-1/seq-1)
 
-#### 1863-11-08 &middot; Washington, D.C.
+#### 1863-11-08 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2432,7 +2432,7 @@ pi in .In ir. i.ir.F we.k.
 
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1863-11-14/ed-1/seq-4)
 
-#### 1863-11-14 &middot; Portland, Me.
+#### 1863-11-14 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2504,7 +2504,7 @@ place the ensuing week
 
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1863-11-19/ed-1/seq-1)
 
-#### 1863-11-19 &middot; Cumberland, Md.
+#### 1863-11-19 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2537,7 +2537,7 @@ face, and bowed hersell to the gtoimd. and
 
 ## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1863-11-25/ed-1/seq-3)
 
-#### 1863-11-25 &middot; Mineral Point, Wis.
+#### 1863-11-25 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2566,7 +2566,7 @@ She returned it, pointing to the secon
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1863-11-26/ed-1/seq-3)
 
-#### 1863-11-26 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1863-11-26 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2598,7 +2598,7 @@ and said unto him, “ Why have I found
 
 ## [From _The Ohio Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028889/1863-11-27/ed-1/seq-1)
 
-#### 1863-11-27 &middot; Canal Dover, Ohio
+#### 1863-11-27 &middot; [Canal Dover, Ohio](http://dbpedia.org/resource/New_Philadelphia%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2652,7 +2652,7 @@ have I found grace in thine eyes, seeing
 
 ## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1863-12-05/ed-1/seq-4)
 
-#### 1863-12-05 &middot; Prescott, Wis.
+#### 1863-12-05 &middot; [Prescott, Wis.](http://dbpedia.org/resource/Prescott%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2683,7 +2683,7 @@ She returned it, pointing to the secon
 
 ## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-12-24/ed-1/seq-3)
 
-#### 1863-12-24 &middot; Chicago, Ill.
+#### 1863-12-24 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2729,7 +2729,7 @@ had from the beginning, that we love one an*
 
 #### From _The Wisconsin state register._
 
-#### 1864-01-02 &middot; Portage, Columbia County, Wis.
+#### 1864-01-02 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
 
 [This text is not available under an open license.]
 
@@ -2737,7 +2737,7 @@ had from the beginning, that we love one an*
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1864-01-16/ed-1/seq-1)
 
-#### 1864-01-16 &middot; Shasta, Calif.
+#### 1864-01-16 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2770,7 +2770,7 @@ take knowledge of me, seeing that I am
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1864-01-20/ed-1/seq-4)
 
-#### 1864-01-20 &middot; Warren, Ohio
+#### 1864-01-20 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2799,7 +2799,7 @@ nerselt to the grour.d end said uat
 
 ## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7dbr8mgc04?page=0)
 
-#### 1864-02-09 &middot; Louisville, Kentucky.
+#### 1864-02-09 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2828,7 +2828,7 @@ r.&quot; She returned&#x27;it. poin ieg to the secoo
 
 ## [From _Cleveland morning leader._](https://chroniclingamerica.loc.gov/lccn/sn83035143/1864-03-05/ed-1/seq-3)
 
-#### 1864-03-05 &middot; Cleveland [Ohio]
+#### 1864-03-05 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2862,7 +2862,7 @@ self to the ground, and said nnto him
 
 #### From _North Wales Chronicle_
 
-#### 1864-03-26 &middot; Bangor, Wales
+#### 1864-03-26 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -2872,7 +2872,7 @@ self to the ground, and said nnto him
 
 #### From _Reynolds's  Newspaper_
 
-#### 1864-03-27 &middot; London, England
+#### 1864-03-27 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -2882,7 +2882,7 @@ self to the ground, and said nnto him
 
 #### From _Ovens and Murray Advertiser (Beechworth, Vic. : 1855 -1918)_
 
-#### 1864-07-05 &middot; Beechworth, Victoria
+#### 1864-07-05 &middot; [Beechworth, Victoria](http://dbpedia.org/resource/Beechworth)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2901,7 +2901,7 @@ to&#x27; face.&quot; From the. above&#x27; interview
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1865-08-12 &middot; Adelaide, South Australia
+#### 1865-08-12 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2921,7 +2921,7 @@ ensuing week, the happy pair hired
 
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1866-04-12/ed-1/seq-1)
 
-#### 1866-04-12 &middot; Ebensburg, Pa.
+#### 1866-04-12 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2952,7 +2952,7 @@ She returned it, pointing to the secon
 
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1866-05-05/ed-1/seq-1)
 
-#### 1866-05-05 &middot; Bellevue, Bossier Parish, La.
+#### 1866-05-05 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2998,7 +2998,7 @@ place the ensuing week
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1866-09-14/ed-1/seq-1)
 
-#### 1866-09-14 &middot; Staunton, Va.
+#### 1866-09-14 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3057,7 +3057,7 @@ ensuing week
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1866-09-18/ed-1/seq-1)
 
-#### 1866-09-18 &middot; Staunton, Va.
+#### 1866-09-18 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3110,7 +3110,7 @@ the ensuing week.
 
 ## [From _The New era._](https://chroniclingamerica.loc.gov/lccn/sn84026851/1866-09-20/ed-1/seq-1)
 
-#### 1866-09-20 &middot; Martinsburg, W. Va.
+#### 1866-09-20 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3171,7 +3171,7 @@ the ensuing week
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1867-02_34_201?page=111)
 
-#### 1867-02-01 &middot; New York
+#### 1867-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3215,7 +3215,7 @@ not with paper and ink: but I trust to come unto you
 
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1868-09-04/ed-1/seq-1)
 
-#### 1868-09-04 &middot; Bridgeton, N.J.
+#### 1868-09-04 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3262,7 +3262,7 @@ took place the ensuing week
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1868-09-20/ed-1/seq-4)
 
-#### 1868-09-20 &middot; New York [N.Y.]
+#### 1868-09-20 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3303,7 +3303,7 @@ place the ensuing week
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1868-09-23/ed-1/seq-1)
 
-#### 1868-09-23 &middot; Smyrna, Del.
+#### 1868-09-23 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3336,7 +3336,7 @@ eyes, seeing 1 am a stranger?&#x27;
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1868-11-19/ed-1/seq-1)
 
-#### 1868-11-19 &middot; Westminster, Md.
+#### 1868-11-19 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3383,7 +3383,7 @@ took place the ensuing week
 
 #### From _Lowell daily citizen and news._
 
-#### 1868-11-27 &middot; Lowell, Mass.
+#### 1868-11-27 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -3391,7 +3391,7 @@ took place the ensuing week
 
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1868-12-14/ed-1/seq-4)
 
-#### 1868-12-14 &middot; New Orleans, La
+#### 1868-12-14 &middot; [New Orleans, La](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3429,7 +3429,7 @@ place the ensuing week
 
 #### From _The Wisconsin state register._
 
-#### 1868-12-26 &middot; Portage, Columbia County, Wis.
+#### 1868-12-26 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
 
 [This text is not available under an open license.]
 
@@ -3437,7 +3437,7 @@ place the ensuing week
 
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1869-01-16/ed-1/seq-1)
 
-#### 1869-01-16 &middot; Albany, Or.
+#### 1869-01-16 &middot; [Albany, Or.](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3472,7 +3472,7 @@ herself to the ground and said to him :
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1869-02-16/ed-1/seq-1)
 
-#### 1869-02-16 &middot; Woodsfield, Ohio
+#### 1869-02-16 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3511,7 +3511,7 @@ of John : &quot;Having many things to write
 
 ## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1869-03-04/ed-1/seq-4)
 
-#### 1869-03-04 &middot; Upper Sandusky, Ohio
+#### 1869-03-04 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3561,7 +3561,7 @@ riage took place recently
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-10-29/ed-1/seq-4)
 
-#### 1869-10-29 &middot; Bedford, Pa.
+#### 1869-10-29 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3601,7 +3601,7 @@ place the ensuing week
 
 ## [From _The Weekly Maysville eagle._](https://iiif.archivelab.org/iiif/xt7b2r3nzd11?page=3)
 
-#### 1870-02-16 &middot; Maysville, Ky.
+#### 1870-02-16 &middot; [Maysville, Ky.](http://dbpedia.org/resource/Maysville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3654,7 +3654,7 @@ place.
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1870-02-25/ed-1/seq-1)
 
-#### 1870-02-25 &middot; Emporia, Kan.
+#### 1870-02-25 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3702,7 +3702,7 @@ took place. -..v
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1870-03-02/ed-1/seq-4)
 
-#### 1870-03-02 &middot; Warren, Ohio
+#### 1870-03-02 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3748,7 +3748,7 @@ I had many things to write unt
 
 ## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1870-04-09/ed-1/seq-1)
 
-#### 1870-04-09 &middot; Middletown, Del.
+#### 1870-04-09 &middot; [Middletown, Del.](http://dbpedia.org/resource/Middletown%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3795,7 +3795,7 @@ took place
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1871-03-17/ed-1/seq-4)
 
-#### 1871-03-17 &middot; Columbia, Tenn.
+#### 1871-03-17 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3843,7 +3843,7 @@ sueing week
 
 #### From _The Milwaukee sentinel._
 
-#### 1871-03-23 &middot; Milwaukee, Wis.
+#### 1871-03-23 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -3851,7 +3851,7 @@ sueing week
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1871-03-23/ed-1/seq-1)
 
-#### 1871-03-23 &middot; Kenosha, Wis.
+#### 1871-03-23 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3889,7 +3889,7 @@ place the following wetk.
 
 #### From _Daily evening bulletin._
 
-#### 1871-04-01 &middot; San Francisco [Calif.]
+#### 1871-04-01 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -3897,7 +3897,7 @@ place the following wetk.
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1871-04-05/ed-1/seq-4)
 
-#### 1871-04-05 &middot; Watertown, Wis.
+#### 1871-04-05 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3925,7 +3925,7 @@ took place the following week
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1871-04-07/ed-1/seq-9)
 
-#### 1871-04-07 &middot; Paw Paw, Mich.
+#### 1871-04-07 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3962,7 +3962,7 @@ following week
 
 #### From _Morning republican._
 
-#### 1871-04-10 &middot; Little Rock, Ark.
+#### 1871-04-10 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -3970,7 +3970,7 @@ following week
 
 ## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7pc824f173?page=0)
 
-#### 1871-04-11 &middot; Frankfort, Ky.
+#### 1871-04-11 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4003,7 +4003,7 @@ marriage took place the following week.
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1871-04-15/ed-1/seq-3)
 
-#### 1871-04-15 &middot; Superior, Wis.
+#### 1871-04-15 &middot; [Superior, Wis.](http://dbpedia.org/resource/Superior%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4039,7 +4039,7 @@ took place the following week.
 
 ## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1871-04-18/ed-1/seq-1)
 
-#### 1871-04-18 &middot; Tionesta, Pa.
+#### 1871-04-18 &middot; [Tionesta, Pa.](http://dbpedia.org/resource/Tionesta%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4076,7 +4076,7 @@ place the following week
 
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1871-04-19/ed-1/seq-1)
 
-#### 1871-04-19 &middot; Mifflintown, Pa.
+#### 1871-04-19 &middot; [Mifflintown, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4112,7 +4112,7 @@ ing wees
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1871-05-06/ed-1/seq-2)
 
-#### 1871-05-06 &middot; Shasta, Calif.
+#### 1871-05-06 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4154,7 +4154,7 @@ ing week
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1871-05-11/ed-1/seq-4)
 
-#### 1871-05-11 &middot; Edgefield, S.C.
+#### 1871-05-11 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4193,7 +4193,7 @@ place the following week
 
 ## [From _Oregon Republican._](https://chroniclingamerica.loc.gov/lccn/sn93051636/1871-05-20/ed-1/seq-3)
 
-#### 1871-05-20 &middot; Dallas, Or.
+#### 1871-05-20 &middot; [Dallas, Or.](http://dbpedia.org/resource/Dallas%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4232,7 +4232,7 @@ tho following week
 
 #### From _Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954)_
 
-#### 1871-05-24 &middot; Echuca, Victoria
+#### 1871-05-24 &middot; [Echuca, Victoria](http://dbpedia.org/resource/Echuca)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4256,7 +4256,7 @@ marriage took place the following week
 
 ## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn86053067/1871-05-25/ed-1/seq-1)
 
-#### 1871-05-25 &middot; Camden, S.C.
+#### 1871-05-25 &middot; [Camden, S.C.](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4292,7 +4292,7 @@ place the following week
 
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1871-06-16/ed-1/seq-4)
 
-#### 1871-06-16 &middot; Albany, Linn County, Oregon
+#### 1871-06-16 &middot; [Albany, Linn County, Oregon](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4328,7 +4328,7 @@ the above interview; the marriage took
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1872-03-08/ed-1/seq-1)
 
-#### 1872-03-08 &middot; Staunton, Va.
+#### 1872-03-08 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4372,7 +4372,7 @@ week
 
 ## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1872-04-19/ed-1/seq-1)
 
-#### 1872-04-19 &middot; Stanford, Ky.
+#### 1872-04-19 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4405,7 +4405,7 @@ found grace in thin ere, teeing I am
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1872-10-05/ed-1/seq-1)
 
-#### 1872-10-05 &middot; Memphis, Tenn.
+#### 1872-10-05 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4442,7 +4442,7 @@ knowledge of me. seeing that I am
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1872-10-23/ed-1/seq-4)
 
-#### 1872-10-23 &middot; Somerset, Pa.
+#### 1872-10-23 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4466,7 +4466,7 @@ following week
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1873-06-25_7_26?page=12)
 
-#### 1873-06-25 &middot; New York
+#### 1873-06-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4486,7 +4486,7 @@ knowledge of me, seeing I am a stranger? And h
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1878-11-09 &middot; Sydney, New South Wales
+#### 1878-11-09 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4508,7 +4508,7 @@ face to face, that our joy may be full.
 
 ## [From _The Brookhaven ledger._](https://chroniclingamerica.loc.gov/lccn/sn86053968/1879-07-17/ed-1/seq-1)
 
-#### 1879-07-17 &middot; Brookhaven, Miss.
+#### 1879-07-17 &middot; [Brookhaven, Miss.](http://dbpedia.org/resource/Brookhaven%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4547,7 +4547,7 @@ following week.
 
 ## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1879-07-30/ed-1/seq-8)
 
-#### 1879-07-30 &middot; Indianapolis
+#### 1879-07-30 &middot; [Indianapolis](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4584,7 +4584,7 @@ following week
 
 #### From _Boston daily advertiser._
 
-#### 1879-08-29 &middot; Boston, Mass.
+#### 1879-08-29 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -4594,7 +4594,7 @@ following week
 
 #### From _Milwaukee daily sentinel._
 
-#### 1879-09-01 &middot; Milwaukee, Wis.
+#### 1879-09-01 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -4604,7 +4604,7 @@ following week
 
 #### From _St. Louis globe-Democrat._
 
-#### 1879-09-08 &middot; St. Louis [Mo.]
+#### 1879-09-08 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -4612,7 +4612,7 @@ following week
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-1)
 
-#### 1879-09-10 &middot; Watertown, Wis.
+#### 1879-09-10 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4638,7 +4638,7 @@ face and bowed herself to the ground an
 
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-09-17/ed-1/seq-3)
 
-#### 1879-09-17 &middot; Mifflintown, Juniata County, Pa.
+#### 1879-09-17 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4657,7 +4657,7 @@ things to write, but I will not with ink an
 
 ## [From _The Colfax chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88064176/1879-09-20/ed-1/seq-4)
 
-#### 1879-09-20 &middot; Colfax, Grant Parish, La.
+#### 1879-09-20 &middot; [Colfax, Grant Parish, La.](http://dbpedia.org/resource/Colfax%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4688,7 +4688,7 @@ ed the third Epistle of Johe--&quot; Havin
 
 ## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1879-09-25/ed-1/seq-4)
 
-#### 1879-09-25 &middot; Salina, Kan.
+#### 1879-09-25 &middot; [Salina, Kan.](http://dbpedia.org/resource/Salina%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4728,7 +4728,7 @@ riage took place
 
 ## [From _The Phoenix herald._](https://chroniclingamerica.loc.gov/lccn/sn87062082/1879-09-27/ed-1/seq-3)
 
-#### 1879-09-27 &middot; Phoenix, Maricopa County, A.T. [Ariz.]
+#### 1879-09-27 &middot; [Phoenix, Maricopa County, A.T. [Ariz.]](http://dbpedia.org/resource/Phoenix%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4748,7 +4748,7 @@ of me, seeing I ama stranger?&quot; H
 
 ## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1879-09-27/ed-1/seq-4)
 
-#### 1879-09-27 &middot; Rock Island, Ill.
+#### 1879-09-27 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4767,7 +4767,7 @@ me, seeing I am a stranger?&quot; He hande
 
 ## [From _The National tribune._](https://chroniclingamerica.loc.gov/lccn/sn82016187/1879-10-01/ed-1/seq-2)
 
-#### 1879-10-01 &middot; Washington, D.C.
+#### 1879-10-01 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4786,7 +4786,7 @@ things to write, but I will not with ink and pen write unt
 
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1879-10-24/ed-1/seq-1)
 
-#### 1879-10-24 &middot; Bloomsburg, Pa.
+#### 1879-10-24 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4825,7 +4825,7 @@ riage took place
 
 ## [From _The Canton advocate._](https://chroniclingamerica.loc.gov/lccn/sn83025440/1879-12-04/ed-1/seq-2)
 
-#### 1879-12-04 &middot; Canton, D.T. [S.D.]
+#### 1879-12-04 &middot; [Canton, D.T. [S.D.]](http://dbpedia.org/resource/Canton%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4869,7 +4869,7 @@ The Male and the Small Boy.
 
 ## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1879-12-04/ed-1/seq-2)
 
-#### 1879-12-04 &middot; River Falls, Pierce County, Wis.
+#### 1879-12-04 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4905,7 +4905,7 @@ I thirteenth verse of the third epistle of
 
 ## [From _The Northern Pacific farmer._](https://chroniclingamerica.loc.gov/lccn/sn90059028/1879-12-11/ed-1/seq-3)
 
-#### 1879-12-11 &middot; Wadena, Minn.
+#### 1879-12-11 &middot; [Wadena, Minn.](http://dbpedia.org/resource/Wadena%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4949,7 +4949,7 @@ interview a marriage took nlace.
 
 #### From _Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)_
 
-#### 1879-12-24 &middot; Rockhampton, Queensland
+#### 1879-12-24 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4974,7 +4974,7 @@ and said unto him, Why have I foun
 
 ## [From _The Columbus journal._](https://chroniclingamerica.loc.gov/lccn/sn95073194/1880-01-28/ed-1/seq-4)
 
-#### 1880-01-28 &middot; Columbus, Neb.
+#### 1880-01-28 &middot; [Columbus, Neb.](http://dbpedia.org/resource/Columbus%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5005,7 +5005,7 @@ Sho returned it pointing to the sec
 
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1880-01-29/ed-1/seq-1)
 
-#### 1880-01-29 &middot; Brownville, Nemaha County, N.T. [Neb.]
+#### 1880-01-29 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5052,7 +5052,7 @@ marriage took place.
 
 #### From _The Herald (Fremantle, WA : 1867 - 1886)_
 
-#### 1880-02-07 &middot; Fremantle, Western Australia
+#### 1880-02-07 &middot; [Fremantle, Western Australia](http://dbpedia.org/resource/Fremantle)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5087,7 +5087,7 @@ a marriage took place
 
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
 
-#### 1880-05-29 &middot; Bendigo, Victoria
+#### 1880-05-29 &middot; [Bendigo, Victoria](http://dbpedia.org/resource/Bendigo)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5109,7 +5109,7 @@ pointing to tho second chapter of Ruth
 
 ## [From _National police gazette._](https://iiif.archivelab.org/iiif/sim_national-police-gazette_1880-11-27_37_166?page=9)
 
-#### 1880-11-27 &middot; New York [N.Y.]
+#### 1880-11-27 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5150,7 +5150,7 @@ the following week.
 
 ## [From _The Daily bulletin._](https://chroniclingamerica.loc.gov/lccn/sn82016412/1882-11-21/ed-1/seq-4)
 
-#### 1882-11-21 &middot; Honolulu [Hawaii]
+#### 1882-11-21 &middot; [Honolulu [Hawaii]](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5188,7 +5188,7 @@ took place the ensuing month in th
 
 ## [From _The American Magazine 1884-1888_](https://iiif.archivelab.org/iiif/sim_american-magazine_1886-02_3_5?page=38)
 
-#### 1886-02-01
+#### 1886-02-01 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5233,7 +5233,7 @@ the ensuing week.
 
 ## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1886-06-10/ed-1/seq-5)
 
-#### 1886-06-10 &middot; Savannah
+#### 1886-06-10 &middot; [Savannah](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5271,7 +5271,7 @@ verse oi(j,be Third Eyields of
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1886-07-03/ed-1/seq-6)
 
-#### 1886-07-03 &middot; McMinnville, Tenn.
+#### 1886-07-03 &middot; [McMinnville, Tenn.](http://dbpedia.org/resource/McMinnville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5325,7 +5325,7 @@ age took place the ensuing week
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1886-07-21/ed-1/seq-4)
 
-#### 1886-07-21 &middot; Lansing, Minn.
+#### 1886-07-21 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5374,7 +5374,7 @@ ensuing week.
 
 ## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1887-07-04/ed-1/seq-9)
 
-#### 1887-07-04 &middot; Saint Paul, Minn.
+#### 1887-07-04 &middot; [Saint Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5420,7 +5420,7 @@ m
 
 ## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1887-07-13/ed-1/seq-7)
 
-#### 1887-07-13 &middot; Lansing, Minn.
+#### 1887-07-13 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5468,7 +5468,7 @@ He
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1887-07-13/ed-1/seq-3)
 
-#### 1887-07-13 &middot; Watertown, Wis.
+#### 1887-07-13 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5515,7 +5515,7 @@ the ensuing week
 
 ## [From _Hand County press._](https://chroniclingamerica.loc.gov/lccn/sn98062948/1887-07-14/ed-1/seq-3)
 
-#### 1887-07-14 &middot; Miller, Dakota [S.D.]
+#### 1887-07-14 &middot; [Miller, Dakota [S.D.]](http://dbpedia.org/resource/Miller%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5561,7 +5561,7 @@ week.
 
 ## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1887-07-14/ed-1/seq-3)
 
-#### 1887-07-14 &middot; River Falls, Pierce County, Wis.
+#### 1887-07-14 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5595,7 +5595,7 @@ bowed herself to the ground, and sai
 
 ## [From _Griggs courier._](https://chroniclingamerica.loc.gov/lccn/sn88076998/1887-07-15/ed-1/seq-8)
 
-#### 1887-07-15 &middot; Cooperstown, Griggs Co., Dak. [N.D.]
+#### 1887-07-15 &middot; [Cooperstown, Griggs Co., Dak. [N.D.]](http://dbpedia.org/resource/Cooperstown%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5642,7 +5642,7 @@ week.
 
 ## [From _Eureka daily sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84022044/1887-07-15/ed-1/seq-3)
 
-#### 1887-07-15 &middot; Eureka, Nev.
+#### 1887-07-15 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5685,7 +5685,7 @@ a marriage took plaoe the ensuing week.
 
 ## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1887-07-21/ed-1/seq-2)
 
-#### 1887-07-21 &middot; Worthington, Minn.
+#### 1887-07-21 &middot; [Worthington, Minn.](http://dbpedia.org/resource/Worthington%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5731,7 +5731,7 @@ place the ensuing week.-~Baltimorcan.
 
 ## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1887-07-22/ed-1/seq-3)
 
-#### 1887-07-22 &middot; Little Falls, Morrison County, Minn.
+#### 1887-07-22 &middot; [Little Falls, Morrison County, Minn.](http://dbpedia.org/resource/Little_Falls%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5777,7 +5777,7 @@ place the ensuing week.—Baltimorean.
 
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1887-07-27/ed-1/seq-7)
 
-#### 1887-07-27 &middot; New Ulm, Minn.
+#### 1887-07-27 &middot; [New Ulm, Minn.](http://dbpedia.org/resource/New_Ulm%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5824,7 +5824,7 @@ place the ensuing week.Baltimorea
 
 ## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1887-07-28/ed-1/seq-2)
 
-#### 1887-07-28 &middot; Worthington, Minn.
+#### 1887-07-28 &middot; [Worthington, Minn.](http://dbpedia.org/resource/Worthington%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5870,7 +5870,7 @@ took place the ensuing week.
 
 ## [From _Reporter and farmer._](https://chroniclingamerica.loc.gov/lccn/sn99068116/1887-07-28/ed-1/seq-2)
 
-#### 1887-07-28 &middot; Webster, Day County, Dakota [S.D.]
+#### 1887-07-28 &middot; [Webster, Day County, Dakota [S.D.]](http://dbpedia.org/resource/Webster%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5916,7 +5916,7 @@ cook place the ensuing week.
 
 ## [From _The DeSmet leader._](https://chroniclingamerica.loc.gov/lccn/sn00065129/1887-07-30/ed-1/seq-2)
 
-#### 1887-07-30 &middot; DeSmet, Kingsbury Co., Dakota [S.D.]
+#### 1887-07-30 &middot; [DeSmet, Kingsbury Co., Dakota [S.D.]](http://dbpedia.org/resource/De_Smet%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5952,7 +5952,7 @@ her face, and bowed herself to th
 
 #### From _The Australasian (Melbourne, Vic. : 1864 - 1946)_
 
-#### 1887-09-24 &middot; Melbourne, Victoria
+#### 1887-09-24 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5996,7 +5996,7 @@ a marriage took place the ensuing week
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
-#### 1887-10-21 &middot; Clare, South Australia
+#### 1887-10-21 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6038,7 +6038,7 @@ above interview a marriage took plac
 
 #### From _South Australian Weekly Chronicle (Adelaide, SA : 1881 - 1889)_
 
-#### 1887-10-22 &middot; Adelaide, South Australia
+#### 1887-10-22 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6072,7 +6072,7 @@ thine eyes, that t hon should&#x27;Bt tak
 
 #### From _Nepean Times (Penrith, NSW : 1882 - 1962)_
 
-#### 1887-11-19 &middot; Penrith, New South Wales
+#### 1887-11-19 &middot; [Penrith, New South Wales](http://dbpedia.org/resource/Penrith%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6115,7 +6115,7 @@ the following week,
 
 #### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
 
-#### 1887-12-13 &middot; Kiama, New South Wales
+#### 1887-12-13 &middot; [Kiama, New South Wales](http://dbpedia.org/resource/Kiama%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6143,7 +6143,7 @@ wOek
 
 #### From _Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)_
 
-#### 1887-12-23 &middot; Rockhampton, Queensland
+#### 1887-12-23 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6186,7 +6186,7 @@ place tho ensuing week.&quot; The lesson o
 
 #### From _The Capricornian (Rockhampton, Qld. : 1875 - 1929)_
 
-#### 1887-12-24 &middot; Rockhampton, Queensland
+#### 1887-12-24 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6230,7 +6230,7 @@ thf ensiling week.&#x27; The lesson of th
 
 #### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
 
-#### 1888-01-20 &middot; Gundagai, New South Wales
+#### 1888-01-20 &middot; [Gundagai, New South Wales](http://dbpedia.org/resource/Gundagai)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6274,7 +6274,7 @@ ensuing week. — D. D. Gazette. Th
 
 #### From _Goulburn Evening Penny Post (NSW : 1881 - 1940)_
 
-#### 1888-01-26 &middot; Goulburn, New South Wales
+#### 1888-01-26 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6315,7 +6315,7 @@ the ensuing week,-D. D. Gazette. Large
 
 ## [From _Sharp County record._](https://chroniclingamerica.loc.gov/lccn/sn87091045/1888-11-15/ed-1/seq-1)
 
-#### 1888-11-15 &middot; Evening Shade, Ark.
+#### 1888-11-15 &middot; [Evening Shade, Ark.](http://dbpedia.org/resource/Evening_Shade%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6361,7 +6361,7 @@ riage took place the ensuing week.
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1889-01-03/ed-1/seq-1)
 
-#### 1889-01-03 &middot; Manitowoc, Wis.
+#### 1889-01-03 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6393,7 +6393,7 @@ Ruth, verse tenth—“Then she fell o
 
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1889-03-06/ed-1/seq-6)
 
-#### 1889-03-06 &middot; New Ulm, Minn.
+#### 1889-03-06 &middot; [New Ulm, Minn.](http://dbpedia.org/resource/New_Ulm%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6446,7 +6446,7 @@ week. -,
 
 #### From _North Wales Chronicle_
 
-#### 1890-09-27 &middot; Bangor, Wales
+#### 1890-09-27 &middot; [Bangor, Wales](http://dbpedia.org/resource/Bangor%2C_Gwynedd)
 
 [This text is not available under an open license.]
 
@@ -6454,7 +6454,7 @@ week. -,
 
 ## [From _The Ladies' Home Journal (1889-1907)_](https://iiif.archivelab.org/iiif/sim_ladies-home-journal_1891-01_8_2?page=1)
 
-#### 1891-01-01 &middot; Philadelphia
+#### 1891-01-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6522,7 +6522,7 @@ and ink, but I trust to come unto you, an
 
 #### From _The Atchison champion._
 
-#### 1891-02-05 &middot; Atchison, Kan.
+#### 1891-02-05 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -6530,7 +6530,7 @@ and ink, but I trust to come unto you, an
 
 ## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1891-02-06/ed-1/seq-8)
 
-#### 1891-02-06 &middot; Newtown, Conn.
+#### 1891-02-06 &middot; [Newtown, Conn.](http://dbpedia.org/resource/Newtown%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6571,7 +6571,7 @@ a marriage took place, the ensuing week
 
 ## [From _Nevada County picayune._](https://chroniclingamerica.loc.gov/lccn/sn87091048/1891-02-12/ed-1/seq-1)
 
-#### 1891-02-12 &middot; Prescott, Nev. County, Ark.
+#### 1891-02-12 &middot; [Prescott, Nev. County, Ark.](http://dbpedia.org/resource/Prescott%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6611,7 +6611,7 @@ knowledge of me, seeing that 1 am
 
 ## [From _The News-Herald._](https://chroniclingamerica.loc.gov/lccn/sn85038161/1891-02-12/ed-1/seq-1)
 
-#### 1891-02-12 &middot; Hillsboro, Highland Co., Ohio
+#### 1891-02-12 &middot; [Hillsboro, Highland Co., Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6643,7 +6643,7 @@ week. The Metropo&#x27;b
 
 ## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1891-03-14/ed-1/seq-6)
 
-#### 1891-03-14 &middot; McMinnville, Tenn.
+#### 1891-03-14 &middot; [McMinnville, Tenn.](http://dbpedia.org/resource/McMinnville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6675,7 +6675,7 @@ ing week. The Metropolis
 
 ## [From _St. Tammany farmer._](https://chroniclingamerica.loc.gov/lccn/sn82015387/1891-04-04/ed-1/seq-4)
 
-#### 1891-04-04 &middot; Covington, La.
+#### 1891-04-04 &middot; [Covington, La.](http://dbpedia.org/resource/Covington%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6692,7 +6692,7 @@ face to face.&quot; From the above inter&#x27;
 
 ## [From _Barbour County index._](https://chroniclingamerica.loc.gov/lccn/sn82015080/1891-04-15/ed-1/seq-4)
 
-#### 1891-04-15 &middot; Medicine Lodge, Kan.
+#### 1891-04-15 &middot; [Medicine Lodge, Kan.](http://dbpedia.org/resource/Medicine_Lodge%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6720,7 +6720,7 @@ view, the marriage took place the ensu
 
 ## [From _The Roanoke times._](https://chroniclingamerica.loc.gov/lccn/sn86071868/1891-05-24/ed-1/seq-3)
 
-#### 1891-05-24 &middot; Roanoke, Va.
+#### 1891-05-24 &middot; [Roanoke, Va.](http://dbpedia.org/resource/Roanoke%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6749,7 +6749,7 @@ ing week.?The Metropolis
 
 ## [From _The Butler weekly times._](https://chroniclingamerica.loc.gov/lccn/sn89066489/1891-08-26/ed-1/seq-7)
 
-#### 1891-08-26 &middot; Butler, Mo.
+#### 1891-08-26 &middot; [Butler, Mo.](http://dbpedia.org/resource/Butler%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6781,7 +6781,7 @@ ing week. The Metropolis
 
 ## [From _The Butler weekly times._](https://chroniclingamerica.loc.gov/lccn/sn89066489/1891-09-02/ed-1/seq-7)
 
-#### 1891-09-02 &middot; Butler, Mo.
+#### 1891-09-02 &middot; [Butler, Mo.](http://dbpedia.org/resource/Butler%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6813,7 +6813,7 @@ ing week. The Metropolis
 
 ## [From _The Durham recorder._](https://chroniclingamerica.loc.gov/lccn/sn84020731/1892-03-23/ed-1/seq-1)
 
-#### 1892-03-23 &middot; Durham, N.C.
+#### 1892-03-23 &middot; [Durham, N.C.](http://dbpedia.org/resource/Durham%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6869,7 +6869,7 @@ marriago took place the ensuin
 
 #### From _Fayetteville observer._
 
-#### 1892-03-31 &middot; Fayetteville, N.C.
+#### 1892-03-31 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -6879,7 +6879,7 @@ marriago took place the ensuin
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1892-10-22 &middot; Adelaide, South Australia
+#### 1892-10-22 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6900,7 +6900,7 @@ declaration ho adopted the followin
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1892-10-22 &middot; Melbourne, Victoria
+#### 1892-10-22 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6920,7 +6920,7 @@ declaration he adopted the following
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
 
-#### 1892-10-22 &middot; Melbourne, Victoria
+#### 1892-10-22 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6946,7 +6946,7 @@ took place the following week
 
 #### From _Southwestern Christian advocate._
 
-#### 1892-11-03 &middot; New Orleans, La.
+#### 1892-11-03 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -6956,7 +6956,7 @@ took place the following week
 
 #### From _The Prahran Telegraph (Vic. : 1889 - 1930)_
 
-#### 1893-01-11 &middot; Prahran, Victoria
+#### 1893-01-11 &middot; [Prahran, Victoria](http://dbpedia.org/resource/Prahran%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6977,7 +6977,7 @@ declaration he adopted, the followin
 
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
 
-#### 1893-05-05 &middot; Bendigo, Victoria
+#### 1893-05-05 &middot; [Bendigo, Victoria](http://dbpedia.org/resource/Bendigo)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7005,7 +7005,7 @@ marriage took place tho coming week.
 
 ## [From _The Dawson news._](https://chroniclingamerica.loc.gov/lccn/sn89053283/1893-05-24/ed-1/seq-6)
 
-#### 1893-05-24 &middot; Dawson, Ga.
+#### 1893-05-24 &middot; [Dawson, Ga.](http://dbpedia.org/resource/Dawson%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7038,7 +7038,7 @@ the coming week.
 
 ## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1895-08-18/ed-1/seq-11)
 
-#### 1895-08-18 &middot; Savannah, Ga.
+#### 1895-08-18 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7081,7 +7081,7 @@ ing week
 
 ## [From _Waterbury evening Democrat._](https://chroniclingamerica.loc.gov/lccn/sn94053256/1895-08-30/ed-1/seq-3)
 
-#### 1895-08-30 &middot; Waterbury, Conn.
+#### 1895-08-30 &middot; [Waterbury, Conn.](http://dbpedia.org/resource/Waterbury%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7124,7 +7124,7 @@ coming week. Scottish American
 
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1895-09-06/ed-1/seq-5)
 
-#### 1895-09-06 &middot; Paw Paw, Mich.
+#### 1895-09-06 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7161,7 +7161,7 @@ coming week. Scottish American
 
 ## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1895-09-21_8_44?page=8)
 
-#### 1895-09-21
+#### 1895-09-21 &middot; [Toronto, Canada](http://dbpedia.org/resource/Toronto)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7235,7 +7235,7 @@ place the coming week.
 
 ## [From _Pine Bluff daily graphic._](https://chroniclingamerica.loc.gov/lccn/sn89051168/1895-09-24/ed-1/seq-3)
 
-#### 1895-09-24 &middot; Pine Bluff, Ark.
+#### 1895-09-24 &middot; [Pine Bluff, Ark.](http://dbpedia.org/resource/Pine_Bluff%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7277,7 +7277,7 @@ riage took place the coming week.
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1895-09-25/ed-1/seq-4)
 
-#### 1895-09-25 &middot; Yorkville, S.C.
+#### 1895-09-25 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7316,7 +7316,7 @@ took place the coming week
 
 ## [From _The Roanoke daily times._](https://chroniclingamerica.loc.gov/lccn/sn95079481/1895-09-28/ed-1/seq-2)
 
-#### 1895-09-28 &middot; Roanoke, Va.
+#### 1895-09-28 &middot; [Roanoke, Va.](http://dbpedia.org/resource/Roanoke%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7361,7 +7361,7 @@ riage took plnco the coming week.
 
 ## [From _Waterbury Democrat._](https://chroniclingamerica.loc.gov/lccn/2016270502/1895-09-30/ed-1/seq-7)
 
-#### 1895-09-30 &middot; Waterbury, Conn.
+#### 1895-09-30 &middot; [Waterbury, Conn.](http://dbpedia.org/resource/Waterbury%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7401,7 +7401,7 @@ riage took place the coming week
 
 ## [From _Daily public ledger._](https://chroniclingamerica.loc.gov/lccn/sn86069117/1895-10-02/ed-1/seq-1)
 
-#### 1895-10-02 &middot; Maysville, Ky.
+#### 1895-10-02 &middot; [Maysville, Ky.](http://dbpedia.org/resource/Maysville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7443,7 +7443,7 @@ coming week
 
 ## [From _Pine Bluff daily graphic._](https://chroniclingamerica.loc.gov/lccn/sn89051168/1895-10-03/ed-1/seq-3)
 
-#### 1895-10-03 &middot; Pine Bluff, Ark.
+#### 1895-10-03 &middot; [Pine Bluff, Ark.](http://dbpedia.org/resource/Pine_Bluff%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7488,7 +7488,7 @@ riage took place the coming week.
 
 ## [From _The Redwood gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025570/1895-10-03/ed-1/seq-3)
 
-#### 1895-10-03 &middot; Redwood Falls, Minn.
+#### 1895-10-03 &middot; [Redwood Falls, Minn.](http://dbpedia.org/resource/Redwood_Falls%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7539,7 +7539,7 @@ riage took place the coming week.
 
 #### From _The daily picayune._
 
-#### 1895-10-06 &middot; New Orleans, La.
+#### 1895-10-06 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
 
@@ -7549,7 +7549,7 @@ riage took place the coming week.
 
 #### From _Bangor daily Whig & courier._
 
-#### 1895-10-08 &middot; Bangor, Me.
+#### 1895-10-08 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -7557,7 +7557,7 @@ riage took place the coming week.
 
 ## [From _The Marlboro democrat._](https://chroniclingamerica.loc.gov/lccn/sn92065637/1895-10-09/ed-1/seq-2)
 
-#### 1895-10-09 &middot; Bennettsville, S.C.
+#### 1895-10-09 &middot; [Bennettsville, S.C.](http://dbpedia.org/resource/Bennettsville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7595,7 +7595,7 @@ and ink ; but I trust to como
 
 ## [From _The Sioux County journal._](https://chroniclingamerica.loc.gov/lccn/2018270201/1895-10-10/ed-1/seq-8)
 
-#### 1895-10-10 &middot; Harrison, Nebraska
+#### 1895-10-10 &middot; [Harrison, Nebraska](http://dbpedia.org/resource/Harrison%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7630,7 +7630,7 @@ riage took place tbe coming week
 
 ## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1895-11-08/ed-1/seq-4)
 
-#### 1895-11-08 &middot; Pascagoula, Miss.
+#### 1895-11-08 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7665,7 +7665,7 @@ riaic took place the coining vcek
 
 ## [From _News and citizen._](https://chroniclingamerica.loc.gov/lccn/sn97067613/1895-11-21/ed-1/seq-2)
 
-#### 1895-11-21 &middot; Morrisville, Vt. ;
+#### 1895-11-21 &middot; [Morrisville, Vt. ;](http://dbpedia.org/resource/Morrisville%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7711,7 +7711,7 @@ took place the coming week. Scot
 
 #### From _Bathurst Free Press and Mining Journal (NSW : 1851 - 1904)_
 
-#### 1895-12-03 &middot; Bathurst, New South Wales
+#### 1895-12-03 &middot; [Bathurst, New South Wales](http://dbpedia.org/resource/Bathurst%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7752,7 +7752,7 @@ marriage took place the following month.
 
 #### From _Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)_
 
-#### 1895-12-07 &middot; Maryborough, Queensland
+#### 1895-12-07 &middot; [Maryborough, Queensland](http://dbpedia.org/resource/Maryborough%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7788,7 +7788,7 @@ marriage took place the following month
 
 #### From _Clarence and Richmond Examiner (Grafton, NSW : 1889 - 1915)_
 
-#### 1895-12-21 &middot; Grafton, New South Wales
+#### 1895-12-21 &middot; [Grafton, New South Wales](http://dbpedia.org/resource/Grafton%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7829,7 +7829,7 @@ marriage took place tho following month.
 
 #### From _The Capricornian (Rockhampton, Qld. : 1875 - 1929)_
 
-#### 1896-01-11 &middot; Rockhampton, Queensland
+#### 1896-01-11 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7871,7 +7871,7 @@ took place the following
 
 #### From _Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)_
 
-#### 1896-01-15 &middot; Rockhampton, Queensland
+#### 1896-01-15 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7911,7 +7911,7 @@ following month.
 
 ## [From _The Cape Girardeau Democrat._](https://chroniclingamerica.loc.gov/lccn/sn89066818/1896-01-18/ed-1/seq-5)
 
-#### 1896-01-18 &middot; Cape Girardeau, Mo.
+#### 1896-01-18 &middot; [Cape Girardeau, Mo.](http://dbpedia.org/resource/Cape_Girardeau%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7957,7 +7957,7 @@ wee k
 
 ## [From _The Madison daily leader._](https://chroniclingamerica.loc.gov/lccn/sn99062034/1896-01-21/ed-1/seq-4)
 
-#### 1896-01-21 &middot; Madison, S.D.
+#### 1896-01-21 &middot; [Madison, S.D.](http://dbpedia.org/resource/Madison%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8001,7 +8001,7 @@ ooraing week.—Scottish American
 
 ## [From _Indian chieftain._](https://chroniclingamerica.loc.gov/lccn/sn83025010/1896-02-20/ed-1/seq-2)
 
-#### 1896-02-20 &middot; Vinita, Indian Territory [Okla.]
+#### 1896-02-20 &middot; [Vinita, Indian Territory [Okla.]](http://dbpedia.org/resource/Vinita%2C_Oklahoma)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8066,7 +8066,7 @@ place the following week
 
 #### From _Portland Guardian (Vic. : 1876 - 1953)_
 
-#### 1896-04-01 &middot; Portland, Victoria
+#### 1896-04-01 &middot; [Portland, Victoria](http://dbpedia.org/resource/Portland%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8102,7 +8102,7 @@ took place the coming week. DREADFUL
 
 #### From _Traralgon Record (Traralgon, Vic. : 1886 - 1932)  _
 
-#### 1896-04-10 &middot; Traralgon, Victoria
+#### 1896-04-10 &middot; [Traralgon, Victoria](http://dbpedia.org/resource/Traralgon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8140,7 +8140,7 @@ thee, and we shall speak face to face.
 
 #### From _The Maffra Spectator (Vic. : 1882 - 1920)_
 
-#### 1896-04-16 &middot; Maffra, Victoria
+#### 1896-04-16 &middot; [Maffra, Victoria](http://dbpedia.org/resource/Maffra)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8180,7 +8180,7 @@ speak face to face.&quot; A wedding was th
 
 #### From _Williamstown Chronicle (Vic. : 1856 - 1954)_
 
-#### 1896-05-02 &middot; Williamstown, Victoria
+#### 1896-05-02 &middot; [Williamstown, Victoria](http://dbpedia.org/resource/Williamstown%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8216,7 +8216,7 @@ preached the sermon hitched that coupl
 
 #### From _Burra Record (SA : 1878 - 1954)_
 
-#### 1896-06-10 &middot; Burra, South Australia
+#### 1896-06-10 &middot; [Burra, South Australia](http://dbpedia.org/resource/Burra%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8252,7 +8252,7 @@ week
 
 #### From _The Richmond River Herald and Northern Districts Advertiser (NSW : 1886 - 1942)_
 
-#### 1896-12-31 &middot; Coraki, New South Wales
+#### 1896-12-31 &middot; [Coraki, New South Wales](http://dbpedia.org/resource/Coraki%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8272,7 +8272,7 @@ declaration, the exigency sug*? i... — :
 
 #### From _The Richmond River Herald and Northern Districts Advertiser (NSW : 1886 - 1942)_
 
-#### 1896-12-31 &middot; Coraki, New South Wales
+#### 1896-12-31 &middot; [Coraki, New South Wales](http://dbpedia.org/resource/Coraki%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8308,7 +8308,7 @@ marriage took place the ensuing week.
 
 #### From _The Hay Standard and Advertiser for Balranald, Wentworth, Maude...(Hay, NSW : 1871 - 1873; 1880 - 1881; 1890 - 1900)_
 
-#### 1897-01-06 &middot; Hay, New South Wales
+#### 1897-01-06 &middot; [Hay, New South Wales](http://dbpedia.org/resource/Hay%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8328,7 +8328,7 @@ the spot; but the I^Hce not suitiag a
 
 #### From _Molong Argus (NSW : 1896 - 1921)_
 
-#### 1897-01-29 &middot; Molong, New South Wales
+#### 1897-01-29 &middot; [Molong, New South Wales](http://dbpedia.org/resource/Molong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8346,7 +8346,7 @@ formal declaration, the exigency
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1897-06-23/ed-1/seq-4)
 
-#### 1897-06-23 &middot; Anderson Court House, S.C.
+#### 1897-06-23 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8391,7 +8391,7 @@ ing week?Church Paper
 
 #### From _Traralgon Record (Traralgon, Vic. : 1886 - 1932)  _
 
-#### 1899-12-15 &middot; Traralgon, Victoria
+#### 1899-12-15 &middot; [Traralgon, Victoria](http://dbpedia.org/resource/Traralgon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8435,7 +8435,7 @@ place.
 
 #### From _Bairnsdale Advertiser and Tambo and Omeo Chronicle (Vic. : 1882 - 1918)_
 
-#### 1899-12-16 &middot; Berwick, Victoria
+#### 1899-12-16 &middot; [Berwick, Victoria](http://dbpedia.org/resource/Berwick%2C_Victoria)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

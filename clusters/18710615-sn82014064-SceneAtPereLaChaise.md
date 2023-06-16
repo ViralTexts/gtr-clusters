@@ -23,7 +23,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### From _Daily News_
 
-#### 1871-06-01 &middot; London, England
+#### 1871-06-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -33,7 +33,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### From _Pall Mall Gazette_
 
-#### 1871-06-01 &middot; London, England
+#### 1871-06-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -43,7 +43,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### From _Daily News_
 
-#### 1871-06-02 &middot; London, England
+#### 1871-06-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -53,7 +53,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### From _Freeman's Journal_
 
-#### 1871-06-02 &middot; Dublin, Ireland
+#### 1871-06-02 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -63,7 +63,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### From _Hampshire/Portsmouth Telegraph_
 
-#### 1871-06-03 &middot; Portsmouth, England
+#### 1871-06-03 &middot; [Portsmouth, England](http://dbpedia.org/resource/Portsmouth)
 
 [This text is not available under an open license.]
 
@@ -73,7 +73,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### From _Ipswich Journal_
 
-#### 1871-06-03 &middot; Ipswich, England
+#### 1871-06-03 &middot; [Ipswich, England](http://dbpedia.org/resource/Ipswich)
 
 [This text is not available under an open license.]
 
@@ -83,7 +83,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### From _Manchester Times_
 
-#### 1871-06-03 &middot; Manchester, England
+#### 1871-06-03 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -93,7 +93,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### From _Manchester Times_
 
-#### 1871-06-03 &middot; Manchester, England
+#### 1871-06-03 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -103,7 +103,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1871-06-07 &middot; Exeter, England
+#### 1871-06-07 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -113,7 +113,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 #### From _Newcastle Courant_
 
-#### 1871-06-09 &middot; Newcastle-upon-Tyne, England
+#### 1871-06-09 &middot; [Newcastle-upon-Tyne, England](http://dbpedia.org/resource/Newcastle_upon_Tyne)
 
 [This text is not available under an open license.]
 
@@ -121,7 +121,7 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-15/ed-1/seq-1)
 
-#### 1871-06-15 &middot; Chicago, Ill.
+#### 1871-06-15 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -147,7 +147,7 @@ males cue aid to lock upon
 
 ## [From _The evening telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83025925/1871-06-15/ed-1/seq-1)
 
-#### 1871-06-15 &middot; Philadelphia [Pa.]
+#### 1871-06-15 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -172,7 +172,7 @@ to look npon
 
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-06-17/ed-1/seq-2)
 
-#### 1871-06-17 &middot; Knoxville, Tenn.
+#### 1871-06-17 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -198,7 +198,7 @@ makes one sick to&#x27;look upon
 
 ## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1871-06-18/ed-1/seq-2)
 
-#### 1871-06-18 &middot; Columbia, S.C.
+#### 1871-06-18 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -226,7 +226,7 @@ upon
 
 ## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1871-06-21/ed-1/seq-8)
 
-#### 1871-06-21 &middot; Knoxville, Tenn.
+#### 1871-06-21 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -250,7 +250,7 @@ I UIUKVH UUI HICK HI IOOK UpUIl
 
 ## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1871-06-21/ed-1/seq-1)
 
-#### 1871-06-21 &middot; Memphis, Tenn.
+#### 1871-06-21 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -279,7 +279,7 @@ city of which makes ona sick to look
 
 #### From _Daily evening bulletin._
 
-#### 1871-06-22 &middot; San Francisco [Calif.]
+#### 1871-06-22 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -289,7 +289,7 @@ city of which makes ona sick to look
 
 #### From _Daily evening bulletin._
 
-#### 1871-06-22 &middot; San Francisco [Calif.]
+#### 1871-06-22 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -299,7 +299,7 @@ city of which makes ona sick to look
 
 #### From _The Milwaukee sentinel._
 
-#### 1871-06-26 &middot; Milwaukee, Wis.
+#### 1871-06-26 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -309,7 +309,7 @@ city of which makes ona sick to look
 
 #### From _Milwaukee weekly sentinel._
 
-#### 1871-06-27 &middot; Milwaukee, Wis.
+#### 1871-06-27 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -317,7 +317,7 @@ city of which makes ona sick to look
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1871-06-27/ed-1/seq-2)
 
-#### 1871-06-27 &middot; Charlotte, N.C.
+#### 1871-06-27 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -341,7 +341,7 @@ of which makes one sick to look upon.
 
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1871-06-28/ed-1/seq-1)
 
-#### 1871-06-28 &middot; Newberry, S.C.
+#### 1871-06-28 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -371,7 +371,7 @@ one sick to look uponms
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
-#### 1871-06-29 &middot; Washington, D.C.
+#### 1871-06-29 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -397,7 +397,7 @@ to look upon
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1871-07-06/ed-1/seq-2)
 
-#### 1871-07-06 &middot; Gold Hill, N.T. [Nev.]
+#### 1871-07-06 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -424,7 +424,7 @@ look upon
 
 #### From _The Wallaroo Times and Mining Journal (Port Wallaroo, SA : 1865 - 1881)_
 
-#### 1871-08-02 &middot; Port Wallaroo, South Australia
+#### 1871-08-02 &middot; [Port Wallaroo, South Australia](http://dbpedia.org/resource/Wallaroo%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -451,7 +451,7 @@ ferocity of which makes one sick to loo
 
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
 
-#### 1871-08-05 &middot; Sydney, New South Wales
+#### 1871-08-05 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -477,7 +477,7 @@ which makes one sick to look upon. I
 
 #### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
 
-#### 1871-08-07 &middot; Sydney, New South Wales
+#### 1871-08-07 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -498,7 +498,7 @@ and fifty of them patent to the eye
 
 #### From _The Newcastle Chronicle (NSW : 1866 - 1876)_
 
-#### 1871-08-08 &middot; Newcastle, New South Wales
+#### 1871-08-08 &middot; [Newcastle, New South Wales](http://dbpedia.org/resource/Newcastle%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -524,7 +524,7 @@ look upon.&#x27; In one place there was
 
 #### From _Queanbeyan Age (NSW : 1867 - 1904)_
 
-#### 1871-08-10 &middot; Queanbeyan, New South Wales
+#### 1871-08-10 &middot; [Queanbeyan, New South Wales](http://dbpedia.org/resource/Queanbeyan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -547,7 +547,7 @@ which makes.one sick to look upon.. I
 
 #### From _Wagga Wagga Advertiser and Riverine Reporter (NSW : 1868 - 1875)_
 
-#### 1871-08-12 &middot; Wagga Wagga, New South Wales
+#### 1871-08-12 &middot; [Wagga Wagga, New South Wales](http://dbpedia.org/resource/Wagga_Wagga)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -570,7 +570,7 @@ hidden by, the earth which th
 
 #### From _Gympie Times and Mary River Mining Gazette (Qld. : 1868 - 1919)_
 
-#### 1871-08-12 &middot; Gympie, Queensland
+#### 1871-08-12 &middot; [Gympie, Queensland](http://dbpedia.org/resource/Gympie)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -593,7 +593,7 @@ ferocity of which makes ono Bick to loo
 
 #### From _Launceston Examiner (Tas. : 1842 - 1899)_
 
-#### 1871-08-12 &middot; Launceston, Tasmania
+#### 1871-08-12 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -618,7 +618,7 @@ have been hidden by the earth which th
 
 #### From _Warwick Examiner and Times (Qld. : 1867 - 1919)_
 
-#### 1871-08-12 &middot; Warwick, Queensland
+#### 1871-08-12 &middot; [Warwick, Queensland](http://dbpedia.org/resource/Warwick%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -642,7 +642,7 @@ ot which makes one sick to look upon. I
 
 #### From _Gympie Times and Mary River Mining Gazette (Qld. : 1868 - 1919)_
 
-#### 1871-08-16 &middot; Gympie, Queensland
+#### 1871-08-16 &middot; [Gympie, Queensland](http://dbpedia.org/resource/Gympie)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -664,7 +664,7 @@ by tho onrth which the gravediggorshav
 
 #### From _The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)_
 
-#### 1871-08-16 &middot; Toowoomba, Queensland
+#### 1871-08-16 &middot; [Toowoomba, Queensland](http://dbpedia.org/resource/Toowoomba)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -686,7 +686,7 @@ besides what have been bidden by th
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
-#### 1871-08-19 &middot; Brisbane, Queensland
+#### 1871-08-19 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

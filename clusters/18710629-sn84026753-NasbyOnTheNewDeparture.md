@@ -75,7 +75,7 @@ Petroleum V. Nasby, (wich wuz Postmaster.)
 
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-06/ed-1/seq-3)
 
-#### 1871-06-06 &middot; Chicago, Ill.
+#### 1871-06-06 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -120,7 +120,7 @@ with us to Demo
 
 ## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-06/ed-1/seq-3)
 
-#### 1871-06-06 &middot; Chicago, Ill.
+#### 1871-06-06 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -317,7 +317,7 @@ Prreoi.Em V.Nxssr.
 
 ## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-06-08/ed-1/seq-4)
 
-#### 1871-06-08 &middot; Tiffin, Ohio
+#### 1871-06-08 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -588,7 +588,7 @@ PETROLEUM V. NASBY,
 
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-06-11/ed-1/seq-6)
 
-#### 1871-06-11 &middot; New Orleans, La
+#### 1871-06-11 &middot; [New Orleans, La](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -792,7 +792,7 @@ witli difficulty that Pollock and Buffer r
 
 ## [From _New Orleans Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-06-11/ed-1/seq-6)
 
-#### 1871-06-11 &middot; New Orleans, La
+#### 1871-06-11 &middot; [New Orleans, La](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -837,7 +837,7 @@ PETROLEUM Y. NASBT.
 
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1871-06-14/ed-1/seq-1)
 
-#### 1871-06-14 &middot; Augusta, Me.
+#### 1871-06-14 &middot; [Augusta, Me.](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1082,7 +1082,7 @@ Ff.trolefm V. Nasbt,
 
 ## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1871-06-15/ed-1/seq-1)
 
-#### 1871-06-15 &middot; White Cloud, Kan.
+#### 1871-06-15 &middot; [White Cloud, Kan.](http://dbpedia.org/resource/White_Cloud%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1323,7 +1323,7 @@ Petrolic V. Nasbt,
 
 ## [From _The weekly Ottumwa courier._](https://chroniclingamerica.loc.gov/lccn/sn84027352/1871-06-22/ed-1/seq-2)
 
-#### 1871-06-22 &middot; Ottumwa, Iowa
+#### 1871-06-22 &middot; [Ottumwa, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1462,7 +1462,7 @@ laff.
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-1)
 
-#### 1871-06-24 &middot; Sunbury, Pa.
+#### 1871-06-24 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1553,7 +1553,7 @@ ded earnest, lo rwoogui
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-4)
 
-#### 1871-06-24 &middot; Sunbury, Pa.
+#### 1871-06-24 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1625,7 +1625,7 @@ paper
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-4)
 
-#### 1871-06-24 &middot; Sunbury, Pa.
+#### 1871-06-24 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1714,7 +1714,7 @@ an that no wanted to. Uv course this
 
 #### From _Bangor daily Whig & courier._
 
-#### 1871-06-27 &middot; Bangor, Me.
+#### 1871-06-27 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -1722,7 +1722,7 @@ an that no wanted to. Uv course this
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1871-06-28/ed-1/seq-1)
 
-#### 1871-06-28 &middot; Montpelier, Vt.
+#### 1871-06-28 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1773,7 +1773,7 @@ platform he is nut onto. In view of the
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1871-06-28/ed-1/seq-1)
 
-#### 1871-06-28 &middot; Montpelier, Vt.
+#### 1871-06-28 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1800,7 +1800,7 @@ and uv puttin tin- Dimoeratie party on pur
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1871-06-28/ed-1/seq-3)
 
-#### 1871-06-28 &middot; Wheeling, W. Va.
+#### 1871-06-28 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1897,7 +1897,7 @@ itizens had been ilispitefully yoos
 
 ## [From _The Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026844/1871-06-28/ed-1/seq-3)
 
-#### 1871-06-28 &middot; Wheeling, W. Va.
+#### 1871-06-28 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2059,7 +2059,7 @@ lives. I&#x27;KTiior.eum V. Nasuy,
 
 ## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
 
-#### 1871-06-29 &middot; Washington, D.C.
+#### 1871-06-29 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2293,7 +2293,7 @@ lives. Prtbolkim V. N a?by, ! i
 
 ## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1871-06-30/ed-1/seq-4)
 
-#### 1871-06-30 &middot; Burlington, Vt.
+#### 1871-06-30 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2499,7 +2499,7 @@ Peteolecm V. Napbt.
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1871-07-01/ed-1/seq-1)
 
-#### 1871-07-01 &middot; Ashtabula, Ohio
+#### 1871-07-01 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2576,7 +2576,7 @@ though tbey bed bin shot. .:.
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1871-07-01/ed-1/seq-2)
 
-#### 1871-07-01 &middot; Ashtabula, Ohio
+#### 1871-07-01 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2683,7 +2683,7 @@ n, auu WUZ a cxccuuil wui uiiueen uv
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1871-07-07/ed-1/seq-1)
 
-#### 1871-07-07 &middot; Bellows Falls, Vt.
+#### 1871-07-07 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2745,7 +2745,7 @@ jickshuns on the part uv a few to wa
 
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1871-07-07/ed-1/seq-1)
 
-#### 1871-07-07 &middot; Bellows Falls, Vt.
+#### 1871-07-07 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2945,7 +2945,7 @@ Petroleum V. Nasbt.
 
 ## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1871-07-19/ed-1/seq-1)
 
-#### 1871-07-19 &middot; Mifflintown, Pa.
+#### 1871-07-19 &middot; [Mifflintown, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3192,7 +3192,7 @@ That -wnz enuff I guess the cu
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1871-08-05/ed-1/seq-1)
 
-#### 1871-08-05 &middot; Elkton, Md.
+#### 1871-08-05 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3322,7 +3322,7 @@ twenty-two uv our fellow-citizens of Afri
 
 ## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1871-08-05/ed-1/seq-1)
 
-#### 1871-08-05 &middot; Elkton, Md.
+#### 1871-08-05 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

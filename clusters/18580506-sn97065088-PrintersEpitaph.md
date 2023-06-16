@@ -28,7 +28,7 @@ The *impression* lives through an eternal age.
 
 ## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1854-10-12/ed-1/seq-3)
 
-#### 1854-10-12 &middot; Washington [D.C.]
+#### 1854-10-12 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -50,7 +50,7 @@ The imprefaion lives through an eternal age. [
 
 ## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1854-10-25/ed-1/seq-4)
 
-#### 1854-10-25 &middot; Loudon, Tenn.
+#### 1854-10-25 &middot; [Loudon, Tenn.](http://dbpedia.org/resource/Loudon%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -73,7 +73,7 @@ The impression lives through an eternal ,a
 
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1854-11-02/ed-1/seq-1)
 
-#### 1854-11-02 &middot; Ebensburg, Pa.
+#### 1854-11-02 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -96,7 +96,7 @@ Worn out, the type is thrown to pi again, &#x27;
 
 ## [From _The Belmont chronicle, and farmers, mechanics and manufacturers advocate._](https://chroniclingamerica.loc.gov/lccn/sn84028479/1854-11-03/ed-1/seq-1)
 
-#### 1854-11-03 &middot; St. Clairsville, Ohio
+#### 1854-11-03 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -119,7 +119,7 @@ The impression lives through an eternal age
 
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1854-11-23/ed-1/seq-4)
 
-#### 1854-11-23 &middot; Bath, Me.
+#### 1854-11-23 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -142,7 +142,7 @@ The impression lives through an eternal age
 
 ## [From _Carroll free press._](https://chroniclingamerica.loc.gov/lccn/sn83035366/1854-11-30/ed-1/seq-1)
 
-#### 1854-11-30 &middot; Carrollton [Ohio]
+#### 1854-11-30 &middot; [Carrollton [Ohio]](http://dbpedia.org/resource/Carrollton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -176,7 +176,7 @@ The impression lives to an eternal age
 
 ## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1854-12-06/ed-1/seq-1)
 
-#### 1854-12-06 &middot; Clarksburg, Va. [W. Va.]
+#### 1854-12-06 &middot; [Clarksburg, Va. [W. Va.]](http://dbpedia.org/resource/Clarksburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -199,7 +199,7 @@ I The impression lives through an eternal age.
 
 ## [From _The Nevada journal._](https://chroniclingamerica.loc.gov/lccn/sn84026884/1855-02-16/ed-1/seq-1)
 
-#### 1855-02-16 &middot; Nevada City, Calif.
+#### 1855-02-16 &middot; [Nevada City, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -222,7 +222,7 @@ The impression lives to an eternal ago.
 
 ## [From _Squatter sovereign._](https://chroniclingamerica.loc.gov/lccn/sn82015827/1855-05-15/ed-1/seq-1)
 
-#### 1855-05-15 &middot; Atchison, Kan. Terr.
+#### 1855-05-15 &middot; [Atchison, Kan. Terr.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -246,7 +246,7 @@ A Frist Eate Hit
 
 ## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1855-06-26/ed-1/seq-1)
 
-#### 1855-06-26 &middot; Hillsdale, Mich.
+#### 1855-06-26 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -269,7 +269,7 @@ The impression live through an eternal age
 
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1855-12-08/ed-1/seq-4)
 
-#### 1855-12-08 &middot; New-Lisbon, Ohio
+#### 1855-12-08 &middot; [New-Lisbon, Ohio](http://dbpedia.org/resource/Salem%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -292,7 +292,7 @@ The impression lives through an eternal age.
 
 ## [From _Republican vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024652/1856-10-25/ed-1/seq-4)
 
-#### 1856-10-25 &middot; Staunton, Va.
+#### 1856-10-25 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -315,7 +315,7 @@ The impression lives through an eternal ag
 
 ## [From _New Orleans daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015753/1856-12-08/ed-1/seq-4)
 
-#### 1856-12-08 &middot; [New Orleans, La.]
+#### 1856-12-08 &middot; [[New Orleans, La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -338,7 +338,7 @@ The impression lives through an eternal age
 
 ## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1857-01-13/ed-1/seq-1)
 
-#### 1857-01-13 &middot; Mineral Point, Wis.
+#### 1857-01-13 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -361,7 +361,7 @@ The impression lives through an eternal ape
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1857-03-26/ed-1/seq-1)
 
-#### 1857-03-26 &middot; Honolulu, Hawaiian Islands
+#### 1857-03-26 &middot; [Honolulu, Hawaiian Islands](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -384,7 +384,7 @@ The impression lives through an eternal age
 
 ## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1857-09-16/ed-1/seq-1)
 
-#### 1857-09-16 &middot; Grand Haven, Mich.
+#### 1857-09-16 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -407,7 +407,7 @@ The impression lives through an eternal age.
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-17_12_42?page=7)
 
-#### 1857-10-17 &middot; Boston [Mass.]
+#### 1857-10-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -449,7 +449,7 @@ The unpression lives through an everual age.
 
 ## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-24_12_43?page=0)
 
-#### 1857-10-24 &middot; Boston [Mass.]
+#### 1857-10-24 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -472,7 +472,7 @@ The wnpression lives through an eternal age.
 
 ## [From _The Winchester home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065088/1858-05-06/ed-1/seq-1)
 
-#### 1858-05-06 &middot; Winchester, Tenn.
+#### 1858-05-06 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -499,7 +499,7 @@ age.
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
-#### 1858-08-05 &middot; New York
+#### 1858-08-05 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -507,7 +507,7 @@ age.
 
 ## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn88064150/1858-08-25/ed-1/seq-1)
 
-#### 1858-08-25 &middot; Harrisonburg, La.
+#### 1858-08-25 &middot; [Harrisonburg, La.](http://dbpedia.org/resource/Harrisonburg%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -530,7 +530,7 @@ The ; .pression lives through an eternal age
 
 ## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1858-11_17_102?page=83)
 
-#### 1858-11-01 &middot; New York
+#### 1858-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -553,7 +553,7 @@ The impression lives through an eternal age.
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1858-11-11/ed-1/seq-4)
 
-#### 1858-11-11 &middot; Montpelier, Vt.
+#### 1858-11-11 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -576,7 +576,7 @@ The impression lives through an eternal age
 
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1874-03-27/ed-1/seq-7)
 
-#### 1874-03-27 &middot; Jefferson City, Mo.
+#### 1874-03-27 &middot; [Jefferson City, Mo.](http://dbpedia.org/resource/Jefferson_City%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -615,7 +615,7 @@ The impression lives through an eternal age
 
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1875-09-24/ed-1/seq-1)
 
-#### 1875-09-24 &middot; Salisbury, Litchfield Co., Conn.
+#### 1875-09-24 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -642,7 +642,7 @@ Items of Interest
 
 #### From _Daily Arkansas gazette._
 
-#### 1875-10-13 &middot; Little Rock, Ark.
+#### 1875-10-13 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
 [This text is not available under an open license.]
 
@@ -652,7 +652,7 @@ Items of Interest
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
-#### 1875-10-14 &middot; New York
+#### 1875-10-14 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -662,7 +662,7 @@ Items of Interest
 
 #### From _Lowell daily citizen and news._
 
-#### 1875-10-15 &middot; Lowell, Mass.
+#### 1875-10-15 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
 
@@ -672,7 +672,7 @@ Items of Interest
 
 #### From _Daily evening bulletin._
 
-#### 1875-10-16 &middot; San Francisco [Calif.]
+#### 1875-10-16 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -682,7 +682,7 @@ Items of Interest
 
 #### From _The Galveston daily news._
 
-#### 1875-10-24 &middot; Houston [Tex.]
+#### 1875-10-24 &middot; [Houston [Tex.]](http://dbpedia.org/resource/Houston)
 
 [This text is not available under an open license.]
 
@@ -690,7 +690,7 @@ Items of Interest
 
 ## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1875-11-11/ed-1/seq-2)
 
-#### 1875-11-11 &middot; Hillsborough [Hillsboro], Highland County, Ohio
+#### 1875-11-11 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -720,7 +720,7 @@ Ihe impression bves through an eteanaJag
 
 ## [From _American Printer 1883-2013_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12?page=57)
 
-#### 1887-09-01
+#### 1887-09-01 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -759,7 +759,7 @@ The émfpression lives through an eternal age.
 
 ## [From _Catoctin clarion._](https://chroniclingamerica.loc.gov/lccn/sn84026688/1894-03-15/ed-1/seq-1)
 
-#### 1894-03-15 &middot; Mechanicstown, Md.
+#### 1894-03-15 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -810,7 +810,7 @@ rial age
 
 ## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1897-05-27/ed-1/seq-1)
 
-#### 1897-05-27 &middot; Lancaster, Wis.
+#### 1897-05-27 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

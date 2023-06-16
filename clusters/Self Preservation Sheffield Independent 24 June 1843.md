@@ -45,7 +45,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-05-22 &middot; Manchester, England
+#### 1841-05-22 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -55,7 +55,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-05-29 &middot; Manchester, England
+#### 1841-05-29 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -65,7 +65,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-06-26 &middot; Manchester, England
+#### 1841-06-26 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -75,7 +75,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-07-17 &middot; Manchester, England
+#### 1841-07-17 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -85,7 +85,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-07-31 &middot; Manchester, England
+#### 1841-07-31 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -95,7 +95,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-07-31 &middot; Manchester, England
+#### 1841-07-31 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -105,7 +105,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-08-07 &middot; Manchester, England
+#### 1841-08-07 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -115,7 +115,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1841-08-27 &middot; Liverpool, England
+#### 1841-08-27 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -125,7 +125,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-08-28 &middot; Manchester, England
+#### 1841-08-28 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -135,7 +135,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-09-04 &middot; Manchester, England
+#### 1841-09-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -145,7 +145,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-09-11 &middot; Manchester, England
+#### 1841-09-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -155,7 +155,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1841-10-01 &middot; Liverpool, England
+#### 1841-10-01 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -165,7 +165,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1841-10-15 &middot; Liverpool, England
+#### 1841-10-15 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -175,7 +175,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-10-16 &middot; Manchester, England
+#### 1841-10-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -185,7 +185,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1841-10-22 &middot; Liverpool, England
+#### 1841-10-22 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -195,7 +195,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-10-23 &middot; Manchester, England
+#### 1841-10-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -205,7 +205,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-10-30 &middot; Manchester, England
+#### 1841-10-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -215,7 +215,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-10-30 &middot; Manchester, England
+#### 1841-10-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -225,7 +225,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1841-11-19 &middot; Liverpool, England
+#### 1841-11-19 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -235,7 +235,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1841-11-26 &middot; Liverpool, England
+#### 1841-11-26 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -245,7 +245,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1841-12-25 &middot; Bristol, England
+#### 1841-12-25 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -255,7 +255,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1841-12-31 &middot; Manchester, England
+#### 1841-12-31 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -265,7 +265,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-01-08 &middot; Manchester, England
+#### 1842-01-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -275,7 +275,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-01-15 &middot; Manchester, England
+#### 1842-01-15 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -285,7 +285,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-01-15 &middot; Manchester, England
+#### 1842-01-15 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -295,7 +295,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Jackson's Oxford Journal_
 
-#### 1842-02-05 &middot; Oxford, England
+#### 1842-02-05 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -305,7 +305,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Jackson's Oxford Journal_
 
-#### 1842-02-05 &middot; Oxford, England
+#### 1842-02-05 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -315,7 +315,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-02-05 &middot; Manchester, England
+#### 1842-02-05 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -325,7 +325,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-02-11 &middot; Liverpool, England
+#### 1842-02-11 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -335,7 +335,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-02-12 &middot; Manchester, England
+#### 1842-02-12 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -345,7 +345,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-02-12 &middot; Manchester, England
+#### 1842-02-12 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -355,7 +355,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-02-12 &middot; Preston, England
+#### 1842-02-12 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -365,7 +365,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-02-19 &middot; Manchester, England
+#### 1842-02-19 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -375,7 +375,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-02-25 &middot; Liverpool, England
+#### 1842-02-25 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -385,7 +385,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-02-26 &middot; Preston, England
+#### 1842-02-26 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -395,7 +395,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-03-04 &middot; Liverpool, England
+#### 1842-03-04 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -405,7 +405,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-03-19 &middot; Preston, England
+#### 1842-03-19 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -415,7 +415,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-03-19 &middot; Preston, England
+#### 1842-03-19 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -425,7 +425,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-03-26 &middot; Bristol, England
+#### 1842-03-26 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -435,7 +435,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Jackson's Oxford Journal_
 
-#### 1842-03-26 &middot; Oxford, England
+#### 1842-03-26 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -445,7 +445,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-03-26 &middot; Manchester, England
+#### 1842-03-26 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -455,7 +455,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-04-02 &middot; Bristol, England
+#### 1842-04-02 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -465,7 +465,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-04-02 &middot; Preston, England
+#### 1842-04-02 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -475,7 +475,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-04-08 &middot; Liverpool, England
+#### 1842-04-08 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -485,7 +485,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-04-09 &middot; Bristol, England
+#### 1842-04-09 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -495,7 +495,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-04-09 &middot; Bristol, England
+#### 1842-04-09 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -505,7 +505,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-04-09 &middot; Bristol, England
+#### 1842-04-09 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -515,7 +515,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-04-09 &middot; Manchester, England
+#### 1842-04-09 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -525,7 +525,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-04-09 &middot; Manchester, England
+#### 1842-04-09 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -535,7 +535,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-04-16 &middot; Manchester, England
+#### 1842-04-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -545,7 +545,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-04-16 &middot; Manchester, England
+#### 1842-04-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -555,7 +555,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-04-16 &middot; Manchester, England
+#### 1842-04-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -565,7 +565,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-04-16 &middot; Preston, England
+#### 1842-04-16 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -575,7 +575,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-04-16 &middot; Preston, England
+#### 1842-04-16 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -585,7 +585,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-04-23 &middot; Bristol, England
+#### 1842-04-23 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -595,7 +595,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-04-23 &middot; Bristol, England
+#### 1842-04-23 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -605,7 +605,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-04-23 &middot; Bristol, England
+#### 1842-04-23 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -615,7 +615,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-04-23 &middot; Manchester, England
+#### 1842-04-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -625,7 +625,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-04-23 &middot; Manchester, England
+#### 1842-04-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -635,7 +635,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-04-23 &middot; Manchester, England
+#### 1842-04-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -645,7 +645,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-04-29 &middot; Liverpool, England
+#### 1842-04-29 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -655,7 +655,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-04-30 &middot; Manchester, England
+#### 1842-04-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -665,7 +665,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-04-30 &middot; Manchester, England
+#### 1842-04-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -675,7 +675,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-04-30 &middot; Manchester, England
+#### 1842-04-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -685,7 +685,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-05-07 &middot; Manchester, England
+#### 1842-05-07 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -695,7 +695,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-05-07 &middot; Preston, England
+#### 1842-05-07 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -705,7 +705,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-05-13 &middot; Liverpool, England
+#### 1842-05-13 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -715,7 +715,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-05-13 &middot; Liverpool, England
+#### 1842-05-13 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -725,7 +725,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-05-14 &middot; Bristol, England
+#### 1842-05-14 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -735,7 +735,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-05-14 &middot; Bristol, England
+#### 1842-05-14 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -745,7 +745,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-05-14 &middot; Manchester, England
+#### 1842-05-14 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -755,7 +755,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-05-14 &middot; Manchester, England
+#### 1842-05-14 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -765,7 +765,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-05-14 &middot; Manchester, England
+#### 1842-05-14 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -775,7 +775,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-05-14 &middot; Preston, England
+#### 1842-05-14 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -785,7 +785,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-05-21 &middot; Manchester, England
+#### 1842-05-21 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -795,7 +795,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-05-21 &middot; Manchester, England
+#### 1842-05-21 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -805,7 +805,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-05-21 &middot; Preston, England
+#### 1842-05-21 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -815,7 +815,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-05-28 &middot; Manchester, England
+#### 1842-05-28 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -825,7 +825,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-05-28 &middot; Preston, England
+#### 1842-05-28 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -835,7 +835,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-05-28 &middot; Preston, England
+#### 1842-05-28 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -845,7 +845,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-06-03 &middot; Liverpool, England
+#### 1842-06-03 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -855,7 +855,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-06-04 &middot; Bristol, England
+#### 1842-06-04 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -865,7 +865,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-06-04 &middot; Bristol, England
+#### 1842-06-04 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -875,7 +875,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-06-04 &middot; Bristol, England
+#### 1842-06-04 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -885,7 +885,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-06-04 &middot; Manchester, England
+#### 1842-06-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -895,7 +895,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-06-04 &middot; Manchester, England
+#### 1842-06-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -905,7 +905,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-06-04 &middot; Manchester, England
+#### 1842-06-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -915,7 +915,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-06-04 &middot; Preston, England
+#### 1842-06-04 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -925,7 +925,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-06-04 &middot; Preston, England
+#### 1842-06-04 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -935,7 +935,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-06-10 &middot; Liverpool, England
+#### 1842-06-10 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -945,7 +945,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-06-10 &middot; Liverpool, England
+#### 1842-06-10 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -955,7 +955,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-06-11 &middot; Bristol, England
+#### 1842-06-11 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -965,7 +965,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-06-11 &middot; Bristol, England
+#### 1842-06-11 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -975,7 +975,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-06-11 &middot; Manchester, England
+#### 1842-06-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -985,7 +985,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-06-11 &middot; Manchester, England
+#### 1842-06-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -995,7 +995,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-06-11 &middot; Manchester, England
+#### 1842-06-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1005,7 +1005,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-06-11 &middot; Manchester, England
+#### 1842-06-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1015,7 +1015,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-06-11 &middot; Preston, England
+#### 1842-06-11 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1025,7 +1025,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-06-18 &middot; Bristol, England
+#### 1842-06-18 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1035,7 +1035,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-06-18 &middot; Bristol, England
+#### 1842-06-18 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1045,7 +1045,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-06-18 &middot; Manchester, England
+#### 1842-06-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1055,7 +1055,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-06-18 &middot; Manchester, England
+#### 1842-06-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1065,7 +1065,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-06-18 &middot; Preston, England
+#### 1842-06-18 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1075,7 +1075,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-06-24 &middot; Liverpool, England
+#### 1842-06-24 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1085,7 +1085,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-06-25 &middot; Preston, England
+#### 1842-06-25 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1095,7 +1095,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-06-25 &middot; Preston, England
+#### 1842-06-25 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1105,7 +1105,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-07-01 &middot; Liverpool, England
+#### 1842-07-01 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1115,7 +1115,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-07-01 &middot; Liverpool, England
+#### 1842-07-01 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1125,7 +1125,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-02 &middot; Manchester, England
+#### 1842-07-02 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1135,7 +1135,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-02 &middot; Manchester, England
+#### 1842-07-02 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1145,7 +1145,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-02 &middot; Manchester, England
+#### 1842-07-02 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1155,7 +1155,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-02 &middot; Manchester, England
+#### 1842-07-02 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1165,7 +1165,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-07-02 &middot; Preston, England
+#### 1842-07-02 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1175,7 +1175,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-07-08 &middot; Liverpool, England
+#### 1842-07-08 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1185,7 +1185,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-07-08 &middot; Liverpool, England
+#### 1842-07-08 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1195,7 +1195,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-09 &middot; Manchester, England
+#### 1842-07-09 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1205,7 +1205,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-09 &middot; Manchester, England
+#### 1842-07-09 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1215,7 +1215,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-07-09 &middot; Preston, England
+#### 1842-07-09 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1225,7 +1225,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-07-09 &middot; Preston, England
+#### 1842-07-09 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1235,7 +1235,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-16 &middot; Manchester, England
+#### 1842-07-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1245,7 +1245,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-16 &middot; Manchester, England
+#### 1842-07-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1255,7 +1255,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-16 &middot; Manchester, England
+#### 1842-07-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1265,7 +1265,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-07-16 &middot; Preston, England
+#### 1842-07-16 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1275,7 +1275,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-07-22 &middot; Liverpool, England
+#### 1842-07-22 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1285,7 +1285,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-07-22 &middot; Liverpool, England
+#### 1842-07-22 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1295,7 +1295,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-23 &middot; Manchester, England
+#### 1842-07-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1305,7 +1305,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-23 &middot; Manchester, England
+#### 1842-07-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1315,7 +1315,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-23 &middot; Manchester, England
+#### 1842-07-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1325,7 +1325,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-07-23 &middot; Preston, England
+#### 1842-07-23 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1335,7 +1335,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-07-29 &middot; Liverpool, England
+#### 1842-07-29 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1345,7 +1345,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-07-30 &middot; Bristol, England
+#### 1842-07-30 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1355,7 +1355,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-07-30 &middot; Bristol, England
+#### 1842-07-30 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1365,7 +1365,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-07-30 &middot; Bristol, England
+#### 1842-07-30 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1375,7 +1375,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-30 &middot; Manchester, England
+#### 1842-07-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1385,7 +1385,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-07-30 &middot; Manchester, England
+#### 1842-07-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1395,7 +1395,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-07-30 &middot; Preston, England
+#### 1842-07-30 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1405,7 +1405,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-07-30 &middot; Preston, England
+#### 1842-07-30 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1415,7 +1415,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-08-06 &middot; Bristol, England
+#### 1842-08-06 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1425,7 +1425,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-08-06 &middot; Bristol, England
+#### 1842-08-06 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1435,7 +1435,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-08-06 &middot; Bristol, England
+#### 1842-08-06 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1445,7 +1445,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-08-06 &middot; Manchester, England
+#### 1842-08-06 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1455,7 +1455,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-08-06 &middot; Manchester, England
+#### 1842-08-06 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1465,7 +1465,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-08-06 &middot; Manchester, England
+#### 1842-08-06 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1475,7 +1475,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-08-06 &middot; Preston, England
+#### 1842-08-06 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1485,7 +1485,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-08-13 &middot; Bristol, England
+#### 1842-08-13 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1495,7 +1495,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-08-13 &middot; Bristol, England
+#### 1842-08-13 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1505,7 +1505,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-08-13 &middot; Manchester, England
+#### 1842-08-13 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1515,7 +1515,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-08-13 &middot; Manchester, England
+#### 1842-08-13 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1525,7 +1525,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-08-13 &middot; Manchester, England
+#### 1842-08-13 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1535,7 +1535,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-08-13 &middot; Preston, England
+#### 1842-08-13 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1545,7 +1545,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-08-13 &middot; Preston, England
+#### 1842-08-13 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1555,7 +1555,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-08-19 &middot; Liverpool, England
+#### 1842-08-19 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1565,7 +1565,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-08-19 &middot; Liverpool, England
+#### 1842-08-19 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1575,7 +1575,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-08-20 &middot; Bristol, England
+#### 1842-08-20 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1585,7 +1585,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-08-20 &middot; Bristol, England
+#### 1842-08-20 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1595,7 +1595,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-08-20 &middot; Bristol, England
+#### 1842-08-20 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1605,7 +1605,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-08-20 &middot; Preston, England
+#### 1842-08-20 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1615,7 +1615,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-08-20 &middot; Preston, England
+#### 1842-08-20 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1625,7 +1625,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Liverpool Mercury_
 
-#### 1842-08-26 &middot; Liverpool, England
+#### 1842-08-26 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1635,7 +1635,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-08-27 &middot; Bristol, England
+#### 1842-08-27 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1645,7 +1645,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-08-27 &middot; Bristol, England
+#### 1842-08-27 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1655,7 +1655,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-08-27 &middot; Manchester, England
+#### 1842-08-27 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1665,7 +1665,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-08-27 &middot; Manchester, England
+#### 1842-08-27 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1675,7 +1675,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-09-03 &middot; Bristol, England
+#### 1842-09-03 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1685,7 +1685,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-09-03 &middot; Bristol, England
+#### 1842-09-03 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1695,7 +1695,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-09-03 &middot; Bristol, England
+#### 1842-09-03 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1705,7 +1705,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-09-03 &middot; Manchester, England
+#### 1842-09-03 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1715,7 +1715,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-09-10 &middot; Manchester, England
+#### 1842-09-10 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1725,7 +1725,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-09-10 &middot; Manchester, England
+#### 1842-09-10 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1735,7 +1735,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-09-10 &middot; Manchester, England
+#### 1842-09-10 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1745,7 +1745,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-09-17 &middot; Bristol, England
+#### 1842-09-17 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1755,7 +1755,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-09-17 &middot; Bristol, England
+#### 1842-09-17 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1765,7 +1765,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Bristol Mercury_
 
-#### 1842-09-17 &middot; Bristol, England
+#### 1842-09-17 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1775,7 +1775,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-09-17 &middot; Manchester, England
+#### 1842-09-17 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1785,7 +1785,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-09-17 &middot; Preston, England
+#### 1842-09-17 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1795,7 +1795,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-09-17 &middot; Preston, England
+#### 1842-09-17 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1805,7 +1805,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-09-24 &middot; Manchester, England
+#### 1842-09-24 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1815,7 +1815,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-09-24 &middot; Manchester, England
+#### 1842-09-24 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1825,7 +1825,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-09-24 &middot; Manchester, England
+#### 1842-09-24 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1835,7 +1835,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-09-24 &middot; Preston, England
+#### 1842-09-24 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1845,7 +1845,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-09-24 &middot; Preston, England
+#### 1842-09-24 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1855,7 +1855,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-10-01 &middot; Manchester, England
+#### 1842-10-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1865,7 +1865,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-10-01 &middot; Manchester, England
+#### 1842-10-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1875,7 +1875,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-10-01 &middot; Manchester, England
+#### 1842-10-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1885,7 +1885,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-10-01 &middot; Preston, England
+#### 1842-10-01 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1895,7 +1895,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-10-01 &middot; Preston, England
+#### 1842-10-01 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1905,7 +1905,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-10-08 &middot; Manchester, England
+#### 1842-10-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1915,7 +1915,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-10-08 &middot; Manchester, England
+#### 1842-10-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1925,7 +1925,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-10-08 &middot; Manchester, England
+#### 1842-10-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1935,7 +1935,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-10-08 &middot; Preston, England
+#### 1842-10-08 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1945,7 +1945,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-10-15 &middot; Manchester, England
+#### 1842-10-15 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1955,7 +1955,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-10-15 &middot; Preston, England
+#### 1842-10-15 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1965,7 +1965,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-10-15 &middot; Preston, England
+#### 1842-10-15 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1975,7 +1975,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-10-22 &middot; Preston, England
+#### 1842-10-22 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1985,7 +1985,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-10-22 &middot; Preston, England
+#### 1842-10-22 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1995,7 +1995,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-10-29 &middot; Preston, England
+#### 1842-10-29 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2005,7 +2005,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-11-05 &middot; Manchester, England
+#### 1842-11-05 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2015,7 +2015,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-11-05 &middot; Preston, England
+#### 1842-11-05 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2025,7 +2025,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-11-12 &middot; Manchester, England
+#### 1842-11-12 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2035,7 +2035,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-11-12 &middot; Manchester, England
+#### 1842-11-12 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2045,7 +2045,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-11-12 &middot; Preston, England
+#### 1842-11-12 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2055,7 +2055,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-11-19 &middot; Manchester, England
+#### 1842-11-19 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2065,7 +2065,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1842-11-19 &middot; Preston, England
+#### 1842-11-19 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2075,7 +2075,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-11-26 &middot; Manchester, England
+#### 1842-11-26 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2085,7 +2085,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-12-03 &middot; Manchester, England
+#### 1842-12-03 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2095,7 +2095,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-12-24 &middot; Manchester, England
+#### 1842-12-24 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2105,7 +2105,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-12-24 &middot; Manchester, England
+#### 1842-12-24 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2115,7 +2115,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1842-12-31 &middot; Manchester, England
+#### 1842-12-31 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2125,7 +2125,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-01-07 &middot; Manchester, England
+#### 1843-01-07 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2135,7 +2135,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-01-07 &middot; Manchester, England
+#### 1843-01-07 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2145,7 +2145,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-01-28 &middot; Manchester, England
+#### 1843-01-28 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2155,7 +2155,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-01-28 &middot; Manchester, England
+#### 1843-01-28 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2165,7 +2165,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1843-01-28 &middot; Preston, England
+#### 1843-01-28 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2175,7 +2175,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-02-04 &middot; Manchester, England
+#### 1843-02-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2185,7 +2185,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-02-11 &middot; Manchester, England
+#### 1843-02-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2195,7 +2195,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1843-02-11 &middot; Preston, England
+#### 1843-02-11 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2205,7 +2205,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-02-18 &middot; Manchester, England
+#### 1843-02-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2215,7 +2215,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-02-18 &middot; Manchester, England
+#### 1843-02-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2225,7 +2225,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-02-18 &middot; Manchester, England
+#### 1843-02-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2235,7 +2235,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1843-02-18 &middot; Preston, England
+#### 1843-02-18 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2245,7 +2245,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-02-25 &middot; Manchester, England
+#### 1843-02-25 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2255,7 +2255,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-02-25 &middot; Manchester, England
+#### 1843-02-25 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2265,7 +2265,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1843-02-25 &middot; Preston, England
+#### 1843-02-25 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2275,7 +2275,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1843-02-25 &middot; Preston, England
+#### 1843-02-25 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2285,7 +2285,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-03-04 &middot; Manchester, England
+#### 1843-03-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2295,7 +2295,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Manchester Times_
 
-#### 1843-03-04 &middot; Manchester, England
+#### 1843-03-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2305,7 +2305,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 #### From _Preston Chronicle_
 
-#### 1843-03-04 &middot; Preston, England
+#### 1843-03-04 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2313,7 +2313,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 ## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-04_16_766?page=21)
 
-#### 1843-03-04
+#### 1843-03-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2347,7 +2347,7 @@ the subject in a very scientific and intelligible manner.
 
 #### From _Manchester Times_
 
-#### 1843-03-11 &middot; Manchester, England
+#### 1843-03-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2357,7 +2357,7 @@ the subject in a very scientific and intelligible manner.
 
 #### From _Manchester Times_
 
-#### 1843-03-11 &middot; Manchester, England
+#### 1843-03-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2367,7 +2367,7 @@ the subject in a very scientific and intelligible manner.
 
 #### From _Preston Chronicle_
 
-#### 1843-03-11 &middot; Preston, England
+#### 1843-03-11 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2377,7 +2377,7 @@ the subject in a very scientific and intelligible manner.
 
 #### From _Preston Chronicle_
 
-#### 1843-03-11 &middot; Preston, England
+#### 1843-03-11 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2387,7 +2387,7 @@ the subject in a very scientific and intelligible manner.
 
 #### From _Manchester Times_
 
-#### 1843-03-18 &middot; Manchester, England
+#### 1843-03-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2397,7 +2397,7 @@ the subject in a very scientific and intelligible manner.
 
 #### From _Manchester Times_
 
-#### 1843-03-18 &middot; Manchester, England
+#### 1843-03-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2407,7 +2407,7 @@ the subject in a very scientific and intelligible manner.
 
 #### From _Preston Chronicle_
 
-#### 1843-03-18 &middot; Preston, England
+#### 1843-03-18 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2417,7 +2417,7 @@ the subject in a very scientific and intelligible manner.
 
 #### From _Preston Chronicle_
 
-#### 1843-03-18 &middot; Preston, England
+#### 1843-03-18 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2425,7 +2425,7 @@ the subject in a very scientific and intelligible manner.
 
 ## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-18_16_768?page=22)
 
-#### 1843-03-18
+#### 1843-03-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2457,7 +2457,7 @@ or premature decay. Mr. La&#x27;Mert, who is a a
 
 #### From _Manchester Times_
 
-#### 1843-03-25 &middot; Manchester, England
+#### 1843-03-25 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2467,7 +2467,7 @@ or premature decay. Mr. La&#x27;Mert, who is a a
 
 #### From _Preston Chronicle_
 
-#### 1843-03-25 &middot; Preston, England
+#### 1843-03-25 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2477,7 +2477,7 @@ or premature decay. Mr. La&#x27;Mert, who is a a
 
 #### From _Manchester Times_
 
-#### 1843-04-01 &middot; Manchester, England
+#### 1843-04-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2487,7 +2487,7 @@ or premature decay. Mr. La&#x27;Mert, who is a a
 
 #### From _Morning Chronicle_
 
-#### 1843-04-08 &middot; London, England
+#### 1843-04-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -2497,7 +2497,7 @@ or premature decay. Mr. La&#x27;Mert, who is a a
 
 #### From _Manchester Times_
 
-#### 1843-04-08 &middot; Manchester, England
+#### 1843-04-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2507,7 +2507,7 @@ or premature decay. Mr. La&#x27;Mert, who is a a
 
 #### From _Manchester Times_
 
-#### 1843-04-08 &middot; Manchester, England
+#### 1843-04-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2515,7 +2515,7 @@ or premature decay. Mr. La&#x27;Mert, who is a a
 
 ## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-04-29_16_774?page=21)
 
-#### 1843-04-29
+#### 1843-04-29 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2556,7 +2556,7 @@ aud alleviate.’— Wakefield Journal
 
 #### From _Manchester Times_
 
-#### 1843-05-06 &middot; Manchester, England
+#### 1843-05-06 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2566,7 +2566,7 @@ aud alleviate.’— Wakefield Journal
 
 #### From _Morning Chronicle_
 
-#### 1843-05-09 &middot; London, England
+#### 1843-05-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -2576,7 +2576,7 @@ aud alleviate.’— Wakefield Journal
 
 #### From _Manchester Times_
 
-#### 1843-05-13 &middot; Manchester, England
+#### 1843-05-13 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2584,7 +2584,7 @@ aud alleviate.’— Wakefield Journal
 
 ## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-13_16_776?page=22)
 
-#### 1843-05-13
+#### 1843-05-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2610,7 +2610,7 @@ and alleviate. Wakefield Journal,
 
 #### From _Morning Chronicle_
 
-#### 1843-05-16 &middot; London, England
+#### 1843-05-16 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -2618,7 +2618,7 @@ and alleviate. Wakefield Journal,
 
 ## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-20_16_777?page=22)
 
-#### 1843-05-20
+#### 1843-05-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2658,7 +2658,7 @@ aud alleviate.’— Vahkefield Journal.
 
 ## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-03_16_779?page=22)
 
-#### 1843-06-03
+#### 1843-06-03 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2694,7 +2694,7 @@ aud alleviate.’— Waketield Journal.
 
 ## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-17_16_781?page=22)
 
-#### 1843-06-17
+#### 1843-06-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2731,7 +2731,7 @@ aud alleviate.’— Waketield Journal.
 
 ## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-07-29_16_787?page=21)
 
-#### 1843-07-29
+#### 1843-07-29 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2754,7 +2754,7 @@ alleviate.”—WakeFIELD JOURNAL,
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1843-09-09_1_2?page=15)
 
-#### 1843-09-09
+#### 1843-09-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2778,7 +2778,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-09-23 &middot; Manchester, England
+#### 1843-09-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2788,7 +2788,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-09-23 &middot; Manchester, England
+#### 1843-09-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2798,7 +2798,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-09-30 &middot; Manchester, England
+#### 1843-09-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2808,7 +2808,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-09-30 &middot; Manchester, England
+#### 1843-09-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2818,7 +2818,7 @@ Booksellers.
 
 #### From _The Era_
 
-#### 1843-10-01 &middot; London, England
+#### 1843-10-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -2828,7 +2828,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-10-07 &middot; Manchester, England
+#### 1843-10-07 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2838,7 +2838,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-10-07 &middot; Manchester, England
+#### 1843-10-07 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2848,7 +2848,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-10-14 &middot; Manchester, England
+#### 1843-10-14 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2858,7 +2858,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-10-28 &middot; Manchester, England
+#### 1843-10-28 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2868,7 +2868,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-10-28 &middot; Manchester, England
+#### 1843-10-28 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2878,7 +2878,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-11-04 &middot; Manchester, England
+#### 1843-11-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2888,7 +2888,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-11-04 &middot; Manchester, England
+#### 1843-11-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2898,7 +2898,7 @@ Booksellers.
 
 #### From _Preston Chronicle_
 
-#### 1843-11-04 &middot; Preston, England
+#### 1843-11-04 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -2908,7 +2908,7 @@ Booksellers.
 
 #### From _The Ohio statesman._
 
-#### 1843-11-08 &middot; Columbus, Ohio
+#### 1843-11-08 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -2918,7 +2918,7 @@ Booksellers.
 
 #### From _The Ohio statesman._
 
-#### 1843-11-08 &middot; Columbus, Ohio
+#### 1843-11-08 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -2928,7 +2928,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-11-11 &middot; Manchester, England
+#### 1843-11-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2938,7 +2938,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-11-11 &middot; Manchester, England
+#### 1843-11-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2948,7 +2948,7 @@ Booksellers.
 
 #### From _The Ohio statesman._
 
-#### 1843-11-15 &middot; Columbus, Ohio
+#### 1843-11-15 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -2958,7 +2958,7 @@ Booksellers.
 
 #### From _The Ohio statesman._
 
-#### 1843-11-15 &middot; Columbus, Ohio
+#### 1843-11-15 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -2968,7 +2968,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-11-18 &middot; Manchester, England
+#### 1843-11-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2978,7 +2978,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-11-18 &middot; Manchester, England
+#### 1843-11-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2988,7 +2988,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-11-18 &middot; Manchester, England
+#### 1843-11-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2998,7 +2998,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-11-25 &middot; Manchester, England
+#### 1843-11-25 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3008,7 +3008,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-12-02 &middot; Manchester, England
+#### 1843-12-02 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3018,7 +3018,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-12-09 &middot; Manchester, England
+#### 1843-12-09 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3028,7 +3028,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-12-16 &middot; Manchester, England
+#### 1843-12-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3038,7 +3038,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-12-16 &middot; Manchester, England
+#### 1843-12-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3048,7 +3048,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-12-23 &middot; Manchester, England
+#### 1843-12-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3058,7 +3058,7 @@ Booksellers.
 
 #### From _Preston Chronicle_
 
-#### 1843-12-23 &middot; Preston, England
+#### 1843-12-23 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3068,7 +3068,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1843-12-30 &middot; Manchester, England
+#### 1843-12-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3078,7 +3078,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1844-01-06 &middot; Manchester, England
+#### 1844-01-06 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3088,7 +3088,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1844-01-06 &middot; Manchester, England
+#### 1844-01-06 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3098,7 +3098,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1844-01-20 &middot; Manchester, England
+#### 1844-01-20 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3108,7 +3108,7 @@ Booksellers.
 
 #### From _Manchester Times_
 
-#### 1844-02-03 &middot; Manchester, England
+#### 1844-02-03 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3118,7 +3118,7 @@ Booksellers.
 
 #### From _Preston Chronicle_
 
-#### 1844-02-10 &middot; Preston, England
+#### 1844-02-10 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3128,7 +3128,7 @@ Booksellers.
 
 #### From _Freeman's Journal_
 
-#### 1844-02-13 &middot; Dublin, Ireland
+#### 1844-02-13 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3138,7 +3138,7 @@ Booksellers.
 
 #### From _Freeman's Journal_
 
-#### 1844-02-13 &middot; Dublin, Ireland
+#### 1844-02-13 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3148,7 +3148,7 @@ Booksellers.
 
 #### From _Freeman's Journal_
 
-#### 1844-02-15 &middot; Dublin, Ireland
+#### 1844-02-15 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3158,7 +3158,7 @@ Booksellers.
 
 #### From _Freeman's Journal_
 
-#### 1844-02-15 &middot; Dublin, Ireland
+#### 1844-02-15 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3166,7 +3166,7 @@ Booksellers.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25?page=22)
 
-#### 1844-02-17
+#### 1844-02-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3190,7 +3190,7 @@ vince to portray and alleviate.”— Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-02-22 &middot; Dublin, Ireland
+#### 1844-02-22 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3200,7 +3200,7 @@ vince to portray and alleviate.”— Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-02-22 &middot; Dublin, Ireland
+#### 1844-02-22 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3208,7 +3208,7 @@ vince to portray and alleviate.”— Wakefield Journal.
 
 ## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882?page=13)
 
-#### 1844-02-24
+#### 1844-02-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3232,7 +3232,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-02-27 &middot; Dublin, Ireland
+#### 1844-02-27 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3242,7 +3242,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-02-27 &middot; Dublin, Ireland
+#### 1844-02-27 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3252,7 +3252,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-02-29 &middot; Dublin, Ireland
+#### 1844-02-29 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3262,7 +3262,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-02-29 &middot; Dublin, Ireland
+#### 1844-02-29 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3272,7 +3272,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-05 &middot; Dublin, Ireland
+#### 1844-03-05 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3282,7 +3282,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-05 &middot; Dublin, Ireland
+#### 1844-03-05 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3292,7 +3292,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-07 &middot; Dublin, Ireland
+#### 1844-03-07 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3302,7 +3302,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-07 &middot; Dublin, Ireland
+#### 1844-03-07 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3312,7 +3312,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-03-10 &middot; London, England
+#### 1844-03-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3322,7 +3322,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-12 &middot; Dublin, Ireland
+#### 1844-03-12 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3332,7 +3332,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-12 &middot; Dublin, Ireland
+#### 1844-03-12 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3342,7 +3342,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-14 &middot; Dublin, Ireland
+#### 1844-03-14 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3352,7 +3352,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-14 &middot; Dublin, Ireland
+#### 1844-03-14 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3362,7 +3362,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Manchester Times_
 
-#### 1844-03-16 &middot; Manchester, England
+#### 1844-03-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3372,7 +3372,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Manchester Times_
 
-#### 1844-03-16 &middot; Manchester, England
+#### 1844-03-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3382,7 +3382,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-19 &middot; Dublin, Ireland
+#### 1844-03-19 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3392,7 +3392,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-19 &middot; Dublin, Ireland
+#### 1844-03-19 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3402,7 +3402,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-21 &middot; Dublin, Ireland
+#### 1844-03-21 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3412,7 +3412,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Freeman's Journal_
 
-#### 1844-03-21 &middot; Dublin, Ireland
+#### 1844-03-21 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3422,7 +3422,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Manchester Times_
 
-#### 1844-03-23 &middot; Manchester, England
+#### 1844-03-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3432,7 +3432,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-03-24 &middot; London, England
+#### 1844-03-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3442,7 +3442,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 #### From _Preston Chronicle_
 
-#### 1844-03-30 &middot; Preston, England
+#### 1844-03-30 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3474,7 +3474,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-04-14 &middot; London, England
+#### 1844-04-14 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3484,7 +3484,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-04-20 &middot; Manchester, England
+#### 1844-04-20 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3494,7 +3494,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-04-20 &middot; Preston, England
+#### 1844-04-20 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3504,7 +3504,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-04-28 &middot; London, England
+#### 1844-04-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3514,7 +3514,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-05-04 &middot; Manchester, England
+#### 1844-05-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3524,7 +3524,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-05-11 &middot; Manchester, England
+#### 1844-05-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3534,7 +3534,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-05-11 &middot; Manchester, England
+#### 1844-05-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3544,7 +3544,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-05-12 &middot; London, England
+#### 1844-05-12 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3554,7 +3554,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-05-19 &middot; London, England
+#### 1844-05-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3564,7 +3564,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-05-25 &middot; Manchester, England
+#### 1844-05-25 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3574,7 +3574,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-05-25 &middot; Manchester, England
+#### 1844-05-25 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3584,7 +3584,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-06-01 &middot; Manchester, England
+#### 1844-06-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3594,7 +3594,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-06-01 &middot; Manchester, England
+#### 1844-06-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3604,7 +3604,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-06-02 &middot; London, England
+#### 1844-06-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3614,7 +3614,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-06-08 &middot; Manchester, England
+#### 1844-06-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3624,7 +3624,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-06-08 &middot; Manchester, England
+#### 1844-06-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3634,7 +3634,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-06-23 &middot; London, England
+#### 1844-06-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3644,7 +3644,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-06-29 &middot; Manchester, England
+#### 1844-06-29 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3675,7 +3675,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-07-07 &middot; London, England
+#### 1844-07-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3685,7 +3685,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-07-20 &middot; Preston, England
+#### 1844-07-20 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3695,7 +3695,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-07-21 &middot; London, England
+#### 1844-07-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3705,7 +3705,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-07-21 &middot; London, England
+#### 1844-07-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3715,7 +3715,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Bristol Mercury_
 
-#### 1844-07-27 &middot; Bristol, England
+#### 1844-07-27 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -3725,7 +3725,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-07-27 &middot; Preston, England
+#### 1844-07-27 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3735,7 +3735,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-08-03 &middot; Preston, England
+#### 1844-08-03 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3745,7 +3745,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-08-03 &middot; Preston, England
+#### 1844-08-03 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3755,7 +3755,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-08-11 &middot; London, England
+#### 1844-08-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3765,7 +3765,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-08-17 &middot; Preston, England
+#### 1844-08-17 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3775,7 +3775,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-08-18 &middot; London, England
+#### 1844-08-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3785,7 +3785,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-08-25 &middot; London, England
+#### 1844-08-25 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3795,7 +3795,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-09-01 &middot; London, England
+#### 1844-09-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3805,7 +3805,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-09-08 &middot; London, England
+#### 1844-09-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3815,7 +3815,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-09-14 &middot; Manchester, England
+#### 1844-09-14 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3825,7 +3825,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-09-15 &middot; London, England
+#### 1844-09-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3835,7 +3835,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-09-21 &middot; Preston, England
+#### 1844-09-21 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3845,7 +3845,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-09-21 &middot; Preston, England
+#### 1844-09-21 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3855,7 +3855,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-09-22 &middot; London, England
+#### 1844-09-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3865,7 +3865,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-09-28 &middot; Preston, England
+#### 1844-09-28 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3875,7 +3875,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-09-29 &middot; London, England
+#### 1844-09-29 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3885,7 +3885,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-10-03 &middot; Exeter, England
+#### 1844-10-03 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -3895,7 +3895,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-10-03 &middot; Exeter, England
+#### 1844-10-03 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -3905,7 +3905,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-10-05 &middot; Preston, England
+#### 1844-10-05 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3915,7 +3915,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-10-05 &middot; Preston, England
+#### 1844-10-05 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3925,7 +3925,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _The Era_
 
-#### 1844-10-06 &middot; London, England
+#### 1844-10-06 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -3935,7 +3935,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Jackson's Oxford Journal_
 
-#### 1844-10-12 &middot; Oxford, England
+#### 1844-10-12 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -3945,7 +3945,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-10-12 &middot; Manchester, England
+#### 1844-10-12 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3955,7 +3955,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-10-12 &middot; Preston, England
+#### 1844-10-12 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3965,7 +3965,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Preston Chronicle_
 
-#### 1844-10-12 &middot; Preston, England
+#### 1844-10-12 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -3975,7 +3975,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 #### From _Manchester Times_
 
-#### 1844-10-19 &middot; Manchester, England
+#### 1844-10-19 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3983,7 +3983,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60?page=22)
 
-#### 1844-10-19
+#### 1844-10-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4009,7 +4009,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-10-20 &middot; London, England
+#### 1844-10-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4019,7 +4019,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-10-20 &middot; London, England
+#### 1844-10-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4027,7 +4027,7 @@ and alleviate.”— Wakefield Journal.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=21)
 
-#### 1844-10-26
+#### 1844-10-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4053,7 +4053,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-10-27 &middot; London, England
+#### 1844-10-27 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4063,7 +4063,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-10-27 &middot; London, England
+#### 1844-10-27 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4073,7 +4073,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-10-31 &middot; Exeter, England
+#### 1844-10-31 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4083,7 +4083,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Preston Chronicle_
 
-#### 1844-11-02 &middot; Preston, England
+#### 1844-11-02 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4093,7 +4093,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Preston Chronicle_
 
-#### 1844-11-02 &middot; Preston, England
+#### 1844-11-02 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4103,7 +4103,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-11-03 &middot; London, England
+#### 1844-11-03 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4113,7 +4113,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-11-03 &middot; London, England
+#### 1844-11-03 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4123,7 +4123,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-11-07 &middot; Exeter, England
+#### 1844-11-07 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4133,7 +4133,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-11-10 &middot; London, England
+#### 1844-11-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4143,7 +4143,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-11-10 &middot; London, England
+#### 1844-11-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4153,7 +4153,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Preston Chronicle_
 
-#### 1844-11-16 &middot; Preston, England
+#### 1844-11-16 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4163,7 +4163,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-11-21 &middot; Exeter, England
+#### 1844-11-21 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4173,7 +4173,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Manchester Times_
 
-#### 1844-11-23 &middot; Manchester, England
+#### 1844-11-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4183,7 +4183,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Manchester Times_
 
-#### 1844-11-23 &middot; Manchester, England
+#### 1844-11-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4193,7 +4193,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Preston Chronicle_
 
-#### 1844-11-23 &middot; Preston, England
+#### 1844-11-23 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4203,7 +4203,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Preston Chronicle_
 
-#### 1844-11-23 &middot; Preston, England
+#### 1844-11-23 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4213,7 +4213,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-11-24 &middot; London, England
+#### 1844-11-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4223,7 +4223,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-11-28 &middot; Exeter, England
+#### 1844-11-28 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4233,7 +4233,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-11-28 &middot; Exeter, England
+#### 1844-11-28 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4243,7 +4243,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Manchester Times_
 
-#### 1844-11-30 &middot; Manchester, England
+#### 1844-11-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4253,7 +4253,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-12-01 &middot; London, England
+#### 1844-12-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4263,7 +4263,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-12-05 &middot; Exeter, England
+#### 1844-12-05 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4273,7 +4273,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-12-12 &middot; Exeter, England
+#### 1844-12-12 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4283,7 +4283,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1844-12-12 &middot; Exeter, England
+#### 1844-12-12 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4293,7 +4293,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-12-15 &middot; London, England
+#### 1844-12-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4303,7 +4303,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-12-15 &middot; London, England
+#### 1844-12-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4313,7 +4313,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-12-22 &middot; London, England
+#### 1844-12-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4323,7 +4323,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-12-22 &middot; London, England
+#### 1844-12-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4333,7 +4333,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-12-29 &middot; London, England
+#### 1844-12-29 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4343,7 +4343,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1844-12-29 &middot; London, England
+#### 1844-12-29 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4353,7 +4353,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-01-02 &middot; Exeter, England
+#### 1845-01-02 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4363,7 +4363,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-01-02 &middot; Exeter, England
+#### 1845-01-02 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4373,7 +4373,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1845-01-05 &middot; London, England
+#### 1845-01-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4383,7 +4383,7 @@ and alleviate.”— Wakefield Journal.
 
 #### From _The Era_
 
-#### 1845-01-05 &middot; London, England
+#### 1845-01-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4391,7 +4391,7 @@ and alleviate.”— Wakefield Journal.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1845-01-11_3_2?page=23)
 
-#### 1845-01-11
+#### 1845-01-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4422,7 +4422,7 @@ alleviate. Wakefield Journ
 
 #### From _The Era_
 
-#### 1845-01-12 &middot; London, England
+#### 1845-01-12 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4432,7 +4432,7 @@ alleviate. Wakefield Journ
 
 #### From _The Era_
 
-#### 1845-01-12 &middot; London, England
+#### 1845-01-12 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4442,7 +4442,7 @@ alleviate. Wakefield Journ
 
 #### From _Manchester Times_
 
-#### 1845-01-18 &middot; Manchester, England
+#### 1845-01-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4452,7 +4452,7 @@ alleviate. Wakefield Journ
 
 #### From _Preston Chronicle_
 
-#### 1845-01-18 &middot; Preston, England
+#### 1845-01-18 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4460,7 +4460,7 @@ alleviate. Wakefield Journ
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-01-18_15_491?page=3)
 
-#### 1845-01-18
+#### 1845-01-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4485,7 +4485,7 @@ consum: &amp;c.,with plai
 
 #### From _The Era_
 
-#### 1845-01-19 &middot; London, England
+#### 1845-01-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4495,7 +4495,7 @@ consum: &amp;c.,with plai
 
 #### From _The Era_
 
-#### 1845-01-19 &middot; London, England
+#### 1845-01-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4505,7 +4505,7 @@ consum: &amp;c.,with plai
 
 #### From _Preston Chronicle_
 
-#### 1845-01-25 &middot; Preston, England
+#### 1845-01-25 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4515,7 +4515,7 @@ consum: &amp;c.,with plai
 
 #### From _Preston Chronicle_
 
-#### 1845-01-25 &middot; Preston, England
+#### 1845-01-25 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4523,7 +4523,7 @@ consum: &amp;c.,with plai
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1845-01-25_3_4?page=22)
 
-#### 1845-01-25
+#### 1845-01-25 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4549,7 +4549,7 @@ alleviate.” — Wakefield Journal.
 
 #### From _The Era_
 
-#### 1845-01-26 &middot; London, England
+#### 1845-01-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4559,7 +4559,7 @@ alleviate.” — Wakefield Journal.
 
 #### From _The Era_
 
-#### 1845-01-26 &middot; London, England
+#### 1845-01-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4569,7 +4569,7 @@ alleviate.” — Wakefield Journal.
 
 #### From _Preston Chronicle_
 
-#### 1845-02-01 &middot; Preston, England
+#### 1845-02-01 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4577,7 +4577,7 @@ alleviate.” — Wakefield Journal.
 
 ## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1845-02-01_3_5?page=22)
 
-#### 1845-02-01
+#### 1845-02-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4610,7 +4610,7 @@ alleviate.”— Wakefield Journal.
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-02-01_15_493?page=3)
 
-#### 1845-02-01
+#### 1845-02-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4632,7 +4632,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _Manchester Times_
 
-#### 1845-02-08 &middot; Manchester, England
+#### 1845-02-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4642,7 +4642,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _Preston Chronicle_
 
-#### 1845-02-08 &middot; Preston, England
+#### 1845-02-08 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4652,7 +4652,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _Preston Chronicle_
 
-#### 1845-02-08 &middot; Preston, England
+#### 1845-02-08 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4662,7 +4662,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _The Era_
 
-#### 1845-02-09 &middot; London, England
+#### 1845-02-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4672,7 +4672,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _The Era_
 
-#### 1845-02-09 &middot; London, England
+#### 1845-02-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4682,7 +4682,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _Manchester Times_
 
-#### 1845-02-15 &middot; Manchester, England
+#### 1845-02-15 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4692,7 +4692,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _Manchester Times_
 
-#### 1845-02-22 &middot; Manchester, England
+#### 1845-02-22 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4702,7 +4702,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _Preston Chronicle_
 
-#### 1845-02-22 &middot; Preston, England
+#### 1845-02-22 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4712,7 +4712,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _The Era_
 
-#### 1845-02-23 &middot; London, England
+#### 1845-02-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4722,7 +4722,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _The Era_
 
-#### 1845-02-23 &middot; London, England
+#### 1845-02-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4732,7 +4732,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _Preston Chronicle_
 
-#### 1845-03-01 &middot; Preston, England
+#### 1845-03-01 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4742,7 +4742,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _The Era_
 
-#### 1845-03-02 &middot; London, England
+#### 1845-03-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4752,7 +4752,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _The Era_
 
-#### 1845-03-02 &middot; London, England
+#### 1845-03-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4762,7 +4762,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-03-06 &middot; Exeter, England
+#### 1845-03-06 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4772,7 +4772,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 #### From _Preston Chronicle_
 
-#### 1845-03-08 &middot; Preston, England
+#### 1845-03-08 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4780,7 +4780,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-03-08_15_498?page=3)
 
-#### 1845-03-08
+#### 1845-03-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4801,7 +4801,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-03-09 &middot; London, England
+#### 1845-03-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4811,7 +4811,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-03-13 &middot; Exeter, England
+#### 1845-03-13 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4821,7 +4821,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-03-13 &middot; Exeter, England
+#### 1845-03-13 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4831,7 +4831,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-03-15 &middot; Preston, England
+#### 1845-03-15 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4841,7 +4841,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-03-16 &middot; London, England
+#### 1845-03-16 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4851,7 +4851,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-03-20 &middot; Exeter, England
+#### 1845-03-20 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4861,7 +4861,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Manchester Times_
 
-#### 1845-03-22 &middot; Manchester, England
+#### 1845-03-22 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4871,7 +4871,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Manchester Times_
 
-#### 1845-03-22 &middot; Manchester, England
+#### 1845-03-22 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4881,7 +4881,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-03-22 &middot; Preston, England
+#### 1845-03-22 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4891,7 +4891,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-03-22 &middot; Preston, England
+#### 1845-03-22 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4901,7 +4901,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-03-23 &middot; London, England
+#### 1845-03-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4911,7 +4911,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-03-23 &middot; London, England
+#### 1845-03-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4921,7 +4921,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Manchester Times_
 
-#### 1845-03-29 &middot; Manchester, England
+#### 1845-03-29 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4931,7 +4931,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Manchester Times_
 
-#### 1845-03-29 &middot; Manchester, England
+#### 1845-03-29 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4941,7 +4941,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-03-29 &middot; Preston, England
+#### 1845-03-29 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4951,7 +4951,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-03-29 &middot; Preston, England
+#### 1845-03-29 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4961,7 +4961,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-03-30 &middot; London, England
+#### 1845-03-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4971,7 +4971,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-03-30 &middot; London, England
+#### 1845-03-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4981,7 +4981,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-04-05 &middot; Preston, England
+#### 1845-04-05 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -4991,7 +4991,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-04-05 &middot; Preston, England
+#### 1845-04-05 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5001,7 +5001,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-04-06 &middot; London, England
+#### 1845-04-06 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5011,7 +5011,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-04-10 &middot; Exeter, England
+#### 1845-04-10 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5021,7 +5021,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-04-12 &middot; Preston, England
+#### 1845-04-12 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5031,7 +5031,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-04-13 &middot; London, England
+#### 1845-04-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5041,7 +5041,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-04-13 &middot; London, England
+#### 1845-04-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5051,7 +5051,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-04-17 &middot; Exeter, England
+#### 1845-04-17 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5061,7 +5061,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-04-17 &middot; Exeter, England
+#### 1845-04-17 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5071,7 +5071,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Jackson's Oxford Journal_
 
-#### 1845-04-19 &middot; Oxford, England
+#### 1845-04-19 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -5081,7 +5081,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Manchester Times_
 
-#### 1845-04-19 &middot; Manchester, England
+#### 1845-04-19 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -5091,7 +5091,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Manchester Times_
 
-#### 1845-04-19 &middot; Manchester, England
+#### 1845-04-19 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -5101,7 +5101,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-04-19 &middot; Preston, England
+#### 1845-04-19 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5111,7 +5111,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-04-19 &middot; Preston, England
+#### 1845-04-19 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5121,7 +5121,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-04-20 &middot; London, England
+#### 1845-04-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5131,7 +5131,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-04-20 &middot; London, England
+#### 1845-04-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5141,7 +5141,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Hull Packet_
 
-#### 1845-04-25 &middot; Hull, England
+#### 1845-04-25 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -5151,7 +5151,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Manchester Times_
 
-#### 1845-04-26 &middot; Manchester, England
+#### 1845-04-26 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -5161,7 +5161,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Manchester Times_
 
-#### 1845-04-26 &middot; Manchester, England
+#### 1845-04-26 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -5171,7 +5171,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-04-26 &middot; Preston, England
+#### 1845-04-26 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5181,7 +5181,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-04-26 &middot; Preston, England
+#### 1845-04-26 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5191,7 +5191,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-04-27 &middot; London, England
+#### 1845-04-27 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5201,7 +5201,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-04-27 &middot; London, England
+#### 1845-04-27 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5211,7 +5211,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-05-01 &middot; Exeter, England
+#### 1845-05-01 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5221,7 +5221,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-05-01 &middot; Exeter, England
+#### 1845-05-01 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5231,7 +5231,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-05-04 &middot; London, England
+#### 1845-05-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5241,7 +5241,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Hull Packet_
 
-#### 1845-05-09 &middot; Hull, England
+#### 1845-05-09 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -5251,7 +5251,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-05-11 &middot; London, England
+#### 1845-05-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5261,7 +5261,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-05-11 &middot; London, England
+#### 1845-05-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5271,7 +5271,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-05-15 &middot; Exeter, England
+#### 1845-05-15 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5281,7 +5281,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-05-15 &middot; Exeter, England
+#### 1845-05-15 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5291,7 +5291,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Hull Packet_
 
-#### 1845-05-16 &middot; Hull, England
+#### 1845-05-16 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -5301,7 +5301,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Bristol Mercury_
 
-#### 1845-05-17 &middot; Bristol, England
+#### 1845-05-17 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -5311,7 +5311,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-05-18 &middot; London, England
+#### 1845-05-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5321,7 +5321,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-05-18 &middot; London, England
+#### 1845-05-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5331,7 +5331,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-05-22 &middot; Exeter, England
+#### 1845-05-22 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5341,7 +5341,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-05-25 &middot; London, England
+#### 1845-05-25 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5351,7 +5351,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-05-29 &middot; Exeter, England
+#### 1845-05-29 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5361,7 +5361,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-06-01 &middot; London, England
+#### 1845-06-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5371,7 +5371,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-06-01 &middot; London, England
+#### 1845-06-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5381,7 +5381,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-06-05 &middot; Exeter, England
+#### 1845-06-05 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5391,7 +5391,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-06-07 &middot; Preston, England
+#### 1845-06-07 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5401,7 +5401,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-06-08 &middot; London, England
+#### 1845-06-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5411,7 +5411,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-06-08 &middot; London, England
+#### 1845-06-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5421,7 +5421,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-06-08 &middot; London, England
+#### 1845-06-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5431,7 +5431,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1845-06-12 &middot; Exeter, England
+#### 1845-06-12 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5441,7 +5441,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-06-14 &middot; Preston, England
+#### 1845-06-14 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5451,7 +5451,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-06-14 &middot; Preston, England
+#### 1845-06-14 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5461,7 +5461,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-06-15 &middot; London, England
+#### 1845-06-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5471,7 +5471,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-06-15 &middot; London, England
+#### 1845-06-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5481,7 +5481,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-06-22 &middot; London, England
+#### 1845-06-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5491,7 +5491,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-06-22 &middot; London, England
+#### 1845-06-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5501,7 +5501,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-06-29 &middot; London, England
+#### 1845-06-29 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5511,7 +5511,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-07-06 &middot; London, England
+#### 1845-07-06 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5521,7 +5521,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Hull Packet_
 
-#### 1845-07-11 &middot; Hull, England
+#### 1845-07-11 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -5531,7 +5531,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-07-12 &middot; Preston, England
+#### 1845-07-12 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5541,7 +5541,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _The Era_
 
-#### 1845-07-13 &middot; London, England
+#### 1845-07-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5551,7 +5551,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 #### From _Preston Chronicle_
 
-#### 1845-07-19 &middot; Preston, England
+#### 1845-07-19 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5559,7 +5559,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-07-26_15_518?page=1)
 
-#### 1845-07-26
+#### 1845-07-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5584,7 +5584,7 @@ terminating weakness, ner
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-02_15_519?page=8)
 
-#### 1845-08-02
+#### 1845-08-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5605,7 +5605,7 @@ es a oad terminating in local ete constitutional bape hae neigh eae me
 
 #### From _The Era_
 
-#### 1845-08-03 &middot; London, England
+#### 1845-08-03 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5615,7 +5615,7 @@ es a oad terminating in local ete constitutional bape hae neigh eae me
 
 #### From _The Era_
 
-#### 1845-08-03 &middot; London, England
+#### 1845-08-03 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5623,7 +5623,7 @@ es a oad terminating in local ete constitutional bape hae neigh eae me
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-09_15_520?page=8)
 
-#### 1845-08-09
+#### 1845-08-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5648,7 +5648,7 @@ directions for their treatment and cure. Iustrated with cases. By SAMUEL LA’ME
 
 #### From _The Era_
 
-#### 1845-08-10 &middot; London, England
+#### 1845-08-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5658,7 +5658,7 @@ directions for their treatment and cure. Iustrated with cases. By SAMUEL LA’ME
 
 #### From _The Era_
 
-#### 1845-08-10 &middot; London, England
+#### 1845-08-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5668,7 +5668,7 @@ directions for their treatment and cure. Iustrated with cases. By SAMUEL LA’ME
 
 #### From _Bristol Mercury_
 
-#### 1845-08-16 &middot; Bristol, England
+#### 1845-08-16 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -5676,7 +5676,7 @@ directions for their treatment and cure. Iustrated with cases. By SAMUEL LA’ME
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-16_15_521?page=8)
 
-#### 1845-08-16
+#### 1845-08-16 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5698,7 +5698,7 @@ lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &
 
 #### From _The Era_
 
-#### 1845-08-17 &middot; London, England
+#### 1845-08-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5708,7 +5708,7 @@ lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &
 
 #### From _The Era_
 
-#### 1845-08-17 &middot; London, England
+#### 1845-08-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5716,7 +5716,7 @@ lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-30_15_523?page=8)
 
-#### 1845-08-30
+#### 1845-08-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5739,7 +5739,7 @@ directions for thely iveatmnent und cure’ Ilustrated with caves, By SAMUEL LA�
 
 #### From _The Era_
 
-#### 1845-08-31 &middot; London, England
+#### 1845-08-31 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5749,7 +5749,7 @@ directions for thely iveatmnent und cure’ Ilustrated with caves, By SAMUEL LA�
 
 #### From _The Era_
 
-#### 1845-08-31 &middot; London, England
+#### 1845-08-31 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5759,7 +5759,7 @@ directions for thely iveatmnent und cure’ Ilustrated with caves, By SAMUEL LA�
 
 #### From _Preston Chronicle_
 
-#### 1845-09-06 &middot; Preston, England
+#### 1845-09-06 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5767,7 +5767,7 @@ directions for thely iveatmnent und cure’ Ilustrated with caves, By SAMUEL LA�
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-06_15_524?page=12)
 
-#### 1845-09-06
+#### 1845-09-06 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5793,7 +5793,7 @@ consulting surgeon, 9, Bedford-street, ry Member of th
 
 #### From _Preston Chronicle_
 
-#### 1845-09-13 &middot; Preston, England
+#### 1845-09-13 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5801,7 +5801,7 @@ consulting surgeon, 9, Bedford-street, ry Member of th
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-13_15_525?page=10)
 
-#### 1845-09-13
+#### 1845-09-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5824,7 +5824,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _Preston Chronicle_
 
-#### 1845-09-20 &middot; Preston, England
+#### 1845-09-20 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5834,7 +5834,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-09-28 &middot; London, England
+#### 1845-09-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5844,7 +5844,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-09-28 &middot; London, England
+#### 1845-09-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5854,7 +5854,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-10-05 &middot; London, England
+#### 1845-10-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5862,7 +5862,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-10-11_15_529?page=8)
 
-#### 1845-10-11
+#### 1845-10-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5884,7 +5884,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-11-02 &middot; London, England
+#### 1845-11-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5894,7 +5894,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-11-02 &middot; London, England
+#### 1845-11-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5904,7 +5904,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-11-09 &middot; London, England
+#### 1845-11-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5914,7 +5914,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _Preston Chronicle_
 
-#### 1845-11-15 &middot; Preston, England
+#### 1845-11-15 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -5924,7 +5924,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-11-16 &middot; London, England
+#### 1845-11-16 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5934,7 +5934,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-11-23 &middot; London, England
+#### 1845-11-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5944,7 +5944,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-11-23 &middot; London, England
+#### 1845-11-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5954,7 +5954,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-11-30 &middot; London, England
+#### 1845-11-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5964,7 +5964,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-12-07 &middot; London, England
+#### 1845-12-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5974,7 +5974,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-12-07 &middot; London, England
+#### 1845-12-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5984,7 +5984,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-12-14 &middot; London, England
+#### 1845-12-14 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5994,7 +5994,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-12-21 &middot; London, England
+#### 1845-12-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6004,7 +6004,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-12-21 &middot; London, England
+#### 1845-12-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6014,7 +6014,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _Jackson's Oxford Journal_
 
-#### 1845-12-27 &middot; Oxford, England
+#### 1845-12-27 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -6024,7 +6024,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-12-28 &middot; London, England
+#### 1845-12-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6034,7 +6034,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1845-12-28 &middot; London, England
+#### 1845-12-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6044,7 +6044,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1846-01-04 &middot; London, England
+#### 1846-01-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6054,7 +6054,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 #### From _The Era_
 
-#### 1846-01-04 &middot; London, England
+#### 1846-01-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6062,7 +6062,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-10_16_542?page=11)
 
-#### 1846-01-10
+#### 1846-01-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6086,7 +6086,7 @@ or infection, and terminating in local and constitutional weakness, nervous ,me-
 
 #### From _The Era_
 
-#### 1846-01-11 &middot; London, England
+#### 1846-01-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6096,7 +6096,7 @@ or infection, and terminating in local and constitutional weakness, nervous ,me-
 
 #### From _The Era_
 
-#### 1846-01-11 &middot; London, England
+#### 1846-01-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6104,7 +6104,7 @@ or infection, and terminating in local and constitutional weakness, nervous ,me-
 
 ## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-24_16_544?page=7)
 
-#### 1846-01-24
+#### 1846-01-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6125,7 +6125,7 @@ disorders of the generative system, originating in sol hahits,
 
 #### From _Preston Chronicle_
 
-#### 1846-02-14 &middot; Preston, England
+#### 1846-02-14 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -6135,7 +6135,7 @@ disorders of the generative system, originating in sol hahits,
 
 #### From _Bristol Mercury_
 
-#### 1846-04-04 &middot; Bristol, England
+#### 1846-04-04 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -6145,7 +6145,7 @@ disorders of the generative system, originating in sol hahits,
 
 #### From _Bristol Mercury_
 
-#### 1846-07-25 &middot; Bristol, England
+#### 1846-07-25 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 

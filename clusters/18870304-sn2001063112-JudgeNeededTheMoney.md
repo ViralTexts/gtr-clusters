@@ -33,7 +33,7 @@ The boy said, &quot;I don&#x27;t want your money, old fellow; you take it an hav
 
 ## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1887-02-11/ed-1/seq-4)
 
-#### 1887-02-11 &middot; Savannah
+#### 1887-02-11 &middot; [Savannah](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -73,7 +73,7 @@ ered off. The Judge thought it so good
 
 #### From _Boston daily advertiser._
 
-#### 1887-02-18 &middot; Boston, Mass.
+#### 1887-02-18 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -81,7 +81,7 @@ ered off. The Judge thought it so good
 
 ## [From _Springfield daily republic._](https://chroniclingamerica.loc.gov/lccn/sn87076917/1887-02-26/ed-1/seq-3)
 
-#### 1887-02-26 &middot; Springfield, O. [Ohio]
+#### 1887-02-26 &middot; [Springfield, O. [Ohio]](http://dbpedia.org/resource/Springfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -123,7 +123,7 @@ Saying which he scampered off. Augusta
 
 #### From _The Atchison daily globe._
 
-#### 1887-02-28 &middot; Atchison, Kan.
+#### 1887-02-28 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -131,7 +131,7 @@ Saying which he scampered off. Augusta
 
 ## [From _The Mitchell capital._](https://chroniclingamerica.loc.gov/lccn/sn2001063112/1887-03-04/ed-1/seq-7)
 
-#### 1887-03-04 &middot; Mitchell, Dakota [S.D.]
+#### 1887-03-04 &middot; [Mitchell, Dakota [S.D.]](http://dbpedia.org/resource/Mitchell%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -174,7 +174,7 @@ Auf/vsta [Ga.) Chronicle.
 
 ## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1887-03-07/ed-1/seq-4)
 
-#### 1887-03-07 &middot; Saint Paul, Minn.
+#### 1887-03-07 &middot; [Saint Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -212,7 +212,7 @@ off. The judge thought it so good a stor
 
 ## [From _The Central Law Journal (1874-1927)_](https://iiif.archivelab.org/iiif/sim_central-law-journal_1887-03-11_24?page=23)
 
-#### 1887-03-11 &middot; St. Louis
+#### 1887-03-11 &middot; [St. Louis](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -273,7 +273,7 @@ scampered off.—Augusta (Ga.) Chronicle.
 
 #### From _The Weekly Detroit free press._
 
-#### 1887-03-12 &middot; Detroit, Mich.
+#### 1887-03-12 &middot; [Detroit, Mich.](http://dbpedia.org/resource/Detroit)
 
 [This text is not available under an open license.]
 
@@ -281,7 +281,7 @@ scampered off.—Augusta (Ga.) Chronicle.
 
 ## [From _Fort Worth daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn86064205/1887-03-14/ed-1/seq-4)
 
-#### 1887-03-14 &middot; Fort Worth, Tex.
+#### 1887-03-14 &middot; [Fort Worth, Tex.](http://dbpedia.org/resource/Fort_Worth%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -331,7 +331,7 @@ scampered off The Judge thought ii s
 
 ## [From _News and citizen._](https://chroniclingamerica.loc.gov/lccn/sn97067613/1887-03-17/ed-1/seq-4)
 
-#### 1887-03-17 &middot; Morrisville, Vt. ;
+#### 1887-03-17 &middot; [Morrisville, Vt. ;](http://dbpedia.org/resource/Morrisville%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -374,7 +374,7 @@ ered off. Augusta (Ja.) Chronic&#x27;.&#x27;:
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1887-03-17/ed-1/seq-4)
 
-#### 1887-03-17 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1887-03-17 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -411,7 +411,7 @@ Bleckley, and, as he told this story on him
 
 ## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1887-03-17/ed-1/seq-4)
 
-#### 1887-03-17 &middot; Grand Rapids [i.e. Wisconsin Rapids], Wis.
+#### 1887-03-17 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -450,7 +450,7 @@ ing which he scampered off
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1887-03-18/ed-1/seq-2)
 
-#### 1887-03-18 &middot; Romney, Va. [W. Va.]
+#### 1887-03-18 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -490,7 +490,7 @@ jx’red otT. —| Augusta (Hi.) Chronicle
 
 ## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1887-03-19/ed-1/seq-1)
 
-#### 1887-03-19 &middot; Superior, Wis.
+#### 1887-03-19 &middot; [Superior, Wis.](http://dbpedia.org/resource/Superior%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -532,7 +532,7 @@ scampered off
 
 #### From _Milwaukee daily journal._
 
-#### 1887-03-22 &middot; Milwaukee, Wis.
+#### 1887-03-22 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -540,7 +540,7 @@ scampered off
 
 ## [From _Alpena weekly argus._](https://chroniclingamerica.loc.gov/lccn/sn85033549/1887-03-23/ed-1/seq-1)
 
-#### 1887-03-23 &middot; Alpena, Mich.
+#### 1887-03-23 &middot; [Alpena, Mich.](http://dbpedia.org/resource/Alpena%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -607,7 +607,7 @@ he scampered off. Augusta Chronicle
 
 ## [From _Millheim Journal._](https://chroniclingamerica.loc.gov/lccn/sn83008556/1887-03-24/ed-1/seq-1)
 
-#### 1887-03-24 &middot; Millheim, Pa.
+#### 1887-03-24 &middot; [Millheim, Pa.](http://dbpedia.org/resource/Millheim%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -668,7 +668,7 @@ pered off
 
 #### From _The Albany Law Journal; A Weekly Record of the Law and the Lawyers (1870-1908)_
 
-#### 1887-03-26 &middot; Albany
+#### 1887-03-26 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
 [This text is not available under an open license.]
 
@@ -678,7 +678,7 @@ pered off
 
 #### From _Rocky Mountain news._
 
-#### 1887-04-05 &middot; Denver, Colo.
+#### 1887-04-05 &middot; [Denver, Colo.](http://dbpedia.org/resource/Denver)
 
 [This text is not available under an open license.]
 
@@ -686,7 +686,7 @@ pered off
 
 ## [From _Iron County register._](https://chroniclingamerica.loc.gov/lccn/sn84024283/1887-04-07/ed-1/seq-7)
 
-#### 1887-04-07 &middot; Ironton, Iron County, Mo.
+#### 1887-04-07 &middot; [Ironton, Iron County, Mo.](http://dbpedia.org/resource/Ironton%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -736,7 +736,7 @@ saying which he scampered oft. Th
 
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1887-04-07/ed-1/seq-1)
 
-#### 1887-04-07 &middot; Ravenna, O. [Ohio]
+#### 1887-04-07 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -777,7 +777,7 @@ pered off. The Judge thought it s
 
 ## [From _St. Johnsbury Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023253/1887-04-07/ed-1/seq-2)
 
-#### 1887-04-07 &middot; St. Johnsbury, Vt.
+#### 1887-04-07 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -820,7 +820,7 @@ dou&#x27;t want you
 
 ## [From _Madison times._](https://chroniclingamerica.loc.gov/lccn/sn88064405/1887-04-09/ed-1/seq-1)
 
-#### 1887-04-09 &middot; Tallulah, Madison Parish, La.
+#### 1887-04-09 &middot; [Tallulah, Madison Parish, La.](http://dbpedia.org/resource/Tallulah%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -854,7 +854,7 @@ want your nmey. old fellow; yop take
 
 ## [From _The Milan exchange._](https://chroniclingamerica.loc.gov/lccn/sn86053488/1887-04-09/ed-1/seq-7)
 
-#### 1887-04-09 &middot; Milan, Gibson County, Tenn.
+#### 1887-04-09 &middot; [Milan, Gibson County, Tenn.](http://dbpedia.org/resource/Milan%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -906,7 +906,7 @@ saying which he scampered off. Th
 
 ## [From _The Dallas daily herald._](https://chroniclingamerica.loc.gov/lccn/sn83025733/1887-04-11/ed-1/seq-3)
 
-#### 1887-04-11 &middot; Dallas, Tex.
+#### 1887-04-11 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -942,7 +942,7 @@ which he scampered oil&#x27;. The jml l
 
 ## [From _The Warner sun._](https://chroniclingamerica.loc.gov/lccn/sn2001063565/1887-04-15/ed-1/seq-3)
 
-#### 1887-04-15 &middot; Warner, Brown Co., Dakota [S.D.]
+#### 1887-04-15 &middot; [Warner, Brown Co., Dakota [S.D.]](http://dbpedia.org/resource/Warner%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -994,7 +994,7 @@ which he scampered off. The judg
 
 ## [From _St. Landry democrat._](https://chroniclingamerica.loc.gov/lccn/sn88064537/1887-04-16/ed-1/seq-7)
 
-#### 1887-04-16 &middot; Opelousas, La.
+#### 1887-04-16 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1045,7 +1045,7 @@ Baying which he scampered off. Th
 
 ## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1887-04-16/ed-1/seq-2)
 
-#### 1887-04-16 &middot; Opelousas, La.
+#### 1887-04-16 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1101,7 +1101,7 @@ pered off.-[Augusta (G:.) Chronicle
 
 ## [From _The Grenada gazette._](https://chroniclingamerica.loc.gov/lccn/sn88067090/1887-04-16/ed-1/seq-7)
 
-#### 1887-04-16 &middot; Grenada, Miss.
+#### 1887-04-16 &middot; [Grenada, Miss.](http://dbpedia.org/resource/Grenada%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1136,7 +1136,7 @@ wving which ho scampered off. Th
 
 ## [From _The Wahpeton times._](https://chroniclingamerica.loc.gov/lccn/sn84024779/1887-04-21/ed-1/seq-7)
 
-#### 1887-04-21 &middot; Wahpeton, Richland County, Dakota [N.D.]
+#### 1887-04-21 &middot; [Wahpeton, Richland County, Dakota [N.D.]](http://dbpedia.org/resource/Wahpeton%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1176,7 +1176,7 @@ which be scampered off. The judg
 
 ## [From _Idaho semi-weekly world._](https://chroniclingamerica.loc.gov/lccn/sn84022135/1887-04-26/ed-1/seq-2)
 
-#### 1887-04-26 &middot; Idaho City, Idaho Territory
+#### 1887-04-26 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1212,7 +1212,7 @@ which lie scampered oil&#x27;. The judg
 
 ## [From _Bridgeton pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87068192/1887-04-28/ed-1/seq-7)
 
-#### 1887-04-28 &middot; Bridgeton, N.J.
+#### 1887-04-28 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1263,7 +1263,7 @@ saving which he scampered off. Th
 
 ## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1887-05-13/ed-1/seq-4)
 
-#### 1887-05-13 &middot; Ebensburg, Pa.
+#### 1887-05-13 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1296,7 +1296,7 @@ dime. &quot;Weil, sir,&quot; said the jui
 
 ## [From _Savannah courier._](https://chroniclingamerica.loc.gov/lccn/sn89058248/1887-05-19/ed-1/seq-4)
 
-#### 1887-05-19 &middot; Savannah, Tenn.
+#### 1887-05-19 &middot; [Savannah, Tenn.](http://dbpedia.org/resource/Savannah%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1333,7 +1333,7 @@ laying which he scampered off. Th
 
 ## [From _The Mitchell capital._](https://chroniclingamerica.loc.gov/lccn/sn2001063112/1887-05-20/ed-1/seq-8)
 
-#### 1887-05-20 &middot; Mitchell, Dakota [S.D.]
+#### 1887-05-20 &middot; [Mitchell, Dakota [S.D.]](http://dbpedia.org/resource/Mitchell%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1382,7 +1382,7 @@ cle.
 
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85047084/1887-05-21/ed-1/seq-1)
 
-#### 1887-05-21 &middot; Honolulu, Hawaiian Islands
+#### 1887-05-21 &middot; [Honolulu, Hawaiian Islands](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1451,7 +1451,7 @@ wg which tf &amp;-Aeus
 
 ## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-05-30_18_22?page=6)
 
-#### 1887-05-30 &middot; Lansing
+#### 1887-05-30 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1498,7 +1498,7 @@ cut.’’ Saying which he scampered off
 
 ## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-06-16_35_24?page=30)
 
-#### 1887-06-16 &middot; New York
+#### 1887-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1546,7 +1546,7 @@ pered off
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1887-08-13 &middot; Sydney, New South Wales
+#### 1887-08-13 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1581,7 +1581,7 @@ which, he scampered off. The picturesqu
 
 ## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1887-09-12/ed-1/seq-2)
 
-#### 1887-09-12 &middot; [Wilmington, Del.]
+#### 1887-09-12 &middot; [[Wilmington, Del.]](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1624,7 +1624,7 @@ he scampered ofl.
 
 ## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1887-09-17/ed-1/seq-4)
 
-#### 1887-09-17 &middot; Westminster, Md.
+#### 1887-09-17 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1663,7 +1663,7 @@ hair cut- Saying which he scampered off
 
 ## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1887-10-26/ed-1/seq-1)
 
-#### 1887-10-26 &middot; Somerset, Pa.
+#### 1887-10-26 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1705,7 +1705,7 @@ your hair cut.&quot; Saying which he kuu­
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
 
-#### 1887-11-15 &middot; Clare, South Australia
+#### 1887-11-15 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1755,7 +1755,7 @@ off
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1888-01-06/ed-1/seq-4)
 
-#### 1888-01-06 &middot; Romney, Va. [W. Va.]
+#### 1888-01-06 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1801,7 +1801,7 @@ be scampered olT
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1888-02-24/ed-1/seq-4)
 
-#### 1888-02-24 &middot; Shepherdstown, Va. [W. Va.]
+#### 1888-02-24 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1862,7 +1862,7 @@ scampered off
 
 #### From _Hampshire/Portsmouth Telegraph_
 
-#### 1893-04-29 &middot; Portsmouth, England
+#### 1893-04-29 &middot; [Portsmouth, England](http://dbpedia.org/resource/Portsmouth)
 
 [This text is not available under an open license.]
 
@@ -1870,7 +1870,7 @@ scampered off
 
 ## [From _Wood River times._](https://chroniclingamerica.loc.gov/lccn/sn86091172/1893-08-04/ed-1/seq-3)
 
-#### 1893-08-04 &middot; Hailey, Idaho
+#### 1893-08-04 &middot; [Hailey, Idaho](http://dbpedia.org/resource/Hailey%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1908,7 +1908,7 @@ hair cut.&quot; and forthwith scampere
 
 ## [From _Western Kansas world._](https://chroniclingamerica.loc.gov/lccn/sn82015485/1893-08-05/ed-1/seq-1)
 
-#### 1893-08-05 &middot; WaKeeney, Kan.
+#### 1893-08-05 &middot; [WaKeeney, Kan.](http://dbpedia.org/resource/WaKeeney%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1949,7 +1949,7 @@ off
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
 
-#### 1893-10-14 &middot; Sydney, New South Wales
+#### 1893-10-14 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1985,7 +1985,7 @@ tak&#x27; it an&#x27; get yer hair cooed &#x27; (cut)
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
-#### 1893-10-28 &middot; Brisbane, Queensland
+#### 1893-10-28 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2013,7 +2013,7 @@ money; here it is.&quot; •• I dinna want you
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1893-12-09 &middot; Adelaide, South Australia
+#### 1893-12-09 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2042,7 +2042,7 @@ money ; beraitis.&quot; &quot;Idinna want you
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1894-09-12/ed-1/seq-4)
 
-#### 1894-09-12 &middot; Yorkville, S.C.
+#### 1894-09-12 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2080,7 +2080,7 @@ cut,&quot; and forthwith scampered oil&#x27;
 
 #### From _Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954)_
 
-#### 1896-03-20 &middot; Echuca, Victoria
+#### 1896-03-20 &middot; [Echuca, Victoria](http://dbpedia.org/resource/Echuca)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2103,7 +2103,7 @@ haircut.&#x27; The Study of Character.—Fro
 
 #### From _Goulburn Evening Penny Post (NSW : 1881 - 1940)_
 
-#### 1896-04-11 &middot; Goulburn, New South Wales
+#### 1896-04-11 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2146,7 +2146,7 @@ ing, he held out his hand for the money.
 
 #### From _Euroa Advertiser (Vic. : 1884 - 1920)_
 
-#### 1896-12-11 &middot; Euroa, Victoria
+#### 1896-12-11 &middot; [Euroa, Victoria](http://dbpedia.org/resource/Euroa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2163,7 +2163,7 @@ earned your money; -here it is.&quot; &quot;
 
 ## [From _The Congregationalist._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1?page=34)
 
-#### 1897-01-07 &middot; Boston, Mass.
+#### 1897-01-07 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2187,7 +2187,7 @@ git yer hair cut.”
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1897-02-08/ed-1/seq-2)
 
-#### 1897-02-08 &middot; Barton, Vt.
+#### 1897-02-08 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2210,7 +2210,7 @@ is
 
 #### From _Gympie Times and Mary River Mining Gazette (Qld. : 1868 - 1919)_
 
-#### 1897-08-14 &middot; Gympie, Queensland
+#### 1897-08-14 &middot; [Gympie, Queensland](http://dbpedia.org/resource/Gympie)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

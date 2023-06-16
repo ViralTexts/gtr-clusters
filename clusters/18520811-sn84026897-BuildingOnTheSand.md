@@ -66,7 +66,7 @@ But &quot;build upon the sand.&quot;
 
 #### From _Trewman's Exeter Flying Post_
 
-#### 1852-06-24 &middot; Exeter, England
+#### 1852-06-24 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -74,7 +74,7 @@ But &quot;build upon the sand.&quot;
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1852-07-14/ed-1/seq-4)
 
-#### 1852-07-14 &middot; Lancaster, S.C.
+#### 1852-07-14 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -125,7 +125,7 @@ But &#x27;&quot;build upon thertbnd.&#x27;&#x27; Wf
 
 ## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-07-22_20_30?page=0)
 
-#### 1852-07-22 &middot; Augusta, Maine
+#### 1852-07-22 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -191,7 +191,7 @@ But “build upon the sand.”
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1852-08-11/ed-1/seq-4)
 
-#### 1852-08-11 &middot; Edgefield, S.C.
+#### 1852-08-11 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -241,7 +241,7 @@ But &quot; build upon the sand.
 
 ## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1852-09-29/ed-1/seq-1)
 
-#### 1852-09-29 &middot; Port Tobacco, Md.
+#### 1852-09-29 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -291,7 +291,7 @@ But “build upon the sand.
 
 ## [From _The Democratic sentinel and Harrison County farmer._](https://chroniclingamerica.loc.gov/lccn/sn85042199/1852-09-29/ed-1/seq-4)
 
-#### 1852-09-29 &middot; Cadiz, Ohio
+#### 1852-09-29 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -337,7 +337,7 @@ For those who talk, yet fail to do,­
 
 ## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1852-10-02/ed-1/seq-4)
 
-#### 1852-10-02 &middot; Columbus, Miss.
+#### 1852-10-02 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -387,7 +387,7 @@ Out &quot;build upon the mind.
 
 ## [From _The Yazoo Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87065704/1852-10-20/ed-1/seq-1)
 
-#### 1852-10-20 &middot; Yazoo City, Miss.
+#### 1852-10-20 &middot; [Yazoo City, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -437,7 +437,7 @@ But built upon the sand
 
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1852-10-23/ed-1/seq-1)
 
-#### 1852-10-23 &middot; Wheeling, Va. [W. Va.]
+#### 1852-10-23 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -489,7 +489,7 @@ But build upon the aand
 
 #### From _Bangor daily Whig & courier._
 
-#### 1852-11-05 &middot; Bangor, Me.
+#### 1852-11-05 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -497,7 +497,7 @@ But build upon the aand
 
 ## [From _Semi-weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024518/1852-11-06/ed-1/seq-2)
 
-#### 1852-11-06 &middot; Raleigh, N.C.
+#### 1852-11-06 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -549,7 +549,7 @@ For those who talk, yet fail to do,
 
 ## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1852-11-10/ed-1/seq-4)
 
-#### 1852-11-10 &middot; Raleigh, N.C.
+#### 1852-11-10 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -601,7 +601,7 @@ But &quot; build upon the sand.&quot;
 
 #### From _Boston investigator._
 
-#### 1852-11-17 &middot; Boston, Mass.
+#### 1852-11-17 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -609,7 +609,7 @@ But &quot; build upon the sand.&quot;
 
 ## [From _Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn93067980/1852-12-07/ed-1/seq-1)
 
-#### 1852-12-07 &middot; Camden, South-Carolina
+#### 1852-12-07 &middot; [Camden, South-Carolina](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -662,7 +662,7 @@ But buiid upon the sand
 
 ## [From _Baton-Rouge gazette._](https://chroniclingamerica.loc.gov/lccn/sn82003383/1852-12-25/ed-1/seq-1)
 
-#### 1852-12-25 &middot; Baton-Rouge, La.
+#### 1852-12-25 &middot; [Baton-Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -714,7 +714,7 @@ Don&#x27;
 
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1853-01-06/ed-1/seq-1)
 
-#### 1853-01-06 &middot; Stroudsburg, Pa.
+#### 1853-01-06 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -763,7 +763,7 @@ But &quot;build upon the sand.
 
 ## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1853-01-20/ed-1/seq-1)
 
-#### 1853-01-20 &middot; Montpelier, Vt.
+#### 1853-01-20 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -813,7 +813,7 @@ But build upon the sand.
 
 ## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1853-01-22/ed-1/seq-4)
 
-#### 1853-01-22 &middot; New-Lisbon, Ohio
+#### 1853-01-22 &middot; [New-Lisbon, Ohio](http://dbpedia.org/resource/Salem%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -863,7 +863,7 @@ But build upon the sand
 
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1853-02-02/ed-1/seq-4)
 
-#### 1853-02-02 &middot; Lancaster, S.C.
+#### 1853-02-02 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -915,7 +915,7 @@ Hut &quot; build upon the sand.
 
 ## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1853-02-03/ed-1/seq-1)
 
-#### 1853-02-03 &middot; Davenport, Scott Co., Iowa
+#### 1853-02-03 &middot; [Davenport, Scott Co., Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -989,7 +989,7 @@ But &quot;buill upon the sand.&quot;
 
 ## [From _The Planters' banner._](https://chroniclingamerica.loc.gov/lccn/sn86053688/1853-02-03/ed-1/seq-1)
 
-#### 1853-02-03 &middot; Franklin, Attakapas Co., Lou.
+#### 1853-02-03 &middot; [Franklin, Attakapas Co., Lou.](http://dbpedia.org/resource/Franklin%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1036,7 +1036,7 @@ BoItbuild upon the sand
 
 ## [From _Daily evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-03-11/ed-1/seq-1)
 
-#### 1853-03-11 &middot; Washington [D.C.]
+#### 1853-03-11 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1086,7 +1086,7 @@ But build upon the sand
 
 ## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1853-04-30/ed-1/seq-4)
 
-#### 1853-04-30 &middot; Shasta, Calif.
+#### 1853-04-30 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1137,7 +1137,7 @@ But “build upon I lie sand.”
 
 ## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1853-05-19/ed-1/seq-4)
 
-#### 1853-05-19 &middot; [Ottumwa] Iowa
+#### 1853-05-19 &middot; [[Ottumwa] Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1204,7 +1204,7 @@ But &quot;build upon thesand.&quot;
 
 ## [From _Monongalia mirror._](https://chroniclingamerica.loc.gov/lccn/sn86092163/1855-02-24/ed-1/seq-1)
 
-#### 1855-02-24 &middot; Morgantown, Va. [W. Va.]
+#### 1855-02-24 &middot; [Morgantown, Va. [W. Va.]](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1254,7 +1254,7 @@ But &quot;build upon tho sand.&quot;
 
 ## [From _The Opelousas patriot._](https://chroniclingamerica.loc.gov/lccn/sn86079076/1855-04-14/ed-1/seq-1)
 
-#### 1855-04-14 &middot; Opelousas, Parish of St. Landry, La.
+#### 1855-04-14 &middot; [Opelousas, Parish of St. Landry, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1304,7 +1304,7 @@ But &quot; build upon the sand.&quot;
 
 ## [From _The independent press._](https://chroniclingamerica.loc.gov/lccn/sn93067882/1855-07-27/ed-1/seq-4)
 
-#### 1855-07-27 &middot; Abbeville C.H., S.C.
+#### 1855-07-27 &middot; [Abbeville C.H., S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1349,7 +1349,7 @@ But stay not at ge:
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1855-08-01/ed-1/seq-1)
 
-#### 1855-08-01 &middot; Warren, Ohio
+#### 1855-08-01 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1399,7 +1399,7 @@ But 44 build upon the sand.&quot;&quot;
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1855-08-15/ed-1/seq-1)
 
-#### 1855-08-15 &middot; Edgefield, S.C.
+#### 1855-08-15 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1449,7 +1449,7 @@ But &quot; buildupon the sand.
 
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1855-08-17/ed-1/seq-1)
 
-#### 1855-08-17 &middot; Bedford, Pa.
+#### 1855-08-17 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1499,7 +1499,7 @@ But ••build upon the sand.
 
 ## [From _Daily American organ._](https://chroniclingamerica.loc.gov/lccn/sn85042002/1855-09-18/ed-1/seq-1)
 
-#### 1855-09-18 &middot; Washington, D.C.
+#### 1855-09-18 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1549,7 +1549,7 @@ lint &quot; build upon the sand.
 
 ## [From _The Georgetown news._](https://chroniclingamerica.loc.gov/lccn/sn93052972/1855-12-20/ed-1/seq-1)
 
-#### 1855-12-20 &middot; Georgetown, El Dorado County, Cal.
+#### 1855-12-20 &middot; [Georgetown, El Dorado County, Cal.](http://dbpedia.org/resource/Georgetown%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1622,7 +1622,7 @@ But “build upon the sand.”
 
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1856-05-30/ed-1/seq-1)
 
-#### 1856-05-30 &middot; Fremont, Sandusky County [Ohio]
+#### 1856-05-30 &middot; [Fremont, Sandusky County [Ohio]](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1672,7 +1672,7 @@ but &#x27;build oponihe sand
 
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1856-06-12/ed-1/seq-1)
 
-#### 1856-06-12 &middot; Upper Sandusky, Ohio
+#### 1856-06-12 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1723,7 +1723,7 @@ But &quot;build upon the sand.
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-02-21_13_49?page=11)
 
-#### 1857-02-21 &middot; Philadelphia
+#### 1857-02-21 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1792,7 +1792,7 @@ But ‘* build upon the sand.”
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
-#### 1857-04-23 &middot; New York
+#### 1857-04-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -1800,7 +1800,7 @@ But ‘* build upon the sand.”
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1857-11-12/ed-1/seq-1)
 
-#### 1857-11-12 &middot; Jackson C.H., Ohio
+#### 1857-11-12 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1852,7 +1852,7 @@ But &quot;buil&#x27;j upou the sand.
 
 #### From _The Ripley bee._
 
-#### 1858-01-09 &middot; Ripley [Ohio]
+#### 1858-01-09 &middot; [Ripley [Ohio]](http://dbpedia.org/resource/Ripley%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -1860,7 +1860,7 @@ But &quot;buil&#x27;j upou the sand.
 
 ## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1858-03-20/ed-1/seq-1)
 
-#### 1858-03-20 &middot; Raleigh, N.C.
+#### 1858-03-20 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1924,7 +1924,7 @@ But &quot;build upon the sa&quot;d.
 
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1858-04-03/ed-1/seq-4)
 
-#### 1858-04-03 &middot; Pickens Court House, S.C.
+#### 1858-04-03 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1973,7 +1973,7 @@ Hut .&quot;build upon tho sand.
 
 ## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1858-04-05/ed-1/seq-1)
 
-#### 1858-04-05 &middot; Wheeling, Va. [W. Va.]
+#### 1858-04-05 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2025,7 +2025,7 @@ But &quot;build upon the sand.
 
 #### From _Newark advocate._
 
-#### 1858-04-07 &middot; Newark [Ohio]
+#### 1858-04-07 &middot; [Newark [Ohio]](http://dbpedia.org/resource/Newark%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -2033,7 +2033,7 @@ But &quot;build upon the sand.
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1858-04-07/ed-1/seq-1)
 
-#### 1858-04-07 &middot; Staunton, Va.
+#### 1858-04-07 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2083,7 +2083,7 @@ But “build upon the sand.”
 
 ## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1858-04-28/ed-1/seq-1)
 
-#### 1858-04-28 &middot; Edgefield, S.C.
+#### 1858-04-28 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2135,7 +2135,7 @@ But &quot; build upon the sand.
 
 #### From _The Charleston mercury._
 
-#### 1858-05-10 &middot; Charleston, S.C.
+#### 1858-05-10 &middot; [Charleston, S.C.](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
 [This text is not available under an open license.]
 
@@ -2143,7 +2143,7 @@ But &quot; build upon the sand.
 
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1858-05-14/ed-1/seq-2)
 
-#### 1858-05-14 &middot; Nashville, Tenn.
+#### 1858-05-14 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2193,7 +2193,7 @@ But &quot; build upon the sand.
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1858-05-25/ed-1/seq-4)
 
-#### 1858-05-25 &middot; Charlotte, N.C.
+#### 1858-05-25 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2243,7 +2243,7 @@ But &quot;build upon the sand.
 
 ## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1858-05-28/ed-1/seq-1)
 
-#### 1858-05-28 &middot; Athens, Tenn.
+#### 1858-05-28 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2293,7 +2293,7 @@ But &quot;build upon the sand.
 
 ## [From _Clarksville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061076/1858-06-11/ed-1/seq-1)
 
-#### 1858-06-11 &middot; Clarksville, Tenn.
+#### 1858-06-11 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2344,7 +2344,7 @@ But build upon the sand.
 
 ## [From _The Nevada journal._](https://chroniclingamerica.loc.gov/lccn/sn84026884/1858-06-18/ed-1/seq-1)
 
-#### 1858-06-18 &middot; Nevada City, Calif.
+#### 1858-06-18 &middot; [Nevada City, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2394,7 +2394,7 @@ But “build upon th&lt; sand.**
 
 ## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1858-06-18/ed-1/seq-1)
 
-#### 1858-06-18 &middot; Upper Sandusky, Ohio
+#### 1858-06-18 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2437,7 +2437,7 @@ And s
 
 ## [From _The Cass County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85033611/1858-07-15/ed-1/seq-4)
 
-#### 1858-07-15 &middot; Dowagiac, Mich.
+#### 1858-07-15 &middot; [Dowagiac, Mich.](http://dbpedia.org/resource/Dowagiac%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2487,7 +2487,7 @@ But H build upon the sand.
 
 ## [From _Bellevue gazette._](https://chroniclingamerica.loc.gov/lccn/sn85033100/1858-07-15/ed-1/seq-1)
 
-#### 1858-07-15 &middot; Bellevue City, N.T. [i.e. Neb.]
+#### 1858-07-15 &middot; [Bellevue City, N.T. [i.e. Neb.]](http://dbpedia.org/resource/Bellevue%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2538,7 +2538,7 @@ But build upon the sand
 
 ## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1858-07-23/ed-1/seq-1)
 
-#### 1858-07-23 &middot; Rockville, Md.
+#### 1858-07-23 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2588,7 +2588,7 @@ But “build upon the sand.
 
 ## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1858-07-28/ed-1/seq-4)
 
-#### 1858-07-28 &middot; Nevada, Calif.
+#### 1858-07-28 &middot; [Nevada, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2638,7 +2638,7 @@ But “build upon the sand.”
 
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1858-08-06/ed-1/seq-1)
 
-#### 1858-08-06 &middot; Bedford, Pa.
+#### 1858-08-06 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2688,7 +2688,7 @@ But &quot;build upon the sand.&quot;
 
 ## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn88071075/1858-08-07/ed-1/seq-2)
 
-#### 1858-08-07 &middot; Santa Fe, N.M.
+#### 1858-08-07 &middot; [Santa Fe, N.M.](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2758,7 +2758,7 @@ For those who talk, yet fail to do, &#x27;
 
 #### From _Boston investigator._
 
-#### 1858-08-25 &middot; Boston, Mass.
+#### 1858-08-25 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -2766,7 +2766,7 @@ For those who talk, yet fail to do, &#x27;
 
 ## [From _Preble County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85026031/1858-09-02/ed-1/seq-1)
 
-#### 1858-09-02 &middot; Eaton, Ohio
+#### 1858-09-02 &middot; [Eaton, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2817,7 +2817,7 @@ But &#x27;build upon the sand.&quot;
 
 ## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1859-06-23/ed-1/seq-1)
 
-#### 1859-06-23 &middot; Towanda, Pa.
+#### 1859-06-23 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2869,7 +2869,7 @@ But &quot; build upon the sand.
 
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1860-03-02/ed-1/seq-1)
 
-#### 1860-03-02 &middot; Manitowoc, Wis.
+#### 1860-03-02 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2923,7 +2923,7 @@ But “ build upon the sand.
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1860-03-21/ed-1/seq-7)
 
-#### 1860-03-21 &middot; Red Wing, M.T. [i.e. Minn.]
+#### 1860-03-21 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2993,7 +2993,7 @@ But bui&#x27;d upon the sand.&quot;
 
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1860-03-21/ed-1/seq-8)
 
-#### 1860-03-21 &middot; Red Wing, M.T. [i.e. Minn.]
+#### 1860-03-21 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3059,7 +3059,7 @@ But bui&#x27;d upon the sand.&quot;
 
 ## [From _The River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn86086437/1860-04-25/ed-1/seq-1)
 
-#### 1860-04-25 &middot; River Falls, Pierce County, Wis.
+#### 1860-04-25 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3111,7 +3111,7 @@ But ■•build upon t ‘ C -in I.”
 
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
 
-#### 1860-08-15 &middot; Sydney, New South Wales
+#### 1860-08-15 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3152,7 +3152,7 @@ But &#x27;? build upon the sand!&#x27;-&#x27; /??? - ?
 
 #### From _The Dover gazette._
 
-#### 1860-09-08 &middot; Dover, N.H.
+#### 1860-09-08 &middot; [Dover, N.H.](http://dbpedia.org/resource/Dover%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -3162,7 +3162,7 @@ But &#x27;? build upon the sand!&#x27;-&#x27; /??? - ?
 
 #### From _Vermont patriot._
 
-#### 1860-10-13 &middot; Montpelier [Vt.]
+#### 1860-10-13 &middot; [Montpelier [Vt.]](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 [This text is not available under an open license.]
 
@@ -3170,7 +3170,7 @@ But &#x27;? build upon the sand!&#x27;-&#x27; /??? - ?
 
 ## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1861-06-27/ed-1/seq-4)
 
-#### 1861-06-27 &middot; Glasgow, Mo.
+#### 1861-06-27 &middot; [Glasgow, Mo.](http://dbpedia.org/resource/Glasgow%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3232,7 +3232,7 @@ But build upon the sand
 
 ## [From _Union County star and Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85038443/1862-04-22/ed-1/seq-2)
 
-#### 1862-04-22 &middot; Lewisburg, Pa.
+#### 1862-04-22 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3281,7 +3281,7 @@ But build upon the sand
 
 #### From _Freedom's champion._
 
-#### 1862-06-07 &middot; Atchison City [i.e. Atchison] Kan.
+#### 1862-06-07 &middot; [Atchison City [i.e. Atchison] Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
 
@@ -3289,7 +3289,7 @@ But build upon the sand
 
 ## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1863-02-21/ed-1/seq-4)
 
-#### 1863-02-21 &middot; Auburn, Placer County, Calif.
+#### 1863-02-21 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3339,7 +3339,7 @@ But build upon the sail i
 
 ## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1865-01-14_18_20?page=13)
 
-#### 1865-01-14 &middot; Philadelphia
+#### 1865-01-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3406,7 +3406,7 @@ But “ build upon the sand.
 
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1865-03-23/ed-1/seq-1)
 
-#### 1865-03-23 &middot; Cumberland, Md.
+#### 1865-03-23 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3456,7 +3456,7 @@ But &quot;build upon the sand.&quot;
 
 ## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-07-08_22_18?page=13)
 
-#### 1865-07-08 &middot; Philadelphia
+#### 1865-07-08 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3522,7 +3522,7 @@ But “ build upon the sand.
 
 ## [From _Delaware State journal and statesman._](https://chroniclingamerica.loc.gov/lccn/sn84038112/1865-08-22/ed-1/seq-2)
 
-#### 1865-08-22 &middot; Wilmington, Del.
+#### 1865-08-22 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3554,7 +3554,7 @@ You&#x27;ll find you
 
 ## [From _Delaware State journal and statesman._](https://chroniclingamerica.loc.gov/lccn/sn84038112/1865-08-22/ed-1/seq-2)
 
-#### 1865-08-22 &middot; Wilmington, Del.
+#### 1865-08-22 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3590,7 +3590,7 @@ But &quot;build upon the sand.
 
 ## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1865-10-04_36_40?page=3)
 
-#### 1865-10-04 &middot; Boston
+#### 1865-10-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3657,7 +3657,7 @@ But “build upon the sand.”
 
 ## [From _The Big blue union._](https://chroniclingamerica.loc.gov/lccn/sn84027640/1865-10-21/ed-1/seq-1)
 
-#### 1865-10-21 &middot; Marysville, Kan.
+#### 1865-10-21 &middot; [Marysville, Kan.](http://dbpedia.org/resource/Marysville%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3708,7 +3708,7 @@ But &quot;build upon the sand.
 
 ## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1865-11-08/ed-1/seq-1)
 
-#### 1865-11-08 &middot; Woodsfield, Ohio
+#### 1865-11-08 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3759,7 +3759,7 @@ But &quot;build upon the sand.&quot;
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45?page=5)
 
-#### 1865-11-09 &middot; New York
+#### 1865-11-09 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3793,7 +3793,7 @@ And built upon the sand
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45?page=5)
 
-#### 1865-11-09 &middot; New York
+#### 1865-11-09 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3848,7 +3848,7 @@ But build upon the sand
 
 ## [From _Daily Ohio statesman._](https://chroniclingamerica.loc.gov/lccn/sn84028645/1865-11-11/ed-1/seq-1)
 
-#### 1865-11-11 &middot; Columbus, Ohio
+#### 1865-11-11 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3900,7 +3900,7 @@ But &quot; build upon the sand.&quot;
 
 #### From _Milwaukee daily sentinel._
 
-#### 1865-12-23 &middot; [Milwaukee, Wis.]
+#### 1865-12-23 &middot; [[Milwaukee, Wis.]](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
@@ -3908,7 +3908,7 @@ But &quot; build upon the sand.&quot;
 
 ## [From _Charles City intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84038074/1866-01-18/ed-1/seq-1)
 
-#### 1866-01-18 &middot; Charles City, Floyd County, Iowa
+#### 1866-01-18 &middot; [Charles City, Floyd County, Iowa](http://dbpedia.org/resource/Charles_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3956,7 +3956,7 @@ But build u|mu the sand,&quot;
 
 ## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1866-02-10/ed-1/seq-1)
 
-#### 1866-02-10 &middot; Emporia, Kan.
+#### 1866-02-10 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4007,7 +4007,7 @@ But &quot;build upon the sinl.
 
 ## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051370/1866-03-24/ed-1/seq-4)
 
-#### 1866-03-24 &middot; Des Arc, Ark.
+#### 1866-03-24 &middot; [Des Arc, Ark.](http://dbpedia.org/resource/Des_Arc%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4057,7 +4057,7 @@ But’ &#x27;‘build upori the sand
 
 ## [From _Weekly Calaveras chronicle._](https://chroniclingamerica.loc.gov/lccn/sn93052977/1866-03-31/ed-1/seq-4)
 
-#### 1866-03-31 &middot; Mokelumne Hill, Calaveras County, Cal.
+#### 1866-03-31 &middot; [Mokelumne Hill, Calaveras County, Cal.](http://dbpedia.org/resource/Mokelumne_Hill%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4107,7 +4107,7 @@ Rut “ build upon the sand.
 
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1866-03-31/ed-1/seq-1)
 
-#### 1866-03-31 &middot; Ashtabula, Ohio
+#### 1866-03-31 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4157,7 +4157,7 @@ But &quot;build upon the sand.&quot;
 
 ## [From _The Plymouth weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056248/1866-04-05/ed-1/seq-1)
 
-#### 1866-04-05 &middot; Plymouth, Ind.
+#### 1866-04-05 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4207,7 +4207,7 @@ Must lend u helping hand
 
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1866-04-11/ed-1/seq-1)
 
-#### 1866-04-11 &middot; Warren, Ohio
+#### 1866-04-11 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4253,7 +4253,7 @@ But &quot;build upon the sand.&quot;
 
 ## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1866-04-20/ed-1/seq-4)
 
-#### 1866-04-20 &middot; Fremont, Sandusky County [Ohio]
+#### 1866-04-20 &middot; [Fremont, Sandusky County [Ohio]](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4303,7 +4303,7 @@ But &quot;build upon the sand
 
 ## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1866-04-25/ed-1/seq-1)
 
-#### 1866-04-25 &middot; Urbana, Ohio
+#### 1866-04-25 &middot; [Urbana, Ohio](http://dbpedia.org/resource/Urbana%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4354,7 +4354,7 @@ For those who think, yet fail to da,
 
 ## [From _Baton Rouge tri-weekly gazette & comet._](https://chroniclingamerica.loc.gov/lccn/sn86053661/1866-06-14/ed-1/seq-4)
 
-#### 1866-06-14 &middot; Baton Rouge, La.
+#### 1866-06-14 &middot; [Baton Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4404,7 +4404,7 @@ But &quot;build upon the sand.
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1866-07-03/ed-1/seq-4)
 
-#### 1866-07-03 &middot; Staunton, Va.
+#### 1866-07-03 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4454,7 +4454,7 @@ J&lt;or those who talk, yet fail to do,
 
 ## [From _Maryland free press._](https://chroniclingamerica.loc.gov/lccn/sn84026707/1866-07-05/ed-1/seq-1)
 
-#### 1866-07-05 &middot; Hagerstown [Md.]
+#### 1866-07-05 &middot; [Hagerstown [Md.]](http://dbpedia.org/resource/Hagerstown%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4506,7 +4506,7 @@ But &quot;build upuu the sund.
 
 #### From _Bangor daily Whig & courier._
 
-#### 1866-07-18 &middot; Bangor, Me.
+#### 1866-07-18 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
 
 [This text is not available under an open license.]
 
@@ -4516,7 +4516,7 @@ But &quot;build upuu the sund.
 
 #### From _Salt Lake daily telegraph._
 
-#### 1866-08-04 &middot; Great Salt Lake City, Utah
+#### 1866-08-04 &middot; [Great Salt Lake City, Utah](http://dbpedia.org/resource/Salt_Lake_City)
 
 [This text is not available under an open license.]
 
@@ -4526,7 +4526,7 @@ But &quot;build upuu the sund.
 
 #### From _The Semi-weekly telegraph._
 
-#### 1866-08-09 &middot; Great Salt Lake City, Utah
+#### 1866-08-09 &middot; [Great Salt Lake City, Utah](http://dbpedia.org/resource/Salt_Lake_City)
 
 [This text is not available under an open license.]
 
@@ -4534,7 +4534,7 @@ But &quot;build upuu the sund.
 
 ## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-09-01_18_17?page=10)
 
-#### 1866-09-01 &middot; St. Louis, Mo.
+#### 1866-09-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4601,7 +4601,7 @@ But “build upon the sand.”
 
 #### From _New Hampshire statesman._
 
-#### 1866-09-14 &middot; Concord [N.H.]
+#### 1866-09-14 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
 
@@ -4611,7 +4611,7 @@ But “build upon the sand.”
 
 #### From _Jackson's Oxford Journal_
 
-#### 1866-10-13 &middot; Oxford, England
+#### 1866-10-13 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -4619,7 +4619,7 @@ But “build upon the sand.”
 
 ## [From _The Carolina Spartan._](https://chroniclingamerica.loc.gov/lccn/sn83025802/1866-10-18/ed-1/seq-4)
 
-#### 1866-10-18 &middot; Spartanburg, S.C.
+#### 1866-10-18 &middot; [Spartanburg, S.C.](http://dbpedia.org/resource/Spartanburg%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4666,7 +4666,7 @@ But build upon the aand.&quot;
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1866-10-28/ed-1/seq-3)
 
-#### 1866-10-28 &middot; New York [N.Y.]
+#### 1866-10-28 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4716,7 +4716,7 @@ Bnf “build upon the sand.
 
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1866-11-09/ed-1/seq-1)
 
-#### 1866-11-09 &middot; Staunton, Va.
+#### 1866-11-09 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4767,7 +4767,7 @@ But “ build upon the sand.”
 
 ## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1866-11-24/ed-1/seq-1)
 
-#### 1866-11-24 &middot; Sunbury, Pa.
+#### 1866-11-24 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4817,7 +4817,7 @@ But &quot;build upon the sand.!
 
 ## [From _Weekly Calaveras chronicle._](https://chroniclingamerica.loc.gov/lccn/sn93052977/1866-12-29/ed-1/seq-1)
 
-#### 1866-12-29 &middot; Mokelumne Hill, Calaveras County, Cal.
+#### 1866-12-29 &middot; [Mokelumne Hill, Calaveras County, Cal.](http://dbpedia.org/resource/Mokelumne_Hill%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4891,7 +4891,7 @@ But “ build upon the sand.”
 
 ## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1867-01-04/ed-1/seq-3)
 
-#### 1867-01-04 &middot; Troy, Lincoln County, Mo.
+#### 1867-01-04 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4941,7 +4941,7 @@ flatt lend &#x27; helping&#x27; band
 
 ## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1867-01-19/ed-1/seq-3)
 
-#### 1867-01-19 &middot; Gold Hill, N.T. [Nev.]
+#### 1867-01-19 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4990,7 +4990,7 @@ But &quot; build upon the snnd.
 
 #### From _The Tumut and Adelong Times (NSW : 1864 - 1867; 1899 - 1950)_
 
-#### 1867-02-07 &middot; Tumut, New South Wales
+#### 1867-02-07 &middot; [Tumut, New South Wales](http://dbpedia.org/resource/Tumut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5035,7 +5035,7 @@ build upon the sand.&#x27; * ? Eiiza Cook
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
-#### 1867-02-09 &middot; Brisbane, Queensland
+#### 1867-02-09 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5078,7 +5078,7 @@ the sand.&quot; An Honest Tale speeds best,
 
 #### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
 
-#### 1867-03-14 &middot; Kiama, New South Wales
+#### 1867-03-14 &middot; [Kiama, New South Wales](http://dbpedia.org/resource/Kiama%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5116,7 +5116,7 @@ stop not
 
 #### From _The Hawaiian gazette._
 
-#### 1867-03-27 &middot; Honolulu [Oahu, Hawaii]
+#### 1867-03-27 &middot; [Honolulu [Oahu, Hawaii]](http://dbpedia.org/resource/Honolulu)
 
 [This text is not available under an open license.]
 
@@ -5124,7 +5124,7 @@ stop not
 
 ## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn84024207/1867-03-28/ed-1/seq-1)
 
-#### 1867-03-28 &middot; Lancaster, Ohio
+#### 1867-03-28 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5184,7 +5184,7 @@ For those who talk, yet fail to do,
 
 #### From _Adelaide Observer (SA : 1843 - 1904)_
 
-#### 1867-04-20 &middot; Adelaide, South Australia
+#### 1867-04-20 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5227,7 +5227,7 @@ the sand.
 
 #### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
 
-#### 1867-06-04 &middot; Bendigo, Victoria
+#### 1867-06-04 &middot; [Bendigo, Victoria](http://dbpedia.org/resource/Bendigo)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5269,7 +5269,7 @@ fail to do, But &quot;build upon the sand.&quot;
 
 #### From _Bunyip (Gawler, SA : 1863 - 1954)_
 
-#### 1867-07-13 &middot; Gawler, South Australia
+#### 1867-07-13 &middot; [Gawler, South Australia](http://dbpedia.org/resource/Gawler%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5311,7 +5311,7 @@ build upon the sand.
 
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1867-08-23/ed-1/seq-1)
 
-#### 1867-08-23 &middot; Bedford, Pa.
+#### 1867-08-23 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5361,7 +5361,7 @@ But &quot;build upon the sand.
 
 ## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1868-01-18/ed-1/seq-1)
 
-#### 1868-01-18 &middot; Opelousas, La.
+#### 1868-01-18 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5406,7 +5406,7 @@ Let deeds with language dwell ;
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1868-02-06/ed-1/seq-1)
 
-#### 1868-02-06 &middot; Woodstock, Va.
+#### 1868-02-06 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5456,7 +5456,7 @@ Have ■•built upon ttm siii 1.
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-02-15/ed-1/seq-1)
 
-#### 1868-02-15 &middot; Shepherdstown, Va. [W. Va.]
+#### 1868-02-15 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5506,7 +5506,7 @@ Have &quot;built upon the sand.&quot;
 
 ## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1868-12-09/ed-1/seq-1)
 
-#### 1868-12-09 &middot; Richmond, Va.
+#### 1868-12-09 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5556,7 +5556,7 @@ But “build upon the sand.
 
 ## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1868-12-29/ed-1/seq-4)
 
-#### 1868-12-29 &middot; Charlotte, N.C.
+#### 1868-12-29 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5607,7 +5607,7 @@ But &quot;&#x27;build upon the ?aud.
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1869-01-02/ed-1/seq-1)
 
-#### 1869-01-02 &middot; Shepherdstown, Va. [W. Va.]
+#### 1869-01-02 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5658,7 +5658,7 @@ But &quot;build upon the sand.&quot;
 
 ## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1869-02-20/ed-1/seq-1)
 
-#### 1869-02-20 &middot; Canton, Miss.
+#### 1869-02-20 &middot; [Canton, Miss.](http://dbpedia.org/resource/Canton%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5708,7 +5708,7 @@ But &quot; build upon the sand.
 
 ## [From _The weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn85042148/1869-03-24/ed-1/seq-3)
 
-#### 1869-03-24 &middot; Raleigh, N.C.
+#### 1869-03-24 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5758,7 +5758,7 @@ But &quot; bhild upon the sand.&quot;
 
 ## [From _The Orangeburg news._](https://chroniclingamerica.loc.gov/lccn/sn84026920/1869-04-24/ed-1/seq-1)
 
-#### 1869-04-24 &middot; Orangeburg, S.C.
+#### 1869-04-24 &middot; [Orangeburg, S.C.](http://dbpedia.org/resource/Orangeburg%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5808,7 +5808,7 @@ But &#x27;&#x27;build lipon the sand.
 
 ## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1869-05-06/ed-1/seq-1)
 
-#### 1869-05-06 &middot; Idaho City, Idaho Territory
+#### 1869-05-06 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5858,7 +5858,7 @@ But &quot;build upon the sand.
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1869-05-06/ed-1/seq-4)
 
-#### 1869-05-06 &middot; Staunton, Va.
+#### 1869-05-06 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5908,7 +5908,7 @@ But “build upon the sand.”
 
 ## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1869-06-05_2497?page=4)
 
-#### 1869-06-05 &middot; Philadelphia
+#### 1869-06-05 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5975,7 +5975,7 @@ But * build upon the sand.”
 
 ## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1869-06-11/ed-1/seq-4)
 
-#### 1869-06-11 &middot; Romney, Va. [W. Va.]
+#### 1869-06-11 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6026,7 +6026,7 @@ But “build upon the sand.
 
 ## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1870-01-19/ed-1/seq-4)
 
-#### 1870-01-19 &middot; Alexandria, D.C.
+#### 1870-01-19 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6079,7 +6079,7 @@ But &#x27;build upon the sand.
 
 #### From _Preston Chronicle_
 
-#### 1870-03-19 &middot; Preston, England
+#### 1870-03-19 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -6087,7 +6087,7 @@ But &#x27;build upon the sand.
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1872-08-06/ed-1/seq-1)
 
-#### 1872-08-06 &middot; Staunton, Va.
+#### 1872-08-06 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6113,7 +6113,7 @@ And built upon the sand.&quot;
 
 ## [From _Delaware Republican._](https://chroniclingamerica.loc.gov/lccn/sn87062253/1873-05-01/ed-1/seq-2)
 
-#### 1873-05-01 &middot; Wilmington, Del.
+#### 1873-05-01 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6158,7 +6158,7 @@ But &quot;build upon the sand.
 
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1874-02-12/ed-1/seq-4)
 
-#### 1874-02-12 &middot; Ellsworth, Me.
+#### 1874-02-12 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6208,7 +6208,7 @@ But “build upon the sand.
 
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1875-10-25/ed-1/seq-1)
 
-#### 1875-10-25 &middot; Charlotte, N.C.
+#### 1875-10-25 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6281,7 +6281,7 @@ But &quot;build upou .the sand.
 
 #### From _Southern Argus (Port Elliot, SA : 1866 - 1954)_
 
-#### 1875-10-28 &middot; Port Elliot, South Australia
+#### 1875-10-28 &middot; [Port Elliot, South Australia](http://dbpedia.org/resource/Port_Elliot%2C_South_Australia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6322,7 +6322,7 @@ the sand.
 
 ## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652?page=3)
 
-#### 1875-10-30
+#### 1875-10-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6389,7 +6389,7 @@ But “ build upon the sand.”’ E. C
 
 ## [From _The herald and mail._](https://chroniclingamerica.loc.gov/lccn/sn86053406/1875-11-19/ed-1/seq-1)
 
-#### 1875-11-19 &middot; Columbia, Tenn.
+#### 1875-11-19 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6439,7 +6439,7 @@ Eit build tion the sand.
 
 ## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1875-11-26/ed-1/seq-1)
 
-#### 1875-11-26 &middot; Deer Lodge, Mont.
+#### 1875-11-26 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6487,7 +6487,7 @@ Bat &quot; build upon the sand.
 
 ## [From _Bozeman avant courier._](https://chroniclingamerica.loc.gov/lccn/sn84038123/1875-12-10/ed-1/seq-4)
 
-#### 1875-12-10 &middot; Bozeman, Mont.
+#### 1875-12-10 &middot; [Bozeman, Mont.](http://dbpedia.org/resource/Bozeman%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6539,7 +6539,7 @@ But &#x27;build upon the send.
 
 ## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1875-12-11_41_1054?page=5)
 
-#### 1875-12-11 &middot; New York, N.Y.
+#### 1875-12-11 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6580,7 +6580,7 @@ can live ow dus
 
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1875-12-17/ed-1/seq-6)
 
-#### 1875-12-17 &middot; Jefferson City, Mo.
+#### 1875-12-17 &middot; [Jefferson City, Mo.](http://dbpedia.org/resource/Jefferson_City%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6630,7 +6630,7 @@ But &quot;bui.d upon the sand.
 
 ## [From _The weekly clarion._](https://chroniclingamerica.loc.gov/lccn/sn83016926/1875-12-22/ed-1/seq-1)
 
-#### 1875-12-22 &middot; Jackson, Miss.
+#### 1875-12-22 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6682,7 +6682,7 @@ Iut &#x27;&#x27;build upon the sand.
 
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-01-06/ed-1/seq-4)
 
-#### 1876-01-06 &middot; Anderson Court House, S.C.
+#### 1876-01-06 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6734,7 +6734,7 @@ But &quot;build upon the sand.
 
 #### From _Illawarra Mercury (Wollongong, NSW : 1856 - 1950)_
 
-#### 1876-01-07 &middot; Wollongong, New South Wales
+#### 1876-01-07 &middot; [Wollongong, New South Wales](http://dbpedia.org/resource/Wollongong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6780,7 +6780,7 @@ sand.&#x27; ?
 
 ## [From _Arizona citizen._](https://chroniclingamerica.loc.gov/lccn/sn82014896/1876-01-08/ed-1/seq-1)
 
-#### 1876-01-08 &middot; Tucson, Pima County, A.T. [i.e. Ariz.]
+#### 1876-01-08 &middot; [Tucson, Pima County, A.T. [i.e. Ariz.]](http://dbpedia.org/resource/Tucson%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6836,7 +6836,7 @@ But&quot; build upon the sand.&quot;
 
 ## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1876-01-08/ed-1/seq-1)
 
-#### 1876-01-08 &middot; Martinsburg, W. Va.
+#### 1876-01-08 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6888,7 +6888,7 @@ But “build upon the sand.’
 
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-01-13/ed-1/seq-1)
 
-#### 1876-01-13 &middot; Kenosha, Wis.
+#### 1876-01-13 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6938,7 +6938,7 @@ But ‘build upon the sand.”
 
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1876-01-19/ed-1/seq-6)
 
-#### 1876-01-19 &middot; Watertown, Wis.
+#### 1876-01-19 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6988,7 +6988,7 @@ But “ build upon the sand.
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1876-01-20/ed-1/seq-1)
 
-#### 1876-01-20 &middot; Staunton, Va.
+#### 1876-01-20 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7038,7 +7038,7 @@ B it “build upon the sand.’’
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1876-01-26/ed-1/seq-1)
 
-#### 1876-01-26 &middot; Smyrna, Del.
+#### 1876-01-26 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7126,7 +7126,7 @@ But &quot; build upon the sand.&quot;
 
 ## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1876-01-28/ed-1/seq-1)
 
-#### 1876-01-28 &middot; Independence, Iowa
+#### 1876-01-28 &middot; [Independence, Iowa](http://dbpedia.org/resource/Independence%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7223,7 +7223,7 @@ But &quot;build upon the sand.&quot;
 
 ## [From _The daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014805/1876-02-01/ed-1/seq-1)
 
-#### 1876-02-01 &middot; Wilmington, Del.
+#### 1876-02-01 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7263,7 +7263,7 @@ I
 
 ## [From _Silent World 1871-1876_](https://iiif.archivelab.org/iiif/sim_silent-world_1876-02-01_6_3?page=0)
 
-#### 1876-02-01
+#### 1876-02-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7328,7 +7328,7 @@ But ‘* build upon the sands.”
 
 ## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1876-02-10/ed-1/seq-1)
 
-#### 1876-02-10 &middot; Woodstock, Va.
+#### 1876-02-10 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7378,7 +7378,7 @@ But “build upon the sand.
 
 ## [From _The herald and mail._](https://chroniclingamerica.loc.gov/lccn/sn86053406/1876-02-18/ed-1/seq-3)
 
-#### 1876-02-18 &middot; Columbia, Tenn.
+#### 1876-02-18 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7404,7 +7404,7 @@ And &#x27;built upon the sand.&#x27;
 
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8?page=9)
 
-#### 1876-02-19 &middot; New York
+#### 1876-02-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7461,7 +7461,7 @@ Lut “build upon the sand.”
 
 ## [From _The daily free press._](https://chroniclingamerica.loc.gov/lccn/sn85025540/1876-02-23/ed-1/seq-1)
 
-#### 1876-02-23 &middot; Trenton, N.J.
+#### 1876-02-23 &middot; [Trenton, N.J.](http://dbpedia.org/resource/Trenton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7511,7 +7511,7 @@ But ‘&#x27;build upou the sand.&#x27;
 
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1876-02-26/ed-1/seq-1)
 
-#### 1876-02-26 &middot; Shepherdstown, Va. [W. Va.]
+#### 1876-02-26 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7562,7 +7562,7 @@ But &quot;build upon the sand.
 
 ## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1876-03-09/ed-1/seq-1)
 
-#### 1876-03-09 &middot; Jackson C.H., Ohio
+#### 1876-03-09 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7612,7 +7612,7 @@ But &quot;build upon the sand.
 
 ## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1876-03-11/ed-1/seq-4)
 
-#### 1876-03-11 &middot; Arizona City [Yuma], Yuma County, A.T. [Ariz.]
+#### 1876-03-11 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7662,7 +7662,7 @@ But &quot;build upon the Band.&quot;
 
 ## [From _Bristol news._](https://chroniclingamerica.loc.gov/lccn/sn85026955/1876-04-04/ed-1/seq-1)
 
-#### 1876-04-04 &middot; Bristol, Va. & Tenn.
+#### 1876-04-04 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7712,7 +7712,7 @@ But &quot;build upou the gaud,
 
 ## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1876-04-24/ed-1/seq-1)
 
-#### 1876-04-24 &middot; Barton, Vt.
+#### 1876-04-24 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7764,7 +7764,7 @@ But &quot;build Uion the sand.&quot;
 
 #### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
 
-#### 1876-05-20 &middot; Brisbane, Queensland
+#### 1876-05-20 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7807,7 +7807,7 @@ the sand. —Utlii&#x27;t Journal.
 
 #### From _The Riverine Grazier (Hay, NSW : 1873 - 1954)_
 
-#### 1876-05-24 &middot; Riverina Region, New South Wales
+#### 1876-05-24 &middot; [Riverina Region, New South Wales](http://dbpedia.org/resource/Hay%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7848,7 +7848,7 @@ the sand.&#x27;
 
 ## [From _The People's vindicator._](https://chroniclingamerica.loc.gov/lccn/sn85038558/1876-06-03/ed-1/seq-1)
 
-#### 1876-06-03 &middot; Natchitoches, La.
+#### 1876-06-03 &middot; [Natchitoches, La.](http://dbpedia.org/resource/Natchitoches%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7898,7 +7898,7 @@ rut &quot;Build upon the sand.&quot;
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1876-06-08_49_23?page=3)
 
-#### 1876-06-08 &middot; Boston
+#### 1876-06-08 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7926,7 +7926,7 @@ But “build upon the sand.
 
 ## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1876-06-09/ed-1/seq-5)
 
-#### 1876-06-09 &middot; Jefferson City, Mo.
+#### 1876-06-09 &middot; [Jefferson City, Mo.](http://dbpedia.org/resource/Jefferson_City%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7976,7 +7976,7 @@ But &quot;Build upon the sand.&quot;
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1876-06-16/ed-1/seq-1)
 
-#### 1876-06-16 &middot; Bel Air, Md.
+#### 1876-06-16 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8028,7 +8028,7 @@ But “build upon the sand.”
 
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
 
-#### 1876-07-22 &middot; Maitland, New South Wales
+#### 1876-07-22 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8064,7 +8064,7 @@ do, But &quot; build npoa the sand
 
 ## [From _The Morristown gazette._](https://chroniclingamerica.loc.gov/lccn/sn85033681/1876-12-06/ed-1/seq-1)
 
-#### 1876-12-06 &middot; Morristown, Tenn.
+#### 1876-12-06 &middot; [Morristown, Tenn.](http://dbpedia.org/resource/Morristown%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8114,7 +8114,7 @@ But &quot;build upon the aand.&quot;
 
 ## [From _The daily free press._](https://chroniclingamerica.loc.gov/lccn/sn85025540/1876-12-27/ed-1/seq-4)
 
-#### 1876-12-27 &middot; Trenton, N.J.
+#### 1876-12-27 &middot; [Trenton, N.J.](http://dbpedia.org/resource/Trenton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8164,7 +8164,7 @@ But &quot; build Upon the sand.
 
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1877-01-11/ed-1/seq-4)
 
-#### 1877-01-11 &middot; Yorkville, S.C.
+#### 1877-01-11 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8218,7 +8218,7 @@ But &quot;build upon the sand.
 
 #### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
 
-#### 1877-01-23 &middot; Kiama, New South Wales
+#### 1877-01-23 &middot; [Kiama, New South Wales](http://dbpedia.org/resource/Kiama%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8254,7 +8254,7 @@ do, BiiYf&quot;&#x27;buildupon the sand.
 
 ## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1877-01-27/ed-1/seq-1)
 
-#### 1877-01-27 &middot; Charlestown, Va. [W. Va.]
+#### 1877-01-27 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8307,7 +8307,7 @@ Hut “build upon the sand.
 
 #### From _Illustrated Sydney News and New South Wales Agriculturalist and Grazier (NSW : 1872 - 1881)_
 
-#### 1877-07-21 &middot; Sydney, New South Wales
+#### 1877-07-21 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8348,7 +8348,7 @@ the sand.&quot;
 
 ## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1877-12-13_50_50?page=3)
 
-#### 1877-12-13 &middot; Boston
+#### 1877-12-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8372,7 +8372,7 @@ But “build upon the sand.
 
 ## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1878-09-27/ed-1/seq-1)
 
-#### 1878-09-27 &middot; Rockville, Md.
+#### 1878-09-27 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8422,7 +8422,7 @@ But ‘ build upon the sand.
 
 ## [From _Louisiana capitolian._](https://chroniclingamerica.loc.gov/lccn/sn88064592/1880-06-17/ed-1/seq-1)
 
-#### 1880-06-17 &middot; Baton Rouge, La.
+#### 1880-06-17 &middot; [Baton Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8472,7 +8472,7 @@ But build upon the sand
 
 ## [From _Louisiana capitolian._](https://chroniclingamerica.loc.gov/lccn/sn88064592/1880-06-19/ed-1/seq-6)
 
-#### 1880-06-19 &middot; Baton Rouge, La.
+#### 1880-06-19 &middot; [Baton Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8522,7 +8522,7 @@ But buidl upon the sanl
 
 ## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1881-03-30/ed-1/seq-1)
 
-#### 1881-03-30 &middot; New Ulm, Minn.
+#### 1881-03-30 &middot; [New Ulm, Minn.](http://dbpedia.org/resource/New_Ulm%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8573,7 +8573,7 @@ But&quot; build upon the sand.
 
 ## [From _Western sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026526/1881-05-19/ed-1/seq-1)
 
-#### 1881-05-19 &middot; Winston [i.e. Winston-Salem], N.C.
+#### 1881-05-19 &middot; [Winston [i.e. Winston-Salem], N.C.](http://dbpedia.org/resource/Winston-Salem%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8624,7 +8624,7 @@ But &quot;build upon the sand.&quot;
 
 ## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1881-05-19/ed-1/seq-1)
 
-#### 1881-05-19 &middot; Staunton, Va.
+#### 1881-05-19 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8674,7 +8674,7 @@ But “build upon the sand.”
 
 ## [From _The Pioche weekly record._](https://chroniclingamerica.loc.gov/lccn/sn86091346/1881-05-21/ed-1/seq-3)
 
-#### 1881-05-21 &middot; Pioche, Nev.
+#### 1881-05-21 &middot; [Pioche, Nev.](http://dbpedia.org/resource/Pioche%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8692,7 +8692,7 @@ And morning brought the sun.
 
 ## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1882-01-24/ed-1/seq-1)
 
-#### 1882-01-24 &middot; Staunton, Va.
+#### 1882-01-24 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8730,7 +8730,7 @@ Beside his coffer chejttand own
 
 ## [From _Gloucester County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87068079/1882-03-16/ed-1/seq-1)
 
-#### 1882-03-16 &middot; Woodbury, N.J.
+#### 1882-03-16 &middot; [Woodbury, N.J.](http://dbpedia.org/resource/Woodbury%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8780,7 +8780,7 @@ But “ build upon the sand.
 
 ## [From _The Fairfield news and herald._](https://chroniclingamerica.loc.gov/lccn/2012218613/1882-03-29/ed-1/seq-1)
 
-#### 1882-03-29 &middot; Winnsboro, S.C.
+#### 1882-03-29 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8834,7 +8834,7 @@ JUut &quot; uuiiu upon me sana.
 
 ## [From _The Southern herald._](https://chroniclingamerica.loc.gov/lccn/sn87007277/1882-06-24/ed-1/seq-1)
 
-#### 1882-06-24 &middot; Liberty, Miss.
+#### 1882-06-24 &middot; [Liberty, Miss.](http://dbpedia.org/resource/Liberty%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8884,7 +8884,7 @@ But &quot; build upon the sand.
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1882-09-29/ed-1/seq-1)
 
-#### 1882-09-29 &middot; Bel Air, Md.
+#### 1882-09-29 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8936,7 +8936,7 @@ For those who talk, yet fall to do,
 
 #### From _Boston investigator._
 
-#### 1883-02-21 &middot; Boston, Mass.
+#### 1883-02-21 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -8944,7 +8944,7 @@ For those who talk, yet fall to do,
 
 ## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1883-06-13/ed-1/seq-1)
 
-#### 1883-06-13 &middot; Smyrna, Del.
+#### 1883-06-13 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8977,7 +8977,7 @@ But &quot;build upon the sand.
 
 ## [From _Lake Charles commercial._](https://chroniclingamerica.loc.gov/lccn/2013271051/1884-08-30/ed-1/seq-1)
 
-#### 1884-08-30 &middot; Lake Charles, Calcasieu Parish, La.
+#### 1884-08-30 &middot; [Lake Charles, Calcasieu Parish, La.](http://dbpedia.org/resource/Lake_Charles%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9027,7 +9027,7 @@ But &quot;build upon the sand.
 
 ## [From _Semi-weekly south Kentuckian._](https://chroniclingamerica.loc.gov/lccn/sn86069394/1884-11-14/ed-1/seq-4)
 
-#### 1884-11-14 &middot; Hopkinsville, Ky.
+#### 1884-11-14 &middot; [Hopkinsville, Ky.](http://dbpedia.org/resource/Hopkinsville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9077,7 +9077,7 @@ For there that talk, yet fail to do,
 
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1885-02-27/ed-1/seq-4)
 
-#### 1885-02-27 &middot; Bel Air, Md.
+#### 1885-02-27 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9127,7 +9127,7 @@ But “build upon the sand.
 
 ## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1885-07-30_56_31?page=5)
 
-#### 1885-07-30 &middot; New York
+#### 1885-07-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9159,7 +9159,7 @@ But build upon the sand
 
 ## [From _Practical Teacher: With Which Is Incorporated the Practical Teacher's Art Monthly 1881-1911_](https://iiif.archivelab.org/iiif/sim_practical-teacher-teachers-art-monthly_1885-08_5_6?page=36)
 
-#### 1885-08-01
+#### 1885-08-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9183,7 +9183,7 @@ And love /ink man to man.
 
 #### From _Daily evening bulletin._
 
-#### 1885-09-12 &middot; San Francisco [Calif.]
+#### 1885-09-12 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
 
@@ -9193,7 +9193,7 @@ And love /ink man to man.
 
 #### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
 
-#### 1885-09-12 &middot; Sydney, New South Wales
+#### 1885-09-12 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9234,7 +9234,7 @@ upon the sand.&quot; &#x27; , * - &#x27; , ELIZA COOK.
 
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13?page=3)
 
-#### 1885-10-31 &middot; Philadelphia
+#### 1885-10-31 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9329,7 +9329,7 @@ But “ build upon the sand.
 
 ## [From _Sword and shield._](https://chroniclingamerica.loc.gov/lccn/sn87065018/1885-11-14/ed-1/seq-1)
 
-#### 1885-11-14 &middot; Clinton, Miss.
+#### 1885-11-14 &middot; [Clinton, Miss.](http://dbpedia.org/resource/Clinton%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9381,7 +9381,7 @@ But &#x27; &#x27;build upon the sand. &#x27;
 
 #### From _Singleton Argus (NSW : 1880 - 1954) _
 
-#### 1885-12-05 &middot; Singleton, New South Wales
+#### 1885-12-05 &middot; [Singleton, New South Wales](http://dbpedia.org/resource/Singleton%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9423,7 +9423,7 @@ upon the sand.
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1885-12-23/ed-1/seq-3)
 
-#### 1885-12-23 &middot; Abbeville, S.C.
+#### 1885-12-23 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9474,7 +9474,7 @@ But &#x27;&#x27;build upon the sand.
 
 ## [From _The weekly Floridian._](https://chroniclingamerica.loc.gov/lccn/sn82015289/1885-12-31/ed-1/seq-1)
 
-#### 1885-12-31 &middot; Tallahassee, Fla.
+#### 1885-12-31 &middot; [Tallahassee, Fla.](http://dbpedia.org/resource/Tallahassee%2C_Florida)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9521,7 +9521,7 @@ But &quot; build upon the saud.
 
 ## [From _The pioneer express._](https://chroniclingamerica.loc.gov/lccn/sn88076741/1886-01-22/ed-1/seq-1)
 
-#### 1886-01-22 &middot; Pembina, Dakota [N.D.]
+#### 1886-01-22 &middot; [Pembina, Dakota [N.D.]](http://dbpedia.org/resource/Pembina%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9586,7 +9586,7 @@ But &quot;build upon the Band.
 
 #### From _Geelong Advertiser (Vic. : 1859 - 1924)_
 
-#### 1886-02-13 &middot; Geelong, Victoria
+#### 1886-02-13 &middot; [Geelong, Victoria](http://dbpedia.org/resource/Geelong)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9627,7 +9627,7 @@ those who talk, yet faTT to do. But
 
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1886-02-21/ed-1/seq-7)
 
-#### 1886-02-21 &middot; New York [N.Y.]
+#### 1886-02-21 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9677,7 +9677,7 @@ But “ build upon the sand.
 
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1886-03-31/ed-1/seq-8)
 
-#### 1886-03-31 &middot; Abbeville, S.C.
+#### 1886-03-31 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9730,7 +9730,7 @@ But &quot;build upon the sand.&quot;
 
 ## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1886-06-12/ed-1/seq-1)
 
-#### 1886-06-12 &middot; Lake Charles, Parish of Calcasieu, La.
+#### 1886-06-12 &middot; [Lake Charles, Parish of Calcasieu, La.](http://dbpedia.org/resource/Lake_Charles%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9774,7 +9774,7 @@ But &quot; build upon the
 
 ## [From _The Dawson journal._](https://chroniclingamerica.loc.gov/lccn/sn89053287/1886-08-05/ed-1/seq-4)
 
-#### 1886-08-05 &middot; Dawson, Ga.
+#### 1886-08-05 &middot; [Dawson, Ga.](http://dbpedia.org/resource/Dawson%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9804,7 +9804,7 @@ keep: “We have talked a goo
 
 ## [From _The Ouachita telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85034336/1886-08-21/ed-1/seq-4)
 
-#### 1886-08-21 &middot; Monroe, La.
+#### 1886-08-21 &middot; [Monroe, La.](http://dbpedia.org/resource/Monroe%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9856,7 +9856,7 @@ But &quot;build upon the sand.&quot;
 
 #### From _Bowral Free Press and Berrima District Intelligencer (NSW : 1884 - 1901)_
 
-#### 1887-01-29 &middot; Bowral, New South Wales
+#### 1887-01-29 &middot; [Bowral, New South Wales](http://dbpedia.org/resource/Bowral)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9899,7 +9899,7 @@ tho sand.&quot;
 
 #### From _Morning Oregonian._
 
-#### 1887-11-12 &middot; Portland, Or.
+#### 1887-11-12 &middot; [Portland, Or.](http://dbpedia.org/resource/Portland%2C_Oregon)
 
 [This text is not available under an open license.]
 
@@ -9909,7 +9909,7 @@ tho sand.&quot;
 
 #### From _Boston investigator._
 
-#### 1888-05-30 &middot; Boston, Mass.
+#### 1888-05-30 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
 
@@ -9917,7 +9917,7 @@ tho sand.&quot;
 
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn96091104/1891-05-22/ed-1/seq-1)
 
-#### 1891-05-22 &middot; Columbia, Tenn.
+#### 1891-05-22 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9992,7 +9992,7 @@ But &quot;build upon the Sand.
 
 #### From _Southern Cross (Adelaide, SA : 1889 - 1954)_
 
-#### 1892-06-24 &middot; Adelaide, South Australia
+#### 1892-06-24 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10035,7 +10035,7 @@ ilie sand.&quot;
 
 #### From _The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)_
 
-#### 1893-01-17 &middot; Kiama, New South Wales
+#### 1893-01-17 &middot; [Kiama, New South Wales](http://dbpedia.org/resource/Kiama%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10078,7 +10078,7 @@ the Sand.
 
 #### From _The Scrutineer and Berrima District Press (NSW : 1892 - 1948)_
 
-#### 1893-01-21 &middot; Moss Vale, New South Wales
+#### 1893-01-21 &middot; [Moss Vale, New South Wales](http://dbpedia.org/resource/Moss_Vale)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10113,7 +10113,7 @@ own ???*. &#x27;Tis &#x27; Built upon tho Sand.
 
 #### From _The Ulladulla and Milton Times (NSW : 1891 - 1917)_
 
-#### 1893-02-04 &middot; Milton, New South Wales
+#### 1893-02-04 &middot; [Milton, New South Wales](http://dbpedia.org/resource/Milton%2C_New_South_Wales)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10157,7 +10157,7 @@ the sand.
 
 #### From _Warwick Argus (Qld. : 1879 - 1901)_
 
-#### 1897-08-07 &middot; Warwick, Queensland
+#### 1897-08-07 &middot; [Warwick, Queensland](http://dbpedia.org/resource/Warwick%2C_Queensland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10200,7 +10200,7 @@ upon the sand.&quot; -ELIZA COOK
 
 #### From _Darling Downs Gazette (Qld. : 1881 - 1922)_
 
-#### 1897-08-14 &middot; Darling Downs, Queensland
+#### 1897-08-14 &middot; [Darling Downs, Queensland](http://dbpedia.org/resource/Darling_Downs)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10244,7 +10244,7 @@ the sand.&#x27; :._i : — Eliza Cook
 
 #### From _The Capricornian (Rockhampton, Qld. : 1875 - 1929)_
 
-#### 1897-08-28 &middot; Rockhampton, Queensland
+#### 1897-08-28 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10277,7 +10277,7 @@ who pitta i starving hirda The mercy
 
 ## [From _The Mt. Sterling advocate._](https://chroniclingamerica.loc.gov/lccn/sn86069675/1897-11-30/ed-1/seq-8)
 
-#### 1897-11-30 &middot; Mt. Sterling, Ky.
+#### 1897-11-30 &middot; [Mt. Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10350,7 +10350,7 @@ But build upon tho san
 
 #### From _The Hebrew Standard of Australasia (Sydney, NSW : 1895 - 1953)_
 
-#### 1897-12-10 &middot; Sydney, New South Wales
+#### 1897-12-10 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10392,7 +10392,7 @@ do. But &#x27; build upon the sand.&#x27; — Eliz
 
 ## [From _Audubon County journal._](https://chroniclingamerica.loc.gov/lccn/sn87057934/1898-01-27/ed-1/seq-3)
 
-#### 1898-01-27 &middot; Exira, Iowa
+#### 1898-01-27 &middot; [Exira, Iowa](http://dbpedia.org/resource/Exira%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
